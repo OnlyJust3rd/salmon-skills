@@ -1,0 +1,22 @@
+---
+type: "micro-skill"
+title: "Gain Requirement Evaluation"
+tags:
+  - "cpe"
+  - "micro-skill"
+source: "CPE 121 - Basic Circuits and Electronics"
+parent-macro: "Amplifier Design"
+parent-competency: "L5- Configuration Evaluation"
+---
+
+# Gain Requirement Evaluation
+
+Parent macro: [[skills/hardware-embedded/electronics-embedded/amplifier-design/amplifier-design|Amplifier Design]]
+
+Parent competency:
+
+- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L5-configuration-evaluation|L5- Configuration Evaluation]]
+
+## Description
+
+Judgment of configurations against desired amplification levels.

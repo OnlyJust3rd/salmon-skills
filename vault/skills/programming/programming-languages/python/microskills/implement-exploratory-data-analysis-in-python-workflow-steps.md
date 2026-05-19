@@ -1,0 +1,22 @@
+---
+type: "micro-skill"
+title: "Implement Exploratory Data Analysis in Python workflow steps"
+tags:
+  - "cpe"
+  - "micro-skill"
+source: "CPE 232 - Data Models"
+parent-macro: "Python"
+parent-competency: "L3- Implement Exploratory Data Analysis in Python"
+---
+
+# Implement Exploratory Data Analysis in Python workflow steps
+
+Parent macro: [[skills/programming/programming-languages/python/python|Python]]
+
+Parent competency:
+
+- [[skills/programming/programming-languages/python/competencies/L3-implement-exploratory-data-analysis-in-python|L3- Implement Exploratory Data Analysis in Python]]
+
+## Description
+
+Breaking down the task into concrete Python coding steps.

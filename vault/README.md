@@ -1,0 +1,157 @@
+
+# SALMON: Skill-Aligned Learning Map Ontology
+
+This vault is a typed learning knowledge graph for courses, careers, skills, competencies, microskills, and learning media.
+
+The main rules and schema live in [[ontology/v1.0/schemas|SALMON v1.0]]. Use the ontology when adding, moving, generating, or validating vault notes.
+
+## Quick Guide
+
+### `courses/`
+
+Course notes live here. A course note represents one curriculum unit and should use `type: "course"` in frontmatter.
+
+Use this folder for:
+
+- Course descriptions.
+- Course-level competencies.
+- Links from a course to its related skills.
+
+Expected pattern:
+
+```text
+courses/<institution>/<catalog-or-version>/<course-slug>.md
+```
+
+Course notes should link related skills under `## Macro Skills`.
+
+### `careers/`
+
+Career profile notes live here. A career note represents a role and the competencies required for that role. It should use `type: "career"` in frontmatter.
+
+Use this folder for:
+
+- Job or role profiles.
+- Required competency lists.
+- Career-to-competency links.
+- Redirect notes for aliases or renamed roles.
+
+Expected pattern:
+
+```text
+careers/<focus-area>/<career-slug>.md
+```
+
+Career notes should link required competencies under `## Required Competencies`.
+
+### `skills/`
+
+The skill graph lives here. This is the main structured knowledge area of the vault.
+
+Use this folder for:
+
+- Macro-skill notes.
+- Competency notes.
+- Microskill notes.
+
+Expected pattern:
+
+```text
+skills/<taxonomy-path>/<skill-name>/
+  <skill-name>.md
+  competencies/
+    <competency-slug>.md
+  microskills/
+    <microskill-slug>.md
+```
+
+Rules:
+
+- `<taxonomy-path>` may contain one or more nested folders.
+- The leaf folder and macro-skill note should share the same slug.
+- Macro-skill notes use `type: "macro-skill"`.
+- Competency notes use `type: "competency"`.
+- Microskill notes use `type: "micro-skill"`.
+- Competencies describe assessable learning outcomes.
+- Microskills describe focused knowledge, techniques, or behaviors that support competencies.
+
+### `mediums/`
+
+Learning content artifacts live here. These notes explain, demonstrate, or practice material from the skill graph.
+
+Use this folder for:
+
+- Generated explanations.
+- Examples.
+- Lessons.
+- Practice material.
+- Other learning artifacts connected to skills, competencies, or microskills.
+
+Expected pattern:
+
+```text
+mediums/<medium-kind>/<medium-slug>.md
+```
+
+Medium notes should link back to the most specific graph nodes they support, usually microskills or competencies.
+
+### `ontology/`
+
+Vault rules and schema live here. This folder is the authority for how the vault should be structured.
+
+Use this folder for:
+
+- Entity type definitions.
+- Relationship rules.
+- Frontmatter property rules.
+- Folder conventions.
+- Controlled vocabularies.
+- Validation rules.
+
+Current schema entrypoint:
+
+- [[ontology/v1.0/schemas|SALMON v1.0]]
+
+### `docs/`
+
+General documentation lives here when it is not itself part of the typed learning graph.
+
+Use this folder for:
+
+- Project documentation.
+- Process notes.
+- Import or generation instructions.
+- Human-facing reference material that does not belong in `courses/`, `careers/`, `skills/`, `mediums/`, or `ontology/`.
+
+### `.obsidian/`
+
+Obsidian workspace configuration lives here.
+
+Use this folder only for Obsidian settings, plugins, workspace state, and app configuration. Do not put graph content here.
+
+### `.trash/`
+
+Obsidian deleted-note storage lives here.
+
+Treat this as temporary recovery storage, not part of the graph.
+
+## Root Files
+
+Root-level `.base` files provide Obsidian database-style views over the graph.
+
+- [[Knowledge Graph Examples.base]]
+- [[Skill Structure Validation.base]]
+
+Root-level Markdown should be limited to entrypoints and high-level documentation.
+
+## Browse
+
+![[Knowledge Graph Examples.base]]
+
+## Main Views
+
+- [[Knowledge Graph Examples.base#Careers|Careers]]
+- [[Knowledge Graph Examples.base#Competencies|Competencies]]
+- [[Knowledge Graph Examples.base#Macro Skills|Macro Skills]]
+- [[Knowledge Graph Examples.base#Microskills|Microskills]]
+- [[Knowledge Graph Examples.base#Courses|Courses]]

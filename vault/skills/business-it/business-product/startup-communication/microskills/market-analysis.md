@@ -1,0 +1,22 @@
+---
+type: "micro-skill"
+title: "Market Analysis"
+tags:
+  - "cpe"
+  - "micro-skill"
+source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
+parent-macro: "Startup Communication"
+parent-competency: "L1- Pitch Deck Components"
+---
+
+# Market Analysis
+
+Parent macro: [[skills/business-it/business-product/startup-communication/startup-communication|Startup Communication]]
+
+Parent competency:
+
+- [[skills/business-it/business-product/startup-communication/competencies/L1-pitch-deck-components|L1- Pitch Deck Components]]
+
+## Description
+
+Describing the target audience and size.

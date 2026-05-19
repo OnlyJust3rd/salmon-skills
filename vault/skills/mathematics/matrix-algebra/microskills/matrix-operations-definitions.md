@@ -1,0 +1,22 @@
+---
+type: "micro-skill"
+title: "Matrix operations definitions"
+tags:
+  - "cpe"
+  - "micro-skill"
+source: "MTH 234 - Linear Algebra"
+parent-macro: "Matrix Algebra"
+parent-competency: "L2- Matrix Addition and Scalar Multiplication"
+---
+
+# Matrix operations definitions
+
+Parent macro: [[matrix-algebra|Matrix Algebra]]
+
+Parent competency:
+
+- [[L2-matrix-addition-and-scalar-multiplication|L2- Matrix Addition and Scalar Multiplication]]
+
+## Description
+
+Conceptual understanding of matrix addition and scalar multiplication.

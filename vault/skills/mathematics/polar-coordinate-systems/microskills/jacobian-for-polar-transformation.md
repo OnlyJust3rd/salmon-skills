@@ -1,0 +1,22 @@
+---
+type: "micro-skill"
+title: "Jacobian for polar transformation"
+tags:
+  - "cpe"
+  - "micro-skill"
+source: "MTH 102 - Mathematics II"
+parent-macro: "Polar Coordinate Systems"
+parent-competency: "L3- Convert Double Integral to Polar"
+---
+
+# Jacobian for polar transformation
+
+Parent macro: [[polar-coordinate-systems|Polar Coordinate Systems]]
+
+Parent competency:
+
+- [[L3-convert-double-integral-to-polar|L3- Convert Double Integral to Polar]]
+
+## Description
+
+Ability to determine the Jacobian for converting to polar coordinates.

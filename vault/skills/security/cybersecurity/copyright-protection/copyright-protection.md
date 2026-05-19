@@ -1,0 +1,78 @@
+---
+type: "macro-skill"
+title: "Copyright Protection"
+tags:
+  - "cpe"
+  - "macro-skill"
+source: "N/A - Cryptographic Techniques for Multimedia Communication"
+coverage:
+  - "Concept"
+  - "Representation"
+competency-count: 7
+microskill-count: 46
+related-jobs: []
+source-note: "courses/kmutt/cpe-2021/n-a-cryptographic-techniques-for-multimedia-communication"
+---
+
+# Copyright Protection
+
+Distinguishing between access control, use control, and digital watermarking as technical solutions for copyright protection. This includes classifying information hiding techniques (steganography vs. digital watermarking) and categorizing watermarking types (e.g., visible/invisible, robust/fragile, spatial/frequency domains).
+
+## Competencies
+
+- [[skills/security/cybersecurity/copyright-protection/competencies/L4-differentiate-copyright-protection-solutions|L4- Differentiate copyright protection solutions]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L4-analyze-watermark-types|L4- Analyze Watermark Types]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L4-analyze-watermarking-trade-offs|L4- Analyze Watermarking Trade-offs]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L5-evaluate-watermarking-performance|L5- Evaluate Watermarking Performance]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L1-define-copyright-protection-concepts|L1- Define Copyright Protection Concepts]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L2-explain-copyright-protection-concepts|L2- Explain Copyright Protection Concepts]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L3-apply-copyright-protection-techniques|L3- Apply Copyright Protection Techniques]]
+
+## Microskills
+
+- [[skills/security/cybersecurity/copyright-protection/microskills/access-control-application|Access Control Application]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/access-control-characteristics|Access Control Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/access-control-definition|Access Control Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/access-control-purpose|Access Control Purpose]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/copyright-material-safeguarding|Copyright Material Safeguarding]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-method-distinction|Copyright Protection Method Distinction]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-scenario-application|Copyright Protection Scenario Application]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-solution-functionalities|Copyright Protection Solution Functionalities]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-application|Digital Watermarking Application]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-categories-explanation|Digital Watermarking Categories Explanation]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-characteristics|Digital Watermarking Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-definition|Digital Watermarking Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-purpose|Digital Watermarking Purpose]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/distinctions-between-copyright-solutions|Distinctions between Copyright Solutions]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/fragile-watermark-characteristics|Fragile Watermark Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/fragile-watermarking-definition|Fragile Watermarking Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/frequency-domain-watermark-characteristics|Frequency Domain Watermark Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/frequency-domain-watermarking-definition|Frequency Domain Watermarking Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/imperceptibility-vs-capacity-trade-off|Imperceptibility vs. Capacity Trade-off]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/imperceptibility-vs-robustness-trade-off|Imperceptibility vs. Robustness Trade-off]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/information-hiding-technique-application|Information Hiding Technique Application]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/information-hiding-technique-classification|Information Hiding Technique Classification]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/invisible-watermark-characteristics|Invisible Watermark Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/invisible-watermarking-definition|Invisible Watermarking Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/mean-opinion-score-mos|Mean Opinion Score (MOS)]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/mean-squared-error-mse|Mean Squared Error (MSE)]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/peak-signal-to-noise-ratio-psnr|Peak Signal-to-Noise Ratio (PSNR)]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/robust-watermark-characteristics|Robust Watermark Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/robust-watermarking-definition|Robust Watermarking Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/robustness-vs-capacity-trade-off|Robustness vs. Capacity Trade-off]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/spatial-domain-watermark-characteristics|Spatial Domain Watermark Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/spatial-domain-watermarking-definition|Spatial Domain Watermarking Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/steganography-definition|Steganography Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/steganography-vs-digital-watermarking-distinction|Steganography vs. Digital Watermarking Distinction]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/structural-similarity-index-ssim|Structural Similarity Index (SSIM)]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/use-control-application|Use Control Application]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/use-control-characteristics|Use Control Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/use-control-definition|Use Control Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/use-control-purpose|Use Control Purpose]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/visible-watermark-characteristics|Visible Watermark Characteristics]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/visible-watermarking-definition|Visible Watermarking Definition]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/watermark-type-classification|Watermark Type Classification]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/watermarking-effectiveness-judgment|Watermarking Effectiveness Judgment]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/watermarking-performance-measurement|Watermarking Performance Measurement]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/watermarking-trade-off-interplay|Watermarking Trade-off Interplay]]
+- [[skills/security/cybersecurity/copyright-protection/microskills/watermarking-type-categorization|Watermarking Type Categorization]]

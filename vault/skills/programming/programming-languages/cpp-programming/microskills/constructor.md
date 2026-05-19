@@ -1,0 +1,22 @@
+---
+type: "micro-skill"
+title: "Constructor"
+tags:
+  - "cpe"
+  - "micro-skill"
+source: "Curriculum supplement - game development production skills"
+parent-macro: "C++ Programming"
+parent-competency: "L2- Explain C++ Syntax OOP and Memory Concepts"
+---
+
+# Constructor
+
+Parent macro: [[skills/programming/programming-languages/cpp-programming/cpp-programming|C++ Programming]]
+
+Parent competency:
+
+- [[skills/programming/programming-languages/cpp-programming/competencies/L2-explain-cpp-syntax-oop-and-memory-concepts|L2- Explain C++ Syntax OOP and Memory Concepts]]
+
+## Description
+
+Understanding object initialization behavior.

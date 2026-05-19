@@ -1,0 +1,22 @@
+---
+type: "micro-skill"
+title: "Virtual Network Management"
+tags:
+  - "cpe"
+  - "micro-skill"
+source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
+parent-macro: "System Virtualization"
+parent-competency: "L2- Virtual Resource Management"
+---
+
+# Virtual Network Management
+
+Parent macro: [[skills/cloud-devops/platform-engineering/system-virtualization/system-virtualization|System Virtualization]]
+
+Parent competency:
+
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-virtual-resource-management|L2- Virtual Resource Management]]
+
+## Description
+
+Understanding of how network resources are managed for virtual machines.

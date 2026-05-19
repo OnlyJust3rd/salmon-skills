@@ -1,0 +1,22 @@
+---
+type: "micro-skill"
+title: "Z-transform Zero Calculation"
+tags:
+  - "cpe"
+  - "micro-skill"
+source: "CPE 313 - Signals and Linear Systems"
+parent-macro: "Complex Frequency Domain Analysis"
+parent-competency: "L3- Apply Transform Calculations"
+---
+
+# Z-transform Zero Calculation
+
+Parent macro: [[complex-frequency-domain-analysis|Complex Frequency Domain Analysis]]
+
+Parent competency:
+
+- [[L3-apply-transform-calculations|L3- Apply Transform Calculations]]
+
+## Description
+
+Calculating zeros for given Z-transform functions.
