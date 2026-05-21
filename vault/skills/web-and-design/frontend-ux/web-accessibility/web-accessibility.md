@@ -1,17 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Web Accessibility"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - frontend web skills"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Frontend Developer"
-  - "Full Stack Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/frontend-ux/web-accessibility/competencies/L1-explain-web-accessibility-principles|L1-explain-web-accessibility-principles]]"
+standard-competency:
+  - "[[skills/web-and-design/frontend-ux/web-accessibility/competencies/L1-explain-web-accessibility-principles|L1-explain-web-accessibility-principles]]"
+microskills:
+  - "[[skills/web-and-design/frontend-ux/web-accessibility/microskills/accessible-presentation|accessible-presentation]]"
+  - "[[skills/web-and-design/frontend-ux/web-accessibility/microskills/keyboard-accessibility|keyboard-accessibility]]"
+  - "[[skills/web-and-design/frontend-ux/web-accessibility/microskills/semantic-accessibility|semantic-accessibility]]"
 ---
 
 # Web Accessibility
@@ -20,7 +22,7 @@ Principles for making web content and interfaces perceivable, operable, understa
 
 ## Competencies
 
-- [[skills/web-and-design/frontend-ux/web-accessibility/competencies/L2-explain-web-accessibility-principles|L2- Explain Web Accessibility Principles]]
+- [[skills/web-and-design/frontend-ux/web-accessibility/competencies/L1-explain-web-accessibility-principles|L2- Explain Web Accessibility Principles]]
 
 ## Microskills
 

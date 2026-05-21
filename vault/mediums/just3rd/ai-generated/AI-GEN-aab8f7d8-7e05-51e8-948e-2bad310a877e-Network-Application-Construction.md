@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/network-application-construction|Network Application Construction]]"
+  - "[[skills/systems/networking/socket-programming/microskills/network-application-construction|network-application-construction]]"
 ---
 # Network Application Construction
 

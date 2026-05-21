@@ -1,19 +1,51 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Operating System"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 333 - Operating Systems"
-coverage:
-  - "Concept"
-  - "Analysis"
-competency-count: 8
-microskill-count: 27
-related-jobs:
-  - "IT Support Specialist"
-  - "System Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-333-operating-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-define-os-terms|L1-define-os-terms]]"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-explain-system-software-interactions|L1-explain-system-software-interactions]]"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-i-o-integration-via-bus|L1-i-o-integration-via-bus]]"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-os-core-management-theory|L1-os-core-management-theory]]"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-os-resource-management|L1-os-resource-management]]"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-summarize-os-virtualization-purpose|L1-summarize-os-virtualization-purpose]]"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L2-utility-os-interaction|L2-utility-os-interaction]]"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L3-os-case-study-analysis|L3-os-case-study-analysis]]"
+standard-competency:
+  - "[[skills/systems/operating-systems/operating-system/competencies/L2-utility-os-interaction|L2-utility-os-interaction]]"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L3-os-case-study-analysis|L3-os-case-study-analysis]]"
+microskills:
+  - "[[skills/systems/operating-systems/operating-system/microskills/assembler-operations|assembler-operations]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/case-study-evaluation|case-study-evaluation]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/device-communication-principles|device-communication-principles]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/hierarchical-bus-structures|hierarchical-bus-structures]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/i-o-device-integration-principles|i-o-device-integration-principles]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/i-o-management-terms|i-o-management-terms]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/i-o-management-theories|i-o-management-theories]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/importance-of-memory-virtualization|importance-of-memory-virtualization]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/job-control-language-functionality|job-control-language-functionality]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/loader-and-linker-processes|loader-and-linker-processes]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-principles|memory-management-principles]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-strategies|memory-management-strategies]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-terms|memory-management-terms]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-sharing-mechanisms|memory-sharing-mechanisms]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-virtualization-goals|memory-virtualization-goals]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/operating-system-design-choices|operating-system-design-choices]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/operating-system-resource-concepts|operating-system-resource-concepts]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/operating-system-terminology|operating-system-terminology]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|os-service-utilization-by-utilities]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/process-definitions|process-definitions]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/process-management-concepts|process-management-concepts]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/process-management-strategies|process-management-strategies]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/program-execution-facilitation|program-execution-facilitation]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/system-resource-allocation|system-resource-allocation]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/system-software-workflow|system-software-workflow]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/thread-definitions|thread-definitions]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/utility-program-task-execution|utility-program-task-execution]]"
 ---
 
 # Operating System
@@ -22,13 +54,13 @@ Analyzing core operating system concepts including process management, memory ma
 
 ## Competencies
 
-- [[skills/systems/operating-systems/operating-system/competencies/L2-os-core-management-theory|L2- OS Core Management Theory]]
-- [[skills/systems/operating-systems/operating-system/competencies/L2-explain-system-software-interactions|L2- Explain system software interactions]]
-- [[skills/systems/operating-systems/operating-system/competencies/L2-os-resource-management|L2- OS Resource Management]]
-- [[skills/systems/operating-systems/operating-system/competencies/L3-utility-os-interaction|L3- Utility-OS Interaction]]
-- [[skills/systems/operating-systems/operating-system/competencies/L4-os-case-study-analysis|L4- OS Case Study Analysis]]
-- [[skills/systems/operating-systems/operating-system/competencies/L2-summarize-os-virtualization-purpose|L2- Summarize OS Virtualization Purpose]]
-- [[skills/systems/operating-systems/operating-system/competencies/L2-i-o-integration-via-bus|L2- I/O integration via bus]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-os-core-management-theory|L2- OS Core Management Theory]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-explain-system-software-interactions|L2- Explain system software interactions]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-os-resource-management|L2- OS Resource Management]]
+- [[skills/systems/operating-systems/operating-system/competencies/L2-utility-os-interaction|L3- Utility-OS Interaction]]
+- [[skills/systems/operating-systems/operating-system/competencies/L3-os-case-study-analysis|L4- OS Case Study Analysis]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-summarize-os-virtualization-purpose|L2- Summarize OS Virtualization Purpose]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-i-o-integration-via-bus|L2- I/O integration via bus]]
 - [[skills/systems/operating-systems/operating-system/competencies/L1-define-os-terms|L1- Define OS Terms]]
 
 ## Microskills

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/web-application-concept/microskills/client-versus-server-execution|Client versus server execution]]"
+  - "[[skills/web-and-design/frontend-ux/web-application-concept/microskills/client-versus-server-execution|client-versus-server-execution]]"
 ---
 # Where Does the Magic Happen? Client vs. Server Execution
 

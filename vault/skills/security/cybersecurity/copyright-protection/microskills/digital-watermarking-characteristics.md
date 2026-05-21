@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Digital Watermarking Characteristics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Copyright Protection"
-parent-competency: "L4- Differentiate copyright protection solutions"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/copyright-protection/competencies/L3-differentiate-copyright-protection-solutions|L3-differentiate-copyright-protection-solutions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Digital Watermarking Characteristics
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/copyright-protection/copyright-pro
 
 Parent competency:
 
-- [[skills/security/cybersecurity/copyright-protection/competencies/L4-differentiate-copyright-protection-solutions|L4- Differentiate copyright protection solutions]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L3-differentiate-copyright-protection-solutions|L4- Differentiate copyright protection solutions]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-regulation-issues|Power Regulation Issues]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-regulation-issues|power-regulation-issues]]"
 ---
 # Power Regulation Issues in Digital Circuits
 

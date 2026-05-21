@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-classification/microskills/recurrent-neural-network-rnn-principles|Recurrent Neural Network (RNN) Principles]]"
+  - "[[skills/data/data-science/text-classification/microskills/recurrent-neural-network-rnn-principles|recurrent-neural-network-rnn-principles]]"
 ---
 # Understanding Recurrent Neural Network (RNN) Principles
 

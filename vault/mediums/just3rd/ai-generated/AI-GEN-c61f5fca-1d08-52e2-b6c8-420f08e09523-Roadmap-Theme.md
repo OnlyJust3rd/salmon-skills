@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/product-strategy/microskills/roadmap-theme|Roadmap Theme]]"
+  - "[[skills/business-it/business-product/product-strategy/microskills/roadmap-theme|roadmap-theme]]"
 ---
 # Understanding Roadmap Themes
 

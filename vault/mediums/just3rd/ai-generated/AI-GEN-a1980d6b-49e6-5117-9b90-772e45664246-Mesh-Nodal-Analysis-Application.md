@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/mesh-nodal-analysis-application|Mesh/Nodal Analysis Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/mesh-nodal-analysis-application|mesh-nodal-analysis-application]]"
 ---
 # Applying Mesh and Nodal Analysis
 

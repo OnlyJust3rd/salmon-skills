@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/ethical-implications-of-hci|Ethical Implications of HCI]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/ethical-implications-of-hci|ethical-implications-of-hci]]"
 ---
 # Understanding Ethical Implications of Future Human-Computer Interaction
 

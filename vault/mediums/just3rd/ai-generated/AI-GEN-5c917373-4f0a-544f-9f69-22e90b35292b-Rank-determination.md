@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/rank-determination|Rank determination]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/rank-determination|rank-determination]]"
 ---
 # Rank Determination
 

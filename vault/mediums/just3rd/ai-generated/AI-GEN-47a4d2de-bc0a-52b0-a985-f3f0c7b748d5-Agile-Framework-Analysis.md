@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/agile-framework-analysis|Agile Framework Analysis]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/agile-framework-analysis|agile-framework-analysis]]"
 ---
 # Analyzing Agile Frameworks: Scrum, Kanban, and eXtreme Programming
 

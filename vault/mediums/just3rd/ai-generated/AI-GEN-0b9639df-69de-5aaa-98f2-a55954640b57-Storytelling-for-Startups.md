@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/storytelling-for-startups|Storytelling for Startups]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/storytelling-for-startups|storytelling-for-startups]]"
 ---
 # Storytelling for Startups: Weaving Your Startup's Narrative
 

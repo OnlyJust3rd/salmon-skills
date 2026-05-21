@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-computation|Row space computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-computation|row-space-computation]]"
 ---
 # Computing the Row Space of a Matrix
 

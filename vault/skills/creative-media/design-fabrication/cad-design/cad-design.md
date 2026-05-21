@@ -1,16 +1,28 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "CAD Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-coverage:
-  - "ToolUsage"
-competency-count: 3
-microskill-count: 10
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe101-computer-engineering-exploration"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/creative-media/design-fabrication/cad-design/competencies/L1-cad-tools-identification|L1-cad-tools-identification]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/competencies/L1-cad-modeling-principles|L1-cad-modeling-principles]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/competencies/L2-design-basic-components-for-prototyping|L2-design-basic-components-for-prototyping]]"
+standard-competency:
+  - "[[skills/creative-media/design-fabrication/cad-design/competencies/L2-design-basic-components-for-prototyping|L2-design-basic-components-for-prototyping]]"
+microskills:
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/2d-3d-model-creation-for-fabrication|2d-3d-model-creation-for-fabrication]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/2d-sketching-principles|2d-sketching-principles]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/3d-solid-modeling-principles|3d-solid-modeling-principles]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-software-application|cad-software-application]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-terminology|cad-terminology]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-tool-primary-functions|cad-tool-primary-functions]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/component-design-adherence-to-constraints|component-design-adherence-to-constraints]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/computer-aided-design-software|computer-aided-design-software]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/engineering-design-software-identification|engineering-design-software-identification]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/prototyping-part-design|prototyping-part-design]]"
 ---
 
 # CAD Design
@@ -20,8 +32,8 @@ Creating and manipulating digital 2D and 3D models for engineering applications 
 ## Competencies
 
 - [[skills/creative-media/design-fabrication/cad-design/competencies/L1-cad-tools-identification|L1- CAD Tools Identification]]
-- [[skills/creative-media/design-fabrication/cad-design/competencies/L2-cad-modeling-principles|L2- CAD Modeling Principles]]
-- [[skills/creative-media/design-fabrication/cad-design/competencies/L3-design-basic-components-for-prototyping|L3- Design Basic Components for Prototyping]]
+- [[skills/creative-media/design-fabrication/cad-design/competencies/L1-cad-modeling-principles|L2- CAD Modeling Principles]]
+- [[skills/creative-media/design-fabrication/cad-design/competencies/L2-design-basic-components-for-prototyping|L3- Design Basic Components for Prototyping]]
 
 ## Microskills
 

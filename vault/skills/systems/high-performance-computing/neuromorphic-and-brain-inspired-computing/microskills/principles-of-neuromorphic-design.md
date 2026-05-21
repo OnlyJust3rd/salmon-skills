@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Principles of Neuromorphic Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Neuromorphic and Brain-Inspired Computing"
-parent-competency: "L2- Explain Brain-Inspired Principles and Neuromorphic Characteristics"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/neuromorphic-and-brain-inspired-computing|neuromorphic-and-brain-inspired-computing]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/competencies/L1-explain-brain-inspired-principles-and-neuromorphic-characteristics|L1-explain-brain-inspired-principles-and-neuromorphic-characteristics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Principles of Neuromorphic Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/neuromorphic-and-brain
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/competencies/L2-explain-brain-inspired-principles-and-neuromorphic-characteristics|L2- Explain Brain-Inspired Principles and Neuromorphic Characteristics]]
+- [[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/competencies/L1-explain-brain-inspired-principles-and-neuromorphic-characteristics|L2- Explain Brain-Inspired Principles and Neuromorphic Characteristics]]
 
 ## Description
 

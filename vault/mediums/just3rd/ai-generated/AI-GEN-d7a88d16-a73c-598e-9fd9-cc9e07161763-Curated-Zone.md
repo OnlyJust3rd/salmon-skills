@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-lake/microskills/curated-zone|Curated Zone]]"
+  - "[[skills/data/data-platforms/data-lake/microskills/curated-zone|curated-zone]]"
 ---
 # Organizing Data in the Curated Zone
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/core-gameplay-mechanics|Core Gameplay Mechanics]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/core-gameplay-mechanics|core-gameplay-mechanics]]"
 ---
 # Understanding Core Gameplay Mechanics in Game Genres
 

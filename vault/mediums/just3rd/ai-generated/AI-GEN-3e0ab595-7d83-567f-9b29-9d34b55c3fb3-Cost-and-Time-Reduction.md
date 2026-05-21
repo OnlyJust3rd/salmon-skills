@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/cost-and-time-reduction|Cost and Time Reduction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/cost-and-time-reduction|cost-and-time-reduction]]"
 ---
 # Simulating Your Way to Success: Reducing Cost and Time
 

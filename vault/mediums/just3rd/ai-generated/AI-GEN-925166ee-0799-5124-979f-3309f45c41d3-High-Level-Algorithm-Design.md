@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/high-level-algorithm-design|High-Level Algorithm Design]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/high-level-algorithm-design|high-level-algorithm-design]]"
 ---
 # High-Level Algorithm Design: The Blueprint for Solutions
 

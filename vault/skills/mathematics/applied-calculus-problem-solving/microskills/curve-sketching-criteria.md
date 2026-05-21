@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Curve sketching criteria"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Applied Calculus Problem Solving"
-parent-competency: "L1- Recall calculus problem-solving components"
+  - "microskill"
+parent-skill: "[[skills/mathematics/applied-calculus-problem-solving/applied-calculus-problem-solving|applied-calculus-problem-solving]]"
+requires-in-competencies:
+  - "[[skills/mathematics/applied-calculus-problem-solving/competencies/L1-recall-calculus-problem-solving-components|L1-recall-calculus-problem-solving-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Curve sketching criteria
@@ -15,7 +17,7 @@ Parent macro: [[applied-calculus-problem-solving|Applied Calculus Problem Solvin
 
 Parent competency:
 
-- [[L1-recall-calculus-problem-solving-components|L1- Recall calculus problem-solving components]]
+- [[skills/mathematics/applied-calculus-problem-solving/competencies/L1-recall-calculus-problem-solving-components|L1- Recall calculus problem-solving components]]
 
 ## Description
 

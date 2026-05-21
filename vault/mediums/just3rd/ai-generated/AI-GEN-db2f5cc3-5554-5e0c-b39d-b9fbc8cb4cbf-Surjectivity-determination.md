@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/surjectivity-determination|Surjectivity determination]]"
+  - "[[skills/mathematics/linear-transformations/microskills/surjectivity-determination|surjectivity-determination]]"
 ---
 # Determining Surjectivity using the Range
 

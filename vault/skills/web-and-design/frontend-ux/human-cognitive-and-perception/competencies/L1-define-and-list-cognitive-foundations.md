@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and List Cognitive Foundations"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human Cognitive and Perception"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- UI Paradigm History & Identification"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-ui-paradigm-history-identification|L1-ui-paradigm-history-identification]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/human-cognitive-and-perception|human-cognitive-and-perception]]"
+requires-microskills:
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/cognitive-processes|cognitive-processes]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/memory-and-attention|memory-and-attention]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/sensory-inputs|sensory-inputs]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/sensory-processing|sensory-processing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and List Cognitive Foundations

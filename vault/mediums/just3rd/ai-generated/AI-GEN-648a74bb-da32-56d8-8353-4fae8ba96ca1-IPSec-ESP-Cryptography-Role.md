@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-esp-cryptography-role|IPSec (ESP) Cryptography Role]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-esp-cryptography-role|ipsec-esp-cryptography-role]]"
 ---
 # Understanding IPSec ESP's Role in Cryptography
 

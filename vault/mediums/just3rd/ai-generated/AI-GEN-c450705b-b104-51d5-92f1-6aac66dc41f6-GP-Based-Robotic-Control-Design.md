@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/gp-based-robotic-control-design|GP-Based Robotic Control Design]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/gp-based-robotic-control-design|gp-based-robotic-control-design]]"
 ---
 # GP-Based Robotic Control Design
 

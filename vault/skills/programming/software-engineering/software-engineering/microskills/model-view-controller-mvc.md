@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Model-View-Controller (MVC)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Engineering"
-parent-competency: "L2- Explore Modern Architectural Styles"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/software-engineering/software-engineering|software-engineering]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/software-engineering/competencies/L1-explore-modern-architectural-styles|L1-explore-modern-architectural-styles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Model-View-Controller (MVC)
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/software-engineering/sof
 
 Parent competency:
 
-- [[skills/programming/software-engineering/software-engineering/competencies/L2-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]]
+- [[skills/programming/software-engineering/software-engineering/competencies/L1-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/subspace-properties|Subspace properties]]"
+  - "[[skills/mathematics/vector-space/microskills/subspace-properties|subspace-properties]]"
 ---
 # Understanding Subspace Properties
 

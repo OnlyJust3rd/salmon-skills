@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cpu-vs-gpu-workload-fit|CPU vs GPU Workload Fit]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cpu-vs-gpu-workload-fit|cpu-vs-gpu-workload-fit]]"
 ---
 # CPU vs GPU Workload Fit: Throughput vs. Latency
 

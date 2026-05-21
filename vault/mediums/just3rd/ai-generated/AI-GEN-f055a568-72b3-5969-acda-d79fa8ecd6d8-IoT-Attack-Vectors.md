@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/iot-attack-vectors|IoT Attack Vectors]]"
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/iot-attack-vectors|iot-attack-vectors]]"
 ---
 # IoT Attack Vectors
 

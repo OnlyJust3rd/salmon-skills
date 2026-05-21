@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/branch-and-bound-definitions|Branch and Bound Definitions]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/branch-and-bound-definitions|branch-and-bound-definitions]]"
 ---
 # Branch and Bound: Fundamental Concepts
 

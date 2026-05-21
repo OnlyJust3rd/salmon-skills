@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/discrepancy-identification|Discrepancy Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/discrepancy-identification|discrepancy-identification]]"
 ---
 # Identifying Discrepancies in Proteus Simulations
 

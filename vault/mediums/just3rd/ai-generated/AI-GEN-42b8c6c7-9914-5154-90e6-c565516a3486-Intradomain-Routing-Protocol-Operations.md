@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/intradomain-routing-protocol-operations|Intradomain Routing Protocol Operations]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/intradomain-routing-protocol-operations|intradomain-routing-protocol-operations]]"
 ---
 # Illustrating Intradomain Routing Protocol Flow
 

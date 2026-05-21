@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-advantages|Analogue Scrambling Advantages]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-advantages|analogue-scrambling-advantages]]"
 ---
 # Advantages of Analogue Scrambling in Speech Security
 

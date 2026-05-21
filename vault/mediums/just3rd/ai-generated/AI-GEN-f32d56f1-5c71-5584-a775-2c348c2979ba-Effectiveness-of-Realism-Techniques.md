@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/effectiveness-of-realism-techniques|Effectiveness of Realism Techniques]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/effectiveness-of-realism-techniques|effectiveness-of-realism-techniques]]"
 ---
 # Evaluating the Effectiveness of Realism Techniques
 

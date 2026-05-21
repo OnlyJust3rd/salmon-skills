@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Route Selection"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Routing and Switching"
-parent-competency: "L3- Apply VLAN and IP Routing Configuration Concepts"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/routing-and-switching/routing-and-switching|routing-and-switching]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/routing-and-switching/competencies/L2-apply-vlan-and-ip-routing-configuration-concepts|L2-apply-vlan-and-ip-routing-configuration-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Route Selection
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/routing-and-switching/routing-and-swit
 
 Parent competency:
 
-- [[skills/systems/networking/routing-and-switching/competencies/L3-apply-vlan-and-ip-routing-configuration-concepts|L3- Apply VLAN and IP Routing Configuration Concepts]]
+- [[skills/systems/networking/routing-and-switching/competencies/L2-apply-vlan-and-ip-routing-configuration-concepts|L3- Apply VLAN and IP Routing Configuration Concepts]]
 
 ## Description
 

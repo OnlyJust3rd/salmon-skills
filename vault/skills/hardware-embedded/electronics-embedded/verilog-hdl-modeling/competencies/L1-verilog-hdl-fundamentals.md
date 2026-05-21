@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Verilog HDL Fundamentals"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Verilog HDL Modeling"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Sequential Components"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-define-sequential-components|L1-define-sequential-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/verilog-hdl-modeling|verilog-hdl-modeling]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-building-blocks|verilog-hdl-building-blocks]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-concepts|verilog-hdl-concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-keywords|verilog-hdl-keywords]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-syntax|verilog-hdl-syntax]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Verilog HDL Fundamentals

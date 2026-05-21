@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/modular-program-design/microskills/function-parameter-passing|Function parameter passing]]"
+  - "[[skills/programming/software-engineering/modular-program-design/microskills/function-parameter-passing|function-parameter-passing]]"
 ---
 # Function Parameter Passing in C
 

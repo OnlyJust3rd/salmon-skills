@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/historical-ui-evolution|Historical UI Evolution]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/historical-ui-evolution|historical-ui-evolution]]"
 ---
 # Historical UI Evolution
 

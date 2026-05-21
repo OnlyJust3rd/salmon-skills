@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/correctness-concept|Correctness Concept]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/correctness-concept|correctness-concept]]"
 ---
 # Ensuring Correctness in Problem Solving
 

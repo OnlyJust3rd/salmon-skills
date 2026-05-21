@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-hardware-challenges|Physical Hardware Challenges]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-hardware-challenges|physical-hardware-challenges]]"
 ---
 # Physical Hardware Challenges in Digital Circuits
 

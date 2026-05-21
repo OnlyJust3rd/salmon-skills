@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/real-world-dataset-representation|Real-World Dataset Representation]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/real-world-dataset-representation|real-world-dataset-representation]]"
 ---
 # Representing Real-World Data: A Practical Approach
 

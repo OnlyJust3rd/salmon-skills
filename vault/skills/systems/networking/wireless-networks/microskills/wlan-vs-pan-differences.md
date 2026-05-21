@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "WLAN vs. PAN Differences"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Wireless Networks"
-parent-competency: "L2- Differentiate and Describe WLAN/PANs"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/wireless-networks/wireless-networks|wireless-networks]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/wireless-networks/competencies/L1-differentiate-and-describe-wlan-pans|L1-differentiate-and-describe-wlan-pans]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # WLAN vs. PAN Differences
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/wireless-networks/wireless-networks|Wi
 
 Parent competency:
 
-- [[skills/systems/networking/wireless-networks/competencies/L2-differentiate-and-describe-wlan-pans|L2- Differentiate and Describe WLAN/PANs]]
+- [[skills/systems/networking/wireless-networks/competencies/L1-differentiate-and-describe-wlan-pans|L2- Differentiate and Describe WLAN/PANs]]
 
 ## Description
 

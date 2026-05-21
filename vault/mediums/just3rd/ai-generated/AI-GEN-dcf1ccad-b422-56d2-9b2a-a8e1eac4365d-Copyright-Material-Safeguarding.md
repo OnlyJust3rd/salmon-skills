@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/copyright-material-safeguarding|Copyright Material Safeguarding]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/copyright-material-safeguarding|copyright-material-safeguarding]]"
 ---
 # Safeguarding Your Copyrighted Material
 

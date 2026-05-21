@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/activation-function-identification|Activation function identification]]"
+  - "[[skills/data/ai/deep-learning/microskills/activation-function-identification|activation-function-identification]]"
 ---
 # Activation Functions in Neural Networks
 

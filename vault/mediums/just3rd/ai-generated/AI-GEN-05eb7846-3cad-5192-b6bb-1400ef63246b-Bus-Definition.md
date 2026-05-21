@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/bus-definition|Bus Definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/bus-definition|bus-definition]]"
 ---
 # Understanding Processor Buses
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|Cluster Middleware Components]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|cluster-middleware-components]]"
 ---
 # Understanding Cluster Middleware Components
 

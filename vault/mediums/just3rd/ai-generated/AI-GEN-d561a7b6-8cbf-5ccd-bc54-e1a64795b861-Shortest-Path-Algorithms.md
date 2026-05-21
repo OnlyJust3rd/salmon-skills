@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/shortest-path-algorithms|Shortest Path Algorithms]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/shortest-path-algorithms|shortest-path-algorithms]]"
 ---
 # Finding the Shortest Path: Dijkstra's Algorithm
 

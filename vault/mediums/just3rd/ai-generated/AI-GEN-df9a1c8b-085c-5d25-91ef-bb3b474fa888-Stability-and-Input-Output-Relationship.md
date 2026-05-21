@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/stability-and-input-output-relationship|Stability and Input-Output Relationship]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/stability-and-input-output-relationship|stability-and-input-output-relationship]]"
 ---
 # Stability and Input-Output Relationship
 

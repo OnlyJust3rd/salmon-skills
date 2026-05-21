@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|Mutual Exclusion Condition]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|mutual-exclusion-condition]]"
 ---
 # The Mutual Exclusion Condition
 

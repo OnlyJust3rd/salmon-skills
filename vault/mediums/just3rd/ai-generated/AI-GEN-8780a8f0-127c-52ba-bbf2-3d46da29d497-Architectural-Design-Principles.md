@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/architectural-design-principles|Architectural Design Principles]]"
-  - "[[skills/programming/software-engineering/software-engineering/microskills/architectural-design-principles|Architectural Design Principles]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/architectural-design-principles|architectural-design-principles]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/architectural-design-principles|architectural-design-principles]]"
 ---
 # Architectural Design Principles: Structure for Success
 

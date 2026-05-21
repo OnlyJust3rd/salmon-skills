@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-maintenance|Player Immersion Maintenance]]"
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-maintenance|player-immersion-maintenance]]"
 ---
 # Maintaining Player Immersion
 

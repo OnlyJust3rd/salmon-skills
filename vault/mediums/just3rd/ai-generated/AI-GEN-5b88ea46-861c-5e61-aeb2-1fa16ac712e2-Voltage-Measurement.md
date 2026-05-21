@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/voltage-measurement|Voltage Measurement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/voltage-measurement|voltage-measurement]]"
 ---
 # Measuring Voltage with a Digital Multimeter
 

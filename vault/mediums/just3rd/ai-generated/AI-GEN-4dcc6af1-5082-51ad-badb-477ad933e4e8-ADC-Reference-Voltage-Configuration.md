@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-reference-voltage-configuration|ADC Reference Voltage Configuration]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-reference-voltage-configuration|adc-reference-voltage-configuration]]"
 ---
 # ADC Reference Voltage Configuration
 

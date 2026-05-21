@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/digital-to-physical-prototyping|Digital-to-Physical Prototyping]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/digital-to-physical-prototyping|digital-to-physical-prototyping]]"
 ---
 # Digital-to-Physical Prototyping: Bringing Your Designs to Life
 

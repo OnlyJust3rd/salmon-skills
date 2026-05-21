@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/deadlock-avoidance-safety|Deadlock Avoidance Safety]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/deadlock-avoidance-safety|deadlock-avoidance-safety]]"
 ---
 # Understanding Deadlock Avoidance: Safety First
 

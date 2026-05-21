@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/fundamental-transformations|Fundamental Transformations]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/fundamental-transformations|fundamental-transformations]]"
 ---
 # Fundamental Geometric Transformations
 

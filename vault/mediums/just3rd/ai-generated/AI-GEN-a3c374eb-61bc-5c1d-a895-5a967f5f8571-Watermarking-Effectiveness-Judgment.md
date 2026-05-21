@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermarking-effectiveness-judgment|Watermarking Effectiveness Judgment]]"
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-effectiveness-judgment|Watermarking Effectiveness Judgment]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermarking-effectiveness-judgment|watermarking-effectiveness-judgment]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-effectiveness-judgment|watermarking-effectiveness-judgment]]"
 ---
 # Judging Watermarking Effectiveness
 

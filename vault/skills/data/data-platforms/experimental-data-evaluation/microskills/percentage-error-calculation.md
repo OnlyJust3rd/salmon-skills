@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Percentage Error Calculation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Experimental Data Evaluation"
-parent-competency: "L3- Compute and Report Percentage Error"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/experimental-data-evaluation/competencies/L2-compute-and-report-percentage-error|L2-compute-and-report-percentage-error]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Percentage Error Calculation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/experimental-data-evaluation/experime
 
 Parent competency:
 
-- [[skills/data/data-platforms/experimental-data-evaluation/competencies/L3-compute-and-report-percentage-error|L3- Compute and Report Percentage Error]]
+- [[skills/data/data-platforms/experimental-data-evaluation/competencies/L2-compute-and-report-percentage-error|L3- Compute and Report Percentage Error]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-visualization/microskills/data-insight-communication|Data Insight Communication]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/data-insight-communication|data-insight-communication]]"
 ---
 # Understanding Data Insight Communication Through Visualizations
 

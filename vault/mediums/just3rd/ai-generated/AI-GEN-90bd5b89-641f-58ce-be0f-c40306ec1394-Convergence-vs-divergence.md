@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/convergence-vs-divergence|Convergence vs divergence]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/convergence-vs-divergence|convergence-vs-divergence]]"
 ---
 # Convergence vs. Divergence of Improper Integrals
 

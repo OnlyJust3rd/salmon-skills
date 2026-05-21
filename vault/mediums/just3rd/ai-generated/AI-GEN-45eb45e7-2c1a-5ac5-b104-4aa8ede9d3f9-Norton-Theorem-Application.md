@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/norton-theorem-application|Norton Theorem Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/norton-theorem-application|norton-theorem-application]]"
 ---
 # Applying Norton's Theorem
 

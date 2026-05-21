@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/query-cost-driver|Query Cost Driver]]"
+  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/query-cost-driver|query-cost-driver]]"
 ---
 # Understanding Cloud Data Warehouse Query Cost Drivers
 

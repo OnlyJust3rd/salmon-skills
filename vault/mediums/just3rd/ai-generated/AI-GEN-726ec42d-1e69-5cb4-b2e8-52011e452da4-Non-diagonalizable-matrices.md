@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/non-diagonalizable-matrices|Non-diagonalizable matrices]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/non-diagonalizable-matrices|non-diagonalizable-matrices]]"
 ---
 # When Diagonalization Isn't Enough: Understanding the Jordan Canonical Form
 

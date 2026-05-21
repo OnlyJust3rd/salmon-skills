@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/embedded-system-simulation|Embedded System Simulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/embedded-system-simulation|embedded-system-simulation]]"
 ---
 # Simulating Embedded Systems in Tinkercad
 

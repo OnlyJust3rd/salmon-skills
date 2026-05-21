@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/image-segment-transformation|Image Segment Transformation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/image-segment-transformation|image-segment-transformation]]"
 ---
 # Applying the Discrete Cosine Transform (DCT) to Image Segments
 

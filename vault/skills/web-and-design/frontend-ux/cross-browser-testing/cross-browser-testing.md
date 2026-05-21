@@ -1,18 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cross-Browser Testing"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - frontend web skills"
-coverage:
-  - "Concept"
-  - "Evaluation"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Frontend Developer"
-  - "QA Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/competencies/L1-explain-cross-browser-compatibility-testing|L1-explain-cross-browser-compatibility-testing]]"
+standard-competency:
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/competencies/L1-explain-cross-browser-compatibility-testing|L1-explain-cross-browser-compatibility-testing]]"
+microskills:
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/compatibility-test-matrix|compatibility-test-matrix]]"
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/javascript-compatibility|javascript-compatibility]]"
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/rendering-compatibility|rendering-compatibility]]"
 ---
 
 # Cross-Browser Testing
@@ -21,7 +22,7 @@ Testing web interfaces across browsers and environments to identify compatibilit
 
 ## Competencies
 
-- [[skills/web-and-design/frontend-ux/cross-browser-testing/competencies/L2-explain-cross-browser-compatibility-testing|L2- Explain Cross-Browser Compatibility Testing]]
+- [[skills/web-and-design/frontend-ux/cross-browser-testing/competencies/L1-explain-cross-browser-compatibility-testing|L2- Explain Cross-Browser Compatibility Testing]]
 
 ## Microskills
 

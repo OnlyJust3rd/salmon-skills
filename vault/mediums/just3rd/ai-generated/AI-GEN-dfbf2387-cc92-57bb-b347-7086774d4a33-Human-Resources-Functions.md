@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/human-resources-functions|Human Resources Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/human-resources-functions|human-resources-functions]]"
 ---
 # Understanding Human Resources (HR) Functions
 

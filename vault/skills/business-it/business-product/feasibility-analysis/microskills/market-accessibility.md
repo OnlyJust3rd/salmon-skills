@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Market Accessibility"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Feasibility Analysis"
-parent-competency: "L1- Market Feasibility Factors"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/feasibility-analysis/competencies/L1-market-feasibility-factors|L1-market-feasibility-factors]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Market Accessibility

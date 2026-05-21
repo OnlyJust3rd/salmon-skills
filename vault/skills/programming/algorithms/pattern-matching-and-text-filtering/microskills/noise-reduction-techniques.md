@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Noise Reduction Techniques"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Pattern Matching and Text Filtering"
-parent-competency: "L3- Implement Noise Removal"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/pattern-matching-and-text-filtering/pattern-matching-and-text-filtering|pattern-matching-and-text-filtering]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L2-implement-noise-removal|L2-implement-noise-removal]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Noise Reduction Techniques
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/pattern-matching-and-text-filterin
 
 Parent competency:
 
-- [[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L3-implement-noise-removal|L3- Implement Noise Removal]]
+- [[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L2-implement-noise-removal|L3- Implement Noise Removal]]
 
 ## Description
 

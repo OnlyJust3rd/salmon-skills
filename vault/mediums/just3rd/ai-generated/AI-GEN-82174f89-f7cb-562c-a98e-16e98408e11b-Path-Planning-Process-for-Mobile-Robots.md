@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/path-planning-process-for-mobile-robots|Path Planning Process for Mobile Robots]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/path-planning-process-for-mobile-robots|path-planning-process-for-mobile-robots]]"
 ---
 # The Path Planning Process for Mobile Robots
 

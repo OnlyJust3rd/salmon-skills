@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/next-generation-ip-addressing|Next Generation IP Addressing]]"
+  - "[[skills/systems/networking/network-layer/microskills/next-generation-ip-addressing|next-generation-ip-addressing]]"
 ---
 # Next Generation IP Addressing: Understanding IPv6
 

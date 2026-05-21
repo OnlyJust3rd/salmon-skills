@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/process-management-strategies|Process Management Strategies]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/process-management-strategies|process-management-strategies]]"
 ---
 # Analyzing Process Management Strategies
 

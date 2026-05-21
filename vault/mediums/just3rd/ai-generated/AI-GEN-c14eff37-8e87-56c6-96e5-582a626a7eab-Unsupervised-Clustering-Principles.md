@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/unsupervised-clustering-principles|Unsupervised Clustering Principles]]"
+  - "[[skills/data/data-science/text-clustering/microskills/unsupervised-clustering-principles|unsupervised-clustering-principles]]"
 ---
 # Understanding Unsupervised Clustering Principles
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/fundamental-processor-components|Fundamental Processor Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/fundamental-processor-components|fundamental-processor-components]]"
 ---
 # Fundamental Processor Components
 

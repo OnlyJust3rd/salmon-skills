@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/real-time-decision-making-in-iot|Real-time Decision-Making in IoT]]"
+  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/real-time-decision-making-in-iot|real-time-decision-making-in-iot]]"
 ---
 # Real-time Decision-Making at the Edge
 

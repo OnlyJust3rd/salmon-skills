@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/neighborhood-kernels|Neighborhood Kernels]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/neighborhood-kernels|neighborhood-kernels]]"
 ---
 # Neighborhood Kernels in Image Processing
 

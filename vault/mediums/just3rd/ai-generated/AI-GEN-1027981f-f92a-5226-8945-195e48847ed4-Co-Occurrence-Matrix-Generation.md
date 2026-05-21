@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/co-occurrence-matrix-generation|Co-Occurrence Matrix Generation]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/co-occurrence-matrix-generation|co-occurrence-matrix-generation]]"
 ---
 # Generating Co-Occurrence Matrices
 

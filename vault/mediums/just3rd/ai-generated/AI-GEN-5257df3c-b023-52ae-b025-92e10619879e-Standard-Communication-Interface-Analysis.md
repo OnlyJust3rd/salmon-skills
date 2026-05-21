@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/standard-communication-interface-analysis|Standard Communication Interface Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/standard-communication-interface-analysis|standard-communication-interface-analysis]]"
 ---
 # Standard Communication Interface Analysis: Serial vs. Parallel
 

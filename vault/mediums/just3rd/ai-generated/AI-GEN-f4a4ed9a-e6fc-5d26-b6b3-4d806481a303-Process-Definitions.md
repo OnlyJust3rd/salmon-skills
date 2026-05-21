@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/process-definitions|Process Definitions]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/process-definitions|process-definitions]]"
 ---
 # Understanding Processes in Operating Systems
 

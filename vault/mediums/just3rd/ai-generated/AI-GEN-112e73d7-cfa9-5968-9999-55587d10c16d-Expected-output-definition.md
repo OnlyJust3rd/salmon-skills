@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/expected-output-definition|Expected output definition]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/expected-output-definition|expected-output-definition]]"
 ---
 # Defining Expected Outputs for Test Cases
 

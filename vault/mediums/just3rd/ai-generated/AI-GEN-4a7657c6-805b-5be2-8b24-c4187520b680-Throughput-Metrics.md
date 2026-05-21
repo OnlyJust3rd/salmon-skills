@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/throughput-metrics|Throughput Metrics]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/throughput-metrics|throughput-metrics]]"
 ---
 # Analyzing Disk Scheduling Throughput
 

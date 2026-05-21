@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscillator-basic-operations|Oscillator Basic Operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscillator-basic-operations|oscillator-basic-operations]]"
 ---
 # Understanding Oscillator Basic Operations
 

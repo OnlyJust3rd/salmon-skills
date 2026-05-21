@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List and Define Geometric Primitives"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Geometric Representation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and Represent Systems"
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1-define-and-represent-systems]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/graphics-media/geometric-representation/geometric-representation|geometric-representation]]"
+requires-microskills:
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/basic-geometric-primitives|basic-geometric-primitives]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/mathematical-definitions|mathematical-definitions]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/points-and-lines|points-and-lines]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/polygons|polygons]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List and Define Geometric Primitives
@@ -25,7 +28,7 @@ List and define basic geometric primitives used in computer graphics, such as po
 
 ## Strict Prerequisites
 
-- [[L1-define-and-represent-systems|L1- Define and Represent Systems]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1- Define and Represent Systems]]
 
 ## Optional Prerequisites
 

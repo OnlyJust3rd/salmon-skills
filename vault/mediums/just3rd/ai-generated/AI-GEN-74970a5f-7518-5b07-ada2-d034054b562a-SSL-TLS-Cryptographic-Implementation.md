@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ssl-tls-cryptographic-implementation|SSL/TLS Cryptographic Implementation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ssl-tls-cryptographic-implementation|ssl-tls-cryptographic-implementation]]"
 ---
 # SSL/TLS Cryptographic Implementation: A Closer Look
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvector-computation|Eigenvector computation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvector-computation|eigenvector-computation]]"
 ---
 # Eigenvector Computation: Finding the Direction of Transformation
 

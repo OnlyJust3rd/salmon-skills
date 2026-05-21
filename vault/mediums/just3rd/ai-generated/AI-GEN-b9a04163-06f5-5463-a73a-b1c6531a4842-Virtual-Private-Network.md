@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/virtual-private-network|Virtual Private Network]]"
+  - "[[skills/systems/networking/network-layer/microskills/virtual-private-network|virtual-private-network]]"
 ---
 # Understanding Virtual Private Networks (VPNs)
 

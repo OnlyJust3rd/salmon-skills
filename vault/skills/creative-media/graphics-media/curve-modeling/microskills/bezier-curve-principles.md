@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Bézier Curve Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Curve Modeling"
-parent-competency: "L2- Describe Parametric Representation and Bézier Curves"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/curve-modeling/curve-modeling|curve-modeling]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/curve-modeling/competencies/L1-describe-parametric-representation-and-bezier-curves|L1-describe-parametric-representation-and-bezier-curves]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Bézier Curve Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/curve-modeling/curve-modeli
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/curve-modeling/competencies/L2-describe-parametric-representation-and-bezier-curves|L2- Describe Parametric Representation and Bézier Curves]]
+- [[skills/creative-media/graphics-media/curve-modeling/competencies/L1-describe-parametric-representation-and-bezier-curves|L2- Describe Parametric Representation and Bézier Curves]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Partial derivative rules"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Derivative Computation and Analysis"
-parent-competency: "L1- Recall derivative rules"
+  - "microskill"
+parent-skill: "[[skills/mathematics/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L1-recall-derivative-rules|L1-recall-derivative-rules]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Partial derivative rules
@@ -15,7 +17,7 @@ Parent macro: [[derivative-computation-and-analysis|Derivative Computation and A
 
 Parent competency:
 
-- [[L1-recall-derivative-rules|L1- Recall derivative rules]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L1-recall-derivative-rules|L1- Recall derivative rules]]
 
 ## Description
 

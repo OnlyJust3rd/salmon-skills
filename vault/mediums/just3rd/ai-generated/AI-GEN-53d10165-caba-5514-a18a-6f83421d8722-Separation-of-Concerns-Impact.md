@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/separation-of-concerns-impact|Separation of Concerns Impact]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/separation-of-concerns-impact|separation-of-concerns-impact]]"
 ---
 # Understanding the Impact of Separation of Concerns on System Design
 

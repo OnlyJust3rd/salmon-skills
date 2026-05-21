@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/confidentiality-clause-purpose|Confidentiality Clause Purpose]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/confidentiality-clause-purpose|confidentiality-clause-purpose]]"
 ---
 # Understanding the Purpose of Confidentiality Clauses
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/edge-computing-ai-tasks|Edge Computing AI Tasks]]"
+  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/edge-computing-ai-tasks|edge-computing-ai-tasks]]"
 ---
 # Executing AI Tasks at the Edge
 

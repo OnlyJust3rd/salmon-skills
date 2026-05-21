@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/lean-startup-hypothesis-validation|Lean Startup Hypothesis Validation]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/lean-startup-hypothesis-validation|lean-startup-hypothesis-validation]]"
 ---
 # Understanding Hypothesis Validation Through Solution Interviews and Testing
 

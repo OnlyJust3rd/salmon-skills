@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-benefits-explanation|Design Pattern Benefits Explanation]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-benefits-explanation|design-pattern-benefits-explanation]]"
 ---
 # Benefits of Design Patterns
 

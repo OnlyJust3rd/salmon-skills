@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Bundling and Compilation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - frontend web skills"
-parent-macro: "Client-Side Web Tooling"
-parent-competency: "L2- Explain Package Management and Build Tooling"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/client-side-web-tooling/client-side-web-tooling|client-side-web-tooling]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/client-side-web-tooling/competencies/L1-explain-package-management-and-build-tooling|L1-explain-package-management-and-build-tooling]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Bundling and Compilation
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/client-side-web-tooling/client
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/client-side-web-tooling/competencies/L2-explain-package-management-and-build-tooling|L2- Explain Package Management and Build Tooling]]
+- [[skills/web-and-design/frontend-ux/client-side-web-tooling/competencies/L1-explain-package-management-and-build-tooling|L2- Explain Package Management and Build Tooling]]
 
 ## Description
 

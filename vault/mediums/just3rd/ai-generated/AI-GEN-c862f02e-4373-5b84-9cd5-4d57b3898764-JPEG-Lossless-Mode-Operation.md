@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-lossless-mode-operation|JPEG Lossless Mode Operation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-lossless-mode-operation|jpeg-lossless-mode-operation]]"
 ---
 # Understanding JPEG Lossless Mode Operation
 

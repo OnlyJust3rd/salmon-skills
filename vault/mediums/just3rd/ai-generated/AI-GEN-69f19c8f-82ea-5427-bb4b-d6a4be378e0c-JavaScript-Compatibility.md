@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/javascript-compatibility|JavaScript Compatibility]]"
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/javascript-compatibility|javascript-compatibility]]"
 ---
 # Understanding JavaScript Compatibility Across Browsers
 

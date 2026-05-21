@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-algorithm-efficiency|Disk Scheduling Algorithm Efficiency]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-algorithm-efficiency|disk-scheduling-algorithm-efficiency]]"
 ---
 # Analyzing Disk Scheduling Algorithm Efficiency
 

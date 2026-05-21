@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Problem Solving with Reactive Control"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Robotics"
-parent-competency: "L3- Apply Reactive Control Principles"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotics/robotics|robotics]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L2-apply-reactive-control-principles|L2-apply-reactive-control-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Problem Solving with Reactive Control
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/robotics/robotics|
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/robotics/competencies/L3-apply-reactive-control-principles|L3- Apply Reactive Control Principles]]
+- [[skills/hardware-embedded/electronics-embedded/robotics/competencies/L2-apply-reactive-control-principles|L3- Apply Reactive Control Principles]]
 
 ## Description
 

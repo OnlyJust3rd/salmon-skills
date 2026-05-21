@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/virtual-private-cloud|Virtual Private Cloud]]"
+  - "[[skills/systems/networking/network-layer/microskills/virtual-private-cloud|virtual-private-cloud]]"
 ---
 # Understanding Virtual Private Cloud (VPC) Purpose
 

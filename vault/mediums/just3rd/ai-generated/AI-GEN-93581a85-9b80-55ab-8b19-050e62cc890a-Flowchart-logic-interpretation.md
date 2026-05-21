@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/flowchart-logic-interpretation|Flowchart logic interpretation]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/flowchart-logic-interpretation|flowchart-logic-interpretation]]"
 ---
 # Understanding Flowchart Logic
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/curve-sketching-criteria|Curve sketching criteria]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/curve-sketching-criteria|curve-sketching-criteria]]"
 ---
 # Curve Sketching Criteria: The Essential Checklist
 

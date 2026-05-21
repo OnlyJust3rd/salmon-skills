@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Basis impact on transformation representation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Vector Space"
-parent-competency: "L2- Role of Bases in Representations"
+  - "microskill"
+parent-skill: "[[skills/mathematics/vector-space/vector-space|vector-space]]"
+requires-in-competencies:
+  - "[[skills/mathematics/vector-space/competencies/L1-role-of-bases-in-representations|L1-role-of-bases-in-representations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Basis impact on transformation representation
@@ -15,7 +17,7 @@ Parent macro: [[vector-space|Vector Space]]
 
 Parent competency:
 
-- [[L2-role-of-bases-in-representations|L2- Role of Bases in Representations]]
+- [[skills/mathematics/vector-space/competencies/L1-role-of-bases-in-representations|L2- Role of Bases in Representations]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/strategy-selection|Strategy Selection]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/strategy-selection|strategy-selection]]"
 ---
 # Strategy Selection: Picking the Right Algorithm Approach
 

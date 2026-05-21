@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/i2c-sensor-interfacing|I2C Sensor Interfacing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/i2c-sensor-interfacing|i2c-sensor-interfacing]]"
 ---
 # I2C Sensor Interfacing with AVR Microcontrollers
 

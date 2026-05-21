@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/promises-and-async-functions|Promises and async functions]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/promises-and-async-functions|promises-and-async-functions]]"
 ---
 # Promises and Async Functions: Chaining Asynchronous Results
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/analog-digital-signal-relationship|Analog-Digital Signal Relationship]]"
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/analog-digital-signal-relationship|analog-digital-signal-relationship]]"
 ---
 # Understanding the Analog-Digital Signal Relationship
 

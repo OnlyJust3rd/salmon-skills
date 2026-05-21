@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/perspective-projection|Perspective Projection]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/perspective-projection|perspective-projection]]"
 ---
 # Understanding Perspective Projection
 

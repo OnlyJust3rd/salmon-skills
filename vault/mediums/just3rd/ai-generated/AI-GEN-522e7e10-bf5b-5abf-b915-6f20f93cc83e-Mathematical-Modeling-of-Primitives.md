@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/mathematical-modeling-of-primitives|Mathematical Modeling of Primitives]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/mathematical-modeling-of-primitives|mathematical-modeling-of-primitives]]"
 ---
 # Mathematical Modeling of Primitives
 

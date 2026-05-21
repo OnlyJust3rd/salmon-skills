@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-zig-zag-scan-purpose|JPEG Zig-zag Scan Purpose]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-zig-zag-scan-purpose|jpeg-zig-zag-scan-purpose]]"
 ---
 # The Zig-zag Scan: Making JPEG Compression Efficient
 

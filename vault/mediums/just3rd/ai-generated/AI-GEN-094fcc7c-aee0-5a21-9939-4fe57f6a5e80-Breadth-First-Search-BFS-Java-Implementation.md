@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/breadth-first-search-bfs-java-implementation|Breadth-First Search (BFS) Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/breadth-first-search-bfs-java-implementation|breadth-first-search-bfs-java-implementation]]"
 ---
 # Breadth-First Search (BFS) Java Implementation
 

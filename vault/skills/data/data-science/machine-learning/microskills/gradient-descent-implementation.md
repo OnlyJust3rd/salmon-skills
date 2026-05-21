@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Gradient descent implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Machine Learning"
-parent-competency: "L3- Implement Training Approaches"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/machine-learning/machine-learning|machine-learning]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/machine-learning/competencies/L2-implement-training-approaches|L2-implement-training-approaches]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Gradient descent implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/machine-learning/machine-learning|Machi
 
 Parent competency:
 
-- [[skills/data/data-science/machine-learning/competencies/L3-implement-training-approaches|L3- Implement Training Approaches]]
+- [[skills/data/data-science/machine-learning/competencies/L2-implement-training-approaches|L3- Implement Training Approaches]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Oscilloscope Functions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Electronic Measurement"
-parent-competency: "L1- Define Measurement Tool Functions and Units"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/electronic-measurement|electronic-measurement]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/competencies/L1-define-measurement-tool-functions-and-units|L1-define-measurement-tool-functions-and-units]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Oscilloscope Functions

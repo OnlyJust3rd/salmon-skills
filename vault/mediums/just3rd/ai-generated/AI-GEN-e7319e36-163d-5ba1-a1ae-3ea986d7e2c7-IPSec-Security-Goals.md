@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-security-goals|IPSec Security Goals]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-security-goals|ipsec-security-goals]]"
 ---
 # Understanding IPSec Security Goals
 

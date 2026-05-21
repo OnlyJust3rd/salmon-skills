@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "MATLAB Image Import"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Image Processing"
-parent-competency: "L3- Import and Display Image"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|digital-image-processing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-import-and-display-image|L2-import-and-display-image]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # MATLAB Image Import
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-image-proc
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L3-import-and-display-image|L3- Import and Display Image]]
+- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-import-and-display-image|L3- Import and Display Image]]
 
 ## Description
 

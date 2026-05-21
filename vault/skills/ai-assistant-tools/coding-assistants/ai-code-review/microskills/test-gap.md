@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Test Gap"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-parent-macro: "AI Code Review"
-parent-competency: "L2- Explain AI-Assisted Code Review Concepts"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/ai-code-review|ai-code-review]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/competencies/L1-explain-ai-assisted-code-review-concepts|L1-explain-ai-assisted-code-review-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Test Gap
@@ -15,7 +17,7 @@ Parent macro: [[ai-code-review|AI Code Review]]
 
 Parent competency:
 
-- [[L2-explain-ai-assisted-code-review-concepts|L2- Explain AI-Assisted Code Review Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/ai-code-review/competencies/L1-explain-ai-assisted-code-review-concepts|L2- Explain AI-Assisted Code Review Concepts]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/modular-arithmetic-application|Modular Arithmetic Application]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/modular-arithmetic-application|modular-arithmetic-application]]"
 ---
 # Modular Arithmetic Application in Cryptography
 

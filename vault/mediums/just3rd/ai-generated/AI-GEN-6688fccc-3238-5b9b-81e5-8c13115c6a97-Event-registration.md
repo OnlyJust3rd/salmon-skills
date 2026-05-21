@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/event-registration|Event registration]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/event-registration|event-registration]]"
 ---
 # Event Registration in JavaScript
 

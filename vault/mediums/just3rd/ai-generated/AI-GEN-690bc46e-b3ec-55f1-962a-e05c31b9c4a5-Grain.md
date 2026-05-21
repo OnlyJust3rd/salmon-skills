@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-warehousing/microskills/grain|Grain]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/grain|grain]]"
 ---
 # Understanding Data Warehouse Grain
 

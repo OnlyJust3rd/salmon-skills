@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Considerations for Real-World Deployment"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Evolutional Robotics"
-parent-competency: "L1- List Model Transition Factors"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/evolutional-robotics|evolutional-robotics]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L1-list-model-transition-factors|L1-list-model-transition-factors]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Considerations for Real-World Deployment

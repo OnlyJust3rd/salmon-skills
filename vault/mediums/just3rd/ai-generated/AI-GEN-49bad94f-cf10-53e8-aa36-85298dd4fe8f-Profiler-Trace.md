@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/profiler-trace|Profiler Trace]]"
+  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/profiler-trace|profiler-trace]]"
 ---
 # Understanding Profiler Traces
 

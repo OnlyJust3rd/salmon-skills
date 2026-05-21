@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/sql-ddl-commands|SQL DDL Commands]]"
+  - "[[skills/data/databases/sql/microskills/sql-ddl-commands|sql-ddl-commands]]"
 ---
 # SQL DDL Commands: Building Your Database Blueprint
 

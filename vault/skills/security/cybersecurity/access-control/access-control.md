@@ -1,19 +1,27 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Access Control"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-coverage:
-  - "Concept"
-  - "Design"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 9
-related-jobs:
-  - "Cybersecurity Analyst"
-source-note: "courses/kmutt/cpe-2021/cpe-383-digital-image-processing-for-copyright-protection"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/access-control/competencies/L1-access-control-components-and-models|L1-access-control-components-and-models]]"
+  - "[[skills/security/cybersecurity/access-control/competencies/L1-access-control-principles-and-mechanisms|L1-access-control-principles-and-mechanisms]]"
+  - "[[skills/security/cybersecurity/access-control/competencies/L1-biometric-access-control-concepts|L1-biometric-access-control-concepts]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/access-control/competencies/L1-access-control-components-and-models|L1-access-control-components-and-models]]"
+microskills:
+  - "[[skills/security/cybersecurity/access-control/microskills/access-control-mechanisms|access-control-mechanisms]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/access-control-system-components|access-control-system-components]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/access-control-system-models|access-control-system-models]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/authentication-principles|authentication-principles]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/authorization-principles|authorization-principles]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/biometric-access-control-systems|biometric-access-control-systems]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/biometric-modalities|biometric-modalities]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/biometric-processes|biometric-processes]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/biometrics-fundamentals|biometrics-fundamentals]]"
 ---
 
 # Access Control
@@ -23,8 +31,8 @@ Design access control systems using authentication and authorization mechanisms,
 ## Competencies
 
 - [[skills/security/cybersecurity/access-control/competencies/L1-access-control-components-and-models|L1- Access Control Components and Models]]
-- [[skills/security/cybersecurity/access-control/competencies/L2-access-control-principles-and-mechanisms|L2- Access Control Principles and Mechanisms]]
-- [[skills/security/cybersecurity/access-control/competencies/L2-biometric-access-control-concepts|L2- Biometric Access Control Concepts]]
+- [[skills/security/cybersecurity/access-control/competencies/L1-access-control-principles-and-mechanisms|L2- Access Control Principles and Mechanisms]]
+- [[skills/security/cybersecurity/access-control/competencies/L1-biometric-access-control-concepts|L2- Biometric Access Control Concepts]]
 
 ## Microskills
 

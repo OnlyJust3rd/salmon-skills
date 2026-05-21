@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Scalar quantity definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Vector"
-parent-competency: "L1- Define and List Vector Concepts and Operations"
+  - "microskill"
+parent-skill: "[[skills/mathematics/vector/vector|vector]]"
+requires-in-competencies:
+  - "[[skills/mathematics/vector/competencies/L1-define-and-list-vector-concepts-and-operations|L1-define-and-list-vector-concepts-and-operations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Scalar quantity definition
@@ -15,7 +17,7 @@ Parent macro: [[vector|Vector]]
 
 Parent competency:
 
-- [[L1-define-and-list-vector-concepts-and-operations|L1- Define and List Vector Concepts and Operations]]
+- [[skills/mathematics/vector/competencies/L1-define-and-list-vector-concepts-and-operations|L1- Define and List Vector Concepts and Operations]]
 
 ## Description
 

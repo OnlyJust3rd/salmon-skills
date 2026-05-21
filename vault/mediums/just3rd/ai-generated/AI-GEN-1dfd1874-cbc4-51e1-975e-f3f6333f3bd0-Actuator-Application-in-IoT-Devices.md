@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/actuator-application-in-iot-devices|Actuator Application in IoT Devices]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/actuator-application-in-iot-devices|actuator-application-in-iot-devices]]"
 ---
 # Actuator Application in IoT Devices
 

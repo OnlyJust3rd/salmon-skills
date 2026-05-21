@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Vi Editor Operations"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Linux System"
-parent-competency: "L3- Utilize Linux Commands and Vi for File Management"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/linux-system/linux-system|linux-system]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management|L2-utilize-linux-commands-and-vi-for-file-management]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Vi Editor Operations
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/linux-system/linux-syst
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L3-utilize-linux-commands-and-vi-for-file-management|L3- Utilize Linux Commands and Vi for File Management]]
+- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management|L3- Utilize Linux Commands and Vi for File Management]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/amazon-redshift/microskills/workload-management|Workload Management]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/workload-management|workload-management]]"
 ---
 # Redshift Workload Management: Query Resource Allocation
 

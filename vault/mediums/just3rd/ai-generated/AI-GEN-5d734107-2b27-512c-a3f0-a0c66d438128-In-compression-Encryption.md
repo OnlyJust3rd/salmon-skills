@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/in-compression-encryption|In-compression Encryption]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/in-compression-encryption|in-compression-encryption]]"
 ---
 # In-Compression Encryption: Protecting Data as it Shrinks
 

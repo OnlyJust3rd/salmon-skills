@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/disk-i-o-significance|Disk I/O Significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/disk-i-o-significance|disk-i-o-significance]]"
 ---
 # Understanding Disk I/O Significance
 

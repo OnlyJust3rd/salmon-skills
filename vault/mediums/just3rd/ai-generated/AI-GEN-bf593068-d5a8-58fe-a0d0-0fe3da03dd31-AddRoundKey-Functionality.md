@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/addroundkey-functionality|AddRoundKey Functionality]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/addroundkey-functionality|addroundkey-functionality]]"
 ---
 # The AddRoundKey Function: Injecting Secrecy in Block Ciphers
 

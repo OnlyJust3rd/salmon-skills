@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/decision-justification|Decision Justification]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/decision-justification|decision-justification]]"
 ---
 # Justifying Your Software Engineering Decisions
 

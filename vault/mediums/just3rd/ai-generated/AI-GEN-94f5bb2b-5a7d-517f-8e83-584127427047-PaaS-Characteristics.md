@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/paas-characteristics|PaaS Characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/paas-characteristics|paas-characteristics]]"
 ---
 # Understanding Platform as a Service (PaaS)
 

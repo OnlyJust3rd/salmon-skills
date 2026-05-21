@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-visualization/microskills/matplotlib-problem-solving|Matplotlib Problem Solving]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/matplotlib-problem-solving|matplotlib-problem-solving]]"
 ---
 # Matplotlib Problem Solving: Visualizing Trends to Find Anomalies
 

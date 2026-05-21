@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/identify-efficiency-trade-offs|Identify Efficiency Trade-offs]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/identify-efficiency-trade-offs|identify-efficiency-trade-offs]]"
 ---
 # Identifying Efficiency Trade-offs
 

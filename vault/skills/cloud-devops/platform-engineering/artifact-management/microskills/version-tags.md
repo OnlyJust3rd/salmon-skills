@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Version Tags"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - DevOps skills"
-parent-macro: "Artifact Management"
-parent-competency: "L2- Explain Build Artifact and Image Repository Management"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/artifact-management/artifact-management|artifact-management]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/artifact-management/competencies/L1-explain-build-artifact-and-image-repository-management|L1-explain-build-artifact-and-image-repository-management]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Version Tags
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/artifact-management/art
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/artifact-management/competencies/L2-explain-build-artifact-and-image-repository-management|L2- Explain Build Artifact and Image Repository Management]]
+- [[skills/cloud-devops/platform-engineering/artifact-management/competencies/L1-explain-build-artifact-and-image-repository-management|L2- Explain Build Artifact and Image Repository Management]]
 
 ## Description
 

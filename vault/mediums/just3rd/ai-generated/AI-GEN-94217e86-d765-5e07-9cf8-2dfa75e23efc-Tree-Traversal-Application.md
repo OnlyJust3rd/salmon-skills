@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/tree-traversal-application|Tree Traversal Application]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/tree-traversal-application|tree-traversal-application]]"
 ---
 # Applying Tree Traversal Algorithms
 

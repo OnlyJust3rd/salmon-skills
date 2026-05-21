@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/multi-file-edit|Multi-File Edit]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/multi-file-edit|multi-file-edit]]"
 ---
 # Multi-File Edits with Cursor
 

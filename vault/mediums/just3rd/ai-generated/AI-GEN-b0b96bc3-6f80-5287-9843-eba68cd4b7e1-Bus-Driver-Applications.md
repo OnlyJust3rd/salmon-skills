@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-driver-applications|Bus Driver Applications]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-driver-applications|bus-driver-applications]]"
 ---
 # Bus Driver Applications
 

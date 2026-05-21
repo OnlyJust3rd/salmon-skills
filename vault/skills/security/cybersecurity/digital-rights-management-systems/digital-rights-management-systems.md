@@ -1,18 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Digital Rights Management Systems"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-coverage:
-  - "Concept"
-  - "Design"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 5
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-383-digital-image-processing-for-copyright-protection"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/competencies/L1-list-drm-mechanisms|L1-list-drm-mechanisms]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/competencies/L1-describe-drm-protection|L1-describe-drm-protection]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/competencies/L2-implement-access-control|L2-implement-access-control]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/competencies/L2-implement-access-control|L2-implement-access-control]]"
+microskills:
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/access-control-for-drm|access-control-for-drm]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/digital-content-safeguarding|digital-content-safeguarding]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/drm-enforcement-mechanisms|drm-enforcement-mechanisms]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/drm-system-functionality|drm-system-functionality]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/user-access-management|user-access-management]]"
 ---
 
 # Digital Rights Management Systems
@@ -22,8 +27,8 @@ Design Digital Rights Management (DRM) mechanisms that integrate encryption, acc
 ## Competencies
 
 - [[skills/security/cybersecurity/digital-rights-management-systems/competencies/L1-list-drm-mechanisms|L1- List DRM mechanisms]]
-- [[skills/security/cybersecurity/digital-rights-management-systems/competencies/L2-describe-drm-protection|L2- Describe DRM protection]]
-- [[skills/security/cybersecurity/digital-rights-management-systems/competencies/L3-implement-access-control|L3- Implement access control]]
+- [[skills/security/cybersecurity/digital-rights-management-systems/competencies/L1-describe-drm-protection|L2- Describe DRM protection]]
+- [[skills/security/cybersecurity/digital-rights-management-systems/competencies/L2-implement-access-control|L3- Implement access control]]
 
 ## Microskills
 

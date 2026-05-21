@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/restful-api/microskills/example-json-contracts|Example JSON contracts]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/example-json-contracts|example-json-contracts]]"
 ---
 # Drafting Example JSON Contracts for REST Operations
 

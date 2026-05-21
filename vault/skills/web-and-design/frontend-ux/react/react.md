@@ -1,19 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "React"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - web stack skills"
-coverage:
-  - "Concept"
-  - "ToolUsage"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Frontend Developer"
-  - "Full Stack Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/frontend-ux/react/competencies/L1-explain-react-rendering-and-hooks|L1-explain-react-rendering-and-hooks]]"
+  - "[[skills/web-and-design/frontend-ux/react/competencies/L2-implement-react-feature-components|L2-implement-react-feature-components]]"
+standard-competency:
+  - "[[skills/web-and-design/frontend-ux/react/competencies/L2-implement-react-feature-components|L2-implement-react-feature-components]]"
+microskills:
+  - "[[skills/web-and-design/frontend-ux/react/microskills/data-fetching-in-components|data-fetching-in-components]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/feature-folder-structure|feature-folder-structure]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/function-components|function-components]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/lists-and-keys|lists-and-keys]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/typed-props-and-events|typed-props-and-events]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/usestate-and-useeffect|usestate-and-useeffect]]"
 ---
 
 # React
@@ -22,8 +26,8 @@ Building web user interfaces with React: elements, components, hooks, and featur
 
 ## Competencies
 
-- [[skills/web-and-design/frontend-ux/react/competencies/L2-explain-react-rendering-and-hooks|L2- Explain React Rendering and Hooks]]
-- [[skills/web-and-design/frontend-ux/react/competencies/L3-implement-react-feature-components|L3- Implement React Feature Components]]
+- [[skills/web-and-design/frontend-ux/react/competencies/L1-explain-react-rendering-and-hooks|L2- Explain React Rendering and Hooks]]
+- [[skills/web-and-design/frontend-ux/react/competencies/L2-implement-react-feature-components|L3- Implement React Feature Components]]
 
 ## Microskills
 

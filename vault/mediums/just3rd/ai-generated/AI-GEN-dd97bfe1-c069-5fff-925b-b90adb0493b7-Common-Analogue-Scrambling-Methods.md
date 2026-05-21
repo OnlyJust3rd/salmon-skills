@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/common-analogue-scrambling-methods|Common Analogue Scrambling Methods]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/common-analogue-scrambling-methods|common-analogue-scrambling-methods]]"
 ---
 # Common Analogue Scrambling Methods
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/translation-lookaside-buffer-tlb-functionality|Translation Lookaside Buffer (TLB) Functionality]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/translation-lookaside-buffer-tlb-functionality|translation-lookaside-buffer-tlb-functionality]]"
 ---
 # Translation Lookaside Buffer (TLB) Functionality
 

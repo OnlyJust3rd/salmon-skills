@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-design-problem-solving|Engineering Design Problem Solving]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-design-problem-solving|engineering-design-problem-solving]]"
 ---
 # Resolving Engineering Design Challenges with Scientific Principles
 

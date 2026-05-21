@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/thread-definitions|Thread Definitions]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/thread-definitions|thread-definitions]]"
 ---
 # Understanding Threads in Operating Systems
 

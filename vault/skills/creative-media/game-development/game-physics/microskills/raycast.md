@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Raycast"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Physics"
-parent-competency: "L3- Apply Collision Detection and Response Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-physics/game-physics|game-physics]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-physics/competencies/L2-apply-collision-detection-and-response-concepts|L2-apply-collision-detection-and-response-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Raycast
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-physics/game-physics
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-physics/competencies/L3-apply-collision-detection-and-response-concepts|L3- Apply Collision Detection and Response Concepts]]
+- [[skills/creative-media/game-development/game-physics/competencies/L2-apply-collision-detection-and-response-concepts|L3- Apply Collision Detection and Response Concepts]]
 
 ## Description
 

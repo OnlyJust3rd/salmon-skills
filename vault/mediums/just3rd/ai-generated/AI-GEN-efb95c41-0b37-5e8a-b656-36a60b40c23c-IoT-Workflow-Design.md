@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-workflow-design|IoT Workflow Design]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-workflow-design|iot-workflow-design]]"
 ---
 # IoT Workflow Design: Building Automated Logic for Connected Devices
 

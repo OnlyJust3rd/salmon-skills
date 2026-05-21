@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unity/microskills/unity-event-method|Unity Event Method]]"
+  - "[[skills/creative-media/game-development/unity/microskills/unity-event-method|unity-event-method]]"
 ---
 # Unity Event Methods: Bringing Your Game to Life
 

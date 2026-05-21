@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/registers-in-memory-hierarchy|Registers in Memory Hierarchy]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/registers-in-memory-hierarchy|registers-in-memory-hierarchy]]"
 ---
 # Registers: The Memory Hierarchy's Speedy Frontline
 

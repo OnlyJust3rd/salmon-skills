@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Analogue Scrambling Techniques"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Speech Security Assessment"
-parent-competency: "L2- Explain Speech Security Principles and Techniques"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/speech-security-assessment/speech-security-assessment|speech-security-assessment]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L1-explain-speech-security-principles-and-techniques|L1-explain-speech-security-principles-and-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Analogue Scrambling Techniques
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/speech-security-assessment/speech-
 
 Parent competency:
 
-- [[skills/security/cybersecurity/speech-security-assessment/competencies/L2-explain-speech-security-principles-and-techniques|L2- Explain Speech Security Principles and Techniques]]
+- [[skills/security/cybersecurity/speech-security-assessment/competencies/L1-explain-speech-security-principles-and-techniques|L2- Explain Speech Security Principles and Techniques]]
 
 ## Description
 

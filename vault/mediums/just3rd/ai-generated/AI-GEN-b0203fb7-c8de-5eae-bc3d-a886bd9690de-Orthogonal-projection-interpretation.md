@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/orthogonal-projection-interpretation|Orthogonal projection interpretation]]"
+  - "[[skills/mathematics/vector/microskills/orthogonal-projection-interpretation|orthogonal-projection-interpretation]]"
 ---
 # Understanding Orthogonal Projections
 

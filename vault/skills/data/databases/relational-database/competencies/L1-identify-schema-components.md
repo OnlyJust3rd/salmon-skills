@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Schema Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 241 - Database Systems"
-parent-macro: "Relational Database"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and List RDBMS Concepts"
+  - "[[skills/data/databases/database-system/competencies/L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/databases/relational-database/relational-database|relational-database]]"
+requires-microskills:
+  - "[[skills/data/databases/relational-database/microskills/column-identification|column-identification]]"
+  - "[[skills/data/databases/relational-database/microskills/primary-key-identification|primary-key-identification]]"
+  - "[[skills/data/databases/relational-database/microskills/relational-schema-elements|relational-schema-elements]]"
+  - "[[skills/data/databases/relational-database/microskills/table-identification|table-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Schema Components

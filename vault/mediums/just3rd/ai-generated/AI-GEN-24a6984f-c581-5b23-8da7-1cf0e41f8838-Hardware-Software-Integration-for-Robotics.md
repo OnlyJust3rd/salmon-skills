@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/hardware-software-integration-for-robotics|Hardware-Software Integration for Robotics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/hardware-software-integration-for-robotics|hardware-software-integration-for-robotics]]"
 ---
 # Hardware-Software Integration for Robotics
 

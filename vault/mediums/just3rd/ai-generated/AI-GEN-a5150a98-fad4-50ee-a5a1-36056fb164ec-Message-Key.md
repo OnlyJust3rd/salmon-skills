@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-kafka/microskills/message-key|Message Key]]"
+  - "[[skills/data/data-platforms/apache-kafka/microskills/message-key|message-key]]"
 ---
 # Mastering Message Keys in Kafka
 

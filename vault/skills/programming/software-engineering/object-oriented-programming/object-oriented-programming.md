@@ -1,18 +1,48 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Object-Oriented Programming"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 361 - Java Programming"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 6
-microskill-count: 25
-related-jobs:
-  - "Software Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-361-java-programming"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L1-define-oop-principles|L1-define-oop-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L1-explain-core-oop-constructs|L1-explain-core-oop-constructs]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L1-explain-oop-benefits|L1-explain-oop-benefits]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L2-apply-oop-principles|L2-apply-oop-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L2-oop-design-application|L2-oop-design-application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L3-analyze-oo-design-impact|L3-analyze-oo-design-impact]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L2-apply-oop-principles|L2-apply-oop-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L2-oop-design-application|L2-oop-design-application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L3-analyze-oo-design-impact|L3-analyze-oo-design-impact]]"
+microskills:
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-application|abstraction-application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-benefits|abstraction-benefits]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-definition|abstraction-definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/basic-class-implementation|basic-class-implementation]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/class-design-patterns|class-design-patterns]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/class-structures|class-structures]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/design-choice-impact-assessment|design-choice-impact-assessment]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-application|encapsulation-application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-benefits|encapsulation-benefits]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-definition|encapsulation-definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-principles|encapsulation-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/extensibility-analysis|extensibility-analysis]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-application|inheritance-application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-concepts|inheritance-concepts]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-definition|inheritance-definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/maintainability-analysis|maintainability-analysis]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/method-behavior|method-behavior]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/modularity-contribution|modularity-contribution]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-instantiation|object-instantiation]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-interaction-design|object-interaction-design]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-oriented-structuring|object-oriented-structuring]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/oop-problem-solving|oop-problem-solving]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/polymorphism-application|polymorphism-application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/polymorphism-definition|polymorphism-definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/separation-of-concerns-explanation|separation-of-concerns-explanation]]"
 ---
 
 # Object-Oriented Programming
@@ -22,11 +52,11 @@ Designing and structuring programs using object-oriented principles such as clas
 ## Competencies
 
 - [[skills/programming/software-engineering/object-oriented-programming/competencies/L1-define-oop-principles|L1- Define OOP Principles]]
-- [[skills/programming/software-engineering/object-oriented-programming/competencies/L2-explain-oop-benefits|L2- Explain OOP Benefits]]
-- [[skills/programming/software-engineering/object-oriented-programming/competencies/L2-explain-core-oop-constructs|L2- Explain Core OOP Constructs]]
-- [[skills/programming/software-engineering/object-oriented-programming/competencies/L3-oop-design-application|L3- OOP Design Application]]
-- [[skills/programming/software-engineering/object-oriented-programming/competencies/L3-apply-oop-principles|L3- Apply OOP Principles]]
-- [[skills/programming/software-engineering/object-oriented-programming/competencies/L4-analyze-oo-design-impact|L4- Analyze OO Design Impact]]
+- [[skills/programming/software-engineering/object-oriented-programming/competencies/L1-explain-oop-benefits|L2- Explain OOP Benefits]]
+- [[skills/programming/software-engineering/object-oriented-programming/competencies/L1-explain-core-oop-constructs|L2- Explain Core OOP Constructs]]
+- [[skills/programming/software-engineering/object-oriented-programming/competencies/L2-oop-design-application|L3- OOP Design Application]]
+- [[skills/programming/software-engineering/object-oriented-programming/competencies/L2-apply-oop-principles|L3- Apply OOP Principles]]
+- [[skills/programming/software-engineering/object-oriented-programming/competencies/L3-analyze-oo-design-impact|L4- Analyze OO Design Impact]]
 
 ## Microskills
 

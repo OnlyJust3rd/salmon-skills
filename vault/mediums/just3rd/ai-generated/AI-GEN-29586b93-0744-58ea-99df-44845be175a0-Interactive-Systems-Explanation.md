@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/interactive-systems-explanation|Interactive Systems Explanation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/interactive-systems-explanation|interactive-systems-explanation]]"
 ---
 # Understanding Interactive Systems in Games
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/data-modeling-concepts|Data Modeling Concepts]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/data-modeling-concepts|data-modeling-concepts]]"
 ---
 # Understanding Core Data Modeling Concepts
 

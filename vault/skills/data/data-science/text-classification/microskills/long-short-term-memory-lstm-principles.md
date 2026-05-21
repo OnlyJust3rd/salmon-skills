@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Long Short-Term Memory (LSTM) Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Classification"
-parent-competency: "L2- Explain Text Classification Principles"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-classification/text-classification|text-classification]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-classification/competencies/L1-explain-text-classification-principles|L1-explain-text-classification-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Long Short-Term Memory (LSTM) Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-classification/text-classification
 
 Parent competency:
 
-- [[skills/data/data-science/text-classification/competencies/L2-explain-text-classification-principles|L2- Explain Text Classification Principles]]
+- [[skills/data/data-science/text-classification/competencies/L1-explain-text-classification-principles|L2- Explain Text Classification Principles]]
 
 ## Description
 

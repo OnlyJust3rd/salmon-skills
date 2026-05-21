@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/algorithmic-logic-representation|Algorithmic logic representation]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/algorithmic-logic-representation|algorithmic-logic-representation]]"
 ---
 # Understanding Algorithmic Logic with Pseudocode
 

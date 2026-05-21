@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/fuzzy-logic-definition|Fuzzy Logic Definition]]"
+  - "[[skills/data/ai/soft-computing/microskills/fuzzy-logic-definition|fuzzy-logic-definition]]"
 ---
 # Fuzzy Logic Definition
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/bar-chart-for-text-data|Bar Chart for Text Data]]"
+  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/bar-chart-for-text-data|bar-chart-for-text-data]]"
 ---
 # Understanding Bar Charts for Text Data
 

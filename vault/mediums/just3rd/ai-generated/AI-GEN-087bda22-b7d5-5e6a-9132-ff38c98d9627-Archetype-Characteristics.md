@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/character-design/microskills/archetype-characteristics|Archetype Characteristics]]"
+  - "[[skills/creative-media/game-development/character-design/microskills/archetype-characteristics|archetype-characteristics]]"
 ---
 # Understanding Archetype Characteristics
 

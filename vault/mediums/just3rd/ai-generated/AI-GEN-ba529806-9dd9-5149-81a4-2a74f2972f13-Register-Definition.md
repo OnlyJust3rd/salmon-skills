@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/register-definition|Register Definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/register-definition|register-definition]]"
 ---
 # Processor Datapath: Understanding Registers
 

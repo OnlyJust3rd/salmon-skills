@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/communication-interface-categorization|Communication Interface Categorization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/communication-interface-categorization|communication-interface-categorization]]"
 ---
 # Communication Interface Categorization: Serial vs. Parallel
 

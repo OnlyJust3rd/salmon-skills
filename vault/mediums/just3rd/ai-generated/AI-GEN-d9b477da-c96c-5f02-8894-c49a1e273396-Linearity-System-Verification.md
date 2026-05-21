@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/linearity-system-verification|Linearity System Verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linearity-system-verification|linearity-system-verification]]"
 ---
 # Linearity System Verification
 

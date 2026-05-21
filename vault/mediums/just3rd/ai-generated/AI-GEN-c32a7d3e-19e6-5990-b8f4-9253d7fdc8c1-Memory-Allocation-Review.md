@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/memory-allocation-review|Memory Allocation Review]]"
+  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/memory-allocation-review|memory-allocation-review]]"
 ---
 # Memory Allocation Review for Game Performance
 

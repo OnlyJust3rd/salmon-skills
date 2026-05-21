@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Graph and Tree Terms"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Graph and Tree Modeling"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L3- Model Discrete Structures and Combinatorial Elements"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/competencies/L2-model-discrete-structures-and-combinatorial-elements|L2-model-discrete-structures-and-combinatorial-elements]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/data-structures/graph-and-tree-modeling/graph-and-tree-modeling|graph-and-tree-modeling]]"
+requires-microskills:
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/graph-terminology|graph-terminology]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/tree-terminology|tree-terminology]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Graph and Tree Terms
@@ -25,7 +26,7 @@ Define key graph and tree terminology, including vertices, edges, paths, cycles,
 
 ## Strict Prerequisites
 
-- [[skills/programming/data-structures/discrete-structure-modeling/competencies/L3-model-discrete-structures-and-combinatorial-elements|L3- Model Discrete Structures and Combinatorial Elements]]
+- [[skills/programming/data-structures/discrete-structure-modeling/competencies/L2-model-discrete-structures-and-combinatorial-elements|L3- Model Discrete Structures and Combinatorial Elements]]
 
 ## Optional Prerequisites
 

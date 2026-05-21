@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-application-in-cryptography|Euler's Phi Function Application in Cryptography]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-application-in-cryptography|euler-s-phi-function-application-in-cryptography]]"
 ---
 # Euler's Phi Function in Cryptography
 

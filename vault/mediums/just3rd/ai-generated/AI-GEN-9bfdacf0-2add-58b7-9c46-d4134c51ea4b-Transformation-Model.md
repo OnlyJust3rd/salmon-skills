@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/snowflake/microskills/transformation-model|Transformation Model]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/transformation-model|transformation-model]]"
 ---
 # SQL Transformations in Snowflake
 

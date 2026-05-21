@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/columnar-storage|Columnar Storage]]"
+  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/columnar-storage|columnar-storage]]"
 ---
 # Columnar Storage for Cloud Data Warehouses
 

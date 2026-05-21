@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/opportunity-assessment|Opportunity Assessment]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/opportunity-assessment|opportunity-assessment]]"
 ---
 # Understanding Market Size in Opportunity Assessment
 

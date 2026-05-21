@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/data-retrieval-operations|Data Retrieval Operations]]"
+  - "[[skills/data/databases/sql/microskills/data-retrieval-operations|data-retrieval-operations]]"
 ---
 # Retrieving Data with SELECT Statements
 

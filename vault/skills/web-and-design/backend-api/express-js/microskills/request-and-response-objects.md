@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Request and response objects"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "Express.js"
-parent-competency: "L2- Explain Express.js Routing Middleware and HTTP Pipeline"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/express-js/express-js|express-js]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/express-js/competencies/L1-explain-express-js-routing-middleware-and-http-pipeline|L1-explain-express-js-routing-middleware-and-http-pipeline]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Request and response objects
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/backend-api/express-js/express-js|Express.
 
 Parent competency:
 
-- [[skills/web-and-design/backend-api/express-js/competencies/L2-explain-express-js-routing-middleware-and-http-pipeline|L2- Explain Express.js Routing Middleware and HTTP Pipeline]]
+- [[skills/web-and-design/backend-api/express-js/competencies/L1-explain-express-js-routing-middleware-and-http-pipeline|L2- Explain Express.js Routing Middleware and HTTP Pipeline]]
 
 ## Description
 

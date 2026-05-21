@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/truth-table-construction|Truth Table Construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/truth-table-construction|truth-table-construction]]"
 ---
 # Constructing Truth Tables
 

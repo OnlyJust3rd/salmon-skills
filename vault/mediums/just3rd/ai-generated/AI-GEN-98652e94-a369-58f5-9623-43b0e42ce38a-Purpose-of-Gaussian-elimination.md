@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/purpose-of-gaussian-elimination|Purpose of Gaussian elimination]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/purpose-of-gaussian-elimination|purpose-of-gaussian-elimination]]"
 ---
 # The "Why" Behind Gaussian Elimination: Simplifying Systems of Equations
 

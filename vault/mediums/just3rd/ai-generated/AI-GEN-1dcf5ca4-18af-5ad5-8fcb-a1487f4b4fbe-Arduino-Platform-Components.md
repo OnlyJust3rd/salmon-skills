@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/arduino-platform-components|Arduino Platform Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/arduino-platform-components|arduino-platform-components]]"
 ---
 # Understanding Arduino Platform Components
 

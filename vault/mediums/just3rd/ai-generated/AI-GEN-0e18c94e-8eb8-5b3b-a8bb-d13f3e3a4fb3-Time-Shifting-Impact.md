@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/time-shifting-impact|Time Shifting Impact]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-impact|time-shifting-impact]]"
 ---
 # Understanding Time Shifting in Signals
 

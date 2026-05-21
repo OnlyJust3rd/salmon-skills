@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-spark/microskills/spark-transformation|Spark Transformation]]"
+  - "[[skills/data/data-platforms/apache-spark/microskills/spark-transformation|spark-transformation]]"
 ---
 # Spark Transformations: Shaping Your Data
 

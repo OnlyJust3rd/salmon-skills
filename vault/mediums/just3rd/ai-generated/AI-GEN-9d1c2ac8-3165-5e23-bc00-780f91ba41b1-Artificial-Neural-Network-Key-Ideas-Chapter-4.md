@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/artificial-neural-network-key-ideas-chapter-4|Artificial Neural Network Key Ideas (Chapter 4)]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/artificial-neural-network-key-ideas-chapter-4|artificial-neural-network-key-ideas-chapter-4]]"
 ---
 # Artificial Neural Network Key Ideas (Chapter 4)
 

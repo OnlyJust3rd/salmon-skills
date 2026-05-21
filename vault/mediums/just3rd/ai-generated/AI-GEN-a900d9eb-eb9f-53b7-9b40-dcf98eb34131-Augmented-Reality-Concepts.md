@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/augmented-reality-concepts|Augmented Reality Concepts]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/augmented-reality-concepts|augmented-reality-concepts]]"
 ---
 # Augmented Reality Concepts
 

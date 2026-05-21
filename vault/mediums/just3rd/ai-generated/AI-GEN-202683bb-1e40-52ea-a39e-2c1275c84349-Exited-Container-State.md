@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/exited-container-state|Exited Container State]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/exited-container-state|exited-container-state]]"
 ---
 # Understanding the Exited State of a Docker Container
 

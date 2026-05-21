@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Registers, Drivers, and Tri-state Devices"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Bus Drivers, Registers, and Tri-state"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Sequential Components"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-define-sequential-components|L1-define-sequential-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/bus-drivers-registers-and-tri-state|bus-drivers-registers-and-tri-state]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-driver-ic-identification|bus-driver-ic-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/shift-register-types|shift-register-types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-identification|tri-state-buffer-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Registers, Drivers, and Tri-state Devices

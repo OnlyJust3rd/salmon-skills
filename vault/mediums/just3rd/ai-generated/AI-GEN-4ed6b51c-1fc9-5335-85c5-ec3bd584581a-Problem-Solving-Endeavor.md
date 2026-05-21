@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/problem-solving-endeavor|Problem-Solving Endeavor]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/problem-solving-endeavor|problem-solving-endeavor]]"
 ---
 # Problem-Solving Endeavor in Software Engineering
 

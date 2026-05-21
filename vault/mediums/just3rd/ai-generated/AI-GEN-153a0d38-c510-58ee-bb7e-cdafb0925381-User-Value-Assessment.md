@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/user-value-assessment|User Value Assessment]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/user-value-assessment|user-value-assessment]]"
 ---
 # Assessing User Value for MVP Features
 

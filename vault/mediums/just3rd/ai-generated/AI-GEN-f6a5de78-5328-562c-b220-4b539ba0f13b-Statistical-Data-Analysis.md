@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/statistical-data-analysis|Statistical Data Analysis]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/statistical-data-analysis|statistical-data-analysis]]"
 ---
 # Statistical Data Analysis for Usability Evaluations
 

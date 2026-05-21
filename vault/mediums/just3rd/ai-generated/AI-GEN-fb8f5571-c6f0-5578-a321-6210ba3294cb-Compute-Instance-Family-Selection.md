@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/compute-instance-family-selection|Compute Instance Family Selection]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/compute-instance-family-selection|compute-instance-family-selection]]"
 ---
 # Selecting the Right Compute Instance Family
 

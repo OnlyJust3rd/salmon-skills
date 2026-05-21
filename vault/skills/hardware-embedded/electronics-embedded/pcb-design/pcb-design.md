@@ -1,17 +1,33 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "PCB Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 324 - Embedded Systems"
-coverage:
-  - "Representation"
-competency-count: 3
-microskill-count: 15
-related-jobs:
-  - "Embedded Systems Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-324-embedded-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L1-list-pcb-design-steps|L1-list-pcb-design-steps]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L1-describe-pcb-layers|L1-describe-pcb-layers]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L2-create-basic-pcb-layout|L2-create-basic-pcb-layout]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L2-create-basic-pcb-layout|L2-create-basic-pcb-layout]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/basic-gerber-file-generation|basic-gerber-file-generation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/board-outline-definition|board-outline-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-footprint-placement|component-footprint-placement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-footprint-selection|component-footprint-selection]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-placement|component-placement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/copper-layers|copper-layers]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/design-rule-check|design-rule-check]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/drill-layer|drill-layer]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/routing-traces|routing-traces]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/schematic-capture|schematic-capture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/schematic-to-layout-translation|schematic-to-layout-translation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/silkscreen-layer|silkscreen-layer]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/solder-mask-layer|solder-mask-layer]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/trace-routing-strategy|trace-routing-strategy]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/via-usage|via-usage]]"
 ---
 
 # PCB Design
@@ -21,8 +37,8 @@ Designing custom Printed Circuit Boards (PCBs) for embedded system applications.
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L1-list-pcb-design-steps|L1- List PCB Design Steps]]
-- [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L2-describe-pcb-layers|L2- Describe PCB Layers]]
-- [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L3-create-basic-pcb-layout|L3- Create Basic PCB Layout]]
+- [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L1-describe-pcb-layers|L2- Describe PCB Layers]]
+- [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L2-create-basic-pcb-layout|L3- Create Basic PCB Layout]]
 
 ## Microskills
 

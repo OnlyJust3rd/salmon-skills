@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Fundamental Principles of Robotics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Robotics"
-parent-competency: "L1- Define Fundamental Robotics Concepts"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotics/robotics|robotics]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-define-fundamental-robotics-concepts|L1-define-fundamental-robotics-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Fundamental Principles of Robotics

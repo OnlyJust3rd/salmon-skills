@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/data-link-layer-framing|Data Link Layer Framing]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/data-link-layer-framing|data-link-layer-framing]]"
 ---
 # Framing Data for Reliable Delivery
 

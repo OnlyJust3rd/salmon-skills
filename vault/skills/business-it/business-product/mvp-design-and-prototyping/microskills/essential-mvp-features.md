@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Essential MVP Features"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "MVP Design and Prototyping"
-parent-competency: "L1- Identify MVP Components and Characteristics"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/mvp-design-and-prototyping/mvp-design-and-prototyping|mvp-design-and-prototyping]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-identify-mvp-components-and-characteristics|L1-identify-mvp-components-and-characteristics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Essential MVP Features

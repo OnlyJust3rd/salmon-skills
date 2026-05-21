@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/button-input-reading-via-gpio|Button Input Reading via GPIO]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/button-input-reading-via-gpio|button-input-reading-via-gpio]]"
 ---
 # Reading Button Input with GPIO
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Measurement Discrepancy Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Experimental Data Evaluation"
-parent-competency: "L4- Analyze Distortion/Discrepancy Causes"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/experimental-data-evaluation/competencies/L3-analyze-distortion-discrepancy-causes|L3-analyze-distortion-discrepancy-causes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Measurement Discrepancy Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/experimental-data-evaluation/experime
 
 Parent competency:
 
-- [[skills/data/data-platforms/experimental-data-evaluation/competencies/L4-analyze-distortion-discrepancy-causes|L4- Analyze Distortion/Discrepancy Causes]]
+- [[skills/data/data-platforms/experimental-data-evaluation/competencies/L3-analyze-distortion-discrepancy-causes|L4- Analyze Distortion/Discrepancy Causes]]
 
 ## Description
 

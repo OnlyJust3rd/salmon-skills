@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-ah-effectiveness-evaluation|IPSec (AH) Effectiveness Evaluation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-ah-effectiveness-evaluation|ipsec-ah-effectiveness-evaluation]]"
 ---
 # Evaluating IPSec AH Effectiveness
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/temporal-masking|Temporal Masking]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/temporal-masking|temporal-masking]]"
 ---
 # Temporal Masking in Audio Compression
 

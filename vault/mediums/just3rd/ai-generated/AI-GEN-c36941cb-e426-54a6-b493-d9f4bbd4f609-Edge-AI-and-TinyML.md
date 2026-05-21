@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/edge-ai-and-tinyml|Edge AI and TinyML]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/edge-ai-and-tinyml|edge-ai-and-tinyml]]"
 ---
 # Understanding Edge AI and TinyML in IoT
 

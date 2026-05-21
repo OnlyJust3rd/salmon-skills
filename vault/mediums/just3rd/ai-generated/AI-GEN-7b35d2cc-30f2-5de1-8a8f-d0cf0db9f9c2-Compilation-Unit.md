@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/cpp-programming/microskills/compilation-unit|Compilation Unit]]"
+  - "[[skills/programming/programming-languages/cpp-programming/microskills/compilation-unit|compilation-unit]]"
 ---
 # Understanding Compilation Units in C++
 

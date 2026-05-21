@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/command-based-verification|Command-Based Verification]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/command-based-verification|command-based-verification]]"
 ---
 # Command-Based Verification in Claude Code
 

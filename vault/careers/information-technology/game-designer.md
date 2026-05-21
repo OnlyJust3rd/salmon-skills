@@ -26,12 +26,12 @@ Career competency profile from `supporting_jobs.json`.
 
 ## Required Competencies
 
-- [[skills/creative-media/game-development/game-design/competencies/L2-explain-game-genres|L2- Explain Game Genres]]
-- [[skills/creative-media/game-development/game-design/competencies/L2-explain-game-elements-and-functions|L2- Explain Game Elements and Functions]]
-- [[skills/creative-media/game-development/game-design/competencies/L2-explain-gameplay-mechanics-and-character-abilities|L2- Explain Gameplay Mechanics and Character Abilities]]
-- [[skills/creative-media/game-development/game-design/competencies/L3-apply-game-design-principles|L3- Apply Game Design Principles]]
-- [[skills/creative-media/game-development/player-psychology/competencies/L2-funativity-and-player-engagement|L2- Funativity and Player Engagement]]
-- [[skills/creative-media/game-development/player-psychology/competencies/L3-implement-adaptive-difficulty|L3- Implement Adaptive Difficulty]]
-- [[skills/creative-media/game-development/game-flow-and-difficulty-balancing/competencies/L3-optimize-player-experience-through-difficulty-and-flow|L3- Optimize Player Experience through Difficulty and Flow]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-explain-game-genres|L2- Explain Game Genres]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-explain-game-elements-and-functions|L2- Explain Game Elements and Functions]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-explain-gameplay-mechanics-and-character-abilities|L2- Explain Gameplay Mechanics and Character Abilities]]
+- [[skills/creative-media/game-development/game-design/competencies/L2-apply-game-design-principles|L3- Apply Game Design Principles]]
+- [[skills/creative-media/game-development/player-psychology/competencies/L1-funativity-and-player-engagement|L2- Funativity and Player Engagement]]
+- [[skills/creative-media/game-development/player-psychology/competencies/L2-implement-adaptive-difficulty|L3- Implement Adaptive Difficulty]]
+- [[skills/creative-media/game-development/game-flow-and-difficulty-balancing/competencies/L2-optimize-player-experience-through-difficulty-and-flow|L3- Optimize Player Experience through Difficulty and Flow]]
 - [[skills/creative-media/game-development/level-design/competencies/L1-identify-level-design-elements|L1- Identify Level Design Elements]]
-- [[skills/creative-media/game-development/game-testing/competencies/L2-explain-game-testing-and-playtesting-concepts|L2- Explain Game Testing and Playtesting Concepts]]
+- [[skills/creative-media/game-development/game-testing/competencies/L1-explain-game-testing-and-playtesting-concepts|L2- Explain Game Testing and Playtesting Concepts]]

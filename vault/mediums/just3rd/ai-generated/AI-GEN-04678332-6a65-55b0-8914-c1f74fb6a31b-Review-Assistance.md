@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/review-assistance|Review Assistance]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/review-assistance|review-assistance]]"
 ---
 # Understanding AI-Assisted Code Review
 

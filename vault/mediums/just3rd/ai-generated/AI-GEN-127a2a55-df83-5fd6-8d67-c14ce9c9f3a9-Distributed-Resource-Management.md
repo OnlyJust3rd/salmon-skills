@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/distributed-resource-management|Distributed Resource Management]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/distributed-resource-management|distributed-resource-management]]"
 ---
 # Distributed Resource Management in GRID Computing
 

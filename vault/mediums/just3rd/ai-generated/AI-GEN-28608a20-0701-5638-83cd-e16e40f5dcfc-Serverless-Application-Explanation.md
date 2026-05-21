@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-application-explanation|Serverless Application Explanation]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-application-explanation|serverless-application-explanation]]"
 ---
 # Understanding Serverless Applications
 

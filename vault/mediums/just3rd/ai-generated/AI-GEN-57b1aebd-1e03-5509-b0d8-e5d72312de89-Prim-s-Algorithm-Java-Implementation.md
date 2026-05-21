@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/prim-s-algorithm-java-implementation|Prim's Algorithm Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/prim-s-algorithm-java-implementation|prim-s-algorithm-java-implementation]]"
 ---
 # Prim's Algorithm: Java Implementation for Minimum Spanning Tree
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/proteus-simulation-workflow|Proteus Simulation Workflow]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/proteus-simulation-workflow|proteus-simulation-workflow]]"
 ---
 # Understanding the Proteus Simulation Workflow
 

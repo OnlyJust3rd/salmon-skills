@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/multi-bus-datapath-organization|Multi-Bus Datapath Organization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/multi-bus-datapath-organization|multi-bus-datapath-organization]]"
 ---
 # Multi-Bus Datapath Organization
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/external-behavior-preservation|External Behavior Preservation]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/external-behavior-preservation|external-behavior-preservation]]"
 ---
 # Preserving External Behavior During Refactoring
 

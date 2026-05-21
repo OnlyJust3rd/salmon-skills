@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/modularity-driven-testing-readiness|Modularity-driven testing readiness]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/modularity-driven-testing-readiness|modularity-driven-testing-readiness]]"
 ---
 # Modularity: Your Secret Weapon for Easier Testing
 

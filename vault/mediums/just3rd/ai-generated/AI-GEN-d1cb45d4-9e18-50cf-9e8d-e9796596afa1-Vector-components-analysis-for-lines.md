@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/vector-components-analysis-for-lines|Vector components analysis for lines]]"
+  - "[[skills/mathematics/vector/microskills/vector-components-analysis-for-lines|vector-components-analysis-for-lines]]"
 ---
 # Analyzing Vector Components for Lines
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/common-data-structure-identification|Common Data Structure Identification]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/common-data-structure-identification|common-data-structure-identification]]"
 ---
 # Identifying Common Data Structures
 

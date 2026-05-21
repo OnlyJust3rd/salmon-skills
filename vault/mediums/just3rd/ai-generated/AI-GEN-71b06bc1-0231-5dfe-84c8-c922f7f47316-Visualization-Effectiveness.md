@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-visualization/microskills/visualization-effectiveness|Visualization Effectiveness]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/visualization-effectiveness|visualization-effectiveness]]"
 ---
 # Understanding Visualization Effectiveness
 

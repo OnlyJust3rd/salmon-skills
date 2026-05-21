@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unity/microskills/monobehaviour-script|MonoBehaviour Script]]"
+  - "[[skills/creative-media/game-development/unity/microskills/monobehaviour-script|monobehaviour-script]]"
 ---
 # MonoBehaviour Scripts: Building Interactive Unity Components
 

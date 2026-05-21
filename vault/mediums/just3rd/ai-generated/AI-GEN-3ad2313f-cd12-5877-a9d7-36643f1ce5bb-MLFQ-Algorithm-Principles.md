@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/mlfq-algorithm-principles|MLFQ Algorithm Principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/mlfq-algorithm-principles|mlfq-algorithm-principles]]"
 ---
 # Multi-Level Feedback Queue (MLFQ) Algorithm Principles
 

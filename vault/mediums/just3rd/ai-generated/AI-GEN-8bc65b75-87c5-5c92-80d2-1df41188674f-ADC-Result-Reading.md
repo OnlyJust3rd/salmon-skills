@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-result-reading|ADC Result Reading]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-result-reading|adc-result-reading]]"
 ---
 # Reading ADC Conversion Results
 

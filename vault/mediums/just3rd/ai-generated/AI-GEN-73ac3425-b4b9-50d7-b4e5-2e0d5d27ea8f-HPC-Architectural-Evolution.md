@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/hpc-architectural-evolution|HPC Architectural Evolution]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/hpc-architectural-evolution|hpc-architectural-evolution]]"
 ---
 # The Journey of HPC Architectures: From Simple to Super
 

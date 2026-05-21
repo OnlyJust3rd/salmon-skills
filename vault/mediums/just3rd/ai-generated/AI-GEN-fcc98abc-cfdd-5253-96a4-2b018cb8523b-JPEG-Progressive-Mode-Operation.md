@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-progressive-mode-operation|JPEG Progressive Mode Operation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-progressive-mode-operation|jpeg-progressive-mode-operation]]"
 ---
 # Understanding JPEG Progressive Mode Operation
 

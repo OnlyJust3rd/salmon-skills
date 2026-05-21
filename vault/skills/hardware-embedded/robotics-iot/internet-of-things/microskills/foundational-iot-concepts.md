@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Foundational IoT Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "Internet of Things"
-parent-competency: "L2- Explain IoT Foundations and Components"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/robotics-iot/internet-of-things/internet-of-things|internet-of-things]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-foundations-and-components|L1-explain-iot-foundations-and-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Foundational IoT Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/robotics-iot/internet-of-things/interne
 
 Parent competency:
 
-- [[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L2-explain-iot-foundations-and-components|L2- Explain IoT Foundations and Components]]
+- [[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-foundations-and-components|L2- Explain IoT Foundations and Components]]
 
 ## Description
 

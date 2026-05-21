@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/measurement-discrepancy-analysis|Measurement Discrepancy Analysis]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/measurement-discrepancy-analysis|measurement-discrepancy-analysis]]"
 ---
 # Analyzing Measurement Discrepancies
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-to-rectangular-equation-transformation|Polar to rectangular equation transformation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-to-rectangular-equation-transformation|polar-to-rectangular-equation-transformation]]"
 ---
 # Transforming Polar Equations to Rectangular Form
 

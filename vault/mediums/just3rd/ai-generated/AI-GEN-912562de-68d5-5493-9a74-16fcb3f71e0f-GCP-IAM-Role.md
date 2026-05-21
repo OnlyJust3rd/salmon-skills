@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-iam-role|GCP IAM Role]]"
+  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-iam-role|gcp-iam-role]]"
 ---
 # Applying GCP IAM Roles: A Practical Guide
 

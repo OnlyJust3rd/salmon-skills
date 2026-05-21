@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/microskills/applied-interfacing-knowledge|Applied Interfacing Knowledge]]"
+  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/microskills/applied-interfacing-knowledge|applied-interfacing-knowledge]]"
 ---
 # Applied Interfacing Knowledge: Connecting Physical Devices
 

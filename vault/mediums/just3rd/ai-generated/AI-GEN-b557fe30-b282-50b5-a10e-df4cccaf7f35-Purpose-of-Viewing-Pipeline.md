@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/purpose-of-viewing-pipeline|Purpose of Viewing Pipeline]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/purpose-of-viewing-pipeline|purpose-of-viewing-pipeline]]"
 ---
 # Understanding the Purpose of the Viewing Pipeline
 

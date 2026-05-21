@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-algebra-postulates|Boolean Algebra Postulates]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-algebra-postulates|boolean-algebra-postulates]]"
 ---
 # Boolean Algebra Postulates: The Foundation of Digital Logic
 

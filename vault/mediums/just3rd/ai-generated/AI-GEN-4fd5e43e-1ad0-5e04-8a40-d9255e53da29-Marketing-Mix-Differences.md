@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-differences|Marketing Mix Differences]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-differences|marketing-mix-differences]]"
 ---
 # Understanding the Differences Between 4Ps and 4Cs
 

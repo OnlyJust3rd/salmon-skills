@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/design-principle-application|Design Principle Application]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/design-principle-application|design-principle-application]]"
 ---
 # Applying Design Principles for Effective UI Solutions
 

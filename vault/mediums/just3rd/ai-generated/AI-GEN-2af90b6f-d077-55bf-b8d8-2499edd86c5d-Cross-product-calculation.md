@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/cross-product-calculation|Cross product calculation]]"
+  - "[[skills/mathematics/vector/microskills/cross-product-calculation|cross-product-calculation]]"
 ---
 # Calculating the Vector (Cross) Product
 

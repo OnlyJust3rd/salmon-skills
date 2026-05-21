@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/schematic-to-layout-translation|Schematic-to-Layout Translation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/schematic-to-layout-translation|schematic-to-layout-translation]]"
 ---
 # Schematic-to-Layout Translation in PCB Design
 

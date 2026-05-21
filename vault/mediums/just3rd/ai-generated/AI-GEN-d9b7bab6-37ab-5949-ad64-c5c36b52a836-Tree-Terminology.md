@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/tree-terminology|Tree Terminology]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/tree-terminology|tree-terminology]]"
 ---
 # Understanding Tree Terminology
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/2d-geometric-representation|2D Geometric Representation]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/2d-geometric-representation|2d-geometric-representation]]"
 ---
 # 2D Geometric Representation
 

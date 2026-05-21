@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/common-input-devices|Common Input Devices]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/common-input-devices|common-input-devices]]"
 ---
 # Identifying Common Input Devices
 

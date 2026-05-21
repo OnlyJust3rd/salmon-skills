@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "RC/RL Time Constant Computation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Circuit Analysis"
-parent-competency: "L3- Analyze Step Responses"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/circuit-analysis|circuit-analysis]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L2-analyze-step-responses|L2-analyze-step-responses]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # RC/RL Time Constant Computation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/circuit-analysis/c
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L3-analyze-step-responses|L3- Analyze Step Responses]]
+- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L2-analyze-step-responses|L3- Analyze Step Responses]]
 
 ## Description
 

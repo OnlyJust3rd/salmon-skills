@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/kernel-definition-for-transformation|Kernel definition for transformation]]"
+  - "[[skills/mathematics/linear-transformations/microskills/kernel-definition-for-transformation|kernel-definition-for-transformation]]"
 ---
 # Understanding the Kernel of a Linear Transformation
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/graph-algorithm-definitions|Graph Algorithm Definitions]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/graph-algorithm-definitions|graph-algorithm-definitions]]"
 ---
 # Graph Algorithm Definitions
 

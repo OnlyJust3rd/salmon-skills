@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/text-data-clustering-execution|Text Data Clustering Execution]]"
+  - "[[skills/data/data-science/text-clustering/microskills/text-data-clustering-execution|text-data-clustering-execution]]"
 ---
 # Executing K-Means Clustering on Text Data
 

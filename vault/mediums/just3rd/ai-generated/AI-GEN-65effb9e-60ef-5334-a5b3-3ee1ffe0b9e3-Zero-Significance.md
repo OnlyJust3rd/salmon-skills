@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/zero-significance|Zero Significance]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/zero-significance|zero-significance]]"
 ---
 # Understanding the Significance of Zeros in Transforms
 

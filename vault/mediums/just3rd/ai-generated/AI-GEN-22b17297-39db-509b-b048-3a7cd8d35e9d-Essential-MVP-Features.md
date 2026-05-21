@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/essential-mvp-features|Essential MVP Features]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/essential-mvp-features|essential-mvp-features]]"
 ---
 # Essential MVP Features
 

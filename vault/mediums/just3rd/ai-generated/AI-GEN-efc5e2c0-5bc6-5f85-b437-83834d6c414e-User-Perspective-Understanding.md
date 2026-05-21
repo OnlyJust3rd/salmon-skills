@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-perspective-understanding|User Perspective Understanding]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-perspective-understanding|user-perspective-understanding]]"
 ---
 # Understanding the User Perspective
 

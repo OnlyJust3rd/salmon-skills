@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Hypervisor Performance Characteristics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Virtualization"
-parent-competency: "L4- Compare Hypervisor Use Cases"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-virtualization/system-virtualization|system-virtualization]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L3-compare-hypervisor-use-cases|L3-compare-hypervisor-use-cases]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Hypervisor Performance Characteristics
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/system-virtualization/s
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L4-compare-hypervisor-use-cases|L4- Compare Hypervisor Use Cases]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L3-compare-hypervisor-use-cases|L4- Compare Hypervisor Use Cases]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/k-map-optimization-process|K-map Optimization Process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/k-map-optimization-process|k-map-optimization-process]]"
 ---
 # K-map Optimization Process: Simplifying Logic
 

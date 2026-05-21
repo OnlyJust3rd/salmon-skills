@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|Xeon Phi Processor Components]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|xeon-phi-processor-components]]"
 ---
 # Xeon Phi Processor Components
 

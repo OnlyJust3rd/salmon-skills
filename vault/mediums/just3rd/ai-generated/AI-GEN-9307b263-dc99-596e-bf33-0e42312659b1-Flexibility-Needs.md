@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/flexibility-needs|Flexibility Needs]]"
+  - "[[skills/data/databases/nosql-database/microskills/flexibility-needs|flexibility-needs]]"
 ---
 # Flexibility Needs in NoSQL: When Data Structures Need to Adapt
 

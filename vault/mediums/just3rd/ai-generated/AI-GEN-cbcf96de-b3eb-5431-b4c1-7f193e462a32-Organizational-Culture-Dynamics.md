@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/organizational-culture-dynamics|Organizational Culture Dynamics]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/organizational-culture-dynamics|organizational-culture-dynamics]]"
 ---
 # The Interplay of Leadership and Culture: A Foundation for Change
 

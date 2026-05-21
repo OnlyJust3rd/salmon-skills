@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/employment-contract-analysis|Employment Contract Analysis]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/employment-contract-analysis|employment-contract-analysis]]"
 ---
 # Employment Contract Analysis
 

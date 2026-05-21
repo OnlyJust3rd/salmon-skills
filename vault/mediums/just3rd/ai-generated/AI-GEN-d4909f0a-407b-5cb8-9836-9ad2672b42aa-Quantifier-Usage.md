@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/quantifier-usage|Quantifier Usage]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/quantifier-usage|quantifier-usage]]"
 ---
 # Understanding Quantifiers in Predicate Logic
 

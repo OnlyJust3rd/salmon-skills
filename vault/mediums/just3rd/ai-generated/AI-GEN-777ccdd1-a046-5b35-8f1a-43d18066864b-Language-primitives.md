@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/language-primitives|Language primitives]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/language-primitives|language-primitives]]"
 ---
 # Understanding JavaScript Language Primitives: Variables, Operators, and Control Structures
 

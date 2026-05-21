@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-and-input-signal-integration|Impulse Response and Input Signal Integration]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-and-input-signal-integration|impulse-response-and-input-signal-integration]]"
 ---
 # Integrating Impulse Response and Input Signal for LTI System Output
 

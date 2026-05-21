@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-formulation|Binomial expansion formulation]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-formulation|binomial-expansion-formulation]]"
 ---
 # Binomial Expansion Formulation
 

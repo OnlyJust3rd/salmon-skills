@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Curated Zone"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Data Lake"
-parent-competency: "L3- Apply Data Lake Organization Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-lake/data-lake|data-lake]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-lake/competencies/L2-apply-data-lake-organization-concepts|L2-apply-data-lake-organization-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Curated Zone
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-lake/data-lake|Data Lake]]
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-lake/competencies/L3-apply-data-lake-organization-concepts|L3- Apply Data Lake Organization Concepts]]
+- [[skills/data/data-platforms/data-lake/competencies/L2-apply-data-lake-organization-concepts|L3- Apply Data Lake Organization Concepts]]
 
 ## Description
 

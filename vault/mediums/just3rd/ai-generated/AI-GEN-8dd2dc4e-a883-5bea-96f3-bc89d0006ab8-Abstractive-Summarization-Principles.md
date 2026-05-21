@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-summarization/microskills/abstractive-summarization-principles|Abstractive Summarization Principles]]"
+  - "[[skills/data/data-science/text-summarization/microskills/abstractive-summarization-principles|abstractive-summarization-principles]]"
 ---
 # Abstractive Summarization: Understanding the Core Concepts
 

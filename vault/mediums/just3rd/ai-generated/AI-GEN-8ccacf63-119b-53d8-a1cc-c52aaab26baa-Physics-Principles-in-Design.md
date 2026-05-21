@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/physics-principles-in-design|Physics Principles in Design]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/physics-principles-in-design|physics-principles-in-design]]"
 ---
 # Applying Physics Principles for Smarter System Design
 

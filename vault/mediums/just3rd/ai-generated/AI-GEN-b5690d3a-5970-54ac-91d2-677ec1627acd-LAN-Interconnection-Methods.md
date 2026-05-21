@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/lan-interconnection-methods|LAN Interconnection Methods]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/lan-interconnection-methods|lan-interconnection-methods]]"
 ---
 # Connecting Local Area Networks (LANs)
 

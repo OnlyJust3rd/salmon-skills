@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/invisible-watermarking-definition|Invisible Watermarking Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/invisible-watermarking-definition|invisible-watermarking-definition]]"
 ---
 # Invisible Watermarking: A Definition
 

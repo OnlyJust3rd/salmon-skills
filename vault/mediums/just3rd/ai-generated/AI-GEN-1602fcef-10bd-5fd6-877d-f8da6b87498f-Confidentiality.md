@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/confidentiality|Confidentiality]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/confidentiality|confidentiality]]"
 ---
 # Understanding Confidentiality in Cryptography
 

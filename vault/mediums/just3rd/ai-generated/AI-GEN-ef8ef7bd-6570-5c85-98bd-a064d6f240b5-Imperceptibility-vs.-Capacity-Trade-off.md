@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/imperceptibility-vs-capacity-trade-off|Imperceptibility vs. Capacity Trade-off]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/imperceptibility-vs-capacity-trade-off|imperceptibility-vs-capacity-trade-off]]"
 ---
 # Imperceptibility vs. Capacity: Balancing the Scales in Digital Watermarking
 

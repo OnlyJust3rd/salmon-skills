@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/databricks/microskills/managed-spark-cluster|Managed Spark Cluster]]"
+  - "[[skills/data/data-platforms/databricks/microskills/managed-spark-cluster|managed-spark-cluster]]"
 ---
 # Understanding Managed Spark Clusters in Databricks
 

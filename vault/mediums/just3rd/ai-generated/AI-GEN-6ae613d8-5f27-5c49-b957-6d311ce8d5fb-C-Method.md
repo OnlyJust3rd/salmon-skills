@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/c-sharp-method|C# Method]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/c-sharp-method|c-sharp-method]]"
 ---
 # C# Methods: Reusable Behavior Units
 

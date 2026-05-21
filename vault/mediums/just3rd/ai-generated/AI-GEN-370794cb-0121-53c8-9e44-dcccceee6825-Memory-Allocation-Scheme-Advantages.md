@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-advantages|Memory Allocation Scheme Advantages]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-advantages|memory-allocation-scheme-advantages]]"
 ---
 # Advantages of Memory Allocation Schemes
 

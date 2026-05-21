@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Role of Embedded Systems in IoT"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "Internet of Things"
-parent-competency: "L2- Describe Embedded Systems as IoT Nodes"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/robotics-iot/internet-of-things/internet-of-things|internet-of-things]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-describe-embedded-systems-as-iot-nodes|L1-describe-embedded-systems-as-iot-nodes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Role of Embedded Systems in IoT
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/robotics-iot/internet-of-things/interne
 
 Parent competency:
 
-- [[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L2-describe-embedded-systems-as-iot-nodes|L2- Describe Embedded Systems as IoT Nodes]]
+- [[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-describe-embedded-systems-as-iot-nodes|L2- Describe Embedded Systems as IoT Nodes]]
 
 ## Description
 

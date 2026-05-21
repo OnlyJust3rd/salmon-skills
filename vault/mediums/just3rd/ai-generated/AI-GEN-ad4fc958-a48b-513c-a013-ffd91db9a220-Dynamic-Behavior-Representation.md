@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/dynamic-behavior-representation|Dynamic Behavior Representation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/dynamic-behavior-representation|dynamic-behavior-representation]]"
 ---
 # Understanding Dynamic Behavior in UML
 

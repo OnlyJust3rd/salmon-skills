@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/imperative-automation-principles|Imperative Automation Principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/imperative-automation-principles|imperative-automation-principles]]"
 ---
 # Understanding Imperative Automation: The "How-To" Approach
 

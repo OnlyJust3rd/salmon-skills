@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify and Define Projection Types"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Perspective Projection"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Identify and Define Geometric Transformations"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-identify-and-define-geometric-transformations|L1-identify-and-define-geometric-transformations]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/graphics-media/perspective-projection/perspective-projection|perspective-projection]]"
+requires-microskills:
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/parallel-projection|parallel-projection]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/perspective-projection|perspective-projection]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-types|projection-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify and Define Projection Types

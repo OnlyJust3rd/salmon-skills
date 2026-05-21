@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/big-o-notation-significance|Big O Notation Significance]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/big-o-notation-significance|big-o-notation-significance]]"
 ---
 # The Significance of Big O Notation
 

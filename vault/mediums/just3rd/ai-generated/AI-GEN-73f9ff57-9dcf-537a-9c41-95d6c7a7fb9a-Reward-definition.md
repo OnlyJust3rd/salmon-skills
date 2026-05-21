@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/reward-definition|Reward definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/reward-definition|reward-definition]]"
 ---
 # Understanding the Reward Signal in Reinforcement Learning
 

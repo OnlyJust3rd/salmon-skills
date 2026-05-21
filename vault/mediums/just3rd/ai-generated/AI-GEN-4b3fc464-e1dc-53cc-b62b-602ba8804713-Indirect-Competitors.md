@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/indirect-competitors|Indirect Competitors]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/indirect-competitors|indirect-competitors]]"
 ---
 # Understanding Indirect Competitors
 

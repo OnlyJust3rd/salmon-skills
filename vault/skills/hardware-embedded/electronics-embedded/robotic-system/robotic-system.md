@@ -1,17 +1,28 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Robotic System"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-coverage:
-  - "Implementation"
-  - "ToolUsage"
-competency-count: 3
-microskill-count: 10
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe101-computer-engineering-exploration"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L1-list-robotic-components|L1-list-robotic-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L1-describe-robot-locomotion-manipulation|L1-describe-robot-locomotion-manipulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L2-assemble-program-and-implement-simple-robotic-system|L2-assemble-program-and-implement-simple-robotic-system]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L2-assemble-program-and-implement-simple-robotic-system|L2-assemble-program-and-implement-simple-robotic-system]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/hardware-software-integration-for-robotics|hardware-software-integration-for-robotics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/locomotion-and-manipulation-concepts|locomotion-and-manipulation-concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/motor-components|motor-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robot-interaction-principles|robot-interaction-principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robot-movement-principles|robot-movement-principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robotic-system-assembly|robotic-system-assembly]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robotic-system-programming|robotic-system-programming]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/standard-robotic-components|standard-robotic-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/task-oriented-robotic-implementation|task-oriented-robotic-implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/wheeled-components|wheeled-components]]"
 ---
 
 # Robotic System
@@ -21,8 +32,8 @@ Building and programming robotic systems, integrating mechanical and electronic 
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L1-list-robotic-components|L1- List robotic components]]
-- [[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L2-describe-robot-locomotion-manipulation|L2- Describe robot locomotion/manipulation]]
-- [[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L3-assemble-program-and-implement-simple-robotic-system|L3- Assemble/program and implement simple robotic system]]
+- [[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L1-describe-robot-locomotion-manipulation|L2- Describe robot locomotion/manipulation]]
+- [[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L2-assemble-program-and-implement-simple-robotic-system|L3- Assemble/program and implement simple robotic system]]
 
 ## Microskills
 

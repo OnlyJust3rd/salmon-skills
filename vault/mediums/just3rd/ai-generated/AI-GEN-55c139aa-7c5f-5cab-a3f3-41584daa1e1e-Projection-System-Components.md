@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-system-components|Projection System Components]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-system-components|projection-system-components]]"
 ---
 # Projection System Components
 

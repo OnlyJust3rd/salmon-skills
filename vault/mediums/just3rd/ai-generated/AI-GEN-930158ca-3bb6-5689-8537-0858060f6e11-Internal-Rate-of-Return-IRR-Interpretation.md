@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/internal-rate-of-return-irr-interpretation|Internal Rate of Return (IRR) Interpretation]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/internal-rate-of-return-irr-interpretation|internal-rate-of-return-irr-interpretation]]"
 ---
 # Understanding the Internal Rate of Return (IRR) Interpretation
 

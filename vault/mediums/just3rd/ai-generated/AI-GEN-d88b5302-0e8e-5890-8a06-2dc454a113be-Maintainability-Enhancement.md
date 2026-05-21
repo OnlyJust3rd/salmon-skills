@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/maintainability-enhancement|Maintainability Enhancement]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/maintainability-enhancement|maintainability-enhancement]]"
 ---
 # Enhancing Code Maintainability Through Refactoring
 

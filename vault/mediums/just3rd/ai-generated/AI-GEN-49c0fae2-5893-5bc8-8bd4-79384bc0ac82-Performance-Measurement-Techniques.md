@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/performance-measurement-techniques|Performance Measurement Techniques]]"
+  - "[[skills/systems/networking/network-performance/microskills/performance-measurement-techniques|performance-measurement-techniques]]"
 ---
 # Measuring Network Performance: Throughput, Latency, and Jitter
 

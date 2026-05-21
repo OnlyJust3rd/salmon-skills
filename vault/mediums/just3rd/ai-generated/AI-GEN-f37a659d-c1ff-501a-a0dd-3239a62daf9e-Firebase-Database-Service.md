@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/firebase-database-service|Firebase Database Service]]"
+  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/firebase-database-service|firebase-database-service]]"
 ---
 # Understanding Firebase Database Services
 

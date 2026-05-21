@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/workload-fit|Workload Fit]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/workload-fit|workload-fit]]"
 ---
 # Matching Workloads to Lakehouse or Warehouse
 

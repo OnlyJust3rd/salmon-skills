@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/data-exchange-in-distributed-systems|Data Exchange in Distributed Systems]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/data-exchange-in-distributed-systems|data-exchange-in-distributed-systems]]"
 ---
 # Understanding Data Exchange in Distributed Systems
 

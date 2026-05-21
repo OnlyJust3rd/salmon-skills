@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "User Performance Metrics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human Cognitive and Perception"
-parent-competency: "L4- Analyze cognitive load impact"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/human-cognitive-and-perception|human-cognitive-and-perception]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/competencies/L3-analyze-cognitive-load-impact|L3-analyze-cognitive-load-impact]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # User Performance Metrics
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/human-cognitive-and-perception
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/human-cognitive-and-perception/competencies/L4-analyze-cognitive-load-impact|L4- Analyze cognitive load impact]]
+- [[skills/web-and-design/frontend-ux/human-cognitive-and-perception/competencies/L3-analyze-cognitive-load-impact|L4- Analyze cognitive load impact]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/redundancy-reduction-in-design|Redundancy Reduction in Design]]"
+  - "[[skills/data/databases/relational-database/microskills/redundancy-reduction-in-design|redundancy-reduction-in-design]]"
 ---
 # Understanding Redundancy Reduction through Normalization
 

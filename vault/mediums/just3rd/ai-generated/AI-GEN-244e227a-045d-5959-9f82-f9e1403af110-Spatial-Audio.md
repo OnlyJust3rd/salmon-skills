@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-audio/microskills/spatial-audio|Spatial Audio]]"
+  - "[[skills/creative-media/game-development/game-audio/microskills/spatial-audio|spatial-audio]]"
 ---
 # Spatial Audio in Games
 

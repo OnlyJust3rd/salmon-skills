@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Integrated Project Showcase"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Technical Communication"
-parent-competency: "L5- Present Functional Project"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/technical-communication/technical-communication|technical-communication]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/technical-communication/competencies/L3-present-functional-project|L3-present-functional-project]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Integrated Project Showcase
@@ -15,7 +17,7 @@ Parent macro: [[skills/engineering/engineering-practices/technical-communication
 
 Parent competency:
 
-- [[skills/engineering/engineering-practices/technical-communication/competencies/L5-present-functional-project|L5- Present Functional Project]]
+- [[skills/engineering/engineering-practices/technical-communication/competencies/L3-present-functional-project|L5- Present Functional Project]]
 
 ## Description
 

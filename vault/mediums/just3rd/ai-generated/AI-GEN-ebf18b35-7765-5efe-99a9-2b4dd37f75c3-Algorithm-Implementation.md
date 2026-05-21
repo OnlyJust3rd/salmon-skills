@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/algorithm-implementation|Algorithm Implementation]]"
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-implementation|Algorithm Implementation]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/algorithm-implementation|algorithm-implementation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-implementation|algorithm-implementation]]"
 ---
 # Algorithm Implementation: Translating Logic to Code
 

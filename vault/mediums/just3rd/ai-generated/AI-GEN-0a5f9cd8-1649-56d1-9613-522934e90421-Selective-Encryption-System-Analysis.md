@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-system-analysis|Selective Encryption System Analysis]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-system-analysis|selective-encryption-system-analysis]]"
 ---
 # Analyzing Selective Encryption Systems
 

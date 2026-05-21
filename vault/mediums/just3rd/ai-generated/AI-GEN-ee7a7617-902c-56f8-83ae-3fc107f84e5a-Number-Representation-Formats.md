@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/number-representation-formats|Number Representation Formats]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/number-representation-formats|number-representation-formats]]"
 ---
 # Number Representation Formats
 

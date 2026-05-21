@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/imperceptibility-vs-robustness-trade-off|Imperceptibility vs. Robustness Trade-off]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/imperceptibility-vs-robustness-trade-off|imperceptibility-vs-robustness-trade-off]]"
 ---
 # Imperceptibility vs. Robustness in Digital Watermarking
 

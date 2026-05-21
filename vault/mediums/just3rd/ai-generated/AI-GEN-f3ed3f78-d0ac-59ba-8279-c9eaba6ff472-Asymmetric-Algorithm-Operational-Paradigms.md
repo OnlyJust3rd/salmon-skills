@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/asymmetric-algorithm-operational-paradigms|Asymmetric Algorithm Operational Paradigms]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/asymmetric-algorithm-operational-paradigms|asymmetric-algorithm-operational-paradigms]]"
 ---
 # Asymmetric Algorithm Operational Paradigms
 

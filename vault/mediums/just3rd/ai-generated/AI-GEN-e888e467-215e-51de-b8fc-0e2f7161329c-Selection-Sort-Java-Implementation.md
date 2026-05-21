@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/selection-sort-java-implementation|Selection Sort Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/selection-sort-java-implementation|selection-sort-java-implementation]]"
 ---
 # Selection Sort in Java
 

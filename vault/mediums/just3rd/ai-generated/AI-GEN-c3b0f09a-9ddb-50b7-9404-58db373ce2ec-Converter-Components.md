@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/converter-components|Converter Components]]"
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/converter-components|converter-components]]"
 ---
 # Understanding Converter Components: The Building Blocks of Signal Conversion
 

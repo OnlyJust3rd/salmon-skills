@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/vi-editor-operations|Vi Editor Operations]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/vi-editor-operations|vi-editor-operations]]"
 ---
 # Mastering Vi for Text File Editing in Linux
 

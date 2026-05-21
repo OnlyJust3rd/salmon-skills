@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermarking-rationale|Watermarking Rationale]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermarking-rationale|watermarking-rationale]]"
 ---
 # Why Do We Use Digital Watermarking?
 

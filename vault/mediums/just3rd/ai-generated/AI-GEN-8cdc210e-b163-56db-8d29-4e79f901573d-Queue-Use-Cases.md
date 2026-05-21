@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/queue-use-cases|Queue Use Cases]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/queue-use-cases|queue-use-cases]]"
 ---
 # Queue Use Cases: Keeping Things in Order
 

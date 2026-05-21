@@ -1,17 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Data Mining"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 232 - Data Models"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Data Analyst"
-source-note: "courses/kmutt/cpe-2021/cpe-232-data-models"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/data-mining/competencies/L1-crisp-dm-phases-and-relationships|L1-crisp-dm-phases-and-relationships]]"
+standard-competency:
+  - "[[skills/data/data-platforms/data-mining/competencies/L1-crisp-dm-phases-and-relationships|L1-crisp-dm-phases-and-relationships]]"
+microskills:
+  - "[[skills/data/data-platforms/data-mining/microskills/crisp-dm-framework|crisp-dm-framework]]"
+  - "[[skills/data/data-platforms/data-mining/microskills/logical-flow|logical-flow]]"
+  - "[[skills/data/data-platforms/data-mining/microskills/phase-interconnections|phase-interconnections]]"
 ---
 
 # Data Mining
@@ -20,7 +22,7 @@ Applying the Cross-Industry Standard Process for Data Mining (CRISP-DM) framewor
 
 ## Competencies
 
-- [[skills/data/data-platforms/data-mining/competencies/L2-crisp-dm-phases-and-relationships|L2- CRISP-DM phases and relationships]]
+- [[skills/data/data-platforms/data-mining/competencies/L1-crisp-dm-phases-and-relationships|L2- CRISP-DM phases and relationships]]
 
 ## Microskills
 

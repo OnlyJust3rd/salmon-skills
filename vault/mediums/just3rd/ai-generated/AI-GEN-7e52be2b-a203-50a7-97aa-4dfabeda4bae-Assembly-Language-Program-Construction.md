@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/assembly-language-program-construction|Assembly Language Program Construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/assembly-language-program-construction|assembly-language-program-construction]]"
 ---
 # Building Your First Assembly Programs
 

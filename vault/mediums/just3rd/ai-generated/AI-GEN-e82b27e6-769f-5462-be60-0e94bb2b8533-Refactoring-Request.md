@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/refactoring-request|Refactoring Request]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/refactoring-request|refactoring-request]]"
 ---
 # AI-Assisted Refactoring Requests
 

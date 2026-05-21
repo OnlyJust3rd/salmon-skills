@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Purpose of Network Layers"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Computer Network Architecture"
-parent-competency: "L2- Explain Network Architecture and TCP/IP Layers"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/computer-network-architecture/computer-network-architecture|computer-network-architecture]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Purpose of Network Layers
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/computer-network-architecture/computer
 
 Parent competency:
 
-- [[skills/systems/networking/computer-network-architecture/competencies/L2-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/filter-performance-testing|Filter Performance Testing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/filter-performance-testing|filter-performance-testing]]"
 ---
 # Filter Performance Testing: Verifying Your Noise Reduction
 

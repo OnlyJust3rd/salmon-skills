@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/faas-execution-model|FaaS Execution Model]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/faas-execution-model|faas-execution-model]]"
 ---
 # Understanding the FaaS Execution Model
 

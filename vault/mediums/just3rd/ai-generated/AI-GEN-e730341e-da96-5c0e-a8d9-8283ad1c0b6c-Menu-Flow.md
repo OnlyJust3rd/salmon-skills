@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ui/microskills/menu-flow|Menu Flow]]"
+  - "[[skills/creative-media/game-development/game-ui/microskills/menu-flow|menu-flow]]"
 ---
 # Understanding Menu Flow in Game UI
 

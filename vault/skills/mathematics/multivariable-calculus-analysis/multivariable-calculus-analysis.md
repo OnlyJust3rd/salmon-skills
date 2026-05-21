@@ -1,17 +1,22 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Multivariable Calculus Analysis"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 101 - Mathematics I"
-coverage:
-  - "Concept"
-  - "Analysis"
-competency-count: 2
-microskill-count: 5
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-101-mathematics-i"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/multivariable-calculus-analysis/competencies/L1-explain-multivariable-continuity|L1-explain-multivariable-continuity]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/competencies/L1-identify-and-explain-critical-points-and-extrema|L1-identify-and-explain-critical-points-and-extrema]]"
+standard-competency:
+  - "[[skills/mathematics/multivariable-calculus-analysis/competencies/L1-explain-multivariable-continuity|L1-explain-multivariable-continuity]]"
+microskills:
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/classification-of-multivariable-extrema|classification-of-multivariable-extrema]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/definition-of-multivariable-continuity|definition-of-multivariable-continuity]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/implications-of-multivariable-continuity|implications-of-multivariable-continuity]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/multivariable-critical-point-identification|multivariable-critical-point-identification]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/relationship-between-critical-points-and-extrema|relationship-between-critical-points-and-extrema]]"
 ---
 
 # Multivariable Calculus Analysis
@@ -20,8 +25,8 @@ Analyze functions of several variables, including sketching graphs of equations,
 
 ## Competencies
 
-- [[L2-explain-multivariable-continuity|L2- Explain multivariable continuity]]
-- [[L2-identify-and-explain-critical-points-and-extrema|L2- Identify and explain critical points and extrema]]
+- [[skills/mathematics/multivariable-calculus-analysis/competencies/L1-explain-multivariable-continuity|L2- Explain multivariable continuity]]
+- [[skills/mathematics/multivariable-calculus-analysis/competencies/L1-identify-and-explain-critical-points-and-extrema|L2- Identify and explain critical points and extrema]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/perception-of-form|Perception of Form]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/perception-of-form|perception-of-form]]"
 ---
 # Understanding Form Through Shading
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/json-format/microskills/human-readable-structured-data|Human-readable structured data]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/human-readable-structured-data|human-readable-structured-data]]"
 ---
 # Understanding JSON as Human-Readable Structured Data
 

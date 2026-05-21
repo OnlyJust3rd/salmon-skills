@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/state-machine-definitions|State Machine Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/state-machine-definitions|state-machine-definitions]]"
 ---
 # State Machine Definitions
 

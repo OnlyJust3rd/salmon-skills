@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/frequency-domain-signal-representation|Frequency Domain Signal Representation]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/frequency-domain-signal-representation|frequency-domain-signal-representation]]"
 ---
 # Understanding the Frequency Domain: How FT/DTFT Paints a Signal's Spectrum
 

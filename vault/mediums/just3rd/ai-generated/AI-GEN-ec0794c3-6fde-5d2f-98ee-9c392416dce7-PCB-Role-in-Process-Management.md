@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|PCB Role in Process Management]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|pcb-role-in-process-management]]"
 ---
 # Understanding the PCB's Role in Process Management
 

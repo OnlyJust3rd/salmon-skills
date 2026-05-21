@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- FinOps Principles and Strategies"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud FinOps"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L4- Differentiate Cloud Models"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L3-differentiate-cloud-models]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-finops/cloud-finops|cloud-finops]]"
+requires-microskills:
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cloud-cost-management|cloud-cost-management]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/collaborative-cost-ownership|collaborative-cost-ownership]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-optimization-strategies|cost-optimization-strategies]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/finops-principles|finops-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- FinOps Principles and Strategies
@@ -25,7 +28,7 @@ List and define the core principles of FinOps and key cost optimization strategi
 
 ## Strict Prerequisites
 
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L4-differentiate-cloud-models|L4- Differentiate Cloud Models]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L4- Differentiate Cloud Models]]
 
 ## Optional Prerequisites
 

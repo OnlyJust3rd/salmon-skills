@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-execution-simulation|Pipelined Execution Simulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-execution-simulation|pipelined-execution-simulation]]"
 ---
 # Simulating Pipelined Execution
 

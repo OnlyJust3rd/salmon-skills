@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/5g-for-iot|5G for IoT]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/5g-for-iot|5g-for-iot]]"
 ---
 # Understanding 5G for IoT
 

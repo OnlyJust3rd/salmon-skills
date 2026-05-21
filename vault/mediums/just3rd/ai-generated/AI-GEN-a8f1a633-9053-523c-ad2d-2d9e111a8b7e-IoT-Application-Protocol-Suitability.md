@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/iot-communication-and-networking/microskills/iot-application-protocol-suitability|IoT Application Protocol Suitability]]"
+  - "[[skills/systems/networking/iot-communication-and-networking/microskills/iot-application-protocol-suitability|iot-application-protocol-suitability]]"
 ---
 # Choosing the Right IoT Application Protocol
 

@@ -1,18 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List DRM mechanisms"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Rights Management Systems"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Digital Watermarking Fundamentals"
+  - "[[skills/security/cybersecurity/digital-watermarking/competencies/L1-digital-watermarking-fundamentals|L1-digital-watermarking-fundamentals]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 1
-corresponding-course-competencies: []
+parent-skill: "[[skills/security/cybersecurity/digital-rights-management-systems/digital-rights-management-systems|digital-rights-management-systems]]"
+requires-microskills:
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/drm-enforcement-mechanisms|drm-enforcement-mechanisms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List DRM mechanisms

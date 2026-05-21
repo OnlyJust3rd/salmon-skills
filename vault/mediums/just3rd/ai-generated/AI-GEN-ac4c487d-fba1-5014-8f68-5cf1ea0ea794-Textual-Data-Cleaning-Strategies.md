@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-cleaning-strategies|Textual Data Cleaning Strategies]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-cleaning-strategies|textual-data-cleaning-strategies]]"
 ---
 # Textual Data Cleaning Strategies for Noise Removal
 

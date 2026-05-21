@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/hypervisor-performance-characteristics|Hypervisor Performance Characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/hypervisor-performance-characteristics|hypervisor-performance-characteristics]]"
 ---
 # Hypervisor Performance Characteristics: Analyzing the Differences
 

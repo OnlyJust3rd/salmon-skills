@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/endpoint-administration/microskills/permission-assignment|Permission Assignment]]"
+  - "[[skills/business-it/business-product/endpoint-administration/microskills/permission-assignment|permission-assignment]]"
 ---
 # Understanding Permission Assignment on Endpoints
 

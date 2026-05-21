@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/entity-composition|Entity Composition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/entity-composition|entity-composition]]"
 ---
 # Entity Composition: Building Blocks for Game Objects
 

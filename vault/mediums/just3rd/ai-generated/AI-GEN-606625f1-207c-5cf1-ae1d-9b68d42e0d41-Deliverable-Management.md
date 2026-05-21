@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/deliverable-management|Deliverable Management]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/deliverable-management|deliverable-management]]"
 ---
 # Deliverable Management in Platform Engineering
 

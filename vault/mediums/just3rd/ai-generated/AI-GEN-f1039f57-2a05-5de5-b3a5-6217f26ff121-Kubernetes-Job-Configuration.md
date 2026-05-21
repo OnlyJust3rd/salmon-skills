@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-job-configuration|Kubernetes Job Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-job-configuration|kubernetes-job-configuration]]"
 ---
 # Kubernetes Job Configuration
 

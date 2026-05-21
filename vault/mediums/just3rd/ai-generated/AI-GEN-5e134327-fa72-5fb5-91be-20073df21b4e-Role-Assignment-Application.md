@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/role-assignment-application|Role Assignment Application]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/role-assignment-application|role-assignment-application]]"
 ---
 # Assigning Roles for Effective Teamwork
 

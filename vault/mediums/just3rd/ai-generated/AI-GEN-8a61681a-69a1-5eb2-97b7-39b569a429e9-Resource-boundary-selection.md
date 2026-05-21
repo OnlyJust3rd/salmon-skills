@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/restful-api/microskills/resource-boundary-selection|Resource boundary selection]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/resource-boundary-selection|resource-boundary-selection]]"
 ---
 # Selecting Sensible Resources for Your API
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-pixel-manipulation-for-watermarking|Image Pixel Manipulation for Watermarking]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-pixel-manipulation-for-watermarking|image-pixel-manipulation-for-watermarking]]"
 ---
 # Preparing Images for Watermarking with Pixel Manipulation
 

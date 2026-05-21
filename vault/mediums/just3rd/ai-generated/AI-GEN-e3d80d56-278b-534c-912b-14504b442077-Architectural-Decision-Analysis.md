@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/architectural-decision-analysis|Architectural Decision Analysis]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/architectural-decision-analysis|architectural-decision-analysis]]"
 ---
 # Architectural Decision Analysis for Cloud Infrastructure
 

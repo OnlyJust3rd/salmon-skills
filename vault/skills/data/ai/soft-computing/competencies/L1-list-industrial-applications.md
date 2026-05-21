@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Industrial Applications"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Soft Computing"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Fuzzy Logic and Controllers"
+  - "[[skills/data/ai/soft-computing/competencies/L1-define-fuzzy-logic-and-controllers|L1-define-fuzzy-logic-and-controllers]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/ai/soft-computing/soft-computing|soft-computing]]"
+requires-microskills:
+  - "[[skills/data/ai/soft-computing/microskills/common-industrial-computing-uses|common-industrial-computing-uses]]"
+  - "[[skills/data/ai/soft-computing/microskills/industry-sectors-utilizing-computing|industry-sectors-utilizing-computing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Industrial Applications

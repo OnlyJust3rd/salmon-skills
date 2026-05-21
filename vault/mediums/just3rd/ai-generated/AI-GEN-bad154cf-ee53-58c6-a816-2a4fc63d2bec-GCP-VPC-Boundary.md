@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-vpc-boundary|GCP VPC Boundary]]"
+  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-vpc-boundary|gcp-vpc-boundary]]"
 ---
 # GCP VPC Boundaries: Architecting Secure and Organized Networks
 

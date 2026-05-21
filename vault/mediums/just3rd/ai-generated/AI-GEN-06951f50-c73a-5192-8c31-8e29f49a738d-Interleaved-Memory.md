@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/interleaved-memory|Interleaved Memory]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/interleaved-memory|interleaved-memory]]"
 ---
 # Understanding Interleaved Memory
 

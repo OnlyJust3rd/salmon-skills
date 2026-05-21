@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-terminology|CAD Terminology]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-terminology|cad-terminology]]"
 ---
 # Understanding CAD Terminology
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Visual Hierarchy Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Visual Interface Design"
-parent-competency: "L1- Visual Hierarchy Principles"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/visual-interface-design/visual-interface-design|visual-interface-design]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-visual-hierarchy-principles|L1-visual-hierarchy-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Visual Hierarchy Principles

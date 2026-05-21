@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/action-planning/microskills/responsibility-assignment-in-actions|Responsibility assignment in actions]]"
+  - "[[skills/programming/software-engineering/action-planning/microskills/responsibility-assignment-in-actions|responsibility-assignment-in-actions]]"
 ---
 # Assigning Responsibilities in Engineering Actions
 

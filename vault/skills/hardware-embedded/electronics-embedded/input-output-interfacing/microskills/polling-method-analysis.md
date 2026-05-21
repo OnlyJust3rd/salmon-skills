@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Polling Method Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Input Output Interfacing"
-parent-competency: "L4- Analyze I/O Access Methods"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L3-analyze-i-o-access-methods|L3-analyze-i-o-access-methods]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Polling Method Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/input-output-inter
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L4-analyze-i-o-access-methods|L4- Analyze I/O Access Methods]]
+- [[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L3-analyze-i-o-access-methods|L4- Analyze I/O Access Methods]]
 
 ## Description
 

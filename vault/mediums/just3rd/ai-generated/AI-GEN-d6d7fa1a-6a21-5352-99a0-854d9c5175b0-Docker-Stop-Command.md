@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-stop-command|Docker Stop Command]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-stop-command|docker-stop-command]]"
 ---
 # Halting Docker Containers with `docker stop`
 

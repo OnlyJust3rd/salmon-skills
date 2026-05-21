@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/asynchronous-communication|Asynchronous Communication]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/asynchronous-communication|asynchronous-communication]]"
 ---
 # Understanding Asynchronous Communication in Event-Driven Architectures
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-geometric-interpretation-hypervolume|Triple integral geometric interpretation (hypervolume)]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-geometric-interpretation-hypervolume|triple-integral-geometric-interpretation-hypervolume]]"
 ---
 # Understanding Triple Integrals as Hypervolumes
 

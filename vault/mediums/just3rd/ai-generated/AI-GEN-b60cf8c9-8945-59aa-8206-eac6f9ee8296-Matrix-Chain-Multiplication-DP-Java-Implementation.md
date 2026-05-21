@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/matrix-chain-multiplication-dp-java-implementation|Matrix Chain Multiplication DP Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/matrix-chain-multiplication-dp-java-implementation|matrix-chain-multiplication-dp-java-implementation]]"
 ---
 # Matrix Chain Multiplication DP in Java
 

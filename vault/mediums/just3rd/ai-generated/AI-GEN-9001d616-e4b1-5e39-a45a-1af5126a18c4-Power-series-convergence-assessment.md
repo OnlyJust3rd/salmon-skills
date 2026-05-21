@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/power-series-convergence-assessment|Power series convergence assessment]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/power-series-convergence-assessment|power-series-convergence-assessment]]"
 ---
 # Analyzing Power Series Convergence
 

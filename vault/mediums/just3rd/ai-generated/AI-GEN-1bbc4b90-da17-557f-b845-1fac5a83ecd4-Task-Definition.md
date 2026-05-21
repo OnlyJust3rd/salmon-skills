@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/project-management/microskills/task-definition|Task Definition]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/task-definition|task-definition]]"
 ---
 # Task Definition: Breaking Down Your Project
 

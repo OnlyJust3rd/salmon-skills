@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-run-command|Docker Run Command]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-run-command|docker-run-command]]"
 ---
 # Docker Run Command: Starting Your First Container
 

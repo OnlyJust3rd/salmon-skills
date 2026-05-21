@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-machine-learning-in-python-code-implementation|Implement Machine Learning in Python code implementation]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-machine-learning-in-python-code-implementation|implement-machine-learning-in-python-code-implementation]]"
 ---
 # Implementing a Basic Machine Learning Model in Python
 

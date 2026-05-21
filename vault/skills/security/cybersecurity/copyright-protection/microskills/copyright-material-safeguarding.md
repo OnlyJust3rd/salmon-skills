@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Copyright Material Safeguarding"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Copyright Protection"
-parent-competency: "L2- Explain Copyright Protection Concepts"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/copyright-protection/competencies/L1-explain-copyright-protection-concepts|L1-explain-copyright-protection-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Copyright Material Safeguarding
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/copyright-protection/copyright-pro
 
 Parent competency:
 
-- [[skills/security/cybersecurity/copyright-protection/competencies/L2-explain-copyright-protection-concepts|L2- Explain Copyright Protection Concepts]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L1-explain-copyright-protection-concepts|L2- Explain Copyright Protection Concepts]]
 
 ## Description
 

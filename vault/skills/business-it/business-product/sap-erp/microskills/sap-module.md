@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "SAP Module"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "SAP ERP"
-parent-competency: "L2- Explain SAP ERP Module Concepts"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/sap-erp/sap-erp|sap-erp]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/sap-erp/competencies/L1-explain-sap-erp-module-concepts|L1-explain-sap-erp-module-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # SAP Module
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/sap-erp/sap-erp|SAP ERP]]
 
 Parent competency:
 
-- [[skills/business-it/business-product/sap-erp/competencies/L2-explain-sap-erp-module-concepts|L2- Explain SAP ERP Module Concepts]]
+- [[skills/business-it/business-product/sap-erp/competencies/L1-explain-sap-erp-module-concepts|L2- Explain SAP ERP Module Concepts]]
 
 ## Description
 

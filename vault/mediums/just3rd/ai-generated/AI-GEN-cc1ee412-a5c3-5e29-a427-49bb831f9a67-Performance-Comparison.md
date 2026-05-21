@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/performance-comparison|Performance Comparison]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/performance-comparison|performance-comparison]]"
 ---
 # Performance Comparison
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/network-segmentation-and-connection|Network Segmentation and Connection]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/network-segmentation-and-connection|network-segmentation-and-connection]]"
 ---
 # Joining Small Networks: Principles of Network Segmentation and Connection
 

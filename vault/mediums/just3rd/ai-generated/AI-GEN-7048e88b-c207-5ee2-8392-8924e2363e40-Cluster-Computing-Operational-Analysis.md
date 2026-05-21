@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-operational-analysis|Cluster Computing Operational Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-operational-analysis|cluster-computing-operational-analysis]]"
 ---
 # Cluster Computing Operational Analysis
 

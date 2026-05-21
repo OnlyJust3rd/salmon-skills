@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/mac-properties|MAC Properties]]"
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/mac-properties|mac-properties]]"
 ---
 # Understanding MAC Properties
 

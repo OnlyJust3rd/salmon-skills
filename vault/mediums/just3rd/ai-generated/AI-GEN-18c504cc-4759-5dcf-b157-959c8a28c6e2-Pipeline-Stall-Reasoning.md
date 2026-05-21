@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipeline-stall-reasoning|Pipeline Stall Reasoning]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipeline-stall-reasoning|pipeline-stall-reasoning]]"
 ---
 # Reasoning About Pipeline Stalls
 

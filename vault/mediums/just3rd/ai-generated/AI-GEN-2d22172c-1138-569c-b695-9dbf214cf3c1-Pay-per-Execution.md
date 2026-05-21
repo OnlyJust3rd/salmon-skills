@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/pay-per-execution|Pay-per-Execution]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/pay-per-execution|pay-per-execution]]"
 ---
 # Pay-per-Execution: The Serverless Pricing Revolution
 

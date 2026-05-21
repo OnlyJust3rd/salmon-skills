@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-expressions|Boolean Expressions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-expressions|boolean-expressions]]"
 ---
 # Boolean Expressions and Logic Gates
 

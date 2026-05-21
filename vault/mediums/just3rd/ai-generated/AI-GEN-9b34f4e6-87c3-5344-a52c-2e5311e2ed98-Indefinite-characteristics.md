@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/indefinite-characteristics|Indefinite characteristics]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/indefinite-characteristics|indefinite-characteristics]]"
 ---
 # Indefinite Quadratic Forms: Spotting the Ambiguity
 

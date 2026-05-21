@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/mpeg-standards|MPEG Standards]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/mpeg-standards|mpeg-standards]]"
 ---
 # Understanding MPEG Standards for Video Compression
 

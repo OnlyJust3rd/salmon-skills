@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/external-information-retrieval|External Information Retrieval]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/external-information-retrieval|external-information-retrieval]]"
 ---
 # Fetching External Data with Terraform Data Sources
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "DTFT Phase Calculation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Fourier Transform Analysis"
-parent-competency: "L3- Calculate FT/DTFT Magnitude and Phase"
+  - "microskill"
+parent-skill: "[[skills/mathematics/fourier-transform-analysis/fourier-transform-analysis|fourier-transform-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/fourier-transform-analysis/competencies/L2-calculate-ft-dtft-magnitude-and-phase|L2-calculate-ft-dtft-magnitude-and-phase]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # DTFT Phase Calculation
@@ -15,7 +17,7 @@ Parent macro: [[fourier-transform-analysis|Fourier Transform Analysis]]
 
 Parent competency:
 
-- [[L3-calculate-ft-dtft-magnitude-and-phase|L3- Calculate FT/DTFT Magnitude and Phase]]
+- [[skills/mathematics/fourier-transform-analysis/competencies/L2-calculate-ft-dtft-magnitude-and-phase|L3- Calculate FT/DTFT Magnitude and Phase]]
 
 ## Description
 

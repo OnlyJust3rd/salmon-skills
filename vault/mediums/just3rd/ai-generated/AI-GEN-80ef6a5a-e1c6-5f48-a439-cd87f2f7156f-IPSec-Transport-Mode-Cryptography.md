@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-transport-mode-cryptography|IPSec Transport Mode Cryptography]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-transport-mode-cryptography|ipsec-transport-mode-cryptography]]"
 ---
 # IPSec Transport Mode Cryptography
 

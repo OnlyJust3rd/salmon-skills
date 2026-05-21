@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-performance-metrics|Cache Performance Metrics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-performance-metrics|cache-performance-metrics]]"
 ---
 # Calculating Cache Performance Metrics
 

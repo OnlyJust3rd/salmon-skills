@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/chain-rule-application-single-variable|Chain rule application (single-variable)]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/chain-rule-application-single-variable|chain-rule-application-single-variable]]"
 ---
 # Understanding the Chain Rule for Single-Variable Functions
 

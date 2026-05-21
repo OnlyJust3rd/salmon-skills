@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Customer Insight Adaptation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Lean Startup"
-parent-competency: "L2- Adaptability in Lean Startup"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-adaptability-in-lean-startup|L1-adaptability-in-lean-startup]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Customer Insight Adaptation
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/lean-startup/lean-startup|Le
 
 Parent competency:
 
-- [[skills/business-it/business-product/lean-startup/competencies/L2-adaptability-in-lean-startup|L2- Adaptability in Lean Startup]]
+- [[skills/business-it/business-product/lean-startup/competencies/L1-adaptability-in-lean-startup|L2- Adaptability in Lean Startup]]
 
 ## Description
 

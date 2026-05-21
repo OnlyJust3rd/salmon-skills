@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/trace-routing-strategy|Trace Routing Strategy]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/trace-routing-strategy|trace-routing-strategy]]"
 ---
 # Trace Routing Strategy for Basic PCB Layout
 

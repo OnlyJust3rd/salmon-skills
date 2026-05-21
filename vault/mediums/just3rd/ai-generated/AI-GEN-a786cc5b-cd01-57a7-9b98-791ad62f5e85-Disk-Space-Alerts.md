@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/disk-space-alerts|Disk Space Alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/disk-space-alerts|disk-space-alerts]]"
 ---
 # Disk Space Alerts
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/common-design-pattern-definitions|Common Design Pattern Definitions]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/common-design-pattern-definitions|common-design-pattern-definitions]]"
 ---
 # Understanding Common Software Design Patterns
 

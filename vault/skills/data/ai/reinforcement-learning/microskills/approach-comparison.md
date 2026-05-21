@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Approach comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 342 - Machine Learning"
-parent-macro: "Reinforcement Learning"
-parent-competency: "L2- Explain RL Approaches"
+  - "microskill"
+parent-skill: "[[skills/data/ai/reinforcement-learning/reinforcement-learning|reinforcement-learning]]"
+requires-in-competencies:
+  - "[[skills/data/ai/reinforcement-learning/competencies/L1-explain-rl-approaches|L1-explain-rl-approaches]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Approach comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/ai/reinforcement-learning/reinforcement-learning|Rei
 
 Parent competency:
 
-- [[skills/data/ai/reinforcement-learning/competencies/L2-explain-rl-approaches|L2- Explain RL Approaches]]
+- [[skills/data/ai/reinforcement-learning/competencies/L1-explain-rl-approaches|L2- Explain RL Approaches]]
 
 ## Description
 

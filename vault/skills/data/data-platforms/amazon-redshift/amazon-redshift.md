@@ -1,19 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Amazon Redshift"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-coverage:
-  - "Tool"
-  - "Platform"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Cloud Engineer"
-  - "Data Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/amazon-redshift/competencies/L1-explain-redshift-warehouse-and-query-concepts|L1-explain-redshift-warehouse-and-query-concepts]]"
+  - "[[skills/data/data-platforms/amazon-redshift/competencies/L2-apply-redshift-table-design-and-query-concepts|L2-apply-redshift-table-design-and-query-concepts]]"
+standard-competency:
+  - "[[skills/data/data-platforms/amazon-redshift/competencies/L2-apply-redshift-table-design-and-query-concepts|L2-apply-redshift-table-design-and-query-concepts]]"
+microskills:
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/distribution-style|distribution-style]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/sort-key|sort-key]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/sort-strategy|sort-strategy]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/table-distribution|table-distribution]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/warehouse-query-tuning|warehouse-query-tuning]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/workload-management|workload-management]]"
 ---
 
 # Amazon Redshift
@@ -22,8 +26,8 @@ Using Redshift concepts for AWS cloud data warehousing, SQL analytics, distribut
 
 ## Competencies
 
-- [[skills/data/data-platforms/amazon-redshift/competencies/L2-explain-redshift-warehouse-and-query-concepts|L2- Explain Redshift Warehouse and Query Concepts]]
-- [[skills/data/data-platforms/amazon-redshift/competencies/L3-apply-redshift-table-design-and-query-concepts|L3- Apply Redshift Table Design and Query Concepts]]
+- [[skills/data/data-platforms/amazon-redshift/competencies/L1-explain-redshift-warehouse-and-query-concepts|L2- Explain Redshift Warehouse and Query Concepts]]
+- [[skills/data/data-platforms/amazon-redshift/competencies/L2-apply-redshift-table-design-and-query-concepts|L3- Apply Redshift Table Design and Query Concepts]]
 
 ## Microskills
 

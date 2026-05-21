@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/mathematical-concepts-in-design|Mathematical Concepts in Design]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/mathematical-concepts-in-design|mathematical-concepts-in-design]]"
 ---
 # Applying Mathematical Models for Design Alternatives
 

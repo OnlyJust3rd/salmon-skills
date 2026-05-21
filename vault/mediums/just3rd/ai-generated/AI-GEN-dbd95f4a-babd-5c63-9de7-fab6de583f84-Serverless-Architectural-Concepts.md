@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/serverless-architectural-concepts|Serverless Architectural Concepts]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/serverless-architectural-concepts|serverless-architectural-concepts]]"
 ---
 # Serverless Architectural Concepts
 

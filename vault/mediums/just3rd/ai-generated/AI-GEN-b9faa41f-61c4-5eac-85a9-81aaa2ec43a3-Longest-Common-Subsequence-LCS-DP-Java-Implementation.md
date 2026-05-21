@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/longest-common-subsequence-lcs-dp-java-implementation|Longest Common Subsequence (LCS) DP Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/longest-common-subsequence-lcs-dp-java-implementation|longest-common-subsequence-lcs-dp-java-implementation]]"
 ---
 # Longest Common Subsequence (LCS) DP Java Implementation
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/cybersecurity-act-objectives|Cybersecurity Act Objectives]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/cybersecurity-act-objectives|cybersecurity-act-objectives]]"
 ---
 # Understanding the Objectives of Thailand's Cybersecurity Act
 

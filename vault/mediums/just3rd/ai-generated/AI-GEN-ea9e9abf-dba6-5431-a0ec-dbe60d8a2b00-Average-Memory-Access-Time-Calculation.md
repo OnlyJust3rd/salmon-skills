@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/average-memory-access-time-calculation|Average Memory Access Time Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/average-memory-access-time-calculation|average-memory-access-time-calculation]]"
 ---
 # Calculating Average Memory Access Time (AMAT)
 

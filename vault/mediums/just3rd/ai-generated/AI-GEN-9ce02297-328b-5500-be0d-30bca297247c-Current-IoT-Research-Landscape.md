@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/current-iot-research-landscape|Current IoT Research Landscape]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/current-iot-research-landscape|current-iot-research-landscape]]"
 ---
 # Understanding the Current IoT Research Landscape
 

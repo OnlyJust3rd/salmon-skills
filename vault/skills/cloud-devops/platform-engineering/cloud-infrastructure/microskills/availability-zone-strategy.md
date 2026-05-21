@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Availability Zone Strategy"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud Infrastructure"
-parent-competency: "L3- Apply Cloud Infrastructure Selection Criteria"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/cloud-infrastructure|cloud-infrastructure]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/competencies/L2-apply-cloud-infrastructure-selection-criteria|L2-apply-cloud-infrastructure-selection-criteria]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Availability Zone Strategy
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-infrastructure/cl
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-infrastructure/competencies/L3-apply-cloud-infrastructure-selection-criteria|L3- Apply Cloud Infrastructure Selection Criteria]]
+- [[skills/cloud-devops/platform-engineering/cloud-infrastructure/competencies/L2-apply-cloud-infrastructure-selection-criteria|L3- Apply Cloud Infrastructure Selection Criteria]]
 
 ## Description
 

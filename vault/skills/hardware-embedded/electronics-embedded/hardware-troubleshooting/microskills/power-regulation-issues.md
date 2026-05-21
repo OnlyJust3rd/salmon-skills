@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Power Regulation Issues"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Hardware Troubleshooting"
-parent-competency: "L1- Identify hardware malfunctions and challenges"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/hardware-troubleshooting|hardware-troubleshooting]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L1-identify-hardware-malfunctions-and-challenges|L1-identify-hardware-malfunctions-and-challenges]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Power Regulation Issues

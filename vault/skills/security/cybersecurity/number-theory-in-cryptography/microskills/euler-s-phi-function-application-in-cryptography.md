@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Euler's Phi Function Application in Cryptography"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Number Theory in Cryptography"
-parent-competency: "L2- Explain Number Theory in Cryptography"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/number-theory-in-cryptography/number-theory-in-cryptography|number-theory-in-cryptography]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/competencies/L1-explain-number-theory-in-cryptography|L1-explain-number-theory-in-cryptography]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Euler's Phi Function Application in Cryptography
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/number-theory-in-cryptography/numb
 
 Parent competency:
 
-- [[skills/security/cybersecurity/number-theory-in-cryptography/competencies/L2-explain-number-theory-in-cryptography|L2- Explain Number Theory in Cryptography]]
+- [[skills/security/cybersecurity/number-theory-in-cryptography/competencies/L1-explain-number-theory-in-cryptography|L2- Explain Number Theory in Cryptography]]
 
 ## Description
 

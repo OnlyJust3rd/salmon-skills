@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-orchestration|Infrastructure Orchestration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-orchestration|infrastructure-orchestration]]"
 ---
 # Orchestrating Kubernetes with Terraform
 

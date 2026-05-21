@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-types/microskills/structured-data-recognition|Structured Data Recognition]]"
+  - "[[skills/programming/data-structures/data-types/microskills/structured-data-recognition|structured-data-recognition]]"
 ---
 # Structured Data: The Organized World
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/hash-based-mac-hmac-construction|Hash-based MAC (HMAC) Construction]]"
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/hash-based-mac-hmac-construction|hash-based-mac-hmac-construction]]"
 ---
 # Understanding HMAC Construction
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/intermediate-value-theorem|Intermediate Value Theorem]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/intermediate-value-theorem|intermediate-value-theorem]]"
 ---
 # Remembering the Intermediate Value Theorem
 

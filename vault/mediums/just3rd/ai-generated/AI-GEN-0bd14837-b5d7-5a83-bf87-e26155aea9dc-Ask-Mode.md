@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/ask-mode|Ask Mode]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/ask-mode|ask-mode]]"
 ---
 # Understanding Cursor's Ask Mode
 

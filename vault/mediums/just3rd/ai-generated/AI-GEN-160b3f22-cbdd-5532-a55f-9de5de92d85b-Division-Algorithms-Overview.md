@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/division-algorithms-overview|Division Algorithms Overview]]"
+  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/division-algorithms-overview|division-algorithms-overview]]"
 ---
 # Understanding Division Algorithms: Restoring vs. Non-Restoring
 

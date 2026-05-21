@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/application-dependency-packaging|Application Dependency Packaging]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/application-dependency-packaging|application-dependency-packaging]]"
 ---
 # Understanding Application Dependency Packaging in Containers
 

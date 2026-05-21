@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/linearization-tangent-line-approximation|Linearization (tangent line approximation)]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/linearization-tangent-line-approximation|linearization-tangent-line-approximation]]"
 ---
 # Linearization: Approximating with Tangent Lines
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/projection-method-influence|Projection Method Influence]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/projection-method-influence|projection-method-influence]]"
 ---
 # Projection Method Influence on Perceived 3D
 

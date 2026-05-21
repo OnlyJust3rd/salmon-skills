@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/parametric-plane-equations-in-3d|Parametric plane equations in 3D]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-plane-equations-in-3d|parametric-plane-equations-in-3d]]"
 ---
 # Parametric Plane Equations in 3D
 

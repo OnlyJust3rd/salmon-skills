@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/partial-fraction-decomposition|Partial fraction decomposition]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/partial-fraction-decomposition|partial-fraction-decomposition]]"
 ---
 # Partial Fraction Decomposition
 

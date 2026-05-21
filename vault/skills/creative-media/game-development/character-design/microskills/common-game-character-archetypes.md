@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Common Game Character Archetypes"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Character Design"
-parent-competency: "L1- Identify Character Archetypes"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/character-design/character-design|character-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/character-design/competencies/L1-identify-character-archetypes|L1-identify-character-archetypes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Common Game Character Archetypes

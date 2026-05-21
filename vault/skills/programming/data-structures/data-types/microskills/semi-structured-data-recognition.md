@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Semi-structured Data Recognition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Types"
-parent-competency: "L1- Identify Data Types"
+  - "microskill"
+parent-skill: "[[skills/programming/data-structures/data-types/data-types|data-types]]"
+requires-in-competencies:
+  - "[[skills/programming/data-structures/data-types/competencies/L1-identify-data-types|L1-identify-data-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Semi-structured Data Recognition

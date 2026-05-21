@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/vanishing-points|Vanishing Points]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/vanishing-points|vanishing-points]]"
 ---
 # Understanding Vanishing Points in Perspective Projection
 

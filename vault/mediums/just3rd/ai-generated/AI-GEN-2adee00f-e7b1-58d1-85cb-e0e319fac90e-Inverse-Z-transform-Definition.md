@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/inverse-z-transform-definition|Inverse Z-transform Definition]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/inverse-z-transform-definition|inverse-z-transform-definition]]"
 ---
 # Inverse Z-Transform Definition
 

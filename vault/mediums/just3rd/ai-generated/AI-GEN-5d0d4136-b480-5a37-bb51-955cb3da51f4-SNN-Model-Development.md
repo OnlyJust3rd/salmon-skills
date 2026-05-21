@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/snn-model-development|SNN Model Development]]"
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/snn-model-development|snn-model-development]]"
 ---
 # Developing Basic Spiking Neural Network (SNN) Models
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/actuator-operational-principles|Actuator Operational Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/actuator-operational-principles|actuator-operational-principles]]"
 ---
 # Actuator Operational Principles
 

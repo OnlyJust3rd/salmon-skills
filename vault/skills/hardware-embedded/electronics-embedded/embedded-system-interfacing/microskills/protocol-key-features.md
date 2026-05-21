@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Protocol Key Features"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Embedded System Interfacing"
-parent-competency: "L1- Define Communication Protocols"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/embedded-system-interfacing|embedded-system-interfacing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L1-define-communication-protocols|L1-define-communication-protocols]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Protocol Key Features

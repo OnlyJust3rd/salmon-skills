@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mysql/microskills/column-definition-statements|Column Definition Statements]]"
+  - "[[skills/data/databases/mysql/microskills/column-definition-statements|column-definition-statements]]"
 ---
 # Defining Table Columns with SQL DDL
 

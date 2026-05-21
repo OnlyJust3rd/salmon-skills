@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/recommendations-for-enhancement|Recommendations for Enhancement]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/recommendations-for-enhancement|recommendations-for-enhancement]]"
 ---
 # Crafting Effective Recommendations for Prototype Enhancement
 

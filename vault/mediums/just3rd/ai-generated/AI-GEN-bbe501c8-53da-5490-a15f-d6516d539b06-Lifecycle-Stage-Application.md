@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-testing/microskills/lifecycle-stage-application|Lifecycle Stage Application]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/lifecycle-stage-application|lifecycle-stage-application]]"
 ---
 # Applying Validation & Verification Across the Software Development Lifecycle
 

@@ -1,17 +1,21 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Platform Engineering"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 1
-microskill-count: 5
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/competencies/L2-manage-platform-engineering-projects|L2-manage-platform-engineering-projects]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/competencies/L2-manage-platform-engineering-projects|L2-manage-platform-engineering-projects]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/deliverable-management|deliverable-management]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/it-project-lifecycle|it-project-lifecycle]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/project-management-methodologies|project-management-methodologies]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/project-planning-techniques|project-planning-techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/task-tracking-and-management|task-tracking-and-management]]"
 ---
 
 # Platform Engineering
@@ -20,7 +24,7 @@ Apply project management concepts and practices tailored to IT and platform engi
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/platform-engineering/competencies/L3-manage-platform-engineering-projects|L3- Manage Platform Engineering Projects]]
+- [[skills/cloud-devops/platform-engineering/platform-engineering/competencies/L2-manage-platform-engineering-projects|L3- Manage Platform Engineering Projects]]
 
 ## Microskills
 

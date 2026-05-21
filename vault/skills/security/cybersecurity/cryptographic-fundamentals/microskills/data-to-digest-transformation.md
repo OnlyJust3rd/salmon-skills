@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Data to Digest Transformation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Cryptographic Fundamentals"
-parent-competency: "L2- Hash Function Properties and Mapping"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/cryptographic-fundamentals/cryptographic-fundamentals|cryptographic-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-hash-function-properties-and-mapping|L1-hash-function-properties-and-mapping]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Data to Digest Transformation
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/cryptographic-fundamentals/cryptog
 
 Parent competency:
 
-- [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L2-hash-function-properties-and-mapping|L2- Hash Function Properties and Mapping]]
+- [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-hash-function-properties-and-mapping|L2- Hash Function Properties and Mapping]]
 
 ## Description
 

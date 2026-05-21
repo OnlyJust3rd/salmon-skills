@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/cad-model-export-procedures|CAD Model Export Procedures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/cad-model-export-procedures|cad-model-export-procedures]]"
 ---
 # CAD Model Export Procedures for 3D Printing
 

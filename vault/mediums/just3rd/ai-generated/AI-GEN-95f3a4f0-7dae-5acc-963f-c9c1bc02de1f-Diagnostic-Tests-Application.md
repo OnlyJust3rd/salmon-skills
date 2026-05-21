@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/diagnostic-tests-application|Diagnostic Tests Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/diagnostic-tests-application|diagnostic-tests-application]]"
 ---
 # Applying Diagnostic Tests to Electronic Circuits
 

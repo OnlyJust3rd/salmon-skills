@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Windowing Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Viewing and Clipping"
-parent-competency: "L2- Explain Viewing Transformations and Clipping"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/viewing-and-clipping/viewing-and-clipping|viewing-and-clipping]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L1-explain-viewing-transformations-and-clipping|L1-explain-viewing-transformations-and-clipping]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Windowing Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/viewing-and-clipping/viewin
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L2-explain-viewing-transformations-and-clipping|L2- Explain Viewing Transformations and Clipping]]
+- [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L1-explain-viewing-transformations-and-clipping|L2- Explain Viewing Transformations and Clipping]]
 
 ## Description
 

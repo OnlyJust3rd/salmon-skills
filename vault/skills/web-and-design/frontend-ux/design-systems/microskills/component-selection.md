@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Component Selection"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Design Systems"
-parent-competency: "L3- Apply Design System Patterns to Interfaces"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/design-systems/design-systems|design-systems]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/design-systems/competencies/L2-apply-design-system-patterns-to-interfaces|L2-apply-design-system-patterns-to-interfaces]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Component Selection
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/design-systems/design-systems|
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/design-systems/competencies/L3-apply-design-system-patterns-to-interfaces|L3- Apply Design System Patterns to Interfaces]]
+- [[skills/web-and-design/frontend-ux/design-systems/competencies/L2-apply-design-system-patterns-to-interfaces|L3- Apply Design System Patterns to Interfaces]]
 
 ## Description
 

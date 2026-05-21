@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/emulator-functionality-application|Emulator Functionality Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/emulator-functionality-application|emulator-functionality-application]]"
 ---
 # Emulator Functionality Application
 

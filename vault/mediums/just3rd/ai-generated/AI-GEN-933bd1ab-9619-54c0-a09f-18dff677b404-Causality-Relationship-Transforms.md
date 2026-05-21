@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/causality-relationship-transforms|Causality Relationship (Transforms)]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/causality-relationship-transforms|causality-relationship-transforms]]"
 ---
 # Causality and Transform Properties
 

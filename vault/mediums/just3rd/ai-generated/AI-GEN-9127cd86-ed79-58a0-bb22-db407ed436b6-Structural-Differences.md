@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/structural-differences|Structural Differences]]"
+  - "[[skills/data/databases/database-system/microskills/structural-differences|structural-differences]]"
 ---
 # Understanding Structural Differences: Relational vs. NoSQL Databases
 

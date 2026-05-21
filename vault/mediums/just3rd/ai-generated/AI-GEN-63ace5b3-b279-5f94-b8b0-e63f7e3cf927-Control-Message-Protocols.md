@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/control-message-protocols|Control Message Protocols]]"
+  - "[[skills/systems/networking/network-layer/microskills/control-message-protocols|control-message-protocols]]"
 ---
 # Understanding ICMP: The Network's Messenger
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/snowflake/microskills/semi-structured-query|Semi-Structured Query]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/semi-structured-query|semi-structured-query]]"
 ---
 # Querying Semi-Structured Data in Snowflake
 

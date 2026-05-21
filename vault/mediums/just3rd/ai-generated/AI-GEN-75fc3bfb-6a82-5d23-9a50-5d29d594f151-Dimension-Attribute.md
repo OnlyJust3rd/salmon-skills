@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-warehousing/microskills/dimension-attribute|Dimension Attribute]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/dimension-attribute|dimension-attribute]]"
 ---
 # Dimension Attributes in Dimensional Modeling
 

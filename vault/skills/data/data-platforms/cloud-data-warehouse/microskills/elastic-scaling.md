@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Elastic Scaling"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Cloud Data Warehouse"
-parent-competency: "L2- Explain Cloud Data Warehouse Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/cloud-data-warehouse/cloud-data-warehouse|cloud-data-warehouse]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/cloud-data-warehouse/competencies/L1-explain-cloud-data-warehouse-concepts|L1-explain-cloud-data-warehouse-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Elastic Scaling
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/cloud-data-warehouse/cloud-data-wareh
 
 Parent competency:
 
-- [[skills/data/data-platforms/cloud-data-warehouse/competencies/L2-explain-cloud-data-warehouse-concepts|L2- Explain Cloud Data Warehouse Concepts]]
+- [[skills/data/data-platforms/cloud-data-warehouse/competencies/L1-explain-cloud-data-warehouse-concepts|L2- Explain Cloud Data Warehouse Concepts]]
 
 ## Description
 

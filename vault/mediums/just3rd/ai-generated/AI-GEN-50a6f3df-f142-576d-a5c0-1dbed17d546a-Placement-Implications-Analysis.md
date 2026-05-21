@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/placement-implications-analysis|Placement Implications Analysis]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/placement-implications-analysis|placement-implications-analysis]]"
 ---
 # Analyzing Encryption Placement Implications in Compression Pipelines
 

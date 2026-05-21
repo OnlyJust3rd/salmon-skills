@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-purposes|Design Pattern Purposes]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-purposes|design-pattern-purposes]]"
 ---
 # Understanding the Purpose of Design Patterns
 

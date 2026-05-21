@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/user-and-group-management|User and Group Management]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/user-and-group-management|user-and-group-management]]"
 ---
 # Managing Users and Groups in Linux for System Availability
 

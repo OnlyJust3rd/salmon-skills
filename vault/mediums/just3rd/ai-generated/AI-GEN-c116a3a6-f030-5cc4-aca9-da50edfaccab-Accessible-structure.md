@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/html/microskills/accessible-structure|Accessible structure]]"
+  - "[[skills/web-and-design/frontend-ux/html/microskills/accessible-structure|accessible-structure]]"
 ---
 # Accessible Structure with HTML Landmarks and Labels
 

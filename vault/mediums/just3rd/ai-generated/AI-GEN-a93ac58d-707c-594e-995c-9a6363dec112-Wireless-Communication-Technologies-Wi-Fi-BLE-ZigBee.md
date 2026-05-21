@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/iot-communication-and-networking/microskills/wireless-communication-technologies-wi-fi-ble-zigbee|Wireless Communication Technologies (Wi-Fi, BLE, ZigBee)]]"
+  - "[[skills/systems/networking/iot-communication-and-networking/microskills/wireless-communication-technologies-wi-fi-ble-zigbee|wireless-communication-technologies-wi-fi-ble-zigbee]]"
 ---
 # Analyzing Wireless Communication Technologies for IoT
 

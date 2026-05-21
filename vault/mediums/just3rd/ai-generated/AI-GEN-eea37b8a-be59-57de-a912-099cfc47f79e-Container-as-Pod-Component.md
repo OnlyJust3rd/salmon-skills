@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-as-pod-component|Container as Pod Component]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-as-pod-component|container-as-pod-component]]"
 ---
 # Containers as Pod Components
 

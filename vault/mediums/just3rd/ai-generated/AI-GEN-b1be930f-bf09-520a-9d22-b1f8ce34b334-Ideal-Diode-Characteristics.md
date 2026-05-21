@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/ideal-diode-characteristics|Ideal Diode Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/ideal-diode-characteristics|ideal-diode-characteristics]]"
 ---
 # Understanding Ideal Diode Characteristics
 

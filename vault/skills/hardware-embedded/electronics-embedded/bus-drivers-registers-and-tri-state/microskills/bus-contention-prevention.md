@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Bus Contention Prevention"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Bus Drivers, Registers, and Tri-state"
-parent-competency: "L2- Explain Bus and Register Operation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/bus-drivers-registers-and-tri-state|bus-drivers-registers-and-tri-state]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L1-explain-bus-and-register-operation|L1-explain-bus-and-register-operation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Bus Contention Prevention
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/bus-drivers-regist
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L2-explain-bus-and-register-operation|L2- Explain Bus and Register Operation]]
+- [[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L1-explain-bus-and-register-operation|L2- Explain Bus and Register Operation]]
 
 ## Description
 

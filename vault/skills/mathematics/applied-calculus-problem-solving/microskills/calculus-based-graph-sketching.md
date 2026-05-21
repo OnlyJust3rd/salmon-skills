@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Calculus-based graph sketching"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Applied Calculus Problem Solving"
-parent-competency: "L3- Solve applied calculus problems"
+  - "microskill"
+parent-skill: "[[skills/mathematics/applied-calculus-problem-solving/applied-calculus-problem-solving|applied-calculus-problem-solving]]"
+requires-in-competencies:
+  - "[[skills/mathematics/applied-calculus-problem-solving/competencies/L2-solve-applied-calculus-problems|L2-solve-applied-calculus-problems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Calculus-based graph sketching
@@ -15,7 +17,7 @@ Parent macro: [[applied-calculus-problem-solving|Applied Calculus Problem Solvin
 
 Parent competency:
 
-- [[L3-solve-applied-calculus-problems|L3- Solve applied calculus problems]]
+- [[skills/mathematics/applied-calculus-problem-solving/competencies/L2-solve-applied-calculus-problems|L3- Solve applied calculus problems]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/unbounded-knapsack-dp-java-implementation|Unbounded Knapsack DP Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/unbounded-knapsack-dp-java-implementation|unbounded-knapsack-dp-java-implementation]]"
 ---
 # Unbounded Knapsack DP in Java
 

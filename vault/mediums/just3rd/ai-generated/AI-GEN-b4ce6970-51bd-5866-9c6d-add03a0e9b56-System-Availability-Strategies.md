@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/system-availability-strategies|System Availability Strategies]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/system-availability-strategies|system-availability-strategies]]"
 ---
 # Ensuring System Availability: Proactive Strategies
 

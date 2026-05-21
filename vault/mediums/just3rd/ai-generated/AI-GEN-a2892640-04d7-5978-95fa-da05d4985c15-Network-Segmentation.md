@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/network-segmentation|Network Segmentation]]"
-  - "[[skills/systems/networking/routing-and-switching/microskills/network-segmentation|Network Segmentation]]"
+  - "[[skills/systems/networking/network-layer/microskills/network-segmentation|network-segmentation]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/network-segmentation|network-segmentation]]"
 ---
 # Network Segmentation with VLANs
 

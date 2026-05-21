@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/biometric-access-control-systems|Biometric Access Control Systems]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/biometric-access-control-systems|biometric-access-control-systems]]"
 ---
 # Understanding Biometric Access Control Systems
 

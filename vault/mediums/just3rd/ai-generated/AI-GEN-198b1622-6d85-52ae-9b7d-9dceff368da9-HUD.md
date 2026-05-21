@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ui/microskills/hud|HUD]]"
+  - "[[skills/creative-media/game-development/game-ui/microskills/hud|hud]]"
 ---
 # Understanding Heads-Up Displays (HUDs) in Games
 

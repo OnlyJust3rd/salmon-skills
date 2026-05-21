@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/process-improvement-enhancement|Process Improvement Enhancement]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/process-improvement-enhancement|process-improvement-enhancement]]"
 ---
 # Understanding How QA Metrics Drive Process Improvement
 

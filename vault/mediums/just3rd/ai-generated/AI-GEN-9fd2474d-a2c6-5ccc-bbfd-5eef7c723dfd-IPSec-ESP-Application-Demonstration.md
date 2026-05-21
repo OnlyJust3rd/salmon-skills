@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-esp-application-demonstration|IPSec (ESP) Application Demonstration]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-esp-application-demonstration|ipsec-esp-application-demonstration]]"
 ---
 # IPSec ESP Application Demonstration
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/net-present-value-npv-interpretation|Net Present Value (NPV) Interpretation]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/net-present-value-npv-interpretation|net-present-value-npv-interpretation]]"
 ---
 # Understanding Net Present Value (NPV) Interpretation
 

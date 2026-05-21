@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/breadboard-implementation-proficiency|Breadboard Implementation Proficiency]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/breadboard-implementation-proficiency|breadboard-implementation-proficiency]]"
 ---
 # Breadboard Implementation Proficiency
 

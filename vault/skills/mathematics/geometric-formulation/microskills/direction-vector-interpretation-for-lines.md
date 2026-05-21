@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Direction vector interpretation for lines"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Geometric Formulation"
-parent-competency: "L2- Geometric Interpretation of Line and Plane Parameters"
+  - "microskill"
+parent-skill: "[[skills/mathematics/geometric-formulation/geometric-formulation|geometric-formulation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/geometric-formulation/competencies/L1-geometric-interpretation-of-line-and-plane-parameters|L1-geometric-interpretation-of-line-and-plane-parameters]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Direction vector interpretation for lines
@@ -15,7 +17,7 @@ Parent macro: [[geometric-formulation|Geometric Formulation]]
 
 Parent competency:
 
-- [[L2-geometric-interpretation-of-line-and-plane-parameters|L2- Geometric Interpretation of Line and Plane Parameters]]
+- [[skills/mathematics/geometric-formulation/competencies/L1-geometric-interpretation-of-line-and-plane-parameters|L2- Geometric Interpretation of Line and Plane Parameters]]
 
 ## Description
 

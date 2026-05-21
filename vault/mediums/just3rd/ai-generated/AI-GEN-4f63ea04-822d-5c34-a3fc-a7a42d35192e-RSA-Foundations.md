@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/rsa-foundations|RSA Foundations]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/rsa-foundations|rsa-foundations]]"
 ---
 # RSA Foundations: The Math Behind the Magic
 

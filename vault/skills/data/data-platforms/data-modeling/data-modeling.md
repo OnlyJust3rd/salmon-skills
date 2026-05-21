@@ -1,24 +1,31 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Data Modeling"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 232 - Data Models"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 3
-microskill-count: 12
-related-jobs:
-  - "Data Analyst"
-  - "Data Scientist"
-  - "Machine Learning Engineer"
-  - "Business Analyst"
-  - "Data Engineer"
-  - "ERP Consultant"
-  - "SAP Consultant"
-source-note: "courses/kmutt/cpe-2021/cpe-232-data-models"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L1-explain-data-model-principles-and-techniques]]"
+  - "[[skills/data/data-platforms/data-modeling/competencies/L2-apply-data-models|L2-apply-data-models]]"
+  - "[[skills/data/data-platforms/data-modeling/competencies/L3-analyze-model-suitability|L3-analyze-model-suitability]]"
+standard-competency:
+  - "[[skills/data/data-platforms/data-modeling/competencies/L2-apply-data-models|L2-apply-data-models]]"
+  - "[[skills/data/data-platforms/data-modeling/competencies/L3-analyze-model-suitability|L3-analyze-model-suitability]]"
+microskills:
+  - "[[skills/data/data-platforms/data-modeling/microskills/analytical-task-alignment|analytical-task-alignment]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/contextual-analysis|contextual-analysis]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/data-modeling-concepts|data-modeling-concepts]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/data-structuring|data-structuring]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/dimensional-model-concepts|dimensional-model-concepts]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/effectiveness-evaluation|effectiveness-evaluation]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/model-comparison|model-comparison]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/model-implementation|model-implementation]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/nosql-model-characteristics|nosql-model-characteristics]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/real-world-dataset-representation|real-world-dataset-representation]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/relational-model-principles|relational-model-principles]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/use-cases-for-data-models|use-cases-for-data-models]]"
 ---
 
 # Data Modeling
@@ -27,9 +34,9 @@ Selecting and applying appropriate data modeling approaches to analyze and inter
 
 ## Competencies
 
-- [[skills/data/data-platforms/data-modeling/competencies/L2-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]]
-- [[skills/data/data-platforms/data-modeling/competencies/L3-apply-data-models|L3- Apply Data Models]]
-- [[skills/data/data-platforms/data-modeling/competencies/L4-analyze-model-suitability|L4- Analyze Model Suitability]]
+- [[skills/data/data-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]]
+- [[skills/data/data-platforms/data-modeling/competencies/L2-apply-data-models|L3- Apply Data Models]]
+- [[skills/data/data-platforms/data-modeling/competencies/L3-analyze-model-suitability|L4- Analyze Model Suitability]]
 
 ## Microskills
 

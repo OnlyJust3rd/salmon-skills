@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-durability-in-containers|Data Durability in Containers]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-durability-in-containers|data-durability-in-containers]]"
 ---
 # Data Durability in Containers
 

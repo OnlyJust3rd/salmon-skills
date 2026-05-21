@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-model-understanding/microskills/state-transition-logic|State Transition Logic]]"
+  - "[[skills/programming/algorithms/computational-model-understanding/microskills/state-transition-logic|state-transition-logic]]"
 ---
 # Understanding State Transition Logic in Finite Automata
 

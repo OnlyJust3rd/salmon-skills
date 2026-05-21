@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Serverless Architecture Use Cases"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "HPC Cluster Management"
-parent-competency: "L1- Identify Serverless Applications"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/hpc-cluster-management/hpc-cluster-management|hpc-cluster-management]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/competencies/L1-identify-serverless-applications|L1-identify-serverless-applications]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Serverless Architecture Use Cases

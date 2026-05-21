@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify socket functions"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Socket Programming"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- List and define application protocols"
+  - "[[skills/systems/networking/application-layer/competencies/L1-list-and-define-application-protocols|L1-list-and-define-application-protocols]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/networking/socket-programming/socket-programming|socket-programming]]"
+requires-microskills:
+  - "[[skills/systems/networking/socket-programming/microskills/core-socket-operations|core-socket-operations]]"
+  - "[[skills/systems/networking/socket-programming/microskills/network-communication-primitives|network-communication-primitives]]"
+  - "[[skills/systems/networking/socket-programming/microskills/socket-programming-interfaces|socket-programming-interfaces]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify socket functions

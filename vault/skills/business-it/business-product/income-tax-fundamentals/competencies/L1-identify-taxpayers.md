@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify taxpayers"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Income Tax Fundamentals"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/income-tax-fundamentals/income-tax-fundamentals|income-tax-fundamentals]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/tax-payment-obligation|tax-payment-obligation]]"
+  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/taxpayer-identification|taxpayer-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify taxpayers

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/component-addition-in-simulation|Component Addition in Simulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/component-addition-in-simulation|component-addition-in-simulation]]"
 ---
 # Adding Components in Proteus 8 Simulations
 

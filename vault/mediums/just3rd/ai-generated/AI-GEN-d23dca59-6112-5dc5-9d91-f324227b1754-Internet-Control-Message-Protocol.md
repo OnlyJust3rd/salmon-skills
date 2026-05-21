@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/internet-control-message-protocol|Internet Control Message Protocol]]"
+  - "[[skills/systems/networking/network-layer/microskills/internet-control-message-protocol|internet-control-message-protocol]]"
 ---
 # Internet Control Message Protocol (ICMP)
 

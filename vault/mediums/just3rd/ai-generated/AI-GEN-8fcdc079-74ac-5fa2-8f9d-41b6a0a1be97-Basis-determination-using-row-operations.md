@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/basis-determination-using-row-operations|Basis determination using row operations]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/basis-determination-using-row-operations|basis-determination-using-row-operations]]"
 ---
 # Finding Bases with Gaussian Elimination
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-cluster-operations|Kubernetes Cluster Operations]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-cluster-operations|kubernetes-cluster-operations]]"
 ---
 # Understanding Kubernetes Cluster Operations for CronJobs
 

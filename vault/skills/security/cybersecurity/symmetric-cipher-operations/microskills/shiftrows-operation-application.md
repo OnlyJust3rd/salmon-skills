@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "ShiftRows Operation Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Symmetric Cipher Operations"
-parent-competency: "L3- Apply SubBytes and ShiftRows"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/symmetric-cipher-operations/symmetric-cipher-operations|symmetric-cipher-operations]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-apply-subbytes-and-shiftrows|L2-apply-subbytes-and-shiftrows]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # ShiftRows Operation Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/symmetric-cipher-operations/symmet
 
 Parent competency:
 
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L3-apply-subbytes-and-shiftrows|L3- Apply SubBytes and ShiftRows]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-apply-subbytes-and-shiftrows|L3- Apply SubBytes and ShiftRows]]
 
 ## Description
 

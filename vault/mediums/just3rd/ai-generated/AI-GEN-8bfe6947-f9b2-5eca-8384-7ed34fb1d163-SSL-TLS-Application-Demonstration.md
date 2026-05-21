@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ssl-tls-application-demonstration|SSL/TLS Application Demonstration]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ssl-tls-application-demonstration|ssl-tls-application-demonstration]]"
 ---
 # SSL/TLS Application Demonstration
 

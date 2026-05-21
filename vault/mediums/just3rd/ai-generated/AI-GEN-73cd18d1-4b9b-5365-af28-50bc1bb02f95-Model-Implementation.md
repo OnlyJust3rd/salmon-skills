@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/model-implementation|Model Implementation]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/model-implementation|model-implementation]]"
 ---
 # Model Implementation: Bringing Your Data Model to Life
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/express-js/microskills/router-configuration|Router configuration]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/router-configuration|router-configuration]]"
 ---
 # Express.js Router Configuration: Paths and HTTP Verbs
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/matrix-multiplication-concept|Matrix multiplication concept]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/matrix-multiplication-concept|matrix-multiplication-concept]]"
 ---
 # Understanding Matrix Multiplication: The "Dot Product Dance"
 

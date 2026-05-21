@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/lossless-compression-principles|Lossless Compression Principles]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/lossless-compression-principles|lossless-compression-principles]]"
 ---
 # Lossless Compression: Preserving Every Bit
 

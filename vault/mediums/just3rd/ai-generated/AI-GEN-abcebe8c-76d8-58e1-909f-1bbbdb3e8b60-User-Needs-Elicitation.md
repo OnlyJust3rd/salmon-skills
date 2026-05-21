@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-needs-elicitation|User Needs Elicitation]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-needs-elicitation|user-needs-elicitation]]"
 ---
 # Eliciting User Needs: Uncovering What Users Truly Want
 

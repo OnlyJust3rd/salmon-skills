@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/network-security-access-control/microskills/packet-filtering-logic-application|Packet Filtering Logic Application]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/packet-filtering-logic-application|packet-filtering-logic-application]]"
 ---
 # Applying Packet Filtering Logic
 

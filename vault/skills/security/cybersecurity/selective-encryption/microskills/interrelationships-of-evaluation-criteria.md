@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interrelationships of Evaluation Criteria"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Selective Encryption"
-parent-competency: "L4- Analyze and Apply Selective Encryption Evaluation Criteria"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/selective-encryption/selective-encryption|selective-encryption]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/selective-encryption/competencies/L3-analyze-and-apply-selective-encryption-evaluation-criteria|L3-analyze-and-apply-selective-encryption-evaluation-criteria]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interrelationships of Evaluation Criteria
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/selective-encryption/selective-enc
 
 Parent competency:
 
-- [[skills/security/cybersecurity/selective-encryption/competencies/L4-analyze-and-apply-selective-encryption-evaluation-criteria|L4- Analyze and Apply Selective Encryption Evaluation Criteria]]
+- [[skills/security/cybersecurity/selective-encryption/competencies/L3-analyze-and-apply-selective-encryption-evaluation-criteria|L4- Analyze and Apply Selective Encryption Evaluation Criteria]]
 
 ## Description
 

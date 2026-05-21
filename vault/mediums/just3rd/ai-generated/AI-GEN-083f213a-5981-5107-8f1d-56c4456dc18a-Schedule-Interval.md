@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-airflow/microskills/schedule-interval|Schedule Interval]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/schedule-interval|schedule-interval]]"
 ---
 # Scheduling Intervals in Apache Airflow
 

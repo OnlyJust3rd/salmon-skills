@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Scheduling Algorithm Performance Interpretation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "CPU Scheduling"
-parent-competency: "L3- Apply and Analyze Scheduling Algorithms"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/cpu-scheduling/cpu-scheduling|cpu-scheduling]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/cpu-scheduling/competencies/L2-apply-and-analyze-scheduling-algorithms|L2-apply-and-analyze-scheduling-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Scheduling Algorithm Performance Interpretation
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/cpu-scheduling/cpu-scheduling|C
 
 Parent competency:
 
-- [[skills/systems/operating-systems/cpu-scheduling/competencies/L3-apply-and-analyze-scheduling-algorithms|L3- Apply and Analyze Scheduling Algorithms]]
+- [[skills/systems/operating-systems/cpu-scheduling/competencies/L2-apply-and-analyze-scheduling-algorithms|L3- Apply and Analyze Scheduling Algorithms]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/parametric-curves|Parametric Curves]]"
+  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/parametric-curves|parametric-curves]]"
 ---
 # Understanding Parametric Curves
 

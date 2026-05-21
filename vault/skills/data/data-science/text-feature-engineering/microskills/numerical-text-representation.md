@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Numerical Text Representation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Feature Engineering"
-parent-competency: "L3- Apply Text Feature Engineering Techniques"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-feature-engineering/competencies/L2-apply-text-feature-engineering-techniques|L2-apply-text-feature-engineering-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Numerical Text Representation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-feature-engineering/text-feature-e
 
 Parent competency:
 
-- [[skills/data/data-science/text-feature-engineering/competencies/L3-apply-text-feature-engineering-techniques|L3- Apply Text Feature Engineering Techniques]]
+- [[skills/data/data-science/text-feature-engineering/competencies/L2-apply-text-feature-engineering-techniques|L3- Apply Text Feature Engineering Techniques]]
 
 ## Description
 

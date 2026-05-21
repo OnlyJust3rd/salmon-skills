@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-experience-influence|User Experience Influence]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-experience-influence|user-experience-influence]]"
 ---
 # The Ripple Effect: How Design Choices Shape User Experience
 

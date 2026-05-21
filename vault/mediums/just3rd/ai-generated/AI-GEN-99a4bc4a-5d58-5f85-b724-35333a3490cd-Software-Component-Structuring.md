@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/software-component-structuring|Software Component Structuring]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/software-component-structuring|software-component-structuring]]"
 ---
 # Structuring Software Components for Clarity
 

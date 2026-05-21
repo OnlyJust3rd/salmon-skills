@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/token-application|Token Application]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/token-application|token-application]]"
 ---
 # Token Application: Building Consistent Interfaces
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/gaussian-elimination-for-ax-0|Gaussian elimination for Ax=0]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/gaussian-elimination-for-ax-0|gaussian-elimination-for-ax-0]]"
 ---
 # Gaussian Elimination for Ax=0
 

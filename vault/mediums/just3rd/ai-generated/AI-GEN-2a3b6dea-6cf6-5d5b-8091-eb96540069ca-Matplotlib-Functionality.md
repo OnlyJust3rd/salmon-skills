@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/matplotlib-functionality|Matplotlib Functionality]]"
+  - "[[skills/programming/programming-languages/python/microskills/matplotlib-functionality|matplotlib-functionality]]"
 ---
 # Exploring Matplotlib Functionality
 

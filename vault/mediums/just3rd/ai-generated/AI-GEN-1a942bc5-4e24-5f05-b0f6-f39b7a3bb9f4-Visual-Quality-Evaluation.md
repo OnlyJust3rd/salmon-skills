@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/visual-quality-evaluation|Visual Quality Evaluation]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/visual-quality-evaluation|visual-quality-evaluation]]"
 ---
 # Visual Quality Evaluation in Rendering
 

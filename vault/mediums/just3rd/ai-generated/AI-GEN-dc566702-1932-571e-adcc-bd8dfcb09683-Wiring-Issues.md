@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/wiring-issues|Wiring Issues]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/wiring-issues|wiring-issues]]"
 ---
 # Identifying Wiring Issues in Digital Circuits
 

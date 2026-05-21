@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/availability-zone-trade-offs|Availability Zone Trade-offs]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/availability-zone-trade-offs|availability-zone-trade-offs]]"
 ---
 # Availability Zone Trade-offs: Redundancy vs. Complexity
 

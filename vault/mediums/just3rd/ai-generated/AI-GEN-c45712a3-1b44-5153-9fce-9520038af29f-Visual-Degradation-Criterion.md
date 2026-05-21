@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/visual-degradation-criterion|Visual Degradation Criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/visual-degradation-criterion|visual-degradation-criterion]]"
 ---
 # Analyzing the Visual Degradation Criterion for Selective Encryption
 

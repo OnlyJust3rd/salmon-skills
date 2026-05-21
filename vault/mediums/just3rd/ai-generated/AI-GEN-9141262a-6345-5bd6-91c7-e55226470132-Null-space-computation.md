@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-computation|Null space computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-computation|null-space-computation]]"
 ---
 # Calculating the Null Space of a Matrix
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/embedded-serial-buses|Embedded Serial Buses]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/embedded-serial-buses|embedded-serial-buses]]"
 ---
 # Embedded Serial Buses: SPI, I2C, and One-Wire
 

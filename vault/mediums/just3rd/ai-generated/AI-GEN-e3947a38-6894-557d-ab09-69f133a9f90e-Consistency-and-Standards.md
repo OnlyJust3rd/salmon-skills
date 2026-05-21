@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/consistency-and-standards|Consistency and Standards]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/consistency-and-standards|consistency-and-standards]]"
 ---
 # Consistency and Standards in User Experience Design
 

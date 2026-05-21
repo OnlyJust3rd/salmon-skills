@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Synchronization Mechanism Necessity"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Concurrency and Synchronization"
-parent-competency: "L2- Explain Race Conditions and Synchronization Need"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/concurrency-and-synchronization/concurrency-and-synchronization|concurrency-and-synchronization]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L1-explain-race-conditions-and-synchronization-need|L1-explain-race-conditions-and-synchronization-need]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Synchronization Mechanism Necessity
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/concurrency-and-synchronization
 
 Parent competency:
 
-- [[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L2-explain-race-conditions-and-synchronization-need|L2- Explain Race Conditions and Synchronization Need]]
+- [[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L1-explain-race-conditions-and-synchronization-need|L2- Explain Race Conditions and Synchronization Need]]
 
 ## Description
 

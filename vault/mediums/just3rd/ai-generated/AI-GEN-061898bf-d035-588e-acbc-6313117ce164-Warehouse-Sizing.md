@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/snowflake/microskills/warehouse-sizing|Warehouse Sizing]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/warehouse-sizing|warehouse-sizing]]"
 ---
 # Warehouse Sizing in Snowflake
 

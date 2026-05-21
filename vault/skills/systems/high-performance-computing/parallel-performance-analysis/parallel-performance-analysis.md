@@ -1,18 +1,28 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Parallel Performance Analysis"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-coverage:
-  - "Concept"
-  - "Analysis"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 10
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-372-high-performance-computing-and-cloud-technologies"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L1-define-performance-metrics|L1-define-performance-metrics]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L1-explain-performance-laws|L1-explain-performance-laws]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L2-apply-performance-laws|L2-apply-performance-laws]]"
+standard-competency:
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L2-apply-performance-laws|L2-apply-performance-laws]]"
+microskills:
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-application|amdahl-s-law-application]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-principles|amdahl-s-law-principles]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|efficiency-definition]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-application|gustafson-s-law-application]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|gustafson-s-law-principles]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/parallel-performance-metrics|parallel-performance-metrics]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/parallel-system-performance-analysis|parallel-system-performance-analysis]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|scalability-law-assumptions]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/scalability-prediction|scalability-prediction]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|speedup-definition]]"
 ---
 
 # Parallel Performance Analysis
@@ -22,8 +32,8 @@ Analyzing and evaluating performance of parallel systems using quantitative metr
 ## Competencies
 
 - [[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L1-define-performance-metrics|L1- Define Performance Metrics]]
-- [[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L2-explain-performance-laws|L2- Explain Performance Laws]]
-- [[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L3-apply-performance-laws|L3- Apply Performance Laws]]
+- [[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L1-explain-performance-laws|L2- Explain Performance Laws]]
+- [[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L2-apply-performance-laws|L3- Apply Performance Laws]]
 
 ## Microskills
 

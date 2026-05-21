@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/performance-degradation-notification|Performance Degradation Notification]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/performance-degradation-notification|performance-degradation-notification]]"
 ---
 # Understanding Performance Degradation Notifications
 

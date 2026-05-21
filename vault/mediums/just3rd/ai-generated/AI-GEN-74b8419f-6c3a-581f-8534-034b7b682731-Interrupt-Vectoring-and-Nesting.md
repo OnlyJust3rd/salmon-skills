@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/interrupt-vectoring-and-nesting|Interrupt Vectoring and Nesting]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/interrupt-vectoring-and-nesting|interrupt-vectoring-and-nesting]]"
 ---
 # Interrupt Vectoring and Nesting
 

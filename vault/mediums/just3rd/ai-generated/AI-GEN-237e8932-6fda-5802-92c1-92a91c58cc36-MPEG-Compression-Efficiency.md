@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/mpeg-compression-efficiency|MPEG Compression Efficiency]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/mpeg-compression-efficiency|mpeg-compression-efficiency]]"
 ---
 # Understanding MPEG Compression Efficiency
 

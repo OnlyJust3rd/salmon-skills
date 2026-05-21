@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Tax Payment Obligation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Income Tax Fundamentals"
-parent-competency: "L1- Identify taxpayers"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/income-tax-fundamentals/income-tax-fundamentals|income-tax-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/income-tax-fundamentals/competencies/L1-identify-taxpayers|L1-identify-taxpayers]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Tax Payment Obligation

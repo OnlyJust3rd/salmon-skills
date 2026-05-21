@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/encapsulation-for-data-hiding|Encapsulation for Data Hiding]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/encapsulation-for-data-hiding|encapsulation-for-data-hiding]]"
 ---
 # Understanding Encapsulation for Data Hiding in Java
 

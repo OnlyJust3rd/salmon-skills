@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/concise-presentation-skills|Concise Presentation Skills]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/concise-presentation-skills|concise-presentation-skills]]"
 ---
 # Mastering Concise Presentation Skills for Your Startup Pitch
 

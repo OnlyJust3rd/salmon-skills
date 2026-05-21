@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/algorithm-selection-for-problems|Algorithm Selection for Problems]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/algorithm-selection-for-problems|algorithm-selection-for-problems]]"
 ---
 # Algorithm Selection for Graph/Tree Problems
 

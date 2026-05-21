@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/gameplay-mechanics-definition|Gameplay Mechanics Definition]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/gameplay-mechanics-definition|gameplay-mechanics-definition]]"
 ---
 # Understanding Gameplay Mechanics: The Heartbeat of Your Game
 

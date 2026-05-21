@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/verification-loop|Verification Loop]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/verification-loop|verification-loop]]"
 ---
 # The Verification Loop: Ensuring Agentic Code Quality
 

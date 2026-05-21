@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/microcontroller-configuration|Microcontroller Configuration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/microcontroller-configuration|microcontroller-configuration]]"
 ---
 # Microcontroller Configuration: Setting Up Your Embedded System's Brain
 

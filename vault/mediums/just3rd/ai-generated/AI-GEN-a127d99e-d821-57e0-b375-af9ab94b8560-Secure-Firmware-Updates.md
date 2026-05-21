@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/secure-firmware-updates|Secure Firmware Updates]]"
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/secure-firmware-updates|secure-firmware-updates]]"
 ---
 # Secure Firmware Updates for IoT Devices
 

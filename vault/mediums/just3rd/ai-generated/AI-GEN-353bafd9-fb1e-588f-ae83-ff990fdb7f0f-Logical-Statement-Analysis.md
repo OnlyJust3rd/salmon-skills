@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/logical-statement-analysis|Logical Statement Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/logical-statement-analysis|logical-statement-analysis]]"
 ---
 # Evaluating Truthfulness of Translated Real-World Statements
 

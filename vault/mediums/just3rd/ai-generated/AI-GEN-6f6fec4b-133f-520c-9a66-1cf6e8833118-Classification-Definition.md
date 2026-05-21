@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/classification-definition|Classification Definition]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/classification-definition|classification-definition]]"
 ---
 # Understanding Classification in IoT Data Analysis
 

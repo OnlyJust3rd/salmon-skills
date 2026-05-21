@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/modular-program-design/microskills/task-encapsulation|Task encapsulation]]"
+  - "[[skills/programming/software-engineering/modular-program-design/microskills/task-encapsulation|task-encapsulation]]"
 ---
 # Encapsulating Tasks with Functions in C
 

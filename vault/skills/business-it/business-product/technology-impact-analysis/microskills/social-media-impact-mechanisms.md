@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Social Media Impact Mechanisms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Technology Impact Analysis"
-parent-competency: "L2- Social Media Influence"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/technology-impact-analysis/technology-impact-analysis|technology-impact-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/technology-impact-analysis/competencies/L1-social-media-influence|L1-social-media-influence]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Social Media Impact Mechanisms
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/technology-impact-analysis/t
 
 Parent competency:
 
-- [[skills/business-it/business-product/technology-impact-analysis/competencies/L2-social-media-influence|L2- Social Media Influence]]
+- [[skills/business-it/business-product/technology-impact-analysis/competencies/L1-social-media-influence|L2- Social Media Influence]]
 
 ## Description
 

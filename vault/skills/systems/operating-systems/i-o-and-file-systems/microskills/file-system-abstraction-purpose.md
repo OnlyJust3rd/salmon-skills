@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "File System Abstraction Purpose"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "I/O and File Systems"
-parent-competency: "L2- File System Function, Abstraction, and Access Methods"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-file-systems|i-o-and-file-systems]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-file-system-function-abstraction-and-access-methods|L1-file-system-function-abstraction-and-access-methods]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # File System Abstraction Purpose
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-fi
 
 Parent competency:
 
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-file-system-function-abstraction-and-access-methods|L2- File System Function, Abstraction, and Access Methods]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-file-system-function-abstraction-and-access-methods|L2- File System Function, Abstraction, and Access Methods]]
 
 ## Description
 

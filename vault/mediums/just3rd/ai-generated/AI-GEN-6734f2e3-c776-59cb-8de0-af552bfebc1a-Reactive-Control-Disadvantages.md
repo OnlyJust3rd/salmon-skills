@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-disadvantages|Reactive Control Disadvantages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-disadvantages|reactive-control-disadvantages]]"
 ---
 # Reactive Control: Understanding the Drawbacks
 

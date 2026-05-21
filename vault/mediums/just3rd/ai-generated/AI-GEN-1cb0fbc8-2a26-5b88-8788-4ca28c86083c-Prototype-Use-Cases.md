@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/prototype-use-cases|Prototype Use Cases]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/prototype-use-cases|prototype-use-cases]]"
 ---
 # Understanding Prototype Use Cases
 

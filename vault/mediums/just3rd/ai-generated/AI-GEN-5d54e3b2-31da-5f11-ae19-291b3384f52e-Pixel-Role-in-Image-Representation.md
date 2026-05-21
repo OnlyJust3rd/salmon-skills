@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-role-in-image-representation|Pixel Role in Image Representation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-role-in-image-representation|pixel-role-in-image-representation]]"
 ---
 # Understanding Pixels: The Building Blocks of Digital Images
 

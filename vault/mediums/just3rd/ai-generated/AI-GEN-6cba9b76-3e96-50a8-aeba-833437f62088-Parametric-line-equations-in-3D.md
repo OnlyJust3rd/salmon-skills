@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/parametric-line-equations-in-3d|Parametric line equations in 3D]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-line-equations-in-3d|parametric-line-equations-in-3d]]"
 ---
 # Parametric Line Equations in 3D
 

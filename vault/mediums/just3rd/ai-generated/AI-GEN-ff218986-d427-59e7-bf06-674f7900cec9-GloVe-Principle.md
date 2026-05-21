@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-principle|GloVe Principle]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-principle|glove-principle]]"
 ---
 # Understanding the GloVe Principle
 

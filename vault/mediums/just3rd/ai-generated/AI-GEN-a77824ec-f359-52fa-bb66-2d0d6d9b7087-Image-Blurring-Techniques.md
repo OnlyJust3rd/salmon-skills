@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-blurring-techniques|Image Blurring Techniques]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-blurring-techniques|image-blurring-techniques]]"
 ---
 # Image Blurring Techniques
 

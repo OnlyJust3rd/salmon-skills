@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/reusable-component|Reusable Component]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/reusable-component|reusable-component]]"
 ---
 # Understanding Reusable Components: The Building Blocks of Design Systems
 

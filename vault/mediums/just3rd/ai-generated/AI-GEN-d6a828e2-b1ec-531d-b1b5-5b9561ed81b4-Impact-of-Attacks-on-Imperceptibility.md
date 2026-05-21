@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/impact-of-attacks-on-imperceptibility|Impact of Attacks on Imperceptibility]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/impact-of-attacks-on-imperceptibility|impact-of-attacks-on-imperceptibility]]"
 ---
 # Impact of Attacks on Watermark Imperceptibility
 

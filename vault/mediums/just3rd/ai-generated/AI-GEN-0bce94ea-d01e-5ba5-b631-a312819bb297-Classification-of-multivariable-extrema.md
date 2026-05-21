@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/classification-of-multivariable-extrema|Classification of multivariable extrema]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/classification-of-multivariable-extrema|classification-of-multivariable-extrema]]"
 ---
 # Classifying Multivariable Extrema
 

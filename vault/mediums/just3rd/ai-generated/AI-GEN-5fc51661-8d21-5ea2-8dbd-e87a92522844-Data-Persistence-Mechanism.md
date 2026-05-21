@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-persistence-mechanism|Data Persistence Mechanism]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-persistence-mechanism|data-persistence-mechanism]]"
 ---
 # Understanding Docker Volume Persistence: The Data Persistence Mechanism
 

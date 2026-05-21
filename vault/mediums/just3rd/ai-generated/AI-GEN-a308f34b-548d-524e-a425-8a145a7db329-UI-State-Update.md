@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/ui-state-update|UI State Update]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/ui-state-update|ui-state-update]]"
 ---
 # UI State Update in Mobile Applications
 

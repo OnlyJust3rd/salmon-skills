@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-stop-operations|Container Stop Operations]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-stop-operations|container-stop-operations]]"
 ---
 # Halting Docker Containers: A Practical Guide
 

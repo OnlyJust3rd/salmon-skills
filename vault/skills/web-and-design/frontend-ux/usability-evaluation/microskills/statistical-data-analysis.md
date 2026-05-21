@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Statistical Data Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Usability Evaluation"
-parent-competency: "L4- Analyze Usability Data Statistically"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/usability-evaluation/usability-evaluation|usability-evaluation]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L3-analyze-usability-data-statistically|L3-analyze-usability-data-statistically]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Statistical Data Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/usability-evaluation/usability
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L4-analyze-usability-data-statistically|L4- Analyze Usability Data Statistically]]
+- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L3-analyze-usability-data-statistically|L4- Analyze Usability Data Statistically]]
 
 ## Description
 

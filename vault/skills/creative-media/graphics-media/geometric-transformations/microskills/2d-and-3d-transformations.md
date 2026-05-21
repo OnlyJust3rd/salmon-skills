@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "2D and 3D Transformations"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Geometric Transformations"
-parent-competency: "L1- Identify and Define Geometric Transformations"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/geometric-transformations/geometric-transformations|geometric-transformations]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-identify-and-define-geometric-transformations|L1-identify-and-define-geometric-transformations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # 2D and 3D Transformations

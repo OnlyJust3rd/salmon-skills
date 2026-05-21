@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-impact-analysis|IoT Impact Analysis]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-impact-analysis|iot-impact-analysis]]"
 ---
 # Understanding the Impact of Emerging IoT Technologies
 

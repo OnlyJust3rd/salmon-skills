@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/synergy-of-soft-and-hard-computing|Synergy of Soft and Hard Computing]]"
+  - "[[skills/data/ai/soft-computing/microskills/synergy-of-soft-and-hard-computing|synergy-of-soft-and-hard-computing]]"
 ---
 # Synergy of Soft and Hard Computing
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/integration-point-identification|Integration point identification]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/integration-point-identification|integration-point-identification]]"
 ---
 # Identifying Integration Points in C Programs
 

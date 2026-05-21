@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/prototype-development-execution|Prototype Development Execution]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/prototype-development-execution|prototype-development-execution]]"
 ---
 # Prototype Development Execution
 

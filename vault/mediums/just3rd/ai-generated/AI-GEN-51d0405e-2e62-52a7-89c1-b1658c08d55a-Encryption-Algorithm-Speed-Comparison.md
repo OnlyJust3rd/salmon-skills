@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-speed-comparison|Encryption Algorithm Speed Comparison]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-speed-comparison|encryption-algorithm-speed-comparison]]"
 ---
 # Encryption Algorithm Speed Comparison
 

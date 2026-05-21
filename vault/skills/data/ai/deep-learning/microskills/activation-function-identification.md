@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Activation function identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 342 - Machine Learning"
-parent-macro: "Deep Learning"
-parent-competency: "L1- Neural Network Components"
+  - "microskill"
+parent-skill: "[[skills/data/ai/deep-learning/deep-learning|deep-learning]]"
+requires-in-competencies:
+  - "[[skills/data/ai/deep-learning/competencies/L1-neural-network-components|L1-neural-network-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Activation function identification

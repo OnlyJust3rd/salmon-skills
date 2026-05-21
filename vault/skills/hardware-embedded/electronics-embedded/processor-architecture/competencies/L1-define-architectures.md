@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Architectures"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Processor Architecture"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/processor-architecture/processor-architecture|processor-architecture]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/heterogeneous-processor-architecture-definition|heterogeneous-processor-architecture-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/homogeneous-processor-architecture-definition|homogeneous-processor-architecture-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Architectures

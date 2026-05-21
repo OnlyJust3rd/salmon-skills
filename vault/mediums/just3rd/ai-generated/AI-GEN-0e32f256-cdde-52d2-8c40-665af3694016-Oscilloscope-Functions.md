@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-functions|Oscilloscope Functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-functions|oscilloscope-functions]]"
 ---
 # Understanding the Oscilloscope: Your Window into Electrical Signals
 

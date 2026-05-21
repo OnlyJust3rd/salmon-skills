@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/modular-circuit-design|Modular Circuit Design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/modular-circuit-design|modular-circuit-design]]"
 ---
 # Modular Circuit Design: Building Blocks for Logic
 

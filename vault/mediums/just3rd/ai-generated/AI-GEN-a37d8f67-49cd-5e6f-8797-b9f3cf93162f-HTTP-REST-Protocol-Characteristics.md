@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/iot-communication-and-networking/microskills/http-rest-protocol-characteristics|HTTP/REST Protocol Characteristics]]"
+  - "[[skills/systems/networking/iot-communication-and-networking/microskills/http-rest-protocol-characteristics|http-rest-protocol-characteristics]]"
 ---
 # HTTP/REST Protocol Characteristics
 

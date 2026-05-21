@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/pdpa-data-processing-implications|PDPA Data Processing Implications]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/pdpa-data-processing-implications|pdpa-data-processing-implications]]"
 ---
 # Understanding PDPA Data Processing Implications
 

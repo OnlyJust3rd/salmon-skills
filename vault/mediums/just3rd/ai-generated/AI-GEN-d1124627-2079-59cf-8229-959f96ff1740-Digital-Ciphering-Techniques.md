@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-techniques|Digital Ciphering Techniques]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-techniques|digital-ciphering-techniques]]"
 ---
 # Digital Ciphering Techniques for Speech Security
 

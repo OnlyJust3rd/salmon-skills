@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Control Unit Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Processor Design"
-parent-competency: "L1- Processor Components Definition"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/processor-design/processor-design|processor-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L1-processor-components-definition|L1-processor-components-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Control Unit Definition

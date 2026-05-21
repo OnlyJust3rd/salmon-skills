@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/discrete-time-convolution-definition|Discrete-Time Convolution Definition]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/discrete-time-convolution-definition|discrete-time-convolution-definition]]"
 ---
 # Discrete-Time Convolution: The Definition
 

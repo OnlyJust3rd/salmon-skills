@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/case-study-evaluation|Case Study Evaluation]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/case-study-evaluation|case-study-evaluation]]"
 ---
 # Case Study Evaluation: Deconstructing OS Design Choices
 

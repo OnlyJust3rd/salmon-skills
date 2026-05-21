@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/sorting-algorithm-application|Sorting Algorithm Application]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/sorting-algorithm-application|sorting-algorithm-application]]"
 ---
 # Applying Merge Sort in Practice
 

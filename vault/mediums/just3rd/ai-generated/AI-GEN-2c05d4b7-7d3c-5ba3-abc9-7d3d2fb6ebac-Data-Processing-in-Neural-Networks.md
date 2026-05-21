@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/data-processing-in-neural-networks|Data Processing in Neural Networks]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/data-processing-in-neural-networks|data-processing-in-neural-networks]]"
 ---
 # Data Processing in Neural Networks: The Neuron's Journey
 

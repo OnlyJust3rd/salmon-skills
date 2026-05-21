@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Multiple polar curve area calculation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Polar Coordinate Systems"
-parent-competency: "L3- Area Calculation with Polar Integrals"
+  - "microskill"
+parent-skill: "[[skills/mathematics/polar-coordinate-systems/polar-coordinate-systems|polar-coordinate-systems]]"
+requires-in-competencies:
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-area-calculation-with-polar-integrals|L2-area-calculation-with-polar-integrals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Multiple polar curve area calculation
@@ -15,7 +17,7 @@ Parent macro: [[polar-coordinate-systems|Polar Coordinate Systems]]
 
 Parent competency:
 
-- [[L3-area-calculation-with-polar-integrals|L3- Area Calculation with Polar Integrals]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L2-area-calculation-with-polar-integrals|L3- Area Calculation with Polar Integrals]]
 
 ## Description
 

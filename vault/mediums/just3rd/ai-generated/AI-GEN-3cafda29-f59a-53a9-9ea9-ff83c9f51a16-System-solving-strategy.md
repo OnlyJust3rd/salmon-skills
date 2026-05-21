@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/system-solving-strategy|System solving strategy]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/system-solving-strategy|system-solving-strategy]]"
 ---
 # System Solving Strategy: Gaussian Elimination
 

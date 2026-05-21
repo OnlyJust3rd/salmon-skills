@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/character-design/microskills/personality-and-role-communication|Personality and Role Communication]]"
+  - "[[skills/creative-media/game-development/character-design/microskills/personality-and-role-communication|personality-and-role-communication]]"
 ---
 # Communicating Personality and Role Through Visual Design
 

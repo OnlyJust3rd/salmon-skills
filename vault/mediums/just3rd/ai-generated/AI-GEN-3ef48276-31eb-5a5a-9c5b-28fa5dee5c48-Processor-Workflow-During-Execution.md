@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/processor-workflow-during-execution|Processor Workflow During Execution]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/processor-workflow-during-execution|processor-workflow-during-execution]]"
 ---
 # Processor Workflow During Execution
 

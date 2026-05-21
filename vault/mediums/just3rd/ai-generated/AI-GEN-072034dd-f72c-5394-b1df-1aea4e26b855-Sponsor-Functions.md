@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-career-path/microskills/sponsor-functions|Sponsor Functions]]"
+  - "[[skills/business-it/business-product/it-career-path/microskills/sponsor-functions|sponsor-functions]]"
 ---
 # Understanding the Sponsor's Role in Professional Development
 

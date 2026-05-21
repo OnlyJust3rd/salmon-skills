@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/light-simulation|Light Simulation]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/light-simulation|light-simulation]]"
 ---
 # Light Simulation: Bringing Surfaces to Life
 

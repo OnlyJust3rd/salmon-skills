@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Access Control System Models"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Access Control"
-parent-competency: "L1- Access Control Components and Models"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/access-control/access-control|access-control]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/access-control/competencies/L1-access-control-components-and-models|L1-access-control-components-and-models]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Access Control System Models

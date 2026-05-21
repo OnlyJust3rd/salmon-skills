@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/reserved-instance-pricing|Reserved Instance Pricing]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/reserved-instance-pricing|reserved-instance-pricing]]"
 ---
 # Reserved Instance Pricing: Understanding Long-Term Commitments
 

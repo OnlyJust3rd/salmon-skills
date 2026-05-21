@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/integrated-circuit-identification|Integrated Circuit Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/integrated-circuit-identification|integrated-circuit-identification]]"
 ---
 # Integrated Circuit (IC) Identification
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-feedback-collection|User Feedback Collection]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-feedback-collection|user-feedback-collection]]"
 ---
 # Gathering User Feedback: The Heart of Iterative Design
 

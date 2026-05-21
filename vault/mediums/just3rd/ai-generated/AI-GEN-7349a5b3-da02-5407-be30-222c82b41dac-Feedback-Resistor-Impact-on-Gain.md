@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-gain|Feedback Resistor Impact on Gain]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-gain|feedback-resistor-impact-on-gain]]"
 ---
 # Analyzing Feedback Resistor Impact on Op-Amp Gain
 

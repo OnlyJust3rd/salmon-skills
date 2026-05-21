@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/operational-amplifier-configuration|Operational Amplifier Configuration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/operational-amplifier-configuration|operational-amplifier-configuration]]"
 ---
 # Operational Amplifier Configurations
 

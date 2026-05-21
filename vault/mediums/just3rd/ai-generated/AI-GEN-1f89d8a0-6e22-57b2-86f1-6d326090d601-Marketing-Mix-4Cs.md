@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-4cs|Marketing Mix (4Cs)]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-4cs|marketing-mix-4cs]]"
 ---
 # Understanding the Marketing Mix: The 4Cs
 

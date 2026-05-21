@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-career-path/microskills/coach-functions|Coach Functions]]"
+  - "[[skills/business-it/business-product/it-career-path/microskills/coach-functions|coach-functions]]"
 ---
 # Understanding the Role of a Coach in Professional Development
 

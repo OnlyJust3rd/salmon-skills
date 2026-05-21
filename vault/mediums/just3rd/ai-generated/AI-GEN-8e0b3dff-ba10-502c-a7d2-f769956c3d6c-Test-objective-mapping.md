@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/test-objective-mapping|Test objective mapping]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/test-objective-mapping|test-objective-mapping]]"
 ---
 # Mapping Testing Objectives to Program Behavior
 

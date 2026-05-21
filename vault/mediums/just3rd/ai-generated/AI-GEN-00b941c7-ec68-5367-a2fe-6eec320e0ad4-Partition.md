@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-kafka/microskills/partition|Partition]]"
-  - "[[skills/data/data-platforms/apache-spark/microskills/partition|Partition]]"
+  - "[[skills/data/data-platforms/apache-kafka/microskills/partition|partition]]"
+  - "[[skills/data/data-platforms/apache-spark/microskills/partition|partition]]"
 ---
 # Understanding Spark Partitions
 

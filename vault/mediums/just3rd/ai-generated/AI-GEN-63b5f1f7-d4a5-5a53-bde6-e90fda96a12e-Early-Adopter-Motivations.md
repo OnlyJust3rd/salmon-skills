@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/early-adopter-motivations|Early Adopter Motivations]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/early-adopter-motivations|early-adopter-motivations]]"
 ---
 # Understanding Early Adopter Motivations
 

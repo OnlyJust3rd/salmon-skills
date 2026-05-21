@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/direction-vectors-and-line-parallelism|Direction vectors and line parallelism]]"
+  - "[[skills/mathematics/vector/microskills/direction-vectors-and-line-parallelism|direction-vectors-and-line-parallelism]]"
 ---
 # Direction Vectors and Line Parallelism
 

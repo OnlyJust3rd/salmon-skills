@@ -1,22 +1,46 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cloud Computing"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Concept"
-  - "Evaluation"
-competency-count: 5
-microskill-count: 24
-related-jobs:
-  - "DevOps Engineer"
-  - "Machine Learning Engineer"
-  - "Cloud Engineer"
-  - "Data Engineer"
-  - "Technical Consultant"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L1-describe-pricing-model-characteristics|L1-describe-pricing-model-characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L1-explain-faas-and-serverless-relation|L1-explain-faas-and-serverless-relation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-cloud-financial-paradigm|L3-cloud-financial-paradigm]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L3-differentiate-cloud-models]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-cloud-financial-paradigm|L3-cloud-financial-paradigm]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L3-differentiate-cloud-models]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/capex-vs-opex|capex-vs-opex]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/capital-expenditure-capex|capital-expenditure-capex]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/cloud-financial-shifts|cloud-financial-shifts]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/faas-application-scenarios|faas-application-scenarios]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/faas-characteristics|faas-characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/faas-execution-model|faas-execution-model]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/function-as-a-service-faas|function-as-a-service-faas]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/hybrid-cloud-deployment|hybrid-cloud-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/iaas-application-scenarios|iaas-application-scenarios]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/iaas-characteristics|iaas-characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/on-demand-pricing|on-demand-pricing]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/operational-expenditure-opex|operational-expenditure-opex]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/paas-application-scenarios|paas-application-scenarios]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/paas-characteristics|paas-characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/pricing-model-use-cases|pricing-model-use-cases]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/private-cloud-deployment|private-cloud-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/public-cloud-deployment|public-cloud-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/reserved-instance-pricing|reserved-instance-pricing]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/saas-application-scenarios|saas-application-scenarios]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/saas-characteristics|saas-characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/scenario-based-model-selection|scenario-based-model-selection]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/serverless-benefits|serverless-benefits]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/serverless-computing-definition|serverless-computing-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/spot-instance-pricing|spot-instance-pricing]]"
 ---
 
 # Cloud Computing
@@ -25,11 +49,11 @@ Analyze the financial and operational paradigm shifts of cloud computing, includ
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L4-cloud-financial-paradigm|L4- Cloud Financial Paradigm]]
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L4-differentiate-cloud-models|L4- Differentiate Cloud Models]]
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-apply-cloud-service-models|L3- Apply Cloud Service Models]]
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L2-describe-pricing-model-characteristics|L2- Describe Pricing Model Characteristics]]
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L2-explain-faas-and-serverless-relation|L2- Explain FaaS and Serverless Relation]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-cloud-financial-paradigm|L4- Cloud Financial Paradigm]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L4- Differentiate Cloud Models]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L1-describe-pricing-model-characteristics|L2- Describe Pricing Model Characteristics]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L1-explain-faas-and-serverless-relation|L2- Explain FaaS and Serverless Relation]]
 
 ## Microskills
 

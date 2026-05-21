@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/restful-service-interaction|RESTful Service Interaction]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/restful-service-interaction|restful-service-interaction]]"
 ---
 # Interacting with RESTful Services
 

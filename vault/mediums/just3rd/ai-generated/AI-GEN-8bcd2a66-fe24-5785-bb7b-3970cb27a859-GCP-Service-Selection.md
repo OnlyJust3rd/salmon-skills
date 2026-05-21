@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-service-selection|GCP Service Selection]]"
+  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-service-selection|gcp-service-selection]]"
 ---
 # GCP Service Selection: Choosing the Right Tools for Your Application
 

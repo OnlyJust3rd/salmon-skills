@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/back-substitution-for-solution-set|Back-substitution for solution set]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/back-substitution-for-solution-set|back-substitution-for-solution-set]]"
 ---
 # Back-Substitution for Finding the Kernel Basis
 

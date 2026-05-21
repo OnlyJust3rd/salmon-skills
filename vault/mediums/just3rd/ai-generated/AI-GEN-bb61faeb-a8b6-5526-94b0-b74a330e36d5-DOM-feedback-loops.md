@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/dom-feedback-loops|DOM feedback loops]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/dom-feedback-loops|dom-feedback-loops]]"
 ---
 # Displaying Fetch States: Loading, Success, and Error
 

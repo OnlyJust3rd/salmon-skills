@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unity/microskills/serialized-field|Serialized Field]]"
+  - "[[skills/creative-media/game-development/unity/microskills/serialized-field|serialized-field]]"
 ---
 # Understanding `[SerializeField]` in Unity
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/express-js/microskills/express-application-setup|Express application setup]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/express-application-setup|express-application-setup]]"
 ---
 # Express Application Setup
 

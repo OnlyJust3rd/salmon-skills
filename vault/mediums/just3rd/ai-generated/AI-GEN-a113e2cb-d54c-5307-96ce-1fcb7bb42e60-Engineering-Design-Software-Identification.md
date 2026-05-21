@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/engineering-design-software-identification|Engineering Design Software Identification]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/engineering-design-software-identification|engineering-design-software-identification]]"
 ---
 # Engineering Design Software Identification
 

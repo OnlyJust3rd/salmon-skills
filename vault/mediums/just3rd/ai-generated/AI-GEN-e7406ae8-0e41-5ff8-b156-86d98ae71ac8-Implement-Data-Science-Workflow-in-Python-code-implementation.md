@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-data-science-workflow-in-python-code-implementation|Implement Data Science Workflow in Python code implementation]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-data-science-workflow-in-python-code-implementation|implement-data-science-workflow-in-python-code-implementation]]"
 ---
 # Implementing the Data Science Workflow in Python: Code in Action
 

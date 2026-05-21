@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/visual-dashboard-design|Visual Dashboard Design]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/visual-dashboard-design|visual-dashboard-design]]"
 ---
 # Designing Your First IoT Visual Dashboard
 

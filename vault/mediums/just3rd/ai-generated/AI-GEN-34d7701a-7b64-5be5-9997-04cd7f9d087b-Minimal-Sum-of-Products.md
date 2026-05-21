@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/minimal-sum-of-products|Minimal Sum-of-Products]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/minimal-sum-of-products|minimal-sum-of-products]]"
 ---
 # Deriving Minimal Sum-of-Products using K-maps
 

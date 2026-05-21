@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and Identify NN Fundamentals"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Artificial Neural Network"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Fuzzy Logic and Controllers"
+  - "[[skills/data/ai/soft-computing/competencies/L1-define-fuzzy-logic-and-controllers|L1-define-fuzzy-logic-and-controllers]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/ai/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
+requires-microskills:
+  - "[[skills/data/ai/artificial-neural-network/microskills/foundational-neural-network-concepts|foundational-neural-network-concepts]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/key-neural-network-components|key-neural-network-components]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-definitions|neural-network-definitions]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-terminology|neural-network-terminology]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and Identify NN Fundamentals

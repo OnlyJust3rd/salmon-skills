@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-cleansing/microskills/missing-value-handling|Missing Value Handling]]"
+  - "[[skills/data/data-platforms/data-cleansing/microskills/missing-value-handling|missing-value-handling]]"
 ---
 # Handling Missing Values
 

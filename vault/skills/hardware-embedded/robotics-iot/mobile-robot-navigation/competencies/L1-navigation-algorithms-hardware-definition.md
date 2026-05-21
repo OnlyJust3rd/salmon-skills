@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Navigation Algorithms & Hardware Definition"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Mobile Robot Navigation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Fundamental Robotics Concepts"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-define-fundamental-robotics-concepts|L1-define-fundamental-robotics-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/environmental-navigation-definition|environmental-navigation-definition]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/mobile-robot-navigation-hardware-implementations|mobile-robot-navigation-hardware-implementations]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/mobile-robot-navigation-software-algorithms|mobile-robot-navigation-software-algorithms]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/purpose-of-path-planning|purpose-of-path-planning]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Navigation Algorithms & Hardware Definition

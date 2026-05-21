@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/hamiltonian-path-cycle-backtracking-java-implementation|Hamiltonian Path/Cycle Backtracking Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/hamiltonian-path-cycle-backtracking-java-implementation|hamiltonian-path-cycle-backtracking-java-implementation]]"
 ---
 # Hamiltonian Path/Cycle Backtracking in Java
 

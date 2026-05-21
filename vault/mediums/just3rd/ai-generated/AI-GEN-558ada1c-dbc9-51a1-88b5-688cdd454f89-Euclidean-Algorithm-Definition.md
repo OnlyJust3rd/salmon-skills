@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-definition|Euclidean Algorithm Definition]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-definition|euclidean-algorithm-definition]]"
 ---
 # Euclidean Algorithm: The Foundation of Finding Common Ground
 

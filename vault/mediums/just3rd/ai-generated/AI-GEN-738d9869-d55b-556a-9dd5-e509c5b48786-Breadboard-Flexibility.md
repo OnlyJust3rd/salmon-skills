@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/breadboard-flexibility|Breadboard Flexibility]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/breadboard-flexibility|breadboard-flexibility]]"
 ---
 # Assessing Breadboard Flexibility
 

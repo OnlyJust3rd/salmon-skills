@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/review-validation|Review Validation]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/review-validation|review-validation]]"
 ---
 # Review Validation: Verifying AI Code Review Findings
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/combinational-circuit-simulation|Combinational Circuit Simulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/combinational-circuit-simulation|combinational-circuit-simulation]]"
 ---
 # Simulating Combinational Circuits in Proteus 8
 

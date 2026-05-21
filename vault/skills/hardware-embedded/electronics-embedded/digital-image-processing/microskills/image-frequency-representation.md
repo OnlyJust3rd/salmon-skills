@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Image Frequency Representation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Image Processing"
-parent-competency: "L4- Analyze Frequency Domain"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|digital-image-processing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L3-analyze-frequency-domain|L3-analyze-frequency-domain]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Image Frequency Representation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-image-proc
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L4-analyze-frequency-domain|L4- Analyze Frequency Domain]]
+- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L3-analyze-frequency-domain|L4- Analyze Frequency Domain]]
 
 ## Description
 

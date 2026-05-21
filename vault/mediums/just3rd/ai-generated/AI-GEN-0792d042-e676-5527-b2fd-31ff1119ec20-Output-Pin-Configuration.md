@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/output-pin-configuration|Output Pin Configuration]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/output-pin-configuration|output-pin-configuration]]"
 ---
 # Configuring AVR I/O Ports for Digital Output
 

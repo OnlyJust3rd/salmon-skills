@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/basic-logic-circuit-construction|Basic Logic Circuit Construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/basic-logic-circuit-construction|basic-logic-circuit-construction]]"
 ---
 # Building Basic Logic Gates on a Breadboard
 

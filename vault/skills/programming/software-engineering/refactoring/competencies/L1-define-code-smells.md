@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Code Smells"
 tags:
   - "cpe"
   - "competency"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Refactoring"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- List and Define OO Design Principles"
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L1-list-and-define-oo-design-principles|L1-list-and-define-oo-design-principles]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/software-engineering/refactoring/refactoring|refactoring]]"
+requires-microskills:
+  - "[[skills/programming/software-engineering/refactoring/microskills/code-smell-definitions|code-smell-definitions]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/code-smell-identification|code-smell-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Code Smells

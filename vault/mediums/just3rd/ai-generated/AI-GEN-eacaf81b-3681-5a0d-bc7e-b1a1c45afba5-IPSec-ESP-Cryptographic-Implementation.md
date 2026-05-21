@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-esp-cryptographic-implementation|IPSec (ESP) Cryptographic Implementation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-esp-cryptographic-implementation|ipsec-esp-cryptographic-implementation]]"
 ---
 # IPSec ESP: Cryptographic Implementation Deep Dive
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-problem-solution-mapping|Design Pattern Problem-Solution Mapping]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-problem-solution-mapping|design-pattern-problem-solution-mapping]]"
 ---
 # Mapping Design Patterns to Problems
 

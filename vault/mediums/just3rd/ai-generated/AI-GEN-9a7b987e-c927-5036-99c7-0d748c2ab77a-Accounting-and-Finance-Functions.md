@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/accounting-and-finance-functions|Accounting and Finance Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/accounting-and-finance-functions|accounting-and-finance-functions]]"
 ---
 # Understanding Accounting and Finance Functions
 

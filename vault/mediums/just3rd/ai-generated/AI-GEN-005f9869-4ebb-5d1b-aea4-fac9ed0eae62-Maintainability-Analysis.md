@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/maintainability-analysis|Maintainability Analysis]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/maintainability-analysis|maintainability-analysis]]"
 ---
 # Analyzing Maintainability in Object-Oriented Design
 

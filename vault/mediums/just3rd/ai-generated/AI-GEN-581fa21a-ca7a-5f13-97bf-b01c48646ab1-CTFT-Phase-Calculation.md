@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/ctft-phase-calculation|CTFT Phase Calculation]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/ctft-phase-calculation|ctft-phase-calculation]]"
 ---
 # CTFT Phase Calculation
 

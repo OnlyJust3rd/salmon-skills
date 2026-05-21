@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/parallel-algorithm/microskills/simple-parallel-application-development|Simple Parallel Application Development]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/simple-parallel-application-development|simple-parallel-application-development]]"
 ---
 # Developing a Simple Parallel Application Using Foster's Methodology
 

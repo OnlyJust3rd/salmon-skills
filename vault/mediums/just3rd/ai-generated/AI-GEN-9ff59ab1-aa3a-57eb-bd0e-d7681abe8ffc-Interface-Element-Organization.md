@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interface-element-organization|Interface Element Organization]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interface-element-organization|interface-element-organization]]"
 ---
 # Interface Element Organization: The Foundation of Visual Layout
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Micro:bit Platform Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration; CPE 475 - Internet of Things"
-parent-macro: "Embedded Systems"
-parent-competency: "L1- Identify microcontroller components"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-systems/embedded-systems|embedded-systems]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L1-identify-microcontroller-components|L1-identify-microcontroller-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Micro:bit Platform Components

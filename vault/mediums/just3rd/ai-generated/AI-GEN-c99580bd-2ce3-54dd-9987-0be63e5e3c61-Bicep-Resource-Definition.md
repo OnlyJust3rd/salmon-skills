@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/bicep-resource-definition|Bicep Resource Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/bicep-resource-definition|bicep-resource-definition]]"
 ---
 # Defining Azure Resources with Bicep
 

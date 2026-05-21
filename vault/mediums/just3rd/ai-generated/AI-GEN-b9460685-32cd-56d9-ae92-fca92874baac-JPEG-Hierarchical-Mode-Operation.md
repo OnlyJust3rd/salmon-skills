@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-hierarchical-mode-operation|JPEG Hierarchical Mode Operation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-hierarchical-mode-operation|jpeg-hierarchical-mode-operation]]"
 ---
 # Understanding JPEG Hierarchical Mode Operation
 

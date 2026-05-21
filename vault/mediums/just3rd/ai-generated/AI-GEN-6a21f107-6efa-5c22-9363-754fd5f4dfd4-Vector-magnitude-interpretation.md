@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/vector-magnitude-interpretation|Vector magnitude interpretation]]"
+  - "[[skills/mathematics/vector/microskills/vector-magnitude-interpretation|vector-magnitude-interpretation]]"
 ---
 # Understanding Vector Magnitude: The Length of a Vector
 

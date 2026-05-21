@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-centered-design-principles|User Centered Design Principles]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-centered-design-principles|user-centered-design-principles]]"
 ---
 # User-Centered Design Principles: Putting the User First
 

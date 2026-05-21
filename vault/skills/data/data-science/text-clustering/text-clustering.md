@@ -1,17 +1,26 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Text Clustering"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 393 - Text Analytics"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 2
-microskill-count: 9
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-393-text-analytics"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-science/text-clustering/competencies/L1-explain-text-clustering-concepts-and-distance-metrics|L1-explain-text-clustering-concepts-and-distance-metrics]]"
+  - "[[skills/data/data-science/text-clustering/competencies/L2-apply-k-means-clustering|L2-apply-k-means-clustering]]"
+standard-competency:
+  - "[[skills/data/data-science/text-clustering/competencies/L2-apply-k-means-clustering|L2-apply-k-means-clustering]]"
+microskills:
+  - "[[skills/data/data-science/text-clustering/microskills/clustering-text-data-concepts|clustering-text-data-concepts]]"
+  - "[[skills/data/data-science/text-clustering/microskills/cosine-similarity-definition|cosine-similarity-definition]]"
+  - "[[skills/data/data-science/text-clustering/microskills/distance-function-utilization-in-clustering|distance-function-utilization-in-clustering]]"
+  - "[[skills/data/data-science/text-clustering/microskills/euclidean-distance-definition|euclidean-distance-definition]]"
+  - "[[skills/data/data-science/text-clustering/microskills/k-means-algorithm-implementation|k-means-algorithm-implementation]]"
+  - "[[skills/data/data-science/text-clustering/microskills/similarity-based-text-grouping|similarity-based-text-grouping]]"
+  - "[[skills/data/data-science/text-clustering/microskills/text-data-clustering-execution|text-data-clustering-execution]]"
+  - "[[skills/data/data-science/text-clustering/microskills/text-document-similarity-calculation|text-document-similarity-calculation]]"
+  - "[[skills/data/data-science/text-clustering/microskills/unsupervised-clustering-principles|unsupervised-clustering-principles]]"
 ---
 
 # Text Clustering
@@ -20,8 +29,8 @@ Group textual data into clusters based on similarity using unsupervised learning
 
 ## Competencies
 
-- [[skills/data/data-science/text-clustering/competencies/L2-explain-text-clustering-concepts-and-distance-metrics|L2- Explain Text Clustering Concepts and Distance Metrics]]
-- [[skills/data/data-science/text-clustering/competencies/L3-apply-k-means-clustering|L3- Apply K-means Clustering]]
+- [[skills/data/data-science/text-clustering/competencies/L1-explain-text-clustering-concepts-and-distance-metrics|L2- Explain Text Clustering Concepts and Distance Metrics]]
+- [[skills/data/data-science/text-clustering/competencies/L2-apply-k-means-clustering|L3- Apply K-means Clustering]]
 
 ## Microskills
 

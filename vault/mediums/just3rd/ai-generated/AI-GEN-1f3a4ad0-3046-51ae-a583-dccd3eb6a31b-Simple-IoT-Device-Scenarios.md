@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/simple-iot-device-scenarios|Simple IoT Device Scenarios]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/simple-iot-device-scenarios|simple-iot-device-scenarios]]"
 ---
 # Applying Sensors and Actuators in Simple IoT Device Scenarios
 

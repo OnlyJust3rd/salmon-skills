@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/function-analysis/microskills/differentiable-function-conditions|Differentiable function conditions]]"
+  - "[[skills/mathematics/function-analysis/microskills/differentiable-function-conditions|differentiable-function-conditions]]"
 ---
 # Differentiable Function Conditions
 

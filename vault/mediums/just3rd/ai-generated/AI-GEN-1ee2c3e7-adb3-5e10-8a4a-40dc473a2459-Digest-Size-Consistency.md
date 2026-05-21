@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/digest-size-consistency|Digest Size Consistency]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/digest-size-consistency|digest-size-consistency]]"
 ---
 # Digest Size Consistency in Hash Functions
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-mining/microskills/html-structure-navigation|HTML Structure Navigation]]"
+  - "[[skills/data/data-science/text-mining/microskills/html-structure-navigation|html-structure-navigation]]"
 ---
 # Navigating HTML with BeautifulSoup: Understanding Structure
 

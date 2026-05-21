@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/logs|Logs]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/logs|logs]]"
 ---
 # Understanding Logs in System Monitoring
 

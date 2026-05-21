@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/i2c-protocol-fundamentals|I2C Protocol Fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/i2c-protocol-fundamentals|i2c-protocol-fundamentals]]"
 ---
 # I2C Protocol Fundamentals: Multi-Master, Multi-Slave Communication
 

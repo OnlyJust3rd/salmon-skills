@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "IPv6 Advantages"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Layer"
-parent-competency: "L2- IPv6 Overview"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-layer/network-layer|network-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-layer/competencies/L1-ipv6-overview|L1-ipv6-overview]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # IPv6 Advantages
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-layer/network-layer|Network La
 
 Parent competency:
 
-- [[skills/systems/networking/network-layer/competencies/L2-ipv6-overview|L2- IPv6 Overview]]
+- [[skills/systems/networking/network-layer/competencies/L1-ipv6-overview|L2- IPv6 Overview]]
 
 ## Description
 

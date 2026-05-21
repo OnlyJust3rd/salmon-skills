@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/model-compilation-and-training|Model compilation and training]]"
+  - "[[skills/data/ai/deep-learning/microskills/model-compilation-and-training|model-compilation-and-training]]"
 ---
 # Model Compilation and Training in Deep Learning Frameworks
 

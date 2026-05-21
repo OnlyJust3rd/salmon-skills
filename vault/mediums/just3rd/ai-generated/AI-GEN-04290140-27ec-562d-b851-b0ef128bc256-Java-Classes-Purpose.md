@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/java-classes-purpose|Java Classes Purpose]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-classes-purpose|java-classes-purpose]]"
 ---
 # Understanding the Purpose of Java Classes
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/consistency-and-repeatability|Consistency and Repeatability]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/consistency-and-repeatability|consistency-and-repeatability]]"
 ---
 # Consistency and Repeatability in Infrastructure as Code
 

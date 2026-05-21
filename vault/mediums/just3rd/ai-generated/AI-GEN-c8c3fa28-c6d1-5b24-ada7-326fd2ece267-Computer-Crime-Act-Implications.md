@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/computer-crime-act-implications|Computer Crime Act Implications]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/computer-crime-act-implications|computer-crime-act-implications]]"
 ---
 # Understanding the Implications of Thailand's Computer Crime Act
 

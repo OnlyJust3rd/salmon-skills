@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-pack-function-usage|MPI Pack Function Usage]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-pack-function-usage|mpi-pack-function-usage]]"
 ---
 # Understanding MPI_Pack for Efficient Data Transmission
 

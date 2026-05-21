@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/heuristic-evaluation|Heuristic Evaluation]]"
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/heuristic-evaluation|Heuristic Evaluation]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/heuristic-evaluation|heuristic-evaluation]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/heuristic-evaluation|heuristic-evaluation]]"
 ---
 # Heuristic Evaluation: A Core Usability Method
 

@@ -1,16 +1,38 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Hardware Troubleshooting"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-coverage:
-  - "Evaluation"
-competency-count: 3
-microskill-count: 20
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-222-digital-electronics-and-logic-design"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L1-identify-hardware-malfunctions-and-challenges|L1-identify-hardware-malfunctions-and-challenges]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L1-explain-circuit-verification-and-hardware-challenge-impact|L1-explain-circuit-verification-and-hardware-challenge-impact]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L2-troubleshoot-and-mitigate-hardware-challenges|L2-troubleshoot-and-mitigate-hardware-challenges]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L2-troubleshoot-and-mitigate-hardware-challenges|L2-troubleshoot-and-mitigate-hardware-challenges]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/circuit-integrity-verification-methods|circuit-integrity-verification-methods]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/common-malfunction-causes|common-malfunction-causes]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/component-failure-identification|component-failure-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/component-placement-verification|component-placement-verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/connection-verification|connection-verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/error-resolution|error-resolution]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/hardware-challenge-impact-on-performance|hardware-challenge-impact-on-performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/hardware-problem-diagnosis|hardware-problem-diagnosis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-interference-effects|noise-interference-effects]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-interference-recognition|noise-interference-recognition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-reduction-techniques|noise-reduction-techniques]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-connection-checking|physical-connection-checking]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-design-verification-mitigation|physical-design-verification-mitigation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-hardware-challenges|physical-hardware-challenges]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-regulation-issues|power-regulation-issues]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-regulation-problem-effects|power-regulation-problem-effects]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-supply-problems|power-supply-problems]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-supply-verification|power-supply-verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/systematic-troubleshooting-techniques|systematic-troubleshooting-techniques]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/wiring-issues|wiring-issues]]"
 ---
 
 # Hardware Troubleshooting
@@ -20,8 +42,8 @@ Identify and mitigate physical hardware challenges, such as noise interference a
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L1-identify-hardware-malfunctions-and-challenges|L1- Identify hardware malfunctions and challenges]]
-- [[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L2-explain-circuit-verification-and-hardware-challenge-impact|L2- Explain circuit verification and hardware challenge impact]]
-- [[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L3-troubleshoot-and-mitigate-hardware-challenges|L3- Troubleshoot and mitigate hardware challenges]]
+- [[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L1-explain-circuit-verification-and-hardware-challenge-impact|L2- Explain circuit verification and hardware challenge impact]]
+- [[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L2-troubleshoot-and-mitigate-hardware-challenges|L3- Troubleshoot and mitigate hardware challenges]]
 
 ## Microskills
 

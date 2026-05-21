@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-engineering/microskills/data-ingestion|Data Ingestion]]"
+  - "[[skills/data/data-platforms/data-engineering/microskills/data-ingestion|data-ingestion]]"
 ---
 # Data Ingestion: The Entry Point of Your Data Pipeline
 

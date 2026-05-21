@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/stp-components|STP Components]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/stp-components|stp-components]]"
 ---
 # STP Components: The Building Blocks of Loop Prevention
 

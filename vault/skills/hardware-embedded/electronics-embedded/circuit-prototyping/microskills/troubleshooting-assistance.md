@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Troubleshooting Assistance"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Circuit Prototyping"
-parent-competency: "L2- Explain Circuit Simulation Purpose"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/circuit-prototyping|circuit-prototyping]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L1-explain-circuit-simulation-purpose|L1-explain-circuit-simulation-purpose]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Troubleshooting Assistance
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/circuit-prototypin
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L2-explain-circuit-simulation-purpose|L2- Explain Circuit Simulation Purpose]]
+- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L1-explain-circuit-simulation-purpose|L2- Explain Circuit Simulation Purpose]]
 
 ## Description
 

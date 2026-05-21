@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bitwise-operator-identification|Bitwise Operator Identification]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bitwise-operator-identification|bitwise-operator-identification]]"
 ---
 # Bitwise Operator Identification in Bare-Metal C
 

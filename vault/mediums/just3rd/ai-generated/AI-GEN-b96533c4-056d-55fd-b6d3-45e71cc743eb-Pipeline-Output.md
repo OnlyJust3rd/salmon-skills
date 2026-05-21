@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-engineering/microskills/pipeline-output|Pipeline Output]]"
+  - "[[skills/data/data-platforms/data-engineering/microskills/pipeline-output|pipeline-output]]"
 ---
 # Writing Transformed Data to a Target Store
 

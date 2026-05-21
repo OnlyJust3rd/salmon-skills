@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-canvas-application|Business Model Canvas Application]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-canvas-application|business-model-canvas-application]]"
 ---
 # Applying the Business Model Canvas (BMC)
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Rendering Compatibility"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - frontend web skills"
-parent-macro: "Cross-Browser Testing"
-parent-competency: "L2- Explain Cross-Browser Compatibility Testing"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/cross-browser-testing/cross-browser-testing|cross-browser-testing]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/competencies/L1-explain-cross-browser-compatibility-testing|L1-explain-cross-browser-compatibility-testing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Rendering Compatibility
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/cross-browser-testing/cross-br
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/cross-browser-testing/competencies/L2-explain-cross-browser-compatibility-testing|L2- Explain Cross-Browser Compatibility Testing]]
+- [[skills/web-and-design/frontend-ux/cross-browser-testing/competencies/L1-explain-cross-browser-compatibility-testing|L2- Explain Cross-Browser Compatibility Testing]]
 
 ## Description
 

@@ -1,16 +1,21 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Wireless Networks"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 314 - Computer Networks"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 5
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-314-computer-networks"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/networking/wireless-networks/competencies/L1-differentiate-and-describe-wlan-pans|L1-differentiate-and-describe-wlan-pans]]"
+standard-competency:
+  - "[[skills/systems/networking/wireless-networks/competencies/L1-differentiate-and-describe-wlan-pans|L1-differentiate-and-describe-wlan-pans]]"
+microskills:
+  - "[[skills/systems/networking/wireless-networks/microskills/personal-area-network-characteristics|personal-area-network-characteristics]]"
+  - "[[skills/systems/networking/wireless-networks/microskills/wireless-lan-characteristics|wireless-lan-characteristics]]"
+  - "[[skills/systems/networking/wireless-networks/microskills/wireless-network-components|wireless-network-components]]"
+  - "[[skills/systems/networking/wireless-networks/microskills/wlan-vs-pan-differences|wlan-vs-pan-differences]]"
+  - "[[skills/systems/networking/wireless-networks/microskills/wlan-vs-pan-similarities|wlan-vs-pan-similarities]]"
 ---
 
 # Wireless Networks
@@ -19,7 +24,7 @@ Describing wireless Local Area Networks (WLANs) and Personal Area Networks (PANs
 
 ## Competencies
 
-- [[skills/systems/networking/wireless-networks/competencies/L2-differentiate-and-describe-wlan-pans|L2- Differentiate and Describe WLAN/PANs]]
+- [[skills/systems/networking/wireless-networks/competencies/L1-differentiate-and-describe-wlan-pans|L2- Differentiate and Describe WLAN/PANs]]
 
 ## Microskills
 

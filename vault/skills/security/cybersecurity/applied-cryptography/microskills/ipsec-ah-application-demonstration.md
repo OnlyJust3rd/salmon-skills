@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "IPSec (AH) Application Demonstration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Applied Cryptography"
-parent-competency: "L3- Demonstrate Protocol Application"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/applied-cryptography/applied-cryptography|applied-cryptography]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/applied-cryptography/competencies/L2-demonstrate-protocol-application|L2-demonstrate-protocol-application]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # IPSec (AH) Application Demonstration
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/applied-cryptography/applied-crypt
 
 Parent competency:
 
-- [[skills/security/cybersecurity/applied-cryptography/competencies/L3-demonstrate-protocol-application|L3- Demonstrate Protocol Application]]
+- [[skills/security/cybersecurity/applied-cryptography/competencies/L2-demonstrate-protocol-application|L3- Demonstrate Protocol Application]]
 
 ## Description
 

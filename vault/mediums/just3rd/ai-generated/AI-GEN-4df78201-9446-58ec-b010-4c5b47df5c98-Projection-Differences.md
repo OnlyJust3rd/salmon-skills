@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-differences|Projection Differences]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-differences|projection-differences]]"
 ---
 # Understanding Projection Differences
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/digital-signature-verification-rsa|Digital Signature Verification (RSA)]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/digital-signature-verification-rsa|digital-signature-verification-rsa]]"
 ---
 # Digital Signature Verification (RSA)
 

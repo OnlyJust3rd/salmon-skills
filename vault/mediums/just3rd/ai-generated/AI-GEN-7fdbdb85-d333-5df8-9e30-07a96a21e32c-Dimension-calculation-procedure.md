@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/dimension-calculation-procedure|Dimension calculation procedure]]"
+  - "[[skills/mathematics/vector-space/microskills/dimension-calculation-procedure|dimension-calculation-procedure]]"
 ---
 # Calculating the Dimension of a Vector Space
 

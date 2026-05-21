@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/fifo-algorithm-principles|FIFO Algorithm Principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/fifo-algorithm-principles|fifo-algorithm-principles]]"
 ---
 # FIFO Algorithm Principles
 

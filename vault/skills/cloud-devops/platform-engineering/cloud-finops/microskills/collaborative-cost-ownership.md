@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Collaborative Cost Ownership"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud FinOps"
-parent-competency: "L1- FinOps Principles and Strategies"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-finops/cloud-finops|cloud-finops]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-finops-principles-and-strategies|L1-finops-principles-and-strategies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Collaborative Cost Ownership

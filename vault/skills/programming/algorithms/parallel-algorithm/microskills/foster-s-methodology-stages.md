@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Foster's Methodology Stages"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Parallel Algorithm"
-parent-competency: "L2- Explain Foster's Stages"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/parallel-algorithm/parallel-algorithm|parallel-algorithm]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/parallel-algorithm/competencies/L1-explain-foster-s-stages|L1-explain-foster-s-stages]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Foster's Methodology Stages
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/parallel-algorithm/parallel-algori
 
 Parent competency:
 
-- [[skills/programming/algorithms/parallel-algorithm/competencies/L2-explain-foster-s-stages|L2- Explain Foster's Stages]]
+- [[skills/programming/algorithms/parallel-algorithm/competencies/L1-explain-foster-s-stages|L2- Explain Foster's Stages]]
 
 ## Description
 

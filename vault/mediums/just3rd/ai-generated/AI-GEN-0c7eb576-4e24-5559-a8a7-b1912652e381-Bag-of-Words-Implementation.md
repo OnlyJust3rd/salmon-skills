@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-implementation|Bag-of-Words Implementation]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-implementation|bag-of-words-implementation]]"
 ---
 # Bag-of-Words Implementation
 

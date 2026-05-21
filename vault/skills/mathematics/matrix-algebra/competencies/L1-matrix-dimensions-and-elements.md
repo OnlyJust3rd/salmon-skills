@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Matrix Dimensions and Elements"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and Represent Systems"
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1-define-and-represent-systems]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-microskills:
+  - "[[skills/mathematics/matrix-algebra/microskills/matrix-dimensions|matrix-dimensions]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/matrix-elements|matrix-elements]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/matrix-notation|matrix-notation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Matrix Dimensions and Elements
@@ -25,7 +27,7 @@ Identify the dimensions and elements of a given matrix.
 
 ## Strict Prerequisites
 
-- [[L1-define-and-represent-systems|L1- Define and Represent Systems]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1- Define and Represent Systems]]
 
 ## Optional Prerequisites
 

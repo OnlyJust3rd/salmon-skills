@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/row-operations-application|Row operations application]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/row-operations-application|row-operations-application]]"
 ---
 # Row Operations Application for Solving Linear Systems
 

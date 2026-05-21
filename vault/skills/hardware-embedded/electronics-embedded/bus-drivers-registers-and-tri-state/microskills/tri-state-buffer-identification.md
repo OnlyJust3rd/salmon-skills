@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Tri-state Buffer Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Bus Drivers, Registers, and Tri-state"
-parent-competency: "L1- Identify Registers, Drivers, and Tri-state Devices"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/bus-drivers-registers-and-tri-state|bus-drivers-registers-and-tri-state]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L1-identify-registers-drivers-and-tri-state-devices|L1-identify-registers-drivers-and-tri-state-devices]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Tri-state Buffer Identification

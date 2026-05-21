@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "CMOS Family Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Logic Families"
-parent-competency: "L1- Recall Logic Family Parameters"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/logic-families/logic-families|logic-families]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/competencies/L1-recall-logic-family-parameters|L1-recall-logic-family-parameters]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # CMOS Family Identification

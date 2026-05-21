@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-operational-analysis|Specialized Vector Processor Operational Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-operational-analysis|specialized-vector-processor-operational-analysis]]"
 ---
 # Analyzing Specialized Vector Processor Operations
 

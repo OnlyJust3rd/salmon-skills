@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/convolution-process-steps|Convolution Process Steps]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/convolution-process-steps|convolution-process-steps]]"
 ---
 # Understanding the Steps of Discrete-Time Convolution
 

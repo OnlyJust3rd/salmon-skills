@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/ct-convolution-integral-steps|CT Convolution Integral Steps]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/ct-convolution-integral-steps|ct-convolution-integral-steps]]"
 ---
 # Understanding the CT Convolution Integral Steps
 

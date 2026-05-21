@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Problem Domains for Algorithms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Algorithms"
-parent-competency: "L1- Define Algorithm Fundamentals"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithms/algorithms|algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithms/competencies/L1-define-algorithm-fundamentals|L1-define-algorithm-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Problem Domains for Algorithms

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/exponential-search-java-implementation|Exponential Search Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/exponential-search-java-implementation|exponential-search-java-implementation]]"
 ---
 # Exponential Search in Java
 

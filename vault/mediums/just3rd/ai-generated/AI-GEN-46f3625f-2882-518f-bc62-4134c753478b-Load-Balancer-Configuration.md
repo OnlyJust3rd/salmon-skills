@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/load-balancer-configuration|Load Balancer Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/load-balancer-configuration|load-balancer-configuration]]"
 ---
 # Configuring Cloud Load Balancers
 

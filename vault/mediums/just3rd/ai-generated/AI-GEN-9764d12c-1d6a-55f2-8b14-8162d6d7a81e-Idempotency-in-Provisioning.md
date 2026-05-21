@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-in-provisioning|Idempotency in Provisioning]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-in-provisioning|idempotency-in-provisioning]]"
 ---
 # Idempotency in Infrastructure as Code
 

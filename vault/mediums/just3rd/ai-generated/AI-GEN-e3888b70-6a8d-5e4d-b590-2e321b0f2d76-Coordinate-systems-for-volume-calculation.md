@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/coordinate-systems-for-volume-calculation|Coordinate systems for volume calculation]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/coordinate-systems-for-volume-calculation|coordinate-systems-for-volume-calculation]]"
 ---
 # Coordinate Systems for Volume Calculation
 

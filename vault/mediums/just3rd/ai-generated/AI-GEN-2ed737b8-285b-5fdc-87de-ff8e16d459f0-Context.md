@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/context|Context]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/context|context]]"
 ---
 # Understanding Context in Prompt Engineering
 

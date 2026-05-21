@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/sram-architecture|SRAM Architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/sram-architecture|sram-architecture]]"
 ---
 # SRAM Cell Architecture and Operation
 

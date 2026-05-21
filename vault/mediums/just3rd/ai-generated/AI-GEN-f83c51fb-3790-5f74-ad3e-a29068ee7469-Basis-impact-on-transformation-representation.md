@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/basis-impact-on-transformation-representation|Basis impact on transformation representation]]"
+  - "[[skills/mathematics/vector-space/microskills/basis-impact-on-transformation-representation|basis-impact-on-transformation-representation]]"
 ---
 # How Basis Choice Changes Transformation Matrices
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/gram-schmidt-algorithm-steps|Gram-Schmidt algorithm steps]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/gram-schmidt-algorithm-steps|gram-schmidt-algorithm-steps]]"
 ---
 # Gram-Schmidt Algorithm Steps
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/sinusoidal-to-phasor-conversion|Sinusoidal to Phasor Conversion]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/sinusoidal-to-phasor-conversion|sinusoidal-to-phasor-conversion]]"
 ---
 # Sinusoidal to Phasor Conversion
 

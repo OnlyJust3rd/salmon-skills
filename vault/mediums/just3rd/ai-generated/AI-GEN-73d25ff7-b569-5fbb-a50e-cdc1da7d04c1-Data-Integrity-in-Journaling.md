@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-integrity-in-journaling|Data Integrity in Journaling]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-integrity-in-journaling|data-integrity-in-journaling]]"
 ---
 # Data Integrity in Journaling File Systems
 

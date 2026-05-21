@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Path Control"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Routing Algorithms"
-parent-competency: "L2- Static Routing Principles and Packet Forwarding"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/routing-algorithms/routing-algorithms|routing-algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/routing-algorithms/competencies/L1-static-routing-principles-and-packet-forwarding|L1-static-routing-principles-and-packet-forwarding]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Path Control
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/routing-algorithms/routing-algorit
 
 Parent competency:
 
-- [[skills/programming/algorithms/routing-algorithms/competencies/L2-static-routing-principles-and-packet-forwarding|L2- Static Routing Principles and Packet Forwarding]]
+- [[skills/programming/algorithms/routing-algorithms/competencies/L1-static-routing-principles-and-packet-forwarding|L2- Static Routing Principles and Packet Forwarding]]
 
 ## Description
 

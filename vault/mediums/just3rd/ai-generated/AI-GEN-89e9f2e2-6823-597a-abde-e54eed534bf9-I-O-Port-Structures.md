@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/i-o-port-structures|I/O Port Structures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/i-o-port-structures|i-o-port-structures]]"
 ---
 # AVR Microcontroller I/O Ports: The Gateway to the Outside World
 

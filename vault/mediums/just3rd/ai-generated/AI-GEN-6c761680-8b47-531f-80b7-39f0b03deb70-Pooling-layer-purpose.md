@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/pooling-layer-purpose|Pooling layer purpose]]"
+  - "[[skills/data/ai/deep-learning/microskills/pooling-layer-purpose|pooling-layer-purpose]]"
 ---
 # Understanding Pooling Layers in CNNs
 

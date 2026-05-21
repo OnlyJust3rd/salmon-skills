@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/dockerfile-instructions-application|Dockerfile Instructions Application]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/dockerfile-instructions-application|dockerfile-instructions-application]]"
 ---
 # Applying Dockerfile Instructions
 

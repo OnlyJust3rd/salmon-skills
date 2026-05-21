@@ -1,18 +1,41 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Sequence and Series Convergence"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 102 - Mathematics II"
-coverage:
-  - "Concept"
-  - "Evaluation"
-  - "Analysis"
-competency-count: 5
-microskill-count: 17
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-102-mathematics-ii"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-apply-alternating-series-test|L2-apply-alternating-series-test]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-apply-sequence-properties|L2-apply-sequence-properties]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-integral-and-comparison-tests|L2-integral-and-comparison-tests]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-ratio-and-root-tests|L2-ratio-and-root-tests]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L3-differentiate-convergence-types|L3-differentiate-convergence-types]]"
+standard-competency:
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-apply-alternating-series-test|L2-apply-alternating-series-test]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-apply-sequence-properties|L2-apply-sequence-properties]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-integral-and-comparison-tests|L2-integral-and-comparison-tests]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-ratio-and-root-tests|L2-ratio-and-root-tests]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L3-differentiate-convergence-types|L3-differentiate-convergence-types]]"
+microskills:
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/absolute-convergence-identification|absolute-convergence-identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/alternating-series-convergence-determination|alternating-series-convergence-determination]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/alternating-series-test-application|alternating-series-test-application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/bounded-sequence-identification|bounded-sequence-identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/comparison-test-application|comparison-test-application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/conditional-convergence-identification|conditional-convergence-identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/convergence-test-outcome-analysis|convergence-test-outcome-analysis]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/divergence-identification|divergence-identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/integral-test-application|integral-test-application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/limit-comparison-test-application|limit-comparison-test-application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/monotonically-decreasing-sequence-identification|monotonically-decreasing-sequence-identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/monotonically-increasing-sequence-identification|monotonically-increasing-sequence-identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/ratio-test-application|ratio-test-application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/root-test-application|root-test-application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/sequence-convergence-determination|sequence-convergence-determination]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/series-convergence-determination-integral-comparison|series-convergence-determination-integral-comparison]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/series-convergence-determination-ratio-root|series-convergence-determination-ratio-root]]"
 ---
 
 # Sequence and Series Convergence
@@ -21,11 +44,11 @@ Ability to define and evaluate sequences, determine their convergence or diverge
 
 ## Competencies
 
-- [[L3-apply-sequence-properties|L3- Apply Sequence Properties]]
-- [[L3-integral-and-comparison-tests|L3- Integral and Comparison Tests]]
-- [[L3-ratio-and-root-tests|L3- Ratio and Root Tests]]
-- [[L3-apply-alternating-series-test|L3- Apply Alternating Series Test]]
-- [[L4-differentiate-convergence-types|L4- Differentiate convergence types]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L2-apply-sequence-properties|L3- Apply Sequence Properties]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L2-integral-and-comparison-tests|L3- Integral and Comparison Tests]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L2-ratio-and-root-tests|L3- Ratio and Root Tests]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L2-apply-alternating-series-test|L3- Apply Alternating Series Test]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L3-differentiate-convergence-types|L4- Differentiate convergence types]]
 
 ## Microskills
 

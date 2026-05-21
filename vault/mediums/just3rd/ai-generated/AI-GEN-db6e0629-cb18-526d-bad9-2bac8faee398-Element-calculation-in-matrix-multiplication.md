@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/element-calculation-in-matrix-multiplication|Element calculation in matrix multiplication]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/element-calculation-in-matrix-multiplication|element-calculation-in-matrix-multiplication]]"
 ---
 # Calculating Elements in Matrix Multiplication
 

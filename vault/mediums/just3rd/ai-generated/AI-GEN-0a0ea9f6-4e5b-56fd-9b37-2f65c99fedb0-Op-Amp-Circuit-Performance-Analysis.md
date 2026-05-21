@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/op-amp-circuit-performance-analysis|Op-Amp Circuit Performance Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/op-amp-circuit-performance-analysis|op-amp-circuit-performance-analysis]]"
 ---
 # Analyzing Op-Amp Feedback for Performance
 

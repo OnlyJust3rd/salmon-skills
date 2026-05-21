@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/nosql-database-categories|NoSQL Database Categories]]"
+  - "[[skills/data/databases/nosql-database/microskills/nosql-database-categories|nosql-database-categories]]"
 ---
 # Understanding NoSQL Database Categories
 

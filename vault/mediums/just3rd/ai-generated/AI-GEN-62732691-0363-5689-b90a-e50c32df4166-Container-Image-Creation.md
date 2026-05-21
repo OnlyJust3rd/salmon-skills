@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-image-creation|Container Image Creation]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-image-creation|container-image-creation]]"
 ---
 # Building Your First Docker Image: From Dockerfile to Image
 

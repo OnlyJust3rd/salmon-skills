@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/presentation-approach-rationale|Presentation Approach Rationale]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/presentation-approach-rationale|presentation-approach-rationale]]"
 ---
 # Rationale for Your Technical Presentation Approach
 

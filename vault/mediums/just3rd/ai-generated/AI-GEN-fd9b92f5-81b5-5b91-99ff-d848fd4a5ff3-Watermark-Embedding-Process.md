@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermark-embedding-process|Watermark Embedding Process]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermark-embedding-process|watermark-embedding-process]]"
 ---
 # Watermark Embedding Process
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Convergence vs divergence"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Integral Evaluation"
-parent-competency: "L3- Evaluate Improper Integrals"
+  - "microskill"
+parent-skill: "[[skills/mathematics/integral-evaluation/integral-evaluation|integral-evaluation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/integral-evaluation/competencies/L2-evaluate-improper-integrals|L2-evaluate-improper-integrals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Convergence vs divergence
@@ -15,7 +17,7 @@ Parent macro: [[integral-evaluation|Integral Evaluation]]
 
 Parent competency:
 
-- [[L3-evaluate-improper-integrals|L3- Evaluate Improper Integrals]]
+- [[skills/mathematics/integral-evaluation/competencies/L2-evaluate-improper-integrals|L3- Evaluate Improper Integrals]]
 
 ## Description
 

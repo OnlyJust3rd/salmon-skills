@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/time-reversal-application|Time Reversal Application]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-reversal-application|time-reversal-application]]"
 ---
 # Executing Time Reversal on Discrete-Time Sequences
 

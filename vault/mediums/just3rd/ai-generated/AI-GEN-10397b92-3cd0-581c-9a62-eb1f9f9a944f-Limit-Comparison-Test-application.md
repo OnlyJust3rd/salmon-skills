@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/limit-comparison-test-application|Limit Comparison Test application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/limit-comparison-test-application|limit-comparison-test-application]]"
 ---
 # Applying the Limit Comparison Test
 

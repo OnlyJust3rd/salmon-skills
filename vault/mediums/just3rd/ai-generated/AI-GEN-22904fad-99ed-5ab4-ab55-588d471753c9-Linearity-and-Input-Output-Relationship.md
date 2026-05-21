@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/linearity-and-input-output-relationship|Linearity and Input-Output Relationship]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linearity-and-input-output-relationship|linearity-and-input-output-relationship]]"
 ---
 # Linearity and System Input-Output
 

@@ -1,0 +1,121 @@
+---
+type: "ontology-note"
+title: "Folder Conventions"
+schema-version: "v1.0"
+scope: "vault"
+tags:
+  - ontology
+  - folders
+---
+
+# Folder Conventions
+
+Folder paths are part of the schema. Generated notes should use these folders unless the ontology is revised.
+
+## Top-level Folders
+
+```text
+vault/
+  courses/
+  careers/
+  skills/
+  contributors/
+  mediums/
+  ontology/
+  docs/
+```
+
+Rules:
+
+- Use `courses/` for course notes.
+- Use `careers/` for career profile notes.
+- Use `skills/` for skills, competencies, and microskills.
+- Use `contributors/` for contributor notes.
+- Use `mediums/` for learning content artifacts.
+- Use `ontology/` only for schema and rule notes.
+
+## Courses
+
+Course notes live under:
+
+```text
+vault/courses/<institution>/<catalog-or-version>/<course-slug>.md
+```
+
+Rules:
+
+- The note must use `type: "course"`.
+- The filename should be a stable slug.
+- Course notes should link to related skills under `## Skills`.
+
+## Careers
+
+Career notes live under:
+
+```text
+vault/careers/<focus-area>/<career-slug>.md
+```
+
+Rules:
+
+- The note must use `type: "career"` or `type: "redirect"`.
+- Career notes should link to required competencies under `## Required Competencies`.
+
+## Skills
+
+Skill notes live under:
+
+```text
+vault/skills/<taxonomy-path>/<skill-name>/
+  <skill-name>.md
+  competencies/
+    <competency-slug>.md
+  microskills/
+    <microskill-slug>.md
+```
+
+Rules:
+
+- `<taxonomy-path>` may contain one or more nested folders.
+- The leaf folder name and skill filename must match.
+- The skill note must use `type: "Skill"`.
+- Competency notes must live in `competencies/` and use `type: "Competency"`.
+- Competency filenames must start with `L<miller-level>-`, using the note's `miller-level` property as the source of truth.
+- Microskill notes must live in `microskills/` and use `type: "Microskill"`.
+- Skill taxonomy is derived from folders, not frontmatter properties.
+
+## Contributors
+
+Contributor notes live under:
+
+```text
+vault/contributors/<contributor-slug>.md
+```
+
+Rules:
+
+- Contributor notes must use `type: "contributor"`.
+- Skill graph notes should link contributors through the `contributors` property.
+
+## Mediums
+
+Learning media live under:
+
+```text
+vault/mediums/<medium-kind>/<medium-slug>.md
+```
+
+Rules:
+
+- Medium notes should use `type: "medium"`.
+- Medium notes should link back to the most specific supported graph nodes.
+
+## Bases
+
+Base files may live at the vault root or in a documented views folder.
+
+Rules:
+
+- Base files must be valid YAML.
+- Base filters should use current folder names.
+- Base views should filter by `type` for entity-specific views.

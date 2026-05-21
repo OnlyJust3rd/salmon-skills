@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Encryption Impact on Compression Pipeline"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Multimedia Compression"
-parent-competency: "L2- Describe Encryption-Compression Interaction"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multimedia-compression/multimedia-compression|multimedia-compression]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-describe-encryption-compression-interaction|L1-describe-encryption-compression-interaction]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Encryption Impact on Compression Pipeline
@@ -15,7 +17,7 @@ Parent macro: [[multimedia-compression|Multimedia Compression]]
 
 Parent competency:
 
-- [[L2-describe-encryption-compression-interaction|L2- Describe Encryption-Compression Interaction]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-describe-encryption-compression-interaction|L2- Describe Encryption-Compression Interaction]]
 
 ## Description
 

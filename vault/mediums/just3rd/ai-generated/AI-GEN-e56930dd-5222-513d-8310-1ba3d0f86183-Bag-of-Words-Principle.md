@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-principle|Bag-of-Words Principle]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-principle|bag-of-words-principle]]"
 ---
 # The Bag-of-Words Principle
 

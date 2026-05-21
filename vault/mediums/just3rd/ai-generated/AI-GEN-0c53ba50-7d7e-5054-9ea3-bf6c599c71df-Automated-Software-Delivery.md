@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/automated-software-delivery|Automated Software Delivery]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/automated-software-delivery|automated-software-delivery]]"
 ---
 # Automated Software Delivery: The Heart of CI/CD
 

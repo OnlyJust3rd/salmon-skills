@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/mathematical-induction/microskills/inductive-step-explanation|Inductive step explanation]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/inductive-step-explanation|inductive-step-explanation]]"
 ---
 # The Inductive Step: Building the Chain
 

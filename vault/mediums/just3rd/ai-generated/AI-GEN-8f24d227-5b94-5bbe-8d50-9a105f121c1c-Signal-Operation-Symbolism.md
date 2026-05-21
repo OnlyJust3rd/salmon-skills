@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/signal-operation-symbolism|Signal Operation Symbolism]]"
+  - "[[skills/mathematics/signal-operations/microskills/signal-operation-symbolism|signal-operation-symbolism]]"
 ---
 # Understanding Signal Operation Symbolism
 

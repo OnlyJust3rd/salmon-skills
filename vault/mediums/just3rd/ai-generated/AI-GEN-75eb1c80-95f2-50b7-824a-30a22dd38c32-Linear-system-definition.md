@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/linear-system-definition|Linear system definition]]"
-  - "[[skills/mathematics/system-property-analysis/microskills/linear-system-definition|Linear System Definition]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/linear-system-definition|linear-system-definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linear-system-definition|linear-system-definition]]"
 ---
 # Understanding Linear Systems: The Building Blocks
 

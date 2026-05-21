@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/industry-sectors-utilizing-computing|Industry Sectors Utilizing Computing]]"
+  - "[[skills/data/ai/soft-computing/microskills/industry-sectors-utilizing-computing|industry-sectors-utilizing-computing]]"
 ---
 # Industry Sectors Utilizing Computing
 

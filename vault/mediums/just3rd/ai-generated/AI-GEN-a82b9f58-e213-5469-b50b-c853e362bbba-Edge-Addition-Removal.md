@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/edge-addition-removal|Edge Addition/Removal]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/edge-addition-removal|edge-addition-removal]]"
 ---
 # Adding and Removing Edges in Graphs
 

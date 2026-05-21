@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/power-speed-trade-off|Power-Speed Trade-off]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/power-speed-trade-off|power-speed-trade-off]]"
 ---
 # Understanding the Power-Speed Trade-off in Logic Families
 

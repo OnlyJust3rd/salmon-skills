@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/angle-between-vectors-calculation|Angle between vectors calculation]]"
+  - "[[skills/mathematics/vector/microskills/angle-between-vectors-calculation|angle-between-vectors-calculation]]"
 ---
 # Calculating the Angle Between Two Vectors
 

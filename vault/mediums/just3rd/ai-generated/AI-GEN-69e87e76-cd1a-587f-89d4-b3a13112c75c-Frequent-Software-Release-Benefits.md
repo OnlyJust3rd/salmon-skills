@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/frequent-software-release-benefits|Frequent Software Release Benefits]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/frequent-software-release-benefits|frequent-software-release-benefits]]"
 ---
 # The Power of Releasing Software Faster
 

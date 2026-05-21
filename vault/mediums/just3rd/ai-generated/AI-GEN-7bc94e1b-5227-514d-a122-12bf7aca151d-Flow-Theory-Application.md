@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/flow-theory-application|Flow Theory Application]]"
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/flow-theory-application|flow-theory-application]]"
 ---
 # Applying Flow Theory to Game Design
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/shader-programming/microskills/material-parameter|Material Parameter]]"
+  - "[[skills/programming/programming-languages/shader-programming/microskills/material-parameter|material-parameter]]"
 ---
 # Understanding Material Parameters in Shader Programming
 

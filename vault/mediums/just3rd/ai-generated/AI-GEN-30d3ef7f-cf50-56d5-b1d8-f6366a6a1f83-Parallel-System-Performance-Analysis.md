@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/parallel-system-performance-analysis|Parallel System Performance Analysis]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/parallel-system-performance-analysis|parallel-system-performance-analysis]]"
 ---
 # Analyzing Parallel System Performance with Amdahl's Law
 

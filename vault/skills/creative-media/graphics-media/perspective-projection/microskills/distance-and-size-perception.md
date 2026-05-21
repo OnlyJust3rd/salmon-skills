@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Distance and Size Perception"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Perspective Projection"
-parent-competency: "L2- Explain Foreshortening"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/perspective-projection/perspective-projection|perspective-projection]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/perspective-projection/competencies/L1-explain-foreshortening|L1-explain-foreshortening]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Distance and Size Perception
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/perspective-projection/pers
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/perspective-projection/competencies/L2-explain-foreshortening|L2- Explain Foreshortening]]
+- [[skills/creative-media/graphics-media/perspective-projection/competencies/L1-explain-foreshortening|L2- Explain Foreshortening]]
 
 ## Description
 

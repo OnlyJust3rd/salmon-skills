@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/passive-rl-circuit-components|Passive RL Circuit Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/passive-rl-circuit-components|passive-rl-circuit-components]]"
 ---
 # Passive RL Circuit Components
 

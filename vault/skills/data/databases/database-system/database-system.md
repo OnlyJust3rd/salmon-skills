@@ -1,22 +1,36 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Database System"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 241 - Database Systems"
-coverage:
-  - "Concept"
-competency-count: 4
-microskill-count: 17
-related-jobs:
-  - "Backend Developer"
-  - "Database Administrator"
-  - "System Analyst"
-  - "Data Engineer"
-  - "ERP Consultant"
-  - "Technical Consultant"
-source-note: "courses/kmutt/cpe-2021/cpe-241-database-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/databases/database-system/competencies/L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
+  - "[[skills/data/databases/database-system/competencies/L1-explain-database-transactions|L1-explain-database-transactions]]"
+  - "[[skills/data/databases/database-system/competencies/L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]"
+  - "[[skills/data/databases/database-system/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
+standard-competency:
+  - "[[skills/data/databases/database-system/competencies/L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
+microskills:
+  - "[[skills/data/databases/database-system/microskills/3-tier-application-model|3-tier-application-model]]"
+  - "[[skills/data/databases/database-system/microskills/acid-properties|acid-properties]]"
+  - "[[skills/data/databases/database-system/microskills/application-business-logic-layer|application-business-logic-layer]]"
+  - "[[skills/data/databases/database-system/microskills/commit-and-rollback|commit-and-rollback]]"
+  - "[[skills/data/databases/database-system/microskills/data-access-layer|data-access-layer]]"
+  - "[[skills/data/databases/database-system/microskills/data-model-distinctions|data-model-distinctions]]"
+  - "[[skills/data/databases/database-system/microskills/data-relationships|data-relationships]]"
+  - "[[skills/data/databases/database-system/microskills/database-structure-tables-columns-rows|database-structure-tables-columns-rows]]"
+  - "[[skills/data/databases/database-system/microskills/inter-tier-communication-flow|inter-tier-communication-flow]]"
+  - "[[skills/data/databases/database-system/microskills/nosql-database-characteristics|nosql-database-characteristics]]"
+  - "[[skills/data/databases/database-system/microskills/presentation-layer-functionality|presentation-layer-functionality]]"
+  - "[[skills/data/databases/database-system/microskills/rdbms-key-components|rdbms-key-components]]"
+  - "[[skills/data/databases/database-system/microskills/relational-database-characteristics|relational-database-characteristics]]"
+  - "[[skills/data/databases/database-system/microskills/relational-database-fundamentals|relational-database-fundamentals]]"
+  - "[[skills/data/databases/database-system/microskills/structural-differences|structural-differences]]"
+  - "[[skills/data/databases/database-system/microskills/transaction-boundaries|transaction-boundaries]]"
+  - "[[skills/data/databases/database-system/microskills/use-case-suitability|use-case-suitability]]"
 ---
 
 # Database System
@@ -26,9 +40,9 @@ Understanding foundational concepts of relational databases, SQL, database syste
 ## Competencies
 
 - [[skills/data/databases/database-system/competencies/L1-define-and-list-rdbms-concepts|L1- Define and List RDBMS Concepts]]
-- [[skills/data/databases/database-system/competencies/L2-explain-relational-vs-nosql|L2- Explain Relational vs NoSQL]]
-- [[skills/data/databases/database-system/competencies/L2-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
-- [[skills/data/databases/database-system/competencies/L2-explain-database-transactions|L2- Explain Database Transactions]]
+- [[skills/data/databases/database-system/competencies/L1-explain-relational-vs-nosql|L2- Explain Relational vs NoSQL]]
+- [[skills/data/databases/database-system/competencies/L1-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
+- [[skills/data/databases/database-system/competencies/L1-explain-database-transactions|L2- Explain Database Transactions]]
 
 ## Microskills
 

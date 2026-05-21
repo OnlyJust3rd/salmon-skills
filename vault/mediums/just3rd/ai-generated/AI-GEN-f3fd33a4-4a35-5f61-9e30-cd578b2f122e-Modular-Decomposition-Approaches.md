@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-approaches|Modular Decomposition Approaches]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-approaches|modular-decomposition-approaches]]"
 ---
 # Understanding Modular Decomposition Approaches
 

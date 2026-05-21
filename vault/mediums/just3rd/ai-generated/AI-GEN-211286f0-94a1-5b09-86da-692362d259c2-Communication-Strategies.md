@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/communication-strategies|Communication Strategies]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/communication-strategies|communication-strategies]]"
 ---
 # Communication Strategies: Bridging the Gap in Organizations
 

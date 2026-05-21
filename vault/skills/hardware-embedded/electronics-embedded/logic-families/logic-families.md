@@ -1,16 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Logic Families"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-coverage:
-  - "Concept"
-competency-count: 2
-microskill-count: 8
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-222-digital-electronics-and-logic-design"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/competencies/L1-recall-logic-family-parameters|L1-recall-logic-family-parameters]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/competencies/L1-explain-logic-family-trade-offs|L1-explain-logic-family-trade-offs]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/competencies/L1-explain-logic-family-trade-offs|L1-explain-logic-family-trade-offs]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/cmos-family-identification|cmos-family-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/fan-out-impact|fan-out-impact]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/key-parameter-definitions|key-parameter-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/logic-level-voltage-ranges|logic-level-voltage-ranges]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/noise-margin-calculation|noise-margin-calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/power-speed-trade-off|power-speed-trade-off]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/ttl-cmos-interfacing|ttl-cmos-interfacing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/ttl-family-identification|ttl-family-identification]]"
 ---
 
 # Logic Families
@@ -20,7 +29,7 @@ Understand the characteristics, parameters, and trade-offs of common digital log
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/logic-families/competencies/L1-recall-logic-family-parameters|L1- Recall Logic Family Parameters]]
-- [[skills/hardware-embedded/electronics-embedded/logic-families/competencies/L2-explain-logic-family-trade-offs|L2- Explain Logic Family Trade-offs]]
+- [[skills/hardware-embedded/electronics-embedded/logic-families/competencies/L1-explain-logic-family-trade-offs|L2- Explain Logic Family Trade-offs]]
 
 ## Microskills
 

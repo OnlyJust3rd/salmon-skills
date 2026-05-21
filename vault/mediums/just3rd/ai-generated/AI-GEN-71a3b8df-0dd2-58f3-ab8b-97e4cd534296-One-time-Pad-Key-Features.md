@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-key-features|One-time Pad Key Features]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-key-features|one-time-pad-key-features]]"
 ---
 # One-time Pad: The Unbreakable Cipher's Core Features
 

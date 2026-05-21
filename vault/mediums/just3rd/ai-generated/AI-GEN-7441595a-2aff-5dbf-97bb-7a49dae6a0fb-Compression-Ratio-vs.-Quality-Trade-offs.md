@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/compression-ratio-vs-quality-trade-offs|Compression Ratio vs. Quality Trade-offs]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/compression-ratio-vs-quality-trade-offs|compression-ratio-vs-quality-trade-offs]]"
 ---
 # Compression Ratio vs. Quality Trade-offs
 

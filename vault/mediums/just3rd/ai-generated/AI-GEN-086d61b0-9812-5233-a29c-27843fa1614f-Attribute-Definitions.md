@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/employer-expectations/microskills/attribute-definitions|Attribute Definitions]]"
+  - "[[skills/business-it/business-product/employer-expectations/microskills/attribute-definitions|attribute-definitions]]"
 ---
 # Understanding Essential Employee Attributes
 

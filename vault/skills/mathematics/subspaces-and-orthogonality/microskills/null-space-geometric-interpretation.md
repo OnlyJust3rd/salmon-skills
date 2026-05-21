@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Null space geometric interpretation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Subspaces and Orthogonality"
-parent-competency: "L2- Explain Fundamental Subspace Relationships"
+  - "microskill"
+parent-skill: "[[skills/mathematics/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
+requires-in-competencies:
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-explain-fundamental-subspace-relationships|L1-explain-fundamental-subspace-relationships]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Null space geometric interpretation
@@ -15,7 +17,7 @@ Parent macro: [[subspaces-and-orthogonality|Subspaces and Orthogonality]]
 
 Parent competency:
 
-- [[L2-explain-fundamental-subspace-relationships|L2- Explain Fundamental Subspace Relationships]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-explain-fundamental-subspace-relationships|L2- Explain Fundamental Subspace Relationships]]
 
 ## Description
 

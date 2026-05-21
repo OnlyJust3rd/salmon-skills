@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-machine-architecture|Virtual Machine Architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-machine-architecture|virtual-machine-architecture]]"
 ---
 # Virtual Machine Architecture: The Foundation of Hardware Virtualization
 

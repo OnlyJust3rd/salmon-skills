@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/consistent-environment-behavior|Consistent Environment Behavior]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/consistent-environment-behavior|consistent-environment-behavior]]"
 ---
 # Containers: The Secret to Consistent Application Behavior
 

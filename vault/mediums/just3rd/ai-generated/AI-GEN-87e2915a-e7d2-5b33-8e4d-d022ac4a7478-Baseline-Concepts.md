@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-version-control/microskills/baseline-concepts|Baseline Concepts]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/baseline-concepts|baseline-concepts]]"
 ---
 # Understanding Baselines in Software Version Control
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-implementation|Mutual Exclusion Implementation]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-implementation|mutual-exclusion-implementation]]"
 ---
 # Implementing Mutual Exclusion with Locks
 

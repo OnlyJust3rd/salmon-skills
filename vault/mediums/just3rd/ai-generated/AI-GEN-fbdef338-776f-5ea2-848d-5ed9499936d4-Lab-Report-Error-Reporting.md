@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/lab-report-error-reporting|Lab Report Error Reporting]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/lab-report-error-reporting|lab-report-error-reporting]]"
 ---
 # Reporting Percentage Error in Lab Reports
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-performance-metric-application|Watermarking Performance Metric Application]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-performance-metric-application|watermarking-performance-metric-application]]"
 ---
 # Applying Watermarking Performance Metrics
 

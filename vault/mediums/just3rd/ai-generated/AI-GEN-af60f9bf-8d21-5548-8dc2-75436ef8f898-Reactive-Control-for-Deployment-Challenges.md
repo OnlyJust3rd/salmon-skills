@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-for-deployment-challenges|Reactive Control for Deployment Challenges]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-for-deployment-challenges|reactive-control-for-deployment-challenges]]"
 ---
 # Reactive Control for Robotic Deployment
 

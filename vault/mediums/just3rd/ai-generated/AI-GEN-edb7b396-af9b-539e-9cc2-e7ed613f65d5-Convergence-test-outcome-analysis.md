@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/convergence-test-outcome-analysis|Convergence test outcome analysis]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/convergence-test-outcome-analysis|convergence-test-outcome-analysis]]"
 ---
 # Analyzing Convergence Test Outcomes
 

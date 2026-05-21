@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/taxpayer-identification|Taxpayer Identification]]"
+  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/taxpayer-identification|taxpayer-identification]]"
 ---
 # Taxpayer Identification
 

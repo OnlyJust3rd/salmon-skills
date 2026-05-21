@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/level-design/microskills/fundamental-level-components|Fundamental Level Components]]"
+  - "[[skills/creative-media/game-development/level-design/microskills/fundamental-level-components|fundamental-level-components]]"
 ---
 # Recognizing Fundamental Level Components in Level Design
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Message Key"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Apache Kafka"
-parent-competency: "L3- Apply Kafka Producer Consumer and Topic Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/apache-kafka/apache-kafka|apache-kafka]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/apache-kafka/competencies/L2-apply-kafka-producer-consumer-and-topic-concepts|L2-apply-kafka-producer-consumer-and-topic-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Message Key
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/apache-kafka/apache-kafka|Apache Kafk
 
 Parent competency:
 
-- [[skills/data/data-platforms/apache-kafka/competencies/L3-apply-kafka-producer-consumer-and-topic-concepts|L3- Apply Kafka Producer Consumer and Topic Concepts]]
+- [[skills/data/data-platforms/apache-kafka/competencies/L2-apply-kafka-producer-consumer-and-topic-concepts|L3- Apply Kafka Producer Consumer and Topic Concepts]]
 
 ## Description
 

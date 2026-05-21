@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|Fetch-and-Add Atomicity]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|fetch-and-add-atomicity]]"
 ---
 # Fetch-and-Add Atomicity
 

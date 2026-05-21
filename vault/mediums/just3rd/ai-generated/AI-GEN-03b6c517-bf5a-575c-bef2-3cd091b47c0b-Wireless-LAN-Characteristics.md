@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/wireless-networks/microskills/wireless-lan-characteristics|Wireless LAN Characteristics]]"
+  - "[[skills/systems/networking/wireless-networks/microskills/wireless-lan-characteristics|wireless-lan-characteristics]]"
 ---
 # Wireless LAN (WLAN) Characteristics
 

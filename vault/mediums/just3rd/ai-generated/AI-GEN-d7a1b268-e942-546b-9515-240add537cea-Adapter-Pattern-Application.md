@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/adapter-pattern-application|Adapter Pattern Application]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/adapter-pattern-application|adapter-pattern-application]]"
 ---
 # Applying the Adapter Pattern
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Raw Zone"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Data Lake"
-parent-competency: "L2- Explain Data Lake Storage Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-lake/data-lake|data-lake]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-lake/competencies/L1-explain-data-lake-storage-concepts|L1-explain-data-lake-storage-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Raw Zone
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-lake/data-lake|Data Lake]]
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-lake/competencies/L2-explain-data-lake-storage-concepts|L2- Explain Data Lake Storage Concepts]]
+- [[skills/data/data-platforms/data-lake/competencies/L1-explain-data-lake-storage-concepts|L2- Explain Data Lake Storage Concepts]]
 
 ## Description
 

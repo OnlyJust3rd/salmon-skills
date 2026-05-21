@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/routing-and-switching/microskills/vlan-membership|VLAN Membership]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/vlan-membership|vlan-membership]]"
 ---
 # Understanding VLAN Membership: Segmenting Your Network
 

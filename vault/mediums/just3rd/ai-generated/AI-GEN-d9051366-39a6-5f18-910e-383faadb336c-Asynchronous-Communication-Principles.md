@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/asynchronous-communication-principles|Asynchronous Communication Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/asynchronous-communication-principles|asynchronous-communication-principles]]"
 ---
 # Asynchronous Communication Principles
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Routing Decision Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Layer"
-parent-competency: "L2- Define IP addressing and forwarding concepts"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-layer/network-layer|network-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts|L1-define-ip-addressing-and-forwarding-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Routing Decision Components
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-layer/network-layer|Network La
 
 Parent competency:
 
-- [[skills/systems/networking/network-layer/competencies/L2-define-ip-addressing-and-forwarding-concepts|L2- Define IP addressing and forwarding concepts]]
+- [[skills/systems/networking/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts|L2- Define IP addressing and forwarding concepts]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/interconnectedness-of-number-theory-concepts|Interconnectedness of Number Theory Concepts]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/interconnectedness-of-number-theory-concepts|interconnectedness-of-number-theory-concepts]]"
 ---
 # The Interconnected Web of Number Theory for Cryptography
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-divisibility|Induction proofs for divisibility]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-divisibility|induction-proofs-for-divisibility]]"
 ---
 # Induction Proofs for Divisibility
 

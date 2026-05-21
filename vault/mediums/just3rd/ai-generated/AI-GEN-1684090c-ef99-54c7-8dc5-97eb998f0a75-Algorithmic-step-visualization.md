@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/algorithmic-step-visualization|Algorithmic step visualization]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/algorithmic-step-visualization|algorithmic-step-visualization]]"
 ---
 # Visualizing Algorithmic Steps with Flowcharts
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/cost-analysis-of-prototyping-methods|Cost Analysis of Prototyping Methods]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/cost-analysis-of-prototyping-methods|cost-analysis-of-prototyping-methods]]"
 ---
 # Cost Analysis of Prototyping Methods
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/serverless-execution-model|Serverless Execution Model]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/serverless-execution-model|serverless-execution-model]]"
 ---
 # Understanding the Serverless Execution Model
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/iam-policy-creation|IAM Policy Creation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/iam-policy-creation|iam-policy-creation]]"
 ---
 # IAM Policy Creation: Defining Specific Permissions
 

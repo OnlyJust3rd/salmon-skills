@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/sequence-modeling|Sequence Modeling]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/sequence-modeling|sequence-modeling]]"
 ---
 # Sequence Modeling with Ordered Lists
 

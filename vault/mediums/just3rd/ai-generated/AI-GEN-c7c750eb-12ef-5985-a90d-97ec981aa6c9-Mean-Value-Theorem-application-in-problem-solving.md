@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/mean-value-theorem-application-in-problem-solving|Mean Value Theorem application in problem-solving]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/mean-value-theorem-application-in-problem-solving|mean-value-theorem-application-in-problem-solving]]"
 ---
 # Mean Value Theorem Application in Problem-Solving
 

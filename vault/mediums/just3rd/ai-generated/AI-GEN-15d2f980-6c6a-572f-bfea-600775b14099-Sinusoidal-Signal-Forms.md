@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/sinusoidal-signal-forms|Sinusoidal Signal Forms]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/sinusoidal-signal-forms|sinusoidal-signal-forms]]"
 ---
 # Understanding Sinusoidal Signal Forms
 

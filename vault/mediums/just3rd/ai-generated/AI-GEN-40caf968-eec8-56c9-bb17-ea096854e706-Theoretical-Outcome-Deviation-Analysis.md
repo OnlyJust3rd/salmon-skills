@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/theoretical-outcome-deviation-analysis|Theoretical Outcome Deviation Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/theoretical-outcome-deviation-analysis|theoretical-outcome-deviation-analysis]]"
 ---
 # Theoretical Outcome Deviation Analysis
 

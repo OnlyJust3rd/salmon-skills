@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/acceptance-criteria-extraction|Acceptance criteria extraction]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/acceptance-criteria-extraction|acceptance-criteria-extraction]]"
 ---
 # Extracting Acceptance Criteria: Your Blueprint for User Satisfaction
 

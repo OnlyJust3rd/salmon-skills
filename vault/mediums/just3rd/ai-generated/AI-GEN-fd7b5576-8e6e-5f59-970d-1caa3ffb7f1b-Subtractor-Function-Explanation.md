@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/subtractor-function-explanation|Subtractor Function Explanation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/subtractor-function-explanation|subtractor-function-explanation]]"
 ---
 # Understanding Subtractor Circuits
 

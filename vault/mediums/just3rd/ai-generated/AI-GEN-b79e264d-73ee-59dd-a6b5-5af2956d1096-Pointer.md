@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/cpp-programming/microskills/pointer|Pointer]]"
+  - "[[skills/programming/programming-languages/cpp-programming/microskills/pointer|pointer]]"
 ---
 # Understanding C++ Pointers
 

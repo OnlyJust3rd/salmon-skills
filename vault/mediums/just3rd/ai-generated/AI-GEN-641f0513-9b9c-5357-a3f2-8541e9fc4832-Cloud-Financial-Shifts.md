@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/cloud-financial-shifts|Cloud Financial Shifts]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/cloud-financial-shifts|cloud-financial-shifts]]"
 ---
 # Cloud Financial Shifts: From Buying to Renting IT
 

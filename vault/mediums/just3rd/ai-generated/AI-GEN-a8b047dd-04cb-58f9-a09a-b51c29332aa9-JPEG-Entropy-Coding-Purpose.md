@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-entropy-coding-purpose|JPEG Entropy Coding Purpose]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-entropy-coding-purpose|jpeg-entropy-coding-purpose]]"
 ---
 # Understanding JPEG Entropy Coding
 

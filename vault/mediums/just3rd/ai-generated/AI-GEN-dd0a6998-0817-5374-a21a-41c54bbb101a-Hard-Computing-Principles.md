@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/hard-computing-principles|Hard Computing Principles]]"
+  - "[[skills/data/ai/soft-computing/microskills/hard-computing-principles|hard-computing-principles]]"
 ---
 # Hard Computing: The Foundation of Traditional Computing
 

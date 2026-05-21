@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/simulated-input-device-interaction|Simulated Input Device Interaction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/simulated-input-device-interaction|simulated-input-device-interaction]]"
 ---
 # Interacting with Simulated Input Devices
 

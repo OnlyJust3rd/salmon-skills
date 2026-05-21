@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/cloud-infrastructure-architecture|Cloud Infrastructure Architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/cloud-infrastructure-architecture|cloud-infrastructure-architecture]]"
 ---
 # Cloud Infrastructure Architecture: Putting the Pieces Together
 

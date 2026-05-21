@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/digital-signal-manipulation|Digital Signal Manipulation]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/digital-signal-manipulation|digital-signal-manipulation]]"
 ---
 # Setting and Clearing AVR Output Pins
 

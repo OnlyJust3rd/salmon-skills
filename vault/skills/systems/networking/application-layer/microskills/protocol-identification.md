@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Protocol Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Application Layer"
-parent-competency: "L1- List and define application protocols"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/application-layer/application-layer|application-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/application-layer/competencies/L1-list-and-define-application-protocols|L1-list-and-define-application-protocols]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Protocol Identification

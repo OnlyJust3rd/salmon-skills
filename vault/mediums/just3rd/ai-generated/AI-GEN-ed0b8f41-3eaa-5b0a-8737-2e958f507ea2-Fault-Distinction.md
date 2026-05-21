@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-testing/microskills/fault-distinction|Fault Distinction]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/fault-distinction|fault-distinction]]"
 ---
 # Understanding the Difference Between Faults, Errors, and Failures
 

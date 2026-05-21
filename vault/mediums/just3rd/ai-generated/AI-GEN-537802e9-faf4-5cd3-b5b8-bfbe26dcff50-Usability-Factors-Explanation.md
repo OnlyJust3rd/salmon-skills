@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-factors-explanation|Usability Factors Explanation]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-factors-explanation|usability-factors-explanation]]"
 ---
 # Understanding Usability Factors in UI Design
 

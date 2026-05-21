@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/amazon-redshift/microskills/sort-key|Sort Key]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/sort-key|sort-key]]"
 ---
 # Understanding Sort Keys in Amazon Redshift
 

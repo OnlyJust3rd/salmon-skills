@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/biometrics-fundamentals|Biometrics Fundamentals]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/biometrics-fundamentals|biometrics-fundamentals]]"
 ---
 # Biometrics Fundamentals
 

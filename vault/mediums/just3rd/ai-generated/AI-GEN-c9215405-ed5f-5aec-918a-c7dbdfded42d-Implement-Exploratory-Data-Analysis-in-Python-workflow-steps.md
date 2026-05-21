@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-exploratory-data-analysis-in-python-workflow-steps|Implement Exploratory Data Analysis in Python workflow steps]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-exploratory-data-analysis-in-python-workflow-steps|implement-exploratory-data-analysis-in-python-workflow-steps]]"
 ---
 # Implementing Exploratory Data Analysis (EDA) in Python: Workflow Steps
 

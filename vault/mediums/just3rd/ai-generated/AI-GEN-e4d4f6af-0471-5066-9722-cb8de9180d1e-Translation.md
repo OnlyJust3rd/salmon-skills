@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/translation|Translation]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/translation|translation]]"
 ---
 # Understanding Translation in Geometric Transformations
 

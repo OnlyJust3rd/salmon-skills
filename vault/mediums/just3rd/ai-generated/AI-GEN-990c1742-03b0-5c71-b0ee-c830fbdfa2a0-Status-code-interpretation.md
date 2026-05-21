@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/restful-api/microskills/status-code-interpretation|Status code interpretation]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/status-code-interpretation|status-code-interpretation]]"
 ---
 # Understanding API Status Codes: A Quick Guide
 

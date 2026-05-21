@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/emulator-tool-utilization|Emulator Tool Utilization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/emulator-tool-utilization|emulator-tool-utilization]]"
 ---
 # Utilizing Emulator Tools for Processor Implementation
 

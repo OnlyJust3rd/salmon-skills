@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/responsive-web-design/microskills/media-queries|Media Queries]]"
+  - "[[skills/web-and-design/frontend-ux/responsive-web-design/microskills/media-queries|media-queries]]"
 ---
 # Mastering Media Queries for Responsive Layouts
 

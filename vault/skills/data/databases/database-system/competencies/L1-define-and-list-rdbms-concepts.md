@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and List RDBMS Concepts"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 241 - Database Systems"
-parent-macro: "Database System"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and Identify Data Structures and Concepts"
+  - "[[skills/programming/data-structures/data-structure-principles/competencies/L1-define-and-identify-data-structures-and-concepts|L1-define-and-identify-data-structures-and-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/databases/database-system/database-system|database-system]]"
+requires-microskills:
+  - "[[skills/data/databases/database-system/microskills/data-relationships|data-relationships]]"
+  - "[[skills/data/databases/database-system/microskills/database-structure-tables-columns-rows|database-structure-tables-columns-rows]]"
+  - "[[skills/data/databases/database-system/microskills/rdbms-key-components|rdbms-key-components]]"
+  - "[[skills/data/databases/database-system/microskills/relational-database-fundamentals|relational-database-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and List RDBMS Concepts

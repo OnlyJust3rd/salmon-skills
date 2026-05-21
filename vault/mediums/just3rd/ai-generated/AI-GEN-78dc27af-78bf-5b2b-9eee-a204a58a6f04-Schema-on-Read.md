@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-lake/microskills/schema-on-read|Schema-on-Read]]"
+  - "[[skills/data/data-platforms/data-lake/microskills/schema-on-read|schema-on-read]]"
 ---
 # Schema-on-Read in Data Lakes
 

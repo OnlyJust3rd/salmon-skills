@@ -1,18 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Scene and Environment Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 486 - Game Design and Development"
-coverage:
-  - "Design"
-  - "Representation"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Level Designer"
-source-note: "courses/kmutt/cpe-2021/cpe-486-game-design-and-development"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/competencies/L2-apply-composition-and-lighting|L2-apply-composition-and-lighting]]"
+standard-competency:
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/competencies/L2-apply-composition-and-lighting|L2-apply-composition-and-lighting]]"
+microskills:
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/lighting-design-for-mood|lighting-design-for-mood]]"
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/scene-atmosphere-creation|scene-atmosphere-creation]]"
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/visual-composition-principles|visual-composition-principles]]"
 ---
 
 # Scene and Environment Design
@@ -21,7 +22,7 @@ Design visual scenes and environments using composition, lighting, and spatial a
 
 ## Competencies
 
-- [[skills/creative-media/design-fabrication/scene-and-environment-design/competencies/L3-apply-composition-and-lighting|L3- Apply Composition and Lighting]]
+- [[skills/creative-media/design-fabrication/scene-and-environment-design/competencies/L2-apply-composition-and-lighting|L3- Apply Composition and Lighting]]
 
 ## Microskills
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "AC Circuit Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Circuit Analysis"
-parent-competency: "L3- Apply Mesh/Nodal Analysis"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/circuit-analysis|circuit-analysis]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L2-apply-mesh-nodal-analysis|L2-apply-mesh-nodal-analysis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # AC Circuit Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/circuit-analysis/c
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L3-apply-mesh-nodal-analysis|L3- Apply Mesh/Nodal Analysis]]
+- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L2-apply-mesh-nodal-analysis|L3- Apply Mesh/Nodal Analysis]]
 
 ## Description
 

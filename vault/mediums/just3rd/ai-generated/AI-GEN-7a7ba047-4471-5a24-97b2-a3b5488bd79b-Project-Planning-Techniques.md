@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/project-planning-techniques|Project Planning Techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/project-planning-techniques|project-planning-techniques]]"
 ---
 # Project Planning Techniques for Platform Engineering
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/robustness-assessment|Robustness Assessment]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/robustness-assessment|robustness-assessment]]"
 ---
 # Robustness Assessment in Digital Watermarking
 

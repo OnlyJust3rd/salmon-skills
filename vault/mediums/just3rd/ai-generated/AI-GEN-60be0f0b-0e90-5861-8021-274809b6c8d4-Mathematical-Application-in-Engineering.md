@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/mathematical-application-in-engineering|Mathematical Application in Engineering]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/mathematical-application-in-engineering|mathematical-application-in-engineering]]"
 ---
 # Applying Mathematical Principles in Engineering
 

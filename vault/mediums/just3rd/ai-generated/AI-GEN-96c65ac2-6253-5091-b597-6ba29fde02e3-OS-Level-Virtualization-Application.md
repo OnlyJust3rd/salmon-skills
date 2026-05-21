@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/os-level-virtualization-application|OS-Level Virtualization Application]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/os-level-virtualization-application|os-level-virtualization-application]]"
 ---
 # OS-Level Virtualization in Container Image Creation
 

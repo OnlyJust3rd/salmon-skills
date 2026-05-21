@@ -1,18 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Transport Layer"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 314 - Computer Networks"
-coverage:
-  - "Concept"
-  - "Representation"
-  - "Evaluation"
-competency-count: 2
-microskill-count: 8
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-314-computer-networks"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/networking/transport-layer/competencies/L1-explain-reliable-data-mechanisms|L1-explain-reliable-data-mechanisms]]"
+  - "[[skills/systems/networking/transport-layer/competencies/L3-tcp-vs-udp-for-performance|L3-tcp-vs-udp-for-performance]]"
+standard-competency:
+  - "[[skills/systems/networking/transport-layer/competencies/L3-tcp-vs-udp-for-performance|L3-tcp-vs-udp-for-performance]]"
+microskills:
+  - "[[skills/systems/networking/transport-layer/microskills/data-delivery-assurance|data-delivery-assurance]]"
+  - "[[skills/systems/networking/transport-layer/microskills/network-performance-impact|network-performance-impact]]"
+  - "[[skills/systems/networking/transport-layer/microskills/protocol-use-cases|protocol-use-cases]]"
+  - "[[skills/systems/networking/transport-layer/microskills/reliability-in-networking|reliability-in-networking]]"
+  - "[[skills/systems/networking/transport-layer/microskills/reliability-vs-speed-trade-offs|reliability-vs-speed-trade-offs]]"
+  - "[[skills/systems/networking/transport-layer/microskills/reliable-data-transfer-principles|reliable-data-transfer-principles]]"
+  - "[[skills/systems/networking/transport-layer/microskills/tcp-characteristics|tcp-characteristics]]"
+  - "[[skills/systems/networking/transport-layer/microskills/udp-characteristics|udp-characteristics]]"
 ---
 
 # Transport Layer
@@ -21,8 +28,8 @@ Describing reliable data delivery mechanisms in computer networks and differenti
 
 ## Competencies
 
-- [[skills/systems/networking/transport-layer/competencies/L2-explain-reliable-data-mechanisms|L2- Explain Reliable Data Mechanisms]]
-- [[skills/systems/networking/transport-layer/competencies/L4-tcp-vs-udp-for-performance|L4- TCP vs UDP for Performance]]
+- [[skills/systems/networking/transport-layer/competencies/L1-explain-reliable-data-mechanisms|L2- Explain Reliable Data Mechanisms]]
+- [[skills/systems/networking/transport-layer/competencies/L3-tcp-vs-udp-for-performance|L4- TCP vs UDP for Performance]]
 
 ## Microskills
 

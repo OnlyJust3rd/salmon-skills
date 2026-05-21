@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/integrated-project-showcase|Integrated Project Showcase]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/integrated-project-showcase|integrated-project-showcase]]"
 ---
 # Integrated Project Showcase: Evaluating Your Team's Masterpiece
 

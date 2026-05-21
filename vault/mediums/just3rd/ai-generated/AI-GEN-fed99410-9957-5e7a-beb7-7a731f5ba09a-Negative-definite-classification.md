@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/negative-definite-classification|Negative definite classification]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/negative-definite-classification|negative-definite-classification]]"
 ---
 # Classifying Quadratic Forms: Negative Definite
 

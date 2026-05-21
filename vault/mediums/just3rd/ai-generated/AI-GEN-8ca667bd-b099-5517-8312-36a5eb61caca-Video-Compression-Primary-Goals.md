@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/video-compression-primary-goals|Video Compression Primary Goals]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/video-compression-primary-goals|video-compression-primary-goals]]"
 ---
 # Why Compress Video? Understanding the Core Goals
 

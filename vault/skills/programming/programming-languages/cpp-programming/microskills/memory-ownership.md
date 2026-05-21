@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Memory Ownership"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "C++ Programming"
-parent-competency: "L2- Explain C++ Syntax OOP and Memory Concepts"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/cpp-programming/cpp-programming|cpp-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/cpp-programming/competencies/L1-explain-cpp-syntax-oop-and-memory-concepts|L1-explain-cpp-syntax-oop-and-memory-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Memory Ownership
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/cpp-programming/cpp-pro
 
 Parent competency:
 
-- [[skills/programming/programming-languages/cpp-programming/competencies/L2-explain-cpp-syntax-oop-and-memory-concepts|L2- Explain C++ Syntax OOP and Memory Concepts]]
+- [[skills/programming/programming-languages/cpp-programming/competencies/L1-explain-cpp-syntax-oop-and-memory-concepts|L2- Explain C++ Syntax OOP and Memory Concepts]]
 
 ## Description
 

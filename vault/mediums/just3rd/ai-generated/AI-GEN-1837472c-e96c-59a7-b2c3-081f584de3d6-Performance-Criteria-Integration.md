@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/performance-criteria-integration|Performance Criteria Integration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/performance-criteria-integration|performance-criteria-integration]]"
 ---
 # Integrating Performance Criteria in Multi-Stage Op-Amp Design
 

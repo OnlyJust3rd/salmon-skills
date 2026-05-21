@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/relevant-communication-protocols|Relevant Communication Protocols]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/relevant-communication-protocols|relevant-communication-protocols]]"
 ---
 # Relevant Communication Protocols in IoT Devices
 

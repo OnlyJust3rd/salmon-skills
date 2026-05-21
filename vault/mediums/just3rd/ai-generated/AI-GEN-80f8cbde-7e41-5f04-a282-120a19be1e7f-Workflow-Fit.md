@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-coding-tool-evaluation/microskills/workflow-fit|Workflow Fit]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-coding-tool-evaluation/microskills/workflow-fit|workflow-fit]]"
 ---
 # Workflow Fit: Aligning AI Coding Tools with Your Team's Practices
 

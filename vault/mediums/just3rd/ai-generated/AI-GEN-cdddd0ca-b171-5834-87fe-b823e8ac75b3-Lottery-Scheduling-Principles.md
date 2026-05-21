@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/lottery-scheduling-principles|Lottery Scheduling Principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/lottery-scheduling-principles|lottery-scheduling-principles]]"
 ---
 # Lottery Scheduling Principles
 

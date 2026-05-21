@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/introductory-robotics-themes|Introductory Robotics Themes]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/introductory-robotics-themes|introductory-robotics-themes]]"
 ---
 # Understanding Introductory Robotics Themes
 

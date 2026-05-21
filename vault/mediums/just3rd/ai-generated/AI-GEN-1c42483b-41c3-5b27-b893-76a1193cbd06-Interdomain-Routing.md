@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/interdomain-routing|Interdomain Routing]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/interdomain-routing|interdomain-routing]]"
 ---
 # Interdomain Routing: Navigating the Internet's Highways
 

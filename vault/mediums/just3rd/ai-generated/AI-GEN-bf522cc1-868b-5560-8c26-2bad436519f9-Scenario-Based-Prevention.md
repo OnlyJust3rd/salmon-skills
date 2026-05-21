@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/scenario-based-prevention|Scenario-Based Prevention]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/scenario-based-prevention|scenario-based-prevention]]"
 ---
 # Scenario-Based Deadlock Prevention
 

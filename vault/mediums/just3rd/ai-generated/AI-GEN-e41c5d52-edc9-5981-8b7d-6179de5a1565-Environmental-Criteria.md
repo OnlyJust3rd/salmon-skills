@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/environmental-criteria|Environmental Criteria]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/environmental-criteria|environmental-criteria]]"
 ---
 # Understanding Environmental Criteria in ESG
 

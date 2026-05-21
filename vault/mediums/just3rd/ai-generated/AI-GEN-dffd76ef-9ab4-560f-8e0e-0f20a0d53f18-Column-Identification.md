@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/column-identification|Column Identification]]"
+  - "[[skills/data/databases/relational-database/microskills/column-identification|column-identification]]"
 ---
 # Identifying Columns in Database Tables
 

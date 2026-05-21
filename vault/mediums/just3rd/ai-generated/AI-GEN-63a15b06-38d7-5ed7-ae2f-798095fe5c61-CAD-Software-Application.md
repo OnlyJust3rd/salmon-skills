@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-software-application|CAD Software Application]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-software-application|cad-software-application]]"
 ---
 # CAD Software Application: Basic Sketching
 

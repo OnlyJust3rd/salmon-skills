@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/similarity-transformation|Similarity transformation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/similarity-transformation|similarity-transformation]]"
 ---
 # Understanding Similarity Transformations: The Key to Matrix Diagonalization
 

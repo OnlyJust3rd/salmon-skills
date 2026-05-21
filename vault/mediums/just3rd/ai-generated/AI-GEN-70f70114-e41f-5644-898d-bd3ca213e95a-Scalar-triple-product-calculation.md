@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/scalar-triple-product-calculation|Scalar triple product calculation]]"
+  - "[[skills/mathematics/vector/microskills/scalar-triple-product-calculation|scalar-triple-product-calculation]]"
 ---
 # Calculating the Scalar Triple Product
 

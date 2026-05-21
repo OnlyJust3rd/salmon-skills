@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/pollution-examples|Pollution Examples]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/pollution-examples|pollution-examples]]"
 ---
 # Pollution Examples from Technology
 

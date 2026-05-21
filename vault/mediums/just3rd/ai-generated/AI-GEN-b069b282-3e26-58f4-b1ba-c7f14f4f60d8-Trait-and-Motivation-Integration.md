@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/trait-and-motivation-integration|Trait and Motivation Integration]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/trait-and-motivation-integration|trait-and-motivation-integration]]"
 ---
 # Integrating Traits and Motivations in Backstories
 

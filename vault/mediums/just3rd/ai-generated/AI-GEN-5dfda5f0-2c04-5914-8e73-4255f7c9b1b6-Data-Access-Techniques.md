@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-techniques|Data Access Techniques]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-techniques|data-access-techniques]]"
 ---
 # Data Access Techniques in File Systems
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/figma/microskills/interactive-frame|Interactive Frame]]"
+  - "[[skills/web-and-design/frontend-ux/figma/microskills/interactive-frame|interactive-frame]]"
 ---
 # Interactive Frames in Figma: Connecting Your Designs
 

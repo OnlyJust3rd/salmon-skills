@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/corporate-governance-criteria|Corporate Governance Criteria]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/corporate-governance-criteria|corporate-governance-criteria]]"
 ---
 # Corporate Governance Criteria: The Foundation of Trust
 

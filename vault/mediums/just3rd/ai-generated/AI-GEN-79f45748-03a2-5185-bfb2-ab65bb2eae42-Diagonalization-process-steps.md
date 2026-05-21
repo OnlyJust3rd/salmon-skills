@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/diagonalization-process-steps|Diagonalization process steps]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/diagonalization-process-steps|diagonalization-process-steps]]"
 ---
 # The Diagonalization Process: Finding P and D
 

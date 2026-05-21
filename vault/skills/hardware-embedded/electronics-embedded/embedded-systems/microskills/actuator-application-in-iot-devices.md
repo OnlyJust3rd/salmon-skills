@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Actuator Application in IoT Devices"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration; CPE 475 - Internet of Things"
-parent-macro: "Embedded Systems"
-parent-competency: "L3- Apply Sensor/Actuator Types"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-systems/embedded-systems|embedded-systems]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L2-apply-sensor-actuator-types|L2-apply-sensor-actuator-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Actuator Application in IoT Devices
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/embedded-systems/e
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L3-apply-sensor-actuator-types|L3- Apply Sensor/Actuator Types]]
+- [[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L2-apply-sensor-actuator-types|L3- Apply Sensor/Actuator Types]]
 
 ## Description
 

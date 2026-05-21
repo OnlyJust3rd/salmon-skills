@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-advantages|Reactive Control Advantages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-advantages|reactive-control-advantages]]"
 ---
 # Reactive Control: The Speed and Simplicity Advantage
 

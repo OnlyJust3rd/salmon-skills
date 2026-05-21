@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/figma/microskills/component-variant|Component Variant]]"
+  - "[[skills/web-and-design/frontend-ux/figma/microskills/component-variant|component-variant]]"
 ---
 # Figma: Mastering Component Variants for Interactive Prototypes
 

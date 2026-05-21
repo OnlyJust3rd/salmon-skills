@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/basis-impact-on-vector-representation|Basis impact on vector representation]]"
+  - "[[skills/mathematics/vector-space/microskills/basis-impact-on-vector-representation|basis-impact-on-vector-representation]]"
 ---
 # How Changing Your Basis Changes How You See a Vector
 

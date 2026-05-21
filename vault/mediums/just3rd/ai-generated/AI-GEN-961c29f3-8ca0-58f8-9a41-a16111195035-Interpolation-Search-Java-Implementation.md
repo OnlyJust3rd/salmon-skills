@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/interpolation-search-java-implementation|Interpolation Search Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/interpolation-search-java-implementation|interpolation-search-java-implementation]]"
 ---
 # Interpolation Search in Java
 

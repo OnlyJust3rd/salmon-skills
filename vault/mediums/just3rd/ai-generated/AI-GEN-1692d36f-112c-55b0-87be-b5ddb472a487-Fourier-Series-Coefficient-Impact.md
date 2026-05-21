@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/fourier-series-coefficient-impact|Fourier Series Coefficient Impact]]"
+  - "[[skills/mathematics/signal-operations/microskills/fourier-series-coefficient-impact|fourier-series-coefficient-impact]]"
 ---
 # Understanding the Impact of Signal Transformations on Fourier Series Coefficients
 

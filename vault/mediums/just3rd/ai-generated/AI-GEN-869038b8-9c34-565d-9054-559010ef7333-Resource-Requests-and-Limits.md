@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/resource-requests-and-limits|Resource Requests and Limits]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/resource-requests-and-limits|resource-requests-and-limits]]"
 ---
 # Kubernetes Resource Requests and Limits
 

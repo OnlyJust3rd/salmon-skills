@@ -1,22 +1,21 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Project Management"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 5
-related-jobs:
-  - "System Analyst"
-  - "ERP Consultant"
-  - "SAP Consultant"
-  - "Product Manager"
-  - "Technical Consultant"
-  - "Game Producer"
-source-note: "courses/kmutt/cpe-2021/cpe101-computer-engineering-exploration"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/project-management/competencies/L2-develop-and-manage-basic-project-plan|L2-develop-and-manage-basic-project-plan]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/project-management/competencies/L2-develop-and-manage-basic-project-plan|L2-develop-and-manage-basic-project-plan]]"
+microskills:
+  - "[[skills/programming/software-engineering/project-management/microskills/basic-project-plan-creation|basic-project-plan-creation]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/iterative-progress-tracking|iterative-progress-tracking]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/role-allocation|role-allocation]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/task-definition|task-definition]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/timeline-establishment|timeline-establishment]]"
 ---
 
 # Project Management
@@ -25,7 +24,7 @@ Organizing and overseeing engineering projects through planning, progress tracki
 
 ## Competencies
 
-- [[skills/programming/software-engineering/project-management/competencies/L3-develop-and-manage-basic-project-plan|L3- Develop and Manage Basic Project Plan]]
+- [[skills/programming/software-engineering/project-management/competencies/L2-develop-and-manage-basic-project-plan|L3- Develop and Manage Basic Project Plan]]
 
 ## Microskills
 

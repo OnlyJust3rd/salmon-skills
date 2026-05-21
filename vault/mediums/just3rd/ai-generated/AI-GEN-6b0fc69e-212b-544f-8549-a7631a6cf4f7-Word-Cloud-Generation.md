@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/word-cloud-generation|Word Cloud Generation]]"
+  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/word-cloud-generation|word-cloud-generation]]"
 ---
 # Generating Word Clouds for Text Visualization
 

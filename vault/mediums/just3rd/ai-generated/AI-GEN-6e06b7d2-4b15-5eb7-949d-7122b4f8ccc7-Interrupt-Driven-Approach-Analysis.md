@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/interrupt-driven-approach-analysis|Interrupt-Driven Approach Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/interrupt-driven-approach-analysis|interrupt-driven-approach-analysis]]"
 ---
 # Analyzing the Interrupt-Driven Approach to I/O
 

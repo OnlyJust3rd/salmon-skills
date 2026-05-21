@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/greedy-algorithm-definitions|Greedy Algorithm Definitions]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/greedy-algorithm-definitions|greedy-algorithm-definitions]]"
 ---
 # Greedy Algorithms: Making the Best Local Choice
 

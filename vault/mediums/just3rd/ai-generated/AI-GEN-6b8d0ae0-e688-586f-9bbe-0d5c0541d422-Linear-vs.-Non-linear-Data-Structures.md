@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/linear-vs-non-linear-data-structures|Linear vs. Non-linear Data Structures]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/linear-vs-non-linear-data-structures|linear-vs-non-linear-data-structures]]"
 ---
 # Linear vs. Non-linear Data Structures
 

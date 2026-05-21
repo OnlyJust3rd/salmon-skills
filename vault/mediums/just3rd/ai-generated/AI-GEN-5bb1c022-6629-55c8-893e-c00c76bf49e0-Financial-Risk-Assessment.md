@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/financial-risk-assessment|Financial Risk Assessment]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/financial-risk-assessment|financial-risk-assessment]]"
 ---
 # Financial Risk Assessment in Feasibility Analysis
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Permissions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - backend security concepts"
-parent-macro: "Cybersecurity"
-parent-competency: "L2- Explain Authorization Models"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/cybersecurity/cybersecurity|cybersecurity]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L1-explain-authorization-models]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Permissions
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/cybersecurity/cybersecurity|Cybers
 
 Parent competency:
 
-- [[skills/security/cybersecurity/cybersecurity/competencies/L2-explain-authorization-models|L2- Explain Authorization Models]]
+- [[skills/security/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L2- Explain Authorization Models]]
 
 ## Description
 

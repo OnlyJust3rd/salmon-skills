@@ -1,17 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Goals and Context of Selective Encryption"
 tags:
   - "cpe"
   - "competency"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Selective Encryption"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/security/cybersecurity/selective-encryption/selective-encryption|selective-encryption]]"
+requires-microskills:
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/multimedia-communication-context|multimedia-communication-context]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/resource-constrained-communications|resource-constrained-communications]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/resource-constraints|resource-constraints]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-goal|selective-encryption-goal]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Goals and Context of Selective Encryption

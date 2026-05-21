@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-footprint-placement|Component Footprint Placement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-footprint-placement|component-footprint-placement]]"
 ---
 # Component Footprint Placement in PCB Layout
 

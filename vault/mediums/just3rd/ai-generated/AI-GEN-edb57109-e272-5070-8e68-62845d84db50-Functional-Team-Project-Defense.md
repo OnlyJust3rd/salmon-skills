@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/functional-team-project-defense|Functional Team Project Defense]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/functional-team-project-defense|functional-team-project-defense]]"
 ---
 # Functional Team Project Defense: Evaluating Integration and Problem-Solving
 

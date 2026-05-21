@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|YAML Structure for Kubernetes]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|yaml-structure-for-kubernetes]]"
 ---
 # YAML Structure for Kubernetes
 

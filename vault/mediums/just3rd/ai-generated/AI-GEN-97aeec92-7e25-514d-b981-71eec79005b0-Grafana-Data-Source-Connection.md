@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-data-source-connection|Grafana Data Source Connection]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-data-source-connection|grafana-data-source-connection]]"
 ---
 # Connecting Grafana to Prometheus
 

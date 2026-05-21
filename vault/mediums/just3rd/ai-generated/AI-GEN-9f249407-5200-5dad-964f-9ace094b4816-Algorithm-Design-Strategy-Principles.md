@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-design-strategy-principles|Algorithm Design Strategy Principles]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-design-strategy-principles|algorithm-design-strategy-principles]]"
 ---
 # Algorithm Design Strategy Principles
 

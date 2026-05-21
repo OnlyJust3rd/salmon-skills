@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-requirements-gathering|User Requirements Gathering]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-requirements-gathering|user-requirements-gathering]]"
 ---
 # User Requirements Gathering: Techniques for Defining What Users Need
 

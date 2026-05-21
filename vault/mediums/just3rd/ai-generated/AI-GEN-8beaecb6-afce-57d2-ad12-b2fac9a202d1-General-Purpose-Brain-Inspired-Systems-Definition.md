@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/general-purpose-brain-inspired-systems-definition|General Purpose Brain-Inspired Systems Definition]]"
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/general-purpose-brain-inspired-systems-definition|general-purpose-brain-inspired-systems-definition]]"
 ---
 # General Purpose Brain-Inspired Systems: A Definition
 

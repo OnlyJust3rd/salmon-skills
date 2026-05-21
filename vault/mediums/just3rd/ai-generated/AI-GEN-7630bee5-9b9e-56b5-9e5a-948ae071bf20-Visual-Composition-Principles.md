@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/visual-composition-principles|Visual Composition Principles]]"
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/visual-composition-principles|visual-composition-principles]]"
 ---
 # Applying Visual Composition Principles in Game Scene Design
 

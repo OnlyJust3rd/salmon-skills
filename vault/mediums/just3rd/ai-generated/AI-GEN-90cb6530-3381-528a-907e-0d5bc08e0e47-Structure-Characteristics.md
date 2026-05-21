@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-characteristics|Structure Characteristics]]"
+  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-characteristics|structure-characteristics]]"
 ---
 # Understanding Structure Characteristics
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "C# Event"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "C# Programming"
-parent-competency: "L2- Explain C# Syntax and OOP Constructs"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/c-sharp-programming/c-sharp-programming|c-sharp-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/c-sharp-programming/competencies/L1-explain-c-sharp-syntax-and-oop-constructs|L1-explain-c-sharp-syntax-and-oop-constructs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # C# Event
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/c-sharp-programming/c-s
 
 Parent competency:
 
-- [[skills/programming/programming-languages/c-sharp-programming/competencies/L2-explain-c-sharp-syntax-and-oop-constructs|L2- Explain C# Syntax and OOP Constructs]]
+- [[skills/programming/programming-languages/c-sharp-programming/competencies/L1-explain-c-sharp-syntax-and-oop-constructs|L2- Explain C# Syntax and OOP Constructs]]
 
 ## Description
 

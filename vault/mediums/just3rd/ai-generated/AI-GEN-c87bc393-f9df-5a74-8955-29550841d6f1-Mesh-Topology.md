@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/mesh-topology|Mesh Topology]]"
+  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/mesh-topology|mesh-topology]]"
 ---
 # Mesh Topology: The Foundation of 3D Models
 

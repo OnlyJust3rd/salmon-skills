@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/dbt/microskills/mart-model|Mart Model]]"
+  - "[[skills/data/data-platforms/dbt/microskills/mart-model|mart-model]]"
 ---
 # Building Your Mart Model with dbt: Testing and Lineage in Practice
 

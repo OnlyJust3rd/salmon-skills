@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-impulse-function-properties|Unit Impulse Function Properties]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-impulse-function-properties|unit-impulse-function-properties]]"
 ---
 # Understanding the Unit Impulse Function
 

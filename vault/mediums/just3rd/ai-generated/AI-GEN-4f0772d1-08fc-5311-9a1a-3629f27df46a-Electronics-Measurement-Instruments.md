@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/electronics-measurement-instruments|Electronics Measurement Instruments]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/electronics-measurement-instruments|electronics-measurement-instruments]]"
 ---
 # Recognizing Electronics Measurement Instruments
 

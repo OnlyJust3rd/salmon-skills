@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/functional-requirements|Functional Requirements]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/functional-requirements|functional-requirements]]"
 ---
 # Defining Functional Requirements for Computer-Based Devices
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-version-control/microskills/software-configuration-management-definition|Software Configuration Management Definition]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/software-configuration-management-definition|software-configuration-management-definition]]"
 ---
 # Understanding Software Configuration Management (SCM)
 

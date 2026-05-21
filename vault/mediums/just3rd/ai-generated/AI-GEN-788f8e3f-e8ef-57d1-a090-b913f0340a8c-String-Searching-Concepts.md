@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/string-searching-concepts|String Searching Concepts]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/string-searching-concepts|string-searching-concepts]]"
 ---
 # String Searching Concepts
 

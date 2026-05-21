@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/function-value-approximation-using-maclaurin-series|Function value approximation using Maclaurin series]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/function-value-approximation-using-maclaurin-series|function-value-approximation-using-maclaurin-series]]"
 ---
 # Approximating Function Values with Maclaurin Series
 

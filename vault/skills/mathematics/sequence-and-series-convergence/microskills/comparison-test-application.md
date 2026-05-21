@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Comparison Test application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Sequence and Series Convergence"
-parent-competency: "L3- Integral and Comparison Tests"
+  - "microskill"
+parent-skill: "[[skills/mathematics/sequence-and-series-convergence/sequence-and-series-convergence|sequence-and-series-convergence]]"
+requires-in-competencies:
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-integral-and-comparison-tests|L2-integral-and-comparison-tests]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Comparison Test application
@@ -15,7 +17,7 @@ Parent macro: [[sequence-and-series-convergence|Sequence and Series Convergence]
 
 Parent competency:
 
-- [[L3-integral-and-comparison-tests|L3- Integral and Comparison Tests]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L2-integral-and-comparison-tests|L3- Integral and Comparison Tests]]
 
 ## Description
 

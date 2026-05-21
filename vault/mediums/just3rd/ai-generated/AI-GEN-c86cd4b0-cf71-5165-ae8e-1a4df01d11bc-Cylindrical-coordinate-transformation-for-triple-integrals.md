@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/cylindrical-coordinate-transformation-for-triple-integrals|Cylindrical coordinate transformation for triple integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/cylindrical-coordinate-transformation-for-triple-integrals|cylindrical-coordinate-transformation-for-triple-integrals]]"
 ---
 # Cylindrical Coordinates for Triple Integrals
 

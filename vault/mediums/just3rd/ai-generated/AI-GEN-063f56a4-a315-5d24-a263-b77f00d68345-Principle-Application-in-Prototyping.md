@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/principle-application-in-prototyping|Principle Application in Prototyping]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/principle-application-in-prototyping|principle-application-in-prototyping]]"
 ---
 # Applying Game Design Principles in Prototyping
 

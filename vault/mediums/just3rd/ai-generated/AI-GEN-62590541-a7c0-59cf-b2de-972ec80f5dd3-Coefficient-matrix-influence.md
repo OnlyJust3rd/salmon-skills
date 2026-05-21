@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/coefficient-matrix-influence|Coefficient matrix influence]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/coefficient-matrix-influence|coefficient-matrix-influence]]"
 ---
 # Coefficient Matrix Influence in Homogeneous Systems
 

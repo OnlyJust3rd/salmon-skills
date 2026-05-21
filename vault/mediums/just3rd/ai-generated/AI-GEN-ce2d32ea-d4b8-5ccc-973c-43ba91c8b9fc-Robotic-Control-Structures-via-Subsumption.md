@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/robotic-control-structures-via-subsumption|Robotic Control Structures via Subsumption]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/robotic-control-structures-via-subsumption|robotic-control-structures-via-subsumption]]"
 ---
 # Robotic Control Structures via Subsumption
 

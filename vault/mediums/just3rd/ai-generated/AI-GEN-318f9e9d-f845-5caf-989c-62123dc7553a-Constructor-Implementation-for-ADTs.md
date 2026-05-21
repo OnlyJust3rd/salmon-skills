@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/constructor-implementation-for-adts|Constructor Implementation for ADTs]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/constructor-implementation-for-adts|constructor-implementation-for-adts]]"
 ---
 # Constructor Implementation for ADTs in Java
 

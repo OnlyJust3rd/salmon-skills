@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Augmented matrix representation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-parent-competency: "L1- Define and Represent Systems"
+  - "microskill"
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-in-competencies:
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1-define-and-represent-systems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Augmented matrix representation
@@ -15,7 +17,7 @@ Parent macro: [[matrix-algebra|Matrix Algebra]]
 
 Parent competency:
 
-- [[L1-define-and-represent-systems|L1- Define and Represent Systems]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1- Define and Represent Systems]]
 
 ## Description
 

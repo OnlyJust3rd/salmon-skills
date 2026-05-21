@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/image-size-optimization|Image Size Optimization]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/image-size-optimization|image-size-optimization]]"
 ---
 # Image Size Optimization: Understanding Layering's Impact
 

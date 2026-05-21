@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Lazy Evaluation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Apache Spark"
-parent-competency: "L2- Explain Spark Distributed Data Processing Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/apache-spark/apache-spark|apache-spark]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/apache-spark/competencies/L1-explain-spark-distributed-data-processing-concepts|L1-explain-spark-distributed-data-processing-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Lazy Evaluation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/apache-spark/apache-spark|Apache Spar
 
 Parent competency:
 
-- [[skills/data/data-platforms/apache-spark/competencies/L2-explain-spark-distributed-data-processing-concepts|L2- Explain Spark Distributed Data Processing Concepts]]
+- [[skills/data/data-platforms/apache-spark/competencies/L1-explain-spark-distributed-data-processing-concepts|L2- Explain Spark Distributed Data Processing Concepts]]
 
 ## Description
 

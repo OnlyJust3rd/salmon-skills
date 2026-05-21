@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define OOP Principles"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 361 - Java Programming"
-parent-macro: "Object-Oriented Programming"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Computational Problem Solving"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/software-engineering/object-oriented-programming/object-oriented-programming|object-oriented-programming]]"
+requires-microskills:
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-definition|abstraction-definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-definition|encapsulation-definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-definition|inheritance-definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/polymorphism-definition|polymorphism-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define OOP Principles

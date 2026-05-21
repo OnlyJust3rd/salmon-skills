@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/codebase-search|Codebase Search]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/codebase-search|codebase-search]]"
 ---
 # Mastering Codebase Search with Cursor
 

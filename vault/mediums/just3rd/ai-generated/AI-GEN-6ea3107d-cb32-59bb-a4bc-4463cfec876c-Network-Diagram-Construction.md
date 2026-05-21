@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/network-diagram-construction|Network Diagram Construction]]"
+  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/network-diagram-construction|network-diagram-construction]]"
 ---
 # Constructing Text Network Diagrams
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ssl-tls-cryptography-role|SSL/TLS Cryptography Role]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ssl-tls-cryptography-role|ssl-tls-cryptography-role]]"
 ---
 # Understanding SSL/TLS Cryptography
 

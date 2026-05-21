@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/steganography-vs-digital-watermarking-distinction|Steganography vs. Digital Watermarking Distinction]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/steganography-vs-digital-watermarking-distinction|steganography-vs-digital-watermarking-distinction]]"
 ---
 # Steganography vs. Digital Watermarking: Hiding in Plain Sight
 

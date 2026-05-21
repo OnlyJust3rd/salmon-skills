@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-communication|Business Model Communication]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-communication|business-model-communication]]"
 ---
 # Presenting Your Business Idea with the Lean Canvas
 

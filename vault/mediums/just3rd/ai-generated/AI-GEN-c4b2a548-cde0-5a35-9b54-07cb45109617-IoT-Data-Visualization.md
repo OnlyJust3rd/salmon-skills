@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/iot-data-visualization|IoT Data Visualization]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/iot-data-visualization|iot-data-visualization]]"
 ---
 # Understanding IoT Data Visualization Tools
 

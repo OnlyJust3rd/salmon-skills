@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Image Representations"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Image Processing"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Pixel"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L1-define-pixel|L1-define-pixel]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|digital-image-processing]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/digital-image-components|digital-image-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/digital-image-formats|digital-image-formats]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Image Representations

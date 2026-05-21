@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List and Define OO Design Principles"
 tags:
   - "cpe"
   - "competency"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Object-Oriented Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define OOP Principles"
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L1-define-oop-principles|L1-define-oop-principles]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/software-engineering/object-oriented-design/object-oriented-design|object-oriented-design]]"
+requires-microskills:
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/component-interaction-design-principles|component-interaction-design-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/interface-design-principles|interface-design-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-principles|modular-decomposition-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-principles|responsibility-assignment-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List and Define OO Design Principles

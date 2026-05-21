@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/fundamental-theoretical-foundations-of-anns|Fundamental Theoretical Foundations of ANNs]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/fundamental-theoretical-foundations-of-anns|fundamental-theoretical-foundations-of-anns]]"
 ---
 # Fundamental Theoretical Foundations of ANNs
 

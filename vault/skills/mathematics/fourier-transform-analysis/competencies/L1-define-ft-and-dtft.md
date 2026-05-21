@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define FT and DTFT"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Fourier Transform Analysis"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Signal Fundamentals"
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1-signal-fundamentals]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/fourier-transform-analysis/fourier-transform-analysis|fourier-transform-analysis]]"
+requires-microskills:
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/discrete-time-fourier-transform-dtft-definition|discrete-time-fourier-transform-dtft-definition]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/fourier-transform-ft-definition|fourier-transform-ft-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define FT and DTFT
@@ -25,7 +26,7 @@ Define the Fourier Transform (FT) and Discrete-Time Fourier Transform (DTFT).
 
 ## Strict Prerequisites
 
-- [[L1-signal-fundamentals|L1- Signal Fundamentals]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1- Signal Fundamentals]]
 
 ## Optional Prerequisites
 

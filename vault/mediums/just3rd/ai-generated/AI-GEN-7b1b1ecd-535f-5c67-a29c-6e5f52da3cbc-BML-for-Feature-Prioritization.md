@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/bml-for-feature-prioritization|BML for Feature Prioritization]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/bml-for-feature-prioritization|bml-for-feature-prioritization]]"
 ---
 # BML for Feature Prioritization
 

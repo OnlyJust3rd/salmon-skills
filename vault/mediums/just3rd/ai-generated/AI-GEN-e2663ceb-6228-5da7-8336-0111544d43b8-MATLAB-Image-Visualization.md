@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/matlab-image-visualization|MATLAB Image Visualization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/matlab-image-visualization|matlab-image-visualization]]"
 ---
 # Visualizing Images in MATLAB
 

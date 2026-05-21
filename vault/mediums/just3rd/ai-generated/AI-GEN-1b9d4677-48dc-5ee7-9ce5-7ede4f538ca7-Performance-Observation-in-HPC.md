@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|Performance Observation in HPC]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|performance-observation-in-hpc]]"
 ---
 # Observing HPC Cluster Performance
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/player-experience-formulation|Player Experience Formulation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/player-experience-formulation|player-experience-formulation]]"
 ---
 # Crafting Player Experience: From Intention to Interaction
 

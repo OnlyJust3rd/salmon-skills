@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/gate-level-modeling-application|Gate-Level Modeling Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/gate-level-modeling-application|gate-level-modeling-application]]"
 ---
 # Gate-Level Modeling Application in Verilog
 

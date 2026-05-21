@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-symbols|Logic Gate Symbols]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-symbols|logic-gate-symbols]]"
 ---
 # Understanding Logic Gate Symbols
 

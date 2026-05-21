@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/digital-multimeter-reading-explanation|Digital Multimeter Reading Explanation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/digital-multimeter-reading-explanation|digital-multimeter-reading-explanation]]"
 ---
 # Reading a Digital Multimeter
 

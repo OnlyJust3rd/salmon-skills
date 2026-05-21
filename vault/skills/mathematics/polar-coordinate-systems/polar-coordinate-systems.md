@@ -1,18 +1,39 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Polar Coordinate Systems"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 102 - Mathematics II"
-coverage:
-  - "Representation"
-  - "Implementation"
-  - "Calculation"
-competency-count: 5
-microskill-count: 16
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-102-mathematics-ii"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L1-coordinate-and-equation-conversion|L1-coordinate-and-equation-conversion]]"
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-area-calculation-with-polar-integrals|L2-area-calculation-with-polar-integrals]]"
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-convert-double-integral-to-polar|L2-convert-double-integral-to-polar]]"
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-equation-conversion|L2-equation-conversion]]"
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-sketch-polar-curves-using-symmetry|L2-sketch-polar-curves-using-symmetry]]"
+standard-competency:
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-area-calculation-with-polar-integrals|L2-area-calculation-with-polar-integrals]]"
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-convert-double-integral-to-polar|L2-convert-double-integral-to-polar]]"
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-equation-conversion|L2-equation-conversion]]"
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-sketch-polar-curves-using-symmetry|L2-sketch-polar-curves-using-symmetry]]"
+microskills:
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/complex-polar-curve-sketching|complex-polar-curve-sketching]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/double-integral-transformation-to-polar|double-integral-transformation-to-polar]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/geometric-interpretation-of-conversions|geometric-interpretation-of-conversions]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/jacobian-for-polar-transformation|jacobian-for-polar-transformation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/multiple-polar-curve-area-calculation|multiple-polar-curve-area-calculation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-area-formulation|polar-curve-area-formulation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-characteristic-identification|polar-curve-characteristic-identification]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-symmetry-application|polar-curve-symmetry-application]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-limits-of-integration-determination|polar-limits-of-integration-determination]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-to-rectangular-coordinate-conversion|polar-to-rectangular-coordinate-conversion]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-to-rectangular-equation-conversion|polar-to-rectangular-equation-conversion]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-to-rectangular-equation-transformation|polar-to-rectangular-equation-transformation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/rectangular-to-polar-coordinate-conversion|rectangular-to-polar-coordinate-conversion]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/rectangular-to-polar-equation-conversion|rectangular-to-polar-equation-conversion]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/rectangular-to-polar-equation-transformation|rectangular-to-polar-equation-transformation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/single-polar-curve-area-calculation|single-polar-curve-area-calculation]]"
 ---
 
 # Polar Coordinate Systems
@@ -21,11 +42,11 @@ Ability to convert coordinates and equations between rectangular and polar syste
 
 ## Competencies
 
-- [[L2-coordinate-and-equation-conversion|L2- Coordinate and Equation Conversion]]
-- [[L3-equation-conversion|L3- Equation Conversion]]
-- [[L3-sketch-polar-curves-using-symmetry|L3- Sketch polar curves using symmetry]]
-- [[L3-area-calculation-with-polar-integrals|L3- Area Calculation with Polar Integrals]]
-- [[L3-convert-double-integral-to-polar|L3- Convert Double Integral to Polar]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L1-coordinate-and-equation-conversion|L2- Coordinate and Equation Conversion]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L2-equation-conversion|L3- Equation Conversion]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L2-sketch-polar-curves-using-symmetry|L3- Sketch polar curves using symmetry]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L2-area-calculation-with-polar-integrals|L3- Area Calculation with Polar Integrals]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L2-convert-double-integral-to-polar|L3- Convert Double Integral to Polar]]
 
 ## Microskills
 

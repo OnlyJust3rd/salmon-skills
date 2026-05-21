@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/mechanic-selection-for-player-response|Mechanic Selection for Player Response]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/mechanic-selection-for-player-response|mechanic-selection-for-player-response]]"
 ---
 # Mechanic Selection for Player Response
 

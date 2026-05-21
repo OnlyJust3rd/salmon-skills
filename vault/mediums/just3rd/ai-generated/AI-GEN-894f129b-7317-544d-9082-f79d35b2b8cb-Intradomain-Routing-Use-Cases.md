@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/intradomain-routing-use-cases|Intradomain Routing Use Cases]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/intradomain-routing-use-cases|intradomain-routing-use-cases]]"
 ---
 # Intradomain Routing: Where It Shines
 

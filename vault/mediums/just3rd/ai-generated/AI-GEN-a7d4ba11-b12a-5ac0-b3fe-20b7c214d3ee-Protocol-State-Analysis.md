@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/protocol-state-analysis|Protocol State Analysis]]"
+  - "[[skills/systems/networking/application-layer/microskills/protocol-state-analysis|protocol-state-analysis]]"
 ---
 # Analyzing Protocol States: HTTP and DNS
 

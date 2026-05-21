@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/hardwired-control-concept|Hardwired Control Concept]]"
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/hardwired-control-concept|hardwired-control-concept]]"
 ---
 # Understanding Hardwired Control
 

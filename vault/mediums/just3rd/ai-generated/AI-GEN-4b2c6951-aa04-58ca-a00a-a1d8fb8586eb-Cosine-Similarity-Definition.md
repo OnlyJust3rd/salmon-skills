@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/cosine-similarity-definition|Cosine Similarity Definition]]"
+  - "[[skills/data/data-science/text-clustering/microskills/cosine-similarity-definition|cosine-similarity-definition]]"
 ---
 # Cosine Similarity: Measuring Text "Closeness"
 

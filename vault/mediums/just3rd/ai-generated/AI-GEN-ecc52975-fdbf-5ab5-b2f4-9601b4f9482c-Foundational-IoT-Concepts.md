@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/foundational-iot-concepts|Foundational IoT Concepts]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/foundational-iot-concepts|foundational-iot-concepts]]"
 ---
 # Foundational IoT Concepts
 

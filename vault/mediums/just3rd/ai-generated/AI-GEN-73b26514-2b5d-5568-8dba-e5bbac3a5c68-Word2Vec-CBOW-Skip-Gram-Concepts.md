@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-cbow-skip-gram-concepts|Word2Vec (CBOW/Skip-Gram) Concepts]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-cbow-skip-gram-concepts|word2vec-cbow-skip-gram-concepts]]"
 ---
 # Understanding Word2Vec: Concepts and Principles
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/lighting-design-for-mood|Lighting Design for Mood]]"
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/lighting-design-for-mood|lighting-design-for-mood]]"
 ---
 # Lighting Design for Mood: Guiding Player Emotions
 

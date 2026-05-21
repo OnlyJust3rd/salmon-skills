@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/testing-result-interpretation|Testing Result Interpretation]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/testing-result-interpretation|testing-result-interpretation]]"
 ---
 # Interpreting Testing Results for Prototype Efficacy
 

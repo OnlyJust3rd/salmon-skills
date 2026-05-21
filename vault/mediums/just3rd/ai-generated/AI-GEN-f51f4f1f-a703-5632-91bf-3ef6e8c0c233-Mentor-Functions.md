@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-career-path/microskills/mentor-functions|Mentor Functions]]"
+  - "[[skills/business-it/business-product/it-career-path/microskills/mentor-functions|mentor-functions]]"
 ---
 # Understanding the Role of a Mentor
 

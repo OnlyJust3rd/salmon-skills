@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/structured-output-prompt|Structured Output Prompt]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/structured-output-prompt|structured-output-prompt]]"
 ---
 # Structured Output Prompts
 

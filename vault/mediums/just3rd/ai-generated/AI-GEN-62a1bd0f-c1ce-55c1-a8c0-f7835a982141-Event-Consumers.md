@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/event-consumers|Event Consumers]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/event-consumers|event-consumers]]"
 ---
 # Event Consumers in Event-Driven Architectures
 

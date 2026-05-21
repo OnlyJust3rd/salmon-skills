@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Operational Risk Assessment"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Feasibility Analysis"
-parent-competency: "L4- Analyze Risks and Financial Returns"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/feasibility-analysis/competencies/L3-analyze-risks-and-financial-returns|L3-analyze-risks-and-financial-returns]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Operational Risk Assessment
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/feasibility-analysis/feasibi
 
 Parent competency:
 
-- [[skills/business-it/business-product/feasibility-analysis/competencies/L4-analyze-risks-and-financial-returns|L4- Analyze Risks and Financial Returns]]
+- [[skills/business-it/business-product/feasibility-analysis/competencies/L3-analyze-risks-and-financial-returns|L4- Analyze Risks and Financial Returns]]
 
 ## Description
 

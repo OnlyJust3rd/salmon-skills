@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/bounded-sequence-identification|Bounded sequence identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/bounded-sequence-identification|bounded-sequence-identification]]"
 ---
 # Identifying Bounded Sequences
 

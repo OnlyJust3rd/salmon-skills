@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List robotic components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Robotic System"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotic-system/robotic-system|robotic-system]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/motor-components|motor-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/standard-robotic-components|standard-robotic-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/wheeled-components|wheeled-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List robotic components

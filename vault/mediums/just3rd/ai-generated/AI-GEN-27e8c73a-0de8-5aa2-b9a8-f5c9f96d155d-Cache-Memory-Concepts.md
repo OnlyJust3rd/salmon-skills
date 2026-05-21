@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-memory-concepts|Cache Memory Concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-memory-concepts|cache-memory-concepts]]"
 ---
 # Cache Memory: The Speed Booster for Your Computer
 

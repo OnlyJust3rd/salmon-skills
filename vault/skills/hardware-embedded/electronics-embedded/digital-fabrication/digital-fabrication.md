@@ -1,16 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Digital Fabrication"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-coverage:
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe101-computer-engineering-exploration"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L1-prepare-models-for-3d-printing|L1-prepare-models-for-3d-printing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L2-produce-physical-parts|L2-produce-physical-parts]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L2-produce-physical-parts|L2-produce-physical-parts]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-file-configuration|3d-printing-file-configuration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-preparation-requirements|3d-printing-preparation-requirements]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-technology-utilization|3d-printing-technology-utilization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/cad-model-export-procedures|cad-model-export-procedures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/digital-to-physical-prototyping|digital-to-physical-prototyping]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/physical-component-fabrication|physical-component-fabrication]]"
 ---
 
 # Digital Fabrication
@@ -19,8 +26,8 @@ Producing physical components from digital designs using additive manufacturing 
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L2-prepare-models-for-3d-printing|L2- Prepare Models for 3D Printing]]
-- [[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L3-produce-physical-parts|L3- Produce Physical Parts]]
+- [[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L1-prepare-models-for-3d-printing|L2- Prepare Models for 3D Printing]]
+- [[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L2-produce-physical-parts|L3- Produce Physical Parts]]
 
 ## Microskills
 

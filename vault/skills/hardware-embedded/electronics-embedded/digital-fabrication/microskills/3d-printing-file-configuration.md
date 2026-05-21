@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "3D Printing File Configuration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Digital Fabrication"
-parent-competency: "L2- Prepare Models for 3D Printing"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/digital-fabrication|digital-fabrication]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L1-prepare-models-for-3d-printing|L1-prepare-models-for-3d-printing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # 3D Printing File Configuration
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-fabricatio
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L2-prepare-models-for-3d-printing|L2- Prepare Models for 3D Printing]]
+- [[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L1-prepare-models-for-3d-printing|L2- Prepare Models for 3D Printing]]
 
 ## Description
 

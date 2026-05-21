@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/json-format/microskills/json-primitive-literals|JSON primitive literals]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-primitive-literals|json-primitive-literals]]"
 ---
 # JSON Primitive Literals: Understanding the Building Blocks
 

@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Market Feasibility Factors"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Feasibility Analysis"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Canvas Components"
+  - "[[skills/business-it/business-product/business-model-design/competencies/L1-define-canvas-components|L1-define-canvas-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/competitive-intensity|competitive-intensity]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-accessibility|market-accessibility]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-demand|market-demand]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-growth-potential|market-growth-potential]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Market Feasibility Factors

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-characteristics|Cryptographic Hash Function Characteristics]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-characteristics|cryptographic-hash-function-characteristics]]"
 ---
 # Understanding Cryptographic Hash Function Characteristics
 

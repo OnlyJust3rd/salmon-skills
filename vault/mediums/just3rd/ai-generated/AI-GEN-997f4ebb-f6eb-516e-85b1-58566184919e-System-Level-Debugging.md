@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/system-level-debugging|System-Level Debugging]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/system-level-debugging|system-level-debugging]]"
 ---
 # System-Level Debugging for Embedded Systems
 

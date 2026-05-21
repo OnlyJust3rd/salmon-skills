@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/microcontroller-hardware-elements|Microcontroller Hardware Elements]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/microcontroller-hardware-elements|microcontroller-hardware-elements]]"
 ---
 # Microcontroller Hardware Elements
 

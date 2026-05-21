@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/aperiodic-signal-dtft-analysis|Aperiodic Signal DTFT Analysis]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/aperiodic-signal-dtft-analysis|aperiodic-signal-dtft-analysis]]"
 ---
 # Analyzing Aperiodic Discrete-Time Signals with the DTFT
 

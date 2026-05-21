@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-vector-purpose|Interrupt Vector Purpose]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-vector-purpose|interrupt-vector-purpose]]"
 ---
 # Understanding Interrupts: The Microcontroller's Alert System
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-research-stages|User Research Stages]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-research-stages|user-research-stages]]"
 ---
 # Understanding User Research Stages
 

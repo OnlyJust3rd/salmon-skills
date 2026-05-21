@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Column Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 241 - Database Systems"
-parent-macro: "Relational Database"
-parent-competency: "L1- Identify Schema Components"
+  - "microskill"
+parent-skill: "[[skills/data/databases/relational-database/relational-database|relational-database]]"
+requires-in-competencies:
+  - "[[skills/data/databases/relational-database/competencies/L1-identify-schema-components|L1-identify-schema-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Column Identification

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attacks|Geometric Attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attacks|geometric-attacks]]"
 ---
 # Geometric Attacks on Digital Watermarks
 

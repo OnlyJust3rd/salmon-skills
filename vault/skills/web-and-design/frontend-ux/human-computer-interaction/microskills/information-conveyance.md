@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Information Conveyance"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human-Computer Interaction"
-parent-competency: "L2- Data Visualization Role"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-data-visualization-role|L1-data-visualization-role]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Information Conveyance
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/human-computer-interaction/hum
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-data-visualization-role|L2- Data Visualization Role]]
+- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-data-visualization-role|L2- Data Visualization Role]]
 
 ## Description
 

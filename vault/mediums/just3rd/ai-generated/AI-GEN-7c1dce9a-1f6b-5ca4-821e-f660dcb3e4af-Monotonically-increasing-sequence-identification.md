@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/monotonically-increasing-sequence-identification|Monotonically increasing sequence identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/monotonically-increasing-sequence-identification|monotonically-increasing-sequence-identification]]"
 ---
 # Monotonically Increasing Sequence Identification
 

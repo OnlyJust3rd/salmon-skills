@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-fetch-process|Instruction Fetch Process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-fetch-process|instruction-fetch-process]]"
 ---
 # Instruction Fetch Process
 

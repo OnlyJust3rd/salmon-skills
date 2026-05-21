@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/led-control-via-gpio|LED Control via GPIO]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/led-control-via-gpio|led-control-via-gpio]]"
 ---
 # Controlling LEDs with GPIO
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sap-erp/microskills/document-flow|Document Flow]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/document-flow|document-flow]]"
 ---
 # Document Flow in SAP ERP: Tracing Related Business Transactions
 

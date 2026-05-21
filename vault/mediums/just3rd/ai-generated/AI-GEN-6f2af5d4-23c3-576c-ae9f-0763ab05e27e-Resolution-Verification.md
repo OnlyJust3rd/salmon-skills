@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/resolution-verification|Resolution Verification]]"
+  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/resolution-verification|resolution-verification]]"
 ---
 # Resolution Verification: Did We Really Fix It?
 

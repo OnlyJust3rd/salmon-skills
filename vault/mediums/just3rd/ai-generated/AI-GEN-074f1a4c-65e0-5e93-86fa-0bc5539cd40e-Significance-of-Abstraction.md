@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-model-understanding/microskills/significance-of-abstraction|Significance of Abstraction]]"
+  - "[[skills/programming/algorithms/computational-model-understanding/microskills/significance-of-abstraction|significance-of-abstraction]]"
 ---
 # The Power of Abstraction in Computational Models
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-deployment-manifests|Kubernetes Deployment Manifests]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-deployment-manifests|kubernetes-deployment-manifests]]"
 ---
 # Kubernetes Deployment Manifests: Your Blueprint for Application Deployment
 

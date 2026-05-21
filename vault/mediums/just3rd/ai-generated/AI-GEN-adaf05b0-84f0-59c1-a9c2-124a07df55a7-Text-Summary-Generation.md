@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-summarization/microskills/text-summary-generation|Text Summary Generation]]"
+  - "[[skills/data/data-science/text-summarization/microskills/text-summary-generation|text-summary-generation]]"
 ---
 # Generating Text Summaries
 

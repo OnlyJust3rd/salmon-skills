@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/control-logic-design-impact-on-performance|Control Logic Design Impact on Performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/control-logic-design-impact-on-performance|control-logic-design-impact-on-performance]]"
 ---
 # Control Logic Design Impact on Processor Performance
 

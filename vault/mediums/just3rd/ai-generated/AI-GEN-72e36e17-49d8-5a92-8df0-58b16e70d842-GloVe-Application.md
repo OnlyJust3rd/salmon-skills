@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-application|GloVe Application]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-application|glove-application]]"
 ---
 # Applying GloVe for Distributed Text Representations
 

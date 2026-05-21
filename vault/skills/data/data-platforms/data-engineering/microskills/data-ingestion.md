@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Data Ingestion"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Data Engineering"
-parent-competency: "L2- Explain Data Pipeline Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-engineering/data-engineering|data-engineering]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L1-explain-data-pipeline-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Data Ingestion
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-engineering/data-engineering|Dat
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-engineering/competencies/L2-explain-data-pipeline-concepts|L2- Explain Data Pipeline Concepts]]
+- [[skills/data/data-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L2- Explain Data Pipeline Concepts]]
 
 ## Description
 

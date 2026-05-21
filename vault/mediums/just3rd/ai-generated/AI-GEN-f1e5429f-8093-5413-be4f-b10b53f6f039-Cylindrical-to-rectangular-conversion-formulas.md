@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/cylindrical-to-rectangular-conversion-formulas|Cylindrical to rectangular conversion formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/cylindrical-to-rectangular-conversion-formulas|cylindrical-to-rectangular-conversion-formulas]]"
 ---
 # Cylindrical to Rectangular Coordinate Conversion Formulas
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Matrix elements"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-parent-competency: "L1- Matrix Dimensions and Elements"
+  - "microskill"
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-in-competencies:
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-matrix-dimensions-and-elements|L1-matrix-dimensions-and-elements]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Matrix elements
@@ -15,7 +17,7 @@ Parent macro: [[matrix-algebra|Matrix Algebra]]
 
 Parent competency:
 
-- [[L1-matrix-dimensions-and-elements|L1- Matrix Dimensions and Elements]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-matrix-dimensions-and-elements|L1- Matrix Dimensions and Elements]]
 
 ## Description
 

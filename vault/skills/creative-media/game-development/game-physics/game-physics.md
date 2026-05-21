@@ -1,20 +1,28 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Game Physics"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - game development production skills"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 3
-microskill-count: 9
-related-jobs:
-  - "Game Developer"
-  - "Unity Developer"
-  - "Unreal Engine Developer"
-  - "Gameplay Programmer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/creative-media/game-development/game-physics/competencies/L1-explain-game-physics-simulation-concepts|L1-explain-game-physics-simulation-concepts]]"
+  - "[[skills/creative-media/game-development/game-physics/competencies/L2-apply-collision-detection-and-response-concepts|L2-apply-collision-detection-and-response-concepts]]"
+  - "[[skills/creative-media/game-development/game-physics/competencies/L2-apply-rigid-body-movement-and-forces-concepts|L2-apply-rigid-body-movement-and-forces-concepts]]"
+standard-competency:
+  - "[[skills/creative-media/game-development/game-physics/competencies/L2-apply-collision-detection-and-response-concepts|L2-apply-collision-detection-and-response-concepts]]"
+  - "[[skills/creative-media/game-development/game-physics/competencies/L2-apply-rigid-body-movement-and-forces-concepts|L2-apply-rigid-body-movement-and-forces-concepts]]"
+microskills:
+  - "[[skills/creative-media/game-development/game-physics/microskills/collider|collider]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/collision-response|collision-response]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/constraint|constraint]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/fixed-timestep|fixed-timestep]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/force-application|force-application]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/overlap-test|overlap-test]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/raycast|raycast]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/rigid-body|rigid-body]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/velocity-control|velocity-control]]"
 ---
 
 # Game Physics
@@ -23,9 +31,9 @@ Understanding interactive physics simulation, rigid bodies, forces, collision de
 
 ## Competencies
 
-- [[skills/creative-media/game-development/game-physics/competencies/L2-explain-game-physics-simulation-concepts|L2- Explain Game Physics Simulation Concepts]]
-- [[skills/creative-media/game-development/game-physics/competencies/L3-apply-collision-detection-and-response-concepts|L3- Apply Collision Detection and Response Concepts]]
-- [[skills/creative-media/game-development/game-physics/competencies/L3-apply-rigid-body-movement-and-forces-concepts|L3- Apply Rigid Body Movement and Forces Concepts]]
+- [[skills/creative-media/game-development/game-physics/competencies/L1-explain-game-physics-simulation-concepts|L2- Explain Game Physics Simulation Concepts]]
+- [[skills/creative-media/game-development/game-physics/competencies/L2-apply-collision-detection-and-response-concepts|L3- Apply Collision Detection and Response Concepts]]
+- [[skills/creative-media/game-development/game-physics/competencies/L2-apply-rigid-body-movement-and-forces-concepts|L3- Apply Rigid Body Movement and Forces Concepts]]
 
 ## Microskills
 

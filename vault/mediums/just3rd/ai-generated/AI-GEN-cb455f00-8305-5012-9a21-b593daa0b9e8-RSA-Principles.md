@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/rsa-principles|RSA Principles]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/rsa-principles|rsa-principles]]"
 ---
 # RSA Principles
 

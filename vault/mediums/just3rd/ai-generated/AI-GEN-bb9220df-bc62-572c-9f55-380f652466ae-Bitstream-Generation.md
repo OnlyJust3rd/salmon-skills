@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/bitstream-generation|Bitstream Generation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/bitstream-generation|bitstream-generation]]"
 ---
 # Bitstream Generation for FPGA Programming
 

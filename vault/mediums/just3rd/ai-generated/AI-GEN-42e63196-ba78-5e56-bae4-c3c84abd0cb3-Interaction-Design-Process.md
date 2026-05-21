@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/interaction-design-process|Interaction Design Process]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/interaction-design-process|interaction-design-process]]"
 ---
 # Understanding the Interaction Design Process
 

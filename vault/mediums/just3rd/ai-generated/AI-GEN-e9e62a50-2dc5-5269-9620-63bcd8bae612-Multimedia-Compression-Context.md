@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/multimedia-compression-context|Multimedia Compression Context]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/multimedia-compression-context|multimedia-compression-context]]"
 ---
 # Understanding Lossy Compression in Multimedia
 

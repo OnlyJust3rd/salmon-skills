@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/mpeg-audio-subband-filtering|MPEG Audio Subband Filtering]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/mpeg-audio-subband-filtering|mpeg-audio-subband-filtering]]"
 ---
 # MPEG Audio Subband Filtering: Breaking Down Sound
 

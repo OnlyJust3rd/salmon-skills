@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-management/microskills/network-control-strategies|Network Control Strategies]]"
+  - "[[skills/systems/networking/network-management/microskills/network-control-strategies|network-control-strategies]]"
 ---
 # Network Control Strategies
 

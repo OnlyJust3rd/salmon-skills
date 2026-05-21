@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/change-review|Change Review]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/change-review|change-review]]"
 ---
 # Change Review in Agentic Coding
 

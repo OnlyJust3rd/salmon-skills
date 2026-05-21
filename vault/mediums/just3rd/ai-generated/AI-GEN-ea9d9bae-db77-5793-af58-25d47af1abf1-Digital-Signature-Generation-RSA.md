@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/digital-signature-generation-rsa|Digital Signature Generation (RSA)]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/digital-signature-generation-rsa|digital-signature-generation-rsa]]"
 ---
 # Digital Signatures with RSA: Generation
 

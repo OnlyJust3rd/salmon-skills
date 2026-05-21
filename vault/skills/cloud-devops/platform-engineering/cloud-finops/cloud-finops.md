@@ -1,17 +1,35 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cloud FinOps"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 4
-microskill-count: 16
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-finops-principles-and-strategies|L1-finops-principles-and-strategies]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-cloud-cost-management-and-pricing|L1-cloud-cost-management-and-pricing]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-tagging-purpose-and-benefits|L1-tagging-purpose-and-benefits]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L2-apply-optimization-and-tagging|L2-apply-optimization-and-tagging]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L2-apply-optimization-and-tagging|L2-apply-optimization-and-tagging]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/automation-with-tags|automation-with-tags]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cloud-cost-drivers|cloud-cost-drivers]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cloud-cost-management|cloud-cost-management]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cloud-spend-visibility|cloud-spend-visibility]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/collaborative-cost-ownership|collaborative-cost-ownership]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-allocation-and-chargeback|cost-allocation-and-chargeback]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-optimization-implementation|cost-optimization-implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-optimization-strategies|cost-optimization-strategies]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-optimization-techniques|cost-optimization-techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/finops-principles|finops-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/governance-and-policy-enforcement|governance-and-policy-enforcement]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/impact-of-pricing-models-on-cost|impact-of-pricing-models-on-cost]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/resource-identification|resource-identification]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/resource-tagging-strategy|resource-tagging-strategy]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/tagging-for-cost-allocation|tagging-for-cost-allocation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/tagging-for-governance|tagging-for-governance]]"
 ---
 
 # Cloud FinOps
@@ -21,9 +39,9 @@ Apply FinOps principles and cost optimization strategies in cloud environments. 
 ## Competencies
 
 - [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-finops-principles-and-strategies|L1- FinOps Principles and Strategies]]
-- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L2-cloud-cost-management-and-pricing|L2- Cloud Cost Management and Pricing]]
-- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L3-apply-optimization-and-tagging|L3- Apply Optimization and Tagging]]
-- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L2-tagging-purpose-and-benefits|L2- Tagging Purpose and Benefits]]
+- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-cloud-cost-management-and-pricing|L2- Cloud Cost Management and Pricing]]
+- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L2-apply-optimization-and-tagging|L3- Apply Optimization and Tagging]]
+- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-tagging-purpose-and-benefits|L2- Tagging Purpose and Benefits]]
 
 ## Microskills
 

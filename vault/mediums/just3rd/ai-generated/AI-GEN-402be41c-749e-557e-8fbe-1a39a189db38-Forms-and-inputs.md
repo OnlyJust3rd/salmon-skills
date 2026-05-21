@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/html/microskills/forms-and-inputs|Forms and inputs]]"
+  - "[[skills/web-and-design/frontend-ux/html/microskills/forms-and-inputs|forms-and-inputs]]"
 ---
 # Understanding HTML Forms and Inputs
 

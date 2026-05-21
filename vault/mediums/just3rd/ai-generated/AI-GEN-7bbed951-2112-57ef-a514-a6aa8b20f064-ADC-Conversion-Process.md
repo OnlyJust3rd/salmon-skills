@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-conversion-process|ADC Conversion Process]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-conversion-process|adc-conversion-process]]"
 ---
 # Understanding the ADC Conversion Process
 

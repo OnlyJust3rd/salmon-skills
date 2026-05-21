@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Task Scope"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-parent-macro: "Agentic Coding Workflows"
-parent-competency: "L3- Apply Agentic Coding Task Decomposition and Review"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/agentic-coding-workflows|agentic-coding-workflows]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L2-apply-agentic-coding-task-decomposition-and-review|L2-apply-agentic-coding-task-decomposition-and-review]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Task Scope
@@ -15,7 +17,7 @@ Parent macro: [[agentic-coding-workflows|Agentic Coding Workflows]]
 
 Parent competency:
 
-- [[L3-apply-agentic-coding-task-decomposition-and-review|L3- Apply Agentic Coding Task Decomposition and Review]]
+- [[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L2-apply-agentic-coding-task-decomposition-and-review|L3- Apply Agentic Coding Task Decomposition and Review]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Task Dependency"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Apache Airflow"
-parent-competency: "L2- Explain Workflow Orchestration Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/apache-airflow/apache-airflow|apache-airflow]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/apache-airflow/competencies/L1-explain-workflow-orchestration-concepts|L1-explain-workflow-orchestration-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Task Dependency
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/apache-airflow/apache-airflow|Apache 
 
 Parent competency:
 
-- [[skills/data/data-platforms/apache-airflow/competencies/L2-explain-workflow-orchestration-concepts|L2- Explain Workflow Orchestration Concepts]]
+- [[skills/data/data-platforms/apache-airflow/competencies/L1-explain-workflow-orchestration-concepts|L2- Explain Workflow Orchestration Concepts]]
 
 ## Description
 

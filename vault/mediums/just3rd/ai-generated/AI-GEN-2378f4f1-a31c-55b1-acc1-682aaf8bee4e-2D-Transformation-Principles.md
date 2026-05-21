@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-transformation-principles|2D Transformation Principles]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-transformation-principles|2d-transformation-principles]]"
 ---
 # Understanding 2D Transformation Principles
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/original-processor-architecture-design|Original Processor Architecture Design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/original-processor-architecture-design|original-processor-architecture-design]]"
 ---
 # Original Processor Architecture Design
 

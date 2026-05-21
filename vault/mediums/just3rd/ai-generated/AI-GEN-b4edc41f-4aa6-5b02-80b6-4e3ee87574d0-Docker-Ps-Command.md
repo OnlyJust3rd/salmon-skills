@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-ps-command|Docker Ps Command]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-ps-command|docker-ps-command]]"
 ---
 # Listing Running Docker Containers with `docker ps`
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/prototyping-development-steps|Prototyping Development Steps]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/prototyping-development-steps|prototyping-development-steps]]"
 ---
 # Prototyping Development Steps: Conceptual vs. Concrete Design
 

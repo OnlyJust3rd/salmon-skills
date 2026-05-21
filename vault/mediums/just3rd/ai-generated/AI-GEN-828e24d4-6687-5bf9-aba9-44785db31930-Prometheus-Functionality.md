@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-functionality|Prometheus Functionality]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-functionality|prometheus-functionality]]"
 ---
 # Prometheus: The Metric Collector
 

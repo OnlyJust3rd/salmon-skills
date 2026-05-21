@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/parametric-curve-definition|Parametric Curve Definition]]"
+  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/parametric-curve-definition|parametric-curve-definition]]"
 ---
 # Parametric Curve Definition
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/binary-search-tree-bst-operations-java-implementation|Binary Search Tree (BST) Operations Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/binary-search-tree-bst-operations-java-implementation|binary-search-tree-bst-operations-java-implementation]]"
 ---
 # Binary Search Tree (BST) Operations in Java
 

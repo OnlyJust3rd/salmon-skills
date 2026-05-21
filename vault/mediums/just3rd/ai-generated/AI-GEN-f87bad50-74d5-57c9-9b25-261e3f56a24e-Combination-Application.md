@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/combinatorial-analysis/microskills/combination-application|Combination Application]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/combination-application|combination-application]]"
 ---
 # Applying Combinations to Unordered Selections
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Error Type Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Cleansing"
-parent-competency: "L2- Describe Data Quality Issues"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-cleansing/data-cleansing|data-cleansing]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-cleansing/competencies/L1-describe-data-quality-issues|L1-describe-data-quality-issues]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Error Type Identification
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-cleansing/data-cleansing|Data Cl
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-cleansing/competencies/L2-describe-data-quality-issues|L2- Describe Data Quality Issues]]
+- [[skills/data/data-platforms/data-cleansing/competencies/L1-describe-data-quality-issues|L2- Describe Data Quality Issues]]
 
 ## Description
 

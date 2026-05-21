@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Design Specification Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Interactive System Development"
-parent-competency: "L3- Develop Interactive Prototypes"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/interactive-system-development/interactive-system-development|interactive-system-development]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L2-develop-interactive-prototypes|L2-develop-interactive-prototypes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Design Specification Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/interactive-system-development
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L3-develop-interactive-prototypes|L3- Develop Interactive Prototypes]]
+- [[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L2-develop-interactive-prototypes|L3- Develop Interactive Prototypes]]
 
 ## Description
 

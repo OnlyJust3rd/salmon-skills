@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/common-ic-identification|Common IC Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/common-ic-identification|common-ic-identification]]"
 ---
 # Common IC Identification
 

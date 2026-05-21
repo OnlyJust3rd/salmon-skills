@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/routing-protocol-suitability|Routing Protocol Suitability]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/routing-protocol-suitability|routing-protocol-suitability]]"
 ---
 # Analyzing Routing Protocol Suitability for Network Scale
 

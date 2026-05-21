@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Communication Registers"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Communication Programming"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Identify AVR Components"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L1-identify-avr-components|L1-identify-avr-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/programming-languages/avr-communication-programming/avr-communication-programming|avr-communication-programming]]"
+requires-microskills:
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-status-and-control-registers|i2c-status-and-control-registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-control-registers|spi-control-registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-baud-rate-registers|uart-baud-rate-registers]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Communication Registers

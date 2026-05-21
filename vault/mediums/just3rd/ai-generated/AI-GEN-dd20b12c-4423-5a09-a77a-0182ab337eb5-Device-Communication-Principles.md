@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/device-communication-principles|Device Communication Principles]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/device-communication-principles|device-communication-principles]]"
 ---
 # Understanding Device Communication Principles in Operating Systems
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|Scalability Law Assumptions]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|scalability-law-assumptions]]"
 ---
 # Understanding the Assumptions of Scalability Laws
 

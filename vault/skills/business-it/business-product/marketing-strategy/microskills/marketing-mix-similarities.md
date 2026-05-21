@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Marketing Mix Similarities"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Marketing Strategy"
-parent-competency: "L2- 4Ps vs 4Cs Comparison"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/marketing-strategy/marketing-strategy|marketing-strategy]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/marketing-strategy/competencies/L1-4ps-vs-4cs-comparison|L1-4ps-vs-4cs-comparison]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Marketing Mix Similarities
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/marketing-strategy/marketing
 
 Parent competency:
 
-- [[skills/business-it/business-product/marketing-strategy/competencies/L2-4ps-vs-4cs-comparison|L2- 4Ps vs 4Cs Comparison]]
+- [[skills/business-it/business-product/marketing-strategy/competencies/L1-4ps-vs-4cs-comparison|L2- 4Ps vs 4Cs Comparison]]
 
 ## Description
 

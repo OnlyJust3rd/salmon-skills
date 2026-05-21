@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Hosted Application Deployment"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-parent-macro: "Firebase"
-parent-competency: "L3- Apply Firebase Authentication Database and Hosting Concepts"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/firebase/firebase|firebase]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/firebase/competencies/L2-apply-firebase-authentication-database-and-hosting-concepts|L2-apply-firebase-authentication-database-and-hosting-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Hosted Application Deployment
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/firebase/firebase|Fireb
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/firebase/competencies/L3-apply-firebase-authentication-database-and-hosting-concepts|L3- Apply Firebase Authentication Database and Hosting Concepts]]
+- [[skills/cloud-devops/platform-engineering/firebase/competencies/L2-apply-firebase-authentication-database-and-hosting-concepts|L3- Apply Firebase Authentication Database and Hosting Concepts]]
 
 ## Description
 

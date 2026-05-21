@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/imperative-automation|Imperative Automation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/imperative-automation|imperative-automation]]"
 ---
 # Understanding Imperative Automation in IaC
 

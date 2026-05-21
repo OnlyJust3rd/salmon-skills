@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/fragile-watermark-characteristics|Fragile Watermark Characteristics]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/fragile-watermark-characteristics|fragile-watermark-characteristics]]"
 ---
 # Understanding Fragile Watermark Characteristics
 

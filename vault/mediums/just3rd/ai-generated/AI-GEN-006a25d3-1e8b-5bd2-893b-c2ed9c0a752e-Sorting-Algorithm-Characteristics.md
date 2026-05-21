@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/sorting-algorithm-characteristics|Sorting Algorithm Characteristics]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/sorting-algorithm-characteristics|sorting-algorithm-characteristics]]"
 ---
 # Sorting Algorithm Categories: Key Characteristics
 

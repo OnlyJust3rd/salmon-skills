@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/contextual-applicability|Contextual Applicability]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/contextual-applicability|contextual-applicability]]"
 ---
 # Contextual Applicability of Contractual Agreements
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/functional-embedded-system-integration|Functional Embedded System Integration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/functional-embedded-system-integration|functional-embedded-system-integration]]"
 ---
 # Functional Embedded System Integration
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Player Immersion Maintenance"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Game Flow and Difficulty Balancing"
-parent-competency: "L3- Optimize Player Experience through Difficulty and Flow"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/game-flow-and-difficulty-balancing|game-flow-and-difficulty-balancing]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/competencies/L2-optimize-player-experience-through-difficulty-and-flow|L2-optimize-player-experience-through-difficulty-and-flow]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Player Immersion Maintenance
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-flow-and-difficulty-
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-flow-and-difficulty-balancing/competencies/L3-optimize-player-experience-through-difficulty-and-flow|L3- Optimize Player Experience through Difficulty and Flow]]
+- [[skills/creative-media/game-development/game-flow-and-difficulty-balancing/competencies/L2-optimize-player-experience-through-difficulty-and-flow|L3- Optimize Player Experience through Difficulty and Flow]]
 
 ## Description
 

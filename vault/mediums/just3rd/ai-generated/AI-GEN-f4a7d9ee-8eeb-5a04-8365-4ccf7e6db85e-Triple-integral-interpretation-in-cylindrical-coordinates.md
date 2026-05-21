@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-interpretation-in-cylindrical-coordinates|Triple integral interpretation in cylindrical coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-interpretation-in-cylindrical-coordinates|triple-integral-interpretation-in-cylindrical-coordinates]]"
 ---
 # Understanding Triple Integrals in Cylindrical Coordinates: Geometric Interpretation
 

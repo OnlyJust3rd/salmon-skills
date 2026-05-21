@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interface Evolution"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human-Computer Interaction"
-parent-competency: "L2- Explain Interface Evolution & Influence"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-explain-interface-evolution-influence|L1-explain-interface-evolution-influence]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interface Evolution
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/human-computer-interaction/hum
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-explain-interface-evolution-influence|L2- Explain Interface Evolution & Influence]]
+- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-explain-interface-evolution-influence|L2- Explain Interface Evolution & Influence]]
 
 ## Description
 

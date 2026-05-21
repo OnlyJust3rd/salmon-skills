@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Character Archetypes"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Character Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/game-development/character-design/character-design|character-design]]"
+requires-microskills:
+  - "[[skills/creative-media/game-development/character-design/microskills/archetype-characteristics|archetype-characteristics]]"
+  - "[[skills/creative-media/game-development/character-design/microskills/common-game-character-archetypes|common-game-character-archetypes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Character Archetypes

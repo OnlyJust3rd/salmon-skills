@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/inductive-proof-execution|Inductive Proof Execution]]"
+  - "[[skills/mathematics/proof-techniques/microskills/inductive-proof-execution|inductive-proof-execution]]"
 ---
 # Inductive Proof Execution
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/clocking-mechanism-understanding|Clocking Mechanism Understanding]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/clocking-mechanism-understanding|clocking-mechanism-understanding]]"
 ---
 # Understanding the Clocking Mechanism in Verilog Counter Models
 

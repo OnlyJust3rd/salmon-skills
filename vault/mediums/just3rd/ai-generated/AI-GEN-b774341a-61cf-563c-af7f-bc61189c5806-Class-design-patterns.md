@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/class-design-patterns|Class design patterns]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/class-design-patterns|class-design-patterns]]"
 ---
 # Crafting Classes: Essential Design Patterns
 

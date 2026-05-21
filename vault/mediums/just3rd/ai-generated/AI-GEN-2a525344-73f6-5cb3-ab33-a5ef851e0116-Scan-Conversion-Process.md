@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/scan-conversion-process|Scan Conversion Process]]"
+  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/scan-conversion-process|scan-conversion-process]]"
 ---
 # Understanding the Scan Conversion Process
 

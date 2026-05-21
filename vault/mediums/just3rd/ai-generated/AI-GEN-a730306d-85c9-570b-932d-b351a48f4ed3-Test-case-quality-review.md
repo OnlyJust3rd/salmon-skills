@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/test-case-quality-review|Test case quality review]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/test-case-quality-review|test-case-quality-review]]"
 ---
 # Reviewing Test Cases for Quality
 

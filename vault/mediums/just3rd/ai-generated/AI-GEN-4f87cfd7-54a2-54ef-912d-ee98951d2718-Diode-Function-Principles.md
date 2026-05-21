@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-function-principles|Diode Function Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-function-principles|diode-function-principles]]"
 ---
 # Diode Function Principles
 

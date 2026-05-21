@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-program-efficiency-analysis|Assembly Program Efficiency Analysis]]"
+  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-program-efficiency-analysis|assembly-program-efficiency-analysis]]"
 ---
 # Analyzing Assembly Program Efficiency
 

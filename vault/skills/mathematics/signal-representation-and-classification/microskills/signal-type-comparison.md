@@ -1,14 +1,15 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Signal Type Comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Signal Representation and Classification"
-parent-competencies:
-  - "L2- Continuous vs. Discrete Signals Explained"
-  - "L2- Signal Classification Characteristics"
+  - "microskill"
+parent-skill: "[[skills/mathematics/signal-representation-and-classification/signal-representation-and-classification|signal-representation-and-classification]]"
+requires-in-competencies:
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-continuous-vs-discrete-signals-explained|L1-continuous-vs-discrete-signals-explained]]"
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-classification-characteristics|L1-signal-classification-characteristics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Signal Type Comparison
@@ -17,8 +18,8 @@ Parent macro: [[signal-representation-and-classification|Signal Representation a
 
 Parent competency:
 
-- [[L2-continuous-vs-discrete-signals-explained|L2- Continuous vs. Discrete Signals Explained]]
-- [[L2-signal-classification-characteristics|L2- Signal Classification Characteristics]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-continuous-vs-discrete-signals-explained|L2- Continuous vs. Discrete Signals Explained]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-classification-characteristics|L2- Signal Classification Characteristics]]
 
 ## Description
 

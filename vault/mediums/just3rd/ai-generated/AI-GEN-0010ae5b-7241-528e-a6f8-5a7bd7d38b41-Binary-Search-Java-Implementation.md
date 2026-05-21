@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/binary-search-java-implementation|Binary Search Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/binary-search-java-implementation|binary-search-java-implementation]]"
 ---
 # Binary Search Algorithm in Java
 

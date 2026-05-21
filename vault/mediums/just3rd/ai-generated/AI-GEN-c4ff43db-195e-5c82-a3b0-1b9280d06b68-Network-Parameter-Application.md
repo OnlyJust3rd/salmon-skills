@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/network-parameter-application|Network Parameter Application]]"
+  - "[[skills/systems/networking/network-performance/microskills/network-parameter-application|network-parameter-application]]"
 ---
 # Applying Network Parameters to Calculate Performance Metrics
 

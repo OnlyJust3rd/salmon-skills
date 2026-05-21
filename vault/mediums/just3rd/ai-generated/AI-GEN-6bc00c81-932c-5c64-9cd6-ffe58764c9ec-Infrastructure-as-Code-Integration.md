@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/infrastructure-as-code-integration|Infrastructure as Code Integration]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/infrastructure-as-code-integration|infrastructure-as-code-integration]]"
 ---
 # Integrating Infrastructure as Code into Serverless CI/CD Pipelines
 

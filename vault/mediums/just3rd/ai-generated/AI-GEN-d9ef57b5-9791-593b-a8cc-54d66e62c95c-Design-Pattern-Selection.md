@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-selection|Design Pattern Selection]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-selection|design-pattern-selection]]"
 ---
 # Design Pattern Selection: Choosing the Right Tool
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/standard-basis-vectors|Standard basis vectors]]"
+  - "[[skills/mathematics/vector-space/microskills/standard-basis-vectors|standard-basis-vectors]]"
 ---
 # Standard Basis Vectors
 

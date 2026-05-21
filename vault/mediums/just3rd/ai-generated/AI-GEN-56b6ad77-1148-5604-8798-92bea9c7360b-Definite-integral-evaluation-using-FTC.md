@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/definite-integral-evaluation-using-ftc|Definite integral evaluation using FTC]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/definite-integral-evaluation-using-ftc|definite-integral-evaluation-using-ftc]]"
 ---
 # Evaluating Definite Integrals with the Fundamental Theorem of Calculus
 

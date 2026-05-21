@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/topic-modeling/microskills/topic-modeling-techniques-application|Topic Modeling Techniques Application]]"
+  - "[[skills/data/data-science/topic-modeling/microskills/topic-modeling-techniques-application|topic-modeling-techniques-application]]"
 ---
 # Applying LSA and LDA for Theme Discovery
 

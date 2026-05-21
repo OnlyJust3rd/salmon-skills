@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-impact-on-system-behavior|Time-Invariance Impact on System Behavior]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-impact-on-system-behavior|time-invariance-impact-on-system-behavior]]"
 ---
 # Understanding Time-Invariance and its Impact on System Behavior
 

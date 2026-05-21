@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/system-software-workflow|System Software Workflow]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/system-software-workflow|system-software-workflow]]"
 ---
 # System Software Workflow
 

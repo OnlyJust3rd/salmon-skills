@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-principles|Encapsulation principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-principles|encapsulation-principles]]"
 ---
 # Encapsulation: Keeping Your Data Safe
 

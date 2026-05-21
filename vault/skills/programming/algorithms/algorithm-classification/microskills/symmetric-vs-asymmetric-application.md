@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Symmetric vs. Asymmetric Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Algorithm Classification"
-parent-competency: "L3- Categorize Algorithms"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-classification/competencies/L2-categorize-algorithms|L2-categorize-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Symmetric vs. Asymmetric Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-classification/algorithm
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-classification/competencies/L3-categorize-algorithms|L3- Categorize Algorithms]]
+- [[skills/programming/algorithms/algorithm-classification/competencies/L2-categorize-algorithms|L3- Categorize Algorithms]]
 
 ## Description
 

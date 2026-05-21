@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interrupt Vectoring and Nesting"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Input Output Interfacing"
-parent-competency: "L2- Explain I/O Mechanisms"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L1-explain-i-o-mechanisms|L1-explain-i-o-mechanisms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interrupt Vectoring and Nesting
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/input-output-inter
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L2-explain-i-o-mechanisms|L2- Explain I/O Mechanisms]]
+- [[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L1-explain-i-o-mechanisms|L2- Explain I/O Mechanisms]]
 
 ## Description
 

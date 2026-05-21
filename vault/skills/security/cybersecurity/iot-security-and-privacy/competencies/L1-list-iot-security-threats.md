@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List IoT Security Threats"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Security and Privacy"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L4- Analyze IoT Communication Technologies"
+  - "[[skills/systems/networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L3-analyze-iot-communication-technologies]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/security/cybersecurity/iot-security-and-privacy/iot-security-and-privacy|iot-security-and-privacy]]"
+requires-microskills:
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/common-iot-security-vulnerabilities|common-iot-security-vulnerabilities]]"
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/iot-attack-vectors|iot-attack-vectors]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List IoT Security Threats
@@ -25,7 +26,7 @@ List common security threats in IoT ecosystems.
 
 ## Strict Prerequisites
 
-- [[skills/systems/networking/iot-communication-and-networking/competencies/L4-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
+- [[skills/systems/networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
 
 ## Optional Prerequisites
 

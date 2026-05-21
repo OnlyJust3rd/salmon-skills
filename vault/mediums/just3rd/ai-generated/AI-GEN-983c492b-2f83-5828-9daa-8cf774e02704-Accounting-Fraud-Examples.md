@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/accounting-fraud-examples|Accounting Fraud Examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/accounting-fraud-examples|accounting-fraud-examples]]"
 ---
 # Understanding Accounting Fraud
 

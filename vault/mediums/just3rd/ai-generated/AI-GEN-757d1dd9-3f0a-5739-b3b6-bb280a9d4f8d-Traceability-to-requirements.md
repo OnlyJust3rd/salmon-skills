@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/traceability-to-requirements|Traceability to requirements]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/traceability-to-requirements|traceability-to-requirements]]"
 ---
 # Linking Test Cases to Program Requirements
 

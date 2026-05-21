@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-purpose|Digital Watermarking Purpose]]"
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-purpose|Digital Watermarking Purpose]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-purpose|digital-watermarking-purpose]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-purpose|digital-watermarking-purpose]]"
 ---
 # Understanding the Purpose of Digital Watermarking
 

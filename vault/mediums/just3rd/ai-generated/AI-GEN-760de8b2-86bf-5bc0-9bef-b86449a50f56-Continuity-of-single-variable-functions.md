@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/function-analysis/microskills/continuity-of-single-variable-functions|Continuity of single-variable functions]]"
+  - "[[skills/mathematics/function-analysis/microskills/continuity-of-single-variable-functions|continuity-of-single-variable-functions]]"
 ---
 # Understanding Continuity of Single-Variable Functions
 

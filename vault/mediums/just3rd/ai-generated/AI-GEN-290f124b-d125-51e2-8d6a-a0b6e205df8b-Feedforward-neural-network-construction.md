@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/feedforward-neural-network-construction|Feedforward neural network construction]]"
+  - "[[skills/data/ai/deep-learning/microskills/feedforward-neural-network-construction|feedforward-neural-network-construction]]"
 ---
 # Building Your First Feedforward Neural Network
 

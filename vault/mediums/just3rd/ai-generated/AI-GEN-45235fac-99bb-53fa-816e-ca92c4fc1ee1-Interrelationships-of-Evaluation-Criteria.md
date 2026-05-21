@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/interrelationships-of-evaluation-criteria|Interrelationships of Evaluation Criteria]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/interrelationships-of-evaluation-criteria|interrelationships-of-evaluation-criteria]]"
 ---
 # Understanding the Interrelationships of Selective Encryption Evaluation Criteria
 

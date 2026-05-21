@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/employer-expectations/microskills/essential-employee-attributes|Essential Employee Attributes]]"
+  - "[[skills/business-it/business-product/employer-expectations/microskills/essential-employee-attributes|essential-employee-attributes]]"
 ---
 # Essential Employee Attributes
 

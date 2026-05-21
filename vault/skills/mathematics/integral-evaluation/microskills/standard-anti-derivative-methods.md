@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Standard anti-derivative methods"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Integral Evaluation"
-parent-competency: "L1- List Anti-derivative Techniques"
+  - "microskill"
+parent-skill: "[[skills/mathematics/integral-evaluation/integral-evaluation|integral-evaluation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/integral-evaluation/competencies/L1-list-anti-derivative-techniques|L1-list-anti-derivative-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Standard anti-derivative methods
@@ -15,7 +17,7 @@ Parent macro: [[integral-evaluation|Integral Evaluation]]
 
 Parent competency:
 
-- [[L1-list-anti-derivative-techniques|L1- List Anti-derivative Techniques]]
+- [[skills/mathematics/integral-evaluation/competencies/L1-list-anti-derivative-techniques|L1- List Anti-derivative Techniques]]
 
 ## Description
 

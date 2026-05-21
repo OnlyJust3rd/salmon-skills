@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/linear-combination-definition|Linear combination definition]]"
+  - "[[skills/mathematics/vector-space/microskills/linear-combination-definition|linear-combination-definition]]"
 ---
 # Understanding Linear Combinations of Vectors
 

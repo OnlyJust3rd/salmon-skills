@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/ip-strategic-implications|IP Strategic Implications]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/ip-strategic-implications|ip-strategic-implications]]"
 ---
 # IP Strategic Implications: How Intellectual Property Shapes Business Strategy
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Bag-of-Words Principle"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Feature Engineering"
-parent-competency: "L2- Explain Text Representation Principles"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-feature-engineering/competencies/L1-explain-text-representation-principles|L1-explain-text-representation-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Bag-of-Words Principle
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-feature-engineering/text-feature-e
 
 Parent competency:
 
-- [[skills/data/data-science/text-feature-engineering/competencies/L2-explain-text-representation-principles|L2- Explain Text Representation Principles]]
+- [[skills/data/data-science/text-feature-engineering/competencies/L1-explain-text-representation-principles|L2- Explain Text Representation Principles]]
 
 ## Description
 

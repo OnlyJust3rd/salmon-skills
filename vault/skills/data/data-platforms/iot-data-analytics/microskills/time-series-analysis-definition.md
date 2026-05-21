@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Time-Series Analysis Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Data Analytics"
-parent-competency: "L2- Define and Explain Analysis Techniques"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/iot-data-analytics/iot-data-analytics|iot-data-analytics]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/iot-data-analytics/competencies/L1-define-and-explain-analysis-techniques|L1-define-and-explain-analysis-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Time-Series Analysis Definition
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/iot-data-analytics/iot-data-analytics
 
 Parent competency:
 
-- [[skills/data/data-platforms/iot-data-analytics/competencies/L2-define-and-explain-analysis-techniques|L2- Define and Explain Analysis Techniques]]
+- [[skills/data/data-platforms/iot-data-analytics/competencies/L1-define-and-explain-analysis-techniques|L2- Define and Explain Analysis Techniques]]
 
 ## Description
 

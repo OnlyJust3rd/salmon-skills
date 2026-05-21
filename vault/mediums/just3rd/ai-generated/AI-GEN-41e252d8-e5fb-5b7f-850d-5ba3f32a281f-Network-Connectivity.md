@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/network-connectivity|Network Connectivity]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/network-connectivity|network-connectivity]]"
 ---
 # Network Connectivity: Linking Your Local Networks
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/multiple-process-coordination|Multiple Process Coordination]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/multiple-process-coordination|multiple-process-coordination]]"
 ---
 # Coordinating Multiple Processes in Python
 

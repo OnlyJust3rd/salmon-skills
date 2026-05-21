@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/electric-vehicle-environmental-benefits|Electric Vehicle Environmental Benefits]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/electric-vehicle-environmental-benefits|electric-vehicle-environmental-benefits]]"
 ---
 # Electric Vehicle Environmental Benefits: A Closer Look
 

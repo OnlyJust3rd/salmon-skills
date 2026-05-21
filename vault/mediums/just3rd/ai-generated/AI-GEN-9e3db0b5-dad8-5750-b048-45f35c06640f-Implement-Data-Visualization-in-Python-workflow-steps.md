@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-data-visualization-in-python-workflow-steps|Implement Data Visualization in Python workflow steps]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-data-visualization-in-python-workflow-steps|implement-data-visualization-in-python-workflow-steps]]"
 ---
 # Implementing Data Visualization in Python: A Workflow
 

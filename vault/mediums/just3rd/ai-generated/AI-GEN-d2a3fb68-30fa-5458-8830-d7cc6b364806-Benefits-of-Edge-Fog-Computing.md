@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/benefits-of-edge-fog-computing|Benefits of Edge/Fog Computing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/benefits-of-edge-fog-computing|benefits-of-edge-fog-computing]]"
 ---
 # Benefits of Edge and Fog Computing
 

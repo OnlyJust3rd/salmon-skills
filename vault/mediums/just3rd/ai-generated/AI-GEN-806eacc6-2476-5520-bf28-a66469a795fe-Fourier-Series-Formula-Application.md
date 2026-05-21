@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-analysis/microskills/fourier-series-formula-application|Fourier Series Formula Application]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/fourier-series-formula-application|fourier-series-formula-application]]"
 ---
 # Applying the Fourier Series Formula to Calculate Coefficients
 

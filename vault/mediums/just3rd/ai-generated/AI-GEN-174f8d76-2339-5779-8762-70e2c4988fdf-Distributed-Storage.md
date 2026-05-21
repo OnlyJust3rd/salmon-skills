@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-hadoop/microskills/distributed-storage|Distributed Storage]]"
+  - "[[skills/data/data-platforms/apache-hadoop/microskills/distributed-storage|distributed-storage]]"
 ---
 # Understanding Hadoop Distributed Storage: Data Across the Cluster
 

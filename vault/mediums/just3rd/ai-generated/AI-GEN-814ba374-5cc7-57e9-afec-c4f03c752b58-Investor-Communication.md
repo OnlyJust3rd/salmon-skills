@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/investor-communication|Investor Communication]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/investor-communication|investor-communication]]"
 ---
 # Understanding Investor Communication: Tailoring Your Pitch
 

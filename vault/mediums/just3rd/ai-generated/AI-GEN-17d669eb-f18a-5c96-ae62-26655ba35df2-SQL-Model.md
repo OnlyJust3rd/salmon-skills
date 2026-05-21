@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/dbt/microskills/sql-model|SQL Model]]"
+  - "[[skills/data/data-platforms/dbt/microskills/sql-model|sql-model]]"
 ---
 # SQL Models: Query-Defined Datasets in dbt
 

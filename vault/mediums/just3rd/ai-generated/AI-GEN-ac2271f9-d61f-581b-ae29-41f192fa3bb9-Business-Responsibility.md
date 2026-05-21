@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-responsibility|Business Responsibility]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-responsibility|business-responsibility]]"
 ---
 # Business Responsibility: Doing the Right Thing
 

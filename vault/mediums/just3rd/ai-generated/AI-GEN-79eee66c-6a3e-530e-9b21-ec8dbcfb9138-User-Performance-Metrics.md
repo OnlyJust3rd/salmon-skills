@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/user-performance-metrics|User Performance Metrics]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/user-performance-metrics|user-performance-metrics]]"
 ---
 # Analyzing Cognitive Load's Impact on User Performance Metrics
 

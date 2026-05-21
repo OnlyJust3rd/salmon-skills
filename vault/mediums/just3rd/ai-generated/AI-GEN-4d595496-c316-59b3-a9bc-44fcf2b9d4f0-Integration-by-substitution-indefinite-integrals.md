@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/integration-by-substitution-indefinite-integrals|Integration by substitution (indefinite integrals)]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/integration-by-substitution-indefinite-integrals|integration-by-substitution-indefinite-integrals]]"
 ---
 # Applying Integration by Substitution for Indefinite Integrals
 

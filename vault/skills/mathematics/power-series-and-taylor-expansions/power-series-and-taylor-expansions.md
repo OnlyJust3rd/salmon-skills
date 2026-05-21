@@ -1,18 +1,31 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Power Series and Taylor Expansions"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 102 - Mathematics II"
-coverage:
-  - "Concept"
-  - "Representation"
-  - "Implementation"
-competency-count: 3
-microskill-count: 11
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-102-mathematics-ii"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-binomial-expansion|L2-apply-binomial-expansion]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-taylor-and-maclaurin-series|L2-apply-taylor-and-maclaurin-series]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/competencies/L3-analyze-power-series-convergence|L3-analyze-power-series-convergence]]"
+standard-competency:
+  - "[[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-binomial-expansion|L2-apply-binomial-expansion]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-taylor-and-maclaurin-series|L2-apply-taylor-and-maclaurin-series]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/competencies/L3-analyze-power-series-convergence|L3-analyze-power-series-convergence]]"
+microskills:
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-formulation|binomial-expansion-formulation]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-interval-of-convergence|binomial-expansion-interval-of-convergence]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-validity-conditions|binomial-expansion-validity-conditions]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/endpoint-behavior-analysis|endpoint-behavior-analysis]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/function-value-approximation-using-maclaurin-series|function-value-approximation-using-maclaurin-series]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/function-value-approximation-using-taylor-series|function-value-approximation-using-taylor-series]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/interval-of-convergence-calculation|interval-of-convergence-calculation]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/maclaurin-series-expansion|maclaurin-series-expansion]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/power-series-convergence-assessment|power-series-convergence-assessment]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/radius-of-convergence-calculation|radius-of-convergence-calculation]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/taylor-series-expansion|taylor-series-expansion]]"
 ---
 
 # Power Series and Taylor Expansions
@@ -21,9 +34,9 @@ Ability to analyze power series by determining their radius and interval of conv
 
 ## Competencies
 
-- [[L4-analyze-power-series-convergence|L4- Analyze Power Series Convergence]]
-- [[L3-apply-taylor-and-maclaurin-series|L3- Apply Taylor and Maclaurin Series]]
-- [[L3-apply-binomial-expansion|L3- Apply Binomial Expansion]]
+- [[skills/mathematics/power-series-and-taylor-expansions/competencies/L3-analyze-power-series-convergence|L4- Analyze Power Series Convergence]]
+- [[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-taylor-and-maclaurin-series|L3- Apply Taylor and Maclaurin Series]]
+- [[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-binomial-expansion|L3- Apply Binomial Expansion]]
 
 ## Microskills
 

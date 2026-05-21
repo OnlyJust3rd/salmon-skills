@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/data-relationships|Data Relationships]]"
+  - "[[skills/data/databases/database-system/microskills/data-relationships|data-relationships]]"
 ---
 # Understanding Data Relationships in Databases
 

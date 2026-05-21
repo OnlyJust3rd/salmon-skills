@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-component-functionality|Neural Network Component Functionality]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-component-functionality|neural-network-component-functionality]]"
 ---
 # Understanding Neural Network Components
 

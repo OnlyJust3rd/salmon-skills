@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/databricks/microskills/lakehouse-table|Lakehouse Table]]"
+  - "[[skills/data/data-platforms/databricks/microskills/lakehouse-table|lakehouse-table]]"
 ---
 # Managing Lakehouse Tables
 

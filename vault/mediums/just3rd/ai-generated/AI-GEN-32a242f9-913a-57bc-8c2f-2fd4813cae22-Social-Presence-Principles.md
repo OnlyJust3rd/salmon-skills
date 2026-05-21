@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/social-presence-principles|Social Presence Principles]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/social-presence-principles|social-presence-principles]]"
 ---
 # Understanding Social Presence in Conversational AI
 

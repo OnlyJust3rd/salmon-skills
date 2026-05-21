@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/operations-functions|Operations Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/operations-functions|operations-functions]]"
 ---
 # Understanding Operations Department Functions
 

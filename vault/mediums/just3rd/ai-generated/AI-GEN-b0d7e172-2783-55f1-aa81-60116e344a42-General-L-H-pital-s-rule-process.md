@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/general-l-hopital-s-rule-process|General L'Hôpital's rule process]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/general-l-hopital-s-rule-process|general-l-hopital-s-rule-process]]"
 ---
 # Applying L'Hôpital's Rule: The Process
 

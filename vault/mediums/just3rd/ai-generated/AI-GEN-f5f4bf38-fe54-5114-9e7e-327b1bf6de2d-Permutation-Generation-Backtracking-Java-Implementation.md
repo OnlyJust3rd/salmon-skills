@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/permutation-generation-backtracking-java-implementation|Permutation Generation Backtracking Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/permutation-generation-backtracking-java-implementation|permutation-generation-backtracking-java-implementation]]"
 ---
 # Permutation Generation Backtracking in Java
 

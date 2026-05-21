@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/private-to-public-ip-translation|Private to Public IP Translation]]"
+  - "[[skills/systems/networking/network-layer/microskills/private-to-public-ip-translation|private-to-public-ip-translation]]"
 ---
 # Private to Public IP Translation
 

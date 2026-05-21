@@ -1,17 +1,20 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Shell Scripting"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - DevOps skills"
-coverage:
-  - "ToolUsage"
-  - "Implementation"
-competency-count: 1
-microskill-count: 4
-related-jobs:
-  - "DevOps Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/competencies/L2-apply-shell-scripting-for-automation|L2-apply-shell-scripting-for-automation]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/competencies/L2-apply-shell-scripting-for-automation|L2-apply-shell-scripting-for-automation]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/command-composition|command-composition]]"
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/conditionals-and-loops|conditionals-and-loops]]"
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/exit-codes|exit-codes]]"
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/shell-variables-and-parameters|shell-variables-and-parameters]]"
 ---
 
 # Shell Scripting
@@ -20,7 +23,7 @@ Using shell scripts to automate command-line tasks, compose operating-system uti
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/shell-scripting/competencies/L3-apply-shell-scripting-for-automation|L3- Apply Shell Scripting for Automation]]
+- [[skills/cloud-devops/platform-engineering/shell-scripting/competencies/L2-apply-shell-scripting-for-automation|L3- Apply Shell Scripting for Automation]]
 
 ## Microskills
 

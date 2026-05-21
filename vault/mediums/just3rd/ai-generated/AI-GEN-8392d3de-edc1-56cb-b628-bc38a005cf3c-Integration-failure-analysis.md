@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/integration-failure-analysis|Integration failure analysis]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/integration-failure-analysis|integration-failure-analysis]]"
 ---
 # Analyzing Integration Test Failures in C Programs
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-analysis/microskills/dtfs-coefficient-calculation|DTFS Coefficient Calculation]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/dtfs-coefficient-calculation|dtfs-coefficient-calculation]]"
 ---
 # Calculating Discrete-Time Fourier Series (DTFS) Coefficients
 

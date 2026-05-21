@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/version-control-for-infrastructure|Version Control for Infrastructure]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/version-control-for-infrastructure|version-control-for-infrastructure]]"
 ---
 # Version Control for Infrastructure: Tracking Your Code's Evolution
 

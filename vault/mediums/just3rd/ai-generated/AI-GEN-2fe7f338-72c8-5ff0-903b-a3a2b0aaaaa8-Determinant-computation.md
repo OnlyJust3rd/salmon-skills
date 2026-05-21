@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/determinant-computation|Determinant computation]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/determinant-computation|determinant-computation]]"
 ---
 # Determinant Computation for 2x2 and 3x3 Matrices
 

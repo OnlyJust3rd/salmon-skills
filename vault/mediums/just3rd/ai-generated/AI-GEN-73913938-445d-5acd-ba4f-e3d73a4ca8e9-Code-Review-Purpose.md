@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-purpose|Code Review Purpose]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-purpose|code-review-purpose]]"
 ---
 # Understanding the Purpose of Code Reviews
 

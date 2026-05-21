@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Shading Techniques"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Rendering and Visual Realism"
-parent-competency: "L2- Explain Shading Principles"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/rendering-and-visual-realism/rendering-and-visual-realism|rendering-and-visual-realism]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L1-explain-shading-principles|L1-explain-shading-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Shading Techniques
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/rendering-and-visual-realis
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L2-explain-shading-principles|L2- Explain Shading Principles]]
+- [[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L1-explain-shading-principles|L2- Explain Shading Principles]]
 
 ## Description
 

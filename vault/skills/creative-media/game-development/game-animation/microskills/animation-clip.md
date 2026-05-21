@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Animation Clip"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Animation"
-parent-competency: "L2- Explain Game Animation State and Rigging Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-animation/game-animation|game-animation]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-animation/competencies/L1-explain-game-animation-state-and-rigging-concepts|L1-explain-game-animation-state-and-rigging-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Animation Clip
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-animation/game-anima
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-animation/competencies/L2-explain-game-animation-state-and-rigging-concepts|L2- Explain Game Animation State and Rigging Concepts]]
+- [[skills/creative-media/game-development/game-animation/competencies/L1-explain-game-animation-state-and-rigging-concepts|L2- Explain Game Animation State and Rigging Concepts]]
 
 ## Description
 

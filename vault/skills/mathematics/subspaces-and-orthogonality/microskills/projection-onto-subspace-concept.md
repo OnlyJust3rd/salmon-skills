@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Projection onto subspace concept"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Subspaces and Orthogonality"
-parent-competency: "L2- Explain Orthogonality and Projections"
+  - "microskill"
+parent-skill: "[[skills/mathematics/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
+requires-in-competencies:
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-explain-orthogonality-and-projections|L1-explain-orthogonality-and-projections]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Projection onto subspace concept
@@ -15,7 +17,7 @@ Parent macro: [[subspaces-and-orthogonality|Subspaces and Orthogonality]]
 
 Parent competency:
 
-- [[L2-explain-orthogonality-and-projections|L2- Explain Orthogonality and Projections]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-explain-orthogonality-and-projections|L2- Explain Orthogonality and Projections]]
 
 ## Description
 

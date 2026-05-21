@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Module systems"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "Node.js"
-parent-competency: "L2- Explain Node.js Runtime and Modules for Servers"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/node-js/node-js|node-js]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L1-explain-node-js-runtime-and-modules-for-servers]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Module systems
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/backend-api/node-js/node-js|Node.js]]
 
 Parent competency:
 
-- [[skills/web-and-design/backend-api/node-js/competencies/L2-explain-node-js-runtime-and-modules-for-servers|L2- Explain Node.js Runtime and Modules for Servers]]
+- [[skills/web-and-design/backend-api/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L2- Explain Node.js Runtime and Modules for Servers]]
 
 ## Description
 

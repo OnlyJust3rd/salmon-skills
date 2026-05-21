@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/adder-operational-principles|Adder Operational Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/adder-operational-principles|adder-operational-principles]]"
 ---
 # Adder Operational Principles
 

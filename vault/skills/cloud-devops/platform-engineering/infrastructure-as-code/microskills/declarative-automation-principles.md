@@ -1,14 +1,15 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Declarative Automation Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-parent-competencies:
-  - "L1- Define IaC"
-  - "L4- Contrast automation approaches"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-define-iac|L1-define-iac]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-contrast-automation-approaches|L3-contrast-automation-approaches]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Declarative Automation Principles
@@ -18,7 +19,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/infrastructure-as-code/
 Parent competency:
 
 - [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-define-iac|L1- Define IaC]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L4-contrast-automation-approaches|L4- Contrast automation approaches]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-contrast-automation-approaches|L4- Contrast automation approaches]]
 
 ## Description
 

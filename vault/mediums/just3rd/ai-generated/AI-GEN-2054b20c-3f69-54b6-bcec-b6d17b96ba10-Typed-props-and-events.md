@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/react/microskills/typed-props-and-events|Typed props and events]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/typed-props-and-events|typed-props-and-events]]"
 ---
 # Typed Props and Events in React with TypeScript
 

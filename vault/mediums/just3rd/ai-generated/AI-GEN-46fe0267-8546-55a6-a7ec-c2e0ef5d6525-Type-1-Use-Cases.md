@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-1-use-cases|Type-1 Use Cases]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-1-use-cases|type-1-use-cases]]"
 ---
 # Identifying Use Cases for Type-1 Hypervisors
 

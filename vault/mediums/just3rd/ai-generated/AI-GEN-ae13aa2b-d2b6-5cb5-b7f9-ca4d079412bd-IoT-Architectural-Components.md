@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-architectural-components|IoT Architectural Components]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-architectural-components|iot-architectural-components]]"
 ---
 # Understanding IoT Architectural Components
 

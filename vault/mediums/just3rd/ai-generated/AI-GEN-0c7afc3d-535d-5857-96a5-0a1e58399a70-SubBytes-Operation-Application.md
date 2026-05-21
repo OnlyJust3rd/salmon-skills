@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/subbytes-operation-application|SubBytes Operation Application]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/subbytes-operation-application|subbytes-operation-application]]"
 ---
 # Applying the SubBytes Operation
 

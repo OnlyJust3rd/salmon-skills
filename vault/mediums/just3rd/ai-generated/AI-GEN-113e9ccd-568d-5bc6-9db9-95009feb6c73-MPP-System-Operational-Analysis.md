@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/mpp-system-operational-analysis|MPP System Operational Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/mpp-system-operational-analysis|mpp-system-operational-analysis]]"
 ---
 # Analyzing MPP System Operational Principles
 

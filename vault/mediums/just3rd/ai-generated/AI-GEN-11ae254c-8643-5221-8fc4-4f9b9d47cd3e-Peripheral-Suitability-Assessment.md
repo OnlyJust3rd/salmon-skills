@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/peripheral-suitability-assessment|Peripheral Suitability Assessment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/peripheral-suitability-assessment|peripheral-suitability-assessment]]"
 ---
 # Peripheral Suitability Assessment for AVR Microcontrollers
 

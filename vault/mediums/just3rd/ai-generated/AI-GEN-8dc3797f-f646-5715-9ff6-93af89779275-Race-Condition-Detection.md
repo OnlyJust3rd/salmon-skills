@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/race-condition-detection|Race Condition Detection]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/race-condition-detection|race-condition-detection]]"
 ---
 # Identifying Race Conditions Using Critical Sections
 

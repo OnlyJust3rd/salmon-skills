@@ -1,18 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Data Science"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 232 - Data Models"
-coverage:
-  - "Concept"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Data Analyst"
-  - "Data Scientist"
-source-note: "courses/kmutt/cpe-2021/cpe-232-data-models"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-science/data-science/competencies/L1-data-scientist-roles-and-contributions|L1-data-scientist-roles-and-contributions]]"
+  - "[[skills/data/data-science/data-science/competencies/L1-purpose-of-data-science-stages|L1-purpose-of-data-science-stages]]"
+standard-competency:
+  - "[[skills/data/data-science/data-science/competencies/L1-data-scientist-roles-and-contributions|L1-data-scientist-roles-and-contributions]]"
+microskills:
+  - "[[skills/data/data-science/data-science/microskills/contribution-to-process|contribution-to-process]]"
+  - "[[skills/data/data-science/data-science/microskills/data-science-workflow|data-science-workflow]]"
+  - "[[skills/data/data-science/data-science/microskills/data-scientist-responsibilities|data-scientist-responsibilities]]"
+  - "[[skills/data/data-science/data-science/microskills/process-contribution|process-contribution]]"
+  - "[[skills/data/data-science/data-science/microskills/role-interdependencies|role-interdependencies]]"
+  - "[[skills/data/data-science/data-science/microskills/stage-objectives|stage-objectives]]"
 ---
 
 # Data Science
@@ -21,8 +26,8 @@ Understanding the overarching data science workflow and the responsibilities of 
 
 ## Competencies
 
-- [[skills/data/data-science/data-science/competencies/L2-purpose-of-data-science-stages|L2- Purpose of data science stages]]
-- [[skills/data/data-science/data-science/competencies/L2-data-scientist-roles-and-contributions|L2- Data scientist roles and contributions]]
+- [[skills/data/data-science/data-science/competencies/L1-purpose-of-data-science-stages|L2- Purpose of data science stages]]
+- [[skills/data/data-science/data-science/competencies/L1-data-scientist-roles-and-contributions|L2- Data scientist roles and contributions]]
 
 ## Microskills
 

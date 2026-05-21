@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mongodb/microskills/mongodb-update-delete-operations|MongoDB Update/Delete Operations]]"
+  - "[[skills/data/databases/mongodb/microskills/mongodb-update-delete-operations|mongodb-update-delete-operations]]"
 ---
 # Updating and Removing Documents in MongoDB
 

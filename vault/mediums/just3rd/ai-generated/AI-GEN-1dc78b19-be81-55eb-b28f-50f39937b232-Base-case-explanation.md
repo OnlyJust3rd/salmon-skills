@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/mathematical-induction/microskills/base-case-explanation|Base case explanation]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/base-case-explanation|base-case-explanation]]"
 ---
 # Understanding the Base Case in Mathematical Induction
 

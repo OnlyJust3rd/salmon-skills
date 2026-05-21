@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Secure Network Access"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Layer"
-parent-competency: "L2- VPN Concept and Purpose"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-layer/network-layer|network-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-layer/competencies/L1-vpn-concept-and-purpose|L1-vpn-concept-and-purpose]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Secure Network Access
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-layer/network-layer|Network La
 
 Parent competency:
 
-- [[skills/systems/networking/network-layer/competencies/L2-vpn-concept-and-purpose|L2- VPN Concept and Purpose]]
+- [[skills/systems/networking/network-layer/competencies/L1-vpn-concept-and-purpose|L2- VPN Concept and Purpose]]
 
 ## Description
 

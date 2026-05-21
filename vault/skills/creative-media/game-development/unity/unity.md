@@ -1,21 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Unity"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - game development production skills"
-coverage:
-  - "Tool"
-  - "Framework"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Game Developer"
-  - "Unity Developer"
-  - "Level Designer"
-  - "Technical Artist"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/creative-media/game-development/unity/competencies/L1-explain-unity-scene-prefab-and-component-concepts|L1-explain-unity-scene-prefab-and-component-concepts]]"
+  - "[[skills/creative-media/game-development/unity/competencies/L2-implement-unity-gameplay-scripts-and-scenes|L2-implement-unity-gameplay-scripts-and-scenes]]"
+standard-competency:
+  - "[[skills/creative-media/game-development/unity/competencies/L2-implement-unity-gameplay-scripts-and-scenes|L2-implement-unity-gameplay-scripts-and-scenes]]"
+microskills:
+  - "[[skills/creative-media/game-development/unity/microskills/gameobject|gameobject]]"
+  - "[[skills/creative-media/game-development/unity/microskills/monobehaviour-script|monobehaviour-script]]"
+  - "[[skills/creative-media/game-development/unity/microskills/prefab|prefab]]"
+  - "[[skills/creative-media/game-development/unity/microskills/scene-setup|scene-setup]]"
+  - "[[skills/creative-media/game-development/unity/microskills/serialized-field|serialized-field]]"
+  - "[[skills/creative-media/game-development/unity/microskills/unity-event-method|unity-event-method]]"
 ---
 
 # Unity
@@ -24,8 +26,8 @@ Using Unity editor workflows, scenes, prefabs, components, C# scripts, physics, 
 
 ## Competencies
 
-- [[skills/creative-media/game-development/unity/competencies/L2-explain-unity-scene-prefab-and-component-concepts|L2- Explain Unity Scene Prefab and Component Concepts]]
-- [[skills/creative-media/game-development/unity/competencies/L3-implement-unity-gameplay-scripts-and-scenes|L3- Implement Unity Gameplay Scripts and Scenes]]
+- [[skills/creative-media/game-development/unity/competencies/L1-explain-unity-scene-prefab-and-component-concepts|L2- Explain Unity Scene Prefab and Component Concepts]]
+- [[skills/creative-media/game-development/unity/competencies/L2-implement-unity-gameplay-scripts-and-scenes|L3- Implement Unity Gameplay Scripts and Scenes]]
 
 ## Microskills
 

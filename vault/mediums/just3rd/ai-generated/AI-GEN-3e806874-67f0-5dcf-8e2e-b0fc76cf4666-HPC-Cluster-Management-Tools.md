@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-management-tools|HPC Cluster Management Tools]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-management-tools|hpc-cluster-management-tools]]"
 ---
 # HPC Cluster Management Tools
 

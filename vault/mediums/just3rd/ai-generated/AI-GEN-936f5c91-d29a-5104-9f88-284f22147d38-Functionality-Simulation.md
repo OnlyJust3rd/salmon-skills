@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/functionality-simulation|Functionality Simulation]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/functionality-simulation|functionality-simulation]]"
 ---
 # Simulating Core Functionality in Interactive Prototypes
 

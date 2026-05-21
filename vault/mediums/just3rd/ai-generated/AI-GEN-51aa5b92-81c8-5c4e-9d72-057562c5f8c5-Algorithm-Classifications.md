@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-classifications|Algorithm Classifications]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-classifications|algorithm-classifications]]"
 ---
 # Algorithm Classifications
 

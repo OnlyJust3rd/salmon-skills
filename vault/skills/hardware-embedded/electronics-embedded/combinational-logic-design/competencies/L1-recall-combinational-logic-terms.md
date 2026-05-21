@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Recall Combinational Logic Terms"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Combinational Logic Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Recall Logic Gate Basics"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-recall-logic-gate-basics|L1-recall-logic-gate-basics]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/canonical-form-definitions|canonical-form-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/karnaugh-map-structure|karnaugh-map-structure]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/minterm-and-maxterm-definitions|minterm-and-maxterm-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/truth-table-definitions|truth-table-definitions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Recall Combinational Logic Terms

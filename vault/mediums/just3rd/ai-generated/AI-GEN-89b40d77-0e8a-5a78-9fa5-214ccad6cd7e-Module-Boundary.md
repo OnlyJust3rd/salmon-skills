@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/module-boundary|Module Boundary]]"
+  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/module-boundary|module-boundary]]"
 ---
 # Understanding Module Boundaries in ERP Systems
 

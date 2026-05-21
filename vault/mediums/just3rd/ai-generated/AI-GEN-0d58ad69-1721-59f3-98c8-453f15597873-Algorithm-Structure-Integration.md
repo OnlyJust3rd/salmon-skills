@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/algorithm-structure-integration|Algorithm-Structure Integration]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/algorithm-structure-integration|algorithm-structure-integration]]"
 ---
 # Integrating Algorithms with Data Structures in Java
 

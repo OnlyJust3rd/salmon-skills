@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/input-clock-signal-relationship|Input-Clock Signal Relationship]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/input-clock-signal-relationship|input-clock-signal-relationship]]"
 ---
 # The Flip-Flop's Pulse: Understanding Input-Clock Signal Relationships
 

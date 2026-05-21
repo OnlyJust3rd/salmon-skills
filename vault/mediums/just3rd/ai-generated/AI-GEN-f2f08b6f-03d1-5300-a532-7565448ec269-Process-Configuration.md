@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/process-configuration|Process Configuration]]"
+  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/process-configuration|process-configuration]]"
 ---
 # Process Configuration: Adapting ERP Behavior
 

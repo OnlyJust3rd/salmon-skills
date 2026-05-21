@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/power-regulator-basic-operations|Power Regulator Basic Operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/power-regulator-basic-operations|power-regulator-basic-operations]]"
 ---
 # Understanding Power Regulators: The Basics
 

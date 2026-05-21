@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/noise-removal-definition|Noise Removal Definition]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/noise-removal-definition|noise-removal-definition]]"
 ---
 # Noise Removal: Cleaning Up Your Text Data
 

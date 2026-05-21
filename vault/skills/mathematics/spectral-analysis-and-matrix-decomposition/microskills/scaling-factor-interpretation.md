@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Scaling factor interpretation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Spectral Analysis and Matrix Decomposition"
-parent-competency: "L2- Interpret Eigenvalues and Eigenvectors"
+  - "microskill"
+parent-skill: "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/spectral-analysis-and-matrix-decomposition|spectral-analysis-and-matrix-decomposition]]"
+requires-in-competencies:
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-interpret-eigenvalues-and-eigenvectors|L1-interpret-eigenvalues-and-eigenvectors]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Scaling factor interpretation
@@ -15,7 +17,7 @@ Parent macro: [[spectral-analysis-and-matrix-decomposition|Spectral Analysis and
 
 Parent competency:
 
-- [[L2-interpret-eigenvalues-and-eigenvectors|L2- Interpret Eigenvalues and Eigenvectors]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-interpret-eigenvalues-and-eigenvectors|L2- Interpret Eigenvalues and Eigenvectors]]
 
 ## Description
 

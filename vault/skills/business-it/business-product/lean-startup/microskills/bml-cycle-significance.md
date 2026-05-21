@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "BML Cycle Significance"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Lean Startup"
-parent-competency: "L2- Explain BML Cycle and Idea Validation"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-explain-bml-cycle-and-idea-validation|L1-explain-bml-cycle-and-idea-validation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # BML Cycle Significance
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/lean-startup/lean-startup|Le
 
 Parent competency:
 
-- [[skills/business-it/business-product/lean-startup/competencies/L2-explain-bml-cycle-and-idea-validation|L2- Explain BML Cycle and Idea Validation]]
+- [[skills/business-it/business-product/lean-startup/competencies/L1-explain-bml-cycle-and-idea-validation|L2- Explain BML Cycle and Idea Validation]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/hsv-color-model|HSV Color Model]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/hsv-color-model|hsv-color-model]]"
 ---
 # Understanding the HSV Color Model
 

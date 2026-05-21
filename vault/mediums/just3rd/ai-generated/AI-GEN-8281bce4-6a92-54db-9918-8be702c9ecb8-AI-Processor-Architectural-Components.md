@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/ai-processor-architectural-components|AI Processor Architectural Components]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/ai-processor-architectural-components|ai-processor-architectural-components]]"
 ---
 # AI Processor Architectural Components
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/logic-gate-ic-functional-operation|Logic Gate IC Functional Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/logic-gate-ic-functional-operation|logic-gate-ic-functional-operation]]"
 ---
 # Understanding Logic Gate ICs: The Building Blocks of Digital Circuits
 

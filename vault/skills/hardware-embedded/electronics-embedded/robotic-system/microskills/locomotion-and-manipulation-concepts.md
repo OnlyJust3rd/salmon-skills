@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Locomotion and Manipulation Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Robotic System"
-parent-competency: "L2- Describe robot locomotion/manipulation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotic-system/robotic-system|robotic-system]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L1-describe-robot-locomotion-manipulation|L1-describe-robot-locomotion-manipulation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Locomotion and Manipulation Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/robotic-system/rob
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L2-describe-robot-locomotion-manipulation|L2- Describe robot locomotion/manipulation]]
+- [[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L1-describe-robot-locomotion-manipulation|L2- Describe robot locomotion/manipulation]]
 
 ## Description
 

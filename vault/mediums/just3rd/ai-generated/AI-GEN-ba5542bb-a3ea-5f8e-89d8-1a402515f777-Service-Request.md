@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-service-management/microskills/service-request|Service Request]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/service-request|service-request]]"
 ---
 # Understanding Service Requests in IT Service Management
 

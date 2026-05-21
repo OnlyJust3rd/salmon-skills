@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Read-Modify-Write Pattern"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Bare-metal C Programming"
-parent-competency: "L2- Explain Bare-metal C Techniques"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/bare-metal-c-programming/bare-metal-c-programming|bare-metal-c-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/competencies/L1-explain-bare-metal-c-techniques|L1-explain-bare-metal-c-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Read-Modify-Write Pattern
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/bare-metal-c-programmin
 
 Parent competency:
 
-- [[skills/programming/programming-languages/bare-metal-c-programming/competencies/L2-explain-bare-metal-c-techniques|L2- Explain Bare-metal C Techniques]]
+- [[skills/programming/programming-languages/bare-metal-c-programming/competencies/L1-explain-bare-metal-c-techniques|L2- Explain Bare-metal C Techniques]]
 
 ## Description
 

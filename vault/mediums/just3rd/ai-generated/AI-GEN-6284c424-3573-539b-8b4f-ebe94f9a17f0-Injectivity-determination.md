@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/injectivity-determination|Injectivity determination]]"
+  - "[[skills/mathematics/linear-transformations/microskills/injectivity-determination|injectivity-determination]]"
 ---
 # Injectivity: Knowing When a Transformation is One-to-One
 

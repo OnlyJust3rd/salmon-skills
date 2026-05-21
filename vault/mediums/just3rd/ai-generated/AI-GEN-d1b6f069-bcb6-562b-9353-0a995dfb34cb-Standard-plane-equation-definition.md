@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/standard-plane-equation-definition|Standard plane equation definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/standard-plane-equation-definition|standard-plane-equation-definition]]"
 ---
 # Standard Plane Equation Definition
 

@@ -1,19 +1,33 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "IoT Cloud"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 475 - Internet of Things"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "ToolUsage"
-  - "Representation"
-competency-count: 4
-microskill-count: 13
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-475-internet-of-things"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L1-define-apis-and-json|L1-define-apis-and-json]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L1-azure-iot-hub-architecture-and-security|L1-azure-iot-hub-architecture-and-security]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-apply-rest-apis-for-data|L2-apply-rest-apis-for-data]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-design-visual-dashboard|L2-design-visual-dashboard]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-apply-rest-apis-for-data|L2-apply-rest-apis-for-data]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-design-visual-dashboard|L2-design-visual-dashboard]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/api-key-management|api-key-management]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/azure-iot-hub-components|azure-iot-hub-components]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/dashboard-requirements-implementation|dashboard-requirements-implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/device-provisioning-methods|device-provisioning-methods]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/enterprise-application-data-orchestration|enterprise-application-data-orchestration]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/iot-cloud-platform-architecture|iot-cloud-platform-architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/iot-data-visualization|iot-data-visualization]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-format-definition|json-data-format-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-retrieval|json-data-retrieval]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-submission|json-data-submission]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/rest-api-definition|rest-api-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/restful-service-interaction|restful-service-interaction]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/visual-dashboard-design|visual-dashboard-design]]"
 ---
 
 # IoT Cloud
@@ -22,10 +36,10 @@ Integrating IoT devices with cloud platforms and orchestrating data using APIs a
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-azure-iot-hub-architecture-and-security|L2- Azure IoT Hub Architecture and Security]]
+- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L1-azure-iot-hub-architecture-and-security|L2- Azure IoT Hub Architecture and Security]]
 - [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L1-define-apis-and-json|L1- Define APIs and JSON]]
-- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L3-apply-rest-apis-for-data|L3- Apply REST APIs for Data]]
-- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L3-design-visual-dashboard|L3- Design Visual Dashboard]]
+- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-apply-rest-apis-for-data|L3- Apply REST APIs for Data]]
+- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-design-visual-dashboard|L3- Design Visual Dashboard]]
 
 ## Microskills
 

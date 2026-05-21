@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/continuous-deployment-principles|Continuous Deployment Principles]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/continuous-deployment-principles|continuous-deployment-principles]]"
 ---
 # Understanding Continuous Deployment Principles
 

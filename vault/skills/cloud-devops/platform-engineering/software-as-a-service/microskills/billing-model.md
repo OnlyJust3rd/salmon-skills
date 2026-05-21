@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Billing Model"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-parent-macro: "Software as a Service"
-parent-competency: "L4- Analyze SaaS Tenancy Billing and Operational Trade-offs"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/software-as-a-service/software-as-a-service|software-as-a-service]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L3-analyze-saas-tenancy-billing-and-operational-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Billing Model
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/software-as-a-service/s
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L4-analyze-saas-tenancy-billing-and-operational-trade-offs|L4- Analyze SaaS Tenancy Billing and Operational Trade-offs]]
+- [[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L4- Analyze SaaS Tenancy Billing and Operational Trade-offs]]
 
 ## Description
 

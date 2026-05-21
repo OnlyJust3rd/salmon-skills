@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|Efficiency Definition]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|efficiency-definition]]"
 ---
 # Understanding Parallel Computing Efficiency
 

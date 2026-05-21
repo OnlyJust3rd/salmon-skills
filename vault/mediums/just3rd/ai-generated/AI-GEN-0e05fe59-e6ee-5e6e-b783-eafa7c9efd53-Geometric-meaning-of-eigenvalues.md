@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvalues|Geometric meaning of eigenvalues]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvalues|geometric-meaning-of-eigenvalues]]"
 ---
 # The Geometric Meaning of Eigenvalues
 

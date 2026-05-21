@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Domestic Taxable Income Criteria"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Income Tax Fundamentals"
-parent-competency: "L2- Describe domestic and international taxable income"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/income-tax-fundamentals/income-tax-fundamentals|income-tax-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/income-tax-fundamentals/competencies/L1-describe-domestic-and-international-taxable-income|L1-describe-domestic-and-international-taxable-income]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Domestic Taxable Income Criteria
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/income-tax-fundamentals/inco
 
 Parent competency:
 
-- [[skills/business-it/business-product/income-tax-fundamentals/competencies/L2-describe-domestic-and-international-taxable-income|L2- Describe domestic and international taxable income]]
+- [[skills/business-it/business-product/income-tax-fundamentals/competencies/L1-describe-domestic-and-international-taxable-income|L2- Describe domestic and international taxable income]]
 
 ## Description
 

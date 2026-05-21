@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/component-design-adherence-to-constraints|Component Design Adherence to Constraints]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/component-design-adherence-to-constraints|component-design-adherence-to-constraints]]"
 ---
 # Designing Components with Constraints
 

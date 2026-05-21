@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-model-to-graph-mapping|Signal Model-to-Graph Mapping]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-model-to-graph-mapping|signal-model-to-graph-mapping]]"
 ---
 # Mapping Signal Models to Graphs
 

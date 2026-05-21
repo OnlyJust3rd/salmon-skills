@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/data-processing-scope|Data Processing Scope]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/data-processing-scope|data-processing-scope]]"
 ---
 # Understanding the Scope of Data Processing Under PDPA
 

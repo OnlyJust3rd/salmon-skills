@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/matrix-representation|Matrix Representation]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/matrix-representation|matrix-representation]]"
 ---
 # Matrix Representation for Discrete Structures
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/digital-signature-generation-el-gamal|Digital Signature Generation (El Gamal)]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/digital-signature-generation-el-gamal|digital-signature-generation-el-gamal]]"
 ---
 # El Gamal Digital Signature Generation
 

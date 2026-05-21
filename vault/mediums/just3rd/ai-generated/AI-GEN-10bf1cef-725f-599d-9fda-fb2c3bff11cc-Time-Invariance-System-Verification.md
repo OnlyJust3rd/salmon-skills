@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-system-verification|Time-Invariance System Verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-system-verification|time-invariance-system-verification]]"
 ---
 # Verifying Time-Invariance in Systems
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/spherical-to-rectangular-conversion-formulas|Spherical to rectangular conversion formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/spherical-to-rectangular-conversion-formulas|spherical-to-rectangular-conversion-formulas]]"
 ---
 # Spherical to Rectangular Coordinate Conversion Formulas
 

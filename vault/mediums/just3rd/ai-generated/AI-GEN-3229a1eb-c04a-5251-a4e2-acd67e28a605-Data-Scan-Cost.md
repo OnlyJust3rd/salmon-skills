@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/google-bigquery/microskills/data-scan-cost|Data Scan Cost]]"
+  - "[[skills/data/data-platforms/google-bigquery/microskills/data-scan-cost|data-scan-cost]]"
 ---
 # Understanding BigQuery Data Scan Costs
 

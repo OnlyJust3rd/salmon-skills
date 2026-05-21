@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/motivational-theory-application|Motivational Theory Application]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/motivational-theory-application|motivational-theory-application]]"
 ---
 # Applying Motivational Theories in Game Design
 

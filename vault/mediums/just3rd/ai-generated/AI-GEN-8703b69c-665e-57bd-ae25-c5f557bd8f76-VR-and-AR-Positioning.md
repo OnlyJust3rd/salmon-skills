@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/vr-and-ar-positioning|VR and AR Positioning]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/vr-and-ar-positioning|vr-and-ar-positioning]]"
 ---
 # Understanding VR and AR within the Virtuality Continuum
 

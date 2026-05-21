@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/solder-mask-layer|Solder Mask Layer]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/solder-mask-layer|solder-mask-layer]]"
 ---
 # Understanding the Solder Mask Layer in PCB Design
 

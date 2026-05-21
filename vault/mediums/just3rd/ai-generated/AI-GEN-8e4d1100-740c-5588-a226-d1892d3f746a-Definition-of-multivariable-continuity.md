@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/definition-of-multivariable-continuity|Definition of multivariable continuity]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/definition-of-multivariable-continuity|definition-of-multivariable-continuity]]"
 ---
 # Understanding the Definition of Multivariable Continuity
 

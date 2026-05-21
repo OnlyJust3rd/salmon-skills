@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/windowing-transformation|Windowing Transformation]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/windowing-transformation|windowing-transformation]]"
 ---
 # Windowing Transformation: Mapping World to View
 

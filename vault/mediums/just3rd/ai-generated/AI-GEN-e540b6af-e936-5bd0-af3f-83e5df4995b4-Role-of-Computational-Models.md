@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-model-understanding/microskills/role-of-computational-models|Role of Computational Models]]"
+  - "[[skills/programming/algorithms/computational-model-understanding/microskills/role-of-computational-models|role-of-computational-models]]"
 ---
 # The "Why" Behind Theoretical Models in Computer Science
 

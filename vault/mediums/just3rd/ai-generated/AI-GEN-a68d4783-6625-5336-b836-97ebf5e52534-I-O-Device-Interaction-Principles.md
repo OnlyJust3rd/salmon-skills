@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/i-o-device-interaction-principles|I/O Device Interaction Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/i-o-device-interaction-principles|i-o-device-interaction-principles]]"
 ---
 # Understanding How Input/Output Devices Interact with Your Computer
 

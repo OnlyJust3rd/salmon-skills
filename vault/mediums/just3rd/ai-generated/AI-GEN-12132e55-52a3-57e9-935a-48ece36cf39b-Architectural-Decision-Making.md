@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/architectural-decision-making|Architectural Decision Making]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/architectural-decision-making|architectural-decision-making]]"
 ---
 # Architectural Decision Making for Cloud Infrastructure
 

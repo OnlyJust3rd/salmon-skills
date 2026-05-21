@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "MPEG Compression Efficiency"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Image Compression"
-parent-competency: "L2- Compression trade-offs and MPEG efficiency"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/image-compression/image-compression|image-compression]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/image-compression/competencies/L1-compression-trade-offs-and-mpeg-efficiency|L1-compression-trade-offs-and-mpeg-efficiency]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # MPEG Compression Efficiency
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/image-compression/image-com
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/image-compression/competencies/L2-compression-trade-offs-and-mpeg-efficiency|L2- Compression trade-offs and MPEG efficiency]]
+- [[skills/creative-media/graphics-media/image-compression/competencies/L1-compression-trade-offs-and-mpeg-efficiency|L2- Compression trade-offs and MPEG efficiency]]
 
 ## Description
 

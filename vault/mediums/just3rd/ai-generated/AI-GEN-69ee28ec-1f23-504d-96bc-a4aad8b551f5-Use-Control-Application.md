@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/use-control-application|Use Control Application]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/use-control-application|use-control-application]]"
 ---
 # Using Control Applications for Copyright Protection
 

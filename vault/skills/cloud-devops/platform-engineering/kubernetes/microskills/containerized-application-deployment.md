@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Containerized Application Deployment"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Kubernetes"
-parent-competency: "L3- Deploy Application with Kubernetes Deployment"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/kubernetes/kubernetes|kubernetes]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-deploy-application-with-kubernetes-deployment|L2-deploy-application-with-kubernetes-deployment]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Containerized Application Deployment
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/kubernetes/kubernetes|K
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L3-deploy-application-with-kubernetes-deployment|L3- Deploy Application with Kubernetes Deployment]]
+- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-deploy-application-with-kubernetes-deployment|L3- Deploy Application with Kubernetes Deployment]]
 
 ## Description
 

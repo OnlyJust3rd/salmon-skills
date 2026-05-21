@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Fundamental Signal Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Signal Representation and Classification"
-parent-competency: "L1- Signal Fundamentals"
+  - "microskill"
+parent-skill: "[[skills/mathematics/signal-representation-and-classification/signal-representation-and-classification|signal-representation-and-classification]]"
+requires-in-competencies:
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1-signal-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Fundamental Signal Components
@@ -15,7 +17,7 @@ Parent macro: [[signal-representation-and-classification|Signal Representation a
 
 Parent competency:
 
-- [[L1-signal-fundamentals|L1- Signal Fundamentals]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1- Signal Fundamentals]]
 
 ## Description
 

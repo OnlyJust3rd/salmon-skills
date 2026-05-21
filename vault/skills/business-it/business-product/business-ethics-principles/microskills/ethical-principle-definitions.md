@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Ethical Principle Definitions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Business Ethics Principles"
-parent-competency: "L2- Explain Ethical Principles"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/business-ethics-principles/business-ethics-principles|business-ethics-principles]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/business-ethics-principles/competencies/L1-explain-ethical-principles|L1-explain-ethical-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Ethical Principle Definitions
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/business-ethics-principles/b
 
 Parent competency:
 
-- [[skills/business-it/business-product/business-ethics-principles/competencies/L2-explain-ethical-principles|L2- Explain Ethical Principles]]
+- [[skills/business-it/business-product/business-ethics-principles/competencies/L1-explain-ethical-principles|L2- Explain Ethical Principles]]
 
 ## Description
 

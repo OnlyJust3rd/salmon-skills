@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/phasor-amplitude-analysis|Phasor Amplitude Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/phasor-amplitude-analysis|phasor-amplitude-analysis]]"
 ---
 # Understanding Phasor Amplitude
 

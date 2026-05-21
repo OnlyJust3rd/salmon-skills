@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-robustness|Attack Impact on Robustness]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-robustness|attack-impact-on-robustness]]"
 ---
 # Understanding Attack Impact on Watermarking Robustness
 

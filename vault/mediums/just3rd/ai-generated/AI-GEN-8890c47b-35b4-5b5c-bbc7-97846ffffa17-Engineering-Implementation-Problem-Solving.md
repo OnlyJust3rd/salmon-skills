@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-implementation-problem-solving|Engineering Implementation Problem Solving]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-implementation-problem-solving|engineering-implementation-problem-solving]]"
 ---
 # Resolving Engineering Implementation Challenges
 

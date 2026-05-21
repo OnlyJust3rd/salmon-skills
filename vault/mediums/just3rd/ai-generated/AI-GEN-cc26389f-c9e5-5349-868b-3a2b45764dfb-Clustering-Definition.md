@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/clustering-definition|Clustering Definition]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/clustering-definition|clustering-definition]]"
 ---
 # Understanding Clustering in IoT Data
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Alternating series convergence determination"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Sequence and Series Convergence"
-parent-competency: "L3- Apply Alternating Series Test"
+  - "microskill"
+parent-skill: "[[skills/mathematics/sequence-and-series-convergence/sequence-and-series-convergence|sequence-and-series-convergence]]"
+requires-in-competencies:
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-apply-alternating-series-test|L2-apply-alternating-series-test]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Alternating series convergence determination
@@ -15,7 +17,7 @@ Parent macro: [[sequence-and-series-convergence|Sequence and Series Convergence]
 
 Parent competency:
 
-- [[L3-apply-alternating-series-test|L3- Apply Alternating Series Test]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L2-apply-alternating-series-test|L3- Apply Alternating Series Test]]
 
 ## Description
 

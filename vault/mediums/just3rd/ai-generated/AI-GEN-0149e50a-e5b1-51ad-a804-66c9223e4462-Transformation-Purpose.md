@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/transformation-purpose|Transformation Purpose]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/transformation-purpose|transformation-purpose]]"
 ---
 # Understanding the Purpose of Geometric Transformations
 

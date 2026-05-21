@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/cloud-network-isolation|Cloud Network Isolation]]"
+  - "[[skills/systems/networking/network-layer/microskills/cloud-network-isolation|cloud-network-isolation]]"
 ---
 # Cloud Network Isolation with VPCs
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/ml-task-types|ML Task Types]]"
+  - "[[skills/data/data-science/machine-learning/microskills/ml-task-types|ml-task-types]]"
 ---
 # Understanding Machine Learning Task Types
 

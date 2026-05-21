@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/3d-transformation-application|3D Transformation Application]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/3d-transformation-application|3d-transformation-application]]"
 ---
 # Applying 3D Transformations: Translation, Scaling, and Rotation
 

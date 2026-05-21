@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/reduced-operational-overhead|Reduced Operational Overhead]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/reduced-operational-overhead|reduced-operational-overhead]]"
 ---
 # Serverless: The Beauty of Reduced Operational Overhead
 

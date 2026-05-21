@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Navigation Principle Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Mobile Robot Navigation"
-parent-competency: "L3- Implement SIMBot Navigation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/competencies/L2-implement-simbot-navigation|L2-implement-simbot-navigation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Navigation Principle Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/mo
 
 Parent competency:
 
-- [[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/competencies/L3-implement-simbot-navigation|L3- Implement SIMBot Navigation]]
+- [[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/competencies/L2-implement-simbot-navigation|L3- Implement SIMBot Navigation]]
 
 ## Description
 

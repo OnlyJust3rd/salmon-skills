@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/game-storytelling-components|Game Storytelling Components]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/game-storytelling-components|game-storytelling-components]]"
 ---
 # Game Storytelling Components: Deconstructing Narrative Elements
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/interval-of-convergence-calculation|Interval of convergence calculation]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/interval-of-convergence-calculation|interval-of-convergence-calculation]]"
 ---
 # Calculating the Interval of Convergence for Power Series
 

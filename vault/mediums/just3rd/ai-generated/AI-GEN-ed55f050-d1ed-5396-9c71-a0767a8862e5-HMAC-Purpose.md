@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/hmac-purpose|HMAC Purpose]]"
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/hmac-purpose|hmac-purpose]]"
 ---
 # Understanding HMAC Purpose
 

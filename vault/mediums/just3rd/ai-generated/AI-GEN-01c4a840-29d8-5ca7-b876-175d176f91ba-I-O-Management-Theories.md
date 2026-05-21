@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/i-o-management-theories|I/O Management Theories]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/i-o-management-theories|i-o-management-theories]]"
 ---
 # Understanding Operating System I/O Management Theories
 

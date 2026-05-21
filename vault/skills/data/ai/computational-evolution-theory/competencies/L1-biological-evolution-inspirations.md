@@ -1,20 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Biological Evolution Inspirations"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Computational Evolution Theory"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Fundamental Robotics Concepts"
-  - "L1- Identify Reactive Control Paradigms and Examples"
-  - "L1- Define Fuzzy Logic and Controllers"
+  - "[[skills/data/ai/soft-computing/competencies/L1-define-fuzzy-logic-and-controllers|L1-define-fuzzy-logic-and-controllers]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-define-fundamental-robotics-concepts|L1-define-fundamental-robotics-concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-identify-reactive-control-paradigms-and-examples|L1-identify-reactive-control-paradigms-and-examples]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/ai/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
+requires-microskills:
+  - "[[skills/data/ai/computational-evolution-theory/microskills/biological-inspirations-for-computational-models|biological-inspirations-for-computational-models]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/evolutionary-concepts-in-computing|evolutionary-concepts-in-computing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Biological Evolution Inspirations

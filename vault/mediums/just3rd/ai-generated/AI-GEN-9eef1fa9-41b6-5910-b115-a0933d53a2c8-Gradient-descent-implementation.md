@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/gradient-descent-implementation|Gradient descent implementation]]"
+  - "[[skills/data/data-science/machine-learning/microskills/gradient-descent-implementation|gradient-descent-implementation]]"
 ---
 # Implementing Gradient Descent for Model Training
 

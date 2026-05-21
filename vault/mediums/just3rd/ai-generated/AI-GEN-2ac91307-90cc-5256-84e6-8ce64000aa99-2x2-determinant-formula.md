@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/2x2-determinant-formula|2x2 determinant formula]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/2x2-determinant-formula|2x2-determinant-formula]]"
 ---
 # Calculating 2x2 Determinants
 

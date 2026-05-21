@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/compute-storage-separation|Compute-Storage Separation]]"
+  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/compute-storage-separation|compute-storage-separation]]"
 ---
 # Compute-Storage Separation in Cloud Data Warehouses
 

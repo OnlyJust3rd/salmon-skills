@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/power-consumption-trade-offs|Power Consumption Trade-offs]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/power-consumption-trade-offs|power-consumption-trade-offs]]"
 ---
 # Evaluating Power Consumption for Embedded Communication Protocols
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/business-idea-refinement|Business Idea Refinement]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/business-idea-refinement|business-idea-refinement]]"
 ---
 # Refining Business Ideas with the Build-Measure-Learn Cycle
 

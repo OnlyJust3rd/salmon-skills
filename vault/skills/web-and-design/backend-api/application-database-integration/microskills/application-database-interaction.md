@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Application-Database Interaction"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 241 - Database Systems"
-parent-macro: "Application Database Integration"
-parent-competency: "L3- Integrate App with Database in 3-Tier Architecture"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/application-database-integration/application-database-integration|application-database-integration]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L2-integrate-app-with-database-in-3-tier-architecture]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Application-Database Interaction
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/backend-api/application-database-integrati
 
 Parent competency:
 
-- [[skills/web-and-design/backend-api/application-database-integration/competencies/L3-integrate-app-with-database-in-3-tier-architecture|L3- Integrate App with Database in 3-Tier Architecture]]
+- [[skills/web-and-design/backend-api/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L3- Integrate App with Database in 3-Tier Architecture]]
 
 ## Description
 

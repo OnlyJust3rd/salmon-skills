@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Hash Functions"
 tags:
   - "cpe"
   - "competency"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Cryptographic Fundamentals"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain and Define Propositional Logic"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/competencies/L1-explain-and-define-propositional-logic|L1-explain-and-define-propositional-logic]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/security/cybersecurity/cryptographic-fundamentals/cryptographic-fundamentals|cryptographic-fundamentals]]"
+requires-microskills:
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/common-cryptographic-hash-functions|common-cryptographic-hash-functions]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-identification|cryptographic-hash-function-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Hash Functions
@@ -25,7 +26,7 @@ List examples of common cryptographic one-way hash functions.
 
 ## Strict Prerequisites
 
-- [[skills/hardware-embedded/electronics-embedded/logical-reasoning/competencies/L2-explain-and-define-propositional-logic|L2- Explain and Define Propositional Logic]]
+- [[skills/hardware-embedded/electronics-embedded/logical-reasoning/competencies/L1-explain-and-define-propositional-logic|L2- Explain and Define Propositional Logic]]
 
 ## Optional Prerequisites
 

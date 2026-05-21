@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- CAD Tools Identification"
 tags:
   - "cpe"
   - "competency"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "CAD Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/design-fabrication/cad-design/cad-design|cad-design]]"
+requires-microskills:
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-tool-primary-functions|cad-tool-primary-functions]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/computer-aided-design-software|computer-aided-design-software]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/engineering-design-software-identification|engineering-design-software-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- CAD Tools Identification

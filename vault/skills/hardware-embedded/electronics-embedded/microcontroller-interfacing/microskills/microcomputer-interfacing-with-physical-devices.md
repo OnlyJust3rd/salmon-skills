@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Microcomputer Interfacing with Physical Devices"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Microcontroller Interfacing"
-parent-competency: "L3- Physical Device Interfacing"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/microcontroller-interfacing|microcontroller-interfacing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/competencies/L2-physical-device-interfacing|L2-physical-device-interfacing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Microcomputer Interfacing with Physical Devices
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/microcontroller-in
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/competencies/L3-physical-device-interfacing|L3- Physical Device Interfacing]]
+- [[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/competencies/L2-physical-device-interfacing|L3- Physical Device Interfacing]]
 
 ## Description
 

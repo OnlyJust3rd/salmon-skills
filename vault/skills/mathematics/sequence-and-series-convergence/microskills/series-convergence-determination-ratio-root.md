@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Series convergence determination (Ratio/Root)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Sequence and Series Convergence"
-parent-competency: "L3- Ratio and Root Tests"
+  - "microskill"
+parent-skill: "[[skills/mathematics/sequence-and-series-convergence/sequence-and-series-convergence|sequence-and-series-convergence]]"
+requires-in-competencies:
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L2-ratio-and-root-tests|L2-ratio-and-root-tests]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Series convergence determination (Ratio/Root)
@@ -15,7 +17,7 @@ Parent macro: [[sequence-and-series-convergence|Sequence and Series Convergence]
 
 Parent competency:
 
-- [[L3-ratio-and-root-tests|L3- Ratio and Root Tests]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L2-ratio-and-root-tests|L3- Ratio and Root Tests]]
 
 ## Description
 

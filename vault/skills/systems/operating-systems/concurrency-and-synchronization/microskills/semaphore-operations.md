@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Semaphore Operations"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Concurrency and Synchronization"
-parent-competency: "L2- Explain Synchronization Primitive Operation"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/concurrency-and-synchronization/concurrency-and-synchronization|concurrency-and-synchronization]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L1-explain-synchronization-primitive-operation|L1-explain-synchronization-primitive-operation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Semaphore Operations
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/concurrency-and-synchronization
 
 Parent competency:
 
-- [[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L2-explain-synchronization-primitive-operation|L2- Explain Synchronization Primitive Operation]]
+- [[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L1-explain-synchronization-primitive-operation|L2- Explain Synchronization Primitive Operation]]
 
 ## Description
 

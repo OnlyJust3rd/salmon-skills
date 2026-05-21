@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/network-loop-prevention|Network Loop Prevention]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/network-loop-prevention|network-loop-prevention]]"
 ---
 # Understanding Network Loops and STP
 

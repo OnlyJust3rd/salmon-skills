@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/enhancing-realism|Enhancing Realism]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/enhancing-realism|enhancing-realism]]"
 ---
 # Understanding Shading for Realism
 

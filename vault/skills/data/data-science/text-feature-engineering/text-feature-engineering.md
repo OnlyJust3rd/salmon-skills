@@ -1,17 +1,39 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Text Feature Engineering"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 393 - Text Analytics"
-coverage:
-  - "Implementation"
-  - "Concept"
-competency-count: 3
-microskill-count: 21
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-393-text-analytics"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-science/text-feature-engineering/competencies/L1-define-and-identify-text-representations|L1-define-and-identify-text-representations]]"
+  - "[[skills/data/data-science/text-feature-engineering/competencies/L1-explain-text-representation-principles|L1-explain-text-representation-principles]]"
+  - "[[skills/data/data-science/text-feature-engineering/competencies/L2-apply-text-feature-engineering-techniques|L2-apply-text-feature-engineering-techniques]]"
+standard-competency:
+  - "[[skills/data/data-science/text-feature-engineering/competencies/L2-apply-text-feature-engineering-techniques|L2-apply-text-feature-engineering-techniques]]"
+microskills:
+  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-bow-concept|bag-of-words-bow-concept]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-implementation|bag-of-words-implementation]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-principle|bag-of-words-principle]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/co-occurrence-matrix-generation|co-occurrence-matrix-generation]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/co-occurrence-matrix-identification|co-occurrence-matrix-identification]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/discrete-text-representations|discrete-text-representations]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/distributed-text-representations|distributed-text-representations]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/document-term-matrix-construction|document-term-matrix-construction]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-application|glove-application]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-principle|glove-principle]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-representation-definition|glove-representation-definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/numerical-text-representation|numerical-text-representation]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/one-hot-encoding-application|one-hot-encoding-application]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/one-hot-encoding-definition|one-hot-encoding-definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/similarity-calculation-via-text-representations|similarity-calculation-via-text-representations]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-application|tf-idf-application]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-definition|tf-idf-definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-principle-explanation|tf-idf-principle-explanation]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-application|word2vec-application]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-cbow-skip-gram-concepts|word2vec-cbow-skip-gram-concepts]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-principle|word2vec-principle]]"
 ---
 
 # Text Feature Engineering
@@ -21,8 +43,8 @@ Transform textual data into numerical representations using discrete and distrib
 ## Competencies
 
 - [[skills/data/data-science/text-feature-engineering/competencies/L1-define-and-identify-text-representations|L1- Define and Identify Text Representations]]
-- [[skills/data/data-science/text-feature-engineering/competencies/L2-explain-text-representation-principles|L2- Explain Text Representation Principles]]
-- [[skills/data/data-science/text-feature-engineering/competencies/L3-apply-text-feature-engineering-techniques|L3- Apply Text Feature Engineering Techniques]]
+- [[skills/data/data-science/text-feature-engineering/competencies/L1-explain-text-representation-principles|L2- Explain Text Representation Principles]]
+- [[skills/data/data-science/text-feature-engineering/competencies/L2-apply-text-feature-engineering-techniques|L3- Apply Text Feature Engineering Techniques]]
 
 ## Microskills
 

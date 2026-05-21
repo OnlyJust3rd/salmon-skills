@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/data-visualization-creation|Data Visualization Creation]]"
+  - "[[skills/programming/programming-languages/python/microskills/data-visualization-creation|data-visualization-creation]]"
 ---
 # Creating Basic Plots with Matplotlib
 

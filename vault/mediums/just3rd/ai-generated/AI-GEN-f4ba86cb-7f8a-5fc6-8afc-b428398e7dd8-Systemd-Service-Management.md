@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/systemd-service-management|Systemd Service Management]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/systemd-service-management|systemd-service-management]]"
 ---
 # Managing System Services with Systemd
 

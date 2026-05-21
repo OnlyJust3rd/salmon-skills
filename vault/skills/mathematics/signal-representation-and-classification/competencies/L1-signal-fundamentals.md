@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Signal Fundamentals"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Signal Representation and Classification"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and Represent Systems"
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1-define-and-represent-systems]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/signal-representation-and-classification/signal-representation-and-classification|signal-representation-and-classification]]"
+requires-microskills:
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/fundamental-signal-components|fundamental-signal-components]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/mathematical-signal-models|mathematical-signal-models]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-classifications|signal-classifications]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/standard-signal-functions|standard-signal-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Signal Fundamentals
@@ -25,7 +28,7 @@ Identify and define the fundamental components, types, and mathematical function
 
 ## Strict Prerequisites
 
-- [[L1-define-and-represent-systems|L1- Define and Represent Systems]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1- Define and Represent Systems]]
 
 ## Optional Prerequisites
 

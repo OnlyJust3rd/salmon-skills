@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/positive-definite-characteristics|Positive definite characteristics]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/positive-definite-characteristics|positive-definite-characteristics]]"
 ---
 # Positive Definite Quadratic Forms: Key Characteristics
 

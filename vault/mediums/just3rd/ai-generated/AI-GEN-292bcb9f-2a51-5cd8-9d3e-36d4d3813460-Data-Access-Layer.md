@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/data-access-layer|Data Access Layer]]"
-  - "[[skills/web-and-design/backend-api/backend-web-api-concept/microskills/data-access-layer|Data access layer]]"
+  - "[[skills/data/databases/database-system/microskills/data-access-layer|data-access-layer]]"
+  - "[[skills/web-and-design/backend-api/backend-web-api-concept/microskills/data-access-layer|data-access-layer]]"
 ---
 # The Data Access Layer: Your Database Gateway
 

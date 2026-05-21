@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/electric-vehicle-environmental-drawbacks|Electric Vehicle Environmental Drawbacks]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/electric-vehicle-environmental-drawbacks|electric-vehicle-environmental-drawbacks]]"
 ---
 # Electric Vehicle Environmental Drawbacks
 

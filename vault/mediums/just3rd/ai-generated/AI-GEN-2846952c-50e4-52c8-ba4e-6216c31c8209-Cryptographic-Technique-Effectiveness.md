@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/cryptographic-technique-effectiveness|Cryptographic Technique Effectiveness]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/cryptographic-technique-effectiveness|cryptographic-technique-effectiveness]]"
 ---
 # Evaluating Cryptographic Technique Effectiveness
 

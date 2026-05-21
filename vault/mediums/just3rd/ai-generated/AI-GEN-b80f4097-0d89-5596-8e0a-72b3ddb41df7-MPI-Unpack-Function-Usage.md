@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-unpack-function-usage|MPI Unpack Function Usage]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-unpack-function-usage|mpi-unpack-function-usage]]"
 ---
 # Understanding MPI_Unpack for Reconstructing Packed Data
 

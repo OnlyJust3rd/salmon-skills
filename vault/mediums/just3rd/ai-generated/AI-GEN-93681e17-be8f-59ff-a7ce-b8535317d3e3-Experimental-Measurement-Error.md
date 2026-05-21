@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/experimental-measurement-error|Experimental Measurement Error]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/experimental-measurement-error|experimental-measurement-error]]"
 ---
 # Experimental Measurement Error
 

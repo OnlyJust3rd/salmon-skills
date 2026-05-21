@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/restful-api/microskills/http-method-semantics|HTTP method semantics]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/http-method-semantics|http-method-semantics]]"
 ---
 # Understanding HTTP Methods and CRUD
 

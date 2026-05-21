@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/algorithmic-paradigm-identification|Algorithmic Paradigm Identification]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/algorithmic-paradigm-identification|algorithmic-paradigm-identification]]"
 ---
 # Algorithmic Paradigm Identification
 

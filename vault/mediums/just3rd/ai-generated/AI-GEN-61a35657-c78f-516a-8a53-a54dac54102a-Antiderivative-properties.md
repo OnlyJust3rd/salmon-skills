@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/antiderivative-properties|Antiderivative properties]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/antiderivative-properties|antiderivative-properties]]"
 ---
 # Antiderivative Properties
 

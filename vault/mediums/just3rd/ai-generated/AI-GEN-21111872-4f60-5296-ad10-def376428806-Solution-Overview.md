@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/solution-overview|Solution Overview]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/solution-overview|solution-overview]]"
 ---
 # Startup Pitch Decks: The Solution Overview
 

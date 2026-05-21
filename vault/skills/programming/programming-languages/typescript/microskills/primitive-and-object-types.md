@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Primitive and object types"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "TypeScript"
-parent-competency: "L2- Explain TypeScript Types and Compilation to JavaScript"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/typescript/typescript|typescript]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/typescript/competencies/L1-explain-typescript-types-and-compilation-to-javascript|L1-explain-typescript-types-and-compilation-to-javascript]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Primitive and object types
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/typescript/typescript|T
 
 Parent competency:
 
-- [[skills/programming/programming-languages/typescript/competencies/L2-explain-typescript-types-and-compilation-to-javascript|L2- Explain TypeScript Types and Compilation to JavaScript]]
+- [[skills/programming/programming-languages/typescript/competencies/L1-explain-typescript-types-and-compilation-to-javascript|L2- Explain TypeScript Types and Compilation to JavaScript]]
 
 ## Description
 

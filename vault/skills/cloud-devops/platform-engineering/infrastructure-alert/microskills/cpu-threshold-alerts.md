@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "CPU Threshold Alerts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure Alert"
-parent-competency: "L1- Infrastructure event types"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-alert/infrastructure-alert|infrastructure-alert]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/competencies/L1-infrastructure-event-types|L1-infrastructure-event-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # CPU Threshold Alerts

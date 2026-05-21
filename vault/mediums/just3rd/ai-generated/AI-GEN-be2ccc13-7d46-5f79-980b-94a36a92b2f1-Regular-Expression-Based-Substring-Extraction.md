@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-based-substring-extraction|Regular Expression-Based Substring Extraction]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-based-substring-extraction|regular-expression-based-substring-extraction]]"
 ---
 # Extracting Specific Text Segments with Regular Expressions
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/azure-bicep-syntax|Azure Bicep Syntax]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/azure-bicep-syntax|azure-bicep-syntax]]"
 ---
 # Understanding Azure Bicep Syntax
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-risk-assessment|Market Risk Assessment]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-risk-assessment|market-risk-assessment]]"
 ---
 # Market Risk Assessment: Identifying Threats
 

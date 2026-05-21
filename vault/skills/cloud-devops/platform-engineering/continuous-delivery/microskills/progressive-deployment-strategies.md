@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Progressive Deployment Strategies"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - DevOps skills"
-parent-macro: "Continuous Delivery"
-parent-competency: "L2- Explain Continuous Delivery and Deployment Strategies"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/continuous-delivery/continuous-delivery|continuous-delivery]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/competencies/L1-explain-continuous-delivery-and-deployment-strategies|L1-explain-continuous-delivery-and-deployment-strategies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Progressive Deployment Strategies
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/continuous-delivery/con
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/continuous-delivery/competencies/L2-explain-continuous-delivery-and-deployment-strategies|L2- Explain Continuous Delivery and Deployment Strategies]]
+- [[skills/cloud-devops/platform-engineering/continuous-delivery/competencies/L1-explain-continuous-delivery-and-deployment-strategies|L2- Explain Continuous Delivery and Deployment Strategies]]
 
 ## Description
 

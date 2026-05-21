@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/purpose-of-analysis-in-iot|Purpose of Analysis in IoT]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/purpose-of-analysis-in-iot|purpose-of-analysis-in-iot]]"
 ---
 # Understanding the Purpose of Analysis in IoT
 

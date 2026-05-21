@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/bml-cycle-stages|BML Cycle Stages]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/bml-cycle-stages|bml-cycle-stages]]"
 ---
 # The Build-Measure-Learn (BML) Cycle: A Foundation for Lean Startup
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/asset-reference|Asset Reference]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/asset-reference|asset-reference]]"
 ---
 # Asset Reference in Game Engines
 

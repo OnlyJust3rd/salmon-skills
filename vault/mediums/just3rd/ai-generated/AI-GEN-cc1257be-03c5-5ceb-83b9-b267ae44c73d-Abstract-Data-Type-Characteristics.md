@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/abstract-data-type-characteristics|Abstract Data Type Characteristics]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/abstract-data-type-characteristics|abstract-data-type-characteristics]]"
 ---
 # Abstract Data Type Characteristics
 

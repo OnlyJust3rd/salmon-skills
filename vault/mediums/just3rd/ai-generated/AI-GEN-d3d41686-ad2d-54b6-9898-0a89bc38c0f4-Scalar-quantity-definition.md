@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/scalar-quantity-definition|Scalar quantity definition]]"
+  - "[[skills/mathematics/vector/microskills/scalar-quantity-definition|scalar-quantity-definition]]"
 ---
 # Understanding Scalar Quantities
 

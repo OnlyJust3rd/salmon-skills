@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-data-mining-workflow-in-python-workflow-steps|Implement Data Mining Workflow in Python workflow steps]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-data-mining-workflow-in-python-workflow-steps|implement-data-mining-workflow-in-python-workflow-steps]]"
 ---
 # Implementing Data Mining Workflow Steps in Python
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Pattern Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Exploratory Data Analysis"
-parent-competency: "L4- Analyze Data for Modeling"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/exploratory-data-analysis/exploratory-data-analysis|exploratory-data-analysis]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/exploratory-data-analysis/competencies/L3-analyze-data-for-modeling|L3-analyze-data-for-modeling]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Pattern Identification
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/exploratory-data-analysis/exploratory
 
 Parent competency:
 
-- [[skills/data/data-platforms/exploratory-data-analysis/competencies/L4-analyze-data-for-modeling|L4- Analyze Data for Modeling]]
+- [[skills/data/data-platforms/exploratory-data-analysis/competencies/L3-analyze-data-for-modeling|L4- Analyze Data for Modeling]]
 
 ## Description
 

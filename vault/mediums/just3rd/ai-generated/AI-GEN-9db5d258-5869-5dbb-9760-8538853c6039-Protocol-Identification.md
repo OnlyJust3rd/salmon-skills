@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/protocol-identification|Protocol Identification]]"
+  - "[[skills/systems/networking/application-layer/microskills/protocol-identification|protocol-identification]]"
 ---
 # Protocol Identification: Knowing Your Application Layer Tools
 

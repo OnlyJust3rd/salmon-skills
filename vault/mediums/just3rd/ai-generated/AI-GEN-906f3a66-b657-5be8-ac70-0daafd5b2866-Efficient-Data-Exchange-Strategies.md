@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/efficient-data-exchange-strategies|Efficient Data Exchange Strategies]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/efficient-data-exchange-strategies|efficient-data-exchange-strategies]]"
 ---
 # Efficient Data Exchange Strategies with MPI Collective Functions
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/sequential-circuit-component-characteristics|Sequential Circuit Component Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/sequential-circuit-component-characteristics|sequential-circuit-component-characteristics]]"
 ---
 # Understanding Sequential Circuit Components: Basic Characteristics
 

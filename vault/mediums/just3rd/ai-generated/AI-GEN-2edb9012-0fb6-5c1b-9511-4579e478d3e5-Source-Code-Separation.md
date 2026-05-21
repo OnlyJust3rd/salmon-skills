@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/source-code-separation|Source Code Separation]]"
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/source-code-separation|source-code-separation]]"
 ---
 # Keeping Secrets Out of Source Code
 

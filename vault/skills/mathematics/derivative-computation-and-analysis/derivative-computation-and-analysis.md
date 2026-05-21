@@ -1,18 +1,37 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Derivative Computation and Analysis"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 101 - Mathematics I"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Analysis"
-competency-count: 5
-microskill-count: 15
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-101-mathematics-i"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L1-recall-derivative-rules|L1-recall-derivative-rules]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L1-explain-differentiation-techniques|L1-explain-differentiation-techniques]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-derivatives-for-graph-sketching-and-analysis|L2-apply-derivatives-for-graph-sketching-and-analysis]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-differentials-and-linear-approximation|L2-apply-differentials-and-linear-approximation]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-implicit-and-higher-order-differentiation|L2-apply-implicit-and-higher-order-differentiation]]"
+standard-competency:
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-derivatives-for-graph-sketching-and-analysis|L2-apply-derivatives-for-graph-sketching-and-analysis]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-differentials-and-linear-approximation|L2-apply-differentials-and-linear-approximation]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-implicit-and-higher-order-differentiation|L2-apply-implicit-and-higher-order-differentiation]]"
+microskills:
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/approximation-error-reasoning|approximation-error-reasoning]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/chain-rule-application-multivariable|chain-rule-application-multivariable]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/chain-rule-application-single-variable|chain-rule-application-single-variable]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/compute-differentials|compute-differentials]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/concavity-analysis-using-second-derivative|concavity-analysis-using-second-derivative]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/derivative-patterns-for-inverse-functions|derivative-patterns-for-inverse-functions]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/extrema-identification-using-derivatives|extrema-identification-using-derivatives]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/higher-order-derivative-computations|higher-order-derivative-computations]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/implicit-differentiation-computations|implicit-differentiation-computations]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/implicit-differentiation-purpose-and-application|implicit-differentiation-purpose-and-application]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/inflection-point-identification|inflection-point-identification]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/intervals-of-increase-and-decrease-determination|intervals-of-increase-and-decrease-determination]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/linearization-tangent-line-approximation|linearization-tangent-line-approximation]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/partial-derivative-rules|partial-derivative-rules]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/standard-derivative-rules|standard-derivative-rules]]"
 ---
 
 # Derivative Computation and Analysis
@@ -21,11 +40,11 @@ Compute derivatives of algebraic and transcendental functions using standard rul
 
 ## Competencies
 
-- [[L1-recall-derivative-rules|L1- Recall derivative rules]]
-- [[L2-explain-differentiation-techniques|L2- Explain differentiation techniques]]
-- [[L3-apply-implicit-and-higher-order-differentiation|L3- Apply implicit and higher-order differentiation]]
-- [[L3-apply-differentials-and-linear-approximation|L3- Apply differentials and linear approximation]]
-- [[L3-apply-derivatives-for-graph-sketching-and-analysis|L3- Apply derivatives for graph sketching and analysis]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L1-recall-derivative-rules|L1- Recall derivative rules]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L1-explain-differentiation-techniques|L2- Explain differentiation techniques]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-implicit-and-higher-order-differentiation|L3- Apply implicit and higher-order differentiation]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-differentials-and-linear-approximation|L3- Apply differentials and linear approximation]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-derivatives-for-graph-sketching-and-analysis|L3- Apply derivatives for graph sketching and analysis]]
 
 ## Microskills
 

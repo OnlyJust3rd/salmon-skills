@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/data-visualization-function|Data Visualization Function]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/data-visualization-function|data-visualization-function]]"
 ---
 # The Purpose of Data Visualization in HCI
 

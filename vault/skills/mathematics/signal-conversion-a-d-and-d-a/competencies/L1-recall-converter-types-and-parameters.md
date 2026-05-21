@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Recall Converter Types and Parameters"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Signal Conversion (A/D and D/A)"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Recall Logic Gate Basics"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-recall-logic-gate-basics|L1-recall-logic-gate-basics]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/signal-conversion-a-d-and-d-a/signal-conversion-a-d-and-d-a|signal-conversion-a-d-and-d-a]]"
+requires-microskills:
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/a-d-converter-types|a-d-converter-types]]"
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/converter-key-parameters|converter-key-parameters]]"
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/d-a-converter-types|d-a-converter-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Recall Converter Types and Parameters

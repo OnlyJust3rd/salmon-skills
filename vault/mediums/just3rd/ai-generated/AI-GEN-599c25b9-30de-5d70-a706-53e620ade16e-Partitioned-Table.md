@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/google-bigquery/microskills/partitioned-table|Partitioned Table]]"
+  - "[[skills/data/data-platforms/google-bigquery/microskills/partitioned-table|partitioned-table]]"
 ---
 # Understanding Partitioned Tables in BigQuery
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/mvc-layer-identification|MVC Layer Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/mvc-layer-identification|mvc-layer-identification]]"
 ---
 # MVC Layer Identification: Deconstructing Applications
 

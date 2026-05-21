@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/invertible-system-definition|Invertible System Definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/invertible-system-definition|invertible-system-definition]]"
 ---
 # Understanding Invertible Systems
 

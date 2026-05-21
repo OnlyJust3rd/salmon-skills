@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-definition|Range definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-definition|range-definition]]"
 ---
 # Understanding the Range of a Linear Transformation
 

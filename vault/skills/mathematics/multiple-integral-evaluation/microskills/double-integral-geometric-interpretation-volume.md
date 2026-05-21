@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Double integral geometric interpretation (volume)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Multiple Integral Evaluation"
-parent-competency: "L2- Explain Integral Interpretation"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multiple-integral-evaluation/multiple-integral-evaluation|multiple-integral-evaluation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L1-explain-integral-interpretation|L1-explain-integral-interpretation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Double integral geometric interpretation (volume)
@@ -15,7 +17,7 @@ Parent macro: [[multiple-integral-evaluation|Multiple Integral Evaluation]]
 
 Parent competency:
 
-- [[L2-explain-integral-interpretation|L2- Explain Integral Interpretation]]
+- [[skills/mathematics/multiple-integral-evaluation/competencies/L1-explain-integral-interpretation|L2- Explain Integral Interpretation]]
 
 ## Description
 

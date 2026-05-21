@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/event-producers|Event Producers]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/event-producers|event-producers]]"
 ---
 # Event Producers: The Spark of Event-Driven Architectures
 

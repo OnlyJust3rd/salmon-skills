@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-principle|Word2Vec Principle]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-principle|word2vec-principle]]"
 ---
 # Understanding Word2Vec Embeddings
 

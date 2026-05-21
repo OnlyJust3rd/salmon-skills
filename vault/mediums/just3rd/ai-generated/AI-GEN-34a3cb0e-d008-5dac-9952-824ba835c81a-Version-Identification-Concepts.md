@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-version-control/microskills/version-identification-concepts|Version Identification Concepts]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/version-identification-concepts|version-identification-concepts]]"
 ---
 # Understanding Version Identification in Software Development
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/multiplexer-function-explanation|Multiplexer Function Explanation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/multiplexer-function-explanation|multiplexer-function-explanation]]"
 ---
 # Understanding Multiplexers
 

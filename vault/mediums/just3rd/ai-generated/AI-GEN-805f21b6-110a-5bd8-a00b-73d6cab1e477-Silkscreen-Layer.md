@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/silkscreen-layer|Silkscreen Layer]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/silkscreen-layer|silkscreen-layer]]"
 ---
 # Understanding the Silkscreen Layer in PCB Design
 

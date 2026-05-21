@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Process Model Suitability Assessment"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Engineering"
-parent-competency: "L4- Analyze and Apply Process Models and Frameworks"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/software-engineering/software-engineering|software-engineering]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/software-engineering/competencies/L3-analyze-and-apply-process-models-and-frameworks|L3-analyze-and-apply-process-models-and-frameworks]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Process Model Suitability Assessment
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/software-engineering/sof
 
 Parent competency:
 
-- [[skills/programming/software-engineering/software-engineering/competencies/L4-analyze-and-apply-process-models-and-frameworks|L4- Analyze and Apply Process Models and Frameworks]]
+- [[skills/programming/software-engineering/software-engineering/competencies/L3-analyze-and-apply-process-models-and-frameworks|L4- Analyze and Apply Process Models and Frameworks]]
 
 ## Description
 

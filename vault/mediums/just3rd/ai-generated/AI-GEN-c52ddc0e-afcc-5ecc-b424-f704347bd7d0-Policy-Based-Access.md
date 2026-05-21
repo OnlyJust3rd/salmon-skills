@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cybersecurity/microskills/policy-based-access|Policy-Based Access]]"
+  - "[[skills/security/cybersecurity/cybersecurity/microskills/policy-based-access|policy-based-access]]"
 ---
 # Policy-Based Access Control
 

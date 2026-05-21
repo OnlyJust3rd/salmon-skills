@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/json-format/microskills/json-in-http-responses|JSON in HTTP responses]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-in-http-responses|json-in-http-responses]]"
 ---
 # JSON in HTTP Responses
 

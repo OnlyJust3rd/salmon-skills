@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Ethical Implications of HCI"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Advanced Interaction Paradigms"
-parent-competency: "L2- Explain Ethical Considerations"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-explain-ethical-considerations|L1-explain-ethical-considerations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Ethical Implications of HCI
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L2-explain-ethical-considerations|L2- Explain Ethical Considerations]]
+- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-explain-ethical-considerations|L2- Explain Ethical Considerations]]
 
 ## Description
 

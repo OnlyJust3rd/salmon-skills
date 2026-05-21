@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/2d-sketching-principles|2D Sketching Principles]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/2d-sketching-principles|2d-sketching-principles]]"
 ---
 # Understanding 2D Sketching Principles in CAD
 

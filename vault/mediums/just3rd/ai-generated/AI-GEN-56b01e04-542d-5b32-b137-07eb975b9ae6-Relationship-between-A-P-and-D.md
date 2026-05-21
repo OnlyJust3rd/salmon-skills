@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/relationship-between-a-p-and-d|Relationship between A, P, and D]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/relationship-between-a-p-and-d|relationship-between-a-p-and-d]]"
 ---
 # The Diagonalization Equation: A = PDP⁻¹
 

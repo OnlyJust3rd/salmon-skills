@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/idea-validation-principles|Idea Validation Principles]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/idea-validation-principles|idea-validation-principles]]"
 ---
 # Understanding Idea Validation Principles
 

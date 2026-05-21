@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-definitions|Flip-Flop Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-definitions|flip-flop-definitions]]"
 ---
 # Understanding Flip-Flops: The Building Blocks of Memory
 

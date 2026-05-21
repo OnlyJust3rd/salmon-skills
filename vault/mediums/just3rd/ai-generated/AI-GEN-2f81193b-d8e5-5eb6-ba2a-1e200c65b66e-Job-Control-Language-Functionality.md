@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/job-control-language-functionality|Job Control Language Functionality]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/job-control-language-functionality|job-control-language-functionality]]"
 ---
 # Understanding Job Control Language (JCL) Functionality
 

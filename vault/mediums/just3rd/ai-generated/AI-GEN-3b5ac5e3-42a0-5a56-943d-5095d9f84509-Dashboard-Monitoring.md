@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/dashboard-monitoring|Dashboard Monitoring]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/dashboard-monitoring|dashboard-monitoring]]"
 ---
 # Dashboard Monitoring for System Performance
 

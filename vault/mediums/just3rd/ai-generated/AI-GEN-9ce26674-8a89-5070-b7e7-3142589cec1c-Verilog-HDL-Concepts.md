@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-concepts|Verilog HDL Concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-concepts|verilog-hdl-concepts]]"
 ---
 # Verilog HDL: The Building Blocks of Digital Design
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-kafka/microskills/offset|Offset]]"
+  - "[[skills/data/data-platforms/apache-kafka/microskills/offset|offset]]"
 ---
 # Understanding Kafka Offsets
 

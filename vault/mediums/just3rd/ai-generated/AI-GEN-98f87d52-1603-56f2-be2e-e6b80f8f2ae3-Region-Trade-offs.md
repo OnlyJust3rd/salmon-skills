@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/region-trade-offs|Region Trade-offs]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/region-trade-offs|region-trade-offs]]"
 ---
 # Understanding Cloud Region Trade-offs
 

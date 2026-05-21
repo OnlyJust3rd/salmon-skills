@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-compute|GCP Compute]]"
+  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-compute|gcp-compute]]"
 ---
 # Understanding GCP Compute Services
 

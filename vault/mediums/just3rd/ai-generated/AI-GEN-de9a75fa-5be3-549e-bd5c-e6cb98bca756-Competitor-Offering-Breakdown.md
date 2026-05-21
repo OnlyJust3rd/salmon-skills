@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/competitor-offering-breakdown|Competitor Offering Breakdown]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/competitor-offering-breakdown|competitor-offering-breakdown]]"
 ---
 # Competitor Offering Breakdown
 

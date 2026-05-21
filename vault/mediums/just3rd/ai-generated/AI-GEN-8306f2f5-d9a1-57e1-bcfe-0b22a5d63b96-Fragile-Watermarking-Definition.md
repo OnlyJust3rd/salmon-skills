@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/fragile-watermarking-definition|Fragile Watermarking Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/fragile-watermarking-definition|fragile-watermarking-definition]]"
 ---
 # Fragile Watermarking: Detecting Tampering
 

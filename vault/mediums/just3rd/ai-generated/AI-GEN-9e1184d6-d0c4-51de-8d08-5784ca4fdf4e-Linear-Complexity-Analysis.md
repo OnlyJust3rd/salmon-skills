@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/linear-complexity-analysis|Linear Complexity Analysis]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/linear-complexity-analysis|linear-complexity-analysis]]"
 ---
 # Linear Complexity Analysis: Spotting O(n) Algorithms
 

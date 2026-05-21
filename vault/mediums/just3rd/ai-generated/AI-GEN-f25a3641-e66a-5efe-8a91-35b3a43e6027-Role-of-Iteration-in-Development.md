@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/role-of-iteration-in-development|Role of Iteration in Development]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/role-of-iteration-in-development|role-of-iteration-in-development]]"
 ---
 # The Role of Iteration in Development
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/drm-system-functionality|DRM System Functionality]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/drm-system-functionality|drm-system-functionality]]"
 ---
 # Understanding DRM System Functionality
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/express-js/microskills/error-handling-middleware|Error handling middleware]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/error-handling-middleware|error-handling-middleware]]"
 ---
 # Error Handling Middleware in Express.js
 

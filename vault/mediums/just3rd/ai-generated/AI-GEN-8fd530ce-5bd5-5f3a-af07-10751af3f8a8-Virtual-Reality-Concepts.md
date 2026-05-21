@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/virtual-reality-concepts|Virtual Reality Concepts]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/virtual-reality-concepts|virtual-reality-concepts]]"
 ---
 # Understanding Virtual Reality (VR) Concepts
 

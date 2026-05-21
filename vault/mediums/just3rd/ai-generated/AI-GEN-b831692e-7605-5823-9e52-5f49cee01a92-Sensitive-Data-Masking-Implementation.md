@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/sensitive-data-masking-implementation|Sensitive Data Masking Implementation]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/sensitive-data-masking-implementation|sensitive-data-masking-implementation]]"
 ---
 # Implementing Sensitive Data Masking
 

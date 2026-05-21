@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/structured-query-language-sql-definition|Structured Query Language (SQL) Definition]]"
+  - "[[skills/data/databases/sql/microskills/structured-query-language-sql-definition|structured-query-language-sql-definition]]"
 ---
 # Understanding Structured Query Language (SQL)
 

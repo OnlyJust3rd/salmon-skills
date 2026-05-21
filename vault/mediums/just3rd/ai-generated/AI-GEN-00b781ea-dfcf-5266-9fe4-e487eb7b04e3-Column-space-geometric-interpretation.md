@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-geometric-interpretation|Column space geometric interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-geometric-interpretation|column-space-geometric-interpretation]]"
 ---
 # Geometric Formation of the Column Space
 

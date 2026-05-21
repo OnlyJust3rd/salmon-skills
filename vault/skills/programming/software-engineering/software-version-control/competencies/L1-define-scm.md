@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define SCM"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Version Control"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/software-engineering/software-version-control/software-version-control|software-version-control]]"
+requires-microskills:
+  - "[[skills/programming/software-engineering/software-version-control/microskills/scm-key-objectives|scm-key-objectives]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/software-configuration-management-definition|software-configuration-management-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define SCM

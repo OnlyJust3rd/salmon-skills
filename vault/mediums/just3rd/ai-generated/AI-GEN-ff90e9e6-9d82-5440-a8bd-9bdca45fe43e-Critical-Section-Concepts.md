@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/critical-section-concepts|Critical Section Concepts]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/critical-section-concepts|critical-section-concepts]]"
 ---
 # Understanding Critical Sections
 

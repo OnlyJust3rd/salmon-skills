@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Historical Development of Evolutionary Theory"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Computational Evolution Theory"
-parent-competency: "L2- Evolutionary Theory History and Principles"
+  - "microskill"
+parent-skill: "[[skills/data/ai/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
+requires-in-competencies:
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L1-evolutionary-theory-history-and-principles|L1-evolutionary-theory-history-and-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Historical Development of Evolutionary Theory
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/ai/computational-evolution-theory/computational-evol
 
 Parent competency:
 
-- [[skills/data/ai/computational-evolution-theory/competencies/L2-evolutionary-theory-history-and-principles|L2- Evolutionary Theory History and Principles]]
+- [[skills/data/ai/computational-evolution-theory/competencies/L1-evolutionary-theory-history-and-principles|L2- Evolutionary Theory History and Principles]]
 
 ## Description
 

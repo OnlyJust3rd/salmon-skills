@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/multiple-access-protocols|Multiple Access Protocols]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/multiple-access-protocols|multiple-access-protocols]]"
 ---
 # Understanding Multiple Access Protocols
 

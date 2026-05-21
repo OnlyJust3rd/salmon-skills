@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/tagging-for-cost-allocation|Tagging for Cost Allocation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/tagging-for-cost-allocation|tagging-for-cost-allocation]]"
 ---
 # Tagging for Cost Allocation
 

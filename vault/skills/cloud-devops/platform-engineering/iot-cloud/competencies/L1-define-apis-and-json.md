@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define APIs and JSON"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Cloud"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L4- Analyze IoT Communication Technologies"
+  - "[[skills/systems/networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L3-analyze-iot-communication-technologies]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/cloud-devops/platform-engineering/iot-cloud/iot-cloud|iot-cloud]]"
+requires-microskills:
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-format-definition|json-data-format-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/rest-api-definition|rest-api-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define APIs and JSON
@@ -25,7 +26,7 @@ Define REST APIs and JSON data formats.
 
 ## Strict Prerequisites
 
-- [[skills/systems/networking/iot-communication-and-networking/competencies/L4-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
+- [[skills/systems/networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
 
 ## Optional Prerequisites
 

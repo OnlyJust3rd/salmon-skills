@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-supply-verification|Power Supply Verification]]"
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/power-supply-verification|Power Supply Verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-supply-verification|power-supply-verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/power-supply-verification|power-supply-verification]]"
 ---
 # Power Supply Verification
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/predicate-logic-components|Predicate Logic Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/predicate-logic-components|predicate-logic-components]]"
 ---
 # Understanding Predicate Logic Components
 

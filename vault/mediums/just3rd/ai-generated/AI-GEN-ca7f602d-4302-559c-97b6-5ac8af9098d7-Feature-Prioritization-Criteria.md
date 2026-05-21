@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/feature-prioritization-criteria|Feature Prioritization Criteria]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/feature-prioritization-criteria|feature-prioritization-criteria]]"
 ---
 # Feature Prioritization Criteria for MVPs
 

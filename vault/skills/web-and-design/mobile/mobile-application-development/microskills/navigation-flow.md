@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Navigation Flow"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Mobile Application Development"
-parent-competency: "L2- Explain Mobile Application Architecture"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/mobile/mobile-application-development/mobile-application-development|mobile-application-development]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/mobile/mobile-application-development/competencies/L1-explain-mobile-application-architecture|L1-explain-mobile-application-architecture]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Navigation Flow
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/mobile/mobile-application-development/mobi
 
 Parent competency:
 
-- [[skills/web-and-design/mobile/mobile-application-development/competencies/L2-explain-mobile-application-architecture|L2- Explain Mobile Application Architecture]]
+- [[skills/web-and-design/mobile/mobile-application-development/competencies/L1-explain-mobile-application-architecture|L2- Explain Mobile Application Architecture]]
 
 ## Description
 

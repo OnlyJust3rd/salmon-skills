@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-network-management|Virtual Network Management]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-network-management|virtual-network-management]]"
 ---
 # Virtual Network Management for Virtual Machines
 

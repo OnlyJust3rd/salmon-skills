@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/genetic-algorithm-implementation|Genetic Algorithm Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/genetic-algorithm-implementation|genetic-algorithm-implementation]]"
 ---
 # Genetic Algorithm Implementation in Java
 

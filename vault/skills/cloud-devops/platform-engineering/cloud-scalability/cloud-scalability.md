@@ -1,18 +1,26 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cloud Scalability"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 2
-microskill-count: 8
-related-jobs:
-  - "Cloud Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-azure-policy|L2-implement-azure-policy]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-vm-scale-sets|L2-implement-vm-scale-sets]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-azure-policy|L2-implement-azure-policy]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-vm-scale-sets|L2-implement-vm-scale-sets]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/autoscaling-configuration|autoscaling-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/azure-policy-compliance|azure-policy-compliance]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/azure-policy-definition|azure-policy-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/governance-rule-enforcement|governance-rule-enforcement]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/horizontal-scaling-implementation|horizontal-scaling-implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/policy-assignment|policy-assignment]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/virtual-machine-scale-sets-vmss|virtual-machine-scale-sets-vmss]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/vmss-deployment|vmss-deployment]]"
 ---
 
 # Cloud Scalability
@@ -21,8 +29,8 @@ Implement VM Scale Sets for horizontal scaling of virtual machines. Enforce gove
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L3-implement-vm-scale-sets|L3- Implement VM Scale Sets]]
-- [[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L3-implement-azure-policy|L3- Implement Azure Policy]]
+- [[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-vm-scale-sets|L3- Implement VM Scale Sets]]
+- [[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-azure-policy|L3- Implement Azure Policy]]
 
 ## Microskills
 

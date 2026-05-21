@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/principles-of-sensors|Principles of Sensors]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/principles-of-sensors|principles-of-sensors]]"
 ---
 # Principles of Sensors
 

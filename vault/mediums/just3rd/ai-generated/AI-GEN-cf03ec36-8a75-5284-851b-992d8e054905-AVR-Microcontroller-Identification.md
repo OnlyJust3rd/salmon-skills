@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/avr-microcontroller-identification|AVR Microcontroller Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/avr-microcontroller-identification|avr-microcontroller-identification]]"
 ---
 # Recognizing AVR Microcontroller Packages
 

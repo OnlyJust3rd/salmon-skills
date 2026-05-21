@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/fuzzy-logic-controller-design|Fuzzy Logic Controller Design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/fuzzy-logic-controller-design|fuzzy-logic-controller-design]]"
 ---
 # Designing a Fuzzy Logic Controller for Robot Navigation
 

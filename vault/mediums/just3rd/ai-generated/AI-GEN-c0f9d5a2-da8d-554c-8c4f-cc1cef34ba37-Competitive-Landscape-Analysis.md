@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/competitive-landscape-analysis|Competitive Landscape Analysis]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/competitive-landscape-analysis|competitive-landscape-analysis]]"
 ---
 # Competitive Landscape Analysis
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/unmoderated-usability-testing|Unmoderated Usability Testing]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/unmoderated-usability-testing|unmoderated-usability-testing]]"
 ---
 # Unmoderated Usability Testing
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/dot-product-calculation|Dot product calculation]]"
+  - "[[skills/mathematics/vector/microskills/dot-product-calculation|dot-product-calculation]]"
 ---
 # Calculating the Dot Product of Vectors
 

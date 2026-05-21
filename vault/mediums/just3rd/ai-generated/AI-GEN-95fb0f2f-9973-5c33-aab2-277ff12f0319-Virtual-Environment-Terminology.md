@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-environment-terminology|Virtual Environment Terminology]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-environment-terminology|virtual-environment-terminology]]"
 ---
 # Virtual Environment Terminology
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/iot-cloud-platform-architecture|IoT Cloud Platform Architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/iot-cloud-platform-architecture|iot-cloud-platform-architecture]]"
 ---
 # Understanding IoT Cloud Platform Architecture
 

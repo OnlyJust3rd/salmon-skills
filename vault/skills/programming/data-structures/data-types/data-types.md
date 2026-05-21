@@ -1,17 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Data Types"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 232 - Data Models"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Data Analyst"
-source-note: "courses/kmutt/cpe-2021/cpe-232-data-models"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/data-structures/data-types/competencies/L1-identify-data-types|L1-identify-data-types]]"
+standard-competency:
+  - "[[skills/programming/data-structures/data-types/competencies/L1-identify-data-types|L1-identify-data-types]]"
+microskills:
+  - "[[skills/programming/data-structures/data-types/microskills/semi-structured-data-recognition|semi-structured-data-recognition]]"
+  - "[[skills/programming/data-structures/data-types/microskills/structured-data-recognition|structured-data-recognition]]"
+  - "[[skills/programming/data-structures/data-types/microskills/unstructured-data-recognition|unstructured-data-recognition]]"
 ---
 
 # Data Types

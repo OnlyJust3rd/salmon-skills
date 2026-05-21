@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/growth-rate-ordering|Growth Rate Ordering]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/growth-rate-ordering|growth-rate-ordering]]"
 ---
 # Understanding Growth Rate Ordering of Complexity Classes
 

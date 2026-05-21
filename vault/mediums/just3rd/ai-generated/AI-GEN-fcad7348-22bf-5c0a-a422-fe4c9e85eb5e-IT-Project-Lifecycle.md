@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/it-project-lifecycle|IT Project Lifecycle]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/it-project-lifecycle|it-project-lifecycle]]"
 ---
 # Understanding the IT Project Lifecycle
 

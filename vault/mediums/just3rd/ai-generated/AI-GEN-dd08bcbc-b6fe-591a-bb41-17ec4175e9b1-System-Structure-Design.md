@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/system-structure-design|System Structure Design]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/system-structure-design|system-structure-design]]"
 ---
 # Designing Software Modules with Clear Responsibilities
 

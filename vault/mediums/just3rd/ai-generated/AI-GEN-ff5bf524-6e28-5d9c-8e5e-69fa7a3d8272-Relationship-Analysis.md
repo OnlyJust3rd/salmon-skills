@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/exploratory-data-analysis/microskills/relationship-analysis|Relationship Analysis]]"
+  - "[[skills/data/data-platforms/exploratory-data-analysis/microskills/relationship-analysis|relationship-analysis]]"
 ---
 # Relationship Analysis in Data
 

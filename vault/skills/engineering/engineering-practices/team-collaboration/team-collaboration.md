@@ -1,17 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Team Collaboration"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-coverage:
-  - "Concept"
-competency-count: 2
-microskill-count: 8
-related-jobs:
-  - "Game Producer"
-source-note: "courses/kmutt/cpe-2021/cpe101-computer-engineering-exploration"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/engineering/engineering-practices/team-collaboration/competencies/L1-define-collaboration-terms|L1-define-collaboration-terms]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/competencies/L2-apply-team-project-planning-and-collaboration|L2-apply-team-project-planning-and-collaboration]]"
+standard-competency:
+  - "[[skills/engineering/engineering-practices/team-collaboration/competencies/L2-apply-team-project-planning-and-collaboration|L2-apply-team-project-planning-and-collaboration]]"
+microskills:
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/collaborative-project-execution|collaborative-project-execution]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/key-collaboration-terminology|key-collaboration-terminology]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/project-timeline-establishment|project-timeline-establishment]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/project-timeline-planning-concepts|project-timeline-planning-concepts]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/role-assignment-application|role-assignment-application]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/role-assignment-principles|role-assignment-principles]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/task-decomposition-implementation|task-decomposition-implementation]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/team-task-decomposition|team-task-decomposition]]"
 ---
 
 # Team Collaboration
@@ -21,7 +29,7 @@ Working effectively within a team to plan, coordinate, and execute engineering p
 ## Competencies
 
 - [[skills/engineering/engineering-practices/team-collaboration/competencies/L1-define-collaboration-terms|L1- Define Collaboration Terms]]
-- [[skills/engineering/engineering-practices/team-collaboration/competencies/L3-apply-team-project-planning-and-collaboration|L3- Apply Team Project Planning and Collaboration]]
+- [[skills/engineering/engineering-practices/team-collaboration/competencies/L2-apply-team-project-planning-and-collaboration|L3- Apply Team Project Planning and Collaboration]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/frame-types-i-p-b|Frame Types (I, P, B)]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/frame-types-i-p-b|frame-types-i-p-b]]"
 ---
 # Understanding Frame Types in Video Compression: I, P, and B Frames
 

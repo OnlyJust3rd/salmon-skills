@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/basic-grafana-dashboard-setup|Basic Grafana Dashboard Setup]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/basic-grafana-dashboard-setup|basic-grafana-dashboard-setup]]"
 ---
 # Basic Grafana Dashboard Setup
 

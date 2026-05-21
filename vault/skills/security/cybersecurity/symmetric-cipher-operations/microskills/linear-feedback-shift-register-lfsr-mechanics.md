@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Linear Feedback Shift Register (LFSR) Mechanics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Symmetric Cipher Operations"
-parent-competency: "L2- Explain LFSR Keystream Generation"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/symmetric-cipher-operations/symmetric-cipher-operations|symmetric-cipher-operations]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-explain-lfsr-keystream-generation|L1-explain-lfsr-keystream-generation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Linear Feedback Shift Register (LFSR) Mechanics
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/symmetric-cipher-operations/symmet
 
 Parent competency:
 
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-explain-lfsr-keystream-generation|L2- Explain LFSR Keystream Generation]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-explain-lfsr-keystream-generation|L2- Explain LFSR Keystream Generation]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Open-Loop Gain Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Amplifier Design"
-parent-competency: "L2- Op-Amp Fundamentals and Gain"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/amplifier-design/amplifier-design|amplifier-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L1-op-amp-fundamentals-and-gain|L1-op-amp-fundamentals-and-gain]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Open-Loop Gain Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/amplifier-design/a
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L2-op-amp-fundamentals-and-gain|L2- Op-Amp Fundamentals and Gain]]
+- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L1-op-amp-fundamentals-and-gain|L2- Op-Amp Fundamentals and Gain]]
 
 ## Description
 

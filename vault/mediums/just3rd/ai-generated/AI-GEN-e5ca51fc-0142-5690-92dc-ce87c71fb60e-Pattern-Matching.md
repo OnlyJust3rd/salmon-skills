@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/pattern-matching|Pattern Matching]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/pattern-matching|pattern-matching]]"
 ---
 # Pattern Matching: Finding Familiar Structures in Problems
 

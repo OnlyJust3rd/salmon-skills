@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/periodic-signal-attributes|Periodic Signal Attributes]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/periodic-signal-attributes|periodic-signal-attributes]]"
 ---
 # Periodic Signal Attributes
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/derive-algorithm-complexity|Derive Algorithm Complexity]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/derive-algorithm-complexity|derive-algorithm-complexity]]"
 ---
 # Deriving Algorithm Complexity
 

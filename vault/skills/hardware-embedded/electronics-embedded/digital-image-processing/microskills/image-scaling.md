@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Image Scaling"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Image Processing"
-parent-competency: "L3- Apply Spatial Transformations"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|digital-image-processing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-apply-spatial-transformations|L2-apply-spatial-transformations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Image Scaling
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-image-proc
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L3-apply-spatial-transformations|L3- Apply Spatial Transformations]]
+- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-apply-spatial-transformations|L3- Apply Spatial Transformations]]
 
 ## Description
 

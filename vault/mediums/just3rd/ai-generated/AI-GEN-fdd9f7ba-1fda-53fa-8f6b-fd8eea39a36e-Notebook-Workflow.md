@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/databricks/microskills/notebook-workflow|Notebook Workflow]]"
+  - "[[skills/data/data-platforms/databricks/microskills/notebook-workflow|notebook-workflow]]"
 ---
 # Mastering Databricks Notebook Workflows
 

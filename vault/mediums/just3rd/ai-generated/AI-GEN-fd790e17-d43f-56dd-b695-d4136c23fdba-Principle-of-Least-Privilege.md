@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/principle-of-least-privilege|Principle of Least Privilege]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/principle-of-least-privilege|principle-of-least-privilege]]"
 ---
 # Applying the Principle of Least Privilege in IAM
 

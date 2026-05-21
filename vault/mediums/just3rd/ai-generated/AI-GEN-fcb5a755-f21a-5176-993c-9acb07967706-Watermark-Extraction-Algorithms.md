@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermark-extraction-algorithms|Watermark Extraction Algorithms]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermark-extraction-algorithms|watermark-extraction-algorithms]]"
 ---
 # Watermark Extraction Algorithms
 

@@ -1,17 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Collaboration Terms"
 tags:
   - "cpe"
   - "competency"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Team Collaboration"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/engineering/engineering-practices/team-collaboration/team-collaboration|team-collaboration]]"
+requires-microskills:
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/key-collaboration-terminology|key-collaboration-terminology]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/project-timeline-planning-concepts|project-timeline-planning-concepts]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/role-assignment-principles|role-assignment-principles]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/team-task-decomposition|team-task-decomposition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Collaboration Terms

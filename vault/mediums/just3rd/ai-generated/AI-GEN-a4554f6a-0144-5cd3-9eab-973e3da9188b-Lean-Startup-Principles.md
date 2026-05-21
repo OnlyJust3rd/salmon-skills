@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/lean-startup-principles|Lean Startup Principles]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/lean-startup-principles|lean-startup-principles]]"
 ---
 # Lean Startup Principles
 

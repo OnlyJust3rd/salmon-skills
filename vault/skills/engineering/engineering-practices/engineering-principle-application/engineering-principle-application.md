@@ -1,16 +1,21 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Engineering Principle Application"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 5
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe101-computer-engineering-exploration"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/competencies/L2-solve-engineering-problems|L2-solve-engineering-problems]]"
+standard-competency:
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/competencies/L2-solve-engineering-problems|L2-solve-engineering-problems]]"
+microskills:
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-analysis-problem-solving|engineering-analysis-problem-solving]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-design-problem-solving|engineering-design-problem-solving]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-implementation-problem-solving|engineering-implementation-problem-solving]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/mathematical-application-in-engineering|mathematical-application-in-engineering]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/physics-application-in-engineering|physics-application-in-engineering]]"
 ---
 
 # Engineering Principle Application
@@ -19,7 +24,7 @@ Applying foundational mathematical and physics concepts to solve engineering des
 
 ## Competencies
 
-- [[skills/engineering/engineering-practices/engineering-principle-application/competencies/L3-solve-engineering-problems|L3- Solve Engineering Problems]]
+- [[skills/engineering/engineering-practices/engineering-principle-application/competencies/L2-solve-engineering-problems|L3- Solve Engineering Problems]]
 
 ## Microskills
 

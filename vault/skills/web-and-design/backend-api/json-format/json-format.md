@@ -1,16 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "JSON Format"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - web stack skills"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 2
-microskill-count: 6
-related-jobs: []
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/backend-api/json-format/competencies/L1-define-json-syntax-and-data-types|L1-define-json-syntax-and-data-types]]"
+  - "[[skills/web-and-design/backend-api/json-format/competencies/L1-explain-json-in-http-message-bodies|L1-explain-json-in-http-message-bodies]]"
+standard-competency:
+  - "[[skills/web-and-design/backend-api/json-format/competencies/L1-define-json-syntax-and-data-types|L1-define-json-syntax-and-data-types]]"
+microskills:
+  - "[[skills/web-and-design/backend-api/json-format/microskills/human-readable-structured-data|human-readable-structured-data]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-document-validity|json-document-validity]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-in-http-requests|json-in-http-requests]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-in-http-responses|json-in-http-responses]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-object-and-array-structure|json-object-and-array-structure]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-primitive-literals|json-primitive-literals]]"
 ---
 
 # JSON Format
@@ -20,7 +27,7 @@ Understanding JavaScript Object Notation (JSON) syntax, data types, and how JSON
 ## Competencies
 
 - [[skills/web-and-design/backend-api/json-format/competencies/L1-define-json-syntax-and-data-types|L1- Define JSON Syntax and Data Types]]
-- [[skills/web-and-design/backend-api/json-format/competencies/L2-explain-json-in-http-message-bodies|L2- Explain JSON in HTTP Message Bodies]]
+- [[skills/web-and-design/backend-api/json-format/competencies/L1-explain-json-in-http-message-bodies|L2- Explain JSON in HTTP Message Bodies]]
 
 ## Microskills
 

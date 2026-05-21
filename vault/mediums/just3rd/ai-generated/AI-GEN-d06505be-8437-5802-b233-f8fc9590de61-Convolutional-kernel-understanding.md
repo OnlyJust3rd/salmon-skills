@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/convolutional-kernel-understanding|Convolutional kernel understanding]]"
+  - "[[skills/data/ai/deep-learning/microskills/convolutional-kernel-understanding|convolutional-kernel-understanding]]"
 ---
 # Understanding Convolutional Kernels
 

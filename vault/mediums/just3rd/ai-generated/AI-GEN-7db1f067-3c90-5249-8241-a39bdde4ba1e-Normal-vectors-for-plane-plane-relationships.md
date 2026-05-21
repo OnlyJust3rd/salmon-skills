@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/normal-vectors-for-plane-plane-relationships|Normal vectors for plane-plane relationships]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vectors-for-plane-plane-relationships|normal-vectors-for-plane-plane-relationships]]"
 ---
 # Analyzing Plane Relationships with Normal Vectors
 

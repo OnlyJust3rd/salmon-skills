@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/automated-promotion|Automated Promotion]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/automated-promotion|automated-promotion]]"
 ---
 # Automated Promotion in Continuous Delivery
 

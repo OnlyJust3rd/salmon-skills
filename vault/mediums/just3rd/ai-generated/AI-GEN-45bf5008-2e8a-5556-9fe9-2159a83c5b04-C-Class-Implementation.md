@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/cpp-programming/microskills/cpp-class-implementation|C++ Class Implementation]]"
+  - "[[skills/programming/programming-languages/cpp-programming/microskills/cpp-class-implementation|cpp-class-implementation]]"
 ---
 # C++ Class Implementation: Declarations and Methods
 

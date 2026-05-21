@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define AVR Peripherals"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Peripheral Programming"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Identify AVR Components"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L1-identify-avr-components|L1-identify-avr-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/programming-languages/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
+requires-microskills:
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-conversion-process|adc-conversion-process]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/i-o-port-functionality|i-o-port-functionality]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-vector-purpose|interrupt-vector-purpose]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/timer-counter-operations|timer-counter-operations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define AVR Peripherals

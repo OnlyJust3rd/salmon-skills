@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermark-embedding-algorithms|Watermark Embedding Algorithms]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermark-embedding-algorithms|watermark-embedding-algorithms]]"
 ---
 # Implementing Watermark Embedding Algorithms
 

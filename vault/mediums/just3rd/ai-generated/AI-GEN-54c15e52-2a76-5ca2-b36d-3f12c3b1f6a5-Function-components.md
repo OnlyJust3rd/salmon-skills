@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/react/microskills/function-components|Function components]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/function-components|function-components]]"
 ---
 # Function Components in React
 

@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Key Concepts and Paradigms"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Algorithmic Thinking"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Computational Problem Solving"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/algorithms/algorithmic-thinking/algorithmic-thinking|algorithmic-thinking]]"
+requires-microskills:
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/algorithmic-paradigm-identification|algorithmic-paradigm-identification]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/number-theory-definitions|number-theory-definitions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Key Concepts and Paradigms

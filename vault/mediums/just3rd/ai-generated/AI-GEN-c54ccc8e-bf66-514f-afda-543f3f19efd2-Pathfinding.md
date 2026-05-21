@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ai/microskills/pathfinding|Pathfinding]]"
+  - "[[skills/creative-media/game-development/game-ai/microskills/pathfinding|pathfinding]]"
 ---
 # Understanding Pathfinding in Game AI
 

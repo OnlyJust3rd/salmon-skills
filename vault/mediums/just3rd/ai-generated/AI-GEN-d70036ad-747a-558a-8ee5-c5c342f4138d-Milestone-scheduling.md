@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/action-planning/microskills/milestone-scheduling|Milestone scheduling]]"
+  - "[[skills/programming/software-engineering/action-planning/microskills/milestone-scheduling|milestone-scheduling]]"
 ---
 # Milestone Scheduling for Engineering Action Plans
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-development-approaches|GPGPU Development Approaches]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-development-approaches|gpgpu-development-approaches]]"
 ---
 # GPGPU Development Approaches
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/social-media-impact-mechanisms|Social Media Impact Mechanisms]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/social-media-impact-mechanisms|social-media-impact-mechanisms]]"
 ---
 # Social Media Impact Mechanisms
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/vector-space-identification|Vector space identification]]"
+  - "[[skills/mathematics/vector-space/microskills/vector-space-identification|vector-space-identification]]"
 ---
 # Identifying Mathematical Structures as Vector Spaces
 

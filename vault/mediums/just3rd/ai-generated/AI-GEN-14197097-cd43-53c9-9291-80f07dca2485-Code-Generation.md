@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/code-generation|Code Generation]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/code-generation|code-generation]]"
 ---
 # Understanding Code Generation with AI Assistants
 

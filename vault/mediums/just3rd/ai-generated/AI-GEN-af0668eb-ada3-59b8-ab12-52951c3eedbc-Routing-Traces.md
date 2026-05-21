@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/routing-traces|Routing Traces]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/routing-traces|routing-traces]]"
 ---
 # Routing Traces: Connecting the Dots on Your PCB
 

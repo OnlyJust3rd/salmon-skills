@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Polar curve characteristic identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Polar Coordinate Systems"
-parent-competency: "L3- Sketch polar curves using symmetry"
+  - "microskill"
+parent-skill: "[[skills/mathematics/polar-coordinate-systems/polar-coordinate-systems|polar-coordinate-systems]]"
+requires-in-competencies:
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-sketch-polar-curves-using-symmetry|L2-sketch-polar-curves-using-symmetry]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Polar curve characteristic identification
@@ -15,7 +17,7 @@ Parent macro: [[polar-coordinate-systems|Polar Coordinate Systems]]
 
 Parent competency:
 
-- [[L3-sketch-polar-curves-using-symmetry|L3- Sketch polar curves using symmetry]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L2-sketch-polar-curves-using-symmetry|L3- Sketch polar curves using symmetry]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/control-hazard-identification|Control Hazard Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/control-hazard-identification|control-hazard-identification]]"
 ---
 # Identifying Control Hazards in Pipelined Architectures
 

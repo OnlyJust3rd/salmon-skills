@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/half-wave-rectifier-output-waveform|Half-wave Rectifier Output Waveform]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/half-wave-rectifier-output-waveform|half-wave-rectifier-output-waveform]]"
 ---
 # Analyzing the Half-Wave Rectifier Output Waveform
 

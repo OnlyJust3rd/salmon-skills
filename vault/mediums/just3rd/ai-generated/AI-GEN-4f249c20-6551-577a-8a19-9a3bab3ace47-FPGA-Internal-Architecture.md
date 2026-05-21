@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/fpga-internal-architecture|FPGA Internal Architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/fpga-internal-architecture|fpga-internal-architecture]]"
 ---
 # Understanding FPGA Internal Architecture: The Building Blocks
 

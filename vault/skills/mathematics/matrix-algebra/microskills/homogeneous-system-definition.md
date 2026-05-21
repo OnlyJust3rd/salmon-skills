@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Homogeneous system definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-parent-competency: "L1- Homogeneous System Fundamentals"
+  - "microskill"
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-in-competencies:
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-homogeneous-system-fundamentals|L1-homogeneous-system-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Homogeneous system definition
@@ -15,7 +17,7 @@ Parent macro: [[matrix-algebra|Matrix Algebra]]
 
 Parent competency:
 
-- [[L1-homogeneous-system-fundamentals|L1- Homogeneous System Fundamentals]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-homogeneous-system-fundamentals|L1- Homogeneous System Fundamentals]]
 
 ## Description
 

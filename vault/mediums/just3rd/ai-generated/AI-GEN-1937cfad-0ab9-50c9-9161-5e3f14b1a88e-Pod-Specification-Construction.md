@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/pod-specification-construction|Pod Specification Construction]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/pod-specification-construction|pod-specification-construction]]"
 ---
 # Constructing Pod Specifications with YAML
 

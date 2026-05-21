@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/physical-layer-efficiency|Physical Layer Efficiency]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/physical-layer-efficiency|physical-layer-efficiency]]"
 ---
 # Understanding Physical Layer Efficiency Through Multiplexing
 

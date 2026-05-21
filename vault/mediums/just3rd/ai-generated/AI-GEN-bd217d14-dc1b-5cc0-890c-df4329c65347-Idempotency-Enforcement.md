@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-enforcement|Idempotency Enforcement]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-enforcement|idempotency-enforcement]]"
 ---
 # Understanding Idempotency in Terraform
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/dtft-purpose|DTFT Purpose]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/dtft-purpose|dtft-purpose]]"
 ---
 # Understanding the Purpose of the Discrete-Time Fourier Transform (DTFT)
 

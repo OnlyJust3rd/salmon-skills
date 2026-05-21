@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/preservation-of-arithmetic-operations|Preservation of arithmetic operations]]"
+  - "[[skills/mathematics/linear-transformations/microskills/preservation-of-arithmetic-operations|preservation-of-arithmetic-operations]]"
 ---
 # How Linear Transformations Preserve Arithmetic Operations
 

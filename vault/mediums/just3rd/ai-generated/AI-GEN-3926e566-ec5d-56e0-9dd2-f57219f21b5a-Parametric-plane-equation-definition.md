@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/parametric-plane-equation-definition|Parametric plane equation definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-plane-equation-definition|parametric-plane-equation-definition]]"
 ---
 # Parametric Plane Equation Definition
 

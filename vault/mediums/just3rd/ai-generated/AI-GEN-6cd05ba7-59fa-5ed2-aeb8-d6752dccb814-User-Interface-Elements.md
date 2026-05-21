@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-interface-elements|User Interface Elements]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-interface-elements|user-interface-elements]]"
 ---
 # Understanding User Interface Elements
 

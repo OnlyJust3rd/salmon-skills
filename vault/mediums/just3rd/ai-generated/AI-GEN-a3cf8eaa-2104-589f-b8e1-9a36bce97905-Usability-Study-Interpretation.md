@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/usability-study-interpretation|Usability Study Interpretation]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/usability-study-interpretation|usability-study-interpretation]]"
 ---
 # Interpreting Cognitive Load in Usability Studies
 

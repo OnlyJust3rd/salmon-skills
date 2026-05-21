@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Opportunity Assessment"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Competitor Analysis"
-parent-competency: "L2- Market Size Purpose"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/competitor-analysis/competitor-analysis|competitor-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/competitor-analysis/competencies/L1-market-size-purpose|L1-market-size-purpose]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Opportunity Assessment
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/competitor-analysis/competit
 
 Parent competency:
 
-- [[skills/business-it/business-product/competitor-analysis/competencies/L2-market-size-purpose|L2- Market Size Purpose]]
+- [[skills/business-it/business-product/competitor-analysis/competencies/L1-market-size-purpose|L2- Market Size Purpose]]
 
 ## Description
 

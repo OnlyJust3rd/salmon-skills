@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/action-definition|Action definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/action-definition|action-definition]]"
 ---
 # Understanding Actions in Reinforcement Learning
 

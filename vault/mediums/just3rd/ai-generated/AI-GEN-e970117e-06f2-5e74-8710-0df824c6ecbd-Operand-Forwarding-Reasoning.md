@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/operand-forwarding-reasoning|Operand Forwarding Reasoning]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/operand-forwarding-reasoning|operand-forwarding-reasoning]]"
 ---
 # Operand Forwarding: When It Works and When It Doesn't
 

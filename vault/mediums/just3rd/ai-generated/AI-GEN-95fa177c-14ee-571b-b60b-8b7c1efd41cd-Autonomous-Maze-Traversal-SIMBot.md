@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/autonomous-maze-traversal-simbot|Autonomous Maze Traversal (SIMBot)]]"
+  - "[[skills/data/ai/soft-computing/microskills/autonomous-maze-traversal-simbot|autonomous-maze-traversal-simbot]]"
 ---
 # Autonomous Maze Traversal with Fuzzy Logic in SIMBot
 

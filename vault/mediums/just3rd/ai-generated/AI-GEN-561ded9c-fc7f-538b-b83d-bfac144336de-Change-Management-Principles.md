@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/change-management-principles|Change Management Principles]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/change-management-principles|change-management-principles]]"
 ---
 # Understanding Change Management Principles
 

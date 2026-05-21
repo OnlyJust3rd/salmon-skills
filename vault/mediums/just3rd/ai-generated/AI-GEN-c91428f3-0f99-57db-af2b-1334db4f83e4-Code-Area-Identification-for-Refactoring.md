@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/code-area-identification-for-refactoring|Code Area Identification for Refactoring]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/code-area-identification-for-refactoring|code-area-identification-for-refactoring]]"
 ---
 # Identifying Code Areas for Refactoring
 

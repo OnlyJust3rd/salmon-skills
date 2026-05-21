@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Role Comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "IT Career Path"
-parent-competency: "L2- Compare PD Roles"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/it-career-path/it-career-path|it-career-path]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/it-career-path/competencies/L1-compare-pd-roles|L1-compare-pd-roles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Role Comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/it-career-path/it-career-pat
 
 Parent competency:
 
-- [[skills/business-it/business-product/it-career-path/competencies/L2-compare-pd-roles|L2- Compare PD Roles]]
+- [[skills/business-it/business-product/it-career-path/competencies/L1-compare-pd-roles|L2- Compare PD Roles]]
 
 ## Description
 

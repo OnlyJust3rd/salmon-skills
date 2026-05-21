@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/dbt/microskills/model-dependency|Model Dependency]]"
+  - "[[skills/data/data-platforms/dbt/microskills/model-dependency|model-dependency]]"
 ---
 # Understanding Model Dependency in dbt
 

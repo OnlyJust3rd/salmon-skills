@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-footprint-selection|Component Footprint Selection]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-footprint-selection|component-footprint-selection]]"
 ---
 # Component Footprint Selection: The Physical Blueprint
 

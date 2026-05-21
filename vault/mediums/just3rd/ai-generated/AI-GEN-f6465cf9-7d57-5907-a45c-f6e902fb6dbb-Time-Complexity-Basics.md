@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/time-complexity-basics|Time Complexity Basics]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/time-complexity-basics|time-complexity-basics]]"
 ---
 # Understanding How Running Time Grows
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/definite-integral-area-relationship|Definite integral-area relationship]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/definite-integral-area-relationship|definite-integral-area-relationship]]"
 ---
 # Understanding the Definite Integral and Area
 

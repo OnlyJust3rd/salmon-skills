@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/spi-protocol-fundamentals|SPI Protocol Fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/spi-protocol-fundamentals|spi-protocol-fundamentals]]"
 ---
 # SPI Protocol Fundamentals
 

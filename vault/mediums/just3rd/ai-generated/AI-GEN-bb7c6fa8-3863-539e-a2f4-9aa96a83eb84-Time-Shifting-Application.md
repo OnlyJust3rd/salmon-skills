@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/time-shifting-application|Time Shifting Application]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-application|time-shifting-application]]"
 ---
 # Applying Time Shifting to Discrete-Time Sequences
 

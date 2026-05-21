@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/interrelationship-analysis|Interrelationship Analysis]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/interrelationship-analysis|interrelationship-analysis]]"
 ---
 # Analyzing Interrelationships: Leadership, Culture, and Change
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/schematic-entry-in-tinkercad|Schematic Entry in Tinkercad]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/schematic-entry-in-tinkercad|schematic-entry-in-tinkercad]]"
 ---
 # Schematic Entry in Tinkercad
 

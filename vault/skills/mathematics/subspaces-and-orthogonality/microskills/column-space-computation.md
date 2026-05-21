@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Column space computation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Subspaces and Orthogonality"
-parent-competency: "L3- Compute Fundamental Subspaces and Dimensions"
+  - "microskill"
+parent-skill: "[[skills/mathematics/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
+requires-in-competencies:
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L2-compute-fundamental-subspaces-and-dimensions|L2-compute-fundamental-subspaces-and-dimensions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Column space computation
@@ -15,7 +17,7 @@ Parent macro: [[subspaces-and-orthogonality|Subspaces and Orthogonality]]
 
 Parent competency:
 
-- [[L3-compute-fundamental-subspaces-and-dimensions|L3- Compute Fundamental Subspaces and Dimensions]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L2-compute-fundamental-subspaces-and-dimensions|L3- Compute Fundamental Subspaces and Dimensions]]
 
 ## Description
 

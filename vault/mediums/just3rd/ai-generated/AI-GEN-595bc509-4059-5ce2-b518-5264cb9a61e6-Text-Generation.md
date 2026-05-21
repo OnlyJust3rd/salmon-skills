@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/large-language-models/microskills/text-generation|Text Generation]]"
+  - "[[skills/data/ai/large-language-models/microskills/text-generation|text-generation]]"
 ---
 # Text Generation: Understanding Probabilistic Continuation
 

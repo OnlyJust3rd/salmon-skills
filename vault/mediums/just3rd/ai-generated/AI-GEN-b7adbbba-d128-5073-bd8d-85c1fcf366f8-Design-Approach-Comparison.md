@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/design-approach-comparison|Design Approach Comparison]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/design-approach-comparison|design-approach-comparison]]"
 ---
 # Comparing Object-Oriented Design Approaches
 

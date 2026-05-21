@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/benefits-of-iac|Benefits of IaC]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/benefits-of-iac|benefits-of-iac]]"
 ---
 # Benefits of Infrastructure as Code (IaC)
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mongodb/microskills/mongodb-insert-operations|MongoDB Insert Operations]]"
+  - "[[skills/data/databases/mongodb/microskills/mongodb-insert-operations|mongodb-insert-operations]]"
 ---
 # MongoDB Insert Operations
 

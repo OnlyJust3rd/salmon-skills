@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/standard-line-equation-definition|Standard line equation definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/standard-line-equation-definition|standard-line-equation-definition]]"
 ---
 # Standard Line Equation in 3D Space
 

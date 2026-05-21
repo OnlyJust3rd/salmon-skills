@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/direction-vectors-and-line-orthogonality|Direction vectors and line orthogonality]]"
+  - "[[skills/mathematics/vector/microskills/direction-vectors-and-line-orthogonality|direction-vectors-and-line-orthogonality]]"
 ---
 # Analyzing Line Orthogonality with Direction Vectors
 

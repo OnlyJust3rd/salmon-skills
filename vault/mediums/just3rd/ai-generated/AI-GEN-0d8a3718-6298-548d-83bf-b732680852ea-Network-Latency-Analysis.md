@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/network-latency-analysis|Network Latency Analysis]]"
+  - "[[skills/systems/networking/network-performance/microskills/network-latency-analysis|network-latency-analysis]]"
 ---
 # Understanding Network Latency and Congestion
 

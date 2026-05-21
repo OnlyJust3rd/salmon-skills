@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/conversational-technology-design|Conversational Technology Design]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/conversational-technology-design|conversational-technology-design]]"
 ---
 # Conversational Technology Design: Applying Workspace Awareness and Social Presence
 

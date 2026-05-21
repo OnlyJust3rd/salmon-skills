@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/visual-representation-comparison|Visual representation comparison]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/visual-representation-comparison|visual-representation-comparison]]"
 ---
 # Flowchart vs. Pseudocode: Visualizing Algorithms
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-mining/microskills/logical-flow|Logical Flow]]"
+  - "[[skills/data/data-platforms/data-mining/microskills/logical-flow|logical-flow]]"
 ---
 # Understanding the Logical Flow of CRISP-DM
 

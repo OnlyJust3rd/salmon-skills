@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/implementation-principles|Implementation Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/implementation-principles|implementation-principles]]"
 ---
 # Implementing Boolean Functions with Logic Gates
 

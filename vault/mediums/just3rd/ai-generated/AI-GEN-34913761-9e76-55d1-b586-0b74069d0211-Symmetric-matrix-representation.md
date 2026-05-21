@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/symmetric-matrix-representation|Symmetric matrix representation]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/symmetric-matrix-representation|symmetric-matrix-representation]]"
 ---
 # Symmetric Matrix Representation of Quadratic Forms
 

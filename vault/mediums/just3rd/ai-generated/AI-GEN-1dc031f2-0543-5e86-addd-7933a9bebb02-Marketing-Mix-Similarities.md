@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-similarities|Marketing Mix Similarities]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-similarities|marketing-mix-similarities]]"
 ---
 # Marketing Mix Similarities: Bridging the 4Ps and 4Cs
 

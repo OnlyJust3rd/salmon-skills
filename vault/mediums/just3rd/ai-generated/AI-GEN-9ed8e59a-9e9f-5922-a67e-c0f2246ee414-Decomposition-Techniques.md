@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/decomposition-techniques|Decomposition Techniques]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/decomposition-techniques|decomposition-techniques]]"
 ---
 # Breaking Down Complex Problems: Decomposition Techniques
 

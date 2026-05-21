@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-identification|UML Diagram Identification]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-identification|uml-diagram-identification]]"
 ---
 # Recognizing UML Diagram Types
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/resistor-identification|Resistor Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/resistor-identification|resistor-identification]]"
 ---
 # Resistor Identification
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/governance-and-policy-enforcement|Governance and Policy Enforcement]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/governance-and-policy-enforcement|governance-and-policy-enforcement]]"
 ---
 # Tags: Your Cloud Compliance and Security Allies
 

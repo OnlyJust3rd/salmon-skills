@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/passive-rc-filter-design|Passive RC Filter Design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/passive-rc-filter-design|passive-rc-filter-design]]"
 ---
 # Designing Passive RC Filters
 

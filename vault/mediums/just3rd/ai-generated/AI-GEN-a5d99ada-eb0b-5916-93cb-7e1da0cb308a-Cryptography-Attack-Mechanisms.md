@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attack-mechanisms|Cryptography Attack Mechanisms]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attack-mechanisms|cryptography-attack-mechanisms]]"
 ---
 # Understanding Cryptography Attacks on Watermarks
 

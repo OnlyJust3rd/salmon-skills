@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/linguistic-text-processing/microskills/lemmatization-process-execution|Lemmatization Process Execution]]"
+  - "[[skills/data/data-science/linguistic-text-processing/microskills/lemmatization-process-execution|lemmatization-process-execution]]"
 ---
 # Lemmatization: Bringing Words to Their Dictionary Roots
 

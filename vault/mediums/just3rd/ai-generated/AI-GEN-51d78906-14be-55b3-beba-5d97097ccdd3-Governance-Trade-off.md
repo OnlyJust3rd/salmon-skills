@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/governance-trade-off|Governance Trade-off]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/governance-trade-off|governance-trade-off]]"
 ---
 # Governance: Data Access and Quality Trade-offs in Lakehouses vs. Warehouses
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/restful-api/microskills/resource-identifiers|Resource identifiers]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/resource-identifiers|resource-identifiers]]"
 ---
 # Mapping Domain Entities to Resource Identifiers
 

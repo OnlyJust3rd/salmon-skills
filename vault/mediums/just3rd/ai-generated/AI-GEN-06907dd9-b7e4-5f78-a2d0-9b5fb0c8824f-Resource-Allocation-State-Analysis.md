@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/resource-allocation-state-analysis|Resource Allocation State Analysis]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/resource-allocation-state-analysis|resource-allocation-state-analysis]]"
 ---
 # Understanding Resource Allocation States with Graphs
 

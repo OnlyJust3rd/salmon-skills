@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Frame Structure"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Data Link Layer"
-parent-competency: "L2- Framing Concept"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-link-layer/data-link-layer|data-link-layer]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-link-layer/competencies/L1-framing-concept|L1-framing-concept]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Frame Structure
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-link-layer/data-link-layer|Data 
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-link-layer/competencies/L2-framing-concept|L2- Framing Concept]]
+- [[skills/data/data-platforms/data-link-layer/competencies/L1-framing-concept|L2- Framing Concept]]
 
 ## Description
 

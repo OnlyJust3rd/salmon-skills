@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-fairness|Business Fairness]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-fairness|business-fairness]]"
 ---
 # Business Fairness
 

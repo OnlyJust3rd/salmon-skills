@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/basis-to-coordinate-system-relationship|Basis-to-coordinate system relationship]]"
+  - "[[skills/mathematics/vector-space/microskills/basis-to-coordinate-system-relationship|basis-to-coordinate-system-relationship]]"
 ---
 # Basis: The Foundation of Your Coordinate System
 

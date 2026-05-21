@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Drill Layer"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "PCB Design"
-parent-competency: "L2- Describe PCB Layers"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/pcb-design/pcb-design|pcb-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L1-describe-pcb-layers|L1-describe-pcb-layers]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Drill Layer
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/pcb-design/pcb-des
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L2-describe-pcb-layers|L2- Describe PCB Layers]]
+- [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L1-describe-pcb-layers|L2- Describe PCB Layers]]
 
 ## Description
 

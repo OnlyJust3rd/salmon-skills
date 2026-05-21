@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/process-communication-models|Process Communication Models]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/process-communication-models|process-communication-models]]"
 ---
 # Understanding Process Communication Models in Distributed Memory HPC
 

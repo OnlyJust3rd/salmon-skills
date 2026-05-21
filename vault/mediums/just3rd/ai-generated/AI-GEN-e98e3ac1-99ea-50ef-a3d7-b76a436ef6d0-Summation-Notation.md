@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/summation-notation|Summation Notation]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/summation-notation|summation-notation]]"
 ---
 # Summation Notation: Aggregating Discrete Values
 

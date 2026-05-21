@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/cryptographic-implementation-differences|Cryptographic Implementation Differences]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/cryptographic-implementation-differences|cryptographic-implementation-differences]]"
 ---
 # Cryptographic Implementation Differences: AH vs. ESP in IPSec
 

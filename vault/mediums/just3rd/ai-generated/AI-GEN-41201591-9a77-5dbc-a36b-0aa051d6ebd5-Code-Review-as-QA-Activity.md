@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-as-qa-activity|Code Review as QA Activity]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-as-qa-activity|code-review-as-qa-activity]]"
 ---
 # Code Reviews: Your First Line of Defense in Quality Assurance
 

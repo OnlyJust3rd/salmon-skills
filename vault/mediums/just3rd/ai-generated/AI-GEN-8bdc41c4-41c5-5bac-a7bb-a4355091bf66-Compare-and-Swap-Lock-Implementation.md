@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-lock-implementation|Compare-and-Swap Lock Implementation]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-lock-implementation|compare-and-swap-lock-implementation]]"
 ---
 # Implementing Locks with Compare-and-Swap
 

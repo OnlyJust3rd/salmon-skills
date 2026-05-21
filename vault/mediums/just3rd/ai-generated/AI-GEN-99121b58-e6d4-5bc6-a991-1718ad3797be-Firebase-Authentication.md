@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/firebase-authentication|Firebase Authentication]]"
+  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/firebase-authentication|firebase-authentication]]"
 ---
 # Firebase Authentication: Understanding Managed Identity for Applications
 

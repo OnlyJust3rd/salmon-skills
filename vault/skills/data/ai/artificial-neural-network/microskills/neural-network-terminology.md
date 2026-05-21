@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Neural Network Terminology"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Artificial Neural Network"
-parent-competency: "L1- Define and Identify NN Fundamentals"
+  - "microskill"
+parent-skill: "[[skills/data/ai/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
+requires-in-competencies:
+  - "[[skills/data/ai/artificial-neural-network/competencies/L1-define-and-identify-nn-fundamentals|L1-define-and-identify-nn-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Neural Network Terminology

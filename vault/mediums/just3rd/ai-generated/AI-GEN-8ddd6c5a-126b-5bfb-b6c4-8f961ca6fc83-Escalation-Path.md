@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-service-management/microskills/escalation-path|Escalation Path]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/escalation-path|escalation-path]]"
 ---
 # Understanding and Applying Escalation Paths in Incident Management
 

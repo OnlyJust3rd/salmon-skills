@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/erp-module|ERP Module]]"
+  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/erp-module|erp-module]]"
 ---
 # Understanding ERP Modules
 

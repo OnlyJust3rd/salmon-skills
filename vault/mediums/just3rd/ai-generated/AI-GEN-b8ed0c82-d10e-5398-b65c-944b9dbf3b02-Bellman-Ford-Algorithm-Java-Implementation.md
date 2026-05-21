@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/bellman-ford-algorithm-java-implementation|Bellman-Ford Algorithm Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/bellman-ford-algorithm-java-implementation|bellman-ford-algorithm-java-implementation]]"
 ---
 # Implementing the Bellman-Ford Algorithm in Java
 

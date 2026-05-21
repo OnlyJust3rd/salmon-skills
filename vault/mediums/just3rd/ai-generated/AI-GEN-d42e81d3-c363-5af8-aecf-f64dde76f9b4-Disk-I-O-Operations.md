@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/disk-i-o-operations|Disk I/O Operations]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/disk-i-o-operations|disk-i-o-operations]]"
 ---
 # Understanding Disk I/O Operations: A Key Infrastructure Metric
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-characteristics|Projection Characteristics]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-characteristics|projection-characteristics]]"
 ---
 # Understanding Projection Characteristics
 

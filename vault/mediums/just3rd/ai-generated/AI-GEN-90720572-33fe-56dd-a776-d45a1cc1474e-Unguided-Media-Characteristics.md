@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/unguided-media-characteristics|Unguided Media Characteristics]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/unguided-media-characteristics|unguided-media-characteristics]]"
 ---
 # Understanding Unguided Media Characteristics
 

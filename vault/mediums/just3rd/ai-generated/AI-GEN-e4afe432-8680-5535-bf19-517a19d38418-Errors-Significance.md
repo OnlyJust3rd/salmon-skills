@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/errors-significance|Errors Significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/errors-significance|errors-significance]]"
 ---
 # Understanding the Significance of Errors
 

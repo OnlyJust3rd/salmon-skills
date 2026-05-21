@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/calculus-based-graph-sketching|Calculus-based graph sketching]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/calculus-based-graph-sketching|calculus-based-graph-sketching]]"
 ---
 # Sketching Curves with Derivatives
 

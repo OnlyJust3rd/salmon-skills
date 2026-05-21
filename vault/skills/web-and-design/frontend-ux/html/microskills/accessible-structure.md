@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Accessible structure"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "HTML"
-parent-competency: "L3- Implement Structured HTML Pages"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/html/html|html]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/html/competencies/L2-implement-structured-html-pages|L2-implement-structured-html-pages]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Accessible structure
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/html/html|HTML]]
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/html/competencies/L3-implement-structured-html-pages|L3- Implement Structured HTML Pages]]
+- [[skills/web-and-design/frontend-ux/html/competencies/L2-implement-structured-html-pages|L3- Implement Structured HTML Pages]]
 
 ## Description
 

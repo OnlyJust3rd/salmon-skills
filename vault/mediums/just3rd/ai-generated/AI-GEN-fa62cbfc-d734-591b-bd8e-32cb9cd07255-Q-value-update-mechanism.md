@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/q-value-update-mechanism|Q-value update mechanism]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/q-value-update-mechanism|q-value-update-mechanism]]"
 ---
 # Implementing the Q-value Update Mechanism
 

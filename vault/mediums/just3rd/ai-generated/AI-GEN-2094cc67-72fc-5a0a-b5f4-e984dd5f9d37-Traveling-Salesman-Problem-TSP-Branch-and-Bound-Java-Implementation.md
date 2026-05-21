@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/traveling-salesman-problem-tsp-branch-and-bound-java-implementation|Traveling Salesman Problem (TSP) Branch and Bound Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/traveling-salesman-problem-tsp-branch-and-bound-java-implementation|traveling-salesman-problem-tsp-branch-and-bound-java-implementation]]"
 ---
 # Implementing Branch and Bound for TSP in Java
 

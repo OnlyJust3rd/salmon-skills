@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/node-js/microskills/node-js-process-model|Node.js process model]]"
+  - "[[skills/web-and-design/backend-api/node-js/microskills/node-js-process-model|node-js-process-model]]"
 ---
 # Understanding the Node.js Process Model: Runtime and Event Loop
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthonormal-basis-construction|Orthonormal basis construction]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthonormal-basis-construction|orthonormal-basis-construction]]"
 ---
 # Constructing Orthonormal Bases with the Gram-Schmidt Process
 

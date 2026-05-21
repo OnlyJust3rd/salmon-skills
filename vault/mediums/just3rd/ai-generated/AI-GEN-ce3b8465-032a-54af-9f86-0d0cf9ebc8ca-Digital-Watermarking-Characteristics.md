@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-characteristics|Digital Watermarking Characteristics]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-characteristics|digital-watermarking-characteristics]]"
 ---
 # Digital Watermarking: Unseen Identifiers
 

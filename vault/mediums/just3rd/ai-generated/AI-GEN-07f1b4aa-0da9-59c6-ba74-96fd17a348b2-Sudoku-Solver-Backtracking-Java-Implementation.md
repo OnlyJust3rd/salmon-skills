@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/sudoku-solver-backtracking-java-implementation|Sudoku Solver Backtracking Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/sudoku-solver-backtracking-java-implementation|sudoku-solver-backtracking-java-implementation]]"
 ---
 # Solving Sudoku with Backtracking in Java
 

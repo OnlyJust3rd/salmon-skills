@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/amazon-redshift/microskills/distribution-style|Distribution Style]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/distribution-style|distribution-style]]"
 ---
 # Redshift Distribution Styles: Understanding Data Placement
 

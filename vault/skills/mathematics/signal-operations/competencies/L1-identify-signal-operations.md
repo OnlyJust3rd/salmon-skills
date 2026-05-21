@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Signal Operations"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Signal Operations"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Signal Fundamentals"
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1-signal-fundamentals]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/signal-operations/signal-operations|signal-operations]]"
+requires-microskills:
+  - "[[skills/mathematics/signal-operations/microskills/signal-operation-symbolism|signal-operation-symbolism]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-reversal-identification|time-reversal-identification]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-identification|time-shifting-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Signal Operations
@@ -25,7 +27,7 @@ Identify the basic signal operations of flipping and time-shifting.
 
 ## Strict Prerequisites
 
-- [[L1-signal-fundamentals|L1- Signal Fundamentals]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1- Signal Fundamentals]]
 
 ## Optional Prerequisites
 

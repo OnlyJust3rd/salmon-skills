@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/truth-function-derivation|Truth Function Derivation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/truth-function-derivation|truth-function-derivation]]"
 ---
 # Deriving Truth Functions from Real-World Problems
 

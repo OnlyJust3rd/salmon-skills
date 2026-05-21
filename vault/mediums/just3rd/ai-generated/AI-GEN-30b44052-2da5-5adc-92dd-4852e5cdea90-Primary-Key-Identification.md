@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/primary-key-identification|Primary Key Identification]]"
+  - "[[skills/data/databases/relational-database/microskills/primary-key-identification|primary-key-identification]]"
 ---
 # Understanding Primary Keys in Databases
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/space-complexity-basics|Space Complexity Basics]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/space-complexity-basics|space-complexity-basics]]"
 ---
 # Understanding Space Complexity: How Much Memory Does Your Program Use?
 

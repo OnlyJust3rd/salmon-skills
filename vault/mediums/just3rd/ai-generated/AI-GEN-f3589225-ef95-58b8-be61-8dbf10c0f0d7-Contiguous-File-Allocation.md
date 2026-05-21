@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/contiguous-file-allocation|Contiguous File Allocation]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/contiguous-file-allocation|contiguous-file-allocation]]"
 ---
 # Contiguous File Allocation
 

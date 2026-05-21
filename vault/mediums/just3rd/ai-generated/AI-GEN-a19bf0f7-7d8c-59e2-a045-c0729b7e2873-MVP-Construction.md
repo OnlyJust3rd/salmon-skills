@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-construction|MVP Construction]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-construction|mvp-construction]]"
 ---
 # MVP Construction: Building Your Core Functionality
 

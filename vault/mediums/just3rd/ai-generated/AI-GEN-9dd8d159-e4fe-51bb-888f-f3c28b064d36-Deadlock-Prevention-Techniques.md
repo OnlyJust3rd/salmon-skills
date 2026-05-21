@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|Deadlock Prevention Techniques]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|deadlock-prevention-techniques]]"
 ---
 # Deadlock Prevention Techniques: Proactive Measures
 

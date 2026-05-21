@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/motor-components|Motor Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/motor-components|motor-components]]"
 ---
 # Robotic System: Motors - The Engines of Movement
 

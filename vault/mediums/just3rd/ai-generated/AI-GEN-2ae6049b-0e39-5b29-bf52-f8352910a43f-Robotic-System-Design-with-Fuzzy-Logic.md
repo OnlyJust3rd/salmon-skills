@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/robotic-system-design-with-fuzzy-logic|Robotic System Design with Fuzzy Logic]]"
+  - "[[skills/data/ai/soft-computing/microskills/robotic-system-design-with-fuzzy-logic|robotic-system-design-with-fuzzy-logic]]"
 ---
 # Designing Robotic Systems with Fuzzy Logic
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/synchronous-bus-protocol-analysis|Synchronous Bus Protocol Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/synchronous-bus-protocol-analysis|synchronous-bus-protocol-analysis]]"
 ---
 # Synchronous Bus Protocol Analysis
 

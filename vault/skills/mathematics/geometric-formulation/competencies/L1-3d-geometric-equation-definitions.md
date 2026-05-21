@@ -1,18 +1,23 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- 3D Geometric Equation Definitions"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Geometric Formulation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and List Vector Concepts and Operations"
+  - "[[skills/mathematics/vector/competencies/L1-define-and-list-vector-concepts-and-operations|L1-define-and-list-vector-concepts-and-operations]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 6
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/geometric-formulation/geometric-formulation|geometric-formulation]]"
+requires-microskills:
+  - "[[skills/mathematics/geometric-formulation/microskills/direction-vector-identification|direction-vector-identification]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-identification|normal-vector-identification]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-line-equation-definition|parametric-line-equation-definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-plane-equation-definition|parametric-plane-equation-definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/standard-line-equation-definition|standard-line-equation-definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/standard-plane-equation-definition|standard-plane-equation-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- 3D Geometric Equation Definitions
@@ -25,7 +30,7 @@ Define parametric equations and standard forms for lines and planes in 3D space,
 
 ## Strict Prerequisites
 
-- [[L1-define-and-list-vector-concepts-and-operations|L1- Define and List Vector Concepts and Operations]]
+- [[skills/mathematics/vector/competencies/L1-define-and-list-vector-concepts-and-operations|L1- Define and List Vector Concepts and Operations]]
 
 ## Optional Prerequisites
 

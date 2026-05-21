@@ -1,18 +1,39 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Process Management and System Calls"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 333 - Operating Systems"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Analysis"
-competency-count: 5
-microskill-count: 17
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-333-operating-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L1-program-vs-process-and-states|L1-program-vs-process-and-states]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L1-understand-unix-process-apis|L1-understand-unix-process-apis]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L2-process-creation-and-lifecycle-illustration|L2-process-creation-and-lifecycle-illustration]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-analyze-pcb-components|L3-analyze-pcb-components]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-inter-process-execution-analysis|L3-inter-process-execution-analysis]]"
+standard-competency:
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L2-process-creation-and-lifecycle-illustration|L2-process-creation-and-lifecycle-illustration]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-analyze-pcb-components|L3-analyze-pcb-components]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-inter-process-execution-analysis|L3-inter-process-execution-analysis]]"
+microskills:
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/exec-functionality|exec-functionality]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/fork-functionality|fork-functionality]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|inter-process-data-exchange-patterns]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|kernel-operations-and-pcb]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|parent-child-process-execution-flow]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|pcb-role-in-process-management]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-control-block-structure|process-control-block-structure]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-definition|process-definition]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-scenarios|process-lifecycle-scenarios]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|process-lifecycle-states]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/program-definition|program-definition]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|system-call-process-interaction]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-process-management-apis|unix-process-management-apis]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-exec|unix-system-call-application-exec]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-fork|unix-system-call-application-fork]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|unix-system-call-application-wait]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait-functionality]]"
 ---
 
 # Process Management and System Calls
@@ -21,11 +42,11 @@ Modeling and controlling process execution within an operating system. Including
 
 ## Competencies
 
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L2-program-vs-process-and-states|L2- Program vs Process and States]]
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L4-analyze-pcb-components|L4- Analyze PCB Components]]
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-process-creation-and-lifecycle-illustration|L3- Process Creation and Lifecycle Illustration]]
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L2-understand-unix-process-apis|L2- Understand UNIX Process APIs]]
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L4-inter-process-execution-analysis|L4- Inter-Process Execution Analysis]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L1-program-vs-process-and-states|L2- Program vs Process and States]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-analyze-pcb-components|L4- Analyze PCB Components]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L2-process-creation-and-lifecycle-illustration|L3- Process Creation and Lifecycle Illustration]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L1-understand-unix-process-apis|L2- Understand UNIX Process APIs]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-inter-process-execution-analysis|L4- Inter-Process Execution Analysis]]
 
 ## Microskills
 

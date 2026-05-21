@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/searching-algorithm-characteristics|Searching Algorithm Characteristics]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/searching-algorithm-characteristics|searching-algorithm-characteristics]]"
 ---
 # Searching Algorithm Characteristics
 

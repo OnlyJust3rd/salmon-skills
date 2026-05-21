@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/extrema-identification-using-derivatives|Extrema identification using derivatives]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/extrema-identification-using-derivatives|extrema-identification-using-derivatives]]"
 ---
 # Finding Local Extrema with Derivatives
 

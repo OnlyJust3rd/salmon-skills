@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-component-interdependencies|Business Model Component Interdependencies]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-component-interdependencies|business-model-component-interdependencies]]"
 ---
 # Understanding Business Model Component Interdependencies
 

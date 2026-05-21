@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/core-concepts-for-rsa|Core Concepts for RSA]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/core-concepts-for-rsa|core-concepts-for-rsa]]"
 ---
 # Core Concepts for RSA
 

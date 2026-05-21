@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-exporter-functionality|Prometheus Exporter Functionality]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-exporter-functionality|prometheus-exporter-functionality]]"
 ---
 # Prometheus Exporter Functionality
 

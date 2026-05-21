@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Pattern Matching for Textual Extraction"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Pattern Matching and Text Filtering"
-parent-competency: "L3- Extract Substrings with RegEx"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/pattern-matching-and-text-filtering/pattern-matching-and-text-filtering|pattern-matching-and-text-filtering]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L2-extract-substrings-with-regex|L2-extract-substrings-with-regex]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Pattern Matching for Textual Extraction
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/pattern-matching-and-text-filterin
 
 Parent competency:
 
-- [[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L3-extract-substrings-with-regex|L3- Extract Substrings with RegEx]]
+- [[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L2-extract-substrings-with-regex|L3- Extract Substrings with RegEx]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/soldered-circuit-reliability|Soldered Circuit Reliability]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/soldered-circuit-reliability|soldered-circuit-reliability]]"
 ---
 # Evaluating Soldered Circuit Reliability
 

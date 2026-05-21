@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/usability-testing-validation-role|Usability Testing Validation Role]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/usability-testing-validation-role|usability-testing-validation-role]]"
 ---
 # The Role of Usability Testing in Validating Assumptions
 

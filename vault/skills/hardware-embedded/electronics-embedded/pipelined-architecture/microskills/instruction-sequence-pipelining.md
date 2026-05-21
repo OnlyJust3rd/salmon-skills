@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Instruction Sequence Pipelining"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Pipelined Architecture"
-parent-competency: "L3- Pipeline Execution Steps"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/pipelined-architecture|pipelined-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L2-pipeline-execution-steps|L2-pipeline-execution-steps]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Instruction Sequence Pipelining
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/pipelined-architec
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-pipeline-execution-steps|L3- Pipeline Execution Steps]]
+- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L2-pipeline-execution-steps|L3- Pipeline Execution Steps]]
 
 ## Description
 

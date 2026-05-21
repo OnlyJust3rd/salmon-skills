@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/encryption-integration-in-compression-pipeline|Encryption Integration in Compression Pipeline]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/encryption-integration-in-compression-pipeline|encryption-integration-in-compression-pipeline]]"
 ---
 # Integrating Encryption with Multimedia Compression
 

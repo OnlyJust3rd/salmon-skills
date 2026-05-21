@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Codebase Search"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-parent-macro: "Cursor"
-parent-competency: "L3- Apply Cursor Codebase Editing Workflow Concepts"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/cursor/cursor|cursor]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/competencies/L2-apply-cursor-codebase-editing-workflow-concepts|L2-apply-cursor-codebase-editing-workflow-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Codebase Search
@@ -15,7 +17,7 @@ Parent macro: [[cursor|Cursor]]
 
 Parent competency:
 
-- [[L3-apply-cursor-codebase-editing-workflow-concepts|L3- Apply Cursor Codebase Editing Workflow Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/cursor/competencies/L2-apply-cursor-codebase-editing-workflow-concepts|L3- Apply Cursor Codebase Editing Workflow Concepts]]
 
 ## Description
 

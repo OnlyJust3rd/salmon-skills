@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/embedded-iot-communication-hardware|Embedded IoT Communication Hardware]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/embedded-iot-communication-hardware|embedded-iot-communication-hardware]]"
 ---
 # Embedded IoT Communication Hardware
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/faster-development-cycles|Faster Development Cycles]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/faster-development-cycles|faster-development-cycles]]"
 ---
 # Accelerating Development with Serverless
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "SCM Key Objectives"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Version Control"
-parent-competency: "L1- Define SCM"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/software-version-control/software-version-control|software-version-control]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/software-version-control/competencies/L1-define-scm|L1-define-scm]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # SCM Key Objectives

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/curve-representations|Curve Representations]]"
+  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/curve-representations|curve-representations]]"
 ---
 # Remembering Curve Representations
 

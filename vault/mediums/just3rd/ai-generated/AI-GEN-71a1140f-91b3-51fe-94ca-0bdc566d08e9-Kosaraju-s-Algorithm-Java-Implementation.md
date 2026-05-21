@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/kosaraju-s-algorithm-java-implementation|Kosaraju's Algorithm Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/kosaraju-s-algorithm-java-implementation|kosaraju-s-algorithm-java-implementation]]"
 ---
 # Kosaraju's Algorithm: Java Implementation
 

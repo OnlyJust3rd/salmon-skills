@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Measurement Tool Functions and Units"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Electronic Measurement"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L3- Analyze signal vs phasor"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L2-analyze-signal-vs-phasor|L2-analyze-signal-vs-phasor]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/electronic-measurement|electronic-measurement]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/digital-multimeter-functions|digital-multimeter-functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/electrical-quantity-units|electrical-quantity-units]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/function-generator-functions|function-generator-functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-functions|oscilloscope-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Measurement Tool Functions and Units
@@ -25,7 +28,7 @@ Define the primary functions of a digital multimeter, oscilloscope, and function
 
 ## Strict Prerequisites
 
-- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L3-analyze-signal-vs-phasor|L3- Analyze signal vs phasor]]
+- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L2-analyze-signal-vs-phasor|L3- Analyze signal vs phasor]]
 
 ## Optional Prerequisites
 

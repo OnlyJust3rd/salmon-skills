@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/biometric-modalities|Biometric Modalities]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/biometric-modalities|biometric-modalities]]"
 ---
 # Understanding Biometric Modalities
 

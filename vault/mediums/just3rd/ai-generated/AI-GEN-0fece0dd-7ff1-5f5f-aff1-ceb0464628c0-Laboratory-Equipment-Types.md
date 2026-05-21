@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/laboratory-equipment-types|Laboratory Equipment Types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/laboratory-equipment-types|laboratory-equipment-types]]"
 ---
 # Understanding Common Lab Equipment: A First Look
 

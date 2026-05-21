@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/program-definition|Program Definition]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/program-definition|program-definition]]"
 ---
 # Program vs. Process: The Building Blocks of Computing
 

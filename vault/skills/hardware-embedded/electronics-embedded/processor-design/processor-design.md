@@ -1,18 +1,41 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Processor Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 223 - Computer Architectures"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 6
-microskill-count: 17
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-223-computer-architectures"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L1-processor-components-definition|L1-processor-components-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L1-processor-operational-flow|L1-processor-operational-flow]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L2-emulator-processor-implementation|L2-emulator-processor-implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L3-processor-design-performance-analysis|L3-processor-design-performance-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L3-simple-processor-evaluation|L3-simple-processor-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L4-novel-processor-and-interfacing-design|L4-novel-processor-and-interfacing-design]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L2-emulator-processor-implementation|L2-emulator-processor-implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L3-processor-design-performance-analysis|L3-processor-design-performance-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L3-simple-processor-evaluation|L3-simple-processor-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L4-novel-processor-and-interfacing-design|L4-novel-processor-and-interfacing-design]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/control-logic-design-impact-on-performance|control-logic-design-impact-on-performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/control-unit-definition|control-unit-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/datapath-design-impact-on-performance|datapath-design-impact-on-performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/effectiveness-evaluation|effectiveness-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/emulator-tool-utilization|emulator-tool-utilization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/fundamental-processor-components|fundamental-processor-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-decode-process|instruction-decode-process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-execute-process|instruction-execute-process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-fetch-process|instruction-fetch-process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/integrated-i-o-interfacing-design|integrated-i-o-interfacing-design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/interfacing-capability-evaluation|interfacing-capability-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/novel-processor-creation|novel-processor-creation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/original-processor-architecture-design|original-processor-architecture-design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/performance-metric-assessment|performance-metric-assessment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/processor-design-translation|processor-design-translation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/processor-performance-metric-evaluation|processor-performance-metric-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/processor-workflow-during-execution|processor-workflow-during-execution]]"
 ---
 
 # Processor Design
@@ -22,11 +45,11 @@ Designing, implementing, and evaluating a simple processor on an emulator, and a
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L1-processor-components-definition|L1- Processor Components Definition]]
-- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L2-processor-operational-flow|L2- Processor Operational Flow]]
-- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L3-emulator-processor-implementation|L3- Emulator Processor Implementation]]
-- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L4-processor-design-performance-analysis|L4- Processor Design Performance Analysis]]
-- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L5-simple-processor-evaluation|L5- Simple Processor Evaluation]]
-- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L6-novel-processor-and-interfacing-design|L6- Novel Processor and Interfacing Design]]
+- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L1-processor-operational-flow|L2- Processor Operational Flow]]
+- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L2-emulator-processor-implementation|L3- Emulator Processor Implementation]]
+- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L3-processor-design-performance-analysis|L4- Processor Design Performance Analysis]]
+- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L3-simple-processor-evaluation|L5- Simple Processor Evaluation]]
+- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L4-novel-processor-and-interfacing-design|L6- Novel Processor and Interfacing Design]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-migration-with-volumes|Data Migration with Volumes]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-migration-with-volumes|data-migration-with-volumes]]"
 ---
 # Data Migration with Docker Volumes
 

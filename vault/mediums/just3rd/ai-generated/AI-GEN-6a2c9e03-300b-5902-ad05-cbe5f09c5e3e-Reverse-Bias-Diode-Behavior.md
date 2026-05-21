@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/reverse-bias-diode-behavior|Reverse Bias Diode Behavior]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/reverse-bias-diode-behavior|reverse-bias-diode-behavior]]"
 ---
 # Understanding Diode Operation Under Reverse Bias
 

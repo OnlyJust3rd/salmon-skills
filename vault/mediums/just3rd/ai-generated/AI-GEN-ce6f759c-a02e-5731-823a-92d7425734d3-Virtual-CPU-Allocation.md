@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-cpu-allocation|Virtual CPU Allocation]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-cpu-allocation|virtual-cpu-allocation]]"
 ---
 # Virtual CPU Allocation: Understanding How VMs Get Their Processing Power
 

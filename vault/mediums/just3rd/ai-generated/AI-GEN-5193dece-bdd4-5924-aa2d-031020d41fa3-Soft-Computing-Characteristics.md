@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/soft-computing-characteristics|Soft Computing Characteristics]]"
+  - "[[skills/data/ai/soft-computing/microskills/soft-computing-characteristics|soft-computing-characteristics]]"
 ---
 # Understanding the Characteristics of Soft Computing
 

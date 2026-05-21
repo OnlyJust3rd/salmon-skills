@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/application-environment-setup|Application Environment Setup]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/application-environment-setup|application-environment-setup]]"
 ---
 # Application Environment Setup in Dockerfiles
 

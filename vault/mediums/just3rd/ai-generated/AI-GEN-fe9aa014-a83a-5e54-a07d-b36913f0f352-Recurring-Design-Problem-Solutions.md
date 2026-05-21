@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/recurring-design-problem-solutions|Recurring Design Problem Solutions]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/recurring-design-problem-solutions|recurring-design-problem-solutions]]"
 ---
 # Implementing Recurring Design Problem Solutions
 

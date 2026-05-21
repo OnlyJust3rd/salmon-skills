@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/import-setting|Import Setting]]"
+  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/import-setting|import-setting]]"
 ---
 # Import Settings: Configuring Your 3D Assets
 

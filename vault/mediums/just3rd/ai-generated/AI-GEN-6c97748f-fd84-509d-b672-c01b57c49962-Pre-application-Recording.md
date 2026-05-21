@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/pre-application-recording|Pre-application Recording]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/pre-application-recording|pre-application-recording]]"
 ---
 # Pre-application Recording: The First Step in Journaling
 

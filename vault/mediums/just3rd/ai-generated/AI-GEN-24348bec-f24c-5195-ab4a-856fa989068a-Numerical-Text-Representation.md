@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/numerical-text-representation|Numerical Text Representation]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/numerical-text-representation|numerical-text-representation]]"
 ---
 # Numerical Text Representation
 

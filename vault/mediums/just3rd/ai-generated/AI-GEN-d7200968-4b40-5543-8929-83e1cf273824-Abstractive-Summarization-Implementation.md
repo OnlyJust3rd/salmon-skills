@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-summarization/microskills/abstractive-summarization-implementation|Abstractive Summarization Implementation]]"
+  - "[[skills/data/data-science/text-summarization/microskills/abstractive-summarization-implementation|abstractive-summarization-implementation]]"
 ---
 # Implementing Abstractive Summarization with Neural Networks
 

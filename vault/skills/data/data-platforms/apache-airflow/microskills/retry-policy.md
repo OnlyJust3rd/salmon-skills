@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Retry Policy"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Apache Airflow"
-parent-competency: "L3- Apply DAG Scheduling and Task Dependency Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/apache-airflow/apache-airflow|apache-airflow]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/apache-airflow/competencies/L2-apply-dag-scheduling-and-task-dependency-concepts|L2-apply-dag-scheduling-and-task-dependency-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Retry Policy
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/apache-airflow/apache-airflow|Apache 
 
 Parent competency:
 
-- [[skills/data/data-platforms/apache-airflow/competencies/L3-apply-dag-scheduling-and-task-dependency-concepts|L3- Apply DAG Scheduling and Task Dependency Concepts]]
+- [[skills/data/data-platforms/apache-airflow/competencies/L2-apply-dag-scheduling-and-task-dependency-concepts|L3- Apply DAG Scheduling and Task Dependency Concepts]]
 
 ## Description
 

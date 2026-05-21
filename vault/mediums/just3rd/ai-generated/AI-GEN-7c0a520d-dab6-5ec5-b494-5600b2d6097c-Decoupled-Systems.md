@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/decoupled-systems|Decoupled Systems]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/decoupled-systems|decoupled-systems]]"
 ---
 # Decoupled Systems in Event-Driven Architectures
 

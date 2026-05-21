@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-functionality|Flip-Flop Functionality]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-functionality|flip-flop-functionality]]"
 ---
 # Understanding Flip-Flop Functionality
 

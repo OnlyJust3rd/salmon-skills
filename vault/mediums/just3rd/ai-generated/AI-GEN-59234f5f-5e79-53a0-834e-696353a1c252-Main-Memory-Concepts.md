@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/main-memory-concepts|Main Memory Concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/main-memory-concepts|main-memory-concepts]]"
 ---
 # Main Memory: The Computer's Working Space
 

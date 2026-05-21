@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/job-scheduling-concepts|Job Scheduling Concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/job-scheduling-concepts|job-scheduling-concepts]]"
 ---
 # Understanding Job Scheduling in Linux
 

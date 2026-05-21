@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/information-technology-functions|Information Technology Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/information-technology-functions|information-technology-functions]]"
 ---
 # Understanding Information Technology (IT) Department Functions
 

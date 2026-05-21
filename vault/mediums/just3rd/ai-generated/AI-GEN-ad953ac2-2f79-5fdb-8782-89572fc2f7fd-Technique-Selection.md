@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/combinatorial-analysis/microskills/technique-selection|Technique Selection]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/technique-selection|technique-selection]]"
 ---
 # Selecting the Right Combinatorial Technique
 

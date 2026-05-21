@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/format-compliance-criterion|Format Compliance Criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/format-compliance-criterion|format-compliance-criterion]]"
 ---
 # Analyzing Format Compliance in Selective Encryption
 

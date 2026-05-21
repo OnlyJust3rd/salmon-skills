@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/machine-instruction-categorization|Machine Instruction Categorization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/machine-instruction-categorization|machine-instruction-categorization]]"
 ---
 # Understanding Machine Instruction Categories
 

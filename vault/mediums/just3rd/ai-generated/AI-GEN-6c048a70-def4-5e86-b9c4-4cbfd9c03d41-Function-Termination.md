@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/function-termination|Function Termination]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/function-termination|function-termination]]"
 ---
 # Function Termination in Serverless Computing
 

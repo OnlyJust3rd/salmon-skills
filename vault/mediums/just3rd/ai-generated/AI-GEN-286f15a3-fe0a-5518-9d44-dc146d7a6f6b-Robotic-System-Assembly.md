@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robotic-system-assembly|Robotic System Assembly]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robotic-system-assembly|robotic-system-assembly]]"
 ---
 # Robotic System Assembly: Building Your First Robot
 

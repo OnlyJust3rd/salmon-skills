@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/microservices-architecture-characteristics|Microservices Architecture Characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/microservices-architecture-characteristics|microservices-architecture-characteristics]]"
 ---
 # Understanding Microservices Architecture Characteristics
 

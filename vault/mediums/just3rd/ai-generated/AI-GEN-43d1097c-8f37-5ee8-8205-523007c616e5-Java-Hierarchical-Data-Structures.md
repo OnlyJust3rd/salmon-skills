@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/java-hierarchical-data-structures|Java Hierarchical Data Structures]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-hierarchical-data-structures|java-hierarchical-data-structures]]"
 ---
 # Implementing Trees in Java
 

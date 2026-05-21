@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Multivariable function continuity conditions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Function Analysis"
-parent-competency: "L2- Explain Multivariable Function Limits and Continuity"
+  - "microskill"
+parent-skill: "[[skills/mathematics/function-analysis/function-analysis|function-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/function-analysis/competencies/L1-explain-multivariable-function-limits-and-continuity|L1-explain-multivariable-function-limits-and-continuity]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Multivariable function continuity conditions
@@ -15,7 +17,7 @@ Parent macro: [[function-analysis|Function Analysis]]
 
 Parent competency:
 
-- [[L2-explain-multivariable-function-limits-and-continuity|L2- Explain Multivariable Function Limits and Continuity]]
+- [[skills/mathematics/function-analysis/competencies/L1-explain-multivariable-function-limits-and-continuity|L2- Explain Multivariable Function Limits and Continuity]]
 
 ## Description
 

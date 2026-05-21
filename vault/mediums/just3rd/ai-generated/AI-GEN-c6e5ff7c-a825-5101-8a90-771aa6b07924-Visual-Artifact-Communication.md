@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/visual-artifact-communication|Visual Artifact Communication]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/visual-artifact-communication|visual-artifact-communication]]"
 ---
 # Understanding Visual Artifacts for Technical Communication
 

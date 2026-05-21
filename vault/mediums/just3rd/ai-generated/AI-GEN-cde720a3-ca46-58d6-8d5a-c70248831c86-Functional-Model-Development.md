@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/functional-model-development|Functional Model Development]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/functional-model-development|functional-model-development]]"
 ---
 # Developing Functional Models for Interactive Systems
 

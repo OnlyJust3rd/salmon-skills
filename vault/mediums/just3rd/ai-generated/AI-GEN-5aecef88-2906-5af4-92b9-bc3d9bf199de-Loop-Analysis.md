@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/loop-analysis|Loop Analysis]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/loop-analysis|loop-analysis]]"
 ---
 # Loop Analysis: Unpacking Algorithmic Speed
 

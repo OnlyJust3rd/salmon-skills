@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Measured vs. Expected Diode Output"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Experimental Data Evaluation"
-parent-competency: "L5- Discrepancy Justification"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/experimental-data-evaluation/competencies/L3-discrepancy-justification|L3-discrepancy-justification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Measured vs. Expected Diode Output
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/experimental-data-evaluation/experime
 
 Parent competency:
 
-- [[skills/data/data-platforms/experimental-data-evaluation/competencies/L5-discrepancy-justification|L5- Discrepancy Justification]]
+- [[skills/data/data-platforms/experimental-data-evaluation/competencies/L3-discrepancy-justification|L5- Discrepancy Justification]]
 
 ## Description
 

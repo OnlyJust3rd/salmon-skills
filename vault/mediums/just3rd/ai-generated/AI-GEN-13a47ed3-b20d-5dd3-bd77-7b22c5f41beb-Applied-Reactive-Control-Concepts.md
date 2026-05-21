@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/applied-reactive-control-concepts|Applied Reactive Control Concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/applied-reactive-control-concepts|applied-reactive-control-concepts]]"
 ---
 # Understanding Reactive Control in Robotics
 

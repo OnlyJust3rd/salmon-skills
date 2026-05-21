@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interaction-style-comparison|Interaction Style Comparison]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interaction-style-comparison|interaction-style-comparison]]"
 ---
 # Understanding Different Interaction Styles
 

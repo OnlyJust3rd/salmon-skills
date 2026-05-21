@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/closed-loop-gain-concepts|Closed-Loop Gain Concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/closed-loop-gain-concepts|closed-loop-gain-concepts]]"
 ---
 # Understanding Closed-Loop Gain in Op-Amps
 

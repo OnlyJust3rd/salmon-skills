@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/navigation-state|Navigation State]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/navigation-state|navigation-state]]"
 ---
 # Navigating Your Mobile App: Managing State and Transitions
 

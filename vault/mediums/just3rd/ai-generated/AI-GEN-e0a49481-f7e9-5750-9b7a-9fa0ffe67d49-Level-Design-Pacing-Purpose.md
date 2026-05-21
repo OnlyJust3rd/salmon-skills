@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/level-design-pacing-purpose|Level Design Pacing Purpose]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/level-design-pacing-purpose|level-design-pacing-purpose]]"
 ---
 # Understanding Level Design Pacing: Controlling the Game's Rhythm
 

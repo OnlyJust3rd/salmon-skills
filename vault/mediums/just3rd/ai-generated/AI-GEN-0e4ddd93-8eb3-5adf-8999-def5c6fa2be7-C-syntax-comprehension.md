@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/c-syntax-comprehension|C syntax comprehension]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/c-syntax-comprehension|c-syntax-comprehension]]"
 ---
 # C Syntax Comprehension
 

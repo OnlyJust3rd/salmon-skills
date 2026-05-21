@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/rounding-error|Rounding Error]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/rounding-error|rounding-error]]"
 ---
 # Understanding Rounding Error
 

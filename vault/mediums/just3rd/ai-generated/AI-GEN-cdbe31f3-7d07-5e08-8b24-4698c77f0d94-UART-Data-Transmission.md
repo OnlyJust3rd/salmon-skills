@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-data-transmission|UART Data Transmission]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-data-transmission|uart-data-transmission]]"
 ---
 # UART Data Transmission: Sending Data Serially with AVR C
 

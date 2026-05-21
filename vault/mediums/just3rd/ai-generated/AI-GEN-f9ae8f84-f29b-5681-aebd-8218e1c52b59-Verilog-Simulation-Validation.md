@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-simulation-validation|Verilog Simulation Validation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-simulation-validation|verilog-simulation-validation]]"
 ---
 # Validating Verilog Module Behavior with Testbenches
 

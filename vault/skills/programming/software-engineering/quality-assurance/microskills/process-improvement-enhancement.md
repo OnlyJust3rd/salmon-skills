@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Process Improvement Enhancement"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Quality Assurance"
-parent-competency: "L2- Summarize QA Metrics Importance"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/quality-assurance/quality-assurance|quality-assurance]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/quality-assurance/competencies/L1-summarize-qa-metrics-importance|L1-summarize-qa-metrics-importance]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Process Improvement Enhancement
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/quality-assurance/qualit
 
 Parent competency:
 
-- [[skills/programming/software-engineering/quality-assurance/competencies/L2-summarize-qa-metrics-importance|L2- Summarize QA Metrics Importance]]
+- [[skills/programming/software-engineering/quality-assurance/competencies/L1-summarize-qa-metrics-importance|L2- Summarize QA Metrics Importance]]
 
 ## Description
 

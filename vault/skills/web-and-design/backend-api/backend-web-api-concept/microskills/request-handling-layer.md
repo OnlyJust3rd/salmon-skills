@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Request handling layer"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "Backend Web API Concept"
-parent-competency: "L2- Explain Layered Server and HTTP API Responsibilities"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/backend-web-api-concept/backend-web-api-concept|backend-web-api-concept]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/backend-web-api-concept/competencies/L1-explain-layered-server-and-http-api-responsibilities|L1-explain-layered-server-and-http-api-responsibilities]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Request handling layer
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/backend-api/backend-web-api-concept/backen
 
 Parent competency:
 
-- [[skills/web-and-design/backend-api/backend-web-api-concept/competencies/L2-explain-layered-server-and-http-api-responsibilities|L2- Explain Layered Server and HTTP API Responsibilities]]
+- [[skills/web-and-design/backend-api/backend-web-api-concept/competencies/L1-explain-layered-server-and-http-api-responsibilities|L2- Explain Layered Server and HTTP API Responsibilities]]
 
 ## Description
 

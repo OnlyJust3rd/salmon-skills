@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/legal-implication-identification|Legal Implication Identification]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/legal-implication-identification|legal-implication-identification]]"
 ---
 # Understanding the Legal Ramifications of Contractual Agreements
 

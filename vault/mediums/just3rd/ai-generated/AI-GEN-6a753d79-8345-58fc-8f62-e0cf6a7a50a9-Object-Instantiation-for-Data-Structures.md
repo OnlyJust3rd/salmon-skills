@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/object-instantiation-for-data-structures|Object Instantiation for Data Structures]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/object-instantiation-for-data-structures|object-instantiation-for-data-structures]]"
 ---
 # Object Instantiation for Data Structures in Java
 

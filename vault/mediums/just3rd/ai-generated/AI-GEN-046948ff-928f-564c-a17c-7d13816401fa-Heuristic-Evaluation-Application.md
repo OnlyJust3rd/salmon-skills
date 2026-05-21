@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/heuristic-evaluation-application|Heuristic Evaluation Application]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/heuristic-evaluation-application|heuristic-evaluation-application]]"
 ---
 # Applying Heuristic Evaluation to Interactive Systems
 

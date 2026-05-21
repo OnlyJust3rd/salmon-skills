@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|Heterogeneous Computing Architectures]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|heterogeneous-computing-architectures]]"
 ---
 # Heterogeneous Computing Architectures
 

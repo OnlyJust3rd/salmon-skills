@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ai/microskills/state-transition|State Transition]]"
+  - "[[skills/creative-media/game-development/game-ai/microskills/state-transition|state-transition]]"
 ---
 # State Transitions in NPC Behavior
 

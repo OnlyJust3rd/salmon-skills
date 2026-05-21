@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/rdbms-key-components|RDBMS Key Components]]"
+  - "[[skills/data/databases/database-system/microskills/rdbms-key-components|rdbms-key-components]]"
 ---
 # RDBMS Key Components
 

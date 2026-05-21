@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/dtft-magnitude-calculation|DTFT Magnitude Calculation]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/dtft-magnitude-calculation|dtft-magnitude-calculation]]"
 ---
 # DTFT Magnitude Calculation
 

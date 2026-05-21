@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/python-data-analysis-libraries|Python Data Analysis Libraries]]"
+  - "[[skills/programming/programming-languages/python/microskills/python-data-analysis-libraries|python-data-analysis-libraries]]"
 ---
 # Python Data Analysis Libraries: The Essential Toolkit
 

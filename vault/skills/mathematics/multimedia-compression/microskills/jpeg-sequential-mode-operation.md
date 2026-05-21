@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "JPEG Sequential Mode Operation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Multimedia Compression"
-parent-competency: "L2- Explain and Compare JPEG Steps and Modes"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multimedia-compression/multimedia-compression|multimedia-compression]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-explain-and-compare-jpeg-steps-and-modes|L1-explain-and-compare-jpeg-steps-and-modes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # JPEG Sequential Mode Operation
@@ -15,7 +17,7 @@ Parent macro: [[multimedia-compression|Multimedia Compression]]
 
 Parent competency:
 
-- [[L2-explain-and-compare-jpeg-steps-and-modes|L2- Explain and Compare JPEG Steps and Modes]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-explain-and-compare-jpeg-steps-and-modes|L2- Explain and Compare JPEG Steps and Modes]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/fetch-requests|fetch requests]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/fetch-requests|fetch-requests]]"
 ---
 # Fetch Requests: Getting Data with JavaScript
 

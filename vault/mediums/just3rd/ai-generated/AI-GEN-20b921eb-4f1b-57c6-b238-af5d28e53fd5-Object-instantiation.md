@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|Object Instantiation]]"
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-instantiation|Object instantiation]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|object-instantiation]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-instantiation|object-instantiation]]"
 ---
 # Creating Objects: Instantiation in Object-Oriented Programming
 

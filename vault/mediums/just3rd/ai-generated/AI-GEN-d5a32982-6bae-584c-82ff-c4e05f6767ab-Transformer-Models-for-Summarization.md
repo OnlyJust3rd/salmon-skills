@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-summarization/microskills/transformer-models-for-summarization|Transformer Models for Summarization]]"
+  - "[[skills/data/data-science/text-summarization/microskills/transformer-models-for-summarization|transformer-models-for-summarization]]"
 ---
 # Transformer Models for Summarization
 

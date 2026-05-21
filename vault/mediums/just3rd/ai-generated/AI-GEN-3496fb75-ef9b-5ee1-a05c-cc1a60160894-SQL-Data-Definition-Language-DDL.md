@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mysql/microskills/sql-data-definition-language-ddl|SQL Data Definition Language (DDL)]]"
+  - "[[skills/data/databases/mysql/microskills/sql-data-definition-language-ddl|sql-data-definition-language-ddl]]"
 ---
 # Understanding SQL Data Definition Language (DDL)
 

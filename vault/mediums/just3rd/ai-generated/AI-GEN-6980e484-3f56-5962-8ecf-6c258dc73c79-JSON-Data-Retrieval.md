@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-retrieval|JSON Data Retrieval]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-retrieval|json-data-retrieval]]"
 ---
 # Retrieving JSON Data with REST APIs
 

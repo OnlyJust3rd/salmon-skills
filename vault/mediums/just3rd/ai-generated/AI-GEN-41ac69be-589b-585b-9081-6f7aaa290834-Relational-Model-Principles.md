@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/relational-model-principles|Relational Model Principles]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/relational-model-principles|relational-model-principles]]"
 ---
 # Relational Model Principles
 

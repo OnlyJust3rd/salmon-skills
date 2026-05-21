@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mongodb/microskills/mongodb-documents-and-collections|MongoDB Documents and Collections]]"
+  - "[[skills/data/databases/mongodb/microskills/mongodb-documents-and-collections|mongodb-documents-and-collections]]"
 ---
 # Understanding MongoDB Documents and Collections
 

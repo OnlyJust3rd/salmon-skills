@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/fundamental-hpc-components|Fundamental HPC Components]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/fundamental-hpc-components|fundamental-hpc-components]]"
 ---
 # Fundamental HPC Components
 

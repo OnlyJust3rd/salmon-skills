@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|Real-World Serverless Examples]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|real-world-serverless-examples]]"
 ---
 # Real-World Serverless Examples
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-categories-explanation|Digital Watermarking Categories Explanation]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-categories-explanation|digital-watermarking-categories-explanation]]"
 ---
 # Digital Watermarking Categories
 

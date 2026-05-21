@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/state-definition|State definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/state-definition|state-definition]]"
 ---
 # Understanding the "State" in Reinforcement Learning
 

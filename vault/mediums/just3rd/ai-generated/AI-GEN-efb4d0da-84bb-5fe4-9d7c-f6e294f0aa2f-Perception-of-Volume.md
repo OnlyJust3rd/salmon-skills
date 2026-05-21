@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/perception-of-volume|Perception of Volume]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/perception-of-volume|perception-of-volume]]"
 ---
 # Understanding How Shading Creates the Perception of Volume
 

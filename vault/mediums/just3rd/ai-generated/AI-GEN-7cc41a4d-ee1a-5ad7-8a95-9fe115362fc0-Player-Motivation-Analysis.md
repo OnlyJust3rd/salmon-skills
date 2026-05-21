@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/player-motivation-analysis|Player Motivation Analysis]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/player-motivation-analysis|player-motivation-analysis]]"
 ---
 # Applying Maslow's Hierarchy to Player Motivation
 

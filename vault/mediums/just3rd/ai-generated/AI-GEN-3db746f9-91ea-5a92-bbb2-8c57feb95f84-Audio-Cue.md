@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-audio/microskills/audio-cue|Audio Cue]]"
+  - "[[skills/creative-media/game-development/game-audio/microskills/audio-cue|audio-cue]]"
 ---
 # Understanding Audio Cues in Games
 

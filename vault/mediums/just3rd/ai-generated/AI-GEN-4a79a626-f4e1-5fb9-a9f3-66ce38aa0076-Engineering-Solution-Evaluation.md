@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-solution-evaluation|Engineering Solution Evaluation]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-solution-evaluation|engineering-solution-evaluation]]"
 ---
 # Evaluating Engineering Solutions: Finding the Best Fit
 

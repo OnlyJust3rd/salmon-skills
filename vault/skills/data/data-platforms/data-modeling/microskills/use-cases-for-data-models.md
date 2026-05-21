@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Use Cases for Data Models"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Modeling"
-parent-competency: "L2- Explain Data Model Principles and Techniques"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-modeling/data-modeling|data-modeling]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L1-explain-data-model-principles-and-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Use Cases for Data Models
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-modeling/data-modeling|Data Mode
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-modeling/competencies/L2-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]]
+- [[skills/data/data-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]]
 
 ## Description
 

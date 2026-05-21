@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/interrupt-driven-communication|Interrupt-Driven Communication]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/interrupt-driven-communication|interrupt-driven-communication]]"
 ---
 # Interrupt-Driven Communication
 

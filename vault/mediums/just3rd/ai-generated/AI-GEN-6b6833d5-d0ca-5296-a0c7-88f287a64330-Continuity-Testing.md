@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/continuity-testing|Continuity Testing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/continuity-testing|continuity-testing]]"
 ---
 # Continuity Testing: Verifying Electrical Paths
 

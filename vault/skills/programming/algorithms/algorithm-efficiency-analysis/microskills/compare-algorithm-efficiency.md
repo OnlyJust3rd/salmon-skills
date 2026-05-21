@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Compare Algorithm Efficiency"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Algorithm Efficiency Analysis"
-parent-competency: "L4- Analyze and Compare Algorithm Complexity"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-efficiency-analysis/algorithm-efficiency-analysis|algorithm-efficiency-analysis]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/competencies/L3-analyze-and-compare-algorithm-complexity|L3-analyze-and-compare-algorithm-complexity]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Compare Algorithm Efficiency
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-efficiency-analysis/algo
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-efficiency-analysis/competencies/L4-analyze-and-compare-algorithm-complexity|L4- Analyze and Compare Algorithm Complexity]]
+- [[skills/programming/algorithms/algorithm-efficiency-analysis/competencies/L3-analyze-and-compare-algorithm-complexity|L4- Analyze and Compare Algorithm Complexity]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/rule-based-alerting-implementation|Rule-Based Alerting Implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/rule-based-alerting-implementation|rule-based-alerting-implementation]]"
 ---
 # Implementing Rule-Based Alerting
 

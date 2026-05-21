@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/endpoint-administration/microskills/maintenance-task|Maintenance Task]]"
+  - "[[skills/business-it/business-product/endpoint-administration/microskills/maintenance-task|maintenance-task]]"
 ---
 # Performing Routine Endpoint Maintenance Tasks
 

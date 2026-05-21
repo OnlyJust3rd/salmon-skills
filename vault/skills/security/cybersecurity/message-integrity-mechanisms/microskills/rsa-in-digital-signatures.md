@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "RSA in Digital Signatures"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Message Integrity Mechanisms"
-parent-competency: "L2- Describe Digital Signatures"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/message-integrity-mechanisms/message-integrity-mechanisms|message-integrity-mechanisms]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/competencies/L1-describe-digital-signatures|L1-describe-digital-signatures]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # RSA in Digital Signatures
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/message-integrity-mechanisms/messa
 
 Parent competency:
 
-- [[skills/security/cybersecurity/message-integrity-mechanisms/competencies/L2-describe-digital-signatures|L2- Describe Digital Signatures]]
+- [[skills/security/cybersecurity/message-integrity-mechanisms/competencies/L1-describe-digital-signatures|L2- Describe Digital Signatures]]
 
 ## Description
 

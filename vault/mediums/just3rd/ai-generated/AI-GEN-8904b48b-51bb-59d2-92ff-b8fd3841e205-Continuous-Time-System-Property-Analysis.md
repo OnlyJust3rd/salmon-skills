@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/continuous-time-system-property-analysis|Continuous-Time System Property Analysis]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/continuous-time-system-property-analysis|continuous-time-system-property-analysis]]"
 ---
 # Analyzing Causality and Stability in Continuous-Time Systems
 

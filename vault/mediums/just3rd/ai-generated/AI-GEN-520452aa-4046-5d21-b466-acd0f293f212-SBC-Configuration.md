@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sbc-configuration|SBC Configuration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sbc-configuration|sbc-configuration]]"
 ---
 # SBC Configuration for Embedded Systems
 

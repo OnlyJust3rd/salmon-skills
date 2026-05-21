@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/cramer-s-rule-steps|Cramer's Rule steps]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/cramer-s-rule-steps|cramer-s-rule-steps]]"
 ---
 # Cramer's Rule Steps: Solving Systems with Determinants
 

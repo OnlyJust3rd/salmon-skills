@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Serial Communication Characteristics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Input Output Interfacing"
-parent-competency: "L4- Analyze Comm Interfaces"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L3-analyze-comm-interfaces|L3-analyze-comm-interfaces]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Serial Communication Characteristics
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/input-output-inter
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L4-analyze-comm-interfaces|L4- Analyze Comm Interfaces]]
+- [[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L3-analyze-comm-interfaces|L4- Analyze Comm Interfaces]]
 
 ## Description
 

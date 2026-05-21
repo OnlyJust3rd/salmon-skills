@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/acyclic-graph-directory-structure|Acyclic Graph Directory Structure]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/acyclic-graph-directory-structure|acyclic-graph-directory-structure]]"
 ---
 # Understanding Linux Directory Structure: The Acyclic Graph
 

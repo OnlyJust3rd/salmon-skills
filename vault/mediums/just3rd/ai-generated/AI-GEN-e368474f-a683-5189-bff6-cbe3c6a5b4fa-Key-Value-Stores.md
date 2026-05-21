@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/key-value-stores|Key-Value Stores]]"
+  - "[[skills/data/databases/nosql-database/microskills/key-value-stores|key-value-stores]]"
 ---
 # Understanding Key-Value Stores: A Core NoSQL Type
 

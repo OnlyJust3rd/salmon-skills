@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/openmp/microskills/computational-problem-parallelization|Computational Problem Parallelization]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/computational-problem-parallelization|computational-problem-parallelization]]"
 ---
 # Parallelizing Computational Problems with OpenMP
 

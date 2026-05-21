@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Containerization Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Virtualization"
-parent-competency: "L2- Container Fundamentals"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-virtualization/system-virtualization|system-virtualization]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-container-fundamentals|L1-container-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Containerization Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/system-virtualization/s
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-container-fundamentals|L2- Container Fundamentals]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-container-fundamentals|L2- Container Fundamentals]]
 
 ## Description
 

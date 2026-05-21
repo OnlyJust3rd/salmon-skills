@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Proactive Issue Detection"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure Alert"
-parent-competency: "L2- Purpose of alerting"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-alert/infrastructure-alert|infrastructure-alert]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/competencies/L1-purpose-of-alerting|L1-purpose-of-alerting]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Proactive Issue Detection
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/infrastructure-alert/in
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/infrastructure-alert/competencies/L2-purpose-of-alerting|L2- Purpose of alerting]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-alert/competencies/L1-purpose-of-alerting|L2- Purpose of alerting]]
 
 ## Description
 

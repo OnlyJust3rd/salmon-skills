@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/netplan-network-configuration|Netplan Network Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/netplan-network-configuration|netplan-network-configuration]]"
 ---
 # Configuring Network Interfaces with Netplan
 

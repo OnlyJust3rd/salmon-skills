@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermark-type-classification|Watermark Type Classification]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermark-type-classification|watermark-type-classification]]"
 ---
 # Classifying Digital Watermark Types
 

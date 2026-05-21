@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-counter-code-examination|Verilog Counter Code Examination]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-counter-code-examination|verilog-counter-code-examination]]"
 ---
 # Examining Verilog Counter Code
 

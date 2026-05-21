@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/lfsr-definition-recall|LFSR Definition Recall]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/lfsr-definition-recall|lfsr-definition-recall]]"
 ---
 # Understanding Linear Feedback Shift Registers (LFSRs)
 

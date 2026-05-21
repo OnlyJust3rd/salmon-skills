@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/system-level-design-methods|System-Level Design Methods]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/system-level-design-methods|system-level-design-methods]]"
 ---
 # System-Level Design Methods
 

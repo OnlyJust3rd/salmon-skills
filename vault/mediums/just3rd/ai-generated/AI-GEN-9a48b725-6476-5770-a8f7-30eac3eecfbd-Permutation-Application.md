@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/combinatorial-analysis/microskills/permutation-application|Permutation Application]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/permutation-application|permutation-application]]"
 ---
 # Permutation Application: Counting Ordered Arrangements
 

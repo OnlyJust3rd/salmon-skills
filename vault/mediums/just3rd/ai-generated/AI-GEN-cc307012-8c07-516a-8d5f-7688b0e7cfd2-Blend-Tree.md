@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-animation/microskills/blend-tree|Blend Tree]]"
+  - "[[skills/creative-media/game-development/game-animation/microskills/blend-tree|blend-tree]]"
 ---
 # Blend Trees: Smoothly Merging Animations
 

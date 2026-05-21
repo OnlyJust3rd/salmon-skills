@@ -1,22 +1,46 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Game Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 486 - Game Design and Development"
-coverage:
-  - "Concept"
-  - "Analysis"
-competency-count: 7
-microskill-count: 22
-related-jobs:
-  - "Game Developer"
-  - "Game Designer"
-  - "Level Designer"
-  - "Game QA Tester"
-  - "Game UI/UX Designer"
-source-note: "courses/kmutt/cpe-2021/cpe-486-game-design-and-development"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/creative-media/game-development/game-design/competencies/L1-explain-game-elements-and-functions|L1-explain-game-elements-and-functions]]"
+  - "[[skills/creative-media/game-development/game-design/competencies/L1-explain-game-genres|L1-explain-game-genres]]"
+  - "[[skills/creative-media/game-development/game-design/competencies/L1-explain-gameplay-mechanics-and-character-abilities|L1-explain-gameplay-mechanics-and-character-abilities]]"
+  - "[[skills/creative-media/game-development/game-design/competencies/L1-understand-level-design-elements|L1-understand-level-design-elements]]"
+  - "[[skills/creative-media/game-development/game-design/competencies/L2-apply-game-design-principles|L2-apply-game-design-principles]]"
+  - "[[skills/creative-media/game-development/game-design/competencies/L2-implement-basic-character-mechanics|L2-implement-basic-character-mechanics]]"
+  - "[[skills/creative-media/game-development/game-design/competencies/L2-implement-interactive-elements|L2-implement-interactive-elements]]"
+standard-competency:
+  - "[[skills/creative-media/game-development/game-design/competencies/L2-apply-game-design-principles|L2-apply-game-design-principles]]"
+  - "[[skills/creative-media/game-development/game-design/competencies/L2-implement-basic-character-mechanics|L2-implement-basic-character-mechanics]]"
+  - "[[skills/creative-media/game-development/game-design/competencies/L2-implement-interactive-elements|L2-implement-interactive-elements]]"
+microskills:
+  - "[[skills/creative-media/game-development/game-design/microskills/action-to-mechanic-translation|action-to-mechanic-translation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/character-abilities-as-mechanics|character-abilities-as-mechanics]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/character-functionality-execution|character-functionality-execution]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/core-gameplay-mechanics|core-gameplay-mechanics]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/engagement-enhancement-through-interaction|engagement-enhancement-through-interaction]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/fundamental-game-building-blocks|fundamental-game-building-blocks]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/gameplay-contribution-analysis|gameplay-contribution-analysis]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/gameplay-driven-genre-classification|gameplay-driven-genre-classification]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/gameplay-mechanics-definition|gameplay-mechanics-definition]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/genre-categorization-criteria|genre-categorization-criteria]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/interactive-level-elements|interactive-level-elements]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/interactive-systems-explanation|interactive-systems-explanation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/level-design-pacing-purpose|level-design-pacing-purpose]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/player-engagement-impact|player-engagement-impact]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/player-experience-formulation|player-experience-formulation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/player-progression-guidance|player-progression-guidance]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/principle-application-in-prototyping|principle-application-in-prototyping]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/role-based-mechanic-implementation|role-based-mechanic-implementation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/rule-content-and-mechanic-integration|rule-content-and-mechanic-integration]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/rules-objectives-and-mechanics|rules-objectives-and-mechanics]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/simple-mechanic-creation|simple-mechanic-creation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/strategic-element-placement|strategic-element-placement]]"
 ---
 
 # Game Design
@@ -25,13 +49,13 @@ Analyze and define core game design concepts, including rules, mechanics, object
 
 ## Competencies
 
-- [[skills/creative-media/game-development/game-design/competencies/L2-explain-game-genres|L2- Explain Game Genres]]
-- [[skills/creative-media/game-development/game-design/competencies/L2-explain-game-elements-and-functions|L2- Explain Game Elements and Functions]]
-- [[skills/creative-media/game-development/game-design/competencies/L2-explain-gameplay-mechanics-and-character-abilities|L2- Explain Gameplay Mechanics and Character Abilities]]
-- [[skills/creative-media/game-development/game-design/competencies/L3-implement-basic-character-mechanics|L3- Implement Basic Character Mechanics]]
-- [[skills/creative-media/game-development/game-design/competencies/L2-understand-level-design-elements|L2- Understand Level Design Elements]]
-- [[skills/creative-media/game-development/game-design/competencies/L3-implement-interactive-elements|L3- Implement Interactive Elements]]
-- [[skills/creative-media/game-development/game-design/competencies/L3-apply-game-design-principles|L3- Apply Game Design Principles]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-explain-game-genres|L2- Explain Game Genres]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-explain-game-elements-and-functions|L2- Explain Game Elements and Functions]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-explain-gameplay-mechanics-and-character-abilities|L2- Explain Gameplay Mechanics and Character Abilities]]
+- [[skills/creative-media/game-development/game-design/competencies/L2-implement-basic-character-mechanics|L3- Implement Basic Character Mechanics]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-understand-level-design-elements|L2- Understand Level Design Elements]]
+- [[skills/creative-media/game-development/game-design/competencies/L2-implement-interactive-elements|L3- Implement Interactive Elements]]
+- [[skills/creative-media/game-development/game-design/competencies/L2-apply-game-design-principles|L3- Apply Game Design Principles]]
 
 ## Microskills
 

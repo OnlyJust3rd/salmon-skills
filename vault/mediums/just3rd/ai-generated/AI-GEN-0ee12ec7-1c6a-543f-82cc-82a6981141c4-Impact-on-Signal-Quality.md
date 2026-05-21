@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/impact-on-signal-quality|Impact on Signal Quality]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/impact-on-signal-quality|impact-on-signal-quality]]"
 ---
 # Understanding the Impact of Transmission Impairments on Signal Quality
 

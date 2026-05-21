@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/product-strategy/microskills/value-proposition|Value Proposition]]"
+  - "[[skills/business-it/business-product/product-strategy/microskills/value-proposition|value-proposition]]"
 ---
 # Understanding Your Value Proposition
 

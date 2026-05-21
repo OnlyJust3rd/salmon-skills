@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/experimental-design-influence|Experimental Design Influence]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/experimental-design-influence|experimental-design-influence]]"
 ---
 # Understanding How Cognitive and Perceptual Factors Influence Experimental Design
 

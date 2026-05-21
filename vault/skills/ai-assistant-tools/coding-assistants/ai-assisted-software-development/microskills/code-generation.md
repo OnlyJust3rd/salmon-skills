@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Code Generation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-parent-macro: "AI-Assisted Software Development"
-parent-competency: "L2- Explain AI-Assisted Coding Concepts"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/ai-assisted-software-development|ai-assisted-software-development]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/competencies/L1-explain-ai-assisted-coding-concepts|L1-explain-ai-assisted-coding-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Code Generation
@@ -15,7 +17,7 @@ Parent macro: [[ai-assisted-software-development|AI-Assisted Software Developmen
 
 Parent competency:
 
-- [[L2-explain-ai-assisted-coding-concepts|L2- Explain AI-Assisted Coding Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/competencies/L1-explain-ai-assisted-coding-concepts|L2- Explain AI-Assisted Coding Concepts]]
 
 ## Description
 

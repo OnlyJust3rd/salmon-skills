@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-file-configuration|3D Printing File Configuration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-file-configuration|3d-printing-file-configuration]]"
 ---
 # 3D Printing File Configuration
 

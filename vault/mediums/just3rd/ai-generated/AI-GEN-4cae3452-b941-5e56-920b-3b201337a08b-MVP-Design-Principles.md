@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-design-principles|MVP Design Principles]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-design-principles|mvp-design-principles]]"
 ---
 # MVP Design Principles: Focusing on Core Value
 

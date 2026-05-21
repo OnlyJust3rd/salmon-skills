@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/containerized-application-deployment|Containerized Application Deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/containerized-application-deployment|containerized-application-deployment]]"
 ---
 # Deploying Containerized Applications with Kubernetes Deployments
 

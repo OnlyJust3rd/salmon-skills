@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-tool-primary-functions|CAD Tool Primary Functions]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/cad-tool-primary-functions|cad-tool-primary-functions]]"
 ---
 # CAD Tool Primary Functions
 

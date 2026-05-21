@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/network-configuration-automation|Network Configuration Automation]]"
+  - "[[skills/systems/networking/network-layer/microskills/network-configuration-automation|network-configuration-automation]]"
 ---
 # DHCP: Your Network's Automatic Address Book
 

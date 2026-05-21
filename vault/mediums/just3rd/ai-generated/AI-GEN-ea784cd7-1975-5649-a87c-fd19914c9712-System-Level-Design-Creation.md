@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/system-level-design-creation|System-Level Design Creation]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/system-level-design-creation|system-level-design-creation]]"
 ---
 # Creating Foundational System-Level Designs
 

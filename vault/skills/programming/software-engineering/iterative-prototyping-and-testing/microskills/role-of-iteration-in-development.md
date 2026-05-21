@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Role of Iteration in Development"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Iterative Prototyping and Testing"
-parent-competency: "L2- Describe Iterative Improvement"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/iterative-prototyping-and-testing/iterative-prototyping-and-testing|iterative-prototyping-and-testing]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/competencies/L1-describe-iterative-improvement|L1-describe-iterative-improvement]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Role of Iteration in Development
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/iterative-prototyping-an
 
 Parent competency:
 
-- [[skills/programming/software-engineering/iterative-prototyping-and-testing/competencies/L2-describe-iterative-improvement|L2- Describe Iterative Improvement]]
+- [[skills/programming/software-engineering/iterative-prototyping-and-testing/competencies/L1-describe-iterative-improvement|L2- Describe Iterative Improvement]]
 
 ## Description
 

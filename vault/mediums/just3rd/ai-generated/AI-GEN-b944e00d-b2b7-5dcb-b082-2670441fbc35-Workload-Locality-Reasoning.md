@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/workload-locality-reasoning|Workload Locality Reasoning]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/workload-locality-reasoning|workload-locality-reasoning]]"
 ---
 # Understanding Workload Locality for Smarter Memory
 

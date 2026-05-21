@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-development-lifecycle/microskills/phase-purpose-and-activities|Phase Purpose and Activities]]"
+  - "[[skills/creative-media/game-development/game-development-lifecycle/microskills/phase-purpose-and-activities|phase-purpose-and-activities]]"
 ---
 # Understanding Game Development Phases: Purpose and Activities
 

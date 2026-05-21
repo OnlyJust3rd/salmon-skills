@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/chapter-4-ann-topics|Chapter 4 ANN Topics]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/chapter-4-ann-topics|chapter-4-ann-topics]]"
 ---
 # Chapter 4 ANN Topics: Key Concepts
 

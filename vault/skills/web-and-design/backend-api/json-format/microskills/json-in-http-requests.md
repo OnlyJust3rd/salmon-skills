@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "JSON in HTTP requests"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "JSON Format"
-parent-competency: "L2- Explain JSON in HTTP Message Bodies"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/json-format/json-format|json-format]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/json-format/competencies/L1-explain-json-in-http-message-bodies|L1-explain-json-in-http-message-bodies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # JSON in HTTP requests
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/backend-api/json-format/json-format|JSON F
 
 Parent competency:
 
-- [[skills/web-and-design/backend-api/json-format/competencies/L2-explain-json-in-http-message-bodies|L2- Explain JSON in HTTP Message Bodies]]
+- [[skills/web-and-design/backend-api/json-format/competencies/L1-explain-json-in-http-message-bodies|L2- Explain JSON in HTTP Message Bodies]]
 
 ## Description
 

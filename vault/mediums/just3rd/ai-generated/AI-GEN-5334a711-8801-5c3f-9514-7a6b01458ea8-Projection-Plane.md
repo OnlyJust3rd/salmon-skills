@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-plane|Projection Plane]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-plane|projection-plane]]"
 ---
 # Understanding the Projection Plane in Perspective Projection
 

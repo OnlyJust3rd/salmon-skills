@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Industry Sectors Utilizing Computing"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Soft Computing"
-parent-competency: "L1- List Industrial Applications"
+  - "microskill"
+parent-skill: "[[skills/data/ai/soft-computing/soft-computing|soft-computing]]"
+requires-in-competencies:
+  - "[[skills/data/ai/soft-computing/competencies/L1-list-industrial-applications|L1-list-industrial-applications]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Industry Sectors Utilizing Computing

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/non-competition-clause-purpose|Non-Competition Clause Purpose]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/non-competition-clause-purpose|non-competition-clause-purpose]]"
 ---
 # Understanding Non-Competition Clauses
 

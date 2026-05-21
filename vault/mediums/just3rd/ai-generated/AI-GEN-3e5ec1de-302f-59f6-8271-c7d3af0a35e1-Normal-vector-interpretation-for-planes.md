@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-interpretation-for-planes|Normal vector interpretation for planes]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-interpretation-for-planes|normal-vector-interpretation-for-planes]]"
 ---
 # Understanding the Normal Vector of a Plane
 

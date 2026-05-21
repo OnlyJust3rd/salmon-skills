@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/access-control-for-drm|Access Control for DRM]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/access-control-for-drm|access-control-for-drm]]"
 ---
 # Access Control for Digital Rights Management (DRM)
 

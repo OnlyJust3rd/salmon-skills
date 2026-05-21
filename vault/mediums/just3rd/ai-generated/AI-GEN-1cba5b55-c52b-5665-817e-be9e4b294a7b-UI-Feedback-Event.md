@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ui/microskills/ui-feedback-event|UI Feedback Event]]"
+  - "[[skills/creative-media/game-development/game-ui/microskills/ui-feedback-event|ui-feedback-event]]"
 ---
 # UI Feedback Events in Game Interfaces
 

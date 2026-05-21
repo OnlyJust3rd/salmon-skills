@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-series-representation-computation|Fourier series representation computation]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-series-representation-computation|fourier-series-representation-computation]]"
 ---
 # Computing Fourier Series Coefficients
 

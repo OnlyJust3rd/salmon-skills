@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/implicit-differentiation-purpose-and-application|Implicit differentiation purpose and application]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/implicit-differentiation-purpose-and-application|implicit-differentiation-purpose-and-application]]"
 ---
 # Understanding Implicit Differentiation
 

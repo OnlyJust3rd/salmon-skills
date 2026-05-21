@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/polygon-budget|Polygon Budget]]"
+  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/polygon-budget|polygon-budget]]"
 ---
 # Polygon Budget: Keeping Your 3D Models Lean and Mean
 

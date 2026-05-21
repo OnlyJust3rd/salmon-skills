@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/shared-channel-access|Shared Channel Access]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/shared-channel-access|shared-channel-access]]"
 ---
 # Sharing the Highway: Understanding Shared Channel Access
 

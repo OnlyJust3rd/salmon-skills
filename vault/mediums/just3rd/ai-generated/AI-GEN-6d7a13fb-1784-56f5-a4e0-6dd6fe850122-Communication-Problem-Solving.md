@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/communication-problem-solving|Communication Problem Solving]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/communication-problem-solving|communication-problem-solving]]"
 ---
 # Communication Problem Solving: Bridging Gaps for Better Teamwork
 

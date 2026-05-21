@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/problem-type-algorithm-implementation|Problem Type Algorithm Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/problem-type-algorithm-implementation|problem-type-algorithm-implementation]]"
 ---
 # Implementing the Binary Search Algorithm in Java
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-testing/microskills/playtest|Playtest]]"
+  - "[[skills/creative-media/game-development/game-testing/microskills/playtest|playtest]]"
 ---
 # Understanding Playtesting
 

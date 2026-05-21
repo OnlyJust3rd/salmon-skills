@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/circuit-parameter-calculation|Circuit Parameter Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/circuit-parameter-calculation|circuit-parameter-calculation]]"
 ---
 # Calculating Circuit Parameters
 

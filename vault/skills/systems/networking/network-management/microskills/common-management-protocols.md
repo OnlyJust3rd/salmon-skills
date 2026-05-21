@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Common Management Protocols"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Management"
-parent-competency: "L1- Identify Management Concepts and Protocols"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-management/network-management|network-management]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-management/competencies/L1-identify-management-concepts-and-protocols|L1-identify-management-concepts-and-protocols]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Common Management Protocols

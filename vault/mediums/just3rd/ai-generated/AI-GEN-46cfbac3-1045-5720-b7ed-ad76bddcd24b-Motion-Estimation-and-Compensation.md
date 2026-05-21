@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/motion-estimation-and-compensation|Motion Estimation and Compensation]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/motion-estimation-and-compensation|motion-estimation-and-compensation]]"
 ---
 # Motion Estimation and Compensation: Understanding Video Compression
 

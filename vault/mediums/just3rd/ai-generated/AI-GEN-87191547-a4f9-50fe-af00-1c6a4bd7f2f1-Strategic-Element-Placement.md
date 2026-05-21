@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/strategic-element-placement|Strategic Element Placement]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/strategic-element-placement|strategic-element-placement]]"
 ---
 # Strategic Element Placement: Guiding Players and Enhancing Engagement
 

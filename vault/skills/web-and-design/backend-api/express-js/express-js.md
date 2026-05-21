@@ -1,19 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Express.js"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - web stack skills"
-coverage:
-  - "Concept"
-  - "ToolUsage"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Backend Developer"
-  - "Full Stack Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/backend-api/express-js/competencies/L1-explain-express-js-routing-middleware-and-http-pipeline|L1-explain-express-js-routing-middleware-and-http-pipeline]]"
+  - "[[skills/web-and-design/backend-api/express-js/competencies/L2-implement-rest-json-api-with-express|L2-implement-rest-json-api-with-express]]"
+standard-competency:
+  - "[[skills/web-and-design/backend-api/express-js/competencies/L2-implement-rest-json-api-with-express|L2-implement-rest-json-api-with-express]]"
+microskills:
+  - "[[skills/web-and-design/backend-api/express-js/microskills/error-handling-middleware|error-handling-middleware]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/express-application-setup|express-application-setup]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/json-route-handlers|json-route-handlers]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/middleware-chain|middleware-chain]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/request-and-response-objects|request-and-response-objects]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/router-configuration|router-configuration]]"
 ---
 
 # Express.js
@@ -22,8 +26,8 @@ Building HTTP application programming interfaces with Express.js: routers, middl
 
 ## Competencies
 
-- [[skills/web-and-design/backend-api/express-js/competencies/L2-explain-express-js-routing-middleware-and-http-pipeline|L2- Explain Express.js Routing Middleware and HTTP Pipeline]]
-- [[skills/web-and-design/backend-api/express-js/competencies/L3-implement-rest-json-api-with-express|L3- Implement REST JSON API with Express]]
+- [[skills/web-and-design/backend-api/express-js/competencies/L1-explain-express-js-routing-middleware-and-http-pipeline|L2- Explain Express.js Routing Middleware and HTTP Pipeline]]
+- [[skills/web-and-design/backend-api/express-js/competencies/L2-implement-rest-json-api-with-express|L3- Implement REST JSON API with Express]]
 
 ## Microskills
 

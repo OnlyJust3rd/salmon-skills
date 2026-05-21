@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvectors|Geometric meaning of eigenvectors]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvectors|geometric-meaning-of-eigenvectors]]"
 ---
 # The Unchanging Direction: Geometric Meaning of Eigenvectors
 

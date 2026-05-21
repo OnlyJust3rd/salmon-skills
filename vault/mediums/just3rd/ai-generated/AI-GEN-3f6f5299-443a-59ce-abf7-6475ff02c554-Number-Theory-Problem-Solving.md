@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/number-theory-problem-solving|Number Theory Problem Solving]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/number-theory-problem-solving|number-theory-problem-solving]]"
 ---
 # Number Theory Problem Solving
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/shader-programming/microskills/vertex-shader|Vertex Shader]]"
+  - "[[skills/programming/programming-languages/shader-programming/microskills/vertex-shader|vertex-shader]]"
 ---
 # Vertex Shader: The Foundation of Geometry Processing
 

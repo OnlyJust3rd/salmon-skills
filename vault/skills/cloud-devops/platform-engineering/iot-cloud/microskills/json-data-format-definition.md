@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "JSON Data Format Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Cloud"
-parent-competency: "L1- Define APIs and JSON"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/iot-cloud/iot-cloud|iot-cloud]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L1-define-apis-and-json|L1-define-apis-and-json]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # JSON Data Format Definition

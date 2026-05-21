@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/esg-application-in-business|ESG Application in Business]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/esg-application-in-business|esg-application-in-business]]"
 ---
 # ESG Application in Business
 

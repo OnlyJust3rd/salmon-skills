@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Impact of Pricing Models on Cost"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud FinOps"
-parent-competency: "L2- Cloud Cost Management and Pricing"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-finops/cloud-finops|cloud-finops]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-cloud-cost-management-and-pricing|L1-cloud-cost-management-and-pricing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Impact of Pricing Models on Cost
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-finops/cloud-fino
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L2-cloud-cost-management-and-pricing|L2- Cloud Cost Management and Pricing]]
+- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-cloud-cost-management-and-pricing|L2- Cloud Cost Management and Pricing]]
 
 ## Description
 

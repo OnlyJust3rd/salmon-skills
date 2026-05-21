@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-visualization/microskills/python-visualization-application|Python Visualization Application]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/python-visualization-application|python-visualization-application]]"
 ---
 # Applying Matplotlib for Problem-Solving in Python
 

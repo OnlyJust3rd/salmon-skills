@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-characteristics|Reactive Control Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-characteristics|reactive-control-characteristics]]"
 ---
 # Reactive Control Characteristics
 

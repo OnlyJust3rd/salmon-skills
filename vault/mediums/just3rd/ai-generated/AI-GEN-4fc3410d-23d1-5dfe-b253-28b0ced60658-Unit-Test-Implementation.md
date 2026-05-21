@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-testing/microskills/unit-test-implementation|Unit Test Implementation]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/unit-test-implementation|unit-test-implementation]]"
 ---
 # Implementing Unit Tests with JUnit
 

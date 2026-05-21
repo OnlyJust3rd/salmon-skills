@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Game Storytelling Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Player Psychology"
-parent-competency: "L4- Analyze Storytelling Strategies"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/player-psychology/player-psychology|player-psychology]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/player-psychology/competencies/L3-analyze-storytelling-strategies|L3-analyze-storytelling-strategies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Game Storytelling Components
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/player-psychology/player-
 
 Parent competency:
 
-- [[skills/creative-media/game-development/player-psychology/competencies/L4-analyze-storytelling-strategies|L4- Analyze Storytelling Strategies]]
+- [[skills/creative-media/game-development/player-psychology/competencies/L3-analyze-storytelling-strategies|L4- Analyze Storytelling Strategies]]
 
 ## Description
 

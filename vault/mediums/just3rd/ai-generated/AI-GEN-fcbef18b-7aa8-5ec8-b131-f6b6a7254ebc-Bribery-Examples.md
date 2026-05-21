@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/bribery-examples|Bribery Examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/bribery-examples|bribery-examples]]"
 ---
 # Bribery: Understanding a Common Unethical Business Behavior
 

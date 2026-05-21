@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/relationship-between-critical-points-and-extrema|Relationship between critical points and extrema]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/relationship-between-critical-points-and-extrema|relationship-between-critical-points-and-extrema]]"
 ---
 # Critical Points and Their Connection to Extrema
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/text-cleaning-terminology|Text Cleaning Terminology]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/text-cleaning-terminology|text-cleaning-terminology]]"
 ---
 # Text Cleaning Terminology
 

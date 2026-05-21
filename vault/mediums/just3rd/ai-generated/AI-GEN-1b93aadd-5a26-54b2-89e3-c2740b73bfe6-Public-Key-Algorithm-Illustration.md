@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/public-key-algorithm-illustration|Public Key Algorithm Illustration]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/public-key-algorithm-illustration|public-key-algorithm-illustration]]"
 ---
 # Illustrating Public Key Algorithm Operations
 

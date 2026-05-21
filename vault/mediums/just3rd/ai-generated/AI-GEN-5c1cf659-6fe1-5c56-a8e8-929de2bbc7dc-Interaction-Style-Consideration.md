@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interaction-style-consideration|Interaction Style Consideration]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interaction-style-consideration|interaction-style-consideration]]"
 ---
 # Understanding and Applying Interaction Styles in Interface Design
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/serverless-deployment-automation|Serverless Deployment Automation]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/serverless-deployment-automation|serverless-deployment-automation]]"
 ---
 # Understanding Serverless Deployment Automation: CI/CD Pipeline Purpose and Stages
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Physical Address Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Memory Virtualization"
-parent-competency: "L2- Explain Address Types and Differences"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/memory-virtualization/memory-virtualization|memory-virtualization]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/memory-virtualization/competencies/L1-explain-address-types-and-differences|L1-explain-address-types-and-differences]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Physical Address Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/memory-virtualization/memory-vi
 
 Parent competency:
 
-- [[skills/systems/operating-systems/memory-virtualization/competencies/L2-explain-address-types-and-differences|L2- Explain Address Types and Differences]]
+- [[skills/systems/operating-systems/memory-virtualization/competencies/L1-explain-address-types-and-differences|L2- Explain Address Types and Differences]]
 
 ## Description
 

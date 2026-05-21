@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/simplified-block-cipher-operation|Simplified Block Cipher Operation]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/simplified-block-cipher-operation|simplified-block-cipher-operation]]"
 ---
 # Simplified Block Cipher Operations: SubBytes and ShiftRows
 

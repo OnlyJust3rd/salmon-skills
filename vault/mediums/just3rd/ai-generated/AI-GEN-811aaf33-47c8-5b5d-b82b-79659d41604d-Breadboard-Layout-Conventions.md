@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/breadboard-layout-conventions|Breadboard Layout Conventions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/breadboard-layout-conventions|breadboard-layout-conventions]]"
 ---
 # Understanding Breadboard Layout Conventions
 

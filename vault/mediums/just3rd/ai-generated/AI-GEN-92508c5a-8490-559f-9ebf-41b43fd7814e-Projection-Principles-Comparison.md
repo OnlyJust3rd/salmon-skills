@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-principles-comparison|Projection Principles Comparison]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-principles-comparison|projection-principles-comparison]]"
 ---
 # Understanding Projection Principles: Parallel vs. Perspective
 

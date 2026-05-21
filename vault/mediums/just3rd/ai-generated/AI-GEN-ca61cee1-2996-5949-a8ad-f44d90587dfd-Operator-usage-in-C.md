@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/operator-usage-in-c|Operator usage in C]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/operator-usage-in-c|operator-usage-in-c]]"
 ---
 # Operator Usage in C
 

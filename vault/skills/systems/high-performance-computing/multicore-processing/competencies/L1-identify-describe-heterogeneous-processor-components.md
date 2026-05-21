@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify/Describe Heterogeneous Processor Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Multicore Processing"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain HPC Architecture Evolution and Components"
+  - "[[skills/systems/high-performance-computing/hpc-system/competencies/L1-explain-hpc-architecture-evolution-and-components|L1-explain-hpc-architecture-evolution-and-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/high-performance-computing/multicore-processing/multicore-processing|multicore-processing]]"
+requires-microskills:
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/ai-processor-architectural-components|ai-processor-architectural-components]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-architectural-components|gpgpu-architectural-components]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|heterogeneous-computing-architectures]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|xeon-phi-processor-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify/Describe Heterogeneous Processor Components
@@ -25,7 +28,7 @@ Identify and describe the key architectural components and characteristics of GP
 
 ## Strict Prerequisites
 
-- [[skills/systems/high-performance-computing/hpc-system/competencies/L2-explain-hpc-architecture-evolution-and-components|L2- Explain HPC Architecture Evolution and Components]]
+- [[skills/systems/high-performance-computing/hpc-system/competencies/L1-explain-hpc-architecture-evolution-and-components|L2- Explain HPC Architecture Evolution and Components]]
 
 ## Optional Prerequisites
 

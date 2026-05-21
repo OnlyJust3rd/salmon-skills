@@ -1,17 +1,17 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Corporate Departments"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Corporate Functions"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 1
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/corporate-functions/corporate-functions|corporate-functions]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/corporate-functions/microskills/corporate-department-names|corporate-department-names]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Corporate Departments

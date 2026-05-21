@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/layer-types|Layer types]]"
+  - "[[skills/data/ai/deep-learning/microskills/layer-types|layer-types]]"
 ---
 # Neural Network Layer Types
 

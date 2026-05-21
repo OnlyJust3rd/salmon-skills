@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/time-invariant-system-definition|Time-Invariant System Definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/time-invariant-system-definition|time-invariant-system-definition]]"
 ---
 # Understanding Time-Invariant Systems
 

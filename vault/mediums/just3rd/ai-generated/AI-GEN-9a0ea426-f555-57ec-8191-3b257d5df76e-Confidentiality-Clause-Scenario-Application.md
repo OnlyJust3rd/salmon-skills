@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/confidentiality-clause-scenario-application|Confidentiality Clause Scenario Application]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/confidentiality-clause-scenario-application|confidentiality-clause-scenario-application]]"
 ---
 # Applying Confidentiality Clauses in Employment Scenarios
 

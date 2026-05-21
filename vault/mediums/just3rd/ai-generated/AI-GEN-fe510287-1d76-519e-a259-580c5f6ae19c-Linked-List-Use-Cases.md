@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/linked-list-use-cases|Linked List Use Cases]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/linked-list-use-cases|linked-list-use-cases]]"
 ---
 # Linked List Use Cases
 

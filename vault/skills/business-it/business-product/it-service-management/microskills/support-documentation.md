@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Support Documentation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "IT Service Management"
-parent-competency: "L3- Apply Incident Ticket Triage and Escalation"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/it-service-management/it-service-management|it-service-management]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/it-service-management/competencies/L2-apply-incident-ticket-triage-and-escalation|L2-apply-incident-ticket-triage-and-escalation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Support Documentation
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/it-service-management/it-ser
 
 Parent competency:
 
-- [[skills/business-it/business-product/it-service-management/competencies/L3-apply-incident-ticket-triage-and-escalation|L3- Apply Incident Ticket Triage and Escalation]]
+- [[skills/business-it/business-product/it-service-management/competencies/L2-apply-incident-ticket-triage-and-escalation|L3- Apply Incident Ticket Triage and Escalation]]
 
 ## Description
 

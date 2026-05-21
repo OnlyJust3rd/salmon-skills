@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/postorder-tree-traversal-java-implementation|Postorder Tree Traversal Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/postorder-tree-traversal-java-implementation|postorder-tree-traversal-java-implementation]]"
 ---
 # Postorder Tree Traversal in Java
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/iot-communication-and-networking/microskills/iot-application-scenarios|IoT Application Scenarios]]"
+  - "[[skills/systems/networking/iot-communication-and-networking/microskills/iot-application-scenarios|iot-application-scenarios]]"
 ---
 # Matching IoT Communication Technologies to Application Scenarios
 

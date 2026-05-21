@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/java-objects-functionality|Java Objects Functionality]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-objects-functionality|java-objects-functionality]]"
 ---
 # Understanding Java Objects: The Building Blocks of Programs
 

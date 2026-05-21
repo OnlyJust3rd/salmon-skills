@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/iot-authentication-mechanisms|IoT Authentication Mechanisms]]"
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/iot-authentication-mechanisms|iot-authentication-mechanisms]]"
 ---
 # IoT Authentication Mechanisms: Verifying Identity in Connected Devices
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Watermarking Attack Simulation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Watermarking Performance and Attacks"
-parent-competency: "L3- Apply Watermarking Metrics Calculation and Attack Simulation"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|watermarking-performance-and-attacks]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L2-apply-watermarking-metrics-calculation-and-attack-simulation|L2-apply-watermarking-metrics-calculation-and-attack-simulation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Watermarking Attack Simulation
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/watermarking-performance-and-attac
 
 Parent competency:
 
-- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-apply-watermarking-metrics-calculation-and-attack-simulation|L3- Apply Watermarking Metrics Calculation and Attack Simulation]]
+- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L2-apply-watermarking-metrics-calculation-and-attack-simulation|L3- Apply Watermarking Metrics Calculation and Attack Simulation]]
 
 ## Description
 

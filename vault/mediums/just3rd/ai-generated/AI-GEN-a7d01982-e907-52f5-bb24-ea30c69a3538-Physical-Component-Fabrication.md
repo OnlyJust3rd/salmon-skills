@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/physical-component-fabrication|Physical Component Fabrication]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/physical-component-fabrication|physical-component-fabrication]]"
 ---
 # Physical Component Fabrication: Bringing Digital Designs to Life
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Opportunity Sizing"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Product Strategy"
-parent-competency: "L3- Apply Product Prioritization Techniques"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/product-strategy/product-strategy|product-strategy]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/product-strategy/competencies/L2-apply-product-prioritization-techniques|L2-apply-product-prioritization-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Opportunity Sizing
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/product-strategy/product-str
 
 Parent competency:
 
-- [[skills/business-it/business-product/product-strategy/competencies/L3-apply-product-prioritization-techniques|L3- Apply Product Prioritization Techniques]]
+- [[skills/business-it/business-product/product-strategy/competencies/L2-apply-product-prioritization-techniques|L3- Apply Product Prioritization Techniques]]
 
 ## Description
 

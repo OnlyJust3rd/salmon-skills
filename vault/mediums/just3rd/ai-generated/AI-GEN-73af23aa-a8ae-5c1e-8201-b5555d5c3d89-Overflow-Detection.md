@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/overflow-detection|Overflow Detection]]"
+  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/overflow-detection|overflow-detection]]"
 ---
 # Overflow Detection in Signed Arithmetic
 

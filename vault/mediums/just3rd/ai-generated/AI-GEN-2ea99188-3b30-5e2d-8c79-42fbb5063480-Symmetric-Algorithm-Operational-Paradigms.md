@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-algorithm-operational-paradigms|Symmetric Algorithm Operational Paradigms]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-algorithm-operational-paradigms|symmetric-algorithm-operational-paradigms]]"
 ---
 # How Symmetric Algorithms Work: A Look at Their Operational Paradigms
 

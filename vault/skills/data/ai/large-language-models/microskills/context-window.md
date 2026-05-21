@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Context Window"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Large Language Models"
-parent-competency: "L2- Explain Large Language Model Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/ai/large-language-models/large-language-models|large-language-models]]"
+requires-in-competencies:
+  - "[[skills/data/ai/large-language-models/competencies/L1-explain-large-language-model-concepts|L1-explain-large-language-model-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Context Window
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/ai/large-language-models/large-language-models|Large
 
 Parent competency:
 
-- [[skills/data/ai/large-language-models/competencies/L2-explain-large-language-model-concepts|L2- Explain Large Language Model Concepts]]
+- [[skills/data/ai/large-language-models/competencies/L1-explain-large-language-model-concepts|L2- Explain Large Language Model Concepts]]
 
 ## Description
 

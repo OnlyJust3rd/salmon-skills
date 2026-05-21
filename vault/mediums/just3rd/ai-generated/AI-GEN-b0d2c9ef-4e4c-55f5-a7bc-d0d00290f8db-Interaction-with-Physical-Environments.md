@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/interaction-with-physical-environments|Interaction with Physical Environments]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/interaction-with-physical-environments|interaction-with-physical-environments]]"
 ---
 # Interaction with Physical Environments in IoT Devices
 

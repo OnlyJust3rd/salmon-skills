@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/physics-application-in-engineering|Physics Application in Engineering]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/physics-application-in-engineering|physics-application-in-engineering]]"
 ---
 # Applying Physics Principles to Engineering Problems
 

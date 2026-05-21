@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/minterm-and-maxterm-definitions|Minterm and Maxterm Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/minterm-and-maxterm-definitions|minterm-and-maxterm-definitions]]"
 ---
 # Minterms and Maxterms: Building Blocks of Combinational Logic
 

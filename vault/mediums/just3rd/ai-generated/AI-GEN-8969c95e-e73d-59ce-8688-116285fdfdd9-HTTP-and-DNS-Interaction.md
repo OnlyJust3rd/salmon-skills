@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/http-and-dns-interaction|HTTP and DNS Interaction]]"
+  - "[[skills/systems/networking/application-layer/microskills/http-and-dns-interaction|http-and-dns-interaction]]"
 ---
 # HTTP and DNS: A Web Browsing Partnership
 

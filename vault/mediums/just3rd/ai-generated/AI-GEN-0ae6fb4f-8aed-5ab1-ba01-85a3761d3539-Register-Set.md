@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/register-set|Register Set]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/register-set|register-set]]"
 ---
 # AVR Microcontroller: The Register Set
 

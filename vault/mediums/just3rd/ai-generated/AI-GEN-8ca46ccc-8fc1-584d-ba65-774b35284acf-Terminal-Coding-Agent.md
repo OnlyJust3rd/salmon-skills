@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/terminal-coding-agent|Terminal Coding Agent]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/terminal-coding-agent|terminal-coding-agent]]"
 ---
 # Understanding the Terminal Coding Agent
 

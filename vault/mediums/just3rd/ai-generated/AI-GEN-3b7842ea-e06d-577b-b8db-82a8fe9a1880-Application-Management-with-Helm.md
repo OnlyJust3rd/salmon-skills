@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/application-management-with-helm|Application Management with Helm]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/application-management-with-helm|application-management-with-helm]]"
 ---
 # Managing Kubernetes Applications with Helm: Upgrades and Rollbacks
 

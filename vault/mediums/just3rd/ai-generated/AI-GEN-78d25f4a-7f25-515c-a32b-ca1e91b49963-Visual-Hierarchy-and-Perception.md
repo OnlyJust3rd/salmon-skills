@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/visual-hierarchy-and-perception|Visual Hierarchy and Perception]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/visual-hierarchy-and-perception|visual-hierarchy-and-perception]]"
 ---
 # Visual Hierarchy: Guiding the User's Eye
 

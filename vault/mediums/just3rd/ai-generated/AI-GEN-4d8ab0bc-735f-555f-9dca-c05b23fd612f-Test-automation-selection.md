@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/test-automation-selection|Test automation selection]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/test-automation-selection|test-automation-selection]]"
 ---
 # Selecting Unit Test Approaches and Inputs in C
 

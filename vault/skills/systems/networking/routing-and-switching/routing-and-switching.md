@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Routing and Switching"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Network Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/networking/routing-and-switching/competencies/L1-explain-routing-and-switching-concepts|L1-explain-routing-and-switching-concepts]]"
+  - "[[skills/systems/networking/routing-and-switching/competencies/L2-apply-vlan-and-ip-routing-configuration-concepts|L2-apply-vlan-and-ip-routing-configuration-concepts]]"
+standard-competency:
+  - "[[skills/systems/networking/routing-and-switching/competencies/L2-apply-vlan-and-ip-routing-configuration-concepts|L2-apply-vlan-and-ip-routing-configuration-concepts]]"
+microskills:
+  - "[[skills/systems/networking/routing-and-switching/microskills/default-gateway|default-gateway]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/frame-forwarding|frame-forwarding]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/network-segmentation|network-segmentation]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/packet-forwarding|packet-forwarding]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/route-selection|route-selection]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/vlan-membership|vlan-membership]]"
 ---
 
 # Routing and Switching
@@ -20,8 +26,8 @@ Understanding network forwarding, switching, VLANs, routing decisions, and IP su
 
 ## Competencies
 
-- [[skills/systems/networking/routing-and-switching/competencies/L2-explain-routing-and-switching-concepts|L2- Explain Routing and Switching Concepts]]
-- [[skills/systems/networking/routing-and-switching/competencies/L3-apply-vlan-and-ip-routing-configuration-concepts|L3- Apply VLAN and IP Routing Configuration Concepts]]
+- [[skills/systems/networking/routing-and-switching/competencies/L1-explain-routing-and-switching-concepts|L2- Explain Routing and Switching Concepts]]
+- [[skills/systems/networking/routing-and-switching/competencies/L2-apply-vlan-and-ip-routing-configuration-concepts|L3- Apply VLAN and IP Routing Configuration Concepts]]
 
 ## Microskills
 

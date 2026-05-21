@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/2d-representation-with-depth|2D Representation with Depth]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/2d-representation-with-depth|2d-representation-with-depth]]"
 ---
 # Creating Depth: Your First Steps in 2D Representation with Depth
 

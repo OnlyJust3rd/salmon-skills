@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/domain-problem-contexts|Domain Problem Contexts]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/domain-problem-contexts|domain-problem-contexts]]"
 ---
 # Computer Engineering Domains: Problem Contexts
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/task-flow-design|Task Flow Design]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/task-flow-design|task-flow-design]]"
 ---
 # Designing Effective Task Flows
 

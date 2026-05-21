@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Summation Notation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Discrete Structure Modeling"
-parent-competency: "L3- Model Discrete Structures and Combinatorial Elements"
+  - "microskill"
+parent-skill: "[[skills/programming/data-structures/discrete-structure-modeling/discrete-structure-modeling|discrete-structure-modeling]]"
+requires-in-competencies:
+  - "[[skills/programming/data-structures/discrete-structure-modeling/competencies/L2-model-discrete-structures-and-combinatorial-elements|L2-model-discrete-structures-and-combinatorial-elements]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Summation Notation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/data-structures/discrete-structure-modeling/d
 
 Parent competency:
 
-- [[skills/programming/data-structures/discrete-structure-modeling/competencies/L3-model-discrete-structures-and-combinatorial-elements|L3- Model Discrete Structures and Combinatorial Elements]]
+- [[skills/programming/data-structures/discrete-structure-modeling/competencies/L2-model-discrete-structures-and-combinatorial-elements|L3- Model Discrete Structures and Combinatorial Elements]]
 
 ## Description
 

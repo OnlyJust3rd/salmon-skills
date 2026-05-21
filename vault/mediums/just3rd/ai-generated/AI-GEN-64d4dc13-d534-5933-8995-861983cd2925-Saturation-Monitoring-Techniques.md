@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/saturation-monitoring-techniques|Saturation Monitoring Techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/saturation-monitoring-techniques|saturation-monitoring-techniques]]"
 ---
 # Understanding and Applying Saturation Monitoring
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/interface-evolution|Interface Evolution]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/interface-evolution|interface-evolution]]"
 ---
 # The Journey of User Interfaces: From Commands to Conversations
 

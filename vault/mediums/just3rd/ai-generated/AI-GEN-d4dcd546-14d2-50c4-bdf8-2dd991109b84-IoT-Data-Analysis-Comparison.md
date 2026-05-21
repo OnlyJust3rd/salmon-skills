@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/iot-data-analysis-comparison|IoT Data Analysis Comparison]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/iot-data-analysis-comparison|iot-data-analysis-comparison]]"
 ---
 # Analyzing IoT Data: Classification vs. Clustering Insights
 

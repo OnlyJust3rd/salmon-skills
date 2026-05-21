@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/image-file-size-reduction|Image File Size Reduction]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/image-file-size-reduction|image-file-size-reduction]]"
 ---
 # Image File Size Reduction: Applying Compression Techniques
 

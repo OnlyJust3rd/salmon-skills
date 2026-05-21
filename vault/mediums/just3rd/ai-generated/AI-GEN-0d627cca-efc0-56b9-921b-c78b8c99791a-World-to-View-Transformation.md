@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/world-to-view-transformation|World to View Transformation]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/world-to-view-transformation|world-to-view-transformation]]"
 ---
 # World to View Transformation
 

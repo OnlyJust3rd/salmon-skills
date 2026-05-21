@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "System Design Considerations"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "System Design"
-parent-competency: "L1- List System Design Approaches"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/system-design/system-design|system-design]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/system-design/competencies/L1-list-system-design-approaches|L1-list-system-design-approaches]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # System Design Considerations

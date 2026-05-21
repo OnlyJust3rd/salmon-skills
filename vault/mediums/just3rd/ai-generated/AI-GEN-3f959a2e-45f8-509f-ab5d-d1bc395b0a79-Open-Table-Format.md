@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/open-table-format|Open Table Format]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/open-table-format|open-table-format]]"
 ---
 # Understanding Open Table Formats in Lakehouse Architecture
 

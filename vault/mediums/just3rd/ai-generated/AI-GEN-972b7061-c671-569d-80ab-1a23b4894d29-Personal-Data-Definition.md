@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/personal-data-definition|Personal Data Definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/personal-data-definition|personal-data-definition]]"
 ---
 # Understanding Personal Data under Thailand's PDPA
 

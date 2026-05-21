@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/synchronous-communication-principles|Synchronous Communication Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/synchronous-communication-principles|synchronous-communication-principles]]"
 ---
 # Synchronous Communication Principles
 

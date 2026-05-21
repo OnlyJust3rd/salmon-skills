@@ -1,19 +1,31 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Marketing Strategy"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-coverage:
-  - "Concept"
-  - "Design"
-  - "Evaluation"
-competency-count: 4
-microskill-count: 12
-related-jobs:
-  - "Game Producer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-commercializing-your-projects"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/marketing-strategy/competencies/L1-list-marketing-mix-elements|L1-list-marketing-mix-elements]]"
+  - "[[skills/business-it/business-product/marketing-strategy/competencies/L1-4ps-vs-4cs-comparison|L1-4ps-vs-4cs-comparison]]"
+  - "[[skills/business-it/business-product/marketing-strategy/competencies/L1-describe-tech-adoption-lifecycle-influence|L1-describe-tech-adoption-lifecycle-influence]]"
+  - "[[skills/business-it/business-product/marketing-strategy/competencies/L2-design-basic-marketing-strategy|L2-design-basic-marketing-strategy]]"
+standard-competency:
+  - "[[skills/business-it/business-product/marketing-strategy/competencies/L2-design-basic-marketing-strategy|L2-design-basic-marketing-strategy]]"
+microskills:
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/4cs-framework|4cs-framework]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/4ps-framework|4ps-framework]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-acquisition-strategies|customer-acquisition-strategies]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-retention-strategies|customer-retention-strategies]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-segment-characteristics|customer-segment-characteristics]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-4cs|marketing-mix-4cs]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-4ps|marketing-mix-4ps]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-application|marketing-mix-application]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-differences|marketing-mix-differences]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-similarities|marketing-mix-similarities]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-strategy-adaptation|marketing-strategy-adaptation]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/technology-adoption-lifecycle-stages|technology-adoption-lifecycle-stages]]"
 ---
 
 # Marketing Strategy
@@ -23,9 +35,9 @@ Design marketing strategies based on customer behavior and product adoption theo
 ## Competencies
 
 - [[skills/business-it/business-product/marketing-strategy/competencies/L1-list-marketing-mix-elements|L1- List Marketing Mix Elements]]
-- [[skills/business-it/business-product/marketing-strategy/competencies/L2-describe-tech-adoption-lifecycle-influence|L2- Describe Tech Adoption Lifecycle Influence]]
-- [[skills/business-it/business-product/marketing-strategy/competencies/L3-design-basic-marketing-strategy|L3- Design Basic Marketing Strategy]]
-- [[skills/business-it/business-product/marketing-strategy/competencies/L2-4ps-vs-4cs-comparison|L2- 4Ps vs 4Cs Comparison]]
+- [[skills/business-it/business-product/marketing-strategy/competencies/L1-describe-tech-adoption-lifecycle-influence|L2- Describe Tech Adoption Lifecycle Influence]]
+- [[skills/business-it/business-product/marketing-strategy/competencies/L2-design-basic-marketing-strategy|L3- Design Basic Marketing Strategy]]
+- [[skills/business-it/business-product/marketing-strategy/competencies/L1-4ps-vs-4cs-comparison|L2- 4Ps vs 4Cs Comparison]]
 
 ## Microskills
 

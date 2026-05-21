@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-execution-stages|Pipelined Execution Stages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-execution-stages|pipelined-execution-stages]]"
 ---
 # Understanding Pipelined Execution Stages
 

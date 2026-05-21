@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sensor-microcontroller-interaction|Sensor-Microcontroller Interaction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sensor-microcontroller-interaction|sensor-microcontroller-interaction]]"
 ---
 # Sensor-Microcontroller Interaction: Bridging the Digital and Physical Worlds
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/jump-search-java-implementation|Jump Search Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/jump-search-java-implementation|jump-search-java-implementation]]"
 ---
 # Jump Search in Java
 

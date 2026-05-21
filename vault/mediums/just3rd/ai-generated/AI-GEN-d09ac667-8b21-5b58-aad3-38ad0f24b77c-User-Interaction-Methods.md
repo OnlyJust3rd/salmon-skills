@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-interaction-methods|User Interaction Methods]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-interaction-methods|user-interaction-methods]]"
 ---
 # Understanding User Interaction Methods
 

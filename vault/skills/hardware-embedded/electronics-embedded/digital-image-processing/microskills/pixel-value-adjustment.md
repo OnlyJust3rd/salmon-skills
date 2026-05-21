@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Pixel Value Adjustment"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Image Processing"
-parent-competency: "L3- Apply Basic Point Operations"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|digital-image-processing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-apply-basic-point-operations|L2-apply-basic-point-operations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Pixel Value Adjustment
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-image-proc
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L3-apply-basic-point-operations|L3- Apply Basic Point Operations]]
+- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-apply-basic-point-operations|L3- Apply Basic Point Operations]]
 
 ## Description
 

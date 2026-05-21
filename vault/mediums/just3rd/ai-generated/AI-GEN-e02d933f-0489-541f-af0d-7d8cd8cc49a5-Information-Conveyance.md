@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/information-conveyance|Information Conveyance]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/information-conveyance|information-conveyance]]"
 ---
 # Understanding Information Conveyance with Data Visualization
 

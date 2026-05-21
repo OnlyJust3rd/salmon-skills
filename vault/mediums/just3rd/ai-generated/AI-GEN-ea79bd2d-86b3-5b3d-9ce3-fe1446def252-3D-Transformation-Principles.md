@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/3d-transformation-principles|3D Transformation Principles]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/3d-transformation-principles|3d-transformation-principles]]"
 ---
 # 3D Transformation Principles
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/visual-hierarchy-principles|Visual Hierarchy Principles]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/visual-hierarchy-principles|visual-hierarchy-principles]]"
 ---
 # Understanding Visual Hierarchy Principles
 

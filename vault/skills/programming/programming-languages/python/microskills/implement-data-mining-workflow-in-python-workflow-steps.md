@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Implement Data Mining Workflow in Python workflow steps"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Python"
-parent-competency: "L3- Implement Data Mining Workflow in Python"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/python/python|python]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/python/competencies/L2-implement-data-mining-workflow-in-python|L2-implement-data-mining-workflow-in-python]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Implement Data Mining Workflow in Python workflow steps
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/python/python|Python]]
 
 Parent competency:
 
-- [[skills/programming/programming-languages/python/competencies/L3-implement-data-mining-workflow-in-python|L3- Implement Data Mining Workflow in Python]]
+- [[skills/programming/programming-languages/python/competencies/L2-implement-data-mining-workflow-in-python|L3- Implement Data Mining Workflow in Python]]
 
 ## Description
 

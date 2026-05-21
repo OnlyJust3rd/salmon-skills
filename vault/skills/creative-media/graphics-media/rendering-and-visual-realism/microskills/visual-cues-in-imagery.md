@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Visual Cues in Imagery"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Rendering and Visual Realism"
-parent-competency: "L1- Identify Depth Cues"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/rendering-and-visual-realism/rendering-and-visual-realism|rendering-and-visual-realism]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L1-identify-depth-cues|L1-identify-depth-cues]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Visual Cues in Imagery

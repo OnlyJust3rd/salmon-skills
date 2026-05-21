@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-exploratory-data-analysis-in-python-code-implementation|Implement Exploratory Data Analysis in Python code implementation]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-exploratory-data-analysis-in-python-code-implementation|implement-exploratory-data-analysis-in-python-code-implementation]]"
 ---
 # Implementing Exploratory Data Analysis in Python
 

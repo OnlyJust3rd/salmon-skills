@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/program-execution-facilitation|Program Execution Facilitation]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/program-execution-facilitation|program-execution-facilitation]]"
 ---
 # Program Execution Facilitation by the Operating System
 

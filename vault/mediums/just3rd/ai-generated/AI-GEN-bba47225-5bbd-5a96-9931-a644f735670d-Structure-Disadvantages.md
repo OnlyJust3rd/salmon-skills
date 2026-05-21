@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-disadvantages|Structure Disadvantages]]"
+  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-disadvantages|structure-disadvantages]]"
 ---
 # Understanding the Drawbacks of Organizational Structures
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/computer-crime-act-purpose|Computer Crime Act Purpose]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/computer-crime-act-purpose|computer-crime-act-purpose]]"
 ---
 # Understanding the Purpose of Thailand's Computer Crime Act
 

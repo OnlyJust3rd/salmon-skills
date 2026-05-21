@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/dynamic-programming-approaches|Dynamic Programming Approaches]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/dynamic-programming-approaches|dynamic-programming-approaches]]"
 ---
 # Dynamic Programming Approaches
 

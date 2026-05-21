@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Schematic Entry in Tinkercad"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Circuit Prototyping"
-parent-competency: "L3- Execute Tinkercad Simulations"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/circuit-prototyping|circuit-prototyping]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L2-execute-tinkercad-simulations|L2-execute-tinkercad-simulations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Schematic Entry in Tinkercad
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/circuit-prototypin
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L3-execute-tinkercad-simulations|L3- Execute Tinkercad Simulations]]
+- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L2-execute-tinkercad-simulations|L3- Execute Tinkercad Simulations]]
 
 ## Description
 

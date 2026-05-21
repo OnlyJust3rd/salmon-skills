@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/robust-watermarking-definition|Robust Watermarking Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/robust-watermarking-definition|robust-watermarking-definition]]"
 ---
 # Robust Watermarking: A Definition
 

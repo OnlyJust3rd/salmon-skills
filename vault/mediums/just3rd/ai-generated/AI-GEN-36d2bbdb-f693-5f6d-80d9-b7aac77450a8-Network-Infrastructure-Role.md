@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/network-infrastructure-role|Network Infrastructure Role]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/network-infrastructure-role|network-infrastructure-role]]"
 ---
 # Ethernet's Role in the Network Infrastructure
 

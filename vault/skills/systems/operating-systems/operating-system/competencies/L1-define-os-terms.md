@@ -1,17 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define OS Terms"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Operating System"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/operating-systems/operating-system/operating-system|operating-system]]"
+requires-microskills:
+  - "[[skills/systems/operating-systems/operating-system/microskills/i-o-management-terms|i-o-management-terms]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-terms|memory-management-terms]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/operating-system-terminology|operating-system-terminology]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/process-definitions|process-definitions]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/thread-definitions|thread-definitions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define OS Terms

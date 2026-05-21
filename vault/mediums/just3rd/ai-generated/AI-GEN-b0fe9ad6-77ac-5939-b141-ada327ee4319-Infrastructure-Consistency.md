@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-consistency|Infrastructure Consistency]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-consistency|infrastructure-consistency]]"
 ---
 # Infrastructure Consistency with Terraform State and Idempotency
 

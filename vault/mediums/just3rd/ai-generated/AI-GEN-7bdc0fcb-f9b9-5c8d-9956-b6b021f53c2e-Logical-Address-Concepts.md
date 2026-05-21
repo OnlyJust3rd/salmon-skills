@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/logical-address-concepts|Logical Address Concepts]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/logical-address-concepts|logical-address-concepts]]"
 ---
 # Understanding Logical Addresses
 

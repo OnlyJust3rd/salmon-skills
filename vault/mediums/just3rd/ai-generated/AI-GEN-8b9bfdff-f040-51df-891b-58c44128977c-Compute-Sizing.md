@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/compute-sizing|Compute Sizing]]"
+  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/compute-sizing|compute-sizing]]"
 ---
 # Cloud Warehouse Compute Sizing: Matching Capacity to Needs
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mysql/microskills/constraint-implementation-e-g-primary-keys|Constraint Implementation (e.g., Primary Keys)]]"
+  - "[[skills/data/databases/mysql/microskills/constraint-implementation-e-g-primary-keys|constraint-implementation-e-g-primary-keys]]"
 ---
 # Implementing Primary Keys in MySQL
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/searching-strategy-comparison|Searching Strategy Comparison]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/searching-strategy-comparison|searching-strategy-comparison]]"
 ---
 # Understanding Searching Algorithm Strategies
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/peripheral-bus-interface-survey|Peripheral Bus Interface Survey]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/peripheral-bus-interface-survey|peripheral-bus-interface-survey]]"
 ---
 # Peripheral Bus Interfaces: PCI and USB
 

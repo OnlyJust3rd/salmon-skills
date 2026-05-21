@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/function-analysis/microskills/limits-of-single-variable-functions|Limits of single-variable functions]]"
+  - "[[skills/mathematics/function-analysis/microskills/limits-of-single-variable-functions|limits-of-single-variable-functions]]"
 ---
 # Understanding Limits of Single-Variable Functions
 

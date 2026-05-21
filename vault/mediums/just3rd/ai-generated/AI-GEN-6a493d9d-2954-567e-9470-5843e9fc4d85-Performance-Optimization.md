@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/performance-optimization|Performance Optimization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/performance-optimization|performance-optimization]]"
 ---
 # Performance Optimization for Embedded Systems
 

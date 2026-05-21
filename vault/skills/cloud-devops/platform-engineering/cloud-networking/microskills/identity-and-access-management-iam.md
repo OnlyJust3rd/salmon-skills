@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Identity and Access Management (IAM)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud Networking"
-parent-competency: "L3- Implement IAM Policies"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-networking/cloud-networking|cloud-networking]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L2-implement-iam-policies|L2-implement-iam-policies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Identity and Access Management (IAM)
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-networking/cloud-
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L3-implement-iam-policies|L3- Implement IAM Policies]]
+- [[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L2-implement-iam-policies|L3- Implement IAM Policies]]
 
 ## Description
 

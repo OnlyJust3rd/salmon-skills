@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/backtracking-general-approaches|Backtracking General Approaches]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/backtracking-general-approaches|backtracking-general-approaches]]"
 ---
 # Backtracking: Exploring All Paths
 

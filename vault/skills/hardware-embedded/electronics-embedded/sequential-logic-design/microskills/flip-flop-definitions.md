@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Flip-Flop Definitions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Sequential Logic Design"
-parent-competency: "L1- Define Sequential Components"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/sequential-logic-design|sequential-logic-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-define-sequential-components|L1-define-sequential-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Flip-Flop Definitions

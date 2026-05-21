@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/state-transition-tracing|State Transition Tracing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/state-transition-tracing|state-transition-tracing]]"
 ---
 # State Transition Tracing
 

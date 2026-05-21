@@ -1,16 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Agentic Coding Workflows"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs: []
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L1-explain-agentic-coding-workflow-concepts|L1-explain-agentic-coding-workflow-concepts]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L2-apply-agentic-coding-task-decomposition-and-review|L2-apply-agentic-coding-task-decomposition-and-review]]"
+standard-competency:
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L2-apply-agentic-coding-task-decomposition-and-review|L2-apply-agentic-coding-task-decomposition-and-review]]"
+microskills:
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/approval-boundary|approval-boundary]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/change-review|change-review]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/task-delegation|task-delegation]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/task-scope|task-scope]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/tool-use|tool-use]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/verification-loop|verification-loop]]"
 ---
 
 # Agentic Coding Workflows
@@ -19,8 +26,8 @@ Using coding agents to decompose tasks, inspect repositories, edit files, run co
 
 ## Competencies
 
-- [[L2-explain-agentic-coding-workflow-concepts|L2- Explain Agentic Coding Workflow Concepts]]
-- [[L3-apply-agentic-coding-task-decomposition-and-review|L3- Apply Agentic Coding Task Decomposition and Review]]
+- [[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L1-explain-agentic-coding-workflow-concepts|L2- Explain Agentic Coding Workflow Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L2-apply-agentic-coding-task-decomposition-and-review|L3- Apply Agentic Coding Task Decomposition and Review]]
 
 ## Microskills
 

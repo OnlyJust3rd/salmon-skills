@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/workflow-adaptation|Workflow Adaptation]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/workflow-adaptation|workflow-adaptation]]"
 ---
 # Workflow Adaptation: Fine-Tuning Your Sprint Process
 

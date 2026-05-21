@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/react/microskills/data-fetching-in-components|Data fetching in components]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/data-fetching-in-components|data-fetching-in-components]]"
 ---
 # Data Fetching in React Components
 

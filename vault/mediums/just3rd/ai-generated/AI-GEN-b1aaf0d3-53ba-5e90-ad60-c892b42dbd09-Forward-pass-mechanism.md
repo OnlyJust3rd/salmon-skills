@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/forward-pass-mechanism|Forward pass mechanism]]"
+  - "[[skills/data/ai/deep-learning/microskills/forward-pass-mechanism|forward-pass-mechanism]]"
 ---
 # The Forward Pass: How Neural Networks "See" Data
 

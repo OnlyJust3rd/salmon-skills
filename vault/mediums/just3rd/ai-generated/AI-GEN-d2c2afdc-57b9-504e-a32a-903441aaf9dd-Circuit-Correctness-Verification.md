@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/circuit-correctness-verification|Circuit Correctness Verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/circuit-correctness-verification|circuit-correctness-verification]]"
 ---
 # Circuit Correctness Verification
 

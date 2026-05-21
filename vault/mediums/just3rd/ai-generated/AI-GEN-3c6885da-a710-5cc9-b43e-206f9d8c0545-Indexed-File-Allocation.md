@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/indexed-file-allocation|Indexed File Allocation]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/indexed-file-allocation|indexed-file-allocation]]"
 ---
 # Indexed File Allocation: Understanding the Index
 

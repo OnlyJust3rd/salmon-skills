@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Cache Replacement Policies"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Memory Hierarchy"
-parent-competency: "L4- Analyze Cache Organization"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/memory-hierarchy|memory-hierarchy]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/competencies/L3-analyze-cache-organization|L3-analyze-cache-organization]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Cache Replacement Policies
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/memory-hierarchy/m
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/memory-hierarchy/competencies/L4-analyze-cache-organization|L4- Analyze Cache Organization]]
+- [[skills/hardware-embedded/electronics-embedded/memory-hierarchy/competencies/L3-analyze-cache-organization|L4- Analyze Cache Organization]]
 
 ## Description
 

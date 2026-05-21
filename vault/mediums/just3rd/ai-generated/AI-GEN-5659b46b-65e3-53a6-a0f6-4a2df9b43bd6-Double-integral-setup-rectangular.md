@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-setup-rectangular|Double integral setup (rectangular)]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-setup-rectangular|double-integral-setup-rectangular]]"
 ---
 # Setting Up Double Integrals in Rectangular Coordinates
 

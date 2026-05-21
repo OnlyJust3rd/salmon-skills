@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-managed-services|GCP Managed Services]]"
+  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-managed-services|gcp-managed-services]]"
 ---
 # Understanding GCP Managed Services
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/connection-verification|Connection Verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/connection-verification|connection-verification]]"
 ---
 # Connection Verification: A Key Step in Hardware Troubleshooting
 

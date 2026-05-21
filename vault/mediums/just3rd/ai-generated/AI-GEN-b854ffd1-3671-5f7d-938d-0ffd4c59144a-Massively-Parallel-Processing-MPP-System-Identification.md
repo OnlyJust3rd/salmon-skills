@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/massively-parallel-processing-mpp-system-identification|Massively Parallel Processing (MPP) System Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/massively-parallel-processing-mpp-system-identification|massively-parallel-processing-mpp-system-identification]]"
 ---
 # Identifying Massively Parallel Processing (MPP) Systems
 

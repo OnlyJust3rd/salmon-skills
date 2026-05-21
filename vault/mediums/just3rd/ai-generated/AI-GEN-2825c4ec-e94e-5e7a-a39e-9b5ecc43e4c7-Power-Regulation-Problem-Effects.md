@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-regulation-problem-effects|Power Regulation Problem Effects]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-regulation-problem-effects|power-regulation-problem-effects]]"
 ---
 # Understanding Power Regulation Problem Effects
 

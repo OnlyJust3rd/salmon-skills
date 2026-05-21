@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Linearity and Input-Output Relationship"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "System Property Analysis"
-parent-competency: "L4- Analyze System Input-Output"
+  - "microskill"
+parent-skill: "[[skills/mathematics/system-property-analysis/system-property-analysis|system-property-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/system-property-analysis/competencies/L3-analyze-system-input-output|L3-analyze-system-input-output]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Linearity and Input-Output Relationship
@@ -15,7 +17,7 @@ Parent macro: [[system-property-analysis|System Property Analysis]]
 
 Parent competency:
 
-- [[L4-analyze-system-input-output|L4- Analyze System Input-Output]]
+- [[skills/mathematics/system-property-analysis/competencies/L3-analyze-system-input-output|L4- Analyze System Input-Output]]
 
 ## Description
 

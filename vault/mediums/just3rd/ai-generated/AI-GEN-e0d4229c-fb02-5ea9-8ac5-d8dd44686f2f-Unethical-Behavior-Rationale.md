@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/unethical-behavior-rationale|Unethical Behavior Rationale]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/unethical-behavior-rationale|unethical-behavior-rationale]]"
 ---
 # Understanding Why Business Actions Are Unethical
 

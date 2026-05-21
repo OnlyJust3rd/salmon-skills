@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Best Practices in Dockerfiles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Docker Container"
-parent-competency: "L3- Dockerfile Construction"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/docker-container/docker-container|docker-container]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-dockerfile-construction|L2-dockerfile-construction]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Best Practices in Dockerfiles
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/docker-container/docker
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L3-dockerfile-construction|L3- Dockerfile Construction]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-dockerfile-construction|L3- Dockerfile Construction]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-animation/microskills/animation-clip|Animation Clip]]"
+  - "[[skills/creative-media/game-development/game-animation/microskills/animation-clip|animation-clip]]"
 ---
 # Animation Clips: Reusable Motion Sequences
 

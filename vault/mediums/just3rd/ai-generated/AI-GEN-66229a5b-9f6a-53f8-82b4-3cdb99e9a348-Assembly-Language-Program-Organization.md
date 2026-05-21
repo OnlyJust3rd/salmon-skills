@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-language-program-organization|Assembly Language Program Organization]]"
+  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-language-program-organization|assembly-language-program-organization]]"
 ---
 # Assembly Language Program Organization
 

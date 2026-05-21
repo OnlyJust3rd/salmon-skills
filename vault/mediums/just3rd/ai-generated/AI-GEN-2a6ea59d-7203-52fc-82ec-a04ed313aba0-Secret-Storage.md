@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/secret-storage|Secret Storage]]"
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/secret-storage|secret-storage]]"
 ---
 # Secret Storage: Keeping Your Sensitive Data Safe
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-identification|Specialized Vector Processor Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-identification|specialized-vector-processor-identification]]"
 ---
 # Specialized Vector Processors: Recognizing the Power of Parallelism
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/importance-of-problem-solving-steps|Importance of Problem-Solving Steps]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/importance-of-problem-solving-steps|importance-of-problem-solving-steps]]"
 ---
 # The Power of Each Step: Why Every Stage Matters in Engineering Problem-Solving
 

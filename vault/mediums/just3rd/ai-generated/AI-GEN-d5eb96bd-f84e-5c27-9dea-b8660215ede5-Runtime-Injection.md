@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/runtime-injection|Runtime Injection]]"
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/runtime-injection|runtime-injection]]"
 ---
 # Runtime Injection of Secrets
 

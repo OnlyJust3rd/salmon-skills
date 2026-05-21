@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Impulse Response Significance in LTI Systems"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "System Property Analysis"
-parent-competency: "L2- Describe LTI Behavior Impact"
+  - "microskill"
+parent-skill: "[[skills/mathematics/system-property-analysis/system-property-analysis|system-property-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/system-property-analysis/competencies/L1-describe-lti-behavior-impact|L1-describe-lti-behavior-impact]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Impulse Response Significance in LTI Systems
@@ -15,7 +17,7 @@ Parent macro: [[system-property-analysis|System Property Analysis]]
 
 Parent competency:
 
-- [[L2-describe-lti-behavior-impact|L2- Describe LTI Behavior Impact]]
+- [[skills/mathematics/system-property-analysis/competencies/L1-describe-lti-behavior-impact|L2- Describe LTI Behavior Impact]]
 
 ## Description
 

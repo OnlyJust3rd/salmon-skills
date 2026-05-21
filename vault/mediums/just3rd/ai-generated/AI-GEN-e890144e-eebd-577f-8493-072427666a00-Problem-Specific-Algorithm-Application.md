@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/problem-specific-algorithm-application|Problem-Specific Algorithm Application]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/problem-specific-algorithm-application|problem-specific-algorithm-application]]"
 ---
 # Problem-Specific Algorithm Application
 

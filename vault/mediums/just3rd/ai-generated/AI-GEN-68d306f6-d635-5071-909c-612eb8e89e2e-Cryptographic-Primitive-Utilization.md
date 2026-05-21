@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-primitive-utilization|Cryptographic Primitive Utilization]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-primitive-utilization|cryptographic-primitive-utilization]]"
 ---
 # Cryptographic Primitive Utilization: Hashing for Digital Signatures
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-transformation-application|2D Transformation Application]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-transformation-application|2d-transformation-application]]"
 ---
 # Applying 2D Transformations: Translation, Scaling, and Rotation
 

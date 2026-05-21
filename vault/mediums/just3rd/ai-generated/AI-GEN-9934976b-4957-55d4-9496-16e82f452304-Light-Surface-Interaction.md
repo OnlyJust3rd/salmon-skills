@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/light-surface-interaction|Light-Surface Interaction]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/light-surface-interaction|light-surface-interaction]]"
 ---
 # Understanding Light-Surface Interaction
 

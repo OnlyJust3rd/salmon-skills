@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/k-map-grouping-principles|K-map Grouping Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/k-map-grouping-principles|k-map-grouping-principles]]"
 ---
 # K-map Grouping Principles
 

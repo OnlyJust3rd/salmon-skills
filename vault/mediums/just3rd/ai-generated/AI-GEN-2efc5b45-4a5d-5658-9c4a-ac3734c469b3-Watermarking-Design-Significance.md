@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-design-significance|Watermarking Design Significance]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-design-significance|watermarking-design-significance]]"
 ---
 # Understanding the Pillars of Watermarking Design
 

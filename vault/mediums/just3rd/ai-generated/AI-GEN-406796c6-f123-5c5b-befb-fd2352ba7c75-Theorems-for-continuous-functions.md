@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/theorems-for-continuous-functions|Theorems for continuous functions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/theorems-for-continuous-functions|theorems-for-continuous-functions]]"
 ---
 # Theorems for Continuous Functions
 

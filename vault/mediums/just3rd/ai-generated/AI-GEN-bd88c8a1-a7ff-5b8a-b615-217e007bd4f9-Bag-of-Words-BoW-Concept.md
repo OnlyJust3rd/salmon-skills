@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-bow-concept|Bag-of-Words (BoW) Concept]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-bow-concept|bag-of-words-bow-concept]]"
 ---
 # Bag-of-Words (BoW) Concept
 

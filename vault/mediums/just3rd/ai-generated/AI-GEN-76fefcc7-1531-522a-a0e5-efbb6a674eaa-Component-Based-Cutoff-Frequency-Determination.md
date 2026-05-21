@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/component-based-cutoff-frequency-determination|Component-Based Cutoff Frequency Determination]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/component-based-cutoff-frequency-determination|component-based-cutoff-frequency-determination]]"
 ---
 # Calculating Cutoff Frequency with Component Values
 

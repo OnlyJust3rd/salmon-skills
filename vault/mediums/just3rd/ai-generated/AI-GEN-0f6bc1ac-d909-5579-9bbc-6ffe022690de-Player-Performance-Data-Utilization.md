@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/player-performance-data-utilization|Player Performance Data Utilization]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/player-performance-data-utilization|player-performance-data-utilization]]"
 ---
 # Using Player Performance Data to Tune Difficulty
 

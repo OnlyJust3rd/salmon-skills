@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/frequency-masking|Frequency Masking]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/frequency-masking|frequency-masking]]"
 ---
 # Understanding Frequency Masking in Audio Compression
 

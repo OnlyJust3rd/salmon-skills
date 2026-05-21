@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/frame-structure|Frame Structure]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/frame-structure|frame-structure]]"
 ---
 # Data Link Frame Structure
 

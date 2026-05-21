@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/billing-model|Billing Model]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/billing-model|billing-model]]"
 ---
 # Analyzing SaaS Billing Models
 

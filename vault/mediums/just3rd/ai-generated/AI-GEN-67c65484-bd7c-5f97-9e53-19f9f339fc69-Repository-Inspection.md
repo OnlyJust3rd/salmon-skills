@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/repository-inspection|Repository Inspection]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/repository-inspection|repository-inspection]]"
 ---
 # Repository Inspection: Understanding Your Codebase
 

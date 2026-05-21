@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/vlan-advantages|VLAN Advantages]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/vlan-advantages|vlan-advantages]]"
 ---
 # VLAN Advantages
 

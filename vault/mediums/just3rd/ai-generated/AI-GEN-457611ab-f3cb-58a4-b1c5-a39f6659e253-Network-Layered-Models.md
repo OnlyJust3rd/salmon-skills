@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/computer-network-architecture/microskills/network-layered-models|Network Layered Models]]"
+  - "[[skills/systems/networking/computer-network-architecture/microskills/network-layered-models|network-layered-models]]"
 ---
 # Network Layered Models
 

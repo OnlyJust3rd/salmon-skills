@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/persona-development|Persona Development]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/persona-development|persona-development]]"
 ---
 # Persona Development: Bringing Your Users to Life
 

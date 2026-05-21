@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/integrated-i-o-interfacing-design|Integrated I/O Interfacing Design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/integrated-i-o-interfacing-design|integrated-i-o-interfacing-design]]"
 ---
 # Integrated I/O Interfacing Design
 

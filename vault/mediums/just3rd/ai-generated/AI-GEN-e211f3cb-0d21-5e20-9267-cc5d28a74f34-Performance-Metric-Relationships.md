@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/performance-metric-relationships|Performance Metric Relationships]]"
+  - "[[skills/systems/networking/network-performance/microskills/performance-metric-relationships|performance-metric-relationships]]"
 ---
 # Understanding Performance Metric Relationships in Congestion Control
 

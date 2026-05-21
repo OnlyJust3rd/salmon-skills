@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/recursive-algorithms|Recursive Algorithms]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/recursive-algorithms|recursive-algorithms]]"
 ---
 # Recursive Algorithms: Solving Problems by Looking Within
 

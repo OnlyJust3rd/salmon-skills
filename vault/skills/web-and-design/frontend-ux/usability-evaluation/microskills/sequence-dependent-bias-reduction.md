@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Sequence-Dependent Bias Reduction"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Usability Evaluation"
-parent-competency: "L3- Mitigate Experimental Effects"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/usability-evaluation/usability-evaluation|usability-evaluation]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L2-mitigate-experimental-effects|L2-mitigate-experimental-effects]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Sequence-Dependent Bias Reduction
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/usability-evaluation/usability
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L3-mitigate-experimental-effects|L3- Mitigate Experimental Effects]]
+- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L2-mitigate-experimental-effects|L3- Mitigate Experimental Effects]]
 
 ## Description
 

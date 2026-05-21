@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Column Definition Statements"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 241 - Database Systems"
-parent-macro: "MySQL"
-parent-competency: "L3- Implement Database Schema"
+  - "microskill"
+parent-skill: "[[skills/data/databases/mysql/mysql|mysql]]"
+requires-in-competencies:
+  - "[[skills/data/databases/mysql/competencies/L2-implement-database-schema|L2-implement-database-schema]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Column Definition Statements
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/databases/mysql/mysql|MySQL]]
 
 Parent competency:
 
-- [[skills/data/databases/mysql/competencies/L3-implement-database-schema|L3- Implement Database Schema]]
+- [[skills/data/databases/mysql/competencies/L2-implement-database-schema|L3- Implement Database Schema]]
 
 ## Description
 

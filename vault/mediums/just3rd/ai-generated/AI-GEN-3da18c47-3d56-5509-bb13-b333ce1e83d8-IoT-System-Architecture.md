@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-system-architecture|IoT System Architecture]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-system-architecture|iot-system-architecture]]"
 ---
 # IoT System Architecture: Layers of Intelligence
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/derivative-function-behavior-relationship|Derivative-function behavior relationship]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/derivative-function-behavior-relationship|derivative-function-behavior-relationship]]"
 ---
 # Understanding the Derivative's Story: Function Behavior
 

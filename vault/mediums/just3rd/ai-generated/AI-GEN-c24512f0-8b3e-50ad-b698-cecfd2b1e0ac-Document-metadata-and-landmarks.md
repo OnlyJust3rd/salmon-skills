@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/html/microskills/document-metadata-and-landmarks|Document metadata and landmarks]]"
+  - "[[skills/web-and-design/frontend-ux/html/microskills/document-metadata-and-landmarks|document-metadata-and-landmarks]]"
 ---
 # Understanding Document Metadata and Landmarks in HTML
 

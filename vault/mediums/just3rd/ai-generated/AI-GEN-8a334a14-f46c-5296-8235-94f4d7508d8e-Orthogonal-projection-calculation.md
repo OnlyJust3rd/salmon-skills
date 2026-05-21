@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/orthogonal-projection-calculation|Orthogonal projection calculation]]"
+  - "[[skills/mathematics/vector/microskills/orthogonal-projection-calculation|orthogonal-projection-calculation]]"
 ---
 # Calculating Orthogonal Projections of Vectors
 

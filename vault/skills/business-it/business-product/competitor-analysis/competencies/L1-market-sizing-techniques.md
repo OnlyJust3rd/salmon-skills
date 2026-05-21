@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Market Sizing Techniques"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Competitor Analysis"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- List Competitor Methods"
+  - "[[skills/business-it/business-product/competitor-analysis/competencies/L1-list-competitor-methods|L1-list-competitor-methods]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/competitor-analysis/competitor-analysis|competitor-analysis]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/bottom-up-market-sizing|bottom-up-market-sizing]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/top-down-market-sizing|top-down-market-sizing]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/value-theory-market-sizing|value-theory-market-sizing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Market Sizing Techniques

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-kafka/microskills/consumer|Consumer]]"
+  - "[[skills/data/data-platforms/apache-kafka/microskills/consumer|consumer]]"
 ---
 # Understanding Kafka Consumers
 

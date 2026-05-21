@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/difficulty-and-engagement-analysis|Difficulty and Engagement Analysis]]"
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/difficulty-and-engagement-analysis|difficulty-and-engagement-analysis]]"
 ---
 # Analyzing the Difficulty-Engagement Relationship
 

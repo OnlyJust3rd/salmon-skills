@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/quadratic-form-definition|Quadratic form definition]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/quadratic-form-definition|quadratic-form-definition]]"
 ---
 # Understanding Quadratic Forms
 

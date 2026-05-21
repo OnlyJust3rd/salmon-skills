@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/identity-and-access-management-iam|Identity and Access Management (IAM)]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/identity-and-access-management-iam|identity-and-access-management-iam]]"
 ---
 # Mastering Identity and Access Management (IAM) Policies
 

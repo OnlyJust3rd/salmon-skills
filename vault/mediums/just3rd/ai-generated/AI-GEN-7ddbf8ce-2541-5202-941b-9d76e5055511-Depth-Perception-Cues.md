@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/depth-perception-cues|Depth Perception Cues]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/depth-perception-cues|depth-perception-cues]]"
 ---
 # Understanding Depth Perception Cues
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/exploratory-data-analysis/microskills/pattern-identification|Pattern Identification]]"
+  - "[[skills/data/data-platforms/exploratory-data-analysis/microskills/pattern-identification|pattern-identification]]"
 ---
 # Identifying Patterns in Data
 

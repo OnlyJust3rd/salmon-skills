@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/truth-assignments|Truth Assignments]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/truth-assignments|truth-assignments]]"
 ---
 # Understanding Truth Assignments in Propositional Logic
 

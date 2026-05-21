@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/geometric-manipulation|Geometric Manipulation]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/geometric-manipulation|geometric-manipulation]]"
 ---
 # Geometric Manipulation: Transforming Shapes
 

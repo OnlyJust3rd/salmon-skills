@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-mining/microskills/html-parsing-definition|HTML Parsing Definition]]"
+  - "[[skills/data/data-science/text-mining/microskills/html-parsing-definition|html-parsing-definition]]"
 ---
 # Understanding HTML Parsing
 

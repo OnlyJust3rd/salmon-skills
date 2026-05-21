@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/homogeneity-property|Homogeneity property]]"
+  - "[[skills/mathematics/linear-transformations/microskills/homogeneity-property|homogeneity-property]]"
 ---
 # Understanding the Homogeneity Property of Linear Transformations
 

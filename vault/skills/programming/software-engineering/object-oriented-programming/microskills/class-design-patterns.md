@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Class design patterns"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 361 - Java Programming"
-parent-macro: "Object-Oriented Programming"
-parent-competency: "L3- OOP Design Application"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/object-oriented-programming/object-oriented-programming|object-oriented-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L2-oop-design-application|L2-oop-design-application]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Class design patterns
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/object-oriented-programm
 
 Parent competency:
 
-- [[skills/programming/software-engineering/object-oriented-programming/competencies/L3-oop-design-application|L3- OOP Design Application]]
+- [[skills/programming/software-engineering/object-oriented-programming/competencies/L2-oop-design-application|L3- OOP Design Application]]
 
 ## Description
 

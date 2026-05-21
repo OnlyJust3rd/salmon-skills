@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-principles|Amdahl's Law Principles]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-principles|amdahl-s-law-principles]]"
 ---
 # Understanding Amdahl's Law: The Ceiling on Speedup
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/research-and-development-functions|Research and Development Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/research-and-development-functions|research-and-development-functions]]"
 ---
 # Understanding Research and Development (R&D) Functions
 

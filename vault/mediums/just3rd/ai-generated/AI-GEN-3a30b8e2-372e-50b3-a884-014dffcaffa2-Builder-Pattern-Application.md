@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/builder-pattern-application|Builder Pattern Application]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/builder-pattern-application|builder-pattern-application]]"
 ---
 # Applying the Builder Pattern
 

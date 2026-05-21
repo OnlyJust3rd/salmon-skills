@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/propositional-logic-syntax|Propositional Logic Syntax]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/propositional-logic-syntax|propositional-logic-syntax]]"
 ---
 # Understanding Propositional Logic Syntax
 

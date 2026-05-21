@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/cold-start|Cold Start]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/cold-start|cold-start]]"
 ---
 # Understanding Serverless Cold Starts
 

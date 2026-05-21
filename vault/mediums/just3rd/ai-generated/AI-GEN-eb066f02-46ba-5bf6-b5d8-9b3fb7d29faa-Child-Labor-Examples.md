@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/child-labor-examples|Child Labor Examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/child-labor-examples|child-labor-examples]]"
 ---
 # Understanding Child Labor in Business
 

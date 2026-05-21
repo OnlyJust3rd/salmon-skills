@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/inter-protocol-dependencies|Inter-Protocol Dependencies]]"
+  - "[[skills/systems/networking/application-layer/microskills/inter-protocol-dependencies|inter-protocol-dependencies]]"
 ---
 # Understanding Inter-Protocol Dependencies: HTTP and DNS
 

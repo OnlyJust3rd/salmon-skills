@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safe-usage-of-lab-equipment|Safe Usage of Lab Equipment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safe-usage-of-lab-equipment|safe-usage-of-lab-equipment]]"
 ---
 # Safe Usage of Lab Equipment
 

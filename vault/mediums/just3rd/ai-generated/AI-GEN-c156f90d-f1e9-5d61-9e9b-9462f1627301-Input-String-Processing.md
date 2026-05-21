@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-model-understanding/microskills/input-string-processing|Input String Processing]]"
+  - "[[skills/programming/algorithms/computational-model-understanding/microskills/input-string-processing|input-string-processing]]"
 ---
 # Processing Input Strings with Finite Automata
 

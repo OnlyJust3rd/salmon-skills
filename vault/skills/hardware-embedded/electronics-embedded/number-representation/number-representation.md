@@ -1,17 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Number Representation"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 223 - Computer Architectures"
-coverage:
-  - "Concept"
-  - "Evaluation"
-competency-count: 2
-microskill-count: 8
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-223-computer-architectures"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/competencies/L1-explain-number-representation-and-computer-arithmetic|L1-explain-number-representation-and-computer-arithmetic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/competencies/L2-apply-number-representation-in-arithmetic|L2-apply-number-representation-in-arithmetic]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/competencies/L2-apply-number-representation-in-arithmetic|L2-apply-number-representation-in-arithmetic]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/application-of-number-formats|application-of-number-formats]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/binary-arithmetic-application|binary-arithmetic-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/binary-arithmetic-operations|binary-arithmetic-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/computer-arithmetic-principles|computer-arithmetic-principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/execution-of-computer-arithmetic|execution-of-computer-arithmetic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/number-representation-formats|number-representation-formats]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/sign-magnitude-representation|sign-magnitude-representation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/two-s-complement-representation|two-s-complement-representation]]"
 ---
 
 # Number Representation
@@ -20,8 +28,8 @@ Understanding and applying different numerical representation formats and the un
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/number-representation/competencies/L2-explain-number-representation-and-computer-arithmetic|L2- Explain Number Representation and Computer Arithmetic]]
-- [[skills/hardware-embedded/electronics-embedded/number-representation/competencies/L3-apply-number-representation-in-arithmetic|L3- Apply Number Representation in Arithmetic]]
+- [[skills/hardware-embedded/electronics-embedded/number-representation/competencies/L1-explain-number-representation-and-computer-arithmetic|L2- Explain Number Representation and Computer Arithmetic]]
+- [[skills/hardware-embedded/electronics-embedded/number-representation/competencies/L2-apply-number-representation-in-arithmetic|L3- Apply Number Representation in Arithmetic]]
 
 ## Microskills
 

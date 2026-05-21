@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-principles|Responsibility Assignment Principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-principles|responsibility-assignment-principles]]"
 ---
 # Responsibility Assignment Principles in Object-Oriented Design
 

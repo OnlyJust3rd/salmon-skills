@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-provider-block|Terraform Provider Block]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-provider-block|terraform-provider-block]]"
 ---
 # Understanding Terraform Provider Blocks
 

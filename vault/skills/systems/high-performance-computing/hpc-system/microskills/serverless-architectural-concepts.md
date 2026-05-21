@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Serverless Architectural Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "HPC System"
-parent-competency: "L2- Define and Explain Serverless"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/hpc-system/hpc-system|hpc-system]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/hpc-system/competencies/L1-define-and-explain-serverless|L1-define-and-explain-serverless]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Serverless Architectural Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/hpc-system/hpc-system|
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/hpc-system/competencies/L2-define-and-explain-serverless|L2- Define and Explain Serverless]]
+- [[skills/systems/high-performance-computing/hpc-system/competencies/L1-define-and-explain-serverless|L2- Define and Explain Serverless]]
 
 ## Description
 

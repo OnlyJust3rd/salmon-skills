@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/physical-computing|Physical Computing]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/physical-computing|physical-computing]]"
 ---
 # Physical Computing with Arduino: Bringing Ideas to Life
 

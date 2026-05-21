@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Design Pattern Benefits Explanation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Design Patterns"
-parent-competency: "L2- Explain Design Pattern Purpose and Problems"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/design-patterns/design-patterns|design-patterns]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/design-patterns/competencies/L1-explain-design-pattern-purpose-and-problems|L1-explain-design-pattern-purpose-and-problems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Design Pattern Benefits Explanation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/design-patterns/design-p
 
 Parent competency:
 
-- [[skills/programming/software-engineering/design-patterns/competencies/L2-explain-design-pattern-purpose-and-problems|L2- Explain Design Pattern Purpose and Problems]]
+- [[skills/programming/software-engineering/design-patterns/competencies/L1-explain-design-pattern-purpose-and-problems|L2- Explain Design Pattern Purpose and Problems]]
 
 ## Description
 

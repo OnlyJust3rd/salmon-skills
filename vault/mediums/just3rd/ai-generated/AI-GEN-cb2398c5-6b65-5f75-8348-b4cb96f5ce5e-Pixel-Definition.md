@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-definition|Pixel Definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-definition|pixel-definition]]"
 ---
 # Understanding the Pixel: The Building Block of Digital Images
 

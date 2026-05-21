@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/real-world-problem-identification|Real-world problem identification]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/real-world-problem-identification|real-world-problem-identification]]"
 ---
 # Recognizing Problems for Computational Solutions
 

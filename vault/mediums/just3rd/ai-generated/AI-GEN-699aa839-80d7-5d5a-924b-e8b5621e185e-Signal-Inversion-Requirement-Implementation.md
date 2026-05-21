@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/signal-inversion-requirement-implementation|Signal Inversion Requirement Implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/signal-inversion-requirement-implementation|signal-inversion-requirement-implementation]]"
 ---
 # Implementing Signal Inversion with Operational Amplifiers
 

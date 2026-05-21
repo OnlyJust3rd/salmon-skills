@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/visual-realism-improvement|Visual Realism Improvement]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/visual-realism-improvement|visual-realism-improvement]]"
 ---
 # Enhancing 3D Scene Realism with Basic Shading
 

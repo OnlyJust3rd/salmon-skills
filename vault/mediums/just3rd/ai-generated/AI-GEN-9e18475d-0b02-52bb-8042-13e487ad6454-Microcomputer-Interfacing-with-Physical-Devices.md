@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/microskills/microcomputer-interfacing-with-physical-devices|Microcomputer Interfacing with Physical Devices]]"
+  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/microskills/microcomputer-interfacing-with-physical-devices|microcomputer-interfacing-with-physical-devices]]"
 ---
 # Microcomputer Interfacing with Physical Devices
 

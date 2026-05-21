@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/customer-interview-purpose|Customer Interview Purpose]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/customer-interview-purpose|customer-interview-purpose]]"
 ---
 # The Purpose of Customer Discovery Interviews
 

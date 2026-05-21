@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-control-and-status-registers|ADC Control and Status Registers]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-control-and-status-registers|adc-control-and-status-registers]]"
 ---
 # ADC Control and Status Registers
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-principles-application|Flip-Flop Principles Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-principles-application|flip-flop-principles-application]]"
 ---
 # Applying Flip-Flop Principles to Build a Counter
 

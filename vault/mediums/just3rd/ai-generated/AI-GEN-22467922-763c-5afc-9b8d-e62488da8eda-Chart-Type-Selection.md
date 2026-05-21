@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-visualization/microskills/chart-type-selection|Chart Type Selection]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/chart-type-selection|chart-type-selection]]"
 ---
 # Choosing the Right Chart for Your Data Story
 

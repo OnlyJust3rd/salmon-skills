@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-ah-application-demonstration|IPSec (AH) Application Demonstration]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-ah-application-demonstration|ipsec-ah-application-demonstration]]"
 ---
 # IPSec AH: Ensuring Data Integrity and Authenticity
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/synthesis-task|Synthesis Task]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/synthesis-task|synthesis-task]]"
 ---
 # Synthesizing Information for Task Delegation with Claude Cowork
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Project Timeline Planning Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Team Collaboration"
-parent-competency: "L1- Define Collaboration Terms"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/team-collaboration/team-collaboration|team-collaboration]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/team-collaboration/competencies/L1-define-collaboration-terms|L1-define-collaboration-terms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Project Timeline Planning Concepts

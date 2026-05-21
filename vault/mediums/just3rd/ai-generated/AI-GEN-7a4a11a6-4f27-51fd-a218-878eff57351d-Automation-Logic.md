@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-logic|Automation Logic]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-logic|automation-logic]]"
 ---
 # Understanding Automation Logic in Declarative Infrastructure as Code
 

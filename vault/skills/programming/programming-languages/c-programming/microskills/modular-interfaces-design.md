@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Modular interfaces design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "C Programming"
-parent-competency: "L3- Apply C Modular Structure"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/c-programming/c-programming|c-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/c-programming/competencies/L2-apply-c-modular-structure|L2-apply-c-modular-structure]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Modular interfaces design
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/c-programming/c-program
 
 Parent competency:
 
-- [[skills/programming/programming-languages/c-programming/competencies/L3-apply-c-modular-structure|L3- Apply C Modular Structure]]
+- [[skills/programming/programming-languages/c-programming/competencies/L2-apply-c-modular-structure|L3- Apply C Modular Structure]]
 
 ## Description
 

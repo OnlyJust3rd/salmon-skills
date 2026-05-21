@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-role-in-hpc|Xeon Phi Processor Role in HPC]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-role-in-hpc|xeon-phi-processor-role-in-hpc]]"
 ---
 # Understanding the Role of Xeon Phi Processors in High-Performance Computing
 

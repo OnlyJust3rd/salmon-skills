@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/c-data-type-understanding|C data type understanding]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/c-data-type-understanding|c-data-type-understanding]]"
 ---
 # Understanding C Data Types
 

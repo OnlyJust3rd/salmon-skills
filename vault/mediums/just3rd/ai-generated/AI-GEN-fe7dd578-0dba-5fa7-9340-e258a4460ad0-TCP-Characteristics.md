@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/transport-layer/microskills/tcp-characteristics|TCP Characteristics]]"
+  - "[[skills/systems/networking/transport-layer/microskills/tcp-characteristics|tcp-characteristics]]"
 ---
 # Understanding TCP Characteristics
 

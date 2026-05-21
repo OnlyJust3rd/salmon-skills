@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/distributed-environment-utilization|Distributed Environment Utilization]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/distributed-environment-utilization|distributed-environment-utilization]]"
 ---
 # Understanding GRID Computing's Role in Distributed Environments
 

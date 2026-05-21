@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/network-throughput-analysis|Network Throughput Analysis]]"
+  - "[[skills/systems/networking/network-performance/microskills/network-throughput-analysis|network-throughput-analysis]]"
 ---
 # Network Throughput Analysis: Understanding Congestion Control's Effect
 

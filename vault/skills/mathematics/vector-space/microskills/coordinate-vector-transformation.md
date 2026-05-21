@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Coordinate vector transformation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Vector Space"
-parent-competency: "L3- Apply Change of Basis"
+  - "microskill"
+parent-skill: "[[skills/mathematics/vector-space/vector-space|vector-space]]"
+requires-in-competencies:
+  - "[[skills/mathematics/vector-space/competencies/L2-apply-change-of-basis|L2-apply-change-of-basis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Coordinate vector transformation
@@ -15,7 +17,7 @@ Parent macro: [[vector-space|Vector Space]]
 
 Parent competency:
 
-- [[L3-apply-change-of-basis|L3- Apply Change of Basis]]
+- [[skills/mathematics/vector-space/competencies/L2-apply-change-of-basis|L3- Apply Change of Basis]]
 
 ## Description
 

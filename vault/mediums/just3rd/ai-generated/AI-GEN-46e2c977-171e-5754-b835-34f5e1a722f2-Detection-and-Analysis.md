@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/incident-response/microskills/detection-and-analysis|Detection and Analysis]]"
+  - "[[skills/security/cybersecurity/incident-response/microskills/detection-and-analysis|detection-and-analysis]]"
 ---
 # Detection and Analysis: Spotting the Signs of Trouble
 

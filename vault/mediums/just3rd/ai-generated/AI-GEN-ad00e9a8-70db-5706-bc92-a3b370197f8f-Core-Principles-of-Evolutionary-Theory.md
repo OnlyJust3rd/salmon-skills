@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/core-principles-of-evolutionary-theory|Core Principles of Evolutionary Theory]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/core-principles-of-evolutionary-theory|core-principles-of-evolutionary-theory]]"
 ---
 # Core Principles of Evolutionary Theory
 

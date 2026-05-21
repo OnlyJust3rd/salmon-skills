@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/dynamic-host-configuration-protocol|Dynamic Host Configuration Protocol]]"
+  - "[[skills/systems/networking/network-layer/microskills/dynamic-host-configuration-protocol|dynamic-host-configuration-protocol]]"
 ---
 # Understanding Dynamic Host Configuration Protocol (DHCP)
 

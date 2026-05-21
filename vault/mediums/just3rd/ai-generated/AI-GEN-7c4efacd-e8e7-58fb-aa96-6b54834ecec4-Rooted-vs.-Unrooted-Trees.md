@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/rooted-vs-unrooted-trees|Rooted vs. Unrooted Trees]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/rooted-vs-unrooted-trees|rooted-vs-unrooted-trees]]"
 ---
 # Rooted vs. Unrooted Trees
 

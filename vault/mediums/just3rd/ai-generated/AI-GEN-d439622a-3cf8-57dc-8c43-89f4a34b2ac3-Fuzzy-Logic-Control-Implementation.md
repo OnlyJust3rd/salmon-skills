@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/fuzzy-logic-control-implementation|Fuzzy Logic Control Implementation]]"
+  - "[[skills/data/ai/soft-computing/microskills/fuzzy-logic-control-implementation|fuzzy-logic-control-implementation]]"
 ---
 # Implementing Fuzzy Logic Controllers
 

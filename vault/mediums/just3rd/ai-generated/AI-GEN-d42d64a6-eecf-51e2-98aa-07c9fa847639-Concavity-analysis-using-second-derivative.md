@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/concavity-analysis-using-second-derivative|Concavity analysis using second derivative]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/concavity-analysis-using-second-derivative|concavity-analysis-using-second-derivative]]"
 ---
 # Understanding Concavity with the Second Derivative
 

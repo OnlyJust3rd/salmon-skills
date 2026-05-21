@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "NoSQL Database Categories"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 241 - Database Systems"
-parent-macro: "NoSQL Database"
-parent-competency: "L1- List NoSQL Types"
+  - "microskill"
+parent-skill: "[[skills/data/databases/nosql-database/nosql-database|nosql-database]]"
+requires-in-competencies:
+  - "[[skills/data/databases/nosql-database/competencies/L1-list-nosql-types|L1-list-nosql-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # NoSQL Database Categories

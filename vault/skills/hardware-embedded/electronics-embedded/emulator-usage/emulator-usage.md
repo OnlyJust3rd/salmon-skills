@@ -1,16 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Emulator Usage"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 223 - Computer Architectures"
-coverage:
-  - "ToolUsage"
-competency-count: 1
-microskill-count: 3
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-223-computer-architectures"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/competencies/L2-emulator-execution-and-debugging|L2-emulator-execution-and-debugging]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/competencies/L2-emulator-execution-and-debugging|L2-emulator-execution-and-debugging]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/emulator-functionality-application|emulator-functionality-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/error-identification-and-correction|error-identification-and-correction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/processor-design-execution|processor-design-execution]]"
 ---
 
 # Emulator Usage
@@ -19,7 +22,7 @@ Utilizing emulators for processor design and experimentation.
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/emulator-usage/competencies/L3-emulator-execution-and-debugging|L3- Emulator Execution and Debugging]]
+- [[skills/hardware-embedded/electronics-embedded/emulator-usage/competencies/L2-emulator-execution-and-debugging|L3- Emulator Execution and Debugging]]
 
 ## Microskills
 

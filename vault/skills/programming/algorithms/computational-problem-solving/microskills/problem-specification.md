@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Problem Specification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers, CPE 231 - Algorithms"
-parent-macro: "Computational Problem Solving"
-parent-competency: "L1- Define Computational Problem Solving"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/computational-problem-solving/computational-problem-solving|computational-problem-solving]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Problem Specification

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/merge-sort-implementation|Merge Sort Implementation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/merge-sort-implementation|merge-sort-implementation]]"
 ---
 # Implementing Merge Sort in Code
 

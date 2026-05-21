@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Dynamic Memory Management in C"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "C Programming"
-parent-competency: "L3- C Data Structure Implementation"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/c-programming/c-programming|c-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/c-programming/competencies/L2-c-data-structure-implementation|L2-c-data-structure-implementation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Dynamic Memory Management in C
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/c-programming/c-program
 
 Parent competency:
 
-- [[skills/programming/programming-languages/c-programming/competencies/L3-c-data-structure-implementation|L3- C Data Structure Implementation]]
+- [[skills/programming/programming-languages/c-programming/competencies/L2-c-data-structure-implementation|L3- C Data Structure Implementation]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/dtft-phase-calculation|DTFT Phase Calculation]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/dtft-phase-calculation|dtft-phase-calculation]]"
 ---
 # Calculating the Phase of the Discrete-Time Fourier Transform (DTFT)
 

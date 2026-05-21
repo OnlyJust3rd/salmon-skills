@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/parameter-interpretation-in-parametric-line-equations|Parameter interpretation in parametric line equations]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parameter-interpretation-in-parametric-line-equations|parameter-interpretation-in-parametric-line-equations]]"
 ---
 # Understanding Parameters in 3D Parametric Line Equations
 

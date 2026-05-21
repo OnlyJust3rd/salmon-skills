@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/cognitive-process-influence|Cognitive Process Influence]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/cognitive-process-influence|cognitive-process-influence]]"
 ---
 # Understanding Cognitive Limitations in User Interaction
 

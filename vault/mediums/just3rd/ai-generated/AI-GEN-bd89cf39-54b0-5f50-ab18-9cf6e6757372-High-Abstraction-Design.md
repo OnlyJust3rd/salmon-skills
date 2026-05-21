@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/high-abstraction-design|High Abstraction Design]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/high-abstraction-design|high-abstraction-design]]"
 ---
 # High Abstraction Design: Simplifying Your Software
 

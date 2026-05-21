@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-hardware-configuration|UML Diagram Application for Hardware Configuration]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-hardware-configuration|uml-diagram-application-for-hardware-configuration]]"
 ---
 # Modeling Hardware Configuration with UML
 

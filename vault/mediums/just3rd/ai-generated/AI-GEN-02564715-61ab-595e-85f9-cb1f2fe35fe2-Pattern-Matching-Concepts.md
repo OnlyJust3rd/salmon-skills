@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/pattern-matching-concepts|Pattern Matching Concepts]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/pattern-matching-concepts|pattern-matching-concepts]]"
 ---
 # Pattern Matching Concepts
 

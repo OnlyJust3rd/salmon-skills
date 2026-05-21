@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/linear-dependence-implications|Linear dependence implications]]"
+  - "[[skills/mathematics/vector-space/microskills/linear-dependence-implications|linear-dependence-implications]]"
 ---
 # Linear Dependence Implications
 

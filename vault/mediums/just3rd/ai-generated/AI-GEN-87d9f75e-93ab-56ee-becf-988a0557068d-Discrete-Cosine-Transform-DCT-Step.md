@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/discrete-cosine-transform-dct-step|Discrete Cosine Transform (DCT) Step]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/discrete-cosine-transform-dct-step|discrete-cosine-transform-dct-step]]"
 ---
 # Understanding the Discrete Cosine Transform (DCT) Step
 

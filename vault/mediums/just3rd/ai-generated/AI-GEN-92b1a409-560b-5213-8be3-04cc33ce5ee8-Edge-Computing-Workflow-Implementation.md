@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/edge-computing-workflow-implementation|Edge Computing Workflow Implementation]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/edge-computing-workflow-implementation|edge-computing-workflow-implementation]]"
 ---
 # Implementing Edge Computing Workflows with Low-Code Tools
 

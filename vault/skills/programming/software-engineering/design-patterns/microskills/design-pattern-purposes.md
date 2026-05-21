@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Design Pattern Purposes"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Design Patterns"
-parent-competency: "L1- Define and List Design Patterns"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/design-patterns/design-patterns|design-patterns]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/design-patterns/competencies/L1-define-and-list-design-patterns|L1-define-and-list-design-patterns]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Design Pattern Purposes

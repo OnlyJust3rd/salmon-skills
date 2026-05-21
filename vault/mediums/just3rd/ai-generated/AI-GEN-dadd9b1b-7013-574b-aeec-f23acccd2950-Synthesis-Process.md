@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/synthesis-process|Synthesis Process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/synthesis-process|synthesis-process]]"
 ---
 # The Synthesis Process: Turning Code into Gates
 

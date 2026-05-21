@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/industrial-automotive-interfaces|Industrial/Automotive Interfaces]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/industrial-automotive-interfaces|industrial-automotive-interfaces]]"
 ---
 # Understanding Industrial/Automotive Interfaces: CAN and RS-232/422
 

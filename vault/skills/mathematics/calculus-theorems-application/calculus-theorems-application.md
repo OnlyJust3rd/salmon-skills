@@ -1,18 +1,37 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Calculus Theorems Application"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 101 - Mathematics I"
-coverage:
-  - "Concept"
-  - "Analysis"
-  - "Representation"
-competency-count: 6
-microskill-count: 16
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-101-mathematics-i"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-list-calculus-theorems|L1-list-calculus-theorems]]"
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-list-theorem-conditions|L1-list-theorem-conditions]]"
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-describe-l-hopital-s-rule|L1-describe-l-hopital-s-rule]]"
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-explain-intermediate-value-theorem|L1-explain-intermediate-value-theorem]]"
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-explain-mvt-relationship|L1-explain-mvt-relationship]]"
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L2-apply-mvt-to-problems|L2-apply-mvt-to-problems]]"
+standard-competency:
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L2-apply-mvt-to-problems|L2-apply-mvt-to-problems]]"
+microskills:
+  - "[[skills/mathematics/calculus-theorems-application/microskills/average-rate-of-change-calculations|average-rate-of-change-calculations]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/conceptual-link-mean-value-theorem-and-derivative|conceptual-link-mean-value-theorem-and-derivative]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/conditions-for-differentiable-functions|conditions-for-differentiable-functions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/extreme-value-theorem|extreme-value-theorem]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/function-value-implications-within-an-interval|function-value-implications-within-an-interval]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/general-l-hopital-s-rule-process|general-l-hopital-s-rule-process]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/indeterminate-form-limit-evaluation|indeterminate-form-limit-evaluation]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/instantaneous-rate-of-change-comparisons|instantaneous-rate-of-change-comparisons]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/instantaneous-rate-of-change-interpretation|instantaneous-rate-of-change-interpretation]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/intermediate-value-theorem-core-concept|intermediate-value-theorem-core-concept]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/intermediate-value-theorem|intermediate-value-theorem]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/l-hopital-s-rule-purpose|l-hopital-s-rule-purpose]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/mean-value-theorem-applicability-conditions|mean-value-theorem-applicability-conditions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/mean-value-theorem-application-in-problem-solving|mean-value-theorem-application-in-problem-solving]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/rolle-s-theorem-applicability-conditions|rolle-s-theorem-applicability-conditions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/theorems-for-continuous-functions|theorems-for-continuous-functions]]"
 ---
 
 # Calculus Theorems Application
@@ -21,12 +40,12 @@ Apply theorems of calculus, including those for continuous and differentiable fu
 
 ## Competencies
 
-- [[L1-list-theorem-conditions|L1- List Theorem Conditions]]
-- [[L2-explain-mvt-relationship|L2- Explain MVT Relationship]]
-- [[L3-apply-mvt-to-problems|L3- Apply MVT to Problems]]
-- [[L1-list-calculus-theorems|L1- List Calculus Theorems]]
-- [[L2-explain-intermediate-value-theorem|L2- Explain Intermediate Value Theorem]]
-- [[L2-describe-l-hopital-s-rule|L2- Describe L'Hopital's Rule]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-list-theorem-conditions|L1- List Theorem Conditions]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-explain-mvt-relationship|L2- Explain MVT Relationship]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L2-apply-mvt-to-problems|L3- Apply MVT to Problems]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-list-calculus-theorems|L1- List Calculus Theorems]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-explain-intermediate-value-theorem|L2- Explain Intermediate Value Theorem]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-describe-l-hopital-s-rule|L2- Describe L'Hopital's Rule]]
 
 ## Microskills
 

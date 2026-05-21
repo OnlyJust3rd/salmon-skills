@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/lossy-compression-core-concept|Lossy Compression Core Concept]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/lossy-compression-core-concept|lossy-compression-core-concept]]"
 ---
 # Understanding Lossy Compression
 

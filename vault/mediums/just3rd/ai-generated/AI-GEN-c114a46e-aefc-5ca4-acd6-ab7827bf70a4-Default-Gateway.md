@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/routing-and-switching/microskills/default-gateway|Default Gateway]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/default-gateway|default-gateway]]"
 ---
 # Understanding the Default Gateway
 

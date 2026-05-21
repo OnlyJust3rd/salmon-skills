@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/data-manipulation-operations|Data Manipulation Operations]]"
+  - "[[skills/data/databases/sql/microskills/data-manipulation-operations|data-manipulation-operations]]"
 ---
 # Performing Data Manipulation Operations in SQL
 

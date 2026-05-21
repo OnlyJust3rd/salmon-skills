@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/4cs-framework|4Cs Framework]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/4cs-framework|4cs-framework]]"
 ---
 # Understanding the 4Cs Framework: A Customer-Centric Marketing Mix
 

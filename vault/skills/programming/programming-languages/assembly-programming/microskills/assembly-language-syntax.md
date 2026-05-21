@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Assembly Language Syntax"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Assembly Programming"
-parent-competency: "L2- Describe Assembly Structure"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/assembly-programming/assembly-programming|assembly-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/assembly-programming/competencies/L1-describe-assembly-structure|L1-describe-assembly-structure]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Assembly Language Syntax
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/assembly-programming/as
 
 Parent competency:
 
-- [[skills/programming/programming-languages/assembly-programming/competencies/L2-describe-assembly-structure|L2- Describe Assembly Structure]]
+- [[skills/programming/programming-languages/assembly-programming/competencies/L1-describe-assembly-structure|L2- Describe Assembly Structure]]
 
 ## Description
 

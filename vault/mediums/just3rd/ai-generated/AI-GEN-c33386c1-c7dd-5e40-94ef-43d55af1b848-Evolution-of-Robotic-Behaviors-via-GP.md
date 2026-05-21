@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/evolution-of-robotic-behaviors-via-gp|Evolution of Robotic Behaviors via GP]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/evolution-of-robotic-behaviors-via-gp|evolution-of-robotic-behaviors-via-gp]]"
 ---
 # Evolving Robotic Behaviors with Genetic Programming
 

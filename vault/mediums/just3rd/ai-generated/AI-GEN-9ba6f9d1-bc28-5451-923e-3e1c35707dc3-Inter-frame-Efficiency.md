@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/inter-frame-efficiency|Inter-frame Efficiency]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/inter-frame-efficiency|inter-frame-efficiency]]"
 ---
 # Inter-frame Efficiency in Video Compression
 

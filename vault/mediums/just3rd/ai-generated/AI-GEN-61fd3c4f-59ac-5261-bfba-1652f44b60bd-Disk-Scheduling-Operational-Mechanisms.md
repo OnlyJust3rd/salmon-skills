@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-operational-mechanisms|Disk Scheduling Operational Mechanisms]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-operational-mechanisms|disk-scheduling-operational-mechanisms]]"
 ---
 # Understanding Disk Scheduling Operational Mechanisms
 

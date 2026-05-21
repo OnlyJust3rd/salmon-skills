@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Causality Analysis (ROC)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Complex Frequency Domain Analysis"
-parent-competency: "L4- Analyze System Properties"
+  - "microskill"
+parent-skill: "[[skills/mathematics/complex-frequency-domain-analysis/complex-frequency-domain-analysis|complex-frequency-domain-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/complex-frequency-domain-analysis/competencies/L3-analyze-system-properties|L3-analyze-system-properties]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Causality Analysis (ROC)
@@ -15,7 +17,7 @@ Parent macro: [[complex-frequency-domain-analysis|Complex Frequency Domain Analy
 
 Parent competency:
 
-- [[L4-analyze-system-properties|L4- Analyze System Properties]]
+- [[skills/mathematics/complex-frequency-domain-analysis/competencies/L3-analyze-system-properties|L4- Analyze System Properties]]
 
 ## Description
 

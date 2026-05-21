@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/use-cases-for-data-models|Use Cases for Data Models]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/use-cases-for-data-models|use-cases-for-data-models]]"
 ---
 # Choosing the Right Data Model for the Job
 

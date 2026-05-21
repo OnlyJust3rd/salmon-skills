@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Communication Problem Solving"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Legal and Organizational Foundations"
-parent-competency: "L3- Apply Team Dynamics and Communication"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/legal-and-organizational-foundations/legal-and-organizational-foundations|legal-and-organizational-foundations]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/competencies/L2-apply-team-dynamics-and-communication|L2-apply-team-dynamics-and-communication]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Communication Problem Solving
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/legal-and-organizational-fou
 
 Parent competency:
 
-- [[skills/business-it/business-product/legal-and-organizational-foundations/competencies/L3-apply-team-dynamics-and-communication|L3- Apply Team Dynamics and Communication]]
+- [[skills/business-it/business-product/legal-and-organizational-foundations/competencies/L2-apply-team-dynamics-and-communication|L3- Apply Team Dynamics and Communication]]
 
 ## Description
 

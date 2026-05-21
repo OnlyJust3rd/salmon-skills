@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/technical-presentation-objectives|Technical Presentation Objectives]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/technical-presentation-objectives|technical-presentation-objectives]]"
 ---
 # Understanding Technical Presentation Objectives
 

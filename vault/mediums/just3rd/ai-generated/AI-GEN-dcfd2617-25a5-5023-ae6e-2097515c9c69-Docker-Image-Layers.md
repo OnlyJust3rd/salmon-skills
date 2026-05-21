@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-image-layers|Docker Image Layers]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-image-layers|docker-image-layers]]"
 ---
 # Docker Image Layers: Building Blocks of Your Container
 

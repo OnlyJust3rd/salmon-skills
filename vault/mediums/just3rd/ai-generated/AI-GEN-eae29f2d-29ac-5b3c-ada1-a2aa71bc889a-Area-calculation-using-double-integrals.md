@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/area-calculation-using-double-integrals|Area calculation using double integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/area-calculation-using-double-integrals|area-calculation-using-double-integrals]]"
 ---
 # Calculating Area with Double Integrals
 

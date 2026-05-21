@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/linguistic-text-processing/microskills/named-entity-recognition-ner-application|Named-Entity Recognition (NER) Application]]"
+  - "[[skills/data/data-science/linguistic-text-processing/microskills/named-entity-recognition-ner-application|named-entity-recognition-ner-application]]"
 ---
 # Named-Entity Recognition (NER) Application
 

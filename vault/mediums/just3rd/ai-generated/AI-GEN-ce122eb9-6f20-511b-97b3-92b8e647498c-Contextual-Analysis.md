@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/contextual-analysis|Contextual Analysis]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/contextual-analysis|contextual-analysis]]"
 ---
 # Contextual Analysis for Data Modeling Suitability
 

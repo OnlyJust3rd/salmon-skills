@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/environmental-navigation-definition|Environmental Navigation Definition]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/environmental-navigation-definition|environmental-navigation-definition]]"
 ---
 # Understanding Environmental Navigation for Robots
 

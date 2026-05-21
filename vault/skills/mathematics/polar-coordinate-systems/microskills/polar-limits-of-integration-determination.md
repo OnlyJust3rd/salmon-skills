@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Polar limits of integration determination"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Polar Coordinate Systems"
-parent-competency: "L3- Convert Double Integral to Polar"
+  - "microskill"
+parent-skill: "[[skills/mathematics/polar-coordinate-systems/polar-coordinate-systems|polar-coordinate-systems]]"
+requires-in-competencies:
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-convert-double-integral-to-polar|L2-convert-double-integral-to-polar]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Polar limits of integration determination
@@ -15,7 +17,7 @@ Parent macro: [[polar-coordinate-systems|Polar Coordinate Systems]]
 
 Parent competency:
 
-- [[L3-convert-double-integral-to-polar|L3- Convert Double Integral to Polar]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L2-convert-double-integral-to-polar|L3- Convert Double Integral to Polar]]
 
 ## Description
 

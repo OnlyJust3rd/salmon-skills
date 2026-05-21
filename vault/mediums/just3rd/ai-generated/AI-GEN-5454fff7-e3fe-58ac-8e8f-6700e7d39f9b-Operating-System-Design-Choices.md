@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/operating-system-design-choices|Operating System Design Choices]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/operating-system-design-choices|operating-system-design-choices]]"
 ---
 # Analyzing Operating System Design Choices
 

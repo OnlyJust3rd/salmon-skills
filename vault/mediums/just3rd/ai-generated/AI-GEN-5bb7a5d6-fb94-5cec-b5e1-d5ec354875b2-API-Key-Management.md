@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/api-key-management|API Key Management]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/api-key-management|api-key-management]]"
 ---
 # API Key Management: Securing Your IoT Devices
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unreal-engine/microskills/level|Level]]"
+  - "[[skills/creative-media/game-development/unreal-engine/microskills/level|level]]"
 ---
 # Understanding Unreal Engine Levels
 

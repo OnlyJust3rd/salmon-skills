@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-definition-recall|Impulse Response Definition Recall]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-definition-recall|impulse-response-definition-recall]]"
 ---
 # Understanding the Impulse Response: The System's Fingerprint
 

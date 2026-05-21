@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Prototyping Methods"
 tags:
   - "cpe"
   - "competency"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Iterative Prototyping and Testing"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/software-engineering/iterative-prototyping-and-testing/iterative-prototyping-and-testing|iterative-prototyping-and-testing]]"
+requires-microskills:
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/prototyping-techniques|prototyping-techniques]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/testing-methodologies|testing-methodologies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Prototyping Methods

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/parasitic-effect-identification|Parasitic Effect Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/parasitic-effect-identification|parasitic-effect-identification]]"
 ---
 # Parasitic Effect Identification in Breadboard Prototypes
 

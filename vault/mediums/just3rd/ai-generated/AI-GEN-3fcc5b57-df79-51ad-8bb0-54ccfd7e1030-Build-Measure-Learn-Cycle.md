@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/build-measure-learn-cycle|Build-Measure-Learn Cycle]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/build-measure-learn-cycle|build-measure-learn-cycle]]"
 ---
 # The Build-Measure-Learn Cycle: The Heartbeat of Lean Startup
 

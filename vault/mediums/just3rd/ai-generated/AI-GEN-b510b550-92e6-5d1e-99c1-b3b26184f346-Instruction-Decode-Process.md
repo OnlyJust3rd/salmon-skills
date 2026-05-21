@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-decode-process|Instruction Decode Process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-decode-process|instruction-decode-process]]"
 ---
 # The Instruction Decode Process: Making Sense of Processor Commands
 

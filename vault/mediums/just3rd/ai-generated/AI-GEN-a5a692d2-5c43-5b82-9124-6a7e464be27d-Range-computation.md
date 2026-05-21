@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-computation|Range computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-computation|range-computation]]"
 ---
 # Calculating the Range of a Linear Transformation
 

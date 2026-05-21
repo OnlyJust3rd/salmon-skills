@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-application|Gustafson's Law Application]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-application|gustafson-s-law-application]]"
 ---
 # Applying Gustafson's Law for Scalability Analysis
 

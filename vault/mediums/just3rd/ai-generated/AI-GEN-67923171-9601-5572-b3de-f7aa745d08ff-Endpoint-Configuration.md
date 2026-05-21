@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/endpoint-administration/microskills/endpoint-configuration|Endpoint Configuration]]"
+  - "[[skills/business-it/business-product/endpoint-administration/microskills/endpoint-configuration|endpoint-configuration]]"
 ---
 # Understanding Endpoint Configuration
 

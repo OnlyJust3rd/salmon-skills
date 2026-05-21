@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/http-message-analysis|HTTP Message Analysis]]"
+  - "[[skills/systems/networking/application-layer/microskills/http-message-analysis|http-message-analysis]]"
 ---
 # HTTP Message Analysis: Decoding the Web's Language
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/cpu-threshold-alerts|CPU Threshold Alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/cpu-threshold-alerts|cpu-threshold-alerts]]"
 ---
 # CPU Threshold Alerts
 

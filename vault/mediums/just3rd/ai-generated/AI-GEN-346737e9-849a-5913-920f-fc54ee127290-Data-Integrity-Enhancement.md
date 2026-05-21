@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/data-integrity-enhancement|Data Integrity Enhancement]]"
+  - "[[skills/data/databases/relational-database/microskills/data-integrity-enhancement|data-integrity-enhancement]]"
 ---
 # Normalization: Enhancing Data Integrity in Databases
 

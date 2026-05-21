@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-size-impact-on-viability|Market Size Impact on Viability]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-size-impact-on-viability|market-size-impact-on-viability]]"
 ---
 # Understanding Market Size and Business Viability
 

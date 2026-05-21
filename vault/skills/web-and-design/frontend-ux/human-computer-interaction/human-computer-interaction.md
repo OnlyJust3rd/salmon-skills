@@ -1,16 +1,33 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Human-Computer Interaction"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-coverage:
-  - "Concept"
-competency-count: 5
-microskill-count: 13
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-363-human-computer-interaction"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-ui-paradigm-history-identification|L1-ui-paradigm-history-identification]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-conversational-tech-ux|L1-conversational-tech-ux]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-data-visualization-role|L1-data-visualization-role]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-explain-interface-evolution-influence|L1-explain-interface-evolution-influence]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-apply-ux-principles-to-design|L2-apply-ux-principles-to-design]]"
+standard-competency:
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-apply-ux-principles-to-design|L2-apply-ux-principles-to-design]]"
+microskills:
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/contemporary-usability|contemporary-usability]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/conversational-technology-contribution|conversational-technology-contribution]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/data-visualization-function|data-visualization-function]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/historical-ui-evolution|historical-ui-evolution]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/historical-ui-impact|historical-ui-impact]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/information-conveyance|information-conveyance]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/initial-interface-concepts|initial-interface-concepts]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/interface-characteristics|interface-characteristics]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/interface-evolution|interface-evolution]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/sketching-design-alternatives|sketching-design-alternatives]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/user-experience-enhancement|user-experience-enhancement]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/user-experience-principles-application|user-experience-principles-application]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/user-interface-paradigms|user-interface-paradigms]]"
 ---
 
 # Human-Computer Interaction
@@ -20,10 +37,10 @@ Understand the evolution, scope, and interdisciplinary nature of HCI, including 
 ## Competencies
 
 - [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-ui-paradigm-history-identification|L1- UI Paradigm History & Identification]]
-- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-explain-interface-evolution-influence|L2- Explain Interface Evolution & Influence]]
-- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-data-visualization-role|L2- Data Visualization Role]]
-- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-conversational-tech-ux|L2- Conversational Tech & UX]]
-- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L3-apply-ux-principles-to-design|L3- Apply UX Principles to Design]]
+- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-explain-interface-evolution-influence|L2- Explain Interface Evolution & Influence]]
+- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-data-visualization-role|L2- Data Visualization Role]]
+- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-conversational-tech-ux|L2- Conversational Tech & UX]]
+- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-apply-ux-principles-to-design|L3- Apply UX Principles to Design]]
 
 ## Microskills
 

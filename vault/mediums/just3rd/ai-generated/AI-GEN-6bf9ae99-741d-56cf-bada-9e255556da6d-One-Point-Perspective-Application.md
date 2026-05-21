@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/one-point-perspective-application|One-Point Perspective Application]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/one-point-perspective-application|one-point-perspective-application]]"
 ---
 # Applying One-Point Perspective to Simple Shapes
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-rm-command|Docker Rm Command]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-rm-command|docker-rm-command]]"
 ---
 # Removing Docker Containers with `docker rm`
 

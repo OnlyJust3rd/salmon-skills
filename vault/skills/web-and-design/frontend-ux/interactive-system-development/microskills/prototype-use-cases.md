@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Prototype Use Cases"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Interactive System Development"
-parent-competency: "L2- Explain Prototype Fidelity"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/interactive-system-development/interactive-system-development|interactive-system-development]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L1-explain-prototype-fidelity|L1-explain-prototype-fidelity]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Prototype Use Cases
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/interactive-system-development
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L2-explain-prototype-fidelity|L2- Explain Prototype Fidelity]]
+- [[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L1-explain-prototype-fidelity|L2- Explain Prototype Fidelity]]
 
 ## Description
 

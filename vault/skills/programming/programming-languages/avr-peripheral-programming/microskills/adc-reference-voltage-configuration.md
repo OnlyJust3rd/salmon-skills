@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "ADC Reference Voltage Configuration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Peripheral Programming"
-parent-competency: "L3- Implement ADC Reading"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/competencies/L2-implement-adc-reading|L2-implement-adc-reading]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # ADC Reference Voltage Configuration
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/avr-peripheral-programm
 
 Parent competency:
 
-- [[skills/programming/programming-languages/avr-peripheral-programming/competencies/L3-implement-adc-reading|L3- Implement ADC Reading]]
+- [[skills/programming/programming-languages/avr-peripheral-programming/competencies/L2-implement-adc-reading|L3- Implement ADC Reading]]
 
 ## Description
 

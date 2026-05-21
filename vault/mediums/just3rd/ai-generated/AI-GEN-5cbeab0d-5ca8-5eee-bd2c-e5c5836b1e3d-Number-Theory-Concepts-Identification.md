@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/number-theory-concepts-identification|Number Theory Concepts Identification]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/number-theory-concepts-identification|number-theory-concepts-identification]]"
 ---
 # Number Theory Concepts Identification
 

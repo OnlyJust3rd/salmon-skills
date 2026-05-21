@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-principles|Brain-Inspired Computing Principles]]"
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-principles|brain-inspired-computing-principles]]"
 ---
 # Understanding Brain-Inspired Computing Principles
 

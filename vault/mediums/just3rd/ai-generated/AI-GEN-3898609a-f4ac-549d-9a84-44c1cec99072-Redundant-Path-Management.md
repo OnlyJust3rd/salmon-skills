@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/redundant-path-management|Redundant Path Management]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/redundant-path-management|redundant-path-management]]"
 ---
 # Managing Redundant Paths with Spanning Tree Protocol (STP)
 

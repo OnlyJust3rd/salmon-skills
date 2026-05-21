@@ -1,17 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Mathematical Induction"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 102 - Mathematics II"
-coverage:
-  - "Implementation"
-  - "Theory"
-competency-count: 2
-microskill-count: 8
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-102-mathematics-ii"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/mathematical-induction/competencies/L1-explain-induction-logic-and-structure|L1-explain-induction-logic-and-structure]]"
+  - "[[skills/mathematics/mathematical-induction/competencies/L2-apply-induction-to-proofs|L2-apply-induction-to-proofs]]"
+standard-competency:
+  - "[[skills/mathematics/mathematical-induction/competencies/L2-apply-induction-to-proofs|L2-apply-induction-to-proofs]]"
+microskills:
+  - "[[skills/mathematics/mathematical-induction/microskills/base-case-explanation|base-case-explanation]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-divisibility|induction-proofs-for-divisibility]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-inequalities|induction-proofs-for-inequalities]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-integer-sums|induction-proofs-for-integer-sums]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/inductive-hypothesis-explanation|inductive-hypothesis-explanation]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/inductive-step-explanation|inductive-step-explanation]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/necessity-of-induction-components|necessity-of-induction-components]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/rigorous-proof-construction|rigorous-proof-construction]]"
 ---
 
 # Mathematical Induction
@@ -20,8 +28,8 @@ Ability to construct rigorous mathematical proofs for given statements or formul
 
 ## Competencies
 
-- [[L2-explain-induction-logic-and-structure|L2- Explain Induction Logic and Structure]]
-- [[L3-apply-induction-to-proofs|L3- Apply Induction to Proofs]]
+- [[skills/mathematics/mathematical-induction/competencies/L1-explain-induction-logic-and-structure|L2- Explain Induction Logic and Structure]]
+- [[skills/mathematics/mathematical-induction/competencies/L2-apply-induction-to-proofs|L3- Apply Induction to Proofs]]
 
 ## Microskills
 

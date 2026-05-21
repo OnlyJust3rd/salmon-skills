@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/indefinite-classification|Indefinite classification]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/indefinite-classification|indefinite-classification]]"
 ---
 # Classifying Quadratic Forms as Indefinite
 

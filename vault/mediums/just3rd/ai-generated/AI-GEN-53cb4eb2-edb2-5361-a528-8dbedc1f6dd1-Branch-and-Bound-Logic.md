@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/branch-and-bound-logic|Branch and Bound Logic]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/branch-and-bound-logic|branch-and-bound-logic]]"
 ---
 # Understanding Branch and Bound Logic
 

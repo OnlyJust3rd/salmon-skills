@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/full-wave-rectifier-performance|Full-wave Rectifier Performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/full-wave-rectifier-performance|full-wave-rectifier-performance]]"
 ---
 # Evaluating Full-Wave Rectifier Performance
 

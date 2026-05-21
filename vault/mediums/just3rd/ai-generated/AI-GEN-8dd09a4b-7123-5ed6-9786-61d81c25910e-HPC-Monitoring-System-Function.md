@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|HPC Monitoring System Function]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|hpc-monitoring-system-function]]"
 ---
 # Understanding the Function of HPC Monitoring Systems
 

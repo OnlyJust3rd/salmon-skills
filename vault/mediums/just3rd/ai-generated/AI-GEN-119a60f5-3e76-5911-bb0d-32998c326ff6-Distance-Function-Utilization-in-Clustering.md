@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/distance-function-utilization-in-clustering|Distance Function Utilization in Clustering]]"
+  - "[[skills/data/data-science/text-clustering/microskills/distance-function-utilization-in-clustering|distance-function-utilization-in-clustering]]"
 ---
 # Distance Functions in K-Means Clustering
 

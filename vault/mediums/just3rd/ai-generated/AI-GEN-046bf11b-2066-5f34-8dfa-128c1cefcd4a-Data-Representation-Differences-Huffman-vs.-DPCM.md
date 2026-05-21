@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/data-representation-differences-huffman-vs-dpcm|Data Representation Differences (Huffman vs. DPCM)]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/data-representation-differences-huffman-vs-dpcm|data-representation-differences-huffman-vs-dpcm]]"
 ---
 # Data Representation: Huffman vs. DPCM
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Model Training"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Machine Learning"
-parent-competency: "L3- Apply Basic ML Models"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/machine-learning/machine-learning|machine-learning]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/machine-learning/competencies/L2-apply-basic-ml-models|L2-apply-basic-ml-models]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Model Training
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/machine-learning/machine-learning|Machi
 
 Parent competency:
 
-- [[skills/data/data-science/machine-learning/competencies/L3-apply-basic-ml-models|L3- Apply Basic ML Models]]
+- [[skills/data/data-science/machine-learning/competencies/L2-apply-basic-ml-models|L3- Apply Basic ML Models]]
 
 ## Description
 

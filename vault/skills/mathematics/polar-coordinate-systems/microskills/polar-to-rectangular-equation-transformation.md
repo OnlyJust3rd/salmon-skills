@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Polar to rectangular equation transformation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Polar Coordinate Systems"
-parent-competency: "L3- Equation Conversion"
+  - "microskill"
+parent-skill: "[[skills/mathematics/polar-coordinate-systems/polar-coordinate-systems|polar-coordinate-systems]]"
+requires-in-competencies:
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L2-equation-conversion|L2-equation-conversion]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Polar to rectangular equation transformation
@@ -15,7 +17,7 @@ Parent macro: [[polar-coordinate-systems|Polar Coordinate Systems]]
 
 Parent competency:
 
-- [[L3-equation-conversion|L3- Equation Conversion]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L2-equation-conversion|L3- Equation Conversion]]
 
 ## Description
 

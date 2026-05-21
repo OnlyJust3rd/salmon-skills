@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/symptom-collection|Symptom Collection]]"
+  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/symptom-collection|symptom-collection]]"
 ---
 # Symptom Collection: The First Step in Troubleshooting
 

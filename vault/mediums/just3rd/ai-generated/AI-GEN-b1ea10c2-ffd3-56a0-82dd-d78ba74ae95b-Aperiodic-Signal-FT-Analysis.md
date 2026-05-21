@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/aperiodic-signal-ft-analysis|Aperiodic Signal FT Analysis]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/aperiodic-signal-ft-analysis|aperiodic-signal-ft-analysis]]"
 ---
 # Aperiodic Signal Fourier Transform Analysis
 

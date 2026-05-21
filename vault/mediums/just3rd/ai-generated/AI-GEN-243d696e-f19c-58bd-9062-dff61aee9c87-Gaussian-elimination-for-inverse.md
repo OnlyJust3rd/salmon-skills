@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/gaussian-elimination-for-inverse|Gaussian elimination for inverse]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/gaussian-elimination-for-inverse|gaussian-elimination-for-inverse]]"
 ---
 # Gaussian Elimination for Matrix Inverses
 

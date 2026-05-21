@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/scenario-creation|Scenario Creation]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/scenario-creation|scenario-creation]]"
 ---
 # Scenario Creation: Visualizing User Journeys
 

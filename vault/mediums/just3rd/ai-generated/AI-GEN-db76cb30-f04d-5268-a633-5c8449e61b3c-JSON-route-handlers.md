@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/express-js/microskills/json-route-handlers|JSON route handlers]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/json-route-handlers|json-route-handlers]]"
 ---
 # JSON Route Handlers in Express.js
 

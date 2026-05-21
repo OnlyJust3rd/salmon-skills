@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/local-state|Local state]]"
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/local-state|local-state]]"
 ---
 # Understanding Local State in Components
 

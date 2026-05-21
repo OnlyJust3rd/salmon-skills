@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Code Smell Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Refactoring"
-parent-competency: "L1- Define Code Smells"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/refactoring/refactoring|refactoring]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/refactoring/competencies/L1-define-code-smells|L1-define-code-smells]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Code Smell Identification

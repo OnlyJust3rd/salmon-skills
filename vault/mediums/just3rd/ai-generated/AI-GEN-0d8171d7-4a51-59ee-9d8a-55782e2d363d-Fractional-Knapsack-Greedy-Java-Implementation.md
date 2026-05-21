@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/fractional-knapsack-greedy-java-implementation|Fractional Knapsack Greedy Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/fractional-knapsack-greedy-java-implementation|fractional-knapsack-greedy-java-implementation]]"
 ---
 # Fractional Knapsack Greedy Java Implementation
 

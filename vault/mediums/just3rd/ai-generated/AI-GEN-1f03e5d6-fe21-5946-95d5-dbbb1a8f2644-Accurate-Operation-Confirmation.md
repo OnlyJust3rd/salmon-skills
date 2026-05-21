@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/accurate-operation-confirmation|Accurate Operation Confirmation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/accurate-operation-confirmation|accurate-operation-confirmation]]"
 ---
 # Confirming Accurate Operation in Proteus Simulations
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/indefinite-integral-and-anti-derivative-relationship|Indefinite integral and anti-derivative relationship]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/indefinite-integral-and-anti-derivative-relationship|indefinite-integral-and-anti-derivative-relationship]]"
 ---
 # Understanding the Indefinite Integral and its Anti-derivative Relationship
 

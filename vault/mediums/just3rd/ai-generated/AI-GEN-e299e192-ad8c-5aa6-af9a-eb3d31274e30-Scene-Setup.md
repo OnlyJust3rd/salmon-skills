@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unity/microskills/scene-setup|Scene Setup]]"
+  - "[[skills/creative-media/game-development/unity/microskills/scene-setup|scene-setup]]"
 ---
 # Scene Setup: Arranging Your Game World in Unity
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-journey-mapping|User Journey Mapping]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-journey-mapping|user-journey-mapping]]"
 ---
 # Understanding and Creating User Journey Maps
 

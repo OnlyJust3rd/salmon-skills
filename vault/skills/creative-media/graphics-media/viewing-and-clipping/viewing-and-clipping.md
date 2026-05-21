@@ -1,18 +1,29 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Viewing and Clipping"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 381 - Computer Graphics"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Analysis"
-competency-count: 3
-microskill-count: 11
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-381-computer-graphics"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L1-define-coordinate-systems-and-viewport|L1-define-coordinate-systems-and-viewport]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L1-explain-viewing-transformations-and-clipping|L1-explain-viewing-transformations-and-clipping]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L2-apply-windowing-and-line-clipping|L2-apply-windowing-and-line-clipping]]"
+standard-competency:
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L2-apply-windowing-and-line-clipping|L2-apply-windowing-and-line-clipping]]"
+microskills:
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/clipping-concepts|clipping-concepts]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/line-clipping-algorithm|line-clipping-algorithm]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/purpose-of-viewing-pipeline|purpose-of-viewing-pipeline]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/view-coordinates|view-coordinates]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/viewport-definition|viewport-definition]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/visible-segment-determination|visible-segment-determination]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/window-definition|window-definition]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/windowing-concepts|windowing-concepts]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/windowing-transformation|windowing-transformation]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/world-coordinates|world-coordinates]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/world-to-view-transformation|world-to-view-transformation]]"
 ---
 
 # Viewing and Clipping
@@ -22,8 +33,8 @@ Transforming world coordinates into view coordinates and applying clipping algor
 ## Competencies
 
 - [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L1-define-coordinate-systems-and-viewport|L1- Define Coordinate Systems and Viewport]]
-- [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L2-explain-viewing-transformations-and-clipping|L2- Explain Viewing Transformations and Clipping]]
-- [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L3-apply-windowing-and-line-clipping|L3- Apply Windowing and Line Clipping]]
+- [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L1-explain-viewing-transformations-and-clipping|L2- Explain Viewing Transformations and Clipping]]
+- [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L2-apply-windowing-and-line-clipping|L3- Apply Windowing and Line Clipping]]
 
 ## Microskills
 

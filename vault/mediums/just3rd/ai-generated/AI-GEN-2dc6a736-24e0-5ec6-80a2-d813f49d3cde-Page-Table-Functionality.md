@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/page-table-functionality|Page Table Functionality]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/page-table-functionality|page-table-functionality]]"
 ---
 # Page Table Functionality
 

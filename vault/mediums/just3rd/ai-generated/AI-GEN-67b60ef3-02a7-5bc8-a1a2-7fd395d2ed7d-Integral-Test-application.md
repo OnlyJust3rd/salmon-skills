@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/integral-test-application|Integral Test application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/integral-test-application|integral-test-application]]"
 ---
 # Applying the Integral Test for Series Convergence
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete|SQL Data Manipulation Basics (INSERT, UPDATE, DELETE)]]"
+  - "[[skills/data/databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete|sql-data-manipulation-basics-insert-update-delete]]"
 ---
 # SQL Data Manipulation: INSERT, UPDATE, DELETE
 

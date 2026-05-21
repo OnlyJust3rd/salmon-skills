@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-model-understanding/microskills/model-characteristics|Model Characteristics]]"
+  - "[[skills/programming/algorithms/computational-model-understanding/microskills/model-characteristics|model-characteristics]]"
 ---
 # Understanding Computational Model Characteristics
 

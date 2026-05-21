@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/model-based-rl-principles|Model-based RL principles]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/model-based-rl-principles|model-based-rl-principles]]"
 ---
 # Understanding Model-Based Reinforcement Learning
 

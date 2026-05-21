@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/computer-arithmetic-principles|Computer Arithmetic Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/computer-arithmetic-principles|computer-arithmetic-principles]]"
 ---
 # Computer Arithmetic Principles
 

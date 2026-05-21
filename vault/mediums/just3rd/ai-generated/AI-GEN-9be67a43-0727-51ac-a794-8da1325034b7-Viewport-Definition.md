@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/viewport-definition|Viewport Definition]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/viewport-definition|viewport-definition]]"
 ---
 # Defining the Viewport
 

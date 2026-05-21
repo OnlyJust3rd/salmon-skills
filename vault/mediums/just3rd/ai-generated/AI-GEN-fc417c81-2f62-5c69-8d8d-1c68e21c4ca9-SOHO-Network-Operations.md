@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-management/microskills/soho-network-operations|SOHO Network Operations]]"
+  - "[[skills/systems/networking/network-management/microskills/soho-network-operations|soho-network-operations]]"
 ---
 # Understanding SOHO Network Operations
 

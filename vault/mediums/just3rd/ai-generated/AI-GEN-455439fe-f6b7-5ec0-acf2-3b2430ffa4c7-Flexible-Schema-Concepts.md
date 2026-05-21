@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mongodb/microskills/flexible-schema-concepts|Flexible Schema Concepts]]"
+  - "[[skills/data/databases/mongodb/microskills/flexible-schema-concepts|flexible-schema-concepts]]"
 ---
 # Flexible Schema in MongoDB: Understanding Dynamic Data
 

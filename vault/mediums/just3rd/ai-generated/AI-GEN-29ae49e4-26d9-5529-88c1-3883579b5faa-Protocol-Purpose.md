@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/protocol-purpose|Protocol Purpose]]"
+  - "[[skills/systems/networking/application-layer/microskills/protocol-purpose|protocol-purpose]]"
 ---
 # Understanding Application Protocol Purposes
 

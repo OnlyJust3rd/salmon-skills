@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Trait and Motivation Integration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Player Psychology"
-parent-competency: "L3- Apply Character Psychology Principles"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/player-psychology/player-psychology|player-psychology]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/player-psychology/competencies/L2-apply-character-psychology-principles|L2-apply-character-psychology-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Trait and Motivation Integration
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/player-psychology/player-
 
 Parent competency:
 
-- [[skills/creative-media/game-development/player-psychology/competencies/L3-apply-character-psychology-principles|L3- Apply Character Psychology Principles]]
+- [[skills/creative-media/game-development/player-psychology/competencies/L2-apply-character-psychology-principles|L3- Apply Character Psychology Principles]]
 
 ## Description
 

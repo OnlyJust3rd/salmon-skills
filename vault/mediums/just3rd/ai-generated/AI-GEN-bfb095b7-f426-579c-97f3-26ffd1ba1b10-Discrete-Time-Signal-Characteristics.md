@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/discrete-time-signal-characteristics|Discrete-Time Signal Characteristics]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/discrete-time-signal-characteristics|discrete-time-signal-characteristics]]"
 ---
 # Discrete-Time Signal Characteristics
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/competitive-advantage-analysis|Competitive Advantage Analysis]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/competitive-advantage-analysis|competitive-advantage-analysis]]"
 ---
 # Understanding How Competitors Stand Out
 

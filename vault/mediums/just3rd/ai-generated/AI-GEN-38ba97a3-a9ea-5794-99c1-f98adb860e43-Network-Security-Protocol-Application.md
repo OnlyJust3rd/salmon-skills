@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/network-security-protocol-application|Network Security Protocol Application]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/network-security-protocol-application|network-security-protocol-application]]"
 ---
 # Network Security Protocol Application: A Simplified IPSec Example
 

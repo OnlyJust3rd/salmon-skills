@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/circular-wait-condition|Circular Wait Condition]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/circular-wait-condition|circular-wait-condition]]"
 ---
 # Circular Wait Condition in Deadlock
 

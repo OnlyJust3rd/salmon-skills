@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Orthogonal vector identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Subspaces and Orthogonality"
-parent-competency: "L1- Define Orthogonality"
+  - "microskill"
+parent-skill: "[[skills/mathematics/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
+requires-in-competencies:
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-orthogonality|L1-define-orthogonality]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Orthogonal vector identification
@@ -15,7 +17,7 @@ Parent macro: [[subspaces-and-orthogonality|Subspaces and Orthogonality]]
 
 Parent competency:
 
-- [[L1-define-orthogonality|L1- Define Orthogonality]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-orthogonality|L1- Define Orthogonality]]
 
 ## Description
 

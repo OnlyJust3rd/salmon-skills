@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/ttl-cmos-interfacing|TTL-CMOS Interfacing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/ttl-cmos-interfacing|ttl-cmos-interfacing]]"
 ---
 # TTL-CMOS Interfacing: Bridging the Digital Worlds
 

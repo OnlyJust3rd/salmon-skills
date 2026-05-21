@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/marketing-functions|Marketing Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/marketing-functions|marketing-functions]]"
 ---
 # Understanding Marketing Functions
 

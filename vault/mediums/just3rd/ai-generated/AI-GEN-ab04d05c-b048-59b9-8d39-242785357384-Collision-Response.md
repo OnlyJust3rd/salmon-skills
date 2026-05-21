@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-physics/microskills/collision-response|Collision Response]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/collision-response|collision-response]]"
 ---
 # Collision Response: Making Objects React to Collisions
 

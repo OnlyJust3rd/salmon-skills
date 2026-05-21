@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "ALU Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Processor Datapath"
-parent-competency: "L1- Datapath Components Definition"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/processor-datapath/processor-datapath|processor-datapath]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/competencies/L1-datapath-components-definition|L1-datapath-components-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # ALU Definition

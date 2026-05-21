@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/dockerfile-instructions|Dockerfile Instructions]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/dockerfile-instructions|dockerfile-instructions]]"
 ---
 # Dockerfile Instructions: Your Blueprint for Container Images
 

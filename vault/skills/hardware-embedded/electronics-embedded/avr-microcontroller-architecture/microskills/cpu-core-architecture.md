@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "CPU Core Architecture"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Microcontroller Architecture"
-parent-competency: "L1- Identify AVR Components"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/avr-microcontroller-architecture|avr-microcontroller-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L1-identify-avr-components|L1-identify-avr-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # CPU Core Architecture

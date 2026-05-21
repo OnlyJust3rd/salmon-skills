@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Embedded IoT Communication Hardware"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration; CPE 475 - Internet of Things"
-parent-macro: "Embedded Systems"
-parent-competency: "L2- Understand IoT Device Communication"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-systems/embedded-systems|embedded-systems]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L1-understand-iot-device-communication|L1-understand-iot-device-communication]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Embedded IoT Communication Hardware
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/embedded-systems/e
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L2-understand-iot-device-communication|L2- Understand IoT Device Communication]]
+- [[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L1-understand-iot-device-communication|L2- Understand IoT Device Communication]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/sector-definition|Sector Definition]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/sector-definition|sector-definition]]"
 ---
 # Understanding Disk Sectors: The Smallest Addressable Unit
 

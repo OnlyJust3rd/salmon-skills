@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Socket Programming Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Socket Programming"
-parent-competency: "L3- Implement socket application"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/socket-programming/socket-programming|socket-programming]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/socket-programming/competencies/L2-implement-socket-application|L2-implement-socket-application]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Socket Programming Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/socket-programming/socket-programming|
 
 Parent competency:
 
-- [[skills/systems/networking/socket-programming/competencies/L3-implement-socket-application|L3- Implement socket application]]
+- [[skills/systems/networking/socket-programming/competencies/L2-implement-socket-application|L3- Implement socket application]]
 
 ## Description
 

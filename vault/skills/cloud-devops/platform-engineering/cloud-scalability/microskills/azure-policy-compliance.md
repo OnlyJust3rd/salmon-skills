@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Azure Policy Compliance"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud Scalability"
-parent-competency: "L3- Implement Azure Policy"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-scalability/cloud-scalability|cloud-scalability]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-azure-policy|L2-implement-azure-policy]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Azure Policy Compliance
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-scalability/cloud
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L3-implement-azure-policy|L3- Implement Azure Policy]]
+- [[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-azure-policy|L3- Implement Azure Policy]]
 
 ## Description
 

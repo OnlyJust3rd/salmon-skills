@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/dns-message-analysis|DNS Message Analysis]]"
+  - "[[skills/systems/networking/application-layer/microskills/dns-message-analysis|dns-message-analysis]]"
 ---
 # DNS Message Analysis
 

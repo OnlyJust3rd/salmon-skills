@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/common-malfunction-causes|Common Malfunction Causes]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/common-malfunction-causes|common-malfunction-causes]]"
 ---
 # Common Causes of Hardware Malfunctions
 

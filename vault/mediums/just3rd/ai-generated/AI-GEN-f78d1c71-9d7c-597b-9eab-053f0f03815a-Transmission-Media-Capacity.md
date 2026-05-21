@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/transmission-media-capacity|Transmission Media Capacity]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/transmission-media-capacity|transmission-media-capacity]]"
 ---
 # Transmission Media Capacity and Multiplexing
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Player Experience Formulation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Game Design"
-parent-competency: "L3- Apply Game Design Principles"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-design/game-design|game-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-design/competencies/L2-apply-game-design-principles|L2-apply-game-design-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Player Experience Formulation
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-design/game-design|G
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-design/competencies/L3-apply-game-design-principles|L3- Apply Game Design Principles]]
+- [[skills/creative-media/game-development/game-design/competencies/L2-apply-game-design-principles|L3- Apply Game Design Principles]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/event-routing|Event Routing]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/event-routing|event-routing]]"
 ---
 # Event Routing in Event-Driven Architectures
 

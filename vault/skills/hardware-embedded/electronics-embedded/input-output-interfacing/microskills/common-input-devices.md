@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Common Input Devices"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Input Output Interfacing"
-parent-competency: "L1- Identify I/O Devices"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L1-identify-i-o-devices|L1-identify-i-o-devices]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Common Input Devices

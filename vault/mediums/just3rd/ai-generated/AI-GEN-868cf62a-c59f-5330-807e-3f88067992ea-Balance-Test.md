@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-testing/microskills/balance-test|Balance Test]]"
+  - "[[skills/creative-media/game-development/game-testing/microskills/balance-test|balance-test]]"
 ---
 # Understanding Balance Testing in Game Development
 

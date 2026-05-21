@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/partition-pruning|Partition Pruning]]"
+  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/partition-pruning|partition-pruning]]"
 ---
 # Understanding and Applying Partition Pruning
 

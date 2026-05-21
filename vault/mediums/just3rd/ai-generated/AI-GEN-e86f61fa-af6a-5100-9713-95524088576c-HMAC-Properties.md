@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/hmac-properties|HMAC Properties]]"
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/hmac-properties|hmac-properties]]"
 ---
 # HMAC Properties: Ensuring Trust in Your Messages
 

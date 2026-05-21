@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/abstract-data-type-definition|Abstract Data Type Definition]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/abstract-data-type-definition|abstract-data-type-definition]]"
 ---
 # Understanding Abstract Data Types (ADTs)
 

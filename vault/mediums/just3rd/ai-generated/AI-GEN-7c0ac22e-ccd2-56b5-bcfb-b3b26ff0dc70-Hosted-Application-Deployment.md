@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/hosted-application-deployment|Hosted Application Deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/hosted-application-deployment|hosted-application-deployment]]"
 ---
 # Deploying Your Firebase Application with Firebase Hosting
 

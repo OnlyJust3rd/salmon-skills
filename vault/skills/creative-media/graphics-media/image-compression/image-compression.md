@@ -1,18 +1,30 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Image Compression"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 12
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-383-digital-image-processing-for-copyright-protection"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/creative-media/graphics-media/image-compression/competencies/L1-image-and-mpeg-compression-fundamentals|L1-image-and-mpeg-compression-fundamentals]]"
+  - "[[skills/creative-media/graphics-media/image-compression/competencies/L1-compression-trade-offs-and-mpeg-efficiency|L1-compression-trade-offs-and-mpeg-efficiency]]"
+  - "[[skills/creative-media/graphics-media/image-compression/competencies/L2-apply-compression-techniques|L2-apply-compression-techniques]]"
+standard-competency:
+  - "[[skills/creative-media/graphics-media/image-compression/competencies/L2-apply-compression-techniques|L2-apply-compression-techniques]]"
+microskills:
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/compression-ratio-vs-quality-trade-offs|compression-ratio-vs-quality-trade-offs]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/image-compression-principles|image-compression-principles]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/image-file-size-reduction|image-file-size-reduction]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/implementation-of-compression-algorithms|implementation-of-compression-algorithms]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/inter-frame-compression-concepts|inter-frame-compression-concepts]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/inter-frame-efficiency|inter-frame-efficiency]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/intra-frame-compression-concepts|intra-frame-compression-concepts]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/intra-frame-efficiency|intra-frame-efficiency]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/motion-estimation-and-compensation|motion-estimation-and-compensation]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/motion-vectors|motion-vectors]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/mpeg-compression-efficiency|mpeg-compression-efficiency]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/mpeg-compression-fundamentals|mpeg-compression-fundamentals]]"
 ---
 
 # Image Compression
@@ -22,8 +34,8 @@ Design and evaluate image compression techniques to reduce storage and transmiss
 ## Competencies
 
 - [[skills/creative-media/graphics-media/image-compression/competencies/L1-image-and-mpeg-compression-fundamentals|L1- Image and MPEG compression fundamentals]]
-- [[skills/creative-media/graphics-media/image-compression/competencies/L2-compression-trade-offs-and-mpeg-efficiency|L2- Compression trade-offs and MPEG efficiency]]
-- [[skills/creative-media/graphics-media/image-compression/competencies/L3-apply-compression-techniques|L3- Apply compression techniques]]
+- [[skills/creative-media/graphics-media/image-compression/competencies/L1-compression-trade-offs-and-mpeg-efficiency|L2- Compression trade-offs and MPEG efficiency]]
+- [[skills/creative-media/graphics-media/image-compression/competencies/L2-apply-compression-techniques|L3- Apply compression techniques]]
 
 ## Microskills
 

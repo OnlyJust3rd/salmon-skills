@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/timer-trigger-configuration|Timer Trigger Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/timer-trigger-configuration|timer-trigger-configuration]]"
 ---
 # Timer Trigger Configuration
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/security-monitoring/microskills/event-correlation|Event Correlation]]"
+  - "[[skills/cloud-devops/platform-engineering/security-monitoring/microskills/event-correlation|event-correlation]]"
 ---
 # Event Correlation: Connecting the Dots in Security Monitoring
 

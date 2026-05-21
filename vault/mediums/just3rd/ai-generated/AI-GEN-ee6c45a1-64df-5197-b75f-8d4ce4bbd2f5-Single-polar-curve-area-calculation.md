@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/single-polar-curve-area-calculation|Single polar curve area calculation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/single-polar-curve-area-calculation|single-polar-curve-area-calculation]]"
 ---
 # Calculating Area Inside a Single Polar Curve
 

@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/component-placement|Component Placement]]"
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-placement|Component Placement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/component-placement|component-placement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-placement|component-placement]]"
 ---
 # PCB Design Steps: Component Placement
 

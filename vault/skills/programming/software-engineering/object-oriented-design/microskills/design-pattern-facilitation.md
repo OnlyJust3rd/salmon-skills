@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Design Pattern Facilitation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Object-Oriented Design"
-parent-competency: "L2- Explain OO Design Principles Impact"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/object-oriented-design/object-oriented-design|object-oriented-design]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L1-explain-oo-design-principles-impact|L1-explain-oo-design-principles-impact]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Design Pattern Facilitation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/object-oriented-design/o
 
 Parent competency:
 
-- [[skills/programming/software-engineering/object-oriented-design/competencies/L2-explain-oo-design-principles-impact|L2- Explain OO Design Principles Impact]]
+- [[skills/programming/software-engineering/object-oriented-design/competencies/L1-explain-oo-design-principles-impact|L2- Explain OO Design Principles Impact]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/subsumption-architecture-implementation|Subsumption Architecture Implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/subsumption-architecture-implementation|subsumption-architecture-implementation]]"
 ---
 # Implementing Subsumption Architecture in Robotics
 

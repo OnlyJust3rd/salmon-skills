@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/faas-application-scenarios|FaaS Application Scenarios]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/faas-application-scenarios|faas-application-scenarios]]"
 ---
 # Function as a Service (FaaS) Application Scenarios
 

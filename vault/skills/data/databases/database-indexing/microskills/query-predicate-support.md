@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Query Predicate Support"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - database administration skills"
-parent-macro: "Database Indexing"
-parent-competency: "L2- Explain Database Indexing and Query Performance"
+  - "microskill"
+parent-skill: "[[skills/data/databases/database-indexing/database-indexing|database-indexing]]"
+requires-in-competencies:
+  - "[[skills/data/databases/database-indexing/competencies/L1-explain-database-indexing-and-query-performance|L1-explain-database-indexing-and-query-performance]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Query Predicate Support
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/databases/database-indexing/database-indexing|Databa
 
 Parent competency:
 
-- [[skills/data/databases/database-indexing/competencies/L2-explain-database-indexing-and-query-performance|L2- Explain Database Indexing and Query Performance]]
+- [[skills/data/databases/database-indexing/competencies/L1-explain-database-indexing-and-query-performance|L2- Explain Database Indexing and Query Performance]]
 
 ## Description
 

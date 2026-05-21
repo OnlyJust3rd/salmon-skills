@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/node-js/microskills/npm-packages|npm packages]]"
+  - "[[skills/web-and-design/backend-api/node-js/microskills/npm-packages|npm-packages]]"
 ---
 # Understanding npm Packages: Manifests and Installation
 

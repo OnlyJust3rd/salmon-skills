@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/component-based-architecture|Component-Based Architecture]]"
-  - "[[skills/programming/software-engineering/software-engineering/microskills/component-based-architecture|Component-Based Architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/component-based-architecture|component-based-architecture]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/component-based-architecture|component-based-architecture]]"
 ---
 # Understanding Component-Based Architecture
 

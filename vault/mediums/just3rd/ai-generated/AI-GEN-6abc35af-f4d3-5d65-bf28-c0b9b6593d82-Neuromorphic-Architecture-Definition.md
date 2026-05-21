@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/neuromorphic-architecture-definition|Neuromorphic Architecture Definition]]"
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/neuromorphic-architecture-definition|neuromorphic-architecture-definition]]"
 ---
 # Understanding Neuromorphic Architecture
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-process-steps|Digital Ciphering Process Steps]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-process-steps|digital-ciphering-process-steps]]"
 ---
 # Digital Ciphering Process Steps for Speech Signals
 

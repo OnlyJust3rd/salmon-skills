@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/network-topology-for-interconnection|Network Topology for Interconnection]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/network-topology-for-interconnection|network-topology-for-interconnection]]"
 ---
 # Network Topology for Interconnection
 

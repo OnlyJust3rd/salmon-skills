@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/row-echelon-form-for-row-space-basis|Row echelon form for row space basis]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/row-echelon-form-for-row-space-basis|row-echelon-form-for-row-space-basis]]"
 ---
 # Finding a Basis for the Row Space Using Row Echelon Form
 

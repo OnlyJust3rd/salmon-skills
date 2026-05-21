@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/managed-service|Managed Service]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/managed-service|managed-service]]"
 ---
 # Understanding Managed Services in Cloud-Native Architectures
 

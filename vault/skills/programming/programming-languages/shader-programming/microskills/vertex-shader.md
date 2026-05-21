@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Vertex Shader"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Shader Programming"
-parent-competency: "L2- Explain Shader Pipeline and Material Concepts"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/shader-programming/shader-programming|shader-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/shader-programming/competencies/L1-explain-shader-pipeline-and-material-concepts|L1-explain-shader-pipeline-and-material-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Vertex Shader
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/shader-programming/shad
 
 Parent competency:
 
-- [[skills/programming/programming-languages/shader-programming/competencies/L2-explain-shader-pipeline-and-material-concepts|L2- Explain Shader Pipeline and Material Concepts]]
+- [[skills/programming/programming-languages/shader-programming/competencies/L1-explain-shader-pipeline-and-material-concepts|L2- Explain Shader Pipeline and Material Concepts]]
 
 ## Description
 

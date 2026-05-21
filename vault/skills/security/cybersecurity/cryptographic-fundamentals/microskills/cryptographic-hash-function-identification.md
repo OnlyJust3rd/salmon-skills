@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Cryptographic Hash Function Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Cryptographic Fundamentals"
-parent-competency: "L1- List Hash Functions"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/cryptographic-fundamentals/cryptographic-fundamentals|cryptographic-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-list-hash-functions|L1-list-hash-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Cryptographic Hash Function Identification

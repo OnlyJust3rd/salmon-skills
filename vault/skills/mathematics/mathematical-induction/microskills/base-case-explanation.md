@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Base case explanation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Mathematical Induction"
-parent-competency: "L2- Explain Induction Logic and Structure"
+  - "microskill"
+parent-skill: "[[skills/mathematics/mathematical-induction/mathematical-induction|mathematical-induction]]"
+requires-in-competencies:
+  - "[[skills/mathematics/mathematical-induction/competencies/L1-explain-induction-logic-and-structure|L1-explain-induction-logic-and-structure]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Base case explanation
@@ -15,7 +17,7 @@ Parent macro: [[mathematical-induction|Mathematical Induction]]
 
 Parent competency:
 
-- [[L2-explain-induction-logic-and-structure|L2- Explain Induction Logic and Structure]]
+- [[skills/mathematics/mathematical-induction/competencies/L1-explain-induction-logic-and-structure|L2- Explain Induction Logic and Structure]]
 
 ## Description
 

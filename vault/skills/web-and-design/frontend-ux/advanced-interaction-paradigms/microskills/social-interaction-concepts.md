@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Social Interaction Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Advanced Interaction Paradigms"
-parent-competency: "L1- HCI Social Interaction Concepts"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-hci-social-interaction-concepts|L1-hci-social-interaction-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Social Interaction Concepts

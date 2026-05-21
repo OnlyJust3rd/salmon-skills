@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/remote-access-security|Remote Access Security]]"
+  - "[[skills/systems/networking/network-layer/microskills/remote-access-security|remote-access-security]]"
 ---
 # Securely Connecting to Your Network: Understanding VPNs
 

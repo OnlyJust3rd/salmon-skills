@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-evaluation-rectangular|Double integral evaluation (rectangular)]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-evaluation-rectangular|double-integral-evaluation-rectangular]]"
 ---
 # Evaluating Double Integrals in Rectangular Coordinates
 

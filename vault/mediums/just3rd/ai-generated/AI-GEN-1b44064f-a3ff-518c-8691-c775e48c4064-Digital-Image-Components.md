@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/digital-image-components|Digital Image Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/digital-image-components|digital-image-components]]"
 ---
 # Digital Image Components: The Building Blocks of Visual Information
 

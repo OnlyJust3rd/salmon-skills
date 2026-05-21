@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/information-hiding-technique-application|Information Hiding Technique Application]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/information-hiding-technique-application|information-hiding-technique-application]]"
 ---
 # Applying Information Hiding Techniques
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/current-measurement|Current Measurement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/current-measurement|current-measurement]]"
 ---
 # Measuring Current with a Digital Multimeter
 

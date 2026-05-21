@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interrupt-Driven Communication"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Communication Programming"
-parent-competency: "L2- Describe C Code for Communication"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/avr-communication-programming/avr-communication-programming|avr-communication-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/avr-communication-programming/competencies/L1-describe-c-code-for-communication|L1-describe-c-code-for-communication]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interrupt-Driven Communication
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/avr-communication-progr
 
 Parent competency:
 
-- [[skills/programming/programming-languages/avr-communication-programming/competencies/L2-describe-c-code-for-communication|L2- Describe C Code for Communication]]
+- [[skills/programming/programming-languages/avr-communication-programming/competencies/L1-describe-c-code-for-communication|L2- Describe C Code for Communication]]
 
 ## Description
 

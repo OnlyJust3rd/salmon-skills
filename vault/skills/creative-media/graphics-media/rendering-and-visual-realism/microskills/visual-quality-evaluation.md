@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Visual Quality Evaluation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Rendering and Visual Realism"
-parent-competency: "L5- Evaluate Rendering Quality"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/rendering-and-visual-realism/rendering-and-visual-realism|rendering-and-visual-realism]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L3-evaluate-rendering-quality|L3-evaluate-rendering-quality]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Visual Quality Evaluation
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/rendering-and-visual-realis
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L5-evaluate-rendering-quality|L5- Evaluate Rendering Quality]]
+- [[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L3-evaluate-rendering-quality|L5- Evaluate Rendering Quality]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/task-oriented-coding-agent|Task-Oriented Coding Agent]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/task-oriented-coding-agent|task-oriented-coding-agent]]"
 ---
 # Understanding Task-Oriented Coding Agents
 

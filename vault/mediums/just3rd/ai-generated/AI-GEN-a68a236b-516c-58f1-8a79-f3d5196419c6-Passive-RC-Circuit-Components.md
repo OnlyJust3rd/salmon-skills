@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/passive-rc-circuit-components|Passive RC Circuit Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/passive-rc-circuit-components|passive-rc-circuit-components]]"
 ---
 # Passive RC Circuit Components
 

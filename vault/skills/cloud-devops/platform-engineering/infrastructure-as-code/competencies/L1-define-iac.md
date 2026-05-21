@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define IaC"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- IaC Concepts"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-iac-concepts|L1-iac-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-microskills:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-automation-principles|declarative-automation-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/iac-benefits|iac-benefits]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/imperative-automation-principles|imperative-automation-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-definition|infrastructure-as-code-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define IaC

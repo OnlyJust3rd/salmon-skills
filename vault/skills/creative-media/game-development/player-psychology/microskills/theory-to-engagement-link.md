@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Theory-to-Engagement Link"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Player Psychology"
-parent-competency: "L2- Funativity and Player Engagement"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/player-psychology/player-psychology|player-psychology]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/player-psychology/competencies/L1-funativity-and-player-engagement|L1-funativity-and-player-engagement]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Theory-to-Engagement Link
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/player-psychology/player-
 
 Parent competency:
 
-- [[skills/creative-media/game-development/player-psychology/competencies/L2-funativity-and-player-engagement|L2- Funativity and Player Engagement]]
+- [[skills/creative-media/game-development/player-psychology/competencies/L1-funativity-and-player-engagement|L2- Funativity and Player Engagement]]
 
 ## Description
 

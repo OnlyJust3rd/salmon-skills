@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/role-based-mechanic-implementation|Role-Based Mechanic Implementation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/role-based-mechanic-implementation|role-based-mechanic-implementation]]"
 ---
 # Role-Based Mechanic Implementation
 

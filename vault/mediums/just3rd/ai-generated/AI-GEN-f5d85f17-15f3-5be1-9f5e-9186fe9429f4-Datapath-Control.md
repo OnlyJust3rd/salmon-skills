@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/datapath-control|Datapath Control]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/datapath-control|datapath-control]]"
 ---
 # Implementing Datapath Control
 

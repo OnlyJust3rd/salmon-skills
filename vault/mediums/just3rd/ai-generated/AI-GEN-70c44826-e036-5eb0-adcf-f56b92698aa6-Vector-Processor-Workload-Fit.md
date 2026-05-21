@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/vector-processor-workload-fit|Vector Processor Workload Fit]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/vector-processor-workload-fit|vector-processor-workload-fit]]"
 ---
 # Vector Processor Workload Fit: Unlocking Data-Parallel Power
 

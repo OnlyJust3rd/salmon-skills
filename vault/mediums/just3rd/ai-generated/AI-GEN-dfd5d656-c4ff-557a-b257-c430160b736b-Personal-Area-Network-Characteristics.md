@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/wireless-networks/microskills/personal-area-network-characteristics|Personal Area Network Characteristics]]"
+  - "[[skills/systems/networking/wireless-networks/microskills/personal-area-network-characteristics|personal-area-network-characteristics]]"
 ---
 # Personal Area Network Characteristics
 

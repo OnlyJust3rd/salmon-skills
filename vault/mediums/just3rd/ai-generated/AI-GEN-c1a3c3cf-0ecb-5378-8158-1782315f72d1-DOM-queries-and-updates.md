@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/dom-queries-and-updates|DOM queries and updates]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/dom-queries-and-updates|dom-queries-and-updates]]"
 ---
 # DOM Queries and Updates in JavaScript
 

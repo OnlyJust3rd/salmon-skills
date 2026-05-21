@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/block-cipher-types|Block Cipher Types]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/block-cipher-types|block-cipher-types]]"
 ---
 # Understanding Block Cipher Types
 

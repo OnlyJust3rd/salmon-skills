@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Data Integrity in Journaling"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "I/O and File Systems"
-parent-competency: "L2- Journaling File Systems"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-file-systems|i-o-and-file-systems]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-journaling-file-systems|L1-journaling-file-systems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Data Integrity in Journaling
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-fi
 
 Parent competency:
 
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-journaling-file-systems|L2- Journaling File Systems]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-journaling-file-systems|L2- Journaling File Systems]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/startup-hypothesis-articulation|Startup Hypothesis Articulation]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/startup-hypothesis-articulation|startup-hypothesis-articulation]]"
 ---
 # Articulating Your Startup Hypotheses
 

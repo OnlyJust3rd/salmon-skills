@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-categories|Watermarking Attack Categories]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-categories|watermarking-attack-categories]]"
 ---
 # Watermarking Attack Categories
 

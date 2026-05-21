@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/visual-design|Visual Design]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/visual-design|visual-design]]"
 ---
 # Understanding Visual Design in UX Workflows
 

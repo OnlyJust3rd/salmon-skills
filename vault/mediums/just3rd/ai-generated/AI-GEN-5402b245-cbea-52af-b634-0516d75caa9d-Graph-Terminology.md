@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/graph-terminology|Graph Terminology]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/graph-terminology|graph-terminology]]"
 ---
 # Understanding Graph Terminology
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/range-definition-for-transformation|Range definition for transformation]]"
+  - "[[skills/mathematics/linear-transformations/microskills/range-definition-for-transformation|range-definition-for-transformation]]"
 ---
 # Understanding the Range of a Linear Transformation
 

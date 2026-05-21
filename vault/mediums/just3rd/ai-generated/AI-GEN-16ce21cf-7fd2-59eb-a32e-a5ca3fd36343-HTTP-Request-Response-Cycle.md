@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-mining/microskills/http-request-response-cycle|HTTP Request-Response Cycle]]"
+  - "[[skills/data/data-science/text-mining/microskills/http-request-response-cycle|http-request-response-cycle]]"
 ---
 # Understanding the HTTP Request-Response Cycle
 

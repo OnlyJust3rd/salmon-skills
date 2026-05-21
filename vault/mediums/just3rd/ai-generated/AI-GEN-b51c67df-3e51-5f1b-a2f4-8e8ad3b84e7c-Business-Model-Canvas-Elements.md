@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-canvas-elements|Business Model Canvas Elements]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-canvas-elements|business-model-canvas-elements]]"
 ---
 # Business Model Canvas Elements
 

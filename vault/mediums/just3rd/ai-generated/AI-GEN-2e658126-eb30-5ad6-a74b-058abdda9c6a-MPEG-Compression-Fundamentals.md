@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/mpeg-compression-fundamentals|MPEG Compression Fundamentals]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/mpeg-compression-fundamentals|mpeg-compression-fundamentals]]"
 ---
 # MPEG Compression Fundamentals
 

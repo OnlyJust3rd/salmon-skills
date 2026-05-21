@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/dram-architecture|DRAM Architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/dram-architecture|dram-architecture]]"
 ---
 # DRAM Architecture: The Capacitor and the Refresh Cycle
 

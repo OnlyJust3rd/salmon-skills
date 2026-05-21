@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Rasterization Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Rasterization Algorithms"
-parent-competency: "L1- Define Rasterization"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/rasterization-algorithms/rasterization-algorithms|rasterization-algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/rasterization-algorithms/competencies/L1-define-rasterization|L1-define-rasterization]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Rasterization Definition

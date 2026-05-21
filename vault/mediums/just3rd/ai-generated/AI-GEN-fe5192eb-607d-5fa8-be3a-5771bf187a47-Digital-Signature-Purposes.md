@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/digital-signature-purposes|Digital Signature Purposes]]"
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/digital-signature-purposes|digital-signature-purposes]]"
 ---
 # Digital Signature Purposes
 

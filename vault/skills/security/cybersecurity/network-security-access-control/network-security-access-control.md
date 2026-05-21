@@ -1,18 +1,26 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Network Security Access Control"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-coverage:
-  - "Concept"
-competency-count: 2
-microskill-count: 8
-related-jobs:
-  - "Cybersecurity Analyst"
-  - "Network Engineer"
-source-note: "courses/kmutt/cpe-2021/n-a-cryptographic-techniques-for-multimedia-communication"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/network-security-access-control/competencies/L2-apply-packet-filtering|L2-apply-packet-filtering]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/competencies/L3-firewall-differentiation|L3-firewall-differentiation]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/network-security-access-control/competencies/L2-apply-packet-filtering|L2-apply-packet-filtering]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/competencies/L3-firewall-differentiation|L3-firewall-differentiation]]"
+microskills:
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-control-techniques|access-control-techniques]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-rule-creation|access-rule-creation]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-rule-interpretation|access-rule-interpretation]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/network-defense-mechanisms|network-defense-mechanisms]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/packet-filter-firewall-characteristics|packet-filter-firewall-characteristics]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/packet-filtering-logic-application|packet-filtering-logic-application]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/packet-filtering-vs-proxy-firewall-operations|packet-filtering-vs-proxy-firewall-operations]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/proxy-firewall-characteristics|proxy-firewall-characteristics]]"
 ---
 
 # Network Security Access Control
@@ -21,8 +29,8 @@ Analyzing access control techniques and network defense mechanisms, differentiat
 
 ## Competencies
 
-- [[skills/security/cybersecurity/network-security-access-control/competencies/L4-firewall-differentiation|L4- Firewall Differentiation]]
-- [[skills/security/cybersecurity/network-security-access-control/competencies/L3-apply-packet-filtering|L3- Apply Packet Filtering]]
+- [[skills/security/cybersecurity/network-security-access-control/competencies/L3-firewall-differentiation|L4- Firewall Differentiation]]
+- [[skills/security/cybersecurity/network-security-access-control/competencies/L2-apply-packet-filtering|L3- Apply Packet Filtering]]
 
 ## Microskills
 

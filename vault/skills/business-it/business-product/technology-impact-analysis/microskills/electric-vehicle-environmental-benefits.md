@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Electric Vehicle Environmental Benefits"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Technology Impact Analysis"
-parent-competency: "L4- EV Benefits and Drawbacks"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/technology-impact-analysis/technology-impact-analysis|technology-impact-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/technology-impact-analysis/competencies/L3-ev-benefits-and-drawbacks|L3-ev-benefits-and-drawbacks]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Electric Vehicle Environmental Benefits
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/technology-impact-analysis/t
 
 Parent competency:
 
-- [[skills/business-it/business-product/technology-impact-analysis/competencies/L4-ev-benefits-and-drawbacks|L4- EV Benefits and Drawbacks]]
+- [[skills/business-it/business-product/technology-impact-analysis/competencies/L3-ev-benefits-and-drawbacks|L4- EV Benefits and Drawbacks]]
 
 ## Description
 

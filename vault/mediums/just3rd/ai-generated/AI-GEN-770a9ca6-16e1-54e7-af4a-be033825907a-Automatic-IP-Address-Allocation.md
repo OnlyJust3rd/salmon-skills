@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/automatic-ip-address-allocation|Automatic IP Address Allocation]]"
+  - "[[skills/systems/networking/network-layer/microskills/automatic-ip-address-allocation|automatic-ip-address-allocation]]"
 ---
 # Automatic IP Address Allocation with DHCP
 

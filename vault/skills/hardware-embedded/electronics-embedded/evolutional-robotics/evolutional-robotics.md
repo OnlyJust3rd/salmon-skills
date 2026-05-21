@@ -1,17 +1,30 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Evolutional Robotics"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-coverage:
-  - "Concept"
-  - "Design"
-competency-count: 3
-microskill-count: 12
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-365-intelligent-robot-programming"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L1-list-model-transition-factors|L1-list-model-transition-factors]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L1-explain-model-transition-and-anticipation|L1-explain-model-transition-and-anticipation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L2-implement-adaptation-strategies-for-deployment|L2-implement-adaptation-strategies-for-deployment]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L2-implement-adaptation-strategies-for-deployment|L2-implement-adaptation-strategies-for-deployment]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/adaptation-of-simulated-models|adaptation-of-simulated-models]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/challenges-in-model-transition|challenges-in-model-transition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/challenges-in-robot-model-transition|challenges-in-robot-model-transition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/considerations-for-real-world-deployment|considerations-for-real-world-deployment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/deployment-challenge-mitigation|deployment-challenge-mitigation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/key-principles-of-evolutionary-robotics|key-principles-of-evolutionary-robotics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/overcoming-deployment-discrepancies|overcoming-deployment-discrepancies]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/principles-of-evolutionary-robotics|principles-of-evolutionary-robotics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/role-of-anticipation-in-model-transition|role-of-anticipation-in-model-transition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-physical-robot-transition-factors|simulation-to-physical-robot-transition-factors]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-real-world-model-adaptation|simulation-to-real-world-model-adaptation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-real-world-robot-transition|simulation-to-real-world-robot-transition]]"
 ---
 
 # Evolutional Robotics
@@ -20,8 +33,8 @@ Understanding principles of evolutionary robotics, including model transition fr
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L3-implement-adaptation-strategies-for-deployment|L3- Implement Adaptation Strategies for Deployment]]
-- [[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L2-explain-model-transition-and-anticipation|L2- Explain Model Transition and Anticipation]]
+- [[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L2-implement-adaptation-strategies-for-deployment|L3- Implement Adaptation Strategies for Deployment]]
+- [[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L1-explain-model-transition-and-anticipation|L2- Explain Model Transition and Anticipation]]
 - [[skills/hardware-embedded/electronics-embedded/evolutional-robotics/competencies/L1-list-model-transition-factors|L1- List Model Transition Factors]]
 
 ## Microskills

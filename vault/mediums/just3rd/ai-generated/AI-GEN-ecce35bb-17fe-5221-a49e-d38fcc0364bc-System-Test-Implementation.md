@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-testing/microskills/system-test-implementation|System Test Implementation]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/system-test-implementation|system-test-implementation]]"
 ---
 # Implementing System Tests with Automated Frameworks
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "PGP Effectiveness Evaluation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Applied Cryptography"
-parent-competency: "L5- Evaluate Protocol Effectiveness"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/applied-cryptography/applied-cryptography|applied-cryptography]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/applied-cryptography/competencies/L3-evaluate-protocol-effectiveness|L3-evaluate-protocol-effectiveness]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # PGP Effectiveness Evaluation
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/applied-cryptography/applied-crypt
 
 Parent competency:
 
-- [[skills/security/cybersecurity/applied-cryptography/competencies/L5-evaluate-protocol-effectiveness|L5- Evaluate Protocol Effectiveness]]
+- [[skills/security/cybersecurity/applied-cryptography/competencies/L3-evaluate-protocol-effectiveness|L5- Evaluate Protocol Effectiveness]]
 
 ## Description
 

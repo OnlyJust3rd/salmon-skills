@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-process|Code Review Process]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-process|code-review-process]]"
 ---
 # The Code Review Process: A Step-by-Step Guide
 

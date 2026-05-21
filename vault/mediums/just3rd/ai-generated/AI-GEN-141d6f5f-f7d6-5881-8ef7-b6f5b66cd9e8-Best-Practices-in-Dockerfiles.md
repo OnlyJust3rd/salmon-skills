@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/best-practices-in-dockerfiles|Best Practices in Dockerfiles]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/best-practices-in-dockerfiles|best-practices-in-dockerfiles]]"
 ---
 # Dockerfile Best Practices for Efficiency and Security
 

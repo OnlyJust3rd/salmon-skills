@@ -1,21 +1,50 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "System Virtualization"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Concept"
-  - "Evaluation"
-competency-count: 6
-microskill-count: 29
-related-jobs:
-  - "DevOps Engineer"
-  - "Machine Learning Engineer"
-  - "System Engineer"
-  - "Data Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-build-container-images|L1-build-container-images]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-container-fundamentals|L1-container-fundamentals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-map-os-concepts-to-virtual-environments|L1-map-os-concepts-to-virtual-environments]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-virtual-resource-management|L1-virtual-resource-management]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-vm-vs-container-concepts|L1-vm-vs-container-concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L3-compare-hypervisor-use-cases|L3-compare-hypervisor-use-cases]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L3-compare-hypervisor-use-cases|L3-compare-hypervisor-use-cases]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/application-dependency-packaging|application-dependency-packaging]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/consistent-environment-behavior|consistent-environment-behavior]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-architecture|container-architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-image-building-process|container-image-building-process]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-image-structure|container-image-structure]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/containerization-principles|containerization-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/dockerfile-construction|dockerfile-construction]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/dockerfile-instructions|dockerfile-instructions]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/hardware-virtualization|hardware-virtualization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/hypervisor-performance-characteristics|hypervisor-performance-characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/isolation-mechanisms|isolation-mechanisms]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/linux-kernel-role-in-containers|linux-kernel-role-in-containers]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/os-level-virtualization-application|os-level-virtualization-application]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/os-level-virtualization|os-level-virtualization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/resource-abstraction|resource-abstraction]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-1-hypervisor-architecture|type-1-hypervisor-architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-1-use-cases|type-1-use-cases]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-2-hypervisor-architecture|type-2-hypervisor-architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-2-use-cases|type-2-use-cases]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-cpu-allocation|virtual-cpu-allocation]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-cpu-mapping|virtual-cpu-mapping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-disk-i-o-management|virtual-disk-i-o-management]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-disk-mapping|virtual-disk-mapping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-environment-terminology|virtual-environment-terminology]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-machine-architecture|virtual-machine-architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-memory-allocation|virtual-memory-allocation]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-memory-mapping|virtual-memory-mapping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-network-management|virtual-network-management]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-network-mapping|virtual-network-mapping]]"
 ---
 
 # System Virtualization
@@ -24,12 +53,12 @@ Describe how traditional OS concepts (CPU, memory, disk, network) are mapped to 
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-map-os-concepts-to-virtual-environments|L2- Map OS Concepts to Virtual Environments]]
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-virtual-resource-management|L2- Virtual Resource Management]]
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-vm-vs-container-concepts|L2- VM vs. Container Concepts]]
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L4-compare-hypervisor-use-cases|L4- Compare Hypervisor Use Cases]]
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-container-fundamentals|L2- Container Fundamentals]]
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-build-container-images|L2- Build Container Images]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-map-os-concepts-to-virtual-environments|L2- Map OS Concepts to Virtual Environments]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-virtual-resource-management|L2- Virtual Resource Management]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-vm-vs-container-concepts|L2- VM vs. Container Concepts]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L3-compare-hypervisor-use-cases|L4- Compare Hypervisor Use Cases]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-container-fundamentals|L2- Container Fundamentals]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-build-container-images|L2- Build Container Images]]
 
 ## Microskills
 

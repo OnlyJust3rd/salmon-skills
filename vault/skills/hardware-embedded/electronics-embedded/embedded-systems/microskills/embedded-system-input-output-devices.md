@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Embedded System Input/Output Devices"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration; CPE 475 - Internet of Things"
-parent-macro: "Embedded Systems"
-parent-competency: "L2- Explain sensor/actuator functions"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-systems/embedded-systems|embedded-systems]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L1-explain-sensor-actuator-functions|L1-explain-sensor-actuator-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Embedded System Input/Output Devices
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/embedded-systems/e
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L2-explain-sensor-actuator-functions|L2- Explain sensor/actuator functions]]
+- [[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L1-explain-sensor-actuator-functions|L2- Explain sensor/actuator functions]]
 
 ## Description
 

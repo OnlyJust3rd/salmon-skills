@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/modular-program-design/microskills/function-declaration-and-definition|Function declaration and definition]]"
+  - "[[skills/programming/software-engineering/modular-program-design/microskills/function-declaration-and-definition|function-declaration-and-definition]]"
 ---
 # Understanding C Function Declaration and Definition
 

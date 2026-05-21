@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/artifact-management/microskills/image-repositories|Image Repositories]]"
+  - "[[skills/cloud-devops/platform-engineering/artifact-management/microskills/image-repositories|image-repositories]]"
 ---
 # Understanding Image Repositories
 

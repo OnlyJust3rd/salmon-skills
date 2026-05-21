@@ -1,17 +1,31 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "AVR Microcontroller Architecture"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 324 - Embedded Systems"
-coverage:
-  - "Concept"
-competency-count: 3
-microskill-count: 13
-related-jobs:
-  - "Embedded Systems Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-324-embedded-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L1-identify-avr-components|L1-identify-avr-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L1-describe-avr-component-functions-and-interaction|L1-describe-avr-component-functions-and-interaction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L3-avr-peripheral-differentiation|L3-avr-peripheral-differentiation]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L3-avr-peripheral-differentiation|L3-avr-peripheral-differentiation]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/adc-resolution-and-speed|adc-resolution-and-speed]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/component-interdependencies|component-interdependencies]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/cpu-core-architecture|cpu-core-architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/cpu-core-functionality|cpu-core-functionality]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/i-o-port-data-flow|i-o-port-data-flow]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/i-o-port-structures|i-o-port-structures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/memory-access-mechanisms|memory-access-mechanisms]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/memory-organization|memory-organization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/peripheral-suitability-assessment|peripheral-suitability-assessment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/register-operations|register-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/register-set|register-set]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/timer-counter-capabilities|timer-counter-capabilities]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/uart-communication-features|uart-communication-features]]"
 ---
 
 # AVR Microcontroller Architecture
@@ -21,8 +35,8 @@ Understanding the fundamental architecture and hardware elements of AVR microcon
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L1-identify-avr-components|L1- Identify AVR Components]]
-- [[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L2-describe-avr-component-functions-and-interaction|L2- Describe AVR Component Functions and Interaction]]
-- [[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L4-avr-peripheral-differentiation|L4- AVR Peripheral Differentiation]]
+- [[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L1-describe-avr-component-functions-and-interaction|L2- Describe AVR Component Functions and Interaction]]
+- [[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L3-avr-peripheral-differentiation|L4- AVR Peripheral Differentiation]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/storage-type-selection|Storage Type Selection]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/storage-type-selection|storage-type-selection]]"
 ---
 # Choosing the Right Cloud Storage: Performance vs. Cost
 

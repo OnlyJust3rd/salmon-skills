@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/automated-task-implementation|Automated Task Implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/automated-task-implementation|automated-task-implementation]]"
 ---
 # Automating Tasks with Cron
 

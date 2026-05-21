@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/web-application-concept/microskills/rendering-context|Rendering context]]"
+  - "[[skills/web-and-design/frontend-ux/web-application-concept/microskills/rendering-context|rendering-context]]"
 ---
 # Understanding the Browser's Rendering Context
 

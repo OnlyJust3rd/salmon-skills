@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/continuous-integration-principles|Continuous Integration Principles]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/continuous-integration-principles|continuous-integration-principles]]"
 ---
 # Understanding Continuous Integration Principles
 

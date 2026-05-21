@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/linear-independence-definition|Linear independence definition]]"
+  - "[[skills/mathematics/vector-space/microskills/linear-independence-definition|linear-independence-definition]]"
 ---
 # Linear Independence of Vectors
 

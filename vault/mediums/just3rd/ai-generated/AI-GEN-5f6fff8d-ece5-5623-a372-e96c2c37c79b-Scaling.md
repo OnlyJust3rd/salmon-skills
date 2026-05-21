@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/scaling|Scaling]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/scaling|scaling]]"
 ---
 # Understanding Scaling in Geometric Transformations
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/logic-gate-ic-pin-configurations|Logic Gate IC Pin Configurations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/logic-gate-ic-pin-configurations|logic-gate-ic-pin-configurations]]"
 ---
 # Understanding Logic Gate IC Pin Configurations
 

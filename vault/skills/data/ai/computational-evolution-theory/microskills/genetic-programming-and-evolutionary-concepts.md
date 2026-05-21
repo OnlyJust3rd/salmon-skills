@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Genetic Programming and Evolutionary Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Computational Evolution Theory"
-parent-competency: "L2- Principles of Genetic Programming"
+  - "microskill"
+parent-skill: "[[skills/data/ai/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
+requires-in-competencies:
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L1-principles-of-genetic-programming|L1-principles-of-genetic-programming]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Genetic Programming and Evolutionary Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/ai/computational-evolution-theory/computational-evol
 
 Parent competency:
 
-- [[skills/data/ai/computational-evolution-theory/competencies/L2-principles-of-genetic-programming|L2- Principles of Genetic Programming]]
+- [[skills/data/ai/computational-evolution-theory/competencies/L1-principles-of-genetic-programming|L2- Principles of Genetic Programming]]
 
 ## Description
 

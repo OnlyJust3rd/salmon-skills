@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/unit-vector-calculation|Unit vector calculation]]"
+  - "[[skills/mathematics/vector/microskills/unit-vector-calculation|unit-vector-calculation]]"
 ---
 # Calculating Unit Vectors
 

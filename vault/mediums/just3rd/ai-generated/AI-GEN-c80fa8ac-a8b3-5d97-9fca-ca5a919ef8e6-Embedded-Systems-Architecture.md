@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/embedded-systems-architecture|Embedded Systems Architecture]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/embedded-systems-architecture|embedded-systems-architecture]]"
 ---
 # Embedded Systems Architecture as IoT Nodes
 

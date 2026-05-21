@@ -1,16 +1,29 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Computational Problem Solving"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 100 - Computer Programming for Engineers, CPE 231 - Algorithms"
-coverage:
-  - "Concept"
-  - "Design"
-competency-count: 4
-microskill-count: 10
-related-jobs: []
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-apply-computational-approach-with-strategy-and-steps|L1-apply-computational-approach-with-strategy-and-steps]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-explain-problem-decomposition|L1-explain-problem-decomposition]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L2-algorithmic-design|L2-algorithmic-design]]"
+standard-competency:
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L2-algorithmic-design|L2-algorithmic-design]]"
+microskills:
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/application-of-computational-logic|application-of-computational-logic]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/computational-strategy-selection|computational-strategy-selection]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/correctness-concept|correctness-concept]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/decomposition-techniques|decomposition-techniques]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/high-level-algorithm-design|high-level-algorithm-design]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/pattern-matching|pattern-matching]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/problem-specification|problem-specification]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/real-world-problem-identification|real-world-problem-identification]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/step-by-step-solution-planning|step-by-step-solution-planning]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/strategy-selection|strategy-selection]]"
 ---
 
 # Computational Problem Solving
@@ -20,9 +33,9 @@ Applying computational thinking to analyze problems, decompose them into smaller
 ## Competencies
 
 - [[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1- Define Computational Problem Solving]]
-- [[skills/programming/algorithms/computational-problem-solving/competencies/L2-explain-problem-decomposition|L2- Explain Problem Decomposition]]
-- [[skills/programming/algorithms/computational-problem-solving/competencies/L2-apply-computational-approach-with-strategy-and-steps|L2- Apply Computational Approach with Strategy and Steps]]
-- [[skills/programming/algorithms/computational-problem-solving/competencies/L3-algorithmic-design|L3- Algorithmic Design]]
+- [[skills/programming/algorithms/computational-problem-solving/competencies/L1-explain-problem-decomposition|L2- Explain Problem Decomposition]]
+- [[skills/programming/algorithms/computational-problem-solving/competencies/L1-apply-computational-approach-with-strategy-and-steps|L2- Apply Computational Approach with Strategy and Steps]]
+- [[skills/programming/algorithms/computational-problem-solving/competencies/L2-algorithmic-design|L3- Algorithmic Design]]
 
 ## Microskills
 

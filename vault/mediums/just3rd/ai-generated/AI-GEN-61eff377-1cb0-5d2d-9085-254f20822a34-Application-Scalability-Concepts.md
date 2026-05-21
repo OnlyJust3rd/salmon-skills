@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/application-scalability-concepts|Application Scalability Concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/application-scalability-concepts|application-scalability-concepts]]"
 ---
 # Understanding Application Scalability with Kubernetes Deployments
 

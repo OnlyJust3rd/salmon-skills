@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Effectiveness Evaluation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Modeling"
-parent-competency: "L4- Analyze Model Suitability"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-modeling/data-modeling|data-modeling]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-modeling/competencies/L3-analyze-model-suitability|L3-analyze-model-suitability]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Effectiveness Evaluation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-modeling/data-modeling|Data Mode
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-modeling/competencies/L4-analyze-model-suitability|L4- Analyze Model Suitability]]
+- [[skills/data/data-platforms/data-modeling/competencies/L3-analyze-model-suitability|L4- Analyze Model Suitability]]
 
 ## Description
 

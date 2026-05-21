@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/greedy-algorithm-implementation|Greedy Algorithm Implementation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/greedy-algorithm-implementation|greedy-algorithm-implementation]]"
 ---
 # Implementing Greedy Algorithms in Java
 

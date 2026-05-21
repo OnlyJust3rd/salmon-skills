@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/transport-layer/microskills/protocol-use-cases|Protocol Use Cases]]"
+  - "[[skills/systems/networking/transport-layer/microskills/protocol-use-cases|protocol-use-cases]]"
 ---
 # Protocol Use Cases: When to Choose TCP or UDP
 

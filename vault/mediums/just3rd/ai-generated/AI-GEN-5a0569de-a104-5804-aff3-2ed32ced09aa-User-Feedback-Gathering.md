@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-feedback-gathering|User Feedback Gathering]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-feedback-gathering|user-feedback-gathering]]"
 ---
 # Understanding the Purpose of Solution Interviews and Usability Testing
 

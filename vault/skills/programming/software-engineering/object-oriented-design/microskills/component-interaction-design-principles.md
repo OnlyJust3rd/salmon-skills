@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Component Interaction Design Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Object-Oriented Design"
-parent-competency: "L1- List and Define OO Design Principles"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/object-oriented-design/object-oriented-design|object-oriented-design]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L1-list-and-define-oo-design-principles|L1-list-and-define-oo-design-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Component Interaction Design Principles

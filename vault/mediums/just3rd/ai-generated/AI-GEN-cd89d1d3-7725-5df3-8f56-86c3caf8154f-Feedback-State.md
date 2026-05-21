@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ui/microskills/feedback-state|Feedback State]]"
+  - "[[skills/creative-media/game-development/game-ui/microskills/feedback-state|feedback-state]]"
 ---
 # Understanding UI Feedback States
 

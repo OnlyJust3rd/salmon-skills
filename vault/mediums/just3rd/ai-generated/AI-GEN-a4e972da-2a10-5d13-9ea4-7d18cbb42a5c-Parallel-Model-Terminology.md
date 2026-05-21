@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|Parallel Model Terminology]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|parallel-model-terminology]]"
 ---
 # Parallel Model Terminology
 

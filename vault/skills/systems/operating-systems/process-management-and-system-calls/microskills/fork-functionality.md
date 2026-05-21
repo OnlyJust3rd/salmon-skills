@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "fork() Functionality"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Process Management and System Calls"
-parent-competency: "L2- Understand UNIX Process APIs"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/process-management-and-system-calls/process-management-and-system-calls|process-management-and-system-calls]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L1-understand-unix-process-apis|L1-understand-unix-process-apis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # fork() Functionality
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/process-management-and-system-c
 
 Parent competency:
 
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L2-understand-unix-process-apis|L2- Understand UNIX Process APIs]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L1-understand-unix-process-apis|L2- Understand UNIX Process APIs]]
 
 ## Description
 

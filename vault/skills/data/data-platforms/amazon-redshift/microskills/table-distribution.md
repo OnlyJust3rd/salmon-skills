@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Table Distribution"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Amazon Redshift"
-parent-competency: "L3- Apply Redshift Table Design and Query Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/amazon-redshift/amazon-redshift|amazon-redshift]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/amazon-redshift/competencies/L2-apply-redshift-table-design-and-query-concepts|L2-apply-redshift-table-design-and-query-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Table Distribution
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/amazon-redshift/amazon-redshift|Amazo
 
 Parent competency:
 
-- [[skills/data/data-platforms/amazon-redshift/competencies/L3-apply-redshift-table-design-and-query-concepts|L3- Apply Redshift Table Design and Query Concepts]]
+- [[skills/data/data-platforms/amazon-redshift/competencies/L2-apply-redshift-table-design-and-query-concepts|L3- Apply Redshift Table Design and Query Concepts]]
 
 ## Description
 

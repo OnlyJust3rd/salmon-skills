@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-process-management-apis|UNIX Process Management APIs]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-process-management-apis|unix-process-management-apis]]"
 ---
 # Understanding Core UNIX Process Management APIs
 

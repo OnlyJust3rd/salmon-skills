@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-scenario-application|Copyright Protection Scenario Application]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-scenario-application|copyright-protection-scenario-application]]"
 ---
 # Applying Copyright Protection Techniques in Scenarios
 

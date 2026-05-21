@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-integer-sums|Induction proofs for integer sums]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-integer-sums|induction-proofs-for-integer-sums]]"
 ---
 # Proofs of Integer Sums Using Mathematical Induction
 

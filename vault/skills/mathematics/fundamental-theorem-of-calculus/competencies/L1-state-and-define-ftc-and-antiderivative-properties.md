@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- State and Define FTC and Antiderivative Properties"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Fundamental Theorem of Calculus"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/fundamental-theorem-of-calculus/fundamental-theorem-of-calculus|fundamental-theorem-of-calculus]]"
+requires-microskills:
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/antiderivative-properties|antiderivative-properties]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-parts|fundamental-theorem-of-calculus-parts]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-statement|fundamental-theorem-of-calculus-statement]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- State and Define FTC and Antiderivative Properties

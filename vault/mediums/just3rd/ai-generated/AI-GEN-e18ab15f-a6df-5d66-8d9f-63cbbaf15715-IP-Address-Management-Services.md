@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/ip-address-management-services|IP Address Management Services]]"
+  - "[[skills/systems/networking/network-layer/microskills/ip-address-management-services|ip-address-management-services]]"
 ---
 # IP Address Management Services: The Role of DHCP
 

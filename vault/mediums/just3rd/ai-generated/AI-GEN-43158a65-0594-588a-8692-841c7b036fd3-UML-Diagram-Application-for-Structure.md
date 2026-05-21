@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-structure|UML Diagram Application for Structure]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-structure|uml-diagram-application-for-structure]]"
 ---
 # Modeling System Structure with UML Class Diagrams
 

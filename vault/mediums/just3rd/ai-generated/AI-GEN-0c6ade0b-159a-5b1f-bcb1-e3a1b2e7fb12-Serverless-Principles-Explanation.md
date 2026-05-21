@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-principles-explanation|Serverless Principles Explanation]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-principles-explanation|serverless-principles-explanation]]"
 ---
 # Understanding Serverless Principles
 

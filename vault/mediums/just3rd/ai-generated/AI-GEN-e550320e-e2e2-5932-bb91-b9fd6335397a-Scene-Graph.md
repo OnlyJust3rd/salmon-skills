@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/scene-graph|Scene Graph]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/scene-graph|scene-graph]]"
 ---
 # Understanding the Scene Graph: Organizing Your Game World
 

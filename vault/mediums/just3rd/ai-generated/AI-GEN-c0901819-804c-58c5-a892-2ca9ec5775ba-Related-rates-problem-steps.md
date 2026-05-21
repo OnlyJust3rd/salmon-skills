@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/related-rates-problem-steps|Related rates problem steps]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/related-rates-problem-steps|related-rates-problem-steps]]"
 ---
 # Related Rates Problem Steps
 

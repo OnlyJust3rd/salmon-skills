@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-goal|Selective Encryption Goal]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-goal|selective-encryption-goal]]"
 ---
 # The Core Goal of Selective Encryption
 

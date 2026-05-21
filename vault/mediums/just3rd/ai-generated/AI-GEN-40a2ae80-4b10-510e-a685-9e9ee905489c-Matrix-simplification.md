@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/matrix-simplification|Matrix simplification]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/matrix-simplification|matrix-simplification]]"
 ---
 # Understanding the Jordan Canonical Form's Purpose
 

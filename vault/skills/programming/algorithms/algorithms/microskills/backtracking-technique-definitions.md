@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Backtracking Technique Definitions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Algorithms"
-parent-competency: "L1- Define Algorithm Techniques"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithms/algorithms|algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithms/competencies/L1-define-algorithm-techniques|L1-define-algorithm-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Backtracking Technique Definitions

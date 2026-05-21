@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/security-provided-by-cryptography|Security Provided by Cryptography]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/security-provided-by-cryptography|security-provided-by-cryptography]]"
 ---
 # Evaluating the Security Provided by Cryptography in Protocols
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/race-condition-causes|Race Condition Causes]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/race-condition-causes|race-condition-causes]]"
 ---
 # Understanding Race Condition Causes
 

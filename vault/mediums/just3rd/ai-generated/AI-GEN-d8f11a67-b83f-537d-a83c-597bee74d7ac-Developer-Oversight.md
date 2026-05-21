@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/developer-oversight|Developer Oversight]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/developer-oversight|developer-oversight]]"
 ---
 # Developer Oversight in AI-Assisted Coding
 

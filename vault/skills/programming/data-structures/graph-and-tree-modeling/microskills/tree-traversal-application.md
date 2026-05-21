@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Tree Traversal Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Graph and Tree Modeling"
-parent-competency: "L3- Apply Graph/Tree Algorithms"
+  - "microskill"
+parent-skill: "[[skills/programming/data-structures/graph-and-tree-modeling/graph-and-tree-modeling|graph-and-tree-modeling]]"
+requires-in-competencies:
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/competencies/L2-apply-graph-tree-algorithms|L2-apply-graph-tree-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Tree Traversal Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/data-structures/graph-and-tree-modeling/graph
 
 Parent competency:
 
-- [[skills/programming/data-structures/graph-and-tree-modeling/competencies/L3-apply-graph-tree-algorithms|L3- Apply Graph/Tree Algorithms]]
+- [[skills/programming/data-structures/graph-and-tree-modeling/competencies/L2-apply-graph-tree-algorithms|L3- Apply Graph/Tree Algorithms]]
 
 ## Description
 

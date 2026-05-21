@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-classification/microskills/long-short-term-memory-lstm-principles|Long Short-Term Memory (LSTM) Principles]]"
+  - "[[skills/data/data-science/text-classification/microskills/long-short-term-memory-lstm-principles|long-short-term-memory-lstm-principles]]"
 ---
 # Understanding Long Short-Term Memory (LSTM) Principles
 

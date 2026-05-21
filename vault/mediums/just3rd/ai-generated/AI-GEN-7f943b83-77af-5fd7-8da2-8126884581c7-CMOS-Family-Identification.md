@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/cmos-family-identification|CMOS Family Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/cmos-family-identification|cmos-family-identification]]"
 ---
 # CMOS Family Identification
 

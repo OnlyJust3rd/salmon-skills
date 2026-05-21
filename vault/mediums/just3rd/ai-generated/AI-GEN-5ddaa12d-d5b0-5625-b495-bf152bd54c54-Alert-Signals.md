@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/security-monitoring/microskills/alert-signals|Alert Signals]]"
+  - "[[skills/cloud-devops/platform-engineering/security-monitoring/microskills/alert-signals|alert-signals]]"
 ---
 # Understanding Alert Signals in Security Event Monitoring
 

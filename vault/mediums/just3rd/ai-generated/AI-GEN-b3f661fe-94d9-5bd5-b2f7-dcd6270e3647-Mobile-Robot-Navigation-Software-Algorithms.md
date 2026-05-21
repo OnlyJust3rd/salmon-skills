@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/mobile-robot-navigation-software-algorithms|Mobile Robot Navigation Software Algorithms]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/mobile-robot-navigation-software-algorithms|mobile-robot-navigation-software-algorithms]]"
 ---
 # Mobile Robot Navigation: Essential Software Algorithms
 

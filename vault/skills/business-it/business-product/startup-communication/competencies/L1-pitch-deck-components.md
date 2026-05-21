@@ -1,19 +1,23 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Pitch Deck Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Startup Communication"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Canvas Components"
-  - "L1- UX Workflow Elements"
+  - "[[skills/business-it/business-product/business-model-design/competencies/L1-define-canvas-components|L1-define-canvas-components]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/competencies/L1-ux-workflow-elements|L1-ux-workflow-elements]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/startup-communication/startup-communication|startup-communication]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/startup-communication/microskills/business-model|business-model]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/market-analysis|market-analysis]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/problem-statement|problem-statement]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/solution-overview|solution-overview]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/team-introduction|team-introduction]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Pitch Deck Components

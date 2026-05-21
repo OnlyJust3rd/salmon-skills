@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/use-cases-for-automation-approaches|Use Cases for Automation Approaches]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/use-cases-for-automation-approaches|use-cases-for-automation-approaches]]"
 ---
 # Identifying the Best Automation Approach for Your Use Case
 

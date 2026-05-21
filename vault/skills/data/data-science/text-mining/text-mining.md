@@ -1,17 +1,24 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Text Mining"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 393 - Text Analytics"
-coverage:
-  - "Implementation"
-  - "ToolUsage"
-competency-count: 2
-microskill-count: 7
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-393-text-analytics"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-science/text-mining/competencies/L1-explain-http-request-response-and-core-concepts|L1-explain-http-request-response-and-core-concepts]]"
+  - "[[skills/data/data-science/text-mining/competencies/L2-apply-beautifulsoup-for-parsing|L2-apply-beautifulsoup-for-parsing]]"
+standard-competency:
+  - "[[skills/data/data-science/text-mining/competencies/L2-apply-beautifulsoup-for-parsing|L2-apply-beautifulsoup-for-parsing]]"
+microskills:
+  - "[[skills/data/data-science/text-mining/microskills/beautifulsoup-library-usage|beautifulsoup-library-usage]]"
+  - "[[skills/data/data-science/text-mining/microskills/client-server-communication-flow|client-server-communication-flow]]"
+  - "[[skills/data/data-science/text-mining/microskills/html-parsing-definition|html-parsing-definition]]"
+  - "[[skills/data/data-science/text-mining/microskills/html-structure-navigation|html-structure-navigation]]"
+  - "[[skills/data/data-science/text-mining/microskills/http-request-response-cycle|http-request-response-cycle]]"
+  - "[[skills/data/data-science/text-mining/microskills/specific-data-element-extraction|specific-data-element-extraction]]"
+  - "[[skills/data/data-science/text-mining/microskills/web-scraping-concepts|web-scraping-concepts]]"
 ---
 
 # Text Mining
@@ -20,8 +27,8 @@ Collect textual data from external sources using web scraping, APIs, and automat
 
 ## Competencies
 
-- [[skills/data/data-science/text-mining/competencies/L2-explain-http-request-response-and-core-concepts|L2- Explain HTTP Request-Response and Core Concepts]]
-- [[skills/data/data-science/text-mining/competencies/L3-apply-beautifulsoup-for-parsing|L3- Apply BeautifulSoup for Parsing]]
+- [[skills/data/data-science/text-mining/competencies/L1-explain-http-request-response-and-core-concepts|L2- Explain HTTP Request-Response and Core Concepts]]
+- [[skills/data/data-science/text-mining/competencies/L2-apply-beautifulsoup-for-parsing|L3- Apply BeautifulSoup for Parsing]]
 
 ## Microskills
 

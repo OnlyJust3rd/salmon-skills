@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/application-requirement-fulfillment|Application Requirement Fulfillment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/application-requirement-fulfillment|application-requirement-fulfillment]]"
 ---
 # Fulfilling Application Requirements in Embedded Systems
 

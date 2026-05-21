@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/el-gamal-foundations|El Gamal Foundations]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/el-gamal-foundations|el-gamal-foundations]]"
 ---
 # El Gamal Foundations
 

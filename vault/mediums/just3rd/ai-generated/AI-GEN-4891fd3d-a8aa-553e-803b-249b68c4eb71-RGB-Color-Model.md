@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/rgb-color-model|RGB Color Model]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/rgb-color-model|rgb-color-model]]"
 ---
 # Understanding the RGB Color Model
 

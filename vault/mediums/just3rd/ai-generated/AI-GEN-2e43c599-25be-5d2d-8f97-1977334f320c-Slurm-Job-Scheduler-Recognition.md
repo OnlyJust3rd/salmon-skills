@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|Slurm Job Scheduler Recognition]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|slurm-job-scheduler-recognition]]"
 ---
 # Recognizing Slurm: Your HPC Job Scheduler
 

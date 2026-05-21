@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-research-techniques|Market Research Techniques]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-research-techniques|market-research-techniques]]"
 ---
 # Identifying Your Competitors: Essential Market Research Techniques
 

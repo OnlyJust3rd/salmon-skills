@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-animation/microskills/transition-condition|Transition Condition]]"
+  - "[[skills/creative-media/game-development/game-animation/microskills/transition-condition|transition-condition]]"
 ---
 # Controlling Animation Transitions with Conditions
 

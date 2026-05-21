@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/fundamental-signal-components|Fundamental Signal Components]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/fundamental-signal-components|fundamental-signal-components]]"
 ---
 # Fundamental Signal Components
 

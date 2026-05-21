@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Process Control Block Structure"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Process Management and System Calls"
-parent-competency: "L4- Analyze PCB Components"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/process-management-and-system-calls/process-management-and-system-calls|process-management-and-system-calls]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-analyze-pcb-components|L3-analyze-pcb-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Process Control Block Structure
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/process-management-and-system-c
 
 Parent competency:
 
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L4-analyze-pcb-components|L4- Analyze PCB Components]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-analyze-pcb-components|L4- Analyze PCB Components]]
 
 ## Description
 

@@ -1,18 +1,20 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Application Database Integration"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 241 - Database Systems"
-coverage:
-  - "Implementation"
-competency-count: 1
-microskill-count: 4
-related-jobs:
-  - "Backend Developer"
-  - "Full Stack Developer"
-source-note: "courses/kmutt/cpe-2021/cpe-241-database-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/backend-api/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L2-integrate-app-with-database-in-3-tier-architecture]]"
+standard-competency:
+  - "[[skills/web-and-design/backend-api/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L2-integrate-app-with-database-in-3-tier-architecture]]"
+microskills:
+  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/3-tier-integration-patterns|3-tier-integration-patterns]]"
+  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/application-database-interaction|application-database-interaction]]"
+  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/data-persistence-mechanisms|data-persistence-mechanisms]]"
+  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/database-connectivity|database-connectivity]]"
 ---
 
 # Application Database Integration
@@ -21,7 +23,7 @@ Connecting and interacting with databases from application code, specifically wi
 
 ## Competencies
 
-- [[skills/web-and-design/backend-api/application-database-integration/competencies/L3-integrate-app-with-database-in-3-tier-architecture|L3- Integrate App with Database in 3-Tier Architecture]]
+- [[skills/web-and-design/backend-api/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L3- Integrate App with Database in 3-Tier Architecture]]
 
 ## Microskills
 

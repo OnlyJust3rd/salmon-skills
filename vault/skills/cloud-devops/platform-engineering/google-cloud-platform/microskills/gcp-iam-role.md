@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "GCP IAM Role"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-parent-macro: "Google Cloud Platform"
-parent-competency: "L3- Apply GCP Compute Storage and IAM Concepts"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/google-cloud-platform/google-cloud-platform|google-cloud-platform]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/competencies/L2-apply-gcp-compute-storage-and-iam-concepts|L2-apply-gcp-compute-storage-and-iam-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # GCP IAM Role
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/google-cloud-platform/g
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/google-cloud-platform/competencies/L3-apply-gcp-compute-storage-and-iam-concepts|L3- Apply GCP Compute Storage and IAM Concepts]]
+- [[skills/cloud-devops/platform-engineering/google-cloud-platform/competencies/L2-apply-gcp-compute-storage-and-iam-concepts|L3- Apply GCP Compute Storage and IAM Concepts]]
 
 ## Description
 

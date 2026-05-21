@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/average-rate-of-change-calculations|Average rate of change calculations]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/average-rate-of-change-calculations|average-rate-of-change-calculations]]"
 ---
 # Calculating Average Rate of Change
 

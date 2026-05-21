@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/tax-payment-obligation|Tax Payment Obligation]]"
+  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/tax-payment-obligation|tax-payment-obligation]]"
 ---
 # Understanding Who Pays Income Tax
 

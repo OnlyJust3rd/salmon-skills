@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-function-for-watermarking|Cryptographic Function for Watermarking]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-function-for-watermarking|cryptographic-function-for-watermarking]]"
 ---
 # Cryptographic Functions for Watermarking
 

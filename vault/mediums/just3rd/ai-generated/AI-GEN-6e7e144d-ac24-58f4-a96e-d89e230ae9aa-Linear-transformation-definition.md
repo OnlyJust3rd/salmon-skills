@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/linear-transformation-definition|Linear transformation definition]]"
+  - "[[skills/mathematics/linear-transformations/microskills/linear-transformation-definition|linear-transformation-definition]]"
 ---
 # Understanding the Definition of a Linear Transformation
 

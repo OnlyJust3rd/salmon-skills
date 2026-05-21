@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Access Control Techniques"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Network Security Access Control"
-parent-competency: "L4- Firewall Differentiation"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/network-security-access-control/network-security-access-control|network-security-access-control]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/network-security-access-control/competencies/L3-firewall-differentiation|L3-firewall-differentiation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Access Control Techniques
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/network-security-access-control/ne
 
 Parent competency:
 
-- [[skills/security/cybersecurity/network-security-access-control/competencies/L4-firewall-differentiation|L4- Firewall Differentiation]]
+- [[skills/security/cybersecurity/network-security-access-control/competencies/L3-firewall-differentiation|L4- Firewall Differentiation]]
 
 ## Description
 

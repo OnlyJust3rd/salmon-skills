@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-write-policies|Cache Write Policies]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-write-policies|cache-write-policies]]"
 ---
 # Cache Write Policies
 

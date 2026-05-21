@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/neuromorphic-architecture-characteristics|Neuromorphic Architecture Characteristics]]"
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/neuromorphic-architecture-characteristics|neuromorphic-architecture-characteristics]]"
 ---
 # Neuromorphic Architecture Characteristics
 

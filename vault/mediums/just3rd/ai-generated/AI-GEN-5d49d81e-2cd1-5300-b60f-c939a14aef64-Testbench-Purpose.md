@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/testbench-purpose|Testbench Purpose]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/testbench-purpose|testbench-purpose]]"
 ---
 # Understanding the Purpose of Testbenches in Verilog
 

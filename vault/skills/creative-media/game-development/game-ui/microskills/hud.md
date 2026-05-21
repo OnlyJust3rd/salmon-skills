@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "HUD"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game UI"
-parent-competency: "L2- Explain Game UI HUD Menu and Feedback Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-ui/game-ui|game-ui]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-ui/competencies/L1-explain-game-ui-hud-menu-and-feedback-concepts|L1-explain-game-ui-hud-menu-and-feedback-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # HUD
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-ui/game-ui|Game UI]]
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-ui/competencies/L2-explain-game-ui-hud-menu-and-feedback-concepts|L2- Explain Game UI HUD Menu and Feedback Concepts]]
+- [[skills/creative-media/game-development/game-ui/competencies/L1-explain-game-ui-hud-menu-and-feedback-concepts|L2- Explain Game UI HUD Menu and Feedback Concepts]]
 
 ## Description
 

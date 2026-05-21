@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/transform-coding-identification|Transform Coding Identification]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/transform-coding-identification|transform-coding-identification]]"
 ---
 # Understanding Transform Coding in Lossy Compression
 

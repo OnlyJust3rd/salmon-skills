@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/dynamic-memory-management-in-c|Dynamic Memory Management in C]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/dynamic-memory-management-in-c|dynamic-memory-management-in-c]]"
 ---
 # Dynamic Memory Management in C: `malloc` and `free`
 

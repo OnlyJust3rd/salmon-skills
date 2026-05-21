@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-definitions|Neural Network Definitions]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-definitions|neural-network-definitions]]"
 ---
 # Neural Network Definitions
 

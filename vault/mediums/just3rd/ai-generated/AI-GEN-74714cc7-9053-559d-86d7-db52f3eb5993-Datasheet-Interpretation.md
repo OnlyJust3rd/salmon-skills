@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/datasheet-interpretation|Datasheet Interpretation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/datasheet-interpretation|datasheet-interpretation]]"
 ---
 # Understanding Integrated Circuit (IC) Datasheets
 

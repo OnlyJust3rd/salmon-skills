@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/relational-database-characteristics|Relational Database Characteristics]]"
+  - "[[skills/data/databases/database-system/microskills/relational-database-characteristics|relational-database-characteristics]]"
 ---
 # Understanding Relational Database Characteristics
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/plagiarism-examples|Plagiarism Examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/plagiarism-examples|plagiarism-examples]]"
 ---
 # Understanding Plagiarism in Business
 

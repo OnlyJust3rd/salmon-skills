@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/application-state|Application State]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/application-state|application-state]]"
 ---
 # Understanding Application State in Mobile Development
 

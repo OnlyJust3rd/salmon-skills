@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-transform-coding|Compression Ratio vs. Data Fidelity (Transform Coding)]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-transform-coding|compression-ratio-vs-data-fidelity-transform-coding]]"
 ---
 # Compression Ratio vs. Data Fidelity (Transform Coding)
 

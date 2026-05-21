@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-sharpening-techniques|Image Sharpening Techniques]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-sharpening-techniques|image-sharpening-techniques]]"
 ---
 # Image Sharpening Techniques
 

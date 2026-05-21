@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/rendering-compatibility|Rendering Compatibility]]"
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/rendering-compatibility|rendering-compatibility]]"
 ---
 # Understanding Rendering Compatibility in Web Development
 

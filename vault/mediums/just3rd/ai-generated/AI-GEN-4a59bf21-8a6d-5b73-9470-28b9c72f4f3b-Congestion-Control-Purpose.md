@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/congestion-control-purpose|Congestion Control Purpose]]"
+  - "[[skills/systems/networking/network-performance/microskills/congestion-control-purpose|congestion-control-purpose]]"
 ---
 # Understanding Congestion Control: Keeping the Network Flowing
 

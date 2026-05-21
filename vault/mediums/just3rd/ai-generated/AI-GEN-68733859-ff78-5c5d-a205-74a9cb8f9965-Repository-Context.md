@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/repository-context|Repository Context]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/repository-context|repository-context]]"
 ---
 # Understanding Repository Context for GitHub Copilot Suggestions
 

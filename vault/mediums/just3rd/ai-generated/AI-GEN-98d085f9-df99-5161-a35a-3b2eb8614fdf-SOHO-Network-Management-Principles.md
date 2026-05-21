@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-management/microskills/soho-network-management-principles|SOHO Network Management Principles]]"
+  - "[[skills/systems/networking/network-management/microskills/soho-network-management-principles|soho-network-management-principles]]"
 ---
 # Understanding SOHO Network Management Principles
 

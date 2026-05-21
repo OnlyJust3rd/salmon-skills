@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/agent-mode|Agent Mode]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/agent-mode|agent-mode]]"
 ---
 # Understanding Cursor's Agent Mode
 

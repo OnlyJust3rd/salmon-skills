@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Symmetric Algorithm Operational Paradigms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Algorithm Classification"
-parent-competency: "L4- Compare Symmetric and Asymmetric Algorithms"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-classification/competencies/L3-compare-symmetric-and-asymmetric-algorithms|L3-compare-symmetric-and-asymmetric-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Symmetric Algorithm Operational Paradigms
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-classification/algorithm
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-classification/competencies/L4-compare-symmetric-and-asymmetric-algorithms|L4- Compare Symmetric and Asymmetric Algorithms]]
+- [[skills/programming/algorithms/algorithm-classification/competencies/L3-compare-symmetric-and-asymmetric-algorithms|L4- Compare Symmetric and Asymmetric Algorithms]]
 
 ## Description
 

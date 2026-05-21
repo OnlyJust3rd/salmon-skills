@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/openmp/microskills/openmp-directive-semantics|OpenMP Directive Semantics]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/openmp-directive-semantics|openmp-directive-semantics]]"
 ---
 # Understanding OpenMP Directive Semantics
 

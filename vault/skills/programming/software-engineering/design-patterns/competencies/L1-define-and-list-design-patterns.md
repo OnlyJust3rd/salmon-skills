@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and List Design Patterns"
 tags:
   - "cpe"
   - "competency"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Design Patterns"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- List and Define OO Design Principles"
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L1-list-and-define-oo-design-principles|L1-list-and-define-oo-design-principles]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/software-engineering/design-patterns/design-patterns|design-patterns]]"
+requires-microskills:
+  - "[[skills/programming/software-engineering/design-patterns/microskills/common-design-pattern-definitions|common-design-pattern-definitions]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-identification|design-pattern-identification]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-purposes|design-pattern-purposes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and List Design Patterns

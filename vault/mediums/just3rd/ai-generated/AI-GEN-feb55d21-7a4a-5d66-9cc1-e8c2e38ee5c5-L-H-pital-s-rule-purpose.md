@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/l-hopital-s-rule-purpose|L'Hôpital's rule purpose]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/l-hopital-s-rule-purpose|l-hopital-s-rule-purpose]]"
 ---
 # The Purpose of L'Hôpital's Rule
 

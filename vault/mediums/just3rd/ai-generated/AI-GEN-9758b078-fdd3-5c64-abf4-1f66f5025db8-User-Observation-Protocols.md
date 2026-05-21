@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-observation-protocols|User Observation Protocols]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-observation-protocols|user-observation-protocols]]"
 ---
 # User Observation Protocols: Watching Users in Action
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/microcontroller-software-elements|Microcontroller Software Elements]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/microcontroller-software-elements|microcontroller-software-elements]]"
 ---
 # Understanding Microcontroller Software Elements
 

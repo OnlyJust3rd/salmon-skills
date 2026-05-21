@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/scheduled-command-execution|Scheduled Command Execution]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/scheduled-command-execution|scheduled-command-execution]]"
 ---
 # Scheduled Command Execution with Cron
 

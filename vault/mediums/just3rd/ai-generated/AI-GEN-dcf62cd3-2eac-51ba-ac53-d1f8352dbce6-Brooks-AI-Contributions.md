@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/brooks-ai-contributions|Brooks' AI Contributions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/brooks-ai-contributions|brooks-ai-contributions]]"
 ---
 # Brooks' AI Contributions
 

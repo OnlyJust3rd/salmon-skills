@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/key-parameter-definitions|Key Parameter Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/key-parameter-definitions|key-parameter-definitions]]"
 ---
 # Understanding Logic Family Parameters: Definitions
 

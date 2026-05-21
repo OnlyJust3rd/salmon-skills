@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "AI Behavior Paradigm Comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Robotics"
-parent-competency: "L4- Analyze and Differentiate AI Behavior Paradigms"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotics/robotics|robotics]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L3-analyze-and-differentiate-ai-behavior-paradigms|L3-analyze-and-differentiate-ai-behavior-paradigms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # AI Behavior Paradigm Comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/robotics/robotics|
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/robotics/competencies/L4-analyze-and-differentiate-ai-behavior-paradigms|L4- Analyze and Differentiate AI Behavior Paradigms]]
+- [[skills/hardware-embedded/electronics-embedded/robotics/competencies/L3-analyze-and-differentiate-ai-behavior-paradigms|L4- Analyze and Differentiate AI Behavior Paradigms]]
 
 ## Description
 

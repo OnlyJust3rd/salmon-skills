@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonality-definition|Orthogonality definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonality-definition|orthogonality-definition]]"
 ---
 # Orthogonality Definition
 

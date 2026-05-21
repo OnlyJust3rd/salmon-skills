@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/system-of-linear-equations-components|System of linear equations components]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/system-of-linear-equations-components|system-of-linear-equations-components]]"
 ---
 # Understanding the Parts of a System of Linear Equations
 

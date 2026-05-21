@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/compute-instance-trade-offs|Compute Instance Trade-offs]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/compute-instance-trade-offs|compute-instance-trade-offs]]"
 ---
 # Compute Instance Trade-offs: Performance, Cost, and Suitability
 

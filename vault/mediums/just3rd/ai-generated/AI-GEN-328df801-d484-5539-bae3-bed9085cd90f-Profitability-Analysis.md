@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/profitability-analysis|Profitability Analysis]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/profitability-analysis|profitability-analysis]]"
 ---
 # Profitability Analysis: Is Your Project Worth It?
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/persistent-data-storage|Persistent Data Storage]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/persistent-data-storage|persistent-data-storage]]"
 ---
 # Persistent Data Storage with Docker Volumes
 

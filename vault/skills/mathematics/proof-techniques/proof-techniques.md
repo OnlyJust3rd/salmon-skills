@@ -1,17 +1,26 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Proof Techniques"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 2
-microskill-count: 9
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-111-discrete-mathematics-for-computer-engineers"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/proof-techniques/competencies/L1-define-and-explain-induction-and-recursion|L1-define-and-explain-induction-and-recursion]]"
+  - "[[skills/mathematics/proof-techniques/competencies/L2-apply-induction-and-recursion-to-proofs-problem-solving-and-analysis|L2-apply-induction-and-recursion-to-proofs-problem-solving-and-analysis]]"
+standard-competency:
+  - "[[skills/mathematics/proof-techniques/competencies/L2-apply-induction-and-recursion-to-proofs-problem-solving-and-analysis|L2-apply-induction-and-recursion-to-proofs-problem-solving-and-analysis]]"
+microskills:
+  - "[[skills/mathematics/proof-techniques/microskills/induction-and-recursion-relationship|induction-and-recursion-relationship]]"
+  - "[[skills/mathematics/proof-techniques/microskills/inductive-proof-execution|inductive-proof-execution]]"
+  - "[[skills/mathematics/proof-techniques/microskills/mathematical-induction-principles|mathematical-induction-principles]]"
+  - "[[skills/mathematics/proof-techniques/microskills/proof-by-induction-structure|proof-by-induction-structure]]"
+  - "[[skills/mathematics/proof-techniques/microskills/recursive-algorithm-analysis|recursive-algorithm-analysis]]"
+  - "[[skills/mathematics/proof-techniques/microskills/recursive-definition-components|recursive-definition-components]]"
+  - "[[skills/mathematics/proof-techniques/microskills/recursive-problem-solving|recursive-problem-solving]]"
+  - "[[skills/mathematics/proof-techniques/microskills/recursive-process-analysis|recursive-process-analysis]]"
+  - "[[skills/mathematics/proof-techniques/microskills/time-complexity-analysis-recursion|time-complexity-analysis-recursion]]"
 ---
 
 # Proof Techniques
@@ -20,8 +29,8 @@ Ability to employ mathematical induction and recursion to formally prove stateme
 
 ## Competencies
 
-- [[L2-define-and-explain-induction-and-recursion|L2- Define and explain induction and recursion]]
-- [[L3-apply-induction-and-recursion-to-proofs-problem-solving-and-analysis|L3- Apply induction and recursion to proofs, problem-solving, and analysis]]
+- [[skills/mathematics/proof-techniques/competencies/L1-define-and-explain-induction-and-recursion|L2- Define and explain induction and recursion]]
+- [[skills/mathematics/proof-techniques/competencies/L2-apply-induction-and-recursion-to-proofs-problem-solving-and-analysis|L3- Apply induction and recursion to proofs, problem-solving, and analysis]]
 
 ## Microskills
 

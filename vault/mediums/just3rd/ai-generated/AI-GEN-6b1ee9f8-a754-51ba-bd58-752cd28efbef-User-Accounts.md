@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/endpoint-administration/microskills/user-accounts|User Accounts]]"
+  - "[[skills/business-it/business-product/endpoint-administration/microskills/user-accounts|user-accounts]]"
 ---
 # Understanding User Accounts for Endpoint Access
 

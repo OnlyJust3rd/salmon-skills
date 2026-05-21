@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "One-time Pad Key Features"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Symmetric Cipher Operations"
-parent-competency: "L2- Understand Stream Cipher Mechanics"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/symmetric-cipher-operations/symmetric-cipher-operations|symmetric-cipher-operations]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-understand-stream-cipher-mechanics|L1-understand-stream-cipher-mechanics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # One-time Pad Key Features
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/symmetric-cipher-operations/symmet
 
 Parent competency:
 
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-understand-stream-cipher-mechanics|L2- Understand Stream Cipher Mechanics]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-understand-stream-cipher-mechanics|L2- Understand Stream Cipher Mechanics]]
 
 ## Description
 

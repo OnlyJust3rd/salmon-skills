@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/kernel-basis-derivation|Kernel basis derivation]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/kernel-basis-derivation|kernel-basis-derivation]]"
 ---
 # Deriving a Basis for the Kernel of a Matrix
 

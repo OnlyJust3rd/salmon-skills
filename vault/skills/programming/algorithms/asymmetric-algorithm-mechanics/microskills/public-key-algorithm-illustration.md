@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Public Key Algorithm Illustration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Asymmetric Algorithm Mechanics"
-parent-competency: "L3- Apply foundations to illustrate mechanics"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/asymmetric-algorithm-mechanics|asymmetric-algorithm-mechanics]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/competencies/L2-apply-foundations-to-illustrate-mechanics|L2-apply-foundations-to-illustrate-mechanics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Public Key Algorithm Illustration
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/asymmetric-algorithm-mechanics/asy
 
 Parent competency:
 
-- [[skills/programming/algorithms/asymmetric-algorithm-mechanics/competencies/L3-apply-foundations-to-illustrate-mechanics|L3- Apply foundations to illustrate mechanics]]
+- [[skills/programming/algorithms/asymmetric-algorithm-mechanics/competencies/L2-apply-foundations-to-illustrate-mechanics|L3- Apply foundations to illustrate mechanics]]
 
 ## Description
 

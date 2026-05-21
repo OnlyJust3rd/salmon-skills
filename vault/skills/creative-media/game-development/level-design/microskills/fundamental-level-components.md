@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Fundamental Level Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Level Design"
-parent-competency: "L1- Identify Level Design Elements"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/level-design/level-design|level-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/level-design/competencies/L1-identify-level-design-elements|L1-identify-level-design-elements]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Fundamental Level Components

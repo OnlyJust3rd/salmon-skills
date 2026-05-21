@@ -1,19 +1,25 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Watermarking Metrics and Attacks"
 tags:
   - "cpe"
   - "competency"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Watermarking Performance and Attacks"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Copyright Protection Concepts"
-  - "L1- Goals and Context of Selective Encryption"
+  - "[[skills/security/cybersecurity/copyright-protection/competencies/L1-define-copyright-protection-concepts|L1-define-copyright-protection-concepts]]"
+  - "[[skills/security/cybersecurity/selective-encryption/competencies/L1-goals-and-context-of-selective-encryption|L1-goals-and-context-of-selective-encryption]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 7
-corresponding-course-competencies: []
+parent-skill: "[[skills/security/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|watermarking-performance-and-attacks]]"
+requires-microskills:
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attacks|cryptography-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attacks|geometric-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics|objective-watermarking-metrics]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attacks-copy-attacks|protocol-attacks-copy-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attacks|removal-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/subjective-watermarking-metrics|subjective-watermarking-metrics]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-categories|watermarking-attack-categories]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Watermarking Metrics and Attacks

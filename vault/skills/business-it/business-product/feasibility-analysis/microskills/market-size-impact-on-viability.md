@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Market Size Impact on Viability"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Feasibility Analysis"
-parent-competency: "L2- Market Size and Viability"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/feasibility-analysis/competencies/L1-market-size-and-viability|L1-market-size-and-viability]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Market Size Impact on Viability
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/feasibility-analysis/feasibi
 
 Parent competency:
 
-- [[skills/business-it/business-product/feasibility-analysis/competencies/L2-market-size-and-viability|L2- Market Size and Viability]]
+- [[skills/business-it/business-product/feasibility-analysis/competencies/L1-market-size-and-viability|L2- Market Size and Viability]]
 
 ## Description
 

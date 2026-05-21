@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define RL Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 342 - Machine Learning"
-parent-macro: "Reinforcement Learning"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain Basic ML Models"
+  - "[[skills/data/data-science/machine-learning/competencies/L1-explain-basic-ml-models|L1-explain-basic-ml-models]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/ai/reinforcement-learning/reinforcement-learning|reinforcement-learning]]"
+requires-microskills:
+  - "[[skills/data/ai/reinforcement-learning/microskills/action-definition|action-definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/agent-definition|agent-definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/environment-definition|environment-definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/reward-definition|reward-definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/state-definition|state-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define RL Components
@@ -25,7 +29,7 @@ Define the core components of reinforcement learning, including agents, environm
 
 ## Strict Prerequisites
 
-- [[skills/data/data-science/machine-learning/competencies/L2-explain-basic-ml-models|L2- Explain Basic ML Models]]
+- [[skills/data/data-science/machine-learning/competencies/L1-explain-basic-ml-models|L2- Explain Basic ML Models]]
 
 ## Optional Prerequisites
 

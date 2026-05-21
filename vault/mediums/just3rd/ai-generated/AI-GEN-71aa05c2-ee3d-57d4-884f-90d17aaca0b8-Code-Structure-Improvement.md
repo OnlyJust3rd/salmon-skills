@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/code-structure-improvement|Code Structure Improvement]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/code-structure-improvement|code-structure-improvement]]"
 ---
 # Improving Code Structure with Refactoring
 

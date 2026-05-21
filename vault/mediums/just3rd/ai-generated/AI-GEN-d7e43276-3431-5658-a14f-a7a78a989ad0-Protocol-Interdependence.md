@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/protocol-interdependence|Protocol Interdependence]]"
+  - "[[skills/systems/networking/application-layer/microskills/protocol-interdependence|protocol-interdependence]]"
 ---
 # Protocol Interdependence: How HTTP and DNS Work Together
 

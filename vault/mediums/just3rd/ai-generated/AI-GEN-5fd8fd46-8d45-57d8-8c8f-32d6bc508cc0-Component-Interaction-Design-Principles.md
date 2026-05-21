@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/component-interaction-design-principles|Component Interaction Design Principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/component-interaction-design-principles|component-interaction-design-principles]]"
 ---
 # Component Interaction Design Principles
 

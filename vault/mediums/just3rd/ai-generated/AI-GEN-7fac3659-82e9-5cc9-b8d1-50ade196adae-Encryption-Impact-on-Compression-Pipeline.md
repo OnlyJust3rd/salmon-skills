@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/encryption-impact-on-compression-pipeline|Encryption Impact on Compression Pipeline]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/encryption-impact-on-compression-pipeline|encryption-impact-on-compression-pipeline]]"
 ---
 # Understanding Encryption's Impact on the Multimedia Compression Pipeline
 

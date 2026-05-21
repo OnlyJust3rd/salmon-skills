@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/startup-terminology|Startup Terminology]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/startup-terminology|startup-terminology]]"
 ---
 # Startup Terminology in Lean Startup
 

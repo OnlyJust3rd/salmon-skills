@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/revenue-stream-interactions|Revenue Stream Interactions]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/revenue-stream-interactions|revenue-stream-interactions]]"
 ---
 # Revenue Stream Interactions
 

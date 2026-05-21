@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-key-management|Encryption Algorithm Key Management]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-key-management|encryption-algorithm-key-management]]"
 ---
 # Encryption Algorithm Key Management: A Comparative Look
 

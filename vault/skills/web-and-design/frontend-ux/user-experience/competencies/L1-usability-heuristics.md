@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Usability Heuristics"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "User Experience"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- UX Workflow Elements"
+  - "[[skills/web-and-design/frontend-ux/user-experience/competencies/L1-ux-workflow-elements|L1-ux-workflow-elements]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/web-and-design/frontend-ux/user-experience/user-experience|user-experience]]"
+requires-microskills:
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/consistency-and-standards|consistency-and-standards]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/error-prevention|error-prevention]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/match-between-system-and-real-world|match-between-system-and-real-world]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-control-and-freedom|user-control-and-freedom]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/visibility-of-system-status|visibility-of-system-status]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Usability Heuristics

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-impact|Responsibility Assignment Impact]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-impact|responsibility-assignment-impact]]"
 ---
 # Understanding Responsibility Assignment in Object-Oriented Design
 

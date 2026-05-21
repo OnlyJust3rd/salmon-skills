@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/data-source-configuration|Data Source Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/data-source-configuration|data-source-configuration]]"
 ---
 # Connecting Grafana to Prometheus: Data Source Configuration
 

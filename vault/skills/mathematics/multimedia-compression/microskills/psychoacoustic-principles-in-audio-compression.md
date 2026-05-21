@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Psychoacoustic Principles in Audio Compression"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Multimedia Compression"
-parent-competency: "L2- Explain Audio Compression Techniques"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multimedia-compression/multimedia-compression|multimedia-compression]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-explain-audio-compression-techniques|L1-explain-audio-compression-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Psychoacoustic Principles in Audio Compression
@@ -15,7 +17,7 @@ Parent macro: [[multimedia-compression|Multimedia Compression]]
 
 Parent competency:
 
-- [[L2-explain-audio-compression-techniques|L2- Explain Audio Compression Techniques]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-explain-audio-compression-techniques|L2- Explain Audio Compression Techniques]]
 
 ## Description
 

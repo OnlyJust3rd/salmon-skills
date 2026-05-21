@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Passive RL Filter Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Filter Design"
-parent-competency: "L6- Design and test filters"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/filter-design/filter-design|filter-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L4-design-and-test-filters|L4-design-and-test-filters]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Passive RL Filter Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/filter-design/filt
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L6-design-and-test-filters|L6- Design and test filters]]
+- [[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L4-design-and-test-filters|L6- Design and test filters]]
 
 ## Description
 

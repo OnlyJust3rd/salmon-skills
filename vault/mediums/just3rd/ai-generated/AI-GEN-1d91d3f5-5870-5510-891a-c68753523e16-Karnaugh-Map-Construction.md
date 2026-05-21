@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/karnaugh-map-construction|Karnaugh Map Construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/karnaugh-map-construction|karnaugh-map-construction]]"
 ---
 # Karnaugh Map Construction
 

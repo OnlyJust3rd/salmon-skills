@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-engineering/microskills/transformation|Transformation]]"
+  - "[[skills/data/data-platforms/data-engineering/microskills/transformation|transformation]]"
 ---
 # Data Transformation: Reshaping Your Data
 

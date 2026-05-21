@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/bml-cycle-components|BML Cycle Components]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/bml-cycle-components|bml-cycle-components]]"
 ---
 # Understanding the BML Cycle Components
 

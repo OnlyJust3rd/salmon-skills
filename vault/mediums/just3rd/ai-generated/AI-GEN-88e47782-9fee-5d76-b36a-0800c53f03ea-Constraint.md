@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/constraint|Constraint]]"
-  - "[[skills/creative-media/game-development/game-physics/microskills/constraint|Constraint]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/constraint|constraint]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/constraint|constraint]]"
 ---
 # Mastering Constraints in Game Physics
 

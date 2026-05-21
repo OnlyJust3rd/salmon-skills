@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/mesh-analysis-application|Mesh Analysis Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/mesh-analysis-application|mesh-analysis-application]]"
 ---
 # Mesh Analysis Application
 

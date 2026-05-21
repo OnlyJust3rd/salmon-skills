@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/stopped-container-state|Stopped Container State]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/stopped-container-state|stopped-container-state]]"
 ---
 # Understanding the Stopped Container State in Docker
 

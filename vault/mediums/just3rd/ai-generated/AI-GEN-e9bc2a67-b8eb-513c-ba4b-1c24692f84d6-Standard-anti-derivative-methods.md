@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/standard-anti-derivative-methods|Standard anti-derivative methods]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/standard-anti-derivative-methods|standard-anti-derivative-methods]]"
 ---
 # Standard Anti-derivative Methods
 

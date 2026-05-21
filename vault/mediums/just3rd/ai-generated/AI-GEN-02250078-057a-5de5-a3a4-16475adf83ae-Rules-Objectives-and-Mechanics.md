@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/rules-objectives-and-mechanics|Rules, Objectives, and Mechanics]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/rules-objectives-and-mechanics|rules-objectives-and-mechanics]]"
 ---
 # Understanding Game Elements: Rules, Objectives, and Mechanics
 

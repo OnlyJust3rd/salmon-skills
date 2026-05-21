@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/underlying-mathematical-principles|Underlying Mathematical Principles]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/underlying-mathematical-principles|underlying-mathematical-principles]]"
 ---
 # The Math Behind Moving and Reshaping Shapes
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/protocol-integration|Protocol Integration]]"
+  - "[[skills/systems/networking/socket-programming/microskills/protocol-integration|protocol-integration]]"
 ---
 # Protocol Integration in Socket Applications
 

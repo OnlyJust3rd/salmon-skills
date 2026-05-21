@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Fundamental Concepts"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Complex Frequency Domain Analysis"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Signal Fundamentals"
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1-signal-fundamentals]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/complex-frequency-domain-analysis/complex-frequency-domain-analysis|complex-frequency-domain-analysis]]"
+requires-microskills:
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/inverse-z-transform-definition|inverse-z-transform-definition]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/poles-definition|poles-definition]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/region-of-convergence-roc-definition|region-of-convergence-roc-definition]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/z-transform-definition|z-transform-definition]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/zeros-definition|zeros-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Fundamental Concepts
@@ -25,7 +29,7 @@ Define the Region of Convergence (ROC), poles, zeros, Z-transform, and its inver
 
 ## Strict Prerequisites
 
-- [[L1-signal-fundamentals|L1- Signal Fundamentals]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1- Signal Fundamentals]]
 
 ## Optional Prerequisites
 

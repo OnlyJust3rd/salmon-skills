@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/legal-department-functions|Legal Department Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/legal-department-functions|legal-department-functions]]"
 ---
 # Understanding the Legal Department: Your Corporate Shield
 

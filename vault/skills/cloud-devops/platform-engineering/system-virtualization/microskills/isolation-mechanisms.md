@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Isolation Mechanisms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Virtualization"
-parent-competency: "L2- VM vs. Container Concepts"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-virtualization/system-virtualization|system-virtualization]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-vm-vs-container-concepts|L1-vm-vs-container-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Isolation Mechanisms
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/system-virtualization/s
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-vm-vs-container-concepts|L2- VM vs. Container Concepts]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-vm-vs-container-concepts|L2- VM vs. Container Concepts]]
 
 ## Description
 

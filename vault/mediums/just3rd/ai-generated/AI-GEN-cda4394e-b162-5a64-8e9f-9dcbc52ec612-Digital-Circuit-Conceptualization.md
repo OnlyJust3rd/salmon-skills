@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/digital-circuit-conceptualization|Digital Circuit Conceptualization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/digital-circuit-conceptualization|digital-circuit-conceptualization]]"
 ---
 # Digital Circuit Conceptualization
 

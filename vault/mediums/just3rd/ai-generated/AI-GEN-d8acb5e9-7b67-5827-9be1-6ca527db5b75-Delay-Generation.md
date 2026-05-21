@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/delay-generation|Delay Generation]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/delay-generation|delay-generation]]"
 ---
 # Generating Precise Delays with AVR Timers
 

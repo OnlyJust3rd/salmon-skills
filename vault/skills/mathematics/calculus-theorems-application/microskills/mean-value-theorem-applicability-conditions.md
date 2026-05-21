@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Mean Value Theorem applicability conditions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Calculus Theorems Application"
-parent-competency: "L1- List Theorem Conditions"
+  - "microskill"
+parent-skill: "[[skills/mathematics/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
+requires-in-competencies:
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-list-theorem-conditions|L1-list-theorem-conditions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Mean Value Theorem applicability conditions
@@ -15,7 +17,7 @@ Parent macro: [[calculus-theorems-application|Calculus Theorems Application]]
 
 Parent competency:
 
-- [[L1-list-theorem-conditions|L1- List Theorem Conditions]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-list-theorem-conditions|L1- List Theorem Conditions]]
 
 ## Description
 

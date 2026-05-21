@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/theory-to-engagement-link|Theory-to-Engagement Link]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/theory-to-engagement-link|theory-to-engagement-link]]"
 ---
 # Understanding Funativity's Link to Player Motivation
 

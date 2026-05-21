@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/project-result-communication|Project Result Communication]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/project-result-communication|project-result-communication]]"
 ---
 # Communicating Project Results: The Essentials
 

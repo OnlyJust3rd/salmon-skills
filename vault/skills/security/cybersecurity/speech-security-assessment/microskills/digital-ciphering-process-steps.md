@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Digital Ciphering Process Steps"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Speech Security Assessment"
-parent-competency: "L3- Demonstrate Digital Ciphering Application"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/speech-security-assessment/speech-security-assessment|speech-security-assessment]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L2-demonstrate-digital-ciphering-application|L2-demonstrate-digital-ciphering-application]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Digital Ciphering Process Steps
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/speech-security-assessment/speech-
 
 Parent competency:
 
-- [[skills/security/cybersecurity/speech-security-assessment/competencies/L3-demonstrate-digital-ciphering-application|L3- Demonstrate Digital Ciphering Application]]
+- [[skills/security/cybersecurity/speech-security-assessment/competencies/L2-demonstrate-digital-ciphering-application|L3- Demonstrate Digital Ciphering Application]]
 
 ## Description
 

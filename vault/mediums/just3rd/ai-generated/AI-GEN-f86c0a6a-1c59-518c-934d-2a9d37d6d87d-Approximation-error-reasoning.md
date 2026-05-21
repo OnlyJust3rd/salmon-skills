@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/approximation-error-reasoning|Approximation error reasoning]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/approximation-error-reasoning|approximation-error-reasoning]]"
 ---
 # Understanding Approximation Error with Linearization
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Machine Instruction Categorization"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Machine Instruction"
-parent-competency: "L1- Instruction Types"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/machine-instruction/machine-instruction|machine-instruction]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-types|L1-instruction-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Machine Instruction Categorization

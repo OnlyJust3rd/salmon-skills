@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/filter-performance-judgement|Filter Performance Judgement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/filter-performance-judgement|filter-performance-judgement]]"
 ---
 # Judging Your RC/RL Filter's Performance
 

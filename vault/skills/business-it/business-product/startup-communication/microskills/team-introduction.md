@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Team Introduction"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Startup Communication"
-parent-competency: "L1- Pitch Deck Components"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/startup-communication/startup-communication|startup-communication]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/startup-communication/competencies/L1-pitch-deck-components|L1-pitch-deck-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Team Introduction

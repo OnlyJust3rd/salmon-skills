@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-implications-of-geometry|Data Access Implications of Geometry]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-implications-of-geometry|data-access-implications-of-geometry]]"
 ---
 # Data Access Implications of Disk Geometry
 

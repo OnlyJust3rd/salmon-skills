@@ -1,14 +1,15 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Infrastructure as Code Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-parent-competencies:
-  - "L1- Define IaC"
-  - "L1- IaC Concepts"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-define-iac|L1-define-iac]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-iac-concepts|L1-iac-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Infrastructure as Code Definition

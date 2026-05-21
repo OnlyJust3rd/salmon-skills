@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/physical-constraint-impact|Physical Constraint Impact]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/physical-constraint-impact|physical-constraint-impact]]"
 ---
 # Physical Constraints: The Real World's Influence on Your Circuits
 

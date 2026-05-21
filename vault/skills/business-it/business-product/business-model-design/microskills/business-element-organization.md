@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Business Element Organization"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Business Model Design"
-parent-competency: "L3- Apply BMC and Define Unfair Advantage"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/business-model-design/business-model-design|business-model-design]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/business-model-design/competencies/L2-apply-bmc-and-define-unfair-advantage|L2-apply-bmc-and-define-unfair-advantage]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Business Element Organization
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/business-model-design/busine
 
 Parent competency:
 
-- [[skills/business-it/business-product/business-model-design/competencies/L3-apply-bmc-and-define-unfair-advantage|L3- Apply BMC and Define Unfair Advantage]]
+- [[skills/business-it/business-product/business-model-design/competencies/L2-apply-bmc-and-define-unfair-advantage|L3- Apply BMC and Define Unfair Advantage]]
 
 ## Description
 

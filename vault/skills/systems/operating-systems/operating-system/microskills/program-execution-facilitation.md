@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Program Execution Facilitation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Operating System"
-parent-competency: "L2- OS Resource Management"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/operating-system/operating-system|operating-system]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-os-resource-management|L1-os-resource-management]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Program Execution Facilitation
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/operating-system/operating-syst
 
 Parent competency:
 
-- [[skills/systems/operating-systems/operating-system/competencies/L2-os-resource-management|L2- OS Resource Management]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-os-resource-management|L2- OS Resource Management]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/change-management-integration|Change Management Integration]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/change-management-integration|change-management-integration]]"
 ---
 # Understanding How Leadership and Culture Impact Change Initiatives
 

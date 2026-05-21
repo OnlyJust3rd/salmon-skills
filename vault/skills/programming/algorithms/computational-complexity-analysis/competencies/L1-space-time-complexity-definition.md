@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Space-Time Complexity Definition"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 231 - Algorithms"
-parent-macro: "Computational Complexity Analysis"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Computational Problem Solving"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/algorithms/computational-complexity-analysis/computational-complexity-analysis|computational-complexity-analysis]]"
+requires-microskills:
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/space-complexity-basics|space-complexity-basics]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/time-complexity-basics|time-complexity-basics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Space-Time Complexity Definition

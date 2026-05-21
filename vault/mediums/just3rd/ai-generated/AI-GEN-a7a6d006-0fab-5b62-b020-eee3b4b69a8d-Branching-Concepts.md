@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-version-control/microskills/branching-concepts|Branching Concepts]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/branching-concepts|branching-concepts]]"
 ---
 # Branching: Developing in Parallel
 

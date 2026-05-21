@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Co-Occurrence Matrix Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Feature Engineering"
-parent-competency: "L1- Define and Identify Text Representations"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-feature-engineering/competencies/L1-define-and-identify-text-representations|L1-define-and-identify-text-representations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Co-Occurrence Matrix Identification

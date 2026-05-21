@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/intelligent-robotic-behavior-generation|Intelligent Robotic Behavior Generation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/intelligent-robotic-behavior-generation|intelligent-robotic-behavior-generation]]"
 ---
 # Intelligent Robotic Behavior Generation with Subsumption Architecture
 

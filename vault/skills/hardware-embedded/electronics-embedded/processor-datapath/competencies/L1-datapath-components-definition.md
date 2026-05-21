@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Datapath Components Definition"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Processor Datapath"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Instruction Types"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-types|L1-instruction-types]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/processor-datapath/processor-datapath|processor-datapath]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/alu-definition|alu-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/bus-definition|bus-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/processor-datapath-components|processor-datapath-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/register-definition|register-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Datapath Components Definition

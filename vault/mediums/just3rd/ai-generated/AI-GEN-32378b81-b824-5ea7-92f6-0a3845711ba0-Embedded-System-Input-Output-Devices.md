@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/embedded-system-input-output-devices|Embedded System Input/Output Devices]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/embedded-system-input-output-devices|embedded-system-input-output-devices]]"
 ---
 # Embedded System Input/Output Devices: Sensors and Actuators
 

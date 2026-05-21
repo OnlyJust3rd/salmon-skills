@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/component-selection|Component Selection]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/component-selection|component-selection]]"
 ---
 # Component Selection: Building Blocks for Your Interfaces
 

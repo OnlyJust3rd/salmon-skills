@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-audio/microskills/audio-mixer|Audio Mixer]]"
+  - "[[skills/creative-media/game-development/game-audio/microskills/audio-mixer|audio-mixer]]"
 ---
 # Understanding the Audio Mixer: Routing and Balancing Sound Groups
 

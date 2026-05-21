@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-vector-table-management|Interrupt Vector Table Management]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-vector-table-management|interrupt-vector-table-management]]"
 ---
 # Managing the Interrupt Vector Table on AVR Microcontrollers
 

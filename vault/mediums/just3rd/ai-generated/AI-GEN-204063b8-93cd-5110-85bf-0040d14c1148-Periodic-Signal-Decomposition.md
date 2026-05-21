@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-analysis/microskills/periodic-signal-decomposition|Periodic Signal Decomposition]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/periodic-signal-decomposition|periodic-signal-decomposition]]"
 ---
 # Decomposing Periodic Signals into Sine and Cosine Terms
 

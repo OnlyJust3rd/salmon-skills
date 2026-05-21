@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/emotional-engagement-mechanisms|Emotional Engagement Mechanisms]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/emotional-engagement-mechanisms|emotional-engagement-mechanisms]]"
 ---
 # Emotional Engagement Mechanisms in Game Storytelling
 

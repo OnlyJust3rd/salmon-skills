@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Horizontal Scaling Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud Scalability"
-parent-competency: "L3- Implement VM Scale Sets"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-scalability/cloud-scalability|cloud-scalability]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-vm-scale-sets|L2-implement-vm-scale-sets]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Horizontal Scaling Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-scalability/cloud
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L3-implement-vm-scale-sets|L3- Implement VM Scale Sets]]
+- [[skills/cloud-devops/platform-engineering/cloud-scalability/competencies/L2-implement-vm-scale-sets|L3- Implement VM Scale Sets]]
 
 ## Description
 

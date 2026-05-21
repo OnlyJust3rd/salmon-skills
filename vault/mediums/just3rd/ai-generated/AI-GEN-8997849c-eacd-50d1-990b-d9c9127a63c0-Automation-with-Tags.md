@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/automation-with-tags|Automation with Tags]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/automation-with-tags|automation-with-tags]]"
 ---
 # Automation with Tags
 

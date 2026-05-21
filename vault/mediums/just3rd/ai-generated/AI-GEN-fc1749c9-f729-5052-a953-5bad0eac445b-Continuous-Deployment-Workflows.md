@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/gitops/microskills/continuous-deployment-workflows|Continuous Deployment Workflows]]"
+  - "[[skills/cloud-devops/platform-engineering/gitops/microskills/continuous-deployment-workflows|continuous-deployment-workflows]]"
 ---
 # Setting Up Automated Application Deployments with Git Commits
 

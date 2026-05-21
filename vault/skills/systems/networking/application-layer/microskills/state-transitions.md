@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "State Transitions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Application Layer"
-parent-competency: "L2- Explain HTTP/DNS message formats, flow, and states"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/application-layer/application-layer|application-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/application-layer/competencies/L1-explain-http-dns-message-formats-flow-and-states|L1-explain-http-dns-message-formats-flow-and-states]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # State Transitions
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/application-layer/application-layer|Ap
 
 Parent competency:
 
-- [[skills/systems/networking/application-layer/competencies/L2-explain-http-dns-message-formats-flow-and-states|L2- Explain HTTP/DNS message formats, flow, and states]]
+- [[skills/systems/networking/application-layer/competencies/L1-explain-http-dns-message-formats-flow-and-states|L2- Explain HTTP/DNS message formats, flow, and states]]
 
 ## Description
 

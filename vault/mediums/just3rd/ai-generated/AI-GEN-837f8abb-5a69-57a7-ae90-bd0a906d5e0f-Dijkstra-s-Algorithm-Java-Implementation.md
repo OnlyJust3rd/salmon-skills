@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/dijkstra-s-algorithm-java-implementation|Dijkstra's Algorithm Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/dijkstra-s-algorithm-java-implementation|dijkstra-s-algorithm-java-implementation]]"
 ---
 # Dijkstra's Algorithm: Finding the Shortest Path in Java
 

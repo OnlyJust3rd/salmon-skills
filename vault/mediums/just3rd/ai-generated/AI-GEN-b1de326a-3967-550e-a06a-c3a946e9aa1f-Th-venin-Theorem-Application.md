@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/thevenin-theorem-application|Thévenin Theorem Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/thevenin-theorem-application|thevenin-theorem-application]]"
 ---
 # Applying Thévenin's Theorem for Circuit Simplification
 

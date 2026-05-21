@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/human-oversight|Human Oversight]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/human-oversight|human-oversight]]"
 ---
 # Human Oversight in Claude Cowork
 

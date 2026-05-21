@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/asymmetric-algorithm-structural-components|Asymmetric Algorithm Structural Components]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/asymmetric-algorithm-structural-components|asymmetric-algorithm-structural-components]]"
 ---
 # Asymmetric Algorithm Structural Components
 

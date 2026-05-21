@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/css/microskills/layout-with-flexbox-or-grid|Layout with flexbox or grid]]"
+  - "[[skills/web-and-design/frontend-ux/css/microskills/layout-with-flexbox-or-grid|layout-with-flexbox-or-grid]]"
 ---
 # Layout with Flexbox or Grid
 

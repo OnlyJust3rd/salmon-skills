@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/error-correction-mechanisms|Error Correction Mechanisms]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/error-correction-mechanisms|error-correction-mechanisms]]"
 ---
 # Error Correction Mechanisms
 

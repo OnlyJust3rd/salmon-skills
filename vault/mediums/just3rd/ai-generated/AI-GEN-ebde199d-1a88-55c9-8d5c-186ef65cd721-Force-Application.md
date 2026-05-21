@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-physics/microskills/force-application|Force Application]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/force-application|force-application]]"
 ---
 # Applying Forces to Change Motion
 

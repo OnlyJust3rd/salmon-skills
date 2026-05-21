@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Branch and Bound Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Algorithms"
-parent-competency: "L3- Implement Algorithm Techniques"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithms/algorithms|algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithms/competencies/L2-implement-algorithm-techniques|L2-implement-algorithm-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Branch and Bound Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithms/algorithms|Algorithms]]
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithms/competencies/L3-implement-algorithm-techniques|L3- Implement Algorithm Techniques]]
+- [[skills/programming/algorithms/algorithms/competencies/L2-implement-algorithm-techniques|L3- Implement Algorithm Techniques]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "ADC Resolution and Speed"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Microcontroller Architecture"
-parent-competency: "L4- AVR Peripheral Differentiation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/avr-microcontroller-architecture|avr-microcontroller-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L3-avr-peripheral-differentiation|L3-avr-peripheral-differentiation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # ADC Resolution and Speed
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/avr-microcontrolle
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L4-avr-peripheral-differentiation|L4- AVR Peripheral Differentiation]]
+- [[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/competencies/L3-avr-peripheral-differentiation|L4- AVR Peripheral Differentiation]]
 
 ## Description
 

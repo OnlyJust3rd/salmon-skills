@@ -1,17 +1,23 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Lab Equipment Functions"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Laboratory Equipment Operation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 7
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/laboratory-equipment-operation|laboratory-equipment-operation]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/electronics-measurement-instruments|electronics-measurement-instruments]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/laboratory-equipment-functions|laboratory-equipment-functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/laboratory-equipment-types|laboratory-equipment-types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/multimeter-basic-operations|multimeter-basic-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscillator-basic-operations|oscillator-basic-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscilloscope-basic-operations|oscilloscope-basic-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/power-regulator-basic-operations|power-regulator-basic-operations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Lab Equipment Functions

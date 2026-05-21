@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Cloud Network Isolation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Layer"
-parent-competency: "L2- VPC Functionality"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-layer/network-layer|network-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-layer/competencies/L1-vpc-functionality|L1-vpc-functionality]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Cloud Network Isolation
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-layer/network-layer|Network La
 
 Parent competency:
 
-- [[skills/systems/networking/network-layer/competencies/L2-vpc-functionality|L2- VPC Functionality]]
+- [[skills/systems/networking/network-layer/competencies/L1-vpc-functionality|L2- VPC Functionality]]
 
 ## Description
 

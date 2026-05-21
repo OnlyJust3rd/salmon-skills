@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Transformer Models for Summarization"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Summarization"
-parent-competency: "L2- Explain Summarization Principles and Approaches"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-summarization/text-summarization|text-summarization]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-summarization/competencies/L1-explain-summarization-principles-and-approaches|L1-explain-summarization-principles-and-approaches]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Transformer Models for Summarization
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-summarization/text-summarization|T
 
 Parent competency:
 
-- [[skills/data/data-science/text-summarization/competencies/L2-explain-summarization-principles-and-approaches|L2- Explain Summarization Principles and Approaches]]
+- [[skills/data/data-science/text-summarization/competencies/L1-explain-summarization-principles-and-approaches|L2- Explain Summarization Principles and Approaches]]
 
 ## Description
 

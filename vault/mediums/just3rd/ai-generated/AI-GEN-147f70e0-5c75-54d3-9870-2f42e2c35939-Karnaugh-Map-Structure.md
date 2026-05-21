@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/karnaugh-map-structure|Karnaugh Map Structure]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/karnaugh-map-structure|karnaugh-map-structure]]"
 ---
 # Karnaugh Map Structure
 

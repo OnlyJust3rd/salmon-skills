@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-2-use-cases|Type-2 Use Cases]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-2-use-cases|type-2-use-cases]]"
 ---
 # Type-2 Hypervisor Use Cases: When Simplicity Trumps Raw Performance
 

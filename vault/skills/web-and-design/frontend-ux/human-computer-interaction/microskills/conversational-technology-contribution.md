@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Conversational Technology Contribution"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human-Computer Interaction"
-parent-competency: "L2- Conversational Tech & UX"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-conversational-tech-ux|L1-conversational-tech-ux]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Conversational Technology Contribution
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/human-computer-interaction/hum
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L2-conversational-tech-ux|L2- Conversational Tech & UX]]
+- [[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-conversational-tech-ux|L2- Conversational Tech & UX]]
 
 ## Description
 

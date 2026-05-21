@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/points-and-lines|Points and Lines]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/points-and-lines|points-and-lines]]"
 ---
 # Points and Lines: The Building Blocks of Graphics
 

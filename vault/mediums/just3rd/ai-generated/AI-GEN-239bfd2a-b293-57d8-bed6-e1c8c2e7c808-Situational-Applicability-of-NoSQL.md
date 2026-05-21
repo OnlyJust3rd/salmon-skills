@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/situational-applicability-of-nosql|Situational Applicability of NoSQL]]"
+  - "[[skills/data/databases/nosql-database/microskills/situational-applicability-of-nosql|situational-applicability-of-nosql]]"
 ---
 # When NoSQL Shines: Situational Applicability
 

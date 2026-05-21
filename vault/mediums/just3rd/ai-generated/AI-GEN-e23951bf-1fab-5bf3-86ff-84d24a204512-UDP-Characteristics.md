@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/transport-layer/microskills/udp-characteristics|UDP Characteristics]]"
+  - "[[skills/systems/networking/transport-layer/microskills/udp-characteristics|udp-characteristics]]"
 ---
 # UDP Characteristics: The Lightweight of the Transport Layer
 

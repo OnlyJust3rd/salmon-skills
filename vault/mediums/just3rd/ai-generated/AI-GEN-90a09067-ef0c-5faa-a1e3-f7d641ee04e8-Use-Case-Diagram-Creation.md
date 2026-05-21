@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/use-case-diagram-creation|Use Case Diagram Creation]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/use-case-diagram-creation|use-case-diagram-creation]]"
 ---
 # Creating Use Case Diagrams: Visualizing System Functionality
 

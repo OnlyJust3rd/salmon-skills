@@ -1,18 +1,37 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Machine Instruction"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 223 - Computer Architectures"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 5
-microskill-count: 15
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-223-computer-architectures"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-types|L1-instruction-types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-execution-understanding|L1-instruction-execution-understanding]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-apply-and-evaluate-assembly-programs|L2-apply-and-evaluate-assembly-programs]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-control-logic-implementation|L2-control-logic-implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L3-analyze-architectures|L3-analyze-architectures]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-apply-and-evaluate-assembly-programs|L2-apply-and-evaluate-assembly-programs]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-control-logic-implementation|L2-control-logic-implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L3-analyze-architectures|L3-analyze-architectures]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/addressing-mode-differentiation|addressing-mode-differentiation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/addressing-modes-application|addressing-modes-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/assembly-language-program-assessment|assembly-language-program-assessment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/assembly-language-program-construction|assembly-language-program-construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/datapath-control|datapath-control]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-control-logic|instruction-control-logic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-execution-sequence|instruction-execution-sequence]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-execution-stages|instruction-execution-stages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-sequencing-application|instruction-sequencing-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/machine-instruction-categorization|machine-instruction-categorization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/machine-instruction-sequencing-analysis|machine-instruction-sequencing-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/operational-principles-of-instruction-execution|operational-principles-of-instruction-execution]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/register-transfer-notation-analysis|register-transfer-notation-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/register-transfer-notation-application|register-transfer-notation-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/risc-vs-cisc-architectures|risc-vs-cisc-architectures]]"
 ---
 
 # Machine Instruction
@@ -21,11 +40,11 @@ Analyzing machine instruction sequencing, register transfer notations, and vario
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L4-analyze-architectures|L4- Analyze Architectures]]
-- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L3-control-logic-implementation|L3- Control Logic Implementation]]
+- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L3-analyze-architectures|L4- Analyze Architectures]]
+- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-control-logic-implementation|L3- Control Logic Implementation]]
 - [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-types|L1- Instruction Types]]
-- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L3-apply-and-evaluate-assembly-programs|L3- Apply and Evaluate Assembly Programs]]
-- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-instruction-execution-understanding|L2- Instruction Execution Understanding]]
+- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-apply-and-evaluate-assembly-programs|L3- Apply and Evaluate Assembly Programs]]
+- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-execution-understanding|L2- Instruction Execution Understanding]]
 
 ## Microskills
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interface Characteristics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human-Computer Interaction"
-parent-competency: "L1- UI Paradigm History & Identification"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/competencies/L1-ui-paradigm-history-identification|L1-ui-paradigm-history-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interface Characteristics

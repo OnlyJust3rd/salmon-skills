@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-benefits|Serverless Architecture Benefits]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-benefits|serverless-architecture-benefits]]"
 ---
 # Understanding the Benefits of Serverless Architecture
 

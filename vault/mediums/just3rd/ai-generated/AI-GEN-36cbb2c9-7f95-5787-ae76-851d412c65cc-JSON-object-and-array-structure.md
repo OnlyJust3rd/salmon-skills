@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/json-format/microskills/json-object-and-array-structure|JSON object and array structure]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-object-and-array-structure|json-object-and-array-structure]]"
 ---
 # Understanding JSON Object and Array Structure
 

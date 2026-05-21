@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/simulation-initiation|Simulation Initiation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/simulation-initiation|simulation-initiation]]"
 ---
 # Initiating Simulations in Proteus 8
 

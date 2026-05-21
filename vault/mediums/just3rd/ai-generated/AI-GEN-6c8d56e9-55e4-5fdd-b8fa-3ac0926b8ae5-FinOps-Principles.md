@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/finops-principles|FinOps Principles]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/finops-principles|finops-principles]]"
 ---
 # FinOps Principles: The Foundation of Cloud Financial Management
 

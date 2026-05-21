@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/control-signal-derivation|Control Signal Derivation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/control-signal-derivation|control-signal-derivation]]"
 ---
 # Deriving Control Signals for Datapath Execution
 

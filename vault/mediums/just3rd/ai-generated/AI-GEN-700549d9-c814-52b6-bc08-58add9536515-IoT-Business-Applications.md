@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-business-applications|IoT Business Applications]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-business-applications|iot-business-applications]]"
 ---
 # Understanding IoT Business Applications
 

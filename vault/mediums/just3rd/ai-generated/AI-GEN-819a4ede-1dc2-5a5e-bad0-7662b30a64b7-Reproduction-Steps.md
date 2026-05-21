@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/reproduction-steps|Reproduction Steps]]"
+  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/reproduction-steps|reproduction-steps]]"
 ---
 # Reproducing Technical Issues: The First Step to Resolution
 

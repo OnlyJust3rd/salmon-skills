@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/multimeter-principles-of-operation|Multimeter Principles of Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/multimeter-principles-of-operation|multimeter-principles-of-operation]]"
 ---
 # Understanding How a Multimeter Works
 

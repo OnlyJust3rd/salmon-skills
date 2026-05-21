@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/cross-industry-ai-examples|Cross-Industry AI Examples]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/cross-industry-ai-examples|cross-industry-ai-examples]]"
 ---
 # Cross-Industry AI Examples
 

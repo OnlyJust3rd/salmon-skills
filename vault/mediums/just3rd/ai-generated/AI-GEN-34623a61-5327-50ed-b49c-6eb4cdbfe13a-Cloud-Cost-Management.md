@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cloud-cost-management|Cloud Cost Management]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cloud-cost-management|cloud-cost-management]]"
 ---
 # Cloud Cost Management: Tracking Your Cloud Spend
 

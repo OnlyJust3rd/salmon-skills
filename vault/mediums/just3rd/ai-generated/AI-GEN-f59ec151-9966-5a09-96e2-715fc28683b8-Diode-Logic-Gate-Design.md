@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-logic-gate-design|Diode Logic Gate Design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-logic-gate-design|diode-logic-gate-design]]"
 ---
 # Diode Logic Gate Design
 

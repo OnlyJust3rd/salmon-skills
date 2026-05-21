@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/fuzzy-logic-principles|Fuzzy Logic Principles]]"
+  - "[[skills/data/ai/soft-computing/microskills/fuzzy-logic-principles|fuzzy-logic-principles]]"
 ---
 # Fuzzy Logic Principles: Remembering the Core Ideas
 

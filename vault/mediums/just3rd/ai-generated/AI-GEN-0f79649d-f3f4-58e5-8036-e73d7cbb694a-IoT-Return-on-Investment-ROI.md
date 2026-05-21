@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-return-on-investment-roi|IoT Return on Investment (ROI)]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-return-on-investment-roi|iot-return-on-investment-roi]]"
 ---
 # Understanding IoT Return on Investment (ROI)
 

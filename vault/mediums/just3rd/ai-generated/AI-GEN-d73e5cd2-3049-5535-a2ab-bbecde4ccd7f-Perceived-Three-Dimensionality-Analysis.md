@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/perceived-three-dimensionality-analysis|Perceived Three-Dimensionality Analysis]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/perceived-three-dimensionality-analysis|perceived-three-dimensionality-analysis]]"
 ---
 # Analyzing Perceived Three-Dimensionality
 

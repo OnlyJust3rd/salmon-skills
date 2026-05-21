@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-atomicity|Compare-and-Swap Atomicity]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-atomicity|compare-and-swap-atomicity]]"
 ---
 # Analyze Compare-and-Swap Atomicity
 

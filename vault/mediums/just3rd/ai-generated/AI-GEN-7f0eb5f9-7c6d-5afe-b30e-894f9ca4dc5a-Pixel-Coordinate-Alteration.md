@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-coordinate-alteration|Pixel Coordinate Alteration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-coordinate-alteration|pixel-coordinate-alteration]]"
 ---
 # Pixel Coordinate Alteration in Image Transformations
 

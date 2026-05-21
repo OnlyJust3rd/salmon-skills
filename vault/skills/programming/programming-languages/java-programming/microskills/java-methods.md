@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Java Methods"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Java Programming"
-parent-competency: "L1- Identify Java Class Components"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/java-programming/java-programming|java-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/java-programming/competencies/L1-identify-java-class-components|L1-identify-java-class-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Java Methods

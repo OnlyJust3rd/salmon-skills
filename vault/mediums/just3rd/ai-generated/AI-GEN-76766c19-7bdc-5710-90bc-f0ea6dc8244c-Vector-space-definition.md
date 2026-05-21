@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/vector-space-definition|Vector space definition]]"
+  - "[[skills/mathematics/vector-space/microskills/vector-space-definition|vector-space-definition]]"
 ---
 # Understanding the Axioms of a Vector Space
 

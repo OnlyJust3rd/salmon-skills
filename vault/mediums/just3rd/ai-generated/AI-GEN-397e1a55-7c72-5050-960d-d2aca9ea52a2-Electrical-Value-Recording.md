@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/electrical-value-recording|Electrical Value Recording]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/electrical-value-recording|electrical-value-recording]]"
 ---
 # Recording Electrical Measurements Systematically
 

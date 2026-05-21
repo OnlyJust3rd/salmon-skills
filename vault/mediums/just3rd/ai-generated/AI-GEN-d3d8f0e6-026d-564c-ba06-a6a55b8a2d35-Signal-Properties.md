@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/signal-properties|Signal Properties]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/signal-properties|signal-properties]]"
 ---
 # Understanding Signal Properties in Data Transmission
 

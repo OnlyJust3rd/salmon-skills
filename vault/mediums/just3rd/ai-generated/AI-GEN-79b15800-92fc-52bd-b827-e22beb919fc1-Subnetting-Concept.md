@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/subnetting-concept|Subnetting Concept]]"
+  - "[[skills/systems/networking/network-layer/microskills/subnetting-concept|subnetting-concept]]"
 ---
 # Understanding Subnetting: Dividing the IP Address Space
 

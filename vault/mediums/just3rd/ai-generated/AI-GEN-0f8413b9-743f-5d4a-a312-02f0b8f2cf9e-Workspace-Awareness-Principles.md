@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/workspace-awareness-principles|Workspace Awareness Principles]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/workspace-awareness-principles|workspace-awareness-principles]]"
 ---
 # Workspace Awareness Principles in Conversational Technologies
 

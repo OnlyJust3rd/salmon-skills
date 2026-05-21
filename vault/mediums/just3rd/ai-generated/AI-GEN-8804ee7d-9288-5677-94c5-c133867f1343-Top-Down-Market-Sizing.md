@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/top-down-market-sizing|Top-Down Market Sizing]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/top-down-market-sizing|top-down-market-sizing]]"
 ---
 # Top-Down Market Sizing
 

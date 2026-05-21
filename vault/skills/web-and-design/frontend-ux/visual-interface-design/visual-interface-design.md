@@ -1,22 +1,35 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Visual Interface Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-coverage:
-  - "Concept"
-  - "Representation"
-  - "Implementation"
-competency-count: 5
-microskill-count: 15
-related-jobs:
-  - "Frontend Developer"
-  - "Mobile Application Developer"
-  - "UX/UI Designer"
-  - "Game UI/UX Designer"
-source-note: "courses/kmutt/cpe-2021/cpe-363-human-computer-interaction"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-list-ui-elements-and-principles|L1-list-ui-elements-and-principles]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-visual-hierarchy-principles|L1-visual-hierarchy-principles]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-compare-interaction-styles|L1-compare-interaction-styles]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-understand-ui-design-factors|L1-understand-ui-design-factors]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L2-design-interface-solutions|L2-design-interface-solutions]]"
+standard-competency:
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L2-design-interface-solutions|L2-design-interface-solutions]]"
+microskills:
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/design-principle-application|design-principle-application]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/fundamental-design-principles|fundamental-design-principles]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interaction-style-comparison|interaction-style-comparison]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interaction-style-consideration|interaction-style-consideration]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interface-design-alternatives|interface-design-alternatives]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interface-element-organization|interface-element-organization]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/strengths-and-weaknesses|strengths-and-weaknesses]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-factors-explanation|usability-factors-explanation]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-focused-design|usability-focused-design]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-heuristics|usability-heuristics]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-experience-influence|user-experience-influence]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-interaction-methods|user-interaction-methods]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-interface-elements|user-interface-elements]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/visual-aesthetics-impact|visual-aesthetics-impact]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/visual-hierarchy-principles|visual-hierarchy-principles]]"
 ---
 
 # Visual Interface Design
@@ -26,10 +39,10 @@ Design effective user interfaces by applying interaction styles, usability princ
 ## Competencies
 
 - [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-visual-hierarchy-principles|L1- Visual Hierarchy Principles]]
-- [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L3-design-interface-solutions|L3- Design Interface Solutions]]
+- [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L2-design-interface-solutions|L3- Design Interface Solutions]]
 - [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-list-ui-elements-and-principles|L1- List UI Elements and Principles]]
-- [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L2-understand-ui-design-factors|L2- Understand UI Design Factors]]
-- [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L2-compare-interaction-styles|L2- Compare Interaction Styles]]
+- [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-understand-ui-design-factors|L2- Understand UI Design Factors]]
+- [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L1-compare-interaction-styles|L2- Compare Interaction Styles]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-analysis/microskills/discrete-time-fourier-series-dtfs-definition|Discrete-Time Fourier Series (DTFS) Definition]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/discrete-time-fourier-series-dtfs-definition|discrete-time-fourier-series-dtfs-definition]]"
 ---
 # Discrete-Time Fourier Series (DTFS) Definition
 

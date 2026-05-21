@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/geffe-generator-mechanics|Geffe Generator Mechanics]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/geffe-generator-mechanics|geffe-generator-mechanics]]"
 ---
 # Geffe Generator Mechanics
 

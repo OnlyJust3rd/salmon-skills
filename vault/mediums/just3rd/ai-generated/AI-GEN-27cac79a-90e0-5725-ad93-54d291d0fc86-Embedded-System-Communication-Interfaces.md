@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/embedded-system-communication-interfaces|Embedded System Communication Interfaces]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/embedded-system-communication-interfaces|embedded-system-communication-interfaces]]"
 ---
 # Embedded System Communication Interfaces
 

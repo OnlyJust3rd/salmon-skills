@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/rl-filter-cutoff-frequency-calculation|RL Filter Cutoff Frequency Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/rl-filter-cutoff-frequency-calculation|rl-filter-cutoff-frequency-calculation]]"
 ---
 # RL Filter Cutoff Frequency Calculation
 

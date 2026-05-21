@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/problem-validation-process|Problem Validation Process]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/problem-validation-process|problem-validation-process]]"
 ---
 # Validating Problems Through Customer Discovery Interviews
 

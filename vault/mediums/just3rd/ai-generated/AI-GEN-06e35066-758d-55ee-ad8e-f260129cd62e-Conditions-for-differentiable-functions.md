@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/conditions-for-differentiable-functions|Conditions for differentiable functions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/conditions-for-differentiable-functions|conditions-for-differentiable-functions]]"
 ---
 # Differentiability: The Foundation for Calculus Theorems
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalues-in-diagonal-matrix-d|Eigenvalues in diagonal matrix D]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalues-in-diagonal-matrix-d|eigenvalues-in-diagonal-matrix-d]]"
 ---
 # Eigenvalues as Diagonal Entries in Diagonalization
 

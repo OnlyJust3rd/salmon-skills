@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/prototype-performance-assessment|Prototype Performance Assessment]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/prototype-performance-assessment|prototype-performance-assessment]]"
 ---
 # Prototype Performance Assessment: Evaluating Effectiveness
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/backtracking-algorithm-implementation|Backtracking Algorithm Implementation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/backtracking-algorithm-implementation|backtracking-algorithm-implementation]]"
 ---
 # Implementing Backtracking Algorithms in Java
 

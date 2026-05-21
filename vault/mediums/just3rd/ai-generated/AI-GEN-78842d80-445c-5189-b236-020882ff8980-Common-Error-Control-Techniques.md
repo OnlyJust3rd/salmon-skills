@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/common-error-control-techniques|Common Error Control Techniques]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/common-error-control-techniques|common-error-control-techniques]]"
 ---
 # Common Error Control Techniques
 

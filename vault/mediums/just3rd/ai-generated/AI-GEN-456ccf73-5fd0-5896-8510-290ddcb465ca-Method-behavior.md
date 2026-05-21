@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/method-behavior|Method behavior]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/method-behavior|method-behavior]]"
 ---
 # Method Behavior: Attaching Operations to Types and Objects
 

@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List key principles and foundations"
 tags:
   - "cpe"
   - "competency"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Asymmetric Algorithm Mechanics"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and Identify Number Theory Concepts"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/competencies/L1-define-and-identify-number-theory-concepts|L1-define-and-identify-number-theory-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/asymmetric-algorithm-mechanics|asymmetric-algorithm-mechanics]]"
+requires-microskills:
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/core-concepts-for-el-gamal|core-concepts-for-el-gamal]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/core-concepts-for-rsa|core-concepts-for-rsa]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/diffie-hellman-key-agreement-principles|diffie-hellman-key-agreement-principles]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/el-gamal-principles|el-gamal-principles]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/rsa-principles|rsa-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List key principles and foundations

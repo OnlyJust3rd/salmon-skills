@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/authentication-principles|Authentication Principles]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/authentication-principles|authentication-principles]]"
 ---
 # Authentication: Proving You Are Who You Say You Are
 

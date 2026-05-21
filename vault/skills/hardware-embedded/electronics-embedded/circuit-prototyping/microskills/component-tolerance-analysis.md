@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Component Tolerance Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Circuit Prototyping"
-parent-competency: "L4- Analyze Prototype Circuit Behavior"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/circuit-prototyping|circuit-prototyping]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L3-analyze-prototype-circuit-behavior|L3-analyze-prototype-circuit-behavior]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Component Tolerance Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/circuit-prototypin
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L4-analyze-prototype-circuit-behavior|L4- Analyze Prototype Circuit Behavior]]
+- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L3-analyze-prototype-circuit-behavior|L4- Analyze Prototype Circuit Behavior]]
 
 ## Description
 

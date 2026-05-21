@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Python Visualization Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Visualization"
-parent-competency: "L3- Problem-Solving Visualization"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-visualization/data-visualization|data-visualization]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-visualization/competencies/L2-problem-solving-visualization|L2-problem-solving-visualization]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Python Visualization Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-visualization/data-visualization
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-visualization/competencies/L3-problem-solving-visualization|L3- Problem-Solving Visualization]]
+- [[skills/data/data-platforms/data-visualization/competencies/L2-problem-solving-visualization|L3- Problem-Solving Visualization]]
 
 ## Description
 

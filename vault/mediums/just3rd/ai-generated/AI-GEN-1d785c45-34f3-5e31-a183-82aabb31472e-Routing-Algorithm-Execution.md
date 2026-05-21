@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/routing-algorithm-execution|Routing Algorithm Execution]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/routing-algorithm-execution|routing-algorithm-execution]]"
 ---
 # Routing Algorithm Execution: Tracing a Packet's Journey
 

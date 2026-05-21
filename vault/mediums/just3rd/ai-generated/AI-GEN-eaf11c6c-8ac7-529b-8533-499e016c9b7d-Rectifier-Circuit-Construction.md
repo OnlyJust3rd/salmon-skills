@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/rectifier-circuit-construction|Rectifier Circuit Construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/rectifier-circuit-construction|rectifier-circuit-construction]]"
 ---
 # Rectifier Circuit Construction
 

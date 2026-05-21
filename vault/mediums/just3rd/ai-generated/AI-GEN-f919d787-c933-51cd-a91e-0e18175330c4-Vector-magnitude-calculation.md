@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/vector-magnitude-calculation|Vector magnitude calculation]]"
+  - "[[skills/mathematics/vector/microskills/vector-magnitude-calculation|vector-magnitude-calculation]]"
 ---
 # Calculating Vector Magnitude
 

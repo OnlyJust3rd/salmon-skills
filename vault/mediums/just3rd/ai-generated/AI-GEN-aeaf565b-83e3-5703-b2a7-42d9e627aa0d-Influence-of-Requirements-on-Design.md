@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/influence-of-requirements-on-design|Influence of Requirements on Design]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/influence-of-requirements-on-design|influence-of-requirements-on-design]]"
 ---
 # How Requirements Shape System Design
 

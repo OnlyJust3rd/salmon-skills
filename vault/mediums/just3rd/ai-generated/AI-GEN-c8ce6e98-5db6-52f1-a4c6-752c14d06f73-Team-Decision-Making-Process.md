@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/team-decision-making-process|Team Decision-Making Process]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/team-decision-making-process|team-decision-making-process]]"
 ---
 # Documenting Team Decisions: Applying the Rationale Management Process
 

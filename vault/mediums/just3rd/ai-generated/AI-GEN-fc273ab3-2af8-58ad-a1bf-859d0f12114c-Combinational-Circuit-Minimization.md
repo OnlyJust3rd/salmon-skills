@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/combinational-circuit-minimization|Combinational Circuit Minimization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/combinational-circuit-minimization|combinational-circuit-minimization]]"
 ---
 # Combinational Circuit Minimization with K-maps
 

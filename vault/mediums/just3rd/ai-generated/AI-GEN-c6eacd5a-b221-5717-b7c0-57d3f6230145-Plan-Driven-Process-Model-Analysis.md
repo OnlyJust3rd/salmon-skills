@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/plan-driven-process-model-analysis|Plan-Driven Process Model Analysis]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/plan-driven-process-model-analysis|plan-driven-process-model-analysis]]"
 ---
 # Analyzing Plan-Driven Process Models: Waterfall, Incremental, and Reuse-Oriented
 

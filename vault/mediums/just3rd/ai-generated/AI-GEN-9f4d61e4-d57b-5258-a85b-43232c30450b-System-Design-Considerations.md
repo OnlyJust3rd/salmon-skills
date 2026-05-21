@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/system-design-considerations|System Design Considerations]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/system-design-considerations|system-design-considerations]]"
 ---
 # System Design Considerations
 

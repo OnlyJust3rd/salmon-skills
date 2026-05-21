@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Serverless Architecture Benefits"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "HPC Cluster Management"
-parent-competency: "L2- Serverless Architecture Concepts and Benefits"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/hpc-cluster-management/hpc-cluster-management|hpc-cluster-management]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/competencies/L1-serverless-architecture-concepts-and-benefits|L1-serverless-architecture-concepts-and-benefits]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Serverless Architecture Benefits
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/hpc-cluster-management
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/hpc-cluster-management/competencies/L2-serverless-architecture-concepts-and-benefits|L2- Serverless Architecture Concepts and Benefits]]
+- [[skills/systems/high-performance-computing/hpc-cluster-management/competencies/L1-serverless-architecture-concepts-and-benefits|L2- Serverless Architecture Concepts and Benefits]]
 
 ## Description
 

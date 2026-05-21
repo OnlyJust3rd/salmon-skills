@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-principles|Digital Ciphering Principles]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-principles|digital-ciphering-principles]]"
 ---
 # Understanding Digital Ciphering Principles for Speech Security
 

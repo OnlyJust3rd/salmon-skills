@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/strengths-and-weaknesses|Strengths and Weaknesses]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/strengths-and-weaknesses|strengths-and-weaknesses]]"
 ---
 # Understanding Strengths and Weaknesses of Interaction Styles
 

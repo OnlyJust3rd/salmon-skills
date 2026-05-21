@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-architecture-performance|Pipelined Architecture Performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-architecture-performance|pipelined-architecture-performance]]"
 ---
 # Analyzing Pipelined Architecture Performance
 

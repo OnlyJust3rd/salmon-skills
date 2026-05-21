@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-analysis/microskills/sine-and-cosine-component-identification|Sine and Cosine Component Identification]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/sine-and-cosine-component-identification|sine-and-cosine-component-identification]]"
 ---
 # Identifying Sine and Cosine Components in Signal Decomposition
 

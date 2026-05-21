@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/common-industrial-computing-uses|Common Industrial Computing Uses]]"
+  - "[[skills/data/ai/soft-computing/microskills/common-industrial-computing-uses|common-industrial-computing-uses]]"
 ---
 # Common Industrial Computing Uses
 

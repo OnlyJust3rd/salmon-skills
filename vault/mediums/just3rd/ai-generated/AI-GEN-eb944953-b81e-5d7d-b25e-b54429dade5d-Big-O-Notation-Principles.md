@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/big-o-notation-principles|Big O Notation Principles]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/big-o-notation-principles|big-o-notation-principles]]"
 ---
 # Understanding Big O Notation
 

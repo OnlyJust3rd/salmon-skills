@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Peak Signal-to-Noise Ratio (PSNR)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Watermarking Performance and Attacks"
-parent-competency: "L5- Evaluate Watermarking Performance"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|watermarking-performance-and-attacks]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-evaluate-watermarking-performance|L3-evaluate-watermarking-performance]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Peak Signal-to-Noise Ratio (PSNR)
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/watermarking-performance-and-attac
 
 Parent competency:
 
-- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L5-evaluate-watermarking-performance|L5- Evaluate Watermarking Performance]]
+- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-evaluate-watermarking-performance|L5- Evaluate Watermarking Performance]]
 
 ## Description
 

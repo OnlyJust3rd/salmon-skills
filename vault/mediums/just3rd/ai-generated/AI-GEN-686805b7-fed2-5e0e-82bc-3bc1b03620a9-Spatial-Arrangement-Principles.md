@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/level-design/microskills/spatial-arrangement-principles|Spatial Arrangement Principles]]"
+  - "[[skills/creative-media/game-development/level-design/microskills/spatial-arrangement-principles|spatial-arrangement-principles]]"
 ---
 # Spatial Arrangement Principles for Level Design
 

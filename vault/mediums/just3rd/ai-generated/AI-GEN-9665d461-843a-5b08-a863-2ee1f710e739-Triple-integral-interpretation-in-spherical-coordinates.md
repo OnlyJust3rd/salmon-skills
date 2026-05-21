@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-interpretation-in-spherical-coordinates|Triple integral interpretation in spherical coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-interpretation-in-spherical-coordinates|triple-integral-interpretation-in-spherical-coordinates]]"
 ---
 # Geometric Interpretation of Triple Integrals in Spherical Coordinates
 

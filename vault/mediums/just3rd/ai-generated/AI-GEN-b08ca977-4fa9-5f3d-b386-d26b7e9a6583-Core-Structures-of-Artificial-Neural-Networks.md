@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/core-structures-of-artificial-neural-networks|Core Structures of Artificial Neural Networks]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/core-structures-of-artificial-neural-networks|core-structures-of-artificial-neural-networks]]"
 ---
 # Core Structures of Artificial Neural Networks
 

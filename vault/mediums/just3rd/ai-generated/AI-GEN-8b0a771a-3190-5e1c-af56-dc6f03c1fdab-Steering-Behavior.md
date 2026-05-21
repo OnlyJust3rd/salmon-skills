@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ai/microskills/steering-behavior|Steering Behavior]]"
+  - "[[skills/creative-media/game-development/game-ai/microskills/steering-behavior|steering-behavior]]"
 ---
 # Steering Behavior: Guiding AI Movement
 

@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/model-view-controller-mvc|Model-View-Controller (MVC)]]"
-  - "[[skills/programming/software-engineering/software-engineering/microskills/model-view-controller-mvc|Model-View-Controller (MVC)]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/model-view-controller-mvc|model-view-controller-mvc]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/model-view-controller-mvc|model-view-controller-mvc]]"
 ---
 # Understanding the Model-View-Controller (MVC) Architectural Pattern
 

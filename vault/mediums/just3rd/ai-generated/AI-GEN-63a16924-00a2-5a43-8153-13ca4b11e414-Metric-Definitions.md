@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/metric-definitions|Metric Definitions]]"
+  - "[[skills/systems/networking/network-performance/microskills/metric-definitions|metric-definitions]]"
 ---
 # Understanding Network Performance Metrics: Throughput, Latency, and Jitter
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/golden-signals-tracking|Golden Signals Tracking]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/golden-signals-tracking|golden-signals-tracking]]"
 ---
 # Tracking the Golden Signals: Latency, Traffic, Errors, and Saturation
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Clocking Mechanism Understanding"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Verilog HDL Modeling"
-parent-competency: "L4- Analyze Verilog Counter Model"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/verilog-hdl-modeling|verilog-hdl-modeling]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L3-analyze-verilog-counter-model|L3-analyze-verilog-counter-model]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Clocking Mechanism Understanding
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeli
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L4-analyze-verilog-counter-model|L4- Analyze Verilog Counter Model]]
+- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L3-analyze-verilog-counter-model|L4- Analyze Verilog Counter Model]]
 
 ## Description
 

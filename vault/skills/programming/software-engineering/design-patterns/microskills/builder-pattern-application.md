@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Builder Pattern Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Design Patterns"
-parent-competency: "L3- Apply Design Patterns"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/design-patterns/design-patterns|design-patterns]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/design-patterns/competencies/L2-apply-design-patterns|L2-apply-design-patterns]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Builder Pattern Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/design-patterns/design-p
 
 Parent competency:
 
-- [[skills/programming/software-engineering/design-patterns/competencies/L3-apply-design-patterns|L3- Apply Design Patterns]]
+- [[skills/programming/software-engineering/design-patterns/competencies/L2-apply-design-patterns|L3- Apply Design Patterns]]
 
 ## Description
 

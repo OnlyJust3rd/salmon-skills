@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/scalability-requirements|Scalability Requirements]]"
+  - "[[skills/data/databases/nosql-database/microskills/scalability-requirements|scalability-requirements]]"
 ---
 # Understanding NoSQL Scalability Use Cases
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/considerations-for-real-world-deployment|Considerations for Real-World Deployment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/considerations-for-real-world-deployment|considerations-for-real-world-deployment]]"
 ---
 # Considerations for Real-World Deployment in Evolutionary Robotics
 

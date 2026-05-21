@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Space Complexity Basics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Computational Complexity Analysis"
-parent-competency: "L1- Space-Time Complexity Definition"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/computational-complexity-analysis/computational-complexity-analysis|computational-complexity-analysis]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/computational-complexity-analysis/competencies/L1-space-time-complexity-definition|L1-space-time-complexity-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Space Complexity Basics

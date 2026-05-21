@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/waveform-generation|Waveform Generation]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/waveform-generation|waveform-generation]]"
 ---
 # Generating Waveforms with AVR Timers
 

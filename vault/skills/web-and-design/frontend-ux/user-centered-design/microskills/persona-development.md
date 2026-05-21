@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Persona Development"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "User-Centered Design"
-parent-competency: "L3- Model user interactions"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/user-centered-design/user-centered-design|user-centered-design]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/competencies/L2-model-user-interactions|L2-model-user-interactions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Persona Development
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/user-centered-design/user-cent
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/user-centered-design/competencies/L3-model-user-interactions|L3- Model user interactions]]
+- [[skills/web-and-design/frontend-ux/user-centered-design/competencies/L2-model-user-interactions|L3- Model user interactions]]
 
 ## Description
 

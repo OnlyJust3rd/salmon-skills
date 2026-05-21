@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Media Comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Physical Layer Protocol"
-parent-competency: "L2- Guided vs. Unguided Media"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/physical-layer-protocol/physical-layer-protocol|physical-layer-protocol]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/physical-layer-protocol/competencies/L1-guided-vs-unguided-media|L1-guided-vs-unguided-media]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Media Comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/physical-layer-protocol/physical-layer
 
 Parent competency:
 
-- [[skills/systems/networking/physical-layer-protocol/competencies/L2-guided-vs-unguided-media|L2- Guided vs. Unguided Media]]
+- [[skills/systems/networking/physical-layer-protocol/competencies/L1-guided-vs-unguided-media|L2- Guided vs. Unguided Media]]
 
 ## Description
 

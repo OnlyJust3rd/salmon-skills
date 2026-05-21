@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/simplified-system-analysis-with-lti-properties|Simplified System Analysis with LTI Properties]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/simplified-system-analysis-with-lti-properties|simplified-system-analysis-with-lti-properties]]"
 ---
 # Simplifying System Analysis with LTI Properties
 

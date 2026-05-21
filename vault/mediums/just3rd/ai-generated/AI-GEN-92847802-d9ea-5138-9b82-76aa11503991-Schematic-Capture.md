@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/schematic-capture|Schematic Capture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/schematic-capture|schematic-capture]]"
 ---
 # Schematic Capture: The Blueprint of Your PCB Design
 

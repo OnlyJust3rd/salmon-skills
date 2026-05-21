@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-disk-i-o-management|Virtual Disk I/O Management]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-disk-i-o-management|virtual-disk-i-o-management]]"
 ---
 # Virtual Disk I/O Management
 

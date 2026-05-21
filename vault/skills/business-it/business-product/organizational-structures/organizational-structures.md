@@ -1,16 +1,20 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Organizational Structures"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 4
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-301-professional-issues-in-computer-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/organizational-structures/competencies/L1-characteristics-and-pros-cons-of-structures|L1-characteristics-and-pros-cons-of-structures]]"
+standard-competency:
+  - "[[skills/business-it/business-product/organizational-structures/competencies/L1-characteristics-and-pros-cons-of-structures|L1-characteristics-and-pros-cons-of-structures]]"
+microskills:
+  - "[[skills/business-it/business-product/organizational-structures/microskills/organizational-structure-types|organizational-structure-types]]"
+  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-advantages|structure-advantages]]"
+  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-characteristics|structure-characteristics]]"
+  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-disadvantages|structure-disadvantages]]"
 ---
 
 # Organizational Structures
@@ -19,7 +23,7 @@ Identify and explain different types of business and organizational structures, 
 
 ## Competencies
 
-- [[skills/business-it/business-product/organizational-structures/competencies/L2-characteristics-and-pros-cons-of-structures|L2- Characteristics and Pros/Cons of Structures]]
+- [[skills/business-it/business-product/organizational-structures/competencies/L1-characteristics-and-pros-cons-of-structures|L2- Characteristics and Pros/Cons of Structures]]
 
 ## Microskills
 

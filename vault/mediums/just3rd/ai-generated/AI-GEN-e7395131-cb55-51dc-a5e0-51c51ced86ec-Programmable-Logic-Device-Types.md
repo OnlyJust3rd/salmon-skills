@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/programmable-logic-device-types|Programmable Logic Device Types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/programmable-logic-device-types|programmable-logic-device-types]]"
 ---
 # Programmable Logic Device Types
 

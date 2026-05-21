@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-in-declarative-systems|Idempotency in Declarative Systems]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-in-declarative-systems|idempotency-in-declarative-systems]]"
 ---
 # Idempotency in Declarative Systems
 

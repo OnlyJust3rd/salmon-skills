@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/basic-sql-query-execution|Basic SQL Query Execution]]"
+  - "[[skills/data/databases/sql/microskills/basic-sql-query-execution|basic-sql-query-execution]]"
 ---
 # Basic SQL Query Execution
 

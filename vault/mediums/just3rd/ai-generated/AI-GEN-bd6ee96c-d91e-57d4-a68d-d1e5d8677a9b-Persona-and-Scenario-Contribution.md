@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/persona-and-scenario-contribution|Persona and Scenario Contribution]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/persona-and-scenario-contribution|persona-and-scenario-contribution]]"
 ---
 # Understanding Personas and Scenarios for Requirements
 

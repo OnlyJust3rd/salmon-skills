@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/jk-flip-flop-operation|JK Flip-Flop Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/jk-flip-flop-operation|jk-flip-flop-operation]]"
 ---
 # JK Flip-Flop Operation
 

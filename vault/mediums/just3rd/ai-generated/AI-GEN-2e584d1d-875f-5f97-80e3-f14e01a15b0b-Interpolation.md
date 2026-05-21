@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/game-networking/microskills/interpolation|Interpolation]]"
+  - "[[skills/systems/networking/game-networking/microskills/interpolation|interpolation]]"
 ---
 # Interpolation: Smoothing Game Network Updates
 

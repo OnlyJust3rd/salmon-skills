@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/error-prevention|Error Prevention]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/error-prevention|error-prevention]]"
 ---
 # Error Prevention: Design to Avoid Mistakes
 

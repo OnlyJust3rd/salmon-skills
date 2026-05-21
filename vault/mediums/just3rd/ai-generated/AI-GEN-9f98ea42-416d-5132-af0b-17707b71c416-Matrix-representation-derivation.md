@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/matrix-representation-derivation|Matrix representation derivation]]"
+  - "[[skills/mathematics/linear-transformations/microskills/matrix-representation-derivation|matrix-representation-derivation]]"
 ---
 # Deriving the Matrix Representation of a Linear Transformation
 

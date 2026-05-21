@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-architectures|PLD Architectures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-architectures|pld-architectures]]"
 ---
 # PLD Architectures: The Building Blocks of Programmable Logic
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-variable-declaration|Volatile Variable Declaration]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-variable-declaration|volatile-variable-declaration]]"
 ---
 # Understanding the `volatile` Keyword in Bare-metal C
 

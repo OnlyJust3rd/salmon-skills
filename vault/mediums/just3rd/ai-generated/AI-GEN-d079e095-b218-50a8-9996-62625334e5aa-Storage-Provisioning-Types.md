@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/storage-provisioning-types|Storage Provisioning Types]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/storage-provisioning-types|storage-provisioning-types]]"
 ---
 # Storage Provisioning Types: Block, File, and Object Storage
 

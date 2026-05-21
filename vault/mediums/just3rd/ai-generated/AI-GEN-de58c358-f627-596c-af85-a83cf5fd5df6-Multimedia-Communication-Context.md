@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/multimedia-communication-context|Multimedia Communication Context]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/multimedia-communication-context|multimedia-communication-context]]"
 ---
 # Multimedia Communication Context for Selective Encryption
 

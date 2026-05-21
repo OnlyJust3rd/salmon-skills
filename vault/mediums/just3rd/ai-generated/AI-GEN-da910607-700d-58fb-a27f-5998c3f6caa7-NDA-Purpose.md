@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/nda-purpose|NDA Purpose]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/nda-purpose|nda-purpose]]"
 ---
 # Understanding the Purpose of Non-Disclosure Agreements (NDAs)
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/spanning-tree-protocol|Spanning Tree Protocol]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/spanning-tree-protocol|spanning-tree-protocol]]"
 ---
 # Understanding the Spanning Tree Protocol (STP)
 

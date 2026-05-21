@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unity/microskills/gameobject|GameObject]]"
+  - "[[skills/creative-media/game-development/unity/microskills/gameobject|gameobject]]"
 ---
 # Understanding Unity GameObjects
 

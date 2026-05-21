@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/wireless-networks/microskills/wlan-vs-pan-similarities|WLAN vs. PAN Similarities]]"
+  - "[[skills/systems/networking/wireless-networks/microskills/wlan-vs-pan-similarities|wlan-vs-pan-similarities]]"
 ---
 # WLAN vs. PAN Similarities
 

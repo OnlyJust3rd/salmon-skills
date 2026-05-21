@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/memory-threshold-alerts|Memory Threshold Alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/memory-threshold-alerts|memory-threshold-alerts]]"
 ---
 # Memory Threshold Alerts: Recognizing High Memory Usage
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/delegated-task-prompt|Delegated Task Prompt]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/delegated-task-prompt|delegated-task-prompt]]"
 ---
 # Crafting Effective Delegated Task Prompts for OpenAI Codex
 

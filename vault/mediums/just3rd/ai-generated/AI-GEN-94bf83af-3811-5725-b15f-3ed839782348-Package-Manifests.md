@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/client-side-web-tooling/microskills/package-manifests|Package Manifests]]"
+  - "[[skills/web-and-design/frontend-ux/client-side-web-tooling/microskills/package-manifests|package-manifests]]"
 ---
 # Package Manifests: Your Project's Identity Card
 

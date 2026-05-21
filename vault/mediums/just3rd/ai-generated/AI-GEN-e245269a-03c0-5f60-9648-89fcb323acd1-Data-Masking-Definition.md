@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/data-masking-definition|Data Masking Definition]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/data-masking-definition|data-masking-definition]]"
 ---
 # Understanding Data Masking for Privacy
 

@@ -1,18 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Apache Airflow"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-coverage:
-  - "Tool"
-  - "Framework"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Data Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/apache-airflow/competencies/L1-explain-workflow-orchestration-concepts|L1-explain-workflow-orchestration-concepts]]"
+  - "[[skills/data/data-platforms/apache-airflow/competencies/L2-apply-dag-scheduling-and-task-dependency-concepts|L2-apply-dag-scheduling-and-task-dependency-concepts]]"
+standard-competency:
+  - "[[skills/data/data-platforms/apache-airflow/competencies/L2-apply-dag-scheduling-and-task-dependency-concepts|L2-apply-dag-scheduling-and-task-dependency-concepts]]"
+microskills:
+  - "[[skills/data/data-platforms/apache-airflow/microskills/backfill|backfill]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/dag|dag]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/retry-policy|retry-policy]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/schedule-interval|schedule-interval]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/task-dependency|task-dependency]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/task-operator|task-operator]]"
 ---
 
 # Apache Airflow
@@ -21,8 +26,8 @@ Using Airflow concepts for workflow orchestration, DAG scheduling, task dependen
 
 ## Competencies
 
-- [[skills/data/data-platforms/apache-airflow/competencies/L2-explain-workflow-orchestration-concepts|L2- Explain Workflow Orchestration Concepts]]
-- [[skills/data/data-platforms/apache-airflow/competencies/L3-apply-dag-scheduling-and-task-dependency-concepts|L3- Apply DAG Scheduling and Task Dependency Concepts]]
+- [[skills/data/data-platforms/apache-airflow/competencies/L1-explain-workflow-orchestration-concepts|L2- Explain Workflow Orchestration Concepts]]
+- [[skills/data/data-platforms/apache-airflow/competencies/L2-apply-dag-scheduling-and-task-dependency-concepts|L3- Apply DAG Scheduling and Task Dependency Concepts]]
 
 ## Microskills
 

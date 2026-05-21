@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-value-adjustment|Pixel Value Adjustment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-value-adjustment|pixel-value-adjustment]]"
 ---
 # Pixel Value Adjustment for Image Enhancement
 

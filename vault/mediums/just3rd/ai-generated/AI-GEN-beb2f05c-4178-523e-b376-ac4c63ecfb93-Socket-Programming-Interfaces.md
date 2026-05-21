@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/socket-programming-interfaces|Socket Programming Interfaces]]"
+  - "[[skills/systems/networking/socket-programming/microskills/socket-programming-interfaces|socket-programming-interfaces]]"
 ---
 # Understanding Socket Programming Interfaces: Essential Functions
 

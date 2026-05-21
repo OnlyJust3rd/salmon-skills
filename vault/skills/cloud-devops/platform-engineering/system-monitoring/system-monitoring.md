@@ -1,21 +1,68 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "System Monitoring"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 10
-microskill-count: 41
-related-jobs:
-  - "DevOps Engineer"
-  - "Cloud Engineer"
-  - "Network Engineer"
-  - "System Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-identify-infrastructure-metrics|L1-identify-infrastructure-metrics]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-list-golden-signals|L1-list-golden-signals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-prometheus-and-grafana-fundamentals|L1-prometheus-and-grafana-fundamentals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-explain-golden-signals|L1-explain-golden-signals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-explain-metric-significance|L1-explain-metric-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-explain-observability-signals|L1-explain-observability-signals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-prometheus-exporters-and-grafana-dashboards|L1-prometheus-exporters-and-grafana-dashboards]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-apply-golden-signals-monitoring|L2-apply-golden-signals-monitoring]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-implement-and-visualize-prometheus-metrics|L2-implement-and-visualize-prometheus-metrics]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-implement-basic-monitoring|L2-implement-basic-monitoring]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-apply-golden-signals-monitoring|L2-apply-golden-signals-monitoring]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-implement-and-visualize-prometheus-metrics|L2-implement-and-visualize-prometheus-metrics]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-implement-basic-monitoring|L2-implement-basic-monitoring]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/alerting-context-for-golden-signals|alerting-context-for-golden-signals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/basic-grafana-dashboard-setup|basic-grafana-dashboard-setup]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/command-line-monitoring-tools|command-line-monitoring-tools]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/cpu-significance|cpu-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/cpu-utilization|cpu-utilization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/dashboard-metric-visualization|dashboard-metric-visualization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/dashboard-monitoring|dashboard-monitoring]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/data-source-configuration|data-source-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/disk-i-o-operations|disk-i-o-operations]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/disk-i-o-significance|disk-i-o-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/error-rate-monitoring|error-rate-monitoring]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/errors-significance|errors-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/errors|errors]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/golden-signals-tracking|golden-signals-tracking]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-data-source-connection|grafana-data-source-connection]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-data-visualization|grafana-data-visualization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-key-features|grafana-key-features]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/health-signals|health-signals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/key-infrastructure-metrics-tracking|key-infrastructure-metrics-tracking]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/latency-monitoring-techniques|latency-monitoring-techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/latency-significance|latency-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/latency|latency]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/logs|logs]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/memory-significance|memory-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/memory-usage|memory-usage]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/metric-collection-process|metric-collection-process]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/metrics|metrics]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/network-throughput-significance|network-throughput-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/network-throughput|network-throughput]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-core-components|prometheus-core-components]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-exporter-functionality|prometheus-exporter-functionality]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-functionality|prometheus-functionality]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-server-configuration|prometheus-server-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/saturation-monitoring-techniques|saturation-monitoring-techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/saturation-significance|saturation-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/saturation|saturation]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/target-application-scraping|target-application-scraping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traces|traces]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traffic-monitoring-techniques|traffic-monitoring-techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traffic-significance|traffic-significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traffic|traffic]]"
 ---
 
 # System Monitoring
@@ -25,15 +72,15 @@ Track key infrastructure metrics, including CPU, memory, disk I/O, and network t
 ## Competencies
 
 - [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-list-golden-signals|L1- List Golden Signals]]
-- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-explain-golden-signals|L2- Explain Golden Signals]]
-- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L3-implement-basic-monitoring|L3- Implement Basic Monitoring]]
+- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-explain-golden-signals|L2- Explain Golden Signals]]
+- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-implement-basic-monitoring|L3- Implement Basic Monitoring]]
 - [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-identify-infrastructure-metrics|L1- Identify Infrastructure Metrics]]
-- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-explain-metric-significance|L2- Explain Metric Significance]]
-- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-explain-observability-signals|L2- Explain Observability Signals]]
-- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L3-apply-golden-signals-monitoring|L3- Apply Golden Signals Monitoring]]
+- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-explain-metric-significance|L2- Explain Metric Significance]]
+- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-explain-observability-signals|L2- Explain Observability Signals]]
+- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-apply-golden-signals-monitoring|L3- Apply Golden Signals Monitoring]]
 - [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-prometheus-and-grafana-fundamentals|L1- Prometheus and Grafana Fundamentals]]
-- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-prometheus-exporters-and-grafana-dashboards|L2- Prometheus Exporters and Grafana Dashboards]]
-- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L3-implement-and-visualize-prometheus-metrics|L3- Implement and Visualize Prometheus Metrics]]
+- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-prometheus-exporters-and-grafana-dashboards|L2- Prometheus Exporters and Grafana Dashboards]]
+- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-implement-and-visualize-prometheus-metrics|L3- Implement and Visualize Prometheus Metrics]]
 
 ## Microskills
 

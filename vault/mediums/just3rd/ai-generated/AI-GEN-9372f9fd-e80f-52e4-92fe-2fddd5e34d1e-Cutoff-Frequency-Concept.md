@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/cutoff-frequency-concept|Cutoff Frequency Concept]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/cutoff-frequency-concept|cutoff-frequency-concept]]"
 ---
 # Understanding Cutoff Frequency
 

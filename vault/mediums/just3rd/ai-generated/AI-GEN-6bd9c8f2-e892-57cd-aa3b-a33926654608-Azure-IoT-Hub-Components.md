@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/azure-iot-hub-components|Azure IoT Hub Components]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/azure-iot-hub-components|azure-iot-hub-components]]"
 ---
 # Azure IoT Hub Components
 

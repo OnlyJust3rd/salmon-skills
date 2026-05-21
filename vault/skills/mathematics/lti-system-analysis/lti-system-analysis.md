@@ -1,18 +1,32 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "LTI System Analysis"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Analysis"
-competency-count: 3
-microskill-count: 12
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-313-signals-and-linear-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/lti-system-analysis/competencies/L2-apply-ct-convolution-integral|L2-apply-ct-convolution-integral]]"
+  - "[[skills/mathematics/lti-system-analysis/competencies/L2-compute-dt-convolution|L2-compute-dt-convolution]]"
+  - "[[skills/mathematics/lti-system-analysis/competencies/L2-compute-lti-impulse-response|L2-compute-lti-impulse-response]]"
+standard-competency:
+  - "[[skills/mathematics/lti-system-analysis/competencies/L2-apply-ct-convolution-integral|L2-apply-ct-convolution-integral]]"
+  - "[[skills/mathematics/lti-system-analysis/competencies/L2-compute-dt-convolution|L2-compute-dt-convolution]]"
+  - "[[skills/mathematics/lti-system-analysis/competencies/L2-compute-lti-impulse-response|L2-compute-lti-impulse-response]]"
+microskills:
+  - "[[skills/mathematics/lti-system-analysis/microskills/continuous-time-convolution-definition-recall|continuous-time-convolution-definition-recall]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/convolution-process-steps|convolution-process-steps]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/ct-convolution-integral-steps|ct-convolution-integral-steps]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/discrete-time-convolution-definition|discrete-time-convolution-definition]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-and-input-signal-integration|impulse-response-and-input-signal-integration]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-calculation-difference-equations|impulse-response-calculation-difference-equations]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-calculation-differential-equations|impulse-response-calculation-differential-equations]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-definition-recall|impulse-response-definition-recall]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/lti-system-characterization-via-impulse-response|lti-system-characterization-via-impulse-response]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/output-sequence-determination|output-sequence-determination]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/sequence-convolution-execution|sequence-convolution-execution]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/system-output-calculation-ct-convolution|system-output-calculation-ct-convolution]]"
 ---
 
 # LTI System Analysis
@@ -21,9 +35,9 @@ Analyzing Linear Time-Invariant (LTI) systems using impulse response and convolu
 
 ## Competencies
 
-- [[L3-compute-lti-impulse-response|L3- Compute LTI Impulse Response]]
-- [[L3-compute-dt-convolution|L3- Compute DT Convolution]]
-- [[L3-apply-ct-convolution-integral|L3- Apply CT Convolution Integral]]
+- [[skills/mathematics/lti-system-analysis/competencies/L2-compute-lti-impulse-response|L3- Compute LTI Impulse Response]]
+- [[skills/mathematics/lti-system-analysis/competencies/L2-compute-dt-convolution|L3- Compute DT Convolution]]
+- [[skills/mathematics/lti-system-analysis/competencies/L2-apply-ct-convolution-integral|L3- Apply CT Convolution Integral]]
 
 ## Microskills
 

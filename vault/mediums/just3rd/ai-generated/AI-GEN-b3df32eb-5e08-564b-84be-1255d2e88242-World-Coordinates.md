@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/world-coordinates|World Coordinates]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/world-coordinates|world-coordinates]]"
 ---
 # World Coordinates: The Foundation of Your Digital Canvas
 

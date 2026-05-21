@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/cloud-networking-services|Cloud Networking Services]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/cloud-networking-services|cloud-networking-services]]"
 ---
 # Configuring Cloud Network Components
 

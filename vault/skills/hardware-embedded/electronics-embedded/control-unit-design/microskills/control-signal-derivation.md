@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Control Signal Derivation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Control Unit Design"
-parent-competency: "L4- Analyze Control Sequences"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/control-unit-design/control-unit-design|control-unit-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L3-analyze-control-sequences|L3-analyze-control-sequences]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Control Signal Derivation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/control-unit-desig
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L4-analyze-control-sequences|L4- Analyze Control Sequences]]
+- [[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L3-analyze-control-sequences|L4- Analyze Control Sequences]]
 
 ## Description
 

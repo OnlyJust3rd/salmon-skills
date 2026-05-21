@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/motion-vectors-in-temporal-redundancy|Motion Vectors in Temporal Redundancy]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/motion-vectors-in-temporal-redundancy|motion-vectors-in-temporal-redundancy]]"
 ---
 # Motion Vectors: Tracking Movement in Videos
 

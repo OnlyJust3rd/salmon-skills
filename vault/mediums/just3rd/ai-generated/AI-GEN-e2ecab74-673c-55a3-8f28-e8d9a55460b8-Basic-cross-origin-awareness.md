@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/basic-cross-origin-awareness|Basic cross-origin awareness]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/basic-cross-origin-awareness|basic-cross-origin-awareness]]"
 ---
 # Understanding Cross-Origin Resource Sharing (CORS)
 

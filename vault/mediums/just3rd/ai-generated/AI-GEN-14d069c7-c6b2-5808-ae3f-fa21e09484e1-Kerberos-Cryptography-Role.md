@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/kerberos-cryptography-role|Kerberos Cryptography Role]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/kerberos-cryptography-role|kerberos-cryptography-role]]"
 ---
 # Understanding Kerberos Cryptography's Role
 

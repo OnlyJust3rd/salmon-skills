@@ -1,16 +1,30 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Business Ethics Principles"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-coverage:
-  - "Concept"
-competency-count: 2
-microskill-count: 13
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-301-professional-issues-in-computer-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/business-ethics-principles/competencies/L1-describe-unethical-behaviors|L1-describe-unethical-behaviors]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/competencies/L1-explain-ethical-principles|L1-explain-ethical-principles]]"
+standard-competency:
+  - "[[skills/business-it/business-product/business-ethics-principles/competencies/L1-describe-unethical-behaviors|L1-describe-unethical-behaviors]]"
+microskills:
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/accounting-fraud-examples|accounting-fraud-examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/bribery-examples|bribery-examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-fairness|business-fairness]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-honesty|business-honesty]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-responsibility|business-responsibility]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-trust|business-trust]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/child-labor-examples|child-labor-examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-definitions|ethical-principle-definitions]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-examples|ethical-principle-examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-importance|ethical-principle-importance]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/false-advertising-examples|false-advertising-examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/plagiarism-examples|plagiarism-examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/unethical-behavior-rationale|unethical-behavior-rationale]]"
 ---
 
 # Business Ethics Principles
@@ -19,8 +33,8 @@ Discuss core ethical principles in business, including honesty, trust, fairness,
 
 ## Competencies
 
-- [[skills/business-it/business-product/business-ethics-principles/competencies/L2-explain-ethical-principles|L2- Explain Ethical Principles]]
-- [[skills/business-it/business-product/business-ethics-principles/competencies/L2-describe-unethical-behaviors|L2- Describe Unethical Behaviors]]
+- [[skills/business-it/business-product/business-ethics-principles/competencies/L1-explain-ethical-principles|L2- Explain Ethical Principles]]
+- [[skills/business-it/business-product/business-ethics-principles/competencies/L1-describe-unethical-behaviors|L2- Describe Unethical Behaviors]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/command-line-monitoring-tools|Command-Line Monitoring Tools]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/command-line-monitoring-tools|command-line-monitoring-tools]]"
 ---
 # Using Command-Line Tools for Basic System Monitoring
 

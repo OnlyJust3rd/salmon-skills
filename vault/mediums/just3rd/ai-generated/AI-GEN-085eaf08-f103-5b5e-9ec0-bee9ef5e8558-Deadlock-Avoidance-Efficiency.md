@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|Deadlock Avoidance Efficiency]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|deadlock-avoidance-efficiency]]"
 ---
 # Deadlock Avoidance Algorithm Efficiency
 

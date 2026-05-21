@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Non-Linear Complexity Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Computational Complexity Analysis"
-parent-competency: "L3- Analyze Non-Linear Algorithm Complexity"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/computational-complexity-analysis/computational-complexity-analysis|computational-complexity-analysis]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/computational-complexity-analysis/competencies/L2-analyze-non-linear-algorithm-complexity|L2-analyze-non-linear-algorithm-complexity]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Non-Linear Complexity Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/computational-complexity-analysis/
 
 Parent competency:
 
-- [[skills/programming/algorithms/computational-complexity-analysis/competencies/L3-analyze-non-linear-algorithm-complexity|L3- Analyze Non-Linear Algorithm Complexity]]
+- [[skills/programming/algorithms/computational-complexity-analysis/competencies/L2-analyze-non-linear-algorithm-complexity|L3- Analyze Non-Linear Algorithm Complexity]]
 
 ## Description
 

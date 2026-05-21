@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/industrial-applications-of-computing|Industrial Applications of Computing]]"
+  - "[[skills/data/ai/soft-computing/microskills/industrial-applications-of-computing|industrial-applications-of-computing]]"
 ---
 # Understanding Computing Integration in Industrial Applications
 

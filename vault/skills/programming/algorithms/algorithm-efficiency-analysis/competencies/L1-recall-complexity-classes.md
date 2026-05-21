@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Recall Complexity Classes"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Algorithm Efficiency Analysis"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain Big O Notation"
+  - "[[skills/programming/data-structures/data-structure-principles/competencies/L1-explain-big-o-notation|L1-explain-big-o-notation]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/algorithms/algorithm-efficiency-analysis/algorithm-efficiency-analysis|algorithm-efficiency-analysis]]"
+requires-microskills:
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/complexity-class-identification|complexity-class-identification]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/growth-rate-ordering|growth-rate-ordering]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Recall Complexity Classes
@@ -25,7 +26,7 @@ Recall common Big O complexity classes (O(1), O(log n), O(n), O(n log n), O(n^2)
 
 ## Strict Prerequisites
 
-- [[skills/programming/data-structures/data-structure-principles/competencies/L2-explain-big-o-notation|L2- Explain Big O Notation]]
+- [[skills/programming/data-structures/data-structure-principles/competencies/L1-explain-big-o-notation|L2- Explain Big O Notation]]
 
 ## Optional Prerequisites
 

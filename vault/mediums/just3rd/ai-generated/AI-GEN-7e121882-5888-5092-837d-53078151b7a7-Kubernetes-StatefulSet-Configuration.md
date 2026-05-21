@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-statefulset-configuration|Kubernetes StatefulSet Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-statefulset-configuration|kubernetes-statefulset-configuration]]"
 ---
 # Kubernetes StatefulSet Configuration
 

@@ -1,19 +1,35 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Program Testing"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-coverage:
-  - "Evaluation"
-  - "Validation"
-competency-count: 4
-microskill-count: 14
-related-jobs:
-  - "QA Engineer"
-  - "Game QA Tester"
-source-note: "courses/kmutt/cpe-2021/cpe-100-computer-programming-for-engineers"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/program-testing/competencies/L1-test-case-identification|L1-test-case-identification]]"
+  - "[[skills/programming/software-engineering/program-testing/competencies/L2-integration-tests|L2-integration-tests]]"
+  - "[[skills/programming/software-engineering/program-testing/competencies/L2-unit-tests|L2-unit-tests]]"
+  - "[[skills/programming/software-engineering/program-testing/competencies/L2-user-acceptance-test|L2-user-acceptance-test]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/program-testing/competencies/L2-integration-tests|L2-integration-tests]]"
+  - "[[skills/programming/software-engineering/program-testing/competencies/L2-unit-tests|L2-unit-tests]]"
+  - "[[skills/programming/software-engineering/program-testing/competencies/L2-user-acceptance-test|L2-user-acceptance-test]]"
+microskills:
+  - "[[skills/programming/software-engineering/program-testing/microskills/acceptance-criteria-extraction|acceptance-criteria-extraction]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/coverage-of-edge-cases|coverage-of-edge-cases]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/expected-output-definition|expected-output-definition]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/integration-failure-analysis|integration-failure-analysis]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/integration-point-identification|integration-point-identification]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/interaction-test-design|interaction-test-design]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/test-automation-selection|test-automation-selection]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/test-case-quality-review|test-case-quality-review]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/test-objective-mapping|test-objective-mapping]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/traceability-to-requirements|traceability-to-requirements]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/uat-execution-and-feedback|uat-execution-and-feedback]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/uat-scenario-preparation|uat-scenario-preparation]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/unit-test-planning|unit-test-planning]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/unit-test-result-interpretation|unit-test-result-interpretation]]"
 ---
 
 # Program Testing
@@ -22,10 +38,10 @@ Ability to design and execute tests to validate program behavior, including test
 
 ## Competencies
 
-- [[skills/programming/software-engineering/program-testing/competencies/L2-test-case-identification|L2- Test Case Identification]]
-- [[skills/programming/software-engineering/program-testing/competencies/L3-user-acceptance-test|L3- User Acceptance Test]]
-- [[skills/programming/software-engineering/program-testing/competencies/L3-unit-tests|L3- Unit Tests]]
-- [[skills/programming/software-engineering/program-testing/competencies/L3-integration-tests|L3- Integration Tests]]
+- [[skills/programming/software-engineering/program-testing/competencies/L1-test-case-identification|L2- Test Case Identification]]
+- [[skills/programming/software-engineering/program-testing/competencies/L2-user-acceptance-test|L3- User Acceptance Test]]
+- [[skills/programming/software-engineering/program-testing/competencies/L2-unit-tests|L3- Unit Tests]]
+- [[skills/programming/software-engineering/program-testing/competencies/L2-integration-tests|L3- Integration Tests]]
 
 ## Microskills
 

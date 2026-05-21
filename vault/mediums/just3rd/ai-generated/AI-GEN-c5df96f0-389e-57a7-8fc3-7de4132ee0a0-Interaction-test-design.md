@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/interaction-test-design|Interaction test design]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/interaction-test-design|interaction-test-design]]"
 ---
 # Designing Interaction Tests for C Functions
 

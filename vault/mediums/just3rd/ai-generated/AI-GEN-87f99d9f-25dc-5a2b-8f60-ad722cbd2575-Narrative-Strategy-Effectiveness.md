@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/narrative-strategy-effectiveness|Narrative Strategy Effectiveness]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/narrative-strategy-effectiveness|narrative-strategy-effectiveness]]"
 ---
 # Analyzing Narrative Strategy Effectiveness in Games
 

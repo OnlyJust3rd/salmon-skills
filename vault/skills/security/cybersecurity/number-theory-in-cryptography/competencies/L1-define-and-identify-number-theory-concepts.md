@@ -1,17 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and Identify Number Theory Concepts"
 tags:
   - "cpe"
   - "competency"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Number Theory in Cryptography"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/security/cybersecurity/number-theory-in-cryptography/number-theory-in-cryptography|number-theory-in-cryptography]]"
+requires-microskills:
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-definition|euclidean-algorithm-definition]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-definition|euler-s-phi-function-definition]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/greatest-common-divisor-gcd-definition|greatest-common-divisor-gcd-definition]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/modular-arithmetic-definition|modular-arithmetic-definition]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/number-theory-concepts-identification|number-theory-concepts-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and Identify Number Theory Concepts

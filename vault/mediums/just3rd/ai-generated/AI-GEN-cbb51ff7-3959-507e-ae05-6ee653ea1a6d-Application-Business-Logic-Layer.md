@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/application-business-logic-layer|Application/Business Logic Layer]]"
+  - "[[skills/data/databases/database-system/microskills/application-business-logic-layer|application-business-logic-layer]]"
 ---
 # The Application/Business Logic Layer: The Brains of the Operation
 

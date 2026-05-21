@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/low-coupling-design|Low Coupling Design]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/low-coupling-design|low-coupling-design]]"
 ---
 # Low Coupling: Building Independent Software Components
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/product-analytics/microskills/funnel-metric|Funnel Metric]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/funnel-metric|funnel-metric]]"
 ---
 # Understanding Funnel Metrics
 

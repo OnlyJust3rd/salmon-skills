@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/target-user-representation|Target User Representation]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/target-user-representation|target-user-representation]]"
 ---
 # Representing Your Target Users: Personas and Scenarios
 

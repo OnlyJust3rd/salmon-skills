@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/media-use-cases|Media Use Cases]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/media-use-cases|media-use-cases]]"
 ---
 # Choosing the Right Path: Media Use Cases
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Action planning purpose"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Action Planning"
-parent-competency: "L2- Action Planning Foundations"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/action-planning/action-planning|action-planning]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/action-planning/competencies/L1-action-planning-foundations|L1-action-planning-foundations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Action planning purpose
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/action-planning/action-p
 
 Parent competency:
 
-- [[skills/programming/software-engineering/action-planning/competencies/L2-action-planning-foundations|L2- Action Planning Foundations]]
+- [[skills/programming/software-engineering/action-planning/competencies/L1-action-planning-foundations|L2- Action Planning Foundations]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Routing Protocol Goals"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Routing Algorithms"
-parent-competency: "L2- Define and Differentiate Routing Types"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/routing-algorithms/routing-algorithms|routing-algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/routing-algorithms/competencies/L1-define-and-differentiate-routing-types|L1-define-and-differentiate-routing-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Routing Protocol Goals
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/routing-algorithms/routing-algorit
 
 Parent competency:
 
-- [[skills/programming/algorithms/routing-algorithms/competencies/L2-define-and-differentiate-routing-types|L2- Define and Differentiate Routing Types]]
+- [[skills/programming/algorithms/routing-algorithms/competencies/L1-define-and-differentiate-routing-types|L2- Define and Differentiate Routing Types]]
 
 ## Description
 

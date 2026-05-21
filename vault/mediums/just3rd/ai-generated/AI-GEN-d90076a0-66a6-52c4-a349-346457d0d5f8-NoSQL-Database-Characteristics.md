@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/nosql-database-characteristics|NoSQL Database Characteristics]]"
+  - "[[skills/data/databases/database-system/microskills/nosql-database-characteristics|nosql-database-characteristics]]"
 ---
 # Understanding NoSQL Database Characteristics
 

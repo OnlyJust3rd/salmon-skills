@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/linearity-property-application-fs-dtfs|Linearity Property Application (FS/DTFS)]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linearity-property-application-fs-dtfs|linearity-property-application-fs-dtfs]]"
 ---
 # Applying the Linearity Property for Simplified Fourier Series Calculations
 

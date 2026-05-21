@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-career-path/microskills/role-comparison|Role Comparison]]"
+  - "[[skills/business-it/business-product/it-career-path/microskills/role-comparison|role-comparison]]"
 ---
 # Understanding the Differences: Coach, Mentor, and Sponsor
 

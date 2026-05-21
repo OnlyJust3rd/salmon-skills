@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sap-erp/microskills/master-data-record|Master Data Record]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/master-data-record|master-data-record]]"
 ---
 # Understanding Master Data Records in SAP ERP
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-implementation|Design Pattern Implementation]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-implementation|design-pattern-implementation]]"
 ---
 # Implementing the Strategy Pattern
 

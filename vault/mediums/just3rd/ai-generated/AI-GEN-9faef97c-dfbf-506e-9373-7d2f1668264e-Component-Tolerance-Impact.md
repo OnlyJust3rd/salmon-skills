@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/component-tolerance-impact|Component Tolerance Impact]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/component-tolerance-impact|component-tolerance-impact]]"
 ---
 # Component Tolerance Impact
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Multimeter Principles of Operation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Laboratory Equipment Operation"
-parent-competency: "L2- Explain Equipment Principles and Safe Usage"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/laboratory-equipment-operation|laboratory-equipment-operation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L1-explain-equipment-principles-and-safe-usage|L1-explain-equipment-principles-and-safe-usage]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Multimeter Principles of Operation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/laboratory-equipme
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L2-explain-equipment-principles-and-safe-usage|L2- Explain Equipment Principles and Safe Usage]]
+- [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L1-explain-equipment-principles-and-safe-usage|L2- Explain Equipment Principles and Safe Usage]]
 
 ## Description
 

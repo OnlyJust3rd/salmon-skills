@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/time-reversal-impact|Time Reversal Impact]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-reversal-impact|time-reversal-impact]]"
 ---
 # Understanding Time Reversal of Signals
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-qualifier-purpose|Volatile Qualifier Purpose]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-qualifier-purpose|volatile-qualifier-purpose]]"
 ---
 # The `volatile` Qualifier: Keeping the Compiler Honest
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Continuous Integration (CI)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Serverless CI/CD"
-parent-competency: "L2- CI/CD Pipeline Purpose and Stages"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/serverless-ci-cd|serverless-ci-cd]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/competencies/L1-ci-cd-pipeline-purpose-and-stages|L1-ci-cd-pipeline-purpose-and-stages]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Continuous Integration (CI)
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/serverless-ci-cd/server
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/serverless-ci-cd/competencies/L2-ci-cd-pipeline-purpose-and-stages|L2- CI/CD Pipeline Purpose and Stages]]
+- [[skills/cloud-devops/platform-engineering/serverless-ci-cd/competencies/L1-ci-cd-pipeline-purpose-and-stages|L2- CI/CD Pipeline Purpose and Stages]]
 
 ## Description
 

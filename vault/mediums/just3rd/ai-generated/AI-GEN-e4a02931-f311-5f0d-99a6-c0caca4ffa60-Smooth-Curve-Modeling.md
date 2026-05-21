@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/smooth-curve-modeling|Smooth Curve Modeling]]"
+  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/smooth-curve-modeling|smooth-curve-modeling]]"
 ---
 # Understanding Bézier Curves for Smooth Shapes
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Indefinite integral and anti-derivative relationship"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Integral Evaluation"
-parent-competency: "L2- Explain Indefinite Integral"
+  - "microskill"
+parent-skill: "[[skills/mathematics/integral-evaluation/integral-evaluation|integral-evaluation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/integral-evaluation/competencies/L1-explain-indefinite-integral|L1-explain-indefinite-integral]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Indefinite integral and anti-derivative relationship
@@ -15,7 +17,7 @@ Parent macro: [[integral-evaluation|Integral Evaluation]]
 
 Parent competency:
 
-- [[L2-explain-indefinite-integral|L2- Explain Indefinite Integral]]
+- [[skills/mathematics/integral-evaluation/competencies/L1-explain-indefinite-integral|L2- Explain Indefinite Integral]]
 
 ## Description
 

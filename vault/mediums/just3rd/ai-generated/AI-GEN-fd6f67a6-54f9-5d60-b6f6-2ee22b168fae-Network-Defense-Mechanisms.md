@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/network-security-access-control/microskills/network-defense-mechanisms|Network Defense Mechanisms]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/network-defense-mechanisms|network-defense-mechanisms]]"
 ---
 # Firewalls: The Gatekeepers of Your Network
 

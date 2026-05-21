@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-managed-services|AWS Managed Services]]"
+  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-managed-services|aws-managed-services]]"
 ---
 # AWS Managed Services: Reducing Your Operational Burden
 

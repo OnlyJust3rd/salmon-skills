@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/express-js/microskills/request-and-response-objects|Request and response objects]]"
+  - "[[skills/web-and-design/backend-api/express-js/microskills/request-and-response-objects|request-and-response-objects]]"
 ---
 # Understanding Request and Response Objects in Express.js
 

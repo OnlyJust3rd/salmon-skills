@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/node-js/microskills/module-systems|Module systems]]"
+  - "[[skills/web-and-design/backend-api/node-js/microskills/module-systems|module-systems]]"
 ---
 # Module Systems in Node.js: `require` vs. `import`
 

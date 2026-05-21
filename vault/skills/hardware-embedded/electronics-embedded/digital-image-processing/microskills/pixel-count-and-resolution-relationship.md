@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Pixel Count and Resolution Relationship"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Image Processing"
-parent-competency: "L2- Explain Pixel Grid and Resolution"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|digital-image-processing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L1-explain-pixel-grid-and-resolution|L1-explain-pixel-grid-and-resolution]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Pixel Count and Resolution Relationship
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-image-proc
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-explain-pixel-grid-and-resolution|L2- Explain Pixel Grid and Resolution]]
+- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L1-explain-pixel-grid-and-resolution|L2- Explain Pixel Grid and Resolution]]
 
 ## Description
 

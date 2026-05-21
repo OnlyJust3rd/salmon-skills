@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/scheduled-task-deployment|Scheduled Task Deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/scheduled-task-deployment|scheduled-task-deployment]]"
 ---
 # Deploying Scheduled Tasks with Kubernetes CronJobs
 

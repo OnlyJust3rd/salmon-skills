@@ -1,18 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Allocation Techniques"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Memory Virtualization"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define OS Terms"
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-define-os-terms|L1-define-os-terms]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 1
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/operating-systems/memory-virtualization/memory-virtualization|memory-virtualization]]"
+requires-microskills:
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|contiguous-memory-allocation-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Allocation Techniques

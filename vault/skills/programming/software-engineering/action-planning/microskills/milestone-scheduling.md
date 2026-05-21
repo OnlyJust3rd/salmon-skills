@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Milestone scheduling"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Action Planning"
-parent-competency: "L3- Develop Engineering Action Plan"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/action-planning/action-planning|action-planning]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/action-planning/competencies/L2-develop-engineering-action-plan|L2-develop-engineering-action-plan]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Milestone scheduling
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/action-planning/action-p
 
 Parent competency:
 
-- [[skills/programming/software-engineering/action-planning/competencies/L3-develop-engineering-action-plan|L3- Develop Engineering Action Plan]]
+- [[skills/programming/software-engineering/action-planning/competencies/L2-develop-engineering-action-plan|L3- Develop Engineering Action Plan]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Recovery Objectives"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - database administration skills"
-parent-macro: "Database Backup and Recovery"
-parent-competency: "L2- Explain Database Backup and Recovery Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/databases/database-backup-and-recovery/database-backup-and-recovery|database-backup-and-recovery]]"
+requires-in-competencies:
+  - "[[skills/data/databases/database-backup-and-recovery/competencies/L1-explain-database-backup-and-recovery-concepts|L1-explain-database-backup-and-recovery-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Recovery Objectives
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/databases/database-backup-and-recovery/database-back
 
 Parent competency:
 
-- [[skills/data/databases/database-backup-and-recovery/competencies/L2-explain-database-backup-and-recovery-concepts|L2- Explain Database Backup and Recovery Concepts]]
+- [[skills/data/databases/database-backup-and-recovery/competencies/L1-explain-database-backup-and-recovery-concepts|L2- Explain Database Backup and Recovery Concepts]]
 
 ## Description
 

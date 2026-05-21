@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify AVR Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Microcontroller Architecture"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Identify Bare-metal C Constructs"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/competencies/L1-identify-bare-metal-c-constructs|L1-identify-bare-metal-c-constructs]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/avr-microcontroller-architecture|avr-microcontroller-architecture]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/cpu-core-architecture|cpu-core-architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/i-o-port-structures|i-o-port-structures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/memory-organization|memory-organization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/register-set|register-set]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify AVR Components

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/latency-significance|Latency Significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/latency-significance|latency-significance]]"
 ---
 # Understanding Latency: The User Experience Metric
 

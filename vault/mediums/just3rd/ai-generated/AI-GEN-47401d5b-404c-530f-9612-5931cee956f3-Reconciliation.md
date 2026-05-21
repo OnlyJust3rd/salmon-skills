@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/game-networking/microskills/reconciliation|Reconciliation]]"
+  - "[[skills/systems/networking/game-networking/microskills/reconciliation|reconciliation]]"
 ---
 # Reconciliation: Bringing Your Game State Back in Sync
 

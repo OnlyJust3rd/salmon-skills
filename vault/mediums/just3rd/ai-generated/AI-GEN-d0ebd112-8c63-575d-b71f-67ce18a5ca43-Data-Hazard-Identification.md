@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/data-hazard-identification|Data Hazard Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/data-hazard-identification|data-hazard-identification]]"
 ---
 # Identifying Data Hazards: RAW, WAR, and WAW Dependencies
 

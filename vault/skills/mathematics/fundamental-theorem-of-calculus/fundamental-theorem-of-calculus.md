@@ -1,17 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Fundamental Theorem of Calculus"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 101 - Mathematics I"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 3
-microskill-count: 7
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-101-mathematics-i"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/competencies/L1-state-and-define-ftc-and-antiderivative-properties|L1-state-and-define-ftc-and-antiderivative-properties]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/competencies/L1-explain-ftc-relationship-and-concepts|L1-explain-ftc-relationship-and-concepts]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/competencies/L2-apply-ftc-to-evaluate-integrals|L2-apply-ftc-to-evaluate-integrals]]"
+standard-competency:
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/competencies/L2-apply-ftc-to-evaluate-integrals|L2-apply-ftc-to-evaluate-integrals]]"
+microskills:
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/antiderivative-properties|antiderivative-properties]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/basic-concepts-of-integrals|basic-concepts-of-integrals]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/definite-integral-evaluation-using-ftc|definite-integral-evaluation-using-ftc]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/differentiation-integration-connection-via-ftc|differentiation-integration-connection-via-ftc]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/ftc-role-in-defining-new-functions|ftc-role-in-defining-new-functions]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-parts|fundamental-theorem-of-calculus-parts]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-statement|fundamental-theorem-of-calculus-statement]]"
 ---
 
 # Fundamental Theorem of Calculus
@@ -20,9 +28,9 @@ Describe and apply the Fundamental Theorem of Calculus to evaluate integrals and
 
 ## Competencies
 
-- [[L1-state-and-define-ftc-and-antiderivative-properties|L1- State and Define FTC and Antiderivative Properties]]
-- [[L3-apply-ftc-to-evaluate-integrals|L3- Apply FTC to Evaluate Integrals]]
-- [[L2-explain-ftc-relationship-and-concepts|L2- Explain FTC Relationship and Concepts]]
+- [[skills/mathematics/fundamental-theorem-of-calculus/competencies/L1-state-and-define-ftc-and-antiderivative-properties|L1- State and Define FTC and Antiderivative Properties]]
+- [[skills/mathematics/fundamental-theorem-of-calculus/competencies/L2-apply-ftc-to-evaluate-integrals|L3- Apply FTC to Evaluate Integrals]]
+- [[skills/mathematics/fundamental-theorem-of-calculus/competencies/L1-explain-ftc-relationship-and-concepts|L2- Explain FTC Relationship and Concepts]]
 
 ## Microskills
 

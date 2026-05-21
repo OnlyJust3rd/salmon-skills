@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/basis-transformation-execution|Basis transformation execution]]"
+  - "[[skills/mathematics/vector-space/microskills/basis-transformation-execution|basis-transformation-execution]]"
 ---
 # Executing a Basis Transformation
 

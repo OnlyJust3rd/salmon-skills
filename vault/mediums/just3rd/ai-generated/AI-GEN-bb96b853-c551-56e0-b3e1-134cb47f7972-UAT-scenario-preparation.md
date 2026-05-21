@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/uat-scenario-preparation|UAT scenario preparation]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/uat-scenario-preparation|uat-scenario-preparation]]"
 ---
 # Preparing Realistic UAT Scenarios
 

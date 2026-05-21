@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Biometric Access Control Systems"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Access Control"
-parent-competency: "L2- Biometric Access Control Concepts"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/access-control/access-control|access-control]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/access-control/competencies/L1-biometric-access-control-concepts|L1-biometric-access-control-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Biometric Access Control Systems
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/access-control/access-control|Acce
 
 Parent competency:
 
-- [[skills/security/cybersecurity/access-control/competencies/L2-biometric-access-control-concepts|L2- Biometric Access Control Concepts]]
+- [[skills/security/cybersecurity/access-control/competencies/L1-biometric-access-control-concepts|L2- Biometric Access Control Concepts]]
 
 ## Description
 

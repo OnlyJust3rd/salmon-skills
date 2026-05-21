@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/circuit-functionality-verification|Circuit Functionality Verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/circuit-functionality-verification|circuit-functionality-verification]]"
 ---
 # Verifying Circuit Functionality in Proteus
 

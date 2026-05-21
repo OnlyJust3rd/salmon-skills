@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Discrete-Time Fourier Transform (DTFT) Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Fourier Transform Analysis"
-parent-competency: "L1- Define FT and DTFT"
+  - "microskill"
+parent-skill: "[[skills/mathematics/fourier-transform-analysis/fourier-transform-analysis|fourier-transform-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/fourier-transform-analysis/competencies/L1-define-ft-and-dtft|L1-define-ft-and-dtft]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Discrete-Time Fourier Transform (DTFT) Definition
@@ -15,7 +17,7 @@ Parent macro: [[fourier-transform-analysis|Fourier Transform Analysis]]
 
 Parent competency:
 
-- [[L1-define-ft-and-dtft|L1- Define FT and DTFT]]
+- [[skills/mathematics/fourier-transform-analysis/competencies/L1-define-ft-and-dtft|L1- Define FT and DTFT]]
 
 ## Description
 

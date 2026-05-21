@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/superposition-theorem-application|Superposition Theorem Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/superposition-theorem-application|superposition-theorem-application]]"
 ---
 # Applying the Superposition Theorem
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/requirement-discovery-techniques|Requirement Discovery Techniques]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/requirement-discovery-techniques|requirement-discovery-techniques]]"
 ---
 # Requirement Discovery Techniques
 

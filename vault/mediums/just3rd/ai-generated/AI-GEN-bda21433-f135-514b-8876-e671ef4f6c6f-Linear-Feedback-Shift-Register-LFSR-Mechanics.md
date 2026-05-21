@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/linear-feedback-shift-register-lfsr-mechanics|Linear Feedback Shift Register (LFSR) Mechanics]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/linear-feedback-shift-register-lfsr-mechanics|linear-feedback-shift-register-lfsr-mechanics]]"
 ---
 # Understanding Linear Feedback Shift Register (LFSR) Mechanics
 

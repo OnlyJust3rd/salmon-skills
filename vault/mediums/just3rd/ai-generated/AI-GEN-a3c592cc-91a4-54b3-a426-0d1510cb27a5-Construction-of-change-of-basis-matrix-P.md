@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/construction-of-change-of-basis-matrix-p|Construction of change-of-basis matrix P]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/construction-of-change-of-basis-matrix-p|construction-of-change-of-basis-matrix-p]]"
 ---
 # Constructing the Change-of-Basis Matrix $P$
 

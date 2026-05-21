@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/socket-communication-flow|Socket Communication Flow]]"
+  - "[[skills/systems/networking/socket-programming/microskills/socket-communication-flow|socket-communication-flow]]"
 ---
 # Socket Communication Flow: The Heartbeat of Networked Applications
 

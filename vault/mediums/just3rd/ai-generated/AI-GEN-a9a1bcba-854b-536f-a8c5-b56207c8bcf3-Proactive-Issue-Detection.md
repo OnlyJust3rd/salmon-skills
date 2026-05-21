@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/proactive-issue-detection|Proactive Issue Detection]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/proactive-issue-detection|proactive-issue-detection]]"
 ---
 # Proactive Issue Detection: Catching Problems Early
 

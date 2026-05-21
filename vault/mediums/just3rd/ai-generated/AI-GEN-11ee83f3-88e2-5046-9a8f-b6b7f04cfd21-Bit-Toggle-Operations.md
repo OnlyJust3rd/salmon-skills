@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-toggle-operations|Bit Toggle Operations]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-toggle-operations|bit-toggle-operations]]"
 ---
 # Toggling Register Bits with XOR
 

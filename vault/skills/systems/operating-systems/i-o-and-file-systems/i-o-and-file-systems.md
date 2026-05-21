@@ -1,18 +1,47 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "I/O and File Systems"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 333 - Operating Systems"
-coverage:
-  - "Concept"
-  - "Analysis"
-  - "Implementation"
-competency-count: 6
-microskill-count: 25
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-333-operating-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-disk-geometry-and-terminology|L1-disk-geometry-and-terminology]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-file-allocation-methods-and-implications|L1-file-allocation-methods-and-implications]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-file-system-function-abstraction-and-access-methods|L1-file-system-function-abstraction-and-access-methods]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-journaling-file-systems|L1-journaling-file-systems]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-file-operation-commands|L2-file-operation-commands]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L3-disk-scheduling-analysis-and-function|L3-disk-scheduling-analysis-and-function]]"
+standard-competency:
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-file-operation-commands|L2-file-operation-commands]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L3-disk-scheduling-analysis-and-function|L3-disk-scheduling-analysis-and-function]]"
+microskills:
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/basic-file-management|basic-file-management]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/contiguous-file-allocation|contiguous-file-allocation]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/cylinder-definition|cylinder-definition]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-efficiency|data-access-efficiency]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-implications-of-geometry|data-access-implications-of-geometry]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-techniques|data-access-techniques]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-integrity-in-journaling|data-integrity-in-journaling]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-algorithm-efficiency|disk-scheduling-algorithm-efficiency]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-operational-mechanisms|disk-scheduling-operational-mechanisms]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-creation-commands|file-creation-commands]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-reading-commands|file-reading-commands]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-system-abstraction-purpose|file-system-abstraction-purpose]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-system-components|file-system-components]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-system-organization|file-system-organization]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-writing-commands|file-writing-commands]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/hard-disk-drive-geometry|hard-disk-drive-geometry]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/indexed-file-allocation|indexed-file-allocation]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/journaling-file-system-principles|journaling-file-system-principles]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/linked-file-allocation|linked-file-allocation]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/pre-application-recording|pre-application-recording]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/sector-definition|sector-definition]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/seek-time-metrics|seek-time-metrics]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/storage-efficiency|storage-efficiency]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/throughput-metrics|throughput-metrics]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/track-definition|track-definition]]"
 ---
 
 # I/O and File Systems
@@ -21,12 +50,12 @@ Designing and analyzing input/output systems and file storage mechanisms. Covers
 
 ## Competencies
 
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-file-allocation-methods-and-implications|L2- File Allocation Methods and Implications]]
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L4-disk-scheduling-analysis-and-function|L4- Disk Scheduling Analysis and Function]]
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-disk-geometry-and-terminology|L2- Disk Geometry and Terminology]]
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L3-file-operation-commands|L3- File Operation Commands]]
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-file-system-function-abstraction-and-access-methods|L2- File System Function, Abstraction, and Access Methods]]
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-journaling-file-systems|L2- Journaling File Systems]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-file-allocation-methods-and-implications|L2- File Allocation Methods and Implications]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L3-disk-scheduling-analysis-and-function|L4- Disk Scheduling Analysis and Function]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-disk-geometry-and-terminology|L2- Disk Geometry and Terminology]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-file-operation-commands|L3- File Operation Commands]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-file-system-function-abstraction-and-access-methods|L2- File System Function, Abstraction, and Access Methods]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-journaling-file-systems|L2- Journaling File Systems]]
 
 ## Microskills
 

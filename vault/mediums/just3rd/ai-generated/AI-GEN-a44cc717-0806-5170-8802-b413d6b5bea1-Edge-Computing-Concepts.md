@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/edge-computing-concepts|Edge Computing Concepts]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/edge-computing-concepts|edge-computing-concepts]]"
 ---
 # Edge Computing: Understanding the Core Concepts
 

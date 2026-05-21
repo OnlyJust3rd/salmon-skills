@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "MPI Send Function Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Parallel Programming"
-parent-competency: "L2- MPI Point-to-Point Implementation"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/parallel-programming/parallel-programming|parallel-programming]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/parallel-programming/competencies/L1-mpi-point-to-point-implementation|L1-mpi-point-to-point-implementation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # MPI Send Function Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/parallel-programming/p
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/parallel-programming/competencies/L2-mpi-point-to-point-implementation|L2- MPI Point-to-Point Implementation]]
+- [[skills/systems/high-performance-computing/parallel-programming/competencies/L1-mpi-point-to-point-implementation|L2- MPI Point-to-Point Implementation]]
 
 ## Description
 

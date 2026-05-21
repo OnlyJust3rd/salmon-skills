@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/iterative-validation-process|Iterative Validation Process]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/iterative-validation-process|iterative-validation-process]]"
 ---
 # The Iterative Validation Process: A Lean Startup Journey
 

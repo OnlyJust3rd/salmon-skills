@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/dynamic-programming-definitions|Dynamic Programming Definitions]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/dynamic-programming-definitions|dynamic-programming-definitions]]"
 ---
 # Dynamic Programming: The Core Idea
 

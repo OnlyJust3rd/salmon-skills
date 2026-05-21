@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/code-quality-assessment|Code Quality Assessment]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/code-quality-assessment|code-quality-assessment]]"
 ---
 # Assessing Code Quality for Refactoring
 

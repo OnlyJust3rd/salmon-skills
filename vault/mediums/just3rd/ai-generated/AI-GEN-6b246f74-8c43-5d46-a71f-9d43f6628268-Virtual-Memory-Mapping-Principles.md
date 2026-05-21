@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/virtual-memory-mapping-principles|Virtual Memory Mapping Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/virtual-memory-mapping-principles|virtual-memory-mapping-principles]]"
 ---
 # Virtual Memory Mapping Principles
 

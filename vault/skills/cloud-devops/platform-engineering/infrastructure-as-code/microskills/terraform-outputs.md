@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Terraform Outputs"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-parent-competency: "L3- Apply Terraform Building Blocks"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L2-apply-terraform-building-blocks]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Terraform Outputs
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/infrastructure-as-code/
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-apply-terraform-building-blocks|L3- Apply Terraform Building Blocks]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L3- Apply Terraform Building Blocks]]
 
 ## Description
 

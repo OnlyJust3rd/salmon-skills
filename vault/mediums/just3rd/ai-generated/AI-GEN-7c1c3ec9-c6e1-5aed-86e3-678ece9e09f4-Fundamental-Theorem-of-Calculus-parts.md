@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-parts|Fundamental Theorem of Calculus parts]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-parts|fundamental-theorem-of-calculus-parts]]"
 ---
 # Understanding the Parts of the Fundamental Theorem of Calculus
 

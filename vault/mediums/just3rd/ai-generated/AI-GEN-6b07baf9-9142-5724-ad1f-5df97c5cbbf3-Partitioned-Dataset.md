@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-lake/microskills/partitioned-dataset|Partitioned Dataset]]"
+  - "[[skills/data/data-platforms/data-lake/microskills/partitioned-dataset|partitioned-dataset]]"
 ---
 # Partitioning Datasets in a Data Lake
 

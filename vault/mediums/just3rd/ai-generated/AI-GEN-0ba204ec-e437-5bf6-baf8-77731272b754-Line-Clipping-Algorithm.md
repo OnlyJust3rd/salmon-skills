@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/line-clipping-algorithm|Line Clipping Algorithm]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/line-clipping-algorithm|line-clipping-algorithm]]"
 ---
 # Line Clipping Algorithms
 

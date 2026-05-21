@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/distributed-memory-system-elements|Distributed-Memory System Elements]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/distributed-memory-system-elements|distributed-memory-system-elements]]"
 ---
 # Distributed-Memory System Elements
 

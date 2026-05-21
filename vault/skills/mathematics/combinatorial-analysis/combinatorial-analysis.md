@@ -1,17 +1,21 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Combinatorial Analysis"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 1
-microskill-count: 5
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-111-discrete-mathematics-for-computer-engineers"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/combinatorial-analysis/competencies/L2-apply-combinatorial-techniques|L2-apply-combinatorial-techniques]]"
+standard-competency:
+  - "[[skills/mathematics/combinatorial-analysis/competencies/L2-apply-combinatorial-techniques|L2-apply-combinatorial-techniques]]"
+microskills:
+  - "[[skills/mathematics/combinatorial-analysis/microskills/combination-application|combination-application]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/combinatorial-problem-identification|combinatorial-problem-identification]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/counting-principles-application|counting-principles-application]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/permutation-application|permutation-application]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/technique-selection|technique-selection]]"
 ---
 
 # Combinatorial Analysis
@@ -20,7 +24,7 @@ Ability to apply counting principles, permutations, combinations, and discrete p
 
 ## Competencies
 
-- [[L3-apply-combinatorial-techniques|L3- Apply Combinatorial Techniques]]
+- [[skills/mathematics/combinatorial-analysis/competencies/L2-apply-combinatorial-techniques|L3- Apply Combinatorial Techniques]]
 
 ## Microskills
 

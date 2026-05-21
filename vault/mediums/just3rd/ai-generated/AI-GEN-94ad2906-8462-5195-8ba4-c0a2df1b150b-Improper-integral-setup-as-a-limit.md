@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/improper-integral-setup-as-a-limit|Improper integral setup as a limit]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/improper-integral-setup-as-a-limit|improper-integral-setup-as-a-limit]]"
 ---
 # Rewriting Improper Integrals as Limits
 

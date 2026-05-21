@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/key-hpc-hardware-components|Key HPC Hardware Components]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/key-hpc-hardware-components|key-hpc-hardware-components]]"
 ---
 # HPC System Components: Key Hardware Parts
 

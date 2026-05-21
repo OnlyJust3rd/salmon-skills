@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Edge Computing AI Tasks"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "Edge Computing"
-parent-competency: "L3- Implement and Explain Edge/Fog AI Workflows"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/edge-computing/edge-computing|edge-computing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/competencies/L2-implement-and-explain-edge-fog-ai-workflows|L2-implement-and-explain-edge-fog-ai-workflows]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Edge Computing AI Tasks
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/edge-computing/edg
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/edge-computing/competencies/L3-implement-and-explain-edge-fog-ai-workflows|L3- Implement and Explain Edge/Fog AI Workflows]]
+- [[skills/hardware-embedded/electronics-embedded/edge-computing/competencies/L2-implement-and-explain-edge-fog-ai-workflows|L3- Implement and Explain Edge/Fog AI Workflows]]
 
 ## Description
 

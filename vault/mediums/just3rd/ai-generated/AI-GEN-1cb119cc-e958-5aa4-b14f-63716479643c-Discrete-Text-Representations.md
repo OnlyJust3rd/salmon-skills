@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/discrete-text-representations|Discrete Text Representations]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/discrete-text-representations|discrete-text-representations]]"
 ---
 # Discrete Text Representations
 

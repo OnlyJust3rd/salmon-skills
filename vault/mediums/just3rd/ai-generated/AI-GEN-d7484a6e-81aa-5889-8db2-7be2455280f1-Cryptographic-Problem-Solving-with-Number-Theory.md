@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/cryptographic-problem-solving-with-number-theory|Cryptographic Problem Solving with Number Theory]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/cryptographic-problem-solving-with-number-theory|cryptographic-problem-solving-with-number-theory]]"
 ---
 # Cryptographic Problem Solving with Number Theory
 

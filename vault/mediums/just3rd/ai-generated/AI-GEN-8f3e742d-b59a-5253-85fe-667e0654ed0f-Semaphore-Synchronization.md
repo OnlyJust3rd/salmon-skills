@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/semaphore-synchronization|Semaphore Synchronization]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/semaphore-synchronization|semaphore-synchronization]]"
 ---
 # Semaphore Synchronization
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-commands|Terraform Commands]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-commands|terraform-commands]]"
 ---
 # Mastering Terraform Commands: init, plan, apply, destroy
 

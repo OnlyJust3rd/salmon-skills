@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Reconciliation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Networking"
-parent-competency: "L3- Apply Client Server Synchronization Concepts"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/game-networking/game-networking|game-networking]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/game-networking/competencies/L2-apply-client-server-synchronization-concepts|L2-apply-client-server-synchronization-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Reconciliation
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/game-networking/game-networking|Game N
 
 Parent competency:
 
-- [[skills/systems/networking/game-networking/competencies/L3-apply-client-server-synchronization-concepts|L3- Apply Client Server Synchronization Concepts]]
+- [[skills/systems/networking/game-networking/competencies/L2-apply-client-server-synchronization-concepts|L3- Apply Client Server Synchronization Concepts]]
 
 ## Description
 

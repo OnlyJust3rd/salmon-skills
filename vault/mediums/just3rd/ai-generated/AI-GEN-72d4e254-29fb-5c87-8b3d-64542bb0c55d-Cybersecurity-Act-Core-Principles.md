@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/cybersecurity-act-core-principles|Cybersecurity Act Core Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/cybersecurity-act-core-principles|cybersecurity-act-core-principles]]"
 ---
 # Understanding the Core Principles of Thailand's Cybersecurity Act
 

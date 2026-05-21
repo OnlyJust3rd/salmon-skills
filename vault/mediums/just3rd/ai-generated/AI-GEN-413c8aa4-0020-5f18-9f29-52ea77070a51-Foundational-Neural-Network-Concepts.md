@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/foundational-neural-network-concepts|Foundational Neural Network Concepts]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/foundational-neural-network-concepts|foundational-neural-network-concepts]]"
 ---
 # Foundational Neural Network Concepts
 

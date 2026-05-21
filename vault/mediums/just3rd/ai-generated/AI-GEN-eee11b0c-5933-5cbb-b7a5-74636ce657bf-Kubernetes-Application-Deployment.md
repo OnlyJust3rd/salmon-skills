@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-application-deployment|Kubernetes Application Deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-application-deployment|kubernetes-application-deployment]]"
 ---
 # Deploying Applications with Helm: A Practical Guide
 

@@ -1,19 +1,24 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Infrastructure event types"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure Alert"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Identify Infrastructure Metrics"
-  - "L1- List Golden Signals"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-identify-infrastructure-metrics|L1-identify-infrastructure-metrics]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-list-golden-signals|L1-list-golden-signals]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 6
-corresponding-course-competencies: []
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-alert/infrastructure-alert|infrastructure-alert]]"
+requires-microskills:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/application-error-rate-alerts|application-error-rate-alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/cpu-threshold-alerts|cpu-threshold-alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/disk-space-alerts|disk-space-alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/memory-threshold-alerts|memory-threshold-alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/network-latency-alerts|network-latency-alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/service-unavailability-alerts|service-unavailability-alerts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Infrastructure event types

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/rc-filter-cutoff-frequency-calculation|RC Filter Cutoff Frequency Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/rc-filter-cutoff-frequency-calculation|rc-filter-cutoff-frequency-calculation]]"
 ---
 # RC Filter Cutoff Frequency Calculation
 

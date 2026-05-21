@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/packet-forwarding-with-static-routes|Packet Forwarding with Static Routes]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/packet-forwarding-with-static-routes|packet-forwarding-with-static-routes]]"
 ---
 # Packet Forwarding with Static Routes
 

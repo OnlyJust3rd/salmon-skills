@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/trade-offs-in-avoidance-algorithms|Trade-offs in Avoidance Algorithms]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/trade-offs-in-avoidance-algorithms|trade-offs-in-avoidance-algorithms]]"
 ---
 # Analyzing Trade-offs in Deadlock Avoidance Algorithms
 

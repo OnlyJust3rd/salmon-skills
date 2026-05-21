@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/decoder-operational-principles|Decoder Operational Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/decoder-operational-principles|decoder-operational-principles]]"
 ---
 # Decoder Operational Principles
 

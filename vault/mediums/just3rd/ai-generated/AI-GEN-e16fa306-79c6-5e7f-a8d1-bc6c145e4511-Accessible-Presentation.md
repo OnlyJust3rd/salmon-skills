@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/web-accessibility/microskills/accessible-presentation|Accessible Presentation]]"
+  - "[[skills/web-and-design/frontend-ux/web-accessibility/microskills/accessible-presentation|accessible-presentation]]"
 ---
 # Accessible Presentation: Making Content Readable and Understandable
 

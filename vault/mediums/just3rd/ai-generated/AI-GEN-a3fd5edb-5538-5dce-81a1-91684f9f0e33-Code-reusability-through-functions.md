@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/modular-program-design/microskills/code-reusability-through-functions|Code reusability through functions]]"
+  - "[[skills/programming/software-engineering/modular-program-design/microskills/code-reusability-through-functions|code-reusability-through-functions]]"
 ---
 # Reusing Code with Functions in C
 

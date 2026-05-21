@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-accessibility|Market Accessibility]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-accessibility|market-accessibility]]"
 ---
 # Market Accessibility: Reaching Your Customers
 

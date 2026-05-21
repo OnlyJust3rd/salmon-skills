@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Definite integral evaluation using FTC"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Fundamental Theorem of Calculus"
-parent-competency: "L3- Apply FTC to Evaluate Integrals"
+  - "microskill"
+parent-skill: "[[skills/mathematics/fundamental-theorem-of-calculus/fundamental-theorem-of-calculus|fundamental-theorem-of-calculus]]"
+requires-in-competencies:
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/competencies/L2-apply-ftc-to-evaluate-integrals|L2-apply-ftc-to-evaluate-integrals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Definite integral evaluation using FTC
@@ -15,7 +17,7 @@ Parent macro: [[fundamental-theorem-of-calculus|Fundamental Theorem of Calculus]
 
 Parent competency:
 
-- [[L3-apply-ftc-to-evaluate-integrals|L3- Apply FTC to Evaluate Integrals]]
+- [[skills/mathematics/fundamental-theorem-of-calculus/competencies/L2-apply-ftc-to-evaluate-integrals|L3- Apply FTC to Evaluate Integrals]]
 
 ## Description
 

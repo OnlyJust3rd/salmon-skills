@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-machine-learning-in-python-workflow-steps|Implement Machine Learning in Python workflow steps]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-machine-learning-in-python-workflow-steps|implement-machine-learning-in-python-workflow-steps]]"
 ---
 # Implementing a Python Machine Learning Workflow
 

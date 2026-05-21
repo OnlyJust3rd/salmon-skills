@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-object-configuration|Kubernetes Object Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-object-configuration|kubernetes-object-configuration]]"
 ---
 # Kubernetes Object Configuration with YAML
 

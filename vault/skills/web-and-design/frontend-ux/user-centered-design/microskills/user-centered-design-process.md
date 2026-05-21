@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "User-Centered Design Process"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "User-Centered Design"
-parent-competency: "L2- Describe UCD Process and User Needs"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/user-centered-design/user-centered-design|user-centered-design]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/competencies/L1-describe-ucd-process-and-user-needs|L1-describe-ucd-process-and-user-needs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # User-Centered Design Process
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/user-centered-design/user-cent
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/user-centered-design/competencies/L2-describe-ucd-process-and-user-needs|L2- Describe UCD Process and User Needs]]
+- [[skills/web-and-design/frontend-ux/user-centered-design/competencies/L1-describe-ucd-process-and-user-needs|L2- Describe UCD Process and User Needs]]
 
 ## Description
 

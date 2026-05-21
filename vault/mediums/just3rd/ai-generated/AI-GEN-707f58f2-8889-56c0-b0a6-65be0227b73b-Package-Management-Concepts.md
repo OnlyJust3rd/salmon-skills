@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/package-management-concepts|Package Management Concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/package-management-concepts|package-management-concepts]]"
 ---
 # Understanding Package Management Concepts in Linux
 

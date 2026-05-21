@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/on-demand-pricing|On-Demand Pricing]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/on-demand-pricing|on-demand-pricing]]"
 ---
 # Understanding On-Demand Cloud Pricing
 

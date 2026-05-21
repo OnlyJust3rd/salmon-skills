@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/html/microskills/semantic-text-and-lists|Semantic text and lists]]"
+  - "[[skills/web-and-design/frontend-ux/html/microskills/semantic-text-and-lists|semantic-text-and-lists]]"
 ---
 # Semantic Text and Lists in HTML
 

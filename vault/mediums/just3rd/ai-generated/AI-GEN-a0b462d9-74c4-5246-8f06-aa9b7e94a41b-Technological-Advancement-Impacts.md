@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/technological-advancement-impacts|Technological Advancement Impacts]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/technological-advancement-impacts|technological-advancement-impacts]]"
 ---
 # Understanding Pollution and E-waste from Technology
 

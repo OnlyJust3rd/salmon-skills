@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/level-design/microskills/choke-points-cover-points-pathways|Choke Points, Cover Points, Pathways]]"
+  - "[[skills/creative-media/game-development/level-design/microskills/choke-points-cover-points-pathways|choke-points-cover-points-pathways]]"
 ---
 # Understanding Level Design Elements: Choke Points, Cover Points, and Pathways
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/three-dimensional-appearance-enhancement|Three-Dimensional Appearance Enhancement]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/three-dimensional-appearance-enhancement|three-dimensional-appearance-enhancement]]"
 ---
 # Enhancing Three-Dimensional Appearance
 

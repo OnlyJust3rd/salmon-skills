@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/phase-spectrum-interpretation|Phase Spectrum Interpretation]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/phase-spectrum-interpretation|phase-spectrum-interpretation]]"
 ---
 # Understanding the Phase Spectrum
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/model-free-rl-principles|Model-free RL principles]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/model-free-rl-principles|model-free-rl-principles]]"
 ---
 # Model-Free Reinforcement Learning Principles
 

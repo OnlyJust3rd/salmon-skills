@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/css/microskills/selector-specificity|Selector specificity]]"
+  - "[[skills/web-and-design/frontend-ux/css/microskills/selector-specificity|selector-specificity]]"
 ---
 # Understanding Selector Specificity
 

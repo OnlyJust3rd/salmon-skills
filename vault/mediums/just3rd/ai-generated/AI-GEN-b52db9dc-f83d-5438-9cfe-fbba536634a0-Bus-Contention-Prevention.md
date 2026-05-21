@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-contention-prevention|Bus Contention Prevention]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-contention-prevention|bus-contention-prevention]]"
 ---
 # Preventing Bus Wars: Understanding Tri-State Buffers
 

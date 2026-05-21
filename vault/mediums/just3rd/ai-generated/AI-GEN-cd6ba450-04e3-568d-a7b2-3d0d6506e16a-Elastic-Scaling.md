@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/elastic-scaling|Elastic Scaling]]"
+  - "[[skills/data/data-platforms/cloud-data-warehouse/microskills/elastic-scaling|elastic-scaling]]"
 ---
 # Elastic Scaling in Cloud Data Warehouses
 

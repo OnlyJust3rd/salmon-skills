@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Computational Problem Solving"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 100 - Computer Programming for Engineers, CPE 231 - Algorithms"
-parent-macro: "Computational Problem Solving"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/algorithms/computational-problem-solving/computational-problem-solving|computational-problem-solving]]"
+requires-microskills:
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/correctness-concept|correctness-concept]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/problem-specification|problem-specification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Computational Problem Solving

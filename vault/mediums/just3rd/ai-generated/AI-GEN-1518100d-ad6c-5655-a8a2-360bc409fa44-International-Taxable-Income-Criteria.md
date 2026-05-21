@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/international-taxable-income-criteria|International Taxable Income Criteria]]"
+  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/international-taxable-income-criteria|international-taxable-income-criteria]]"
 ---
 # Understanding International Taxable Income Criteria
 

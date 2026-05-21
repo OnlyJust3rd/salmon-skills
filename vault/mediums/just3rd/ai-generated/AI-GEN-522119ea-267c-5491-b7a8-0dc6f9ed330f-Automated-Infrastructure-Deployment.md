@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automated-infrastructure-deployment|Automated Infrastructure Deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automated-infrastructure-deployment|automated-infrastructure-deployment]]"
 ---
 # Automated Infrastructure Deployment
 

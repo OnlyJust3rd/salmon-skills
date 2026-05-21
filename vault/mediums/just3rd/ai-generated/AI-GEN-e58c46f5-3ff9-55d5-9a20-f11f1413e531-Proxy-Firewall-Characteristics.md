@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/network-security-access-control/microskills/proxy-firewall-characteristics|Proxy Firewall Characteristics]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/proxy-firewall-characteristics|proxy-firewall-characteristics]]"
 ---
 # Proxy Firewall Characteristics
 

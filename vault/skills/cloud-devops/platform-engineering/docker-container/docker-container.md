@@ -1,19 +1,67 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Docker Container"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 10
-microskill-count: 40
-related-jobs:
-  - "DevOps Engineer"
-  - "Cloud Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-container-commands|L1-container-commands]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-container-states|L1-container-states]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-describe-container-pod-relationship|L1-describe-container-pod-relationship]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-docker-volume-data-persistence|L1-docker-volume-data-persistence]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-explain-volume-persistence|L1-explain-volume-persistence]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-image-layering|L1-image-layering]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-monolith-to-microservices-shift|L1-monolith-to-microservices-shift]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-container-lifecycle-management|L2-container-lifecycle-management]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-dockerfile-construction|L2-dockerfile-construction]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-implement-docker-volumes|L2-implement-docker-volumes]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-container-lifecycle-management|L2-container-lifecycle-management]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-dockerfile-construction|L2-dockerfile-construction]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-implement-docker-volumes|L2-implement-docker-volumes]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/application-environment-setup|application-environment-setup]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/architectural-design-principles|architectural-design-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/best-practices-in-dockerfiles|best-practices-in-dockerfiles]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/build-cache-utilization|build-cache-utilization]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-as-pod-component|container-as-pod-component]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-image-creation|container-image-creation]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-lifecycle-independence|container-lifecycle-independence]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-removal-operations|container-removal-operations]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-start-operations|container-start-operations]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-state-transitions|container-state-transitions]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-stop-operations|container-stop-operations]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/created-container-state|created-container-state]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-availability-across-containers|data-availability-across-containers]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-durability-in-containers|data-durability-in-containers]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-migration-with-volumes|data-migration-with-volumes]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-persistence-mechanism|data-persistence-mechanism]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-image-layers|docker-image-layers]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-ps-command|docker-ps-command]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-rm-command|docker-rm-command]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-run-command|docker-run-command]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-stop-command|docker-stop-command]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-volume-creation|docker-volume-creation]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/dockerfile-instructions-application|dockerfile-instructions-application]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/exited-container-state|exited-container-state]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/image-size-optimization|image-size-optimization]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/layered-architecture|layered-architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/microservices-architecture-characteristics|microservices-architecture-characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/monolithic-architecture-characteristics|monolithic-architecture-characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/persistent-data-storage|persistent-data-storage]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/pod-abstraction|pod-abstraction]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/running-container-state|running-container-state]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/shared-network-namespace|shared-network-namespace]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/shared-storage-volumes|shared-storage-volumes]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/stopped-container-state|stopped-container-state]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/transition-rationale|transition-rationale]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-attachment-to-containers|volume-attachment-to-containers]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-data-management|volume-data-management]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-lifecycle|volume-lifecycle]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-management-commands|volume-management-commands]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-mounting-strategies|volume-mounting-strategies]]"
 ---
 
 # Docker Container
@@ -22,16 +70,16 @@ Create Dockerfiles to build container images. Manage the container lifecycle, in
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L3-dockerfile-construction|L3- Dockerfile Construction]]
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-image-layering|L2- Image Layering]]
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L3-container-lifecycle-management|L3- Container Lifecycle Management]]
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-container-states|L2- Container States]]
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L3-implement-docker-volumes|L3- Implement Docker volumes]]
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-explain-volume-persistence|L2- Explain volume persistence]]
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-monolith-to-microservices-shift|L2- Monolith to Microservices Shift]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-dockerfile-construction|L3- Dockerfile Construction]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-image-layering|L2- Image Layering]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-container-lifecycle-management|L3- Container Lifecycle Management]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-container-states|L2- Container States]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-implement-docker-volumes|L3- Implement Docker volumes]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-explain-volume-persistence|L2- Explain volume persistence]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-monolith-to-microservices-shift|L2- Monolith to Microservices Shift]]
 - [[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-container-commands|L1- Container Commands]]
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-docker-volume-data-persistence|L2- Docker Volume Data Persistence]]
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-describe-container-pod-relationship|L2- Describe Container-Pod Relationship]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-docker-volume-data-persistence|L2- Docker Volume Data Persistence]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-describe-container-pod-relationship|L2- Describe Container-Pod Relationship]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-mining/microskills/client-server-communication-flow|Client-Server Communication Flow]]"
+  - "[[skills/data/data-science/text-mining/microskills/client-server-communication-flow|client-server-communication-flow]]"
 ---
 # Client-Server Communication Flow
 

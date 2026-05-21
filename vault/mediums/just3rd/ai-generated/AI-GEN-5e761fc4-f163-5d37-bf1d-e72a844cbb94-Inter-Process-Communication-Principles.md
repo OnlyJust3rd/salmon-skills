@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/inter-process-communication-principles|Inter-Process Communication Principles]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/inter-process-communication-principles|inter-process-communication-principles]]"
 ---
 # Understanding Inter-Process Communication Principles
 

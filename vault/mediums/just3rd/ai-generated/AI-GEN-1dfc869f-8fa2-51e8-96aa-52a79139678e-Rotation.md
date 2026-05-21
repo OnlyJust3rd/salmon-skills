@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/rotation|Rotation]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/rotation|rotation]]"
 ---
 # Understanding Rotation in Geometric Transformations
 

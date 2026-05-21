@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/graph-algorithm-implementation|Graph Algorithm Implementation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/graph-algorithm-implementation|graph-algorithm-implementation]]"
 ---
 # Implementing Graph Traversal: Breadth-First Search in Java
 

@@ -1,18 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "C# Programming"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - game development production skills"
-coverage:
-  - "Language"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Unity Developer"
-  - "Gameplay Programmer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/programming-languages/c-sharp-programming/competencies/L1-explain-c-sharp-syntax-and-oop-constructs|L1-explain-c-sharp-syntax-and-oop-constructs]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/competencies/L2-implement-basic-c-sharp-programs|L2-implement-basic-c-sharp-programs]]"
+standard-competency:
+  - "[[skills/programming/programming-languages/c-sharp-programming/competencies/L2-implement-basic-c-sharp-programs|L2-implement-basic-c-sharp-programs]]"
+microskills:
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/c-sharp-class|c-sharp-class]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/c-sharp-collection|c-sharp-collection]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/c-sharp-event|c-sharp-event]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/c-sharp-method|c-sharp-method]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/control-flow|control-flow]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|object-instantiation]]"
 ---
 
 # C# Programming
@@ -21,8 +26,8 @@ Using C# syntax, object-oriented constructs, collections, and event-driven scrip
 
 ## Competencies
 
-- [[skills/programming/programming-languages/c-sharp-programming/competencies/L2-explain-c-sharp-syntax-and-oop-constructs|L2- Explain C# Syntax and OOP Constructs]]
-- [[skills/programming/programming-languages/c-sharp-programming/competencies/L3-implement-basic-c-sharp-programs|L3- Implement Basic C# Programs]]
+- [[skills/programming/programming-languages/c-sharp-programming/competencies/L1-explain-c-sharp-syntax-and-oop-constructs|L2- Explain C# Syntax and OOP Constructs]]
+- [[skills/programming/programming-languages/c-sharp-programming/competencies/L2-implement-basic-c-sharp-programs|L3- Implement Basic C# Programs]]
 
 ## Microskills
 

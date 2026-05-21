@@ -1,17 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Usability Methods"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "User Experience"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/web-and-design/frontend-ux/user-experience/user-experience|user-experience]]"
+requires-microskills:
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/card-sorting|card-sorting]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/heuristic-evaluation|heuristic-evaluation]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/moderated-usability-testing|moderated-usability-testing]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/unmoderated-usability-testing|unmoderated-usability-testing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Usability Methods

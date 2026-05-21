@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Corporate Department Names"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Corporate Functions"
-parent-competency: "L1- List Corporate Departments"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/corporate-functions/corporate-functions|corporate-functions]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/corporate-functions/competencies/L1-list-corporate-departments|L1-list-corporate-departments]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Corporate Department Names

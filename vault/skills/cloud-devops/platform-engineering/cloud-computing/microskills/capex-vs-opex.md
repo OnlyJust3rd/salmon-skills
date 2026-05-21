@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "CAPEX vs. OPEX"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud Computing"
-parent-competency: "L4- Cloud Financial Paradigm"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-computing/cloud-computing|cloud-computing]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-cloud-financial-paradigm|L3-cloud-financial-paradigm]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # CAPEX vs. OPEX
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-computing/cloud-c
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L4-cloud-financial-paradigm|L4- Cloud Financial Paradigm]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-cloud-financial-paradigm|L4- Cloud Financial Paradigm]]
 
 ## Description
 

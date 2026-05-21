@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/fan-out-impact|Fan-out Impact]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/fan-out-impact|fan-out-impact]]"
 ---
 # Fan-out: How Many Loads Can a Logic Gate Drive?
 

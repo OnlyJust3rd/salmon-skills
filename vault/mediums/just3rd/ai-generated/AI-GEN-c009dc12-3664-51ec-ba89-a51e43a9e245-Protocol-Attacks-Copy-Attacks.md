@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attacks-copy-attacks|Protocol Attacks (Copy Attacks)]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attacks-copy-attacks|protocol-attacks-copy-attacks]]"
 ---
 # Protocol Attacks: Copy Attacks in Digital Watermarking
 

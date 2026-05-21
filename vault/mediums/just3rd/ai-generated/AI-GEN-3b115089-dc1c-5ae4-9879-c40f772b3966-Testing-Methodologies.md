@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/testing-methodologies|Testing Methodologies]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/testing-methodologies|testing-methodologies]]"
 ---
 # Testing Methodologies in Iterative Prototyping
 

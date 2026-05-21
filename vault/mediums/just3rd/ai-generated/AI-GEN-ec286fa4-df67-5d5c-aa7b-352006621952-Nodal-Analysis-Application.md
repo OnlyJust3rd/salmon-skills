@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/nodal-analysis-application|Nodal Analysis Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/nodal-analysis-application|nodal-analysis-application]]"
 ---
 # Nodal Analysis Application
 

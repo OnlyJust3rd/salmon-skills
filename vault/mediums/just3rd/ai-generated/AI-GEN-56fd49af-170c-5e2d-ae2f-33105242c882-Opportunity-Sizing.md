@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/product-strategy/microskills/opportunity-sizing|Opportunity Sizing]]"
+  - "[[skills/business-it/business-product/product-strategy/microskills/opportunity-sizing|opportunity-sizing]]"
 ---
 # Opportunity Sizing: Estimating Relative Value or Impact
 

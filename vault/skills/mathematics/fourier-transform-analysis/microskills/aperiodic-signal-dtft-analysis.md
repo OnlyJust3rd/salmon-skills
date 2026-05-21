@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Aperiodic Signal DTFT Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Fourier Transform Analysis"
-parent-competency: "L3- Apply FT/DTFT to aperiodic signals"
+  - "microskill"
+parent-skill: "[[skills/mathematics/fourier-transform-analysis/fourier-transform-analysis|fourier-transform-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/fourier-transform-analysis/competencies/L2-apply-ft-dtft-to-aperiodic-signals|L2-apply-ft-dtft-to-aperiodic-signals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Aperiodic Signal DTFT Analysis
@@ -15,7 +17,7 @@ Parent macro: [[fourier-transform-analysis|Fourier Transform Analysis]]
 
 Parent competency:
 
-- [[L3-apply-ft-dtft-to-aperiodic-signals|L3- Apply FT/DTFT to aperiodic signals]]
+- [[skills/mathematics/fourier-transform-analysis/competencies/L2-apply-ft-dtft-to-aperiodic-signals|L3- Apply FT/DTFT to aperiodic signals]]
 
 ## Description
 

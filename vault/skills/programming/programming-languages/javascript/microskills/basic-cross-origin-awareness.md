@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Basic cross-origin awareness"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "JavaScript"
-parent-competency: "L3- Implement Client-Side Scripts and Fetch JSON"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/javascript/javascript|javascript]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/javascript/competencies/L2-implement-client-side-scripts-and-fetch-json|L2-implement-client-side-scripts-and-fetch-json]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Basic cross-origin awareness
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/javascript/javascript|J
 
 Parent competency:
 
-- [[skills/programming/programming-languages/javascript/competencies/L3-implement-client-side-scripts-and-fetch-json|L3- Implement Client-Side Scripts and Fetch JSON]]
+- [[skills/programming/programming-languages/javascript/competencies/L2-implement-client-side-scripts-and-fetch-json|L3- Implement Client-Side Scripts and Fetch JSON]]
 
 ## Description
 

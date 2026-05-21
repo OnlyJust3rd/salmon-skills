@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/data-compression-demonstration|Data Compression Demonstration]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/data-compression-demonstration|data-compression-demonstration]]"
 ---
 # Demonstrating Huffman Coding for Data Compression
 

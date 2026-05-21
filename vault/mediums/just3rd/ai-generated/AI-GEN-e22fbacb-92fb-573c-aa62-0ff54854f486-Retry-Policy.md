@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-airflow/microskills/retry-policy|Retry Policy]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/retry-policy|retry-policy]]"
 ---
 # Task Retries with Airflow's Retry Policy
 

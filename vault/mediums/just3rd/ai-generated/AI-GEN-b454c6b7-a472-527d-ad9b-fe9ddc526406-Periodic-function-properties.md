@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-computation/microskills/periodic-function-properties|Periodic function properties]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/periodic-function-properties|periodic-function-properties]]"
 ---
 # Understanding Periodic Functions
 

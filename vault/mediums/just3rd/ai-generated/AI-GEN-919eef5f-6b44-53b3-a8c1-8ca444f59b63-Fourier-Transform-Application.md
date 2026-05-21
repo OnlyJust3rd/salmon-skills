@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/fourier-transform-application|Fourier Transform Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/fourier-transform-application|fourier-transform-application]]"
 ---
 # Applying the Fourier Transform to Digital Images
 

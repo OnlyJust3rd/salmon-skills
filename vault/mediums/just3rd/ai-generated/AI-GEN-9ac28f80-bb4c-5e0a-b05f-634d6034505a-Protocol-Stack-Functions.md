@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/computer-network-architecture/microskills/protocol-stack-functions|Protocol Stack Functions]]"
+  - "[[skills/systems/networking/computer-network-architecture/microskills/protocol-stack-functions|protocol-stack-functions]]"
 ---
 # Understanding Protocol Stack Functions
 

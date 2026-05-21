@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-resources|Terraform Resources]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-resources|terraform-resources]]"
 ---
 # Terraform Resources: Defining Infrastructure Components
 

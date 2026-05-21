@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/media-comparison|Media Comparison]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/media-comparison|media-comparison]]"
 ---
 # Differentiating Guided vs. Unguided Transmission Media
 

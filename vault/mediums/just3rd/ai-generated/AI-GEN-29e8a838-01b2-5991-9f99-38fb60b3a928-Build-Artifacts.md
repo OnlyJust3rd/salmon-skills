@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/artifact-management/microskills/build-artifacts|Build Artifacts]]"
+  - "[[skills/cloud-devops/platform-engineering/artifact-management/microskills/build-artifacts|build-artifacts]]"
 ---
 # Understanding Build Artifacts
 

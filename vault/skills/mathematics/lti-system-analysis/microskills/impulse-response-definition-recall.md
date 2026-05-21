@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Impulse Response Definition Recall"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "LTI System Analysis"
-parent-competency: "L3- Compute LTI Impulse Response"
+  - "microskill"
+parent-skill: "[[skills/mathematics/lti-system-analysis/lti-system-analysis|lti-system-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/lti-system-analysis/competencies/L2-compute-lti-impulse-response|L2-compute-lti-impulse-response]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Impulse Response Definition Recall
@@ -15,7 +17,7 @@ Parent macro: [[lti-system-analysis|LTI System Analysis]]
 
 Parent competency:
 
-- [[L3-compute-lti-impulse-response|L3- Compute LTI Impulse Response]]
+- [[skills/mathematics/lti-system-analysis/competencies/L2-compute-lti-impulse-response|L3- Compute LTI Impulse Response]]
 
 ## Description
 

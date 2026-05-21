@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Confidentiality"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Cryptographic Fundamentals"
-parent-competency: "L2- Core Security Principles Explained"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/cryptographic-fundamentals/cryptographic-fundamentals|cryptographic-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-core-security-principles-explained|L1-core-security-principles-explained]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Confidentiality
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/cryptographic-fundamentals/cryptog
 
 Parent competency:
 
-- [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L2-core-security-principles-explained|L2- Core Security Principles Explained]]
+- [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-core-security-principles-explained|L2- Core Security Principles Explained]]
 
 ## Description
 

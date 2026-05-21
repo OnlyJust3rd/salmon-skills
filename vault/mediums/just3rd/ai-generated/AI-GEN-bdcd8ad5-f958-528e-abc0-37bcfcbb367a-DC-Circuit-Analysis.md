@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/dc-circuit-analysis|DC Circuit Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/dc-circuit-analysis|dc-circuit-analysis]]"
 ---
 # Applying Mesh and Nodal Analysis to DC Circuits
 

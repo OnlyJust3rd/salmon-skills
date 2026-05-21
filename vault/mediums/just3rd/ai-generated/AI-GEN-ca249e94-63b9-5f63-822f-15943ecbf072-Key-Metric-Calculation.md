@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/key-metric-calculation|Key Metric Calculation]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/key-metric-calculation|key-metric-calculation]]"
 ---
 # Calculating Key Usability Metrics
 

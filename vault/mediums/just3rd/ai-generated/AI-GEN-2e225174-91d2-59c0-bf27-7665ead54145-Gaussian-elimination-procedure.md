@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/gaussian-elimination-procedure|Gaussian elimination procedure]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/gaussian-elimination-procedure|gaussian-elimination-procedure]]"
 ---
 # Understanding Gaussian Elimination: The Row Operations
 

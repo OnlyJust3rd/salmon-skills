@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Data Visualization Creation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Python"
-parent-competency: "L3- Visualization Generation"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/python/python|python]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/python/competencies/L2-visualization-generation|L2-visualization-generation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Data Visualization Creation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/python/python|Python]]
 
 Parent competency:
 
-- [[skills/programming/programming-languages/python/competencies/L3-visualization-generation|L3- Visualization Generation]]
+- [[skills/programming/programming-languages/python/competencies/L2-visualization-generation|L3- Visualization Generation]]
 
 ## Description
 

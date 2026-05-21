@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/svd-implementation|SVD implementation]]"
+  - "[[skills/data/data-science/machine-learning/microskills/svd-implementation|svd-implementation]]"
 ---
 # Singular Value Decomposition (SVD) for Dimensionality Reduction
 

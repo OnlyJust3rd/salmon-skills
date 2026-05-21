@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/cost-structure-dependencies|Cost Structure Dependencies]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/cost-structure-dependencies|cost-structure-dependencies]]"
 ---
 # Cost Structure Dependencies
 

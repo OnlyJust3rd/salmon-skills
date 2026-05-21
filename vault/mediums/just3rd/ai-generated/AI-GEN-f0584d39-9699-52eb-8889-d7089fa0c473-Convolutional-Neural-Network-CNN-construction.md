@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/convolutional-neural-network-cnn-construction|Convolutional Neural Network (CNN) construction]]"
+  - "[[skills/data/ai/deep-learning/microskills/convolutional-neural-network-cnn-construction|convolutional-neural-network-cnn-construction]]"
 ---
 # Building a Basic Convolutional Neural Network (CNN)
 

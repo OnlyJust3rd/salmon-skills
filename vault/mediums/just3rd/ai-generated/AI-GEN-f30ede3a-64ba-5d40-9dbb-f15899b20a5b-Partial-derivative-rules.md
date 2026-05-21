@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/partial-derivative-rules|Partial derivative rules]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/partial-derivative-rules|partial-derivative-rules]]"
 ---
 # Recalling Partial Derivative Rules
 

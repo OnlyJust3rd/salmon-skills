@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-slave-data-transfer|SPI Slave Data Transfer]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-slave-data-transfer|spi-slave-data-transfer]]"
 ---
 # SPI Slave Data Transfer with AVR Microcontrollers
 

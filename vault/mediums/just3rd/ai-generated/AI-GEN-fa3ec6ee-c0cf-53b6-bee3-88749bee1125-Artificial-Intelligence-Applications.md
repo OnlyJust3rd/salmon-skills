@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/artificial-intelligence-applications|Artificial Intelligence Applications]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/artificial-intelligence-applications|artificial-intelligence-applications]]"
 ---
 # Artificial Intelligence Applications
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/azure-policy-compliance|Azure Policy Compliance]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/azure-policy-compliance|azure-policy-compliance]]"
 ---
 # Azure Policy Compliance: Auditing and Remediation
 

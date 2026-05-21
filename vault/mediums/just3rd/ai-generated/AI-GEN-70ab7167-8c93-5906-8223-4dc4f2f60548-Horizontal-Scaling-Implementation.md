@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/horizontal-scaling-implementation|Horizontal Scaling Implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/horizontal-scaling-implementation|horizontal-scaling-implementation]]"
 ---
 # Implementing Horizontal Scaling with VM Scale Sets
 

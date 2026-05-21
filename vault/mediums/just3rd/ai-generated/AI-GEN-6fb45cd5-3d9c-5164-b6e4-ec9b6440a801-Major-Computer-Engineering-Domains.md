@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/major-computer-engineering-domains|Major Computer Engineering Domains]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/major-computer-engineering-domains|major-computer-engineering-domains]]"
 ---
 # Major Computer Engineering Domains
 

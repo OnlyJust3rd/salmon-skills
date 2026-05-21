@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/application-of-number-formats|Application of Number Formats]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/application-of-number-formats|application-of-number-formats]]"
 ---
 # Applying Number Formats in Arithmetic
 

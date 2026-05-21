@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-classification/microskills/deep-learning-text-classifier-implementation|Deep Learning Text Classifier Implementation]]"
+  - "[[skills/data/data-science/text-classification/microskills/deep-learning-text-classifier-implementation|deep-learning-text-classifier-implementation]]"
 ---
 # Implementing a Deep Learning Text Classifier
 

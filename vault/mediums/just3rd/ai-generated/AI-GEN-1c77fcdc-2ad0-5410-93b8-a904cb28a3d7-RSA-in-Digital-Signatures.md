@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/rsa-in-digital-signatures|RSA in Digital Signatures]]"
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/rsa-in-digital-signatures|rsa-in-digital-signatures]]"
 ---
 # RSA in Digital Signatures
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-lock-implementation|Fetch-and-Add Lock Implementation]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-lock-implementation|fetch-and-add-lock-implementation]]"
 ---
 # Fetch-and-Add Lock Implementation
 

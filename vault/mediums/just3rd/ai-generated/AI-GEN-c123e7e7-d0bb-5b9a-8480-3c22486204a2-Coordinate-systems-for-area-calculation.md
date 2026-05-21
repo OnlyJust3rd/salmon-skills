@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/coordinate-systems-for-area-calculation|Coordinate systems for area calculation]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/coordinate-systems-for-area-calculation|coordinate-systems-for-area-calculation]]"
 ---
 # Coordinate Systems for Area Calculation: Understanding the 'Why'
 

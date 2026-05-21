@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Deadlock Conditions"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Deadlock Management"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain Race Conditions and Synchronization Need"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L1-explain-race-conditions-and-synchronization-need|L1-explain-race-conditions-and-synchronization-need]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/operating-systems/deadlock-management/deadlock-management|deadlock-management]]"
+requires-microskills:
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/circular-wait-condition|circular-wait-condition]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/hold-and-wait-condition|hold-and-wait-condition]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|mutual-exclusion-condition]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/no-preemption-condition|no-preemption-condition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Deadlock Conditions
@@ -25,7 +28,7 @@ Define the four necessary conditions for deadlock: mutual exclusion, hold and wa
 
 ## Strict Prerequisites
 
-- [[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L2-explain-race-conditions-and-synchronization-need|L2- Explain Race Conditions and Synchronization Need]]
+- [[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L1-explain-race-conditions-and-synchronization-need|L2- Explain Race Conditions and Synchronization Need]]
 
 ## Optional Prerequisites
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-capacity|Attack Impact on Capacity]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-capacity|attack-impact-on-capacity]]"
 ---
 # Attack Impact on Watermarking Capacity
 

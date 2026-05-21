@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/purpose-of-path-planning|Purpose of Path Planning]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/purpose-of-path-planning|purpose-of-path-planning]]"
 ---
 # The Crucial Role of Path Planning in Mobile Robotics
 

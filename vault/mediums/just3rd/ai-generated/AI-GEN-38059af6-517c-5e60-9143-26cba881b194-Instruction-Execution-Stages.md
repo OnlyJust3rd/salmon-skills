@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-execution-stages|Instruction Execution Stages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-execution-stages|instruction-execution-stages]]"
 ---
 # Understanding Instruction Execution Stages
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-analysis/microskills/periodic-signal-decomposition-principle|Periodic Signal Decomposition Principle]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/periodic-signal-decomposition-principle|periodic-signal-decomposition-principle]]"
 ---
 # Decomposing Periodic Signals into Sinusoids
 

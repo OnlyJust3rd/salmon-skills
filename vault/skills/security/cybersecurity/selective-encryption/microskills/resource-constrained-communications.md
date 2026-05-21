@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Resource-Constrained Communications"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Selective Encryption"
-parent-competency: "L1- Goals and Context of Selective Encryption"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/selective-encryption/selective-encryption|selective-encryption]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/selective-encryption/competencies/L1-goals-and-context-of-selective-encryption|L1-goals-and-context-of-selective-encryption]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Resource-Constrained Communications

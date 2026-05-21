@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-core-principles|Sustainable Development Goals Core Principles]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-core-principles|sustainable-development-goals-core-principles]]"
 ---
 # Understanding the Core Principles of the Sustainable Development Goals (SDGs)
 

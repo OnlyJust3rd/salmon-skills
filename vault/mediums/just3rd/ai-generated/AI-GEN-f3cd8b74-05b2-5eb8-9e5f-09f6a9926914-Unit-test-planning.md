@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/unit-test-planning|Unit test planning]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/unit-test-planning|unit-test-planning]]"
 ---
 # Planning Your C Unit Tests: From Function to Verification
 

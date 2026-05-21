@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/sketching-design-alternatives|Sketching Design Alternatives]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/sketching-design-alternatives|sketching-design-alternatives]]"
 ---
 # Sketching Design Alternatives: Bringing UX Principles to Life
 

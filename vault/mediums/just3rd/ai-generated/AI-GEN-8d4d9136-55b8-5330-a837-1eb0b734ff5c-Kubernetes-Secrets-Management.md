@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-secrets-management|Kubernetes Secrets Management]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-secrets-management|kubernetes-secrets-management]]"
 ---
 # Kubernetes Secrets Management
 

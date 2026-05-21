@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/hash-table-use-cases|Hash Table Use Cases]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/hash-table-use-cases|hash-table-use-cases]]"
 ---
 # Hash Table Use Cases
 

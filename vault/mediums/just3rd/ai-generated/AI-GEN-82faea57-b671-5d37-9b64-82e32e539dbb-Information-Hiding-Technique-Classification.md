@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/information-hiding-technique-classification|Information Hiding Technique Classification]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/information-hiding-technique-classification|information-hiding-technique-classification]]"
 ---
 # Classifying Information Hiding Techniques
 

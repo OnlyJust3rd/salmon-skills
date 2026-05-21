@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-classification/microskills/naive-bayes-algorithm-principles|Naïve Bayes Algorithm Principles]]"
+  - "[[skills/data/data-science/text-classification/microskills/naive-bayes-algorithm-principles|naive-bayes-algorithm-principles]]"
 ---
 # Understanding the Naïve Bayes Algorithm Principles
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/c-control-flow-statement-application|C control flow statement application]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/c-control-flow-statement-application|c-control-flow-statement-application]]"
 ---
 # Applying C Control Flow Statements
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/scalar-multiplication-process|Scalar multiplication process]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/scalar-multiplication-process|scalar-multiplication-process]]"
 ---
 # Understanding Scalar Multiplication of Matrices
 

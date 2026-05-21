@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/market-analysis|Market Analysis]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/market-analysis|market-analysis]]"
 ---
 # Understanding Market Analysis for Your Pitch Deck
 

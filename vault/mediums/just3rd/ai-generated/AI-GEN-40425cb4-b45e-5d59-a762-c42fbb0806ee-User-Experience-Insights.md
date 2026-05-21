@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-experience-insights|User Experience Insights]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-experience-insights|user-experience-insights]]"
 ---
 # Uncovering User Experience Insights from Feedback
 

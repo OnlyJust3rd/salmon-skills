@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-career-path/microskills/tech-career-path-overview|Tech Career Path Overview]]"
+  - "[[skills/business-it/business-product/it-career-path/microskills/tech-career-path-overview|tech-career-path-overview]]"
 ---
 # Understanding Tech Career Paths: A General Overview
 

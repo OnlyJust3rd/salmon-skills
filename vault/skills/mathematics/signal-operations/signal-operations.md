@@ -1,17 +1,29 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Signal Operations"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-coverage:
-  - "Implementation"
-  - "Representation"
-competency-count: 3
-microskill-count: 11
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-313-signals-and-linear-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/signal-operations/competencies/L1-identify-signal-operations|L1-identify-signal-operations]]"
+  - "[[skills/mathematics/signal-operations/competencies/L1-describe-signal-transformations|L1-describe-signal-transformations]]"
+  - "[[skills/mathematics/signal-operations/competencies/L2-apply-signal-operations|L2-apply-signal-operations]]"
+standard-competency:
+  - "[[skills/mathematics/signal-operations/competencies/L2-apply-signal-operations|L2-apply-signal-operations]]"
+microskills:
+  - "[[skills/mathematics/signal-operations/microskills/convolution-preparation|convolution-preparation]]"
+  - "[[skills/mathematics/signal-operations/microskills/fourier-series-coefficient-impact|fourier-series-coefficient-impact]]"
+  - "[[skills/mathematics/signal-operations/microskills/signal-operation-symbolism|signal-operation-symbolism]]"
+  - "[[skills/mathematics/signal-operations/microskills/signal-representation-changes|signal-representation-changes]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-reversal-application|time-reversal-application]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-reversal-identification|time-reversal-identification]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-reversal-impact|time-reversal-impact]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-application|time-shifting-application]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-identification|time-shifting-identification]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-impact|time-shifting-impact]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-property-application-fs-dtfs|time-shifting-property-application-fs-dtfs]]"
 ---
 
 # Signal Operations
@@ -20,9 +32,9 @@ Applying transformations to signals in both continuous-time and discrete-time do
 
 ## Competencies
 
-- [[L1-identify-signal-operations|L1- Identify Signal Operations]]
-- [[L2-describe-signal-transformations|L2- Describe Signal Transformations]]
-- [[L3-apply-signal-operations|L3- Apply Signal Operations]]
+- [[skills/mathematics/signal-operations/competencies/L1-identify-signal-operations|L1- Identify Signal Operations]]
+- [[skills/mathematics/signal-operations/competencies/L1-describe-signal-transformations|L2- Describe Signal Transformations]]
+- [[skills/mathematics/signal-operations/competencies/L2-apply-signal-operations|L3- Apply Signal Operations]]
 
 ## Microskills
 

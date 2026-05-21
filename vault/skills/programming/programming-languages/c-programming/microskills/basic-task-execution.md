@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Basic task execution"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "C Programming"
-parent-competency: "L3- Implement Basic C Programs"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/c-programming/c-programming|c-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/c-programming/competencies/L2-implement-basic-c-programs|L2-implement-basic-c-programs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Basic task execution
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/c-programming/c-program
 
 Parent competency:
 
-- [[skills/programming/programming-languages/c-programming/competencies/L3-implement-basic-c-programs|L3- Implement Basic C Programs]]
+- [[skills/programming/programming-languages/c-programming/competencies/L2-implement-basic-c-programs|L3- Implement Basic C Programs]]
 
 ## Description
 

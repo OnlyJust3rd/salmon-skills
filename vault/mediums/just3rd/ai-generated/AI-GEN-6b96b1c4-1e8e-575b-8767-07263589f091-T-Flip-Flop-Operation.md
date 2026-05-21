@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/t-flip-flop-operation|T Flip-Flop Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/t-flip-flop-operation|t-flip-flop-operation]]"
 ---
 # T Flip-Flop Operation
 

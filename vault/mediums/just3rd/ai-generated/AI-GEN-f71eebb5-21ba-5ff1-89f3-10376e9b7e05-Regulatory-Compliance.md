@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/regulatory-compliance|Regulatory Compliance]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/regulatory-compliance|regulatory-compliance]]"
 ---
 # Regulatory Compliance: Understanding the Rules of Business
 

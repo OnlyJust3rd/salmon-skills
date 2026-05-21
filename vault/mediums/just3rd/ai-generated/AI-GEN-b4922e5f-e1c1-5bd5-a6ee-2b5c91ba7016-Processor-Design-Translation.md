@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/processor-design-translation|Processor Design Translation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/processor-design-translation|processor-design-translation]]"
 ---
 # Translating Processor Design into an Emulator Implementation
 

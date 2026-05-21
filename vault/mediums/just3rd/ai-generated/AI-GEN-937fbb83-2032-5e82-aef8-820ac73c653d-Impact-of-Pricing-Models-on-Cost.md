@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/impact-of-pricing-models-on-cost|Impact of Pricing Models on Cost]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/impact-of-pricing-models-on-cost|impact-of-pricing-models-on-cost]]"
 ---
 # Understanding Cloud Pricing Models and Their Impact on Costs
 

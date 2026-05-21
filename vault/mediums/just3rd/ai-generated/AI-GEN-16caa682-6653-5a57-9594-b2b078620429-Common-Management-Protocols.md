@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-management/microskills/common-management-protocols|Common Management Protocols]]"
+  - "[[skills/systems/networking/network-management/microskills/common-management-protocols|common-management-protocols]]"
 ---
 # Understanding Common Network Management Protocols
 

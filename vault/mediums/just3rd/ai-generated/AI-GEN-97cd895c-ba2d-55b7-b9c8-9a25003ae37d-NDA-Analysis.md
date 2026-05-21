@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/nda-analysis|NDA Analysis]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/nda-analysis|nda-analysis]]"
 ---
 # Deconstructing Non-Disclosure Agreements (NDAs)
 

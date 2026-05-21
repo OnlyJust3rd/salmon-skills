@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Intermediate Value Theorem core concept"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Calculus Theorems Application"
-parent-competency: "L2- Explain Intermediate Value Theorem"
+  - "microskill"
+parent-skill: "[[skills/mathematics/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
+requires-in-competencies:
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-explain-intermediate-value-theorem|L1-explain-intermediate-value-theorem]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Intermediate Value Theorem core concept
@@ -15,7 +17,7 @@ Parent macro: [[calculus-theorems-application|Calculus Theorems Application]]
 
 Parent competency:
 
-- [[L2-explain-intermediate-value-theorem|L2- Explain Intermediate Value Theorem]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-explain-intermediate-value-theorem|L2- Explain Intermediate Value Theorem]]
 
 ## Description
 

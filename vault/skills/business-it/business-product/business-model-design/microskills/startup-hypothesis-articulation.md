@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Startup Hypothesis Articulation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Business Model Design"
-parent-competency: "L3- Lean Canvas Application"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/business-model-design/business-model-design|business-model-design]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/business-model-design/competencies/L2-lean-canvas-application|L2-lean-canvas-application]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Startup Hypothesis Articulation
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/business-model-design/busine
 
 Parent competency:
 
-- [[skills/business-it/business-product/business-model-design/competencies/L3-lean-canvas-application|L3- Lean Canvas Application]]
+- [[skills/business-it/business-product/business-model-design/competencies/L2-lean-canvas-application|L3- Lean Canvas Application]]
 
 ## Description
 

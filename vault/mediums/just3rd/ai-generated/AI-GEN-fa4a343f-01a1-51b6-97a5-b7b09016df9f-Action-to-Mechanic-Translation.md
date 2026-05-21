@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/action-to-mechanic-translation|Action-to-Mechanic Translation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/action-to-mechanic-translation|action-to-mechanic-translation]]"
 ---
 # Translating Actions into Game Mechanics
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-analysis/microskills/fs-coefficient-calculation|FS Coefficient Calculation]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/fs-coefficient-calculation|fs-coefficient-calculation]]"
 ---
 # Calculating Fourier Series Coefficients
 

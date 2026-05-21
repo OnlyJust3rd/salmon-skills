@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/edge-detection-methods|Edge Detection Methods]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/edge-detection-methods|edge-detection-methods]]"
 ---
 # Edge Detection Methods
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/proof-by-induction-structure|Proof by Induction Structure]]"
+  - "[[skills/mathematics/proof-techniques/microskills/proof-by-induction-structure|proof-by-induction-structure]]"
 ---
 # Understanding the Structure of a Proof by Induction
 

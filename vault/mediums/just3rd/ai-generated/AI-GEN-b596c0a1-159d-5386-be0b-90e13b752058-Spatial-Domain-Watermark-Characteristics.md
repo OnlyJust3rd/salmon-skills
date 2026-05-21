@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/spatial-domain-watermark-characteristics|Spatial Domain Watermark Characteristics]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/spatial-domain-watermark-characteristics|spatial-domain-watermark-characteristics]]"
 ---
 # Spatial Domain Watermark Characteristics
 

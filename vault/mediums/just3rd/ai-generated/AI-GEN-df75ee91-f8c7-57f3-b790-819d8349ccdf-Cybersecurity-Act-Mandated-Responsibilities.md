@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/cybersecurity-act-mandated-responsibilities|Cybersecurity Act Mandated Responsibilities]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/cybersecurity-act-mandated-responsibilities|cybersecurity-act-mandated-responsibilities]]"
 ---
 # Cybersecurity Act Mandated Responsibilities in Thailand
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/impulse-response-significance-in-lti-systems|Impulse Response Significance in LTI Systems]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/impulse-response-significance-in-lti-systems|impulse-response-significance-in-lti-systems]]"
 ---
 # Understanding the Impulse Response in LTI Systems
 

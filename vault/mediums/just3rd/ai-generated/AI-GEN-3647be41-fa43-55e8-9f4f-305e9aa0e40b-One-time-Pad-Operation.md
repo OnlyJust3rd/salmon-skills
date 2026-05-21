@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-operation|One-time Pad Operation]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-operation|one-time-pad-operation]]"
 ---
 # Understanding the One-Time Pad (OTP) Operation
 

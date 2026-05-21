@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/multiplexing-techniques|Multiplexing Techniques]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/multiplexing-techniques|multiplexing-techniques]]"
 ---
 # Understanding Multiplexing Techniques
 

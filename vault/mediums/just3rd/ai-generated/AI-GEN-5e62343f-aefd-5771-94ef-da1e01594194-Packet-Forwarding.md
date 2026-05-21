@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/routing-and-switching/microskills/packet-forwarding|Packet Forwarding]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/packet-forwarding|packet-forwarding]]"
 ---
 # Understanding Packet Forwarding: How Routers Use IP Destinations
 

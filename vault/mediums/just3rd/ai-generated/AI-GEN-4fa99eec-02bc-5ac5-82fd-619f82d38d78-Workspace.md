@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/databricks/microskills/workspace|Workspace]]"
+  - "[[skills/data/data-platforms/databricks/microskills/workspace|workspace]]"
 ---
 # Databricks Workspace: Your Collaborative Hub
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/simulated-network-scenarios|Simulated Network Scenarios]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/simulated-network-scenarios|simulated-network-scenarios]]"
 ---
 # Simulating Intradomain Routing Protocol Flow
 

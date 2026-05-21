@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/one-hot-encoding-definition|One-Hot Encoding Definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/one-hot-encoding-definition|one-hot-encoding-definition]]"
 ---
 # Understanding One-Hot Encoding
 

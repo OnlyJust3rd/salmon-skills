@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/maslow-s-hierarchy-framework|Maslow's Hierarchy Framework]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/maslow-s-hierarchy-framework|maslow-s-hierarchy-framework]]"
 ---
 # Maslow's Hierarchy Framework for Game Design
 

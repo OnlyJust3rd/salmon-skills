@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/place-and-route-process|Place-and-Route Process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/place-and-route-process|place-and-route-process]]"
 ---
 # Understanding the Place-and-Route Process in FPGA Design
 

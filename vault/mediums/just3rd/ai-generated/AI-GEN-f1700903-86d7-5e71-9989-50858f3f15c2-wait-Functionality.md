@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait() Functionality]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait-functionality]]"
 ---
 # Understanding the `wait()` System Call
 

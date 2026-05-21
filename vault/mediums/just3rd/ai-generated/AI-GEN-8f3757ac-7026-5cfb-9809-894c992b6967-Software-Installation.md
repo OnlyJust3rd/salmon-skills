@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/endpoint-administration/microskills/software-installation|Software Installation]]"
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-installation|Software Installation]]"
+  - "[[skills/business-it/business-product/endpoint-administration/microskills/software-installation|software-installation]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-installation|software-installation]]"
 ---
 # Installing Software on Linux
 

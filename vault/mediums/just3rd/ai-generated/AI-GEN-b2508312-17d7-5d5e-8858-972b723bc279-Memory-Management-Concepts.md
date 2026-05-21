@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/memory-management-concepts|Memory Management Concepts]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/memory-management-concepts|memory-management-concepts]]"
 ---
 # Memory Management Concepts: Static vs. Dynamic
 

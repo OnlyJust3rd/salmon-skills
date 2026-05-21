@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/fork-functionality|fork() Functionality]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/fork-functionality|fork-functionality]]"
 ---
 # Understanding Process Duplication with `fork()`
 

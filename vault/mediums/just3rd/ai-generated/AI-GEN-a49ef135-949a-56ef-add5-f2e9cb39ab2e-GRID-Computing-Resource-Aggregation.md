@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/grid-computing-resource-aggregation|GRID Computing Resource Aggregation]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/grid-computing-resource-aggregation|grid-computing-resource-aggregation]]"
 ---
 # GRID Computing: Aggregating Distributed Resources
 

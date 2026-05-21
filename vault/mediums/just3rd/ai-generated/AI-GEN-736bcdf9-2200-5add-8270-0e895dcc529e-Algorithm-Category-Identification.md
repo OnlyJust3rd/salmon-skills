@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-category-identification|Algorithm Category Identification]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-category-identification|algorithm-category-identification]]"
 ---
 # Algorithm Category Identification
 

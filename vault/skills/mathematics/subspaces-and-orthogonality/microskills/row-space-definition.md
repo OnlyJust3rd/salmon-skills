@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Row space definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Subspaces and Orthogonality"
-parent-competency: "L1- Define Fundamental Subspaces"
+  - "microskill"
+parent-skill: "[[skills/mathematics/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
+requires-in-competencies:
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-fundamental-subspaces|L1-define-fundamental-subspaces]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Row space definition
@@ -15,7 +17,7 @@ Parent macro: [[subspaces-and-orthogonality|Subspaces and Orthogonality]]
 
 Parent competency:
 
-- [[L1-define-fundamental-subspaces|L1- Define Fundamental Subspaces]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-fundamental-subspaces|L1- Define Fundamental Subspaces]]
 
 ## Description
 

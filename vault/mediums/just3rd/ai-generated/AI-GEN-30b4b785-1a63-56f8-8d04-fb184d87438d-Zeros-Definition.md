@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/zeros-definition|Zeros Definition]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/zeros-definition|zeros-definition]]"
 ---
 # Zeros of a Transfer Function
 

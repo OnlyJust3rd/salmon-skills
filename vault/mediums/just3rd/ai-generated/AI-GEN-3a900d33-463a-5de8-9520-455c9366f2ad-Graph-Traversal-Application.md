@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/graph-traversal-application|Graph Traversal Application]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/graph-traversal-application|graph-traversal-application]]"
 ---
 # Applying Graph Traversal: Finding Your Way Through Data
 

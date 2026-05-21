@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/bml-cycle-significance|BML Cycle Significance]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/bml-cycle-significance|bml-cycle-significance]]"
 ---
 # Understanding the Significance of the Build-Measure-Learn (BML) Cycle
 

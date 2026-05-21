@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/input-pin-configuration|Input Pin Configuration]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/input-pin-configuration|input-pin-configuration]]"
 ---
 # Configuring AVR Microcontroller Input Pins
 

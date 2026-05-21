@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermark-attack-types|Digital Watermark Attack Types]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermark-attack-types|digital-watermark-attack-types]]"
 ---
 # Digital Watermark Attack Types
 

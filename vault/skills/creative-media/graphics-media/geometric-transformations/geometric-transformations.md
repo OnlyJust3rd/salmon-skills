@@ -1,18 +1,31 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Geometric Transformations"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 381 - Computer Graphics"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Analysis"
-competency-count: 3
-microskill-count: 13
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-381-computer-graphics"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-identify-and-define-geometric-transformations|L1-identify-and-define-geometric-transformations]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-explain-transformation-purpose-effects-and-principles|L1-explain-transformation-purpose-effects-and-principles]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L2-apply-2d-and-3d-transformations|L2-apply-2d-and-3d-transformations]]"
+standard-competency:
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L2-apply-2d-and-3d-transformations|L2-apply-2d-and-3d-transformations]]"
+microskills:
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-and-3d-transformations|2d-and-3d-transformations]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-transformation-application|2d-transformation-application]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-transformation-principles|2d-transformation-principles]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/3d-transformation-application|3d-transformation-application]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/3d-transformation-principles|3d-transformation-principles]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/fundamental-transformations|fundamental-transformations]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/geometric-manipulation|geometric-manipulation]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/rotation|rotation]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/scaling|scaling]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/transformation-effects|transformation-effects]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/transformation-purpose|transformation-purpose]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/translation|translation]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/underlying-mathematical-principles|underlying-mathematical-principles]]"
 ---
 
 # Geometric Transformations
@@ -22,8 +35,8 @@ Applying 2D and 3D geometric transformations including translation, scaling, rot
 ## Competencies
 
 - [[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-identify-and-define-geometric-transformations|L1- Identify and Define Geometric Transformations]]
-- [[skills/creative-media/graphics-media/geometric-transformations/competencies/L2-explain-transformation-purpose-effects-and-principles|L2- Explain Transformation Purpose, Effects, and Principles]]
-- [[skills/creative-media/graphics-media/geometric-transformations/competencies/L3-apply-2d-and-3d-transformations|L3- Apply 2D and 3D Transformations]]
+- [[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-explain-transformation-purpose-effects-and-principles|L2- Explain Transformation Purpose, Effects, and Principles]]
+- [[skills/creative-media/graphics-media/geometric-transformations/competencies/L2-apply-2d-and-3d-transformations|L3- Apply 2D and 3D Transformations]]
 
 ## Microskills
 

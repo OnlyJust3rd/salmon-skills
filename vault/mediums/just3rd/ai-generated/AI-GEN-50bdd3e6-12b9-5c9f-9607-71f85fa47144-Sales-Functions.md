@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/sales-functions|Sales Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/sales-functions|sales-functions]]"
 ---
 # Understanding Sales Department Functions
 

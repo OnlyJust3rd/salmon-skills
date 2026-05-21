@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/copilot-chat|Copilot Chat]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/copilot-chat|copilot-chat]]"
 ---
 # Understanding Copilot Chat: Conversational Coding Assistance
 

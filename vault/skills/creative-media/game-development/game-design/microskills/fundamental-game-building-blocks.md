@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Fundamental Game Building Blocks"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Game Design"
-parent-competency: "L2- Explain Game Elements and Functions"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-design/game-design|game-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-design/competencies/L1-explain-game-elements-and-functions|L1-explain-game-elements-and-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Fundamental Game Building Blocks
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-design/game-design|G
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-design/competencies/L2-explain-game-elements-and-functions|L2- Explain Game Elements and Functions]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-explain-game-elements-and-functions|L2- Explain Game Elements and Functions]]
 
 ## Description
 

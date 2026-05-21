@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Heterogeneous Architecture Differences"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Multicore Processing"
-parent-competency: "L2- Explain Heterogeneous Processor Architectures and Roles"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/multicore-processing/multicore-processing|multicore-processing]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/multicore-processing/competencies/L1-explain-heterogeneous-processor-architectures-and-roles|L1-explain-heterogeneous-processor-architectures-and-roles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Heterogeneous Architecture Differences
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/multicore-processing/m
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/multicore-processing/competencies/L2-explain-heterogeneous-processor-architectures-and-roles|L2- Explain Heterogeneous Processor Architectures and Roles]]
+- [[skills/systems/high-performance-computing/multicore-processing/competencies/L1-explain-heterogeneous-processor-architectures-and-roles|L2- Explain Heterogeneous Processor Architectures and Roles]]
 
 ## Description
 

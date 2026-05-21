@@ -1,20 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Data Visualization"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 232 - Data Models"
-coverage:
-  - "Implementation"
-  - "Representation"
-competency-count: 2
-microskill-count: 8
-related-jobs:
-  - "Data Analyst"
-  - "Data Scientist"
-  - "Business Analyst"
-source-note: "courses/kmutt/cpe-2021/cpe-232-data-models"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/data-visualization/competencies/L1-visualization-communication-and-types|L1-visualization-communication-and-types]]"
+  - "[[skills/data/data-platforms/data-visualization/competencies/L2-problem-solving-visualization|L2-problem-solving-visualization]]"
+standard-competency:
+  - "[[skills/data/data-platforms/data-visualization/competencies/L2-problem-solving-visualization|L2-problem-solving-visualization]]"
+microskills:
+  - "[[skills/data/data-platforms/data-visualization/microskills/chart-type-selection|chart-type-selection]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/data-driven-question-answering|data-driven-question-answering]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/data-insight-communication|data-insight-communication]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/matplotlib-problem-solving|matplotlib-problem-solving]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/python-visualization-application|python-visualization-application]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/visualization-effectiveness|visualization-effectiveness]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/visualization-implementation|visualization-implementation]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/visualization-use-cases|visualization-use-cases]]"
 ---
 
 # Data Visualization
@@ -23,8 +28,8 @@ Creating meaningful visualizations using Python and essential libraries like mat
 
 ## Competencies
 
-- [[skills/data/data-platforms/data-visualization/competencies/L2-visualization-communication-and-types|L2- Visualization Communication and Types]]
-- [[skills/data/data-platforms/data-visualization/competencies/L3-problem-solving-visualization|L3- Problem-Solving Visualization]]
+- [[skills/data/data-platforms/data-visualization/competencies/L1-visualization-communication-and-types|L2- Visualization Communication and Types]]
+- [[skills/data/data-platforms/data-visualization/competencies/L2-problem-solving-visualization|L3- Problem-Solving Visualization]]
 
 ## Microskills
 

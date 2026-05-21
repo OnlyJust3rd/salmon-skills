@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/rule-content-and-mechanic-integration|Rule, Content, and Mechanic Integration]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/rule-content-and-mechanic-integration|rule-content-and-mechanic-integration]]"
 ---
 # Integrating Rules, Content, and Mechanics for a Playable Prototype
 

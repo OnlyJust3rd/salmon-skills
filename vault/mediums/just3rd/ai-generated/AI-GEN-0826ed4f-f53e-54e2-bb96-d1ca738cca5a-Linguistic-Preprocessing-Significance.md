@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/linguistic-text-processing/microskills/linguistic-preprocessing-significance|Linguistic Preprocessing Significance]]"
+  - "[[skills/data/data-science/linguistic-text-processing/microskills/linguistic-preprocessing-significance|linguistic-preprocessing-significance]]"
 ---
 # Why Linguistic Preprocessing Matters in Text Analysis
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/amazon-redshift/microskills/sort-strategy|Sort Strategy]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/sort-strategy|sort-strategy]]"
 ---
 # Redshift Sort Keys: Speeding Up Your Queries
 

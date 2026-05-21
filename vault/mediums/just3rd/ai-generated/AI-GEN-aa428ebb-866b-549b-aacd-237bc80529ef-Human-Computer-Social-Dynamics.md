@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/human-computer-social-dynamics|Human-Computer Social Dynamics]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/human-computer-social-dynamics|human-computer-social-dynamics]]"
 ---
 # Human-Computer Social Dynamics
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/bit-stream-generator-combination|Bit-Stream Generator Combination]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/bit-stream-generator-combination|bit-stream-generator-combination]]"
 ---
 # Combining Bit-Stream Generators for Enhanced Security
 

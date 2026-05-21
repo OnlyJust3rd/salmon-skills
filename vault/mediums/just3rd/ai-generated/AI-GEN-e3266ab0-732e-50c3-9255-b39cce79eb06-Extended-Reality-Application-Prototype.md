@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/extended-reality-application-prototype|Extended Reality Application Prototype]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/extended-reality-application-prototype|extended-reality-application-prototype]]"
 ---
 # Building Your First XR Application Prototype
 

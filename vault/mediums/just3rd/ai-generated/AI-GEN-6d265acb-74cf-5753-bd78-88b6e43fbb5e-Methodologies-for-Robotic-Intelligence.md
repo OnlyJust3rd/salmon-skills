@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/methodologies-for-robotic-intelligence|Methodologies for Robotic Intelligence]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/methodologies-for-robotic-intelligence|methodologies-for-robotic-intelligence]]"
 ---
 # Methodologies for Robotic Intelligence: Internal Models vs. Reactive Approaches
 

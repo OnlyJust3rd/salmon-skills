@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/amazon-redshift/microskills/warehouse-query-tuning|Warehouse Query Tuning]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/warehouse-query-tuning|warehouse-query-tuning]]"
 ---
 # Warehouse Query Tuning in Redshift
 

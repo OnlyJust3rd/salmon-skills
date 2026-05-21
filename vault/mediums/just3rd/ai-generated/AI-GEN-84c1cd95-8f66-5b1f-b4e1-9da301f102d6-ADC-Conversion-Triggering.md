@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-conversion-triggering|ADC Conversion Triggering]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-conversion-triggering|adc-conversion-triggering]]"
 ---
 # ADC Conversion Triggering
 

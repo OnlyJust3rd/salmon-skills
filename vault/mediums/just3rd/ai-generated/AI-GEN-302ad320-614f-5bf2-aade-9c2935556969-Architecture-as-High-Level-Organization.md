@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/architecture-as-high-level-organization|Architecture as High-Level Organization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/architecture-as-high-level-organization|architecture-as-high-level-organization]]"
 ---
 # Understanding Software Architecture as High-Level Organization
 

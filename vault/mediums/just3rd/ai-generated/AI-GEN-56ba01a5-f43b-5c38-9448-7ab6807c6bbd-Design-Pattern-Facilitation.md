@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/design-pattern-facilitation|Design Pattern Facilitation]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/design-pattern-facilitation|design-pattern-facilitation]]"
 ---
 # How OO Design Principles Pave the Way for Design Patterns
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/parallel-projection-application|Parallel Projection Application]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/parallel-projection-application|parallel-projection-application]]"
 ---
 # Applying Parallel Projection: Representing 3D Objects in 2D
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/subtractor-operational-principles|Subtractor Operational Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/subtractor-operational-principles|subtractor-operational-principles]]"
 ---
 # Subtractor Operational Principles
 

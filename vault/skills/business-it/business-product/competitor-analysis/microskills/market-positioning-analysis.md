@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Market Positioning Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Competitor Analysis"
-parent-competency: "L2- Describe Competitor Differentiation"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/competitor-analysis/competitor-analysis|competitor-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/competitor-analysis/competencies/L1-describe-competitor-differentiation|L1-describe-competitor-differentiation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Market Positioning Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/competitor-analysis/competit
 
 Parent competency:
 
-- [[skills/business-it/business-product/competitor-analysis/competencies/L2-describe-competitor-differentiation|L2- Describe Competitor Differentiation]]
+- [[skills/business-it/business-product/competitor-analysis/competencies/L1-describe-competitor-differentiation|L2- Describe Competitor Differentiation]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/vr-and-ar-differences|VR and AR Differences]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/vr-and-ar-differences|vr-and-ar-differences]]"
 ---
 # VR vs AR: Understanding the Differences
 

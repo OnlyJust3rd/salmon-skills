@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-program-correctness-verification|Assembly Program Correctness Verification]]"
+  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-program-correctness-verification|assembly-program-correctness-verification]]"
 ---
 # Verifying Assembly Program Correctness
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-apply-for-kubernetes|Terraform Apply for Kubernetes]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-apply-for-kubernetes|terraform-apply-for-kubernetes]]"
 ---
 # Applying Terraform Configurations to Kubernetes
 

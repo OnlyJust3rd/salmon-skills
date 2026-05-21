@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-building-blocks|Verilog HDL Building Blocks]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-building-blocks|verilog-hdl-building-blocks]]"
 ---
 # Verilog HDL Building Blocks
 

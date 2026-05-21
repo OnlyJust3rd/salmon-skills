@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mongodb/microskills/mongodb-query-operations|MongoDB Query Operations]]"
+  - "[[skills/data/databases/mongodb/microskills/mongodb-query-operations|mongodb-query-operations]]"
 ---
 # MongoDB Query Operations: Retrieving Documents with `find()`
 

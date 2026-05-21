@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Gaussian elimination for inverse"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-parent-competency: "L3- Compute Matrix Inverse"
+  - "microskill"
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-in-competencies:
+  - "[[skills/mathematics/matrix-algebra/competencies/L2-compute-matrix-inverse|L2-compute-matrix-inverse]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Gaussian elimination for inverse
@@ -15,7 +17,7 @@ Parent macro: [[matrix-algebra|Matrix Algebra]]
 
 Parent competency:
 
-- [[L3-compute-matrix-inverse|L3- Compute Matrix Inverse]]
+- [[skills/mathematics/matrix-algebra/competencies/L2-compute-matrix-inverse|L3- Compute Matrix Inverse]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/continuous-integration-ci|Continuous Integration (CI)]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/continuous-integration-ci|continuous-integration-ci]]"
 ---
 # Continuous Integration (CI) for Serverless Deployments
 

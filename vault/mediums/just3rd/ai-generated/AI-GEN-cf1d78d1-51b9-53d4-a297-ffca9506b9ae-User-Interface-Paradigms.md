@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/user-interface-paradigms|User Interface Paradigms]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/user-interface-paradigms|user-interface-paradigms]]"
 ---
 # User Interface Paradigms: A Historical Overview
 

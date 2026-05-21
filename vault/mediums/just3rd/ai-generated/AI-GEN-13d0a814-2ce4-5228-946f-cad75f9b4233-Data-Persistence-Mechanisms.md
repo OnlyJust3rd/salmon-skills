@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/data-persistence-mechanisms|Data Persistence Mechanisms]]"
+  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/data-persistence-mechanisms|data-persistence-mechanisms]]"
 ---
 # Implementing Data Persistence Mechanisms
 

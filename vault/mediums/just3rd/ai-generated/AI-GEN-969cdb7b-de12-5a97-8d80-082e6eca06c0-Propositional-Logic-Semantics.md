@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/propositional-logic-semantics|Propositional Logic Semantics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/propositional-logic-semantics|propositional-logic-semantics]]"
 ---
 # Understanding Propositional Logic Semantics
 

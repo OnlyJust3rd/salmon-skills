@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvectors-in-change-of-basis-matrix-p|Eigenvectors in change-of-basis matrix P]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvectors-in-change-of-basis-matrix-p|eigenvectors-in-change-of-basis-matrix-p]]"
 ---
 # Eigenvectors: The Secret to Changing Your Perspective (Basis)
 

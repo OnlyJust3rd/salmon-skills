@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/task-delegation|Task Delegation]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/task-delegation|task-delegation]]"
 ---
 # Task Delegation in Agentic Coding Workflows
 

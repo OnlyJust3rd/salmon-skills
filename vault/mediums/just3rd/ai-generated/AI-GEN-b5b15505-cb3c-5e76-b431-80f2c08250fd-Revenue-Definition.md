@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/revenue-definition|Revenue Definition]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/revenue-definition|revenue-definition]]"
 ---
 # Understanding Revenue
 

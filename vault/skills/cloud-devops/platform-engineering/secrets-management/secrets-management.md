@@ -1,16 +1,20 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Secrets Management"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - DevOps skills"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 4
-related-jobs:
-  - "DevOps Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/competencies/L1-explain-secrets-management|L1-explain-secrets-management]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/competencies/L1-explain-secrets-management|L1-explain-secrets-management]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/runtime-injection|runtime-injection]]"
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/secret-rotation|secret-rotation]]"
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/secret-storage|secret-storage]]"
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/source-code-separation|source-code-separation]]"
 ---
 
 # Secrets Management
@@ -19,7 +23,7 @@ Principles for storing, rotating, and injecting sensitive configuration such as 
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/secrets-management/competencies/L2-explain-secrets-management|L2- Explain Secrets Management]]
+- [[skills/cloud-devops/platform-engineering/secrets-management/competencies/L1-explain-secrets-management|L2- Explain Secrets Management]]
 
 ## Microskills
 

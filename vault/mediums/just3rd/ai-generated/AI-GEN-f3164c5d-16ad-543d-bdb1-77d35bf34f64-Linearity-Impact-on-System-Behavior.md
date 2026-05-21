@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/linearity-impact-on-system-behavior|Linearity Impact on System Behavior]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linearity-impact-on-system-behavior|linearity-impact-on-system-behavior]]"
 ---
 # Understanding Linearity's Impact on System Behavior
 

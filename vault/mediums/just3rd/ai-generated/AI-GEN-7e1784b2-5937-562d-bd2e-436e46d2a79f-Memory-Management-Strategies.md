@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-strategies|Memory Management Strategies]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-strategies|memory-management-strategies]]"
 ---
 # Analyzing Memory Management Strategies in Operating Systems
 

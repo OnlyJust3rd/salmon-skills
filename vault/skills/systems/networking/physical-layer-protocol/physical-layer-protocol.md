@@ -1,17 +1,29 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Physical Layer Protocol"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 314 - Computer Networks"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 3
-microskill-count: 11
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-314-computer-networks"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/networking/physical-layer-protocol/competencies/L1-explain-multiplexing-efficiency|L1-explain-multiplexing-efficiency]]"
+  - "[[skills/systems/networking/physical-layer-protocol/competencies/L1-guided-vs-unguided-media|L1-guided-vs-unguided-media]]"
+  - "[[skills/systems/networking/physical-layer-protocol/competencies/L1-signal-characteristics-and-impairment-impact|L1-signal-characteristics-and-impairment-impact]]"
+standard-competency:
+  - "[[skills/systems/networking/physical-layer-protocol/competencies/L1-explain-multiplexing-efficiency|L1-explain-multiplexing-efficiency]]"
+microskills:
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/guided-media-characteristics|guided-media-characteristics]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/impact-on-signal-quality|impact-on-signal-quality]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/media-comparison|media-comparison]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/media-use-cases|media-use-cases]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/multiplexing-techniques|multiplexing-techniques]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/physical-layer-efficiency|physical-layer-efficiency]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/signal-degradation-factors|signal-degradation-factors]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/signal-properties|signal-properties]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/transmission-impairments|transmission-impairments]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/transmission-media-capacity|transmission-media-capacity]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/unguided-media-characteristics|unguided-media-characteristics]]"
 ---
 
 # Physical Layer Protocol
@@ -20,9 +32,9 @@ Explaining physical-layer communication principles including signals, impairment
 
 ## Competencies
 
-- [[skills/systems/networking/physical-layer-protocol/competencies/L2-explain-multiplexing-efficiency|L2- Explain Multiplexing Efficiency]]
-- [[skills/systems/networking/physical-layer-protocol/competencies/L2-guided-vs-unguided-media|L2- Guided vs. Unguided Media]]
-- [[skills/systems/networking/physical-layer-protocol/competencies/L2-signal-characteristics-and-impairment-impact|L2- Signal Characteristics and Impairment Impact]]
+- [[skills/systems/networking/physical-layer-protocol/competencies/L1-explain-multiplexing-efficiency|L2- Explain Multiplexing Efficiency]]
+- [[skills/systems/networking/physical-layer-protocol/competencies/L1-guided-vs-unguided-media|L2- Guided vs. Unguided Media]]
+- [[skills/systems/networking/physical-layer-protocol/competencies/L1-signal-characteristics-and-impairment-impact|L2- Signal Characteristics and Impairment Impact]]
 
 ## Microskills
 

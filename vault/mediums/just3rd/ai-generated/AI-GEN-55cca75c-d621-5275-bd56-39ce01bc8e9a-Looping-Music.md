@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-audio/microskills/looping-music|Looping Music]]"
+  - "[[skills/creative-media/game-development/game-audio/microskills/looping-music|looping-music]]"
 ---
 # Looping Music: Seamless Background Audio in Games
 

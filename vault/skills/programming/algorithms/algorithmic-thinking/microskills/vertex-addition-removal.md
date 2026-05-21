@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Vertex Addition/Removal"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Algorithmic Thinking"
-parent-competency: "L3- Implement Graph Manipulation Algorithms"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithmic-thinking/algorithmic-thinking|algorithmic-thinking]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithmic-thinking/competencies/L2-implement-graph-manipulation-algorithms|L2-implement-graph-manipulation-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Vertex Addition/Removal
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithmic-thinking/algorithmic-t
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithmic-thinking/competencies/L3-implement-graph-manipulation-algorithms|L3- Implement Graph Manipulation Algorithms]]
+- [[skills/programming/algorithms/algorithmic-thinking/competencies/L2-implement-graph-manipulation-algorithms|L3- Implement Graph Manipulation Algorithms]]
 
 ## Description
 

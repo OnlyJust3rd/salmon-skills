@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/network-interaction-patterns|Network Interaction Patterns]]"
+  - "[[skills/systems/networking/socket-programming/microskills/network-interaction-patterns|network-interaction-patterns]]"
 ---
 # Understanding the Network Interaction Patterns: The Socket Model
 

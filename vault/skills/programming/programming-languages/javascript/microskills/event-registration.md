@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Event registration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "JavaScript"
-parent-competency: "L2- Explain DOM Events and Asynchronous JavaScript"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/javascript/javascript|javascript]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/javascript/competencies/L1-explain-dom-events-and-asynchronous-javascript|L1-explain-dom-events-and-asynchronous-javascript]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Event registration
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/javascript/javascript|J
 
 Parent competency:
 
-- [[skills/programming/programming-languages/javascript/competencies/L2-explain-dom-events-and-asynchronous-javascript|L2- Explain DOM Events and Asynchronous JavaScript]]
+- [[skills/programming/programming-languages/javascript/competencies/L1-explain-dom-events-and-asynchronous-javascript|L2- Explain DOM Events and Asynchronous JavaScript]]
 
 ## Description
 

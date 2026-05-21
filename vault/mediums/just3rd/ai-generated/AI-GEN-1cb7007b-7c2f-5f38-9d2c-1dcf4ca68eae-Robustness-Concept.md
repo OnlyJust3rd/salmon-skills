@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/robustness-concept|Robustness Concept]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/robustness-concept|robustness-concept]]"
 ---
 # Understanding Robustness in Digital Watermarking
 

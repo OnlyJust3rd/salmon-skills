@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/conversational-technology-contribution|Conversational Technology Contribution]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/conversational-technology-contribution|conversational-technology-contribution]]"
 ---
 # Understanding Conversational Technology's Impact on User Experience
 

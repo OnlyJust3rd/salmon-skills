@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/fpga-loading-and-configuration|FPGA Loading and Configuration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/fpga-loading-and-configuration|fpga-loading-and-configuration]]"
 ---
 # FPGA Loading and Configuration: Getting Your Design Onto the Board
 

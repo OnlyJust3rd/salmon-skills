@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/domestic-taxable-income-criteria|Domestic Taxable Income Criteria]]"
+  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/domestic-taxable-income-criteria|domestic-taxable-income-criteria]]"
 ---
 # Understanding Domestic Taxable Income Criteria
 

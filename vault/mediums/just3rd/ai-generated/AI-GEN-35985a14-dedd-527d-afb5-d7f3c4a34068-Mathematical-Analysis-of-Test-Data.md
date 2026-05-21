@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/mathematical-analysis-of-test-data|Mathematical Analysis of Test Data]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/mathematical-analysis-of-test-data|mathematical-analysis-of-test-data]]"
 ---
 # Mathematical Analysis of Test Data
 

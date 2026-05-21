@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Segmentation with VLANs"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Data Link Layer"
-parent-competency: "L2- VLAN Concept and Benefits"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-link-layer/data-link-layer|data-link-layer]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-link-layer/competencies/L1-vlan-concept-and-benefits|L1-vlan-concept-and-benefits]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Segmentation with VLANs
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-link-layer/data-link-layer|Data 
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-link-layer/competencies/L2-vlan-concept-and-benefits|L2- VLAN Concept and Benefits]]
+- [[skills/data/data-platforms/data-link-layer/competencies/L1-vlan-concept-and-benefits|L2- VLAN Concept and Benefits]]
 
 ## Description
 

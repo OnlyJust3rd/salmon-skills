@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/timer-counter-control-registers|Timer/Counter Control Registers]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/timer-counter-control-registers|timer-counter-control-registers]]"
 ---
 # Timer/Counter Control Registers in AVR Microcontrollers
 

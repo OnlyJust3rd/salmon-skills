@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/algebraic-interpretation-of-vector-products|Algebraic interpretation of vector products]]"
+  - "[[skills/mathematics/vector/microskills/algebraic-interpretation-of-vector-products|algebraic-interpretation-of-vector-products]]"
 ---
 # Algebraic Interpretation of Vector Products
 

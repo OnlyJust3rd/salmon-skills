@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/combinatorial-analysis/microskills/combinatorial-problem-identification|Combinatorial Problem Identification]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/combinatorial-problem-identification|combinatorial-problem-identification]]"
 ---
 # Identifying Combinatorial Problems
 

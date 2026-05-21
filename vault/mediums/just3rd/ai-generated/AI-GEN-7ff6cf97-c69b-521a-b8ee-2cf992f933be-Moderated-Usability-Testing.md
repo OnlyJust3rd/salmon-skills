@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/moderated-usability-testing|Moderated Usability Testing]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/moderated-usability-testing|moderated-usability-testing]]"
 ---
 # Moderated Usability Testing: The Facilitator's Role
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/modular-program-design/microskills/modular-structure-recognition|Modular structure recognition]]"
+  - "[[skills/programming/software-engineering/modular-program-design/microskills/modular-structure-recognition|modular-structure-recognition]]"
 ---
 # Recognizing Modular Structures in Code
 

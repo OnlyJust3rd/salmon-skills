@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/iot-data-processing-at-the-edge|IoT Data Processing at the Edge]]"
+  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/iot-data-processing-at-the-edge|iot-data-processing-at-the-edge]]"
 ---
 # IoT Data Processing at the Edge
 

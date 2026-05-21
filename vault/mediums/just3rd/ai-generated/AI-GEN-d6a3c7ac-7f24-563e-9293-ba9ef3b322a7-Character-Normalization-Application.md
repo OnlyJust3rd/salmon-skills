@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/character-normalization-application|Character Normalization Application]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/character-normalization-application|character-normalization-application]]"
 ---
 # Applying Character Normalization
 

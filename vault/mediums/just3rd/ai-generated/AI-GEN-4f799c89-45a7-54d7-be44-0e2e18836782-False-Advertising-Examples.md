@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/false-advertising-examples|False Advertising Examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/false-advertising-examples|false-advertising-examples]]"
 ---
 # False Advertising: When Claims Cross the Line
 

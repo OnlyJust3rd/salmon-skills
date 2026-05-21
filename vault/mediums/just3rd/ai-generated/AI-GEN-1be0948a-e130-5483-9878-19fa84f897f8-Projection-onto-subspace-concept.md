@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/projection-onto-subspace-concept|Projection onto subspace concept]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/projection-onto-subspace-concept|projection-onto-subspace-concept]]"
 ---
 # Projecting onto a Subspace
 

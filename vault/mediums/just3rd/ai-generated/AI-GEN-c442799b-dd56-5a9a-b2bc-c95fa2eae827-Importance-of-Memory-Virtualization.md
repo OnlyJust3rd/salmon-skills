@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/importance-of-memory-virtualization|Importance of Memory Virtualization]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/importance-of-memory-virtualization|importance-of-memory-virtualization]]"
 ---
 # The Crucial Role of Memory Virtualization
 

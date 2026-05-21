@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/data-science/microskills/process-contribution|Process Contribution]]"
+  - "[[skills/data/data-science/data-science/microskills/process-contribution|process-contribution]]"
 ---
 # Understanding the Contribution of Each Data Science Stage
 

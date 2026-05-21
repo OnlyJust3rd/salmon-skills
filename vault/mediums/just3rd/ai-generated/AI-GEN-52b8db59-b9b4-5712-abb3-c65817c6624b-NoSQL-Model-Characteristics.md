@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/nosql-model-characteristics|NoSQL Model Characteristics]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/nosql-model-characteristics|nosql-model-characteristics]]"
 ---
 # Understanding NoSQL Model Characteristics
 

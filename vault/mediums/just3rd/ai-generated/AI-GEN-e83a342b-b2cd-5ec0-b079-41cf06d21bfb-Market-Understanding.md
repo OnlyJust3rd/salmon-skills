@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-understanding|Market Understanding]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-understanding|market-understanding]]"
 ---
 # Understanding Your Market: The Purpose of Competitive Analysis
 

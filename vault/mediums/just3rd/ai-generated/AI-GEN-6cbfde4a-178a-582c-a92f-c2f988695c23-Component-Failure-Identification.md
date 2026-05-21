@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/component-failure-identification|Component Failure Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/component-failure-identification|component-failure-identification]]"
 ---
 # Component Failure Identification in Digital Circuits
 

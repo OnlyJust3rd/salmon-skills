@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "User Insight Integration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "MVP Design and Prototyping"
-parent-competency: "L2- Describe MVP Iteration from Feedback"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/mvp-design-and-prototyping/mvp-design-and-prototyping|mvp-design-and-prototyping]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-describe-mvp-iteration-from-feedback|L1-describe-mvp-iteration-from-feedback]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # User Insight Integration
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/mvp-design-and-prototyping/m
 
 Parent competency:
 
-- [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L2-describe-mvp-iteration-from-feedback|L2- Describe MVP Iteration from Feedback]]
+- [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-describe-mvp-iteration-from-feedback|L2- Describe MVP Iteration from Feedback]]
 
 ## Description
 

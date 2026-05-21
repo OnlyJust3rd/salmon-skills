@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/video-sequence-watermarking|Video Sequence Watermarking]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/video-sequence-watermarking|video-sequence-watermarking]]"
 ---
 # Video Sequence Watermarking
 

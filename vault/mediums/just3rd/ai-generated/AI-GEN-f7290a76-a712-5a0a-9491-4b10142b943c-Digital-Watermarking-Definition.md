@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-definition|Digital Watermarking Definition]]"
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-definition|Digital Watermarking Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-definition|digital-watermarking-definition]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-definition|digital-watermarking-definition]]"
 ---
 # Digital Watermarking: What Is It?
 

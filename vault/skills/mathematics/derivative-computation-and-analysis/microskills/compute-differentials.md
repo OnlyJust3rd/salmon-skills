@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Compute differentials"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Derivative Computation and Analysis"
-parent-competency: "L3- Apply differentials and linear approximation"
+  - "microskill"
+parent-skill: "[[skills/mathematics/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-differentials-and-linear-approximation|L2-apply-differentials-and-linear-approximation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Compute differentials
@@ -15,7 +17,7 @@ Parent macro: [[derivative-computation-and-analysis|Derivative Computation and A
 
 Parent competency:
 
-- [[L3-apply-differentials-and-linear-approximation|L3- Apply differentials and linear approximation]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-differentials-and-linear-approximation|L3- Apply differentials and linear approximation]]
 
 ## Description
 

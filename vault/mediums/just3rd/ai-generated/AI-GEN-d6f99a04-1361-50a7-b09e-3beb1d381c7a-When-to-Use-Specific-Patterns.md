@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/when-to-use-specific-patterns|When to Use Specific Patterns]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/when-to-use-specific-patterns|when-to-use-specific-patterns]]"
 ---
 # When to Use Specific Design Patterns
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/circuit-parameter-influence|Circuit Parameter Influence]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/circuit-parameter-influence|circuit-parameter-influence]]"
 ---
 # Circuit Parameter Influence on Signal Distortion
 

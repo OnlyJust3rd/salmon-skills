@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-service-management/microskills/incident|Incident]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/incident|incident]]"
 ---
 # Understanding IT Incidents
 

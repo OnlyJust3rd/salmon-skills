@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/sequential-circuit-simulation|Sequential Circuit Simulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/sequential-circuit-simulation|sequential-circuit-simulation]]"
 ---
 # Sequential Circuit Simulation in Proteus 8
 

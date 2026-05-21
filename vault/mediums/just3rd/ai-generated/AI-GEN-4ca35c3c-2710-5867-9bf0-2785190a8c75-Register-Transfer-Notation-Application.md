@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/register-transfer-notation-application|Register Transfer Notation Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/register-transfer-notation-application|register-transfer-notation-application]]"
 ---
 # Understanding Register Transfer Notation in Assembly
 

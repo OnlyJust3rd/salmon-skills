@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Reusable code identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "Modular Program Design"
-parent-competency: "L2- Benefits and Structures of Modularity"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/modular-program-design/modular-program-design|modular-program-design]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/modular-program-design/competencies/L1-benefits-and-structures-of-modularity|L1-benefits-and-structures-of-modularity]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Reusable code identification
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/modular-program-design/m
 
 Parent competency:
 
-- [[skills/programming/software-engineering/modular-program-design/competencies/L2-benefits-and-structures-of-modularity|L2- Benefits and Structures of Modularity]]
+- [[skills/programming/software-engineering/modular-program-design/competencies/L1-benefits-and-structures-of-modularity|L2- Benefits and Structures of Modularity]]
 
 ## Description
 

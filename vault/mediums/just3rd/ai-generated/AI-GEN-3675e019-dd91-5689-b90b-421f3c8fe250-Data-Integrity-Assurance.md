@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/data-integrity-assurance|Data Integrity Assurance]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/data-integrity-assurance|data-integrity-assurance]]"
 ---
 # Data Integrity Assurance at the Link Layer
 

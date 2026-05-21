@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/basic-propositional-components|Basic Propositional Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/basic-propositional-components|basic-propositional-components]]"
 ---
 # Understanding the Building Blocks of Logic: Propositions and Connectives
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/column-family-stores|Column-Family Stores]]"
+  - "[[skills/data/databases/nosql-database/microskills/column-family-stores|column-family-stores]]"
 ---
 # Understanding Column-Family Stores
 

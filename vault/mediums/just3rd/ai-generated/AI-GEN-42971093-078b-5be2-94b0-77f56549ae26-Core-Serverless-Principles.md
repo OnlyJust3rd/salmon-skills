@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/core-serverless-principles|Core Serverless Principles]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/core-serverless-principles|core-serverless-principles]]"
 ---
 # Core Serverless Principles
 

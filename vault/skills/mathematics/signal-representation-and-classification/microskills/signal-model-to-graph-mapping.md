@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Signal Model-to-Graph Mapping"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Signal Representation and Classification"
-parent-competency: "L2- Signal Representation and Visualization"
+  - "microskill"
+parent-skill: "[[skills/mathematics/signal-representation-and-classification/signal-representation-and-classification|signal-representation-and-classification]]"
+requires-in-competencies:
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-representation-and-visualization|L1-signal-representation-and-visualization]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Signal Model-to-Graph Mapping
@@ -15,7 +17,7 @@ Parent macro: [[signal-representation-and-classification|Signal Representation a
 
 Parent competency:
 
-- [[L2-signal-representation-and-visualization|L2- Signal Representation and Visualization]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-representation-and-visualization|L2- Signal Representation and Visualization]]
 
 ## Description
 

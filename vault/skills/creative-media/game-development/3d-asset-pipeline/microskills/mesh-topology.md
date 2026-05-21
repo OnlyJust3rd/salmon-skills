@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Mesh Topology"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "3D Asset Pipeline"
-parent-competency: "L2- Explain 3D Asset Pipeline Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/3d-asset-pipeline/3d-asset-pipeline|3d-asset-pipeline]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/3d-asset-pipeline/competencies/L1-explain-3d-asset-pipeline-concepts|L1-explain-3d-asset-pipeline-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Mesh Topology
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/3d-asset-pipeline/3d-asse
 
 Parent competency:
 
-- [[skills/creative-media/game-development/3d-asset-pipeline/competencies/L2-explain-3d-asset-pipeline-concepts|L2- Explain 3D Asset Pipeline Concepts]]
+- [[skills/creative-media/game-development/3d-asset-pipeline/competencies/L1-explain-3d-asset-pipeline-concepts|L2- Explain 3D Asset Pipeline Concepts]]
 
 ## Description
 

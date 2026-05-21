@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/actuator-microcontroller-interaction|Actuator-Microcontroller Interaction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/actuator-microcontroller-interaction|actuator-microcontroller-interaction]]"
 ---
 # Actuator-Microcontroller Interaction
 

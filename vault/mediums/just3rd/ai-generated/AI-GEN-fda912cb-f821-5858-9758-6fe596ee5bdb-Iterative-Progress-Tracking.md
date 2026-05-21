@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/project-management/microskills/iterative-progress-tracking|Iterative Progress Tracking]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/iterative-progress-tracking|iterative-progress-tracking]]"
 ---
 # Iterative Progress Tracking in Project Management
 

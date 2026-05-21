@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-definition|Algorithm Definition]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-definition|algorithm-definition]]"
 ---
 # What is an Algorithm?
 

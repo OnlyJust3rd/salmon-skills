@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/low-pass-filter-behavior|Low-Pass Filter Behavior]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/low-pass-filter-behavior|low-pass-filter-behavior]]"
 ---
 # Analyzing Low-Pass Filter Behavior in RC and RL Circuits
 

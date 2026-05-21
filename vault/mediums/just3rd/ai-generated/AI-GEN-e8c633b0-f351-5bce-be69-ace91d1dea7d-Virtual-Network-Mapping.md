@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-network-mapping|Virtual Network Mapping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-network-mapping|virtual-network-mapping]]"
 ---
 # Virtual Network Mapping
 

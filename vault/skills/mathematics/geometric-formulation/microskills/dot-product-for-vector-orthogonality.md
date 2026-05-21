@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Dot product for vector orthogonality"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Geometric Formulation"
-parent-competency: "L3- Apply Dot Product for Orthogonality and Distance"
+  - "microskill"
+parent-skill: "[[skills/mathematics/geometric-formulation/geometric-formulation|geometric-formulation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/geometric-formulation/competencies/L2-apply-dot-product-for-orthogonality-and-distance|L2-apply-dot-product-for-orthogonality-and-distance]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Dot product for vector orthogonality
@@ -15,7 +17,7 @@ Parent macro: [[geometric-formulation|Geometric Formulation]]
 
 Parent competency:
 
-- [[L3-apply-dot-product-for-orthogonality-and-distance|L3- Apply Dot Product for Orthogonality and Distance]]
+- [[skills/mathematics/geometric-formulation/competencies/L2-apply-dot-product-for-orthogonality-and-distance|L3- Apply Dot Product for Orthogonality and Distance]]
 
 ## Description
 

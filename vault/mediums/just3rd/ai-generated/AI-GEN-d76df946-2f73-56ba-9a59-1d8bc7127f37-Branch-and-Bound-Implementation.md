@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/branch-and-bound-implementation|Branch and Bound Implementation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/branch-and-bound-implementation|branch-and-bound-implementation]]"
 ---
 # Branch and Bound: Implementing Optimization Solutions
 

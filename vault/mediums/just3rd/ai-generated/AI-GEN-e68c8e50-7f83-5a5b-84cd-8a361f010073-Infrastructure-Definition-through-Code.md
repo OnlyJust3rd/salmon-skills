@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-definition-through-code|Infrastructure Definition through Code]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-definition-through-code|infrastructure-definition-through-code]]"
 ---
 # Defining Infrastructure with Code
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-volume-creation|Docker Volume Creation]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/docker-volume-creation|docker-volume-creation]]"
 ---
 # Creating Docker Volumes: Persistent Storage for Your Containers
 

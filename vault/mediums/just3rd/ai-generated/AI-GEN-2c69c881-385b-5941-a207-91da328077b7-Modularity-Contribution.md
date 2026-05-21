@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/modularity-contribution|Modularity Contribution]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/modularity-contribution|modularity-contribution]]"
 ---
 # How OOP Principles Foster Modularity
 

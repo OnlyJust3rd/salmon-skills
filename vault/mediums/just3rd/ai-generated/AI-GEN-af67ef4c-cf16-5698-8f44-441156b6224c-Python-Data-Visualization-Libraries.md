@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/python-data-visualization-libraries|Python Data Visualization Libraries]]"
+  - "[[skills/programming/programming-languages/python/microskills/python-data-visualization-libraries|python-data-visualization-libraries]]"
 ---
 # Understanding Python Data Visualization Libraries
 

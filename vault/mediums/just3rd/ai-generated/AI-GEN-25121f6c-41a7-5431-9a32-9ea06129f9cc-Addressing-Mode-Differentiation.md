@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/addressing-mode-differentiation|Addressing Mode Differentiation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/addressing-mode-differentiation|addressing-mode-differentiation]]"
 ---
 # Understanding Addressing Modes: The Key to Instruction Flexibility
 

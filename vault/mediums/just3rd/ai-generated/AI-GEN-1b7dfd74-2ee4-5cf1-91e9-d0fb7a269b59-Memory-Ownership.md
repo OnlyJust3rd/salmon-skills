@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/cpp-programming/microskills/memory-ownership|Memory Ownership]]"
+  - "[[skills/programming/programming-languages/cpp-programming/microskills/memory-ownership|memory-ownership]]"
 ---
 # Memory Ownership in C++
 

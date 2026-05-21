@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/policy-assignment|Policy Assignment]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/policy-assignment|policy-assignment]]"
 ---
 # Applying Azure Policies: Policy Assignment
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/product-analytics/microskills/experiment|Experiment]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/experiment|experiment]]"
 ---
 # Experimentation: Comparing Variants for Product Impact
 

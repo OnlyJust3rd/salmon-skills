@@ -1,17 +1,22 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Discrete Structure Modeling"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 1
-microskill-count: 6
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-111-discrete-mathematics-for-computer-engineers"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/data-structures/discrete-structure-modeling/competencies/L2-model-discrete-structures-and-combinatorial-elements|L2-model-discrete-structures-and-combinatorial-elements]]"
+standard-competency:
+  - "[[skills/programming/data-structures/discrete-structure-modeling/competencies/L2-model-discrete-structures-and-combinatorial-elements|L2-model-discrete-structures-and-combinatorial-elements]]"
+microskills:
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/function-modeling|function-modeling]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/matrix-representation|matrix-representation]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/relation-modeling|relation-modeling]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/sequence-modeling|sequence-modeling]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/set-theory-modeling|set-theory-modeling]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/summation-notation|summation-notation]]"
 ---
 
 # Discrete Structure Modeling
@@ -20,7 +25,7 @@ Ability to utilize sets, functions, sequences, sums, matrices, and relations as 
 
 ## Competencies
 
-- [[skills/programming/data-structures/discrete-structure-modeling/competencies/L3-model-discrete-structures-and-combinatorial-elements|L3- Model Discrete Structures and Combinatorial Elements]]
+- [[skills/programming/data-structures/discrete-structure-modeling/competencies/L2-model-discrete-structures-and-combinatorial-elements|L3- Model Discrete Structures and Combinatorial Elements]]
 
 ## Microskills
 

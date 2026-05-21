@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/purpose-of-line-drawing-algorithms|Purpose of Line Drawing Algorithms]]"
+  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/purpose-of-line-drawing-algorithms|purpose-of-line-drawing-algorithms]]"
 ---
 # The Need for Line Drawing Algorithms
 

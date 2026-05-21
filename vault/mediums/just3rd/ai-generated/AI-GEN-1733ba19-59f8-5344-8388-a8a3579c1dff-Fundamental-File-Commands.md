@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/fundamental-file-commands|Fundamental File Commands]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/fundamental-file-commands|fundamental-file-commands]]"
 ---
 # Fundamental File Commands in Linux
 

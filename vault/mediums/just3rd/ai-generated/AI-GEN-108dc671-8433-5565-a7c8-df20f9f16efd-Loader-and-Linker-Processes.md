@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/loader-and-linker-processes|Loader and Linker Processes]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/loader-and-linker-processes|loader-and-linker-processes]]"
 ---
 # Understanding Loader and Linker Processes
 

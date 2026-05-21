@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Loader and Linker Processes"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Operating System"
-parent-competency: "L2- Explain system software interactions"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/operating-system/operating-system|operating-system]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-explain-system-software-interactions|L1-explain-system-software-interactions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Loader and Linker Processes
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/operating-system/operating-syst
 
 Parent competency:
 
-- [[skills/systems/operating-systems/operating-system/competencies/L2-explain-system-software-interactions|L2- Explain system software interactions]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-explain-system-software-interactions|L2- Explain system software interactions]]
 
 ## Description
 

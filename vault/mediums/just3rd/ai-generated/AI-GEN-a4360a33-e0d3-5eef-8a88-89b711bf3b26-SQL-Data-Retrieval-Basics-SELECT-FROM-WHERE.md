@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/sql-data-retrieval-basics-select-from-where|SQL Data Retrieval Basics (SELECT, FROM, WHERE)]]"
+  - "[[skills/data/databases/sql/microskills/sql-data-retrieval-basics-select-from-where|sql-data-retrieval-basics-select-from-where]]"
 ---
 # SQL Data Retrieval Basics: SELECT, FROM, WHERE
 

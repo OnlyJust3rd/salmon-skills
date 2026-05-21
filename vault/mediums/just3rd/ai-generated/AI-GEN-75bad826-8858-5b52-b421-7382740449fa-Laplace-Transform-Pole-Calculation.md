@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/laplace-transform-pole-calculation|Laplace Transform Pole Calculation]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/laplace-transform-pole-calculation|laplace-transform-pole-calculation]]"
 ---
 # Laplace Transform Pole Calculation
 

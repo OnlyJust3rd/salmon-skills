@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithmic-principle-application|Algorithmic Principle Application]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithmic-principle-application|algorithmic-principle-application]]"
 ---
 # Applying Algorithmic Principles to Genetic Algorithms
 

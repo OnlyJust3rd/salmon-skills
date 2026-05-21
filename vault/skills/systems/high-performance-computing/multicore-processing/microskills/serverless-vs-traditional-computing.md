@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Serverless vs. Traditional Computing"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Multicore Processing"
-parent-competency: "L2- Understand Serverless Architecture"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/multicore-processing/multicore-processing|multicore-processing]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/multicore-processing/competencies/L1-understand-serverless-architecture|L1-understand-serverless-architecture]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Serverless vs. Traditional Computing
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/multicore-processing/m
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/multicore-processing/competencies/L2-understand-serverless-architecture|L2- Understand Serverless Architecture]]
+- [[skills/systems/high-performance-computing/multicore-processing/competencies/L1-understand-serverless-architecture|L2- Understand Serverless Architecture]]
 
 ## Description
 

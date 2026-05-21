@@ -1,17 +1,28 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cryptographic Fundamentals"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-coverage:
-  - "Concept"
-competency-count: 3
-microskill-count: 10
-related-jobs:
-  - "Cybersecurity Analyst"
-source-note: "courses/kmutt/cpe-2021/n-a-cryptographic-techniques-for-multimedia-communication"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-list-hash-functions|L1-list-hash-functions]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-core-security-principles-explained|L1-core-security-principles-explained]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-hash-function-properties-and-mapping|L1-hash-function-properties-and-mapping]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-core-security-principles-explained|L1-core-security-principles-explained]]"
+microskills:
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/authentication|authentication]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/common-cryptographic-hash-functions|common-cryptographic-hash-functions]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/communication-security-principles|communication-security-principles]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/confidentiality|confidentiality]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-characteristics|cryptographic-hash-function-characteristics]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-identification|cryptographic-hash-function-identification]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/data-to-digest-transformation|data-to-digest-transformation]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/digest-size-consistency|digest-size-consistency]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/hash-function-properties|hash-function-properties]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/integrity|integrity]]"
 ---
 
 # Cryptographic Fundamentals
@@ -20,9 +31,9 @@ Understanding and articulating the fundamental theoretical underpinnings and goa
 
 ## Competencies
 
-- [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L2-core-security-principles-explained|L2- Core Security Principles Explained]]
+- [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-core-security-principles-explained|L2- Core Security Principles Explained]]
 - [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-list-hash-functions|L1- List Hash Functions]]
-- [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L2-hash-function-properties-and-mapping|L2- Hash Function Properties and Mapping]]
+- [[skills/security/cybersecurity/cryptographic-fundamentals/competencies/L1-hash-function-properties-and-mapping|L2- Hash Function Properties and Mapping]]
 
 ## Microskills
 

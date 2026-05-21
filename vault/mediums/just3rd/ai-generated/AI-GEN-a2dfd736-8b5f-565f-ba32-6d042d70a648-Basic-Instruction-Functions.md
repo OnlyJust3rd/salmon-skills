@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/assembly-programming/microskills/basic-instruction-functions|Basic Instruction Functions]]"
+  - "[[skills/programming/programming-languages/assembly-programming/microskills/basic-instruction-functions|basic-instruction-functions]]"
 ---
 # Understanding Basic Assembly Instructions
 

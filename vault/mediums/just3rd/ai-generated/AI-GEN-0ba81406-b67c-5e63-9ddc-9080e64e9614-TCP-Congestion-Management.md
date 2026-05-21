@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/tcp-congestion-management|TCP Congestion Management]]"
+  - "[[skills/systems/networking/network-performance/microskills/tcp-congestion-management|tcp-congestion-management]]"
 ---
 # Understanding TCP Congestion Management
 

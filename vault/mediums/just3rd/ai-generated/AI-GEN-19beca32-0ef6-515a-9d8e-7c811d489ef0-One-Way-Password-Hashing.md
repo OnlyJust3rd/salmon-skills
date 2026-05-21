@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cybersecurity/microskills/one-way-password-hashing|One-Way Password Hashing]]"
+  - "[[skills/security/cybersecurity/cybersecurity/microskills/one-way-password-hashing|one-way-password-hashing]]"
 ---
 # Understanding One-Way Password Hashing
 

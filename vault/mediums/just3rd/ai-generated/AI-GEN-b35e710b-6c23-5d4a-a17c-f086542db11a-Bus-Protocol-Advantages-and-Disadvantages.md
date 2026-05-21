@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/bus-protocol-advantages-and-disadvantages|Bus Protocol Advantages and Disadvantages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/bus-protocol-advantages-and-disadvantages|bus-protocol-advantages-and-disadvantages]]"
 ---
 # Analyzing Bus Protocol Advantages and Disadvantages
 

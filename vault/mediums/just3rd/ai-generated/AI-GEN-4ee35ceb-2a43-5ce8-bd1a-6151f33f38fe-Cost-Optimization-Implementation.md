@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-optimization-implementation|Cost Optimization Implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-optimization-implementation|cost-optimization-implementation]]"
 ---
 # Implementing Cloud Cost Optimization: Rightsizing and Shutting Down Idle Resources
 

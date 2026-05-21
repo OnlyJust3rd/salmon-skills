@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/static-analysis-tool-impact|Static Analysis Tool Impact]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/static-analysis-tool-impact|static-analysis-tool-impact]]"
 ---
 # Understanding the Impact of Static Analysis Tools
 

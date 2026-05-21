@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-backup-and-recovery/microskills/backup-types|Backup Types]]"
+  - "[[skills/data/databases/database-backup-and-recovery/microskills/backup-types|backup-types]]"
 ---
 # Understanding Database Backup Types
 

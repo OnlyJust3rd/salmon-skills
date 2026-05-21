@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/application-protocol-operations|Application Protocol Operations]]"
+  - "[[skills/systems/networking/application-layer/microskills/application-protocol-operations|application-protocol-operations]]"
 ---
 # Understanding Application Protocol Operations: HTTP and DNS
 

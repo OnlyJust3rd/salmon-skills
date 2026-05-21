@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/region-selection-criteria|Region Selection Criteria]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/region-selection-criteria|region-selection-criteria]]"
 ---
 # Region Selection Criteria for Cloud Infrastructure
 

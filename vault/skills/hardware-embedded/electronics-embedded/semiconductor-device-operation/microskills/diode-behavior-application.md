@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Diode Behavior Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Semiconductor Device Operation"
-parent-competency: "L3- Rectifier Circuit Application"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/semiconductor-device-operation|semiconductor-device-operation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L2-rectifier-circuit-application|L2-rectifier-circuit-application]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Diode Behavior Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/semiconductor-devi
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L3-rectifier-circuit-application|L3- Rectifier Circuit Application]]
+- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L2-rectifier-circuit-application|L3- Rectifier Circuit Application]]
 
 ## Description
 

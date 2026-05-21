@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-definition|Process Definition]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-definition|process-definition]]"
 ---
 # Program vs. Process: The Fundamentals
 

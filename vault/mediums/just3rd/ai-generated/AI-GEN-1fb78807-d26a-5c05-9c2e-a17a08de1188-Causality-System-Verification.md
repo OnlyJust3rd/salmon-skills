@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/causality-system-verification|Causality System Verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/causality-system-verification|causality-system-verification]]"
 ---
 # Verifying System Causality
 

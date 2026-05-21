@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/data-science/microskills/role-interdependencies|Role Interdependencies]]"
+  - "[[skills/data/data-science/data-science/microskills/role-interdependencies|role-interdependencies]]"
 ---
 # Role Interdependencies in Data Science Projects
 

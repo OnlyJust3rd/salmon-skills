@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-security-comparison|Encryption Algorithm Security Comparison]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-security-comparison|encryption-algorithm-security-comparison]]"
 ---
 # Encryption Algorithm Security Comparison
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/complexity-and-pin-count-considerations|Complexity and Pin Count Considerations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/complexity-and-pin-count-considerations|complexity-and-pin-count-considerations]]"
 ---
 # Evaluating Communication Protocols: Pin Count and Complexity
 

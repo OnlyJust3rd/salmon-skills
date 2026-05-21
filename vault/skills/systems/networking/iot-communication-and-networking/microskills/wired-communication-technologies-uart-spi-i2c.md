@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Wired Communication Technologies (UART, SPI, I²C)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Communication and Networking"
-parent-competency: "L4- Analyze IoT Communication Technologies"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/iot-communication-and-networking/iot-communication-and-networking|iot-communication-and-networking]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L3-analyze-iot-communication-technologies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Wired Communication Technologies (UART, SPI, I²C)
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/iot-communication-and-networking/iot-c
 
 Parent competency:
 
-- [[skills/systems/networking/iot-communication-and-networking/competencies/L4-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
+- [[skills/systems/networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
 
 ## Description
 

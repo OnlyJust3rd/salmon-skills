@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/jordan-block-definition|Jordan block definition]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/jordan-block-definition|jordan-block-definition]]"
 ---
 # Understanding Jordan Blocks: The Building Blocks of Jordan Normal Forms
 

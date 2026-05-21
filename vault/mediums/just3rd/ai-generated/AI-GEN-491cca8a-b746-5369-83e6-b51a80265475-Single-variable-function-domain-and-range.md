@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/function-analysis/microskills/single-variable-function-domain-and-range|Single-variable function domain and range]]"
+  - "[[skills/mathematics/function-analysis/microskills/single-variable-function-domain-and-range|single-variable-function-domain-and-range]]"
 ---
 # Understanding the Domain and Range of Single-Variable Functions
 

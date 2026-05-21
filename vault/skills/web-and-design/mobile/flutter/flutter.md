@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Flutter"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Framework"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Mobile Application Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/mobile/flutter/competencies/L1-explain-flutter-widget-architecture|L1-explain-flutter-widget-architecture]]"
+  - "[[skills/web-and-design/mobile/flutter/competencies/L2-implement-flutter-application-screens|L2-implement-flutter-application-screens]]"
+standard-competency:
+  - "[[skills/web-and-design/mobile/flutter/competencies/L2-implement-flutter-application-screens|L2-implement-flutter-application-screens]]"
+microskills:
+  - "[[skills/web-and-design/mobile/flutter/microskills/layout-widget|layout-widget]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/navigation-route|navigation-route]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/screen-widget|screen-widget]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/state-update|state-update]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/stateful-widget|stateful-widget]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/widget-tree|widget-tree]]"
 ---
 
 # Flutter
@@ -20,8 +26,8 @@ Using Flutter widget architecture, layout, state, and screens to build cross-pla
 
 ## Competencies
 
-- [[skills/web-and-design/mobile/flutter/competencies/L2-explain-flutter-widget-architecture|L2- Explain Flutter Widget Architecture]]
-- [[skills/web-and-design/mobile/flutter/competencies/L3-implement-flutter-application-screens|L3- Implement Flutter Application Screens]]
+- [[skills/web-and-design/mobile/flutter/competencies/L1-explain-flutter-widget-architecture|L2- Explain Flutter Widget Architecture]]
+- [[skills/web-and-design/mobile/flutter/competencies/L2-implement-flutter-application-screens|L3- Implement Flutter Application Screens]]
 
 ## Microskills
 

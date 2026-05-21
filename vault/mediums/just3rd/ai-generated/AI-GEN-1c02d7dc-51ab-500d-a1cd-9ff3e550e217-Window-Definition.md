@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/window-definition|Window Definition]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/window-definition|window-definition]]"
 ---
 # Understanding the Viewing Window
 

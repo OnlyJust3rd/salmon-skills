@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/laplace-transform-roc-determination|Laplace Transform ROC Determination]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/laplace-transform-roc-determination|laplace-transform-roc-determination]]"
 ---
 # Laplace Transform ROC Determination
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-performance-interpretation|Scheduling Algorithm Performance Interpretation]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-performance-interpretation|scheduling-algorithm-performance-interpretation]]"
 ---
 # Interpreting Scheduling Algorithm Performance
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-data-visualization|Grafana Data Visualization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-data-visualization|grafana-data-visualization]]"
 ---
 # Grafana: Visualizing Your System's Story
 

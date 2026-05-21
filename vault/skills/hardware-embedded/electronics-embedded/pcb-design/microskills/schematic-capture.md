@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Schematic Capture"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "PCB Design"
-parent-competency: "L1- List PCB Design Steps"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/pcb-design/pcb-design|pcb-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L1-list-pcb-design-steps|L1-list-pcb-design-steps]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Schematic Capture

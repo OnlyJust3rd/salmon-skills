@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/aes-operations-analysis|AES Operations Analysis]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/aes-operations-analysis|aes-operations-analysis]]"
 ---
 # AES Operations Analysis: Deconstructing the Rounds
 

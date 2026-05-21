@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/polymorphism-definition|Polymorphism Definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/polymorphism-definition|polymorphism-definition]]"
 ---
 # Polymorphism: One Name, Many Forms
 

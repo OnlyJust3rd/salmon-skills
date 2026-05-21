@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Progression Stages"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "IT Career Path"
-parent-competency: "L2- Explain Tech Career Progression"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/it-career-path/it-career-path|it-career-path]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/it-career-path/competencies/L1-explain-tech-career-progression|L1-explain-tech-career-progression]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Progression Stages
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/it-career-path/it-career-pat
 
 Parent competency:
 
-- [[skills/business-it/business-product/it-career-path/competencies/L2-explain-tech-career-progression|L2- Explain Tech Career Progression]]
+- [[skills/business-it/business-product/it-career-path/competencies/L1-explain-tech-career-progression|L2- Explain Tech Career Progression]]
 
 ## Description
 

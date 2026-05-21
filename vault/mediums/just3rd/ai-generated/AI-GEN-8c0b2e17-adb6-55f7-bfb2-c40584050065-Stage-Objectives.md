@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/data-science/microskills/stage-objectives|Stage Objectives]]"
+  - "[[skills/data/data-science/data-science/microskills/stage-objectives|stage-objectives]]"
 ---
 # Understanding the Objectives of Data Science Stages
 

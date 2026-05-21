@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/effect-on-object-appearance|Effect on Object Appearance]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/effect-on-object-appearance|effect-on-object-appearance]]"
 ---
 # Understanding Foreshortening: How Objects Appear Shorter in Perspective
 

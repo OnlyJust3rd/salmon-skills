@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/recommendation-generation|Recommendation Generation]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/recommendation-generation|recommendation-generation]]"
 ---
 # Generating Actionable Recommendations: Turning Findings into Improvements
 

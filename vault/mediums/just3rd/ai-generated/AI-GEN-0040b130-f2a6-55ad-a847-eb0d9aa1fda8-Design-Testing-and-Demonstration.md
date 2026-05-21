@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/design-testing-and-demonstration|Design Testing and Demonstration]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/design-testing-and-demonstration|design-testing-and-demonstration]]"
 ---
 # Prototyping for Interactive System Testing and Demonstration
 

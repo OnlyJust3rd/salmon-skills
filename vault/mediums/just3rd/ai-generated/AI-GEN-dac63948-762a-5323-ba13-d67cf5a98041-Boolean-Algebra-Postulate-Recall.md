@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-algebra-postulate-recall|Boolean Algebra Postulate Recall]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-algebra-postulate-recall|boolean-algebra-postulate-recall]]"
 ---
 # Boolean Algebra Postulates: The Foundation of Logic
 

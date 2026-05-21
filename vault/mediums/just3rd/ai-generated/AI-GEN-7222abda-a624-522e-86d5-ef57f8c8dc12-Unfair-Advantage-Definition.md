@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/unfair-advantage-definition|Unfair Advantage Definition]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/unfair-advantage-definition|unfair-advantage-definition]]"
 ---
 # Defining Your Unfair Advantage
 

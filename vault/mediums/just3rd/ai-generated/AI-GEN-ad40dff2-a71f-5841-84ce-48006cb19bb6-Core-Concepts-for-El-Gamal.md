@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/core-concepts-for-el-gamal|Core Concepts for El Gamal]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/core-concepts-for-el-gamal|core-concepts-for-el-gamal]]"
 ---
 # Core Concepts of El Gamal Encryption
 

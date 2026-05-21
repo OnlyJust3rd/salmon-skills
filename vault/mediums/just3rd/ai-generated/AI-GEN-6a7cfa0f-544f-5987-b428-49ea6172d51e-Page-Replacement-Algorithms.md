@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/page-replacement-algorithms|Page Replacement Algorithms]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/page-replacement-algorithms|page-replacement-algorithms]]"
 ---
 # Page Replacement Algorithms: Keeping Memory Tidy
 

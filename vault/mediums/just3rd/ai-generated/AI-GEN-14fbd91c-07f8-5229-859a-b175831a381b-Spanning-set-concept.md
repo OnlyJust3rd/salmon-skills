@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/spanning-set-concept|Spanning set concept]]"
+  - "[[skills/mathematics/vector-space/microskills/spanning-set-concept|spanning-set-concept]]"
 ---
 # Understanding Spanning Sets in Vector Spaces
 

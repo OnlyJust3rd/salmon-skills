@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/ip-address-conservation|IP Address Conservation]]"
+  - "[[skills/systems/networking/network-layer/microskills/ip-address-conservation|ip-address-conservation]]"
 ---
 # IP Address Conservation with NAT
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/fuzzy-logic-control-principles-application|Fuzzy Logic Control Principles Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/fuzzy-logic-control-principles-application|fuzzy-logic-control-principles-application]]"
 ---
 # Applying Fuzzy Logic to Robot Maze Traversal
 

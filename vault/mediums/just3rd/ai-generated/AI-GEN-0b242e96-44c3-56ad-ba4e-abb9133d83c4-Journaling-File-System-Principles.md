@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/journaling-file-system-principles|Journaling File System Principles]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/journaling-file-system-principles|journaling-file-system-principles]]"
 ---
 # Understanding Journaling File System Principles
 

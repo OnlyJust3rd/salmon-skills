@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/static-structural-diagrams|Static Structural Diagrams]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/static-structural-diagrams|static-structural-diagrams]]"
 ---
 # Understanding Static Structural Diagrams in UML
 

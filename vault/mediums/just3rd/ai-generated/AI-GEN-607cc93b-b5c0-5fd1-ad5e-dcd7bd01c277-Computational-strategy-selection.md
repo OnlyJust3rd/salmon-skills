@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/computational-strategy-selection|Computational strategy selection]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/computational-strategy-selection|computational-strategy-selection]]"
 ---
 # Choosing the Right Computational Strategy
 

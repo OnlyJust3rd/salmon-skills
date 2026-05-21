@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-structural-analysis|Specialized Vector Processor Structural Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-structural-analysis|specialized-vector-processor-structural-analysis]]"
 ---
 # Specialized Vector Processor Structural Analysis
 

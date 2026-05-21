@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Value Proposition Articulation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Startup Communication"
-parent-competency: "L3- Pitching Techniques"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/startup-communication/startup-communication|startup-communication]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/startup-communication/competencies/L2-pitching-techniques|L2-pitching-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Value Proposition Articulation
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/startup-communication/startu
 
 Parent competency:
 
-- [[skills/business-it/business-product/startup-communication/competencies/L3-pitching-techniques|L3- Pitching Techniques]]
+- [[skills/business-it/business-product/startup-communication/competencies/L2-pitching-techniques|L3- Pitching Techniques]]
 
 ## Description
 

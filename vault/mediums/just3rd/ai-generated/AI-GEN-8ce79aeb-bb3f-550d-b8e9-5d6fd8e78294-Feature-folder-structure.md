@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/react/microskills/feature-folder-structure|Feature folder structure]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/feature-folder-structure|feature-folder-structure]]"
 ---
 # Feature Folder Structure in React
 

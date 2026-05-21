@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/paging-scheme-principles|Paging Scheme Principles]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/paging-scheme-principles|paging-scheme-principles]]"
 ---
 # Understanding Paging: Principles of Memory Allocation
 

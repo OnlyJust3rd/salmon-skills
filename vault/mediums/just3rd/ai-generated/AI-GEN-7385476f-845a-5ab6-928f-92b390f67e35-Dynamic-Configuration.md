@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/dynamic-configuration|Dynamic Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/dynamic-configuration|dynamic-configuration]]"
 ---
 # Dynamic Configuration with Terraform Data Sources
 

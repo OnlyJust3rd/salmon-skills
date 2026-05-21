@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-symmetry-application|Polar curve symmetry application]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-symmetry-application|polar-curve-symmetry-application]]"
 ---
 # Applying Polar Curve Symmetry for Sketching
 

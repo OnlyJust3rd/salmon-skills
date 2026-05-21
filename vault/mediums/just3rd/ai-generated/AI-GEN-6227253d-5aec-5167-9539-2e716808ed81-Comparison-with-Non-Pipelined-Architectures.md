@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/comparison-with-non-pipelined-architectures|Comparison with Non-Pipelined Architectures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/comparison-with-non-pipelined-architectures|comparison-with-non-pipelined-architectures]]"
 ---
 # Contrasting Execution Speed: Pipelined vs. Non-Pipelined Architectures
 

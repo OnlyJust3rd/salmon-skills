@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/utility-program-task-execution|Utility Program Task Execution]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/utility-program-task-execution|utility-program-task-execution]]"
 ---
 # Understanding Utility Program Task Execution
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/early-adopter-identification|Early Adopter Identification]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/early-adopter-identification|early-adopter-identification]]"
 ---
 # Identifying Your Early Adopters
 

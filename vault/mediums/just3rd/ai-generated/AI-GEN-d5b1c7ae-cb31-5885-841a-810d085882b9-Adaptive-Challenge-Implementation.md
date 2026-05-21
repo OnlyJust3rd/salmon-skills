@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/adaptive-challenge-implementation|Adaptive Challenge Implementation]]"
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/adaptive-challenge-implementation|adaptive-challenge-implementation]]"
 ---
 # Implementing Adaptive Challenges in Games
 

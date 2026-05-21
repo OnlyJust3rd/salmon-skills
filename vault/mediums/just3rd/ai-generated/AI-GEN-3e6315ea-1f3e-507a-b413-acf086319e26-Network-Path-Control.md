@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/network-path-control|Network Path Control]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/network-path-control|network-path-control]]"
 ---
 # Network Path Control with Static Routing
 

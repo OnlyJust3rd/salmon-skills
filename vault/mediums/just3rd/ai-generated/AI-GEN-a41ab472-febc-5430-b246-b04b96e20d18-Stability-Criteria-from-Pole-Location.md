@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/stability-criteria-from-pole-location|Stability Criteria from Pole Location]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/stability-criteria-from-pole-location|stability-criteria-from-pole-location]]"
 ---
 # Stability Criteria from Pole Location
 

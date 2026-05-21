@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/resource-constrained-communications|Resource-Constrained Communications]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/resource-constrained-communications|resource-constrained-communications]]"
 ---
 # Understanding Resource-Constrained Communications for Selective Encryption
 

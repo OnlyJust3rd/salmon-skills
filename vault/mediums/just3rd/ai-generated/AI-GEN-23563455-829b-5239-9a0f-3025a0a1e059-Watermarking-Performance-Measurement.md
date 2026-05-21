@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermarking-performance-measurement|Watermarking Performance Measurement]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermarking-performance-measurement|watermarking-performance-measurement]]"
 ---
 # Watermarking Performance Measurement
 

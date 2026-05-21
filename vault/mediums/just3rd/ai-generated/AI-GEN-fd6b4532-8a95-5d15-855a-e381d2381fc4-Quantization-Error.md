@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/quantization-error|Quantization Error]]"
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/quantization-error|quantization-error]]"
 ---
 # Understanding Quantization Error in Signal Conversion
 

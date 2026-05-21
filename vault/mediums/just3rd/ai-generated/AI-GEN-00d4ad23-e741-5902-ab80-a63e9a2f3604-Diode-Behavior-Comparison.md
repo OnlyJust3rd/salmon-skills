@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/diode-behavior-comparison|Diode Behavior Comparison]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/diode-behavior-comparison|diode-behavior-comparison]]"
 ---
 # Diode Behavior Comparison
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/basic-class-implementation|Basic class implementation]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/basic-class-implementation|basic-class-implementation]]"
 ---
 # Implementing Basic Classes: Building Blocks of OOP
 

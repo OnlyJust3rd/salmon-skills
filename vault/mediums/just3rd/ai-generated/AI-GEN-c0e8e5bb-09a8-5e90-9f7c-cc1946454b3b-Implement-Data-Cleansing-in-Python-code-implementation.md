@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-data-cleansing-in-python-code-implementation|Implement Data Cleansing in Python code implementation]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-data-cleansing-in-python-code-implementation|implement-data-cleansing-in-python-code-implementation]]"
 ---
 # Implementing Data Cleansing in Python
 

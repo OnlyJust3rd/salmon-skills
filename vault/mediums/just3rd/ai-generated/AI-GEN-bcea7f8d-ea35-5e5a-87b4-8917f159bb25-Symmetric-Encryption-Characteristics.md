@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/symmetric-encryption-characteristics|Symmetric Encryption Characteristics]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/symmetric-encryption-characteristics|symmetric-encryption-characteristics]]"
 ---
 # Symmetric Encryption: The Speedy Secret Keeper
 

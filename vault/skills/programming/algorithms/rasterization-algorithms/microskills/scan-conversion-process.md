@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Scan Conversion Process"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Rasterization Algorithms"
-parent-competency: "L2- Explain Line Drawing and Scan Conversion Algorithms"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/rasterization-algorithms/rasterization-algorithms|rasterization-algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/rasterization-algorithms/competencies/L1-explain-line-drawing-and-scan-conversion-algorithms|L1-explain-line-drawing-and-scan-conversion-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Scan Conversion Process
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/rasterization-algorithms/rasteriza
 
 Parent competency:
 
-- [[skills/programming/algorithms/rasterization-algorithms/competencies/L2-explain-line-drawing-and-scan-conversion-algorithms|L2- Explain Line Drawing and Scan Conversion Algorithms]]
+- [[skills/programming/algorithms/rasterization-algorithms/competencies/L1-explain-line-drawing-and-scan-conversion-algorithms|L2- Explain Line Drawing and Scan Conversion Algorithms]]
 
 ## Description
 

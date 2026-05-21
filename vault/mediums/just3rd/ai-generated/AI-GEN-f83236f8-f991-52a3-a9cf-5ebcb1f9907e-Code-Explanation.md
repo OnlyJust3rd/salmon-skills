@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/code-explanation|Code Explanation]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/code-explanation|code-explanation]]"
 ---
 # Understanding AI-Assisted Code Explanation
 

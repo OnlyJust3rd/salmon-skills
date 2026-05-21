@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-centered-design-process|User-Centered Design Process]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-centered-design-process|user-centered-design-process]]"
 ---
 # The User-Centered Design Process: A Journey of Understanding
 

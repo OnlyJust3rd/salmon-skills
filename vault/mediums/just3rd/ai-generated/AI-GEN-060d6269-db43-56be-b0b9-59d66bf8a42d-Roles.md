@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cybersecurity/microskills/roles|Roles]]"
+  - "[[skills/security/cybersecurity/cybersecurity/microskills/roles|roles]]"
 ---
 # Understanding Roles in Authorization
 

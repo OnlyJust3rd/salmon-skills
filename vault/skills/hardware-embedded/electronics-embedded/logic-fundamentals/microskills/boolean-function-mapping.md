@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Boolean Function Mapping"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Logic Fundamentals"
-parent-competency: "L2- Logic Gate Implementation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/logic-fundamentals|logic-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-logic-gate-implementation|L1-logic-gate-implementation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Boolean Function Mapping
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/logic-fundamentals
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L2-logic-gate-implementation|L2- Logic Gate Implementation]]
+- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-logic-gate-implementation|L2- Logic Gate Implementation]]
 
 ## Description
 

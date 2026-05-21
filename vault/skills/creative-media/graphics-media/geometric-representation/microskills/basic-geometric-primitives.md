@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Basic Geometric Primitives"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Geometric Representation"
-parent-competency: "L1- List and Define Geometric Primitives"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/geometric-representation/geometric-representation|geometric-representation]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/geometric-representation/competencies/L1-list-and-define-geometric-primitives|L1-list-and-define-geometric-primitives]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Basic Geometric Primitives

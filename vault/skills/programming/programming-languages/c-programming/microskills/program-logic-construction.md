@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Program logic construction"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "C Programming"
-parent-competency: "L2- C Programming Elements Explanation and Application"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/c-programming/c-programming|c-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/c-programming/competencies/L1-c-programming-elements-explanation-and-application|L1-c-programming-elements-explanation-and-application]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Program logic construction
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/c-programming/c-program
 
 Parent competency:
 
-- [[skills/programming/programming-languages/c-programming/competencies/L2-c-programming-elements-explanation-and-application|L2- C Programming Elements Explanation and Application]]
+- [[skills/programming/programming-languages/c-programming/competencies/L1-c-programming-elements-explanation-and-application|L2- C Programming Elements Explanation and Application]]
 
 ## Description
 

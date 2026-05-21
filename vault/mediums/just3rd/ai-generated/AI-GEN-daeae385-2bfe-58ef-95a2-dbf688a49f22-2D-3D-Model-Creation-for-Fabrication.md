@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/2d-3d-model-creation-for-fabrication|2D/3D Model Creation for Fabrication]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/2d-3d-model-creation-for-fabrication|2d-3d-model-creation-for-fabrication]]"
 ---
 # Creating 2D/3D Models for Fabrication
 

@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "IT Service Management"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "IT Support Specialist"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/it-service-management/competencies/L1-explain-it-service-management-concepts|L1-explain-it-service-management-concepts]]"
+  - "[[skills/business-it/business-product/it-service-management/competencies/L2-apply-incident-ticket-triage-and-escalation|L2-apply-incident-ticket-triage-and-escalation]]"
+standard-competency:
+  - "[[skills/business-it/business-product/it-service-management/competencies/L2-apply-incident-ticket-triage-and-escalation|L2-apply-incident-ticket-triage-and-escalation]]"
+microskills:
+  - "[[skills/business-it/business-product/it-service-management/microskills/escalation-path|escalation-path]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/incident|incident]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/service-level|service-level]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/service-request|service-request]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/support-documentation|support-documentation]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/ticket-classification|ticket-classification]]"
 ---
 
 # IT Service Management
@@ -20,8 +26,8 @@ Understanding IT service delivery, support workflows, incident handling, request
 
 ## Competencies
 
-- [[skills/business-it/business-product/it-service-management/competencies/L2-explain-it-service-management-concepts|L2- Explain IT Service Management Concepts]]
-- [[skills/business-it/business-product/it-service-management/competencies/L3-apply-incident-ticket-triage-and-escalation|L3- Apply Incident Ticket Triage and Escalation]]
+- [[skills/business-it/business-product/it-service-management/competencies/L1-explain-it-service-management-concepts|L2- Explain IT Service Management Concepts]]
+- [[skills/business-it/business-product/it-service-management/competencies/L2-apply-incident-ticket-triage-and-escalation|L3- Apply Incident Ticket Triage and Escalation]]
 
 ## Microskills
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Engineering Problem-Solving Framework"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Engineering Process"
-parent-competency: "L2- Understand Problem-Solving Process"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/engineering-process/engineering-process|engineering-process]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L1-understand-problem-solving-process|L1-understand-problem-solving-process]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Engineering Problem-Solving Framework
@@ -15,7 +17,7 @@ Parent macro: [[skills/engineering/engineering-practices/engineering-process/eng
 
 Parent competency:
 
-- [[skills/engineering/engineering-practices/engineering-process/competencies/L2-understand-problem-solving-process|L2- Understand Problem-Solving Process]]
+- [[skills/engineering/engineering-practices/engineering-process/competencies/L1-understand-problem-solving-process|L2- Understand Problem-Solving Process]]
 
 ## Description
 

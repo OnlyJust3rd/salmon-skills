@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Authentication Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Access Control"
-parent-competency: "L2- Access Control Principles and Mechanisms"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/access-control/access-control|access-control]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/access-control/competencies/L1-access-control-principles-and-mechanisms|L1-access-control-principles-and-mechanisms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Authentication Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/access-control/access-control|Acce
 
 Parent competency:
 
-- [[skills/security/cybersecurity/access-control/competencies/L2-access-control-principles-and-mechanisms|L2- Access Control Principles and Mechanisms]]
+- [[skills/security/cybersecurity/access-control/competencies/L1-access-control-principles-and-mechanisms|L2- Access Control Principles and Mechanisms]]
 
 ## Description
 

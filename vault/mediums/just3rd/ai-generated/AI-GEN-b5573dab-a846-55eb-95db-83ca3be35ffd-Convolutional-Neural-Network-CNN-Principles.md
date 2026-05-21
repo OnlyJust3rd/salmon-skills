@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-classification/microskills/convolutional-neural-network-cnn-principles|Convolutional Neural Network (CNN) Principles]]"
+  - "[[skills/data/data-science/text-classification/microskills/convolutional-neural-network-cnn-principles|convolutional-neural-network-cnn-principles]]"
 ---
 # Convolutional Neural Network (CNN) Principles in Text Classification
 

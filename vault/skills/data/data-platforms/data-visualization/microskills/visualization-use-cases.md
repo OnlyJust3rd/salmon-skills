@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Visualization Use Cases"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Visualization"
-parent-competency: "L2- Visualization Communication and Types"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-visualization/data-visualization|data-visualization]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-visualization/competencies/L1-visualization-communication-and-types|L1-visualization-communication-and-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Visualization Use Cases
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-visualization/data-visualization
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-visualization/competencies/L2-visualization-communication-and-types|L2- Visualization Communication and Types]]
+- [[skills/data/data-platforms/data-visualization/competencies/L1-visualization-communication-and-types|L2- Visualization Communication and Types]]
 
 ## Description
 

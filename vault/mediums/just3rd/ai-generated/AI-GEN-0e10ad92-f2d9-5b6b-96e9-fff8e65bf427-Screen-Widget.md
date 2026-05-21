@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/flutter/microskills/screen-widget|Screen Widget]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/screen-widget|screen-widget]]"
 ---
 # Creating a Composed Screen Widget in Flutter
 

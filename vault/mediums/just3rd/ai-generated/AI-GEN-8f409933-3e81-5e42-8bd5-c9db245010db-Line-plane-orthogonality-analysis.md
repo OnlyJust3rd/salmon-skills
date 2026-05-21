@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/line-plane-orthogonality-analysis|Line-plane orthogonality analysis]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/line-plane-orthogonality-analysis|line-plane-orthogonality-analysis]]"
 ---
 # Line-Plane Orthogonality Analysis
 

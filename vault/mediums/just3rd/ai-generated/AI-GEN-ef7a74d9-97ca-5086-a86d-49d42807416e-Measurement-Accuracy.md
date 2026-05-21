@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/measurement-accuracy|Measurement Accuracy]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/measurement-accuracy|measurement-accuracy]]"
 ---
 # Understanding Measurement Accuracy and Distortion
 

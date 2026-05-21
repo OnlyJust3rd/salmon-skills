@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/dockerfile-construction|Dockerfile Construction]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/dockerfile-construction|dockerfile-construction]]"
 ---
 # Dockerfile Construction: Building Your First Container Image
 

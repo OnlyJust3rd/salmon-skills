@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/proteus-8-implementation|Proteus 8 Implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/proteus-8-implementation|proteus-8-implementation]]"
 ---
 # Implementing Combinational Circuits in Proteus 8
 

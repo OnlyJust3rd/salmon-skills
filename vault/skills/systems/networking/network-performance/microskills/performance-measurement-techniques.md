@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Performance Measurement Techniques"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Performance"
-parent-competency: "L3- Identify, define, and calculate performance metrics"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-performance/network-performance|network-performance]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics|L2-identify-define-and-calculate-performance-metrics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Performance Measurement Techniques
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-performance/network-performanc
 
 Parent competency:
 
-- [[skills/systems/networking/network-performance/competencies/L3-identify-define-and-calculate-performance-metrics|L3- Identify, define, and calculate performance metrics]]
+- [[skills/systems/networking/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics|L3- Identify, define, and calculate performance metrics]]
 
 ## Description
 

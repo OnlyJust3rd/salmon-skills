@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Infrastructure Role"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Data Link Layer"
-parent-competency: "L2- Ethernet LAN Functionality"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-link-layer/data-link-layer|data-link-layer]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-link-layer/competencies/L1-ethernet-lan-functionality|L1-ethernet-lan-functionality]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Infrastructure Role
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-link-layer/data-link-layer|Data 
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-link-layer/competencies/L2-ethernet-lan-functionality|L2- Ethernet LAN Functionality]]
+- [[skills/data/data-platforms/data-link-layer/competencies/L1-ethernet-lan-functionality|L2- Ethernet LAN Functionality]]
 
 ## Description
 

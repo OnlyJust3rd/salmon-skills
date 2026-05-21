@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Recall derivative rules"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Derivative Computation and Analysis"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
+requires-microskills:
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/partial-derivative-rules|partial-derivative-rules]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/standard-derivative-rules|standard-derivative-rules]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Recall derivative rules

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safe-and-accurate-equipment-use|Safe and Accurate Equipment Use]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safe-and-accurate-equipment-use|safe-and-accurate-equipment-use]]"
 ---
 # Safe and Accurate Equipment Use
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/real-time-difficulty-modification|Real-time Difficulty Modification]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/real-time-difficulty-modification|real-time-difficulty-modification]]"
 ---
 # Real-time Difficulty Modification
 

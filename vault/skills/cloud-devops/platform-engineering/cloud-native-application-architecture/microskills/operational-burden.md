@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Operational Burden"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-parent-macro: "Cloud-Native Application Architecture"
-parent-competency: "L3- Apply Managed Service Selection for Cloud Solutions"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/cloud-native-application-architecture|cloud-native-application-architecture]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L2-apply-managed-service-selection-for-cloud-solutions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Operational Burden
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-native-applicatio
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L3-apply-managed-service-selection-for-cloud-solutions|L3- Apply Managed Service Selection for Cloud Solutions]]
+- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L3- Apply Managed Service Selection for Cloud Solutions]]
 
 ## Description
 

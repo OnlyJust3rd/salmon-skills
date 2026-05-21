@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/oop-problem-solving|OOP Problem Solving]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/oop-problem-solving|oop-problem-solving]]"
 ---
 # OOP Problem Solving: Modeling a Library System
 

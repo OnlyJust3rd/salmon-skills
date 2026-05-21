@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|Distributed Data Processing Solutions]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|distributed-data-processing-solutions]]"
 ---
 # Distributed Data Processing with MPI Collectives
 

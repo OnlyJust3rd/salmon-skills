@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/early-adopter-characteristics|Early Adopter Characteristics]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/early-adopter-characteristics|early-adopter-characteristics]]"
 ---
 # Early Adopter Characteristics
 

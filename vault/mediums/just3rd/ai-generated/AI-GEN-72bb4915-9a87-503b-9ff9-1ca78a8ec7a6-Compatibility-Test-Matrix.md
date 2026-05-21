@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/compatibility-test-matrix|Compatibility Test Matrix]]"
+  - "[[skills/web-and-design/frontend-ux/cross-browser-testing/microskills/compatibility-test-matrix|compatibility-test-matrix]]"
 ---
 # Understanding the Compatibility Test Matrix
 

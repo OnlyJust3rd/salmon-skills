@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-classifications|Data Structure Classifications]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-classifications|data-structure-classifications]]"
 ---
 # Data Structure Classifications: Linear vs. Non-Linear
 

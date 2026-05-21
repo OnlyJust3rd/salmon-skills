@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/ip-forwarding-process|IP Forwarding Process]]"
+  - "[[skills/systems/networking/network-layer/microskills/ip-forwarding-process|ip-forwarding-process]]"
 ---
 # Understanding the IP Forwarding Process
 

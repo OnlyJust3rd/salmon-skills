@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/governance-rule-enforcement|Governance Rule Enforcement]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/governance-rule-enforcement|governance-rule-enforcement]]"
 ---
 # Governance Rule Enforcement with Azure Policy
 

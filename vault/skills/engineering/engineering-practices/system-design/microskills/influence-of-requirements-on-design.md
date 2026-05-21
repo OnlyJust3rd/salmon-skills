@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Influence of Requirements on Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "System Design"
-parent-competency: "L2- Describe Requirement-Design Link"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/system-design/system-design|system-design]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/system-design/competencies/L1-describe-requirement-design-link|L1-describe-requirement-design-link]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Influence of Requirements on Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/engineering/engineering-practices/system-design/system-de
 
 Parent competency:
 
-- [[skills/engineering/engineering-practices/system-design/competencies/L2-describe-requirement-design-link|L2- Describe Requirement-Design Link]]
+- [[skills/engineering/engineering-practices/system-design/competencies/L1-describe-requirement-design-link|L2- Describe Requirement-Design Link]]
 
 ## Description
 

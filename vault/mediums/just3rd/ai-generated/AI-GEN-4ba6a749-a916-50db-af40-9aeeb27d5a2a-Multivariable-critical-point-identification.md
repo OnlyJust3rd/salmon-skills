@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/multivariable-critical-point-identification|Multivariable critical point identification]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/multivariable-critical-point-identification|multivariable-critical-point-identification]]"
 ---
 # Locating Critical Points for Multivariable Functions
 

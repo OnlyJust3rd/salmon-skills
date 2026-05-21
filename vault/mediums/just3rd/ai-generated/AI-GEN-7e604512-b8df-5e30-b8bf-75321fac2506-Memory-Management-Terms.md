@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-terms|Memory Management Terms]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-terms|memory-management-terms]]"
 ---
 # Operating System: Understanding Memory Management Terms
 

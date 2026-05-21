@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-definition|Column space definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-definition|column-space-definition]]"
 ---
 # The Column Space of a Matrix
 

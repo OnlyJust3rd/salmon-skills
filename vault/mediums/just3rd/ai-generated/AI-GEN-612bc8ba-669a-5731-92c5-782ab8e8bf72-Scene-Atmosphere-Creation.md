@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/scene-atmosphere-creation|Scene Atmosphere Creation]]"
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/microskills/scene-atmosphere-creation|scene-atmosphere-creation]]"
 ---
 # Creating Atmosphere with Composition and Lighting
 

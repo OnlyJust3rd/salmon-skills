@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-count-and-resolution-relationship|Pixel Count and Resolution Relationship]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-count-and-resolution-relationship|pixel-count-and-resolution-relationship]]"
 ---
 # Pixel Count and Resolution: How Pixels Paint the Picture
 

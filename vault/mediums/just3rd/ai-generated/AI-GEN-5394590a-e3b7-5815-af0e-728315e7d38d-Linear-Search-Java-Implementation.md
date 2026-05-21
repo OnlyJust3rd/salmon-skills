@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/linear-search-java-implementation|Linear Search Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/linear-search-java-implementation|linear-search-java-implementation]]"
 ---
 # Implementing Linear Search in Java
 

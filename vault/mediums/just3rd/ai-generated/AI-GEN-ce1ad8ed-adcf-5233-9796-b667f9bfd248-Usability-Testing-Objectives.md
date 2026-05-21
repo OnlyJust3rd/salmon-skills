@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/usability-testing-objectives|Usability Testing Objectives]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/usability-testing-objectives|usability-testing-objectives]]"
 ---
 # Understanding Usability Testing Objectives
 

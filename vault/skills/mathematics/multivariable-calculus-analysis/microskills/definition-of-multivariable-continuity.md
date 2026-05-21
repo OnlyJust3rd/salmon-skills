@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Definition of multivariable continuity"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Multivariable Calculus Analysis"
-parent-competency: "L2- Explain multivariable continuity"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multivariable-calculus-analysis/multivariable-calculus-analysis|multivariable-calculus-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multivariable-calculus-analysis/competencies/L1-explain-multivariable-continuity|L1-explain-multivariable-continuity]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Definition of multivariable continuity
@@ -15,7 +17,7 @@ Parent macro: [[multivariable-calculus-analysis|Multivariable Calculus Analysis]
 
 Parent competency:
 
-- [[L2-explain-multivariable-continuity|L2- Explain multivariable continuity]]
+- [[skills/mathematics/multivariable-calculus-analysis/competencies/L1-explain-multivariable-continuity|L2- Explain multivariable continuity]]
 
 ## Description
 

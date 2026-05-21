@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-engineering/microskills/data-lineage|Data Lineage]]"
+  - "[[skills/data/data-platforms/data-engineering/microskills/data-lineage|data-lineage]]"
 ---
 # Understanding Data Lineage: Tracing Your Data's Journey
 

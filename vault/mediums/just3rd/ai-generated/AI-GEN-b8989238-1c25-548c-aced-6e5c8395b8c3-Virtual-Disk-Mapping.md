@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-disk-mapping|Virtual Disk Mapping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-disk-mapping|virtual-disk-mapping]]"
 ---
 # Virtual Disk Mapping: Understanding Storage in Virtual Machines
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/output-comparison-to-expectations|Output Comparison to Expectations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/output-comparison-to-expectations|output-comparison-to-expectations]]"
 ---
 # Evaluating Full-Wave Rectifier Output: Comparing to Expectations
 

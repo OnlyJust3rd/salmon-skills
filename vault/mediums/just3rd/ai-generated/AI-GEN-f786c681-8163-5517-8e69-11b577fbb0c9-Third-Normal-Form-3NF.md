@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/third-normal-form-3nf|Third Normal Form (3NF)]]"
+  - "[[skills/data/databases/relational-database/microskills/third-normal-form-3nf|third-normal-form-3nf]]"
 ---
 # Understanding Third Normal Form (3NF)
 

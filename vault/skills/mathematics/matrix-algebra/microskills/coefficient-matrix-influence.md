@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Coefficient matrix influence"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-parent-competency: "L2- Homogeneous System Analysis"
+  - "microskill"
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-in-competencies:
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-homogeneous-system-analysis|L1-homogeneous-system-analysis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Coefficient matrix influence
@@ -15,7 +17,7 @@ Parent macro: [[matrix-algebra|Matrix Algebra]]
 
 Parent competency:
 
-- [[L2-homogeneous-system-analysis|L2- Homogeneous System Analysis]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-homogeneous-system-analysis|L2- Homogeneous System Analysis]]
 
 ## Description
 

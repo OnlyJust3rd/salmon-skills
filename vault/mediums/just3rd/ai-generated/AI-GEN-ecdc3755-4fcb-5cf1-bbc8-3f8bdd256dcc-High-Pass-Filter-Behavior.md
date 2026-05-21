@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/high-pass-filter-behavior|High-Pass Filter Behavior]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/high-pass-filter-behavior|high-pass-filter-behavior]]"
 ---
 # Analyzing High-Pass Filter Behavior in RC and RL Circuits
 

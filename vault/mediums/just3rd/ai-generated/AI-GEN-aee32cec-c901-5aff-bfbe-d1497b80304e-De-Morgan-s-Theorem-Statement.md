@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/de-morgan-s-theorem-statement|De Morgan's Theorem Statement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/de-morgan-s-theorem-statement|de-morgan-s-theorem-statement]]"
 ---
 # De Morgan's Theorem Statement
 

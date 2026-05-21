@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-setup-rectangular|Triple integral setup (rectangular)]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-setup-rectangular|triple-integral-setup-rectangular]]"
 ---
 # Setting Up Triple Integrals in Rectangular Coordinates
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Workspace Awareness Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Advanced Interaction Paradigms"
-parent-competency: "L2- Workspace Awareness & Social Presence"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-workspace-awareness-social-presence|L1-workspace-awareness-social-presence]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Workspace Awareness Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L2-workspace-awareness-social-presence|L2- Workspace Awareness & Social Presence]]
+- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-workspace-awareness-social-presence|L2- Workspace Awareness & Social Presence]]
 
 ## Description
 

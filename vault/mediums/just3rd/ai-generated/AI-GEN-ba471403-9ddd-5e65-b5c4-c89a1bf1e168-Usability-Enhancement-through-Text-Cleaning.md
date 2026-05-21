@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/usability-enhancement-through-text-cleaning|Usability Enhancement through Text Cleaning]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/usability-enhancement-through-text-cleaning|usability-enhancement-through-text-cleaning]]"
 ---
 # Usability Enhancement through Text Cleaning
 

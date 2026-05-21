@@ -1,18 +1,32 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "MVP Design and Prototyping"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-coverage:
-  - "Design"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 4
-microskill-count: 13
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-commercializing-your-projects"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-identify-mvp-components-and-characteristics|L1-identify-mvp-components-and-characteristics]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-describe-mvp-iteration-from-feedback|L1-describe-mvp-iteration-from-feedback]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-explain-poc-and-feature-role-in-validation|L1-explain-poc-and-feature-role-in-validation]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L2-design-and-implement-mvp-with-prioritized-features|L2-design-and-implement-mvp-with-prioritized-features]]"
+standard-competency:
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L2-design-and-implement-mvp-with-prioritized-features|L2-design-and-implement-mvp-with-prioritized-features]]"
+microskills:
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/essential-feature-rationale|essential-feature-rationale]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/essential-mvp-features|essential-mvp-features]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/feature-prioritization-criteria|feature-prioritization-criteria]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/feedback-driven-iteration|feedback-driven-iteration]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/minimum-viable-product-core|minimum-viable-product-core]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-construction|mvp-construction]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-definition|mvp-definition]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-design-principles|mvp-design-principles]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-improvement-cycle|mvp-improvement-cycle]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/proof-of-concept-purpose|proof-of-concept-purpose]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/solution-validation-mechanisms|solution-validation-mechanisms]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/user-insight-integration|user-insight-integration]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/user-value-assessment|user-value-assessment]]"
 ---
 
 # MVP Design and Prototyping
@@ -22,9 +36,9 @@ Design and implement Proof of Concepts (PoC) and Minimum Viable Products (MVPs) 
 ## Competencies
 
 - [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-identify-mvp-components-and-characteristics|L1- Identify MVP Components and Characteristics]]
-- [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L2-explain-poc-and-feature-role-in-validation|L2- Explain PoC and Feature Role in Validation]]
-- [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L3-design-and-implement-mvp-with-prioritized-features|L3- Design and Implement MVP with Prioritized Features]]
-- [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L2-describe-mvp-iteration-from-feedback|L2- Describe MVP Iteration from Feedback]]
+- [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-explain-poc-and-feature-role-in-validation|L2- Explain PoC and Feature Role in Validation]]
+- [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L2-design-and-implement-mvp-with-prioritized-features|L3- Design and Implement MVP with Prioritized Features]]
+- [[skills/business-it/business-product/mvp-design-and-prototyping/competencies/L1-describe-mvp-iteration-from-feedback|L2- Describe MVP Iteration from Feedback]]
 
 ## Microskills
 

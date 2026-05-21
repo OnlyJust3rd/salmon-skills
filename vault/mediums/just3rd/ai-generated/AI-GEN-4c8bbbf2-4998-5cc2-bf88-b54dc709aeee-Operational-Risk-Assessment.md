@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/operational-risk-assessment|Operational Risk Assessment]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/operational-risk-assessment|operational-risk-assessment]]"
 ---
 # Operational Risk Assessment
 

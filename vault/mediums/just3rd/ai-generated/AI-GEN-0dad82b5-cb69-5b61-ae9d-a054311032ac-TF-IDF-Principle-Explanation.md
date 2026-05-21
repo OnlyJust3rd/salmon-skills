@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-principle-explanation|TF-IDF Principle Explanation]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-principle-explanation|tf-idf-principle-explanation]]"
 ---
 # Understanding TF-IDF: A Measure of Word Importance
 

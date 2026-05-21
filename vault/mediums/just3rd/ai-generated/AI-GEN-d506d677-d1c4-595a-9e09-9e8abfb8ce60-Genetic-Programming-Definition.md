@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/genetic-programming-definition|Genetic Programming Definition]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/genetic-programming-definition|genetic-programming-definition]]"
 ---
 # Genetic Programming: What is it?
 

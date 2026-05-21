@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-interpretation-in-polar-coordinates|Double integral interpretation in polar coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-interpretation-in-polar-coordinates|double-integral-interpretation-in-polar-coordinates]]"
 ---
 # Understanding Double Integrals in Polar Coordinates Geometrically
 

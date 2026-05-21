@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Audio Cue"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Audio"
-parent-competency: "L2- Explain Interactive Game Audio Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-audio/game-audio|game-audio]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-audio/competencies/L1-explain-interactive-game-audio-concepts|L1-explain-interactive-game-audio-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Audio Cue
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-audio/game-audio|Gam
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-audio/competencies/L2-explain-interactive-game-audio-concepts|L2- Explain Interactive Game Audio Concepts]]
+- [[skills/creative-media/game-development/game-audio/competencies/L1-explain-interactive-game-audio-concepts|L2- Explain Interactive Game Audio Concepts]]
 
 ## Description
 

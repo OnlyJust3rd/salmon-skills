@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/digital-multimeter-functions|Digital Multimeter Functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/digital-multimeter-functions|digital-multimeter-functions]]"
 ---
 # Understanding the Digital Multimeter: Your Go-To Measurement Tool
 

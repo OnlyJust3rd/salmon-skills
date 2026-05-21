@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-demand|Market Demand]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-demand|market-demand]]"
 ---
 # Understanding Market Demand
 

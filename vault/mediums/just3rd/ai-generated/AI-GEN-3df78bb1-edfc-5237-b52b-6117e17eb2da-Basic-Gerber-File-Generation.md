@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/basic-gerber-file-generation|Basic Gerber File Generation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/basic-gerber-file-generation|basic-gerber-file-generation]]"
 ---
 # Basic Gerber File Generation for PCB Manufacturing
 

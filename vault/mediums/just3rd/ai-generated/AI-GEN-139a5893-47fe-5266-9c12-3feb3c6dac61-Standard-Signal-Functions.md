@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/standard-signal-functions|Standard Signal Functions]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/standard-signal-functions|standard-signal-functions]]"
 ---
 # Standard Signal Functions
 

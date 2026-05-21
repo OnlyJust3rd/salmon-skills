@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/convolution-preparation|Convolution Preparation]]"
+  - "[[skills/mathematics/signal-operations/microskills/convolution-preparation|convolution-preparation]]"
 ---
 # Convolution Preparation: Shifting and Flipping Signals
 

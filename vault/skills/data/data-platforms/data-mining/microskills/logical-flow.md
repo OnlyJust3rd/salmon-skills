@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Logical Flow"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Mining"
-parent-competency: "L2- CRISP-DM phases and relationships"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-mining/data-mining|data-mining]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-mining/competencies/L1-crisp-dm-phases-and-relationships|L1-crisp-dm-phases-and-relationships]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Logical Flow
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-mining/data-mining|Data Mining]]
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-mining/competencies/L2-crisp-dm-phases-and-relationships|L2- CRISP-DM phases and relationships]]
+- [[skills/data/data-platforms/data-mining/competencies/L1-crisp-dm-phases-and-relationships|L2- CRISP-DM phases and relationships]]
 
 ## Description
 

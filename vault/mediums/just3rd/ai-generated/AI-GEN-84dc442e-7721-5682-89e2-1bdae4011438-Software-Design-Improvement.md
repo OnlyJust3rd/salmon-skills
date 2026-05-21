@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/software-design-improvement|Software Design Improvement]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/software-design-improvement|software-design-improvement]]"
 ---
 # Improving Software Design Through Refactoring
 

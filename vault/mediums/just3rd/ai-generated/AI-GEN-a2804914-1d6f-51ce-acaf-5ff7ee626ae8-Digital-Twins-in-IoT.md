@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/digital-twins-in-iot|Digital Twins in IoT]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/digital-twins-in-iot|digital-twins-in-iot]]"
 ---
 # Digital Twins in IoT: A Practical Introduction
 

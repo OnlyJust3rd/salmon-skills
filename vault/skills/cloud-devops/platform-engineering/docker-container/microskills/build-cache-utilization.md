@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Build Cache Utilization"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Docker Container"
-parent-competency: "L2- Image Layering"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/docker-container/docker-container|docker-container]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-image-layering|L1-image-layering]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Build Cache Utilization
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/docker-container/docker
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L2-image-layering|L2- Image Layering]]
+- [[skills/cloud-devops/platform-engineering/docker-container/competencies/L1-image-layering|L2- Image Layering]]
 
 ## Description
 

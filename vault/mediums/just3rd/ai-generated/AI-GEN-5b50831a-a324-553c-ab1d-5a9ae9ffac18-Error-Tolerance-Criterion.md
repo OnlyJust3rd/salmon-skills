@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/error-tolerance-criterion|Error Tolerance Criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/error-tolerance-criterion|error-tolerance-criterion]]"
 ---
 # Analyzing the Error Tolerance Criterion for Selective Encryption
 

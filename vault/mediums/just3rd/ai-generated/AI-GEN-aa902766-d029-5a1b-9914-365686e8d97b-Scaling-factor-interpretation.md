@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/scaling-factor-interpretation|Scaling factor interpretation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/scaling-factor-interpretation|scaling-factor-interpretation]]"
 ---
 # Eigenvalues as Scaling Factors
 

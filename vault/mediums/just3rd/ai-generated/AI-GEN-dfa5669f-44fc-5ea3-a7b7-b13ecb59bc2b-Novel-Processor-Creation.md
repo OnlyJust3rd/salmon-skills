@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/novel-processor-creation|Novel Processor Creation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/novel-processor-creation|novel-processor-creation]]"
 ---
 # Designing Your Novel Processor
 

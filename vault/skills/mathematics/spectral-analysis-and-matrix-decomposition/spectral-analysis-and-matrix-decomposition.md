@@ -1,18 +1,50 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Spectral Analysis and Matrix Decomposition"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 234 - Linear Algebra"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 8
-microskill-count: 27
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-234-linear-algebra"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-define-eigenvalues-and-eigenvectors|L1-define-eigenvalues-and-eigenvectors]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-list-diagonalization-conditions|L1-list-diagonalization-conditions]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-explain-matrix-diagonalization|L1-explain-matrix-diagonalization]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-interpret-eigenvalues-and-eigenvectors|L1-interpret-eigenvalues-and-eigenvectors]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-jordan-block-structure|L1-jordan-block-structure]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-jordan-canonical-form-purpose|L1-jordan-canonical-form-purpose]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-summarize-diagonalization-relationship|L1-summarize-diagonalization-relationship]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L2-calculate-eigenvalues-and-eigenvectors|L2-calculate-eigenvalues-and-eigenvectors]]"
+standard-competency:
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L2-calculate-eigenvalues-and-eigenvectors|L2-calculate-eigenvalues-and-eigenvectors]]"
+microskills:
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/characteristic-equation|characteristic-equation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/construction-of-change-of-basis-matrix-p|construction-of-change-of-basis-matrix-p]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/construction-of-diagonal-matrix-d|construction-of-diagonal-matrix-d]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/diagonalizability-criteria|diagonalizability-criteria]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/diagonalization-process-steps|diagonalization-process-steps]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenpair-calculation|eigenpair-calculation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-computation|eigenvalue-computation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-definition|eigenvalue-definition]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-eigenvector-relationship|eigenvalue-eigenvector-relationship]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalues-in-diagonal-matrix-d|eigenvalues-in-diagonal-matrix-d]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvector-computation|eigenvector-computation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvector-definition|eigenvector-definition]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvectors-in-change-of-basis-matrix-p|eigenvectors-in-change-of-basis-matrix-p]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/generalizing-diagonalization|generalizing-diagonalization]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvalues|geometric-meaning-of-eigenvalues]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvectors|geometric-meaning-of-eigenvectors]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/insufficient-conditions-for-diagonalization|insufficient-conditions-for-diagonalization]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/invariant-direction-interpretation|invariant-direction-interpretation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/jordan-block-definition|jordan-block-definition]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/jordan-block-properties|jordan-block-properties]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/matrix-simplification|matrix-simplification]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/non-diagonalizable-matrices|non-diagonalizable-matrices]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/relationship-between-a-p-and-d|relationship-between-a-p-and-d]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/scaling-factor-interpretation|scaling-factor-interpretation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/similarity-transformation|similarity-transformation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/structure-of-jordan-block|structure-of-jordan-block]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/sufficient-conditions-for-diagonalization|sufficient-conditions-for-diagonalization]]"
 ---
 
 # Spectral Analysis and Matrix Decomposition
@@ -21,14 +53,14 @@ Analyze matrices using eigenvalues and eigenvectors, enabling diagonalization an
 
 ## Competencies
 
-- [[L1-define-eigenvalues-and-eigenvectors|L1- Define Eigenvalues and Eigenvectors]]
-- [[L2-interpret-eigenvalues-and-eigenvectors|L2- Interpret Eigenvalues and Eigenvectors]]
-- [[L3-calculate-eigenvalues-and-eigenvectors|L3- Calculate Eigenvalues and Eigenvectors]]
-- [[L1-list-diagonalization-conditions|L1- List Diagonalization Conditions]]
-- [[L2-explain-matrix-diagonalization|L2- Explain Matrix Diagonalization]]
-- [[L2-summarize-diagonalization-relationship|L2- Summarize Diagonalization Relationship]]
-- [[L2-jordan-canonical-form-purpose|L2- Jordan Canonical Form purpose]]
-- [[L2-jordan-block-structure|L2- Jordan block structure]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-define-eigenvalues-and-eigenvectors|L1- Define Eigenvalues and Eigenvectors]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-interpret-eigenvalues-and-eigenvectors|L2- Interpret Eigenvalues and Eigenvectors]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L2-calculate-eigenvalues-and-eigenvectors|L3- Calculate Eigenvalues and Eigenvectors]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-list-diagonalization-conditions|L1- List Diagonalization Conditions]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-explain-matrix-diagonalization|L2- Explain Matrix Diagonalization]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-summarize-diagonalization-relationship|L2- Summarize Diagonalization Relationship]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-jordan-canonical-form-purpose|L2- Jordan Canonical Form purpose]]
+- [[skills/mathematics/spectral-analysis-and-matrix-decomposition/competencies/L1-jordan-block-structure|L2- Jordan block structure]]
 
 ## Microskills
 

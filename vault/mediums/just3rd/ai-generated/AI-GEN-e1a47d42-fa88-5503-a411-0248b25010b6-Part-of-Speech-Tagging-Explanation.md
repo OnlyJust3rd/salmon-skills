@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/linguistic-text-processing/microskills/part-of-speech-tagging-explanation|Part-of-Speech Tagging Explanation]]"
+  - "[[skills/data/data-science/linguistic-text-processing/microskills/part-of-speech-tagging-explanation|part-of-speech-tagging-explanation]]"
 ---
 # Part-of-Speech (POS) Tagging: Understanding Word Roles
 

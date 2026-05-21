@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-esp-effectiveness-evaluation|IPSec (ESP) Effectiveness Evaluation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-esp-effectiveness-evaluation|ipsec-esp-effectiveness-evaluation]]"
 ---
 # Evaluating IPSec ESP Effectiveness
 

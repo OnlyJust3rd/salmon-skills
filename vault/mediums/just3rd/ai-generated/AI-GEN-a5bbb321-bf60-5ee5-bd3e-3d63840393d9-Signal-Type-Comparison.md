@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-type-comparison|Signal Type Comparison]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-type-comparison|signal-type-comparison]]"
 ---
 # Differentiating Continuous and Discrete Signals
 

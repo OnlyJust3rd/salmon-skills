@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-algorithm-structural-components|Symmetric Algorithm Structural Components]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-algorithm-structural-components|symmetric-algorithm-structural-components]]"
 ---
 # Deconstructing Symmetric Encryption: The Building Blocks
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/link-layer-data-encapsulation|Link Layer Data Encapsulation]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/link-layer-data-encapsulation|link-layer-data-encapsulation]]"
 ---
 # Framing: Building Blocks for Data Link Communication
 

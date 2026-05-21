@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Diode Logic Gate Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Semiconductor Device Operation"
-parent-competency: "L6- Logic Gate Circuit Creation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/semiconductor-device-operation|semiconductor-device-operation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L4-logic-gate-circuit-creation|L4-logic-gate-circuit-creation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Diode Logic Gate Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/semiconductor-devi
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L6-logic-gate-circuit-creation|L6- Logic Gate Circuit Creation]]
+- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L4-logic-gate-circuit-creation|L6- Logic Gate Circuit Creation]]
 
 ## Description
 

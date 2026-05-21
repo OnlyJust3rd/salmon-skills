@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-advantages|Digital Ciphering Advantages]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-advantages|digital-ciphering-advantages]]"
 ---
 # Evaluating the Advantages of Digital Ciphering
 

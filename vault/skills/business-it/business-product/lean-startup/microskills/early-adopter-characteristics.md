@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Early Adopter Characteristics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Lean Startup"
-parent-competency: "L2- Explain Early Adopters"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-explain-early-adopters|L1-explain-early-adopters]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Early Adopter Characteristics
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/lean-startup/lean-startup|Le
 
 Parent competency:
 
-- [[skills/business-it/business-product/lean-startup/competencies/L2-explain-early-adopters|L2- Explain Early Adopters]]
+- [[skills/business-it/business-product/lean-startup/competencies/L1-explain-early-adopters|L2- Explain Early Adopters]]
 
 ## Description
 

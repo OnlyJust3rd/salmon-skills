@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Evolution of Subsumption Architectures"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Computational Evolution Theory"
-parent-competency: "L3- Genetic Programming for Robotic Evolution"
+  - "microskill"
+parent-skill: "[[skills/data/ai/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
+requires-in-competencies:
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L2-genetic-programming-for-robotic-evolution|L2-genetic-programming-for-robotic-evolution]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Evolution of Subsumption Architectures
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/ai/computational-evolution-theory/computational-evol
 
 Parent competency:
 
-- [[skills/data/ai/computational-evolution-theory/competencies/L3-genetic-programming-for-robotic-evolution|L3- Genetic Programming for Robotic Evolution]]
+- [[skills/data/ai/computational-evolution-theory/competencies/L2-genetic-programming-for-robotic-evolution|L3- Genetic Programming for Robotic Evolution]]
 
 ## Description
 

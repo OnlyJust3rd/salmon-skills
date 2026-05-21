@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/hold-and-wait-condition|Hold and Wait Condition]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/hold-and-wait-condition|hold-and-wait-condition]]"
 ---
 # Hold and Wait Condition
 

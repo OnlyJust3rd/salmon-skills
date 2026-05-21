@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/scenario-elicitation|Scenario Elicitation]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/scenario-elicitation|scenario-elicitation]]"
 ---
 # Scenario Elicitation: Uncovering User Interactions
 

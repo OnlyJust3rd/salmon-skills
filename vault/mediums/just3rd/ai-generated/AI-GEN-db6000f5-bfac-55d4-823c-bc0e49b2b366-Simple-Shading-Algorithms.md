@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/simple-shading-algorithms|Simple Shading Algorithms]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/simple-shading-algorithms|simple-shading-algorithms]]"
 ---
 # Applying Simple Shading Algorithms
 

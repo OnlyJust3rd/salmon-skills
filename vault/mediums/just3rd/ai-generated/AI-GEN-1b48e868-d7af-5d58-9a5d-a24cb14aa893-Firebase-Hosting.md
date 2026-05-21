@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/firebase-hosting|Firebase Hosting]]"
+  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/firebase-hosting|firebase-hosting]]"
 ---
 # Firebase Hosting: Managed Web App Deployment
 

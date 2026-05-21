@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/intermediate-value-theorem-core-concept|Intermediate Value Theorem core concept]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/intermediate-value-theorem-core-concept|intermediate-value-theorem-core-concept]]"
 ---
 # The Intermediate Value Theorem: Bridging the Gap
 

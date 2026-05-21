@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/http-trigger-functionality|HTTP Trigger Functionality]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/http-trigger-functionality|http-trigger-functionality]]"
 ---
 # Understanding HTTP Trigger Functionality in Serverless Computing
 

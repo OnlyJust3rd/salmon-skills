@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/two-s-complement-representation|Two's Complement Representation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/two-s-complement-representation|two-s-complement-representation]]"
 ---
 # Understanding Two's Complement Representation
 

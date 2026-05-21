@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/a-d-conversion-process|A/D Conversion Process]]"
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/a-d-conversion-process|a-d-conversion-process]]"
 ---
 # Understanding the A/D Conversion Process
 

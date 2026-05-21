@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/asymptotic-reasoning|Asymptotic Reasoning]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/asymptotic-reasoning|asymptotic-reasoning]]"
 ---
 # Asymptotic Reasoning: Focusing on the Big Picture
 

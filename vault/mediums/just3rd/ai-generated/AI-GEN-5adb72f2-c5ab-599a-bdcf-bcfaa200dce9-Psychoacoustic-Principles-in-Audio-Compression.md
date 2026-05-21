@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/psychoacoustic-principles-in-audio-compression|Psychoacoustic Principles in Audio Compression]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/psychoacoustic-principles-in-audio-compression|psychoacoustic-principles-in-audio-compression]]"
 ---
 # Understanding Psychoacoustic Principles in Audio Compression
 

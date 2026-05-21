@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/shading-techniques|Shading Techniques]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/shading-techniques|shading-techniques]]"
 ---
 # Understanding Shading Techniques
 

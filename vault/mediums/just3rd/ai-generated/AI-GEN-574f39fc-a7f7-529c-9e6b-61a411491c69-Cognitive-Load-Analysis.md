@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/cognitive-load-analysis|Cognitive Load Analysis]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/cognitive-load-analysis|cognitive-load-analysis]]"
 ---
 # Analyzing Cognitive Load in Usability Studies
 

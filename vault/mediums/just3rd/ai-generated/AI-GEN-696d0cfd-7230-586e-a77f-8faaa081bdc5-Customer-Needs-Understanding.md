@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/customer-needs-understanding|Customer Needs Understanding]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/customer-needs-understanding|customer-needs-understanding]]"
 ---
 # Understanding Customer Needs Through Discovery Interviews
 

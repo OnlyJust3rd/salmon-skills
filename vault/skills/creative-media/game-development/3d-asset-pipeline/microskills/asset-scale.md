@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Asset Scale"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "3D Asset Pipeline"
-parent-competency: "L3- Apply Real-Time Asset Import and Optimization Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/3d-asset-pipeline/3d-asset-pipeline|3d-asset-pipeline]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/3d-asset-pipeline/competencies/L2-apply-real-time-asset-import-and-optimization-concepts|L2-apply-real-time-asset-import-and-optimization-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Asset Scale
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/3d-asset-pipeline/3d-asse
 
 Parent competency:
 
-- [[skills/creative-media/game-development/3d-asset-pipeline/competencies/L3-apply-real-time-asset-import-and-optimization-concepts|L3- Apply Real-Time Asset Import and Optimization Concepts]]
+- [[skills/creative-media/game-development/3d-asset-pipeline/competencies/L2-apply-real-time-asset-import-and-optimization-concepts|L3- Apply Real-Time Asset Import and Optimization Concepts]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/network-throughput-significance|Network Throughput Significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/network-throughput-significance|network-throughput-significance]]"
 ---
 # Understanding Network Throughput Significance
 

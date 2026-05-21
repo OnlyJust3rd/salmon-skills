@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/autonomous-system-concepts|Autonomous System Concepts]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/autonomous-system-concepts|autonomous-system-concepts]]"
 ---
 # Understanding Autonomous Systems in Routing
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/test-and-set-atomicity|Test-and-Set Atomicity]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/test-and-set-atomicity|test-and-set-atomicity]]"
 ---
 # Test-and-Set Atomicity: Ensuring Uninterruptible Operations
 

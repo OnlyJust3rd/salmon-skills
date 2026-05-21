@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/second-normal-form-2nf|Second Normal Form (2NF)]]"
+  - "[[skills/data/databases/relational-database/microskills/second-normal-form-2nf|second-normal-form-2nf]]"
 ---
 # Understanding Second Normal Form (2NF)
 

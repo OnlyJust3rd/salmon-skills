@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-programming-paradigms|GPGPU Programming Paradigms]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-programming-paradigms|gpgpu-programming-paradigms]]"
 ---
 # GPGPU Programming Paradigms
 

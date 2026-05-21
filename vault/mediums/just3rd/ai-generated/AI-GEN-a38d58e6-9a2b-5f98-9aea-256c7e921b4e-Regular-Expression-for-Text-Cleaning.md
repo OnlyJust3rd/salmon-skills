@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/regular-expression-for-text-cleaning|Regular Expression for Text Cleaning]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/regular-expression-for-text-cleaning|regular-expression-for-text-cleaning]]"
 ---
 # Regular Expressions for Text Cleaning
 

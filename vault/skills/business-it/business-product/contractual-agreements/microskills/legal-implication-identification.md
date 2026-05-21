@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Legal Implication Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Contractual Agreements"
-parent-competency: "L4- Analyze and differentiate agreements"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/contractual-agreements/contractual-agreements|contractual-agreements]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/contractual-agreements/competencies/L3-analyze-and-differentiate-agreements|L3-analyze-and-differentiate-agreements]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Legal Implication Identification
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/contractual-agreements/contr
 
 Parent competency:
 
-- [[skills/business-it/business-product/contractual-agreements/competencies/L4-analyze-and-differentiate-agreements|L4- Analyze and differentiate agreements]]
+- [[skills/business-it/business-product/contractual-agreements/competencies/L3-analyze-and-differentiate-agreements|L4- Analyze and differentiate agreements]]
 
 ## Description
 

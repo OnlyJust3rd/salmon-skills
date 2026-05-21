@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Circuit Functionality Verification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Proteus 8 Simulation"
-parent-competency: "L3- Simulate and verify circuits in Proteus"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/proteus-8-simulation|proteus-8-simulation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/competencies/L2-simulate-and-verify-circuits-in-proteus|L2-simulate-and-verify-circuits-in-proteus]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Circuit Functionality Verification
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/proteus-8-simulati
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/competencies/L3-simulate-and-verify-circuits-in-proteus|L3- Simulate and verify circuits in Proteus]]
+- [[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/competencies/L2-simulate-and-verify-circuits-in-proteus|L3- Simulate and verify circuits in Proteus]]
 
 ## Description
 

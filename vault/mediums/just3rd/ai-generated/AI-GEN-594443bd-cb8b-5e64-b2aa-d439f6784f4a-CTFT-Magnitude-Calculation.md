@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/ctft-magnitude-calculation|CTFT Magnitude Calculation]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/ctft-magnitude-calculation|ctft-magnitude-calculation]]"
 ---
 # CTFT Magnitude Calculation: Unveiling Signal Frequencies
 

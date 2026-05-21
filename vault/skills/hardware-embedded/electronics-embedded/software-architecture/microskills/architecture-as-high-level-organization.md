@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Architecture as High-Level Organization"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Architecture"
-parent-competency: "L1- Software Architecture Definition"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/software-architecture/software-architecture|software-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-software-architecture-definition|L1-software-architecture-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Architecture as High-Level Organization

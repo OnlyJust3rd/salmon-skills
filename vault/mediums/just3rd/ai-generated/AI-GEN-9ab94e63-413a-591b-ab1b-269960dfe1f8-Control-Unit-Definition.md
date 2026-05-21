@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/control-unit-definition|Control Unit Definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/control-unit-definition|control-unit-definition]]"
 ---
 # The Control Unit: The Processor's Conductor
 

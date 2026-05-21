@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/exploratory-data-analysis/microskills/structural-insight|Structural Insight]]"
+  - "[[skills/data/data-platforms/exploratory-data-analysis/microskills/structural-insight|structural-insight]]"
 ---
 # Understanding Data Structure for Effective Analysis
 

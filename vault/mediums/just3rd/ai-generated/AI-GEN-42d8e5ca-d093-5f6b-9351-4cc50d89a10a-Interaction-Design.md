@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/interaction-design|Interaction Design]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/interaction-design|interaction-design]]"
 ---
 # Interaction Design: Understanding User Actions
 

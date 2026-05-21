@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|CPU Scheduling Algorithm Application]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|cpu-scheduling-algorithm-application]]"
 ---
 # Applying CPU Scheduling Algorithms
 

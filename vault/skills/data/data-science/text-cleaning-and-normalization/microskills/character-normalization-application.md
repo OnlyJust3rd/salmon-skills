@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Character Normalization Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Cleaning and Normalization"
-parent-competency: "L3- Apply Data Cleaning Techniques"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-cleaning-and-normalization/text-cleaning-and-normalization|text-cleaning-and-normalization]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-cleaning-and-normalization/competencies/L2-apply-data-cleaning-techniques|L2-apply-data-cleaning-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Character Normalization Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-cleaning-and-normalization/text-cl
 
 Parent competency:
 
-- [[skills/data/data-science/text-cleaning-and-normalization/competencies/L3-apply-data-cleaning-techniques|L3- Apply Data Cleaning Techniques]]
+- [[skills/data/data-science/text-cleaning-and-normalization/competencies/L2-apply-data-cleaning-techniques|L3- Apply Data Cleaning Techniques]]
 
 ## Description
 

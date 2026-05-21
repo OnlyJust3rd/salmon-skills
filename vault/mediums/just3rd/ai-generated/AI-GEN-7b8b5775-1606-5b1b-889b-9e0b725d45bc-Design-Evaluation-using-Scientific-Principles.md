@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/design-evaluation-using-scientific-principles|Design Evaluation using Scientific Principles]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/design-evaluation-using-scientific-principles|design-evaluation-using-scientific-principles]]"
 ---
 # Design Evaluation Using Scientific Principles
 

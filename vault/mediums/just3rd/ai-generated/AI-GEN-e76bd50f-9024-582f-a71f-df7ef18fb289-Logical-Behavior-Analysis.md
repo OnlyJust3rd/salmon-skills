@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/logical-behavior-analysis|Logical Behavior Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/logical-behavior-analysis|logical-behavior-analysis]]"
 ---
 # Analyzing Logical Behavior of Combinational Circuits
 

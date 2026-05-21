@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-frequency-representation|Image Frequency Representation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-frequency-representation|image-frequency-representation]]"
 ---
 # Image Frequency Representation
 

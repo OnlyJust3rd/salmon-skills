@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-definition|Euler's Phi Function Definition]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-definition|euler-s-phi-function-definition]]"
 ---
 # Euler's Phi Function Definition
 

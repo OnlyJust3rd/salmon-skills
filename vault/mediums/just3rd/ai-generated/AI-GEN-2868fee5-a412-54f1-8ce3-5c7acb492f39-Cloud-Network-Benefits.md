@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/cloud-network-benefits|Cloud Network Benefits]]"
+  - "[[skills/systems/networking/network-layer/microskills/cloud-network-benefits|cloud-network-benefits]]"
 ---
 # Understanding the Benefits of Cloud Networks (VPCs)
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/transport-layer/microskills/data-delivery-assurance|Data Delivery Assurance]]"
+  - "[[skills/systems/networking/transport-layer/microskills/data-delivery-assurance|data-delivery-assurance]]"
 ---
 # Ensuring Data Arrives Safely: A Look at Data Delivery Assurance
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-server-configuration|Prometheus Server Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/prometheus-server-configuration|prometheus-server-configuration]]"
 ---
 # Prometheus Server Configuration
 

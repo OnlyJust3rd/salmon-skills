@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/contract-general-content|Contract General Content]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/contract-general-content|contract-general-content]]"
 ---
 # Understanding the General Content of Employment Contracts
 

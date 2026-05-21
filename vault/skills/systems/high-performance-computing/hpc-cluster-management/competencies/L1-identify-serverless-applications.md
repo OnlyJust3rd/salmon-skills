@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Serverless Applications"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "HPC Cluster Management"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Define and Explain Serverless"
+  - "[[skills/systems/high-performance-computing/hpc-system/competencies/L1-define-and-explain-serverless|L1-define-and-explain-serverless]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/high-performance-computing/hpc-cluster-management/hpc-cluster-management|hpc-cluster-management]]"
+requires-microskills:
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|real-world-serverless-examples]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|serverless-architecture-use-cases]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Serverless Applications
@@ -25,7 +26,7 @@ Identify real-life applications of serverless architecture.
 
 ## Strict Prerequisites
 
-- [[skills/systems/high-performance-computing/hpc-system/competencies/L2-define-and-explain-serverless|L2- Define and Explain Serverless]]
+- [[skills/systems/high-performance-computing/hpc-system/competencies/L1-define-and-explain-serverless|L2- Define and Explain Serverless]]
 
 ## Optional Prerequisites
 

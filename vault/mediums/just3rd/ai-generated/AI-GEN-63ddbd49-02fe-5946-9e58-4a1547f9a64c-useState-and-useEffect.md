@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/react/microskills/usestate-and-useeffect|useState and useEffect]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/usestate-and-useeffect|usestate-and-useeffect]]"
 ---
 # Understanding `useState` and `useEffect` in React
 

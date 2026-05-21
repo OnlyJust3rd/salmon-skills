@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/latency-monitoring-techniques|Latency Monitoring Techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/latency-monitoring-techniques|latency-monitoring-techniques]]"
 ---
 # Monitoring Latency: Tracking System Response Times
 

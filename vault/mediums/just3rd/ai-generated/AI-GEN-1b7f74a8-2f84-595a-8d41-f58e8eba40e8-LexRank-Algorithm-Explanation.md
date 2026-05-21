@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-summarization/microskills/lexrank-algorithm-explanation|LexRank Algorithm Explanation]]"
+  - "[[skills/data/data-science/text-summarization/microskills/lexrank-algorithm-explanation|lexrank-algorithm-explanation]]"
 ---
 # Understanding LexRank for Extractive Summarization
 

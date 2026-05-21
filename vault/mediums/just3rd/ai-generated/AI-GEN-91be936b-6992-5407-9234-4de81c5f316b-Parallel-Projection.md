@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/parallel-projection|Parallel Projection]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/parallel-projection|parallel-projection]]"
 ---
 # Understanding Parallel Projection
 

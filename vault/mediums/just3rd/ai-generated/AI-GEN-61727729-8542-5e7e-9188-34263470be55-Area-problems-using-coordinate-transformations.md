@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/area-problems-using-coordinate-transformations|Area problems using coordinate transformations]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/area-problems-using-coordinate-transformations|area-problems-using-coordinate-transformations]]"
 ---
 # Area Problems with Polar Coordinates
 

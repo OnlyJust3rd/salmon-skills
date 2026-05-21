@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-classification/microskills/naive-bayes-classifier-implementation|Naïve Bayes Classifier Implementation]]"
+  - "[[skills/data/data-science/text-classification/microskills/naive-bayes-classifier-implementation|naive-bayes-classifier-implementation]]"
 ---
 # Implementing Naïve Bayes for Text Classification
 

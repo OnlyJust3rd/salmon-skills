@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-cleansing/microskills/data-quality-dimensions|Data Quality Dimensions]]"
+  - "[[skills/data/data-platforms/data-cleansing/microskills/data-quality-dimensions|data-quality-dimensions]]"
 ---
 # Understanding Data Quality Dimensions
 

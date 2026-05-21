@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-syntax|Verilog HDL Syntax]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-syntax|verilog-hdl-syntax]]"
 ---
 # Verilog HDL Syntax: The Building Blocks of Digital Design
 

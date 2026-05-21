@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-definition|Infrastructure as Code Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-definition|infrastructure-as-code-definition]]"
 ---
 # What is Infrastructure as Code (IaC)?
 

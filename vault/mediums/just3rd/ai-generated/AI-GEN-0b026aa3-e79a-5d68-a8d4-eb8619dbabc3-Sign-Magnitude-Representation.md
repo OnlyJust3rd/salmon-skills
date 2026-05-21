@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/sign-magnitude-representation|Sign-Magnitude Representation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/sign-magnitude-representation|sign-magnitude-representation]]"
 ---
 # Understanding Sign-Magnitude Representation
 

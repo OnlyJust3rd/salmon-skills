@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/prescaler-setting|Prescaler Setting]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/prescaler-setting|prescaler-setting]]"
 ---
 # AVR Timer Prescaler Settings
 

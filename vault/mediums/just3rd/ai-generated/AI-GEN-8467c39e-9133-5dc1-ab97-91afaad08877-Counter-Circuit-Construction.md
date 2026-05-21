@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/counter-circuit-construction|Counter Circuit Construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/counter-circuit-construction|counter-circuit-construction]]"
 ---
 # Building Basic Counters with Flip-Flops
 

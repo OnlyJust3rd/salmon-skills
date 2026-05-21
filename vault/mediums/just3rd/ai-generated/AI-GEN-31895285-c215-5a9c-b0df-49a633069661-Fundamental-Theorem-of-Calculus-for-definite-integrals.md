@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/fundamental-theorem-of-calculus-for-definite-integrals|Fundamental Theorem of Calculus for definite integrals]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/fundamental-theorem-of-calculus-for-definite-integrals|fundamental-theorem-of-calculus-for-definite-integrals]]"
 ---
 # Understanding the Fundamental Theorem of Calculus for Definite Integrals
 

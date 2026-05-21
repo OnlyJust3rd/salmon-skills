@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-collective-function-implementation|MPI Collective Function Implementation]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-collective-function-implementation|mpi-collective-function-implementation]]"
 ---
 # Implementing MPI Collective Functions
 

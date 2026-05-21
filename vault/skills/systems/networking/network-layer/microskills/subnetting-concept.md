@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Subnetting Concept"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Layer"
-parent-competency: "L2- Summarize subnetting"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-layer/network-layer|network-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-layer/competencies/L1-summarize-subnetting|L1-summarize-subnetting]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Subnetting Concept
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-layer/network-layer|Network La
 
 Parent competency:
 
-- [[skills/systems/networking/network-layer/competencies/L2-summarize-subnetting|L2- Summarize subnetting]]
+- [[skills/systems/networking/network-layer/competencies/L1-summarize-subnetting|L2- Summarize subnetting]]
 
 ## Description
 

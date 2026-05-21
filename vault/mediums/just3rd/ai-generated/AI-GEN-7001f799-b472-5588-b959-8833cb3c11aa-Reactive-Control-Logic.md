@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-logic|Reactive Control Logic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-logic|reactive-control-logic]]"
 ---
 # Understanding Reactive Control Logic in Robotics
 

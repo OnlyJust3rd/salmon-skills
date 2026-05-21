@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Euclidean Algorithm Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Number Theory in Cryptography"
-parent-competency: "L1- Define and Identify Number Theory Concepts"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/number-theory-in-cryptography/number-theory-in-cryptography|number-theory-in-cryptography]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/competencies/L1-define-and-identify-number-theory-concepts|L1-define-and-identify-number-theory-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Euclidean Algorithm Definition

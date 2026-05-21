@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify MVP Components and Characteristics"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "MVP Design and Prototyping"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Lean Startup and BML Principles"
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-define-lean-startup-and-bml-principles|L1-define-lean-startup-and-bml-principles]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/mvp-design-and-prototyping/mvp-design-and-prototyping|mvp-design-and-prototyping]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/essential-mvp-features|essential-mvp-features]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/minimum-viable-product-core|minimum-viable-product-core]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-definition|mvp-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify MVP Components and Characteristics

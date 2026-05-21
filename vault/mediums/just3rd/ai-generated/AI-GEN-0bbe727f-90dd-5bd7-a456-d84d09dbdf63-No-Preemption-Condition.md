@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/no-preemption-condition|No Preemption Condition]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/no-preemption-condition|no-preemption-condition]]"
 ---
 # Understanding the "No Preemption" Condition in Deadlock
 

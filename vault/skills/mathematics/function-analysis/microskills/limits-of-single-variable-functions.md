@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Limits of single-variable functions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Function Analysis"
-parent-competency: "L2- Analyze and Explain Single-Variable Function Properties"
+  - "microskill"
+parent-skill: "[[skills/mathematics/function-analysis/function-analysis|function-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/function-analysis/competencies/L1-analyze-and-explain-single-variable-function-properties|L1-analyze-and-explain-single-variable-function-properties]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Limits of single-variable functions
@@ -15,7 +17,7 @@ Parent macro: [[function-analysis|Function Analysis]]
 
 Parent competency:
 
-- [[L2-analyze-and-explain-single-variable-function-properties|L2- Analyze and Explain Single-Variable Function Properties]]
+- [[skills/mathematics/function-analysis/competencies/L1-analyze-and-explain-single-variable-function-properties|L2- Analyze and Explain Single-Variable Function Properties]]
 
 ## Description
 

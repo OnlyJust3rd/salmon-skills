@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-hadoop/microskills/mapreduce|MapReduce]]"
+  - "[[skills/data/data-platforms/apache-hadoop/microskills/mapreduce|mapreduce]]"
 ---
 # Understanding MapReduce: The Heart of Hadoop Batch Processing
 

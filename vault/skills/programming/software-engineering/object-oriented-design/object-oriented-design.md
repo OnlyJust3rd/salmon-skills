@@ -1,17 +1,36 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Object-Oriented Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-coverage:
-  - "Concept"
-competency-count: 4
-microskill-count: 16
-related-jobs:
-  - "Software Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe362-object-oriented-analysis-and-design"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L1-list-and-define-oo-design-principles|L1-list-and-define-oo-design-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L1-explain-oo-design-principles-impact|L1-explain-oo-design-principles-impact]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L2-apply-oo-design-principles|L2-apply-oo-design-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L3-analyze-oo-design-approaches|L3-analyze-oo-design-approaches]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L2-apply-oo-design-principles|L2-apply-oo-design-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L3-analyze-oo-design-approaches|L3-analyze-oo-design-approaches]]"
+microskills:
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/component-interaction-design-principles|component-interaction-design-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/design-approach-comparison|design-approach-comparison]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/design-pattern-facilitation|design-pattern-facilitation]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/interface-design-principles|interface-design-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/maintainability-impact-of-oo-design|maintainability-impact-of-oo-design]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-application|modular-decomposition-application]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-approaches|modular-decomposition-approaches]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-principles|modular-decomposition-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modularity-impact|modularity-impact]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-application|responsibility-assignment-application]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-approaches|responsibility-assignment-approaches]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-impact|responsibility-assignment-impact]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-principles|responsibility-assignment-principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/separation-of-concerns-impact|separation-of-concerns-impact]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/software-component-structuring|software-component-structuring]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/system-structure-design|system-structure-design]]"
 ---
 
 # Object-Oriented Design
@@ -21,9 +40,9 @@ Designing object-oriented software systems, encompassing responsibility assignme
 ## Competencies
 
 - [[skills/programming/software-engineering/object-oriented-design/competencies/L1-list-and-define-oo-design-principles|L1- List and Define OO Design Principles]]
-- [[skills/programming/software-engineering/object-oriented-design/competencies/L2-explain-oo-design-principles-impact|L2- Explain OO Design Principles Impact]]
-- [[skills/programming/software-engineering/object-oriented-design/competencies/L3-apply-oo-design-principles|L3- Apply OO Design Principles]]
-- [[skills/programming/software-engineering/object-oriented-design/competencies/L4-analyze-oo-design-approaches|L4- Analyze OO Design Approaches]]
+- [[skills/programming/software-engineering/object-oriented-design/competencies/L1-explain-oo-design-principles-impact|L2- Explain OO Design Principles Impact]]
+- [[skills/programming/software-engineering/object-oriented-design/competencies/L2-apply-oo-design-principles|L3- Apply OO Design Principles]]
+- [[skills/programming/software-engineering/object-oriented-design/competencies/L3-analyze-oo-design-approaches|L4- Analyze OO Design Approaches]]
 
 ## Microskills
 

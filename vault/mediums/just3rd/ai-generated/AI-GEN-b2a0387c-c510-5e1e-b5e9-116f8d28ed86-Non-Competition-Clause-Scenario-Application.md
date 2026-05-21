@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/non-competition-clause-scenario-application|Non-Competition Clause Scenario Application]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/non-competition-clause-scenario-application|non-competition-clause-scenario-application]]"
 ---
 # Applying Non-Competition Clauses in Employment Scenarios
 

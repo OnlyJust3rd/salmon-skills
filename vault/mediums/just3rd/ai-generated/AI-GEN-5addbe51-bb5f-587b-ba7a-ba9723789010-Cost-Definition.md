@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/cost-definition|Cost Definition]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/cost-definition|cost-definition]]"
 ---
 # Understanding Business Costs
 

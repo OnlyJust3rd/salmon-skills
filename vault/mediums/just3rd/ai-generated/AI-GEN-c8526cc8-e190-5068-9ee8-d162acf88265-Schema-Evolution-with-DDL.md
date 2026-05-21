@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/schema-evolution-with-ddl|Schema Evolution with DDL]]"
+  - "[[skills/data/databases/sql/microskills/schema-evolution-with-ddl|schema-evolution-with-ddl]]"
 ---
 # Schema Evolution with DDL
 

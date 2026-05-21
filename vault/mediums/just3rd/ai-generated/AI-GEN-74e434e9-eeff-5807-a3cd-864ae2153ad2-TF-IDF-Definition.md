@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-definition|TF-IDF Definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-definition|tf-idf-definition]]"
 ---
 # TF-IDF: Understanding Term Frequency-Inverse Document Frequency
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Graph Terminology"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Graph and Tree Modeling"
-parent-competency: "L1- Define Graph and Tree Terms"
+  - "microskill"
+parent-skill: "[[skills/programming/data-structures/graph-and-tree-modeling/graph-and-tree-modeling|graph-and-tree-modeling]]"
+requires-in-competencies:
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/competencies/L1-define-graph-and-tree-terms|L1-define-graph-and-tree-terms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Graph Terminology

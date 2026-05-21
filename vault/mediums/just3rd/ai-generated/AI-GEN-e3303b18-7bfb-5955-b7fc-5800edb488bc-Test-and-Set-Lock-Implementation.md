@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/test-and-set-lock-implementation|Test-and-Set Lock Implementation]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/test-and-set-lock-implementation|test-and-set-lock-implementation]]"
 ---
 # Implementing a Test-and-Set Lock
 

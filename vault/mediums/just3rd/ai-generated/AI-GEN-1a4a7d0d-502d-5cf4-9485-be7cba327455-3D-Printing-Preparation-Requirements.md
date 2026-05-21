@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-preparation-requirements|3D Printing Preparation Requirements]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-preparation-requirements|3d-printing-preparation-requirements]]"
 ---
 # 3D Printing Preparation Requirements
 

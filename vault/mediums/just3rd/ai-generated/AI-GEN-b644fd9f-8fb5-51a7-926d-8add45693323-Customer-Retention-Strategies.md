@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-retention-strategies|Customer Retention Strategies]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-retention-strategies|customer-retention-strategies]]"
 ---
 # Customer Retention Strategies: Keeping Your Best Customers
 

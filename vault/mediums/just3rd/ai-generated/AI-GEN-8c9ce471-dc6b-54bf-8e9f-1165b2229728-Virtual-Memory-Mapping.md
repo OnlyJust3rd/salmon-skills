@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-memory-mapping|Virtual Memory Mapping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-memory-mapping|virtual-memory-mapping]]"
 ---
 # Virtual Memory Mapping in Virtual Environments
 

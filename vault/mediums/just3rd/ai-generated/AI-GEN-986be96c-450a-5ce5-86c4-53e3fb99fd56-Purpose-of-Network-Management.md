@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-management/microskills/purpose-of-network-management|Purpose of Network Management]]"
+  - "[[skills/systems/networking/network-management/microskills/purpose-of-network-management|purpose-of-network-management]]"
 ---
 # The "Why": Understanding the Purpose of Network Management
 

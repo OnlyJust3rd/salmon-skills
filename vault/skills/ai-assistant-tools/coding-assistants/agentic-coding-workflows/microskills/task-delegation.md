@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Task Delegation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-parent-macro: "Agentic Coding Workflows"
-parent-competency: "L2- Explain Agentic Coding Workflow Concepts"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/agentic-coding-workflows|agentic-coding-workflows]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L1-explain-agentic-coding-workflow-concepts|L1-explain-agentic-coding-workflow-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Task Delegation
@@ -15,7 +17,7 @@ Parent macro: [[agentic-coding-workflows|Agentic Coding Workflows]]
 
 Parent competency:
 
-- [[L2-explain-agentic-coding-workflow-concepts|L2- Explain Agentic Coding Workflow Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/competencies/L1-explain-agentic-coding-workflow-concepts|L2- Explain Agentic Coding Workflow Concepts]]
 
 ## Description
 

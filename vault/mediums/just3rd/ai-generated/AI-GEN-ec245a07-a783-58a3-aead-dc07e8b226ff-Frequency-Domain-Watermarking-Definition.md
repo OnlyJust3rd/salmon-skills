@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/frequency-domain-watermarking-definition|Frequency Domain Watermarking Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/frequency-domain-watermarking-definition|frequency-domain-watermarking-definition]]"
 ---
 # Frequency Domain Watermarking
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/backward-pass-backpropagation-explanation|Backward pass (backpropagation) explanation]]"
+  - "[[skills/data/ai/deep-learning/microskills/backward-pass-backpropagation-explanation|backward-pass-backpropagation-explanation]]"
 ---
 # Understanding the Backward Pass (Backpropagation)
 

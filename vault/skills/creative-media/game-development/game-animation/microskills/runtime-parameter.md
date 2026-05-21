@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Runtime Parameter"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Animation"
-parent-competency: "L3- Apply Animation State Machine Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-animation/game-animation|game-animation]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-animation/competencies/L2-apply-animation-state-machine-concepts|L2-apply-animation-state-machine-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Runtime Parameter
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-animation/game-anima
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-animation/competencies/L3-apply-animation-state-machine-concepts|L3- Apply Animation State Machine Concepts]]
+- [[skills/creative-media/game-development/game-animation/competencies/L2-apply-animation-state-machine-concepts|L3- Apply Animation State Machine Concepts]]
 
 ## Description
 

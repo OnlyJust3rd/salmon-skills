@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-mounting-strategies|Volume Mounting Strategies]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-mounting-strategies|volume-mounting-strategies]]"
 ---
 # Volume Mounting Strategies in Docker
 

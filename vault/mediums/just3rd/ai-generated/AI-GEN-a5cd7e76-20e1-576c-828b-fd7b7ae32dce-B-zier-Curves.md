@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/bezier-curves|Bézier Curves]]"
+  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/bezier-curves|bezier-curves]]"
 ---
 # Bézier Curves: A Gentle Introduction
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/table-and-column-definition-with-ddl|Table and Column Definition with DDL]]"
+  - "[[skills/data/databases/sql/microskills/table-and-column-definition-with-ddl|table-and-column-definition-with-ddl]]"
 ---
 # Defining Tables and Columns with SQL DDL
 

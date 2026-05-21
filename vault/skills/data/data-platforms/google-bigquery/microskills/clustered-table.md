@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Clustered Table"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Google BigQuery"
-parent-competency: "L3- Apply BigQuery Partitioning and SQL Analytics Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/google-bigquery/google-bigquery|google-bigquery]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/google-bigquery/competencies/L2-apply-bigquery-partitioning-and-sql-analytics-concepts|L2-apply-bigquery-partitioning-and-sql-analytics-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Clustered Table
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/google-bigquery/google-bigquery|Googl
 
 Parent competency:
 
-- [[skills/data/data-platforms/google-bigquery/competencies/L3-apply-bigquery-partitioning-and-sql-analytics-concepts|L3- Apply BigQuery Partitioning and SQL Analytics Concepts]]
+- [[skills/data/data-platforms/google-bigquery/competencies/L2-apply-bigquery-partitioning-and-sql-analytics-concepts|L3- Apply BigQuery Partitioning and SQL Analytics Concepts]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Inter-Process Data Exchange Patterns"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Process Management and System Calls"
-parent-competency: "L4- Inter-Process Execution Analysis"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/process-management-and-system-calls/process-management-and-system-calls|process-management-and-system-calls]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-inter-process-execution-analysis|L3-inter-process-execution-analysis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Inter-Process Data Exchange Patterns
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/process-management-and-system-c
 
 Parent competency:
 
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L4-inter-process-execution-analysis|L4- Inter-Process Execution Analysis]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L3-inter-process-execution-analysis|L4- Inter-Process Execution Analysis]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/core-iot-components|Core IoT Components]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/core-iot-components|core-iot-components]]"
 ---
 # Core IoT Components
 

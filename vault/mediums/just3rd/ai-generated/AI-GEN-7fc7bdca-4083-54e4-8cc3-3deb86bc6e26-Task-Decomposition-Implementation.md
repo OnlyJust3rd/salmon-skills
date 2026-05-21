@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/task-decomposition-implementation|Task Decomposition Implementation]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/task-decomposition-implementation|task-decomposition-implementation]]"
 ---
 # Implementing Task Decomposition in Team Projects
 

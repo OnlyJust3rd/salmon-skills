@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/locomotion-and-manipulation-concepts|Locomotion and Manipulation Concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/locomotion-and-manipulation-concepts|locomotion-and-manipulation-concepts]]"
 ---
 # Understanding Robot Locomotion and Manipulation Concepts
 

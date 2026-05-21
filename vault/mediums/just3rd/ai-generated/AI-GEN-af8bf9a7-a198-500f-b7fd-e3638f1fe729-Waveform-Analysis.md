@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/waveform-analysis|Waveform Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/waveform-analysis|waveform-analysis]]"
 ---
 # Waveform Analysis in Tinkercad Simulations
 

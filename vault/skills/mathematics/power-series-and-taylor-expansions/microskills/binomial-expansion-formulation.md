@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Binomial expansion formulation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Power Series and Taylor Expansions"
-parent-competency: "L3- Apply Binomial Expansion"
+  - "microskill"
+parent-skill: "[[skills/mathematics/power-series-and-taylor-expansions/power-series-and-taylor-expansions|power-series-and-taylor-expansions]]"
+requires-in-competencies:
+  - "[[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-binomial-expansion|L2-apply-binomial-expansion]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Binomial expansion formulation
@@ -15,7 +17,7 @@ Parent macro: [[power-series-and-taylor-expansions|Power Series and Taylor Expan
 
 Parent competency:
 
-- [[L3-apply-binomial-expansion|L3- Apply Binomial Expansion]]
+- [[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-binomial-expansion|L3- Apply Binomial Expansion]]
 
 ## Description
 

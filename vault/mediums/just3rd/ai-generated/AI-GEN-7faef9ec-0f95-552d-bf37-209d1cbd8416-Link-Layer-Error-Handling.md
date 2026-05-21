@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/link-layer-error-handling|Link Layer Error Handling]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/link-layer-error-handling|link-layer-error-handling]]"
 ---
 # Link Layer Error Handling: Keeping Data Clean
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/process-synchronization-python|Process Synchronization (Python)]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/process-synchronization-python|process-synchronization-python]]"
 ---
 # Process Synchronization in Python
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/line-rendering|Line Rendering]]"
+  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/line-rendering|line-rendering]]"
 ---
 # Implementing Bresenham's Line Algorithm
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/branch-prediction-basics|Branch Prediction Basics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/branch-prediction-basics|branch-prediction-basics]]"
 ---
 # Branch Prediction Basics: Taming Control Hazards
 

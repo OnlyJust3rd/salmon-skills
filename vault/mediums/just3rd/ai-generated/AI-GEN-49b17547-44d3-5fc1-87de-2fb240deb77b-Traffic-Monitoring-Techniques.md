@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traffic-monitoring-techniques|Traffic Monitoring Techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traffic-monitoring-techniques|traffic-monitoring-techniques]]"
 ---
 # Traffic Monitoring Techniques
 

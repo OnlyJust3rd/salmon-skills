@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-optimization-techniques|Cost Optimization Techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-optimization-techniques|cost-optimization-techniques]]"
 ---
 # Understanding Cost Optimization Techniques
 

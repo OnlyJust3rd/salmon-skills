@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/memory-mapped-i-o-concept|Memory-Mapped I/O Concept]]"
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/memory-mapped-i-o-concept|Memory-Mapped I/O Concept]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/memory-mapped-i-o-concept|memory-mapped-i-o-concept]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/memory-mapped-i-o-concept|memory-mapped-i-o-concept]]"
 ---
 # Memory-Mapped I/O: Talking to Hardware
 

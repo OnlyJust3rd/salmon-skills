@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/physical-address-concepts|Physical Address Concepts]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/physical-address-concepts|physical-address-concepts]]"
 ---
 # Understanding Physical Addresses
 

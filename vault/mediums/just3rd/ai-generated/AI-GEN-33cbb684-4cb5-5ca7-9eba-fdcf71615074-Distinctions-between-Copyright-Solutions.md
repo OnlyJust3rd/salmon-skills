@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/distinctions-between-copyright-solutions|Distinctions between Copyright Solutions]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/distinctions-between-copyright-solutions|distinctions-between-copyright-solutions]]"
 ---
 # Distinguishing Copyright Protection Solutions
 

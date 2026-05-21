@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/client-server-application-development|Client-Server Application Development]]"
+  - "[[skills/systems/networking/socket-programming/microskills/client-server-application-development|client-server-application-development]]"
 ---
 # Developing Client-Server Applications
 

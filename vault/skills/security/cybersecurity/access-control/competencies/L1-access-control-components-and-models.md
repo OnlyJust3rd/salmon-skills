@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Access Control Components and Models"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Access Control"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain Network Architecture and TCP/IP Layers"
+  - "[[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/security/cybersecurity/access-control/access-control|access-control]]"
+requires-microskills:
+  - "[[skills/security/cybersecurity/access-control/microskills/access-control-system-components|access-control-system-components]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/access-control-system-models|access-control-system-models]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Access Control Components and Models
@@ -25,7 +26,7 @@ Identify and list the key components and common models of access control systems
 
 ## Strict Prerequisites
 
-- [[skills/systems/networking/computer-network-architecture/competencies/L2-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Optional Prerequisites
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/network-performance-metrics|Network Performance Metrics]]"
+  - "[[skills/systems/networking/network-performance/microskills/network-performance-metrics|network-performance-metrics]]"
 ---
 # Understanding Network Performance Metrics
 

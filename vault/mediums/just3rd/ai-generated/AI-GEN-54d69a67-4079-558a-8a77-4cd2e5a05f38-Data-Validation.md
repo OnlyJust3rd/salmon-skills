@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-engineering/microskills/data-validation|Data Validation]]"
+  - "[[skills/data/data-platforms/data-engineering/microskills/data-validation|data-validation]]"
 ---
 # Data Validation in Batch Processing
 

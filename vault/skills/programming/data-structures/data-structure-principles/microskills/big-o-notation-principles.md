@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Big O Notation Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Data Structure Principles"
-parent-competency: "L2- Explain Big O Notation"
+  - "microskill"
+parent-skill: "[[skills/programming/data-structures/data-structure-principles/data-structure-principles|data-structure-principles]]"
+requires-in-competencies:
+  - "[[skills/programming/data-structures/data-structure-principles/competencies/L1-explain-big-o-notation|L1-explain-big-o-notation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Big O Notation Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/data-structures/data-structure-principles/dat
 
 Parent competency:
 
-- [[skills/programming/data-structures/data-structure-principles/competencies/L2-explain-big-o-notation|L2- Explain Big O Notation]]
+- [[skills/programming/data-structures/data-structure-principles/competencies/L1-explain-big-o-notation|L2- Explain Big O Notation]]
 
 ## Description
 

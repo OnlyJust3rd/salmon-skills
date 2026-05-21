@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/logic-function-implementation|Logic Function Implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/logic-function-implementation|logic-function-implementation]]"
 ---
 # Implementing Logic Functions with Diode Circuits
 

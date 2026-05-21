@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-output-impedance|Feedback Resistor Impact on Output Impedance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-output-impedance|feedback-resistor-impact-on-output-impedance]]"
 ---
 # Analyzing Feedback Resistor Impact on Output Impedance
 

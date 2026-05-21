@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-functionality|UML Diagram Application for Functionality]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-functionality|uml-diagram-application-for-functionality]]"
 ---
 # Modeling System Capabilities with UML Use Case Diagrams
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/memory-virtualization-goals|Memory Virtualization Goals]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-virtualization-goals|memory-virtualization-goals]]"
 ---
 # Memory Virtualization Goals in Operating Systems
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/linux-kernel-role-in-containers|Linux Kernel Role in Containers]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/linux-kernel-role-in-containers|linux-kernel-role-in-containers]]"
 ---
 # The Linux Kernel: The Engine Behind Containers
 

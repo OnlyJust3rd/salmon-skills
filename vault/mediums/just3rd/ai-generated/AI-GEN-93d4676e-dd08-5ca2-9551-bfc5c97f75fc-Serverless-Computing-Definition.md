@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/serverless-computing-definition|Serverless Computing Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/serverless-computing-definition|serverless-computing-definition]]"
 ---
 # Serverless Computing: What It Means to You
 

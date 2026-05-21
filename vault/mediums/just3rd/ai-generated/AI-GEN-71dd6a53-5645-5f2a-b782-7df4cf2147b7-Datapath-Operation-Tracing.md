@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/datapath-operation-tracing|Datapath Operation Tracing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/datapath-operation-tracing|datapath-operation-tracing]]"
 ---
 # Tracing Data Flow in the Datapath
 

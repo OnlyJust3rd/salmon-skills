@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/derivative-patterns-for-inverse-functions|Derivative patterns for inverse functions]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/derivative-patterns-for-inverse-functions|derivative-patterns-for-inverse-functions]]"
 ---
 # Derivative Patterns for Inverse Functions
 

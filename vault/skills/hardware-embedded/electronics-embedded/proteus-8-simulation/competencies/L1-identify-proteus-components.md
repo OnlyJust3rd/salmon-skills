@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Proteus components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Proteus 8 Simulation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Recall Logic Gate Basics"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-recall-logic-gate-basics|L1-recall-logic-gate-basics]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/proteus-8-simulation|proteus-8-simulation]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/digital-circuit-simulation-relevance|digital-circuit-simulation-relevance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/proteus-8-element-identification|proteus-8-element-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/proteus-8-tool-identification|proteus-8-tool-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Proteus components

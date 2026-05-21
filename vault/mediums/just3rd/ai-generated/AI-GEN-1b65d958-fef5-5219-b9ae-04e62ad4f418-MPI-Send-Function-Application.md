@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-send-function-application|MPI Send Function Application]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-send-function-application|mpi-send-function-application]]"
 ---
 # MPI_Send Function: Initiating Data Transmission
 

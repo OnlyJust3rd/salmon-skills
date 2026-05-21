@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/collaborative-project-execution|Collaborative Project Execution]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/collaborative-project-execution|collaborative-project-execution]]"
 ---
 # Collaborative Project Execution
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-classifications|Signal Classifications]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-classifications|signal-classifications]]"
 ---
 # Signal Classifications
 

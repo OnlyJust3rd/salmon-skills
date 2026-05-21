@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Packet Path Determination"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Routing Algorithms"
-parent-competency: "L3- Illustrate intradomain protocol flow"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/routing-algorithms/routing-algorithms|routing-algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/routing-algorithms/competencies/L2-illustrate-intradomain-protocol-flow|L2-illustrate-intradomain-protocol-flow]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Packet Path Determination
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/routing-algorithms/routing-algorit
 
 Parent competency:
 
-- [[skills/programming/algorithms/routing-algorithms/competencies/L3-illustrate-intradomain-protocol-flow|L3- Illustrate intradomain protocol flow]]
+- [[skills/programming/algorithms/routing-algorithms/competencies/L2-illustrate-intradomain-protocol-flow|L3- Illustrate intradomain protocol flow]]
 
 ## Description
 

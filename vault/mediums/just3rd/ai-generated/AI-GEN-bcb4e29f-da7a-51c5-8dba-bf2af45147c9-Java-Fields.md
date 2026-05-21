@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/java-fields|Java Fields]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-fields|java-fields]]"
 ---
 # Understanding Java Fields
 

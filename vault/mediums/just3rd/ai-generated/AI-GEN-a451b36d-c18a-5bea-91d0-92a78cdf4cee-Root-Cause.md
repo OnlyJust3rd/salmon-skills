@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/root-cause|Root Cause]]"
+  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/root-cause|root-cause]]"
 ---
 # Finding the Root Cause: Uncovering the "Why" Behind Technical Issues
 

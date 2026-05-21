@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|Lock Mechanism Overhead]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|lock-mechanism-overhead]]"
 ---
 # Analyzing Lock Mechanism Overhead
 

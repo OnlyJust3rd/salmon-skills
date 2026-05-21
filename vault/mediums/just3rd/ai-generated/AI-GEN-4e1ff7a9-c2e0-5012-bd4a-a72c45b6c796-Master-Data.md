@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/master-data|Master Data]]"
+  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/master-data|master-data]]"
 ---
 # Understanding Master Data in ERP Systems
 

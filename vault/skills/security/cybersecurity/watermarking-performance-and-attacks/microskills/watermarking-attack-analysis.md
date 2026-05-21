@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Watermarking Attack Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Watermarking Performance and Attacks"
-parent-competency: "L4- Analyze Watermarking Attacks and Benchmark Tool Effectiveness"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|watermarking-performance-and-attacks]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-analyze-watermarking-attacks-and-benchmark-tool-effectiveness|L3-analyze-watermarking-attacks-and-benchmark-tool-effectiveness]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Watermarking Attack Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/watermarking-performance-and-attac
 
 Parent competency:
 
-- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L4-analyze-watermarking-attacks-and-benchmark-tool-effectiveness|L4- Analyze Watermarking Attacks and Benchmark Tool Effectiveness]]
+- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-analyze-watermarking-attacks-and-benchmark-tool-effectiveness|L4- Analyze Watermarking Attacks and Benchmark Tool Effectiveness]]
 
 ## Description
 

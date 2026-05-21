@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/drivers-of-iot-adoption|Drivers of IoT Adoption]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/drivers-of-iot-adoption|drivers-of-iot-adoption]]"
 ---
 # Drivers of IoT Adoption
 

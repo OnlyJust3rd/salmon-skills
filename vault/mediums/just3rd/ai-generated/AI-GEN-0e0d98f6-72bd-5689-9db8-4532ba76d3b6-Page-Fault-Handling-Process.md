@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/page-fault-handling-process|Page Fault Handling Process]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/page-fault-handling-process|page-fault-handling-process]]"
 ---
 # Handling a Page Fault: When Your Program Asks for What's Not There
 

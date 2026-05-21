@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Power Supply Verification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Laboratory Equipment Operation"
-parent-competency: "L3- Operate Equipment for Measurement and Diagnosis"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/laboratory-equipment-operation|laboratory-equipment-operation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L2-operate-equipment-for-measurement-and-diagnosis|L2-operate-equipment-for-measurement-and-diagnosis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Power Supply Verification
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/laboratory-equipme
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L3-operate-equipment-for-measurement-and-diagnosis|L3- Operate Equipment for Measurement and Diagnosis]]
+- [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L2-operate-equipment-for-measurement-and-diagnosis|L3- Operate Equipment for Measurement and Diagnosis]]
 
 ## Description
 

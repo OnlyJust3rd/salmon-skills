@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/cylinder-definition|Cylinder Definition]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/cylinder-definition|cylinder-definition]]"
 ---
 # Understanding Cylinders in Disk Geometry
 

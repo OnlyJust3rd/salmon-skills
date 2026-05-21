@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "JSON primitive literals"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "JSON Format"
-parent-competency: "L1- Define JSON Syntax and Data Types"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/json-format/json-format|json-format]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/json-format/competencies/L1-define-json-syntax-and-data-types|L1-define-json-syntax-and-data-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # JSON primitive literals

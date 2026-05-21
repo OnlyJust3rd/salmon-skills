@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/analytical-task-alignment|Analytical Task Alignment]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/analytical-task-alignment|analytical-task-alignment]]"
 ---
 # Analytical Task Alignment: Matching Models to Goals
 

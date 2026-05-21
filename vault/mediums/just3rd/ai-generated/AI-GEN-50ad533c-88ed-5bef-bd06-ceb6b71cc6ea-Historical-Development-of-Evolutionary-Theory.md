@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/historical-development-of-evolutionary-theory|Historical Development of Evolutionary Theory]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/historical-development-of-evolutionary-theory|historical-development-of-evolutionary-theory]]"
 ---
 # The Journey of Evolutionary Ideas
 

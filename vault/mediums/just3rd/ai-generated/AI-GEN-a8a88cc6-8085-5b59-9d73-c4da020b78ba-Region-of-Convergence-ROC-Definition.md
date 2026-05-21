@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/region-of-convergence-roc-definition|Region of Convergence (ROC) Definition]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/region-of-convergence-roc-definition|region-of-convergence-roc-definition]]"
 ---
 # Region of Convergence (ROC) - The Foundation of Z-Transforms
 

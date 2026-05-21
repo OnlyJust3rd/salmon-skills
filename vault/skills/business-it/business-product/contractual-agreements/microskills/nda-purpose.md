@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "NDA Purpose"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Contractual Agreements"
-parent-competency: "L2- Explain contract purposes and components"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/contractual-agreements/contractual-agreements|contractual-agreements]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/contractual-agreements/competencies/L1-explain-contract-purposes-and-components|L1-explain-contract-purposes-and-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # NDA Purpose
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/contractual-agreements/contr
 
 Parent competency:
 
-- [[skills/business-it/business-product/contractual-agreements/competencies/L2-explain-contract-purposes-and-components|L2- Explain contract purposes and components]]
+- [[skills/business-it/business-product/contractual-agreements/competencies/L1-explain-contract-purposes-and-components|L2- Explain contract purposes and components]]
 
 ## Description
 

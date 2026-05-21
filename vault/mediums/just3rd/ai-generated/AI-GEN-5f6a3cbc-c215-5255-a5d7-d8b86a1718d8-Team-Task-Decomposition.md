@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/team-task-decomposition|Team Task Decomposition]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/team-task-decomposition|team-task-decomposition]]"
 ---
 # Understanding Team Task Decomposition
 

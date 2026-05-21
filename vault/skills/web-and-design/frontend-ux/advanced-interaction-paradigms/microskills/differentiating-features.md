@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Differentiating Features"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Advanced Interaction Paradigms"
-parent-competency: "L2- VR vs AR"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-vr-vs-ar|L1-vr-vs-ar]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Differentiating Features
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L2-vr-vs-ar|L2- VR vs AR]]
+- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-vr-vs-ar|L2- VR vs AR]]
 
 ## Description
 

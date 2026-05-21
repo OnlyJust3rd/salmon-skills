@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/algorithm-classification|Algorithm Classification]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/algorithm-classification|algorithm-classification]]"
 ---
 # Algorithm Classification: Symmetric vs. Asymmetric Cryptography
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/evolution-of-robotic-behaviors|Evolution of Robotic Behaviors]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/evolution-of-robotic-behaviors|evolution-of-robotic-behaviors]]"
 ---
 # Evolution of Robotic Behaviors: Subsumption Architecture in Action
 

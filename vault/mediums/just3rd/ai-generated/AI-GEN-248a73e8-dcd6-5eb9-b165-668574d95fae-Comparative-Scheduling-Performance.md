@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|Comparative Scheduling Performance]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|comparative-scheduling-performance]]"
 ---
 # Comparative Scheduling Performance
 

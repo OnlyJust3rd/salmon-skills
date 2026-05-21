@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/3-tier-application-model|3-Tier Application Model]]"
+  - "[[skills/data/databases/database-system/microskills/3-tier-application-model|3-tier-application-model]]"
 ---
 # Understanding the 3-Tier Application Model
 

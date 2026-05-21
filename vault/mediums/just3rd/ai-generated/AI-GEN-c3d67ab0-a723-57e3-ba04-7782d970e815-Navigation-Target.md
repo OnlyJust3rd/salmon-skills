@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ai/microskills/navigation-target|Navigation Target]]"
+  - "[[skills/creative-media/game-development/game-ai/microskills/navigation-target|navigation-target]]"
 ---
 # Selecting a Navigation Target
 

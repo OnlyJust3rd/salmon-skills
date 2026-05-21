@@ -1,19 +1,51 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Kubernetes"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 6
-microskill-count: 25
-related-jobs:
-  - "DevOps Engineer"
-  - "Cloud Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-apply-kubernetes-yaml|L2-apply-kubernetes-yaml]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-apply-yaml-for-kubernetes-pods|L2-apply-yaml-for-kubernetes-pods]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-deploy-application-with-kubernetes-deployment|L2-deploy-application-with-kubernetes-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-deploy-kubernetes-cronjobs|L2-deploy-kubernetes-cronjobs]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-implement-kubernetes-configurations|L2-implement-kubernetes-configurations]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-install-and-manage-applications-with-helm|L2-install-and-manage-applications-with-helm]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-apply-kubernetes-yaml|L2-apply-kubernetes-yaml]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-apply-yaml-for-kubernetes-pods|L2-apply-yaml-for-kubernetes-pods]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-deploy-application-with-kubernetes-deployment|L2-deploy-application-with-kubernetes-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-deploy-kubernetes-cronjobs|L2-deploy-kubernetes-cronjobs]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-implement-kubernetes-configurations|L2-implement-kubernetes-configurations]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-install-and-manage-applications-with-helm|L2-install-and-manage-applications-with-helm]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/apiversion-kind-metadata-spec|apiversion-kind-metadata-spec]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/application-management-with-helm|application-management-with-helm]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/application-scalability-concepts|application-scalability-concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/containerized-application-deployment|containerized-application-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/cronjob-resource-definition|cronjob-resource-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/helm-chart-installation|helm-chart-installation]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/helm-commands|helm-commands]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-application-deployment|kubernetes-application-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-cluster-operations|kubernetes-cluster-operations]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-cronjob-configuration|kubernetes-cronjob-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-deployment-configuration|kubernetes-deployment-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-deployment-manifests|kubernetes-deployment-manifests]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-job-configuration|kubernetes-job-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-namespace-management|kubernetes-namespace-management]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-pod-configuration|kubernetes-pod-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-pod-definition|kubernetes-pod-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-resource-application|kubernetes-resource-application]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-secrets-management|kubernetes-secrets-management]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-statefulset-configuration|kubernetes-statefulset-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-yaml-manifests|kubernetes-yaml-manifests]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/pod-specification-construction|pod-specification-construction]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/rbac-configuration|rbac-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/resource-requests-and-limits|resource-requests-and-limits]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/scheduled-task-deployment|scheduled-task-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/yaml-syntax-for-kubernetes|yaml-syntax-for-kubernetes]]"
 ---
 
 # Kubernetes
@@ -22,12 +54,12 @@ Deploy and manage containerized applications at scale using Kubernetes. Configur
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L3-deploy-kubernetes-cronjobs|L3- Deploy Kubernetes CronJobs]]
-- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L3-deploy-application-with-kubernetes-deployment|L3- Deploy Application with Kubernetes Deployment]]
-- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L3-implement-kubernetes-configurations|L3- Implement Kubernetes Configurations]]
-- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L3-install-and-manage-applications-with-helm|L3- Install and manage applications with Helm]]
-- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L3-apply-yaml-for-kubernetes-pods|L3- Apply YAML for Kubernetes Pods]]
-- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L3-apply-kubernetes-yaml|L3- Apply Kubernetes YAML]]
+- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-deploy-kubernetes-cronjobs|L3- Deploy Kubernetes CronJobs]]
+- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-deploy-application-with-kubernetes-deployment|L3- Deploy Application with Kubernetes Deployment]]
+- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-implement-kubernetes-configurations|L3- Implement Kubernetes Configurations]]
+- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-install-and-manage-applications-with-helm|L3- Install and manage applications with Helm]]
+- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-apply-yaml-for-kubernetes-pods|L3- Apply YAML for Kubernetes Pods]]
+- [[skills/cloud-devops/platform-engineering/kubernetes/competencies/L2-apply-kubernetes-yaml|L3- Apply Kubernetes YAML]]
 
 ## Microskills
 

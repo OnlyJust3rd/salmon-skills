@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/business-process-modeling/microskills/decision-point|Decision Point]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/decision-point|decision-point]]"
 ---
 # Understanding Decision Points in Business Processes
 

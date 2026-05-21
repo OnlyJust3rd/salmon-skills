@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/common-static-analysis-tools|Common Static Analysis Tools]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/common-static-analysis-tools|common-static-analysis-tools]]"
 ---
 # Common Static Analysis Tools
 

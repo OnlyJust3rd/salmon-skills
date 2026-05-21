@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/cost-trade-off|Cost Trade-off]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/cost-trade-off|cost-trade-off]]"
 ---
 # Cost Trade-offs: Lakehouse vs. Data Warehouse
 

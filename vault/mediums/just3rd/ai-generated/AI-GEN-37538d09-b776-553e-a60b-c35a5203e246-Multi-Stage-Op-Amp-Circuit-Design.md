@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/multi-stage-op-amp-circuit-design|Multi-Stage Op-Amp Circuit Design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/multi-stage-op-amp-circuit-design|multi-stage-op-amp-circuit-design]]"
 ---
 # Designing Multi-Stage Op-Amp Circuits
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/transport-layer/microskills/network-performance-impact|Network Performance Impact]]"
+  - "[[skills/systems/networking/transport-layer/microskills/network-performance-impact|network-performance-impact]]"
 ---
 # Network Performance Impact: Throughput and Latency
 

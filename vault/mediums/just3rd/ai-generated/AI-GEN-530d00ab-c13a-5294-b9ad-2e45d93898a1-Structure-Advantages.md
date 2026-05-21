@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-advantages|Structure Advantages]]"
+  - "[[skills/business-it/business-product/organizational-structures/microskills/structure-advantages|structure-advantages]]"
 ---
 # Understanding the Advantages of Organizational Structures
 

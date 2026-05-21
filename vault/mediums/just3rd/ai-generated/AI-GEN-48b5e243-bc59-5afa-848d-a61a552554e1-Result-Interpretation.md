@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/result-interpretation|Result Interpretation]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/result-interpretation|result-interpretation]]"
 ---
 # Interpreting Usability Evaluation Results
 

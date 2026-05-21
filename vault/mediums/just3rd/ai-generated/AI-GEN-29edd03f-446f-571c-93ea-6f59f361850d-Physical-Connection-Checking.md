@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-connection-checking|Physical Connection Checking]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-connection-checking|physical-connection-checking]]"
 ---
 # Checking Physical Connections: The First Step in Hardware Troubleshooting
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Waveform Generation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Peripheral Programming"
-parent-competency: "L3- Implement Timer/Counter Functions"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/competencies/L2-implement-timer-counter-functions|L2-implement-timer-counter-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Waveform Generation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/avr-peripheral-programm
 
 Parent competency:
 
-- [[skills/programming/programming-languages/avr-peripheral-programming/competencies/L3-implement-timer-counter-functions|L3- Implement Timer/Counter Functions]]
+- [[skills/programming/programming-languages/avr-peripheral-programming/competencies/L2-implement-timer-counter-functions|L3- Implement Timer/Counter Functions]]
 
 ## Description
 

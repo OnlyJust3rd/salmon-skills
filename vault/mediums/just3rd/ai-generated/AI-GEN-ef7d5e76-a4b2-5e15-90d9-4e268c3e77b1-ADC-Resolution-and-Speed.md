@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/adc-resolution-and-speed|ADC Resolution and Speed]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/adc-resolution-and-speed|adc-resolution-and-speed]]"
 ---
 # ADC Resolution and Speed: Analyzing Performance for Data Acquisition
 

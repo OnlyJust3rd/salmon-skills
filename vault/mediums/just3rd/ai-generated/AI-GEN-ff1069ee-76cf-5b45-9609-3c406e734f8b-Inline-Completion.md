@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/inline-completion|Inline Completion]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/inline-completion|inline-completion]]"
 ---
 # Understanding Inline Completion in GitHub Copilot
 

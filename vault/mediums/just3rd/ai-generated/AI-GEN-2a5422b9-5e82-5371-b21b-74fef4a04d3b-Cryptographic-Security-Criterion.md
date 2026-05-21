@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/cryptographic-security-criterion|Cryptographic Security Criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/cryptographic-security-criterion|cryptographic-security-criterion]]"
 ---
 # Analyzing the Cryptographic Security Criterion
 

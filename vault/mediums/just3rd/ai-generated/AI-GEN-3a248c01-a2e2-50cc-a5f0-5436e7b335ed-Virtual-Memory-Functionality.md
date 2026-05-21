@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|Virtual Memory Functionality]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|virtual-memory-functionality]]"
 ---
 # Virtual Memory Functionality
 

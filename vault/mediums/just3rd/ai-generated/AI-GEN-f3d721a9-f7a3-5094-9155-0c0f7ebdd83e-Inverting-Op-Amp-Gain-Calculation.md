@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/inverting-op-amp-gain-calculation|Inverting Op-Amp Gain Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/inverting-op-amp-gain-calculation|inverting-op-amp-gain-calculation]]"
 ---
 # Inverting Op-Amp Gain Calculation
 

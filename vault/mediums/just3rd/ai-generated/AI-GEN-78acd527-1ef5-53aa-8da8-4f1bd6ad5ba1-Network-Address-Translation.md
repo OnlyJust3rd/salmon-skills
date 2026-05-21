@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/network-address-translation|Network Address Translation]]"
+  - "[[skills/systems/networking/network-layer/microskills/network-address-translation|network-address-translation]]"
 ---
 # Understanding Network Address Translation (NAT)
 

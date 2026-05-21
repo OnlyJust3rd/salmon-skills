@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/evolutionary-stages-of-hpc|Evolutionary Stages of HPC]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/evolutionary-stages-of-hpc|evolutionary-stages-of-hpc]]"
 ---
 # Evolutionary Stages of HPC
 

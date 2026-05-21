@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/brightness-and-contrast-manipulation|Brightness and Contrast Manipulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/brightness-and-contrast-manipulation|brightness-and-contrast-manipulation]]"
 ---
 # Brightness and Contrast Manipulation
 

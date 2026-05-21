@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Marketing Mix Elements"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Marketing Strategy"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Canvas Components"
+  - "[[skills/business-it/business-product/business-model-design/competencies/L1-define-canvas-components|L1-define-canvas-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/marketing-strategy/marketing-strategy|marketing-strategy]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-4cs|marketing-mix-4cs]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-4ps|marketing-mix-4ps]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Marketing Mix Elements

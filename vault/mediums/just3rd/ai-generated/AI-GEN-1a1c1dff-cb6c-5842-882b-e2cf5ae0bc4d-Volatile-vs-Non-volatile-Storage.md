@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/volatile-vs-non-volatile-storage|Volatile vs Non-volatile Storage]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/volatile-vs-non-volatile-storage|volatile-vs-non-volatile-storage]]"
 ---
 # Understanding Volatile vs. Non-Volatile Storage
 

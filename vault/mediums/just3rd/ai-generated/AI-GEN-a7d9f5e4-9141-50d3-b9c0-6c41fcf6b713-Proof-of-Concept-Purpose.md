@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/proof-of-concept-purpose|Proof of Concept Purpose]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/proof-of-concept-purpose|proof-of-concept-purpose]]"
 ---
 # Understanding the Purpose of a Proof of Concept (PoC)
 

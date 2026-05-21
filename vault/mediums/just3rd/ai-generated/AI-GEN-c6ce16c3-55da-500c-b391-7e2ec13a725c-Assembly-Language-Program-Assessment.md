@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/assembly-language-program-assessment|Assembly Language Program Assessment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/assembly-language-program-assessment|assembly-language-program-assessment]]"
 ---
 # Assessing Assembly Language Programs
 

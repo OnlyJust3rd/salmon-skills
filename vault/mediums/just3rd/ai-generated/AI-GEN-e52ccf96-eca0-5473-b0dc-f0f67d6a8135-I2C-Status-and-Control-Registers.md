@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-status-and-control-registers|I2C Status and Control Registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-status-and-control-registers|i2c-status-and-control-registers]]"
 ---
 # I2C Status and Control Registers: Mastering Communication
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/iot-communication-and-networking/microskills/iot-data-transport-use-cases|IoT Data Transport Use Cases]]"
+  - "[[skills/systems/networking/iot-communication-and-networking/microskills/iot-data-transport-use-cases|iot-data-transport-use-cases]]"
 ---
 # Understanding IoT Data Transport Use Cases
 

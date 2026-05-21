@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Homogeneous System Fundamentals"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and Represent Systems"
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1-define-and-represent-systems]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-microskills:
+  - "[[skills/mathematics/matrix-algebra/microskills/homogeneous-system-definition|homogeneous-system-definition]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/homogeneous-system-properties|homogeneous-system-properties]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/trivial-solution-conditions|trivial-solution-conditions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Homogeneous System Fundamentals
@@ -25,7 +27,7 @@ Define and identify conditions for trivial solutions in homogeneous linear syste
 
 ## Strict Prerequisites
 
-- [[L1-define-and-represent-systems|L1- Define and Represent Systems]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-define-and-represent-systems|L1- Define and Represent Systems]]
 
 ## Optional Prerequisites
 

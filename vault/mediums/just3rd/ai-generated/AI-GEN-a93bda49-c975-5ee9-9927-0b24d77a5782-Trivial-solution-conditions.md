@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/trivial-solution-conditions|Trivial solution conditions]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/trivial-solution-conditions|trivial-solution-conditions]]"
 ---
 # Trivial Solution Conditions in Homogeneous Systems
 

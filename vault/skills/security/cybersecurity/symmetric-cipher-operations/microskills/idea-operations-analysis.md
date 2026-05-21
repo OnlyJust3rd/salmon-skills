@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "IDEA Operations Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Symmetric Cipher Operations"
-parent-competency: "L4- Analyze Block Cipher Operations"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/symmetric-cipher-operations/symmetric-cipher-operations|symmetric-cipher-operations]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L3-analyze-block-cipher-operations|L3-analyze-block-cipher-operations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # IDEA Operations Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/symmetric-cipher-operations/symmet
 
 Parent competency:
 
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L4-analyze-block-cipher-operations|L4- Analyze Block Cipher Operations]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L3-analyze-block-cipher-operations|L4- Analyze Block Cipher Operations]]
 
 ## Description
 

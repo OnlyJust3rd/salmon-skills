@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Mobile Robot Navigation Hardware Implementations"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Mobile Robot Navigation"
-parent-competency: "L1- Navigation Algorithms & Hardware Definition"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/competencies/L1-navigation-algorithms-hardware-definition|L1-navigation-algorithms-hardware-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Mobile Robot Navigation Hardware Implementations

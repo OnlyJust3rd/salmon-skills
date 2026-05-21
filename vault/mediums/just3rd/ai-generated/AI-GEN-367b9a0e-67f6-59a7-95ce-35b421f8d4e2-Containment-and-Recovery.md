@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/incident-response/microskills/containment-and-recovery|Containment and Recovery]]"
+  - "[[skills/security/cybersecurity/incident-response/microskills/containment-and-recovery|containment-and-recovery]]"
 ---
 # Containment and Recovery: Limiting Damage and Restoring Service
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "DRM Enforcement Mechanisms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Rights Management Systems"
-parent-competency: "L1- List DRM mechanisms"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/digital-rights-management-systems/digital-rights-management-systems|digital-rights-management-systems]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/competencies/L1-list-drm-mechanisms|L1-list-drm-mechanisms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # DRM Enforcement Mechanisms

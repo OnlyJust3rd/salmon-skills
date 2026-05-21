@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/arduino-prototype-construction|Arduino Prototype Construction]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/arduino-prototype-construction|arduino-prototype-construction]]"
 ---
 # Building Your First Arduino Prototype: Connecting, Coding, and Testing
 

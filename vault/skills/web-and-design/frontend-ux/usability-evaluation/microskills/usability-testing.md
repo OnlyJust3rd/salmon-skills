@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Usability Testing"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Usability Evaluation"
-parent-competency: "L3- Evaluate Interactive Systems"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/usability-evaluation/usability-evaluation|usability-evaluation]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L2-evaluate-interactive-systems|L2-evaluate-interactive-systems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Usability Testing
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/usability-evaluation/usability
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L3-evaluate-interactive-systems|L3- Evaluate Interactive Systems]]
+- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L2-evaluate-interactive-systems|L3- Evaluate Interactive Systems]]
 
 ## Description
 

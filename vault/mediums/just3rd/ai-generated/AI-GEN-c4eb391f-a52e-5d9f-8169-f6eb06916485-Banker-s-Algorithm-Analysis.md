@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/banker-s-algorithm-analysis|Banker's Algorithm Analysis]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/banker-s-algorithm-analysis|banker-s-algorithm-analysis]]"
 ---
 # Analyzing the Banker's Algorithm
 

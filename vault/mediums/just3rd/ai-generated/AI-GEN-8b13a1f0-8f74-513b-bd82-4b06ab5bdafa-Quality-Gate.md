@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/quality-gate|Quality Gate]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/quality-gate|quality-gate]]"
 ---
 # Quality Gates in OpenAI Codex Workflow
 

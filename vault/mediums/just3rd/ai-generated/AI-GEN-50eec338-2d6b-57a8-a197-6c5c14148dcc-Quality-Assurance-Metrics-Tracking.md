@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/quality-assurance-metrics-tracking|Quality Assurance Metrics Tracking]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/quality-assurance-metrics-tracking|quality-assurance-metrics-tracking]]"
 ---
 # Understanding the Significance of Monitoring Quality Indicators
 

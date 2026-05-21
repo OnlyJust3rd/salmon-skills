@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/digital-image-formats|Digital Image Formats]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/digital-image-formats|digital-image-formats]]"
 ---
 # Digital Image Formats: How Computers See Pictures
 

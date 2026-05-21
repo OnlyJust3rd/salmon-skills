@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/resource-allocation-graph-representation|Resource Allocation Graph Representation]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/resource-allocation-graph-representation|resource-allocation-graph-representation]]"
 ---
 # Understanding Resource Allocation Graphs
 

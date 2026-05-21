@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/stirmark-tool-usage|StirMark Tool Usage]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/stirmark-tool-usage|stirmark-tool-usage]]"
 ---
 # Using StirMark for Simulated Watermarking Attacks
 

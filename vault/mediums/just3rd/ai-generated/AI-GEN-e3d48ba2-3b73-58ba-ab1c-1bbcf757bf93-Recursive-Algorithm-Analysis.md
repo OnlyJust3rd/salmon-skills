@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/recursive-algorithm-analysis|Recursive Algorithm Analysis]]"
+  - "[[skills/mathematics/proof-techniques/microskills/recursive-algorithm-analysis|recursive-algorithm-analysis]]"
 ---
 # Analyzing Recursive Algorithms
 

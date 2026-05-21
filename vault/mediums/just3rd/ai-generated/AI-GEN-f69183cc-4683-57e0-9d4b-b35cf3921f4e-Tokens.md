@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cybersecurity/microskills/tokens|Tokens]]"
+  - "[[skills/security/cybersecurity/cybersecurity/microskills/tokens|tokens]]"
 ---
 # Understanding Tokens for Authentication
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/spatial-domain-watermarking|Spatial Domain Watermarking]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/spatial-domain-watermarking|spatial-domain-watermarking]]"
 ---
 # Spatial Domain Watermarking: Modifying Pixels Directly
 

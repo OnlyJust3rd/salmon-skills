@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/backtracking-technique-definitions|Backtracking Technique Definitions]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/backtracking-technique-definitions|backtracking-technique-definitions]]"
 ---
 # Understanding Backtracking Techniques
 

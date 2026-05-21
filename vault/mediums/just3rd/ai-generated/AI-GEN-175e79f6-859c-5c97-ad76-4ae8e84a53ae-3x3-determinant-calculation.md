@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/3x3-determinant-calculation|3x3 determinant calculation]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/3x3-determinant-calculation|3x3-determinant-calculation]]"
 ---
 # Calculating 3x3 Determinants
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-audio/microskills/mixer-group|Mixer Group]]"
+  - "[[skills/creative-media/game-development/game-audio/microskills/mixer-group|mixer-group]]"
 ---
 # Understanding Mixer Groups in Game Audio
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/ip-address-utilization|IP Address Utilization]]"
+  - "[[skills/systems/networking/network-layer/microskills/ip-address-utilization|ip-address-utilization]]"
 ---
 # IP Address Utilization: Guiding the Journey of Data
 

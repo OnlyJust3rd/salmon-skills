@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/convolutional-layer-function|Convolutional layer function]]"
+  - "[[skills/data/ai/deep-learning/microskills/convolutional-layer-function|convolutional-layer-function]]"
 ---
 # The Role of the Convolutional Layer in Feature Extraction
 

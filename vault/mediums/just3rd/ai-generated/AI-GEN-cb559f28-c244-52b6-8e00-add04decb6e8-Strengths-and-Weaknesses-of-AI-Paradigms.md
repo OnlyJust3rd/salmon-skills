@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/strengths-and-weaknesses-of-ai-paradigms|Strengths and Weaknesses of AI Paradigms]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/strengths-and-weaknesses-of-ai-paradigms|strengths-and-weaknesses-of-ai-paradigms]]"
 ---
 # Analyzing Strengths and Weaknesses of AI Behavior Paradigms for Robotics
 

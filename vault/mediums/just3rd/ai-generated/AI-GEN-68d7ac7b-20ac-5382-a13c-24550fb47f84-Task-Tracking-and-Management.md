@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/task-tracking-and-management|Task Tracking and Management]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/task-tracking-and-management|task-tracking-and-management]]"
 ---
 # Task Tracking and Management for Platform Engineering Projects
 

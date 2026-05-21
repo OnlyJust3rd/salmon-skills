@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/operational-expenditure-opex|Operational Expenditure (OPEX)]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/operational-expenditure-opex|operational-expenditure-opex]]"
 ---
 # Understanding Operational Expenditure (OPEX) in Cloud Computing
 

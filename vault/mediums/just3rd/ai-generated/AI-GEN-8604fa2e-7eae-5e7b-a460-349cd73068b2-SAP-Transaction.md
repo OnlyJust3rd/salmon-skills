@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sap-erp/microskills/sap-transaction|SAP Transaction]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/sap-transaction|sap-transaction]]"
 ---
 # Understanding SAP Transactions: Executing Business Processes
 

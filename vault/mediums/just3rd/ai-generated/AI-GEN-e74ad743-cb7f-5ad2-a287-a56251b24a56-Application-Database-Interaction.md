@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/application-database-interaction|Application-Database Interaction]]"
+  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/application-database-interaction|application-database-interaction]]"
 ---
 # Managing Data Flow: Application-Database Interaction
 

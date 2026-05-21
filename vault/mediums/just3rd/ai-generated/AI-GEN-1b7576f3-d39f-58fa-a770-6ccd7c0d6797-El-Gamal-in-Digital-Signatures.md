@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/el-gamal-in-digital-signatures|El Gamal in Digital Signatures]]"
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/el-gamal-in-digital-signatures|el-gamal-in-digital-signatures]]"
 ---
 # El Gamal in Digital Signatures
 

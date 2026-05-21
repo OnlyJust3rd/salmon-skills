@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/established-criteria-adherence|Established Criteria Adherence]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/established-criteria-adherence|established-criteria-adherence]]"
 ---
 # Evaluating Your Problem-Solving Approach Against Project Criteria
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Terminal Coding Agent"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-parent-macro: "Claude Code"
-parent-competency: "L2- Explain Claude Code Terminal Agent Concepts"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/claude-code/claude-code|claude-code]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/competencies/L1-explain-claude-code-terminal-agent-concepts|L1-explain-claude-code-terminal-agent-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Terminal Coding Agent
@@ -15,7 +17,7 @@ Parent macro: [[claude-code|Claude Code]]
 
 Parent competency:
 
-- [[L2-explain-claude-code-terminal-agent-concepts|L2- Explain Claude Code Terminal Agent Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/claude-code/competencies/L1-explain-claude-code-terminal-agent-concepts|L2- Explain Claude Code Terminal Agent Concepts]]
 
 ## Description
 

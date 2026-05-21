@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-cronjob-configuration|Kubernetes CronJob Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-cronjob-configuration|kubernetes-cronjob-configuration]]"
 ---
 # Kubernetes CronJob Configuration
 

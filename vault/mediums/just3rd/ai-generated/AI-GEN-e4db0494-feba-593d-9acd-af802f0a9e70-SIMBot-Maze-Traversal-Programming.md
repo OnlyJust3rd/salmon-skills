@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/simbot-maze-traversal-programming|SIMBot Maze Traversal Programming]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/simbot-maze-traversal-programming|simbot-maze-traversal-programming]]"
 ---
 # SIMBot Maze Traversal Programming
 

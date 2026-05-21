@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/pseudocode-structure-comprehension|Pseudocode structure comprehension]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/pseudocode-structure-comprehension|pseudocode-structure-comprehension]]"
 ---
 # Understanding Pseudocode Structure
 

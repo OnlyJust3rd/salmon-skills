@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-identification|Cryptographic Hash Function Identification]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-identification|cryptographic-hash-function-identification]]"
 ---
 # Cryptographic Hash Function Identification
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-area-formulation|Polar curve area formulation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-area-formulation|polar-curve-area-formulation]]"
 ---
 # Formulating Integrals for Polar Area
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Data Transfer Mechanisms (I/O)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Input Output Interfacing"
-parent-competency: "L2- Explain I/O Interaction"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L1-explain-i-o-interaction|L1-explain-i-o-interaction]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Data Transfer Mechanisms (I/O)
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/input-output-inter
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L2-explain-i-o-interaction|L2- Explain I/O Interaction]]
+- [[skills/hardware-embedded/electronics-embedded/input-output-interfacing/competencies/L1-explain-i-o-interaction|L2- Explain I/O Interaction]]
 
 ## Description
 

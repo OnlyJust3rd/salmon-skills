@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "System Structure Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Object-Oriented Design"
-parent-competency: "L3- Apply OO Design Principles"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/object-oriented-design/object-oriented-design|object-oriented-design]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L2-apply-oo-design-principles|L2-apply-oo-design-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # System Structure Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/object-oriented-design/o
 
 Parent competency:
 
-- [[skills/programming/software-engineering/object-oriented-design/competencies/L3-apply-oo-design-principles|L3- Apply OO Design Principles]]
+- [[skills/programming/software-engineering/object-oriented-design/competencies/L2-apply-oo-design-principles|L3- Apply OO Design Principles]]
 
 ## Description
 

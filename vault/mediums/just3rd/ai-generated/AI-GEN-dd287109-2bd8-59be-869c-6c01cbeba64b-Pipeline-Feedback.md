@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/continuous-integration/microskills/pipeline-feedback|Pipeline Feedback]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-integration/microskills/pipeline-feedback|pipeline-feedback]]"
 ---
 # Pipeline Feedback: Knowing if Your Code Works, Fast!
 

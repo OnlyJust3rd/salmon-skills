@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/fibonacci-dp-java-implementation|Fibonacci DP Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/fibonacci-dp-java-implementation|fibonacci-dp-java-implementation]]"
 ---
 # Fibonacci DP Java Implementation
 

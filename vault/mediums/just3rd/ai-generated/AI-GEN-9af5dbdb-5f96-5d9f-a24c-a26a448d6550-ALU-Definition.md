@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/alu-definition|ALU Definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/alu-definition|alu-definition]]"
 ---
 # Understanding the ALU: The Calculator of the Processor
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-vulnerabilities|Digital Ciphering Vulnerabilities]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-vulnerabilities|digital-ciphering-vulnerabilities]]"
 ---
 # Evaluating Digital Ciphering Vulnerabilities
 

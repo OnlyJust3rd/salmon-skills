@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/mean-value-theorem-applicability-conditions|Mean Value Theorem applicability conditions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/mean-value-theorem-applicability-conditions|mean-value-theorem-applicability-conditions]]"
 ---
 # Mean Value Theorem Applicability Conditions
 

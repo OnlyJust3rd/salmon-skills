@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Model Dependency"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "dbt"
-parent-competency: "L2- Explain Analytics Engineering and SQL Transformation Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/dbt/dbt|dbt]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/dbt/competencies/L1-explain-analytics-engineering-and-sql-transformation-concepts|L1-explain-analytics-engineering-and-sql-transformation-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Model Dependency
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/dbt/dbt|dbt]]
 
 Parent competency:
 
-- [[skills/data/data-platforms/dbt/competencies/L2-explain-analytics-engineering-and-sql-transformation-concepts|L2- Explain Analytics Engineering and SQL Transformation Concepts]]
+- [[skills/data/data-platforms/dbt/competencies/L1-explain-analytics-engineering-and-sql-transformation-concepts|L2- Explain Analytics Engineering and SQL Transformation Concepts]]
 
 ## Description
 

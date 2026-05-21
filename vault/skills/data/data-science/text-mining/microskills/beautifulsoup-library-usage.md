@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "BeautifulSoup Library Usage"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Mining"
-parent-competency: "L3- Apply BeautifulSoup for Parsing"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-mining/text-mining|text-mining]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-mining/competencies/L2-apply-beautifulsoup-for-parsing|L2-apply-beautifulsoup-for-parsing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # BeautifulSoup Library Usage
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-mining/text-mining|Text Mining]]
 
 Parent competency:
 
-- [[skills/data/data-science/text-mining/competencies/L3-apply-beautifulsoup-for-parsing|L3- Apply BeautifulSoup for Parsing]]
+- [[skills/data/data-science/text-mining/competencies/L2-apply-beautifulsoup-for-parsing|L3- Apply BeautifulSoup for Parsing]]
 
 ## Description
 

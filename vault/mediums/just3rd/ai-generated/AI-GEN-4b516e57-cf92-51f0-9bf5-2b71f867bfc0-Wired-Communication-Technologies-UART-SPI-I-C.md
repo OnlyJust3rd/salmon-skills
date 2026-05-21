@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/iot-communication-and-networking/microskills/wired-communication-technologies-uart-spi-i2c|Wired Communication Technologies (UART, SPI, I²C)]]"
+  - "[[skills/systems/networking/iot-communication-and-networking/microskills/wired-communication-technologies-uart-spi-i2c|wired-communication-technologies-uart-spi-i2c]]"
 ---
 # Analyzing Wired Communication Technologies for IoT: UART, SPI, and I²C
 

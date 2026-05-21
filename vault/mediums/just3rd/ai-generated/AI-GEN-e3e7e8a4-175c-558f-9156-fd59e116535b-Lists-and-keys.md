@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/react/microskills/lists-and-keys|Lists and keys]]"
+  - "[[skills/web-and-design/frontend-ux/react/microskills/lists-and-keys|lists-and-keys]]"
 ---
 # Lists and Keys in React: Understanding Dynamic Collections
 

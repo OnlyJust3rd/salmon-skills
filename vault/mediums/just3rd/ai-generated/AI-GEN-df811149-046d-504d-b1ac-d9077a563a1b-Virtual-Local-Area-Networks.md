@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/virtual-local-area-networks|Virtual Local Area Networks]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/virtual-local-area-networks|virtual-local-area-networks]]"
 ---
 # Understanding Virtual Local Area Networks (VLANs)
 

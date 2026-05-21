@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/web-application-concept/microskills/http-round-trips|HTTP round trips]]"
+  - "[[skills/web-and-design/frontend-ux/web-application-concept/microskills/http-round-trips|http-round-trips]]"
 ---
 # Understanding HTTP Round Trips
 

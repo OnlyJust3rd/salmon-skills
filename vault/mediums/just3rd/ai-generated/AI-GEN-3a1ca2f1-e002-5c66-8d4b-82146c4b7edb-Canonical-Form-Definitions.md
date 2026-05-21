@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/canonical-form-definitions|Canonical Form Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/canonical-form-definitions|canonical-form-definitions]]"
 ---
 # Understanding Canonical Forms in Logic Design
 

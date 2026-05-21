@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/data-quality-and-noise-significance|Data Quality and Noise Significance]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/data-quality-and-noise-significance|data-quality-and-noise-significance]]"
 ---
 # Understanding Data Quality and Noise Significance in Text
 

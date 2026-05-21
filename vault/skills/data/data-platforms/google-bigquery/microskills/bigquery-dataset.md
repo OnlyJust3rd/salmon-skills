@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "BigQuery Dataset"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Google BigQuery"
-parent-competency: "L2- Explain BigQuery Warehouse and Query Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/google-bigquery/google-bigquery|google-bigquery]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/google-bigquery/competencies/L1-explain-bigquery-warehouse-and-query-concepts|L1-explain-bigquery-warehouse-and-query-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # BigQuery Dataset
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/google-bigquery/google-bigquery|Googl
 
 Parent competency:
 
-- [[skills/data/data-platforms/google-bigquery/competencies/L2-explain-bigquery-warehouse-and-query-concepts|L2- Explain BigQuery Warehouse and Query Concepts]]
+- [[skills/data/data-platforms/google-bigquery/competencies/L1-explain-bigquery-warehouse-and-query-concepts|L2- Explain BigQuery Warehouse and Query Concepts]]
 
 ## Description
 

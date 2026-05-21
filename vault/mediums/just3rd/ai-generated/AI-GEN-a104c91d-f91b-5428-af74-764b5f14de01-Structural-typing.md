@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/typescript/microskills/structural-typing|Structural typing]]"
+  - "[[skills/programming/programming-languages/typescript/microskills/structural-typing|structural-typing]]"
 ---
 # Understanding Structural Typing in TypeScript
 

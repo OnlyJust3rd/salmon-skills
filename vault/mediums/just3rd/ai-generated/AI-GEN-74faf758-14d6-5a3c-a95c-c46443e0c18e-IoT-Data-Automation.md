@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-data-automation|IoT Data Automation]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-data-automation|iot-data-automation]]"
 ---
 # Automating IoT Data at the Edge with Low-Code
 

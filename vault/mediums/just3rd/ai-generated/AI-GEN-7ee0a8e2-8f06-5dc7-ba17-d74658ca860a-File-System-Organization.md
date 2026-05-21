@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-system-organization|File System Organization]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-system-organization|file-system-organization]]"
 ---
 # File System Organization: How Data Finds Its Place
 

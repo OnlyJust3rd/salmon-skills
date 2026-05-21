@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/subjective-watermarking-metrics|Subjective Watermarking Metrics]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/subjective-watermarking-metrics|subjective-watermarking-metrics]]"
 ---
 # Subjective Watermarking Metrics
 

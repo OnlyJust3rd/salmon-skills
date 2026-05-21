@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Suggested Test Case"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-parent-macro: "AI Code Review"
-parent-competency: "L3- Apply AI-Assisted Code Review and Test Suggestions"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/ai-code-review|ai-code-review]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/competencies/L2-apply-ai-assisted-code-review-and-test-suggestions|L2-apply-ai-assisted-code-review-and-test-suggestions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Suggested Test Case
@@ -15,7 +17,7 @@ Parent macro: [[ai-code-review|AI Code Review]]
 
 Parent competency:
 
-- [[L3-apply-ai-assisted-code-review-and-test-suggestions|L3- Apply AI-Assisted Code Review and Test Suggestions]]
+- [[skills/ai-assistant-tools/coding-assistants/ai-code-review/competencies/L2-apply-ai-assisted-code-review-and-test-suggestions|L3- Apply AI-Assisted Code Review and Test Suggestions]]
 
 ## Description
 

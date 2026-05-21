@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/ansible|Ansible]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/ansible|ansible]]"
 ---
 # Ansible: A Key Player in Infrastructure as Code
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/converter-key-parameters|Converter Key Parameters]]"
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/converter-key-parameters|converter-key-parameters]]"
 ---
 # Understanding Converter Key Parameters
 

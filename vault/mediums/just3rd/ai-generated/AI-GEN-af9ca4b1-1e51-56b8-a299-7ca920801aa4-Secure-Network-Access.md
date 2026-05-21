@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/secure-network-access|Secure Network Access]]"
+  - "[[skills/systems/networking/network-layer/microskills/secure-network-access|secure-network-access]]"
 ---
 # Secure Network Access with VPNs
 

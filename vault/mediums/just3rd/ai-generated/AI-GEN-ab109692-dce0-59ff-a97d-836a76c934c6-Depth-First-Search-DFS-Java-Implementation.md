@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/depth-first-search-dfs-java-implementation|Depth-First Search (DFS) Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/depth-first-search-dfs-java-implementation|depth-first-search-dfs-java-implementation]]"
 ---
 # Depth-First Search (DFS) Java Implementation
 

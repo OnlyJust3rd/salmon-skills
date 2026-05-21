@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/uv-mapping|UV Mapping]]"
+  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/uv-mapping|uv-mapping]]"
 ---
 # UV Mapping: Bringing Textures to Life
 

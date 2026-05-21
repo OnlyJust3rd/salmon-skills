@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Design Approach Comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Object-Oriented Design"
-parent-competency: "L4- Analyze OO Design Approaches"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/object-oriented-design/object-oriented-design|object-oriented-design]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/object-oriented-design/competencies/L3-analyze-oo-design-approaches|L3-analyze-oo-design-approaches]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Design Approach Comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/object-oriented-design/o
 
 Parent competency:
 
-- [[skills/programming/software-engineering/object-oriented-design/competencies/L4-analyze-oo-design-approaches|L4- Analyze OO Design Approaches]]
+- [[skills/programming/software-engineering/object-oriented-design/competencies/L3-analyze-oo-design-approaches|L4- Analyze OO Design Approaches]]
 
 ## Description
 

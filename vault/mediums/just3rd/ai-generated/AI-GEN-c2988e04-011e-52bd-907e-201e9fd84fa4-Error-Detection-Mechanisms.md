@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/error-detection-mechanisms|Error Detection Mechanisms]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/error-detection-mechanisms|error-detection-mechanisms]]"
 ---
 # Understanding Error Detection Mechanisms
 

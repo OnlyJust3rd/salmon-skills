@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Error Correction Mechanisms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Data Link Layer"
-parent-competency: "L2- Error Detection/Correction Principles"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-link-layer/data-link-layer|data-link-layer]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-link-layer/competencies/L1-error-detection-correction-principles|L1-error-detection-correction-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Error Correction Mechanisms
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-link-layer/data-link-layer|Data 
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-link-layer/competencies/L2-error-detection-correction-principles|L2- Error Detection/Correction Principles]]
+- [[skills/data/data-platforms/data-link-layer/competencies/L1-error-detection-correction-principles|L2- Error Detection/Correction Principles]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/component-tolerance-analysis|Component Tolerance Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/component-tolerance-analysis|component-tolerance-analysis]]"
 ---
 # Understanding Component Tolerance in Circuit Prototyping
 

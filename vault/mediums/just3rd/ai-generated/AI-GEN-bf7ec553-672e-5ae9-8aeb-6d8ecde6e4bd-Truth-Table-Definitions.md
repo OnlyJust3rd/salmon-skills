@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/truth-table-definitions|Truth Table Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/truth-table-definitions|truth-table-definitions]]"
 ---
 # Understanding Truth Tables in Combinational Logic
 

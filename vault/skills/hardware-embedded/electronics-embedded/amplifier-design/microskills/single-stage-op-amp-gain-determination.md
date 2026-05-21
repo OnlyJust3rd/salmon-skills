@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Single-Stage Op-Amp Gain Determination"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Amplifier Design"
-parent-competency: "L3- Basic Op-Amp Calculations"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/amplifier-design/amplifier-design|amplifier-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L2-basic-op-amp-calculations|L2-basic-op-amp-calculations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Single-Stage Op-Amp Gain Determination
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/amplifier-design/a
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L3-basic-op-amp-calculations|L3- Basic Op-Amp Calculations]]
+- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L2-basic-op-amp-calculations|L3- Basic Op-Amp Calculations]]
 
 ## Description
 

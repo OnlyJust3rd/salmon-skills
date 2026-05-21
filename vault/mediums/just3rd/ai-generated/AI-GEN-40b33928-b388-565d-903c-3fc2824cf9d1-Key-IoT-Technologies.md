@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/key-iot-technologies|Key IoT Technologies]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/key-iot-technologies|key-iot-technologies]]"
 ---
 # Key IoT Technologies
 

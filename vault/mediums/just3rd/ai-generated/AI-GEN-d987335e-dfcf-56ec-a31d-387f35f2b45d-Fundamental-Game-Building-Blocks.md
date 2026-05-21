@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/fundamental-game-building-blocks|Fundamental Game Building Blocks]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/fundamental-game-building-blocks|fundamental-game-building-blocks]]"
 ---
 # Fundamental Game Building Blocks
 

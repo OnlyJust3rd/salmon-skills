@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/team-performance-improvement|Team Performance Improvement]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/team-performance-improvement|team-performance-improvement]]"
 ---
 # Enhancing Team Performance Through Collaboration
 

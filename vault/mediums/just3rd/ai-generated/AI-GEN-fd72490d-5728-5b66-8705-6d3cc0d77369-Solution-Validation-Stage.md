@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/solution-validation-stage|Solution Validation Stage]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/solution-validation-stage|solution-validation-stage]]"
 ---
 # Solution Validation Stage in the Build-Measure-Learn Cycle
 

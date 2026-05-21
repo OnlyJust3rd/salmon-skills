@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/higher-order-derivative-computations|Higher-order derivative computations]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/higher-order-derivative-computations|higher-order-derivative-computations]]"
 ---
 # Computing Higher-Order Derivatives
 

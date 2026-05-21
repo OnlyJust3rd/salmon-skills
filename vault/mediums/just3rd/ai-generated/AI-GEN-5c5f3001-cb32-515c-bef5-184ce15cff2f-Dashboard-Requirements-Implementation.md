@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/dashboard-requirements-implementation|Dashboard Requirements Implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/dashboard-requirements-implementation|dashboard-requirements-implementation]]"
 ---
 # Implementing Dashboard Requirements: Translating Needs into Visualizations
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/state-management-techniques|State Management Techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/state-management-techniques|state-management-techniques]]"
 ---
 # Terraform State Management: Remote Backends and Locking
 

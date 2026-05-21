@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/level-design/microskills/navigation-and-pacing-influence|Navigation and Pacing Influence]]"
+  - "[[skills/creative-media/game-development/level-design/microskills/navigation-and-pacing-influence|navigation-and-pacing-influence]]"
 ---
 # Level Layout: Guiding Player Movement and Pace
 

@@ -1,18 +1,28 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Bare-metal C Programming"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 324 - Embedded Systems"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 3
-microskill-count: 10
-related-jobs:
-  - "Embedded Systems Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-324-embedded-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/competencies/L1-identify-bare-metal-c-constructs|L1-identify-bare-metal-c-constructs]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/competencies/L1-explain-bare-metal-c-techniques|L1-explain-bare-metal-c-techniques]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/competencies/L2-apply-bare-metal-c-techniques|L2-apply-bare-metal-c-techniques]]"
+standard-competency:
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/competencies/L2-apply-bare-metal-c-techniques|L2-apply-bare-metal-c-techniques]]"
+microskills:
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-masking-explanation|bit-masking-explanation]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-set-and-clear-operations|bit-set-and-clear-operations]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-toggle-operations|bit-toggle-operations]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bitwise-operator-identification|bitwise-operator-identification]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/macro-definitions-for-register-access|macro-definitions-for-register-access]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/memory-mapped-i-o-concept|memory-mapped-i-o-concept]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/read-modify-write-pattern|read-modify-write-pattern]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-qualifier-purpose|volatile-qualifier-purpose]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-semantics|volatile-semantics]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-variable-declaration|volatile-variable-declaration]]"
 ---
 
 # Bare-metal C Programming
@@ -22,8 +32,8 @@ Core C programming techniques essential for bare-metal embedded development, inc
 ## Competencies
 
 - [[skills/programming/programming-languages/bare-metal-c-programming/competencies/L1-identify-bare-metal-c-constructs|L1- Identify Bare-metal C Constructs]]
-- [[skills/programming/programming-languages/bare-metal-c-programming/competencies/L2-explain-bare-metal-c-techniques|L2- Explain Bare-metal C Techniques]]
-- [[skills/programming/programming-languages/bare-metal-c-programming/competencies/L3-apply-bare-metal-c-techniques|L3- Apply Bare-metal C Techniques]]
+- [[skills/programming/programming-languages/bare-metal-c-programming/competencies/L1-explain-bare-metal-c-techniques|L2- Explain Bare-metal C Techniques]]
+- [[skills/programming/programming-languages/bare-metal-c-programming/competencies/L2-apply-bare-metal-c-techniques|L3- Apply Bare-metal C Techniques]]
 
 ## Microskills
 

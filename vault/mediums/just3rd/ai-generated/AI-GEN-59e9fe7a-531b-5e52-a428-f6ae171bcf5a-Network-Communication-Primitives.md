@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/network-communication-primitives|Network Communication Primitives]]"
+  - "[[skills/systems/networking/socket-programming/microskills/network-communication-primitives|network-communication-primitives]]"
 ---
 # Network Communication Primitives: The Building Blocks of Sockets
 

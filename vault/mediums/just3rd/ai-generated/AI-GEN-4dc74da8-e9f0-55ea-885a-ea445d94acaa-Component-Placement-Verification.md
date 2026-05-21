@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/component-placement-verification|Component Placement Verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/component-placement-verification|component-placement-verification]]"
 ---
 # Component Placement Verification: The Foundation of Reliable Hardware
 

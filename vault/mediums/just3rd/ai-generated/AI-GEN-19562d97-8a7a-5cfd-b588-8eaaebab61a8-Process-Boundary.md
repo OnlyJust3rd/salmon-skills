@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/business-process-modeling/microskills/process-boundary|Process Boundary]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/process-boundary|process-boundary]]"
 ---
 # Understanding Process Boundaries
 

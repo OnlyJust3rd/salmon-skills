@@ -1,17 +1,43 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Geometric Formulation"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 102 - Mathematics II"
-coverage:
-  - "Representation"
-  - "Analysis"
-competency-count: 5
-microskill-count: 21
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-102-mathematics-ii"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/geometric-formulation/competencies/L1-3d-geometric-equation-definitions|L1-3d-geometric-equation-definitions]]"
+  - "[[skills/mathematics/geometric-formulation/competencies/L1-geometric-interpretation-of-line-and-plane-parameters|L1-geometric-interpretation-of-line-and-plane-parameters]]"
+  - "[[skills/mathematics/geometric-formulation/competencies/L2-apply-dot-product-for-orthogonality-and-distance|L2-apply-dot-product-for-orthogonality-and-distance]]"
+  - "[[skills/mathematics/geometric-formulation/competencies/L2-line-and-plane-equation-formulation|L2-line-and-plane-equation-formulation]]"
+  - "[[skills/mathematics/geometric-formulation/competencies/L3-analyze-relative-positions-of-lines-and-planes|L3-analyze-relative-positions-of-lines-and-planes]]"
+standard-competency:
+  - "[[skills/mathematics/geometric-formulation/competencies/L2-apply-dot-product-for-orthogonality-and-distance|L2-apply-dot-product-for-orthogonality-and-distance]]"
+  - "[[skills/mathematics/geometric-formulation/competencies/L2-line-and-plane-equation-formulation|L2-line-and-plane-equation-formulation]]"
+  - "[[skills/mathematics/geometric-formulation/competencies/L3-analyze-relative-positions-of-lines-and-planes|L3-analyze-relative-positions-of-lines-and-planes]]"
+microskills:
+  - "[[skills/mathematics/geometric-formulation/microskills/direction-vector-identification|direction-vector-identification]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/direction-vector-interpretation-for-lines|direction-vector-interpretation-for-lines]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/direction-vectors-for-line-line-relationships|direction-vectors-for-line-line-relationships]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/dot-product-for-vector-orthogonality|dot-product-for-vector-orthogonality]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/line-plane-intersection-analysis|line-plane-intersection-analysis]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/line-plane-orthogonality-analysis|line-plane-orthogonality-analysis]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/line-plane-parallelism-analysis|line-plane-parallelism-analysis]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-identification|normal-vector-identification]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-interpretation-for-planes|normal-vector-interpretation-for-planes]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-plane-equations-in-3d|normal-vector-plane-equations-in-3d]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vectors-for-plane-plane-relationships|normal-vectors-for-plane-plane-relationships]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parameter-interpretation-in-parametric-line-equations|parameter-interpretation-in-parametric-line-equations]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parameter-interpretation-in-plane-equations|parameter-interpretation-in-plane-equations]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-line-equation-definition|parametric-line-equation-definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-line-equations-in-3d|parametric-line-equations-in-3d]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-plane-equation-definition|parametric-plane-equation-definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-plane-equations-in-3d|parametric-plane-equations-in-3d]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/standard-line-equation-definition|standard-line-equation-definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/standard-plane-equation-definition|standard-plane-equation-definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/vector-projections-for-point-line-distance|vector-projections-for-point-line-distance]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/vector-projections-for-point-plane-distance|vector-projections-for-point-plane-distance]]"
 ---
 
 # Geometric Formulation
@@ -20,11 +46,11 @@ Ability to formulate the equations of lines and planes in 3-dimensional space us
 
 ## Competencies
 
-- [[L3-line-and-plane-equation-formulation|L3- Line and plane equation formulation]]
-- [[L3-apply-dot-product-for-orthogonality-and-distance|L3- Apply Dot Product for Orthogonality and Distance]]
-- [[L4-analyze-relative-positions-of-lines-and-planes|L4- Analyze Relative Positions of Lines and Planes]]
-- [[L1-3d-geometric-equation-definitions|L1- 3D Geometric Equation Definitions]]
-- [[L2-geometric-interpretation-of-line-and-plane-parameters|L2- Geometric Interpretation of Line and Plane Parameters]]
+- [[skills/mathematics/geometric-formulation/competencies/L2-line-and-plane-equation-formulation|L3- Line and plane equation formulation]]
+- [[skills/mathematics/geometric-formulation/competencies/L2-apply-dot-product-for-orthogonality-and-distance|L3- Apply Dot Product for Orthogonality and Distance]]
+- [[skills/mathematics/geometric-formulation/competencies/L3-analyze-relative-positions-of-lines-and-planes|L4- Analyze Relative Positions of Lines and Planes]]
+- [[skills/mathematics/geometric-formulation/competencies/L1-3d-geometric-equation-definitions|L1- 3D Geometric Equation Definitions]]
+- [[skills/mathematics/geometric-formulation/competencies/L1-geometric-interpretation-of-line-and-plane-parameters|L2- Geometric Interpretation of Line and Plane Parameters]]
 
 ## Microskills
 

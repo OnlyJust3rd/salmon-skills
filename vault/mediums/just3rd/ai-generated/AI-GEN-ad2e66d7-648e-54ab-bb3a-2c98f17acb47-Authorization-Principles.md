@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/authorization-principles|Authorization Principles]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/authorization-principles|authorization-principles]]"
 ---
 # Authorization Principles: Who Gets to Do What?
 

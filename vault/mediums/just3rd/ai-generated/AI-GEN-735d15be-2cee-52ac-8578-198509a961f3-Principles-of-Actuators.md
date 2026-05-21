@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/principles-of-actuators|Principles of Actuators]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/principles-of-actuators|principles-of-actuators]]"
 ---
 # Principles of Actuators
 

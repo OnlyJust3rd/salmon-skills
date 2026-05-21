@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/common-image-file-formats|Common Image File Formats]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/common-image-file-formats|common-image-file-formats]]"
 ---
 # Common Image File Formats in Digital Image Processing
 

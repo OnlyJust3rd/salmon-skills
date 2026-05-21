@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-management/microskills/network-monitoring-principles|Network Monitoring Principles]]"
+  - "[[skills/systems/networking/network-management/microskills/network-monitoring-principles|network-monitoring-principles]]"
 ---
 # Network Monitoring Principles
 

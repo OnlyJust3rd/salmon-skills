@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/effectiveness-evaluation|Effectiveness Evaluation]]"
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/effectiveness-evaluation|Effectiveness Evaluation]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/effectiveness-evaluation|effectiveness-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/effectiveness-evaluation|effectiveness-evaluation]]"
 ---
 # Evaluating the Effectiveness of Data Modeling Techniques
 

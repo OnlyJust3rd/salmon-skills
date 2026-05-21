@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/artifact-management/microskills/version-tags|Version Tags]]"
+  - "[[skills/cloud-devops/platform-engineering/artifact-management/microskills/version-tags|version-tags]]"
 ---
 # Version Tags in Artifact Management
 

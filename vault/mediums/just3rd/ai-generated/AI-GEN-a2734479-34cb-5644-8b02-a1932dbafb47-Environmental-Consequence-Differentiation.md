@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/environmental-consequence-differentiation|Environmental Consequence Differentiation]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/environmental-consequence-differentiation|environmental-consequence-differentiation]]"
 ---
 # Analyzing the Environmental Consequences of Electric Vehicles
 

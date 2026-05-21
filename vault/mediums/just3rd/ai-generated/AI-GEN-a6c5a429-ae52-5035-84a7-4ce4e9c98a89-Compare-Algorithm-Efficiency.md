@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/compare-algorithm-efficiency|Compare Algorithm Efficiency]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/compare-algorithm-efficiency|compare-algorithm-efficiency]]"
 ---
 # Comparing Algorithm Efficiency
 

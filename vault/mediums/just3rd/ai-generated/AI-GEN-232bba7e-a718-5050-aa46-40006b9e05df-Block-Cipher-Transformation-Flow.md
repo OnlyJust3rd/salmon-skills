@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-transformation-flow|Block Cipher Transformation Flow]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-transformation-flow|block-cipher-transformation-flow]]"
 ---
 # Block Cipher Transformation Flow: Tracing the Data's Journey
 

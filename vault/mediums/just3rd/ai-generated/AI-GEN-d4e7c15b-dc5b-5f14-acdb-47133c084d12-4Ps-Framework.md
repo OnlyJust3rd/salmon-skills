@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/4ps-framework|4Ps Framework]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/4ps-framework|4ps-framework]]"
 ---
 # Understanding the 4Ps Framework: The Traditional Marketing Mix
 

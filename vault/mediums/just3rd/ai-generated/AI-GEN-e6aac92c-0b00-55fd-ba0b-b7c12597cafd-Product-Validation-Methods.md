@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/product-validation-methods|Product Validation Methods]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/product-validation-methods|product-validation-methods]]"
 ---
 # Product Validation Methods: Solution Interviews & Usability Testing
 

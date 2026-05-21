@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/kernel-definition|Kernel definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/kernel-definition|kernel-definition]]"
 ---
 # Understanding the Kernel of a Linear Transformation
 

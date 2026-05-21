@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Divergence identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Sequence and Series Convergence"
-parent-competency: "L4- Differentiate convergence types"
+  - "microskill"
+parent-skill: "[[skills/mathematics/sequence-and-series-convergence/sequence-and-series-convergence|sequence-and-series-convergence]]"
+requires-in-competencies:
+  - "[[skills/mathematics/sequence-and-series-convergence/competencies/L3-differentiate-convergence-types|L3-differentiate-convergence-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Divergence identification
@@ -15,7 +17,7 @@ Parent macro: [[sequence-and-series-convergence|Sequence and Series Convergence]
 
 Parent competency:
 
-- [[L4-differentiate-convergence-types|L4- Differentiate convergence types]]
+- [[skills/mathematics/sequence-and-series-convergence/competencies/L3-differentiate-convergence-types|L4- Differentiate convergence types]]
 
 ## Description
 

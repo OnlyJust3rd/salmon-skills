@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/iterative-improvement-implementation|Iterative Improvement Implementation]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/iterative-improvement-implementation|iterative-improvement-implementation]]"
 ---
 # Iterative Improvement Implementation
 

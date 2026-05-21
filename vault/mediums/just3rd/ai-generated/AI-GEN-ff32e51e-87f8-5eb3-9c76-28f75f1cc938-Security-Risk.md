@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-coding-tool-evaluation/microskills/security-risk|Security Risk]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-coding-tool-evaluation/microskills/security-risk|security-risk]]"
 ---
 # Analyzing Security Risks in AI-Generated Code
 

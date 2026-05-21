@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Level Design Elements"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Level Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/game-development/level-design/level-design|level-design]]"
+requires-microskills:
+  - "[[skills/creative-media/game-development/level-design/microskills/choke-points-cover-points-pathways|choke-points-cover-points-pathways]]"
+  - "[[skills/creative-media/game-development/level-design/microskills/fundamental-level-components|fundamental-level-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Level Design Elements

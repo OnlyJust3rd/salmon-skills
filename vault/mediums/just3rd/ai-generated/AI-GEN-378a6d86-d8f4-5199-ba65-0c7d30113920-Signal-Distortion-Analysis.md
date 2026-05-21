@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/signal-distortion-analysis|Signal Distortion Analysis]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/signal-distortion-analysis|signal-distortion-analysis]]"
 ---
 # Signal Distortion Analysis: Unpacking the Causes of Signal Imperfections
 

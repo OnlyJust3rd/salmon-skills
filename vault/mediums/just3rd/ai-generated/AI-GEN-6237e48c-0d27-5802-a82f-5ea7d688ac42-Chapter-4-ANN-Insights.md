@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/chapter-4-ann-insights|Chapter 4 ANN Insights]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/chapter-4-ann-insights|chapter-4-ann-insights]]"
 ---
 # Chapter 4: Unpacking ANN Advancements
 

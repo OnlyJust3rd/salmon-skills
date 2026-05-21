@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/role-of-embedded-systems-in-iot|Role of Embedded Systems in IoT]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/role-of-embedded-systems-in-iot|role-of-embedded-systems-in-iot]]"
 ---
 # Understanding Embedded Systems as IoT Nodes
 

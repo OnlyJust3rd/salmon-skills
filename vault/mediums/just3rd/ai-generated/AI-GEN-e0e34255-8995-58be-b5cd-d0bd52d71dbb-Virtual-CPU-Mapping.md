@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-cpu-mapping|Virtual CPU Mapping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-cpu-mapping|virtual-cpu-mapping]]"
 ---
 # Virtual CPU Mapping: Understanding the Core of Virtual Processing
 

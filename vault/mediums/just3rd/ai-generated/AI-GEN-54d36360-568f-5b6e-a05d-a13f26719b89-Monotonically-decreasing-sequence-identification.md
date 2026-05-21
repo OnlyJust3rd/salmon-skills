@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/monotonically-decreasing-sequence-identification|Monotonically decreasing sequence identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/monotonically-decreasing-sequence-identification|monotonically-decreasing-sequence-identification]]"
 ---
 # Identifying Monotonically Decreasing Sequences
 

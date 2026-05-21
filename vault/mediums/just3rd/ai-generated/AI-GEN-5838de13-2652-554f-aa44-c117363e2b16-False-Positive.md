@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/false-positive|False Positive]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/false-positive|false-positive]]"
 ---
 # False Positives in AI-Assisted Code Review
 

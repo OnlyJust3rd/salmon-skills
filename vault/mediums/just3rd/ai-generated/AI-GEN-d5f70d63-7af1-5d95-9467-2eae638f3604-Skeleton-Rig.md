@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-animation/microskills/skeleton-rig|Skeleton Rig]]"
+  - "[[skills/creative-media/game-development/game-animation/microskills/skeleton-rig|skeleton-rig]]"
 ---
 # Understanding the Skeleton Rig in Game Animation
 

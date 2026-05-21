@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Chain rule application (multivariable)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Derivative Computation and Analysis"
-parent-competency: "L2- Explain differentiation techniques"
+  - "microskill"
+parent-skill: "[[skills/mathematics/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L1-explain-differentiation-techniques|L1-explain-differentiation-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Chain rule application (multivariable)
@@ -15,7 +17,7 @@ Parent macro: [[derivative-computation-and-analysis|Derivative Computation and A
 
 Parent competency:
 
-- [[L2-explain-differentiation-techniques|L2- Explain differentiation techniques]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L1-explain-differentiation-techniques|L2- Explain differentiation techniques]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Loop Prevention"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Data Link Layer"
-parent-competency: "L2- STP Explanation"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-link-layer/data-link-layer|data-link-layer]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-link-layer/competencies/L1-stp-explanation|L1-stp-explanation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Loop Prevention
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-link-layer/data-link-layer|Data 
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-link-layer/competencies/L2-stp-explanation|L2- STP Explanation]]
+- [[skills/data/data-platforms/data-link-layer/competencies/L1-stp-explanation|L2- STP Explanation]]
 
 ## Description
 

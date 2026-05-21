@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/interface-design|Interface Design]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/interface-design|interface-design]]"
 ---
 # Crafting Intuitive Interfaces: The Art of Interface Design
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Eigenvalue computation for definiteness"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Quadratic Forms and Definiteness"
-parent-competency: "L3- Apply eigenvalue test"
+  - "microskill"
+parent-skill: "[[skills/mathematics/quadratic-forms-and-definiteness/quadratic-forms-and-definiteness|quadratic-forms-and-definiteness]]"
+requires-in-competencies:
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/competencies/L2-apply-eigenvalue-test|L2-apply-eigenvalue-test]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Eigenvalue computation for definiteness
@@ -15,7 +17,7 @@ Parent macro: [[quadratic-forms-and-definiteness|Quadratic Forms and Definitenes
 
 Parent competency:
 
-- [[L3-apply-eigenvalue-test|L3- Apply eigenvalue test]]
+- [[skills/mathematics/quadratic-forms-and-definiteness/competencies/L2-apply-eigenvalue-test|L3- Apply eigenvalue test]]
 
 ## Description
 

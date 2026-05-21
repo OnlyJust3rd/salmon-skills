@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/similarity-based-text-grouping|Similarity-Based Text Grouping]]"
+  - "[[skills/data/data-science/text-clustering/microskills/similarity-based-text-grouping|similarity-based-text-grouping]]"
 ---
 # Similarity-Based Text Grouping
 

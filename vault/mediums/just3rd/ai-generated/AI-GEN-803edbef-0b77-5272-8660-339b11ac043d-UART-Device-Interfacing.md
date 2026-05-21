@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/uart-device-interfacing|UART Device Interfacing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/uart-device-interfacing|uart-device-interfacing]]"
 ---
 # UART Device Interfacing: Sending and Receiving Data
 

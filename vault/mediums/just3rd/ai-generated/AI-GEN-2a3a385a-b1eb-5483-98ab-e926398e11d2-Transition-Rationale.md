@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/transition-rationale|Transition Rationale]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/transition-rationale|transition-rationale]]"
 ---
 # Why Move from Monoliths to Microservices? Understanding the Rationale
 

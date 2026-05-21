@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/fundamental-design-principles|Fundamental Design Principles]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/fundamental-design-principles|fundamental-design-principles]]"
 ---
 # Fundamental Design Principles
 

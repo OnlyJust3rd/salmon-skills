@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/intellectual-property-importance|Intellectual Property Importance]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/intellectual-property-importance|intellectual-property-importance]]"
 ---
 # Understanding Intellectual Property (IP) for Your Business
 

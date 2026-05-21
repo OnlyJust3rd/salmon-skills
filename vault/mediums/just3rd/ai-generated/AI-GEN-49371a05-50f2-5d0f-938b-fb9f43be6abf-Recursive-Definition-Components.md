@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/recursive-definition-components|Recursive Definition Components]]"
+  - "[[skills/mathematics/proof-techniques/microskills/recursive-definition-components|recursive-definition-components]]"
 ---
 # Understanding Recursive Definition Components
 

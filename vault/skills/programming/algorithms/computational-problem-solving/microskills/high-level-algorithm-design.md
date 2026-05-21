@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "High-Level Algorithm Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers, CPE 231 - Algorithms"
-parent-macro: "Computational Problem Solving"
-parent-competency: "L3- Algorithmic Design"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/computational-problem-solving/computational-problem-solving|computational-problem-solving]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L2-algorithmic-design|L2-algorithmic-design]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # High-Level Algorithm Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/computational-problem-solving/comp
 
 Parent competency:
 
-- [[skills/programming/algorithms/computational-problem-solving/competencies/L3-algorithmic-design|L3- Algorithmic Design]]
+- [[skills/programming/algorithms/computational-problem-solving/competencies/L2-algorithmic-design|L3- Algorithmic Design]]
 
 ## Description
 

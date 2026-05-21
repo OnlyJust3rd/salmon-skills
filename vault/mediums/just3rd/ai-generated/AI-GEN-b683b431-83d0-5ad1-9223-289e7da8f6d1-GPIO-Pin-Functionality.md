@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/gpio-pin-functionality|GPIO Pin Functionality]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/gpio-pin-functionality|gpio-pin-functionality]]"
 ---
 # Understanding GPIO Pin Functionality
 

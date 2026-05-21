@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/apiversion-kind-metadata-spec|apiVersion, kind, metadata, spec]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/apiversion-kind-metadata-spec|apiversion-kind-metadata-spec]]"
 ---
 # Understanding Core Kubernetes Pod YAML Fields
 

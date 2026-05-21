@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-filter-application|Image Filter Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-filter-application|image-filter-application]]"
 ---
 # Applying Image Filters for Pixel Modification
 

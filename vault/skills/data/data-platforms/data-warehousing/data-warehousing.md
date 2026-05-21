@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Data Warehousing"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Data Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L1-explain-data-warehouse-modeling-concepts]]"
+  - "[[skills/data/data-platforms/data-warehousing/competencies/L2-apply-dimensional-modeling-concepts|L2-apply-dimensional-modeling-concepts]]"
+standard-competency:
+  - "[[skills/data/data-platforms/data-warehousing/competencies/L2-apply-dimensional-modeling-concepts|L2-apply-dimensional-modeling-concepts]]"
+microskills:
+  - "[[skills/data/data-platforms/data-warehousing/microskills/dimension-attribute|dimension-attribute]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/dimension-table|dimension-table]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/fact-table|fact-table]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/grain|grain]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/measure|measure]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/star-schema|star-schema]]"
 ---
 
 # Data Warehousing
@@ -20,8 +26,8 @@ Modeling analytical data stores using facts, dimensions, grain, and warehouse st
 
 ## Competencies
 
-- [[skills/data/data-platforms/data-warehousing/competencies/L2-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]]
-- [[skills/data/data-platforms/data-warehousing/competencies/L3-apply-dimensional-modeling-concepts|L3- Apply Dimensional Modeling Concepts]]
+- [[skills/data/data-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]]
+- [[skills/data/data-platforms/data-warehousing/competencies/L2-apply-dimensional-modeling-concepts|L3- Apply Dimensional Modeling Concepts]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/non-ideal-diode-characteristics|Non-ideal Diode Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/non-ideal-diode-characteristics|non-ideal-diode-characteristics]]"
 ---
 # Non-Ideal Diode Characteristics
 

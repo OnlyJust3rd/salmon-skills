@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Vector magnitude interpretation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Vector"
-parent-competency: "L2- Interpret Vector Properties and Operations"
+  - "microskill"
+parent-skill: "[[skills/mathematics/vector/vector|vector]]"
+requires-in-competencies:
+  - "[[skills/mathematics/vector/competencies/L1-interpret-vector-properties-and-operations|L1-interpret-vector-properties-and-operations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Vector magnitude interpretation
@@ -15,7 +17,7 @@ Parent macro: [[vector|Vector]]
 
 Parent competency:
 
-- [[L2-interpret-vector-properties-and-operations|L2- Interpret Vector Properties and Operations]]
+- [[skills/mathematics/vector/competencies/L1-interpret-vector-properties-and-operations|L2- Interpret Vector Properties and Operations]]
 
 ## Description
 

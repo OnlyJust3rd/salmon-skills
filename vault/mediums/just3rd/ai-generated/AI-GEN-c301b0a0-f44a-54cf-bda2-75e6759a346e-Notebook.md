@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/databricks/microskills/notebook|Notebook]]"
+  - "[[skills/data/data-platforms/databricks/microskills/notebook|notebook]]"
 ---
 # Understanding Databricks Notebooks
 

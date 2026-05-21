@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/task-scope|Task Scope]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/task-scope|task-scope]]"
 ---
 # Defining Task Scope for Agentic Coding
 

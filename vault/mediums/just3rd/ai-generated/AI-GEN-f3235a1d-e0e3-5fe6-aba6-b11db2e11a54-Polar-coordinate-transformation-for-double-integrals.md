@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/polar-coordinate-transformation-for-double-integrals|Polar coordinate transformation for double integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/polar-coordinate-transformation-for-double-integrals|polar-coordinate-transformation-for-double-integrals]]"
 ---
 # Polar Coordinate Transformation for Double Integrals
 

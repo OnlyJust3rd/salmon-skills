@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/human-readable-algorithm-description|Human-readable algorithm description]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/human-readable-algorithm-description|human-readable-algorithm-description]]"
 ---
 # Human-Readable Algorithm Description with Pseudocode
 

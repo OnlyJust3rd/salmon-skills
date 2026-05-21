@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Induction proofs for inequalities"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Mathematical Induction"
-parent-competency: "L3- Apply Induction to Proofs"
+  - "microskill"
+parent-skill: "[[skills/mathematics/mathematical-induction/mathematical-induction|mathematical-induction]]"
+requires-in-competencies:
+  - "[[skills/mathematics/mathematical-induction/competencies/L2-apply-induction-to-proofs|L2-apply-induction-to-proofs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Induction proofs for inequalities
@@ -15,7 +17,7 @@ Parent macro: [[mathematical-induction|Mathematical Induction]]
 
 Parent competency:
 
-- [[L3-apply-induction-to-proofs|L3- Apply Induction to Proofs]]
+- [[skills/mathematics/mathematical-induction/competencies/L2-apply-induction-to-proofs|L3- Apply Induction to Proofs]]
 
 ## Description
 

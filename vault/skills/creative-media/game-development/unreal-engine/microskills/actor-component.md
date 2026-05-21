@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Actor Component"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Unreal Engine"
-parent-competency: "L3- Apply Unreal Blueprint and Actor Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/unreal-engine/unreal-engine|unreal-engine]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/unreal-engine/competencies/L2-apply-unreal-blueprint-and-actor-concepts|L2-apply-unreal-blueprint-and-actor-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Actor Component
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/unreal-engine/unreal-engi
 
 Parent competency:
 
-- [[skills/creative-media/game-development/unreal-engine/competencies/L3-apply-unreal-blueprint-and-actor-concepts|L3- Apply Unreal Blueprint and Actor Concepts]]
+- [[skills/creative-media/game-development/unreal-engine/competencies/L2-apply-unreal-blueprint-and-actor-concepts|L3- Apply Unreal Blueprint and Actor Concepts]]
 
 ## Description
 

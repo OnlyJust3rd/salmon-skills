@@ -1,17 +1,24 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Bus Drivers, Registers, and Tri-state"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 2
-microskill-count: 7
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-222-digital-electronics-and-logic-design"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L1-identify-registers-drivers-and-tri-state-devices|L1-identify-registers-drivers-and-tri-state-devices]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L1-explain-bus-and-register-operation|L1-explain-bus-and-register-operation]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L1-explain-bus-and-register-operation|L1-explain-bus-and-register-operation]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-contention-prevention|bus-contention-prevention]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-driver-applications|bus-driver-applications]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-driver-ic-identification|bus-driver-ic-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/shift-register-operation|shift-register-operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/shift-register-types|shift-register-types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-identification|tri-state-buffer-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-operation|tri-state-buffer-operation]]"
 ---
 
 # Bus Drivers, Registers, and Tri-state
@@ -21,7 +28,7 @@ Understand and apply driver and register chips and tri-state devices for data tr
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L1-identify-registers-drivers-and-tri-state-devices|L1- Identify Registers, Drivers, and Tri-state Devices]]
-- [[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L2-explain-bus-and-register-operation|L2- Explain Bus and Register Operation]]
+- [[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/competencies/L1-explain-bus-and-register-operation|L2- Explain Bus and Register Operation]]
 
 ## Microskills
 

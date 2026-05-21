@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/openmp/microskills/shared-memory-parallel-model|Shared-Memory Parallel Model]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/shared-memory-parallel-model|shared-memory-parallel-model]]"
 ---
 # Understanding the Shared-Memory Parallel Model in OpenMP
 

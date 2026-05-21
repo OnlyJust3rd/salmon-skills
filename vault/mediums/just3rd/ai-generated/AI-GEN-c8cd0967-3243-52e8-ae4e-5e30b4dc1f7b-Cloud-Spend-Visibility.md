@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cloud-spend-visibility|Cloud Spend Visibility]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cloud-spend-visibility|cloud-spend-visibility]]"
 ---
 # Understanding Cloud Spend Visibility
 

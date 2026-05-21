@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/modular-arithmetic-definition|Modular Arithmetic Definition]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/modular-arithmetic-definition|modular-arithmetic-definition]]"
 ---
 # Modular Arithmetic Definition
 

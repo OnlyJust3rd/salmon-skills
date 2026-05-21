@@ -1,25 +1,29 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Technical Communication"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-coverage:
-  - "Representation"
-competency-count: 3
-microskill-count: 11
-related-jobs:
-  - "System Analyst"
-  - "Business Analyst"
-  - "ERP Consultant"
-  - "SAP Consultant"
-  - "Product Manager"
-  - "Software Solution Architect"
-  - "Technical Consultant"
-  - "Game QA Tester"
-  - "Game Producer"
-source-note: "courses/kmutt/cpe-2021/cpe101-computer-engineering-exploration"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/engineering/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1-define-and-communicate-technical-reports]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/competencies/L1-explain-presentation-purpose|L1-explain-presentation-purpose]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/competencies/L3-present-functional-project|L3-present-functional-project]]"
+standard-competency:
+  - "[[skills/engineering/engineering-practices/technical-communication/competencies/L3-present-functional-project|L3-present-functional-project]]"
+microskills:
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/audience-consideration-in-presentations|audience-consideration-in-presentations]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/comprehensive-project-presentation|comprehensive-project-presentation]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/functional-team-project-defense|functional-team-project-defense]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/integrated-project-showcase|integrated-project-showcase]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/presentation-approach-rationale|presentation-approach-rationale]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/problem-solving-process-justification|problem-solving-process-justification]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/project-result-communication|project-result-communication]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/structured-technical-report-components|structured-technical-report-components]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/technical-idea-communication|technical-idea-communication]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/technical-presentation-objectives|technical-presentation-objectives]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/visual-artifact-communication|visual-artifact-communication]]"
 ---
 
 # Technical Communication
@@ -29,8 +33,8 @@ Articulating technical information, project progress, and outcomes through vario
 ## Competencies
 
 - [[skills/engineering/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1- Define and Communicate Technical Reports]]
-- [[skills/engineering/engineering-practices/technical-communication/competencies/L2-explain-presentation-purpose|L2- Explain Presentation Purpose]]
-- [[skills/engineering/engineering-practices/technical-communication/competencies/L5-present-functional-project|L5- Present Functional Project]]
+- [[skills/engineering/engineering-practices/technical-communication/competencies/L1-explain-presentation-purpose|L2- Explain Presentation Purpose]]
+- [[skills/engineering/engineering-practices/technical-communication/competencies/L3-present-functional-project|L5- Present Functional Project]]
 
 ## Microskills
 

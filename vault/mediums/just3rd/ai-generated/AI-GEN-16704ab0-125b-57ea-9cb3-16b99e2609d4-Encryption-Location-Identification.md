@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-location-identification|Encryption Location Identification]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-location-identification|encryption-location-identification]]"
 ---
 # Identifying Encryption Location in Compression Pipelines
 

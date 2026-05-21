@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Prototyping Techniques"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Iterative Prototyping and Testing"
-parent-competency: "L1- Identify Prototyping Methods"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/iterative-prototyping-and-testing/iterative-prototyping-and-testing|iterative-prototyping-and-testing]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/competencies/L1-identify-prototyping-methods|L1-identify-prototyping-methods]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Prototyping Techniques

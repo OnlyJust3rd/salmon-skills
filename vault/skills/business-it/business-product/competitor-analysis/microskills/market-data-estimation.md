@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Market Data Estimation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Competitor Analysis"
-parent-competency: "L3- Apply Market Sizing"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/competitor-analysis/competitor-analysis|competitor-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/competitor-analysis/competencies/L2-apply-market-sizing|L2-apply-market-sizing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Market Data Estimation
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/competitor-analysis/competit
 
 Parent competency:
 
-- [[skills/business-it/business-product/competitor-analysis/competencies/L3-apply-market-sizing|L3- Apply Market Sizing]]
+- [[skills/business-it/business-product/competitor-analysis/competencies/L2-apply-market-sizing|L3- Apply Market Sizing]]
 
 ## Description
 

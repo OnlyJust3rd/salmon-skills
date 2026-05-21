@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Schema Evolution with DDL"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 241 - Database Systems"
-parent-macro: "SQL"
-parent-competency: "L3- Use SQL DDL"
+  - "microskill"
+parent-skill: "[[skills/data/databases/sql/sql|sql]]"
+requires-in-competencies:
+  - "[[skills/data/databases/sql/competencies/L2-use-sql-ddl|L2-use-sql-ddl]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Schema Evolution with DDL
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/databases/sql/sql|SQL]]
 
 Parent competency:
 
-- [[skills/data/databases/sql/competencies/L3-use-sql-ddl|L3- Use SQL DDL]]
+- [[skills/data/databases/sql/competencies/L2-use-sql-ddl|L3- Use SQL DDL]]
 
 ## Description
 

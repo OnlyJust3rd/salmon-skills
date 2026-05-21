@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-architecture|Container Architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-architecture|container-architecture]]"
 ---
 # Container Architecture: The Building Blocks of Containerization
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-development-lifecycle/microskills/inception-to-support-lifecycle|Inception to Support Lifecycle]]"
+  - "[[skills/creative-media/game-development/game-development-lifecycle/microskills/inception-to-support-lifecycle|inception-to-support-lifecycle]]"
 ---
 # The Game Development Lifecycle: From Idea to Ongoing Success
 

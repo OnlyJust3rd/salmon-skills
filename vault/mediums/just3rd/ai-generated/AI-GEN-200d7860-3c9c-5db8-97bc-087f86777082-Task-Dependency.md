@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-airflow/microskills/task-dependency|Task Dependency]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/task-dependency|task-dependency]]"
 ---
 # Task Dependency in Workflow Orchestration
 

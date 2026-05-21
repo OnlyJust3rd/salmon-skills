@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/alternative-solution-identification|Alternative Solution Identification]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/alternative-solution-identification|alternative-solution-identification]]"
 ---
 # Alternative Solution Identification
 

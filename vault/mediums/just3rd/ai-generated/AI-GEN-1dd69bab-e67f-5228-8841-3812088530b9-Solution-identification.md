@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/solution-identification|Solution identification]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/solution-identification|solution-identification]]"
 ---
 # Identifying Solutions in Linear Systems: The End Goal of Gaussian Elimination
 

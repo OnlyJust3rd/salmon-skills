@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/optimization-problem-definitions|Optimization problem definitions]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/optimization-problem-definitions|optimization-problem-definitions]]"
 ---
 # Optimization Problem Definitions
 

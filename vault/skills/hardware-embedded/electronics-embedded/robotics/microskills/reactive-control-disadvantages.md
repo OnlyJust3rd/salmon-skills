@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Reactive Control Disadvantages"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Robotics"
-parent-competency: "L2- Explain Reactive Control Principles and Trade-offs"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotics/robotics|robotics]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-explain-reactive-control-principles-and-trade-offs|L1-explain-reactive-control-principles-and-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Reactive Control Disadvantages
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/robotics/robotics|
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/robotics/competencies/L2-explain-reactive-control-principles-and-trade-offs|L2- Explain Reactive Control Principles and Trade-offs]]
+- [[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-explain-reactive-control-principles-and-trade-offs|L2- Explain Reactive Control Principles and Trade-offs]]
 
 ## Description
 

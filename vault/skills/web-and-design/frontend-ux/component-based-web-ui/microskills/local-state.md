@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Local state"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "Component-based Web UI"
-parent-competency: "L2- Explain Component Architecture Props and State"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/component-based-web-ui/component-based-web-ui|component-based-web-ui]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/competencies/L1-explain-component-architecture-props-and-state|L1-explain-component-architecture-props-and-state]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Local state
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/component-based-web-ui/compone
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/component-based-web-ui/competencies/L2-explain-component-architecture-props-and-state|L2- Explain Component Architecture Props and State]]
+- [[skills/web-and-design/frontend-ux/component-based-web-ui/competencies/L1-explain-component-architecture-props-and-state|L2- Explain Component Architecture Props and State]]
 
 ## Description
 

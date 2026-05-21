@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/actor-identification|Actor Identification]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/actor-identification|actor-identification]]"
 ---
 # Actor Identification: The Who of Your System
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/register-transfer-notation-analysis|Register Transfer Notation Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/register-transfer-notation-analysis|register-transfer-notation-analysis]]"
 ---
 # Understanding Register Transfer Notation (RTN)
 

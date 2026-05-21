@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Kernel definition for transformation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Linear Transformations"
-parent-competency: "L3- Analyze Kernel, Range, Nullity, and Rank"
+  - "microskill"
+parent-skill: "[[skills/mathematics/linear-transformations/linear-transformations|linear-transformations]]"
+requires-in-competencies:
+  - "[[skills/mathematics/linear-transformations/competencies/L2-analyze-kernel-range-nullity-and-rank|L2-analyze-kernel-range-nullity-and-rank]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Kernel definition for transformation
@@ -15,7 +17,7 @@ Parent macro: [[linear-transformations|Linear Transformations]]
 
 Parent competency:
 
-- [[L3-analyze-kernel-range-nullity-and-rank|L3- Analyze Kernel, Range, Nullity, and Rank]]
+- [[skills/mathematics/linear-transformations/competencies/L2-analyze-kernel-range-nullity-and-rank|L3- Analyze Kernel, Range, Nullity, and Rank]]
 
 ## Description
 

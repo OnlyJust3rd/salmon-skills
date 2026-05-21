@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/hypothesis-testing|Hypothesis Testing]]"
+  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/hypothesis-testing|hypothesis-testing]]"
 ---
 # Hypothesis Testing in Technical Troubleshooting
 

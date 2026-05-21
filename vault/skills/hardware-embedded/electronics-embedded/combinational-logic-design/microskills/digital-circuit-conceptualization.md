@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Digital Circuit Conceptualization"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Combinational Logic Design"
-parent-competency: "L3- Translate Problem to Circuit"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L2-translate-problem-to-circuit|L2-translate-problem-to-circuit]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Digital Circuit Conceptualization
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/combinational-logi
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L3-translate-problem-to-circuit|L3- Translate Problem to Circuit]]
+- [[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L2-translate-problem-to-circuit|L3- Translate Problem to Circuit]]
 
 ## Description
 

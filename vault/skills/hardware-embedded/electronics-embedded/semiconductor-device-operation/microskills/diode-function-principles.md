@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Diode Function Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Semiconductor Device Operation"
-parent-competency: "L2- Diode Operation Explained"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/semiconductor-device-operation|semiconductor-device-operation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L1-diode-operation-explained|L1-diode-operation-explained]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Diode Function Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/semiconductor-devi
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L2-diode-operation-explained|L2- Diode Operation Explained]]
+- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L1-diode-operation-explained|L2- Diode Operation Explained]]
 
 ## Description
 

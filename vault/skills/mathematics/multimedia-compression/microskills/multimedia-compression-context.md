@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Multimedia Compression Context"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Multimedia Compression"
-parent-competency: "L2- Describe Lossy Compression and Transform Coding"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multimedia-compression/multimedia-compression|multimedia-compression]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-describe-lossy-compression-and-transform-coding|L1-describe-lossy-compression-and-transform-coding]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Multimedia Compression Context
@@ -15,7 +17,7 @@ Parent macro: [[multimedia-compression|Multimedia Compression]]
 
 Parent competency:
 
-- [[L2-describe-lossy-compression-and-transform-coding|L2- Describe Lossy Compression and Transform Coding]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-describe-lossy-compression-and-transform-coding|L2- Describe Lossy Compression and Transform Coding]]
 
 ## Description
 

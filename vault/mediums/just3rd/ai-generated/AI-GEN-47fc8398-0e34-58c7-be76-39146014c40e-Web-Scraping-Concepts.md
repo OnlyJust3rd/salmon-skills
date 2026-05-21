@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-mining/microskills/web-scraping-concepts|Web Scraping Concepts]]"
+  - "[[skills/data/data-science/text-mining/microskills/web-scraping-concepts|web-scraping-concepts]]"
 ---
 # Understanding Web Scraping Concepts
 

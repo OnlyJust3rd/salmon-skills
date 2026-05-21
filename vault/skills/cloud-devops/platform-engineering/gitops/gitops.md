@@ -1,18 +1,20 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "GitOps"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 1
-microskill-count: 4
-related-jobs:
-  - "DevOps Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/gitops/competencies/L2-implement-and-manage-gitops-workflows|L2-implement-and-manage-gitops-workflows]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/gitops/competencies/L2-implement-and-manage-gitops-workflows|L2-implement-and-manage-gitops-workflows]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/gitops/microskills/continuous-deployment-workflows|continuous-deployment-workflows]]"
+  - "[[skills/cloud-devops/platform-engineering/gitops/microskills/declarative-configuration-management|declarative-configuration-management]]"
+  - "[[skills/cloud-devops/platform-engineering/gitops/microskills/gitops-principles|gitops-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/gitops/microskills/kubernetes-application-deployment-automation|kubernetes-application-deployment-automation]]"
 ---
 
 # GitOps
@@ -21,7 +23,7 @@ Configure continuous deployment workflows using GitOps principles.
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/gitops/competencies/L3-implement-and-manage-gitops-workflows|L3- Implement and Manage GitOps Workflows]]
+- [[skills/cloud-devops/platform-engineering/gitops/competencies/L2-implement-and-manage-gitops-workflows|L3- Implement and Manage GitOps Workflows]]
 
 ## Microskills
 

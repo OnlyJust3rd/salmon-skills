@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/design-token|Design Token]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/design-token|design-token]]"
 ---
 # Understanding Design Tokens
 

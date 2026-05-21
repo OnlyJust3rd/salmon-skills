@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-interaction-modeling|User Interaction Modeling]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-interaction-modeling|user-interaction-modeling]]"
 ---
 # User Interaction Modeling: Bringing Designs to Life
 

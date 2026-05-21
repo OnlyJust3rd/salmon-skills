@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/table-identification|Table Identification]]"
+  - "[[skills/data/databases/relational-database/microskills/table-identification|table-identification]]"
 ---
 # Understanding Tables in Database Schemas
 

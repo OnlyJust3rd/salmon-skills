@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-definition|Triple integral definition]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-definition|triple-integral-definition]]"
 ---
 # Understanding Triple Integrals: The Definition
 

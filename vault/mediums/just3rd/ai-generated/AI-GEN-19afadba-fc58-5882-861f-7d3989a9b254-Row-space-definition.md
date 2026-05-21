@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-definition|Row space definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-definition|row-space-definition]]"
 ---
 # Row Space of a Matrix
 

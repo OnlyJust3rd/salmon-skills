@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Maclaurin series expansion"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Power Series and Taylor Expansions"
-parent-competency: "L3- Apply Taylor and Maclaurin Series"
+  - "microskill"
+parent-skill: "[[skills/mathematics/power-series-and-taylor-expansions/power-series-and-taylor-expansions|power-series-and-taylor-expansions]]"
+requires-in-competencies:
+  - "[[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-taylor-and-maclaurin-series|L2-apply-taylor-and-maclaurin-series]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Maclaurin series expansion
@@ -15,7 +17,7 @@ Parent macro: [[power-series-and-taylor-expansions|Power Series and Taylor Expan
 
 Parent competency:
 
-- [[L3-apply-taylor-and-maclaurin-series|L3- Apply Taylor and Maclaurin Series]]
+- [[skills/mathematics/power-series-and-taylor-expansions/competencies/L2-apply-taylor-and-maclaurin-series|L3- Apply Taylor and Maclaurin Series]]
 
 ## Description
 

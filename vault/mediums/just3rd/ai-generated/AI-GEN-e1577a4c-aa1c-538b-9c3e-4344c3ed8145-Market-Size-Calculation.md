@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-size-calculation|Market Size Calculation]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-size-calculation|market-size-calculation]]"
 ---
 # Market Size Calculation
 

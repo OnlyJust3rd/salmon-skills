@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-service-management/microskills/support-documentation|Support Documentation]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/support-documentation|support-documentation]]"
 ---
 # Documenting IT Support Incidents
 

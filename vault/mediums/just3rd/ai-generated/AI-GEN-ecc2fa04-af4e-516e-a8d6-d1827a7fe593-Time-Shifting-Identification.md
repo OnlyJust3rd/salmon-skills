@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/time-shifting-identification|Time Shifting Identification]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-identification|time-shifting-identification]]"
 ---
 # Time Shifting Signals: Recognizing the Shift
 

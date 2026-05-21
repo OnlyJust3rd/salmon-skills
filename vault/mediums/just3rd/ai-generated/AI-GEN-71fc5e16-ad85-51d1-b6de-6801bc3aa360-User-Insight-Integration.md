@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/user-insight-integration|User Insight Integration]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/user-insight-integration|user-insight-integration]]"
 ---
 # Integrating User Insights for Better MVP Iteration
 

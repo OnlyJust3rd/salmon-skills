@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/routing-protocol-goals|Routing Protocol Goals]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/routing-protocol-goals|routing-protocol-goals]]"
 ---
 # Routing Protocol Goals
 

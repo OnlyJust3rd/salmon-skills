@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Rounding Error"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Experimental Data Evaluation"
-parent-competency: "L1- Sources of Error"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/experimental-data-evaluation/competencies/L1-sources-of-error|L1-sources-of-error]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Rounding Error

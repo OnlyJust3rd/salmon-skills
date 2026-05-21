@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/google-bigquery/microskills/clustered-table|Clustered Table]]"
+  - "[[skills/data/data-platforms/google-bigquery/microskills/clustered-table|clustered-table]]"
 ---
 # Clustered Tables in BigQuery: Optimizing Query Performance
 

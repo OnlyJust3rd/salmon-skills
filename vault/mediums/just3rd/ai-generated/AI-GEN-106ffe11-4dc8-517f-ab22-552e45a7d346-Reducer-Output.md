@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-hadoop/microskills/reducer-output|Reducer Output]]"
+  - "[[skills/data/data-platforms/apache-hadoop/microskills/reducer-output|reducer-output]]"
 ---
 # Reducer Output: Aggregating Your Hadoop Batch Results
 

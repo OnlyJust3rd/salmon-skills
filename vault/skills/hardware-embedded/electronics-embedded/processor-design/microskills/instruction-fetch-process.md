@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Instruction Fetch Process"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Processor Design"
-parent-competency: "L2- Processor Operational Flow"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/processor-design/processor-design|processor-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L1-processor-operational-flow|L1-processor-operational-flow]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Instruction Fetch Process
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/processor-design/p
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L2-processor-operational-flow|L2- Processor Operational Flow]]
+- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L1-processor-operational-flow|L2- Processor Operational Flow]]
 
 ## Description
 

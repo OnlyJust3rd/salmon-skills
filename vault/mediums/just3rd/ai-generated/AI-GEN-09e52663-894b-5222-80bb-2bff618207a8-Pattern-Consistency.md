@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/pattern-consistency|Pattern Consistency]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/pattern-consistency|pattern-consistency]]"
 ---
 # Pattern Consistency: The Backbone of Predictable Interfaces
 

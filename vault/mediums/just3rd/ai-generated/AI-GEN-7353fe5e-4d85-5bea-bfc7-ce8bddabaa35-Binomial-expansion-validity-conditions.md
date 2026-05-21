@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-validity-conditions|Binomial expansion validity conditions]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-validity-conditions|binomial-expansion-validity-conditions]]"
 ---
 # Binomial Expansion Validity Conditions
 

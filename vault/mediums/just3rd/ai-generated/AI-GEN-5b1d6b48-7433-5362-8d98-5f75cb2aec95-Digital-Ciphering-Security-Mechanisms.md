@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-security-mechanisms|Digital Ciphering Security Mechanisms]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-security-mechanisms|digital-ciphering-security-mechanisms]]"
 ---
 # Digital Ciphering Security Mechanisms
 

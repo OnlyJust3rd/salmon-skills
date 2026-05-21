@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/functionality-verification|Functionality Verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/functionality-verification|functionality-verification]]"
 ---
 # Understanding Circuit Simulation for Functionality Verification
 

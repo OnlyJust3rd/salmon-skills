@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-channel-selection|ADC Channel Selection]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/adc-channel-selection|adc-channel-selection]]"
 ---
 # Selecting the ADC Channel on AVR Microcontrollers
 

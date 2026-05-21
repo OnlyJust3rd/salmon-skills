@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-backup-and-recovery/microskills/restore-operations|Restore Operations]]"
+  - "[[skills/data/databases/database-backup-and-recovery/microskills/restore-operations|restore-operations]]"
 ---
 # Restore Operations: Bringing Data Back to Life
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-truth-tables|Logic Gate Truth Tables]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-truth-tables|logic-gate-truth-tables]]"
 ---
 # Logic Gate Truth Tables
 

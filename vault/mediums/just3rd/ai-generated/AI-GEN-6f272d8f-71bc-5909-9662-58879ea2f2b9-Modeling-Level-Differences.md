@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/modeling-level-differences|Modeling Level Differences]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/modeling-level-differences|modeling-level-differences]]"
 ---
 # Understanding Verilog Modeling Levels
 

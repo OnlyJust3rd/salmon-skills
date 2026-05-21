@@ -1,16 +1,42 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Engineering Process"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-coverage:
-  - "Concept"
-competency-count: 7
-microskill-count: 18
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe101-computer-engineering-exploration"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L1-list-and-contextualize-ce-domains|L1-list-and-contextualize-ce-domains]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L1-explain-engineering-problem-solving|L1-explain-engineering-problem-solving]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L1-understand-and-differentiate-ce-domain-contexts|L1-understand-and-differentiate-ce-domain-contexts]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L1-understand-problem-solving-process|L1-understand-problem-solving-process]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L2-apply-problem-definition-and-specification|L2-apply-problem-definition-and-specification]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L3-analyze-solution-trade-offs|L3-analyze-solution-trade-offs]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L3-justify-problem-solving-approach|L3-justify-problem-solving-approach]]"
+standard-competency:
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L2-apply-problem-definition-and-specification|L2-apply-problem-definition-and-specification]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L3-analyze-solution-trade-offs|L3-analyze-solution-trade-offs]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L3-justify-problem-solving-approach|L3-justify-problem-solving-approach]]"
+microskills:
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/core-characteristics-of-ce-domains|core-characteristics-of-ce-domains]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/differentiated-domain-problem-areas|differentiated-domain-problem-areas]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/domain-problem-contexts|domain-problem-contexts]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-problem-solving-framework|engineering-problem-solving-framework]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-problem-solving-process-stages|engineering-problem-solving-process-stages]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-solution-evaluation|engineering-solution-evaluation]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/established-criteria-adherence|established-criteria-adherence]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/importance-of-problem-solving-steps|importance-of-problem-solving-steps]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/major-computer-engineering-domains|major-computer-engineering-domains]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/methodology-suitability|methodology-suitability]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/problem-definition-application|problem-definition-application]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/problem-solving-process-application|problem-solving-process-application]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/purpose-of-problem-solving-steps|purpose-of-problem-solving-steps]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/requirement-based-solution-comparison|requirement-based-solution-comparison]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/requirement-specification-application|requirement-specification-application]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/selection-justification|selection-justification]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/summarization-of-ce-domain-functions|summarization-of-ce-domain-functions]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/trade-off-analysis-criteria|trade-off-analysis-criteria]]"
 ---
 
 # Engineering Process
@@ -19,13 +45,13 @@ Understanding and articulating the scope, problem contexts, and interrelationshi
 
 ## Competencies
 
-- [[skills/engineering/engineering-practices/engineering-process/competencies/L2-understand-problem-solving-process|L2- Understand Problem-Solving Process]]
-- [[skills/engineering/engineering-practices/engineering-process/competencies/L3-apply-problem-definition-and-specification|L3- Apply Problem Definition and Specification]]
-- [[skills/engineering/engineering-practices/engineering-process/competencies/L4-analyze-solution-trade-offs|L4- Analyze Solution Trade-offs]]
-- [[skills/engineering/engineering-practices/engineering-process/competencies/L5-justify-problem-solving-approach|L5- Justify Problem-Solving Approach]]
+- [[skills/engineering/engineering-practices/engineering-process/competencies/L1-understand-problem-solving-process|L2- Understand Problem-Solving Process]]
+- [[skills/engineering/engineering-practices/engineering-process/competencies/L2-apply-problem-definition-and-specification|L3- Apply Problem Definition and Specification]]
+- [[skills/engineering/engineering-practices/engineering-process/competencies/L3-analyze-solution-trade-offs|L4- Analyze Solution Trade-offs]]
+- [[skills/engineering/engineering-practices/engineering-process/competencies/L3-justify-problem-solving-approach|L5- Justify Problem-Solving Approach]]
 - [[skills/engineering/engineering-practices/engineering-process/competencies/L1-list-and-contextualize-ce-domains|L1- List and Contextualize CE Domains]]
-- [[skills/engineering/engineering-practices/engineering-process/competencies/L2-understand-and-differentiate-ce-domain-contexts|L2- Understand and Differentiate CE Domain Contexts]]
-- [[skills/engineering/engineering-practices/engineering-process/competencies/L2-explain-engineering-problem-solving|L2- Explain Engineering Problem-Solving]]
+- [[skills/engineering/engineering-practices/engineering-process/competencies/L1-understand-and-differentiate-ce-domain-contexts|L2- Understand and Differentiate CE Domain Contexts]]
+- [[skills/engineering/engineering-practices/engineering-process/competencies/L1-explain-engineering-problem-solving|L2- Explain Engineering Problem-Solving]]
 
 ## Microskills
 

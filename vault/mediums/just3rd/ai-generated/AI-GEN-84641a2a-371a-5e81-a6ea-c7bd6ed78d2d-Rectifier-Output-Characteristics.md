@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/rectifier-output-characteristics|Rectifier Output Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/rectifier-output-characteristics|rectifier-output-characteristics]]"
 ---
 # Rectifier Output Characteristics
 

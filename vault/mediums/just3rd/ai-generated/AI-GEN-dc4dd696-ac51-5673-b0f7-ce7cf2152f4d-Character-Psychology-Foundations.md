@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/character-psychology-foundations|Character Psychology Foundations]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/character-psychology-foundations|character-psychology-foundations]]"
 ---
 # Character Psychology Foundations
 

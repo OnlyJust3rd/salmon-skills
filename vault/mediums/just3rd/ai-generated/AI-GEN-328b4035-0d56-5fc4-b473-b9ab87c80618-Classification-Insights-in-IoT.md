@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/classification-insights-in-iot|Classification Insights in IoT]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/classification-insights-in-iot|classification-insights-in-iot]]"
 ---
 # Understanding Classification Insights in IoT Data
 

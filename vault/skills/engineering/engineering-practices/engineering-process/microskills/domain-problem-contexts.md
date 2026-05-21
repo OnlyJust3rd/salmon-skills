@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Domain Problem Contexts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Engineering Process"
-parent-competency: "L1- List and Contextualize CE Domains"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/engineering-process/engineering-process|engineering-process]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L1-list-and-contextualize-ce-domains|L1-list-and-contextualize-ce-domains]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Domain Problem Contexts

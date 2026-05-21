@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/separation-of-concerns-explanation|Separation of Concerns Explanation]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/separation-of-concerns-explanation|separation-of-concerns-explanation]]"
 ---
 # Understanding Separation of Concerns in OOP
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-method-distinction|Copyright Protection Method Distinction]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-method-distinction|copyright-protection-method-distinction]]"
 ---
 # Copyright Protection Method Distinction
 

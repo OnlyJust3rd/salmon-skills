@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/ratio-test-application|Ratio Test application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/ratio-test-application|ratio-test-application]]"
 ---
 # Applying the Ratio Test for Series Convergence
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Textual representation comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "Algorithm Representation"
-parent-competency: "L2- Flowchart vs Pseudocode"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-representation/algorithm-representation|algorithm-representation]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-representation/competencies/L1-flowchart-vs-pseudocode|L1-flowchart-vs-pseudocode]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Textual representation comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-representation/algorithm
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-representation/competencies/L2-flowchart-vs-pseudocode|L2- Flowchart vs Pseudocode]]
+- [[skills/programming/algorithms/algorithm-representation/competencies/L1-flowchart-vs-pseudocode|L2- Flowchart vs Pseudocode]]
 
 ## Description
 

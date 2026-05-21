@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-data-visualization-in-python-code-implementation|Implement Data Visualization in Python code implementation]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-data-visualization-in-python-code-implementation|implement-data-visualization-in-python-code-implementation]]"
 ---
 # Implementing Data Visualization in Python
 

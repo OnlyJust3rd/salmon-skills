@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/lock-operations|Lock Operations]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/lock-operations|lock-operations]]"
 ---
 # Understanding Lock Operations
 

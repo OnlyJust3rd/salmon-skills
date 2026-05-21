@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/computer-network-architecture/microskills/tcp-ip-model-layers|TCP/IP Model Layers]]"
+  - "[[skills/systems/networking/computer-network-architecture/microskills/tcp-ip-model-layers|tcp-ip-model-layers]]"
 ---
 # Understanding the TCP/IP Model Layers
 

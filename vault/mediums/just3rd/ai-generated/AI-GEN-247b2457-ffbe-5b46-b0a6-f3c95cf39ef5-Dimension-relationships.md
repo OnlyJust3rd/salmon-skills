@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/dimension-relationships|Dimension relationships]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/dimension-relationships|dimension-relationships]]"
 ---
 # Dimension Relationships in Subspaces
 

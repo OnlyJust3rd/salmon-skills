@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/tarjan-s-algorithm-java-implementation|Tarjan's Algorithm Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/tarjan-s-algorithm-java-implementation|tarjan-s-algorithm-java-implementation]]"
 ---
 # Implementing Tarjan's Algorithm in Java for Strongly Connected Components
 

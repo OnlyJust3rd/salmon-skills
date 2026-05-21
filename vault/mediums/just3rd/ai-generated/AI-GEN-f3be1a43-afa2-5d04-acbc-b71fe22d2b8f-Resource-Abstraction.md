@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/resource-abstraction|Resource Abstraction]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/resource-abstraction|resource-abstraction]]"
 ---
 # Resource Abstraction in Virtualization
 

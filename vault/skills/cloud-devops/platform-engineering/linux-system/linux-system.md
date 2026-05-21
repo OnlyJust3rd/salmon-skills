@@ -1,23 +1,52 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Linux System"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 6
-microskill-count: 27
-related-jobs:
-  - "DevOps Engineer"
-  - "Cloud Engineer"
-  - "Database Administrator"
-  - "IT Support Specialist"
-  - "System Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L1-understand-linux-file-system-and-permissions|L1-understand-linux-file-system-and-permissions]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-implement-cron-jobs-for-automation|L2-implement-cron-jobs-for-automation]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-manage-linux-software-packages|L2-manage-linux-software-packages]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-monitor-system-performance-and-processes|L2-monitor-system-performance-and-processes]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability|L2-system-thinking-for-availability-and-recoverability]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management|L2-utilize-linux-commands-and-vi-for-file-management]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-implement-cron-jobs-for-automation|L2-implement-cron-jobs-for-automation]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-manage-linux-software-packages|L2-manage-linux-software-packages]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-monitor-system-performance-and-processes|L2-monitor-system-performance-and-processes]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability|L2-system-thinking-for-availability-and-recoverability]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management|L2-utilize-linux-commands-and-vi-for-file-management]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/acyclic-graph-directory-structure|acyclic-graph-directory-structure]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/automated-task-implementation|automated-task-implementation]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/command-line-navigation|command-line-navigation]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/cron-job-syntax|cron-job-syntax]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/cron-scheduling-fundamentals|cron-scheduling-fundamentals]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/file-attributes-and-ownership|file-attributes-and-ownership]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/file-permissions-concepts|file-permissions-concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/fundamental-file-commands|fundamental-file-commands]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/job-scheduling-concepts|job-scheduling-concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/linux-file-system-hierarchy|linux-file-system-hierarchy]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/netplan-network-configuration|netplan-network-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/package-management-concepts|package-management-concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/package-management-tools|package-management-tools]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/process-management-concepts|process-management-concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/process-monitoring-tools|process-monitoring-tools]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/resource-consumption-analysis|resource-consumption-analysis]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/scheduled-command-execution|scheduled-command-execution]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-installation|software-installation]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-removal|software-removal]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-updates|software-updates]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/system-availability-strategies|system-availability-strategies]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/system-performance-metrics|system-performance-metrics]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/system-recoverability-planning|system-recoverability-planning]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/systemd-service-management|systemd-service-management]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/text-processing-commands|text-processing-commands]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/user-and-group-management|user-and-group-management]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/vi-editor-operations|vi-editor-operations]]"
 ---
 
 # Linux System
@@ -26,12 +55,12 @@ Apply core Linux operating system concepts including file systems, permissions, 
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-understand-linux-file-system-and-permissions|L2- Understand Linux File System and Permissions]]
-- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L3-utilize-linux-commands-and-vi-for-file-management|L3- Utilize Linux Commands and Vi for File Management]]
-- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L3-system-thinking-for-availability-and-recoverability|L3- System Thinking for Availability and Recoverability]]
-- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L3-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]]
-- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L3-implement-cron-jobs-for-automation|L3- Implement Cron Jobs for Automation]]
-- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L3-manage-linux-software-packages|L3- Manage Linux Software Packages]]
+- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L1-understand-linux-file-system-and-permissions|L2- Understand Linux File System and Permissions]]
+- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management|L3- Utilize Linux Commands and Vi for File Management]]
+- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability|L3- System Thinking for Availability and Recoverability]]
+- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]]
+- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-implement-cron-jobs-for-automation|L3- Implement Cron Jobs for Automation]]
+- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-manage-linux-software-packages|L3- Manage Linux Software Packages]]
 
 ## Microskills
 

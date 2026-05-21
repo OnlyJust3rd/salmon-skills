@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/function-value-implications-within-an-interval|Function value implications within an interval]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/function-value-implications-within-an-interval|function-value-implications-within-an-interval]]"
 ---
 # Understanding Function Value Implications with the IVT
 

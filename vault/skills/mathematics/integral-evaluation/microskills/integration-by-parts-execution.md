@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Integration by parts execution"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Integral Evaluation"
-parent-competency: "L3- Apply Integration by Parts"
+  - "microskill"
+parent-skill: "[[skills/mathematics/integral-evaluation/integral-evaluation|integral-evaluation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/integral-evaluation/competencies/L2-apply-integration-by-parts|L2-apply-integration-by-parts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Integration by parts execution
@@ -15,7 +17,7 @@ Parent macro: [[integral-evaluation|Integral Evaluation]]
 
 Parent competency:
 
-- [[L3-apply-integration-by-parts|L3- Apply Integration by Parts]]
+- [[skills/mathematics/integral-evaluation/competencies/L2-apply-integration-by-parts|L3- Apply Integration by Parts]]
 
 ## Description
 

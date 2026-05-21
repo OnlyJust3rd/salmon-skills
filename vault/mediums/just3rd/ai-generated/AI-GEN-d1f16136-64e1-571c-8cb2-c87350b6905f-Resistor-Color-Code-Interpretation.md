@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/resistor-color-code-interpretation|Resistor Color Code Interpretation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/resistor-color-code-interpretation|resistor-color-code-interpretation]]"
 ---
 # Understanding Resistor Color Codes
 

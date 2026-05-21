@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/metric-collection-process|Metric Collection Process]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/metric-collection-process|metric-collection-process]]"
 ---
 # Understanding the Metric Collection Process in Prometheus
 

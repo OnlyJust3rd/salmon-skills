@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/sprint-performance-analysis|Sprint Performance Analysis]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/sprint-performance-analysis|sprint-performance-analysis]]"
 ---
 # Sprint Performance Analysis: Analyzing Your Team's Iteration Output
 

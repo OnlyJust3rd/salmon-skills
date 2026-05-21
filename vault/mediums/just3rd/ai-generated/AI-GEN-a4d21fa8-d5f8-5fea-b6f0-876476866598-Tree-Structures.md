@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/tree-structures|Tree Structures]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/tree-structures|tree-structures]]"
 ---
 # Understanding Tree Structures
 

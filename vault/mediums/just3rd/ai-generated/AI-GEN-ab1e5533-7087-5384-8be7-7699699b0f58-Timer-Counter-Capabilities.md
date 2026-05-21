@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/timer-counter-capabilities|Timer/Counter Capabilities]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/timer-counter-capabilities|timer-counter-capabilities]]"
 ---
 # Analyzing AVR Timer/Counter Operational Modes and Applications
 

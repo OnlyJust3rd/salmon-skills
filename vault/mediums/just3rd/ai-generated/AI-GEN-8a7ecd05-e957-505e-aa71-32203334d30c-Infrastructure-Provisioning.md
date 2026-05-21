@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-provisioning|Infrastructure Provisioning]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-provisioning|infrastructure-provisioning]]"
 ---
 # Provisioning Your First Azure Resource with Bicep
 

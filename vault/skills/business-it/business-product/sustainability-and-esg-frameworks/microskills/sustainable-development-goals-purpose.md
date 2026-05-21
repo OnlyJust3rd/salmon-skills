@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Sustainable Development Goals Purpose"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Sustainability and ESG Frameworks"
-parent-competency: "L2- Understand SDGs"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/sustainability-and-esg-frameworks/sustainability-and-esg-frameworks|sustainability-and-esg-frameworks]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L1-understand-sdgs|L1-understand-sdgs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Sustainable Development Goals Purpose
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/sustainability-and-esg-frame
 
 Parent competency:
 
-- [[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L2-understand-sdgs|L2- Understand SDGs]]
+- [[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L1-understand-sdgs|L2- Understand SDGs]]
 
 ## Description
 

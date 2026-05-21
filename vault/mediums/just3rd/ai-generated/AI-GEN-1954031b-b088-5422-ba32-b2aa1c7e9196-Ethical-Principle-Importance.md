@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-importance|Ethical Principle Importance]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-importance|ethical-principle-importance]]"
 ---
 # The Importance of Ethical Principles in Business
 

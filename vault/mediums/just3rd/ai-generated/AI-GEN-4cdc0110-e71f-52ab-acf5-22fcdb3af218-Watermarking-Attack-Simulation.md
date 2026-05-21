@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-simulation|Watermarking Attack Simulation]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-simulation|watermarking-attack-simulation]]"
 ---
 # Simulating Watermarking Attacks with Benchmark Tools
 

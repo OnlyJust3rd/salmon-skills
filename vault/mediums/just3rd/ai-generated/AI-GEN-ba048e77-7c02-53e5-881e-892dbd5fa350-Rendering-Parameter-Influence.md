@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/rendering-parameter-influence|Rendering Parameter Influence]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/rendering-parameter-influence|rendering-parameter-influence]]"
 ---
 # Analyzing Rendering Parameter Influence on Visual Quality
 

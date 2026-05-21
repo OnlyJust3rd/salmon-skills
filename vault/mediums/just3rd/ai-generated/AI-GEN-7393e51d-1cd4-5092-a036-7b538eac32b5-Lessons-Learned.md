@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/incident-response/microskills/lessons-learned|Lessons Learned]]"
+  - "[[skills/security/cybersecurity/incident-response/microskills/lessons-learned|lessons-learned]]"
 ---
 # Incident Response: Lessons Learned
 

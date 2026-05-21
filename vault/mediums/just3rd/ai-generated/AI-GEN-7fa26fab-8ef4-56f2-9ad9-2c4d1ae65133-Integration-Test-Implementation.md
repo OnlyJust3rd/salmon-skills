@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-testing/microskills/integration-test-implementation|Integration Test Implementation]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/integration-test-implementation|integration-test-implementation]]"
 ---
 # Implementing Integration Tests with JUnit
 

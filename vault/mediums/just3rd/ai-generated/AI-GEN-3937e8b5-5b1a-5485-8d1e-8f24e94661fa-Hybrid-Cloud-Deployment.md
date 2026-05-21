@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/hybrid-cloud-deployment|Hybrid Cloud Deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/hybrid-cloud-deployment|hybrid-cloud-deployment]]"
 ---
 # Hybrid Cloud: The Best of Both Worlds
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/multiplexer-operational-principles|Multiplexer Operational Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/multiplexer-operational-principles|multiplexer-operational-principles]]"
 ---
 # Multiplexer Operational Principles
 

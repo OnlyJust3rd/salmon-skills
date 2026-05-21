@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-syntax-fundamentals|Regular Expression Syntax Fundamentals]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-syntax-fundamentals|regular-expression-syntax-fundamentals]]"
 ---
 # Regular Expression Syntax Fundamentals
 

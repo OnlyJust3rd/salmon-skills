@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Datapath Control"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Machine Instruction"
-parent-competency: "L3- Control Logic Implementation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/machine-instruction/machine-instruction|machine-instruction]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-control-logic-implementation|L2-control-logic-implementation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Datapath Control
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/machine-instructio
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L3-control-logic-implementation|L3- Control Logic Implementation]]
+- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-control-logic-implementation|L3- Control Logic Implementation]]
 
 ## Description
 

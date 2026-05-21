@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/monolithic-architecture-characteristics|Monolithic Architecture Characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/monolithic-architecture-characteristics|monolithic-architecture-characteristics]]"
 ---
 # Monolithic Architecture: The Single, Big Application
 

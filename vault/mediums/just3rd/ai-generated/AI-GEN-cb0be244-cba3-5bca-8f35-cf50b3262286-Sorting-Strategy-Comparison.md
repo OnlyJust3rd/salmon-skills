@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/sorting-strategy-comparison|Sorting Strategy Comparison]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/sorting-strategy-comparison|sorting-strategy-comparison]]"
 ---
 # Understanding Sorting Strategies
 

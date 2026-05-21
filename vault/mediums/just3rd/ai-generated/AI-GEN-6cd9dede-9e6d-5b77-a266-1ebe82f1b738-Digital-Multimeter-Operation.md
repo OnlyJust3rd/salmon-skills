@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/digital-multimeter-operation|Digital Multimeter Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/digital-multimeter-operation|digital-multimeter-operation]]"
 ---
 # Digital Multimeter Operation: Measuring Voltage and Current
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-advantage-analysis|Design Pattern Advantage Analysis]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/design-pattern-advantage-analysis|design-pattern-advantage-analysis]]"
 ---
 # Design Pattern Advantage Analysis
 

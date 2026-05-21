@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-needs-specification|User Needs Specification]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-needs-specification|user-needs-specification]]"
 ---
 # Documenting User Needs: A Practical Guide
 

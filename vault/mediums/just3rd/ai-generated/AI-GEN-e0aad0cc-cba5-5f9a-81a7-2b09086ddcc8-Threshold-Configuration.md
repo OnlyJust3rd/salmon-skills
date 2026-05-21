@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/threshold-configuration|Threshold Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/threshold-configuration|threshold-configuration]]"
 ---
 # Threshold Configuration for Infrastructure Alerting
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/implicit-differentiation-computations|Implicit differentiation computations]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/implicit-differentiation-computations|implicit-differentiation-computations]]"
 ---
 # Implicit Differentiation Computations
 

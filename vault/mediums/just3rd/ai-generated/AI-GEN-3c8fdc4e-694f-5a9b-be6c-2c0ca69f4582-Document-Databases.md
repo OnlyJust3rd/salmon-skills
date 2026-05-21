@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/document-databases|Document Databases]]"
+  - "[[skills/data/databases/nosql-database/microskills/document-databases|document-databases]]"
 ---
 # Understanding Document Databases
 

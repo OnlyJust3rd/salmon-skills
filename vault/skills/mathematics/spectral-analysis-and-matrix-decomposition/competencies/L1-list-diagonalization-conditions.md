@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Diagonalization Conditions"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Spectral Analysis and Matrix Decomposition"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Homogeneous System Fundamentals"
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-homogeneous-system-fundamentals|L1-homogeneous-system-fundamentals]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/spectral-analysis-and-matrix-decomposition|spectral-analysis-and-matrix-decomposition]]"
+requires-microskills:
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/diagonalizability-criteria|diagonalizability-criteria]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/insufficient-conditions-for-diagonalization|insufficient-conditions-for-diagonalization]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/sufficient-conditions-for-diagonalization|sufficient-conditions-for-diagonalization]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Diagonalization Conditions
@@ -25,7 +27,7 @@ List the conditions for a matrix to be diagonalizable.
 
 ## Strict Prerequisites
 
-- [[L1-homogeneous-system-fundamentals|L1- Homogeneous System Fundamentals]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-homogeneous-system-fundamentals|L1- Homogeneous System Fundamentals]]
 
 ## Optional Prerequisites
 

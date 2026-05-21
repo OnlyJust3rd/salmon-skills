@@ -1,18 +1,31 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Linear Transformations"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 234 - Linear Algebra"
-coverage:
-  - "Concept"
-  - "Representation"
-  - "Implementation"
-competency-count: 3
-microskill-count: 12
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-234-linear-algebra"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/linear-transformations/competencies/L1-define-and-explain-linear-transformation-properties|L1-define-and-explain-linear-transformation-properties]]"
+  - "[[skills/mathematics/linear-transformations/competencies/L2-analyze-kernel-range-nullity-and-rank|L2-analyze-kernel-range-nullity-and-rank]]"
+  - "[[skills/mathematics/linear-transformations/competencies/L2-construct-and-compute-matrix-representation|L2-construct-and-compute-matrix-representation]]"
+standard-competency:
+  - "[[skills/mathematics/linear-transformations/competencies/L2-analyze-kernel-range-nullity-and-rank|L2-analyze-kernel-range-nullity-and-rank]]"
+  - "[[skills/mathematics/linear-transformations/competencies/L2-construct-and-compute-matrix-representation|L2-construct-and-compute-matrix-representation]]"
+microskills:
+  - "[[skills/mathematics/linear-transformations/microskills/additivity-property|additivity-property]]"
+  - "[[skills/mathematics/linear-transformations/microskills/homogeneity-property|homogeneity-property]]"
+  - "[[skills/mathematics/linear-transformations/microskills/injectivity-determination|injectivity-determination]]"
+  - "[[skills/mathematics/linear-transformations/microskills/kernel-definition-for-transformation|kernel-definition-for-transformation]]"
+  - "[[skills/mathematics/linear-transformations/microskills/linear-transformation-definition|linear-transformation-definition]]"
+  - "[[skills/mathematics/linear-transformations/microskills/matrix-representation-computation|matrix-representation-computation]]"
+  - "[[skills/mathematics/linear-transformations/microskills/matrix-representation-derivation|matrix-representation-derivation]]"
+  - "[[skills/mathematics/linear-transformations/microskills/preservation-of-arithmetic-operations|preservation-of-arithmetic-operations]]"
+  - "[[skills/mathematics/linear-transformations/microskills/range-definition-for-transformation|range-definition-for-transformation]]"
+  - "[[skills/mathematics/linear-transformations/microskills/rank-nullity-theorem-application|rank-nullity-theorem-application]]"
+  - "[[skills/mathematics/linear-transformations/microskills/surjectivity-determination|surjectivity-determination]]"
+  - "[[skills/mathematics/linear-transformations/microskills/transformation-to-matrix-mapping|transformation-to-matrix-mapping]]"
 ---
 
 # Linear Transformations
@@ -21,9 +34,9 @@ Understand linear transformations as mappings between vector spaces, including t
 
 ## Competencies
 
-- [[L2-define-and-explain-linear-transformation-properties|L2- Define and Explain Linear Transformation Properties]]
-- [[L3-construct-and-compute-matrix-representation|L3- Construct and Compute Matrix Representation]]
-- [[L3-analyze-kernel-range-nullity-and-rank|L3- Analyze Kernel, Range, Nullity, and Rank]]
+- [[skills/mathematics/linear-transformations/competencies/L1-define-and-explain-linear-transformation-properties|L2- Define and Explain Linear Transformation Properties]]
+- [[skills/mathematics/linear-transformations/competencies/L2-construct-and-compute-matrix-representation|L3- Construct and Compute Matrix Representation]]
+- [[skills/mathematics/linear-transformations/competencies/L2-analyze-kernel-range-nullity-and-rank|L3- Analyze Kernel, Range, Nullity, and Rank]]
 
 ## Microskills
 

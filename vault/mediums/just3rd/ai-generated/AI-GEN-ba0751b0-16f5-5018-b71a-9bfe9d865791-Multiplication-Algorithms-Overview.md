@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/multiplication-algorithms-overview|Multiplication Algorithms Overview]]"
+  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/multiplication-algorithms-overview|multiplication-algorithms-overview]]"
 ---
 # Multiplication Algorithms Overview
 

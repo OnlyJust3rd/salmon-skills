@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-language-syntax|Assembly Language Syntax]]"
+  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-language-syntax|assembly-language-syntax]]"
 ---
 # Assembly Language Syntax
 

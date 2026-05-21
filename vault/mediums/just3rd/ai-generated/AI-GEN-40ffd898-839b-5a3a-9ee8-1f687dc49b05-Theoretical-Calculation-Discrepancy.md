@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/theoretical-calculation-discrepancy|Theoretical Calculation Discrepancy]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/theoretical-calculation-discrepancy|theoretical-calculation-discrepancy]]"
 ---
 # Understanding Theoretical Calculation Discrepancy Due to Distortion
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/component-value-impact-on-transients|Component-Value Impact on Transients]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/component-value-impact-on-transients|component-value-impact-on-transients]]"
 ---
 # Component Values and Transient Behavior
 

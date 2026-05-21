@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/rationale-for-text-cleaning|Rationale for Text Cleaning]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/rationale-for-text-cleaning|rationale-for-text-cleaning]]"
 ---
 # Why Clean Your Text Data?
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/operating-system-resource-concepts|Operating System Resource Concepts]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/operating-system-resource-concepts|operating-system-resource-concepts]]"
 ---
 # Operating System Resource Concepts
 

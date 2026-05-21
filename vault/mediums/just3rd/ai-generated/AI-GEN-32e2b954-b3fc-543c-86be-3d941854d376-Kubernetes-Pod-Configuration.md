@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-pod-configuration|Kubernetes Pod Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-pod-configuration|kubernetes-pod-configuration]]"
 ---
 # Kubernetes Pod Configuration
 

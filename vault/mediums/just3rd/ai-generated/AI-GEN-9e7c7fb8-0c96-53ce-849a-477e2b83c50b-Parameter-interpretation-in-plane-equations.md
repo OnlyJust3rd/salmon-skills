@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/parameter-interpretation-in-plane-equations|Parameter interpretation in plane equations]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parameter-interpretation-in-plane-equations|parameter-interpretation-in-plane-equations]]"
 ---
 # Understanding Parameters in 3D Plane Equations
 

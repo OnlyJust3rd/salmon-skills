@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/pdpa-relevance-in-thailand|PDPA Relevance in Thailand]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/pdpa-relevance-in-thailand|pdpa-relevance-in-thailand]]"
 ---
 # Understanding the PDPA's Reach in Thailand
 

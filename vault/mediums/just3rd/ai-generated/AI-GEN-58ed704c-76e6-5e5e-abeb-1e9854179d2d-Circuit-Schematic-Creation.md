@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/circuit-schematic-creation|Circuit Schematic Creation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/circuit-schematic-creation|circuit-schematic-creation]]"
 ---
 # Creating Circuit Schematics in Proteus 8
 

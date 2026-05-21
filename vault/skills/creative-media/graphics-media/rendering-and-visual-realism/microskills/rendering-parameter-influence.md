@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Rendering Parameter Influence"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Rendering and Visual Realism"
-parent-competency: "L4- Analyze Rendering Influence"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/rendering-and-visual-realism/rendering-and-visual-realism|rendering-and-visual-realism]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L3-analyze-rendering-influence|L3-analyze-rendering-influence]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Rendering Parameter Influence
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/rendering-and-visual-realis
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L4-analyze-rendering-influence|L4- Analyze Rendering Influence]]
+- [[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L3-analyze-rendering-influence|L4- Analyze Rendering Influence]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/storage-trade-offs|Storage Trade-offs]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/storage-trade-offs|storage-trade-offs]]"
 ---
 # Storage Trade-offs in Cloud Infrastructure
 

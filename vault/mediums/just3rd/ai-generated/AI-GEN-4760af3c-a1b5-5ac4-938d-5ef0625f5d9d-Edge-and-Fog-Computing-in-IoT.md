@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/edge-and-fog-computing-in-iot|Edge and Fog Computing in IoT]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/edge-and-fog-computing-in-iot|edge-and-fog-computing-in-iot]]"
 ---
 # Edge and Fog Computing in IoT
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "CPU Utilization"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Monitoring"
-parent-competency: "L1- Identify Infrastructure Metrics"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-monitoring/system-monitoring|system-monitoring]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L1-identify-infrastructure-metrics|L1-identify-infrastructure-metrics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # CPU Utilization

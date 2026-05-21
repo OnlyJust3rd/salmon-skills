@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Scheduled Command Execution"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Linux System"
-parent-competency: "L3- Implement Cron Jobs for Automation"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/linux-system/linux-system|linux-system]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-implement-cron-jobs-for-automation|L2-implement-cron-jobs-for-automation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Scheduled Command Execution
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/linux-system/linux-syst
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L3-implement-cron-jobs-for-automation|L3- Implement Cron Jobs for Automation]]
+- [[skills/cloud-devops/platform-engineering/linux-system/competencies/L2-implement-cron-jobs-for-automation|L3- Implement Cron Jobs for Automation]]
 
 ## Description
 

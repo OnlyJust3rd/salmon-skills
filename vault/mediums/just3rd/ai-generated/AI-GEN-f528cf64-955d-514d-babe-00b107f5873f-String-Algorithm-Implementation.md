@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/string-algorithm-implementation|String Algorithm Implementation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/string-algorithm-implementation|string-algorithm-implementation]]"
 ---
 # Implementing the Naive String Searching Algorithm in Java
 

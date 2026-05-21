@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/nullity-determination|Nullity determination]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/nullity-determination|nullity-determination]]"
 ---
 # Determining the Nullity of a Matrix
 

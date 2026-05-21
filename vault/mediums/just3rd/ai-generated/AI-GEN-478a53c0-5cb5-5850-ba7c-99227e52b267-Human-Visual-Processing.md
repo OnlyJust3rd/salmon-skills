@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/human-visual-processing|Human Visual Processing]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/human-visual-processing|human-visual-processing]]"
 ---
 # Understanding Human Visual Processing
 

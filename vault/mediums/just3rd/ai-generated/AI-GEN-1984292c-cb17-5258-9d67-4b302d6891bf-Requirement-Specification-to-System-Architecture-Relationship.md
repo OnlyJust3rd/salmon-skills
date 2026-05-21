@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/requirement-specification-to-system-architecture-relationship|Requirement Specification to System Architecture Relationship]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/requirement-specification-to-system-architecture-relationship|requirement-specification-to-system-architecture-relationship]]"
 ---
 # Bridging the Gap: From Requirements to System Architecture
 

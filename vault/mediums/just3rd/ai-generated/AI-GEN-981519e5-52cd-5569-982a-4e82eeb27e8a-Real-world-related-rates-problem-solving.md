@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/real-world-related-rates-problem-solving|Real-world related rates problem solving]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/real-world-related-rates-problem-solving|real-world-related-rates-problem-solving]]"
 ---
 # Solving Real-World Related Rates Problems
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Role Interdependencies"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Science"
-parent-competency: "L2- Data scientist roles and contributions"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/data-science/data-science|data-science]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/data-science/competencies/L1-data-scientist-roles-and-contributions|L1-data-scientist-roles-and-contributions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Role Interdependencies
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/data-science/data-science|Data Science]
 
 Parent competency:
 
-- [[skills/data/data-science/data-science/competencies/L2-data-scientist-roles-and-contributions|L2- Data scientist roles and contributions]]
+- [[skills/data/data-science/data-science/competencies/L1-data-scientist-roles-and-contributions|L2- Data scientist roles and contributions]]
 
 ## Description
 

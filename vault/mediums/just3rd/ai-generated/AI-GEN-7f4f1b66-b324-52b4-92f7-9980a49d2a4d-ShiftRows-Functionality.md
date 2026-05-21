@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-functionality|ShiftRows Functionality]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-functionality|shiftrows-functionality]]"
 ---
 # Understanding the ShiftRows Function in Block Ciphers
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/matrix-notation|Matrix notation]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/matrix-notation|matrix-notation]]"
 ---
 # Understanding Matrix Notation
 

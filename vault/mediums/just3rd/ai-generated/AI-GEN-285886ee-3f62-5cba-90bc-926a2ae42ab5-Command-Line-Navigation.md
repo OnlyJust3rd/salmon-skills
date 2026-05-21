@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/command-line-navigation|Command-Line Navigation]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/command-line-navigation|command-line-navigation]]"
 ---
 # Navigating the Linux File System with Commands
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-computation|Eigenvalue computation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-computation|eigenvalue-computation]]"
 ---
 # Calculating Eigenvalues: The Core of Spectral Analysis
 

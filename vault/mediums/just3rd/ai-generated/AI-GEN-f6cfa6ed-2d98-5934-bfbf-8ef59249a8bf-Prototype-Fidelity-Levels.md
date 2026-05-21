@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/prototype-fidelity-levels|Prototype Fidelity Levels]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/prototype-fidelity-levels|prototype-fidelity-levels]]"
 ---
 # Understanding Prototype Fidelity Levels
 

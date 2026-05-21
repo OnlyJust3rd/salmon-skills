@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonality-properties|Orthogonality properties]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonality-properties|orthogonality-properties]]"
 ---
 # Orthogonality Properties
 

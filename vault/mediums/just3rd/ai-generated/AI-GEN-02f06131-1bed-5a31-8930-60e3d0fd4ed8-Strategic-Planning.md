@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/strategic-planning|Strategic Planning]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/strategic-planning|strategic-planning]]"
 ---
 # Informing Strategy with Competitive Insights
 

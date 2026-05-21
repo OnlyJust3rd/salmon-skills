@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/approach-comparison|Approach comparison]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/approach-comparison|approach-comparison]]"
 ---
 # Model-Free vs. Model-Based Reinforcement Learning
 

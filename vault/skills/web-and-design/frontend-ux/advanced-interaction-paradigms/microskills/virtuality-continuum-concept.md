@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Virtuality Continuum Concept"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Advanced Interaction Paradigms"
-parent-competency: "L2- Outline virtuality continuum"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-outline-virtuality-continuum|L1-outline-virtuality-continuum]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Virtuality Continuum Concept
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L2-outline-virtuality-continuum|L2- Outline virtuality continuum]]
+- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-outline-virtuality-continuum|L2- Outline virtuality continuum]]
 
 ## Description
 

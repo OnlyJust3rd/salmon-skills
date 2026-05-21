@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-physics/microskills/velocity-control|Velocity Control]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/velocity-control|velocity-control]]"
 ---
 # Understanding and Controlling Velocity in Game Physics
 

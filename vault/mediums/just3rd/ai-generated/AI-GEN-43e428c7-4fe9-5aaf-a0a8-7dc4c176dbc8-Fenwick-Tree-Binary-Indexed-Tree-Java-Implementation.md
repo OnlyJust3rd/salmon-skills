@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/fenwick-tree-binary-indexed-tree-java-implementation|Fenwick Tree (Binary Indexed Tree) Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/fenwick-tree-binary-indexed-tree-java-implementation|fenwick-tree-binary-indexed-tree-java-implementation]]"
 ---
 # Fenwick Tree (Binary Indexed Tree) Java Implementation
 

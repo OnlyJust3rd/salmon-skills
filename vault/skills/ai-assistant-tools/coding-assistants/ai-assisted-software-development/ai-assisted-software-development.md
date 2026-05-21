@@ -1,16 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "AI-Assisted Software Development"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs: []
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/competencies/L1-explain-ai-assisted-coding-concepts|L1-explain-ai-assisted-coding-concepts]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/competencies/L2-apply-ai-assisted-code-generation-and-refactoring|L2-apply-ai-assisted-code-generation-and-refactoring]]"
+standard-competency:
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/competencies/L2-apply-ai-assisted-code-generation-and-refactoring|L2-apply-ai-assisted-code-generation-and-refactoring]]"
+microskills:
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/code-explanation|code-explanation]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/code-generation|code-generation]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/developer-oversight|developer-oversight]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/human-in-the-loop-edit|human-in-the-loop-edit]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/refactoring-request|refactoring-request]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/repository-context-prompting|repository-context-prompting]]"
 ---
 
 # AI-Assisted Software Development
@@ -19,8 +26,8 @@ Using AI systems to support code understanding, generation, refactoring, documen
 
 ## Competencies
 
-- [[L2-explain-ai-assisted-coding-concepts|L2- Explain AI-Assisted Coding Concepts]]
-- [[L3-apply-ai-assisted-code-generation-and-refactoring|L3- Apply AI-Assisted Code Generation and Refactoring]]
+- [[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/competencies/L1-explain-ai-assisted-coding-concepts|L2- Explain AI-Assisted Coding Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/competencies/L2-apply-ai-assisted-code-generation-and-refactoring|L3- Apply AI-Assisted Code Generation and Refactoring]]
 
 ## Microskills
 

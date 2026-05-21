@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/directed-vs-undirected-graphs|Directed vs. Undirected Graphs]]"
+  - "[[skills/programming/data-structures/graph-and-tree-modeling/microskills/directed-vs-undirected-graphs|directed-vs-undirected-graphs]]"
 ---
 # Understanding Directed vs. Undirected Graphs
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/invertibility-system-verification|Invertibility System Verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/invertibility-system-verification|invertibility-system-verification]]"
 ---
 # Verifying System Invertibility
 

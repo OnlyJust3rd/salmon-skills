@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-analysis-problem-solving|Engineering Analysis Problem Solving]]"
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/microskills/engineering-analysis-problem-solving|engineering-analysis-problem-solving]]"
 ---
 # Engineering Analysis Problem Solving
 

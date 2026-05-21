@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/summarization-of-ce-domain-functions|Summarization of CE Domain Functions]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/summarization-of-ce-domain-functions|summarization-of-ce-domain-functions]]"
 ---
 # Summarizing Computer Engineering Domains
 

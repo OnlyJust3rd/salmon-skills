@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Velocity Control"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Physics"
-parent-competency: "L3- Apply Rigid Body Movement and Forces Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-physics/game-physics|game-physics]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-physics/competencies/L2-apply-rigid-body-movement-and-forces-concepts|L2-apply-rigid-body-movement-and-forces-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Velocity Control
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-physics/game-physics
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-physics/competencies/L3-apply-rigid-body-movement-and-forces-concepts|L3- Apply Rigid Body Movement and Forces Concepts]]
+- [[skills/creative-media/game-development/game-physics/competencies/L2-apply-rigid-body-movement-and-forces-concepts|L3- Apply Rigid Body Movement and Forces Concepts]]
 
 ## Description
 

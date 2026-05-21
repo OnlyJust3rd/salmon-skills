@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/gameplay-driven-genre-classification|Gameplay-Driven Genre Classification]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/gameplay-driven-genre-classification|gameplay-driven-genre-classification]]"
 ---
 # Understanding Game Genres Through Gameplay Mechanics
 

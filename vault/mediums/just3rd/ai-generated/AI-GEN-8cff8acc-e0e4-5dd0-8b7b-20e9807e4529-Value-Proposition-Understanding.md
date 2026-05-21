@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/value-proposition-understanding|Value Proposition Understanding]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/value-proposition-understanding|value-proposition-understanding]]"
 ---
 # Understanding Your Value Proposition
 

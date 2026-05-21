@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Availability Zone Trade-offs"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud Infrastructure"
-parent-competency: "L4- Analyze Cloud Infrastructure Trade-offs"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/cloud-infrastructure|cloud-infrastructure]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/competencies/L3-analyze-cloud-infrastructure-trade-offs|L3-analyze-cloud-infrastructure-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Availability Zone Trade-offs
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-infrastructure/cl
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-infrastructure/competencies/L4-analyze-cloud-infrastructure-trade-offs|L4- Analyze Cloud Infrastructure Trade-offs]]
+- [[skills/cloud-devops/platform-engineering/cloud-infrastructure/competencies/L3-analyze-cloud-infrastructure-trade-offs|L4- Analyze Cloud Infrastructure Trade-offs]]
 
 ## Description
 

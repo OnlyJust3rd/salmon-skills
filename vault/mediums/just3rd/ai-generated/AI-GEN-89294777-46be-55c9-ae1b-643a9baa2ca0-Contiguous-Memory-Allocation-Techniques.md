@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|Contiguous Memory Allocation Techniques]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|contiguous-memory-allocation-techniques]]"
 ---
 # Contiguous Memory Allocation Techniques
 

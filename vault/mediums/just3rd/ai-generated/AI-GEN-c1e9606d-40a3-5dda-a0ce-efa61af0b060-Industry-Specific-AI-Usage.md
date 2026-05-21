@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/industry-specific-ai-usage|Industry-Specific AI Usage]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/industry-specific-ai-usage|industry-specific-ai-usage]]"
 ---
 # Industry-Specific AI Usage: Healthcare and Finance
 

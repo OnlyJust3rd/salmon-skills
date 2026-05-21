@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/percentage-error-significance|Percentage Error Significance]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/percentage-error-significance|percentage-error-significance]]"
 ---
 # Understanding Percentage Error Significance
 

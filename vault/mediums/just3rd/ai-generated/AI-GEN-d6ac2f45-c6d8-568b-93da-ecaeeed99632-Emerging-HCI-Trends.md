@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/emerging-hci-trends|Emerging HCI Trends]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/emerging-hci-trends|emerging-hci-trends]]"
 ---
 # Emerging HCI Trends
 

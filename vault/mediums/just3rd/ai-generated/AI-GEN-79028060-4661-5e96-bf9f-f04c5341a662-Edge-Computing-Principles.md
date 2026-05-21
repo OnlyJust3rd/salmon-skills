@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/edge-computing-principles|Edge Computing Principles]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/edge-computing-principles|edge-computing-principles]]"
 ---
 # Edge Computing Principles
 

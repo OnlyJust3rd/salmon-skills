@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-strategy-adaptation|Marketing Strategy Adaptation]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-strategy-adaptation|marketing-strategy-adaptation]]"
 ---
 # Adapting Marketing to the Technology Adoption Lifecycle
 

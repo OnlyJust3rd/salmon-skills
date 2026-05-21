@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Code Structure Improvement"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Refactoring"
-parent-competency: "L3- Apply Refactoring Techniques"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/refactoring/refactoring|refactoring]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/refactoring/competencies/L2-apply-refactoring-techniques|L2-apply-refactoring-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Code Structure Improvement
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/refactoring/refactoring|
 
 Parent competency:
 
-- [[skills/programming/software-engineering/refactoring/competencies/L3-apply-refactoring-techniques|L3- Apply Refactoring Techniques]]
+- [[skills/programming/software-engineering/refactoring/competencies/L2-apply-refactoring-techniques|L3- Apply Refactoring Techniques]]
 
 ## Description
 

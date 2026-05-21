@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/timer-counter-operations|Timer/Counter Operations]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/timer-counter-operations|timer-counter-operations]]"
 ---
 # Understanding AVR Timer/Counter Operations
 

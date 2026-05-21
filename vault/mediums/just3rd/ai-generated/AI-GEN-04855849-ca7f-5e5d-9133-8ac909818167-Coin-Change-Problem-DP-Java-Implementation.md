@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/coin-change-problem-dp-java-implementation|Coin Change Problem DP Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/coin-change-problem-dp-java-implementation|coin-change-problem-dp-java-implementation]]"
 ---
 # Coin Change Problem DP Java Implementation
 

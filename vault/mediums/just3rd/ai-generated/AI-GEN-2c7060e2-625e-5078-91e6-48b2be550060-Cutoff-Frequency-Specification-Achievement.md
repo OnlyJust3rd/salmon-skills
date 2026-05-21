@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/cutoff-frequency-specification-achievement|Cutoff Frequency Specification Achievement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/cutoff-frequency-specification-achievement|cutoff-frequency-specification-achievement]]"
 ---
 # Achieving Specific Cutoff Frequencies in RC and RL Filters
 

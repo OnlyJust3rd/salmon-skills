@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/transfer-function-property-assessment|Transfer Function Property Assessment]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/transfer-function-property-assessment|transfer-function-property-assessment]]"
 ---
 # Transfer Function Property Assessment: Causality and Stability
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-paradigms|Reactive Control Paradigms]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-paradigms|reactive-control-paradigms]]"
 ---
 # Understanding Reactive Control Paradigms in Robotics
 

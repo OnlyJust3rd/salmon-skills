@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/serverless-deployment-differences|Serverless Deployment Differences]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/serverless-deployment-differences|serverless-deployment-differences]]"
 ---
 # Serverless Deployment: A New Way to Deploy
 

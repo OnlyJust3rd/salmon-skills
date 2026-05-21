@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/vector-quantity-definition|Vector quantity definition]]"
+  - "[[skills/mathematics/vector/microskills/vector-quantity-definition|vector-quantity-definition]]"
 ---
 # Understanding Vector Quantities
 

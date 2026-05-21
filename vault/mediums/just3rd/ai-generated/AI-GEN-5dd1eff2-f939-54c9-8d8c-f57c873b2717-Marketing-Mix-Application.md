@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-application|Marketing Mix Application]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-application|marketing-mix-application]]"
 ---
 # Applying the Marketing Mix (4Ps/4Cs) for Strategic Planning
 

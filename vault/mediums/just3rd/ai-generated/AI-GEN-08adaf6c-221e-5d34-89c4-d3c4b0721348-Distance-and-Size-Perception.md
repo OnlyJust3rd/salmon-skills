@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/distance-and-size-perception|Distance and Size Perception]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/distance-and-size-perception|distance-and-size-perception]]"
 ---
 # Understanding Foreshortening in Perspective Projection
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/root-test-application|Root Test application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/root-test-application|root-test-application]]"
 ---
 # Applying the Root Test for Series Convergence
 

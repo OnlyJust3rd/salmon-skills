@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-testing/microskills/software-validation-context|Software Validation Context]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/software-validation-context|software-validation-context]]"
 ---
 # Software Validation: Are We Building the Right Product?
 

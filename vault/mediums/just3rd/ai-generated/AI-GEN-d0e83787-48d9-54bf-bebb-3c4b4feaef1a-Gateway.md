@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/business-process-modeling/microskills/gateway|Gateway]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/gateway|gateway]]"
 ---
 # Understanding Gateways in BPMN
 

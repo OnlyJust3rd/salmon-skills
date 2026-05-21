@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Orthogonality"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Subspaces and Orthogonality"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Fundamental Subspaces"
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-fundamental-subspaces|L1-define-fundamental-subspaces]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/subspaces-and-orthogonality/subspaces-and-orthogonality|subspaces-and-orthogonality]]"
+requires-microskills:
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonal-vector-identification|orthogonal-vector-identification]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonality-definition|orthogonality-definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonality-properties|orthogonality-properties]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Orthogonality
@@ -25,7 +27,7 @@ Define the concept of orthogonality for vectors and sets of vectors, and identif
 
 ## Strict Prerequisites
 
-- [[L1-define-fundamental-subspaces|L1- Define Fundamental Subspaces]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-fundamental-subspaces|L1- Define Fundamental Subspaces]]
 
 ## Optional Prerequisites
 

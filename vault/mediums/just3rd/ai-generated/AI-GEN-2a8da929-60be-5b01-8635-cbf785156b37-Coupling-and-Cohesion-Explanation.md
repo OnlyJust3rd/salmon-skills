@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/coupling-and-cohesion-explanation|Coupling and Cohesion Explanation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/coupling-and-cohesion-explanation|coupling-and-cohesion-explanation]]"
 ---
 # Understanding Coupling and Cohesion in Software Design
 

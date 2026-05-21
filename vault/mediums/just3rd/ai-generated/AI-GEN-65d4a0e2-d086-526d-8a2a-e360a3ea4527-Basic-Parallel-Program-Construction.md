@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/basic-parallel-program-construction|Basic Parallel Program Construction]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/basic-parallel-program-construction|basic-parallel-program-construction]]"
 ---
 # Building a Simple MPI Point-to-Point Application
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-step-function-properties|Unit Step Function Properties]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-step-function-properties|unit-step-function-properties]]"
 ---
 # Understanding the Unit Step Function Properties
 

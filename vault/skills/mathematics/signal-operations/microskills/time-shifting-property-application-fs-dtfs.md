@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Time-Shifting Property Application (FS/DTFS)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Signal Operations"
-parent-competency: "L3- Apply Signal Operations"
+  - "microskill"
+parent-skill: "[[skills/mathematics/signal-operations/signal-operations|signal-operations]]"
+requires-in-competencies:
+  - "[[skills/mathematics/signal-operations/competencies/L2-apply-signal-operations|L2-apply-signal-operations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Time-Shifting Property Application (FS/DTFS)
@@ -15,7 +17,7 @@ Parent macro: [[signal-operations|Signal Operations]]
 
 Parent competency:
 
-- [[L3-apply-signal-operations|L3- Apply Signal Operations]]
+- [[skills/mathematics/signal-operations/competencies/L2-apply-signal-operations|L3- Apply Signal Operations]]
 
 ## Description
 

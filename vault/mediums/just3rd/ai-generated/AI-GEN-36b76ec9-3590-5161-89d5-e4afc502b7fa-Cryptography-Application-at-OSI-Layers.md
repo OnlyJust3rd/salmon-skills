@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/cryptography-application-at-osi-layers|Cryptography Application at OSI Layers]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/cryptography-application-at-osi-layers|cryptography-application-at-osi-layers]]"
 ---
 # Cryptography's Place in the OSI Model
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/resulting-matrix-dimensions|Resulting matrix dimensions]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/resulting-matrix-dimensions|resulting-matrix-dimensions]]"
 ---
 # Understanding Resulting Matrix Dimensions in Multiplication
 

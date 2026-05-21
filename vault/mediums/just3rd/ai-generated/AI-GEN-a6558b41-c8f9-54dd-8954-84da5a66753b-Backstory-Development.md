@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/backstory-development|Backstory Development]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/backstory-development|backstory-development]]"
 ---
 # Crafting Compelling Backstories
 

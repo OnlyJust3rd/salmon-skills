@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Copyright Protection Scenario Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Copyright Protection"
-parent-competency: "L3- Apply Copyright Protection Techniques"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/copyright-protection/competencies/L2-apply-copyright-protection-techniques|L2-apply-copyright-protection-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Copyright Protection Scenario Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/copyright-protection/copyright-pro
 
 Parent competency:
 
-- [[skills/security/cybersecurity/copyright-protection/competencies/L3-apply-copyright-protection-techniques|L3- Apply Copyright Protection Techniques]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L2-apply-copyright-protection-techniques|L3- Apply Copyright Protection Techniques]]
 
 ## Description
 

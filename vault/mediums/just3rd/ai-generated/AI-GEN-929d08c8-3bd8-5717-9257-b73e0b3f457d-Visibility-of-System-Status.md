@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/visibility-of-system-status|Visibility of System Status]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/visibility-of-system-status|visibility-of-system-status]]"
 ---
 # Visibility of System Status
 

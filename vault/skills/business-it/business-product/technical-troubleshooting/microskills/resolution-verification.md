@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Resolution Verification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Technical Troubleshooting"
-parent-competency: "L2- Explain Technical Troubleshooting Methodology"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/technical-troubleshooting/technical-troubleshooting|technical-troubleshooting]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/technical-troubleshooting/competencies/L1-explain-technical-troubleshooting-methodology|L1-explain-technical-troubleshooting-methodology]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Resolution Verification
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/technical-troubleshooting/te
 
 Parent competency:
 
-- [[skills/business-it/business-product/technical-troubleshooting/competencies/L2-explain-technical-troubleshooting-methodology|L2- Explain Technical Troubleshooting Methodology]]
+- [[skills/business-it/business-product/technical-troubleshooting/competencies/L1-explain-technical-troubleshooting-methodology|L2- Explain Technical Troubleshooting Methodology]]
 
 ## Description
 

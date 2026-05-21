@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Build-Measure-Learn Cycle"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Lean Startup"
-parent-competency: "L1- Define Lean Startup and BML Principles"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-define-lean-startup-and-bml-principles|L1-define-lean-startup-and-bml-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Build-Measure-Learn Cycle

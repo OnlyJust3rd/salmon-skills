@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/spherical-coordinate-transformation-for-triple-integrals|Spherical coordinate transformation for triple integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/spherical-coordinate-transformation-for-triple-integrals|spherical-coordinate-transformation-for-triple-integrals]]"
 ---
 # Setting Up Triple Integrals with Spherical Coordinates
 

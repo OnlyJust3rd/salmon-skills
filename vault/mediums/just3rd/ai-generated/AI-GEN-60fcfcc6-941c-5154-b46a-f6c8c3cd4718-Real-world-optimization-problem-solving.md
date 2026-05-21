@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/real-world-optimization-problem-solving|Real-world optimization problem solving]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/real-world-optimization-problem-solving|real-world-optimization-problem-solving]]"
 ---
 # Real-World Optimization with Calculus
 

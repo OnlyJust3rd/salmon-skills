@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/storage-efficiency|Storage Efficiency]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/storage-efficiency|storage-efficiency]]"
 ---
 # Storage Efficiency in File Allocation
 

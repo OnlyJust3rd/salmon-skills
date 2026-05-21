@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/simple-mechanic-creation|Simple Mechanic Creation]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/simple-mechanic-creation|simple-mechanic-creation]]"
 ---
 # Creating Simple Character Movement
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Low-Pass Filter Behavior"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Filter Design"
-parent-competency: "L4- Differentiate filter types"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/filter-design/filter-design|filter-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L3-differentiate-filter-types|L3-differentiate-filter-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Low-Pass Filter Behavior
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/filter-design/filt
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L4-differentiate-filter-types|L4- Differentiate filter types]]
+- [[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L3-differentiate-filter-types|L4- Differentiate filter types]]
 
 ## Description
 

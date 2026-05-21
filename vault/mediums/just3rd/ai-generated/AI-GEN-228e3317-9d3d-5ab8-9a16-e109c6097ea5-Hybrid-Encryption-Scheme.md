@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/hybrid-encryption-scheme|Hybrid Encryption Scheme]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/hybrid-encryption-scheme|hybrid-encryption-scheme]]"
 ---
 # Hybrid Encryption Scheme
 

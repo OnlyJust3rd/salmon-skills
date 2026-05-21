@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "HSV Color Model"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Image Processing"
-parent-competency: "L2- Understand Color Models"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|digital-image-processing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L1-understand-color-models|L1-understand-color-models]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # HSV Color Model
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-image-proc
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-understand-color-models|L2- Understand Color Models]]
+- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L1-understand-color-models|L2- Understand Color Models]]
 
 ## Description
 

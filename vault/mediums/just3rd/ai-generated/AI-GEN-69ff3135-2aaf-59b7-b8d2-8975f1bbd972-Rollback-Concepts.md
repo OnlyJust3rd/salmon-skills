@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/rollback-concepts|Rollback Concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/rollback-concepts|rollback-concepts]]"
 ---
 # Understanding Rollbacks: Your Safety Net in Continuous Delivery
 

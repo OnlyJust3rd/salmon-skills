@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/hypothetical-employment-contexts|Hypothetical Employment Contexts]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/hypothetical-employment-contexts|hypothetical-employment-contexts]]"
 ---
 # Applying Contractual Relevance in Hypothetical Employment Contexts
 

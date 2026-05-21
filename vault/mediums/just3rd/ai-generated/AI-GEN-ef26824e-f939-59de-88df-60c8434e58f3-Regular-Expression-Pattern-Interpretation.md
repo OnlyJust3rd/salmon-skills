@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-pattern-interpretation|Regular Expression Pattern Interpretation]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-pattern-interpretation|regular-expression-pattern-interpretation]]"
 ---
 # Regular Expression Pattern Interpretation
 

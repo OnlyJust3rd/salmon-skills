@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/problem-definition-application|Problem Definition Application]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/problem-definition-application|problem-definition-application]]"
 ---
 # Applying Problem Definition in Engineering Scenarios
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/lowest-common-ancestor-lca-java-implementation|Lowest Common Ancestor (LCA) Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/lowest-common-ancestor-lca-java-implementation|lowest-common-ancestor-lca-java-implementation]]"
 ---
 # Finding the Lowest Common Ancestor (LCA) in Java
 

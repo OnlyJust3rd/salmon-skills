@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/implications-of-multivariable-continuity|Implications of multivariable continuity]]"
+  - "[[skills/mathematics/multivariable-calculus-analysis/microskills/implications-of-multivariable-continuity|implications-of-multivariable-continuity]]"
 ---
 # Implications of Multivariable Continuity
 

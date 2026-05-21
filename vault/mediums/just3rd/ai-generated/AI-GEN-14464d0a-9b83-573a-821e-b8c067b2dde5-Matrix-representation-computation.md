@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/matrix-representation-computation|Matrix representation computation]]"
+  - "[[skills/mathematics/linear-transformations/microskills/matrix-representation-computation|matrix-representation-computation]]"
 ---
 # Computing the Matrix Representation of a Linear Transformation
 

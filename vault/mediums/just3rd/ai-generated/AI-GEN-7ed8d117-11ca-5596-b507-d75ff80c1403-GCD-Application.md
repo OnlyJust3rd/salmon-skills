@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/gcd-application|GCD Application]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/gcd-application|gcd-application]]"
 ---
 # GCD Application in Cryptography
 

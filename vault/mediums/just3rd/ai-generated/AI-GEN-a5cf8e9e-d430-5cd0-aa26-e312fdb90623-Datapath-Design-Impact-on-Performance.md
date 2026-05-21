@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/datapath-design-impact-on-performance|Datapath Design Impact on Performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/datapath-design-impact-on-performance|datapath-design-impact-on-performance]]"
 ---
 # Datapath Design Impact on Processor Speed
 

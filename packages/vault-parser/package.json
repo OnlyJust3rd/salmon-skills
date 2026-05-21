@@ -1,0 +1,30 @@
+{
+  "name": "@salmon/vault-parser",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "license": "Apache-2.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "graph": "pnpm build && node script/parser.js ../../vault ../../apps/explorer/public/vault-graph.json",
+    "start:parser": "pnpm build && node script/parser.js",
+    "start": "pnpm build && node dist/index.js ../../vault",
+    "test": "pnpm build && node --test dist/index.test.js",
+    "validate": "pnpm build && node script/validate.js ../../vault"
+  },
+  "dependencies": {
+    "glob": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.12.4",
+    "typescript": "~6.0.2"
+  }
+}

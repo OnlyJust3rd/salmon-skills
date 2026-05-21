@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/conditional-convergence-identification|Conditional convergence identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/conditional-convergence-identification|conditional-convergence-identification]]"
 ---
 # Differentiating Conditional Convergence
 

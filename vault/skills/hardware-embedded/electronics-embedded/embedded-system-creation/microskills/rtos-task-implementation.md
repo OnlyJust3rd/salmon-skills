@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "RTOS Task Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Embedded System Creation"
-parent-competency: "L6- Complete Embedded System Creation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/embedded-system-creation|embedded-system-creation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/competencies/L4-complete-embedded-system-creation|L4-complete-embedded-system-creation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # RTOS Task Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/embedded-system-cr
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/embedded-system-creation/competencies/L6-complete-embedded-system-creation|L6- Complete Embedded System Creation]]
+- [[skills/hardware-embedded/electronics-embedded/embedded-system-creation/competencies/L4-complete-embedded-system-creation|L6- Complete Embedded System Creation]]
 
 ## Description
 

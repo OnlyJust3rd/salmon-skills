@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/basic-geometric-primitives|Basic Geometric Primitives]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/basic-geometric-primitives|basic-geometric-primitives]]"
 ---
 # Basic Geometric Primitives
 

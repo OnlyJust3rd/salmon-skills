@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Calculus Theorems"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Calculus Theorems Application"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
+requires-microskills:
+  - "[[skills/mathematics/calculus-theorems-application/microskills/extreme-value-theorem|extreme-value-theorem]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/intermediate-value-theorem|intermediate-value-theorem]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/theorems-for-continuous-functions|theorems-for-continuous-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Calculus Theorems

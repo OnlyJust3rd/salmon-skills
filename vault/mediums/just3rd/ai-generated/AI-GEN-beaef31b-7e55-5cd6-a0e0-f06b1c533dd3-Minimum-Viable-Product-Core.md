@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/minimum-viable-product-core|Minimum Viable Product Core]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/minimum-viable-product-core|minimum-viable-product-core]]"
 ---
 # Minimum Viable Product Core Functionalities
 

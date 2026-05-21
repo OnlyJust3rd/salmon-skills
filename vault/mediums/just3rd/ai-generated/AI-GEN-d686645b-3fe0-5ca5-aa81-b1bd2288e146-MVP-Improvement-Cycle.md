@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-improvement-cycle|MVP Improvement Cycle]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-improvement-cycle|mvp-improvement-cycle]]"
 ---
 # The MVP Improvement Cycle: Turning Feedback into Action
 

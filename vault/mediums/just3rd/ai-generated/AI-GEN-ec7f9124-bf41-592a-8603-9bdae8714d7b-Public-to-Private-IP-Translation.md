@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/public-to-private-ip-translation|Public to Private IP Translation]]"
+  - "[[skills/systems/networking/network-layer/microskills/public-to-private-ip-translation|public-to-private-ip-translation]]"
 ---
 # Understanding Public to Private IP Translation in NAT
 

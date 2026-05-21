@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/web-browsing-scenario|Web Browsing Scenario]]"
+  - "[[skills/systems/networking/application-layer/microskills/web-browsing-scenario|web-browsing-scenario]]"
 ---
 # Web Browsing Scenario: How HTTP and DNS Work Together
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/snowflake/microskills/secure-sharing|Secure Sharing]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/secure-sharing|secure-sharing]]"
 ---
 # Snowflake Secure Data Sharing: Controlled Access Without Copying
 

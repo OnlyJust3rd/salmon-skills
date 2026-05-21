@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-classification/microskills/bert-model-principles|BERT Model Principles]]"
+  - "[[skills/data/data-science/text-classification/microskills/bert-model-principles|bert-model-principles]]"
 ---
 # Understanding BERT Model Principles
 

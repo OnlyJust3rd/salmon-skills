@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/dimension-definition|Dimension definition]]"
+  - "[[skills/mathematics/vector-space/microskills/dimension-definition|dimension-definition]]"
 ---
 # Dimension of a Vector Space
 

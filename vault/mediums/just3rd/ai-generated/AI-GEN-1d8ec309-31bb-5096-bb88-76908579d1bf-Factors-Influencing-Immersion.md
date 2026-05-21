@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/factors-influencing-immersion|Factors Influencing Immersion]]"
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/factors-influencing-immersion|factors-influencing-immersion]]"
 ---
 # Factors Influencing Player Immersion
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/capital-expenditure-capex|Capital Expenditure (CAPEX)]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/capital-expenditure-capex|capital-expenditure-capex]]"
 ---
 # Understanding Capital Expenditure (CAPEX) in IT
 

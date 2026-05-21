@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/structure-of-jordan-block|Structure of Jordan block]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/structure-of-jordan-block|structure-of-jordan-block]]"
 ---
 # Understanding the Structure of a Jordan Block
 

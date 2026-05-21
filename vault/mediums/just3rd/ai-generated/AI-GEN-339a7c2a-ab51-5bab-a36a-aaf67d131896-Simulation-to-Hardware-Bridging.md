@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/simulation-to-hardware-bridging|Simulation to Hardware Bridging]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/simulation-to-hardware-bridging|simulation-to-hardware-bridging]]"
 ---
 # Simulation to Hardware Bridging: Bringing Your Verilog Design to Life on an FPGA
 

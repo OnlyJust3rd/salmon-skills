@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/recursive-process-analysis|Recursive Process Analysis]]"
+  - "[[skills/mathematics/proof-techniques/microskills/recursive-process-analysis|recursive-process-analysis]]"
 ---
 # Analyzing Recursive Processes
 

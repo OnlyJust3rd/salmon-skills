@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/time-domain-signal-visualization|Time Domain Signal Visualization]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/time-domain-signal-visualization|time-domain-signal-visualization]]"
 ---
 # Understanding Time Domain Signal Visualization
 

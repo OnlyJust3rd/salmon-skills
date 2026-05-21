@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/essential-feature-rationale|Essential Feature Rationale]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/essential-feature-rationale|essential-feature-rationale]]"
 ---
 # Justifying Your MVP's Essential Features
 

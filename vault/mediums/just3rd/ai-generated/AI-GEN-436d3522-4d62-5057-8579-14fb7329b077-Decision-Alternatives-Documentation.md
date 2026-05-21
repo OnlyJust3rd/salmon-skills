@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/decision-alternatives-documentation|Decision Alternatives Documentation]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/decision-alternatives-documentation|decision-alternatives-documentation]]"
 ---
 # Documenting Decision Alternatives
 

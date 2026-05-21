@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Event Producers"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Serverless Computing"
-parent-competency: "L2- Explain Event-Driven Architectures"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/serverless-computing/serverless-computing|serverless-computing]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/competencies/L1-explain-event-driven-architectures|L1-explain-event-driven-architectures]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Event Producers
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/serverless-computing/se
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/serverless-computing/competencies/L2-explain-event-driven-architectures|L2- Explain Event-Driven Architectures]]
+- [[skills/cloud-devops/platform-engineering/serverless-computing/competencies/L1-explain-event-driven-architectures|L2- Explain Event-Driven Architectures]]
 
 ## Description
 

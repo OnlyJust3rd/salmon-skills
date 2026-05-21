@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|SJF Algorithm Principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|sjf-algorithm-principles]]"
 ---
 # Understanding the Shortest Job First (SJF) Algorithm
 

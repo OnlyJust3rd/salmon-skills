@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/compute-instance-families|Compute Instance Families]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/compute-instance-families|compute-instance-families]]"
 ---
 # Compute Instance Families: Choosing the Right Virtual Machine
 

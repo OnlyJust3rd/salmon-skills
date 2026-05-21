@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/ols-implementation|OLS implementation]]"
+  - "[[skills/data/data-science/machine-learning/microskills/ols-implementation|ols-implementation]]"
 ---
 # Implementing Ordinary Least Squares (OLS) for Model Training
 

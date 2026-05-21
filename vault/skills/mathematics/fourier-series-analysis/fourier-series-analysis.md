@@ -1,18 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Fourier Series Analysis"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-coverage:
-  - "Concept"
-  - "Representation"
-  - "Implementation"
-competency-count: 2
-microskill-count: 8
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-313-signals-and-linear-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/fourier-series-analysis/competencies/L1-explain-sinusoidal-representation|L1-explain-sinusoidal-representation]]"
+  - "[[skills/mathematics/fourier-series-analysis/competencies/L2-compute-fs-dtfs-coefficients|L2-compute-fs-dtfs-coefficients]]"
+standard-competency:
+  - "[[skills/mathematics/fourier-series-analysis/competencies/L2-compute-fs-dtfs-coefficients|L2-compute-fs-dtfs-coefficients]]"
+microskills:
+  - "[[skills/mathematics/fourier-series-analysis/microskills/discrete-time-fourier-series-dtfs-definition|discrete-time-fourier-series-dtfs-definition]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/dtfs-coefficient-calculation|dtfs-coefficient-calculation]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/fourier-series-formula-application|fourier-series-formula-application]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/fourier-series-fs-definition|fourier-series-fs-definition]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/fs-coefficient-calculation|fs-coefficient-calculation]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/periodic-signal-decomposition-principle|periodic-signal-decomposition-principle]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/periodic-signal-decomposition|periodic-signal-decomposition]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/sine-and-cosine-component-identification|sine-and-cosine-component-identification]]"
 ---
 
 # Fourier Series Analysis
@@ -21,8 +28,8 @@ Analyzing periodic signals in the frequency domain using Continuous-Time and Dis
 
 ## Competencies
 
-- [[L2-explain-sinusoidal-representation|L2- Explain Sinusoidal Representation]]
-- [[L3-compute-fs-dtfs-coefficients|L3- Compute FS/DTFS coefficients]]
+- [[skills/mathematics/fourier-series-analysis/competencies/L1-explain-sinusoidal-representation|L2- Explain Sinusoidal Representation]]
+- [[skills/mathematics/fourier-series-analysis/competencies/L2-compute-fs-dtfs-coefficients|L3- Compute FS/DTFS coefficients]]
 
 ## Microskills
 

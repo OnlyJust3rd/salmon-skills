@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-enable-disable-control|Interrupt Enable/Disable Control]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-enable-disable-control|interrupt-enable-disable-control]]"
 ---
 # Interrupt Enable/Disable Control on AVR Microcontrollers
 

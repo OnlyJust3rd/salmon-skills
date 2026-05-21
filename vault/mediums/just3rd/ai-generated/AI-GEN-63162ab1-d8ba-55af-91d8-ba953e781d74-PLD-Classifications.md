@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-classifications|PLD Classifications]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-classifications|pld-classifications]]"
 ---
 # PLD Classifications: Remembering the Types
 

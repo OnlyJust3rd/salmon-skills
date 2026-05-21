@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/input-output-behavior-analysis|Input-Output Behavior Analysis]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/input-output-behavior-analysis|input-output-behavior-analysis]]"
 ---
 # Analyzing System Input-Output Behavior
 

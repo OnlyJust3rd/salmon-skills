@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/job-scheduling-with-deadlines-greedy-java-implementation|Job Scheduling with Deadlines Greedy Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/job-scheduling-with-deadlines-greedy-java-implementation|job-scheduling-with-deadlines-greedy-java-implementation]]"
 ---
 # Job Scheduling with Deadlines: Greedy Java Implementation
 

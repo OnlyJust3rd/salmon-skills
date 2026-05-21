@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/instruction-sequence-pipelining|Instruction Sequence Pipelining]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/instruction-sequence-pipelining|instruction-sequence-pipelining]]"
 ---
 # Applying Pipeline Stages to Instruction Sequences
 

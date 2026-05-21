@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/vulnerability-assessment/microskills/risk-rating-factors|Risk Rating Factors]]"
+  - "[[skills/security/cybersecurity/vulnerability-assessment/microskills/risk-rating-factors|risk-rating-factors]]"
 ---
 # Understanding Risk Rating Factors in Vulnerability Assessment
 

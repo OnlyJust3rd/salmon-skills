@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/transformation-effects|Transformation Effects]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/transformation-effects|transformation-effects]]"
 ---
 # Understanding Transformation Effects on Geometric Objects
 

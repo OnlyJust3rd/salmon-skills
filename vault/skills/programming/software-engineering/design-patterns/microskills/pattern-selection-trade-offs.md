@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Pattern Selection Trade-offs"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE362 - Object Oriented Analysis and Design"
-parent-macro: "Design Patterns"
-parent-competency: "L4- Analyze Design Pattern Trade-offs"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/design-patterns/design-patterns|design-patterns]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/design-patterns/competencies/L3-analyze-design-pattern-trade-offs|L3-analyze-design-pattern-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Pattern Selection Trade-offs
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/design-patterns/design-p
 
 Parent competency:
 
-- [[skills/programming/software-engineering/design-patterns/competencies/L4-analyze-design-pattern-trade-offs|L4- Analyze Design Pattern Trade-offs]]
+- [[skills/programming/software-engineering/design-patterns/competencies/L3-analyze-design-pattern-trade-offs|L4- Analyze Design Pattern Trade-offs]]
 
 ## Description
 

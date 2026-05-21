@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Secure Communication Protocols (TLS)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Security and Privacy"
-parent-competency: "L2- Understand IoT Security Mechanisms"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/iot-security-and-privacy/iot-security-and-privacy|iot-security-and-privacy]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/competencies/L1-understand-iot-security-mechanisms|L1-understand-iot-security-mechanisms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Secure Communication Protocols (TLS)
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/iot-security-and-privacy/iot-secur
 
 Parent competency:
 
-- [[skills/security/cybersecurity/iot-security-and-privacy/competencies/L2-understand-iot-security-mechanisms|L2- Understand IoT Security Mechanisms]]
+- [[skills/security/cybersecurity/iot-security-and-privacy/competencies/L1-understand-iot-security-mechanisms|L2- Understand IoT Security Mechanisms]]
 
 ## Description
 

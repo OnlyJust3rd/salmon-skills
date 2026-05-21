@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/solution-validation-mechanisms|Solution Validation Mechanisms]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/solution-validation-mechanisms|solution-validation-mechanisms]]"
 ---
 # Understanding Solution Validation Mechanisms
 

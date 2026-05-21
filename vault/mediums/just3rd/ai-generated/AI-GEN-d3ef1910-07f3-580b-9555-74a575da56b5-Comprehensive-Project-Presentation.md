@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/comprehensive-project-presentation|Comprehensive Project Presentation]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/comprehensive-project-presentation|comprehensive-project-presentation]]"
 ---
 # Crafting a Comprehensive Project Presentation
 

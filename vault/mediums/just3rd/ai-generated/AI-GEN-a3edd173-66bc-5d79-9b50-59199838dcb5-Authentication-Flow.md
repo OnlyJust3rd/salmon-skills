@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/authentication-flow|Authentication Flow]]"
+  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/authentication-flow|authentication-flow]]"
 ---
 # Understanding the Firebase Authentication Flow
 

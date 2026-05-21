@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/emotional-design-considerations|Emotional Design Considerations]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/emotional-design-considerations|emotional-design-considerations]]"
 ---
 # Emotional Design Considerations in UX
 

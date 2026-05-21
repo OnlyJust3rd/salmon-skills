@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/electrical-quantity-units|Electrical Quantity Units]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/electrical-quantity-units|electrical-quantity-units]]"
 ---
 # Understanding Electrical Quantity Units
 

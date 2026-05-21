@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/organizational-structures/microskills/organizational-structure-types|Organizational Structure Types]]"
+  - "[[skills/business-it/business-product/organizational-structures/microskills/organizational-structure-types|organizational-structure-types]]"
 ---
 # Identifying Organizational Structure Types
 

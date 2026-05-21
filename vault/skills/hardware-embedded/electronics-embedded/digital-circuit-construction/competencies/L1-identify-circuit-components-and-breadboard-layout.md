@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Circuit Components and Breadboard Layout"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Digital Circuit Construction"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Recall Logic Gate Basics"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-recall-logic-gate-basics|L1-recall-logic-gate-basics]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/digital-circuit-construction|digital-circuit-construction]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/breadboard-layout-conventions|breadboard-layout-conventions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/discrete-component-identification|discrete-component-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/ic-package-identification|ic-package-identification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Circuit Components and Breadboard Layout

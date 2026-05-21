@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/structured-technical-report-components|Structured Technical Report Components]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/structured-technical-report-components|structured-technical-report-components]]"
 ---
 # Understanding the Core Components of a Technical Report
 

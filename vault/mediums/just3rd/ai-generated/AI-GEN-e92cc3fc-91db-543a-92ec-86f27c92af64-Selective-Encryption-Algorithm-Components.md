@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-algorithm-components|Selective Encryption Algorithm Components]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-algorithm-components|selective-encryption-algorithm-components]]"
 ---
 # Understanding the Building Blocks of Selective Encryption Algorithms
 

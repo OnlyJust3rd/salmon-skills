@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/z-algorithm-java-implementation|Z-Algorithm Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/z-algorithm-java-implementation|z-algorithm-java-implementation]]"
 ---
 # Z-Algorithm: Java Implementation for Efficient String Matching
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/algorithmic-efficiency-trade-offs|Algorithmic Efficiency Trade-offs]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/algorithmic-efficiency-trade-offs|algorithmic-efficiency-trade-offs]]"
 ---
 # Algorithmic Efficiency Trade-offs
 

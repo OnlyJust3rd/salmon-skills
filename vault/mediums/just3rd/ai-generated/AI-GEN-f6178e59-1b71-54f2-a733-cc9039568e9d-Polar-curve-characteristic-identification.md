@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-characteristic-identification|Polar curve characteristic identification]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-curve-characteristic-identification|polar-curve-characteristic-identification]]"
 ---
 # Identifying Characteristics of Polar Curves
 

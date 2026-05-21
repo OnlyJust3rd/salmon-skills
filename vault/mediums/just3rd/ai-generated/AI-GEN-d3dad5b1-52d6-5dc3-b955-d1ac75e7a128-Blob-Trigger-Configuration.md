@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/blob-trigger-configuration|Blob Trigger Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/blob-trigger-configuration|blob-trigger-configuration]]"
 ---
 # Blob Trigger Configuration for Serverless Functions
 

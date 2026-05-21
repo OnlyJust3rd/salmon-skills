@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/communication-security-principles|Communication Security Principles]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/communication-security-principles|communication-security-principles]]"
 ---
 # Understanding Communication Security Principles
 

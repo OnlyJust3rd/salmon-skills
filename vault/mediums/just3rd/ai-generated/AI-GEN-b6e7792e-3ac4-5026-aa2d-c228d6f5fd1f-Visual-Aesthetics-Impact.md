@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/visual-aesthetics-impact|Visual Aesthetics Impact]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/visual-aesthetics-impact|visual-aesthetics-impact]]"
 ---
 # Visual Aesthetics in User Interface Design
 

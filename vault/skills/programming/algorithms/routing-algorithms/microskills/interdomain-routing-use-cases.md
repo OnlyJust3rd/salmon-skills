@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interdomain Routing Use Cases"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Routing Algorithms"
-parent-competency: "L4- Differentiate use cases and limitations"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/routing-algorithms/routing-algorithms|routing-algorithms]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/routing-algorithms/competencies/L3-differentiate-use-cases-and-limitations|L3-differentiate-use-cases-and-limitations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interdomain Routing Use Cases
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/routing-algorithms/routing-algorit
 
 Parent competency:
 
-- [[skills/programming/algorithms/routing-algorithms/competencies/L4-differentiate-use-cases-and-limitations|L4- Differentiate use cases and limitations]]
+- [[skills/programming/algorithms/routing-algorithms/competencies/L3-differentiate-use-cases-and-limitations|L4- Differentiate use cases and limitations]]
 
 ## Description
 

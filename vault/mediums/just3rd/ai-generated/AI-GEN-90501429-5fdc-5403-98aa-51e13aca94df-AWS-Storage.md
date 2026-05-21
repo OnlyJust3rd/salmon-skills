@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-storage|AWS Storage]]"
+  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-storage|aws-storage]]"
 ---
 # AWS Storage Fundamentals
 

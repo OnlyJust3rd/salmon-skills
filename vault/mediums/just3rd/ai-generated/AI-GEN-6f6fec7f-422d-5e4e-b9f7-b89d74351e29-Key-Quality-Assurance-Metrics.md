@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/key-quality-assurance-metrics|Key Quality Assurance Metrics]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/key-quality-assurance-metrics|key-quality-assurance-metrics]]"
 ---
 # Key Quality Assurance Metrics
 

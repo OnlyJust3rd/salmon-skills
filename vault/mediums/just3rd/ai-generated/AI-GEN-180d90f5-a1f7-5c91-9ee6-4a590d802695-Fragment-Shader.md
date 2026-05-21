@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/shader-programming/microskills/fragment-shader|Fragment Shader]]"
+  - "[[skills/programming/programming-languages/shader-programming/microskills/fragment-shader|fragment-shader]]"
 ---
 # Understanding the Fragment Shader: Coloring Every Pixel
 

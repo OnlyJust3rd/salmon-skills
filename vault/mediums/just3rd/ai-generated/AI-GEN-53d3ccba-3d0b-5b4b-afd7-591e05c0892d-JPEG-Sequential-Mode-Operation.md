@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-sequential-mode-operation|JPEG Sequential Mode Operation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-sequential-mode-operation|jpeg-sequential-mode-operation]]"
 ---
 # Understanding JPEG Sequential Mode Operation
 

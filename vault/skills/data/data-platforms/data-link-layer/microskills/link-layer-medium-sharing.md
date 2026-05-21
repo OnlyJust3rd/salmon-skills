@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Link Layer Medium Sharing"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Data Link Layer"
-parent-competency: "L2- Multiple Access Protocol Explanation"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-link-layer/data-link-layer|data-link-layer]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-link-layer/competencies/L1-multiple-access-protocol-explanation|L1-multiple-access-protocol-explanation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Link Layer Medium Sharing
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-link-layer/data-link-layer|Data 
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-link-layer/competencies/L2-multiple-access-protocol-explanation|L2- Multiple Access Protocol Explanation]]
+- [[skills/data/data-platforms/data-link-layer/competencies/L1-multiple-access-protocol-explanation|L2- Multiple Access Protocol Explanation]]
 
 ## Description
 

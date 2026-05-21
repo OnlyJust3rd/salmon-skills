@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/i-o-port-data-flow|I/O Port Data Flow]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/i-o-port-data-flow|i-o-port-data-flow]]"
 ---
 # AVR Microcontroller: I/O Port Data Flow
 

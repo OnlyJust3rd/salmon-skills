@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/project-management/microskills/role-allocation|Role Allocation]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/role-allocation|role-allocation]]"
 ---
 # Assigning Roles: Your Project's Backbone
 

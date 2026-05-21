@@ -1,18 +1,52 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Watermarking Performance and Attacks"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-coverage:
-  - "Evaluation"
-  - "Analysis"
-  - "ToolUsage"
-competency-count: 5
-microskill-count: 30
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/n-a-cryptographic-techniques-for-multimedia-communication"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L1-list-watermarking-metrics-and-attacks|L1-list-watermarking-metrics-and-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L1-explain-watermarking-concepts-and-attack-mechanisms|L1-explain-watermarking-concepts-and-attack-mechanisms]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L2-apply-watermarking-metrics-calculation-and-attack-simulation|L2-apply-watermarking-metrics-calculation-and-attack-simulation]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-analyze-watermarking-attacks-and-benchmark-tool-effectiveness|L3-analyze-watermarking-attacks-and-benchmark-tool-effectiveness]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-evaluate-watermarking-performance|L3-evaluate-watermarking-performance]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L2-apply-watermarking-metrics-calculation-and-attack-simulation|L2-apply-watermarking-metrics-calculation-and-attack-simulation]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-analyze-watermarking-attacks-and-benchmark-tool-effectiveness|L3-analyze-watermarking-attacks-and-benchmark-tool-effectiveness]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-evaluate-watermarking-performance|L3-evaluate-watermarking-performance]]"
+microskills:
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-capacity|attack-impact-on-capacity]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-imperceptibility|attack-impact-on-imperceptibility]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-robustness|attack-impact-on-robustness]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/benchmark-tool-effectiveness-analysis|benchmark-tool-effectiveness-analysis]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/capacity-concept|capacity-concept]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attack-mechanisms|cryptography-attack-mechanisms]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attacks|cryptography-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attack-mechanisms|geometric-attack-mechanisms]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attacks|geometric-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/imperceptibility-concept|imperceptibility-concept]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/mean-opinion-score-mos|mean-opinion-score-mos]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/mean-squared-error-mse|mean-squared-error-mse]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics-calculation|objective-watermarking-metrics-calculation]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics|objective-watermarking-metrics]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/peak-signal-to-noise-ratio-psnr|peak-signal-to-noise-ratio-psnr]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attack-mechanisms|protocol-attack-mechanisms]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attacks-copy-attacks|protocol-attacks-copy-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attack-mechanisms|removal-attack-mechanisms]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attacks|removal-attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/robustness-assessment|robustness-assessment]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/robustness-concept|robustness-concept]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/stirmark-tool-usage|stirmark-tool-usage]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/structural-similarity-index-ssim|structural-similarity-index-ssim]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/subjective-watermarking-metrics|subjective-watermarking-metrics]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-analysis|watermarking-attack-analysis]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-categories|watermarking-attack-categories]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-simulation|watermarking-attack-simulation]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-design-significance|watermarking-design-significance]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-effectiveness-judgment|watermarking-effectiveness-judgment]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-performance-metric-application|watermarking-performance-metric-application]]"
 ---
 
 # Watermarking Performance and Attacks
@@ -22,10 +56,10 @@ Evaluating the inherent trade-offs in watermarking (imperceptibility vs. robustn
 ## Competencies
 
 - [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L1-list-watermarking-metrics-and-attacks|L1- List Watermarking Metrics and Attacks]]
-- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L2-explain-watermarking-concepts-and-attack-mechanisms|L2- Explain Watermarking Concepts and Attack Mechanisms]]
-- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-apply-watermarking-metrics-calculation-and-attack-simulation|L3- Apply Watermarking Metrics Calculation and Attack Simulation]]
-- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L4-analyze-watermarking-attacks-and-benchmark-tool-effectiveness|L4- Analyze Watermarking Attacks and Benchmark Tool Effectiveness]]
-- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L5-evaluate-watermarking-performance|L5- Evaluate Watermarking Performance]]
+- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L1-explain-watermarking-concepts-and-attack-mechanisms|L2- Explain Watermarking Concepts and Attack Mechanisms]]
+- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L2-apply-watermarking-metrics-calculation-and-attack-simulation|L3- Apply Watermarking Metrics Calculation and Attack Simulation]]
+- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-analyze-watermarking-attacks-and-benchmark-tool-effectiveness|L4- Analyze Watermarking Attacks and Benchmark Tool Effectiveness]]
+- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L3-evaluate-watermarking-performance|L5- Evaluate Watermarking Performance]]
 
 ## Microskills
 

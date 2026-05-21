@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/operational-trade-off|Operational Trade-off]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/operational-trade-off|operational-trade-off]]"
 ---
 # Operational Trade-offs in SaaS Tenancy
 

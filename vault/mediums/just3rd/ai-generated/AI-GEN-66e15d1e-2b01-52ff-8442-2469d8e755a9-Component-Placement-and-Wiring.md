@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/component-placement-and-wiring|Component Placement and Wiring]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/component-placement-and-wiring|component-placement-and-wiring]]"
 ---
 # Placing Components and Wiring in Tinkercad
 

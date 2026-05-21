@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/exponential-signal-forms|Exponential Signal Forms]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/exponential-signal-forms|exponential-signal-forms]]"
 ---
 # Understanding Exponential Signal Forms
 

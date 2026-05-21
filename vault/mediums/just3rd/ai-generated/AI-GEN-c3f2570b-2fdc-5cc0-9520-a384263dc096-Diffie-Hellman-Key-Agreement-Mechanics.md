@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/diffie-hellman-key-agreement-mechanics|Diffie-Hellman Key Agreement Mechanics]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/diffie-hellman-key-agreement-mechanics|diffie-hellman-key-agreement-mechanics]]"
 ---
 # Diffie-Hellman Key Agreement Mechanics
 

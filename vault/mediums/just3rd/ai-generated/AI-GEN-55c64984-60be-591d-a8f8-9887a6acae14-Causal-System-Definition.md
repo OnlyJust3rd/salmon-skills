@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/causal-system-definition|Causal System Definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/causal-system-definition|causal-system-definition]]"
 ---
 # Understanding Causal Systems
 

@@ -1,33 +1,26 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Software Version Control"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 334 - Software Engineering"
-coverage:
-  - "ToolUsage"
-competency-count: 3
-microskill-count: 8
-related-jobs:
-  - "Backend Developer"
-  - "DevOps Engineer"
-  - "Frontend Developer"
-  - "Full Stack Developer"
-  - "Software Engineer"
-  - "QA Engineer"
-  - "Machine Learning Engineer"
-  - "Cloud Engineer"
-  - "IT Support Specialist"
-  - "System Engineer"
-  - "Mobile Application Developer"
-  - "AI Developer"
-  - "Data Engineer"
-  - "Game Developer"
-  - "Unity Developer"
-  - "Unreal Engine Developer"
-  - "Gameplay Programmer"
-source-note: "courses/kmutt/cpe-2021/cpe-334-software-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/software-version-control/competencies/L1-define-scm|L1-define-scm]]"
+  - "[[skills/programming/software-engineering/software-version-control/competencies/L1-explain-scm-concepts|L1-explain-scm-concepts]]"
+  - "[[skills/programming/software-engineering/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
+microskills:
+  - "[[skills/programming/software-engineering/software-version-control/microskills/baseline-concepts|baseline-concepts]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/branching-concepts|branching-concepts]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/git-branch-creation|git-branch-creation]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/git-change-tracking|git-change-tracking]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/git-version-management|git-version-management]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/scm-key-objectives|scm-key-objectives]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/software-configuration-management-definition|software-configuration-management-definition]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/version-identification-concepts|version-identification-concepts]]"
 ---
 
 # Software Version Control
@@ -37,8 +30,8 @@ Systematically tracking and controlling changes in software projects using Softw
 ## Competencies
 
 - [[skills/programming/software-engineering/software-version-control/competencies/L1-define-scm|L1- Define SCM]]
-- [[skills/programming/software-engineering/software-version-control/competencies/L2-explain-scm-concepts|L2- Explain SCM Concepts]]
-- [[skills/programming/software-engineering/software-version-control/competencies/L3-utilize-git|L3- Utilize Git]]
+- [[skills/programming/software-engineering/software-version-control/competencies/L1-explain-scm-concepts|L2- Explain SCM Concepts]]
+- [[skills/programming/software-engineering/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]
 
 ## Microskills
 

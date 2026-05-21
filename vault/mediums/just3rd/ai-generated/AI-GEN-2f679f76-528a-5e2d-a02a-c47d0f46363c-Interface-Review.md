@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/interface-review|Interface Review]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/interface-review|interface-review]]"
 ---
 # Interface Review: Applying Usability Principles
 

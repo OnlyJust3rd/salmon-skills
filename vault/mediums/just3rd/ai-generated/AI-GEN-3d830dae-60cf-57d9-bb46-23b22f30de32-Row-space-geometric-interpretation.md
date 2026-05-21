@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-geometric-interpretation|Row space geometric interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-geometric-interpretation|row-space-geometric-interpretation]]"
 ---
 # Understanding the Geometric Formation of the Row Space
 

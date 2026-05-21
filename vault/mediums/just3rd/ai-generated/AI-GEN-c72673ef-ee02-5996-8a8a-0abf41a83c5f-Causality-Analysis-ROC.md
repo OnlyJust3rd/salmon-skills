@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/causality-analysis-roc|Causality Analysis (ROC)]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/causality-analysis-roc|causality-analysis-roc]]"
 ---
 # Causality Analysis from the Region of Convergence (ROC)
 

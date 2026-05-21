@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-service-management/microskills/ticket-classification|Ticket Classification]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/ticket-classification|ticket-classification]]"
 ---
 # Ticket Classification: The First Step in Incident Resolution
 

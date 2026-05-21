@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Cutoff Frequency Concept"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Filter Design"
-parent-competency: "L2- Understand RC/RL circuits and cutoff frequency"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/filter-design/filter-design|filter-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L1-understand-rc-rl-circuits-and-cutoff-frequency|L1-understand-rc-rl-circuits-and-cutoff-frequency]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Cutoff Frequency Concept
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/filter-design/filt
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L2-understand-rc-rl-circuits-and-cutoff-frequency|L2- Understand RC/RL circuits and cutoff frequency]]
+- [[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L1-understand-rc-rl-circuits-and-cutoff-frequency|L2- Understand RC/RL circuits and cutoff frequency]]
 
 ## Description
 

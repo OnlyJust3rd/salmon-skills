@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attack-mechanisms|Geometric Attack Mechanisms]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attack-mechanisms|geometric-attack-mechanisms]]"
 ---
 # Understanding Geometric Attack Mechanisms in Digital Watermarking
 

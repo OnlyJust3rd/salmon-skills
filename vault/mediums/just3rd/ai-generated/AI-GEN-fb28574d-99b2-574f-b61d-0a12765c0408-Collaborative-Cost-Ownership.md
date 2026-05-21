@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/collaborative-cost-ownership|Collaborative Cost Ownership]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/collaborative-cost-ownership|collaborative-cost-ownership]]"
 ---
 # Collaborative Cost Ownership in Cloud FinOps
 

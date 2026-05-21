@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/cpu-core-architecture|CPU Core Architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/cpu-core-architecture|cpu-core-architecture]]"
 ---
 # Understanding the AVR CPU Core
 

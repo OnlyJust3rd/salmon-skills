@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/dimensional-model-concepts|Dimensional Model Concepts]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/dimensional-model-concepts|dimensional-model-concepts]]"
 ---
 # Dimensional Model Concepts
 

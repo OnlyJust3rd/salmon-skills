@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/performance-metric-assessment|Performance Metric Assessment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/performance-metric-assessment|performance-metric-assessment]]"
 ---
 # Assessing Processor Performance Metrics
 

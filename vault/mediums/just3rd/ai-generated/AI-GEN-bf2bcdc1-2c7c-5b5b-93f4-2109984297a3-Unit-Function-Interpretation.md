@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-function-interpretation|Unit Function Interpretation]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-function-interpretation|unit-function-interpretation]]"
 ---
 # Understanding Unit Function Significance
 

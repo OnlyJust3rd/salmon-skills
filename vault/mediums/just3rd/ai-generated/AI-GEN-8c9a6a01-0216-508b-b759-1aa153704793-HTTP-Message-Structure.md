@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/http-message-structure|HTTP Message Structure]]"
+  - "[[skills/systems/networking/application-layer/microskills/http-message-structure|http-message-structure]]"
 ---
 # Understanding HTTP Message Structure
 

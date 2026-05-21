@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-operation|Tri-state Buffer Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-operation|tri-state-buffer-operation]]"
 ---
 # Understanding Tri-state Buffers
 

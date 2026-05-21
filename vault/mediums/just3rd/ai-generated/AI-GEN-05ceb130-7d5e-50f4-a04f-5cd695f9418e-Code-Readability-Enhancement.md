@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-readability-enhancement|Code Readability Enhancement]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-readability-enhancement|code-readability-enhancement]]"
 ---
 # Enhancing Code Readability Through Refactoring
 

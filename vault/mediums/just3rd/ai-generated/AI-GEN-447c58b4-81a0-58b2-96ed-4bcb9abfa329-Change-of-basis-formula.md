@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/change-of-basis-formula|Change of basis formula]]"
+  - "[[skills/mathematics/vector-space/microskills/change-of-basis-formula|change-of-basis-formula]]"
 ---
 # Applying the Change of Basis Formula
 

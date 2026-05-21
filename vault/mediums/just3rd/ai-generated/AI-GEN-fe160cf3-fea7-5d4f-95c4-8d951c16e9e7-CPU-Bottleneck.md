@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/cpu-bottleneck|CPU Bottleneck]]"
+  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/cpu-bottleneck|cpu-bottleneck]]"
 ---
 # Understanding CPU Bottlenecks in Game Development
 

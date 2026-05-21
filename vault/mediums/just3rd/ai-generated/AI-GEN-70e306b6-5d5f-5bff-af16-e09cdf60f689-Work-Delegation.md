@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/work-delegation|Work Delegation]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/work-delegation|work-delegation]]"
 ---
 # Understanding Work Delegation in Claude Cowork
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-baud-rate-registers|UART Baud Rate Registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-baud-rate-registers|uart-baud-rate-registers]]"
 ---
 # UART Baud Rate Registers
 

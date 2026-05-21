@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/process-model-suitability-assessment|Process Model Suitability Assessment]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/process-model-suitability-assessment|process-model-suitability-assessment]]"
 ---
 # Assessing Process Model Suitability for Software Projects
 

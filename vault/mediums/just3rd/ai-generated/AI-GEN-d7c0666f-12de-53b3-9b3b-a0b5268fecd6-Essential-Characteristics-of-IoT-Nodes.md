@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/essential-characteristics-of-iot-nodes|Essential Characteristics of IoT Nodes]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/essential-characteristics-of-iot-nodes|essential-characteristics-of-iot-nodes]]"
 ---
 # Understanding the Essential Characteristics of IoT Nodes
 

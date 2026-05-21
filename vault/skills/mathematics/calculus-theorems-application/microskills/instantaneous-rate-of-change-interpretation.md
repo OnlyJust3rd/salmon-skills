@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Instantaneous rate of change interpretation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Calculus Theorems Application"
-parent-competency: "L2- Explain MVT Relationship"
+  - "microskill"
+parent-skill: "[[skills/mathematics/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
+requires-in-competencies:
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-explain-mvt-relationship|L1-explain-mvt-relationship]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Instantaneous rate of change interpretation
@@ -15,7 +17,7 @@ Parent macro: [[calculus-theorems-application|Calculus Theorems Application]]
 
 Parent competency:
 
-- [[L2-explain-mvt-relationship|L2- Explain MVT Relationship]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-explain-mvt-relationship|L2- Explain MVT Relationship]]
 
 ## Description
 

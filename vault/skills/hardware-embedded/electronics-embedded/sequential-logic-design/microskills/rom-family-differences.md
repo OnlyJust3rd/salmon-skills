@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "ROM Family Differences"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Sequential Logic Design"
-parent-competency: "L2- Explain Memory Device Architecture"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/sequential-logic-design|sequential-logic-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-explain-memory-device-architecture|L1-explain-memory-device-architecture]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # ROM Family Differences
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/sequential-logic-d
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L2-explain-memory-device-architecture|L2- Explain Memory Device Architecture]]
+- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-explain-memory-device-architecture|L2- Explain Memory Device Architecture]]
 
 ## Description
 

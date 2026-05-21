@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-indexing/microskills/query-predicate-support|Query Predicate Support]]"
+  - "[[skills/data/databases/database-indexing/microskills/query-predicate-support|query-predicate-support]]"
 ---
 # Understanding How Indexes Support Query Predicates
 

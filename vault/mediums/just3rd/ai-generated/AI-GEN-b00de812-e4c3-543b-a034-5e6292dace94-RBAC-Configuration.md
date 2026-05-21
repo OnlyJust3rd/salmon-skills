@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/rbac-configuration|RBAC Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/rbac-configuration|rbac-configuration]]"
 ---
 # Kubernetes RBAC Configuration
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/sufficient-conditions-for-diagonalization|Sufficient conditions for diagonalization]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/sufficient-conditions-for-diagonalization|sufficient-conditions-for-diagonalization]]"
 ---
 # Sufficient Conditions for Matrix Diagonalization
 

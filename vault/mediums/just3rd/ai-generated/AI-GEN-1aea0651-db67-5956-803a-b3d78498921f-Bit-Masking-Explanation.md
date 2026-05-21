@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-masking-explanation|Bit Masking Explanation]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-masking-explanation|bit-masking-explanation]]"
 ---
 # Bit Masking: Controlling Individual Bits
 

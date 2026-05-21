@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/subband-filtering-process|Subband Filtering Process]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/subband-filtering-process|subband-filtering-process]]"
 ---
 # Understanding Subband Filtering in Audio Compression
 

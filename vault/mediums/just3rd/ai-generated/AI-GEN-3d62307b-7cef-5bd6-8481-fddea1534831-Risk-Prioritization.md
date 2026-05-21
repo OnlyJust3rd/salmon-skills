@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/risk-prioritization|Risk Prioritization]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/risk-prioritization|risk-prioritization]]"
 ---
 # Prioritizing Code Review Findings: Separating Severity
 

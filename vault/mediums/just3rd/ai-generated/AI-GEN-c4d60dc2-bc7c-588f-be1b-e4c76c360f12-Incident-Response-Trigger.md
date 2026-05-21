@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/incident-response-trigger|Incident Response Trigger]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/incident-response-trigger|incident-response-trigger]]"
 ---
 # Alerts as Incident Response Triggers
 

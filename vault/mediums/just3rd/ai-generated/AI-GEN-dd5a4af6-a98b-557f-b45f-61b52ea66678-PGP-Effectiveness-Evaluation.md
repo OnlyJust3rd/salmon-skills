@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/pgp-effectiveness-evaluation|PGP Effectiveness Evaluation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/pgp-effectiveness-evaluation|pgp-effectiveness-evaluation]]"
 ---
 # Evaluating PGP Effectiveness
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/function-as-a-service-faas|Function as a Service (FaaS)]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/function-as-a-service-faas|function-as-a-service-faas]]"
 ---
 # Understanding Function as a Service (FaaS)
 

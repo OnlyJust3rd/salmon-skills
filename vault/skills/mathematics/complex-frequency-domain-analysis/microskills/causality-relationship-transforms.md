@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Causality Relationship (Transforms)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Complex Frequency Domain Analysis"
-parent-competency: "L2- Explain Transform Relationships"
+  - "microskill"
+parent-skill: "[[skills/mathematics/complex-frequency-domain-analysis/complex-frequency-domain-analysis|complex-frequency-domain-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/complex-frequency-domain-analysis/competencies/L1-explain-transform-relationships|L1-explain-transform-relationships]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Causality Relationship (Transforms)
@@ -15,7 +17,7 @@ Parent macro: [[complex-frequency-domain-analysis|Complex Frequency Domain Analy
 
 Parent competency:
 
-- [[L2-explain-transform-relationships|L2- Explain Transform Relationships]]
+- [[skills/mathematics/complex-frequency-domain-analysis/competencies/L1-explain-transform-relationships|L2- Explain Transform Relationships]]
 
 ## Description
 

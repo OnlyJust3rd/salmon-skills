@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-mining/microskills/beautifulsoup-library-usage|BeautifulSoup Library Usage]]"
+  - "[[skills/data/data-science/text-mining/microskills/beautifulsoup-library-usage|beautifulsoup-library-usage]]"
 ---
 # Using BeautifulSoup for HTML Parsing
 

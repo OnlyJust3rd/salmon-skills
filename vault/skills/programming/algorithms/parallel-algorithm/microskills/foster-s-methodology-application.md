@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Foster's Methodology Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Parallel Algorithm"
-parent-competency: "L3- Apply Foster's Methodology"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/parallel-algorithm/parallel-algorithm|parallel-algorithm]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/parallel-algorithm/competencies/L2-apply-foster-s-methodology|L2-apply-foster-s-methodology]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Foster's Methodology Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/parallel-algorithm/parallel-algori
 
 Parent competency:
 
-- [[skills/programming/algorithms/parallel-algorithm/competencies/L3-apply-foster-s-methodology|L3- Apply Foster's Methodology]]
+- [[skills/programming/algorithms/parallel-algorithm/competencies/L2-apply-foster-s-methodology|L3- Apply Foster's Methodology]]
 
 ## Description
 

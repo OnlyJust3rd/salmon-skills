@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-geometric-interpretation|Range geometric interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-geometric-interpretation|range-geometric-interpretation]]"
 ---
 # The Geometric Formation of the Range
 

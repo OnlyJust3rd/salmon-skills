@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/noise-frequency-attenuation-assessment|Noise Frequency Attenuation Assessment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/noise-frequency-attenuation-assessment|noise-frequency-attenuation-assessment]]"
 ---
 # Evaluating Filter Effectiveness: Noise Frequency Attenuation
 

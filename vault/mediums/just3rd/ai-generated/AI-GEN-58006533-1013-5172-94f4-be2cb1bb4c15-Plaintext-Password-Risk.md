@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cybersecurity/microskills/plaintext-password-risk|Plaintext Password Risk]]"
+  - "[[skills/security/cybersecurity/cybersecurity/microskills/plaintext-password-risk|plaintext-password-risk]]"
 ---
 # The Danger of Storing Passwords in Plain Text
 

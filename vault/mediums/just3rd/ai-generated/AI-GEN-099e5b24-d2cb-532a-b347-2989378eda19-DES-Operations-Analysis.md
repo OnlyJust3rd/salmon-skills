@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/des-operations-analysis|DES Operations Analysis]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/des-operations-analysis|des-operations-analysis]]"
 ---
 # Analyzing DES Operations
 

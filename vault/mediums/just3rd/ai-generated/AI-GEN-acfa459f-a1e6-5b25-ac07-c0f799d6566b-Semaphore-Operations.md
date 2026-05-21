@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/semaphore-operations|Semaphore Operations]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/semaphore-operations|semaphore-operations]]"
 ---
 # Understanding Semaphore Operations
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-iam-policy|AWS IAM Policy]]"
+  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-iam-policy|aws-iam-policy]]"
 ---
 # AWS IAM Policies: Granting Specific Permissions
 

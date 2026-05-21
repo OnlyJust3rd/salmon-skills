@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/ipv4-vs-ipv6-differences|IPv4 vs. IPv6 Differences]]"
+  - "[[skills/systems/networking/network-layer/microskills/ipv4-vs-ipv6-differences|ipv4-vs-ipv6-differences]]"
 ---
 # IPv4 vs. IPv6 Differences
 

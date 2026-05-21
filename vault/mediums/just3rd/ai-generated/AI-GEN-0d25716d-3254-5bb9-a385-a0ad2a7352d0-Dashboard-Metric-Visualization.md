@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/dashboard-metric-visualization|Dashboard Metric Visualization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/dashboard-metric-visualization|dashboard-metric-visualization]]"
 ---
 # Visualizing Prometheus Metrics with Grafana Dashboards
 

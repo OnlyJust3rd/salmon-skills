@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/purpose-of-design-strategies|Purpose of Design Strategies]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/purpose-of-design-strategies|purpose-of-design-strategies]]"
 ---
 # Understanding the Purpose of Algorithm Design Strategies
 

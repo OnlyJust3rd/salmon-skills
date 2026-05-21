@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Bar Chart for Text Data"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Visualization and Exploratory Analysis"
-parent-competency: "L2- Explain and identify visualization types"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-visualization-and-exploratory-analysis/text-visualization-and-exploratory-analysis|text-visualization-and-exploratory-analysis]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/competencies/L1-explain-and-identify-visualization-types|L1-explain-and-identify-visualization-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Bar Chart for Text Data
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-visualization-and-exploratory-anal
 
 Parent competency:
 
-- [[skills/data/data-science/text-visualization-and-exploratory-analysis/competencies/L2-explain-and-identify-visualization-types|L2- Explain and identify visualization types]]
+- [[skills/data/data-science/text-visualization-and-exploratory-analysis/competencies/L1-explain-and-identify-visualization-types|L2- Explain and identify visualization types]]
 
 ## Description
 

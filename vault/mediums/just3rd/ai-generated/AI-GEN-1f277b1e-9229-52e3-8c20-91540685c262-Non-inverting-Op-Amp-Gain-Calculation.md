@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/non-inverting-op-amp-gain-calculation|Non-inverting Op-Amp Gain Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/non-inverting-op-amp-gain-calculation|non-inverting-op-amp-gain-calculation]]"
 ---
 # Non-inverting Op-Amp Gain Calculation
 

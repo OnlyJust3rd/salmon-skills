@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-creation-commands|File Creation Commands]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-creation-commands|file-creation-commands]]"
 ---
 # Creating Files with Commands
 

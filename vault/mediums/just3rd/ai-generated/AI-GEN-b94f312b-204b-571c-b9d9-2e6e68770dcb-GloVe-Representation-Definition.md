@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-representation-definition|GloVe Representation Definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-representation-definition|glove-representation-definition]]"
 ---
 # Understanding GloVe Representation
 

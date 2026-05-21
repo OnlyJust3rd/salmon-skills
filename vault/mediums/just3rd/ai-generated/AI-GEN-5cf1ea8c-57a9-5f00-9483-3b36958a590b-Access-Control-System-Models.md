@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/access-control-system-models|Access Control System Models]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/access-control-system-models|access-control-system-models]]"
 ---
 # Access Control System Models
 

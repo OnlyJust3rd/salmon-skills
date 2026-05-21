@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mysql/microskills/schema-construction|Schema Construction]]"
+  - "[[skills/data/databases/mysql/microskills/schema-construction|schema-construction]]"
 ---
 # Schema Construction: Building Your Database Foundation
 

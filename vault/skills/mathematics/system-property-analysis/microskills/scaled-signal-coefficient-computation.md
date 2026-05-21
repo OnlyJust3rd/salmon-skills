@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Scaled Signal Coefficient Computation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "System Property Analysis"
-parent-competency: "L3- Apply linearity property"
+  - "microskill"
+parent-skill: "[[skills/mathematics/system-property-analysis/system-property-analysis|system-property-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/system-property-analysis/competencies/L2-apply-linearity-property|L2-apply-linearity-property]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Scaled Signal Coefficient Computation
@@ -15,7 +17,7 @@ Parent macro: [[system-property-analysis|System Property Analysis]]
 
 Parent competency:
 
-- [[L3-apply-linearity-property|L3- Apply linearity property]]
+- [[skills/mathematics/system-property-analysis/competencies/L2-apply-linearity-property|L3- Apply linearity property]]
 
 ## Description
 

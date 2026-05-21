@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/overcoming-deployment-discrepancies|Overcoming Deployment Discrepancies]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/overcoming-deployment-discrepancies|overcoming-deployment-discrepancies]]"
 ---
 # Overcoming Deployment Discrepancies
 

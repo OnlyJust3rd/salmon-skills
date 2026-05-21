@@ -1,16 +1,25 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Sustainability and ESG Frameworks"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-coverage:
-  - "Concept"
-competency-count: 2
-microskill-count: 8
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-301-professional-issues-in-computer-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L1-understand-esg-application|L1-understand-esg-application]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L1-understand-sdgs|L1-understand-sdgs]]"
+standard-competency:
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L1-understand-esg-application|L1-understand-esg-application]]"
+microskills:
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/corporate-governance-criteria|corporate-governance-criteria]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/environmental-criteria|environmental-criteria]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/esg-application-in-business|esg-application-in-business]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/esg-pillars-definition|esg-pillars-definition]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/social-criteria|social-criteria]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-core-principles|sustainable-development-goals-core-principles]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-purpose|sustainable-development-goals-purpose]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-scope|sustainable-development-goals-scope]]"
 ---
 
 # Sustainability and ESG Frameworks
@@ -19,8 +28,8 @@ Explain the frameworks of Sustainable Development Goals (SDGs) and Environmental
 
 ## Competencies
 
-- [[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L2-understand-sdgs|L2- Understand SDGs]]
-- [[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L2-understand-esg-application|L2- Understand ESG Application]]
+- [[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L1-understand-sdgs|L2- Understand SDGs]]
+- [[skills/business-it/business-product/sustainability-and-esg-frameworks/competencies/L1-understand-esg-application|L2- Understand ESG Application]]
 
 ## Microskills
 

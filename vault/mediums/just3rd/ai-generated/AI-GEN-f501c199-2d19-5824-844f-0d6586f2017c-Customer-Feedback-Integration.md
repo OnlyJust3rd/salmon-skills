@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/customer-feedback-integration|Customer Feedback Integration]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/customer-feedback-integration|customer-feedback-integration]]"
 ---
 # Integrating Customer Feedback into the Build-Measure-Learn Cycle
 

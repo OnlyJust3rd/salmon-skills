@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Player Immersion"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Game Flow and Difficulty Balancing"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Funativity and Player Engagement"
+  - "[[skills/creative-media/game-development/player-psychology/competencies/L1-funativity-and-player-engagement|L1-funativity-and-player-engagement]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/game-flow-and-difficulty-balancing|game-flow-and-difficulty-balancing]]"
+requires-microskills:
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/factors-influencing-immersion|factors-influencing-immersion]]"
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-definition|player-immersion-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Player Immersion
@@ -25,7 +26,7 @@ Define the concept of player immersion and identify factors that contribute to o
 
 ## Strict Prerequisites
 
-- [[skills/creative-media/game-development/player-psychology/competencies/L2-funativity-and-player-engagement|L2- Funativity and Player Engagement]]
+- [[skills/creative-media/game-development/player-psychology/competencies/L1-funativity-and-player-engagement|L2- Funativity and Player Engagement]]
 
 ## Optional Prerequisites
 

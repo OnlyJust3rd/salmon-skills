@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Code Readability Enhancement"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Quality Assurance"
-parent-competency: "L3- Apply Refactoring"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/quality-assurance/quality-assurance|quality-assurance]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/quality-assurance/competencies/L2-apply-refactoring|L2-apply-refactoring]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Code Readability Enhancement
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/quality-assurance/qualit
 
 Parent competency:
 
-- [[skills/programming/software-engineering/quality-assurance/competencies/L3-apply-refactoring|L3- Apply Refactoring]]
+- [[skills/programming/software-engineering/quality-assurance/competencies/L2-apply-refactoring|L3- Apply Refactoring]]
 
 ## Description
 

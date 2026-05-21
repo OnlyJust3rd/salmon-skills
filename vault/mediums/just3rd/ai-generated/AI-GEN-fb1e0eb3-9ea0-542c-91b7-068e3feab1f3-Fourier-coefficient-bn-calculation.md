@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-coefficient-bn-calculation|Fourier coefficient bn calculation]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-coefficient-bn-calculation|fourier-coefficient-bn-calculation]]"
 ---
 # Calculating the \(b_n\) Fourier Coefficients
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/greedy-algorithm-use-cases|Greedy Algorithm Use Cases]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/greedy-algorithm-use-cases|greedy-algorithm-use-cases]]"
 ---
 # Greedy Algorithm Use Cases
 

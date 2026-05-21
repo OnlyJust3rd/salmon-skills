@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/z-transform-definition|Z-transform Definition]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/z-transform-definition|z-transform-definition]]"
 ---
 # Z-transform Definition: Unveiling the Mathematical Core
 

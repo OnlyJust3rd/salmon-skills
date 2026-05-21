@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/topic-modeling/microskills/theme-discovery-in-text-corpora|Theme Discovery in Text Corpora]]"
+  - "[[skills/data/data-science/topic-modeling/microskills/theme-discovery-in-text-corpora|theme-discovery-in-text-corpora]]"
 ---
 # Uncovering Hidden Stories: Theme Discovery in Text Corpora
 

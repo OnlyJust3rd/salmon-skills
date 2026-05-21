@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/microprogrammed-control-concept|Microprogrammed Control Concept]]"
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/microprogrammed-control-concept|microprogrammed-control-concept]]"
 ---
 # Microprogrammed Control: The Brain's Instruction Manual
 

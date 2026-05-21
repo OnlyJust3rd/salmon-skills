@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safety-precautions-for-powered-circuits|Safety Precautions for Powered Circuits]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safety-precautions-for-powered-circuits|safety-precautions-for-powered-circuits]]"
 ---
 # Safety Precautions for Powered Circuits
 

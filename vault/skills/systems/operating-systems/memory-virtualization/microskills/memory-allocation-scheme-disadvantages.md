@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Memory Allocation Scheme Disadvantages"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Memory Virtualization"
-parent-competency: "L4- Analyze Memory Allocation Schemes"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/memory-virtualization/memory-virtualization|memory-virtualization]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/memory-virtualization/competencies/L3-analyze-memory-allocation-schemes|L3-analyze-memory-allocation-schemes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Memory Allocation Scheme Disadvantages
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/memory-virtualization/memory-vi
 
 Parent competency:
 
-- [[skills/systems/operating-systems/memory-virtualization/competencies/L4-analyze-memory-allocation-schemes|L4- Analyze Memory Allocation Schemes]]
+- [[skills/systems/operating-systems/memory-virtualization/competencies/L3-analyze-memory-allocation-schemes|L4- Analyze Memory Allocation Schemes]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-testing/microskills/reproduction-step|Reproduction Step]]"
+  - "[[skills/creative-media/game-development/game-testing/microskills/reproduction-step|reproduction-step]]"
 ---
 # Reproduction Steps: The Detective Work of Game Bugs
 

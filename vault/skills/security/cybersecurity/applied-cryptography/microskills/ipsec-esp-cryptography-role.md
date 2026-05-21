@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "IPSec (ESP) Cryptography Role"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Applied Cryptography"
-parent-competency: "L2- List and Describe Protocol Cryptography Roles"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/applied-cryptography/applied-cryptography|applied-cryptography]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/applied-cryptography/competencies/L1-list-and-describe-protocol-cryptography-roles|L1-list-and-describe-protocol-cryptography-roles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # IPSec (ESP) Cryptography Role
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/applied-cryptography/applied-crypt
 
 Parent competency:
 
-- [[skills/security/cybersecurity/applied-cryptography/competencies/L2-list-and-describe-protocol-cryptography-roles|L2- List and Describe Protocol Cryptography Roles]]
+- [[skills/security/cybersecurity/applied-cryptography/competencies/L1-list-and-describe-protocol-cryptography-roles|L2- List and Describe Protocol Cryptography Roles]]
 
 ## Description
 

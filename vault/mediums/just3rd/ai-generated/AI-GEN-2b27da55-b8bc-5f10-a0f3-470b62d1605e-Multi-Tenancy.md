@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/multi-tenancy|Multi-Tenancy]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/multi-tenancy|multi-tenancy]]"
 ---
 # Multi-Tenancy in SaaS
 

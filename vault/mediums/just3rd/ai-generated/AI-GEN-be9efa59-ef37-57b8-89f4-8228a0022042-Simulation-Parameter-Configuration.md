@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/simulation-parameter-configuration|Simulation Parameter Configuration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/simulation-parameter-configuration|simulation-parameter-configuration]]"
 ---
 # Configuring Tinkercad Simulation Parameters
 

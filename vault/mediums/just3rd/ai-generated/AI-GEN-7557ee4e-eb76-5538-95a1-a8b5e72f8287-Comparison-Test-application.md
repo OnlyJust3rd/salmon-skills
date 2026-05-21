@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/comparison-test-application|Comparison Test application]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/comparison-test-application|comparison-test-application]]"
 ---
 # Applying the Comparison Test to Determine Series Convergence
 

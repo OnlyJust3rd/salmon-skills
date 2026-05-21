@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Parallel Projection"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Perspective Projection"
-parent-competency: "L1- Identify and Define Projection Types"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/perspective-projection/perspective-projection|perspective-projection]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/perspective-projection/competencies/L1-identify-and-define-projection-types|L1-identify-and-define-projection-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Parallel Projection

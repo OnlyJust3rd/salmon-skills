@@ -1,18 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Instruction Types"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Machine Instruction"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Architectures"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L1-define-architectures|L1-define-architectures]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 1
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/machine-instruction/machine-instruction|machine-instruction]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/machine-instruction-categorization|machine-instruction-categorization]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Instruction Types

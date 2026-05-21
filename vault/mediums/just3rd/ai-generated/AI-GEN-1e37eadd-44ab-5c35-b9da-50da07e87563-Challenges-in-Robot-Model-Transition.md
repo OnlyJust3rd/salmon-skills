@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/challenges-in-robot-model-transition|Challenges in Robot Model Transition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/challenges-in-robot-model-transition|challenges-in-robot-model-transition]]"
 ---
 # Challenges in Robot Model Transition
 

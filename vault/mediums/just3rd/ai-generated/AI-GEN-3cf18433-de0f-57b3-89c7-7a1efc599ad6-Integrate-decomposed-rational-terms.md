@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/integrate-decomposed-rational-terms|Integrate decomposed rational terms]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/integrate-decomposed-rational-terms|integrate-decomposed-rational-terms]]"
 ---
 # Integrating Decomposed Rational Terms
 

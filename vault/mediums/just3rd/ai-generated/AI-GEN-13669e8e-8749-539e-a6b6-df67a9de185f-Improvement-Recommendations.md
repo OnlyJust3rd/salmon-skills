@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/improvement-recommendations|Improvement Recommendations]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/improvement-recommendations|improvement-recommendations]]"
 ---
 # Crafting Effective Improvement Recommendations
 

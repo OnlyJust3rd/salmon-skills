@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Data Types"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Types"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/data-structures/data-types/data-types|data-types]]"
+requires-microskills:
+  - "[[skills/programming/data-structures/data-types/microskills/semi-structured-data-recognition|semi-structured-data-recognition]]"
+  - "[[skills/programming/data-structures/data-types/microskills/structured-data-recognition|structured-data-recognition]]"
+  - "[[skills/programming/data-structures/data-types/microskills/unstructured-data-recognition|unstructured-data-recognition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Data Types

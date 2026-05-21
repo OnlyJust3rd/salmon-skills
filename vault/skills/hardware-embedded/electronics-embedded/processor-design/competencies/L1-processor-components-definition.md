@@ -1,19 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Processor Components Definition"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Processor Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Datapath Components Definition"
-  - "L1- Instruction Types"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-types|L1-instruction-types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/competencies/L1-datapath-components-definition|L1-datapath-components-definition]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/processor-design/processor-design|processor-design]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/control-unit-definition|control-unit-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/fundamental-processor-components|fundamental-processor-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Processor Components Definition

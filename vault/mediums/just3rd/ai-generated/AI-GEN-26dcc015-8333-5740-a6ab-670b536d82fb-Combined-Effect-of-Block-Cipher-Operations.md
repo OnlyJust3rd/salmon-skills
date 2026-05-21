@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/combined-effect-of-block-cipher-operations|Combined Effect of Block Cipher Operations]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/combined-effect-of-block-cipher-operations|combined-effect-of-block-cipher-operations]]"
 ---
 # The Cumulative Power of Block Cipher Rounds
 

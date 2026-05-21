@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/step-by-step-solution-planning|Step-by-step solution planning]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/step-by-step-solution-planning|step-by-step-solution-planning]]"
 ---
 # Step-by-Step Solution Planning: Breaking Down Problems
 

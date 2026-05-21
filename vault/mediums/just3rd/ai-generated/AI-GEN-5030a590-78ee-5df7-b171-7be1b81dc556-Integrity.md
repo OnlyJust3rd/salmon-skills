@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/integrity|Integrity]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/integrity|integrity]]"
 ---
 # Integrity: Ensuring Information is Unaltered
 

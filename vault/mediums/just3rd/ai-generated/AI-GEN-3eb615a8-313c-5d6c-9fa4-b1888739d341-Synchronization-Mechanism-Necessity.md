@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/synchronization-mechanism-necessity|Synchronization Mechanism Necessity]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/synchronization-mechanism-necessity|synchronization-mechanism-necessity]]"
 ---
 # Why Synchronization? Understanding the Need
 

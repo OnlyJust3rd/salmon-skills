@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-technology-utilization|3D Printing Technology Utilization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/microskills/3d-printing-technology-utilization|3d-printing-technology-utilization]]"
 ---
 # Mastering 3D Printing Technology Utilization
 

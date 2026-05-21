@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unreal-engine/microskills/blueprint|Blueprint]]"
+  - "[[skills/creative-media/game-development/unreal-engine/microskills/blueprint|blueprint]]"
 ---
 # Understanding Unreal Engine Blueprints: Visual Scripting for Game Logic
 

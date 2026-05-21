@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/requirement-based-solution-comparison|Requirement-Based Solution Comparison]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/requirement-based-solution-comparison|requirement-based-solution-comparison]]"
 ---
 # Requirement-Based Solution Comparison
 

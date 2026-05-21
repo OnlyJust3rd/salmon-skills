@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/card-sorting|Card Sorting]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/card-sorting|card-sorting]]"
 ---
 # Card Sorting: Organizing Information Architecture
 

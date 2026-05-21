@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Topology for Interconnection"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Data Link Layer"
-parent-competency: "L2- LAN Interconnection Description"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-link-layer/data-link-layer|data-link-layer]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-link-layer/competencies/L1-lan-interconnection-description|L1-lan-interconnection-description]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Topology for Interconnection
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-link-layer/data-link-layer|Data 
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-link-layer/competencies/L2-lan-interconnection-description|L2- LAN Interconnection Description]]
+- [[skills/data/data-platforms/data-link-layer/competencies/L1-lan-interconnection-description|L2- LAN Interconnection Description]]
 
 ## Description
 

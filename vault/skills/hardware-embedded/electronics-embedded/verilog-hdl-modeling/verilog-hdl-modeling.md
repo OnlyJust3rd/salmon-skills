@@ -1,17 +1,39 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Verilog HDL Modeling"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-coverage:
-  - "Representation"
-  - "ToolUsage"
-competency-count: 4
-microskill-count: 19
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-222-digital-electronics-and-logic-design"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L1-verilog-hdl-fundamentals|L1-verilog-hdl-fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L1-verilog-concepts-and-testbenches|L1-verilog-concepts-and-testbenches]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L2-verilog-design-and-verification|L2-verilog-design-and-verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L3-analyze-verilog-counter-model|L3-analyze-verilog-counter-model]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L2-verilog-design-and-verification|L2-verilog-design-and-verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L3-analyze-verilog-counter-model|L3-analyze-verilog-counter-model]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/behavioral-modeling-application|behavioral-modeling-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/clocking-mechanism-understanding|clocking-mechanism-understanding]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/dataflow-modeling-application|dataflow-modeling-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/gate-level-modeling-application|gate-level-modeling-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/modeling-level-differences|modeling-level-differences]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/state-transition-analysis|state-transition-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/testbench-development|testbench-development]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/testbench-purpose|testbench-purpose]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-counter-code-examination|verilog-counter-code-examination]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-data-types|verilog-data-types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-building-blocks|verilog-hdl-building-blocks]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-concepts|verilog-hdl-concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-keywords|verilog-hdl-keywords]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-hdl-syntax|verilog-hdl-syntax]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-model-interpretation|verilog-model-interpretation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-modeling-levels|verilog-modeling-levels]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-module-implementation|verilog-module-implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-operators|verilog-operators]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-simulation-validation|verilog-simulation-validation]]"
 ---
 
 # Verilog HDL Modeling
@@ -21,9 +43,9 @@ Model digital circuits using Verilog Hardware Description Language (HDL) and cre
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L1-verilog-hdl-fundamentals|L1- Verilog HDL Fundamentals]]
-- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L2-verilog-concepts-and-testbenches|L2- Verilog Concepts and Testbenches]]
-- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L3-verilog-design-and-verification|L3- Verilog Design and Verification]]
-- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L4-analyze-verilog-counter-model|L4- Analyze Verilog Counter Model]]
+- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L1-verilog-concepts-and-testbenches|L2- Verilog Concepts and Testbenches]]
+- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L2-verilog-design-and-verification|L3- Verilog Design and Verification]]
+- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L3-analyze-verilog-counter-model|L4- Analyze Verilog Counter Model]]
 
 ## Microskills
 

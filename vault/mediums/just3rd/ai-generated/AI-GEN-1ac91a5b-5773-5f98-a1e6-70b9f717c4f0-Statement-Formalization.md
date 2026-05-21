@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/statement-formalization|Statement Formalization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/statement-formalization|statement-formalization]]"
 ---
 # Formalizing Statements with Predicate Logic
 

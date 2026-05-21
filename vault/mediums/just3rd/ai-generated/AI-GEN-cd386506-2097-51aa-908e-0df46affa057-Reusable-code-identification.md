@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/modular-program-design/microskills/reusable-code-identification|Reusable code identification]]"
+  - "[[skills/programming/software-engineering/modular-program-design/microskills/reusable-code-identification|reusable-code-identification]]"
 ---
 # Identifying Reusable Code Segments
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/draw-call-reduction|Draw Call Reduction]]"
+  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/draw-call-reduction|draw-call-reduction]]"
 ---
 # Draw Call Reduction: Minimizing Rendering Overhead
 

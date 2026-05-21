@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/automated-testing-for-serverless|Automated Testing for Serverless]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/automated-testing-for-serverless|automated-testing-for-serverless]]"
 ---
 # Automated Testing for Serverless Functions
 

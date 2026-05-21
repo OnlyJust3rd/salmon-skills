@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/business-viability-indicator|Business Viability Indicator]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/business-viability-indicator|business-viability-indicator]]"
 ---
 # Business Viability Indicator: Market Size as a Success Predictor
 

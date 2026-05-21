@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attack-mechanisms|Protocol Attack Mechanisms]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attack-mechanisms|protocol-attack-mechanisms]]"
 ---
 # Protocol Attack Mechanisms in Digital Watermarking
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Topic"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Apache Kafka"
-parent-competency: "L2- Explain Event Streaming and Kafka Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/apache-kafka/apache-kafka|apache-kafka]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/apache-kafka/competencies/L1-explain-event-streaming-and-kafka-concepts|L1-explain-event-streaming-and-kafka-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Topic
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/apache-kafka/apache-kafka|Apache Kafk
 
 Parent competency:
 
-- [[skills/data/data-platforms/apache-kafka/competencies/L2-explain-event-streaming-and-kafka-concepts|L2- Explain Event Streaming and Kafka Concepts]]
+- [[skills/data/data-platforms/apache-kafka/competencies/L1-explain-event-streaming-and-kafka-concepts|L2- Explain Event Streaming and Kafka Concepts]]
 
 ## Description
 

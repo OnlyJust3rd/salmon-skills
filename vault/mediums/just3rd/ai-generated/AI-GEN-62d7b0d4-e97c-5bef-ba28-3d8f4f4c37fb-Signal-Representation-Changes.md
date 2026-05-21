@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/signal-representation-changes|Signal Representation Changes]]"
+  - "[[skills/mathematics/signal-operations/microskills/signal-representation-changes|signal-representation-changes]]"
 ---
 # Understanding Signal Representation Changes: Time Reversal and Shifting
 

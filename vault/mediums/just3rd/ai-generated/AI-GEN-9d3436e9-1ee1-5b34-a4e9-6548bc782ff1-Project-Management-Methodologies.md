@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/project-management-methodologies|Project Management Methodologies]]"
+  - "[[skills/cloud-devops/platform-engineering/platform-engineering/microskills/project-management-methodologies|project-management-methodologies]]"
 ---
 # Agile, Scrum, and Kanban: Methodologies for Platform Engineering Projects
 

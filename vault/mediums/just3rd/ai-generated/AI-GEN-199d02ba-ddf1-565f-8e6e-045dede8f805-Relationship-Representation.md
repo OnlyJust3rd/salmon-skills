@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/relationship-representation|Relationship Representation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/relationship-representation|relationship-representation]]"
 ---
 # Formalizing Relationships with Predicate Logic
 

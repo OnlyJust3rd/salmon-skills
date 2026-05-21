@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/availability-zone-strategy|Availability Zone Strategy]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/availability-zone-strategy|availability-zone-strategy]]"
 ---
 # Designing for High Availability with Availability Zones
 

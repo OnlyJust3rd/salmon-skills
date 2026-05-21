@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-definition|Abstraction Definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-definition|abstraction-definition]]"
 ---
 # Understanding Abstraction in Object-Oriented Programming
 

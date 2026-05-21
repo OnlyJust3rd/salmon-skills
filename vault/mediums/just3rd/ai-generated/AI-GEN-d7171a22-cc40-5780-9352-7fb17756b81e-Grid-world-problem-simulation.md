@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/grid-world-problem-simulation|Grid-world problem simulation]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/grid-world-problem-simulation|grid-world-problem-simulation]]"
 ---
 # Simulating a Grid-World Problem
 

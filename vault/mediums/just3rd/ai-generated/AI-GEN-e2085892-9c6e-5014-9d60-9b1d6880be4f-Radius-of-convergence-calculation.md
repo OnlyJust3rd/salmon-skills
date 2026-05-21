@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/radius-of-convergence-calculation|Radius of convergence calculation]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/radius-of-convergence-calculation|radius-of-convergence-calculation]]"
 ---
 # Calculating the Radius of Convergence
 

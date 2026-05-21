@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Algorithmic Thinking Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Algorithmic Thinking"
-parent-competency: "L2- Algorithmic Principles and Graph Traversal"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithmic-thinking/algorithmic-thinking|algorithmic-thinking]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithmic-thinking/competencies/L1-algorithmic-principles-and-graph-traversal|L1-algorithmic-principles-and-graph-traversal]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Algorithmic Thinking Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithmic-thinking/algorithmic-t
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithmic-thinking/competencies/L2-algorithmic-principles-and-graph-traversal|L2- Algorithmic Principles and Graph Traversal]]
+- [[skills/programming/algorithms/algorithmic-thinking/competencies/L1-algorithmic-principles-and-graph-traversal|L2- Algorithmic Principles and Graph Traversal]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/shell-variables-and-parameters|Shell Variables and Parameters]]"
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/shell-variables-and-parameters|shell-variables-and-parameters]]"
 ---
 # Shell Variables and Parameters: Making Your Scripts Reusable
 

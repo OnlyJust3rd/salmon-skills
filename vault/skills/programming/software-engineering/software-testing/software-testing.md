@@ -1,26 +1,30 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Software Testing"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 334 - Software Engineering"
-coverage:
-  - "Concept"
-  - "ToolUsage"
-  - "Implementation"
-competency-count: 3
-microskill-count: 11
-related-jobs:
-  - "Backend Developer"
-  - "Full Stack Developer"
-  - "Software Engineer"
-  - "QA Engineer"
-  - "Machine Learning Engineer"
-  - "Mobile Application Developer"
-  - "Game Developer"
-  - "Game QA Tester"
-source-note: "courses/kmutt/cpe-2021/cpe-334-software-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/software-testing/competencies/L1-software-testing-fundamentals|L1-software-testing-fundamentals]]"
+  - "[[skills/programming/software-engineering/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+  - "[[skills/programming/software-engineering/software-testing/competencies/L3-validation-verification-differentiation|L3-validation-verification-differentiation]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+  - "[[skills/programming/software-engineering/software-testing/competencies/L3-validation-verification-differentiation|L3-validation-verification-differentiation]]"
+microskills:
+  - "[[skills/programming/software-engineering/software-testing/microskills/automated-testing-framework-utilization|automated-testing-framework-utilization]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/error-distinction|error-distinction]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/failure-distinction|failure-distinction]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/fault-distinction|fault-distinction]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/integration-test-implementation|integration-test-implementation]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/lifecycle-stage-application|lifecycle-stage-application]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/software-testing-principles|software-testing-principles]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/software-validation-context|software-validation-context]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/software-verification-context|software-verification-context]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/system-test-implementation|system-test-implementation]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/unit-test-implementation|unit-test-implementation]]"
 ---
 
 # Software Testing
@@ -29,9 +33,9 @@ Differentiating between software faults, errors, and failures, and applying soft
 
 ## Competencies
 
-- [[skills/programming/software-engineering/software-testing/competencies/L2-software-testing-fundamentals|L2- Software Testing Fundamentals]]
-- [[skills/programming/software-engineering/software-testing/competencies/L4-validation-verification-differentiation|L4- Validation & Verification Differentiation]]
-- [[skills/programming/software-engineering/software-testing/competencies/L3-automated-testing-implementation|L3- Automated Testing Implementation]]
+- [[skills/programming/software-engineering/software-testing/competencies/L1-software-testing-fundamentals|L2- Software Testing Fundamentals]]
+- [[skills/programming/software-engineering/software-testing/competencies/L3-validation-verification-differentiation|L4- Validation & Verification Differentiation]]
+- [[skills/programming/software-engineering/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
 
 ## Microskills
 

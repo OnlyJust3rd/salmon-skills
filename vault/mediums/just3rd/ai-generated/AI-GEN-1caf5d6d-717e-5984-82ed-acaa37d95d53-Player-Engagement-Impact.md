@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/player-engagement-impact|Player Engagement Impact]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/player-engagement-impact|player-engagement-impact]]"
 ---
 # Understanding Pacing for Player Engagement
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/area-between-curves-calculation|Area between curves calculation]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/area-between-curves-calculation|area-between-curves-calculation]]"
 ---
 # Calculating the Area Between Two Curves
 

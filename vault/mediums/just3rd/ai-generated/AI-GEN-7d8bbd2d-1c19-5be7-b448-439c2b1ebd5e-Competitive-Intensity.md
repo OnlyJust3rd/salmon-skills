@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/competitive-intensity|Competitive Intensity]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/competitive-intensity|competitive-intensity]]"
 ---
 # Competitive Intensity: Understanding the Rival Landscape
 

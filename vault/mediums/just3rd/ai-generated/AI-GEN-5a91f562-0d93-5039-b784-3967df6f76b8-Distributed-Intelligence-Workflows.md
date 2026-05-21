@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/distributed-intelligence-workflows|Distributed Intelligence Workflows]]"
+  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/distributed-intelligence-workflows|distributed-intelligence-workflows]]"
 ---
 # Implementing Distributed Intelligence Workflows
 

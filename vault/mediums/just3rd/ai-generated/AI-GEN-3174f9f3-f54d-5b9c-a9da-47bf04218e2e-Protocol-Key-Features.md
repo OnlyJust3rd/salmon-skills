@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/protocol-key-features|Protocol Key Features]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/protocol-key-features|protocol-key-features]]"
 ---
 # Protocol Key Features: Understanding Master/Slave, Clocking, and Data Transfer
 

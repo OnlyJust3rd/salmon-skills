@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/hardware-virtualization|Hardware Virtualization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/hardware-virtualization|hardware-virtualization]]"
 ---
 # Hardware Virtualization: The Foundation of Virtual Machines
 

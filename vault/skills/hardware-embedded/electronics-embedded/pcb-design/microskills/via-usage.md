@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Via Usage"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "PCB Design"
-parent-competency: "L3- Create Basic PCB Layout"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/pcb-design/pcb-design|pcb-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L2-create-basic-pcb-layout|L2-create-basic-pcb-layout]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Via Usage
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/pcb-design/pcb-des
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L3-create-basic-pcb-layout|L3- Create Basic PCB Layout]]
+- [[skills/hardware-embedded/electronics-embedded/pcb-design/competencies/L2-create-basic-pcb-layout|L3- Create Basic PCB Layout]]
 
 ## Description
 

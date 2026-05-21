@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Consistency with HTTP semantics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "RESTful API"
-parent-competency: "L3- Apply REST Modeling to a Problem Domain"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/restful-api/restful-api|restful-api]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/restful-api/competencies/L2-apply-rest-modeling-to-a-problem-domain|L2-apply-rest-modeling-to-a-problem-domain]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Consistency with HTTP semantics
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/backend-api/restful-api/restful-api|RESTfu
 
 Parent competency:
 
-- [[skills/web-and-design/backend-api/restful-api/competencies/L3-apply-rest-modeling-to-a-problem-domain|L3- Apply REST Modeling to a Problem Domain]]
+- [[skills/web-and-design/backend-api/restful-api/competencies/L2-apply-rest-modeling-to-a-problem-domain|L3- Apply REST Modeling to a Problem Domain]]
 
 ## Description
 

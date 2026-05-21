@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/problem-solving-process-justification|Problem-Solving Process Justification]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/problem-solving-process-justification|problem-solving-process-justification]]"
 ---
 # Justifying Your Problem-Solving Approach
 

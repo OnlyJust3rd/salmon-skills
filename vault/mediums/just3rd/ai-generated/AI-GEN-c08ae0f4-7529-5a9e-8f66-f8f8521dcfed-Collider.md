@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-physics/microskills/collider|Collider]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/collider|collider]]"
 ---
 # Colliders: Defining Boundaries for Game Physics
 

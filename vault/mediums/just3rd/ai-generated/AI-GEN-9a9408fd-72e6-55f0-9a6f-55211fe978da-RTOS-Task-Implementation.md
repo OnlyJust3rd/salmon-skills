@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/rtos-task-implementation|RTOS Task Implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/rtos-task-implementation|rtos-task-implementation]]"
 ---
 # RTOS Task Implementation: Concurrent Processing on AVR Microcontrollers
 

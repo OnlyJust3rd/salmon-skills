@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-grid-structure|Pixel Grid Structure]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/pixel-grid-structure|pixel-grid-structure]]"
 ---
 # Understanding the Pixel Grid Structure
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/mathematical-induction/microskills/inductive-hypothesis-explanation|Inductive hypothesis explanation]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/inductive-hypothesis-explanation|inductive-hypothesis-explanation]]"
 ---
 # Understanding the Inductive Hypothesis
 

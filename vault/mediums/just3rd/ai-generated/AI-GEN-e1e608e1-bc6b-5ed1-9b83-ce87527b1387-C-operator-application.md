@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/c-operator-application|C operator application]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/c-operator-application|c-operator-application]]"
 ---
 # C Operator Application
 

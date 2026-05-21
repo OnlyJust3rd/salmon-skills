@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/hierarchical-bus-structures|Hierarchical Bus Structures]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/hierarchical-bus-structures|hierarchical-bus-structures]]"
 ---
 # Hierarchical Bus Structures: Organizing I/O Integration
 

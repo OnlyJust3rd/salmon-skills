@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Fundamental Theorem of Calculus for definite integrals"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Integral Evaluation"
-parent-competency: "L2- Explain FTC for definite integral evaluation"
+  - "microskill"
+parent-skill: "[[skills/mathematics/integral-evaluation/integral-evaluation|integral-evaluation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/integral-evaluation/competencies/L1-explain-ftc-for-definite-integral-evaluation|L1-explain-ftc-for-definite-integral-evaluation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Fundamental Theorem of Calculus for definite integrals
@@ -15,7 +17,7 @@ Parent macro: [[integral-evaluation|Integral Evaluation]]
 
 Parent competency:
 
-- [[L2-explain-ftc-for-definite-integral-evaluation|L2- Explain FTC for definite integral evaluation]]
+- [[skills/mathematics/integral-evaluation/competencies/L1-explain-ftc-for-definite-integral-evaluation|L2- Explain FTC for definite integral evaluation]]
 
 ## Description
 

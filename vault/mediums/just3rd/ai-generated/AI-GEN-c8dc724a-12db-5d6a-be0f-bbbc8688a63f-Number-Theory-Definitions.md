@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/number-theory-definitions|Number Theory Definitions]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/number-theory-definitions|number-theory-definitions]]"
 ---
 # Number Theory Definitions
 

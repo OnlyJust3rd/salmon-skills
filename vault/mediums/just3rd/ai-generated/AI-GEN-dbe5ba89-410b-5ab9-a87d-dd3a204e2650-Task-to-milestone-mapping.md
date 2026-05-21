@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/action-planning/microskills/task-to-milestone-mapping|Task-to-milestone mapping]]"
+  - "[[skills/programming/software-engineering/action-planning/microskills/task-to-milestone-mapping|task-to-milestone-mapping]]"
 ---
 # Linking Tasks to Milestones: The Backbone of Your Project Plan
 

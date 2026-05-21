@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/geometric-interpretation-of-solutions|Geometric interpretation of solutions]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/geometric-interpretation-of-solutions|geometric-interpretation-of-solutions]]"
 ---
 # Geometric Interpretation of Homogeneous System Solutions
 

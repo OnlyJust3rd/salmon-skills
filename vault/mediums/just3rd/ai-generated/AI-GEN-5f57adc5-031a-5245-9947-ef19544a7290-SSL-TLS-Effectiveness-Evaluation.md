@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ssl-tls-effectiveness-evaluation|SSL/TLS Effectiveness Evaluation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ssl-tls-effectiveness-evaluation|ssl-tls-effectiveness-evaluation]]"
 ---
 # Evaluating SSL/TLS Effectiveness and Security Trade-offs
 

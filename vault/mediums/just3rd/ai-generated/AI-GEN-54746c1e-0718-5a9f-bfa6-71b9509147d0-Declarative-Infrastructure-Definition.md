@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-infrastructure-definition|Declarative Infrastructure Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-infrastructure-definition|declarative-infrastructure-definition]]"
 ---
 # Declarative Infrastructure Definition
 

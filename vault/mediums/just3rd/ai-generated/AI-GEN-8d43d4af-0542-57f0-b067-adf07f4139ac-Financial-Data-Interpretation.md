@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/financial-data-interpretation|Financial Data Interpretation]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/financial-data-interpretation|financial-data-interpretation]]"
 ---
 # Interpreting Financial Data for Profitability and Break-Even Analysis
 

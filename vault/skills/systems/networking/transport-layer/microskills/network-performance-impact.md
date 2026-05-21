@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Performance Impact"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Transport Layer"
-parent-competency: "L4- TCP vs UDP for Performance"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/transport-layer/transport-layer|transport-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/transport-layer/competencies/L3-tcp-vs-udp-for-performance|L3-tcp-vs-udp-for-performance]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Performance Impact
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/transport-layer/transport-layer|Transp
 
 Parent competency:
 
-- [[skills/systems/networking/transport-layer/competencies/L4-tcp-vs-udp-for-performance|L4- TCP vs UDP for Performance]]
+- [[skills/systems/networking/transport-layer/competencies/L3-tcp-vs-udp-for-performance|L4- TCP vs UDP for Performance]]
 
 ## Description
 

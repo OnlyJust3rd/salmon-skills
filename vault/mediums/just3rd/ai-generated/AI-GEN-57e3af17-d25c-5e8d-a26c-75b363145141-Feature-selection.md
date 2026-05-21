@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/feature-selection|Feature selection]]"
+  - "[[skills/data/data-science/machine-learning/microskills/feature-selection|feature-selection]]"
 ---
 # Applying Feature Selection for Dimensionality Reduction
 

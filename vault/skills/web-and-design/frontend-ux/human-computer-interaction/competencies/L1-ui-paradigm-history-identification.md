@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- UI Paradigm History & Identification"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human-Computer Interaction"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/web-and-design/frontend-ux/human-computer-interaction/human-computer-interaction|human-computer-interaction]]"
+requires-microskills:
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/historical-ui-evolution|historical-ui-evolution]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/interface-characteristics|interface-characteristics]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/user-interface-paradigms|user-interface-paradigms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- UI Paradigm History & Identification

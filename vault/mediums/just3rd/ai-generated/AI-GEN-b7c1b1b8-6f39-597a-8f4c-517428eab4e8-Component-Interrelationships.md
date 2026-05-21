@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/component-interrelationships|Component Interrelationships]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/component-interrelationships|component-interrelationships]]"
 ---
 # Understanding HPC Component Interrelationships
 

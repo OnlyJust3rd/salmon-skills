@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/bounded-buffer-problem-implementation|Bounded-Buffer Problem Implementation]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/bounded-buffer-problem-implementation|bounded-buffer-problem-implementation]]"
 ---
 # Implementing the Bounded-Buffer Problem
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/boyer-moore-java-implementation|Boyer-Moore Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/boyer-moore-java-implementation|boyer-moore-java-implementation]]"
 ---
 # Implementing Boyer-Moore in Java
 

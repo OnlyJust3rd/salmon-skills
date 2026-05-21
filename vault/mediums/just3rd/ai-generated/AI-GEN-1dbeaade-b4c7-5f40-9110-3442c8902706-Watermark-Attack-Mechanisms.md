@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermark-attack-mechanisms|Watermark Attack Mechanisms]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/watermark-attack-mechanisms|watermark-attack-mechanisms]]"
 ---
 # Watermark Attack Mechanisms
 

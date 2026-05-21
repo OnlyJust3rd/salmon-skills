@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/symmetric-multiprocessing-smp-identification|Symmetric Multiprocessing (SMP) Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/symmetric-multiprocessing-smp-identification|symmetric-multiprocessing-smp-identification]]"
 ---
 # Identifying Symmetric Multiprocessing (SMP) Systems
 

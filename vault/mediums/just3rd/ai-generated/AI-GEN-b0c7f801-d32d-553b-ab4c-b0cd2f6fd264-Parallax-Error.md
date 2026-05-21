@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/parallax-error|Parallax Error]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/parallax-error|parallax-error]]"
 ---
 # Understanding Parallax Error
 

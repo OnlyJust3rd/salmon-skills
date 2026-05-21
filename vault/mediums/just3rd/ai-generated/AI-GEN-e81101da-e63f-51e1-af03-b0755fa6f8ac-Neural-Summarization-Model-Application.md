@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-summarization/microskills/neural-summarization-model-application|Neural Summarization Model Application]]"
+  - "[[skills/data/data-science/text-summarization/microskills/neural-summarization-model-application|neural-summarization-model-application]]"
 ---
 # Applying Neural Models for Text Summarization
 

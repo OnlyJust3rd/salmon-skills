@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/employer-expectations/microskills/employer-attribute-significance|Employer Attribute Significance]]"
+  - "[[skills/business-it/business-product/employer-expectations/microskills/employer-attribute-significance|employer-attribute-significance]]"
 ---
 # Understanding the Significance of Key Employer Attributes
 

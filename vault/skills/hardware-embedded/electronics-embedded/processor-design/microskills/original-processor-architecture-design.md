@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Original Processor Architecture Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Processor Design"
-parent-competency: "L6- Novel Processor and Interfacing Design"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/processor-design/processor-design|processor-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L4-novel-processor-and-interfacing-design|L4-novel-processor-and-interfacing-design]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Original Processor Architecture Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/processor-design/p
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L6-novel-processor-and-interfacing-design|L6- Novel Processor and Interfacing Design]]
+- [[skills/hardware-embedded/electronics-embedded/processor-design/competencies/L4-novel-processor-and-interfacing-design|L6- Novel Processor and Interfacing Design]]
 
 ## Description
 

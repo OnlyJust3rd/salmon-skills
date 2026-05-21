@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/steganography-definition|Steganography Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/steganography-definition|steganography-definition]]"
 ---
 # Steganography: The Art of Hidden Messages
 

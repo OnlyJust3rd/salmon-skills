@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/mean-squared-error-mse|Mean Squared Error (MSE)]]"
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/mean-squared-error-mse|Mean Squared Error (MSE)]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/mean-squared-error-mse|mean-squared-error-mse]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/mean-squared-error-mse|mean-squared-error-mse]]"
 ---
 # Mean Squared Error (MSE) for Watermarking Performance Evaluation
 

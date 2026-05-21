@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-cryptography|IPSec Tunnel Mode Cryptography]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-cryptography|ipsec-tunnel-mode-cryptography]]"
 ---
 # Understanding IPSec Tunnel Mode Cryptography
 

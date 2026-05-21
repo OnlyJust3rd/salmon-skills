@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Simple Mechanic Creation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Game Design"
-parent-competency: "L3- Implement Basic Character Mechanics"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-design/game-design|game-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-design/competencies/L2-implement-basic-character-mechanics|L2-implement-basic-character-mechanics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Simple Mechanic Creation
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-design/game-design|G
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-design/competencies/L3-implement-basic-character-mechanics|L3- Implement Basic Character Mechanics]]
+- [[skills/creative-media/game-development/game-design/competencies/L2-implement-basic-character-mechanics|L3- Implement Basic Character Mechanics]]
 
 ## Description
 

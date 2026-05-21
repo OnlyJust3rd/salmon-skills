@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-internal-processes|Block Cipher Internal Processes]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-internal-processes|block-cipher-internal-processes]]"
 ---
 # Understanding Block Cipher Internal Processes
 

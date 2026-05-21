@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Scene Atmosphere Creation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Scene and Environment Design"
-parent-competency: "L3- Apply Composition and Lighting"
+  - "microskill"
+parent-skill: "[[skills/creative-media/design-fabrication/scene-and-environment-design/scene-and-environment-design|scene-and-environment-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/design-fabrication/scene-and-environment-design/competencies/L2-apply-composition-and-lighting|L2-apply-composition-and-lighting]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Scene Atmosphere Creation
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/design-fabrication/scene-and-environment-d
 
 Parent competency:
 
-- [[skills/creative-media/design-fabrication/scene-and-environment-design/competencies/L3-apply-composition-and-lighting|L3- Apply Composition and Lighting]]
+- [[skills/creative-media/design-fabrication/scene-and-environment-design/competencies/L2-apply-composition-and-lighting|L3- Apply Composition and Lighting]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/rolle-s-theorem-applicability-conditions|Rolle's Theorem applicability conditions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/rolle-s-theorem-applicability-conditions|rolle-s-theorem-applicability-conditions]]"
 ---
 # Rolle's Theorem Applicability Conditions
 

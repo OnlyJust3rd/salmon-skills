@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/mathematical-definitions|Mathematical Definitions]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/mathematical-definitions|mathematical-definitions]]"
 ---
 # Mathematical Definitions of Geometric Primitives
 

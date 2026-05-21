@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/minimal-product-of-sums|Minimal Product-of-Sums]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/minimal-product-of-sums|minimal-product-of-sums]]"
 ---
 # Minimal Product-of-Sums (POS) Form Derivation
 

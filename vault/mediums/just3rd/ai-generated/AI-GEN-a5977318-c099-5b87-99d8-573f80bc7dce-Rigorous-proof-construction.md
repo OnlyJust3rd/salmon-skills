@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/mathematical-induction/microskills/rigorous-proof-construction|Rigorous proof construction]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/rigorous-proof-construction|rigorous-proof-construction]]"
 ---
 # Constructing Rigorous Proofs for Integers
 

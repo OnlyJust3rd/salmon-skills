@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/discrete-time-system-property-analysis|Discrete-Time System Property Analysis]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/discrete-time-system-property-analysis|discrete-time-system-property-analysis]]"
 ---
 # Analyzing Discrete-Time System Properties: Causality and Stability
 

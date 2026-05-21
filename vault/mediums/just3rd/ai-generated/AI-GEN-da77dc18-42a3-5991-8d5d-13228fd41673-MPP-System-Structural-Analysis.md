@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/mpp-system-structural-analysis|MPP System Structural Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/mpp-system-structural-analysis|mpp-system-structural-analysis]]"
 ---
 # MPP System Structural Analysis
 

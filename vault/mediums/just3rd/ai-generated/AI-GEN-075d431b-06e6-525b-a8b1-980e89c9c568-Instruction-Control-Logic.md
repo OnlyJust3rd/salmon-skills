@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-control-logic|Instruction Control Logic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-control-logic|instruction-control-logic]]"
 ---
 # Instruction Control Logic Implementation
 

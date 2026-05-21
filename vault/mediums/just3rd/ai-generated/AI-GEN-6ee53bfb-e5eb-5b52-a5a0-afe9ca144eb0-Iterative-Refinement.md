@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/iterative-refinement|Iterative Refinement]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/iterative-refinement|iterative-refinement]]"
 ---
 # Iterative Refinement: Honing Your Prompts
 

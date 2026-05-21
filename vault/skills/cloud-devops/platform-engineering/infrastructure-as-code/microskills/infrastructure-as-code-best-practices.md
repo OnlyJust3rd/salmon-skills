@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Infrastructure as Code Best Practices"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-parent-competency: "L3- Apply IaC Principles"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-iac-principles|L2-apply-iac-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Infrastructure as Code Best Practices
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/infrastructure-as-code/
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-apply-iac-principles|L3- Apply IaC Principles]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-iac-principles|L3- Apply IaC Principles]]
 
 ## Description
 

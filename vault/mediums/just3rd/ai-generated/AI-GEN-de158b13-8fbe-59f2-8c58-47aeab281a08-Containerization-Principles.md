@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/containerization-principles|Containerization Principles]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/containerization-principles|containerization-principles]]"
 ---
 # Containerization Principles
 

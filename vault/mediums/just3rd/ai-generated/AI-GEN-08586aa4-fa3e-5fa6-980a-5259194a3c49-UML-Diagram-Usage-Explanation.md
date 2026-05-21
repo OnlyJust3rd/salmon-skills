@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-usage-explanation|UML Diagram Usage Explanation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-usage-explanation|uml-diagram-usage-explanation]]"
 ---
 # Understanding UML Diagram Usage
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|UNIX System Call Application (wait)]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|unix-system-call-application-wait]]"
 ---
 # Mastering Child Process Synchronization with `wait()`
 

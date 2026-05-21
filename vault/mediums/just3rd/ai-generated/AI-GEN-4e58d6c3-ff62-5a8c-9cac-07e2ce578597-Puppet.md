@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/puppet|Puppet]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/puppet|puppet]]"
 ---
 # Understanding Puppet in Infrastructure as Code
 

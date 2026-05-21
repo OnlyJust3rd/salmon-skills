@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/rendering-performance|Rendering Performance]]"
+  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/rendering-performance|rendering-performance]]"
 ---
 # Understanding Rendering Performance: How Your Web Page Visually Updates
 

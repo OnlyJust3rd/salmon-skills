@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-truth-tables|Flip-Flop Truth Tables]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-truth-tables|flip-flop-truth-tables]]"
 ---
 # Flip-Flop Truth Tables
 

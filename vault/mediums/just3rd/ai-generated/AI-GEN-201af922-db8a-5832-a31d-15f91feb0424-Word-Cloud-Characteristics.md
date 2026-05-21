@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/word-cloud-characteristics|Word Cloud Characteristics]]"
+  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/word-cloud-characteristics|word-cloud-characteristics]]"
 ---
 # Understanding Word Clouds: Visualizing Text Frequency
 

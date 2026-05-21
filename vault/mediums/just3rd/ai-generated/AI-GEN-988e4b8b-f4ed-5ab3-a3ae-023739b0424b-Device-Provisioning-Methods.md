@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/device-provisioning-methods|Device Provisioning Methods]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/device-provisioning-methods|device-provisioning-methods]]"
 ---
 # Device Provisioning Methods in Azure IoT Hub
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Frame Forwarding"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Routing and Switching"
-parent-competency: "L2- Explain Routing and Switching Concepts"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/routing-and-switching/routing-and-switching|routing-and-switching]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/routing-and-switching/competencies/L1-explain-routing-and-switching-concepts|L1-explain-routing-and-switching-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Frame Forwarding
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/routing-and-switching/routing-and-swit
 
 Parent competency:
 
-- [[skills/systems/networking/routing-and-switching/competencies/L2-explain-routing-and-switching-concepts|L2- Explain Routing and Switching Concepts]]
+- [[skills/systems/networking/routing-and-switching/competencies/L1-explain-routing-and-switching-concepts|L2- Explain Routing and Switching Concepts]]
 
 ## Description
 

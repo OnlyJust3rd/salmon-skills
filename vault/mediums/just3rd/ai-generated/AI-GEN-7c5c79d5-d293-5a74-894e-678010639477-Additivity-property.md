@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/additivity-property|Additivity property]]"
+  - "[[skills/mathematics/linear-transformations/microskills/additivity-property|additivity-property]]"
 ---
 # Understanding the Additivity Property of Linear Transformations
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/conceptual-architecture-development|Conceptual Architecture Development]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/conceptual-architecture-development|conceptual-architecture-development]]"
 ---
 # Developing a Conceptual Architecture
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/use-control-definition|Use Control Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/use-control-definition|use-control-definition]]"
 ---
 # Understanding Use Control in Copyright Protection
 

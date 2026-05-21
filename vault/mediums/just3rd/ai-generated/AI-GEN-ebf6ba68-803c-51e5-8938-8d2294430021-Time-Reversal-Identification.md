@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/time-reversal-identification|Time Reversal Identification]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-reversal-identification|time-reversal-identification]]"
 ---
 # Identifying Time Reversal in Signals
 

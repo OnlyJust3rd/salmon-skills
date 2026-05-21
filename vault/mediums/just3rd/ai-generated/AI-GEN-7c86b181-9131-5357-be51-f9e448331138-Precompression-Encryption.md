@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/precompression-encryption|Precompression Encryption]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/precompression-encryption|precompression-encryption]]"
 ---
 # Precompression Encryption: Securing Your Data Before the Zip
 

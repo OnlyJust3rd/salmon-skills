@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/counter-definitions|Counter Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/counter-definitions|counter-definitions]]"
 ---
 # Understanding Counters
 

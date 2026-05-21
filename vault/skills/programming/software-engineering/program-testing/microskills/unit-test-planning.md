@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Unit test planning"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "Program Testing"
-parent-competency: "L3- Unit Tests"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/program-testing/program-testing|program-testing]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/program-testing/competencies/L2-unit-tests|L2-unit-tests]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Unit test planning
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/program-testing/program-
 
 Parent competency:
 
-- [[skills/programming/software-engineering/program-testing/competencies/L3-unit-tests|L3- Unit Tests]]
+- [[skills/programming/software-engineering/program-testing/competencies/L2-unit-tests|L3- Unit Tests]]
 
 ## Description
 

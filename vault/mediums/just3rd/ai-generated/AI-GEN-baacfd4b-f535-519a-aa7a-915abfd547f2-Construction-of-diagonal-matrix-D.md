@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/construction-of-diagonal-matrix-d|Construction of diagonal matrix D]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/construction-of-diagonal-matrix-d|construction-of-diagonal-matrix-d]]"
 ---
 # Constructing the Diagonal Matrix D
 

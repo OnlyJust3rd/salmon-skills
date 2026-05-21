@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/substring-identification-via-regular-expressions|Substring Identification via Regular Expressions]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/substring-identification-via-regular-expressions|substring-identification-via-regular-expressions]]"
 ---
 # Substring Identification via Regular Expressions
 

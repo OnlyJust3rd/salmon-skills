@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Logic Gate Truth Tables"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Logic Fundamentals"
-parent-competency: "L1- Recall Logic Gate Basics"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/logic-fundamentals|logic-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-recall-logic-gate-basics|L1-recall-logic-gate-basics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Logic Gate Truth Tables

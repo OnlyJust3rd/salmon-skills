@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/parallel-agent-workflow|Parallel Agent Workflow]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/parallel-agent-workflow|parallel-agent-workflow]]"
 ---
 # Parallel Agent Workflow
 

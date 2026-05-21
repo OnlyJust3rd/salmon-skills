@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-application|Encapsulation Application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-application|encapsulation-application]]"
 ---
 # Implementing Encapsulation in Code
 

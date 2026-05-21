@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/control-flow|Control Flow]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/control-flow|control-flow]]"
 ---
 # Control Flow: Conditionals and Loops in C#
 

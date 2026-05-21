@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Sources of Error"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Experimental Data Evaluation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Measurement Tool Functions and Units"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/competencies/L1-define-measurement-tool-functions-and-units|L1-define-measurement-tool-functions-and-units]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/data-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
+requires-microskills:
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/experimental-measurement-error|experimental-measurement-error]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/instrument-limitation-error|instrument-limitation-error]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/parallax-error|parallax-error]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/rounding-error|rounding-error]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Sources of Error

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/visible-segment-determination|Visible Segment Determination]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/visible-segment-determination|visible-segment-determination]]"
 ---
 # Determining Visible Segments After Clipping
 

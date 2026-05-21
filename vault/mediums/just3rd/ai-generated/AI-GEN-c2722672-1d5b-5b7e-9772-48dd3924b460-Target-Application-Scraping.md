@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/target-application-scraping|Target Application Scraping]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/target-application-scraping|target-application-scraping]]"
 ---
 # Configuring Prometheus for Target Application Scraping
 

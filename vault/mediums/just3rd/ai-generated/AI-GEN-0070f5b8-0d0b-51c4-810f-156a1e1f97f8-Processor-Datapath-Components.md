@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/processor-datapath-components|Processor Datapath Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/processor-datapath-components|processor-datapath-components]]"
 ---
 # Processor Datapath Components
 

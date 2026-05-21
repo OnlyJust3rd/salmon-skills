@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/combinatorial-analysis/microskills/counting-principles-application|Counting Principles Application]]"
+  - "[[skills/mathematics/combinatorial-analysis/microskills/counting-principles-application|counting-principles-application]]"
 ---
 # Applying Counting Principles
 

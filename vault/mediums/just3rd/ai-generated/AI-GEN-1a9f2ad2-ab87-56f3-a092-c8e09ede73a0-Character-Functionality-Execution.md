@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/character-functionality-execution|Character Functionality Execution]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/character-functionality-execution|character-functionality-execution]]"
 ---
 # Character Functionality Execution
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/system-output-calculation-ct-convolution|System Output Calculation (CT Convolution)]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/system-output-calculation-ct-convolution|system-output-calculation-ct-convolution]]"
 ---
 # Calculating System Output with CT Convolution
 

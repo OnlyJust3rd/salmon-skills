@@ -1,18 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "SAP ERP"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Tool"
-  - "Concept"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "SAP Consultant"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/sap-erp/competencies/L1-explain-sap-erp-module-concepts|L1-explain-sap-erp-module-concepts]]"
+  - "[[skills/business-it/business-product/sap-erp/competencies/L2-apply-sap-transaction-and-master-data-concepts|L2-apply-sap-transaction-and-master-data-concepts]]"
+standard-competency:
+  - "[[skills/business-it/business-product/sap-erp/competencies/L2-apply-sap-transaction-and-master-data-concepts|L2-apply-sap-transaction-and-master-data-concepts]]"
+microskills:
+  - "[[skills/business-it/business-product/sap-erp/microskills/document-flow|document-flow]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/master-data-record|master-data-record]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/organizational-structure|organizational-structure]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/sap-module|sap-module]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/sap-transaction|sap-transaction]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/transaction-code-concept|transaction-code-concept]]"
 ---
 
 # SAP ERP
@@ -21,8 +26,8 @@ Understanding SAP ERP module concepts, transaction flows, master data, and confi
 
 ## Competencies
 
-- [[skills/business-it/business-product/sap-erp/competencies/L2-explain-sap-erp-module-concepts|L2- Explain SAP ERP Module Concepts]]
-- [[skills/business-it/business-product/sap-erp/competencies/L3-apply-sap-transaction-and-master-data-concepts|L3- Apply SAP Transaction and Master Data Concepts]]
+- [[skills/business-it/business-product/sap-erp/competencies/L1-explain-sap-erp-module-concepts|L2- Explain SAP ERP Module Concepts]]
+- [[skills/business-it/business-product/sap-erp/competencies/L2-apply-sap-transaction-and-master-data-concepts|L3- Apply SAP Transaction and Master Data Concepts]]
 
 ## Microskills
 

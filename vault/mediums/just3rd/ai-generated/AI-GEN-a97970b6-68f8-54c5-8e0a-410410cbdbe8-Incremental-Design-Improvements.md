@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/incremental-design-improvements|Incremental Design Improvements]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/incremental-design-improvements|incremental-design-improvements]]"
 ---
 # Incremental Design Improvements: Evolving Your Code Gracefully
 

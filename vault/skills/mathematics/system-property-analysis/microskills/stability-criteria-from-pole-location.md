@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Stability Criteria from Pole Location"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "System Property Analysis"
-parent-competency: "L4- Analyze Pole Location and Stability"
+  - "microskill"
+parent-skill: "[[skills/mathematics/system-property-analysis/system-property-analysis|system-property-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/system-property-analysis/competencies/L3-analyze-pole-location-and-stability|L3-analyze-pole-location-and-stability]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Stability Criteria from Pole Location
@@ -15,7 +17,7 @@ Parent macro: [[system-property-analysis|System Property Analysis]]
 
 Parent competency:
 
-- [[L4-analyze-pole-location-and-stability|L4- Analyze Pole Location and Stability]]
+- [[skills/mathematics/system-property-analysis/competencies/L3-analyze-pole-location-and-stability|L4- Analyze Pole Location and Stability]]
 
 ## Description
 

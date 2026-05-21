@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/idea-operations-analysis|IDEA Operations Analysis]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/idea-operations-analysis|idea-operations-analysis]]"
 ---
 # Understanding IDEA Operations
 

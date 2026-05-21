@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/edge-computing-applications|Edge Computing Applications]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/edge-computing-applications|edge-computing-applications]]"
 ---
 # Edge Computing Applications
 

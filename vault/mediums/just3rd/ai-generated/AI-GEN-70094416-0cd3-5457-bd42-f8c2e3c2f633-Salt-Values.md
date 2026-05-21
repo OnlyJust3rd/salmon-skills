@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cybersecurity/microskills/salt-values|Salt Values]]"
+  - "[[skills/security/cybersecurity/cybersecurity/microskills/salt-values|salt-values]]"
 ---
 # Understanding Salt Values in Password Security
 

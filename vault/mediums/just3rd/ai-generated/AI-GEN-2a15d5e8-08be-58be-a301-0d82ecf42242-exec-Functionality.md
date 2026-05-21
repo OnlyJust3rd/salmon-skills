@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/exec-functionality|exec() Functionality]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/exec-functionality|exec-functionality]]"
 ---
 # The `exec()` Family: Replacing Your Process Image
 

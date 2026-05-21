@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/alerting-context-for-golden-signals|Alerting Context for Golden Signals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/alerting-context-for-golden-signals|alerting-context-for-golden-signals]]"
 ---
 # Alerting Context for Golden Signals
 

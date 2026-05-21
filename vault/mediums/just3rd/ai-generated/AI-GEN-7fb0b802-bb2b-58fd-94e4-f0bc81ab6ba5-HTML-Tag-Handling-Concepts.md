@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/html-tag-handling-concepts|HTML Tag Handling Concepts]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/html-tag-handling-concepts|html-tag-handling-concepts]]"
 ---
 # Understanding HTML Tag Handling in Text Cleaning
 

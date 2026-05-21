@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/c-sharp-event|C# Event]]"
+  - "[[skills/programming/programming-languages/c-sharp-programming/microskills/c-sharp-event|c-sharp-event]]"
 ---
 # C# Events: Understanding Event-Driven Code Flow
 

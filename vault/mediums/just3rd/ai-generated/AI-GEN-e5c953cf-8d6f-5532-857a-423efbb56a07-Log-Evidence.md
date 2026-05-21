@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/log-evidence|Log Evidence]]"
+  - "[[skills/business-it/business-product/technical-troubleshooting/microskills/log-evidence|log-evidence]]"
 ---
 # Using Logs to Support or Reject Hypotheses
 

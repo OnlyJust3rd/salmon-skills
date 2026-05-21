@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/gitops/microskills/kubernetes-application-deployment-automation|Kubernetes Application Deployment Automation]]"
+  - "[[skills/cloud-devops/platform-engineering/gitops/microskills/kubernetes-application-deployment-automation|kubernetes-application-deployment-automation]]"
 ---
 # Automating Kubernetes Deployments with GitOps
 

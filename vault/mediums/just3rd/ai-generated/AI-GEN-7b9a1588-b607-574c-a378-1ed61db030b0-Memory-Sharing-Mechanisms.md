@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/memory-sharing-mechanisms|Memory Sharing Mechanisms]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-sharing-mechanisms|memory-sharing-mechanisms]]"
 ---
 # Memory Sharing Mechanisms in Operating Systems
 

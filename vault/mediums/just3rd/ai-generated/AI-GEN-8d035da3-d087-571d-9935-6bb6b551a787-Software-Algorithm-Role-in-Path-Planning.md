@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/software-algorithm-role-in-path-planning|Software Algorithm Role in Path Planning]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/software-algorithm-role-in-path-planning|software-algorithm-role-in-path-planning]]"
 ---
 # Understanding the Software Algorithm's Role in Path Planning
 

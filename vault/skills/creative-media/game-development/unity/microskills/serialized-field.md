@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Serialized Field"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Unity"
-parent-competency: "L2- Explain Unity Scene Prefab and Component Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/unity/unity|unity]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/unity/competencies/L1-explain-unity-scene-prefab-and-component-concepts|L1-explain-unity-scene-prefab-and-component-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Serialized Field
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/unity/unity|Unity]]
 
 Parent competency:
 
-- [[skills/creative-media/game-development/unity/competencies/L2-explain-unity-scene-prefab-and-component-concepts|L2- Explain Unity Scene Prefab and Component Concepts]]
+- [[skills/creative-media/game-development/unity/competencies/L1-explain-unity-scene-prefab-and-component-concepts|L2- Explain Unity Scene Prefab and Component Concepts]]
 
 ## Description
 

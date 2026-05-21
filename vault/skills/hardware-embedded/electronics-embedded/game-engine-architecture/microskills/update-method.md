@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Update Method"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Engine Architecture"
-parent-competency: "L3- Apply Scene Entity and Component Architecture Concepts"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/game-engine-architecture|game-engine-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L2-apply-scene-entity-and-component-architecture-concepts|L2-apply-scene-entity-and-component-architecture-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Update Method
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/game-engine-archit
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L3-apply-scene-entity-and-component-architecture-concepts|L3- Apply Scene Entity and Component Architecture Concepts]]
+- [[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L2-apply-scene-entity-and-component-architecture-concepts|L3- Apply Scene Entity and Component Architecture Concepts]]
 
 ## Description
 

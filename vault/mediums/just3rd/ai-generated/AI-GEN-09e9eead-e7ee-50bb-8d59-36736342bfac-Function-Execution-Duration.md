@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/function-execution-duration|Function Execution Duration]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/function-execution-duration|function-execution-duration]]"
 ---
 # Function Execution Duration in Serverless Computing
 

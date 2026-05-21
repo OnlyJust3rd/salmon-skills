@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/relational-database-fundamentals|Relational Database Fundamentals]]"
+  - "[[skills/data/databases/database-system/microskills/relational-database-fundamentals|relational-database-fundamentals]]"
 ---
 # Relational Database Fundamentals
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Functional Parallel Program Development"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "OpenMP"
-parent-competency: "L3- Implement OpenMP program"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/openmp/openmp|openmp]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/openmp/competencies/L2-implement-openmp-program|L2-implement-openmp-program]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Functional Parallel Program Development
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/openmp/openmp|OpenMP]]
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/openmp/competencies/L3-implement-openmp-program|L3- Implement OpenMP program]]
+- [[skills/systems/high-performance-computing/openmp/competencies/L2-implement-openmp-program|L3- Implement OpenMP program]]
 
 ## Description
 

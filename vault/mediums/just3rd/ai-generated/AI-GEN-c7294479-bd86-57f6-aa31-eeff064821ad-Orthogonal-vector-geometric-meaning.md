@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonal-vector-geometric-meaning|Orthogonal vector geometric meaning]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonal-vector-geometric-meaning|orthogonal-vector-geometric-meaning]]"
 ---
 # Understanding Orthogonal Vectors Geometrically
 

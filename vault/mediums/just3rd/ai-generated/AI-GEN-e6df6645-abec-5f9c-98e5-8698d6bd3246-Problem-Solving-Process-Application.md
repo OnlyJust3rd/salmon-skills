@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/problem-solving-process-application|Problem-Solving Process Application]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/problem-solving-process-application|problem-solving-process-application]]"
 ---
 # Applying the Problem-Solving Process: Defining and Specifying
 

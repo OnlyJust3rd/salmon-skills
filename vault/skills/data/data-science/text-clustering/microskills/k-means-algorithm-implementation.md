@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "K-means Algorithm Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Clustering"
-parent-competency: "L3- Apply K-means Clustering"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-clustering/text-clustering|text-clustering]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-clustering/competencies/L2-apply-k-means-clustering|L2-apply-k-means-clustering]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # K-means Algorithm Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-clustering/text-clustering|Text Cl
 
 Parent competency:
 
-- [[skills/data/data-science/text-clustering/competencies/L3-apply-k-means-clustering|L3- Apply K-means Clustering]]
+- [[skills/data/data-science/text-clustering/competencies/L2-apply-k-means-clustering|L3- Apply K-means Clustering]]
 
 ## Description
 

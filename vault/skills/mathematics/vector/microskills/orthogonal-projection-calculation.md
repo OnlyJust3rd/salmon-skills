@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Orthogonal projection calculation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Vector"
-parent-competency: "L3- Perform Vector Calculations"
+  - "microskill"
+parent-skill: "[[skills/mathematics/vector/vector|vector]]"
+requires-in-competencies:
+  - "[[skills/mathematics/vector/competencies/L2-perform-vector-calculations|L2-perform-vector-calculations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Orthogonal projection calculation
@@ -15,7 +17,7 @@ Parent macro: [[vector|Vector]]
 
 Parent competency:
 
-- [[L3-perform-vector-calculations|L3- Perform Vector Calculations]]
+- [[skills/mathematics/vector/competencies/L2-perform-vector-calculations|L3- Perform Vector Calculations]]
 
 ## Description
 

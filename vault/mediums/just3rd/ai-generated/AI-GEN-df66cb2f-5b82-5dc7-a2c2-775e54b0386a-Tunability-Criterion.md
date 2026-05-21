@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/tunability-criterion|Tunability Criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/tunability-criterion|tunability-criterion]]"
 ---
 # Analyzing the Tunability Criterion in Selective Encryption
 

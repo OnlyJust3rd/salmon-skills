@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-metacharacters|Regular Expression Metacharacters]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-metacharacters|regular-expression-metacharacters]]"
 ---
 # Understanding Regular Expression Metacharacters
 

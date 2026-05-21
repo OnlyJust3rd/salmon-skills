@@ -1,17 +1,58 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Multimedia Compression"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 7
-microskill-count: 35
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/n-a-cryptographic-techniques-for-multimedia-communication"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-describe-encryption-compression-interaction|L1-describe-encryption-compression-interaction]]"
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-describe-lossy-compression-and-transform-coding|L1-describe-lossy-compression-and-transform-coding]]"
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-explain-and-compare-jpeg-steps-and-modes|L1-explain-and-compare-jpeg-steps-and-modes]]"
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-explain-audio-compression-techniques|L1-explain-audio-compression-techniques]]"
+  - "[[skills/mathematics/multimedia-compression/competencies/L1-explain-video-compression-concepts|L1-explain-video-compression-concepts]]"
+  - "[[skills/mathematics/multimedia-compression/competencies/L2-implement-dct|L2-implement-dct]]"
+  - "[[skills/mathematics/multimedia-compression/competencies/L3-analyze-compression-trade-offs|L3-analyze-compression-trade-offs]]"
+standard-competency:
+  - "[[skills/mathematics/multimedia-compression/competencies/L2-implement-dct|L2-implement-dct]]"
+  - "[[skills/mathematics/multimedia-compression/competencies/L3-analyze-compression-trade-offs|L3-analyze-compression-trade-offs]]"
+microskills:
+  - "[[skills/mathematics/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-lzw|compression-ratio-vs-data-fidelity-lzw]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-transform-coding|compression-ratio-vs-data-fidelity-transform-coding]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/discrete-cosine-transform-dct-step|discrete-cosine-transform-dct-step]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/encryption-impact-on-compression-pipeline|encryption-impact-on-compression-pipeline]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/encryption-integration-in-compression-pipeline|encryption-integration-in-compression-pipeline]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/frame-types-i-p-b|frame-types-i-p-b]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/frequency-masking|frequency-masking]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/h-261-h-263-standards|h-261-h-263-standards]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/image-segment-transformation|image-segment-transformation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/in-compression-encryption|in-compression-encryption]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-dct-purpose|jpeg-dct-purpose]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-entropy-coding-purpose|jpeg-entropy-coding-purpose]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-hierarchical-mode-operation|jpeg-hierarchical-mode-operation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-lossless-mode-operation|jpeg-lossless-mode-operation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-operational-mode-comparison|jpeg-operational-mode-comparison]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-progressive-mode-operation|jpeg-progressive-mode-operation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-quantization-purpose|jpeg-quantization-purpose]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-sequential-mode-operation|jpeg-sequential-mode-operation]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-zig-zag-scan-purpose|jpeg-zig-zag-scan-purpose]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/lossy-compression-core-concept|lossy-compression-core-concept]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/motion-vectors-in-temporal-redundancy|motion-vectors-in-temporal-redundancy]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/mpeg-audio-subband-filtering|mpeg-audio-subband-filtering]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/mpeg-standards|mpeg-standards]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/multimedia-compression-context|multimedia-compression-context]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/multimedia-compression-stages|multimedia-compression-stages]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/postcompression-encryption|postcompression-encryption]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/precompression-encryption|precompression-encryption]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/psychoacoustic-principles-in-audio-compression|psychoacoustic-principles-in-audio-compression]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/spatial-redundancy-removal|spatial-redundancy-removal]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/subband-filtering-process|subband-filtering-process]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/temporal-masking|temporal-masking]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/temporal-redundancy-removal|temporal-redundancy-removal]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/transform-coding-identification|transform-coding-identification]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/transform-coding-vs-lzw-analysis|transform-coding-vs-lzw-analysis]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/video-compression-primary-goals|video-compression-primary-goals]]"
 ---
 
 # Multimedia Compression
@@ -20,13 +61,13 @@ Describing the major steps of the JPEG image compression standard (DCT, Quantiza
 
 ## Competencies
 
-- [[L2-describe-lossy-compression-and-transform-coding|L2- Describe Lossy Compression and Transform Coding]]
-- [[L3-implement-dct|L3- Implement DCT]]
-- [[L4-analyze-compression-trade-offs|L4- Analyze compression trade-offs]]
-- [[L2-explain-and-compare-jpeg-steps-and-modes|L2- Explain and Compare JPEG Steps and Modes]]
-- [[L2-explain-video-compression-concepts|L2- Explain Video Compression Concepts]]
-- [[L2-explain-audio-compression-techniques|L2- Explain Audio Compression Techniques]]
-- [[L2-describe-encryption-compression-interaction|L2- Describe Encryption-Compression Interaction]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-describe-lossy-compression-and-transform-coding|L2- Describe Lossy Compression and Transform Coding]]
+- [[skills/mathematics/multimedia-compression/competencies/L2-implement-dct|L3- Implement DCT]]
+- [[skills/mathematics/multimedia-compression/competencies/L3-analyze-compression-trade-offs|L4- Analyze compression trade-offs]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-explain-and-compare-jpeg-steps-and-modes|L2- Explain and Compare JPEG Steps and Modes]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-explain-video-compression-concepts|L2- Explain Video Compression Concepts]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-explain-audio-compression-techniques|L2- Explain Audio Compression Techniques]]
+- [[skills/mathematics/multimedia-compression/competencies/L1-describe-encryption-compression-interaction|L2- Describe Encryption-Compression Interaction]]
 
 ## Microskills
 

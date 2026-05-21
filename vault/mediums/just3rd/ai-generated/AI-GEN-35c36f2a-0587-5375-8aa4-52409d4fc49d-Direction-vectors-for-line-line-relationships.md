@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/direction-vectors-for-line-line-relationships|Direction vectors for line-line relationships]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/direction-vectors-for-line-line-relationships|direction-vectors-for-line-line-relationships]]"
 ---
 # Analyzing Line Relationships with Direction Vectors
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Derivative-function behavior relationship"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Applied Calculus Problem Solving"
-parent-competency: "L2- Explain calculus relationships"
+  - "microskill"
+parent-skill: "[[skills/mathematics/applied-calculus-problem-solving/applied-calculus-problem-solving|applied-calculus-problem-solving]]"
+requires-in-competencies:
+  - "[[skills/mathematics/applied-calculus-problem-solving/competencies/L1-explain-calculus-relationships|L1-explain-calculus-relationships]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Derivative-function behavior relationship
@@ -15,7 +17,7 @@ Parent macro: [[applied-calculus-problem-solving|Applied Calculus Problem Solvin
 
 Parent competency:
 
-- [[L2-explain-calculus-relationships|L2- Explain calculus relationships]]
+- [[skills/mathematics/applied-calculus-problem-solving/competencies/L1-explain-calculus-relationships|L2- Explain calculus relationships]]
 
 ## Description
 

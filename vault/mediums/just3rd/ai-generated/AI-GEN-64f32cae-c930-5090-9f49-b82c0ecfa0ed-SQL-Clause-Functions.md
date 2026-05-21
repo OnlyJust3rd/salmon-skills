@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/sql-clause-functions|SQL Clause Functions]]"
+  - "[[skills/data/databases/sql/microskills/sql-clause-functions|sql-clause-functions]]"
 ---
 # Understanding SQL Clause Functions
 

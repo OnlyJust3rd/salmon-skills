@@ -1,19 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Node.js"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - web stack skills"
-coverage:
-  - "Concept"
-  - "ToolUsage"
-  - "Implementation"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Backend Developer"
-  - "Full Stack Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/backend-api/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L1-explain-node-js-runtime-and-modules-for-servers]]"
+standard-competency:
+  - "[[skills/web-and-design/backend-api/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L1-explain-node-js-runtime-and-modules-for-servers]]"
+microskills:
+  - "[[skills/web-and-design/backend-api/node-js/microskills/module-systems|module-systems]]"
+  - "[[skills/web-and-design/backend-api/node-js/microskills/node-js-process-model|node-js-process-model]]"
+  - "[[skills/web-and-design/backend-api/node-js/microskills/npm-packages|npm-packages]]"
 ---
 
 # Node.js
@@ -22,7 +22,7 @@ Using the Node.js runtime for server-side JavaScript: modules, packages, and the
 
 ## Competencies
 
-- [[skills/web-and-design/backend-api/node-js/competencies/L2-explain-node-js-runtime-and-modules-for-servers|L2- Explain Node.js Runtime and Modules for Servers]]
+- [[skills/web-and-design/backend-api/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L2- Explain Node.js Runtime and Modules for Servers]]
 
 ## Microskills
 

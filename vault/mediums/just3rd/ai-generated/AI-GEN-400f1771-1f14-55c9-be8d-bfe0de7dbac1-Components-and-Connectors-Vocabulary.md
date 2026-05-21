@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/components-and-connectors-vocabulary|Components and Connectors Vocabulary]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/components-and-connectors-vocabulary|components-and-connectors-vocabulary]]"
 ---
 # Components and Connectors: The Building Blocks of Software Architecture
 

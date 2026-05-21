@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/sequence-convolution-execution|Sequence Convolution Execution]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/sequence-convolution-execution|sequence-convolution-execution]]"
 ---
 # Computing Discrete-Time Convolution
 

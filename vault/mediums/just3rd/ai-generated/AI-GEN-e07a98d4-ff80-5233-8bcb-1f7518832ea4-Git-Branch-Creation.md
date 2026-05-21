@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-version-control/microskills/git-branch-creation|Git Branch Creation]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/git-branch-creation|git-branch-creation]]"
 ---
 # Git Branch Creation: Isolating Development
 

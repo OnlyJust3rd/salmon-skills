@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/performance-considerations|Performance Considerations]]"
+  - "[[skills/data/databases/nosql-database/microskills/performance-considerations|performance-considerations]]"
 ---
 # Performance Considerations for NoSQL Databases: Where Speed Shines
 

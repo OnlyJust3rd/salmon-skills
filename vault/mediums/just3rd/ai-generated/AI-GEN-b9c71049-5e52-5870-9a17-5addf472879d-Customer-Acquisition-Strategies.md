@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-acquisition-strategies|Customer Acquisition Strategies]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-acquisition-strategies|customer-acquisition-strategies]]"
 ---
 # Customer Acquisition Strategies: Attracting Your First Buyers
 

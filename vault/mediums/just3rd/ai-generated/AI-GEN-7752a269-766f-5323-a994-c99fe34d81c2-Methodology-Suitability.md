@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/methodology-suitability|Methodology Suitability]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/methodology-suitability|methodology-suitability]]"
 ---
 # Evaluating Methodology Suitability
 

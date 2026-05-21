@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Visual Perception Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human Cognitive and Perception"
-parent-competency: "L1- Visual Perception Principles"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/human-cognitive-and-perception|human-cognitive-and-perception]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/competencies/L1-visual-perception-principles|L1-visual-perception-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Visual Perception Principles

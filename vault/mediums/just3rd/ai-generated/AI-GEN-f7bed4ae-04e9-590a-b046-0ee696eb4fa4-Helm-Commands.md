@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/helm-commands|Helm Commands]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/helm-commands|helm-commands]]"
 ---
 # Helm Commands: Your Toolkit for Kubernetes Application Management
 

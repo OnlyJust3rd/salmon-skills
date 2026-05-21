@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-honesty|Business Honesty]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-honesty|business-honesty]]"
 ---
 # Business Honesty: Building Trust Through Truthfulness
 

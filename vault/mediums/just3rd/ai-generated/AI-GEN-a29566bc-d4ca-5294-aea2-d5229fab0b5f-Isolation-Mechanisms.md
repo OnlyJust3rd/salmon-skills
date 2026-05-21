@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/isolation-mechanisms|Isolation Mechanisms]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/isolation-mechanisms|isolation-mechanisms]]"
 ---
 # Understanding Isolation Mechanisms: VMs vs. Containers
 

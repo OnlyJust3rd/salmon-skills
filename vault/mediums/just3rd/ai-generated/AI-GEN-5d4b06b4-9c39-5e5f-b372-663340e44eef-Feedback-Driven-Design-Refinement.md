@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/feedback-driven-design-refinement|Feedback-Driven Design Refinement]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/feedback-driven-design-refinement|feedback-driven-design-refinement]]"
 ---
 # Feedback-Driven Design Refinement
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-resource-application|Kubernetes Resource Application]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-resource-application|kubernetes-resource-application]]"
 ---
 # Applying Kubernetes Deployment Configurations
 

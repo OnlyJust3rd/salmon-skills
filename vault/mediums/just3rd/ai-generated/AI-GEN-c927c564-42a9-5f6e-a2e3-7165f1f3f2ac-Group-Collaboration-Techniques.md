@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/group-collaboration-techniques|Group Collaboration Techniques]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/group-collaboration-techniques|group-collaboration-techniques]]"
 ---
 # Mastering Group Collaboration Techniques
 

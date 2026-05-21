@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-backup-and-recovery/microskills/recovery-objectives|Recovery Objectives]]"
+  - "[[skills/data/databases/database-backup-and-recovery/microskills/recovery-objectives|recovery-objectives]]"
 ---
 # Understanding Recovery Objectives: RPO and RTO
 

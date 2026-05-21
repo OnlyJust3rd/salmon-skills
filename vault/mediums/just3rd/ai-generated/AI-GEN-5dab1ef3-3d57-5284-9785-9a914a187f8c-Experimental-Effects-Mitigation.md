@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/experimental-effects-mitigation|Experimental Effects Mitigation]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/experimental-effects-mitigation|experimental-effects-mitigation]]"
 ---
 # Experimental Effects Mitigation in Usability Evaluation
 

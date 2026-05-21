@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Pipelining Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Pipelined Architecture"
-parent-competency: "L2- Pipelining Concept and Stages"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/pipelined-architecture|pipelined-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L1-pipelining-concept-and-stages|L1-pipelining-concept-and-stages]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Pipelining Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/pipelined-architec
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L2-pipelining-concept-and-stages|L2- Pipelining Concept and Stages]]
+- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L1-pipelining-concept-and-stages|L2- Pipelining Concept and Stages]]
 
 ## Description
 

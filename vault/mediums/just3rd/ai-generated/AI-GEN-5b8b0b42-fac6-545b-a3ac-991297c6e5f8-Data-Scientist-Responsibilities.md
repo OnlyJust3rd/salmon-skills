@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/data-science/microskills/data-scientist-responsibilities|Data Scientist Responsibilities]]"
+  - "[[skills/data/data-science/data-science/microskills/data-scientist-responsibilities|data-scientist-responsibilities]]"
 ---
 # Understanding Data Scientist Responsibilities
 

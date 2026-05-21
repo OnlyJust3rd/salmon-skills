@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Block Cipher Types"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Algorithm Classification"
-parent-competency: "L2- Explain and Identify Symmetric Algorithms"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-classification/competencies/L1-explain-and-identify-symmetric-algorithms|L1-explain-and-identify-symmetric-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Block Cipher Types
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-classification/algorithm
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-classification/competencies/L2-explain-and-identify-symmetric-algorithms|L2- Explain and Identify Symmetric Algorithms]]
+- [[skills/programming/algorithms/algorithm-classification/competencies/L1-explain-and-identify-symmetric-algorithms|L2- Explain and Identify Symmetric Algorithms]]
 
 ## Description
 

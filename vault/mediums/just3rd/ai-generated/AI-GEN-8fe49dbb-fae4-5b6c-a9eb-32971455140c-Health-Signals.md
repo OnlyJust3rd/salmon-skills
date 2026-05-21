@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/health-signals|Health Signals]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/health-signals|health-signals]]"
 ---
 # Understanding Health Signals in System Monitoring
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Page Table Functionality"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Memory Hierarchy"
-parent-competency: "L2- Virtual Memory Principles"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/memory-hierarchy|memory-hierarchy]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/competencies/L1-virtual-memory-principles|L1-virtual-memory-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Page Table Functionality
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/memory-hierarchy/m
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/memory-hierarchy/competencies/L2-virtual-memory-principles|L2- Virtual Memory Principles]]
+- [[skills/hardware-embedded/electronics-embedded/memory-hierarchy/competencies/L1-virtual-memory-principles|L2- Virtual Memory Principles]]
 
 ## Description
 

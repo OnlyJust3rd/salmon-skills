@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Fact Table"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Data Warehousing"
-parent-competency: "L2- Explain Data Warehouse Modeling Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-warehousing/data-warehousing|data-warehousing]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L1-explain-data-warehouse-modeling-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Fact Table
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-warehousing/data-warehousing|Dat
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-warehousing/competencies/L2-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]]
+- [[skills/data/data-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]]
 
 ## Description
 

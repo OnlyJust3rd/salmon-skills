@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-master-read-write|I2C Master Read/Write]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-master-read-write|i2c-master-read-write]]"
 ---
 # Implementing I2C Master Read/Write Operations
 

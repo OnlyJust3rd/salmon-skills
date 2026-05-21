@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/actuator-control-via-communication|Actuator Control via Communication]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/actuator-control-via-communication|actuator-control-via-communication]]"
 ---
 # Controlling Actuators with Communication Protocols
 

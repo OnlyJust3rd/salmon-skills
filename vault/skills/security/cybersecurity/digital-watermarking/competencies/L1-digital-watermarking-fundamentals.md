@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Digital Watermarking Fundamentals"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Watermarking"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Image Representations"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L1-image-representations|L1-image-representations]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/security/cybersecurity/digital-watermarking/digital-watermarking|digital-watermarking]]"
+requires-microskills:
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-definition|digital-watermarking-definition]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-metrics|digital-watermarking-metrics]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-purpose|digital-watermarking-purpose]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Digital Watermarking Fundamentals

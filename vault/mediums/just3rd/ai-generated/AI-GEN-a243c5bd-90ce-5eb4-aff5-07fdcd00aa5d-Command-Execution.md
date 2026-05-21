@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/command-execution|Command Execution]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/command-execution|command-execution]]"
 ---
 # Understanding Command Execution with the Claude Code Terminal Agent
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/gain-requirement-evaluation|Gain Requirement Evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/gain-requirement-evaluation|gain-requirement-evaluation]]"
 ---
 # Evaluating Amplification Gain Requirements
 

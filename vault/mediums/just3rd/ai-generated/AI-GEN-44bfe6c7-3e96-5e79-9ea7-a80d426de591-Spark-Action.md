@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-spark/microskills/spark-action|Spark Action]]"
+  - "[[skills/data/data-platforms/apache-spark/microskills/spark-action|spark-action]]"
 ---
 # Spark Actions: Triggering Computation
 

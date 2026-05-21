@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/application-of-design-strategies|Application of Design Strategies]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/application-of-design-strategies|application-of-design-strategies]]"
 ---
 # Applying Algorithm Design Strategies
 

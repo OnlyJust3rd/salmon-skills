@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Common Assembly Instructions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Assembly Programming"
-parent-competency: "L1- List Assembly Instructions"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/assembly-programming/assembly-programming|assembly-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/assembly-programming/competencies/L1-list-assembly-instructions|L1-list-assembly-instructions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Common Assembly Instructions

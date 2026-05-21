@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/selection-justification|Selection Justification]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/selection-justification|selection-justification]]"
 ---
 # Justifying Your Engineering Problem-Solving Approach
 

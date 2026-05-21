@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Control Unit Trade-off Reasoning"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Control Unit Design"
-parent-competency: "L5- Evaluate Control Trade-offs"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/control-unit-design/control-unit-design|control-unit-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L3-evaluate-control-trade-offs|L3-evaluate-control-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Control Unit Trade-off Reasoning
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/control-unit-desig
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L5-evaluate-control-trade-offs|L5- Evaluate Control Trade-offs]]
+- [[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L3-evaluate-control-trade-offs|L5- Evaluate Control Trade-offs]]
 
 ## Description
 

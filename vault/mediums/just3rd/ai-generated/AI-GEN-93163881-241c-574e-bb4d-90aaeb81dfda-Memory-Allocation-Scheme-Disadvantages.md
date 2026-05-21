@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-disadvantages|Memory Allocation Scheme Disadvantages]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-disadvantages|memory-allocation-scheme-disadvantages]]"
 ---
 # Identifying the Disadvantages of Memory Allocation Schemes
 

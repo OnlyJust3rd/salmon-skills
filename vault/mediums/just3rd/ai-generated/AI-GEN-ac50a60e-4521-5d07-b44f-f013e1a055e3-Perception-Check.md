@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ai/microskills/perception-check|Perception Check]]"
+  - "[[skills/creative-media/game-development/game-ai/microskills/perception-check|perception-check]]"
 ---
 # Perception Check: How NPCs See the Game World
 

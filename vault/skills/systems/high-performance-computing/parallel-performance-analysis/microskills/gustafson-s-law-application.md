@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Gustafson's Law Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Parallel Performance Analysis"
-parent-competency: "L3- Apply Performance Laws"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/parallel-performance-analysis/parallel-performance-analysis|parallel-performance-analysis]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L2-apply-performance-laws|L2-apply-performance-laws]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Gustafson's Law Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/parallel-performance-a
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L3-apply-performance-laws|L3- Apply Performance Laws]]
+- [[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L2-apply-performance-laws|L3- Apply Performance Laws]]
 
 ## Description
 

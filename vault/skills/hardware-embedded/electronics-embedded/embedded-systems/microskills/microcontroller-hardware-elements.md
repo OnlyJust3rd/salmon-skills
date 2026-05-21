@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Microcontroller Hardware Elements"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration; CPE 475 - Internet of Things"
-parent-macro: "Embedded Systems"
-parent-competency: "L1- Identify microcontroller components"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-systems/embedded-systems|embedded-systems]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L1-identify-microcontroller-components|L1-identify-microcontroller-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Microcontroller Hardware Elements

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/issue-to-change-workflow|Issue-to-Change Workflow]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/issue-to-change-workflow|issue-to-change-workflow]]"
 ---
 # Connecting Your Code to Issues: The Issue-to-Change Workflow
 

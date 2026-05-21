@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/generalizing-diagonalization|Generalizing diagonalization]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/generalizing-diagonalization|generalizing-diagonalization]]"
 ---
 # Jordan Canonical Form: Beyond Diagonalization
 

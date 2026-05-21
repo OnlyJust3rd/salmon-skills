@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/html/microskills/markup-validation-mindset|Markup validation mindset]]"
+  - "[[skills/web-and-design/frontend-ux/html/microskills/markup-validation-mindset|markup-validation-mindset]]"
 ---
 # Mastering Markup Validation: Your HTML's Best Friend
 

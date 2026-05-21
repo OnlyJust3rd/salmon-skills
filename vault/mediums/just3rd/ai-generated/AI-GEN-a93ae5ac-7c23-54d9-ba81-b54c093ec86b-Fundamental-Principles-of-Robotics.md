@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/fundamental-principles-of-robotics|Fundamental Principles of Robotics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/fundamental-principles-of-robotics|fundamental-principles-of-robotics]]"
 ---
 # Understanding the Building Blocks of Robotics
 

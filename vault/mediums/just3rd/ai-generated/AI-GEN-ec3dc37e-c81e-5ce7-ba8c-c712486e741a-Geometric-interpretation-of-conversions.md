@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/geometric-interpretation-of-conversions|Geometric interpretation of conversions]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/geometric-interpretation-of-conversions|geometric-interpretation-of-conversions]]"
 ---
 # Understanding the Geometry of Polar to Rectangular Conversions
 

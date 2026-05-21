@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/circuit-construction-and-testing|Circuit Construction and Testing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/circuit-construction-and-testing|circuit-construction-and-testing]]"
 ---
 # Building and Testing Diode Logic Gates
 

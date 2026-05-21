@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/iterative-strategy-adjustment|Iterative Strategy Adjustment]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/iterative-strategy-adjustment|iterative-strategy-adjustment]]"
 ---
 # Iterative Strategy Adjustment: Adapting Your Plan in Lean Startup
 

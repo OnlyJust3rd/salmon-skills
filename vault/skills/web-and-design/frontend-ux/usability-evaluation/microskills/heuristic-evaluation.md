@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Heuristic Evaluation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Usability Evaluation"
-parent-competency: "L3- Apply Usability Evaluation Methods"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/usability-evaluation/usability-evaluation|usability-evaluation]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L2-apply-usability-evaluation-methods|L2-apply-usability-evaluation-methods]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Heuristic Evaluation
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/usability-evaluation/usability
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L3-apply-usability-evaluation-methods|L3- Apply Usability Evaluation Methods]]
+- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L2-apply-usability-evaluation-methods|L3- Apply Usability Evaluation Methods]]
 
 ## Description
 

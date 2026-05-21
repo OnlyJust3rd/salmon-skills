@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/intervals-of-increase-and-decrease-determination|Intervals of increase and decrease determination]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/intervals-of-increase-and-decrease-determination|intervals-of-increase-and-decrease-determination]]"
 ---
 # Identifying Intervals of Increase and Decrease Using the First Derivative
 

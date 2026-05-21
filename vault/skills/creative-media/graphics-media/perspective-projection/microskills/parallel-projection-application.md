@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Parallel Projection Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Perspective Projection"
-parent-competency: "L3- Apply Parallel Projection"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/perspective-projection/perspective-projection|perspective-projection]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/perspective-projection/competencies/L2-apply-parallel-projection|L2-apply-parallel-projection]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Parallel Projection Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/perspective-projection/pers
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/perspective-projection/competencies/L3-apply-parallel-projection|L3- Apply Parallel Projection]]
+- [[skills/creative-media/graphics-media/perspective-projection/competencies/L2-apply-parallel-projection|L3- Apply Parallel Projection]]
 
 ## Description
 

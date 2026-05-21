@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-calculation-differential-equations|Impulse Response Calculation (Differential Equations)]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/impulse-response-calculation-differential-equations|impulse-response-calculation-differential-equations]]"
 ---
 # Impulse Response Calculation from Differential Equations
 

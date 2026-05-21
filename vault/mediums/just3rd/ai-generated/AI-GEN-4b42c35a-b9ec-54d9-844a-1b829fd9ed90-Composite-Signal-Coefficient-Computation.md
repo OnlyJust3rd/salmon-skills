@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/composite-signal-coefficient-computation|Composite Signal Coefficient Computation]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/composite-signal-coefficient-computation|composite-signal-coefficient-computation]]"
 ---
 # Applying Linearity for Composite Signal Coefficients
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Error Rate Monitoring"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Monitoring"
-parent-competency: "L3- Apply Golden Signals Monitoring"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-monitoring/system-monitoring|system-monitoring]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-apply-golden-signals-monitoring|L2-apply-golden-signals-monitoring]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Error Rate Monitoring
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/system-monitoring/syste
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L3-apply-golden-signals-monitoring|L3- Apply Golden Signals Monitoring]]
+- [[skills/cloud-devops/platform-engineering/system-monitoring/competencies/L2-apply-golden-signals-monitoring|L3- Apply Golden Signals Monitoring]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/sequence-convergence-determination|Sequence convergence determination]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/sequence-convergence-determination|sequence-convergence-determination]]"
 ---
 # Determining Sequence Convergence: Applying Properties
 

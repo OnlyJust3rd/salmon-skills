@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-control-and-freedom|User Control and Freedom]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/user-control-and-freedom|user-control-and-freedom]]"
 ---
 # User Control and Freedom: Empowering Your Users
 

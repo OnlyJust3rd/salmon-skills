@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Customer Pain Point Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Lean Startup"
-parent-competency: "L3- Conduct Problem Interviews"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L2-conduct-problem-interviews|L2-conduct-problem-interviews]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Customer Pain Point Identification
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/lean-startup/lean-startup|Le
 
 Parent competency:
 
-- [[skills/business-it/business-product/lean-startup/competencies/L3-conduct-problem-interviews|L3- Conduct Problem Interviews]]
+- [[skills/business-it/business-product/lean-startup/competencies/L2-conduct-problem-interviews|L3- Conduct Problem Interviews]]
 
 ## Description
 

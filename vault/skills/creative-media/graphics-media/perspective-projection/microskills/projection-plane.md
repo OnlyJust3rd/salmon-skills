@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Projection Plane"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Perspective Projection"
-parent-competency: "L1- List Projection Components"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/perspective-projection/perspective-projection|perspective-projection]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/perspective-projection/competencies/L1-list-projection-components|L1-list-projection-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Projection Plane

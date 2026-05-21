@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-software-mapping|UML Diagram Application for Software Mapping]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-software-mapping|uml-diagram-application-for-software-mapping]]"
 ---
 # Mapping Software to Hardware with UML
 

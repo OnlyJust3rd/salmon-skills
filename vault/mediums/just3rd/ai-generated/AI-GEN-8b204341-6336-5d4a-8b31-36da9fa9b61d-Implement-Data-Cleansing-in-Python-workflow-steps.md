@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-data-cleansing-in-python-workflow-steps|Implement Data Cleansing in Python workflow steps]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-data-cleansing-in-python-workflow-steps|implement-data-cleansing-in-python-workflow-steps]]"
 ---
 # Implementing a Data Cleansing Workflow in Python
 

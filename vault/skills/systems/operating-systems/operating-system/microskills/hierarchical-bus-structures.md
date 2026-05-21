@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Hierarchical Bus Structures"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Operating System"
-parent-competency: "L2- I/O integration via bus"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/operating-system/operating-system|operating-system]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-i-o-integration-via-bus|L1-i-o-integration-via-bus]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Hierarchical Bus Structures
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/operating-system/operating-syst
 
 Parent competency:
 
-- [[skills/systems/operating-systems/operating-system/competencies/L2-i-o-integration-via-bus|L2- I/O integration via bus]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-i-o-integration-via-bus|L2- I/O integration via bus]]
 
 ## Description
 

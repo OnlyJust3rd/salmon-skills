@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/systematic-troubleshooting-techniques|Systematic Troubleshooting Techniques]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/systematic-troubleshooting-techniques|systematic-troubleshooting-techniques]]"
 ---
 # Systematic Troubleshooting Techniques for Hardware
 

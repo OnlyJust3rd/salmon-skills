@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/hypothesis-testing-application|Hypothesis Testing Application]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/hypothesis-testing-application|hypothesis-testing-application]]"
 ---
 # Hypothesis Testing with the Build-Measure-Learn Cycle
 

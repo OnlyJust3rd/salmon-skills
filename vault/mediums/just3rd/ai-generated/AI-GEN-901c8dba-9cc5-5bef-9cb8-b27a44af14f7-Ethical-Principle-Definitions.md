@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-definitions|Ethical Principle Definitions]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-definitions|ethical-principle-definitions]]"
 ---
 # Understanding Ethical Principles in Business
 

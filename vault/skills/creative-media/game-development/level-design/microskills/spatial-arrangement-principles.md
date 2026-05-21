@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Spatial Arrangement Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Level Design"
-parent-competency: "L3- Apply and Explain Spatial Layout Principles"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/level-design/level-design|level-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/level-design/competencies/L2-apply-and-explain-spatial-layout-principles|L2-apply-and-explain-spatial-layout-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Spatial Arrangement Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/level-design/level-design
 
 Parent competency:
 
-- [[skills/creative-media/game-development/level-design/competencies/L3-apply-and-explain-spatial-layout-principles|L3- Apply and Explain Spatial Layout Principles]]
+- [[skills/creative-media/game-development/level-design/competencies/L2-apply-and-explain-spatial-layout-principles|L3- Apply and Explain Spatial Layout Principles]]
 
 ## Description
 

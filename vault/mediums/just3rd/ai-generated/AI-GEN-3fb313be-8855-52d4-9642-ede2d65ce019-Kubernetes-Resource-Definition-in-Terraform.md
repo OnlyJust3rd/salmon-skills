@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|Kubernetes Resource Definition in Terraform]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|kubernetes-resource-definition-in-terraform]]"
 ---
 # Defining Kubernetes Resources with Terraform
 

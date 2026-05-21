@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/memory-usage|Memory Usage]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/memory-usage|memory-usage]]"
 ---
 # Understanding Memory Usage
 

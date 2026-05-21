@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/genre-categorization-criteria|Genre Categorization Criteria]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/genre-categorization-criteria|genre-categorization-criteria]]"
 ---
 # Genre Categorization Criteria in Game Design
 

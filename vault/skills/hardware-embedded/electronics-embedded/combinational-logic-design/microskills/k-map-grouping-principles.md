@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "K-map Grouping Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Combinational Logic Design"
-parent-competency: "L3- Apply K-maps for minimization"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L2-apply-k-maps-for-minimization|L2-apply-k-maps-for-minimization]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # K-map Grouping Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/combinational-logi
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L3-apply-k-maps-for-minimization|L3- Apply K-maps for minimization]]
+- [[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L2-apply-k-maps-for-minimization|L3- Apply K-maps for minimization]]
 
 ## Description
 

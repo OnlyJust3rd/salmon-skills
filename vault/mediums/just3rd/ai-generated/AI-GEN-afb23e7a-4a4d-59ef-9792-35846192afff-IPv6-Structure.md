@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/ipv6-structure|IPv6 Structure]]"
+  - "[[skills/systems/networking/network-layer/microskills/ipv6-structure|ipv6-structure]]"
 ---
 # IPv6 Structure: Understanding the Blueprint
 

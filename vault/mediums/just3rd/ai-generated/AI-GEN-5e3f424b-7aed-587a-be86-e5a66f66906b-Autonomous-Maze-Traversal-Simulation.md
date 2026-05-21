@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/autonomous-maze-traversal-simulation|Autonomous Maze Traversal Simulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/autonomous-maze-traversal-simulation|autonomous-maze-traversal-simulation]]"
 ---
 # Implementing Autonomous Maze Traversal with Fuzzy Logic Simulation
 

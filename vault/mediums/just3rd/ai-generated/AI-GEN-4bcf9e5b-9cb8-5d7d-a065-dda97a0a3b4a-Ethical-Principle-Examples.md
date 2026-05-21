@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-examples|Ethical Principle Examples]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/ethical-principle-examples|ethical-principle-examples]]"
 ---
 # Ethical Principle Examples
 

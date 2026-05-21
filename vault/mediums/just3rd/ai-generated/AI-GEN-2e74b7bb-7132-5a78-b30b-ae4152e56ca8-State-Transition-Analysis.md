@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/state-transition-analysis|State Transition Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/state-transition-analysis|state-transition-analysis]]"
 ---
 # Analyzing State Transitions in Verilog Counters
 

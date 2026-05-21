@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/view-coordinates|View Coordinates]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/view-coordinates|view-coordinates]]"
 ---
 # Understanding View Coordinates in Computer Graphics
 

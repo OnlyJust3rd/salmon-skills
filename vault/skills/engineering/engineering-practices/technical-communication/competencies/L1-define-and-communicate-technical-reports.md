@@ -1,17 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and Communicate Technical Reports"
 tags:
   - "cpe"
   - "competency"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Technical Communication"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/engineering/engineering-practices/technical-communication/technical-communication|technical-communication]]"
+requires-microskills:
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/project-result-communication|project-result-communication]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/structured-technical-report-components|structured-technical-report-components]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/technical-idea-communication|technical-idea-communication]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/visual-artifact-communication|visual-artifact-communication]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and Communicate Technical Reports

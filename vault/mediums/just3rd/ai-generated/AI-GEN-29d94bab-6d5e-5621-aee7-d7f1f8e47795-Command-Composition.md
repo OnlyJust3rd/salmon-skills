@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/command-composition|Command Composition]]"
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/command-composition|command-composition]]"
 ---
 # Command Composition in Shell Scripting
 

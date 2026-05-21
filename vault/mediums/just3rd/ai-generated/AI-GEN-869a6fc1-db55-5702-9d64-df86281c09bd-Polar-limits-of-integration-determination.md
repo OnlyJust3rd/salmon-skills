@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-limits-of-integration-determination|Polar limits of integration determination]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/polar-limits-of-integration-determination|polar-limits-of-integration-determination]]"
 ---
 # Determining Polar Limits of Integration
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/parametric-line-equation-definition|Parametric line equation definition]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/parametric-line-equation-definition|parametric-line-equation-definition]]"
 ---
 # Parametric Line Equation Definition in 3D
 

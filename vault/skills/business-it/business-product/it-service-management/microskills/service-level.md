@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Service Level"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "IT Service Management"
-parent-competency: "L2- Explain IT Service Management Concepts"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/it-service-management/it-service-management|it-service-management]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/it-service-management/competencies/L1-explain-it-service-management-concepts|L1-explain-it-service-management-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Service Level
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/it-service-management/it-ser
 
 Parent competency:
 
-- [[skills/business-it/business-product/it-service-management/competencies/L2-explain-it-service-management-concepts|L2- Explain IT Service Management Concepts]]
+- [[skills/business-it/business-product/it-service-management/competencies/L1-explain-it-service-management-concepts|L2- Explain IT Service Management Concepts]]
 
 ## Description
 

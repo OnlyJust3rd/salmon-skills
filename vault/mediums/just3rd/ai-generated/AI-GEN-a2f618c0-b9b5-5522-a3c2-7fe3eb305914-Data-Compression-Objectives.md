@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/data-compression-objectives|Data Compression Objectives]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/data-compression-objectives|data-compression-objectives]]"
 ---
 # Understanding Data Compression Objectives
 

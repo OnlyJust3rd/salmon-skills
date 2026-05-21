@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-and-input-output-relationship|Time-Invariance and Input-Output Relationship]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-and-input-output-relationship|time-invariance-and-input-output-relationship]]"
 ---
 # Time-Invariance: How the System Responds to Shifts in Time
 

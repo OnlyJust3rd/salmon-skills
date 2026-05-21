@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/fourier-transform-purpose|Fourier Transform Purpose]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/fourier-transform-purpose|fourier-transform-purpose]]"
 ---
 # Understanding the "Why" Behind the Fourier Transform
 

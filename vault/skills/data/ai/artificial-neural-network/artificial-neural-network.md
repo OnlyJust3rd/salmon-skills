@@ -1,18 +1,36 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Artificial Neural Network"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-coverage:
-  - "Concept"
-  - "Explanation"
-competency-count: 5
-microskill-count: 16
-related-jobs:
-  - "AI Developer"
-source-note: "courses/kmutt/cpe-2021/cpe-365-intelligent-robot-programming"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/ai/artificial-neural-network/competencies/L1-define-and-identify-nn-fundamentals|L1-define-and-identify-nn-fundamentals]]"
+  - "[[skills/data/ai/artificial-neural-network/competencies/L1-identify-ann-concepts|L1-identify-ann-concepts]]"
+  - "[[skills/data/ai/artificial-neural-network/competencies/L1-ann-theoretical-underpinnings|L1-ann-theoretical-underpinnings]]"
+  - "[[skills/data/ai/artificial-neural-network/competencies/L1-describe-nn-function-and-flow|L1-describe-nn-function-and-flow]]"
+  - "[[skills/data/ai/artificial-neural-network/competencies/L1-explain-ann-advancements|L1-explain-ann-advancements]]"
+standard-competency:
+  - "[[skills/data/ai/artificial-neural-network/competencies/L1-ann-theoretical-underpinnings|L1-ann-theoretical-underpinnings]]"
+microskills:
+  - "[[skills/data/ai/artificial-neural-network/microskills/artificial-neural-network-key-ideas-chapter-4|artificial-neural-network-key-ideas-chapter-4]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/basic-neural-network-operations|basic-neural-network-operations]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/chapter-4-ann-insights|chapter-4-ann-insights]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/chapter-4-ann-topics|chapter-4-ann-topics]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/core-structures-of-artificial-neural-networks|core-structures-of-artificial-neural-networks]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/data-processing-in-neural-networks|data-processing-in-neural-networks]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/developments-in-artificial-neural-networks|developments-in-artificial-neural-networks]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/foundational-neural-network-concepts|foundational-neural-network-concepts]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/fundamental-theoretical-foundations-of-anns|fundamental-theoretical-foundations-of-anns]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/information-flow-in-neural-networks|information-flow-in-neural-networks]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/key-neural-network-components|key-neural-network-components]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-component-functionality|neural-network-component-functionality]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-definitions|neural-network-definitions]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/neural-network-terminology|neural-network-terminology]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/new-information-in-ann-development-chapter-4|new-information-in-ann-development-chapter-4]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/theoretical-principles-in-ann-operation|theoretical-principles-in-ann-operation]]"
 ---
 
 # Artificial Neural Network
@@ -22,10 +40,10 @@ Comprehending foundational concepts, structures, and theoretical underpinnings o
 ## Competencies
 
 - [[skills/data/ai/artificial-neural-network/competencies/L1-define-and-identify-nn-fundamentals|L1- Define and Identify NN Fundamentals]]
-- [[skills/data/ai/artificial-neural-network/competencies/L2-describe-nn-function-and-flow|L2- Describe NN Function and Flow]]
+- [[skills/data/ai/artificial-neural-network/competencies/L1-describe-nn-function-and-flow|L2- Describe NN Function and Flow]]
 - [[skills/data/ai/artificial-neural-network/competencies/L1-identify-ann-concepts|L1- Identify ANN Concepts]]
-- [[skills/data/ai/artificial-neural-network/competencies/L2-explain-ann-advancements|L2- Explain ANN Advancements]]
-- [[skills/data/ai/artificial-neural-network/competencies/L2-ann-theoretical-underpinnings|L2- ANN Theoretical Underpinnings]]
+- [[skills/data/ai/artificial-neural-network/competencies/L1-explain-ann-advancements|L2- Explain ANN Advancements]]
+- [[skills/data/ai/artificial-neural-network/competencies/L1-ann-theoretical-underpinnings|L2- ANN Theoretical Underpinnings]]
 
 ## Microskills
 

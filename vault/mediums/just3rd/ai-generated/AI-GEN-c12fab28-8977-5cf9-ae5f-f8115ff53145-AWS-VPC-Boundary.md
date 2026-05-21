@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-vpc-boundary|AWS VPC Boundary]]"
+  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-vpc-boundary|aws-vpc-boundary]]"
 ---
 # Understanding AWS VPC Boundaries for Cloud Deployment
 

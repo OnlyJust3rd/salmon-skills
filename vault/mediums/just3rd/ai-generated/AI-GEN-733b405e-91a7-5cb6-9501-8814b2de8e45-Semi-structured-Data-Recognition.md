@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-types/microskills/semi-structured-data-recognition|Semi-structured Data Recognition]]"
+  - "[[skills/programming/data-structures/data-types/microskills/semi-structured-data-recognition|semi-structured-data-recognition]]"
 ---
 # Recognizing Semi-Structured Data
 

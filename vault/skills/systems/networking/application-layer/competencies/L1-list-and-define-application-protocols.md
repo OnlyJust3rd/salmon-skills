@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List and define application protocols"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Application Layer"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain Network Architecture and TCP/IP Layers"
+  - "[[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/networking/application-layer/application-layer|application-layer]]"
+requires-microskills:
+  - "[[skills/systems/networking/application-layer/microskills/application-layer-protocols|application-layer-protocols]]"
+  - "[[skills/systems/networking/application-layer/microskills/protocol-identification|protocol-identification]]"
+  - "[[skills/systems/networking/application-layer/microskills/protocol-purpose|protocol-purpose]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List and define application protocols
@@ -25,7 +27,7 @@ List common application layer protocols such as HTTP, DNS, and FTP, and define t
 
 ## Strict Prerequisites
 
-- [[skills/systems/networking/computer-network-architecture/competencies/L2-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Optional Prerequisites
 

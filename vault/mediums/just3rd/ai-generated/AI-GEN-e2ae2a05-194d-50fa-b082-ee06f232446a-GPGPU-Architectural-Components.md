@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-architectural-components|GPGPU Architectural Components]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-architectural-components|gpgpu-architectural-components]]"
 ---
 # Understanding GPGPU Architectural Components
 

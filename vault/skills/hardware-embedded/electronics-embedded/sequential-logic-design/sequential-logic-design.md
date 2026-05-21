@@ -1,17 +1,42 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Sequential Logic Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 5
-microskill-count: 21
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-222-digital-electronics-and-logic-design"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-define-sequential-components|L1-define-sequential-components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-explain-flip-flop-operation|L1-explain-flip-flop-operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-explain-memory-device-architecture|L1-explain-memory-device-architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L2-apply-flip-flops-to-counters|L2-apply-flip-flops-to-counters]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L3-analyze-state-machine-behavior|L3-analyze-state-machine-behavior]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L2-apply-flip-flops-to-counters|L2-apply-flip-flops-to-counters]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L3-analyze-state-machine-behavior|L3-analyze-state-machine-behavior]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/counter-circuit-construction|counter-circuit-construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/counter-definitions|counter-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/d-flip-flop-operation|d-flip-flop-operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/dram-architecture|dram-architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-definitions|flip-flop-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-functionality|flip-flop-functionality]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-principles-application|flip-flop-principles-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-truth-tables|flip-flop-truth-tables]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/input-clock-signal-relationship|input-clock-signal-relationship]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/input-condition-response|input-condition-response]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/jk-flip-flop-operation|jk-flip-flop-operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/memory-addressing-and-organization|memory-addressing-and-organization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/memory-device-definitions|memory-device-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/rom-family-differences|rom-family-differences]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/sequential-circuit-component-characteristics|sequential-circuit-component-characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/sram-architecture|sram-architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/state-machine-analysis|state-machine-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/state-machine-definitions|state-machine-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/state-transition-tracing|state-transition-tracing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/t-flip-flop-operation|t-flip-flop-operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/volatile-vs-non-volatile-storage|volatile-vs-non-volatile-storage]]"
 ---
 
 # Sequential Logic Design
@@ -21,10 +46,10 @@ Analyze and design clocked sequential logic circuits, including flip-flops, coun
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-define-sequential-components|L1- Define Sequential Components]]
-- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L2-explain-flip-flop-operation|L2- Explain Flip-Flop Operation]]
-- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L2-explain-memory-device-architecture|L2- Explain Memory Device Architecture]]
-- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L3-apply-flip-flops-to-counters|L3- Apply Flip-Flops to Counters]]
-- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L4-analyze-state-machine-behavior|L4- Analyze State Machine Behavior]]
+- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-explain-flip-flop-operation|L2- Explain Flip-Flop Operation]]
+- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L1-explain-memory-device-architecture|L2- Explain Memory Device Architecture]]
+- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L2-apply-flip-flops-to-counters|L3- Apply Flip-Flops to Counters]]
+- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L3-analyze-state-machine-behavior|L4- Analyze State Machine Behavior]]
 
 ## Microskills
 

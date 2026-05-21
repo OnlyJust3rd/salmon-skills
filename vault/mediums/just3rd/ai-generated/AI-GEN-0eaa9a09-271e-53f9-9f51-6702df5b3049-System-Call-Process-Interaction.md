@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|System Call Process Interaction]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|system-call-process-interaction]]"
 ---
 # Understanding System Call Process Interaction
 

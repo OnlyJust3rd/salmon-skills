@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/trapezoidal-rule-approximation|Trapezoidal rule approximation]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/trapezoidal-rule-approximation|trapezoidal-rule-approximation]]"
 ---
 # Trapezoidal Rule Approximation
 

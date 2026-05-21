@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "2D Sketching Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "CAD Design"
-parent-competency: "L2- CAD Modeling Principles"
+  - "microskill"
+parent-skill: "[[skills/creative-media/design-fabrication/cad-design/cad-design|cad-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/design-fabrication/cad-design/competencies/L1-cad-modeling-principles|L1-cad-modeling-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # 2D Sketching Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/design-fabrication/cad-design/cad-design|C
 
 Parent competency:
 
-- [[skills/creative-media/design-fabrication/cad-design/competencies/L2-cad-modeling-principles|L2- CAD Modeling Principles]]
+- [[skills/creative-media/design-fabrication/cad-design/competencies/L1-cad-modeling-principles|L2- CAD Modeling Principles]]
 
 ## Description
 

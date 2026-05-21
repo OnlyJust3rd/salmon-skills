@@ -1,18 +1,37 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Semiconductor Device Operation"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Analysis"
-competency-count: 5
-microskill-count: 14
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-121-basic-circuits-and-electronics"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L1-diode-operation-explained|L1-diode-operation-explained]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L2-rectifier-circuit-application|L2-rectifier-circuit-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L3-half-wave-rectifier-analysis|L3-half-wave-rectifier-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L3-full-wave-rectifier-evaluation|L3-full-wave-rectifier-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L4-logic-gate-circuit-creation|L4-logic-gate-circuit-creation]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L2-rectifier-circuit-application|L2-rectifier-circuit-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L3-half-wave-rectifier-analysis|L3-half-wave-rectifier-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L3-full-wave-rectifier-evaluation|L3-full-wave-rectifier-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L4-logic-gate-circuit-creation|L4-logic-gate-circuit-creation]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/ac-to-dc-conversion-effectiveness|ac-to-dc-conversion-effectiveness]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/circuit-construction-and-testing|circuit-construction-and-testing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-behavior-application|diode-behavior-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-function-principles|diode-function-principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-logic-gate-design|diode-logic-gate-design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-structure-fundamentals|diode-structure-fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/forward-bias-diode-behavior|forward-bias-diode-behavior]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/full-wave-rectifier-performance|full-wave-rectifier-performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/half-wave-rectifier-output-waveform|half-wave-rectifier-output-waveform]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/logic-function-implementation|logic-function-implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/output-comparison-to-expectations|output-comparison-to-expectations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/rectifier-circuit-construction|rectifier-circuit-construction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/rectifier-output-characteristics|rectifier-output-characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/reverse-bias-diode-behavior|reverse-bias-diode-behavior]]"
 ---
 
 # Semiconductor Device Operation
@@ -21,11 +40,11 @@ The ability to understand the fundamental operating principles and characteristi
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L2-diode-operation-explained|L2- Diode Operation Explained]]
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L3-rectifier-circuit-application|L3- Rectifier Circuit Application]]
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L4-half-wave-rectifier-analysis|L4- Half-wave Rectifier Analysis]]
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L5-full-wave-rectifier-evaluation|L5- Full-wave Rectifier Evaluation]]
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L6-logic-gate-circuit-creation|L6- Logic Gate Circuit Creation]]
+- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L1-diode-operation-explained|L2- Diode Operation Explained]]
+- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L2-rectifier-circuit-application|L3- Rectifier Circuit Application]]
+- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L3-half-wave-rectifier-analysis|L4- Half-wave Rectifier Analysis]]
+- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L3-full-wave-rectifier-evaluation|L5- Full-wave Rectifier Evaluation]]
+- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/competencies/L4-logic-gate-circuit-creation|L6- Logic Gate Circuit Creation]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/signal-distortion-impact|Signal Distortion Impact]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/signal-distortion-impact|signal-distortion-impact]]"
 ---
 # Understanding Signal Distortion and Its Impact on Measurements
 

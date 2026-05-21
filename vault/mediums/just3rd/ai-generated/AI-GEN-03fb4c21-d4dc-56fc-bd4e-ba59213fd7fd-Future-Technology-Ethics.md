@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/future-technology-ethics|Future Technology Ethics]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/future-technology-ethics|future-technology-ethics]]"
 ---
 # Future Technology Ethics in Human-Computer Interaction
 

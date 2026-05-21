@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/genetic-programming-implementation-for-robots|Genetic Programming Implementation for Robots]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/genetic-programming-implementation-for-robots|genetic-programming-implementation-for-robots]]"
 ---
 # Implementing Genetic Programming for Robot Control
 

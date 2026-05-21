@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/ttl-family-identification|TTL Family Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/ttl-family-identification|ttl-family-identification]]"
 ---
 # TTL Family Identification
 

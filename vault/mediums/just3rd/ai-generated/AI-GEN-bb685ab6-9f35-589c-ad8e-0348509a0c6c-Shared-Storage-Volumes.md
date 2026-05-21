@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/shared-storage-volumes|Shared Storage Volumes]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/shared-storage-volumes|shared-storage-volumes]]"
 ---
 # Shared Storage Volumes in Kubernetes Pods
 

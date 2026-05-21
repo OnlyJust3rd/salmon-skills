@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/microservices-architecture|Microservices Architecture]]"
-  - "[[skills/programming/software-engineering/software-engineering/microskills/microservices-architecture|Microservices Architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/microservices-architecture|microservices-architecture]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/microservices-architecture|microservices-architecture]]"
 ---
 # Understanding Microservices Architecture
 

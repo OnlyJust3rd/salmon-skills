@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/codebase-awareness|Codebase Awareness]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-code/microskills/codebase-awareness|codebase-awareness]]"
 ---
 # Understanding Codebase Awareness in Claude Code
 

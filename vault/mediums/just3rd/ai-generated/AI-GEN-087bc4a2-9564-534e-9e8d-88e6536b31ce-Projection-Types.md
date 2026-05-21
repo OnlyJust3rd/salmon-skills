@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-types|Projection Types]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-types|projection-types]]"
 ---
 # Understanding Projection Types: Parallel vs. Perspective
 

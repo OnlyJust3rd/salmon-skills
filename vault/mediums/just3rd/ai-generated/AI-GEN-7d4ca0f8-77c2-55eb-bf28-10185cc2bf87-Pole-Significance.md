@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/pole-significance|Pole Significance]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/pole-significance|pole-significance]]"
 ---
 # Pole Significance in Laplace and Z-Transforms
 

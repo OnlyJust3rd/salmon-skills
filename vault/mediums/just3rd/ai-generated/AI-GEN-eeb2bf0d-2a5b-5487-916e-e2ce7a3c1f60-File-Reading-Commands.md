@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-reading-commands|File Reading Commands]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/file-reading-commands|file-reading-commands]]"
 ---
 # Reading Files with Command-Line Tools
 

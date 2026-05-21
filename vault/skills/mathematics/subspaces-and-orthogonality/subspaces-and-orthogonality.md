@@ -1,18 +1,49 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Subspaces and Orthogonality"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 234 - Linear Algebra"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 6
-microskill-count: 27
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-234-linear-algebra"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-fundamental-subspaces|L1-define-fundamental-subspaces]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-orthogonality|L1-define-orthogonality]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-explain-fundamental-subspace-relationships|L1-explain-fundamental-subspace-relationships]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L1-explain-orthogonality-and-projections|L1-explain-orthogonality-and-projections]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L2-apply-gram-schmidt-process|L2-apply-gram-schmidt-process]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L2-compute-fundamental-subspaces-and-dimensions|L2-compute-fundamental-subspaces-and-dimensions]]"
+standard-competency:
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L2-apply-gram-schmidt-process|L2-apply-gram-schmidt-process]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/competencies/L2-compute-fundamental-subspaces-and-dimensions|L2-compute-fundamental-subspaces-and-dimensions]]"
+microskills:
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-computation|column-space-computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-definition|column-space-definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-geometric-interpretation|column-space-geometric-interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/dimension-relationships|dimension-relationships]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/gram-schmidt-algorithm-steps|gram-schmidt-algorithm-steps]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/kernel-computation|kernel-computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/kernel-definition|kernel-definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-computation|null-space-computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-definition|null-space-definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-geometric-interpretation|null-space-geometric-interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/nullity-determination|nullity-determination]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonal-basis-construction|orthogonal-basis-construction]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonal-vector-geometric-meaning|orthogonal-vector-geometric-meaning]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonal-vector-identification|orthogonal-vector-identification]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonality-definition|orthogonality-definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonality-properties|orthogonality-properties]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthonormal-basis-construction|orthonormal-basis-construction]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/projection-onto-subspace-concept|projection-onto-subspace-concept]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-computation|range-computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-definition|range-definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/range-geometric-interpretation|range-geometric-interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/rank-determination|rank-determination]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-computation|row-space-computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-definition|row-space-definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/row-space-geometric-interpretation|row-space-geometric-interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/subspace-spanning|subspace-spanning]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/vector-projection-interpretation|vector-projection-interpretation]]"
 ---
 
 # Subspaces and Orthogonality
@@ -21,12 +52,12 @@ Analyze the internal structure of vector spaces through row space, column space,
 
 ## Competencies
 
-- [[L1-define-fundamental-subspaces|L1- Define Fundamental Subspaces]]
-- [[L1-define-orthogonality|L1- Define Orthogonality]]
-- [[L2-explain-fundamental-subspace-relationships|L2- Explain Fundamental Subspace Relationships]]
-- [[L2-explain-orthogonality-and-projections|L2- Explain Orthogonality and Projections]]
-- [[L3-compute-fundamental-subspaces-and-dimensions|L3- Compute Fundamental Subspaces and Dimensions]]
-- [[L3-apply-gram-schmidt-process|L3- Apply Gram-Schmidt Process]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-fundamental-subspaces|L1- Define Fundamental Subspaces]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-define-orthogonality|L1- Define Orthogonality]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-explain-fundamental-subspace-relationships|L2- Explain Fundamental Subspace Relationships]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L1-explain-orthogonality-and-projections|L2- Explain Orthogonality and Projections]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L2-compute-fundamental-subspaces-and-dimensions|L3- Compute Fundamental Subspaces and Dimensions]]
+- [[skills/mathematics/subspaces-and-orthogonality/competencies/L2-apply-gram-schmidt-process|L3- Apply Gram-Schmidt Process]]
 
 ## Microskills
 

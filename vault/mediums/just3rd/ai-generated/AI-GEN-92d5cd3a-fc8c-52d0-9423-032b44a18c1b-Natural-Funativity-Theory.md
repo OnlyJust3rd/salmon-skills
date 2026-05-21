@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/natural-funativity-theory|Natural Funativity Theory]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/natural-funativity-theory|natural-funativity-theory]]"
 ---
 # Understanding Natural Funativity Theory
 

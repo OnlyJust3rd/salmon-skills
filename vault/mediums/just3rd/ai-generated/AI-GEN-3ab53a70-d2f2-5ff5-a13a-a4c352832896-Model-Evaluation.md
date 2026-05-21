@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/model-evaluation|Model Evaluation]]"
+  - "[[skills/data/data-science/machine-learning/microskills/model-evaluation|model-evaluation]]"
 ---
 # Model Evaluation: Assessing Performance
 

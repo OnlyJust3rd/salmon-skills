@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/wiring-error-diagnosis|Wiring Error Diagnosis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/wiring-error-diagnosis|wiring-error-diagnosis]]"
 ---
 # Diagnosing Wiring Errors in Breadboard Prototypes
 

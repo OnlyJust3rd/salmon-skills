@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-outputs|Terraform Outputs]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-outputs|terraform-outputs]]"
 ---
 # Terraform Outputs: Revealing Your Infrastructure's Secrets
 

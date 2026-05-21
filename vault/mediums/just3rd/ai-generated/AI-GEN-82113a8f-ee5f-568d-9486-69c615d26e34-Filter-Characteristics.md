@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/filter-characteristics|Filter Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/filter-characteristics|filter-characteristics]]"
 ---
 # Filter Characteristics: The Role of Cutoff Frequency
 

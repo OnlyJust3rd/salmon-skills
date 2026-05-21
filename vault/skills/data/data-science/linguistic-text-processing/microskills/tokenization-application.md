@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Tokenization Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Linguistic Text Processing"
-parent-competency: "L3- Apply and Explain Linguistic Preprocessing"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/linguistic-text-processing/linguistic-text-processing|linguistic-text-processing]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/linguistic-text-processing/competencies/L2-apply-and-explain-linguistic-preprocessing|L2-apply-and-explain-linguistic-preprocessing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Tokenization Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/linguistic-text-processing/linguistic-t
 
 Parent competency:
 
-- [[skills/data/data-science/linguistic-text-processing/competencies/L3-apply-and-explain-linguistic-preprocessing|L3- Apply and Explain Linguistic Preprocessing]]
+- [[skills/data/data-science/linguistic-text-processing/competencies/L2-apply-and-explain-linguistic-preprocessing|L3- Apply and Explain Linguistic Preprocessing]]
 
 ## Description
 

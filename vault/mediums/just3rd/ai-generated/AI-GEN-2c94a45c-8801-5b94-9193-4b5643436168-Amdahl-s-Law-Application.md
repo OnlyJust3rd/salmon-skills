@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-application|Amdahl's Law Application]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-application|amdahl-s-law-application]]"
 ---
 # Applying Amdahl's Law for Parallel Performance Prediction
 

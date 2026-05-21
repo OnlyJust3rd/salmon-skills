@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/magnitude-and-phase-spectra-computation|Magnitude and Phase Spectra Computation]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/magnitude-and-phase-spectra-computation|magnitude-and-phase-spectra-computation]]"
 ---
 # Magnitude and Phase Spectra Computation
 

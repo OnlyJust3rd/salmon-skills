@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Team Decision-Making Process"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Engineering"
-parent-competency: "L3- Apply Rationale Management"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/software-engineering/software-engineering|software-engineering]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/software-engineering/competencies/L2-apply-rationale-management|L2-apply-rationale-management]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Team Decision-Making Process
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/software-engineering/sof
 
 Parent competency:
 
-- [[skills/programming/software-engineering/software-engineering/competencies/L3-apply-rationale-management|L3- Apply Rationale Management]]
+- [[skills/programming/software-engineering/software-engineering/competencies/L2-apply-rationale-management|L3- Apply Rationale Management]]
 
 ## Description
 

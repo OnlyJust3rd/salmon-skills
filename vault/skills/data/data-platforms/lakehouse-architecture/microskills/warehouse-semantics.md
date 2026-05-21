@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Warehouse Semantics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Lakehouse Architecture"
-parent-competency: "L2- Explain Lakehouse Architecture Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/lakehouse-architecture/lakehouse-architecture|lakehouse-architecture]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/lakehouse-architecture/competencies/L1-explain-lakehouse-architecture-concepts|L1-explain-lakehouse-architecture-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Warehouse Semantics
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/lakehouse-architecture/lakehouse-arch
 
 Parent competency:
 
-- [[skills/data/data-platforms/lakehouse-architecture/competencies/L2-explain-lakehouse-architecture-concepts|L2- Explain Lakehouse Architecture Concepts]]
+- [[skills/data/data-platforms/lakehouse-architecture/competencies/L1-explain-lakehouse-architecture-concepts|L2- Explain Lakehouse Architecture Concepts]]
 
 ## Description
 

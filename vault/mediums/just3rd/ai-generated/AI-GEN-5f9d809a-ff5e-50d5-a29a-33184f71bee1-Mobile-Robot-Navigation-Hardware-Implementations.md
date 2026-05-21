@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/mobile-robot-navigation-hardware-implementations|Mobile Robot Navigation Hardware Implementations]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/mobile-robot-navigation-hardware-implementations|mobile-robot-navigation-hardware-implementations]]"
 ---
 # Mobile Robot Navigation: Essential Hardware Implementations
 

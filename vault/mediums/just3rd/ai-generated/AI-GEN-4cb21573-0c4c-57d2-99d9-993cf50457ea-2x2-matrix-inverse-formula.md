@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/2x2-matrix-inverse-formula|2x2 matrix inverse formula]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/2x2-matrix-inverse-formula|2x2-matrix-inverse-formula]]"
 ---
 # Compute the Inverse of a 2x2 Matrix Using the Formula
 

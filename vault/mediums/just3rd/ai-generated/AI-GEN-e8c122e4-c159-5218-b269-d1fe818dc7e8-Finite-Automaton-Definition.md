@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-model-understanding/microskills/finite-automaton-definition|Finite Automaton Definition]]"
+  - "[[skills/programming/algorithms/computational-model-understanding/microskills/finite-automaton-definition|finite-automaton-definition]]"
 ---
 # Understanding Finite Automaton Components
 

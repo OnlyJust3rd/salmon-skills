@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-code-implementation|Assembly Code Implementation]]"
+  - "[[skills/programming/programming-languages/assembly-programming/microskills/assembly-code-implementation|assembly-code-implementation]]"
 ---
 # Implementing Basic Arithmetic in Assembly
 

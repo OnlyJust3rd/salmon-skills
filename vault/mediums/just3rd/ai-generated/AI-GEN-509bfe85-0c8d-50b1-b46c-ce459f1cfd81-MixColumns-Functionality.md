@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/mixcolumns-functionality|MixColumns Functionality]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/mixcolumns-functionality|mixcolumns-functionality]]"
 ---
 # Understanding the MixColumns Operation in Block Ciphers
 

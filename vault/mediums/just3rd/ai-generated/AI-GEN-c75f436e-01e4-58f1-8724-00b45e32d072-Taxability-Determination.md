@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/taxability-determination|Taxability Determination]]"
+  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/taxability-determination|taxability-determination]]"
 ---
 # Understanding Taxability: Domestic vs. International Income
 

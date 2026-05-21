@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/microinstruction-mapping|Microinstruction Mapping]]"
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/microinstruction-mapping|microinstruction-mapping]]"
 ---
 # Mapping Control Steps to Microinstructions
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/commit-and-rollback|Commit and Rollback]]"
+  - "[[skills/data/databases/database-system/microskills/commit-and-rollback|commit-and-rollback]]"
 ---
 # Mastering Commit and Rollback: Completing or Undoing Database Work
 

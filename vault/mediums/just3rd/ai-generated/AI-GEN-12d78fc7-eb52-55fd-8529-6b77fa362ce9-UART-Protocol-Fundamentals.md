@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/uart-protocol-fundamentals|UART Protocol Fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/uart-protocol-fundamentals|uart-protocol-fundamentals]]"
 ---
 # UART Protocol Fundamentals
 

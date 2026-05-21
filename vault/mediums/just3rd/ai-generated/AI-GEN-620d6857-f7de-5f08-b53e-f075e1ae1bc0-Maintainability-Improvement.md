@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/maintainability-improvement|Maintainability Improvement]]"
-  - "[[skills/programming/software-engineering/refactoring/microskills/maintainability-improvement|Maintainability Improvement]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/maintainability-improvement|maintainability-improvement]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/maintainability-improvement|maintainability-improvement]]"
 ---
 # Refactoring for Maintainability: Making Code Easier to Understand and Update
 

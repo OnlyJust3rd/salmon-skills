@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/reading-digital-inputs|Reading Digital Inputs]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/reading-digital-inputs|reading-digital-inputs]]"
 ---
 # Reading Digital Inputs on AVR Microcontrollers
 

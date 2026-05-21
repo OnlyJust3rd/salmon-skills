@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Web Browsing Scenario"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Application Layer"
-parent-competency: "L3- Demonstrate HTTP/DNS dependencies"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/application-layer/application-layer|application-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/application-layer/competencies/L2-demonstrate-http-dns-dependencies|L2-demonstrate-http-dns-dependencies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Web Browsing Scenario
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/application-layer/application-layer|Ap
 
 Parent competency:
 
-- [[skills/systems/networking/application-layer/competencies/L3-demonstrate-http-dns-dependencies|L3- Demonstrate HTTP/DNS dependencies]]
+- [[skills/systems/networking/application-layer/competencies/L2-demonstrate-http-dns-dependencies|L3- Demonstrate HTTP/DNS dependencies]]
 
 ## Description
 

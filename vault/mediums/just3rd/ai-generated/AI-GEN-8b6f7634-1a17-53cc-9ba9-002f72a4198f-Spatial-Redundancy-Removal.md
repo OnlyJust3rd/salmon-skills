@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/spatial-redundancy-removal|Spatial Redundancy Removal]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/spatial-redundancy-removal|spatial-redundancy-removal]]"
 ---
 # Understanding Spatial Redundancy Removal in Video Compression
 

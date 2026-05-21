@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/dbt/microskills/staging-model|Staging Model]]"
+  - "[[skills/data/data-platforms/dbt/microskills/staging-model|staging-model]]"
 ---
 # Staging Models: Your First Step in dbt
 

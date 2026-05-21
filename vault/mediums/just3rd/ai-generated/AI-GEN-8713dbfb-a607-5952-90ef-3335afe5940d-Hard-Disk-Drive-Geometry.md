@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/hard-disk-drive-geometry|Hard Disk Drive Geometry]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/hard-disk-drive-geometry|hard-disk-drive-geometry]]"
 ---
 # Understanding Hard Disk Drive Geometry
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/network-security-access-control/microskills/packet-filter-firewall-characteristics|Packet-Filter Firewall Characteristics]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/packet-filter-firewall-characteristics|packet-filter-firewall-characteristics]]"
 ---
 # Packet-Filter Firewall Characteristics
 

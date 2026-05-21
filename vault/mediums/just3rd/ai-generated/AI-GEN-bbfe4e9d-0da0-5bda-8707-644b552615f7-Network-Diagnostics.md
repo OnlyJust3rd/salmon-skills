@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/network-diagnostics|Network Diagnostics]]"
+  - "[[skills/systems/networking/network-layer/microskills/network-diagnostics|network-diagnostics]]"
 ---
 # ICMP: The Network's Diagnostic Tool
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/public-cloud-deployment|Public Cloud Deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/public-cloud-deployment|public-cloud-deployment]]"
 ---
 # Public Cloud Deployment
 

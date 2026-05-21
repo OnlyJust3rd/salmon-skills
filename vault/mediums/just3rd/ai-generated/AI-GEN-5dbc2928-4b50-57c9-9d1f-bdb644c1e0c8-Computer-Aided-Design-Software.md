@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/computer-aided-design-software|Computer-Aided Design Software]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/computer-aided-design-software|computer-aided-design-software]]"
 ---
 # Exploring Computer-Aided Design (CAD) Software
 

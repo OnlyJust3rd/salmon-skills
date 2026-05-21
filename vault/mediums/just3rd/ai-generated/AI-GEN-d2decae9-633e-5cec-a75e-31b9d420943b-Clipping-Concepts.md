@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/clipping-concepts|Clipping Concepts]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/clipping-concepts|clipping-concepts]]"
 ---
 # Understanding Clipping Concepts
 

@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Design Systems"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Concept"
-  - "Design"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "UX/UI Designer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/frontend-ux/design-systems/competencies/L1-explain-design-system-components-and-tokens|L1-explain-design-system-components-and-tokens]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/competencies/L2-apply-design-system-patterns-to-interfaces|L2-apply-design-system-patterns-to-interfaces]]"
+standard-competency:
+  - "[[skills/web-and-design/frontend-ux/design-systems/competencies/L2-apply-design-system-patterns-to-interfaces|L2-apply-design-system-patterns-to-interfaces]]"
+microskills:
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/component-selection|component-selection]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/design-token|design-token]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/pattern-consistency|pattern-consistency]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/pattern-documentation|pattern-documentation]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/reusable-component|reusable-component]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/token-application|token-application]]"
 ---
 
 # Design Systems
@@ -20,8 +26,8 @@ Using reusable components, visual tokens, interaction patterns, and documentatio
 
 ## Competencies
 
-- [[skills/web-and-design/frontend-ux/design-systems/competencies/L2-explain-design-system-components-and-tokens|L2- Explain Design System Components and Tokens]]
-- [[skills/web-and-design/frontend-ux/design-systems/competencies/L3-apply-design-system-patterns-to-interfaces|L3- Apply Design System Patterns to Interfaces]]
+- [[skills/web-and-design/frontend-ux/design-systems/competencies/L1-explain-design-system-components-and-tokens|L2- Explain Design System Components and Tokens]]
+- [[skills/web-and-design/frontend-ux/design-systems/competencies/L2-apply-design-system-patterns-to-interfaces|L3- Apply Design System Patterns to Interfaces]]
 
 ## Microskills
 

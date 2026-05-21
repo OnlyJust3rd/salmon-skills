@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/propositional-vs-predicate-logic|Propositional vs. Predicate Logic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/propositional-vs-predicate-logic|propositional-vs-predicate-logic]]"
 ---
 # Propositional vs. Predicate Logic: Moving Beyond Simple Statements
 

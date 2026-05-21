@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Signal Noise Reduction Evaluation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Filter Design"
-parent-competency: "L5- Assess filter effectiveness"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/filter-design/filter-design|filter-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L3-assess-filter-effectiveness|L3-assess-filter-effectiveness]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Signal Noise Reduction Evaluation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/filter-design/filt
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L5-assess-filter-effectiveness|L5- Assess filter effectiveness]]
+- [[skills/hardware-embedded/electronics-embedded/filter-design/competencies/L3-assess-filter-effectiveness|L5- Assess filter effectiveness]]
 
 ## Description
 

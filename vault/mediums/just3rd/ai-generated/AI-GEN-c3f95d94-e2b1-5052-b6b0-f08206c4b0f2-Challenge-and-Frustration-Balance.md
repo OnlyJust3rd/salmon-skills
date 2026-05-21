@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/challenge-and-frustration-balance|Challenge and Frustration Balance]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/challenge-and-frustration-balance|challenge-and-frustration-balance]]"
 ---
 # Balancing Challenge and Frustration in Games
 

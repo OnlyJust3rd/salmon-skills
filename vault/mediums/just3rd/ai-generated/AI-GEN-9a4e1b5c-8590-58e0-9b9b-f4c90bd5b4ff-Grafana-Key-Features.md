@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-key-features|Grafana Key Features]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/grafana-key-features|grafana-key-features]]"
 ---
 # Grafana: Key Features for Data Visualization
 

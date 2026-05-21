@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/circuit-integrity-verification-methods|Circuit Integrity Verification Methods]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/circuit-integrity-verification-methods|circuit-integrity-verification-methods]]"
 ---
 # Verifying Circuit Integrity: Keeping Your Hardware Running Smoothly
 

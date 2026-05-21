@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/cpp-programming/microskills/standard-container|Standard Container]]"
+  - "[[skills/programming/programming-languages/cpp-programming/microskills/standard-container|standard-container]]"
 ---
 # Using Standard Containers in C++
 

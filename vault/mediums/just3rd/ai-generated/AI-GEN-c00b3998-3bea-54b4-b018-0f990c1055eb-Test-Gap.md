@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/test-gap|Test Gap]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/test-gap|test-gap]]"
 ---
 # Identifying Test Gaps with AI-Assisted Code Review
 

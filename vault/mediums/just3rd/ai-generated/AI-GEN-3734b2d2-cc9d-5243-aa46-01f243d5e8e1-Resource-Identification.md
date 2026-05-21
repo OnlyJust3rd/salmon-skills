@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/resource-identification|Resource Identification]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/resource-identification|resource-identification]]"
 ---
 # Resource Identification with Tags
 

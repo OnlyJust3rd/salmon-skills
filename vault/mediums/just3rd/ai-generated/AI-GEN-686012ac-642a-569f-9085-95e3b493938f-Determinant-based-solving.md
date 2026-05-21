@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/determinant-based-solving|Determinant-based solving]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/determinant-based-solving|determinant-based-solving]]"
 ---
 # Determinant-based Solving for Linear Systems
 

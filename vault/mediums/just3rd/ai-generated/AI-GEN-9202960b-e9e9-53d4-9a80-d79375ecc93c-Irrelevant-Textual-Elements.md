@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/irrelevant-textual-elements|Irrelevant Textual Elements]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/irrelevant-textual-elements|irrelevant-textual-elements]]"
 ---
 # Understanding Irrelevant Textual Elements (Noise)
 

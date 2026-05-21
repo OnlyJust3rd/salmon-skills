@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|Logical to Physical Address Translation]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|logical-to-physical-address-translation]]"
 ---
 # Translating the Program's View to Reality: Logical to Physical Address Translation
 

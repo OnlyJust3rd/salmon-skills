@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/action-planning/microskills/action-planning-purpose|Action planning purpose]]"
+  - "[[skills/programming/software-engineering/action-planning/microskills/action-planning-purpose|action-planning-purpose]]"
 ---
 # Understanding the Purpose of Action Plans in Engineering Delivery
 

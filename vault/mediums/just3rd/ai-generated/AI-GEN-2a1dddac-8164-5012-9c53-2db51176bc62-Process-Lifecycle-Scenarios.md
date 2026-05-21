@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-scenarios|Process Lifecycle Scenarios]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-scenarios|process-lifecycle-scenarios]]"
 ---
 # Illustrating Process Lifecycles with fork() and exec()
 

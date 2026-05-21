@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/vmss-deployment|VMSS Deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/vmss-deployment|vmss-deployment]]"
 ---
 # Deploying Virtual Machine Scale Sets (VMSS)
 

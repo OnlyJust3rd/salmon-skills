@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Instruction Execution Sequence"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Machine Instruction"
-parent-competency: "L2- Instruction Execution Understanding"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/machine-instruction/machine-instruction|machine-instruction]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-execution-understanding|L1-instruction-execution-understanding]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Instruction Execution Sequence
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/machine-instructio
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-instruction-execution-understanding|L2- Instruction Execution Understanding]]
+- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L1-instruction-execution-understanding|L2- Instruction Execution Understanding]]
 
 ## Description
 

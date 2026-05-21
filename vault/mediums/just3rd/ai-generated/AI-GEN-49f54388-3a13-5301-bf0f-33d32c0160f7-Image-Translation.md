@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-translation|Image Translation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-translation|image-translation]]"
 ---
 # Image Translation: Shifting Your Digital Pictures
 

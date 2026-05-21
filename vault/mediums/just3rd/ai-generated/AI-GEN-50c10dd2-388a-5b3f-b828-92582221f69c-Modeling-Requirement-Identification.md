@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/exploratory-data-analysis/microskills/modeling-requirement-identification|Modeling Requirement Identification]]"
+  - "[[skills/data/data-platforms/exploratory-data-analysis/microskills/modeling-requirement-identification|modeling-requirement-identification]]"
 ---
 # Identifying Modeling Requirements: Data Characteristics for Effective Modeling
 

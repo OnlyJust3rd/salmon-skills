@@ -1,9 +1,13 @@
 
 # SALMON: Skill-Aligned Learning Map Ontology
 
-This vault is a typed learning knowledge graph for courses, careers, skills, competencies, microskills, and learning media.
+This vault is a typed learning knowledge graph for courses, careers, skills, competencies, microskills, contributors, and learning media.
 
-The main rules and schema live in [[ontology/v1.0/schemas|SALMON v1.0]]. Use the ontology when adding, moving, generating, or validating vault notes.
+The main rules and schema live in [[schemas|SALMON v1.0]]. Use the ontology when adding, moving, generating, or validating vault notes.
+
+## License
+
+Content under this `vault/` directory is licensed under the Creative Commons Attribution 4.0 International License. See `../LICENSE.md` and `../LICENSES/CC-BY-4.0.txt` from the repository root.
 
 ## Quick Guide
 
@@ -23,7 +27,7 @@ Expected pattern:
 courses/<institution>/<catalog-or-version>/<course-slug>.md
 ```
 
-Course notes should link related skills under `## Macro Skills`.
+Course notes should link related skills under `## Skills`.
 
 ### `careers/`
 
@@ -50,7 +54,7 @@ The skill graph lives here. This is the main structured knowledge area of the va
 
 Use this folder for:
 
-- Macro-skill notes.
+- Skill notes.
 - Competency notes.
 - Microskill notes.
 
@@ -68,12 +72,30 @@ skills/<taxonomy-path>/<skill-name>/
 Rules:
 
 - `<taxonomy-path>` may contain one or more nested folders.
-- The leaf folder and macro-skill note should share the same slug.
-- Macro-skill notes use `type: "macro-skill"`.
-- Competency notes use `type: "competency"`.
-- Microskill notes use `type: "micro-skill"`.
+- The leaf folder and skill note should share the same slug.
+- Skill notes use `type: "Skill"`.
+- Competency notes use `type: "Competency"`.
+- Microskill notes use `type: "Microskill"`.
+- Skill `standard-competency` values identify the expected competency level for someone claiming that skill.
+- Competency filenames use their `miller-level` as the `L<miller-level>-` prefix.
 - Competencies describe assessable learning outcomes.
 - Microskills describe focused knowledge, techniques, or behaviors that support competencies.
+
+### `contributors/`
+
+Contributor notes live here. A contributor note represents a person or agent credited by graph notes. It should use `type: "contributor"` in frontmatter.
+
+Use this folder for:
+
+- Contributor identities.
+- Contributor metadata.
+- Targets for `contributors` links in skills, competencies, and microskills.
+
+Expected pattern:
+
+```text
+contributors/<contributor-slug>.md
+```
 
 ### `mediums/`
 
@@ -110,7 +132,7 @@ Use this folder for:
 
 Current schema entrypoint:
 
-- [[ontology/v1.0/schemas|SALMON v1.0]]
+- [[schemas|SALMON v1.0]]
 
 ### `docs/`
 
@@ -152,6 +174,6 @@ Root-level Markdown should be limited to entrypoints and high-level documentatio
 
 - [[Knowledge Graph Examples.base#Careers|Careers]]
 - [[Knowledge Graph Examples.base#Competencies|Competencies]]
-- [[Knowledge Graph Examples.base#Macro Skills|Macro Skills]]
+- [[Knowledge Graph Examples.base#Skills|Skills]]
 - [[Knowledge Graph Examples.base#Microskills|Microskills]]
 - [[Knowledge Graph Examples.base#Courses|Courses]]

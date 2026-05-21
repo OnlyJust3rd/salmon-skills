@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/3d-geometric-representation|3D Geometric Representation]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/3d-geometric-representation|3d-geometric-representation]]"
 ---
 # 3D Geometric Representation: Understanding Mathematical Models
 

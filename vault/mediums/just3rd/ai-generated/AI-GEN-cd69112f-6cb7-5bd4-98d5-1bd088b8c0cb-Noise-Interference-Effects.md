@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-interference-effects|Noise Interference Effects]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-interference-effects|noise-interference-effects]]"
 ---
 # Understanding Noise Interference Effects on Circuits
 

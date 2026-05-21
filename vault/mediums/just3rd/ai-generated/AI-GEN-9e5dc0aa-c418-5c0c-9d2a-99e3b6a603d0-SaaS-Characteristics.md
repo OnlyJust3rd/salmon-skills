@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/saas-characteristics|SaaS Characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/saas-characteristics|saas-characteristics]]"
 ---
 # SaaS Characteristics: Understanding Software as a Service
 

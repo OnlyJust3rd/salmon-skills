@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/intra-frame-efficiency|Intra-frame Efficiency]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/intra-frame-efficiency|intra-frame-efficiency]]"
 ---
 # Intra-frame Compression: Unpacking a Single Frame's Secrets
 

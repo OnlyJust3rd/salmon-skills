@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Recall Logic Gate Basics"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Logic Fundamentals"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/logic-fundamentals|logic-fundamentals]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-algebra-postulate-recall|boolean-algebra-postulate-recall]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-names-and-symbols|logic-gate-names-and-symbols]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-truth-tables|logic-gate-truth-tables]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Recall Logic Gate Basics

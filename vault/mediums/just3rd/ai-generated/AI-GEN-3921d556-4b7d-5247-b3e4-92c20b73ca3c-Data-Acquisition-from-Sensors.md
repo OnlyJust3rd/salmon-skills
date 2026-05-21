@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/data-acquisition-from-sensors|Data Acquisition from Sensors]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/data-acquisition-from-sensors|data-acquisition-from-sensors]]"
 ---
 # Reading Sensor Data with Microcontrollers: A Practical Guide
 

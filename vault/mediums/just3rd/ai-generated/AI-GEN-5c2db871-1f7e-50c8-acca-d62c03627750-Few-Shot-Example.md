@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/few-shot-example|Few-Shot Example]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/few-shot-example|few-shot-example]]"
 ---
 # Few-Shot Examples for Task Instructions
 

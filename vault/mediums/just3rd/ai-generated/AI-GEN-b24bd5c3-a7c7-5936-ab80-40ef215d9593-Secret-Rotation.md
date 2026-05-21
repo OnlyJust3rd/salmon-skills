@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/secret-rotation|Secret Rotation]]"
+  - "[[skills/cloud-devops/platform-engineering/secrets-management/microskills/secret-rotation|secret-rotation]]"
 ---
 # Secret Rotation: Keeping Your Secrets Fresh
 

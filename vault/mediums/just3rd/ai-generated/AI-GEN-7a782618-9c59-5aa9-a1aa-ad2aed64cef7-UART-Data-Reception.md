@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-data-reception|UART Data Reception]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-data-reception|uart-data-reception]]"
 ---
 # UART Data Reception
 

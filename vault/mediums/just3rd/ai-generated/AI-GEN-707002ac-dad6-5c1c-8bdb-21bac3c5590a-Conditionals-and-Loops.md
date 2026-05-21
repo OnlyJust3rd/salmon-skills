@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/conditionals-and-loops|Conditionals and Loops]]"
+  - "[[skills/cloud-devops/platform-engineering/shell-scripting/microskills/conditionals-and-loops|conditionals-and-loops]]"
 ---
 # Conditionals and Loops in Shell Scripting
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Combination Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Combinatorial Analysis"
-parent-competency: "L3- Apply Combinatorial Techniques"
+  - "microskill"
+parent-skill: "[[skills/mathematics/combinatorial-analysis/combinatorial-analysis|combinatorial-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/combinatorial-analysis/competencies/L2-apply-combinatorial-techniques|L2-apply-combinatorial-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Combination Application
@@ -15,7 +17,7 @@ Parent macro: [[combinatorial-analysis|Combinatorial Analysis]]
 
 Parent competency:
 
-- [[L3-apply-combinatorial-techniques|L3- Apply Combinatorial Techniques]]
+- [[skills/mathematics/combinatorial-analysis/competencies/L2-apply-combinatorial-techniques|L3- Apply Combinatorial Techniques]]
 
 ## Description
 

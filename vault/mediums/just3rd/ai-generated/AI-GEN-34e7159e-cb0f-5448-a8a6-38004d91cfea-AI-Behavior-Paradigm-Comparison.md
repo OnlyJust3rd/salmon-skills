@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/ai-behavior-paradigm-comparison|AI Behavior Paradigm Comparison]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/ai-behavior-paradigm-comparison|ai-behavior-paradigm-comparison]]"
 ---
 # AI Behavior Paradigms in Robotics: An Analytical Comparison
 

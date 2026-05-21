@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/passive-rl-filter-design|Passive RL Filter Design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/passive-rl-filter-design|passive-rl-filter-design]]"
 ---
 # Passive RL Filter Design: Creating Notch Filters
 

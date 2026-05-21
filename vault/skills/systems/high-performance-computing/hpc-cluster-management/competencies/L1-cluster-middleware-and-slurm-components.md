@@ -1,19 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Cluster Middleware and Slurm Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "HPC Cluster Management"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and List HPC Milestones"
-  - "L1- HPC System Components"
+  - "[[skills/systems/high-performance-computing/hpc-system/competencies/L1-define-and-list-hpc-milestones|L1-define-and-list-hpc-milestones]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/competencies/L1-hpc-system-components|L1-hpc-system-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/high-performance-computing/hpc-cluster-management/hpc-cluster-management|hpc-cluster-management]]"
+requires-microskills:
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|cluster-middleware-components]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-management-tools|hpc-cluster-management-tools]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|slurm-job-scheduler-recognition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Cluster Middleware and Slurm Components

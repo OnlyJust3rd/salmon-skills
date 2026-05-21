@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/transfer-function-analysis|Transfer Function Analysis]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/transfer-function-analysis|transfer-function-analysis]]"
 ---
 # Transfer Function Analysis: Poles, Zeros, and ROC
 

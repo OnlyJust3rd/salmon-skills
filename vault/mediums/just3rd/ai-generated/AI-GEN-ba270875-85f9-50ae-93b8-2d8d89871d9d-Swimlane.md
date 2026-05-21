@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/business-process-modeling/microskills/swimlane|Swimlane]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/swimlane|swimlane]]"
 ---
 # Understanding Swimlanes in BPMN
 

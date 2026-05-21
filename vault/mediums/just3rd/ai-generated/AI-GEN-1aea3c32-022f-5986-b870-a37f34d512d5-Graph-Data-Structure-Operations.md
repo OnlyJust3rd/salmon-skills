@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/graph-data-structure-operations|Graph Data Structure Operations]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/graph-data-structure-operations|graph-data-structure-operations]]"
 ---
 # Graph Data Structure Operations
 

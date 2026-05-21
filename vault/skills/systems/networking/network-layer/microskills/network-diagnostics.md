@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Diagnostics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Layer"
-parent-competency: "L2- Explain ICMP functions"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-layer/network-layer|network-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-layer/competencies/L1-explain-icmp-functions|L1-explain-icmp-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Diagnostics
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-layer/network-layer|Network La
 
 Parent competency:
 
-- [[skills/systems/networking/network-layer/competencies/L2-explain-icmp-functions|L2- Explain ICMP functions]]
+- [[skills/systems/networking/network-layer/competencies/L1-explain-icmp-functions|L2- Explain ICMP functions]]
 
 ## Description
 

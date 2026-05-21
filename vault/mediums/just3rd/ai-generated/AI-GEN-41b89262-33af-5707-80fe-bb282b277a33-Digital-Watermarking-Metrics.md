@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-metrics|Digital Watermarking Metrics]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-metrics|digital-watermarking-metrics]]"
 ---
 # Digital Watermarking Metrics: Evaluating Performance
 

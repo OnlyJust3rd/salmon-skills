@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-application-to-obstacle-avoidance|Reactive Control Application to Obstacle Avoidance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-application-to-obstacle-avoidance|reactive-control-application-to-obstacle-avoidance]]"
 ---
 # Reactive Control for Obstacle Avoidance in Robots
 

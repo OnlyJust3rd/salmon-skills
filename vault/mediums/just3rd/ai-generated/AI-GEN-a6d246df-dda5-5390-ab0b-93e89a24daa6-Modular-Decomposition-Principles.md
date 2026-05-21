@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-principles|Modular Decomposition Principles]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-principles|modular-decomposition-principles]]"
 ---
 # Modular Decomposition Principles
 

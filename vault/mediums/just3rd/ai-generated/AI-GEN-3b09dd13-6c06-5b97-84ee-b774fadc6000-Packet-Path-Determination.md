@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/packet-path-determination|Packet Path Determination]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/packet-path-determination|packet-path-determination]]"
 ---
 # Packet Path Determination in Routing Protocols
 

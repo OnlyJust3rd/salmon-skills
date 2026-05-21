@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/saturation-significance|Saturation Significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/saturation-significance|saturation-significance]]"
 ---
 # Saturation: The Bottleneck of Performance
 

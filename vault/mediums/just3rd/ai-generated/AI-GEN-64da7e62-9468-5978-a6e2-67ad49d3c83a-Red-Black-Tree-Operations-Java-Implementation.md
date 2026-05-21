@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/red-black-tree-operations-java-implementation|Red-Black Tree Operations Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/red-black-tree-operations-java-implementation|red-black-tree-operations-java-implementation]]"
 ---
 # Red-Black Tree Operations in Java
 

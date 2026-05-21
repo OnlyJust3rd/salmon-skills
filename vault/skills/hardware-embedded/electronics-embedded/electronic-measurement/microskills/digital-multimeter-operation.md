@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Digital Multimeter Operation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Electronic Measurement"
-parent-competency: "L3- Measure and Record Electrical Values with Multimeter"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/electronic-measurement|electronic-measurement]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/competencies/L2-measure-and-record-electrical-values-with-multimeter|L2-measure-and-record-electrical-values-with-multimeter]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Digital Multimeter Operation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/electronic-measure
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/electronic-measurement/competencies/L3-measure-and-record-electrical-values-with-multimeter|L3- Measure and Record Electrical Values with Multimeter]]
+- [[skills/hardware-embedded/electronics-embedded/electronic-measurement/competencies/L2-measure-and-record-electrical-values-with-multimeter|L3- Measure and Record Electrical Values with Multimeter]]
 
 ## Description
 

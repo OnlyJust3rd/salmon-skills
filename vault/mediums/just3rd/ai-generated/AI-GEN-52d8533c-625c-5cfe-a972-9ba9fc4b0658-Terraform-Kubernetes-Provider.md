@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-kubernetes-provider|Terraform Kubernetes Provider]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-kubernetes-provider|terraform-kubernetes-provider]]"
 ---
 # Understanding the Terraform Kubernetes Provider
 

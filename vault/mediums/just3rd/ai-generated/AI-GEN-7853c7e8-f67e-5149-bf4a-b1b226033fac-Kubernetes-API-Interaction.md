@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-api-interaction|Kubernetes API Interaction]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-api-interaction|kubernetes-api-interaction]]"
 ---
 # Interacting with the Kubernetes API using YAML
 

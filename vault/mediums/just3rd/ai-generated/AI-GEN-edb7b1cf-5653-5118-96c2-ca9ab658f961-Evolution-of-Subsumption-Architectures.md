@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/evolution-of-subsumption-architectures|Evolution of Subsumption Architectures]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/evolution-of-subsumption-architectures|evolution-of-subsumption-architectures]]"
 ---
 # Evolving Subsumption Architectures with Genetic Programming
 

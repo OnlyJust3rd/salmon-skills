@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/network-path-determination|Network Path Determination]]"
+  - "[[skills/systems/networking/network-layer/microskills/network-path-determination|network-path-determination]]"
 ---
 # Navigating the Network: How Data Finds Its Way
 

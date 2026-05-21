@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Status code interpretation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "RESTful API"
-parent-competency: "L2- Explain REST Resources Methods and Status Codes"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/restful-api/restful-api|restful-api]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/restful-api/competencies/L1-explain-rest-resources-methods-and-status-codes|L1-explain-rest-resources-methods-and-status-codes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Status code interpretation
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/backend-api/restful-api/restful-api|RESTfu
 
 Parent competency:
 
-- [[skills/web-and-design/backend-api/restful-api/competencies/L2-explain-rest-resources-methods-and-status-codes|L2- Explain REST Resources Methods and Status Codes]]
+- [[skills/web-and-design/backend-api/restful-api/competencies/L1-explain-rest-resources-methods-and-status-codes|L2- Explain REST Resources Methods and Status Codes]]
 
 ## Description
 

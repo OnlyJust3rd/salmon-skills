@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/data-segmentation|Data Segmentation]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/data-segmentation|data-segmentation]]"
 ---
 # Data Segmentation: Breaking Down the Message
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-interval-of-convergence|Binomial expansion interval of convergence]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/binomial-expansion-interval-of-convergence|binomial-expansion-interval-of-convergence]]"
 ---
 # Finding the Interval of Convergence for Binomial Expansions
 

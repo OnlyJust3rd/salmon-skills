@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/team-introduction|Team Introduction]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/team-introduction|team-introduction]]"
 ---
 # Team Introduction: Showcasing Your Startup's Superpowers
 

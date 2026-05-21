@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/problem-domains-for-algorithms|Problem Domains for Algorithms]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/problem-domains-for-algorithms|problem-domains-for-algorithms]]"
 ---
 # Problem Domains for Algorithms
 

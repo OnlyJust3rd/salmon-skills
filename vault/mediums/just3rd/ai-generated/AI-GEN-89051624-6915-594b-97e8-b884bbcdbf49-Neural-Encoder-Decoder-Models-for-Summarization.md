@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-summarization/microskills/neural-encoder-decoder-models-for-summarization|Neural Encoder-Decoder Models for Summarization]]"
+  - "[[skills/data/data-science/text-summarization/microskills/neural-encoder-decoder-models-for-summarization|neural-encoder-decoder-models-for-summarization]]"
 ---
 # Neural Encoder-Decoder Models for Summarization
 

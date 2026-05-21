@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/read-modify-write-pattern|Read-Modify-Write Pattern]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/read-modify-write-pattern|read-modify-write-pattern]]"
 ---
 # The Read-Modify-Write Pattern for Register Manipulation
 

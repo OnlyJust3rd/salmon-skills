@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-health-monitoring|HPC Cluster Health Monitoring]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-health-monitoring|hpc-cluster-health-monitoring]]"
 ---
 # Understanding HPC Cluster Health Monitoring
 

@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/component|Component]]"
-  - "[[skills/web-and-design/frontend-ux/figma/microskills/component|Component]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/component|component]]"
+  - "[[skills/web-and-design/frontend-ux/figma/microskills/component|component]]"
 ---
 # Components: Building Blocks of Game Behavior
 

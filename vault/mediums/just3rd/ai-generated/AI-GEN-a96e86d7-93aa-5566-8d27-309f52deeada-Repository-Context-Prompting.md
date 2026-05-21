@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/repository-context-prompting|Repository Context Prompting]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/repository-context-prompting|repository-context-prompting]]"
 ---
 # Repository Context Prompting for AI-Assisted Code Generation
 

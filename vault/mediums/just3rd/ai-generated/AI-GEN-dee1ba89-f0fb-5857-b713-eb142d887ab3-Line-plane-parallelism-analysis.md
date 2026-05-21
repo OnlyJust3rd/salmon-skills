@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/line-plane-parallelism-analysis|Line-plane parallelism analysis]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/line-plane-parallelism-analysis|line-plane-parallelism-analysis]]"
 ---
 # Analyzing Line-Plane Parallelism
 

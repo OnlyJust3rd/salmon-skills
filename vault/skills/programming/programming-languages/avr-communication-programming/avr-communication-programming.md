@@ -1,18 +1,31 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "AVR Communication Programming"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 324 - Embedded Systems"
-coverage:
-  - "Implementation"
-  - "Concept"
-competency-count: 3
-microskill-count: 13
-related-jobs:
-  - "Embedded Systems Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-324-embedded-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/programming-languages/avr-communication-programming/competencies/L1-list-communication-registers|L1-list-communication-registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/competencies/L1-describe-c-code-for-communication|L1-describe-c-code-for-communication]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/competencies/L2-implement-communication-code|L2-implement-communication-code]]"
+standard-competency:
+  - "[[skills/programming/programming-languages/avr-communication-programming/competencies/L2-implement-communication-code|L2-implement-communication-code]]"
+microskills:
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/data-buffer-management|data-buffer-management]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/function-calls-for-protocol-control|function-calls-for-protocol-control]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-master-read-write|i2c-master-read-write]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-slave-read-write|i2c-slave-read-write]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-status-and-control-registers|i2c-status-and-control-registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/interrupt-driven-communication|interrupt-driven-communication]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/register-bit-manipulation|register-bit-manipulation]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-control-registers|spi-control-registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-master-data-transfer|spi-master-data-transfer]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-slave-data-transfer|spi-slave-data-transfer]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-baud-rate-registers|uart-baud-rate-registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-data-reception|uart-data-reception]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/uart-data-transmission|uart-data-transmission]]"
 ---
 
 # AVR Communication Programming
@@ -22,8 +35,8 @@ Programming AVR microcontroller serial communication peripherals in bare-metal C
 ## Competencies
 
 - [[skills/programming/programming-languages/avr-communication-programming/competencies/L1-list-communication-registers|L1- List Communication Registers]]
-- [[skills/programming/programming-languages/avr-communication-programming/competencies/L2-describe-c-code-for-communication|L2- Describe C Code for Communication]]
-- [[skills/programming/programming-languages/avr-communication-programming/competencies/L3-implement-communication-code|L3- Implement Communication Code]]
+- [[skills/programming/programming-languages/avr-communication-programming/competencies/L1-describe-c-code-for-communication|L2- Describe C Code for Communication]]
+- [[skills/programming/programming-languages/avr-communication-programming/competencies/L2-implement-communication-code|L3- Implement Communication Code]]
 
 ## Microskills
 

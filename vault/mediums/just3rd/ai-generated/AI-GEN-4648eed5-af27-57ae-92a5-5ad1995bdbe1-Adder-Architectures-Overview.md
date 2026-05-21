@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/adder-architectures-overview|Adder Architectures Overview]]"
+  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/adder-architectures-overview|adder-architectures-overview]]"
 ---
 # Adder Architectures: Speed vs. Simplicity
 

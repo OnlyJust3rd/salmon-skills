@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-refactoring-execution|Code Refactoring Execution]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-refactoring-execution|code-refactoring-execution]]"
 ---
 # Executing Code Refactoring: Improving Code Structure
 

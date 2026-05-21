@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/digital-circuit-simulation-relevance|Digital Circuit Simulation Relevance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/digital-circuit-simulation-relevance|digital-circuit-simulation-relevance]]"
 ---
 # Digital Circuit Simulation Relevance in Proteus 8
 

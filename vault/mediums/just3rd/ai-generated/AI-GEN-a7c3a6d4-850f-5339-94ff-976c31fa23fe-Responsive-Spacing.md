@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/responsive-web-design/microskills/responsive-spacing|Responsive Spacing]]"
+  - "[[skills/web-and-design/frontend-ux/responsive-web-design/microskills/responsive-spacing|responsive-spacing]]"
 ---
 # Responsive Spacing: Maintaining Readable Layouts Across Devices
 

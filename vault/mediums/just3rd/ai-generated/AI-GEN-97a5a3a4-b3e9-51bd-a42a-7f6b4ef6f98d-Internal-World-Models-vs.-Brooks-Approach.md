@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/internal-world-models-vs-brooks-approach|Internal World Models vs. Brooks' Approach]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/internal-world-models-vs-brooks-approach|internal-world-models-vs-brooks-approach]]"
 ---
 # Internal World Models vs. Brooks' Approach in Robotics
 

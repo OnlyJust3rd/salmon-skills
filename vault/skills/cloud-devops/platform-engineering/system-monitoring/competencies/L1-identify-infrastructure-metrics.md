@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Infrastructure Metrics"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Monitoring"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L4- Differentiate Cloud Models"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L3-differentiate-cloud-models]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-monitoring/system-monitoring|system-monitoring]]"
+requires-microskills:
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/cpu-utilization|cpu-utilization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/disk-i-o-operations|disk-i-o-operations]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/memory-usage|memory-usage]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/network-throughput|network-throughput]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Infrastructure Metrics
@@ -25,7 +28,7 @@ Identify the primary infrastructure metrics used for system performance monitori
 
 ## Strict Prerequisites
 
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L4-differentiate-cloud-models|L4- Differentiate Cloud Models]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L4- Differentiate Cloud Models]]
 
 ## Optional Prerequisites
 

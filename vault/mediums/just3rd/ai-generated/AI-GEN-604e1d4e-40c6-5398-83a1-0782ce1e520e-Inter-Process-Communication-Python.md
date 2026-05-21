@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/inter-process-communication-python|Inter-Process Communication (Python)]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/inter-process-communication-python|inter-process-communication-python]]"
 ---
 # Understanding Inter-Process Communication (IPC) in Python
 

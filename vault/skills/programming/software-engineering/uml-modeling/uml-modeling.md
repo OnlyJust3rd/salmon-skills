@@ -1,18 +1,32 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "UML Modeling"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 334 - Software Engineering"
-coverage:
-  - "Representation"
-competency-count: 3
-microskill-count: 14
-related-jobs:
-  - "System Analyst"
-  - "Software Solution Architect"
-source-note: "courses/kmutt/cpe-2021/cpe-334-software-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/uml-modeling/competencies/L1-identify-uml-diagram-types-and-symbols|L1-identify-uml-diagram-types-and-symbols]]"
+  - "[[skills/programming/software-engineering/uml-modeling/competencies/L1-explain-uml-diagram-purposes-and-differences|L1-explain-uml-diagram-purposes-and-differences]]"
+  - "[[skills/programming/software-engineering/uml-modeling/competencies/L2-apply-uml-for-system-modeling|L2-apply-uml-for-system-modeling]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/uml-modeling/competencies/L2-apply-uml-for-system-modeling|L2-apply-uml-for-system-modeling]]"
+microskills:
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/dynamic-behavior-representation|dynamic-behavior-representation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/static-structure-representation|static-structure-representation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/system-architecture-representation|system-architecture-representation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/system-functionality-representation|system-functionality-representation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-behavior|uml-diagram-application-for-behavior]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-functionality|uml-diagram-application-for-functionality]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-hardware-configuration|uml-diagram-application-for-hardware-configuration]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-software-mapping|uml-diagram-application-for-software-mapping]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-structure|uml-diagram-application-for-structure]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-identification|uml-diagram-identification]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-purpose-definition|uml-diagram-purpose-definition]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-usage-explanation|uml-diagram-usage-explanation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-symbol-recognition|uml-symbol-recognition]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/user-interaction-representation|user-interaction-representation]]"
 ---
 
 # UML Modeling
@@ -22,8 +36,8 @@ Utilizing the Unified Modeling Language (UML) to document design decisions, incl
 ## Competencies
 
 - [[skills/programming/software-engineering/uml-modeling/competencies/L1-identify-uml-diagram-types-and-symbols|L1- Identify UML Diagram Types and Symbols]]
-- [[skills/programming/software-engineering/uml-modeling/competencies/L2-explain-uml-diagram-purposes-and-differences|L2- Explain UML Diagram Purposes and Differences]]
-- [[skills/programming/software-engineering/uml-modeling/competencies/L3-apply-uml-for-system-modeling|L3- Apply UML for System Modeling]]
+- [[skills/programming/software-engineering/uml-modeling/competencies/L1-explain-uml-diagram-purposes-and-differences|L2- Explain UML Diagram Purposes and Differences]]
+- [[skills/programming/software-engineering/uml-modeling/competencies/L2-apply-uml-for-system-modeling|L3- Apply UML for System Modeling]]
 
 ## Microskills
 

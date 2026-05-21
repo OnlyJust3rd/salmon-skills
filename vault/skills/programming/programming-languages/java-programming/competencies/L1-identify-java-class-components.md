@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Java Class Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 231 - Algorithms"
-parent-macro: "Java Programming"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define ADTs"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L1-define-adts|L1-define-adts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/programming-languages/java-programming/java-programming|java-programming]]"
+requires-microskills:
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-constructors|java-constructors]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-fields|java-fields]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-methods|java-methods]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Java Class Components

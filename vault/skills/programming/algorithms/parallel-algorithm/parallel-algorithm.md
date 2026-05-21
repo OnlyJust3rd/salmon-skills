@@ -1,18 +1,22 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Parallel Algorithm"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-coverage:
-  - "Concept"
-  - "Design"
-  - "Analysis"
-competency-count: 2
-microskill-count: 5
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-372-high-performance-computing-and-cloud-technologies"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/algorithms/parallel-algorithm/competencies/L1-explain-foster-s-stages|L1-explain-foster-s-stages]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/competencies/L2-apply-foster-s-methodology|L2-apply-foster-s-methodology]]"
+standard-competency:
+  - "[[skills/programming/algorithms/parallel-algorithm/competencies/L2-apply-foster-s-methodology|L2-apply-foster-s-methodology]]"
+microskills:
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/foster-s-methodology-application|foster-s-methodology-application]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/foster-s-methodology-stages|foster-s-methodology-stages]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/parallel-design-methodology-execution|parallel-design-methodology-execution]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/purpose-of-parallel-design-stages|purpose-of-parallel-design-stages]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/simple-parallel-application-development|simple-parallel-application-development]]"
 ---
 
 # Parallel Algorithm
@@ -21,8 +25,8 @@ Designing parallel algorithms using structured methodologies such as Foster's de
 
 ## Competencies
 
-- [[skills/programming/algorithms/parallel-algorithm/competencies/L2-explain-foster-s-stages|L2- Explain Foster's Stages]]
-- [[skills/programming/algorithms/parallel-algorithm/competencies/L3-apply-foster-s-methodology|L3- Apply Foster's Methodology]]
+- [[skills/programming/algorithms/parallel-algorithm/competencies/L1-explain-foster-s-stages|L2- Explain Foster's Stages]]
+- [[skills/programming/algorithms/parallel-algorithm/competencies/L2-apply-foster-s-methodology|L3- Apply Foster's Methodology]]
 
 ## Microskills
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Model Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Data Modeling"
-parent-competency: "L3- Apply Data Models"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-modeling/data-modeling|data-modeling]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-modeling/competencies/L2-apply-data-models|L2-apply-data-models]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Model Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-modeling/data-modeling|Data Mode
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-modeling/competencies/L3-apply-data-models|L3- Apply Data Models]]
+- [[skills/data/data-platforms/data-modeling/competencies/L2-apply-data-models|L3- Apply Data Models]]
 
 ## Description
 

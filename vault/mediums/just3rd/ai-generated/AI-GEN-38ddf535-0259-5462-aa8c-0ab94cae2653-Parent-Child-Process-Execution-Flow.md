@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|Parent-Child Process Execution Flow]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|parent-child-process-execution-flow]]"
 ---
 # Parent-Child Process Execution Flow: Analyzing Sequential Behavior
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/reward-system-design|Reward System Design]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/reward-system-design|reward-system-design]]"
 ---
 # Designing Game Reward Systems with Maslow's Hierarchy
 

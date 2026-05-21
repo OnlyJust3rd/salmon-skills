@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/stack-use-cases|Stack Use Cases]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/stack-use-cases|stack-use-cases]]"
 ---
 # Stack Use Cases: Understanding Practical Applications
 

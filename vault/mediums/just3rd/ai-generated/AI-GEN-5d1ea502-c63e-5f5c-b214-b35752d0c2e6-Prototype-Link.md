@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/figma/microskills/prototype-link|Prototype Link]]"
+  - "[[skills/web-and-design/frontend-ux/figma/microskills/prototype-link|prototype-link]]"
 ---
 # Prototype Linking in Figma: Creating Interactive Navigation
 

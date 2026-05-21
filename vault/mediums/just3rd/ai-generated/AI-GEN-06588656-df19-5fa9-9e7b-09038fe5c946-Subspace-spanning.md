@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/subspace-spanning|Subspace spanning]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/subspace-spanning|subspace-spanning]]"
 ---
 # Ensuring Your Basis Spans the Same Subspace
 

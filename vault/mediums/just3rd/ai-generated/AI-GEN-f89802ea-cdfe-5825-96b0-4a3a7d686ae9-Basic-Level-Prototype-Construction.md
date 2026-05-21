@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/level-design/microskills/basic-level-prototype-construction|Basic Level Prototype Construction]]"
+  - "[[skills/creative-media/game-development/level-design/microskills/basic-level-prototype-construction|basic-level-prototype-construction]]"
 ---
 # Building Your First Game Level Prototype
 

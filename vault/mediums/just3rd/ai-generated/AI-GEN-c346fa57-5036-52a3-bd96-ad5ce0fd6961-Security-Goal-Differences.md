@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/security-goal-differences|Security Goal Differences]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/security-goal-differences|security-goal-differences]]"
 ---
 # Understanding Security Goal Differences in Network Protocols
 

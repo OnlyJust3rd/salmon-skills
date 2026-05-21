@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/coordinate-vector-transformation|Coordinate vector transformation]]"
+  - "[[skills/mathematics/vector-space/microskills/coordinate-vector-transformation|coordinate-vector-transformation]]"
 ---
 # Finding New Coordinates: Coordinate Vector Transformation
 

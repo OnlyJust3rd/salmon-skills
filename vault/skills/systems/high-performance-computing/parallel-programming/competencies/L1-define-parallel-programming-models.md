@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Parallel Programming Models"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Parallel Programming"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain Foster's Stages"
+  - "[[skills/programming/algorithms/parallel-algorithm/competencies/L1-explain-foster-s-stages|L1-explain-foster-s-stages]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/systems/high-performance-computing/parallel-programming/parallel-programming|parallel-programming]]"
+requires-microskills:
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/model-identification|model-identification]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|parallel-model-terminology]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Parallel Programming Models
@@ -25,7 +26,7 @@ Define core parallel programming models, including shared-memory, distributed-me
 
 ## Strict Prerequisites
 
-- [[skills/programming/algorithms/parallel-algorithm/competencies/L2-explain-foster-s-stages|L2- Explain Foster's Stages]]
+- [[skills/programming/algorithms/parallel-algorithm/competencies/L1-explain-foster-s-stages|L2- Explain Foster's Stages]]
 
 ## Optional Prerequisites
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/key-neural-network-components|Key Neural Network Components]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/key-neural-network-components|key-neural-network-components]]"
 ---
 # Key Neural Network Components
 

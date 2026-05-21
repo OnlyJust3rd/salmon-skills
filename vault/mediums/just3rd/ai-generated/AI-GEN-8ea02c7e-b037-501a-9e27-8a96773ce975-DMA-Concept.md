@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/dma-concept|DMA Concept]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/dma-concept|dma-concept]]"
 ---
 # Understanding Direct Memory Access (DMA)
 

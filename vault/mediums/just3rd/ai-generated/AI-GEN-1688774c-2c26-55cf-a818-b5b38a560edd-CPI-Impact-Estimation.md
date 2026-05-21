@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/cpi-impact-estimation|CPI Impact Estimation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/cpi-impact-estimation|cpi-impact-estimation]]"
 ---
 # Estimating CPI Impact of Hazard Mitigation Techniques
 

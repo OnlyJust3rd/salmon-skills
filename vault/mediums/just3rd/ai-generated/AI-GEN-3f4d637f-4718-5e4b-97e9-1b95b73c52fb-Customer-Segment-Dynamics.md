@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/customer-segment-dynamics|Customer Segment Dynamics]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/customer-segment-dynamics|customer-segment-dynamics]]"
 ---
 # Understanding Customer Segment Dynamics
 

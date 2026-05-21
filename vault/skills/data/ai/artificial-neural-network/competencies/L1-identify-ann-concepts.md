@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify ANN Concepts"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Artificial Neural Network"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/ai/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
+requires-microskills:
+  - "[[skills/data/ai/artificial-neural-network/microskills/artificial-neural-network-key-ideas-chapter-4|artificial-neural-network-key-ideas-chapter-4]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/chapter-4-ann-topics|chapter-4-ann-topics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify ANN Concepts

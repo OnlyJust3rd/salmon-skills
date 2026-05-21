@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-mining/microskills/specific-data-element-extraction|Specific Data Element Extraction]]"
+  - "[[skills/data/data-science/text-mining/microskills/specific-data-element-extraction|specific-data-element-extraction]]"
 ---
 # Extracting Specific Data Elements with BeautifulSoup
 

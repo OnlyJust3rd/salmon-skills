@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/manual-route-management|Manual Route Management]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/manual-route-management|manual-route-management]]"
 ---
 # Manual Route Management: The Foundation of Static Routing
 

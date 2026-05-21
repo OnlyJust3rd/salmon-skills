@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-set-and-clear-operations|Bit Set and Clear Operations]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bit-set-and-clear-operations|bit-set-and-clear-operations]]"
 ---
 # Setting and Clearing Bits with Bitwise Operations
 

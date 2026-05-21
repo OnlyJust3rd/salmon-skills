@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/modeling-techniques-purpose|Modeling Techniques Purpose]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/modeling-techniques-purpose|modeling-techniques-purpose]]"
 ---
 # Understanding the Purpose of Modeling Techniques in User-Centered Design
 

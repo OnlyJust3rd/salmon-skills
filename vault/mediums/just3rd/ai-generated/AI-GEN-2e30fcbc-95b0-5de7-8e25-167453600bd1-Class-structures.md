@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/class-structures|Class structures]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/class-structures|class-structures]]"
 ---
 # Understanding Class Structures in Object-Oriented Programming
 

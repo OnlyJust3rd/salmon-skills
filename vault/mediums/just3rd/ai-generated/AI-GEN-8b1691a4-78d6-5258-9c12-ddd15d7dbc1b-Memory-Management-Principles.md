@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-principles|Memory Management Principles]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/memory-management-principles|memory-management-principles]]"
 ---
 # Memory Management Principles in Operating Systems
 

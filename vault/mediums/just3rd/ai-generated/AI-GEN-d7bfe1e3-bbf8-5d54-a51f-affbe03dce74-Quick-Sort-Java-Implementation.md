@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/quick-sort-java-implementation|Quick Sort Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/quick-sort-java-implementation|quick-sort-java-implementation]]"
 ---
 # Quick Sort Java Implementation
 

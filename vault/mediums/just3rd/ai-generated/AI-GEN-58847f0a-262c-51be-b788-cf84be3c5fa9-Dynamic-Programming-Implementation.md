@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/dynamic-programming-implementation|Dynamic Programming Implementation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/dynamic-programming-implementation|dynamic-programming-implementation]]"
 ---
 # Dynamic Programming Implementation
 

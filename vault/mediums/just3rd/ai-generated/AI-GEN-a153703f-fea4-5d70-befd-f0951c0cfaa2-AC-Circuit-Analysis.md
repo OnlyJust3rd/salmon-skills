@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/ac-circuit-analysis|AC Circuit Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/ac-circuit-analysis|ac-circuit-analysis]]"
 ---
 # AC Circuit Analysis with Mesh and Nodal Methods
 

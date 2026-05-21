@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Resource Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud FinOps"
-parent-competency: "L2- Tagging Purpose and Benefits"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-finops/cloud-finops|cloud-finops]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-tagging-purpose-and-benefits|L1-tagging-purpose-and-benefits]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Resource Identification
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-finops/cloud-fino
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L2-tagging-purpose-and-benefits|L2- Tagging Purpose and Benefits]]
+- [[skills/cloud-devops/platform-engineering/cloud-finops/competencies/L1-tagging-purpose-and-benefits|L2- Tagging Purpose and Benefits]]
 
 ## Description
 

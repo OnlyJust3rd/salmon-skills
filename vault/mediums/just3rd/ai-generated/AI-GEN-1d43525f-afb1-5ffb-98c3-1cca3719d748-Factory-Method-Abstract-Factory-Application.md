@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/factory-method-abstract-factory-application|Factory Method / Abstract Factory Application]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/factory-method-abstract-factory-application|factory-method-abstract-factory-application]]"
 ---
 # Applying Factory Method and Abstract Factory
 

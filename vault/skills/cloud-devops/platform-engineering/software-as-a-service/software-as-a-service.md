@@ -1,20 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Software as a Service"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-coverage:
-  - "Concept"
-  - "Architecture"
-  - "Analysis"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Full Stack Developer"
-  - "Software Solution Architect"
-  - "Technical Consultant"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L1-explain-saas-architecture-concepts|L1-explain-saas-architecture-concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L3-analyze-saas-tenancy-billing-and-operational-trade-offs]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L3-analyze-saas-tenancy-billing-and-operational-trade-offs]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/billing-model|billing-model]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/multi-tenancy|multi-tenancy]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/operational-responsibility|operational-responsibility]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/operational-trade-off|operational-trade-off]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/subscription-access|subscription-access]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/tenant-isolation|tenant-isolation]]"
 ---
 
 # Software as a Service
@@ -23,8 +26,8 @@ Understanding SaaS as a cloud software delivery model involving tenancy, subscri
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L2-explain-saas-architecture-concepts|L2- Explain SaaS Architecture Concepts]]
-- [[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L4-analyze-saas-tenancy-billing-and-operational-trade-offs|L4- Analyze SaaS Tenancy Billing and Operational Trade-offs]]
+- [[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L1-explain-saas-architecture-concepts|L2- Explain SaaS Architecture Concepts]]
+- [[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L4- Analyze SaaS Tenancy Billing and Operational Trade-offs]]
 
 ## Microskills
 

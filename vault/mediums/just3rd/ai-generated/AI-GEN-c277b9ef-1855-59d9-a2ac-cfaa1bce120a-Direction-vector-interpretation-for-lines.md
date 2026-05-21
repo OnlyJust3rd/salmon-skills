@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/direction-vector-interpretation-for-lines|Direction vector interpretation for lines]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/direction-vector-interpretation-for-lines|direction-vector-interpretation-for-lines]]"
 ---
 # The Direction Vector: Guiding Lines in 3D Space
 

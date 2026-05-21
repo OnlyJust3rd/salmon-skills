@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/engagement-enhancement-through-interaction|Engagement Enhancement through Interaction]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/engagement-enhancement-through-interaction|engagement-enhancement-through-interaction]]"
 ---
 # Engagement Enhancement through Interaction
 

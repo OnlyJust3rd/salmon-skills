@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Scalar multiplication process"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-parent-competency: "L2- Matrix Addition and Scalar Multiplication"
+  - "microskill"
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-in-competencies:
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-matrix-addition-and-scalar-multiplication|L1-matrix-addition-and-scalar-multiplication]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Scalar multiplication process
@@ -15,7 +17,7 @@ Parent macro: [[matrix-algebra|Matrix Algebra]]
 
 Parent competency:
 
-- [[L2-matrix-addition-and-scalar-multiplication|L2- Matrix Addition and Scalar Multiplication]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-matrix-addition-and-scalar-multiplication|L2- Matrix Addition and Scalar Multiplication]]
 
 ## Description
 

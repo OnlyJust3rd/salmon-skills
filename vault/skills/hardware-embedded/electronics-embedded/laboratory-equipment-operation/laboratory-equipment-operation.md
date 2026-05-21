@@ -1,16 +1,37 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Laboratory Equipment Operation"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-coverage:
-  - "ToolUsage"
-competency-count: 3
-microskill-count: 19
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-222-digital-electronics-and-logic-design"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L1-identify-lab-equipment-functions|L1-identify-lab-equipment-functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L1-explain-equipment-principles-and-safe-usage|L1-explain-equipment-principles-and-safe-usage]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L2-operate-equipment-for-measurement-and-diagnosis|L2-operate-equipment-for-measurement-and-diagnosis]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L2-operate-equipment-for-measurement-and-diagnosis|L2-operate-equipment-for-measurement-and-diagnosis]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/circuit-parameter-measurement|circuit-parameter-measurement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/continuity-testing|continuity-testing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/diagnosing-hardware-challenges-safely|diagnosing-hardware-challenges-safely]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/diagnostic-tests-application|diagnostic-tests-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/electronics-measurement-instruments|electronics-measurement-instruments]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/functionality-testing|functionality-testing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/laboratory-equipment-functions|laboratory-equipment-functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/laboratory-equipment-types|laboratory-equipment-types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/measurement-of-electrical-properties|measurement-of-electrical-properties]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/multimeter-basic-operations|multimeter-basic-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/multimeter-principles-of-operation|multimeter-principles-of-operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscillator-basic-operations|oscillator-basic-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscilloscope-basic-operations|oscilloscope-basic-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscilloscope-principles-of-operation|oscilloscope-principles-of-operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/power-regulator-basic-operations|power-regulator-basic-operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/power-supply-verification|power-supply-verification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safe-and-accurate-equipment-use|safe-and-accurate-equipment-use]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safe-usage-of-lab-equipment|safe-usage-of-lab-equipment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/safety-precautions-for-powered-circuits|safety-precautions-for-powered-circuits]]"
 ---
 
 # Laboratory Equipment Operation
@@ -20,8 +41,8 @@ Operate standard laboratory equipment-such as multimeters, oscilloscopes, oscill
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L1-identify-lab-equipment-functions|L1- Identify Lab Equipment Functions]]
-- [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L2-explain-equipment-principles-and-safe-usage|L2- Explain Equipment Principles and Safe Usage]]
-- [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L3-operate-equipment-for-measurement-and-diagnosis|L3- Operate Equipment for Measurement and Diagnosis]]
+- [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L1-explain-equipment-principles-and-safe-usage|L2- Explain Equipment Principles and Safe Usage]]
+- [[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L2-operate-equipment-for-measurement-and-diagnosis|L3- Operate Equipment for Measurement and Diagnosis]]
 
 ## Microskills
 

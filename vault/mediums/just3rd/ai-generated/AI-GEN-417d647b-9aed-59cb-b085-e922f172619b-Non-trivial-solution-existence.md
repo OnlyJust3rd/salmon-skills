@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/non-trivial-solution-existence|Non-trivial solution existence]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/non-trivial-solution-existence|non-trivial-solution-existence]]"
 ---
 # Understanding Non-Trivial Solutions in Homogeneous Systems
 

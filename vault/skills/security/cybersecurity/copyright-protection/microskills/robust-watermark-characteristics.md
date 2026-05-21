@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Robust Watermark Characteristics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Copyright Protection"
-parent-competency: "L4- Analyze Watermark Types"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/copyright-protection/competencies/L3-analyze-watermark-types|L3-analyze-watermark-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Robust Watermark Characteristics
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/copyright-protection/copyright-pro
 
 Parent competency:
 
-- [[skills/security/cybersecurity/copyright-protection/competencies/L4-analyze-watermark-types|L4- Analyze Watermark Types]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L3-analyze-watermark-types|L4- Analyze Watermark Types]]
 
 ## Description
 

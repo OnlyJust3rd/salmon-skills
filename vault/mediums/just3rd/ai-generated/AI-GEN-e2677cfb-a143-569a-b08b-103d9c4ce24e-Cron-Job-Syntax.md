@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/cron-job-syntax|Cron Job Syntax]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/cron-job-syntax|cron-job-syntax]]"
 ---
 # Cron Job Syntax: Mastering the Art of Scheduled Tasks
 

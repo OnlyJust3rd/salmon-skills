@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/library-purpose|Library Purpose]]"
+  - "[[skills/programming/programming-languages/python/microskills/library-purpose|library-purpose]]"
 ---
 # Understanding the Purpose of Python Libraries
 

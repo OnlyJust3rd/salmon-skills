@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/client-sdk-integration|Client SDK Integration]]"
+  - "[[skills/cloud-devops/platform-engineering/firebase/microskills/client-sdk-integration|client-sdk-integration]]"
 ---
 # Client SDK Integration with Firebase
 

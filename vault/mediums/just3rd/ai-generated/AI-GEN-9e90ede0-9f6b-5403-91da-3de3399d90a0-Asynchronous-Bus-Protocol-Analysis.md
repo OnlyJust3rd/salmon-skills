@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/asynchronous-bus-protocol-analysis|Asynchronous Bus Protocol Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/asynchronous-bus-protocol-analysis|asynchronous-bus-protocol-analysis]]"
 ---
 # Analyzing Asynchronous Bus Protocols
 

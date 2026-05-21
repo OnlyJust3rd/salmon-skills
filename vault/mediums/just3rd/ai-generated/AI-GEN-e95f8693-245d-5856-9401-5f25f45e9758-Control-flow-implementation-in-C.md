@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/control-flow-implementation-in-c|Control flow implementation in C]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/control-flow-implementation-in-c|control-flow-implementation-in-c]]"
 ---
 # Control Flow Implementation in C
 

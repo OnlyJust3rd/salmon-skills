@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/discrete-component-identification|Discrete Component Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/discrete-component-identification|discrete-component-identification]]"
 ---
 # Identifying Discrete Components in Logic Circuits
 

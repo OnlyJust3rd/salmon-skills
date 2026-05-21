@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/polygons|Polygons]]"
+  - "[[skills/creative-media/graphics-media/geometric-representation/microskills/polygons|polygons]]"
 ---
 # Understanding Polygons in Geometric Representation
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cybersecurity/microskills/sessions|Sessions]]"
+  - "[[skills/security/cybersecurity/cybersecurity/microskills/sessions|sessions]]"
 ---
 # Understanding Sessions for Secure Authentication
 

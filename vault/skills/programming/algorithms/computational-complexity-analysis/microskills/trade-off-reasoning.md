@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Trade-off Reasoning"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Computational Complexity Analysis"
-parent-competency: "L3- Complexity Trade-offs"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/computational-complexity-analysis/computational-complexity-analysis|computational-complexity-analysis]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/computational-complexity-analysis/competencies/L2-complexity-trade-offs|L2-complexity-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Trade-off Reasoning
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/computational-complexity-analysis/
 
 Parent competency:
 
-- [[skills/programming/algorithms/computational-complexity-analysis/competencies/L3-complexity-trade-offs|L3- Complexity Trade-offs]]
+- [[skills/programming/algorithms/computational-complexity-analysis/competencies/L2-complexity-trade-offs|L3- Complexity Trade-offs]]
 
 ## Description
 

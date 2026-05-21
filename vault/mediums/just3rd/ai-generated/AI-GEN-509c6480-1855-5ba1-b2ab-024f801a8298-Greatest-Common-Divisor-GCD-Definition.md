@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/greatest-common-divisor-gcd-definition|Greatest Common Divisor (GCD) Definition]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/greatest-common-divisor-gcd-definition|greatest-common-divisor-gcd-definition]]"
 ---
 # Greatest Common Divisor (GCD)
 

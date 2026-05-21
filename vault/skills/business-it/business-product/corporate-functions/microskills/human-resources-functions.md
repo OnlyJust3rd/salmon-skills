@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Human Resources Functions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Corporate Functions"
-parent-competency: "L2- Explain Corporate Department Functions"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/corporate-functions/corporate-functions|corporate-functions]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/corporate-functions/competencies/L1-explain-corporate-department-functions|L1-explain-corporate-department-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Human Resources Functions
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/corporate-functions/corporat
 
 Parent competency:
 
-- [[skills/business-it/business-product/corporate-functions/competencies/L2-explain-corporate-department-functions|L2- Explain Corporate Department Functions]]
+- [[skills/business-it/business-product/corporate-functions/competencies/L1-explain-corporate-department-functions|L2- Explain Corporate Department Functions]]
 
 ## Description
 

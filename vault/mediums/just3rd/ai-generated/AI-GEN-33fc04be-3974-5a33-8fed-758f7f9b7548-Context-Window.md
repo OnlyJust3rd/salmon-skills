@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/large-language-models/microskills/context-window|Context Window]]"
+  - "[[skills/data/ai/large-language-models/microskills/context-window|context-window]]"
 ---
 # Understanding the Context Window in Large Language Models
 

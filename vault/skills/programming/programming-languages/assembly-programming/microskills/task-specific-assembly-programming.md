@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Task-Specific Assembly Programming"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Assembly Programming"
-parent-competency: "L3- Write Assembly Programs"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/assembly-programming/assembly-programming|assembly-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/assembly-programming/competencies/L2-write-assembly-programs|L2-write-assembly-programs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Task-Specific Assembly Programming
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/assembly-programming/as
 
 Parent competency:
 
-- [[skills/programming/programming-languages/assembly-programming/competencies/L3-write-assembly-programs|L3- Write Assembly Programs]]
+- [[skills/programming/programming-languages/assembly-programming/competencies/L2-write-assembly-programs|L3- Write Assembly Programs]]
 
 ## Description
 

@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- String Search and Algorithm Strategies"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 231 - Algorithms"
-parent-macro: "Algorithms"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Algorithm Fundamentals"
+  - "[[skills/programming/algorithms/algorithms/competencies/L1-define-algorithm-fundamentals|L1-define-algorithm-fundamentals]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/algorithms/algorithms/algorithms|algorithms]]"
+requires-microskills:
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-design-strategy-recall|algorithm-design-strategy-recall]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/pattern-matching-concepts|pattern-matching-concepts]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/string-searching-concepts|string-searching-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- String Search and Algorithm Strategies

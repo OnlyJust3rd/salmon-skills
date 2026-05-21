@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-input-impedance|Feedback Resistor Impact on Input Impedance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-input-impedance|feedback-resistor-impact-on-input-impedance]]"
 ---
 # Analyzing Feedback Resistors: Impact on Input Impedance
 

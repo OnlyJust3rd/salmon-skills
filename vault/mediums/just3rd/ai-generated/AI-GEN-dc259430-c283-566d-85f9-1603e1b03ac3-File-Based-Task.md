@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/file-based-task|File-Based Task]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/file-based-task|file-based-task]]"
 ---
 # Working with Files in Claude Cowork
 

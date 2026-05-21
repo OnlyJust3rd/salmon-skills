@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/network-security-group-nsg-configuration|Network Security Group (NSG) Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/network-security-group-nsg-configuration|network-security-group-nsg-configuration]]"
 ---
 # Network Security Group (NSG) Configuration
 

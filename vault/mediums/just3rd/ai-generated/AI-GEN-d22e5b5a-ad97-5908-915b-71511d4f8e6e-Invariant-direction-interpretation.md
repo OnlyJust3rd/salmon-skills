@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/invariant-direction-interpretation|Invariant direction interpretation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/invariant-direction-interpretation|invariant-direction-interpretation]]"
 ---
 # Eigenvectors: The Unchanging Directions of a Transformation
 

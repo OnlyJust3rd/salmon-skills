@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Cloud-Specific IaC Tools"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-parent-competency: "L1- List IaC Tools"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-list-iac-tools|L1-list-iac-tools]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Cloud-Specific IaC Tools

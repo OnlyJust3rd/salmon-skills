@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/inverse-z-transform-via-long-division|Inverse Z-transform via Long Division]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/inverse-z-transform-via-long-division|inverse-z-transform-via-long-division]]"
 ---
 # Inverse Z-transform via Long Division
 

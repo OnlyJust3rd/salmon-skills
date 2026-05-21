@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Market Research Techniques"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Competitor Analysis"
-parent-competency: "L1- List Competitor Methods"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/competitor-analysis/competitor-analysis|competitor-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/competitor-analysis/competencies/L1-list-competitor-methods|L1-list-competitor-methods]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Market Research Techniques

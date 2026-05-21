@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/large-language-models/microskills/information-extraction|Information Extraction]]"
+  - "[[skills/data/ai/large-language-models/microskills/information-extraction|information-extraction]]"
 ---
 # Extracting Structured Facts with Large Language Models
 

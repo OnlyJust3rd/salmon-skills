@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/unified-analytics|Unified Analytics]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/unified-analytics|unified-analytics]]"
 ---
 # Unified Analytics in Lakehouse Architecture
 

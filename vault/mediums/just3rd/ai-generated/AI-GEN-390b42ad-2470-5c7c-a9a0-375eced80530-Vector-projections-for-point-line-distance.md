@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/vector-projections-for-point-line-distance|Vector projections for point-line distance]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/vector-projections-for-point-line-distance|vector-projections-for-point-line-distance]]"
 ---
 # Finding the Shortest Distance from a Point to a Line Using Vector Projections
 

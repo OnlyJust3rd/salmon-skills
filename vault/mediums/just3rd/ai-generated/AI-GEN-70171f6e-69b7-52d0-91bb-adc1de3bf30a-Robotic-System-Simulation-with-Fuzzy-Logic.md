@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/robotic-system-simulation-with-fuzzy-logic|Robotic System Simulation with Fuzzy Logic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/robotic-system-simulation-with-fuzzy-logic|robotic-system-simulation-with-fuzzy-logic]]"
 ---
 # Simulating a Fuzzy Logic Robot for Maze Traversal
 

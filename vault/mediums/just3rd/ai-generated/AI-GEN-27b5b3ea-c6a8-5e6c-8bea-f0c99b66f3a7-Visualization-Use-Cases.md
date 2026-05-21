@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-visualization/microskills/visualization-use-cases|Visualization Use Cases]]"
+  - "[[skills/data/data-platforms/data-visualization/microskills/visualization-use-cases|visualization-use-cases]]"
 ---
 # Understanding Visualization Use Cases
 

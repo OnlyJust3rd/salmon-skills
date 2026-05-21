@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "De Morgan's Theorem Statement"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Logic Fundamentals"
-parent-competency: "L2- De Morgan's Theorems"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/logic-fundamentals|logic-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-de-morgan-s-theorems|L1-de-morgan-s-theorems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # De Morgan's Theorem Statement
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/logic-fundamentals
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L2-de-morgan-s-theorems|L2- De Morgan's Theorems]]
+- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-de-morgan-s-theorems|L2- De Morgan's Theorems]]
 
 ## Description
 

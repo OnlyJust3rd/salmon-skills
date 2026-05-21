@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Usability Testing Validation Role"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Lean Startup"
-parent-competency: "L2- Explain Validation Contribution of Solution Interviews/Testing"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-explain-validation-contribution-of-solution-interviews-testing|L1-explain-validation-contribution-of-solution-interviews-testing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Usability Testing Validation Role
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/lean-startup/lean-startup|Le
 
 Parent competency:
 
-- [[skills/business-it/business-product/lean-startup/competencies/L2-explain-validation-contribution-of-solution-interviews-testing|L2- Explain Validation Contribution of Solution Interviews/Testing]]
+- [[skills/business-it/business-product/lean-startup/competencies/L1-explain-validation-contribution-of-solution-interviews-testing|L2- Explain Validation Contribution of Solution Interviews/Testing]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/direction-vectors-and-line-orientation|Direction vectors and line orientation]]"
+  - "[[skills/mathematics/vector/microskills/direction-vectors-and-line-orientation|direction-vectors-and-line-orientation]]"
 ---
 # Direction Vectors and Line Orientation
 

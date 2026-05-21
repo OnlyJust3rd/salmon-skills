@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "IoT Data Analysis Comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Data Analytics"
-parent-competency: "L4- Differentiate Classification vs Clustering"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/iot-data-analytics/iot-data-analytics|iot-data-analytics]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/iot-data-analytics/competencies/L3-differentiate-classification-vs-clustering|L3-differentiate-classification-vs-clustering]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # IoT Data Analysis Comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/iot-data-analytics/iot-data-analytics
 
 Parent competency:
 
-- [[skills/data/data-platforms/iot-data-analytics/competencies/L4-differentiate-classification-vs-clustering|L4- Differentiate Classification vs Clustering]]
+- [[skills/data/data-platforms/iot-data-analytics/competencies/L3-differentiate-classification-vs-clustering|L4- Differentiate Classification vs Clustering]]
 
 ## Description
 

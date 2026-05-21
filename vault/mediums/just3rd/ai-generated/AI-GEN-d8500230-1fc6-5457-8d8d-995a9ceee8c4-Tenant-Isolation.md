@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/tenant-isolation|Tenant Isolation]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/tenant-isolation|tenant-isolation]]"
 ---
 # Analyzing Tenant Isolation in SaaS
 

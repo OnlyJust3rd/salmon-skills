@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-career-path/microskills/progression-stages|Progression Stages]]"
+  - "[[skills/business-it/business-product/it-career-path/microskills/progression-stages|progression-stages]]"
 ---
 # Understanding Progression Stages in Tech Careers
 

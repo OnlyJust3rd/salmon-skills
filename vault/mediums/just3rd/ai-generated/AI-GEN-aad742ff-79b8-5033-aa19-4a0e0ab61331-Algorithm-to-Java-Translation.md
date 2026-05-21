@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/algorithm-to-java-translation|Algorithm to Java Translation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/algorithm-to-java-translation|algorithm-to-java-translation]]"
 ---
 # Translating Algorithms to Java
 

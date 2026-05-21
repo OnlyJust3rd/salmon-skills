@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-execute-process|Instruction Execute Process]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/instruction-execute-process|instruction-execute-process]]"
 ---
 # The Processor's Instruction Execute Cycle
 

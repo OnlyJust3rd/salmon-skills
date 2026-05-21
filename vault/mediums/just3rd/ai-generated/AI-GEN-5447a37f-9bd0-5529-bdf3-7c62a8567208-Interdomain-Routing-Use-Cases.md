@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/interdomain-routing-use-cases|Interdomain Routing Use Cases]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/interdomain-routing-use-cases|interdomain-routing-use-cases]]"
 ---
 # Interdomain Routing Use Cases
 

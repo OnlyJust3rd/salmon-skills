@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/processor-datapath-data-flow|Processor Datapath Data Flow]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/processor-datapath-data-flow|processor-datapath-data-flow]]"
 ---
 # Processor Datapath Data Flow
 

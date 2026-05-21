@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-behavior-application|Diode Behavior Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-behavior-application|diode-behavior-application]]"
 ---
 # Applying Diode Behavior in Rectifier Circuits
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/parallel-algorithm/microskills/foster-s-methodology-stages|Foster's Methodology Stages]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/foster-s-methodology-stages|foster-s-methodology-stages]]"
 ---
 # Understanding Foster's Methodology Stages for Parallel Algorithm Design
 

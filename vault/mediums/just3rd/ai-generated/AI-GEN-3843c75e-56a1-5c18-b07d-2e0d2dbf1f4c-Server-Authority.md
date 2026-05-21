@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/game-networking/microskills/server-authority|Server Authority]]"
+  - "[[skills/systems/networking/game-networking/microskills/server-authority|server-authority]]"
 ---
 # Server Authority in Multiplayer Games
 

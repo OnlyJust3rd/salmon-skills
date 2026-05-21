@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Proteus 8 Element Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Proteus 8 Simulation"
-parent-competency: "L1- Identify Proteus components"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/proteus-8-simulation|proteus-8-simulation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/competencies/L1-identify-proteus-components|L1-identify-proteus-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Proteus 8 Element Identification

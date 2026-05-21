@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/absolute-convergence-identification|Absolute convergence identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/absolute-convergence-identification|absolute-convergence-identification]]"
 ---
 # Absolute Convergence: Identifying the Strongest Form of Convergence
 

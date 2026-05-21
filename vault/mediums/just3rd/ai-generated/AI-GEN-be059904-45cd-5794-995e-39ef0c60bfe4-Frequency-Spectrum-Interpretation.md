@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/frequency-spectrum-interpretation|Frequency Spectrum Interpretation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/frequency-spectrum-interpretation|frequency-spectrum-interpretation]]"
 ---
 # Frequency Spectrum Interpretation
 

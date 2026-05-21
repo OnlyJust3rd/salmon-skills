@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/instruction|Instruction]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/microskills/instruction|instruction]]"
 ---
 # Specifying the Model Task Clearly in Prompt Engineering
 

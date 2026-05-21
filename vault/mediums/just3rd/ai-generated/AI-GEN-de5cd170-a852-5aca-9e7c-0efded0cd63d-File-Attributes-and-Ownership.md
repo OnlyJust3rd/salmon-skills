@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/file-attributes-and-ownership|File Attributes and Ownership]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/file-attributes-and-ownership|file-attributes-and-ownership]]"
 ---
 # File Attributes and Ownership in Linux
 

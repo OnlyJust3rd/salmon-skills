@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/seasonality-identification-in-iot-data|Seasonality Identification in IoT Data]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/seasonality-identification-in-iot-data|seasonality-identification-in-iot-data]]"
 ---
 # Identifying Seasonality in IoT Data
 

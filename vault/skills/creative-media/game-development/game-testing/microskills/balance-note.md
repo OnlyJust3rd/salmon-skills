@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Balance Note"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Testing"
-parent-competency: "L3- Apply Game Bug Reproduction and Balance Testing Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-testing/game-testing|game-testing]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-testing/competencies/L2-apply-game-bug-reproduction-and-balance-testing-concepts|L2-apply-game-bug-reproduction-and-balance-testing-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Balance Note
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-testing/game-testing
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-testing/competencies/L3-apply-game-bug-reproduction-and-balance-testing-concepts|L3- Apply Game Bug Reproduction and Balance Testing Concepts]]
+- [[skills/creative-media/game-development/game-testing/competencies/L2-apply-game-bug-reproduction-and-balance-testing-concepts|L3- Apply Game Bug Reproduction and Balance Testing Concepts]]
 
 ## Description
 

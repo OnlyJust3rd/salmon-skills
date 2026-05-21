@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-airflow/microskills/task-operator|Task Operator]]"
+  - "[[skills/data/data-platforms/apache-airflow/microskills/task-operator|task-operator]]"
 ---
 # Understanding Airflow Task Operators
 

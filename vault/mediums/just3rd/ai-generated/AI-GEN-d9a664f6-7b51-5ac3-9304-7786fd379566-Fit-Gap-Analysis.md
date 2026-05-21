@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/fit-gap-analysis|Fit-Gap Analysis]]"
+  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/fit-gap-analysis|fit-gap-analysis]]"
 ---
 # Fit-Gap Analysis: Bridging Your Business Needs with ERP Capabilities
 

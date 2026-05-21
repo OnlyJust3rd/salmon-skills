@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/potential-deadlock-identification|Potential Deadlock Identification]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/potential-deadlock-identification|potential-deadlock-identification]]"
 ---
 # Identifying Potential Deadlocks with Resource Allocation Graphs
 

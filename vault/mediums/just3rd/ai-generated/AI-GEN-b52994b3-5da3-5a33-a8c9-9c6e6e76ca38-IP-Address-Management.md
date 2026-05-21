@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/ip-address-management|IP Address Management]]"
+  - "[[skills/systems/networking/network-layer/microskills/ip-address-management|ip-address-management]]"
 ---
 # Understanding the Benefits of Subnetting for IP Address Management
 

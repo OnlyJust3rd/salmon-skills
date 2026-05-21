@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithmic-efficiency-differentiation|Algorithmic Efficiency Differentiation]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithmic-efficiency-differentiation|algorithmic-efficiency-differentiation]]"
 ---
 # Algorithmic Efficiency Differentiation
 

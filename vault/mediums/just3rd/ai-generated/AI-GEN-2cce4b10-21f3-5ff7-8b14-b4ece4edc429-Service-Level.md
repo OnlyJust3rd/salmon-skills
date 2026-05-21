@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-service-management/microskills/service-level|Service Level]]"
+  - "[[skills/business-it/business-product/it-service-management/microskills/service-level|service-level]]"
 ---
 # Understanding Service Levels in IT Service Management
 

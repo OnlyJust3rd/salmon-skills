@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Bare-metal C Constructs"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Bare-metal C Programming"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- C Programming Elements Explanation and Application"
+  - "[[skills/programming/programming-languages/c-programming/competencies/L1-c-programming-elements-explanation-and-application|L1-c-programming-elements-explanation-and-application]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/programming-languages/bare-metal-c-programming/bare-metal-c-programming|bare-metal-c-programming]]"
+requires-microskills:
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/bitwise-operator-identification|bitwise-operator-identification]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/memory-mapped-i-o-concept|memory-mapped-i-o-concept]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-qualifier-purpose|volatile-qualifier-purpose]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Bare-metal C Constructs
@@ -25,7 +27,7 @@ Identify the key C language constructs used in bare-metal embedded programming, 
 
 ## Strict Prerequisites
 
-- [[skills/programming/programming-languages/c-programming/competencies/L2-c-programming-elements-explanation-and-application|L2- C Programming Elements Explanation and Application]]
+- [[skills/programming/programming-languages/c-programming/competencies/L1-c-programming-elements-explanation-and-application|L2- C Programming Elements Explanation and Application]]
 
 ## Optional Prerequisites
 

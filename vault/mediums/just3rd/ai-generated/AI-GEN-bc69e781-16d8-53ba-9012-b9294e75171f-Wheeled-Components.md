@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/wheeled-components|Wheeled Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/wheeled-components|wheeled-components]]"
 ---
 # Robotic Wheeled Components: The Foundation of Movement
 

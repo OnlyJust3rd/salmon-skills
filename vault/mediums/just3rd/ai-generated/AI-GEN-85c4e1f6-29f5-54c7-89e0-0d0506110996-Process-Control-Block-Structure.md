@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-control-block-structure|Process Control Block Structure]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-control-block-structure|process-control-block-structure]]"
 ---
 # Process Control Block (PCB) Structure
 

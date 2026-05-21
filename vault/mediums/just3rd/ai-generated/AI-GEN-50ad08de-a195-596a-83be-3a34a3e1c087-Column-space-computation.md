@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-computation|Column space computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/column-space-computation|column-space-computation]]"
 ---
 # Computing the Column Space of a Matrix
 

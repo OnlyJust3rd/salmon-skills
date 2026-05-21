@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-focused-design|Usability-Focused Design]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-focused-design|usability-focused-design]]"
 ---
 # Designing for Usability: Making Interfaces Easy to Use
 

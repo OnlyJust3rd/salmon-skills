@@ -1,19 +1,32 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Quality Assurance"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 334 - Software Engineering"
-coverage:
-  - "Concept"
-competency-count: 4
-microskill-count: 13
-related-jobs:
-  - "Software Engineer"
-  - "QA Engineer"
-  - "Game QA Tester"
-source-note: "courses/kmutt/cpe-2021/cpe-334-software-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/quality-assurance/competencies/L1-describe-static-analysis-benefits|L1-describe-static-analysis-benefits]]"
+  - "[[skills/programming/software-engineering/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
+  - "[[skills/programming/software-engineering/quality-assurance/competencies/L1-summarize-qa-metrics-importance|L1-summarize-qa-metrics-importance]]"
+  - "[[skills/programming/software-engineering/quality-assurance/competencies/L2-apply-refactoring|L2-apply-refactoring]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/quality-assurance/competencies/L2-apply-refactoring|L2-apply-refactoring]]"
+microskills:
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-readability-enhancement|code-readability-enhancement]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-refactoring-execution|code-refactoring-execution]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-as-qa-activity|code-review-as-qa-activity]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-process|code-review-process]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/code-review-purpose|code-review-purpose]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/common-static-analysis-tools|common-static-analysis-tools]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/key-quality-assurance-metrics|key-quality-assurance-metrics]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/maintainability-improvement|maintainability-improvement]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/process-improvement-enhancement|process-improvement-enhancement]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/quality-assurance-metrics-tracking|quality-assurance-metrics-tracking]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/software-design-improvement|software-design-improvement]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/static-analysis-contribution|static-analysis-contribution]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/static-analysis-tool-impact|static-analysis-tool-impact]]"
 ---
 
 # Quality Assurance
@@ -22,10 +35,10 @@ Explaining professional Quality Assurance (QA) topics, including conducting code
 
 ## Competencies
 
-- [[skills/programming/software-engineering/quality-assurance/competencies/L3-apply-refactoring|L3- Apply Refactoring]]
-- [[skills/programming/software-engineering/quality-assurance/competencies/L2-explain-code-reviews|L2- Explain Code Reviews]]
-- [[skills/programming/software-engineering/quality-assurance/competencies/L2-describe-static-analysis-benefits|L2- Describe Static Analysis Benefits]]
-- [[skills/programming/software-engineering/quality-assurance/competencies/L2-summarize-qa-metrics-importance|L2- Summarize QA Metrics Importance]]
+- [[skills/programming/software-engineering/quality-assurance/competencies/L2-apply-refactoring|L3- Apply Refactoring]]
+- [[skills/programming/software-engineering/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
+- [[skills/programming/software-engineering/quality-assurance/competencies/L1-describe-static-analysis-benefits|L2- Describe Static Analysis Benefits]]
+- [[skills/programming/software-engineering/quality-assurance/competencies/L1-summarize-qa-metrics-importance|L2- Summarize QA Metrics Importance]]
 
 ## Microskills
 

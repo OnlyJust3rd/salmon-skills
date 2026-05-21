@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/lti-system-characterization-via-impulse-response|LTI System Characterization via Impulse Response]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/lti-system-characterization-via-impulse-response|lti-system-characterization-via-impulse-response]]"
 ---
 # Understanding LTI Systems Through Their Impulse Response
 

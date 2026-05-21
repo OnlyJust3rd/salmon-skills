@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/motion-vectors|Motion Vectors]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/motion-vectors|motion-vectors]]"
 ---
 # Understanding Motion Vectors in Video Compression
 

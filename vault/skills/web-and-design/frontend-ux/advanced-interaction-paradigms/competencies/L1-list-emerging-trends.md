@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Emerging Trends"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Advanced Interaction Paradigms"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- HCI Social Interaction Concepts"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/competencies/L1-hci-social-interaction-concepts|L1-hci-social-interaction-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/advanced-interaction-paradigms|advanced-interaction-paradigms]]"
+requires-microskills:
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/emerging-hci-trends|emerging-hci-trends]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/future-hci-capabilities|future-hci-capabilities]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Emerging Trends

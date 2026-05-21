@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/initial-interface-concepts|Initial Interface Concepts]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/initial-interface-concepts|initial-interface-concepts]]"
 ---
 # Initial Interface Concepts
 

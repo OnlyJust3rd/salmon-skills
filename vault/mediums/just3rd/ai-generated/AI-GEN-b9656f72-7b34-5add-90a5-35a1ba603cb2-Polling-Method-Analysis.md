@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/polling-method-analysis|Polling Method Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/polling-method-analysis|polling-method-analysis]]"
 ---
 # Analyzing the Polling Method for I/O Access
 

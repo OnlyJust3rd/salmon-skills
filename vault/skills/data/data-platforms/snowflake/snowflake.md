@@ -1,19 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Snowflake"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-coverage:
-  - "Tool"
-  - "Platform"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Data Analyst"
-  - "Data Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/snowflake/competencies/L1-explain-snowflake-cloud-data-platform-concepts|L1-explain-snowflake-cloud-data-platform-concepts]]"
+  - "[[skills/data/data-platforms/snowflake/competencies/L2-apply-snowflake-warehouse-and-sql-transformation-concepts|L2-apply-snowflake-warehouse-and-sql-transformation-concepts]]"
+standard-competency:
+  - "[[skills/data/data-platforms/snowflake/competencies/L2-apply-snowflake-warehouse-and-sql-transformation-concepts|L2-apply-snowflake-warehouse-and-sql-transformation-concepts]]"
+microskills:
+  - "[[skills/data/data-platforms/snowflake/microskills/secure-sharing|secure-sharing]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/semi-structured-query|semi-structured-query]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/stage|stage]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/transformation-model|transformation-model]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/virtual-warehouse|virtual-warehouse]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/warehouse-sizing|warehouse-sizing]]"
 ---
 
 # Snowflake
@@ -22,8 +26,8 @@ Using Snowflake concepts for cloud data platform architecture, virtual warehouse
 
 ## Competencies
 
-- [[skills/data/data-platforms/snowflake/competencies/L2-explain-snowflake-cloud-data-platform-concepts|L2- Explain Snowflake Cloud Data Platform Concepts]]
-- [[skills/data/data-platforms/snowflake/competencies/L3-apply-snowflake-warehouse-and-sql-transformation-concepts|L3- Apply Snowflake Warehouse and SQL Transformation Concepts]]
+- [[skills/data/data-platforms/snowflake/competencies/L1-explain-snowflake-cloud-data-platform-concepts|L2- Explain Snowflake Cloud Data Platform Concepts]]
+- [[skills/data/data-platforms/snowflake/competencies/L2-apply-snowflake-warehouse-and-sql-transformation-concepts|L3- Apply Snowflake Warehouse and SQL Transformation Concepts]]
 
 ## Microskills
 

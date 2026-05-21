@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/physics-based-analysis-of-test-data|Physics-Based Analysis of Test Data]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/physics-based-analysis-of-test-data|physics-based-analysis-of-test-data]]"
 ---
 # Physics-Based Analysis of Test Data
 

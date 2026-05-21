@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/simulation-data-examination|Simulation Data Examination]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/simulation-data-examination|simulation-data-examination]]"
 ---
 # Examining Proteus Simulation Data
 

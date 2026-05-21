@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Reproduction Steps"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Technical Troubleshooting"
-parent-competency: "L3- Apply Root Cause Analysis for Technical Issues"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/technical-troubleshooting/technical-troubleshooting|technical-troubleshooting]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/technical-troubleshooting/competencies/L2-apply-root-cause-analysis-for-technical-issues|L2-apply-root-cause-analysis-for-technical-issues]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Reproduction Steps
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/technical-troubleshooting/te
 
 Parent competency:
 
-- [[skills/business-it/business-product/technical-troubleshooting/competencies/L3-apply-root-cause-analysis-for-technical-issues|L3- Apply Root Cause Analysis for Technical Issues]]
+- [[skills/business-it/business-product/technical-troubleshooting/competencies/L2-apply-root-cause-analysis-for-technical-issues|L3- Apply Root Cause Analysis for Technical Issues]]
 
 ## Description
 

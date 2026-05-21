@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/texture-compression|Texture Compression]]"
+  - "[[skills/creative-media/game-development/3d-asset-pipeline/microskills/texture-compression|texture-compression]]"
 ---
 # Texture Compression for Real-Time Assets
 

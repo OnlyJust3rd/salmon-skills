@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Compression Ratio vs. Data Fidelity (Transform Coding)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Multimedia Compression"
-parent-competency: "L4- Analyze compression trade-offs"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multimedia-compression/multimedia-compression|multimedia-compression]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multimedia-compression/competencies/L3-analyze-compression-trade-offs|L3-analyze-compression-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Compression Ratio vs. Data Fidelity (Transform Coding)
@@ -15,7 +17,7 @@ Parent macro: [[multimedia-compression|Multimedia Compression]]
 
 Parent competency:
 
-- [[L4-analyze-compression-trade-offs|L4- Analyze compression trade-offs]]
+- [[skills/mathematics/multimedia-compression/competencies/L3-analyze-compression-trade-offs|L4- Analyze compression trade-offs]]
 
 ## Description
 

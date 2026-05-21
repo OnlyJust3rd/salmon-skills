@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/data-transfer-mechanisms-i-o|Data Transfer Mechanisms (I/O)]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/data-transfer-mechanisms-i-o|data-transfer-mechanisms-i-o]]"
 ---
 # Data Transfer Mechanisms in I/O Interaction
 

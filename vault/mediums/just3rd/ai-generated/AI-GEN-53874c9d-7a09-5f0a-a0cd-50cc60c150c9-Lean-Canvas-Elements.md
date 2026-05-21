@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/lean-canvas-elements|Lean Canvas Elements]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/lean-canvas-elements|lean-canvas-elements]]"
 ---
 # Understanding the Lean Canvas Elements
 

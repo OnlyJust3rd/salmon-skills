@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/computer-crime-act-key-components|Computer Crime Act Key Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/thai-digital-law/microskills/computer-crime-act-key-components|computer-crime-act-key-components]]"
 ---
 # Understanding Key Components of Thailand's Computer Crime Act
 

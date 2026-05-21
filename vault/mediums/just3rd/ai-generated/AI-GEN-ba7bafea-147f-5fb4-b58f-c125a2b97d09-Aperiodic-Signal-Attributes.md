@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/aperiodic-signal-attributes|Aperiodic Signal Attributes]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/aperiodic-signal-attributes|aperiodic-signal-attributes]]"
 ---
 # Understanding Aperiodic Signal Attributes
 

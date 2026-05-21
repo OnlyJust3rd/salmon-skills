@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-indexing/microskills/index-trade-offs|Index Trade-offs]]"
+  - "[[skills/data/databases/database-indexing/microskills/index-trade-offs|index-trade-offs]]"
 ---
 # Index Trade-offs: Balancing Speed and Cost
 

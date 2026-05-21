@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/homogeneous-system-definition|Homogeneous system definition]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/homogeneous-system-definition|homogeneous-system-definition]]"
 ---
 # Understanding Homogeneous Linear Systems
 

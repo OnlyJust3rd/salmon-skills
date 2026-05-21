@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/technical-idea-communication|Technical Idea Communication]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/technical-idea-communication|technical-idea-communication]]"
 ---
 # Communicating Technical Ideas: The Foundation
 

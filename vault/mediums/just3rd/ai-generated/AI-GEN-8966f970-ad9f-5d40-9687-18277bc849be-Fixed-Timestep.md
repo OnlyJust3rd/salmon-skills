@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-physics/microskills/fixed-timestep|Fixed Timestep]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/fixed-timestep|fixed-timestep]]"
 ---
 # Fixed Timestep: Stable Physics Updates
 

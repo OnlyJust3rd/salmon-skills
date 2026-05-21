@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/divergence-identification|Divergence identification]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/divergence-identification|divergence-identification]]"
 ---
 # Identifying Divergence in Series
 

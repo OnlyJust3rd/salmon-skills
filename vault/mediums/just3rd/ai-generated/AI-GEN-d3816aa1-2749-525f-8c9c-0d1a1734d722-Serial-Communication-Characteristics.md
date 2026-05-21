@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/serial-communication-characteristics|Serial Communication Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/serial-communication-characteristics|serial-communication-characteristics]]"
 ---
 # Serial Communication Characteristics
 

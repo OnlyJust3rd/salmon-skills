@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/backend-web-api-concept/microskills/domain-and-service-layer|Domain and service layer]]"
+  - "[[skills/web-and-design/backend-api/backend-web-api-concept/microskills/domain-and-service-layer|domain-and-service-layer]]"
 ---
 # The Domain and Service Layers: Where Business Logic Lives
 

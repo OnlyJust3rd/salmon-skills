@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/rc-rl-time-constant-computation|RC/RL Time Constant Computation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/rc-rl-time-constant-computation|rc-rl-time-constant-computation]]"
 ---
 # RC/RL Time Constant Computation
 

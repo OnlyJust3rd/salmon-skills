@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/rendering-success-assessment|Rendering Success Assessment]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/rendering-success-assessment|rendering-success-assessment]]"
 ---
 # Assessing Rendering Success
 

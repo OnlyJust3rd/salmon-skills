@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-definition|Inheritance Definition]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-definition|inheritance-definition]]"
 ---
 # Understanding Inheritance in Object-Oriented Programming
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/uat-execution-and-feedback|UAT execution and feedback]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/uat-execution-and-feedback|uat-execution-and-feedback]]"
 ---
 # Executing User Acceptance Testing (UAT) and Gathering Feedback
 

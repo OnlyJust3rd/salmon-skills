@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/information-flow-in-neural-networks|Information Flow in Neural Networks]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/information-flow-in-neural-networks|information-flow-in-neural-networks]]"
 ---
 # Information Flow in Neural Networks
 

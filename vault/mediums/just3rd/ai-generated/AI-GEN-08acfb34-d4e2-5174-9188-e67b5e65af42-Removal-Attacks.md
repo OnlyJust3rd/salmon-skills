@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attacks|Removal Attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attacks|removal-attacks]]"
 ---
 # Understanding Removal Attacks in Digital Watermarking
 

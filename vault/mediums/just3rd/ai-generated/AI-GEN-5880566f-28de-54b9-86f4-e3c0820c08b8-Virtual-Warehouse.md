@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/snowflake/microskills/virtual-warehouse|Virtual Warehouse]]"
+  - "[[skills/data/data-platforms/snowflake/microskills/virtual-warehouse|virtual-warehouse]]"
 ---
 # Snowflake Virtual Warehouses: The Engine of Your Queries
 

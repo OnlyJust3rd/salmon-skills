@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/application-layer-protocols|Application Layer Protocols]]"
+  - "[[skills/systems/networking/application-layer/microskills/application-layer-protocols|application-layer-protocols]]"
 ---
 # Application Layer Protocols: The Internet's Language
 

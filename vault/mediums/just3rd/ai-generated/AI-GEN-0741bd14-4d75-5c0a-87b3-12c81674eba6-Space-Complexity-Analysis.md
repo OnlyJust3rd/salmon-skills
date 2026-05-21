@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/space-complexity-analysis|Space Complexity Analysis]]"
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/space-complexity-analysis|Space Complexity Analysis]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/space-complexity-analysis|space-complexity-analysis]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/space-complexity-analysis|space-complexity-analysis]]"
 ---
 # Space Complexity Analysis
 

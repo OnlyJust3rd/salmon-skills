@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/pole-location-significance-s-plane|Pole Location Significance (s-plane)]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/pole-location-significance-s-plane|pole-location-significance-s-plane]]"
 ---
 # Pole Location Significance (s-plane)
 

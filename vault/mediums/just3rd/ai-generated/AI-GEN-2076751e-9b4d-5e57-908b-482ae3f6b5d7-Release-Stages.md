@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/release-stages|Release Stages]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/release-stages|release-stages]]"
 ---
 # Understanding Release Stages
 

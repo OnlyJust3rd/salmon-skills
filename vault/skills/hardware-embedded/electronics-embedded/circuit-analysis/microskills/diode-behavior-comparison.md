@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Diode Behavior Comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Circuit Analysis"
-parent-competency: "L4- Ideal vs Non-ideal Diode Analysis"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/circuit-analysis|circuit-analysis]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L3-ideal-vs-non-ideal-diode-analysis|L3-ideal-vs-non-ideal-diode-analysis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Diode Behavior Comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/circuit-analysis/c
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L4-ideal-vs-non-ideal-diode-analysis|L4- Ideal vs Non-ideal Diode Analysis]]
+- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/competencies/L3-ideal-vs-non-ideal-diode-analysis|L4- Ideal vs Non-ideal Diode Analysis]]
 
 ## Description
 

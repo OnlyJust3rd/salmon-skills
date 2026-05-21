@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Big O Notation Significance"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Algorithm Efficiency Analysis"
-parent-competency: "L2- Explain Big O Concept and Complexity"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-efficiency-analysis/algorithm-efficiency-analysis|algorithm-efficiency-analysis]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/competencies/L1-explain-big-o-concept-and-complexity|L1-explain-big-o-concept-and-complexity]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Big O Notation Significance
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-efficiency-analysis/algo
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-efficiency-analysis/competencies/L2-explain-big-o-concept-and-complexity|L2- Explain Big O Concept and Complexity]]
+- [[skills/programming/algorithms/algorithm-efficiency-analysis/competencies/L1-explain-big-o-concept-and-complexity|L2- Explain Big O Concept and Complexity]]
 
 ## Description
 

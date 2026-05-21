@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Product Development Iteration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Lean Startup"
-parent-competency: "L3- Apply Build-Measure-Learn Cycle"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L2-apply-build-measure-learn-cycle|L2-apply-build-measure-learn-cycle]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Product Development Iteration
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/lean-startup/lean-startup|Le
 
 Parent competency:
 
-- [[skills/business-it/business-product/lean-startup/competencies/L3-apply-build-measure-learn-cycle|L3- Apply Build-Measure-Learn Cycle]]
+- [[skills/business-it/business-product/lean-startup/competencies/L2-apply-build-measure-learn-cycle|L3- Apply Build-Measure-Learn Cycle]]
 
 ## Description
 

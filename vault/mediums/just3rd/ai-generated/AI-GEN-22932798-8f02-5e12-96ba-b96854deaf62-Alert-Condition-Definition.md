@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/alert-condition-definition|Alert Condition Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/alert-condition-definition|alert-condition-definition]]"
 ---
 # Defining Alert Conditions: The Heart of Infrastructure Monitoring
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/compression-efficiency-comparison-huffman-vs-dpcm|Compression Efficiency Comparison (Huffman vs. DPCM)]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/compression-efficiency-comparison-huffman-vs-dpcm|compression-efficiency-comparison-huffman-vs-dpcm]]"
 ---
 # Compression Efficiency: Huffman Coding vs. DPCM
 

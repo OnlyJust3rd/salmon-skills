@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-development-lifecycle/microskills/game-development-process-interpretation|Game Development Process Interpretation]]"
+  - "[[skills/creative-media/game-development/game-development-lifecycle/microskills/game-development-process-interpretation|game-development-process-interpretation]]"
 ---
 # Understanding the Game Development Process: Interpreting the Flow
 

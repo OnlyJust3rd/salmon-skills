@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/service-decomposition-thinking|Service Decomposition Thinking]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/service-decomposition-thinking|service-decomposition-thinking]]"
 ---
 # Thinking in Microservices: Decomposing Your System
 

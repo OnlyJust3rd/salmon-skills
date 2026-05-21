@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/clustering-insights-in-iot|Clustering Insights in IoT]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/clustering-insights-in-iot|clustering-insights-in-iot]]"
 ---
 # Uncovering Hidden Patterns: Insights from IoT Data Clustering
 

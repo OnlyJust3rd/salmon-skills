@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/blob-trigger-functionality|Blob Trigger Functionality]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/blob-trigger-functionality|blob-trigger-functionality]]"
 ---
 # Blob Triggers: Reacting to Storage Changes
 

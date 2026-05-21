@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-approaches|Responsibility Assignment Approaches]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-approaches|responsibility-assignment-approaches]]"
 ---
 # Analyzing Responsibility Assignment Approaches
 

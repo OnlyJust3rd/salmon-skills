@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Potential Deadlock Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Deadlock Management"
-parent-competency: "L2- Resource Allocation Graphs"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/deadlock-management/deadlock-management|deadlock-management]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/deadlock-management/competencies/L1-resource-allocation-graphs|L1-resource-allocation-graphs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Potential Deadlock Identification
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/deadlock-management/deadlock-ma
 
 Parent competency:
 
-- [[skills/systems/operating-systems/deadlock-management/competencies/L2-resource-allocation-graphs|L2- Resource Allocation Graphs]]
+- [[skills/systems/operating-systems/deadlock-management/competencies/L1-resource-allocation-graphs|L2- Resource Allocation Graphs]]
 
 ## Description
 

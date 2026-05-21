@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/eye-point|Eye Point]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/eye-point|eye-point]]"
 ---
 # Understanding the Eye Point in Perspective Projection
 

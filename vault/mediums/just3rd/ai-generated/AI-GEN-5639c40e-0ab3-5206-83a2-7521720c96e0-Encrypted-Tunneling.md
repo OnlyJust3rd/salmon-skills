@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/encrypted-tunneling|Encrypted Tunneling]]"
+  - "[[skills/systems/networking/network-layer/microskills/encrypted-tunneling|encrypted-tunneling]]"
 ---
 # Encrypted Tunneling: Building Secure Bridges
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/kernel-computation|Kernel computation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/kernel-computation|kernel-computation]]"
 ---
 # Calculating the Kernel of a Linear Transformation
 

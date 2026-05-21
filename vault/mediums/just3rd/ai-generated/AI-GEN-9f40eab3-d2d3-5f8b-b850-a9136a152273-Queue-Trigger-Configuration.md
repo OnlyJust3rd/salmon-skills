@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/queue-trigger-configuration|Queue Trigger Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/queue-trigger-configuration|queue-trigger-configuration]]"
 ---
 # Queue Trigger Configuration for Serverless Functions
 

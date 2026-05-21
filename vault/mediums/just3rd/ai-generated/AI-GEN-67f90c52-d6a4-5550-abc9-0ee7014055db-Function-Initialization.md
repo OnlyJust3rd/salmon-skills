@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/function-initialization|Function Initialization]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/function-initialization|function-initialization]]"
 ---
 # Function Initialization: The Warm-Up Act for Serverless Functions
 

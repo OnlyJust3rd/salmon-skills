@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-structural-analysis|Cluster Computing Structural Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-structural-analysis|cluster-computing-structural-analysis]]"
 ---
 # Cluster Computing Structural Analysis
 

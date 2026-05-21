@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|OS Service Utilization by Utilities]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|os-service-utilization-by-utilities]]"
 ---
 # Interacting with the Operating System: A Simple File Utility
 

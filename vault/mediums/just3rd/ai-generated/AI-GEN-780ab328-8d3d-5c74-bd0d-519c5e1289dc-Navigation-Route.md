@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/flutter/microskills/navigation-route|Navigation Route]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/navigation-route|navigation-route]]"
 ---
 # Navigation Routes in Flutter
 

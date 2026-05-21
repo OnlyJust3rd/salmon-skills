@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/unit-test-result-interpretation|Unit test result interpretation]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/unit-test-result-interpretation|unit-test-result-interpretation]]"
 ---
 # Interpreting Unit Test Results
 

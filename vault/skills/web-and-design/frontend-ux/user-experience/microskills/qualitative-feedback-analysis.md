@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Qualitative Feedback Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "User Experience"
-parent-competency: "L2- Interpret User Feedback"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/user-experience/user-experience|user-experience]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/user-experience/competencies/L1-interpret-user-feedback|L1-interpret-user-feedback]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Qualitative Feedback Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/user-experience/user-experienc
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/user-experience/competencies/L2-interpret-user-feedback|L2- Interpret User Feedback]]
+- [[skills/web-and-design/frontend-ux/user-experience/competencies/L1-interpret-user-feedback|L2- Interpret User Feedback]]
 
 ## Description
 

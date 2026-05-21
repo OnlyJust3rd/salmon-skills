@@ -1,17 +1,22 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "OpenMP"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-coverage:
-  - "Implementation"
-  - "ToolUsage"
-competency-count: 2
-microskill-count: 5
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-372-high-performance-computing-and-cloud-technologies"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/high-performance-computing/openmp/competencies/L1-explain-openmp-concepts-and-directives|L1-explain-openmp-concepts-and-directives]]"
+  - "[[skills/systems/high-performance-computing/openmp/competencies/L2-implement-openmp-program|L2-implement-openmp-program]]"
+standard-competency:
+  - "[[skills/systems/high-performance-computing/openmp/competencies/L2-implement-openmp-program|L2-implement-openmp-program]]"
+microskills:
+  - "[[skills/systems/high-performance-computing/openmp/microskills/computational-problem-parallelization|computational-problem-parallelization]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/functional-parallel-program-development|functional-parallel-program-development]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/openmp-directive-application|openmp-directive-application]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/openmp-directive-semantics|openmp-directive-semantics]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/shared-memory-parallel-model|shared-memory-parallel-model]]"
 ---
 
 # OpenMP
@@ -20,8 +25,8 @@ Implementing shared-memory parallel programs using OpenMP directives, work-shari
 
 ## Competencies
 
-- [[skills/systems/high-performance-computing/openmp/competencies/L2-explain-openmp-concepts-and-directives|L2- Explain OpenMP Concepts and Directives]]
-- [[skills/systems/high-performance-computing/openmp/competencies/L3-implement-openmp-program|L3- Implement OpenMP program]]
+- [[skills/systems/high-performance-computing/openmp/competencies/L1-explain-openmp-concepts-and-directives|L2- Explain OpenMP Concepts and Directives]]
+- [[skills/systems/high-performance-computing/openmp/competencies/L2-implement-openmp-program|L3- Implement OpenMP program]]
 
 ## Microskills
 

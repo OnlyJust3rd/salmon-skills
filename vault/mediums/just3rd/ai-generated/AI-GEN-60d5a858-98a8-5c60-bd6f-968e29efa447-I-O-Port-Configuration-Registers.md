@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/i-o-port-configuration-registers|I/O Port Configuration Registers]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/i-o-port-configuration-registers|i-o-port-configuration-registers]]"
 ---
 # I/O Port Configuration Registers: Controlling Your AVR's Pins
 

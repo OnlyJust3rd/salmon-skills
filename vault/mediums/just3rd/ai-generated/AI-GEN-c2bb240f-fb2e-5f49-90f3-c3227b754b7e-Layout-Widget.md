@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/flutter/microskills/layout-widget|Layout Widget]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/layout-widget|layout-widget]]"
 ---
 # Understanding Flutter Layout Widgets
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/direction-vector-identification|Direction vector identification]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/direction-vector-identification|direction-vector-identification]]"
 ---
 # Identifying Direction Vectors in 3D Geometric Equations
 

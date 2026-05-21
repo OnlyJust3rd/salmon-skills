@@ -1,18 +1,30 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Reinforcement Learning"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 342 - Machine Learning"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 12
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-342-machine-learning"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/ai/reinforcement-learning/competencies/L1-define-rl-components|L1-define-rl-components]]"
+  - "[[skills/data/ai/reinforcement-learning/competencies/L1-explain-rl-approaches|L1-explain-rl-approaches]]"
+  - "[[skills/data/ai/reinforcement-learning/competencies/L2-implement-q-learning|L2-implement-q-learning]]"
+standard-competency:
+  - "[[skills/data/ai/reinforcement-learning/competencies/L2-implement-q-learning|L2-implement-q-learning]]"
+microskills:
+  - "[[skills/data/ai/reinforcement-learning/microskills/action-definition|action-definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/agent-definition|agent-definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/approach-comparison|approach-comparison]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/environment-definition|environment-definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/exploration-vs-exploitation-strategy|exploration-vs-exploitation-strategy]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/grid-world-problem-simulation|grid-world-problem-simulation]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/model-based-rl-principles|model-based-rl-principles]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/model-free-rl-principles|model-free-rl-principles]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/q-table-implementation|q-table-implementation]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/q-value-update-mechanism|q-value-update-mechanism]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/reward-definition|reward-definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/state-definition|state-definition]]"
 ---
 
 # Reinforcement Learning
@@ -22,8 +34,8 @@ Applying reinforcement learning techniques to model and solve sequential decisio
 ## Competencies
 
 - [[skills/data/ai/reinforcement-learning/competencies/L1-define-rl-components|L1- Define RL Components]]
-- [[skills/data/ai/reinforcement-learning/competencies/L2-explain-rl-approaches|L2- Explain RL Approaches]]
-- [[skills/data/ai/reinforcement-learning/competencies/L3-implement-q-learning|L3- Implement Q-learning]]
+- [[skills/data/ai/reinforcement-learning/competencies/L1-explain-rl-approaches|L2- Explain RL Approaches]]
+- [[skills/data/ai/reinforcement-learning/competencies/L2-implement-q-learning|L3- Implement Q-learning]]
 
 ## Microskills
 

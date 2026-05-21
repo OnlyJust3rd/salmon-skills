@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/game-loop|Game Loop]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/game-loop|game-loop]]"
 ---
 # The Game Loop: The Heartbeat of Your Game
 

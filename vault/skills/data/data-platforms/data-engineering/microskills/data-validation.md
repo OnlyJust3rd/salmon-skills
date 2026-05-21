@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Data Validation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Data Engineering"
-parent-competency: "L3- Apply Batch Data Pipeline Processing"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-engineering/data-engineering|data-engineering]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-engineering/competencies/L2-apply-batch-data-pipeline-processing|L2-apply-batch-data-pipeline-processing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Data Validation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-engineering/data-engineering|Dat
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-engineering/competencies/L3-apply-batch-data-pipeline-processing|L3- Apply Batch Data Pipeline Processing]]
+- [[skills/data/data-platforms/data-engineering/competencies/L2-apply-batch-data-pipeline-processing|L3- Apply Batch Data Pipeline Processing]]
 
 ## Description
 

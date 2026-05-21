@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/component-boundaries|Component boundaries]]"
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/component-boundaries|component-boundaries]]"
 ---
 # Defining Component Boundaries
 

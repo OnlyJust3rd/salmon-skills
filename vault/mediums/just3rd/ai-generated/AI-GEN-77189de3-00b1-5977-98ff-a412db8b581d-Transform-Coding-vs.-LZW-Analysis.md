@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/transform-coding-vs-lzw-analysis|Transform Coding vs. LZW Analysis]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/transform-coding-vs-lzw-analysis|transform-coding-vs-lzw-analysis]]"
 ---
 # Analyzing Compression Trade-offs: Transform Coding vs. LZW
 

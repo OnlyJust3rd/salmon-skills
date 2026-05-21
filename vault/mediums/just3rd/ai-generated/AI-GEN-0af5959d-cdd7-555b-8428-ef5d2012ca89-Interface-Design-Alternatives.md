@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interface-design-alternatives|Interface Design Alternatives]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/interface-design-alternatives|interface-design-alternatives]]"
 ---
 # Exploring Interface Design Alternatives
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-engineering/microskills/batch-processing|Batch Processing]]"
+  - "[[skills/data/data-platforms/data-engineering/microskills/batch-processing|batch-processing]]"
 ---
 # Batch Processing: Processing Data in Groups
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cost-performance-justification|Cost/Performance Justification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cost-performance-justification|cost-performance-justification]]"
 ---
 # Justifying Memory Hierarchy Configurations: Cost vs. Performance
 

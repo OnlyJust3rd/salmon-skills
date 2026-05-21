@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/large-language-models/microskills/classification|Classification]]"
+  - "[[skills/data/ai/large-language-models/microskills/classification|classification]]"
 ---
 # Text Classification with Large Language Models
 

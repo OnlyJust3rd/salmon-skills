@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pin-assignment-and-constraints|Pin Assignment and Constraints]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pin-assignment-and-constraints|pin-assignment-and-constraints]]"
 ---
 # Pin Assignment and Constraints for FPGA Deployment
 

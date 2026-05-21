@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/irr-calculation-and-analysis|IRR Calculation and Analysis]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/irr-calculation-and-analysis|irr-calculation-and-analysis]]"
 ---
 # Understanding and Calculating Internal Rate of Return (IRR)
 

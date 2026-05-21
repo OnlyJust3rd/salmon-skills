@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/manual-mode|Manual Mode]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/manual-mode|manual-mode]]"
 ---
 # Understanding Manual Mode in Cursor AI
 

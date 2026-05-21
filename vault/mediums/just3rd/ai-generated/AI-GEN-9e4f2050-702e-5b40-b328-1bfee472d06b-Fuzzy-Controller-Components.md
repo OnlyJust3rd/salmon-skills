@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/fuzzy-controller-components|Fuzzy Controller Components]]"
+  - "[[skills/data/ai/soft-computing/microskills/fuzzy-controller-components|fuzzy-controller-components]]"
 ---
 # Fuzzy Controller Components: The Building Blocks of Fuzzy Logic Systems
 

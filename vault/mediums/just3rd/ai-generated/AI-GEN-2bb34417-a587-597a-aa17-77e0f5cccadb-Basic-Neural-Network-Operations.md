@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/basic-neural-network-operations|Basic Neural Network Operations]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/basic-neural-network-operations|basic-neural-network-operations]]"
 ---
 # Basic Neural Network Operations
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/virtual-machine-scale-sets-vmss|Virtual Machine Scale Sets (VMSS)]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/virtual-machine-scale-sets-vmss|virtual-machine-scale-sets-vmss]]"
 ---
 # Understanding Virtual Machine Scale Sets (VMSS)
 

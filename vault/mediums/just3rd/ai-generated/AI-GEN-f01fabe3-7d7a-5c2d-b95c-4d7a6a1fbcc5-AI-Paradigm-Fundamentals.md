@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/ai-paradigm-fundamentals|AI Paradigm Fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/ai-paradigm-fundamentals|ai-paradigm-fundamentals]]"
 ---
 # Understanding Behavior-Based AI Fundamentals
 

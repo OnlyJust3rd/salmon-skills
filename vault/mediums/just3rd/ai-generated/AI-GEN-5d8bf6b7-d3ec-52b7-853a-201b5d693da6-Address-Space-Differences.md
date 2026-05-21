@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/address-space-differences|Address Space Differences]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/address-space-differences|address-space-differences]]"
 ---
 # Understanding Address Space Differences
 

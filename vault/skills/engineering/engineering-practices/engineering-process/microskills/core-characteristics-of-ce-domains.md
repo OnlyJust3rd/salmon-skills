@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Core Characteristics of CE Domains"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Engineering Process"
-parent-competency: "L2- Understand and Differentiate CE Domain Contexts"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/engineering-process/engineering-process|engineering-process]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/engineering-process/competencies/L1-understand-and-differentiate-ce-domain-contexts|L1-understand-and-differentiate-ce-domain-contexts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Core Characteristics of CE Domains
@@ -15,7 +17,7 @@ Parent macro: [[skills/engineering/engineering-practices/engineering-process/eng
 
 Parent competency:
 
-- [[skills/engineering/engineering-practices/engineering-process/competencies/L2-understand-and-differentiate-ce-domain-contexts|L2- Understand and Differentiate CE Domain Contexts]]
+- [[skills/engineering/engineering-practices/engineering-process/competencies/L1-understand-and-differentiate-ce-domain-contexts|L2- Understand and Differentiate CE Domain Contexts]]
 
 ## Description
 

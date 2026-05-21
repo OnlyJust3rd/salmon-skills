@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-application|Digital Watermarking Application]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/digital-watermarking-application|digital-watermarking-application]]"
 ---
 # Digital Watermarking Application
 

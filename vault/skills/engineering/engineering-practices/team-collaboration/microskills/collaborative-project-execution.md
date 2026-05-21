@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Collaborative Project Execution"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Team Collaboration"
-parent-competency: "L3- Apply Team Project Planning and Collaboration"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/team-collaboration/team-collaboration|team-collaboration]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/team-collaboration/competencies/L2-apply-team-project-planning-and-collaboration|L2-apply-team-project-planning-and-collaboration]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Collaborative Project Execution
@@ -15,7 +17,7 @@ Parent macro: [[skills/engineering/engineering-practices/team-collaboration/team
 
 Parent competency:
 
-- [[skills/engineering/engineering-practices/team-collaboration/competencies/L3-apply-team-project-planning-and-collaboration|L3- Apply Team Project Planning and Collaboration]]
+- [[skills/engineering/engineering-practices/team-collaboration/competencies/L2-apply-team-project-planning-and-collaboration|L3- Apply Team Project Planning and Collaboration]]
 
 ## Description
 

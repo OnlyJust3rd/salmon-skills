@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/future-hci-capabilities|Future HCI Capabilities]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/future-hci-capabilities|future-hci-capabilities]]"
 ---
 # Future HCI Capabilities: Anticipating Tomorrow's Interactions
 

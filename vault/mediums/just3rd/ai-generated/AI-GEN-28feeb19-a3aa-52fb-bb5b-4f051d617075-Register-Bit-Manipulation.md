@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/register-bit-manipulation|Register Bit Manipulation]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/register-bit-manipulation|register-bit-manipulation]]"
 ---
 # Register Bit Manipulation for AVR Communication
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "IoT Workflow Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "Internet of Things"
-parent-competency: "L3- Utilize Low-Code for IoT Workflows"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/robotics-iot/internet-of-things/internet-of-things|internet-of-things]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L2-utilize-low-code-for-iot-workflows|L2-utilize-low-code-for-iot-workflows]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # IoT Workflow Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/robotics-iot/internet-of-things/interne
 
 Parent competency:
 
-- [[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L3-utilize-low-code-for-iot-workflows|L3- Utilize Low-Code for IoT Workflows]]
+- [[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L2-utilize-low-code-for-iot-workflows|L3- Utilize Low-Code for IoT Workflows]]
 
 ## Description
 

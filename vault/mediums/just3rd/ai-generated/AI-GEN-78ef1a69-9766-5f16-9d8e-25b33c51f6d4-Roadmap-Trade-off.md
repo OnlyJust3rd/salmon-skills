@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/product-strategy/microskills/roadmap-trade-off|Roadmap Trade-off]]"
+  - "[[skills/business-it/business-product/product-strategy/microskills/roadmap-trade-off|roadmap-trade-off]]"
 ---
 # Roadmap Trade-offs: Balancing Value, Effort, Dependency, and Risk
 

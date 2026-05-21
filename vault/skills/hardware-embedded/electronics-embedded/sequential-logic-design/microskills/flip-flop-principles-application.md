@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Flip-Flop Principles Application"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Sequential Logic Design"
-parent-competency: "L3- Apply Flip-Flops to Counters"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/sequential-logic-design|sequential-logic-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L2-apply-flip-flops-to-counters|L2-apply-flip-flops-to-counters]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Flip-Flop Principles Application
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/sequential-logic-d
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L3-apply-flip-flops-to-counters|L3- Apply Flip-Flops to Counters]]
+- [[skills/hardware-embedded/electronics-embedded/sequential-logic-design/competencies/L2-apply-flip-flops-to-counters|L3- Apply Flip-Flops to Counters]]
 
 ## Description
 

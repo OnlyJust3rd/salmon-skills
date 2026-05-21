@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/deliverable-review|Deliverable Review]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/deliverable-review|deliverable-review]]"
 ---
 # Deliverable Review in Claude Cowork
 

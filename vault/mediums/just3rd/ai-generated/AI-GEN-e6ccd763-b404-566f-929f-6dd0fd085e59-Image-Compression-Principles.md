@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/image-compression-principles|Image Compression Principles]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/image-compression-principles|image-compression-principles]]"
 ---
 # Understanding Image Compression: The Basics
 

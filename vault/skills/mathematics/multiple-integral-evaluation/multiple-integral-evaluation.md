@@ -1,18 +1,51 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Multiple Integral Evaluation"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 102 - Mathematics II"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-  - "Transformation"
-competency-count: 6
-microskill-count: 29
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-102-mathematics-ii"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L1-coordinate-conversion-formulas|L1-coordinate-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L1-recall-integral-definitions|L1-recall-integral-definitions]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L1-explain-integral-interpretation|L1-explain-integral-interpretation]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L1-geometric-interpretation-of-coordinate-systems|L1-geometric-interpretation-of-coordinate-systems]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L2-apply-coordinate-transformations-for-integration|L2-apply-coordinate-transformations-for-integration]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L2-evaluate-multiple-integrals-in-rectangular-coordinates|L2-evaluate-multiple-integrals-in-rectangular-coordinates]]"
+standard-competency:
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L2-apply-coordinate-transformations-for-integration|L2-apply-coordinate-transformations-for-integration]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L2-evaluate-multiple-integrals-in-rectangular-coordinates|L2-evaluate-multiple-integrals-in-rectangular-coordinates]]"
+microskills:
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/area-calculation-using-double-integrals|area-calculation-using-double-integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/area-problems-using-coordinate-transformations|area-problems-using-coordinate-transformations]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/coordinate-systems-for-area-calculation|coordinate-systems-for-area-calculation]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/coordinate-systems-for-volume-calculation|coordinate-systems-for-volume-calculation]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/cylindrical-coordinate-transformation-for-triple-integrals|cylindrical-coordinate-transformation-for-triple-integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/cylindrical-to-rectangular-conversion-formulas|cylindrical-to-rectangular-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-definition|double-integral-definition]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-evaluation-rectangular|double-integral-evaluation-rectangular]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-geometric-interpretation-volume|double-integral-geometric-interpretation-volume]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-interpretation-in-polar-coordinates|double-integral-interpretation-in-polar-coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-setup-rectangular|double-integral-setup-rectangular]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/evaluation-of-double-integrals-in-polar-coordinates|evaluation-of-double-integrals-in-polar-coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/evaluation-of-triple-integrals-in-cylindrical-coordinates|evaluation-of-triple-integrals-in-cylindrical-coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/evaluation-of-triple-integrals-in-spherical-coordinates|evaluation-of-triple-integrals-in-spherical-coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/polar-coordinate-transformation-for-double-integrals|polar-coordinate-transformation-for-double-integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/polar-to-rectangular-conversion-formulas|polar-to-rectangular-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/rectangular-to-cylindrical-conversion-formulas|rectangular-to-cylindrical-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/rectangular-to-polar-conversion-formulas|rectangular-to-polar-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/rectangular-to-spherical-conversion-formulas|rectangular-to-spherical-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/spherical-coordinate-transformation-for-triple-integrals|spherical-coordinate-transformation-for-triple-integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/spherical-to-rectangular-conversion-formulas|spherical-to-rectangular-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-definition|triple-integral-definition]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-evaluation-rectangular|triple-integral-evaluation-rectangular]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-geometric-interpretation-hypervolume|triple-integral-geometric-interpretation-hypervolume]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-interpretation-in-cylindrical-coordinates|triple-integral-interpretation-in-cylindrical-coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-interpretation-in-spherical-coordinates|triple-integral-interpretation-in-spherical-coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-setup-rectangular|triple-integral-setup-rectangular]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/volume-calculation-using-triple-integrals|volume-calculation-using-triple-integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/volume-problems-using-coordinate-transformations|volume-problems-using-coordinate-transformations]]"
 ---
 
 # Multiple Integral Evaluation
@@ -21,12 +54,12 @@ Ability to set up and evaluate double integrals over plane regions and triple in
 
 ## Competencies
 
-- [[L1-recall-integral-definitions|L1- Recall Integral Definitions]]
-- [[L2-explain-integral-interpretation|L2- Explain Integral Interpretation]]
-- [[L3-evaluate-multiple-integrals-in-rectangular-coordinates|L3- Evaluate Multiple Integrals in Rectangular Coordinates]]
-- [[L1-coordinate-conversion-formulas|L1- Coordinate Conversion Formulas]]
-- [[L2-geometric-interpretation-of-coordinate-systems|L2- Geometric Interpretation of Coordinate Systems]]
-- [[L3-apply-coordinate-transformations-for-integration|L3- Apply Coordinate Transformations for Integration]]
+- [[skills/mathematics/multiple-integral-evaluation/competencies/L1-recall-integral-definitions|L1- Recall Integral Definitions]]
+- [[skills/mathematics/multiple-integral-evaluation/competencies/L1-explain-integral-interpretation|L2- Explain Integral Interpretation]]
+- [[skills/mathematics/multiple-integral-evaluation/competencies/L2-evaluate-multiple-integrals-in-rectangular-coordinates|L3- Evaluate Multiple Integrals in Rectangular Coordinates]]
+- [[skills/mathematics/multiple-integral-evaluation/competencies/L1-coordinate-conversion-formulas|L1- Coordinate Conversion Formulas]]
+- [[skills/mathematics/multiple-integral-evaluation/competencies/L1-geometric-interpretation-of-coordinate-systems|L2- Geometric Interpretation of Coordinate Systems]]
+- [[skills/mathematics/multiple-integral-evaluation/competencies/L2-apply-coordinate-transformations-for-integration|L3- Apply Coordinate Transformations for Integration]]
 
 ## Microskills
 

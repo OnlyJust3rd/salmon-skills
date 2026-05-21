@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/google-bigquery/microskills/serverless-query-execution|Serverless Query Execution]]"
+  - "[[skills/data/data-platforms/google-bigquery/microskills/serverless-query-execution|serverless-query-execution]]"
 ---
 # Serverless Query Execution in BigQuery
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Replication"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Networking"
-parent-competency: "L2- Explain Multiplayer Networking Concepts"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/game-networking/game-networking|game-networking]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/game-networking/competencies/L1-explain-multiplayer-networking-concepts|L1-explain-multiplayer-networking-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Replication
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/game-networking/game-networking|Game N
 
 Parent competency:
 
-- [[skills/systems/networking/game-networking/competencies/L2-explain-multiplayer-networking-concepts|L2- Explain Multiplayer Networking Concepts]]
+- [[skills/systems/networking/game-networking/competencies/L1-explain-multiplayer-networking-concepts|L2- Explain Multiplayer Networking Concepts]]
 
 ## Description
 

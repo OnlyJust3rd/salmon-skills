@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Image and MPEG compression fundamentals"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Image Compression"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Image Representations"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L1-image-representations|L1-image-representations]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/graphics-media/image-compression/image-compression|image-compression]]"
+requires-microskills:
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/image-compression-principles|image-compression-principles]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/inter-frame-compression-concepts|inter-frame-compression-concepts]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/intra-frame-compression-concepts|intra-frame-compression-concepts]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/motion-vectors|motion-vectors]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/mpeg-compression-fundamentals|mpeg-compression-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Image and MPEG compression fundamentals

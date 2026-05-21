@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/technology-adoption-lifecycle-stages|Technology Adoption Lifecycle Stages]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/technology-adoption-lifecycle-stages|technology-adoption-lifecycle-stages]]"
 ---
 # Understanding the Technology Adoption Lifecycle Stages
 

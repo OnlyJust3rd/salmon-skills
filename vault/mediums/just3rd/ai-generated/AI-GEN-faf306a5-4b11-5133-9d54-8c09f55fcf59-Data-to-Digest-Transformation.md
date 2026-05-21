@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/data-to-digest-transformation|Data to Digest Transformation]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/data-to-digest-transformation|data-to-digest-transformation]]"
 ---
 # Data to Digest Transformation: The Magic of Hash Functions
 

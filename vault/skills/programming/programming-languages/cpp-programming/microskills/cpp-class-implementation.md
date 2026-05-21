@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "C++ Class Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "C++ Programming"
-parent-competency: "L3- Implement Basic C++ Programs"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/cpp-programming/cpp-programming|cpp-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/cpp-programming/competencies/L2-implement-basic-cpp-programs|L2-implement-basic-cpp-programs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # C++ Class Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/cpp-programming/cpp-pro
 
 Parent competency:
 
-- [[skills/programming/programming-languages/cpp-programming/competencies/L3-implement-basic-cpp-programs|L3- Implement Basic C++ Programs]]
+- [[skills/programming/programming-languages/cpp-programming/competencies/L2-implement-basic-cpp-programs|L3- Implement Basic C++ Programs]]
 
 ## Description
 

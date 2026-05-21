@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/requirement-documentation|Requirement Documentation]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/requirement-documentation|requirement-documentation]]"
 ---
 # Documenting User Requirements
 

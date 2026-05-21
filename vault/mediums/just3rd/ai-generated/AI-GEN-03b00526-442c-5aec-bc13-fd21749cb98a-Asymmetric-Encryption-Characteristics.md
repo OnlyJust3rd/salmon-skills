@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/asymmetric-encryption-characteristics|Asymmetric Encryption Characteristics]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/asymmetric-encryption-characteristics|asymmetric-encryption-characteristics]]"
 ---
 # Asymmetric Encryption Characteristics: A Deep Dive
 

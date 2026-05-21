@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Task encapsulation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "Modular Program Design"
-parent-competency: "L3- Implement Functions"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/modular-program-design/modular-program-design|modular-program-design]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/modular-program-design/competencies/L2-implement-functions|L2-implement-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Task encapsulation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/modular-program-design/m
 
 Parent competency:
 
-- [[skills/programming/software-engineering/modular-program-design/competencies/L3-implement-functions|L3- Implement Functions]]
+- [[skills/programming/software-engineering/modular-program-design/competencies/L2-implement-functions|L3- Implement Functions]]
 
 ## Description
 

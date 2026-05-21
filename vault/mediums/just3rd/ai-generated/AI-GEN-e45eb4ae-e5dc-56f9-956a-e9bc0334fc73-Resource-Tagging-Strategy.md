@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/resource-tagging-strategy|Resource Tagging Strategy]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/resource-tagging-strategy|resource-tagging-strategy]]"
 ---
 # Implementing a Resource Tagging Strategy
 

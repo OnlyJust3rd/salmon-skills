@@ -1,19 +1,93 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Infrastructure as Code"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 15
-microskill-count: 56
-related-jobs:
-  - "DevOps Engineer"
-  - "Cloud Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-define-iac|L1-define-iac]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-iac-concepts|L1-iac-concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-list-iac-tools|L1-list-iac-tools]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-explain-declarative-automation|L1-explain-declarative-automation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-explain-iac-principles|L1-explain-iac-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-explain-terraform-blocks|L1-explain-terraform-blocks]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-terraform-state-and-idempotency|L1-terraform-state-and-idempotency]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-iac-principles|L2-apply-iac-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L2-apply-terraform-building-blocks]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-yaml-for-kubernetes|L2-apply-yaml-for-kubernetes]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-provision-infrastructure-with-bicep|L2-provision-infrastructure-with-bicep]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-provision-kubernetes-resource-with-terraform|L2-provision-kubernetes-resource-with-terraform]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-terraform-provisioning|L2-terraform-provisioning]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-use-data-sources|L2-use-data-sources]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-contrast-automation-approaches|L3-contrast-automation-approaches]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-iac-principles|L2-apply-iac-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L2-apply-terraform-building-blocks]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-yaml-for-kubernetes|L2-apply-yaml-for-kubernetes]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-provision-infrastructure-with-bicep|L2-provision-infrastructure-with-bicep]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-provision-kubernetes-resource-with-terraform|L2-provision-kubernetes-resource-with-terraform]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-terraform-provisioning|L2-terraform-provisioning]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-use-data-sources|L2-use-data-sources]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-contrast-automation-approaches|L3-contrast-automation-approaches]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/ansible|ansible]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automated-infrastructure-deployment|automated-infrastructure-deployment]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-and-orchestration|automation-and-orchestration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-approach-comparison|automation-approach-comparison]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-logic|automation-logic]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/azure-bicep-syntax|azure-bicep-syntax]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/benefits-of-iac|benefits-of-iac]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/bicep-deployment-commands|bicep-deployment-commands]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/bicep-resource-definition|bicep-resource-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/chef|chef]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/cloud-specific-iac-tools|cloud-specific-iac-tools]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/consistency-and-repeatability|consistency-and-repeatability]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-automation-principles|declarative-automation-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-automation|declarative-automation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-infrastructure-definition|declarative-infrastructure-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/desired-state-definition|desired-state-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/dynamic-configuration|dynamic-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/external-information-retrieval|external-information-retrieval]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/iac-benefits|iac-benefits]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-enforcement|idempotency-enforcement]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-in-declarative-systems|idempotency-in-declarative-systems]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/idempotency-in-provisioning|idempotency-in-provisioning]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/imperative-automation-principles|imperative-automation-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/imperative-automation|imperative-automation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|infrastructure-as-code-best-practices]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-definition|infrastructure-as-code-definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-consistency|infrastructure-consistency]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-definition-through-code|infrastructure-definition-through-code]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-orchestration|infrastructure-orchestration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-provisioning|infrastructure-provisioning]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-resource-provisioning|infrastructure-resource-provisioning]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-api-interaction|kubernetes-api-interaction]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-object-configuration|kubernetes-object-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|kubernetes-resource-definition-in-terraform]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-manifests|kubernetes-resource-manifests]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/puppet|puppet]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/state-management-techniques|state-management-techniques]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-apply-for-kubernetes|terraform-apply-for-kubernetes]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-commands|terraform-commands]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-data-source-configuration|terraform-data-source-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-kubernetes-provider|terraform-kubernetes-provider]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-output-block|terraform-output-block]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-outputs|terraform-outputs]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-provider-block|terraform-provider-block]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-providers|terraform-providers]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-resource-block|terraform-resource-block]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-resources|terraform-resources]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-state-file|terraform-state-file]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-state-management|terraform-state-management]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-variable-block|terraform-variable-block]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-variables|terraform-variables]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform|terraform]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/use-cases-for-automation-approaches|use-cases-for-automation-approaches]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/use-cases-for-declarative-automation|use-cases-for-declarative-automation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/version-control-for-infrastructure|version-control-for-infrastructure]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|yaml-structure-for-kubernetes]]"
 ---
 
 # Infrastructure as Code
@@ -23,19 +97,19 @@ Define infrastructure through code using Infrastructure as Code (IaC) principles
 ## Competencies
 
 - [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-define-iac|L1- Define IaC]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L4-contrast-automation-approaches|L4- Contrast automation approaches]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-terraform-provisioning|L3- Terraform Provisioning]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-apply-terraform-building-blocks|L3- Apply Terraform Building Blocks]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-use-data-sources|L3- Use Data Sources]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-provision-infrastructure-with-bicep|L3- Provision Infrastructure with Bicep]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-apply-iac-principles|L3- Apply IaC Principles]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-terraform-state-and-idempotency|L2- Terraform State and Idempotency]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-contrast-automation-approaches|L4- Contrast automation approaches]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-terraform-provisioning|L3- Terraform Provisioning]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L3- Apply Terraform Building Blocks]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-use-data-sources|L3- Use Data Sources]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-provision-infrastructure-with-bicep|L3- Provision Infrastructure with Bicep]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-iac-principles|L3- Apply IaC Principles]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-terraform-state-and-idempotency|L2- Terraform State and Idempotency]]
 - [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-list-iac-tools|L1- List IaC Tools]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-explain-iac-principles|L2- Explain IaC Principles]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-explain-terraform-blocks|L2- Explain Terraform Blocks]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-provision-kubernetes-resource-with-terraform|L3- Provision Kubernetes Resource with Terraform]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-apply-yaml-for-kubernetes|L3- Apply YAML for Kubernetes]]
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-explain-declarative-automation|L2- Explain Declarative Automation]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-explain-iac-principles|L2- Explain IaC Principles]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-explain-terraform-blocks|L2- Explain Terraform Blocks]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-provision-kubernetes-resource-with-terraform|L3- Provision Kubernetes Resource with Terraform]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-apply-yaml-for-kubernetes|L3- Apply YAML for Kubernetes]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-explain-declarative-automation|L2- Explain Declarative Automation]]
 - [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-iac-concepts|L1- IaC Concepts]]
 
 ## Microskills

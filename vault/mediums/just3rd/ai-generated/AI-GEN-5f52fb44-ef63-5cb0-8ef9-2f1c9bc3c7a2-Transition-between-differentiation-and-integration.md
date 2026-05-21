@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/transition-between-differentiation-and-integration|Transition between differentiation and integration]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/transition-between-differentiation-and-integration|transition-between-differentiation-and-integration]]"
 ---
 # The Bridge: How Differentiation and Integration Connect (FTC Part 2)
 

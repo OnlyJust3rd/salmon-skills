@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/topological-sort-java-implementation|Topological Sort Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/topological-sort-java-implementation|topological-sort-java-implementation]]"
 ---
 # Topological Sort in Java
 

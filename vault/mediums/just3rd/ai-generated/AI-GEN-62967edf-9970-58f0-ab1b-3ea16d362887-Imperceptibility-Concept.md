@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/imperceptibility-concept|Imperceptibility Concept]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/imperceptibility-concept|imperceptibility-concept]]"
 ---
 # Understanding Imperceptibility in Digital Watermarking
 

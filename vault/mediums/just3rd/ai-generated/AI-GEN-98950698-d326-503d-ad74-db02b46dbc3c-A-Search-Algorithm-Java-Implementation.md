@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/a-search-algorithm-java-implementation|A* Search Algorithm Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/a-search-algorithm-java-implementation|a-search-algorithm-java-implementation]]"
 ---
 # A* Search Algorithm: Java Implementation
 

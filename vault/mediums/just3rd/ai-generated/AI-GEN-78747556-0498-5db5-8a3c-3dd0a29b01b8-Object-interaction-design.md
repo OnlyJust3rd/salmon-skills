@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-interaction-design|Object interaction design]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-interaction-design|object-interaction-design]]"
 ---
 # Designing Object Collaboration
 

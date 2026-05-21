@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Fourier Series Computation"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 102 - Mathematics II"
-coverage:
-  - "Implementation"
-  - "Theory"
-competency-count: 2
-microskill-count: 6
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-102-mathematics-ii"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/fourier-series-computation/competencies/L1-properties-and-concept-of-fourier-series|L1-properties-and-concept-of-fourier-series]]"
+  - "[[skills/mathematics/fourier-series-computation/competencies/L2-compute-fourier-series-coefficients|L2-compute-fourier-series-coefficients]]"
+standard-competency:
+  - "[[skills/mathematics/fourier-series-computation/competencies/L2-compute-fourier-series-coefficients|L2-compute-fourier-series-coefficients]]"
+microskills:
+  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-coefficient-a0-calculation|fourier-coefficient-a0-calculation]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-coefficient-an-calculation|fourier-coefficient-an-calculation]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-coefficient-bn-calculation|fourier-coefficient-bn-calculation]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-series-representation-computation|fourier-series-representation-computation]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-series-representation-concept|fourier-series-representation-concept]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/periodic-function-properties|periodic-function-properties]]"
 ---
 
 # Fourier Series Computation
@@ -20,8 +26,8 @@ Ability to define the properties of periodic functions and compute their Fourier
 
 ## Competencies
 
-- [[L2-properties-and-concept-of-fourier-series|L2- Properties and Concept of Fourier Series]]
-- [[L3-compute-fourier-series-coefficients|L3- Compute Fourier Series Coefficients]]
+- [[skills/mathematics/fourier-series-computation/competencies/L1-properties-and-concept-of-fourier-series|L2- Properties and Concept of Fourier Series]]
+- [[skills/mathematics/fourier-series-computation/competencies/L2-compute-fourier-series-coefficients|L3- Compute Fourier Series Coefficients]]
 
 ## Microskills
 

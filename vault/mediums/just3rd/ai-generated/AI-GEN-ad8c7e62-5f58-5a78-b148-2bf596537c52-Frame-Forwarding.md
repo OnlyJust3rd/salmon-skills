@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/routing-and-switching/microskills/frame-forwarding|Frame Forwarding]]"
+  - "[[skills/systems/networking/routing-and-switching/microskills/frame-forwarding|frame-forwarding]]"
 ---
 # Frame Forwarding: How Switches Learn and Direct Traffic
 

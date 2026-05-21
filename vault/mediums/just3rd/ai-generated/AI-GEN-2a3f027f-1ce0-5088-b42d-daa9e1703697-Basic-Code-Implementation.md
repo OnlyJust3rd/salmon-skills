@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/basic-code-implementation|Basic Code Implementation]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/basic-code-implementation|basic-code-implementation]]"
 ---
 # Basic Code Implementation for Arduino Prototypes
 

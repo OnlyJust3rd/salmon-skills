@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Integration by substitution (definite integrals)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Integral Evaluation"
-parent-competency: "L3- Apply Substitution Integration"
+  - "microskill"
+parent-skill: "[[skills/mathematics/integral-evaluation/integral-evaluation|integral-evaluation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/integral-evaluation/competencies/L2-apply-substitution-integration|L2-apply-substitution-integration]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Integration by substitution (definite integrals)
@@ -15,7 +17,7 @@ Parent macro: [[integral-evaluation|Integral Evaluation]]
 
 Parent competency:
 
-- [[L3-apply-substitution-integration|L3- Apply Substitution Integration]]
+- [[skills/mathematics/integral-evaluation/competencies/L2-apply-substitution-integration|L3- Apply Substitution Integration]]
 
 ## Description
 

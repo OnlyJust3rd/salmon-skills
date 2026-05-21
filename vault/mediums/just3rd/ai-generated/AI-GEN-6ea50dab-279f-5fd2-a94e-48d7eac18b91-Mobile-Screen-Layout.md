@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/mobile-screen-layout|Mobile Screen Layout]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/mobile-screen-layout|mobile-screen-layout]]"
 ---
 # Mobile Screen Layout: Arranging for Mobile
 

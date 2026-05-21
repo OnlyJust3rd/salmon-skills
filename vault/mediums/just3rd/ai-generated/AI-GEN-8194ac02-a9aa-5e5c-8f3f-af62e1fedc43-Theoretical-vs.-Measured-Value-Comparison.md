@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/theoretical-vs-measured-value-comparison|Theoretical vs. Measured Value Comparison]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/theoretical-vs-measured-value-comparison|theoretical-vs-measured-value-comparison]]"
 ---
 # Comparing Theoretical and Measured Values
 

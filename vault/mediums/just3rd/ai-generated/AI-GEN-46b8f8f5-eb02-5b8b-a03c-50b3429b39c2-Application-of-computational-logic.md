@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/application-of-computational-logic|Application of computational logic]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/application-of-computational-logic|application-of-computational-logic]]"
 ---
 # Translating Problems into Computational Steps
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Frequency Domain Signal Representation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Fourier Transform Analysis"
-parent-competency: "L2- Explain FT/DTFT purpose and components"
+  - "microskill"
+parent-skill: "[[skills/mathematics/fourier-transform-analysis/fourier-transform-analysis|fourier-transform-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/fourier-transform-analysis/competencies/L1-explain-ft-dtft-purpose-and-components|L1-explain-ft-dtft-purpose-and-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Frequency Domain Signal Representation
@@ -15,7 +17,7 @@ Parent macro: [[fourier-transform-analysis|Fourier Transform Analysis]]
 
 Parent competency:
 
-- [[L2-explain-ft-dtft-purpose-and-components|L2- Explain FT/DTFT purpose and components]]
+- [[skills/mathematics/fourier-transform-analysis/competencies/L1-explain-ft-dtft-purpose-and-components|L2- Explain FT/DTFT purpose and components]]
 
 ## Description
 

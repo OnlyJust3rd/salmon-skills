@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-application|Inheritance Application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-application|inheritance-application]]"
 ---
 # Inheritance Application
 

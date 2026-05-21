@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/micro-bit-platform-components|Micro:bit Platform Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/micro-bit-platform-components|micro-bit-platform-components]]"
 ---
 # Micro:bit Platform Components: Remembering the Basics
 

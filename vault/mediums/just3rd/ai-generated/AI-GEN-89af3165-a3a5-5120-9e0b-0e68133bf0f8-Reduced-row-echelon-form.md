@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/reduced-row-echelon-form|Reduced row echelon form]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/reduced-row-echelon-form|reduced-row-echelon-form]]"
 ---
 # Understanding Reduced Row Echelon Form (RREF)
 

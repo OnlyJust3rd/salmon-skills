@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/endpoint-behavior-analysis|Endpoint behavior analysis]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/endpoint-behavior-analysis|endpoint-behavior-analysis]]"
 ---
 # Endpoint Behavior Analysis for Power Series
 

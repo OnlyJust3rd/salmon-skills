@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-eigenvector-relationship|Eigenvalue-eigenvector relationship]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-eigenvector-relationship|eigenvalue-eigenvector-relationship]]"
 ---
 # The Fundamental Eigenvalue-Eigenvector Equation: Ax = λx
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unreal-engine/microskills/blueprint-event-graph|Blueprint Event Graph]]"
+  - "[[skills/creative-media/game-development/unreal-engine/microskills/blueprint-event-graph|blueprint-event-graph]]"
 ---
 # Understanding the Blueprint Event Graph in Unreal Engine
 

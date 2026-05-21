@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-series-representation-concept|Fourier series representation concept]]"
+  - "[[skills/mathematics/fourier-series-computation/microskills/fourier-series-representation-concept|fourier-series-representation-concept]]"
 ---
 # Understanding Fourier Series Representation
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/error-resolution|Error Resolution]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/error-resolution|error-resolution]]"
 ---
 # Resolving Errors in Non-Functional Circuits
 

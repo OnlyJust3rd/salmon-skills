@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/rank-nullity-theorem-application|Rank-Nullity theorem application]]"
+  - "[[skills/mathematics/linear-transformations/microskills/rank-nullity-theorem-application|rank-nullity-theorem-application]]"
 ---
 # Applying the Rank-Nullity Theorem
 

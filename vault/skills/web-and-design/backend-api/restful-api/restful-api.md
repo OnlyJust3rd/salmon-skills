@@ -1,21 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "RESTful API"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - web stack skills"
-coverage:
-  - "Concept"
-  - "Representation"
-  - "Evaluation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Backend Developer"
-  - "Frontend Developer"
-  - "Full Stack Developer"
-  - "Mobile Application Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/backend-api/restful-api/competencies/L1-explain-rest-resources-methods-and-status-codes|L1-explain-rest-resources-methods-and-status-codes]]"
+  - "[[skills/web-and-design/backend-api/restful-api/competencies/L2-apply-rest-modeling-to-a-problem-domain|L2-apply-rest-modeling-to-a-problem-domain]]"
+standard-competency:
+  - "[[skills/web-and-design/backend-api/restful-api/competencies/L2-apply-rest-modeling-to-a-problem-domain|L2-apply-rest-modeling-to-a-problem-domain]]"
+microskills:
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/consistency-with-http-semantics|consistency-with-http-semantics]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/example-json-contracts|example-json-contracts]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/http-method-semantics|http-method-semantics]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/resource-boundary-selection|resource-boundary-selection]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/resource-identifiers|resource-identifiers]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/status-code-interpretation|status-code-interpretation]]"
 ---
 
 # RESTful API
@@ -24,8 +26,8 @@ Understanding representational state transfer (REST) style for web application p
 
 ## Competencies
 
-- [[skills/web-and-design/backend-api/restful-api/competencies/L2-explain-rest-resources-methods-and-status-codes|L2- Explain REST Resources Methods and Status Codes]]
-- [[skills/web-and-design/backend-api/restful-api/competencies/L3-apply-rest-modeling-to-a-problem-domain|L3- Apply REST Modeling to a Problem Domain]]
+- [[skills/web-and-design/backend-api/restful-api/competencies/L1-explain-rest-resources-methods-and-status-codes|L2- Explain REST Resources Methods and Status Codes]]
+- [[skills/web-and-design/backend-api/restful-api/competencies/L2-apply-rest-modeling-to-a-problem-domain|L3- Apply REST Modeling to a Problem Domain]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/maclaurin-series-expansion|Maclaurin series expansion]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/maclaurin-series-expansion|maclaurin-series-expansion]]"
 ---
 # Maclaurin Series Expansion
 

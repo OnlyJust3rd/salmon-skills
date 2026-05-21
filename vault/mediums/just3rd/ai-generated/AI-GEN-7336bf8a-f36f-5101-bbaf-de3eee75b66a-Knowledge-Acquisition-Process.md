@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/knowledge-acquisition-process|Knowledge Acquisition Process]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/knowledge-acquisition-process|knowledge-acquisition-process]]"
 ---
 # The Knowledge Acquisition Process in Software Engineering
 

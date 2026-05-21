@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-fundamental-characteristics|PLD Fundamental Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-fundamental-characteristics|pld-fundamental-characteristics]]"
 ---
 # PLD Fundamental Characteristics
 

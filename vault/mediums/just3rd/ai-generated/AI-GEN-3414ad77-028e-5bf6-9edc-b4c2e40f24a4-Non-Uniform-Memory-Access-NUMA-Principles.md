@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/non-uniform-memory-access-numa-principles|Non-Uniform Memory Access (NUMA) Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/non-uniform-memory-access-numa-principles|non-uniform-memory-access-numa-principles]]"
 ---
 # Non-Uniform Memory Access (NUMA) Principles
 

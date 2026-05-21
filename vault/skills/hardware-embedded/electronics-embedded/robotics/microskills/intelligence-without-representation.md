@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Intelligence Without Representation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Robotics"
-parent-competency: "L2- Explain AI Behavior-Based Paradigms"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotics/robotics|robotics]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-explain-ai-behavior-based-paradigms|L1-explain-ai-behavior-based-paradigms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Intelligence Without Representation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/robotics/robotics|
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/robotics/competencies/L2-explain-ai-behavior-based-paradigms|L2- Explain AI Behavior-Based Paradigms]]
+- [[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-explain-ai-behavior-based-paradigms|L2- Explain AI Behavior-Based Paradigms]]
 
 ## Description
 

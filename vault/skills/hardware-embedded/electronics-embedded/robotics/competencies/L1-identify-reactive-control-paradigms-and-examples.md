@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify Reactive Control Paradigms and Examples"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Robotics"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Fundamental Robotics Concepts"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/competencies/L1-define-fundamental-robotics-concepts|L1-define-fundamental-robotics-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotics/robotics|robotics]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/examples-of-reactive-control|examples-of-reactive-control]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-characteristics|reactive-control-characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/reactive-control-paradigms|reactive-control-paradigms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify Reactive Control Paradigms and Examples

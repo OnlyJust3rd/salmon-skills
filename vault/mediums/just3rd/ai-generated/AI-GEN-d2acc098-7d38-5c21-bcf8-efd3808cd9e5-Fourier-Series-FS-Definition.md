@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-series-analysis/microskills/fourier-series-fs-definition|Fourier Series (FS) Definition]]"
+  - "[[skills/mathematics/fourier-series-analysis/microskills/fourier-series-fs-definition|fourier-series-fs-definition]]"
 ---
 # Fourier Series Definition: The Building Blocks of Signals
 

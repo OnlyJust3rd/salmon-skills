@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/simulation-vs-physical-comparison|Simulation vs. Physical Comparison]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/simulation-vs-physical-comparison|simulation-vs-physical-comparison]]"
 ---
 # Simulation vs. Physical Comparison in Circuit Prototyping
 

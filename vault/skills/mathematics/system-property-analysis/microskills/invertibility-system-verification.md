@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Invertibility System Verification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "System Property Analysis"
-parent-competency: "L3- Apply System Tests"
+  - "microskill"
+parent-skill: "[[skills/mathematics/system-property-analysis/system-property-analysis|system-property-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/system-property-analysis/competencies/L2-apply-system-tests|L2-apply-system-tests]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Invertibility System Verification
@@ -15,7 +17,7 @@ Parent macro: [[system-property-analysis|System Property Analysis]]
 
 Parent competency:
 
-- [[L3-apply-system-tests|L3- Apply System Tests]]
+- [[skills/mathematics/system-property-analysis/competencies/L2-apply-system-tests|L3- Apply System Tests]]
 
 ## Description
 

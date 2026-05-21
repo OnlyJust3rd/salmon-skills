@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/subset-generation-backtracking-java-implementation|Subset Generation Backtracking Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/subset-generation-backtracking-java-implementation|subset-generation-backtracking-java-implementation]]"
 ---
 # Subset Generation using Backtracking in Java
 

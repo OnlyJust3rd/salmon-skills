@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Bézier Curves"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Curve Modeling"
-parent-competency: "L1- Identify Curve Types and Representations"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/curve-modeling/curve-modeling|curve-modeling]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/curve-modeling/competencies/L1-identify-curve-types-and-representations|L1-identify-curve-types-and-representations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Bézier Curves

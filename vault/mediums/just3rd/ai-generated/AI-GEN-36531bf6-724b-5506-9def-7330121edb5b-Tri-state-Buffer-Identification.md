@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-identification|Tri-state Buffer Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-identification|tri-state-buffer-identification]]"
 ---
 # Identifying Tri-state Buffers
 

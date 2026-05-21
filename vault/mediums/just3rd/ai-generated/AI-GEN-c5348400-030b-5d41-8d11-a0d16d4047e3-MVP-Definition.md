@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-definition|MVP Definition]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/mvp-definition|mvp-definition]]"
 ---
 # Understanding the MVP Definition
 

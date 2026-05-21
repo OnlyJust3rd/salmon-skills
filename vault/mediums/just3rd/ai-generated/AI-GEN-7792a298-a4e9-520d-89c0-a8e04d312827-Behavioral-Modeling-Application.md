@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/behavioral-modeling-application|Behavioral Modeling Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/behavioral-modeling-application|behavioral-modeling-application]]"
 ---
 # Applying Behavioral Modeling in Verilog
 

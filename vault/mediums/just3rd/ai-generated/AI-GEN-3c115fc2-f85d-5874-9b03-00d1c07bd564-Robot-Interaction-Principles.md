@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robot-interaction-principles|Robot Interaction Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robot-interaction-principles|robot-interaction-principles]]"
 ---
 # Robot Interaction Principles
 

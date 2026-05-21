@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/hardware-problem-diagnosis|Hardware Problem Diagnosis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/hardware-problem-diagnosis|hardware-problem-diagnosis]]"
 ---
 # Diagnosing Hardware Problems
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Lessons Learned"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cybersecurity operations skills"
-parent-macro: "Incident Response"
-parent-competency: "L2- Explain Incident Response Lifecycle"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/incident-response/incident-response|incident-response]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/incident-response/competencies/L1-explain-incident-response-lifecycle|L1-explain-incident-response-lifecycle]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Lessons Learned
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/incident-response/incident-respons
 
 Parent competency:
 
-- [[skills/security/cybersecurity/incident-response/competencies/L2-explain-incident-response-lifecycle|L2- Explain Incident Response Lifecycle]]
+- [[skills/security/cybersecurity/incident-response/competencies/L1-explain-incident-response-lifecycle|L2- Explain Incident Response Lifecycle]]
 
 ## Description
 

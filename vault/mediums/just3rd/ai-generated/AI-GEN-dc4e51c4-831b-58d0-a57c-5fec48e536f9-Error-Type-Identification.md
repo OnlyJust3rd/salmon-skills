@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-cleansing/microskills/error-type-identification|Error Type Identification]]"
+  - "[[skills/data/data-platforms/data-cleansing/microskills/error-type-identification|error-type-identification]]"
 ---
 # Identifying Data Errors: Your First Step in Data Quality
 

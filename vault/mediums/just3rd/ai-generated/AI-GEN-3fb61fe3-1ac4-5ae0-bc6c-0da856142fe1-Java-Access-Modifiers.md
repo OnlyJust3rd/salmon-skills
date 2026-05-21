@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/java-access-modifiers|Java Access Modifiers]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-access-modifiers|java-access-modifiers]]"
 ---
 # Java Access Modifiers
 

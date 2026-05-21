@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/information-architecture|Information Architecture]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/information-architecture|information-architecture]]"
 ---
 # Information Architecture: Structuring Content and Navigation
 

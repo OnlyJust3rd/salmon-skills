@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/agent-mode-task|Agent Mode Task]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/agent-mode-task|agent-mode-task]]"
 ---
 # Delegating Multi-Step Tasks with GitHub Copilot Agent Mode
 

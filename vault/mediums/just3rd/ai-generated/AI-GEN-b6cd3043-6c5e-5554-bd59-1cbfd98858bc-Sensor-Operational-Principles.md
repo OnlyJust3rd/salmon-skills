@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sensor-operational-principles|Sensor Operational Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sensor-operational-principles|sensor-operational-principles]]"
 ---
 # Understanding How Sensors Work
 

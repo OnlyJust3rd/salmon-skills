@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Error Identification and Correction"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Emulator Usage"
-parent-competency: "L3- Emulator Execution and Debugging"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/emulator-usage/emulator-usage|emulator-usage]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/competencies/L2-emulator-execution-and-debugging|L2-emulator-execution-and-debugging]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Error Identification and Correction
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/emulator-usage/emu
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/emulator-usage/competencies/L3-emulator-execution-and-debugging|L3- Emulator Execution and Debugging]]
+- [[skills/hardware-embedded/electronics-embedded/emulator-usage/competencies/L2-emulator-execution-and-debugging|L3- Emulator Execution and Debugging]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Physical Component Fabrication"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Digital Fabrication"
-parent-competency: "L3- Produce Physical Parts"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/digital-fabrication|digital-fabrication]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L2-produce-physical-parts|L2-produce-physical-parts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Physical Component Fabrication
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-fabricatio
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L3-produce-physical-parts|L3- Produce Physical Parts]]
+- [[skills/hardware-embedded/electronics-embedded/digital-fabrication/competencies/L2-produce-physical-parts|L3- Produce Physical Parts]]
 
 ## Description
 

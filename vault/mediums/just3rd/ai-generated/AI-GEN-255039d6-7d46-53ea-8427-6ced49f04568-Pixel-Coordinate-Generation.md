@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/pixel-coordinate-generation|Pixel Coordinate Generation]]"
+  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/pixel-coordinate-generation|pixel-coordinate-generation]]"
 ---
 # Pixel Coordinate Generation in Bresenham's Algorithm
 

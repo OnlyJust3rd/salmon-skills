@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/invisible-watermark-characteristics|Invisible Watermark Characteristics]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/invisible-watermark-characteristics|invisible-watermark-characteristics]]"
 ---
 # Invisible Watermark Characteristics
 

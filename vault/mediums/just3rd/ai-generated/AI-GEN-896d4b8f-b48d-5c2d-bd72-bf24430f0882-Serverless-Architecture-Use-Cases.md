@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|Serverless Architecture Use Cases]]"
+  - "[[skills/systems/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|serverless-architecture-use-cases]]"
 ---
 # Serverless Architecture Use Cases
 

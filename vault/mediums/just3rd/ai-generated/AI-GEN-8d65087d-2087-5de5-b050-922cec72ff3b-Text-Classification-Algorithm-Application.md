@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-classification/microskills/text-classification-algorithm-application|Text Classification Algorithm Application]]"
+  - "[[skills/data/data-science/text-classification/microskills/text-classification-algorithm-application|text-classification-algorithm-application]]"
 ---
 # Applying Text Classification Algorithms
 

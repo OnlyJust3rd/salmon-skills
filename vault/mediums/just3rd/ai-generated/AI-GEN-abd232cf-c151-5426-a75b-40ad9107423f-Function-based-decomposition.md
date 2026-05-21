@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/function-based-decomposition|Function-based decomposition]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/function-based-decomposition|function-based-decomposition]]"
 ---
 # Function-Based Decomposition in C
 

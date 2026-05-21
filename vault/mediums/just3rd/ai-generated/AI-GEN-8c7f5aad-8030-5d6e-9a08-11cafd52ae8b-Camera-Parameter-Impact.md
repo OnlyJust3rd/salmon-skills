@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/camera-parameter-impact|Camera Parameter Impact]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/camera-parameter-impact|camera-parameter-impact]]"
 ---
 # Analyzing Camera Parameter Impact on Projection
 

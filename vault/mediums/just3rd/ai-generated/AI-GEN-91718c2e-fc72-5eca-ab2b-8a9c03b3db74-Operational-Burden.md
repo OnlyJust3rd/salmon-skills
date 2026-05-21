@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/operational-burden|Operational Burden]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/operational-burden|operational-burden]]"
 ---
 # Understanding Operational Burden in Cloud Services
 

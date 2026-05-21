@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/time-complexity-analysis-recursion|Time Complexity Analysis (Recursion)]]"
+  - "[[skills/mathematics/proof-techniques/microskills/time-complexity-analysis-recursion|time-complexity-analysis-recursion]]"
 ---
 # Analyzing the Time Complexity of Recursive Algorithms
 

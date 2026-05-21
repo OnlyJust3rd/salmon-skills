@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/cpu-utilization|CPU Utilization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/cpu-utilization|cpu-utilization]]"
 ---
 # Understanding CPU Utilization: A Key Infrastructure Metric
 

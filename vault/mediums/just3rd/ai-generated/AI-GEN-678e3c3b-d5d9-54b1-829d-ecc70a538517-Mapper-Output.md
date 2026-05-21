@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-hadoop/microskills/mapper-output|Mapper Output]]"
+  - "[[skills/data/data-platforms/apache-hadoop/microskills/mapper-output|mapper-output]]"
 ---
 # Mapper Output in Hadoop Batch Processing
 

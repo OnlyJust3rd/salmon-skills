@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-spark/microskills/distributed-join|Distributed Join]]"
+  - "[[skills/data/data-platforms/apache-spark/microskills/distributed-join|distributed-join]]"
 ---
 # Distributed Join in Spark DataFrames
 

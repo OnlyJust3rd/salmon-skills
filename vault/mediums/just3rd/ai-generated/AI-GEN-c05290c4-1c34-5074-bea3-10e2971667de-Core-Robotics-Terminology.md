@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/core-robotics-terminology|Core Robotics Terminology]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/core-robotics-terminology|core-robotics-terminology]]"
 ---
 # Core Robotics Terminology
 

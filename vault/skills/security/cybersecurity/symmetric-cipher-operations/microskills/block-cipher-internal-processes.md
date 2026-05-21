@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Block Cipher Internal Processes"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Symmetric Cipher Operations"
-parent-competency: "L2- Explain Block Cipher Processes"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/symmetric-cipher-operations/symmetric-cipher-operations|symmetric-cipher-operations]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-explain-block-cipher-processes|L1-explain-block-cipher-processes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Block Cipher Internal Processes
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/symmetric-cipher-operations/symmet
 
 Parent competency:
 
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-explain-block-cipher-processes|L2- Explain Block Cipher Processes]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-explain-block-cipher-processes|L2- Explain Block Cipher Processes]]
 
 ## Description
 

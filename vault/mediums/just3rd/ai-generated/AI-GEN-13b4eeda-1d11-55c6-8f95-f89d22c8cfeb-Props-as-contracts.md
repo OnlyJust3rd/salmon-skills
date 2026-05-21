@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/props-as-contracts|Props as contracts]]"
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/props-as-contracts|props-as-contracts]]"
 ---
 # Props as Contracts: Immutable Inputs in Component Architecture
 

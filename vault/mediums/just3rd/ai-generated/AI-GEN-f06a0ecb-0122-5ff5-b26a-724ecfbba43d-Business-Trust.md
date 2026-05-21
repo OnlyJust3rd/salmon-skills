@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-trust|Business Trust]]"
+  - "[[skills/business-it/business-product/business-ethics-principles/microskills/business-trust|business-trust]]"
 ---
 # Business Trust
 

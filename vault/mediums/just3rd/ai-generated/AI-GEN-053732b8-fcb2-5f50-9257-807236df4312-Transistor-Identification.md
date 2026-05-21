@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/transistor-identification|Transistor Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/transistor-identification|transistor-identification]]"
 ---
 # Recognizing Transistor Symbols
 

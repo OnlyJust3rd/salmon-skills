@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-identification|Cluster Computing Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-identification|cluster-computing-identification]]"
 ---
 # Cluster Computing Identification
 

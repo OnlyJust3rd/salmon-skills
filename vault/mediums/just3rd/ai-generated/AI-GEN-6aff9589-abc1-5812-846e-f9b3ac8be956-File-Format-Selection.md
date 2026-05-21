@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-lake/microskills/file-format-selection|File Format Selection]]"
+  - "[[skills/data/data-platforms/data-lake/microskills/file-format-selection|file-format-selection]]"
 ---
 # File Format Selection for Data Lakes
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/client-side-web-tooling/microskills/bundling-and-compilation|Bundling and Compilation]]"
+  - "[[skills/web-and-design/frontend-ux/client-side-web-tooling/microskills/bundling-and-compilation|bundling-and-compilation]]"
 ---
 # Bundling and Compilation: Transforming Your Code for the Browser
 

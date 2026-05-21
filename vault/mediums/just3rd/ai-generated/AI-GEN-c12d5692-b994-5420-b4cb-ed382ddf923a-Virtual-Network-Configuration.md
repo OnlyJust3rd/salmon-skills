@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/virtual-network-configuration|Virtual Network Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/virtual-network-configuration|virtual-network-configuration]]"
 ---
 # Configuring Virtual Networks in the Cloud
 

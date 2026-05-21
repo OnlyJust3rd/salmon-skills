@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/json-format/microskills/json-in-http-requests|JSON in HTTP requests]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-in-http-requests|json-in-http-requests]]"
 ---
 # Sending Data with JSON in HTTP Requests
 

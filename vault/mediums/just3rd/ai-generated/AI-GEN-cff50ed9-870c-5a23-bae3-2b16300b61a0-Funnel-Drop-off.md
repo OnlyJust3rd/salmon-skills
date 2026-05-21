@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/product-analytics/microskills/funnel-drop-off|Funnel Drop-off]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/funnel-drop-off|funnel-drop-off]]"
 ---
 # Funnel Drop-off: Uncovering User Flow Breakpoints
 

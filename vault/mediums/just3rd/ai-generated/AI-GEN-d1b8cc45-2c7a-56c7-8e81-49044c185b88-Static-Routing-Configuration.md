@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/static-routing-configuration|Static Routing Configuration]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/static-routing-configuration|static-routing-configuration]]"
 ---
 # Static Routing Configuration: Defining the Path
 

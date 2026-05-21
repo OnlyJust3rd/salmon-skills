@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Physics Application in Engineering"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Engineering Principle Application"
-parent-competency: "L3- Solve Engineering Problems"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/engineering-principle-application/engineering-principle-application|engineering-principle-application]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/engineering-principle-application/competencies/L2-solve-engineering-problems|L2-solve-engineering-problems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Physics Application in Engineering
@@ -15,7 +17,7 @@ Parent macro: [[skills/engineering/engineering-practices/engineering-principle-a
 
 Parent competency:
 
-- [[skills/engineering/engineering-practices/engineering-principle-application/competencies/L3-solve-engineering-problems|L3- Solve Engineering Problems]]
+- [[skills/engineering/engineering-practices/engineering-principle-application/competencies/L2-solve-engineering-problems|L3- Solve Engineering Problems]]
 
 ## Description
 

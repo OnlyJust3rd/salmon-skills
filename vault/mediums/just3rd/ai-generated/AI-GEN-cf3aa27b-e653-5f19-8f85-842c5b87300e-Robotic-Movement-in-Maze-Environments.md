@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/robotic-movement-in-maze-environments|Robotic Movement in Maze Environments]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/robotic-movement-in-maze-environments|robotic-movement-in-maze-environments]]"
 ---
 # Robotic Movement in Maze Environments
 

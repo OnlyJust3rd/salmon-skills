@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/memory-hierarchy-definitions|Memory Hierarchy Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/memory-hierarchy-definitions|memory-hierarchy-definitions]]"
 ---
 # Memory Hierarchy Definitions
 

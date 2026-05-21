@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Product Analytics"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Concept"
-  - "Analysis"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Product Manager"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/product-analytics/competencies/L1-explain-product-metrics-and-experimentation|L1-explain-product-metrics-and-experimentation]]"
+  - "[[skills/data/data-platforms/product-analytics/competencies/L3-analyze-product-usage-metrics|L3-analyze-product-usage-metrics]]"
+standard-competency:
+  - "[[skills/data/data-platforms/product-analytics/competencies/L3-analyze-product-usage-metrics|L3-analyze-product-usage-metrics]]"
+microskills:
+  - "[[skills/data/data-platforms/product-analytics/microskills/cohort|cohort]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/experiment-result|experiment-result]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/experiment|experiment]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/funnel-drop-off|funnel-drop-off]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/funnel-metric|funnel-metric]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/retention-pattern|retention-pattern]]"
 ---
 
 # Product Analytics
@@ -20,8 +26,8 @@ Using product metrics, event data, experiments, funnels, and retention analysis 
 
 ## Competencies
 
-- [[skills/data/data-platforms/product-analytics/competencies/L2-explain-product-metrics-and-experimentation|L2- Explain Product Metrics and Experimentation]]
-- [[skills/data/data-platforms/product-analytics/competencies/L4-analyze-product-usage-metrics|L4- Analyze Product Usage Metrics]]
+- [[skills/data/data-platforms/product-analytics/competencies/L1-explain-product-metrics-and-experimentation|L2- Explain Product Metrics and Experimentation]]
+- [[skills/data/data-platforms/product-analytics/competencies/L3-analyze-product-usage-metrics|L4- Analyze Product Usage Metrics]]
 
 ## Microskills
 

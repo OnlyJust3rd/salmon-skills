@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/resource-consumption-analysis|Resource Consumption Analysis]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/resource-consumption-analysis|resource-consumption-analysis]]"
 ---
 # Analyzing Process Resource Utilization in Linux
 

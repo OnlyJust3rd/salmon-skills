@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Logical Behavior Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Combinational Logic Design"
-parent-competency: "L4- Analyze and Design Modular Combinational Circuits"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L3-analyze-and-design-modular-combinational-circuits|L3-analyze-and-design-modular-combinational-circuits]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Logical Behavior Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/combinational-logi
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L4-analyze-and-design-modular-combinational-circuits|L4- Analyze and Design Modular Combinational Circuits]]
+- [[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L3-analyze-and-design-modular-combinational-circuits|L4- Analyze and Design Modular Combinational Circuits]]
 
 ## Description
 

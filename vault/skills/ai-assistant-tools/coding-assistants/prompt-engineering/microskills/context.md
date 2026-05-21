@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Context"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Prompt Engineering"
-parent-competency: "L2- Explain Prompt Engineering Principles"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/prompt-engineering|prompt-engineering]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/prompt-engineering/competencies/L1-explain-prompt-engineering-principles|L1-explain-prompt-engineering-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Context
@@ -15,7 +17,7 @@ Parent macro: [[prompt-engineering|Prompt Engineering]]
 
 Parent competency:
 
-- [[L2-explain-prompt-engineering-principles|L2- Explain Prompt Engineering Principles]]
+- [[skills/ai-assistant-tools/coding-assistants/prompt-engineering/competencies/L1-explain-prompt-engineering-principles|L2- Explain Prompt Engineering Principles]]
 
 ## Description
 

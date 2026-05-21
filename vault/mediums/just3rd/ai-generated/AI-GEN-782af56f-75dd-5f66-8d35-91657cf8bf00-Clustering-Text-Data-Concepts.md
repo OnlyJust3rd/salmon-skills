@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/clustering-text-data-concepts|Clustering Text Data Concepts]]"
+  - "[[skills/data/data-science/text-clustering/microskills/clustering-text-data-concepts|clustering-text-data-concepts]]"
 ---
 # Understanding Text Clustering Concepts
 

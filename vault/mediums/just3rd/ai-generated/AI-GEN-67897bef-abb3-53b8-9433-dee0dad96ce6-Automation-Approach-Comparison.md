@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-approach-comparison|Automation Approach Comparison]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-approach-comparison|automation-approach-comparison]]"
 ---
 # Automation Approach Comparison: Declarative vs. Imperative
 

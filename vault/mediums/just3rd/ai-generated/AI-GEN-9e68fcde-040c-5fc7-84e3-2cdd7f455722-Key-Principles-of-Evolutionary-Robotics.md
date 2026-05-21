@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/key-principles-of-evolutionary-robotics|Key Principles of Evolutionary Robotics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/key-principles-of-evolutionary-robotics|key-principles-of-evolutionary-robotics]]"
 ---
 # Key Principles of Evolutionary Robotics
 

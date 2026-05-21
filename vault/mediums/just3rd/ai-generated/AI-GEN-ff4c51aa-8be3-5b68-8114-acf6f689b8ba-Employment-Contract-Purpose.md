@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/employment-contract-purpose|Employment Contract Purpose]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/employment-contract-purpose|employment-contract-purpose]]"
 ---
 # Understanding the Purpose of an Employment Contract
 

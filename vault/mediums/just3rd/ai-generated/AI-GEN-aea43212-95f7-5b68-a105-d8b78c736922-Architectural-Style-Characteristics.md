@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/architectural-style-characteristics|Architectural Style Characteristics]]"
-  - "[[skills/programming/software-engineering/software-engineering/microskills/architectural-style-characteristics|Architectural Style Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/architectural-style-characteristics|architectural-style-characteristics]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/architectural-style-characteristics|architectural-style-characteristics]]"
 ---
 # Understanding Architectural Style Characteristics
 

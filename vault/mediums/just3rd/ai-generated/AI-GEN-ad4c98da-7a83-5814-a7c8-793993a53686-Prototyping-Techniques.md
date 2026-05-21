@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/prototyping-techniques|Prototyping Techniques]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/prototyping-techniques|prototyping-techniques]]"
 ---
 # Prototyping Techniques: Building Your First Ideas
 

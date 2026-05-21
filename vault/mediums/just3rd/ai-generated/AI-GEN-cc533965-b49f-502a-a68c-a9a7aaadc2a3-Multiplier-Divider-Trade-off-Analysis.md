@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/multiplier-divider-trade-off-analysis|Multiplier/Divider Trade-off Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/multiplier-divider-trade-off-analysis|multiplier-divider-trade-off-analysis]]"
 ---
 # Multiplier/Divider Trade-off Analysis
 

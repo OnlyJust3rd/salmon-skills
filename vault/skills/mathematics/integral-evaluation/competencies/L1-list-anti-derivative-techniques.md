@@ -1,17 +1,17 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Anti-derivative Techniques"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Integral Evaluation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 1
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/integral-evaluation/integral-evaluation|integral-evaluation]]"
+requires-microskills:
+  - "[[skills/mathematics/integral-evaluation/microskills/standard-anti-derivative-methods|standard-anti-derivative-methods]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Anti-derivative Techniques

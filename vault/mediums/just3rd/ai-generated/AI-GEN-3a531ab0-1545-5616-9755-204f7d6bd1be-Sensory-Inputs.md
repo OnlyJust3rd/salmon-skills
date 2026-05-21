@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/sensory-inputs|Sensory Inputs]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/sensory-inputs|sensory-inputs]]"
 ---
 # Sensory Inputs: The Building Blocks of Human-Computer Interaction
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/user-experience-principles-application|User Experience Principles Application]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/user-experience-principles-application|user-experience-principles-application]]"
 ---
 # Applying User Experience (UX) Principles to Interface Design
 

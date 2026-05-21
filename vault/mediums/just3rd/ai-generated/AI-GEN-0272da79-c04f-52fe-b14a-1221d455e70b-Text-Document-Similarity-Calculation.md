@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/text-document-similarity-calculation|Text Document Similarity Calculation]]"
+  - "[[skills/data/data-science/text-clustering/microskills/text-document-similarity-calculation|text-document-similarity-calculation]]"
 ---
 # Measuring How Alike Text Documents Are: Distance Metrics
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-cleansing/microskills/outlier-treatment|Outlier Treatment]]"
+  - "[[skills/data/data-platforms/data-cleansing/microskills/outlier-treatment|outlier-treatment]]"
 ---
 # Outlier Treatment: Handling Extreme Values
 

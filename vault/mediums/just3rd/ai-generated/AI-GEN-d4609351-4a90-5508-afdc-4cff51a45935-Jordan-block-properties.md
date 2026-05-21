@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/jordan-block-properties|Jordan block properties]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/jordan-block-properties|jordan-block-properties]]"
 ---
 # Understanding Jordan Block Properties
 

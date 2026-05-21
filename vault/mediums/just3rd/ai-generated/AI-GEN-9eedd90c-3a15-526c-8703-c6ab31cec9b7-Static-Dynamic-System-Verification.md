@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/static-dynamic-system-verification|Static/Dynamic System Verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/static-dynamic-system-verification|static-dynamic-system-verification]]"
 ---
 # Static vs. Dynamic System Verification
 

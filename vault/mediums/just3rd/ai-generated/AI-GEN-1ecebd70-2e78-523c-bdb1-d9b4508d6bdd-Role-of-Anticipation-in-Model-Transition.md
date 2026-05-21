@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/role-of-anticipation-in-model-transition|Role of Anticipation in Model Transition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/role-of-anticipation-in-model-transition|role-of-anticipation-in-model-transition]]"
 ---
 # The Role of Anticipation in Model Transition for Evolutionary Robotics
 

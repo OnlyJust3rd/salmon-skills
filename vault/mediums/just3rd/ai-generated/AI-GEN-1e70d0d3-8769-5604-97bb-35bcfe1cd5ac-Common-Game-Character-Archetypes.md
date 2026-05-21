@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/character-design/microskills/common-game-character-archetypes|Common Game Character Archetypes]]"
+  - "[[skills/creative-media/game-development/character-design/microskills/common-game-character-archetypes|common-game-character-archetypes]]"
 ---
 # Common Game Character Archetypes
 

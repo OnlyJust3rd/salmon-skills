@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-execution-sequence|Instruction Execution Sequence]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-execution-sequence|instruction-execution-sequence]]"
 ---
 # The Instruction Execution Sequence: A Computer's Step-by-Step Guide
 

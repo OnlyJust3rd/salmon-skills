@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-start-operations|Container Start Operations]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-start-operations|container-start-operations]]"
 ---
 # Starting Docker Containers: Bringing Your Applications to Life
 

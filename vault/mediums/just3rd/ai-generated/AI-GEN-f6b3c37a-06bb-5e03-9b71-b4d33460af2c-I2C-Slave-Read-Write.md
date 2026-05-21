@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-slave-read-write|I2C Slave Read/Write]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/i2c-slave-read-write|i2c-slave-read-write]]"
 ---
 # I2C Slave Read/Write Operations in AVR Microcontrollers
 

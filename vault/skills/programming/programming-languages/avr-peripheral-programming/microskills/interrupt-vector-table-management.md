@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interrupt Vector Table Management"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Peripheral Programming"
-parent-competency: "L3- Apply Interrupt Handling"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/competencies/L2-apply-interrupt-handling|L2-apply-interrupt-handling]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interrupt Vector Table Management
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/avr-peripheral-programm
 
 Parent competency:
 
-- [[skills/programming/programming-languages/avr-peripheral-programming/competencies/L3-apply-interrupt-handling|L3- Apply Interrupt Handling]]
+- [[skills/programming/programming-languages/avr-peripheral-programming/competencies/L2-apply-interrupt-handling|L3- Apply Interrupt Handling]]
 
 ## Description
 

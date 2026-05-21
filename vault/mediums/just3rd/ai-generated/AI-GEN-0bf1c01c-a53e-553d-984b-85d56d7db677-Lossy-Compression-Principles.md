@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/lossy-compression-principles|Lossy Compression Principles]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/lossy-compression-principles|lossy-compression-principles]]"
 ---
 # Understanding Lossy Compression Principles
 

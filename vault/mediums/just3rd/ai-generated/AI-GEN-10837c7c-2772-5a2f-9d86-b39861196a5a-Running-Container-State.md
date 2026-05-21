@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/running-container-state|Running Container State]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/running-container-state|running-container-state]]"
 ---
 # Understanding the Running Container State in Docker
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/product-strategy/microskills/customer-problem|Customer Problem]]"
+  - "[[skills/business-it/business-product/product-strategy/microskills/customer-problem|customer-problem]]"
 ---
 # Understanding the Customer Problem: The Foundation of Your Product
 

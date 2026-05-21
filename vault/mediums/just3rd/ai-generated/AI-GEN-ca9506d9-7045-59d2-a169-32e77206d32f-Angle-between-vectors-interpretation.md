@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/angle-between-vectors-interpretation|Angle between vectors interpretation]]"
+  - "[[skills/mathematics/vector/microskills/angle-between-vectors-interpretation|angle-between-vectors-interpretation]]"
 ---
 # Understanding the Angle Between Vectors
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/flowchart-symbol-recognition|Flowchart symbol recognition]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/flowchart-symbol-recognition|flowchart-symbol-recognition]]"
 ---
 # Flowchart Symbol Recognition
 

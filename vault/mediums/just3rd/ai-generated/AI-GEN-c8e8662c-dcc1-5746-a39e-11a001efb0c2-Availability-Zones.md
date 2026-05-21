@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/availability-zones|Availability Zones]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/availability-zones|availability-zones]]"
 ---
 # Availability Zones: Building Resilient Cloud Applications
 

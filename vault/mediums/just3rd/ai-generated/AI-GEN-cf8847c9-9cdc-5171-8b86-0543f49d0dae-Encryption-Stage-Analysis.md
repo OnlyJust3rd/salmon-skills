@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-stage-analysis|Encryption Stage Analysis]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-stage-analysis|encryption-stage-analysis]]"
 ---
 # Encryption Stage Analysis: Where Does Encryption Fit?
 

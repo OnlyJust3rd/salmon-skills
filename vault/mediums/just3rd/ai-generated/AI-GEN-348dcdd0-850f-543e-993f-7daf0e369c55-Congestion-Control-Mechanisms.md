@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/congestion-control-mechanisms|Congestion Control Mechanisms]]"
+  - "[[skills/systems/networking/network-performance/microskills/congestion-control-mechanisms|congestion-control-mechanisms]]"
 ---
 # Understanding Congestion Control Mechanisms: AIMD
 

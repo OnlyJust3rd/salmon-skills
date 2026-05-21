@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/html-tag-removal-implementation|HTML Tag Removal Implementation]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/html-tag-removal-implementation|html-tag-removal-implementation]]"
 ---
 # Implementing HTML Tag Removal
 

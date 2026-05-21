@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/homogeneous-system-properties|Homogeneous system properties]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/homogeneous-system-properties|homogeneous-system-properties]]"
 ---
 # Homogeneous Systems: The Trivial Solution
 

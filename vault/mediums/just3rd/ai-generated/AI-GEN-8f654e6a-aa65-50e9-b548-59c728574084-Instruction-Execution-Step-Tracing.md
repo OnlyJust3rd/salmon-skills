@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/instruction-execution-step-tracing|Instruction Execution Step Tracing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/microskills/instruction-execution-step-tracing|instruction-execution-step-tracing]]"
 ---
 # Tracing Instruction Execution: A Step-by-Step Guide
 

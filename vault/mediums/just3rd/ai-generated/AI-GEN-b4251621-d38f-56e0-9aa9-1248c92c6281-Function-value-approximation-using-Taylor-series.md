@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/function-value-approximation-using-taylor-series|Function value approximation using Taylor series]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/function-value-approximation-using-taylor-series|function-value-approximation-using-taylor-series]]"
 ---
 # Approximating Function Values with Taylor Series
 

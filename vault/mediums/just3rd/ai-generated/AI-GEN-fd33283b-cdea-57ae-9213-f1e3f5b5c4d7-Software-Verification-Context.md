@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-testing/microskills/software-verification-context|Software Verification Context]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/software-verification-context|software-verification-context]]"
 ---
 # Understanding Software Verification: Are We Building the System Correctly?
 

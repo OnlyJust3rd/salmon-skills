@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/pull-request-review|Pull Request Review]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/github-copilot/microskills/pull-request-review|pull-request-review]]"
 ---
 # Pull Request Review: Ensuring Quality with GitHub Copilot
 

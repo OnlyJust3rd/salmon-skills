@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Developments in Artificial Neural Networks"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Artificial Neural Network"
-parent-competency: "L2- Explain ANN Advancements"
+  - "microskill"
+parent-skill: "[[skills/data/ai/artificial-neural-network/artificial-neural-network|artificial-neural-network]]"
+requires-in-competencies:
+  - "[[skills/data/ai/artificial-neural-network/competencies/L1-explain-ann-advancements|L1-explain-ann-advancements]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Developments in Artificial Neural Networks
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/ai/artificial-neural-network/artificial-neural-netwo
 
 Parent competency:
 
-- [[skills/data/ai/artificial-neural-network/competencies/L2-explain-ann-advancements|L2- Explain ANN Advancements]]
+- [[skills/data/ai/artificial-neural-network/competencies/L1-explain-ann-advancements|L2- Explain ANN Advancements]]
 
 ## Description
 

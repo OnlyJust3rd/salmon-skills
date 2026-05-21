@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Motor Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Robotic System"
-parent-competency: "L1- List robotic components"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/robotic-system/robotic-system|robotic-system]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/competencies/L1-list-robotic-components|L1-list-robotic-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Motor Components

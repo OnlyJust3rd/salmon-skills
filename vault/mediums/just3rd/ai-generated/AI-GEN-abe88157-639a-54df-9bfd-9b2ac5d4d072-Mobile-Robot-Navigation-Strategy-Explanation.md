@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/mobile-robot-navigation-strategy-explanation|Mobile Robot Navigation Strategy Explanation]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/mobile-robot-navigation-strategy-explanation|mobile-robot-navigation-strategy-explanation]]"
 ---
 # Understanding Mobile Robot Navigation Strategies
 

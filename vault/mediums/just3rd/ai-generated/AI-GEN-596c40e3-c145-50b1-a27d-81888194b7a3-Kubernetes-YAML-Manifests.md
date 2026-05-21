@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-yaml-manifests|Kubernetes YAML Manifests]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-yaml-manifests|kubernetes-yaml-manifests]]"
 ---
 # Kubernetes YAML Manifests: The Language of Kubernetes
 

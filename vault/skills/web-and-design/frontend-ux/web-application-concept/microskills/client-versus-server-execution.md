@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Client versus server execution"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "Web Application Concept"
-parent-competency: "L2- Explain Browser and Server Roles in Web Applications"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/web-application-concept/web-application-concept|web-application-concept]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/web-application-concept/competencies/L1-explain-browser-and-server-roles-in-web-applications|L1-explain-browser-and-server-roles-in-web-applications]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Client versus server execution
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/web-application-concept/web-ap
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/web-application-concept/competencies/L2-explain-browser-and-server-roles-in-web-applications|L2- Explain Browser and Server Roles in Web Applications]]
+- [[skills/web-and-design/frontend-ux/web-application-concept/competencies/L1-explain-browser-and-server-roles-in-web-applications|L2- Explain Browser and Server Roles in Web Applications]]
 
 ## Description
 

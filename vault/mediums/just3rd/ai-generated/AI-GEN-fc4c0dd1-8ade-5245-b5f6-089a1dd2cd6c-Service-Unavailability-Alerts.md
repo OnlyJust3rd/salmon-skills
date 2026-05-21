@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/service-unavailability-alerts|Service Unavailability Alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/service-unavailability-alerts|service-unavailability-alerts]]"
 ---
 # Service Unavailability Alerts
 

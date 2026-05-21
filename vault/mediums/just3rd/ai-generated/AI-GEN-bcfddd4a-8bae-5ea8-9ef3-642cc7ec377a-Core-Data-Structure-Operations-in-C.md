@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/core-data-structure-operations-in-c|Core Data Structure Operations in C]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/core-data-structure-operations-in-c|core-data-structure-operations-in-c]]"
 ---
 # Core Data Structure Operations in C
 

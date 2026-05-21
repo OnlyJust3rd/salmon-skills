@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/key-infrastructure-metrics-tracking|Key Infrastructure Metrics Tracking]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/key-infrastructure-metrics-tracking|key-infrastructure-metrics-tracking]]"
 ---
 # Tracking Key Infrastructure Metrics
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/matlab-image-import|MATLAB Image Import]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/matlab-image-import|matlab-image-import]]"
 ---
 # MATLAB Image Import: Loading Your First Image
 

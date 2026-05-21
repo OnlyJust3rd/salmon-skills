@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/euclidean-distance-definition|Euclidean Distance Definition]]"
+  - "[[skills/data/data-science/text-clustering/microskills/euclidean-distance-definition|euclidean-distance-definition]]"
 ---
 # Euclidean Distance: Measuring Similarity
 

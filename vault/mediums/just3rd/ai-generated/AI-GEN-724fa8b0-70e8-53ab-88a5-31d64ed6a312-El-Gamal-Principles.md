@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/el-gamal-principles|El Gamal Principles]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/el-gamal-principles|el-gamal-principles]]"
 ---
 # El Gamal Principles
 

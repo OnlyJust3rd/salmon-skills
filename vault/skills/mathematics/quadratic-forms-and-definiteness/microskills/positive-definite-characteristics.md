@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Positive definite characteristics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Quadratic Forms and Definiteness"
-parent-competency: "L4- Differentiate quadratic forms"
+  - "microskill"
+parent-skill: "[[skills/mathematics/quadratic-forms-and-definiteness/quadratic-forms-and-definiteness|quadratic-forms-and-definiteness]]"
+requires-in-competencies:
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/competencies/L3-differentiate-quadratic-forms|L3-differentiate-quadratic-forms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Positive definite characteristics
@@ -15,7 +17,7 @@ Parent macro: [[quadratic-forms-and-definiteness|Quadratic Forms and Definitenes
 
 Parent competency:
 
-- [[L4-differentiate-quadratic-forms|L4- Differentiate quadratic forms]]
+- [[skills/mathematics/quadratic-forms-and-definiteness/competencies/L3-differentiate-quadratic-forms|L4- Differentiate quadratic forms]]
 
 ## Description
 

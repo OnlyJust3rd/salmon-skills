@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/subspace-conditions|Subspace conditions]]"
+  - "[[skills/mathematics/vector-space/microskills/subspace-conditions|subspace-conditions]]"
 ---
 # Identifying Subspaces: The Crucial Conditions
 

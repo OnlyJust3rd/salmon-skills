@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/secondary-storage-concepts|Secondary Storage Concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/secondary-storage-concepts|secondary-storage-concepts]]"
 ---
 # Secondary Storage: The Persistent Memory
 

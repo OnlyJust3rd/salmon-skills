@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- IaC Concepts"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L4- Differentiate Cloud Models"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L3-differentiate-cloud-models]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-microskills:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/benefits-of-iac|benefits-of-iac]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-automation|declarative-automation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/imperative-automation|imperative-automation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-definition|infrastructure-as-code-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- IaC Concepts
@@ -25,7 +28,7 @@ Define the core concepts of Infrastructure as Code (IaC) and the difference betw
 
 ## Strict Prerequisites
 
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L4-differentiate-cloud-models|L4- Differentiate Cloud Models]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L4- Differentiate Cloud Models]]
 
 ## Optional Prerequisites
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Hard Disk Drive Geometry"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "I/O and File Systems"
-parent-competency: "L2- Disk Geometry and Terminology"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-file-systems|i-o-and-file-systems]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-disk-geometry-and-terminology|L1-disk-geometry-and-terminology]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Hard Disk Drive Geometry
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-fi
 
 Parent competency:
 
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-disk-geometry-and-terminology|L2- Disk Geometry and Terminology]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L1-disk-geometry-and-terminology|L2- Disk Geometry and Terminology]]
 
 ## Description
 

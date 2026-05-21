@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/user-interaction-representation|User Interaction Representation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/user-interaction-representation|user-interaction-representation]]"
 ---
 # Understanding User Interaction Representation in UML
 

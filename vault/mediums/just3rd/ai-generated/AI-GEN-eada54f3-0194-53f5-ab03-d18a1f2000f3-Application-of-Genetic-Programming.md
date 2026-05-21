@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/application-of-genetic-programming|Application of Genetic Programming]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/application-of-genetic-programming|application-of-genetic-programming]]"
 ---
 # Applying Genetic Programming
 

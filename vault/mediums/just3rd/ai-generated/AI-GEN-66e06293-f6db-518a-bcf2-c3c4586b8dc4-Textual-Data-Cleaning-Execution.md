@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/textual-data-cleaning-execution|Textual Data Cleaning Execution]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/textual-data-cleaning-execution|textual-data-cleaning-execution]]"
 ---
 # Textual Data Cleaning Execution
 

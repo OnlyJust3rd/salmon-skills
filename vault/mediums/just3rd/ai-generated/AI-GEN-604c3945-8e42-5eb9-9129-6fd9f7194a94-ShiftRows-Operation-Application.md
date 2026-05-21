@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-operation-application|ShiftRows Operation Application]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-operation-application|shiftrows-operation-application]]"
 ---
 # Applying the ShiftRows Operation
 

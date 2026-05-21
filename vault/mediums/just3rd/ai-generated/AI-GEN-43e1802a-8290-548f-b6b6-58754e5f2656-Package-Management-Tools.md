@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/package-management-tools|Package Management Tools]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/package-management-tools|package-management-tools]]"
 ---
 # Understanding Package Management Tools in Linux
 

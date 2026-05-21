@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/developments-in-artificial-neural-networks|Developments in Artificial Neural Networks]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/developments-in-artificial-neural-networks|developments-in-artificial-neural-networks]]"
 ---
 # Developments in Artificial Neural Networks
 

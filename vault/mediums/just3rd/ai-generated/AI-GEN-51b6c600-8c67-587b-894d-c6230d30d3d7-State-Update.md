@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/flutter/microskills/state-update|State Update]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/state-update|state-update]]"
 ---
 # State Update in Flutter: Making Your UI Dynamic
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/control-unit-trade-off-reasoning|Control Unit Trade-off Reasoning]]"
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/control-unit-trade-off-reasoning|control-unit-trade-off-reasoning]]"
 ---
 # Evaluating Control Unit Design Trade-offs
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sap-erp/microskills/sap-module|SAP Module]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/sap-module|sap-module]]"
 ---
 # Understanding SAP Modules: The Building Blocks of SAP ERP
 

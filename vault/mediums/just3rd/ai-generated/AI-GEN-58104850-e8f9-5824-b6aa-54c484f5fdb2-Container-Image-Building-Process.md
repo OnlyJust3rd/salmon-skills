@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-image-building-process|Container Image Building Process]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-image-building-process|container-image-building-process]]"
 ---
 # Understanding the Container Image Building Process
 

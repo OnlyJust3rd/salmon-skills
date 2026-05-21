@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "GCP Managed Services"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-parent-macro: "Google Cloud Platform"
-parent-competency: "L2- Explain GCP Core Cloud Services"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/google-cloud-platform/google-cloud-platform|google-cloud-platform]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/competencies/L1-explain-gcp-core-cloud-services|L1-explain-gcp-core-cloud-services]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # GCP Managed Services
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/google-cloud-platform/g
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/google-cloud-platform/competencies/L2-explain-gcp-core-cloud-services|L2- Explain GCP Core Cloud Services]]
+- [[skills/cloud-devops/platform-engineering/google-cloud-platform/competencies/L1-explain-gcp-core-cloud-services|L2- Explain GCP Core Cloud Services]]
 
 ## Description
 

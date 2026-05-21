@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/q-table-implementation|Q-table implementation]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/q-table-implementation|q-table-implementation]]"
 ---
 # Q-Table Implementation: The Heart of Q-Learning
 

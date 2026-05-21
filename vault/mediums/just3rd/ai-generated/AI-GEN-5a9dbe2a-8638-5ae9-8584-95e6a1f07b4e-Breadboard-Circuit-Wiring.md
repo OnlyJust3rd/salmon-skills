@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/breadboard-circuit-wiring|Breadboard Circuit Wiring]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/microskills/breadboard-circuit-wiring|breadboard-circuit-wiring]]"
 ---
 # Breadboard Circuit Wiring for Logic Gates
 

@@ -1,16 +1,32 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Logic Fundamentals"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-coverage:
-  - "Concept"
-competency-count: 4
-microskill-count: 13
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-222-digital-electronics-and-logic-design"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-recall-logic-gate-basics|L1-recall-logic-gate-basics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-boolean-algebra-logic-gates-fundamentals|L1-boolean-algebra-logic-gates-fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-de-morgan-s-theorems|L1-de-morgan-s-theorems]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-logic-gate-implementation|L1-logic-gate-implementation]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-boolean-algebra-logic-gates-fundamentals|L1-boolean-algebra-logic-gates-fundamentals]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/basic-logic-gate-definitions|basic-logic-gate-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-algebra-postulate-recall|boolean-algebra-postulate-recall]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-algebra-postulates|boolean-algebra-postulates]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-expressions|boolean-expressions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-function-mapping|boolean-function-mapping]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/de-morgan-s-theorem-statement|de-morgan-s-theorem-statement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/implementation-principles|implementation-principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-expression-simplification|logic-expression-simplification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-names-and-symbols|logic-gate-names-and-symbols]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-symbols|logic-gate-symbols]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/logic-gate-truth-tables|logic-gate-truth-tables]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/theorem-application|theorem-application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/truth-functions|truth-functions]]"
 ---
 
 # Logic Fundamentals
@@ -20,9 +36,9 @@ Explain and apply Boolean algebra, De Morgan's theorems, and basic logic gates t
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-recall-logic-gate-basics|L1- Recall Logic Gate Basics]]
-- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L2-boolean-algebra-logic-gates-fundamentals|L2- Boolean Algebra & Logic Gates Fundamentals]]
-- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L2-de-morgan-s-theorems|L2- De Morgan's Theorems]]
-- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L2-logic-gate-implementation|L2- Logic Gate Implementation]]
+- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-boolean-algebra-logic-gates-fundamentals|L2- Boolean Algebra & Logic Gates Fundamentals]]
+- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-de-morgan-s-theorems|L2- De Morgan's Theorems]]
+- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-logic-gate-implementation|L2- Logic Gate Implementation]]
 
 ## Microskills
 

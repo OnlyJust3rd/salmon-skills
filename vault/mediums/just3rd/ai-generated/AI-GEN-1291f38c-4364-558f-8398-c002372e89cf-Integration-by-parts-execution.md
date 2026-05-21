@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/integration-by-parts-execution|Integration by parts execution]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/integration-by-parts-execution|integration-by-parts-execution]]"
 ---
 # Executing Integration by Parts
 

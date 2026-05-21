@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/bresenham-s-algorithm-steps|Bresenham's Algorithm Steps]]"
+  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/bresenham-s-algorithm-steps|bresenham-s-algorithm-steps]]"
 ---
 # Understanding Bresenham's Algorithm Steps
 

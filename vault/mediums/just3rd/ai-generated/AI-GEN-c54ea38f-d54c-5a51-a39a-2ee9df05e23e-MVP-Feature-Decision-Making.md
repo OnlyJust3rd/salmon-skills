@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/mvp-feature-decision-making|MVP Feature Decision Making]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/mvp-feature-decision-making|mvp-feature-decision-making]]"
 ---
 # MVP Feature Decision Making with BML
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-image-structure|Container Image Structure]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/container-image-structure|container-image-structure]]"
 ---
 # Container Image Structure
 

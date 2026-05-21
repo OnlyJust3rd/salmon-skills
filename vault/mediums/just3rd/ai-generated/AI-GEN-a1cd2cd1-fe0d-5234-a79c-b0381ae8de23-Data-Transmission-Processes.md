@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/data-transmission-processes|Data Transmission Processes]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/data-transmission-processes|data-transmission-processes]]"
 ---
 # Understanding Data Transmission in Embedded IoT Systems
 

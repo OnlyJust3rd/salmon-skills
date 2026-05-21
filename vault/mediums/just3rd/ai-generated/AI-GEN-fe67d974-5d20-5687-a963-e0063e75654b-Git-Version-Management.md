@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-version-control/microskills/git-version-management|Git Version Management]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/git-version-management|git-version-management]]"
 ---
 # Git Version Management: Tracking Your Code's History
 

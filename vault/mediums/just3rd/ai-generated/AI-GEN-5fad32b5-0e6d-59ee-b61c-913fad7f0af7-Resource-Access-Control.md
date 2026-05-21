@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/resource-access-control|Resource Access Control]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/resource-access-control|resource-access-control]]"
 ---
 # Resource Access Control: Granting Specific Permissions
 

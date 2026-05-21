@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/inflection-point-identification|Inflection point identification]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/inflection-point-identification|inflection-point-identification]]"
 ---
 # Finding Inflection Points
 

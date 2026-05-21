@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Basic Embedded System Programming"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration; CPE 475 - Internet of Things"
-parent-macro: "Embedded Systems"
-parent-competency: "L3- Develop basic embedded systems with sensor/actuator control"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-systems/embedded-systems|embedded-systems]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L2-develop-basic-embedded-systems-with-sensor-actuator-control|L2-develop-basic-embedded-systems-with-sensor-actuator-control]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Basic Embedded System Programming
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/embedded-systems/e
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L3-develop-basic-embedded-systems-with-sensor-actuator-control|L3- Develop basic embedded systems with sensor/actuator control]]
+- [[skills/hardware-embedded/electronics-embedded/embedded-systems/competencies/L2-develop-basic-embedded-systems-with-sensor-actuator-control|L3- Develop basic embedded systems with sensor/actuator control]]
 
 ## Description
 

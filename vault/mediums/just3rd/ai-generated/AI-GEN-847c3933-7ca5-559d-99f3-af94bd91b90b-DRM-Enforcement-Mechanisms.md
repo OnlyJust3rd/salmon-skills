@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/drm-enforcement-mechanisms|DRM Enforcement Mechanisms]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/drm-enforcement-mechanisms|drm-enforcement-mechanisms]]"
 ---
 # DRM Enforcement Mechanisms
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/edit-distance-levenshtein-distance-dp-java-implementation|Edit Distance (Levenshtein Distance) DP Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/edit-distance-levenshtein-distance-dp-java-implementation|edit-distance-levenshtein-distance-dp-java-implementation]]"
 ---
 # Edit Distance (Levenshtein Distance) DP Java Implementation
 

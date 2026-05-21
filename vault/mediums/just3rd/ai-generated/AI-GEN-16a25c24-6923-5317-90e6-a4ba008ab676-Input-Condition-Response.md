@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/input-condition-response|Input Condition Response]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/input-condition-response|input-condition-response]]"
 ---
 # Understanding State Machine Response to Input Conditions
 

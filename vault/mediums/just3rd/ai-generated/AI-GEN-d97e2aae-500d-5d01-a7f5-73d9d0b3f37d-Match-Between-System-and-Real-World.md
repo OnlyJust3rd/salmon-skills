@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/match-between-system-and-real-world|Match Between System and Real World]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/match-between-system-and-real-world|match-between-system-and-real-world]]"
 ---
 # Match Between System and Real World
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/homogeneous-processor-architecture-definition|Homogeneous Processor Architecture Definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/homogeneous-processor-architecture-definition|homogeneous-processor-architecture-definition]]"
 ---
 # Understanding Homogeneous Processor Architectures
 

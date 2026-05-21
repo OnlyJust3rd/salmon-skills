@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/python-multiprocessing-module-usage|Python Multiprocessing Module Usage]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/python-multiprocessing-module-usage|python-multiprocessing-module-usage]]"
 ---
 # Understanding Python's `multiprocessing` Module
 

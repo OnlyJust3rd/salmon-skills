@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/xr-development-tools|XR Development Tools]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/xr-development-tools|xr-development-tools]]"
 ---
 # XR Development Tools for Prototyping
 

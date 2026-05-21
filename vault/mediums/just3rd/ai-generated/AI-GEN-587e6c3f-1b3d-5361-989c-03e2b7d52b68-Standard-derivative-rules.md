@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/standard-derivative-rules|Standard derivative rules]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/standard-derivative-rules|standard-derivative-rules]]"
 ---
 # Remembering Standard Derivative Rules
 

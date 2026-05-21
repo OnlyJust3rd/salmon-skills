@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/problem-interview-techniques|Problem Interview Techniques]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/problem-interview-techniques|problem-interview-techniques]]"
 ---
 # Problem Interview Techniques
 

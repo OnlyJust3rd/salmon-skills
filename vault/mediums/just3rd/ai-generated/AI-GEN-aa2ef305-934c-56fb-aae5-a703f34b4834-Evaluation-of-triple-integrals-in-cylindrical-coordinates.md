@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/evaluation-of-triple-integrals-in-cylindrical-coordinates|Evaluation of triple integrals in cylindrical coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/evaluation-of-triple-integrals-in-cylindrical-coordinates|evaluation-of-triple-integrals-in-cylindrical-coordinates]]"
 ---
 # Evaluating Triple Integrals in Cylindrical Coordinates
 

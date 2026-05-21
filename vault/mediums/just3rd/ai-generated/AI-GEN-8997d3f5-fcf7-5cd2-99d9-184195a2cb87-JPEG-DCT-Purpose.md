@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-dct-purpose|JPEG DCT Purpose]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-dct-purpose|jpeg-dct-purpose]]"
 ---
 # Understanding the Discrete Cosine Transform (DCT) in JPEG Compression
 

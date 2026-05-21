@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/continuous-integration/microskills/source-triggers|Source Triggers]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-integration/microskills/source-triggers|source-triggers]]"
 ---
 # Source Triggers: Kicking Off Your CI Pipeline
 

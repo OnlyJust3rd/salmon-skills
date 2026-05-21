@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/continuous-integration/microskills/build-stages|Build Stages]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-integration/microskills/build-stages|build-stages]]"
 ---
 # Understanding Build Stages in CI Pipelines
 

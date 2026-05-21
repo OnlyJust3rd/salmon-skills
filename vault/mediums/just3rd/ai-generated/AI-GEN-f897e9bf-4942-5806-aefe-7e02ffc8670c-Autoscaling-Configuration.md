@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/autoscaling-configuration|Autoscaling Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/autoscaling-configuration|autoscaling-configuration]]"
 ---
 # Autoscaling Configuration for VM Scale Sets
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/system-health-monitoring|System Health Monitoring]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/system-health-monitoring|system-health-monitoring]]"
 ---
 # Understanding System Health Monitoring Through Alerting
 

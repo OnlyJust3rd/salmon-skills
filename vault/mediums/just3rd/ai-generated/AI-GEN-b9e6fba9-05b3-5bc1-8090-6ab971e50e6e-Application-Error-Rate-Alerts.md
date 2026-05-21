@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/application-error-rate-alerts|Application Error Rate Alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/application-error-rate-alerts|application-error-rate-alerts]]"
 ---
 # Application Error Rate Alerts
 

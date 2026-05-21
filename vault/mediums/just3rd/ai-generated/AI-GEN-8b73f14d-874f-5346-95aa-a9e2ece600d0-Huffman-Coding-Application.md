@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/huffman-coding-application|Huffman Coding Application]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/huffman-coding-application|huffman-coding-application]]"
 ---
 # Applying Huffman Coding for Data Compression
 

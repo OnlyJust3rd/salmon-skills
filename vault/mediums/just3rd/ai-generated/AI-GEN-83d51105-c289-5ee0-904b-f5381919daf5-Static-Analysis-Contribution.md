@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/quality-assurance/microskills/static-analysis-contribution|Static Analysis Contribution]]"
+  - "[[skills/programming/software-engineering/quality-assurance/microskills/static-analysis-contribution|static-analysis-contribution]]"
 ---
 # Understanding Static Analysis Benefits for Software Quality
 

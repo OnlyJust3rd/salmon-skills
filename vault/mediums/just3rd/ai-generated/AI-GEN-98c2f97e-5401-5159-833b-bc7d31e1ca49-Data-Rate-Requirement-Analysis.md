@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/data-rate-requirement-analysis|Data Rate Requirement Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/data-rate-requirement-analysis|data-rate-requirement-analysis]]"
 ---
 # Analyzing Data Rate Requirements for Embedded System Communication
 

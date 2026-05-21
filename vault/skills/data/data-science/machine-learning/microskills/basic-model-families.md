@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Basic Model Families"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 232 - Data Models"
-parent-macro: "Machine Learning"
-parent-competency: "L2- Explain Basic ML Models"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/machine-learning/machine-learning|machine-learning]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/machine-learning/competencies/L1-explain-basic-ml-models|L1-explain-basic-ml-models]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Basic Model Families
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/machine-learning/machine-learning|Machi
 
 Parent competency:
 
-- [[skills/data/data-science/machine-learning/competencies/L2-explain-basic-ml-models|L2- Explain Basic ML Models]]
+- [[skills/data/data-science/machine-learning/competencies/L1-explain-basic-ml-models|L2- Explain Basic ML Models]]
 
 ## Description
 

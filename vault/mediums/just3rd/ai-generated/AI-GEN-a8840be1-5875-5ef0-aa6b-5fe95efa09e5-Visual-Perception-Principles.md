@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/visual-perception-principles|Visual Perception Principles]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/visual-perception-principles|visual-perception-principles]]"
 ---
 # Visual Perception Principles
 

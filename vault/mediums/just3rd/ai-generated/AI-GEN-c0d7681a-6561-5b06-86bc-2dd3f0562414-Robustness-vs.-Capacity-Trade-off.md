@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/robustness-vs-capacity-trade-off|Robustness vs. Capacity Trade-off]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/robustness-vs-capacity-trade-off|robustness-vs-capacity-trade-off]]"
 ---
 # Robustness vs. Capacity in Digital Watermarking
 

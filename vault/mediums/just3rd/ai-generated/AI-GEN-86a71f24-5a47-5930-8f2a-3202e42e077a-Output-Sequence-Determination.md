@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/output-sequence-determination|Output Sequence Determination]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/output-sequence-determination|output-sequence-determination]]"
 ---
 # Determining the Output Sequence via Discrete-Time Convolution
 

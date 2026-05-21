@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-application-in-cryptography|Euclidean Algorithm Application in Cryptography]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-application-in-cryptography|euclidean-algorithm-application-in-cryptography]]"
 ---
 # The Euclidean Algorithm: A Cryptographic Workhorse
 

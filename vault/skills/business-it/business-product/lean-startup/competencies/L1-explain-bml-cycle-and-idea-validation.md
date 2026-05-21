@@ -1,0 +1,44 @@
+---
+type: "Competency"
+title: "L2- Explain BML Cycle and Idea Validation"
+tags:
+  - "cpe"
+  - "competency"
+strict-prerequisites:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-identify-bml-stages-and-components|L1-identify-bml-stages-and-components]]"
+miller-level: 1
+optional-prerequisites: []
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/lean-startup/microskills/bml-cycle-significance|bml-cycle-significance]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/idea-validation-principles|idea-validation-principles]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/iterative-validation-process|iterative-validation-process]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# L2- Explain BML Cycle and Idea Validation
+
+Parent macro: [[skills/business-it/business-product/lean-startup/lean-startup|Lean Startup]]
+
+## Competency Statement
+
+Explain the Build-Measure-Learn cycle and its importance in validating business ideas, including its connection to idea validation.
+
+## Strict Prerequisites
+
+- [[skills/business-it/business-product/lean-startup/competencies/L1-identify-bml-stages-and-components|L1- Identify BML Stages and Components]]
+
+## Optional Prerequisites
+
+- None
+
+## Corresponding Course Competencies
+
+- None
+
+## Microskills
+
+- [[skills/business-it/business-product/lean-startup/microskills/bml-cycle-significance|BML Cycle Significance]]
+- [[skills/business-it/business-product/lean-startup/microskills/idea-validation-principles|Idea Validation Principles]]
+- [[skills/business-it/business-product/lean-startup/microskills/iterative-validation-process|Iterative Validation Process]]

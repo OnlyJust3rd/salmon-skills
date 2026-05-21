@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/poc-development-guidance|PoC Development Guidance]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/poc-development-guidance|poc-development-guidance]]"
 ---
 # Guidance for Proof of Concept (PoC) Development using Build-Measure-Learn
 

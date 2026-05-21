@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/timer-mode-configuration|Timer Mode Configuration]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/timer-mode-configuration|timer-mode-configuration]]"
 ---
 # Timer Mode Configuration on AVR Microcontrollers
 

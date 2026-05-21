@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Examples of Pollution and E-waste"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Technology Impact Analysis"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/technology-impact-analysis/technology-impact-analysis|technology-impact-analysis]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/e-waste-examples|e-waste-examples]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/pollution-examples|pollution-examples]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/technological-advancement-impacts|technological-advancement-impacts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Examples of Pollution and E-waste

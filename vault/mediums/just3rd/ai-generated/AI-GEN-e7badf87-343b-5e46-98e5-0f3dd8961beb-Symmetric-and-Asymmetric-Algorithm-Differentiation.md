@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-and-asymmetric-algorithm-differentiation|Symmetric and Asymmetric Algorithm Differentiation]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-and-asymmetric-algorithm-differentiation|symmetric-and-asymmetric-algorithm-differentiation]]"
 ---
 # Symmetric vs. Asymmetric Algorithms: A Deep Dive
 

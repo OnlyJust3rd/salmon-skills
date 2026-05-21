@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/volume-problems-using-coordinate-transformations|Volume problems using coordinate transformations]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/volume-problems-using-coordinate-transformations|volume-problems-using-coordinate-transformations]]"
 ---
 # Solving Volume Problems with Coordinate Transformations
 

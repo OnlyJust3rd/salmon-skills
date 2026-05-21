@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-resource-provisioning|Infrastructure Resource Provisioning]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-resource-provisioning|infrastructure-resource-provisioning]]"
 ---
 # Provisioning Infrastructure with Terraform
 

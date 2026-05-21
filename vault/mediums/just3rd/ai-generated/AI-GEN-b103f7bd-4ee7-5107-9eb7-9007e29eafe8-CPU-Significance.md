@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/cpu-significance|CPU Significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/cpu-significance|cpu-significance]]"
 ---
 # Understanding CPU Load and Its Impact on System Performance
 

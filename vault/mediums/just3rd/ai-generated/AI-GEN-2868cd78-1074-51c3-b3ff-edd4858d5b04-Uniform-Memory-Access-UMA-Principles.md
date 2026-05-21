@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/uniform-memory-access-uma-principles|Uniform Memory Access (UMA) Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/uniform-memory-access-uma-principles|uniform-memory-access-uma-principles]]"
 ---
 # Uniform Memory Access (UMA) Principles
 

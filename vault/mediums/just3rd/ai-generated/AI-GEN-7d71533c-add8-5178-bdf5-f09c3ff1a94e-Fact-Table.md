@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-warehousing/microskills/fact-table|Fact Table]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/fact-table|fact-table]]"
 ---
 # Fact Tables: Capturing Business Events
 

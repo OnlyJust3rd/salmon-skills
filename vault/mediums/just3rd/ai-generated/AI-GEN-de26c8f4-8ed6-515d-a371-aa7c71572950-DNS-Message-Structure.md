@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/dns-message-structure|DNS Message Structure]]"
+  - "[[skills/systems/networking/application-layer/microskills/dns-message-structure|dns-message-structure]]"
 ---
 # DNS Message Structure
 

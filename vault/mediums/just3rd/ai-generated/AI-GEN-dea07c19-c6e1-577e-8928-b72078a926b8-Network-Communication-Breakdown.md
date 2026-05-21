@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/network-communication-breakdown|Network Communication Breakdown]]"
+  - "[[skills/systems/networking/application-layer/microskills/network-communication-breakdown|network-communication-breakdown]]"
 ---
 # Network Communication Breakdown
 

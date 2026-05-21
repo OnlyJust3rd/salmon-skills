@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Golden Signals"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Monitoring"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L4- Differentiate Cloud Models"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L3-differentiate-cloud-models]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-monitoring/system-monitoring|system-monitoring]]"
+requires-microskills:
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/errors|errors]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/latency|latency]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/saturation|saturation]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traffic|traffic]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Golden Signals
@@ -25,7 +28,7 @@ List the 'Golden Signals' of system performance: Latency, Traffic, Errors, and S
 
 ## Strict Prerequisites
 
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L4-differentiate-cloud-models|L4- Differentiate Cloud Models]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-differentiate-cloud-models|L4- Differentiate Cloud Models]]
 
 ## Optional Prerequisites
 

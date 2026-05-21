@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/development-speed-comparison|Development Speed Comparison]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/development-speed-comparison|development-speed-comparison]]"
 ---
 # Development Speed Comparison: Breadboard vs. Soldering
 

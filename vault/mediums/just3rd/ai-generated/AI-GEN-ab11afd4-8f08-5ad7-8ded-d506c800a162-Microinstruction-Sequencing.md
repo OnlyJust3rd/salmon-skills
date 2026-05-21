@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/microinstruction-sequencing|Microinstruction Sequencing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/microskills/microinstruction-sequencing|microinstruction-sequencing]]"
 ---
 # Microinstruction Sequencing: Stepping Through Execution
 

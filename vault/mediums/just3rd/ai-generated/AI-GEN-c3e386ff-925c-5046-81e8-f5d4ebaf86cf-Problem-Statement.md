@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/problem-statement|Problem Statement]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/problem-statement|problem-statement]]"
 ---
 # The Problem Statement: Uncovering the Customer's Need
 

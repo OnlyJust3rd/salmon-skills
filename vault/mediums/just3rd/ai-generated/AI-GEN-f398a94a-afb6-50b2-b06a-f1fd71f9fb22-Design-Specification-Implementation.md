@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/design-specification-implementation|Design Specification Implementation]]"
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/microskills/design-specification-implementation|design-specification-implementation]]"
 ---
 # Implementing Design Specifications: Building Interactive Prototypes
 

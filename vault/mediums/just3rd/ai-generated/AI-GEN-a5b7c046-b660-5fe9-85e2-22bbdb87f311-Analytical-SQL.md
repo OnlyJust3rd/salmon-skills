@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/google-bigquery/microskills/analytical-sql|Analytical SQL]]"
+  - "[[skills/data/data-platforms/google-bigquery/microskills/analytical-sql|analytical-sql]]"
 ---
 # Crafting Reports and Explorations with Analytical SQL in BigQuery
 

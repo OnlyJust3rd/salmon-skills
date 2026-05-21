@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-lifecycle|Volume Lifecycle]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-lifecycle|volume-lifecycle]]"
 ---
 # Understanding the Docker Volume Lifecycle
 

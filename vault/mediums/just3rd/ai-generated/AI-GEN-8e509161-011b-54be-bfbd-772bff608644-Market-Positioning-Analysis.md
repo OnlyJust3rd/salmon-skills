@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-positioning-analysis|Market Positioning Analysis]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-positioning-analysis|market-positioning-analysis]]"
 ---
 # Understanding Market Positioning
 

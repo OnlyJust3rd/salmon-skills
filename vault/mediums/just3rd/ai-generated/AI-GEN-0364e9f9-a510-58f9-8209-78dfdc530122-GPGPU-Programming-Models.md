@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|GPGPU Programming Models]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|gpgpu-programming-models]]"
 ---
 # GPGPU Programming Models: A Summary
 

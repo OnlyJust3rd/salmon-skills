@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/sql/microskills/sql-syntax-rules|SQL Syntax Rules]]"
+  - "[[skills/data/databases/sql/microskills/sql-syntax-rules|sql-syntax-rules]]"
 ---
 # SQL Syntax Rules: The Grammar of Data Commands
 

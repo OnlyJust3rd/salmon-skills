@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mongodb/microskills/relational-vs-document-data-model|Relational vs Document Data Model]]"
+  - "[[skills/data/databases/mongodb/microskills/relational-vs-document-data-model|relational-vs-document-data-model]]"
 ---
 # Relational vs. Document Data Models in MongoDB
 

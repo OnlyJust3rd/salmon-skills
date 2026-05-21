@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/system-design/microskills/problem-parameter-application-in-design|Problem Parameter Application in Design]]"
+  - "[[skills/engineering/engineering-practices/system-design/microskills/problem-parameter-application-in-design|problem-parameter-application-in-design]]"
 ---
 # Applying Problem Parameters in System Design
 

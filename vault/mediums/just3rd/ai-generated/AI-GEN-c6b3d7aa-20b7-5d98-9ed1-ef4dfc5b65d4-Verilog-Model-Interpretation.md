@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-model-interpretation|Verilog Model Interpretation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/verilog-model-interpretation|verilog-model-interpretation]]"
 ---
 # Interpreting a Verilog Counter Model
 

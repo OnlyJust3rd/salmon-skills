@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/pole-zero-plot-interpretation-for-stability|Pole-Zero Plot Interpretation for Stability]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/pole-zero-plot-interpretation-for-stability|pole-zero-plot-interpretation-for-stability]]"
 ---
 # Pole-Zero Plot Interpretation for Stability
 

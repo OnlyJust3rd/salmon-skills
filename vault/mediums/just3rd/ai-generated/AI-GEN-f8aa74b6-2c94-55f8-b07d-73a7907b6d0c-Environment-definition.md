@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/environment-definition|Environment definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/environment-definition|environment-definition]]"
 ---
 # Understanding the Reinforcement Learning Environment
 

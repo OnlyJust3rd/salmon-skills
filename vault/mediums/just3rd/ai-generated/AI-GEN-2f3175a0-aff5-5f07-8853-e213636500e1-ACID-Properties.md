@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/acid-properties|ACID Properties]]"
+  - "[[skills/data/databases/database-system/microskills/acid-properties|acid-properties]]"
 ---
 # ACID Properties: Ensuring Database Reliability
 

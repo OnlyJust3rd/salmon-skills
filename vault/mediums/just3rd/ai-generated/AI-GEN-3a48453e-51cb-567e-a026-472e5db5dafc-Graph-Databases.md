@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/nosql-database/microskills/graph-databases|Graph Databases]]"
+  - "[[skills/data/databases/nosql-database/microskills/graph-databases|graph-databases]]"
 ---
 # Understanding Graph Databases
 

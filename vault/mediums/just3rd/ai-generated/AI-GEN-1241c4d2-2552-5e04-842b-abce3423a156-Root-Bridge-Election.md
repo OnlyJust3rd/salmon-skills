@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/root-bridge-election|Root Bridge Election]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/root-bridge-election|root-bridge-election]]"
 ---
 # Root Bridge Election: The First Step in STP
 

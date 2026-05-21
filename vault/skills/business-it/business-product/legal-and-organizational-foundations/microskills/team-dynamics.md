@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Team Dynamics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Legal and Organizational Foundations"
-parent-competency: "L2- Understand Organizational Behavior Principles"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/legal-and-organizational-foundations/legal-and-organizational-foundations|legal-and-organizational-foundations]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/competencies/L1-understand-organizational-behavior-principles|L1-understand-organizational-behavior-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Team Dynamics
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/legal-and-organizational-fou
 
 Parent competency:
 
-- [[skills/business-it/business-product/legal-and-organizational-foundations/competencies/L2-understand-organizational-behavior-principles|L2- Understand Organizational Behavior Principles]]
+- [[skills/business-it/business-product/legal-and-organizational-foundations/competencies/L1-understand-organizational-behavior-principles|L2- Understand Organizational Behavior Principles]]
 
 ## Description
 

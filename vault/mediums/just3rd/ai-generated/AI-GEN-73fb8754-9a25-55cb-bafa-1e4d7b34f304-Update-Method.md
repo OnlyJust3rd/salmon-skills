@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/update-method|Update Method]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/update-method|update-method]]"
 ---
 # Implementing Per-Frame Behavior with the Update Method
 

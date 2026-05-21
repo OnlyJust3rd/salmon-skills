@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|Inter-Process Data Exchange Patterns]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|inter-process-data-exchange-patterns]]"
 ---
 # Analyzing Inter-Process Data Exchange Patterns
 

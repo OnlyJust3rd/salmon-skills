@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/code-smell-definitions|Code Smell Definitions]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/code-smell-definitions|code-smell-definitions]]"
 ---
 # Understanding Code Smells: A Foundation for Refactoring
 

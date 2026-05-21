@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/core-socket-operations|Core Socket Operations]]"
+  - "[[skills/systems/networking/socket-programming/microskills/core-socket-operations|core-socket-operations]]"
 ---
 # Core Socket Operations
 

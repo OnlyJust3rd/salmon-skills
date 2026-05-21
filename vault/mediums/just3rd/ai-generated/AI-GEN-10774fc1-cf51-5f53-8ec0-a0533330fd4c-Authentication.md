@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/authentication|Authentication]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/authentication|authentication]]"
 ---
 # Authentication: Knowing Who You're Talking To
 

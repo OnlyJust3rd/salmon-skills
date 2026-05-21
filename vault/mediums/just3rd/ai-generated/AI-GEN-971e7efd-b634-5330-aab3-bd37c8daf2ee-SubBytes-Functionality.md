@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/subbytes-functionality|SubBytes Functionality]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/subbytes-functionality|subbytes-functionality]]"
 ---
 # Understanding the SubBytes Functionality
 

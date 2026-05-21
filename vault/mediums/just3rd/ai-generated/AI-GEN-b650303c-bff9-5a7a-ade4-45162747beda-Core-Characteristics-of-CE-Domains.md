@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/core-characteristics-of-ce-domains|Core Characteristics of CE Domains]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/core-characteristics-of-ce-domains|core-characteristics-of-ce-domains]]"
 ---
 # Understanding Core Characteristics of Computer Engineering Domains
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-problem-solving-process-stages|Engineering Problem-Solving Process Stages]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-problem-solving-process-stages|engineering-problem-solving-process-stages]]"
 ---
 # Understanding the Engineering Problem-Solving Process Stages
 

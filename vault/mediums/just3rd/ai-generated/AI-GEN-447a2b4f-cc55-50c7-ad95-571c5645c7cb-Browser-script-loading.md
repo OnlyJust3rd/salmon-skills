@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/browser-script-loading|Browser script loading]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/browser-script-loading|browser-script-loading]]"
 ---
 # How JavaScript Scripts Load in Your Browser
 

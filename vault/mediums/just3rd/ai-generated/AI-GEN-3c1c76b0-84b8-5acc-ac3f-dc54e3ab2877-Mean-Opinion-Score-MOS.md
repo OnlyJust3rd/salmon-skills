@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/mean-opinion-score-mos|Mean Opinion Score (MOS)]]"
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/mean-opinion-score-mos|Mean Opinion Score (MOS)]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/mean-opinion-score-mos|mean-opinion-score-mos]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/mean-opinion-score-mos|mean-opinion-score-mos]]"
 ---
 # Understanding Mean Opinion Score (MOS) for Watermarking Evaluation
 

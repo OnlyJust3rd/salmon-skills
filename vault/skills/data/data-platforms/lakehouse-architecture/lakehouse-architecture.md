@@ -1,18 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Lakehouse Architecture"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-coverage:
-  - "Concept"
-  - "Architecture"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Machine Learning Engineer"
-  - "Data Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/data-platforms/lakehouse-architecture/competencies/L1-explain-lakehouse-architecture-concepts|L1-explain-lakehouse-architecture-concepts]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/competencies/L3-analyze-lakehouse-and-warehouse-trade-offs|L3-analyze-lakehouse-and-warehouse-trade-offs]]"
+standard-competency:
+  - "[[skills/data/data-platforms/lakehouse-architecture/competencies/L3-analyze-lakehouse-and-warehouse-trade-offs|L3-analyze-lakehouse-and-warehouse-trade-offs]]"
+microskills:
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/cost-trade-off|cost-trade-off]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/governance-trade-off|governance-trade-off]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/open-table-format|open-table-format]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/unified-analytics|unified-analytics]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/warehouse-semantics|warehouse-semantics]]"
+  - "[[skills/data/data-platforms/lakehouse-architecture/microskills/workload-fit|workload-fit]]"
 ---
 
 # Lakehouse Architecture
@@ -21,8 +26,8 @@ Understanding lakehouse architecture that combines data lake storage with wareho
 
 ## Competencies
 
-- [[skills/data/data-platforms/lakehouse-architecture/competencies/L2-explain-lakehouse-architecture-concepts|L2- Explain Lakehouse Architecture Concepts]]
-- [[skills/data/data-platforms/lakehouse-architecture/competencies/L4-analyze-lakehouse-and-warehouse-trade-offs|L4- Analyze Lakehouse and Warehouse Trade-offs]]
+- [[skills/data/data-platforms/lakehouse-architecture/competencies/L1-explain-lakehouse-architecture-concepts|L2- Explain Lakehouse Architecture Concepts]]
+- [[skills/data/data-platforms/lakehouse-architecture/competencies/L3-analyze-lakehouse-and-warehouse-trade-offs|L4- Analyze Lakehouse and Warehouse Trade-offs]]
 
 ## Microskills
 

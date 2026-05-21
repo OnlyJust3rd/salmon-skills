@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/typescript/microskills/primitive-and-object-types|Primitive and object types]]"
+  - "[[skills/programming/programming-languages/typescript/microskills/primitive-and-object-types|primitive-and-object-types]]"
 ---
 # Understanding Primitive and Object Types in TypeScript
 

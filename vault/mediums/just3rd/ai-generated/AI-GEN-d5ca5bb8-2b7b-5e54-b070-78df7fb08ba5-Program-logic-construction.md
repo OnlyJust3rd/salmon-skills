@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/program-logic-construction|Program logic construction]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/program-logic-construction|program-logic-construction]]"
 ---
 # Program Logic Construction in C
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "SSL/TLS Cryptographic Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Applied Cryptography"
-parent-competency: "L4- Analyze Protocol Differences"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/applied-cryptography/applied-cryptography|applied-cryptography]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/applied-cryptography/competencies/L3-analyze-protocol-differences|L3-analyze-protocol-differences]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # SSL/TLS Cryptographic Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/applied-cryptography/applied-crypt
 
 Parent competency:
 
-- [[skills/security/cybersecurity/applied-cryptography/competencies/L4-analyze-protocol-differences|L4- Analyze Protocol Differences]]
+- [[skills/security/cybersecurity/applied-cryptography/competencies/L3-analyze-protocol-differences|L4- Analyze Protocol Differences]]
 
 ## Description
 

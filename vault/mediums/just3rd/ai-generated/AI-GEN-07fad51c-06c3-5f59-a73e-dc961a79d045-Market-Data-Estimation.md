@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-data-estimation|Market Data Estimation]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/market-data-estimation|market-data-estimation]]"
 ---
 # Market Data Estimation
 

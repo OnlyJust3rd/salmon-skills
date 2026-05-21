@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/common-iot-security-vulnerabilities|Common IoT Security Vulnerabilities]]"
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/common-iot-security-vulnerabilities|common-iot-security-vulnerabilities]]"
 ---
 # Common IoT Security Vulnerabilities
 

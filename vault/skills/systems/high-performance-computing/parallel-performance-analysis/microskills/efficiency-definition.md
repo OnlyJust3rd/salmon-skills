@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Efficiency Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Parallel Performance Analysis"
-parent-competency: "L1- Define Performance Metrics"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/parallel-performance-analysis/parallel-performance-analysis|parallel-performance-analysis]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/competencies/L1-define-performance-metrics|L1-define-performance-metrics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Efficiency Definition

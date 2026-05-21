@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-application|Responsibility Assignment Application]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/responsibility-assignment-application|responsibility-assignment-application]]"
 ---
 # Applying Responsibility Assignment in Object-Oriented Design
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Profiler Trace"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Game Performance Optimization"
-parent-competency: "L3- Apply Game Performance Profiling Concepts"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-performance-optimization/game-performance-optimization|game-performance-optimization]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-performance-optimization/competencies/L2-apply-game-performance-profiling-concepts|L2-apply-game-performance-profiling-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Profiler Trace
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-performance-optimiza
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-performance-optimization/competencies/L3-apply-game-performance-profiling-concepts|L3- Apply Game Performance Profiling Concepts]]
+- [[skills/creative-media/game-development/game-performance-optimization/competencies/L2-apply-game-performance-profiling-concepts|L3- Apply Game Performance Profiling Concepts]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/widespread-ev-adoption-analysis|Widespread EV Adoption Analysis]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/widespread-ev-adoption-analysis|widespread-ev-adoption-analysis]]"
 ---
 # Analyzing Environmental Impacts of Widespread Electric Vehicle Adoption
 

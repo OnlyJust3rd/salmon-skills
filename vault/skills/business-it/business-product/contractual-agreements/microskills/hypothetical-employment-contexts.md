@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Hypothetical Employment Contexts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Contractual Agreements"
-parent-competency: "L3- Apply contract relevance"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/contractual-agreements/contractual-agreements|contractual-agreements]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/contractual-agreements/competencies/L2-apply-contract-relevance|L2-apply-contract-relevance]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Hypothetical Employment Contexts
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/contractual-agreements/contr
 
 Parent competency:
 
-- [[skills/business-it/business-product/contractual-agreements/competencies/L3-apply-contract-relevance|L3- Apply contract relevance]]
+- [[skills/business-it/business-product/contractual-agreements/competencies/L2-apply-contract-relevance|L3- Apply contract relevance]]
 
 ## Description
 

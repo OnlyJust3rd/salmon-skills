@@ -1,16 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cursor"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-coverage:
-  - "Tool"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs: []
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/competencies/L1-explain-cursor-agent-mode-concepts|L1-explain-cursor-agent-mode-concepts]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/competencies/L2-apply-cursor-codebase-editing-workflow-concepts|L2-apply-cursor-codebase-editing-workflow-concepts]]"
+standard-competency:
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/competencies/L2-apply-cursor-codebase-editing-workflow-concepts|L2-apply-cursor-codebase-editing-workflow-concepts]]"
+microskills:
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/agent-mode|agent-mode]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/ask-mode|ask-mode]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/codebase-search|codebase-search]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/diff-review|diff-review]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/manual-mode|manual-mode]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/cursor/microskills/multi-file-edit|multi-file-edit]]"
 ---
 
 # Cursor
@@ -19,8 +26,8 @@ Using Cursor as an AI code editor for codebase search, agent mode, manual edits,
 
 ## Competencies
 
-- [[L2-explain-cursor-agent-mode-concepts|L2- Explain Cursor Agent Mode Concepts]]
-- [[L3-apply-cursor-codebase-editing-workflow-concepts|L3- Apply Cursor Codebase Editing Workflow Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/cursor/competencies/L1-explain-cursor-agent-mode-concepts|L2- Explain Cursor Agent Mode Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/cursor/competencies/L2-apply-cursor-codebase-editing-workflow-concepts|L3- Apply Cursor Codebase Editing Workflow Concepts]]
 
 ## Microskills
 

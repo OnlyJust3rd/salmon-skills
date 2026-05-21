@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-purpose|Sustainable Development Goals Purpose]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-purpose|sustainable-development-goals-purpose]]"
 ---
 # The "Why" Behind the Sustainable Development Goals (SDGs)
 

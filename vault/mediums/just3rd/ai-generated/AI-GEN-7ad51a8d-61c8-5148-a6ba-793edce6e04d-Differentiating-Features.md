@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/differentiating-features|Differentiating Features]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/differentiating-features|differentiating-features]]"
 ---
 # Differentiating Features of VR and AR
 

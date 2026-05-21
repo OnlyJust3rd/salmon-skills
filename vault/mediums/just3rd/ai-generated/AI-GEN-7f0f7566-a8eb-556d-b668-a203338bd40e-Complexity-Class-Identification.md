@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/complexity-class-identification|Complexity Class Identification]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/complexity-class-identification|complexity-class-identification]]"
 ---
 # Complexity Class Identification
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Logic Gate Symbols"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Logic Fundamentals"
-parent-competency: "L2- Boolean Algebra & Logic Gates Fundamentals"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/logic-fundamentals|logic-fundamentals]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-boolean-algebra-logic-gates-fundamentals|L1-boolean-algebra-logic-gates-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Logic Gate Symbols
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/logic-fundamentals
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L2-boolean-algebra-logic-gates-fundamentals|L2- Boolean Algebra & Logic Gates Fundamentals]]
+- [[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-boolean-algebra-logic-gates-fundamentals|L2- Boolean Algebra & Logic Gates Fundamentals]]
 
 ## Description
 

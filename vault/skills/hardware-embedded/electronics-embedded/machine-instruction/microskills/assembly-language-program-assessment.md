@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Assembly Language Program Assessment"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Machine Instruction"
-parent-competency: "L3- Apply and Evaluate Assembly Programs"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/machine-instruction/machine-instruction|machine-instruction]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-apply-and-evaluate-assembly-programs|L2-apply-and-evaluate-assembly-programs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Assembly Language Program Assessment
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/machine-instructio
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L3-apply-and-evaluate-assembly-programs|L3- Apply and Evaluate Assembly Programs]]
+- [[skills/hardware-embedded/electronics-embedded/machine-instruction/competencies/L2-apply-and-evaluate-assembly-programs|L3- Apply and Evaluate Assembly Programs]]
 
 ## Description
 

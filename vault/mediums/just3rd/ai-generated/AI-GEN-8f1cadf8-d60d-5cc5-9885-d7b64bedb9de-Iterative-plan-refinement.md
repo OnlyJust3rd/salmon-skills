@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/action-planning/microskills/iterative-plan-refinement|Iterative plan refinement]]"
+  - "[[skills/programming/software-engineering/action-planning/microskills/iterative-plan-refinement|iterative-plan-refinement]]"
 ---
 # Iterative Plan Refinement in Engineering Projects
 

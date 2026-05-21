@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/time-series-analysis-definition|Time-Series Analysis Definition]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/time-series-analysis-definition|time-series-analysis-definition]]"
 ---
 # Understanding Time-Series Analysis
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/discrete-time-fourier-transform-dtft-definition|Discrete-Time Fourier Transform (DTFT) Definition]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/discrete-time-fourier-transform-dtft-definition|discrete-time-fourier-transform-dtft-definition]]"
 ---
 # Discrete-Time Fourier Transform (DTFT) Definition
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Unsupervised Clustering Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Clustering"
-parent-competency: "L2- Explain Text Clustering Concepts and Distance Metrics"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-clustering/text-clustering|text-clustering]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-clustering/competencies/L1-explain-text-clustering-concepts-and-distance-metrics|L1-explain-text-clustering-concepts-and-distance-metrics]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Unsupervised Clustering Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-clustering/text-clustering|Text Cl
 
 Parent competency:
 
-- [[skills/data/data-science/text-clustering/competencies/L2-explain-text-clustering-concepts-and-distance-metrics|L2- Explain Text Clustering Concepts and Distance Metrics]]
+- [[skills/data/data-science/text-clustering/competencies/L1-explain-text-clustering-concepts-and-distance-metrics|L2- Explain Text Clustering Concepts and Distance Metrics]]
 
 ## Description
 

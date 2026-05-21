@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attacks|Cryptography Attacks]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attacks|cryptography-attacks]]"
 ---
 # Cryptography Attacks: A Fundamental Understanding
 

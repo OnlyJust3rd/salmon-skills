@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-benefits|Abstraction Benefits]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-benefits|abstraction-benefits]]"
 ---
 # Understanding the Benefits of Abstraction in Software Design
 

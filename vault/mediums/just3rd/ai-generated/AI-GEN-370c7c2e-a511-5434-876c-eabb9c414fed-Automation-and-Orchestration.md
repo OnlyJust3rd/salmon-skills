@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-and-orchestration|Automation and Orchestration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/automation-and-orchestration|automation-and-orchestration]]"
 ---
 # Automation and Orchestration in Infrastructure as Code
 

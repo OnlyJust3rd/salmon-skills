@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/chain-rule-application-multivariable|Chain rule application (multivariable)]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/chain-rule-application-multivariable|chain-rule-application-multivariable]]"
 ---
 # Understanding the Multivariable Chain Rule
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/discourse-influence|Discourse Influence]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/discourse-influence|discourse-influence]]"
 ---
 # Understanding Discourse Influence on Social Media
 

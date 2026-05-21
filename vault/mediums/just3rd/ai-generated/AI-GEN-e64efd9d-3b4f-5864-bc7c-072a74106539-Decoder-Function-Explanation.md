@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/decoder-function-explanation|Decoder Function Explanation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/decoder-function-explanation|decoder-function-explanation]]"
 ---
 # Decoder Function Explanation
 

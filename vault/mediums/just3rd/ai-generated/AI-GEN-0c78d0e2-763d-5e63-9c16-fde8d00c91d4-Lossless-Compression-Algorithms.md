@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/lossless-compression-algorithms|Lossless Compression Algorithms]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/lossless-compression-algorithms|lossless-compression-algorithms]]"
 ---
 # Understanding Lossless Compression Algorithms
 

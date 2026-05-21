@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Security through NAT"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Layer"
-parent-competency: "L2- NAT Role and Translation Process"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-layer/network-layer|network-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-layer/competencies/L1-nat-role-and-translation-process|L1-nat-role-and-translation-process]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Security through NAT
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-layer/network-layer|Network La
 
 Parent competency:
 
-- [[skills/systems/networking/network-layer/competencies/L2-nat-role-and-translation-process|L2- NAT Role and Translation Process]]
+- [[skills/systems/networking/network-layer/competencies/L1-nat-role-and-translation-process|L2- NAT Role and Translation Process]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/negative-definite-characteristics|Negative definite characteristics]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/negative-definite-characteristics|negative-definite-characteristics]]"
 ---
 # Negative Definite Characteristics
 

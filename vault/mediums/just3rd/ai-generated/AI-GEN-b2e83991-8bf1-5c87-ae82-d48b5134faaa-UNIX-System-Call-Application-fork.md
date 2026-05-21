@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-fork|UNIX System Call Application (fork)]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-fork|unix-system-call-application-fork]]"
 ---
 # Applying the `fork()` System Call for Process Creation
 

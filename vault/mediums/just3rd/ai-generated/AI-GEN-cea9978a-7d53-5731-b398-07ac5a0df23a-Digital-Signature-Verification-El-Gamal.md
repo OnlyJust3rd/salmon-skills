@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/digital-signature-verification-el-gamal|Digital Signature Verification (El Gamal)]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/digital-signature-verification-el-gamal|digital-signature-verification-el-gamal]]"
 ---
 # Verifying El Gamal Digital Signatures
 

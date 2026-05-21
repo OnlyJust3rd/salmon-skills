@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/hardware-software-integration|Hardware-Software Integration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-creation/microskills/hardware-software-integration|hardware-software-integration]]"
 ---
 # Hardware-Software Integration: The Heartbeat of Embedded Systems
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/appropriate-refactoring-technique-selection|Appropriate Refactoring Technique Selection]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/appropriate-refactoring-technique-selection|appropriate-refactoring-technique-selection]]"
 ---
 # Selecting the Right Refactoring Technique
 

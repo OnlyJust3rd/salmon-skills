@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ui/microskills/controller-navigation|Controller Navigation]]"
+  - "[[skills/creative-media/game-development/game-ui/microskills/controller-navigation|controller-navigation]]"
 ---
 # Controller Navigation: Moving Beyond the Mouse
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/expressive-power-of-predicate-logic|Expressive Power of Predicate Logic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/expressive-power-of-predicate-logic|expressive-power-of-predicate-logic]]"
 ---
 # The Expansive Reach of Predicate Logic
 

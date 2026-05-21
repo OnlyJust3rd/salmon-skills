@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/pod-abstraction|Pod Abstraction]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/pod-abstraction|pod-abstraction]]"
 ---
 # The Pod: Kubernetes' Smallest Deployable Unit
 

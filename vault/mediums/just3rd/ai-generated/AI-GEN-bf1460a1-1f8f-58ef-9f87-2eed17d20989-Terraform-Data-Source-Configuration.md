@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-data-source-configuration|Terraform Data Source Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/terraform-data-source-configuration|terraform-data-source-configuration]]"
 ---
 # Terraform Data Source Configuration
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/computer-network-architecture/microskills/purpose-of-network-layers|Purpose of Network Layers]]"
+  - "[[skills/systems/networking/computer-network-architecture/microskills/purpose-of-network-layers|purpose-of-network-layers]]"
 ---
 # The Purpose of Network Layers
 

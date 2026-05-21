@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/access-modifier-usage|Access Modifier Usage]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/access-modifier-usage|access-modifier-usage]]"
 ---
 # Access Modifier Usage in Java
 

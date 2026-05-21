@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/restful-api/microskills/consistency-with-http-semantics|Consistency with HTTP semantics]]"
+  - "[[skills/web-and-design/backend-api/restful-api/microskills/consistency-with-http-semantics|consistency-with-http-semantics]]"
 ---
 # Consistency with HTTP Semantics
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Disk Scheduling Algorithm Efficiency"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "I/O and File Systems"
-parent-competency: "L4- Disk Scheduling Analysis and Function"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-file-systems|i-o-and-file-systems]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L3-disk-scheduling-analysis-and-function|L3-disk-scheduling-analysis-and-function]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Disk Scheduling Algorithm Efficiency
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-fi
 
 Parent competency:
 
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L4-disk-scheduling-analysis-and-function|L4- Disk Scheduling Analysis and Function]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L3-disk-scheduling-analysis-and-function|L4- Disk Scheduling Analysis and Function]]
 
 ## Description
 

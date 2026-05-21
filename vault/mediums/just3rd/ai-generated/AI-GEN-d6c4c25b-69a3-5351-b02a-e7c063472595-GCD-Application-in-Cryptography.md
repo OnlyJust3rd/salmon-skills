@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/gcd-application-in-cryptography|GCD Application in Cryptography]]"
+  - "[[skills/security/cybersecurity/number-theory-in-cryptography/microskills/gcd-application-in-cryptography|gcd-application-in-cryptography]]"
 ---
 # GCD: The Unsung Hero in Cryptography
 

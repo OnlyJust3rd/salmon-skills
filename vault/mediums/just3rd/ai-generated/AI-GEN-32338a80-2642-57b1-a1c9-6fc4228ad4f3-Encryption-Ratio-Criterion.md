@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-ratio-criterion|Encryption Ratio Criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-ratio-criterion|encryption-ratio-criterion]]"
 ---
 # Analyzing the Encryption Ratio Criterion
 

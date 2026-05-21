@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/robotic-task-solutions-via-reactive-control|Robotic Task Solutions via Reactive Control]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/robotic-task-solutions-via-reactive-control|robotic-task-solutions-via-reactive-control]]"
 ---
 # Robotic Task Solutions via Reactive Control
 

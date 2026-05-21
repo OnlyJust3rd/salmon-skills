@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Accurate Operation Confirmation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Proteus 8 Simulation"
-parent-competency: "L4- Analyze Proteus simulation results"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/proteus-8-simulation|proteus-8-simulation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/competencies/L3-analyze-proteus-simulation-results|L3-analyze-proteus-simulation-results]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Accurate Operation Confirmation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/proteus-8-simulati
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/competencies/L4-analyze-proteus-simulation-results|L4- Analyze Proteus simulation results]]
+- [[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/competencies/L3-analyze-proteus-simulation-results|L4- Analyze Proteus simulation results]]
 
 ## Description
 

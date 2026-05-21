@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify and Define Geometric Transformations"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Geometric Transformations"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- List and Define Geometric Primitives"
+  - "[[skills/creative-media/graphics-media/geometric-representation/competencies/L1-list-and-define-geometric-primitives|L1-list-and-define-geometric-primitives]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/graphics-media/geometric-transformations/geometric-transformations|geometric-transformations]]"
+requires-microskills:
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-and-3d-transformations|2d-and-3d-transformations]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/fundamental-transformations|fundamental-transformations]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/rotation|rotation]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/scaling|scaling]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/translation|translation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify and Define Geometric Transformations

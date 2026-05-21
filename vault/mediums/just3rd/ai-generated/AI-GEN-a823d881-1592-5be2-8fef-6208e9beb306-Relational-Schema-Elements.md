@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/relational-schema-elements|Relational Schema Elements]]"
+  - "[[skills/data/databases/relational-database/microskills/relational-schema-elements|relational-schema-elements]]"
 ---
 # Relational Schema Elements
 

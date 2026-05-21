@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/modular-program-design/microskills/modularity-benefits-understanding|Modularity benefits understanding]]"
+  - "[[skills/programming/software-engineering/modular-program-design/microskills/modularity-benefits-understanding|modularity-benefits-understanding]]"
 ---
 # Understanding the Benefits of Modularity
 

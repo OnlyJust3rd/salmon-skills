@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-service-routine-implementation|Interrupt Service Routine Implementation]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-service-routine-implementation|interrupt-service-routine-implementation]]"
 ---
 # Implementing Interrupt Service Routines (ISRs)
 

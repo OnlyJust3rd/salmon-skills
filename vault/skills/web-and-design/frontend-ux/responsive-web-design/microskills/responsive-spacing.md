@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Responsive Spacing"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - frontend web skills"
-parent-macro: "Responsive Web Design"
-parent-competency: "L3- Apply Responsive Web Design Layouts"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/responsive-web-design/responsive-web-design|responsive-web-design]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/responsive-web-design/competencies/L2-apply-responsive-web-design-layouts|L2-apply-responsive-web-design-layouts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Responsive Spacing
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/responsive-web-design/responsi
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/responsive-web-design/competencies/L3-apply-responsive-web-design-layouts|L3- Apply Responsive Web Design Layouts]]
+- [[skills/web-and-design/frontend-ux/responsive-web-design/competencies/L2-apply-responsive-web-design-layouts|L3- Apply Responsive Web Design Layouts]]
 
 ## Description
 

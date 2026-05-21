@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Z-transform ROC Determination"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Complex Frequency Domain Analysis"
-parent-competency: "L3- Apply Transform Calculations"
+  - "microskill"
+parent-skill: "[[skills/mathematics/complex-frequency-domain-analysis/complex-frequency-domain-analysis|complex-frequency-domain-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/complex-frequency-domain-analysis/competencies/L2-apply-transform-calculations|L2-apply-transform-calculations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Z-transform ROC Determination
@@ -15,7 +17,7 @@ Parent macro: [[complex-frequency-domain-analysis|Complex Frequency Domain Analy
 
 Parent competency:
 
-- [[L3-apply-transform-calculations|L3- Apply Transform Calculations]]
+- [[skills/mathematics/complex-frequency-domain-analysis/competencies/L2-apply-transform-calculations|L3- Apply Transform Calculations]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-career-path/microskills/role-responsibilities|Role Responsibilities]]"
+  - "[[skills/business-it/business-product/it-career-path/microskills/role-responsibilities|role-responsibilities]]"
 ---
 # Understanding Role Responsibilities in Tech Careers
 

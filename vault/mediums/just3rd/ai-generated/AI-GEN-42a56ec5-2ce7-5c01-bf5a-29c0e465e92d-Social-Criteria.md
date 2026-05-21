@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/social-criteria|Social Criteria]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/social-criteria|social-criteria]]"
 ---
 # Understanding the Social Criteria in ESG
 

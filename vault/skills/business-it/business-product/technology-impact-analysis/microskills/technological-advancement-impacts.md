@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Technological Advancement Impacts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Technology Impact Analysis"
-parent-competency: "L1- Examples of Pollution and E-waste"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/technology-impact-analysis/technology-impact-analysis|technology-impact-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/technology-impact-analysis/competencies/L1-examples-of-pollution-and-e-waste|L1-examples-of-pollution-and-e-waste]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Technological Advancement Impacts

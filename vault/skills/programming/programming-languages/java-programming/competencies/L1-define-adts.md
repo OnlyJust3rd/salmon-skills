@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define ADTs"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 231 - Algorithms"
-parent-macro: "Java Programming"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Computational Problem Solving"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/programming-languages/java-programming/java-programming|java-programming]]"
+requires-microskills:
+  - "[[skills/programming/programming-languages/java-programming/microskills/abstract-data-type-characteristics|abstract-data-type-characteristics]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/abstract-data-type-definition|abstract-data-type-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define ADTs

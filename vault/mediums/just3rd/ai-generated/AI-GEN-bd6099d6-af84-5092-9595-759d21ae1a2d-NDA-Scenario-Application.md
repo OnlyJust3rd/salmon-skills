@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/nda-scenario-application|NDA Scenario Application]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/nda-scenario-application|nda-scenario-application]]"
 ---
 # Applying the NDA in Real-World Scenarios
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Pseudocode structure comprehension"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 100 - Computer Programming for Engineers"
-parent-macro: "Algorithm Representation"
-parent-competency: "L2- Pseudocode Representation"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-representation/algorithm-representation|algorithm-representation]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-representation/competencies/L1-pseudocode-representation|L1-pseudocode-representation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Pseudocode structure comprehension
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-representation/algorithm
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-representation/competencies/L2-pseudocode-representation|L2- Pseudocode Representation]]
+- [[skills/programming/algorithms/algorithm-representation/competencies/L1-pseudocode-representation|L2- Pseudocode Representation]]
 
 ## Description
 

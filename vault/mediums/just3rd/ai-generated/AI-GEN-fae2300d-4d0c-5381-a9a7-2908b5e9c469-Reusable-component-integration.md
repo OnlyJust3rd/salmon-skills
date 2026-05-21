@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/reusable-component-integration|Reusable component integration]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/reusable-component-integration|reusable-component-integration]]"
 ---
 # Integrating Reusable Components in C
 

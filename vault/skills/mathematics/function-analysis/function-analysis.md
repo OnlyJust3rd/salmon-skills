@@ -1,17 +1,24 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Function Analysis"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 101 - Mathematics I"
-coverage:
-  - "Concept"
-  - "Analysis"
-competency-count: 2
-microskill-count: 7
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-101-mathematics-i"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/function-analysis/competencies/L1-analyze-and-explain-single-variable-function-properties|L1-analyze-and-explain-single-variable-function-properties]]"
+  - "[[skills/mathematics/function-analysis/competencies/L1-explain-multivariable-function-limits-and-continuity|L1-explain-multivariable-function-limits-and-continuity]]"
+standard-competency:
+  - "[[skills/mathematics/function-analysis/competencies/L1-analyze-and-explain-single-variable-function-properties|L1-analyze-and-explain-single-variable-function-properties]]"
+microskills:
+  - "[[skills/mathematics/function-analysis/microskills/continuity-of-single-variable-functions|continuity-of-single-variable-functions]]"
+  - "[[skills/mathematics/function-analysis/microskills/differentiable-function-conditions|differentiable-function-conditions]]"
+  - "[[skills/mathematics/function-analysis/microskills/inverse-function-properties|inverse-function-properties]]"
+  - "[[skills/mathematics/function-analysis/microskills/limits-of-single-variable-functions|limits-of-single-variable-functions]]"
+  - "[[skills/mathematics/function-analysis/microskills/multivariable-function-continuity-conditions|multivariable-function-continuity-conditions]]"
+  - "[[skills/mathematics/function-analysis/microskills/multivariable-function-limit-definition|multivariable-function-limit-definition]]"
+  - "[[skills/mathematics/function-analysis/microskills/single-variable-function-domain-and-range|single-variable-function-domain-and-range]]"
 ---
 
 # Function Analysis
@@ -20,8 +27,8 @@ Analyze properties of single and multivariable functions, including domain, rang
 
 ## Competencies
 
-- [[L2-analyze-and-explain-single-variable-function-properties|L2- Analyze and Explain Single-Variable Function Properties]]
-- [[L2-explain-multivariable-function-limits-and-continuity|L2- Explain Multivariable Function Limits and Continuity]]
+- [[skills/mathematics/function-analysis/competencies/L1-analyze-and-explain-single-variable-function-properties|L2- Analyze and Explain Single-Variable Function Properties]]
+- [[skills/mathematics/function-analysis/competencies/L1-explain-multivariable-function-limits-and-continuity|L2- Explain Multivariable Function Limits and Continuity]]
 
 ## Microskills
 

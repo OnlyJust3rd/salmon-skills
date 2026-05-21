@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/file-organization-task|File Organization Task]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/claude-cowork/microskills/file-organization-task|file-organization-task]]"
 ---
 # Organizing Files Through Delegation
 

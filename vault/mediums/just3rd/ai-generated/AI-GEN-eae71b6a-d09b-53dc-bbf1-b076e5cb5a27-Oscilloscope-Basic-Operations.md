@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscilloscope-basic-operations|Oscilloscope Basic Operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscilloscope-basic-operations|oscilloscope-basic-operations]]"
 ---
 # Oscilloscope: Visualizing Electrical Signals
 

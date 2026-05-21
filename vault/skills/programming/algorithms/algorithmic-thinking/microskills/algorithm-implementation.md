@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Algorithm Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Algorithmic Thinking"
-parent-competency: "L3- Implement Number Theory Algorithms"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithmic-thinking/algorithmic-thinking|algorithmic-thinking]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithmic-thinking/competencies/L2-implement-number-theory-algorithms|L2-implement-number-theory-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Algorithm Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithmic-thinking/algorithmic-t
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithmic-thinking/competencies/L3-implement-number-theory-algorithms|L3- Implement Number Theory Algorithms]]
+- [[skills/programming/algorithms/algorithmic-thinking/competencies/L2-implement-number-theory-algorithms|L3- Implement Number Theory Algorithms]]
 
 ## Description
 

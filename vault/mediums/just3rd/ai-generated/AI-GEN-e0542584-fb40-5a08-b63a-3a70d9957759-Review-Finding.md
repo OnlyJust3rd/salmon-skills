@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/review-finding|Review Finding]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/review-finding|review-finding]]"
 ---
 # Understanding AI Review Findings
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/document-term-matrix-construction|Document-Term Matrix Construction]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/document-term-matrix-construction|document-term-matrix-construction]]"
 ---
 # Document-Term Matrix Construction
 

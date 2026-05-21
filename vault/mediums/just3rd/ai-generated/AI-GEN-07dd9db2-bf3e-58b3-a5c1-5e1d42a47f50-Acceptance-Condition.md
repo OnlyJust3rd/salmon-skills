@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-model-understanding/microskills/acceptance-condition|Acceptance Condition]]"
+  - "[[skills/programming/algorithms/computational-model-understanding/microskills/acceptance-condition|acceptance-condition]]"
 ---
 # Understanding the Acceptance Condition of a Finite Automaton
 

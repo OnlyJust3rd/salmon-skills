@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/vector-projection-interpretation|Vector projection interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/vector-projection-interpretation|vector-projection-interpretation]]"
 ---
 # Understanding Vector Projection: What it Means and Why We Use It
 

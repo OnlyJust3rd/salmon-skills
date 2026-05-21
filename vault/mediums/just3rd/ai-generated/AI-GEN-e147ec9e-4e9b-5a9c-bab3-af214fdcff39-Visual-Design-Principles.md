@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/character-design/microskills/visual-design-principles|Visual Design Principles]]"
+  - "[[skills/creative-media/game-development/character-design/microskills/visual-design-principles|visual-design-principles]]"
 ---
 # Applying Visual Design Principles for Character Communication
 

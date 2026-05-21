@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/shader-programming/microskills/texture-sampling|Texture Sampling]]"
+  - "[[skills/programming/programming-languages/shader-programming/microskills/texture-sampling|texture-sampling]]"
 ---
 # Texture Sampling in Shader Programming
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "I/O Management Terms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Operating System"
-parent-competency: "L1- Define OS Terms"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/operating-system/operating-system|operating-system]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-define-os-terms|L1-define-os-terms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # I/O Management Terms

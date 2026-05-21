@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/non-linear-complexity-analysis|Non-Linear Complexity Analysis]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/non-linear-complexity-analysis|non-linear-complexity-analysis]]"
 ---
 # Distinguishing Non-Linear Algorithmic Complexities: \(O(\log n)\), \(O(n \log n)\), and \(O(n^2)\)
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-need|Mutual Exclusion Need]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-need|mutual-exclusion-need]]"
 ---
 # The Critical Need for Mutual Exclusion
 

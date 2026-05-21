@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonal-vector-identification|Orthogonal vector identification]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/orthogonal-vector-identification|orthogonal-vector-identification]]"
 ---
 # Identifying Orthogonal Vectors
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/java-methods|Java Methods]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-methods|java-methods]]"
 ---
 # Understanding Java Methods
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Conceptual Architecture Development"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "System Design"
-parent-competency: "L3- Develop and Apply System Design"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/system-design/system-design|system-design]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/system-design/competencies/L2-develop-and-apply-system-design|L2-develop-and-apply-system-design]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Conceptual Architecture Development
@@ -15,7 +17,7 @@ Parent macro: [[skills/engineering/engineering-practices/system-design/system-de
 
 Parent competency:
 
-- [[skills/engineering/engineering-practices/system-design/competencies/L3-develop-and-apply-system-design|L3- Develop and Apply System Design]]
+- [[skills/engineering/engineering-practices/system-design/competencies/L2-develop-and-apply-system-design|L3- Develop and Apply System Design]]
 
 ## Description
 

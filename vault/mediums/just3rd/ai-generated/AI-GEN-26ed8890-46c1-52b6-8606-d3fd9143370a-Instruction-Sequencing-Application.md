@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-sequencing-application|Instruction Sequencing Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/instruction-sequencing-application|instruction-sequencing-application]]"
 ---
 # Applying Instruction Sequencing in Assembly Programming
 

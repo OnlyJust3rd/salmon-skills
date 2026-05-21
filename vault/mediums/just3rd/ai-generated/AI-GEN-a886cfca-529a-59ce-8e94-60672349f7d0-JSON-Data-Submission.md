@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-submission|JSON Data Submission]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-submission|json-data-submission]]"
 ---
 # Submitting Data with JSON via REST APIs
 

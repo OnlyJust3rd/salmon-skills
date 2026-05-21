@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/interfacing-capability-evaluation|Interfacing Capability Evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-design/microskills/interfacing-capability-evaluation|interfacing-capability-evaluation]]"
 ---
 # Evaluating Interfacing Capabilities of a Simple Processor
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-application|IPSec Tunnel Mode Application]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-application|ipsec-tunnel-mode-application]]"
 ---
 # IPSec Tunnel Mode Application
 

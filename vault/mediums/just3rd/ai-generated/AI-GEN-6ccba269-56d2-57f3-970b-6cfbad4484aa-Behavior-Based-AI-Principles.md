@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/behavior-based-ai-principles|Behavior-Based AI Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/behavior-based-ai-principles|behavior-based-ai-principles]]"
 ---
 # Understanding Behavior-Based AI Principles
 

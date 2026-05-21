@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-identification|Normal vector identification]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-identification|normal-vector-identification]]"
 ---
 # Understanding the Normal Vector in 3D Geometry
 

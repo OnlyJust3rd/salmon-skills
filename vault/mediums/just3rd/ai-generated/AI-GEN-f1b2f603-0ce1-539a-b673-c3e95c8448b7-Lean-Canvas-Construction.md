@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/lean-canvas-construction|Lean Canvas Construction]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/lean-canvas-construction|lean-canvas-construction]]"
 ---
 # Constructing Your Lean Canvas
 

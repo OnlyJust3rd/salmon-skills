@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/character-abilities-as-mechanics|Character Abilities as Mechanics]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/character-abilities-as-mechanics|character-abilities-as-mechanics]]"
 ---
 # Character Abilities as Gameplay Mechanics
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/bezier-curve-principles|Bézier Curve Principles]]"
+  - "[[skills/creative-media/graphics-media/curve-modeling/microskills/bezier-curve-principles|bezier-curve-principles]]"
 ---
 # Bézier Curve Principles
 

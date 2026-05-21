@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/mathematical-models|Mathematical Models]]"
+  - "[[skills/systems/networking/network-performance/microskills/mathematical-models|mathematical-models]]"
 ---
 # Applying Formulas for Network Performance Metrics
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Hybrid Encryption Scheme"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Cryptography for Digital Media Protection"
-parent-competency: "L3- Implement hybrid encryption"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/cryptography-for-digital-media-protection|cryptography-for-digital-media-protection]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-implement-hybrid-encryption|L2-implement-hybrid-encryption]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Hybrid Encryption Scheme
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/cryptography-for-digital-media-pro
 
 Parent competency:
 
-- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L3-implement-hybrid-encryption|L3- Implement hybrid encryption]]
+- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-implement-hybrid-encryption|L3- Implement hybrid encryption]]
 
 ## Description
 

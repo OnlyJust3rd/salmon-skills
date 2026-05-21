@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/d-flip-flop-operation|D Flip-Flop Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/d-flip-flop-operation|d-flip-flop-operation]]"
 ---
 # D Flip-Flop Operation
 

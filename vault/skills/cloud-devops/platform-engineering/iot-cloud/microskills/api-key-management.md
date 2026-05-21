@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "API Key Management"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Cloud"
-parent-competency: "L2- Azure IoT Hub Architecture and Security"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/iot-cloud/iot-cloud|iot-cloud]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L1-azure-iot-hub-architecture-and-security|L1-azure-iot-hub-architecture-and-security]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # API Key Management
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/iot-cloud/iot-cloud|IoT
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-azure-iot-hub-architecture-and-security|L2- Azure IoT Hub Architecture and Security]]
+- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L1-azure-iot-hub-architecture-and-security|L2- Azure IoT Hub Architecture and Security]]
 
 ## Description
 

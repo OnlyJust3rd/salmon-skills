@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/dbt/microskills/lineage-graph|Lineage Graph]]"
+  - "[[skills/data/data-platforms/dbt/microskills/lineage-graph|lineage-graph]]"
 ---
 # Understanding the dbt Lineage Graph
 

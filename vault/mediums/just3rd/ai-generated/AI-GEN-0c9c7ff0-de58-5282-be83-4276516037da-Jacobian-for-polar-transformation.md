@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/jacobian-for-polar-transformation|Jacobian for polar transformation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/jacobian-for-polar-transformation|jacobian-for-polar-transformation]]"
 ---
 # The Jacobian for Polar Coordinate Transformation
 

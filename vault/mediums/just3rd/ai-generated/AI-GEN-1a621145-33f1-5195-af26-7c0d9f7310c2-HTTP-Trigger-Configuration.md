@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/http-trigger-configuration|HTTP Trigger Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/http-trigger-configuration|http-trigger-configuration]]"
 ---
 # HTTP Trigger Configuration for Serverless Functions
 

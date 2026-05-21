@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/frequency-domain-watermark-characteristics|Frequency Domain Watermark Characteristics]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/frequency-domain-watermark-characteristics|frequency-domain-watermark-characteristics]]"
 ---
 # Frequency Domain Watermark Characteristics
 

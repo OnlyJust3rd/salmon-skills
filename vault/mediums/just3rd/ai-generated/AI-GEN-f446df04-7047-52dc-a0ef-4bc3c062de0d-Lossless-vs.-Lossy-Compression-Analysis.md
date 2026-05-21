@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/lossless-vs-lossy-compression-analysis|Lossless vs. Lossy Compression Analysis]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/lossless-vs-lossy-compression-analysis|lossless-vs-lossy-compression-analysis]]"
 ---
 # Lossless vs. Lossy Compression: Analyzing Huffman vs. DPCM
 

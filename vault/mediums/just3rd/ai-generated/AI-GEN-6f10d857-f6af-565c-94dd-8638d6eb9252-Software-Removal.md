@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-removal|Software Removal]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-removal|software-removal]]"
 ---
 # Uninstalling Software Packages in Linux
 

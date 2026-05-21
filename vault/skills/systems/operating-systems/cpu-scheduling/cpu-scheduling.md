@@ -1,19 +1,34 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "CPU Scheduling"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 333 - Operating Systems"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Analysis"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 15
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-333-operating-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/operating-systems/cpu-scheduling/competencies/L1-explain-scheduling-algorithms-and-operations|L1-explain-scheduling-algorithms-and-operations]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/competencies/L2-apply-and-analyze-scheduling-algorithms|L2-apply-and-analyze-scheduling-algorithms]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/competencies/L3-analyze-scheduling-performance|L3-analyze-scheduling-performance]]"
+standard-competency:
+  - "[[skills/systems/operating-systems/cpu-scheduling/competencies/L2-apply-and-analyze-scheduling-algorithms|L2-apply-and-analyze-scheduling-algorithms]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/competencies/L3-analyze-scheduling-performance|L3-analyze-scheduling-performance]]"
+microskills:
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|comparative-scheduling-performance]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|cpu-scheduling-algorithm-application]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/cpu-scheduling-decision-making|cpu-scheduling-decision-making]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/fifo-algorithm-principles|fifo-algorithm-principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/lottery-scheduling-principles|lottery-scheduling-principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/mlfq-algorithm-principles|mlfq-algorithm-principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/process-execution-simulation|process-execution-simulation]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|scheduling-algorithm-efficiency-analysis]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|scheduling-algorithm-fairness-analysis]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-performance-interpretation|scheduling-algorithm-performance-interpretation]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|sjf-algorithm-principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/stcf-algorithm-principles|stcf-algorithm-principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/turnaround-time-calculation|turnaround-time-calculation]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|waiting-time-calculation]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|workload-scenario-suitability]]"
 ---
 
 # CPU Scheduling
@@ -22,9 +37,9 @@ Designing and evaluating CPU scheduling strategies for efficient process executi
 
 ## Competencies
 
-- [[skills/systems/operating-systems/cpu-scheduling/competencies/L2-explain-scheduling-algorithms-and-operations|L2- Explain Scheduling Algorithms and Operations]]
-- [[skills/systems/operating-systems/cpu-scheduling/competencies/L3-apply-and-analyze-scheduling-algorithms|L3- Apply and Analyze Scheduling Algorithms]]
-- [[skills/systems/operating-systems/cpu-scheduling/competencies/L4-analyze-scheduling-performance|L4- Analyze Scheduling Performance]]
+- [[skills/systems/operating-systems/cpu-scheduling/competencies/L1-explain-scheduling-algorithms-and-operations|L2- Explain Scheduling Algorithms and Operations]]
+- [[skills/systems/operating-systems/cpu-scheduling/competencies/L2-apply-and-analyze-scheduling-algorithms|L3- Apply and Analyze Scheduling Algorithms]]
+- [[skills/systems/operating-systems/cpu-scheduling/competencies/L3-analyze-scheduling-performance|L4- Analyze Scheduling Performance]]
 
 ## Microskills
 

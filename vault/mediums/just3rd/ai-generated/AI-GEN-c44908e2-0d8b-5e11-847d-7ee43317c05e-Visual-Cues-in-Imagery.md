@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/visual-cues-in-imagery|Visual Cues in Imagery]]"
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/microskills/visual-cues-in-imagery|visual-cues-in-imagery]]"
 ---
 # Visual Cues in Imagery: Understanding Depth
 

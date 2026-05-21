@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Discrete Cosine Transform (DCT) Step"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Multimedia Compression"
-parent-competency: "L3- Implement DCT"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multimedia-compression/multimedia-compression|multimedia-compression]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multimedia-compression/competencies/L2-implement-dct|L2-implement-dct]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Discrete Cosine Transform (DCT) Step
@@ -15,7 +17,7 @@ Parent macro: [[multimedia-compression|Multimedia Compression]]
 
 Parent competency:
 
-- [[L3-implement-dct|L3- Implement DCT]]
+- [[skills/mathematics/multimedia-compression/competencies/L2-implement-dct|L3- Implement DCT]]
 
 ## Description
 

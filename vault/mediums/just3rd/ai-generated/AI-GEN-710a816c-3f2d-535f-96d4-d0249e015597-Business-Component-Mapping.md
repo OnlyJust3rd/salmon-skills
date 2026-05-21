@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/business-component-mapping|Business Component Mapping]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/business-component-mapping|business-component-mapping]]"
 ---
 # Mapping Your Business Components with Lean Canvas
 

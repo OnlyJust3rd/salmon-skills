@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/css/microskills/cascade-and-inheritance|Cascade and inheritance]]"
+  - "[[skills/web-and-design/frontend-ux/css/microskills/cascade-and-inheritance|cascade-and-inheritance]]"
 ---
 # Understanding CSS Cascade and Inheritance
 

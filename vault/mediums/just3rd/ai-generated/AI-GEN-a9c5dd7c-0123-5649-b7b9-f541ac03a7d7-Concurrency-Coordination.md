@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|Concurrency Coordination]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|concurrency-coordination]]"
 ---
 # Concurrency Coordination: Working Together Safely
 

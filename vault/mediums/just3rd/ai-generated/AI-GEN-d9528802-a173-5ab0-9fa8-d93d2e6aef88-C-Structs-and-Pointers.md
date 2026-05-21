@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/c-structs-and-pointers|C Structs and Pointers]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/c-structs-and-pointers|c-structs-and-pointers]]"
 ---
 # C Structs and Pointers: Building Blocks for Linked Structures
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-statement|Fundamental Theorem of Calculus statement]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-statement|fundamental-theorem-of-calculus-statement]]"
 ---
 # The Fundamental Theorem of Calculus: Part 1 Statement
 

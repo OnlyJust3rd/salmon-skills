@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/condition-variable-synchronization|Condition Variable Synchronization]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/condition-variable-synchronization|condition-variable-synchronization]]"
 ---
 # Condition Variables: Signaling and Waiting
 

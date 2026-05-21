@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/technical-communication/microskills/audience-consideration-in-presentations|Audience Consideration in Presentations]]"
+  - "[[skills/engineering/engineering-practices/technical-communication/microskills/audience-consideration-in-presentations|audience-consideration-in-presentations]]"
 ---
 # Audience Consideration in Presentations
 

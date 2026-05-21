@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/open-loop-gain-concepts|Open-Loop Gain Concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/open-loop-gain-concepts|open-loop-gain-concepts]]"
 ---
 # Op-Amp Open-Loop Gain: The Unamplified Power
 

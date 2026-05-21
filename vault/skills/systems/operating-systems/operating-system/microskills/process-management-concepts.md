@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Process Management Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Operating System"
-parent-competency: "L2- OS Core Management Theory"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/operating-system/operating-system|operating-system]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/operating-system/competencies/L1-os-core-management-theory|L1-os-core-management-theory]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Process Management Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/operating-system/operating-syst
 
 Parent competency:
 
-- [[skills/systems/operating-systems/operating-system/competencies/L2-os-core-management-theory|L2- OS Core Management Theory]]
+- [[skills/systems/operating-systems/operating-system/competencies/L1-os-core-management-theory|L2- OS Core Management Theory]]
 
 ## Description
 

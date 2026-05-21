@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Mobile Application Development"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Mobile Application Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/mobile/mobile-application-development/competencies/L1-explain-mobile-application-architecture|L1-explain-mobile-application-architecture]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/competencies/L2-implement-mobile-application-ui-and-state-flow|L2-implement-mobile-application-ui-and-state-flow]]"
+standard-competency:
+  - "[[skills/web-and-design/mobile/mobile-application-development/competencies/L2-implement-mobile-application-ui-and-state-flow|L2-implement-mobile-application-ui-and-state-flow]]"
+microskills:
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/application-state|application-state]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/mobile-screen-layout|mobile-screen-layout]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/navigation-flow|navigation-flow]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/navigation-state|navigation-state]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/screen|screen]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/ui-state-update|ui-state-update]]"
 ---
 
 # Mobile Application Development
@@ -20,8 +26,8 @@ Designing and implementing mobile application structure, screens, state flow, na
 
 ## Competencies
 
-- [[skills/web-and-design/mobile/mobile-application-development/competencies/L2-explain-mobile-application-architecture|L2- Explain Mobile Application Architecture]]
-- [[skills/web-and-design/mobile/mobile-application-development/competencies/L3-implement-mobile-application-ui-and-state-flow|L3- Implement Mobile Application UI and State Flow]]
+- [[skills/web-and-design/mobile/mobile-application-development/competencies/L1-explain-mobile-application-architecture|L2- Explain Mobile Application Architecture]]
+- [[skills/web-and-design/mobile/mobile-application-development/competencies/L2-implement-mobile-application-ui-and-state-flow|L3- Implement Mobile Application UI and State Flow]]
 
 ## Microskills
 

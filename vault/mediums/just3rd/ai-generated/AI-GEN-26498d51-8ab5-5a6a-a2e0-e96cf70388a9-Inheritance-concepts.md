@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-concepts|Inheritance concepts]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/inheritance-concepts|inheritance-concepts]]"
 ---
 # Understanding Inheritance: Supertype and Subtype Relationships
 

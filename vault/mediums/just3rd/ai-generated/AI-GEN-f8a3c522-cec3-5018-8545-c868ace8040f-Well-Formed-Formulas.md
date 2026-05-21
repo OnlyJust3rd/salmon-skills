@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/well-formed-formulas|Well-Formed Formulas]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/well-formed-formulas|well-formed-formulas]]"
 ---
 # Understanding Well-Formed Formulas in Propositional Logic
 

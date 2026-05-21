@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-service-selection|AWS Service Selection]]"
+  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-service-selection|aws-service-selection]]"
 ---
 # AWS Service Selection: Matching Needs to Solutions
 

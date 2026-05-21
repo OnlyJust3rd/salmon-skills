@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/player-progression-guidance|Player Progression Guidance]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/player-progression-guidance|player-progression-guidance]]"
 ---
 # Guiding Players: Using Interactive Elements for Progression
 

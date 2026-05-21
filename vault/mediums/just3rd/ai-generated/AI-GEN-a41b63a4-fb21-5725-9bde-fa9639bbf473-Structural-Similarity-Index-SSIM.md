@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/structural-similarity-index-ssim|Structural Similarity Index (SSIM)]]"
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/structural-similarity-index-ssim|Structural Similarity Index (SSIM)]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/structural-similarity-index-ssim|structural-similarity-index-ssim]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/structural-similarity-index-ssim|structural-similarity-index-ssim]]"
 ---
 # Structural Similarity Index (SSIM) for Watermarking Performance
 

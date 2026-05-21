@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define JSON Syntax and Data Types"
 tags:
   - "cpe"
   - "competency"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "JSON Format"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Computational Problem Solving"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/web-and-design/backend-api/json-format/json-format|json-format]]"
+requires-microskills:
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-document-validity|json-document-validity]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-object-and-array-structure|json-object-and-array-structure]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-primitive-literals|json-primitive-literals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define JSON Syntax and Data Types

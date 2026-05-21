@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-key-algorithm-principles|Symmetric Key Algorithm Principles]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-key-algorithm-principles|symmetric-key-algorithm-principles]]"
 ---
 # Symmetric Key Algorithm Principles
 

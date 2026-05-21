@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "ADC Conversion Process"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "AVR Peripheral Programming"
-parent-competency: "L1- Define AVR Peripherals"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/avr-peripheral-programming/avr-peripheral-programming|avr-peripheral-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/competencies/L1-define-avr-peripherals|L1-define-avr-peripherals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # ADC Conversion Process

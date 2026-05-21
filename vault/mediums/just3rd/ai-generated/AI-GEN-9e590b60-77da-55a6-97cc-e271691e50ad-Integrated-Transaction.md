@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/integrated-transaction|Integrated Transaction]]"
+  - "[[skills/business-it/business-product/enterprise-resource-planning/microskills/integrated-transaction|integrated-transaction]]"
 ---
 # Understanding Integrated Transactions in ERP
 

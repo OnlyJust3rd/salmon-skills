@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/parallel-work-review|Parallel Work Review]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/microskills/parallel-work-review|parallel-work-review]]"
 ---
 # Parallel Work Review with OpenAI Codex
 

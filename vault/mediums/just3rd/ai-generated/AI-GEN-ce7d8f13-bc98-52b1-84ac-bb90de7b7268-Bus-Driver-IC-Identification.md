@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-driver-ic-identification|Bus Driver IC Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/bus-driver-ic-identification|bus-driver-ic-identification]]"
 ---
 # Identifying Bus Driver ICs
 

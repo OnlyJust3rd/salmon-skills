@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-physical-robot-transition-factors|Simulation to Physical Robot Transition Factors]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-physical-robot-transition-factors|simulation-to-physical-robot-transition-factors]]"
 ---
 # Simulation to Physical Robot Transition Factors
 

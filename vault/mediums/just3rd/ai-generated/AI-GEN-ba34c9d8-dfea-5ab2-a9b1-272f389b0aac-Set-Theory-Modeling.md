@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/set-theory-modeling|Set Theory Modeling]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/set-theory-modeling|set-theory-modeling]]"
 ---
 # Modeling with Sets: A Foundation for Discrete Structures
 

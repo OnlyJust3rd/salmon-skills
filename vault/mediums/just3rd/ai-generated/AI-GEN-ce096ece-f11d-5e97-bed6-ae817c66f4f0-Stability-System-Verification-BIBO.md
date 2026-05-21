@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/stability-system-verification-bibo|Stability System Verification (BIBO)]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/stability-system-verification-bibo|stability-system-verification-bibo]]"
 ---
 # Stability System Verification (BIBO)
 

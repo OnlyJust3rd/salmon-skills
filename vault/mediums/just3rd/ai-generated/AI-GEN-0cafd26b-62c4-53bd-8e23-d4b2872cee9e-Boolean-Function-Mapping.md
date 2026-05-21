@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-function-mapping|Boolean Function Mapping]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/boolean-function-mapping|boolean-function-mapping]]"
 ---
 # Boolean Function Mapping to Logic Gates
 

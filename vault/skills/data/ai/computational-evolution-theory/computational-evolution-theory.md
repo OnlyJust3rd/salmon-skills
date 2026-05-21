@@ -1,17 +1,33 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Computational Evolution Theory"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-coverage:
-  - "Implementation"
-  - "Design"
-competency-count: 4
-microskill-count: 14
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-365-intelligent-robot-programming"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L1-biological-evolution-inspirations|L1-biological-evolution-inspirations]]"
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L1-evolutionary-theory-history-and-principles|L1-evolutionary-theory-history-and-principles]]"
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L1-principles-of-genetic-programming|L1-principles-of-genetic-programming]]"
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L2-genetic-programming-for-robotic-evolution|L2-genetic-programming-for-robotic-evolution]]"
+standard-competency:
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L2-genetic-programming-for-robotic-evolution|L2-genetic-programming-for-robotic-evolution]]"
+microskills:
+  - "[[skills/data/ai/computational-evolution-theory/microskills/application-of-genetic-programming|application-of-genetic-programming]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/biological-inspirations-for-computational-models|biological-inspirations-for-computational-models]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/core-principles-of-evolutionary-theory|core-principles-of-evolutionary-theory]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/core-tenets-of-genetic-programming|core-tenets-of-genetic-programming]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/darwinian-evolution-concepts|darwinian-evolution-concepts]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/evolution-of-robotic-behaviors-via-gp|evolution-of-robotic-behaviors-via-gp]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/evolution-of-subsumption-architectures|evolution-of-subsumption-architectures]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/evolutionary-concepts-in-computing|evolutionary-concepts-in-computing]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/genetic-programming-and-evolutionary-concepts|genetic-programming-and-evolutionary-concepts]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/genetic-programming-definition|genetic-programming-definition]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/genetic-programming-implementation-for-robots|genetic-programming-implementation-for-robots]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/gp-based-robotic-control-design|gp-based-robotic-control-design]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/historical-development-of-evolutionary-theory|historical-development-of-evolutionary-theory]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/relevance-to-computational-evolution|relevance-to-computational-evolution]]"
 ---
 
 # Computational Evolution Theory
@@ -20,10 +36,10 @@ Exploring biological inspirations for computational evolution, including evoluti
 
 ## Competencies
 
-- [[skills/data/ai/computational-evolution-theory/competencies/L2-evolutionary-theory-history-and-principles|L2- Evolutionary Theory History and Principles]]
-- [[skills/data/ai/computational-evolution-theory/competencies/L2-principles-of-genetic-programming|L2- Principles of Genetic Programming]]
+- [[skills/data/ai/computational-evolution-theory/competencies/L1-evolutionary-theory-history-and-principles|L2- Evolutionary Theory History and Principles]]
+- [[skills/data/ai/computational-evolution-theory/competencies/L1-principles-of-genetic-programming|L2- Principles of Genetic Programming]]
 - [[skills/data/ai/computational-evolution-theory/competencies/L1-biological-evolution-inspirations|L1- Biological Evolution Inspirations]]
-- [[skills/data/ai/computational-evolution-theory/competencies/L3-genetic-programming-for-robotic-evolution|L3- Genetic Programming for Robotic Evolution]]
+- [[skills/data/ai/computational-evolution-theory/competencies/L2-genetic-programming-for-robotic-evolution|L3- Genetic Programming for Robotic Evolution]]
 
 ## Microskills
 

@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/peak-signal-to-noise-ratio-psnr|Peak Signal-to-Noise Ratio (PSNR)]]"
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/peak-signal-to-noise-ratio-psnr|Peak Signal-to-Noise Ratio (PSNR)]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/peak-signal-to-noise-ratio-psnr|peak-signal-to-noise-ratio-psnr]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/peak-signal-to-noise-ratio-psnr|peak-signal-to-noise-ratio-psnr]]"
 ---
 # Understanding Peak Signal-to-Noise Ratio (PSNR) for Watermarking
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/shift-register-types|Shift Register Types]]"
+  - "[[skills/hardware-embedded/electronics-embedded/bus-drivers-registers-and-tri-state/microskills/shift-register-types|shift-register-types]]"
 ---
 # Shift Register Types: SISO, SIPO, PISO, PIPO
 

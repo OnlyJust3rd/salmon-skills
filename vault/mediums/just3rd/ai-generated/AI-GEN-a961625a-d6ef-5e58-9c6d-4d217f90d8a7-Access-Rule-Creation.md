@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-rule-creation|Access Rule Creation]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-rule-creation|access-rule-creation]]"
 ---
 # Creating Access Rules with Packet Filtering
 

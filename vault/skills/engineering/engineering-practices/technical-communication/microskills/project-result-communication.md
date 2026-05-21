@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Project Result Communication"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Technical Communication"
-parent-competency: "L1- Define and Communicate Technical Reports"
+  - "microskill"
+parent-skill: "[[skills/engineering/engineering-practices/technical-communication/technical-communication|technical-communication]]"
+requires-in-competencies:
+  - "[[skills/engineering/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1-define-and-communicate-technical-reports]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Project Result Communication

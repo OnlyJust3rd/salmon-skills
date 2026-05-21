@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/media-protection-with-hybrid-encryption|Media Protection with Hybrid Encryption]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/media-protection-with-hybrid-encryption|media-protection-with-hybrid-encryption]]"
 ---
 # Implementing Media Protection with Hybrid Encryption
 

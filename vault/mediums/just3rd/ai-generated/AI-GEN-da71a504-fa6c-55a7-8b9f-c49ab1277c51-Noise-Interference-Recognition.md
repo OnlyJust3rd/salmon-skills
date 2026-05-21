@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-interference-recognition|Noise Interference Recognition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-interference-recognition|noise-interference-recognition]]"
 ---
 # Recognizing Noise Interference in Digital Circuits
 

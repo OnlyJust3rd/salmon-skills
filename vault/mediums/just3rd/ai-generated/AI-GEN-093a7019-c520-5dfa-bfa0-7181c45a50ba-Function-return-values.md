@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/modular-program-design/microskills/function-return-values|Function return values]]"
+  - "[[skills/programming/software-engineering/modular-program-design/microskills/function-return-values|function-return-values]]"
 ---
 # Using Function Return Values in C
 

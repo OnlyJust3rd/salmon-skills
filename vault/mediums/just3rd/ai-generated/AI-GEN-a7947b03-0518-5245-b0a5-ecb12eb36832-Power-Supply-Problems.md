@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-supply-problems|Power Supply Problems]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/power-supply-problems|power-supply-problems]]"
 ---
 # Power Supply Problems in Digital Circuit Design
 

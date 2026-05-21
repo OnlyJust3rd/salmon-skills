@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Cryptographic Primitive Utilization"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Cryptography for Digital Media Protection"
-parent-competency: "L3- Apply Cryptographic Primitive"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/cryptography-for-digital-media-protection|cryptography-for-digital-media-protection]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-apply-cryptographic-primitive|L2-apply-cryptographic-primitive]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Cryptographic Primitive Utilization
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/cryptography-for-digital-media-pro
 
 Parent competency:
 
-- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L3-apply-cryptographic-primitive|L3- Apply Cryptographic Primitive]]
+- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-apply-cryptographic-primitive|L3- Apply Cryptographic Primitive]]
 
 ## Description
 

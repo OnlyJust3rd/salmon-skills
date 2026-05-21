@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/processor-design-execution|Processor Design Execution]]"
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/processor-design-execution|processor-design-execution]]"
 ---
 # Executing Your Processor Design with an Emulator
 

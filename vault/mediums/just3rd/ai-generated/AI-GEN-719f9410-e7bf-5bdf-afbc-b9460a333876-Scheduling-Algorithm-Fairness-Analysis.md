@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|Scheduling Algorithm Fairness Analysis]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|scheduling-algorithm-fairness-analysis]]"
 ---
 # Analyzing Fairness in CPU Scheduling Algorithms
 

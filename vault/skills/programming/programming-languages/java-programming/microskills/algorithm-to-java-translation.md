@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Algorithm to Java Translation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Java Programming"
-parent-competency: "L3- Translate Algorithms to Java"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/java-programming/java-programming|java-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-translate-algorithms-to-java|L2-translate-algorithms-to-java]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Algorithm to Java Translation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/java-programming/java-p
 
 Parent competency:
 
-- [[skills/programming/programming-languages/java-programming/competencies/L3-translate-algorithms-to-java|L3- Translate Algorithms to Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-translate-algorithms-to-java|L3- Translate Algorithms to Java]]
 
 ## Description
 

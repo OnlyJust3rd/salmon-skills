@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/java-constructors|Java Constructors]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-constructors|java-constructors]]"
 ---
 # Java Constructors: The Class's Special Method
 

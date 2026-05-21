@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/hpc-system/microskills/serverless-architecture-definition|Serverless Architecture Definition]]"
+  - "[[skills/systems/high-performance-computing/hpc-system/microskills/serverless-architecture-definition|serverless-architecture-definition]]"
 ---
 # Serverless Architecture: What It Is
 

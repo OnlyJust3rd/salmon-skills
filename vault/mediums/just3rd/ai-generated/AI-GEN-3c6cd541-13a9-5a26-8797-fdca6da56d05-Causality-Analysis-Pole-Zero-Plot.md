@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/causality-analysis-pole-zero-plot|Causality Analysis (Pole-Zero Plot)]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/causality-analysis-pole-zero-plot|causality-analysis-pole-zero-plot]]"
 ---
 # Causality Analysis Using Pole-Zero Plots
 

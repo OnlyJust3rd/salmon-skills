@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Structural Differences"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 241 - Database Systems"
-parent-macro: "Database System"
-parent-competency: "L2- Explain Relational vs NoSQL"
+  - "microskill"
+parent-skill: "[[skills/data/databases/database-system/database-system|database-system]]"
+requires-in-competencies:
+  - "[[skills/data/databases/database-system/competencies/L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Structural Differences
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/databases/database-system/database-system|Database S
 
 Parent competency:
 
-- [[skills/data/databases/database-system/competencies/L2-explain-relational-vs-nosql|L2- Explain Relational vs NoSQL]]
+- [[skills/data/databases/database-system/competencies/L1-explain-relational-vs-nosql|L2- Explain Relational vs NoSQL]]
 
 ## Description
 

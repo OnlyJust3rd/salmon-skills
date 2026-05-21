@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/endpoint-administration/microskills/configuration-review|Configuration Review]]"
+  - "[[skills/business-it/business-product/endpoint-administration/microskills/configuration-review|configuration-review]]"
 ---
 # Configuration Review: Ensuring Endpoint Baseline Compliance
 

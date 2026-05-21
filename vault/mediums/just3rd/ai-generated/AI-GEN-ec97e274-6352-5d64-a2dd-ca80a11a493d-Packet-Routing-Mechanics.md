@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/packet-routing-mechanics|Packet Routing Mechanics]]"
+  - "[[skills/systems/networking/network-layer/microskills/packet-routing-mechanics|packet-routing-mechanics]]"
 ---
 # Understanding Packet Routing Mechanics
 

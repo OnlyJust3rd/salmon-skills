@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-development-lifecycle/microskills/game-development-lifecycle-stages|Game Development Lifecycle Stages]]"
+  - "[[skills/creative-media/game-development/game-development-lifecycle/microskills/game-development-lifecycle-stages|game-development-lifecycle-stages]]"
 ---
 # Understanding the Game Development Lifecycle Stages
 

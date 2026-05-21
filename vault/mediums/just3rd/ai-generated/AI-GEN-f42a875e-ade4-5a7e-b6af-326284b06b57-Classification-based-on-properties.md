@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/classification-based-on-properties|Classification based on properties]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/classification-based-on-properties|classification-based-on-properties]]"
 ---
 # Analyzing Quadratic Forms: Classifying by Definiteness
 

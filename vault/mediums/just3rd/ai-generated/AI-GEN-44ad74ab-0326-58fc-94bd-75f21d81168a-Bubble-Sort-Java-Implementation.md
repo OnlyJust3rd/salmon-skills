@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/bubble-sort-java-implementation|Bubble Sort Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/bubble-sort-java-implementation|bubble-sort-java-implementation]]"
 ---
 # Bubble Sort Java Implementation
 

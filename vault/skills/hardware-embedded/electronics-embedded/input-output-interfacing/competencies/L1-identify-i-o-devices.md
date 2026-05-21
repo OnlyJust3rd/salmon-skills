@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify I/O Devices"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Input Output Interfacing"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Datapath Components Definition"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/competencies/L1-datapath-components-definition|L1-datapath-components-definition]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/input-output-interfacing|input-output-interfacing]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/basic-i-o-device-functions|basic-i-o-device-functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/common-input-devices|common-input-devices]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/common-output-devices|common-output-devices]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify I/O Devices

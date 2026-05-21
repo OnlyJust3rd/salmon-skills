@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/color-model-components-and-characteristics|Color Model Components and Characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/color-model-components-and-characteristics|color-model-components-and-characteristics]]"
 ---
 # Understanding Color Model Components and Characteristics
 

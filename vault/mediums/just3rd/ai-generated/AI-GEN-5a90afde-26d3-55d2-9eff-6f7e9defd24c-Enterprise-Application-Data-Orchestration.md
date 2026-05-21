@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/enterprise-application-data-orchestration|Enterprise Application Data Orchestration]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/enterprise-application-data-orchestration|enterprise-application-data-orchestration]]"
 ---
 # Orchestrating Enterprise Data with REST APIs and JSON
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/textual-noise-elimination-rationale|Textual Noise Elimination Rationale]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/textual-noise-elimination-rationale|textual-noise-elimination-rationale]]"
 ---
 # Why Textual Noise Elimination Matters
 

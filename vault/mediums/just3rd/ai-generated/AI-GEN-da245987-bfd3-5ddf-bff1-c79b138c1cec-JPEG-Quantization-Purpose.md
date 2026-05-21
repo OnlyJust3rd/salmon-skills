@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-quantization-purpose|JPEG Quantization Purpose]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-quantization-purpose|jpeg-quantization-purpose]]"
 ---
 # The Purpose of Quantization in JPEG Compression
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/inter-tier-communication-flow|Inter-Tier Communication Flow]]"
+  - "[[skills/data/databases/database-system/microskills/inter-tier-communication-flow|inter-tier-communication-flow]]"
 ---
 # Understanding Inter-Tier Communication Flow in Web-DB Architecture
 

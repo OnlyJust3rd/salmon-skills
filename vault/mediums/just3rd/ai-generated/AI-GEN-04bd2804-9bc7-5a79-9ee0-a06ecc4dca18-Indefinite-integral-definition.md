@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/indefinite-integral-definition|Indefinite integral definition]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/indefinite-integral-definition|indefinite-integral-definition]]"
 ---
 # Understanding the Indefinite Integral Definition
 

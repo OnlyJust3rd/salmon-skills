@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/i-o-port-functionality|I/O Port Functionality]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/i-o-port-functionality|i-o-port-functionality]]"
 ---
 # Understanding I/O Port Functionality in AVR Microcontrollers
 

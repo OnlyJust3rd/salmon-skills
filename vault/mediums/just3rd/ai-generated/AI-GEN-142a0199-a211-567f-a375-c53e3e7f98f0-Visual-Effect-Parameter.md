@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/shader-programming/microskills/visual-effect-parameter|Visual Effect Parameter]]"
+  - "[[skills/programming/programming-languages/shader-programming/microskills/visual-effect-parameter|visual-effect-parameter]]"
 ---
 # Understanding and Adjusting Visual Effect Parameters
 

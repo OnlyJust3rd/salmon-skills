@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/implement-data-science-workflow-in-python-workflow-steps|Implement Data Science Workflow in Python workflow steps]]"
+  - "[[skills/programming/programming-languages/python/microskills/implement-data-science-workflow-in-python-workflow-steps|implement-data-science-workflow-in-python-workflow-steps]]"
 ---
 # Implementing the Data Science Workflow in Python: Step-by-Step
 

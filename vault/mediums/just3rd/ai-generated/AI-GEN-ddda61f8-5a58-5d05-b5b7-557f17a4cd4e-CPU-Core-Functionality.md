@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/cpu-core-functionality|CPU Core Functionality]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/cpu-core-functionality|cpu-core-functionality]]"
 ---
 # Understanding the AVR CPU Core's Role
 

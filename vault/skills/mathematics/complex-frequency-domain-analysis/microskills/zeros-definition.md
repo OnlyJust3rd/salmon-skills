@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Zeros Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Complex Frequency Domain Analysis"
-parent-competency: "L1- Define Fundamental Concepts"
+  - "microskill"
+parent-skill: "[[skills/mathematics/complex-frequency-domain-analysis/complex-frequency-domain-analysis|complex-frequency-domain-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/complex-frequency-domain-analysis/competencies/L1-define-fundamental-concepts|L1-define-fundamental-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Zeros Definition
@@ -15,7 +17,7 @@ Parent macro: [[complex-frequency-domain-analysis|Complex Frequency Domain Analy
 
 Parent competency:
 
-- [[L1-define-fundamental-concepts|L1- Define Fundamental Concepts]]
+- [[skills/mathematics/complex-frequency-domain-analysis/competencies/L1-define-fundamental-concepts|L1- Define Fundamental Concepts]]
 
 ## Description
 

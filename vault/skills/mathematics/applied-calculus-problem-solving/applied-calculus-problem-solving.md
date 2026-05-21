@@ -1,18 +1,26 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Applied Calculus Problem Solving"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 101 - Mathematics I"
-coverage:
-  - "Implementation"
-  - "Analysis"
-  - "Representation"
-competency-count: 3
-microskill-count: 8
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-101-mathematics-i"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/applied-calculus-problem-solving/competencies/L1-recall-calculus-problem-solving-components|L1-recall-calculus-problem-solving-components]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/competencies/L1-explain-calculus-relationships|L1-explain-calculus-relationships]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/competencies/L2-solve-applied-calculus-problems|L2-solve-applied-calculus-problems]]"
+standard-competency:
+  - "[[skills/mathematics/applied-calculus-problem-solving/competencies/L2-solve-applied-calculus-problems|L2-solve-applied-calculus-problems]]"
+microskills:
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/calculus-based-graph-sketching|calculus-based-graph-sketching]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/curve-sketching-criteria|curve-sketching-criteria]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/definite-integral-area-relationship|definite-integral-area-relationship]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/derivative-function-behavior-relationship|derivative-function-behavior-relationship]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/optimization-problem-definitions|optimization-problem-definitions]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/real-world-optimization-problem-solving|real-world-optimization-problem-solving]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/real-world-related-rates-problem-solving|real-world-related-rates-problem-solving]]"
+  - "[[skills/mathematics/applied-calculus-problem-solving/microskills/related-rates-problem-steps|related-rates-problem-steps]]"
 ---
 
 # Applied Calculus Problem Solving
@@ -21,9 +29,9 @@ Apply calculus concepts to solve practical problems involving related rates, opt
 
 ## Competencies
 
-- [[L1-recall-calculus-problem-solving-components|L1- Recall calculus problem-solving components]]
-- [[L2-explain-calculus-relationships|L2- Explain calculus relationships]]
-- [[L3-solve-applied-calculus-problems|L3- Solve applied calculus problems]]
+- [[skills/mathematics/applied-calculus-problem-solving/competencies/L1-recall-calculus-problem-solving-components|L1- Recall calculus problem-solving components]]
+- [[skills/mathematics/applied-calculus-problem-solving/competencies/L1-explain-calculus-relationships|L2- Explain calculus relationships]]
+- [[skills/mathematics/applied-calculus-problem-solving/competencies/L2-solve-applied-calculus-problems|L3- Solve applied calculus problems]]
 
 ## Microskills
 

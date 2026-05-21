@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Line-plane orthogonality analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Geometric Formulation"
-parent-competency: "L4- Analyze Relative Positions of Lines and Planes"
+  - "microskill"
+parent-skill: "[[skills/mathematics/geometric-formulation/geometric-formulation|geometric-formulation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/geometric-formulation/competencies/L3-analyze-relative-positions-of-lines-and-planes|L3-analyze-relative-positions-of-lines-and-planes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Line-plane orthogonality analysis
@@ -15,7 +17,7 @@ Parent macro: [[geometric-formulation|Geometric Formulation]]
 
 Parent competency:
 
-- [[L4-analyze-relative-positions-of-lines-and-planes|L4- Analyze Relative Positions of Lines and Planes]]
+- [[skills/mathematics/geometric-formulation/competencies/L3-analyze-relative-positions-of-lines-and-planes|L4- Analyze Relative Positions of Lines and Planes]]
 
 ## Description
 

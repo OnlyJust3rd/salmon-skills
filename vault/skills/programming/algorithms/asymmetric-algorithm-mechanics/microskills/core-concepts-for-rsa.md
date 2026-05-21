@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Core Concepts for RSA"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Asymmetric Algorithm Mechanics"
-parent-competency: "L1- List key principles and foundations"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/asymmetric-algorithm-mechanics|asymmetric-algorithm-mechanics]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/competencies/L1-list-key-principles-and-foundations|L1-list-key-principles-and-foundations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Core Concepts for RSA

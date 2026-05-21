@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/kerberos-effectiveness-evaluation|Kerberos Effectiveness Evaluation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/kerberos-effectiveness-evaluation|kerberos-effectiveness-evaluation]]"
 ---
 # Evaluating Kerberos Effectiveness
 

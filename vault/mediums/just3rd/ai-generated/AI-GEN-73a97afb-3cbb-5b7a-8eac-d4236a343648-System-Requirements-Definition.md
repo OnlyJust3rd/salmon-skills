@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/system-requirements-definition|System Requirements Definition]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/system-requirements-definition|system-requirements-definition]]"
 ---
 # Defining System Requirements: Functional vs. Non-Functional
 

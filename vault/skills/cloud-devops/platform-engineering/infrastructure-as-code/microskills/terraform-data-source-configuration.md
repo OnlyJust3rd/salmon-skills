@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Terraform Data Source Configuration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-parent-competency: "L3- Use Data Sources"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-use-data-sources|L2-use-data-sources]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Terraform Data Source Configuration
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/infrastructure-as-code/
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-use-data-sources|L3- Use Data Sources]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-use-data-sources|L3- Use Data Sources]]
 
 ## Description
 

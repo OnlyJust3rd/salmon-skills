@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/requirement-specification-application|Requirement Specification Application]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/requirement-specification-application|requirement-specification-application]]"
 ---
 # Requirement Specification Application
 

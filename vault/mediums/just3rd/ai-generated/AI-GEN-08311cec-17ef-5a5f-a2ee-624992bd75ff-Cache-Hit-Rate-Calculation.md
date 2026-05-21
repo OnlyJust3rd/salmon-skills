@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-hit-rate-calculation|Cache Hit Rate Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-hit-rate-calculation|cache-hit-rate-calculation]]"
 ---
 # Calculating Cache Hit Rate
 

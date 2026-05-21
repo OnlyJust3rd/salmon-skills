@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/unique-solution-application|Unique solution application]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/unique-solution-application|unique-solution-application]]"
 ---
 # Applying Cramer's Rule to Systems with a Unique Solution
 

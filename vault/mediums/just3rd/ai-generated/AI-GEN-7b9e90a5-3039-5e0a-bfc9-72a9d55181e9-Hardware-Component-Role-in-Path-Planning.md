@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/hardware-component-role-in-path-planning|Hardware Component Role in Path Planning]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/hardware-component-role-in-path-planning|hardware-component-role-in-path-planning]]"
 ---
 # Hardware Components in Robotic Path Planning
 

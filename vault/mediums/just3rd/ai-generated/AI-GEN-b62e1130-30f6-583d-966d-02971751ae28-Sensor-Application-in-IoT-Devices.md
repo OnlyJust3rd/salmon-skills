@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sensor-application-in-iot-devices|Sensor Application in IoT Devices]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sensor-application-in-iot-devices|sensor-application-in-iot-devices]]"
 ---
 # Applying Sensors in IoT Devices
 

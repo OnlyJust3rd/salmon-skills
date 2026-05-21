@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/build-cache-utilization|Build Cache Utilization]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/build-cache-utilization|build-cache-utilization]]"
 ---
 # Build Cache Utilization in Docker
 

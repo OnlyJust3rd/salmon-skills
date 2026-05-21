@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/storyboard-and-use-case-application|Storyboard and Use Case Application]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/storyboard-and-use-case-application|storyboard-and-use-case-application]]"
 ---
 # Storyboarding and Use Cases: Modeling User Interactions
 

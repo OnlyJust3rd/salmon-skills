@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/substitute-competitors|Substitute Competitors]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/substitute-competitors|substitute-competitors]]"
 ---
 # Substitute Competitors: Finding Alternatives
 

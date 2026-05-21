@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/trend-identification-in-iot-data|Trend Identification in IoT Data]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/trend-identification-in-iot-data|trend-identification-in-iot-data]]"
 ---
 # Identifying Trends in IoT Data
 

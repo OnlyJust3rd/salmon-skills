@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/automatic-scaling|Automatic Scaling]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/automatic-scaling|automatic-scaling]]"
 ---
 # Automatic Scaling in Serverless
 

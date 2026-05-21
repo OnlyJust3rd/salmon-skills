@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermarking-type-categorization|Watermarking Type Categorization]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermarking-type-categorization|watermarking-type-categorization]]"
 ---
 # Categorizing Watermarking Types
 

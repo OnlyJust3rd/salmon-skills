@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/motivation-drivers|Motivation Drivers]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/motivation-drivers|motivation-drivers]]"
 ---
 # Understanding Motivation Drivers in Player Psychology
 

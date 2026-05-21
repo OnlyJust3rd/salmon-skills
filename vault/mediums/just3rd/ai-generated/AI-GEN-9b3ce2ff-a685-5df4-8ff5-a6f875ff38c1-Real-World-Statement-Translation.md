@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/real-world-statement-translation|Real-World Statement Translation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/microskills/real-world-statement-translation|real-world-statement-translation]]"
 ---
 # Translating Real-World Statements into Propositional Logic
 

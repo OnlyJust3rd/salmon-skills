@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/interface-characteristics|Interface Characteristics]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/interface-characteristics|interface-characteristics]]"
 ---
 # Understanding Interface Characteristics
 

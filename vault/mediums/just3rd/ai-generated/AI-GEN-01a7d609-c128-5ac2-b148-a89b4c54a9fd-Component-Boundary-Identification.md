@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/component-boundary-identification|Component Boundary Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/component-boundary-identification|component-boundary-identification]]"
 ---
 # Identifying Component Boundaries
 

@@ -1,17 +1,30 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Quadratic Forms and Definiteness"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "MTH 234 - Linear Algebra"
-coverage:
-  - "Concept"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 11
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/mth-234-linear-algebra"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/competencies/L1-define-and-represent-quadratic-forms|L1-define-and-represent-quadratic-forms]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/competencies/L2-apply-eigenvalue-test|L2-apply-eigenvalue-test]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/competencies/L3-differentiate-quadratic-forms|L3-differentiate-quadratic-forms]]"
+standard-competency:
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/competencies/L2-apply-eigenvalue-test|L2-apply-eigenvalue-test]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/competencies/L3-differentiate-quadratic-forms|L3-differentiate-quadratic-forms]]"
+microskills:
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/classification-based-on-properties|classification-based-on-properties]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/definiteness-properties|definiteness-properties]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/eigenvalue-computation-for-definiteness|eigenvalue-computation-for-definiteness]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/indefinite-characteristics|indefinite-characteristics]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/indefinite-classification|indefinite-classification]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/negative-definite-characteristics|negative-definite-characteristics]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/negative-definite-classification|negative-definite-classification]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/positive-definite-characteristics|positive-definite-characteristics]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/positive-definite-classification|positive-definite-classification]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/quadratic-form-definition|quadratic-form-definition]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/symmetric-matrix-representation|symmetric-matrix-representation]]"
 ---
 
 # Quadratic Forms and Definiteness
@@ -20,9 +33,9 @@ Analyze quadratic forms and determine definiteness properties, linking algebraic
 
 ## Competencies
 
-- [[L2-define-and-represent-quadratic-forms|L2- Define and represent quadratic forms]]
-- [[L3-apply-eigenvalue-test|L3- Apply eigenvalue test]]
-- [[L4-differentiate-quadratic-forms|L4- Differentiate quadratic forms]]
+- [[skills/mathematics/quadratic-forms-and-definiteness/competencies/L1-define-and-represent-quadratic-forms|L2- Define and represent quadratic forms]]
+- [[skills/mathematics/quadratic-forms-and-definiteness/competencies/L2-apply-eigenvalue-test|L3- Apply eigenvalue test]]
+- [[skills/mathematics/quadratic-forms-and-definiteness/competencies/L3-differentiate-quadratic-forms|L4- Differentiate quadratic forms]]
 
 ## Microskills
 

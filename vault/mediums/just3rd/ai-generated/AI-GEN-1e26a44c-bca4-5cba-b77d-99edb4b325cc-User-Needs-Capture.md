@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-needs-capture|User Needs Capture]]"
+  - "[[skills/web-and-design/frontend-ux/user-centered-design/microskills/user-needs-capture|user-needs-capture]]"
 ---
 # Understanding User Needs Capture in UCD: Personas and Scenarios
 

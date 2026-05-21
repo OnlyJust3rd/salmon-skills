@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Text Cleaning Terminology"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Cleaning and Normalization"
-parent-competency: "L1- Define Text Cleaning Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-cleaning-and-normalization/text-cleaning-and-normalization|text-cleaning-and-normalization]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-cleaning-and-normalization/competencies/L1-define-text-cleaning-concepts|L1-define-text-cleaning-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Text Cleaning Terminology

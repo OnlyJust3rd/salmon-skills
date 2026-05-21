@@ -1,17 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Component-based Web UI"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - web stack skills"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Frontend Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/competencies/L1-explain-component-architecture-props-and-state|L1-explain-component-architecture-props-and-state]]"
+standard-competency:
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/competencies/L1-explain-component-architecture-props-and-state|L1-explain-component-architecture-props-and-state]]"
+microskills:
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/component-boundaries|component-boundaries]]"
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/local-state|local-state]]"
+  - "[[skills/web-and-design/frontend-ux/component-based-web-ui/microskills/props-as-contracts|props-as-contracts]]"
 ---
 
 # Component-based Web UI
@@ -20,7 +22,7 @@ Understanding reusable web user interface components with props, state, and one-
 
 ## Competencies
 
-- [[skills/web-and-design/frontend-ux/component-based-web-ui/competencies/L2-explain-component-architecture-props-and-state|L2- Explain Component Architecture Props and State]]
+- [[skills/web-and-design/frontend-ux/component-based-web-ui/competencies/L1-explain-component-architecture-props-and-state|L2- Explain Component Architecture Props and State]]
 
 ## Microskills
 

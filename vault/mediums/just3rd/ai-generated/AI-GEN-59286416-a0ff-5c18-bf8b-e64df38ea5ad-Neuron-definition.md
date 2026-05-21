@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/deep-learning/microskills/neuron-definition|Neuron definition]]"
+  - "[[skills/data/ai/deep-learning/microskills/neuron-definition|neuron-definition]]"
 ---
 # The Neuron: The Building Block of Neural Networks
 

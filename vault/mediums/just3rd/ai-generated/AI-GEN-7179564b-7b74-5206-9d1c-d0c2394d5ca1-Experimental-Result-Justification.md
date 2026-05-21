@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/experimental-result-justification|Experimental Result Justification]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/experimental-result-justification|experimental-result-justification]]"
 ---
 # Justifying Diode Circuit Experimental Results
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/multimedia-compression-stages|Multimedia Compression Stages]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/multimedia-compression-stages|multimedia-compression-stages]]"
 ---
 # Understanding Multimedia Compression Stages
 

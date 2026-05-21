@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/value-theory-market-sizing|Value Theory Market Sizing]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/value-theory-market-sizing|value-theory-market-sizing]]"
 ---
 # Value Theory Market Sizing
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/mathematical-induction-principles|Mathematical Induction Principles]]"
+  - "[[skills/mathematics/proof-techniques/microskills/mathematical-induction-principles|mathematical-induction-principles]]"
 ---
 # Understanding Mathematical Induction Principles
 

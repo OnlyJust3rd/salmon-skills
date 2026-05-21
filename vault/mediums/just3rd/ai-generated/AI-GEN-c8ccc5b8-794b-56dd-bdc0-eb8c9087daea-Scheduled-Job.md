@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/databricks/microskills/scheduled-job|Scheduled Job]]"
+  - "[[skills/data/data-platforms/databricks/microskills/scheduled-job|scheduled-job]]"
 ---
 # Automating Databricks Workflows with Scheduled Jobs
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-memory-allocation|Virtual Memory Allocation]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/virtual-memory-allocation|virtual-memory-allocation]]"
 ---
 # Virtual Memory Allocation: Understanding How VMs Get Their RAM
 

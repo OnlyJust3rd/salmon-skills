@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/suitability-analysis|Suitability analysis]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/suitability-analysis|suitability-analysis]]"
 ---
 # Choosing the Right Algorithm Blueprint: Flowcharts vs. Pseudocode
 

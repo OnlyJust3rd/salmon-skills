@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Image Compression Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Image Compression"
-parent-competency: "L1- Image and MPEG compression fundamentals"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/image-compression/image-compression|image-compression]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/image-compression/competencies/L1-image-and-mpeg-compression-fundamentals|L1-image-and-mpeg-compression-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Image Compression Principles

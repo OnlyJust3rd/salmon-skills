@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Keyboard Accessibility"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - frontend web skills"
-parent-macro: "Web Accessibility"
-parent-competency: "L2- Explain Web Accessibility Principles"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/web-accessibility/web-accessibility|web-accessibility]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/web-accessibility/competencies/L1-explain-web-accessibility-principles|L1-explain-web-accessibility-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Keyboard Accessibility
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/web-accessibility/web-accessib
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/web-accessibility/competencies/L2-explain-web-accessibility-principles|L2- Explain Web Accessibility Principles]]
+- [[skills/web-and-design/frontend-ux/web-accessibility/competencies/L1-explain-web-accessibility-principles|L2- Explain Web Accessibility Principles]]
 
 ## Description
 

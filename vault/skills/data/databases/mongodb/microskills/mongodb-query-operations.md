@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "MongoDB Query Operations"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 241 - Database Systems"
-parent-macro: "MongoDB"
-parent-competency: "L3- Apply MongoDB CRUD Operations"
+  - "microskill"
+parent-skill: "[[skills/data/databases/mongodb/mongodb|mongodb]]"
+requires-in-competencies:
+  - "[[skills/data/databases/mongodb/competencies/L2-apply-mongodb-crud-operations|L2-apply-mongodb-crud-operations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # MongoDB Query Operations
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/databases/mongodb/mongodb|MongoDB]]
 
 Parent competency:
 
-- [[skills/data/databases/mongodb/competencies/L3-apply-mongodb-crud-operations|L3- Apply MongoDB CRUD Operations]]
+- [[skills/data/databases/mongodb/competencies/L2-apply-mongodb-crud-operations|L3- Apply MongoDB CRUD Operations]]
 
 ## Description
 

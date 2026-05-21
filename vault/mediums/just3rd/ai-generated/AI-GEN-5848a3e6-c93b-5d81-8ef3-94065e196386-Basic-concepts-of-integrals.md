@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/basic-concepts-of-integrals|Basic concepts of integrals]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/basic-concepts-of-integrals|basic-concepts-of-integrals]]"
 ---
 # Understanding the Basic Concepts of Integrals
 

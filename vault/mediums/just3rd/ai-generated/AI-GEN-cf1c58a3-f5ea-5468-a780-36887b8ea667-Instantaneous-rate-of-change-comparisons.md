@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/instantaneous-rate-of-change-comparisons|Instantaneous rate of change comparisons]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/instantaneous-rate-of-change-comparisons|instantaneous-rate-of-change-comparisons]]"
 ---
 # Comparing Rates of Change with the Mean Value Theorem
 

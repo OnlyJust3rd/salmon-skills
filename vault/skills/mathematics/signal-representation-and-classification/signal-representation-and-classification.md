@@ -1,17 +1,38 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Signal Representation and Classification"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 5
-microskill-count: 18
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-313-signals-and-linear-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1-signal-fundamentals]]"
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-continuous-vs-discrete-signals-explained|L1-continuous-vs-discrete-signals-explained]]"
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-classification-characteristics|L1-signal-classification-characteristics]]"
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-representation-and-visualization|L1-signal-representation-and-visualization]]"
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-unit-functions-properties|L1-unit-functions-properties]]"
+standard-competency:
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-continuous-vs-discrete-signals-explained|L1-continuous-vs-discrete-signals-explained]]"
+microskills:
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/aperiodic-signal-attributes|aperiodic-signal-attributes]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/continuous-time-signal-characteristics|continuous-time-signal-characteristics]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/discrete-time-signal-characteristics|discrete-time-signal-characteristics]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/exponential-signal-forms|exponential-signal-forms]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/fundamental-signal-components|fundamental-signal-components]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/graphical-signal-representations|graphical-signal-representations]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/mathematical-signal-models|mathematical-signal-models]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/mathematical-signal-representation|mathematical-signal-representation]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/periodic-signal-attributes|periodic-signal-attributes]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-classifications|signal-classifications]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-model-to-graph-mapping|signal-model-to-graph-mapping]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/signal-type-comparison|signal-type-comparison]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/sinusoidal-signal-forms|sinusoidal-signal-forms]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/standard-signal-functions|standard-signal-functions]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/time-domain-signal-visualization|time-domain-signal-visualization]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-function-interpretation|unit-function-interpretation]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-impulse-function-properties|unit-impulse-function-properties]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/unit-step-function-properties|unit-step-function-properties]]"
 ---
 
 # Signal Representation and Classification
@@ -20,11 +41,11 @@ Representing and classifying continuous-time and discrete-time signals using mat
 
 ## Competencies
 
-- [[L1-signal-fundamentals|L1- Signal Fundamentals]]
-- [[L2-continuous-vs-discrete-signals-explained|L2- Continuous vs. Discrete Signals Explained]]
-- [[L2-signal-classification-characteristics|L2- Signal Classification Characteristics]]
-- [[L2-unit-functions-properties|L2- Unit Functions Properties]]
-- [[L2-signal-representation-and-visualization|L2- Signal Representation and Visualization]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-fundamentals|L1- Signal Fundamentals]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-continuous-vs-discrete-signals-explained|L2- Continuous vs. Discrete Signals Explained]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-classification-characteristics|L2- Signal Classification Characteristics]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-unit-functions-properties|L2- Unit Functions Properties]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-signal-representation-and-visualization|L2- Signal Representation and Visualization]]
 
 ## Microskills
 

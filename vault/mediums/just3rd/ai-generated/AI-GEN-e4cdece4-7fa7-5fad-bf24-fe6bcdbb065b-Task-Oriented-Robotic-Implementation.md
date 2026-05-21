@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/task-oriented-robotic-implementation|Task-Oriented Robotic Implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/task-oriented-robotic-implementation|task-oriented-robotic-implementation]]"
 ---
 # Implementing a Task with a Robotic System
 

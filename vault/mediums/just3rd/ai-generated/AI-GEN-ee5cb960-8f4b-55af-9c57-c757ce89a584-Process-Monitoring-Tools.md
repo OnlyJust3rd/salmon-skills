@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/process-monitoring-tools|Process Monitoring Tools]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/process-monitoring-tools|process-monitoring-tools]]"
 ---
 # Monitoring Processes with `top` and `htop`
 

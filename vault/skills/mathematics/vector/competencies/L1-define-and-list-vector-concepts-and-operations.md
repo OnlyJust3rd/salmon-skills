@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and List Vector Concepts and Operations"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Vector"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/vector/vector|vector]]"
+requires-microskills:
+  - "[[skills/mathematics/vector/microskills/fundamental-vector-operations-enumeration|fundamental-vector-operations-enumeration]]"
+  - "[[skills/mathematics/vector/microskills/scalar-quantity-definition|scalar-quantity-definition]]"
+  - "[[skills/mathematics/vector/microskills/vector-quantity-definition|vector-quantity-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and List Vector Concepts and Operations

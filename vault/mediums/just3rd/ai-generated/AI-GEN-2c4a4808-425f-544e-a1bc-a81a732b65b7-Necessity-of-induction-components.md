@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/mathematical-induction/microskills/necessity-of-induction-components|Necessity of induction components]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/necessity-of-induction-components|necessity-of-induction-components]]"
 ---
 # Why Every Piece of Induction Matters
 

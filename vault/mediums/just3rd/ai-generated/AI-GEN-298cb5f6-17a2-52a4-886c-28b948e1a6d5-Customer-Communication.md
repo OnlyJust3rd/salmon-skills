@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/customer-communication|Customer Communication]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/customer-communication|customer-communication]]"
 ---
 # Adapting Messages for End-Users (Customer Communication)
 

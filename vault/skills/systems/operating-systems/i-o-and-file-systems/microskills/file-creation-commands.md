@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "File Creation Commands"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "I/O and File Systems"
-parent-competency: "L3- File Operation Commands"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-file-systems|i-o-and-file-systems]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-file-operation-commands|L2-file-operation-commands]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # File Creation Commands
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/i-o-and-file-systems/i-o-and-fi
 
 Parent competency:
 
-- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L3-file-operation-commands|L3- File Operation Commands]]
+- [[skills/systems/operating-systems/i-o-and-file-systems/competencies/L2-file-operation-commands|L3- File Operation Commands]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-spark/microskills/lazy-evaluation|Lazy Evaluation]]"
+  - "[[skills/data/data-platforms/apache-spark/microskills/lazy-evaluation|lazy-evaluation]]"
 ---
 # Lazy Evaluation in Apache Spark
 

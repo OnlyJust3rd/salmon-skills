@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/volume-calculation-using-triple-integrals|Volume calculation using triple integrals]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/volume-calculation-using-triple-integrals|volume-calculation-using-triple-integrals]]"
 ---
 # Calculating Volume with Triple Integrals
 

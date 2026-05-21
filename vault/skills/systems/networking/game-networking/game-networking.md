@@ -1,17 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Game Networking"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - game development production skills"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Gameplay Programmer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/networking/game-networking/competencies/L1-explain-multiplayer-networking-concepts|L1-explain-multiplayer-networking-concepts]]"
+  - "[[skills/systems/networking/game-networking/competencies/L2-apply-client-server-synchronization-concepts|L2-apply-client-server-synchronization-concepts]]"
+standard-competency:
+  - "[[skills/systems/networking/game-networking/competencies/L2-apply-client-server-synchronization-concepts|L2-apply-client-server-synchronization-concepts]]"
+microskills:
+  - "[[skills/systems/networking/game-networking/microskills/interpolation|interpolation]]"
+  - "[[skills/systems/networking/game-networking/microskills/latency|latency]]"
+  - "[[skills/systems/networking/game-networking/microskills/prediction|prediction]]"
+  - "[[skills/systems/networking/game-networking/microskills/reconciliation|reconciliation]]"
+  - "[[skills/systems/networking/game-networking/microskills/replication|replication]]"
+  - "[[skills/systems/networking/game-networking/microskills/server-authority|server-authority]]"
 ---
 
 # Game Networking
@@ -20,8 +26,8 @@ Understanding multiplayer networking, client-server models, state synchronizatio
 
 ## Competencies
 
-- [[skills/systems/networking/game-networking/competencies/L2-explain-multiplayer-networking-concepts|L2- Explain Multiplayer Networking Concepts]]
-- [[skills/systems/networking/game-networking/competencies/L3-apply-client-server-synchronization-concepts|L3- Apply Client Server Synchronization Concepts]]
+- [[skills/systems/networking/game-networking/competencies/L1-explain-multiplayer-networking-concepts|L2- Explain Multiplayer Networking Concepts]]
+- [[skills/systems/networking/game-networking/competencies/L2-apply-client-server-synchronization-concepts|L3- Apply Client Server Synchronization Concepts]]
 
 ## Microskills
 

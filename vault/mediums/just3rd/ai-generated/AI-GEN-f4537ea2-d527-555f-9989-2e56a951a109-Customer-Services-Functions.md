@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/customer-services-functions|Customer Services Functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/customer-services-functions|customer-services-functions]]"
 ---
 # Understanding Customer Service Functions
 

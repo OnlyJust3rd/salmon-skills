@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/network-throughput|Network Throughput]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/network-throughput|network-throughput]]"
 ---
 # Understanding Network Throughput for System Monitoring
 

@@ -1,0 +1,20 @@
+{
+  "name": "salmon",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Skill-Aligned Learning Map Ontology workspace",
+  "license": "Apache-2.0",
+  "type": "module",
+  "packageManager": "pnpm@10.23.0",
+  "engines": {
+    "node": "22.13.0"
+  },
+  "scripts": {
+    "build": "pnpm graph && pnpm --recursive --if-present build",
+    "dev:explorer": "pnpm --filter @salmon/explorer dev",
+    "graph": "pnpm --filter @salmon/vault-parser graph",
+    "lint": "pnpm --recursive --if-present lint",
+    "test": "pnpm --recursive --if-present test",
+    "validate": "pnpm --filter @salmon/vault-parser validate"
+  }
+}

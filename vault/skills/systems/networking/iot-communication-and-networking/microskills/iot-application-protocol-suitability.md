@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "IoT Application Protocol Suitability"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Communication and Networking"
-parent-competency: "L4- Analyze IoT Application Layer Protocols"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/iot-communication-and-networking/iot-communication-and-networking|iot-communication-and-networking]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/iot-communication-and-networking/competencies/L3-analyze-iot-application-layer-protocols|L3-analyze-iot-application-layer-protocols]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # IoT Application Protocol Suitability
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/iot-communication-and-networking/iot-c
 
 Parent competency:
 
-- [[skills/systems/networking/iot-communication-and-networking/competencies/L4-analyze-iot-application-layer-protocols|L4- Analyze IoT Application Layer Protocols]]
+- [[skills/systems/networking/iot-communication-and-networking/competencies/L3-analyze-iot-application-layer-protocols|L4- Analyze IoT Application Layer Protocols]]
 
 ## Description
 

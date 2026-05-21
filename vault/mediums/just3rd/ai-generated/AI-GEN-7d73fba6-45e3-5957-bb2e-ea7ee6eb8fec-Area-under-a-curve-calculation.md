@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/area-under-a-curve-calculation|Area under a curve calculation]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/area-under-a-curve-calculation|area-under-a-curve-calculation]]"
 ---
 # Calculating Area Under a Curve Using Definite Integrals
 

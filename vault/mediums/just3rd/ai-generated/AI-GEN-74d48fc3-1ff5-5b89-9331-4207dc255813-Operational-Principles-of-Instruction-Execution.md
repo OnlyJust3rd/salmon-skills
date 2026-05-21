@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/operational-principles-of-instruction-execution|Operational Principles of Instruction Execution]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/operational-principles-of-instruction-execution|operational-principles-of-instruction-execution]]"
 ---
 # The Instruction Execution Cycle: A Journey Through the CPU
 

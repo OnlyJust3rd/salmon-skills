@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/refactoring/microskills/code-smell-identification|Code Smell Identification]]"
+  - "[[skills/programming/software-engineering/refactoring/microskills/code-smell-identification|code-smell-identification]]"
 ---
 # Recognizing Code Smells
 

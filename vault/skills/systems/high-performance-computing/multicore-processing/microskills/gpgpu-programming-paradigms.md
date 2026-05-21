@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "GPGPU Programming Paradigms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Multicore Processing"
-parent-competency: "L2- Summarize GPGPU Programming Model"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/multicore-processing/multicore-processing|multicore-processing]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/multicore-processing/competencies/L1-summarize-gpgpu-programming-model|L1-summarize-gpgpu-programming-model]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # GPGPU Programming Paradigms
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/multicore-processing/m
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/multicore-processing/competencies/L2-summarize-gpgpu-programming-model|L2- Summarize GPGPU Programming Model]]
+- [[skills/systems/high-performance-computing/multicore-processing/competencies/L1-summarize-gpgpu-programming-model|L2- Summarize GPGPU Programming Model]]
 
 ## Description
 

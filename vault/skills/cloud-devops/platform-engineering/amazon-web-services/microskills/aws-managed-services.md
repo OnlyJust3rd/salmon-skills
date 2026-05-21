@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "AWS Managed Services"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-parent-macro: "Amazon Web Services"
-parent-competency: "L2- Explain AWS Core Cloud Services"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/amazon-web-services/amazon-web-services|amazon-web-services]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/competencies/L1-explain-aws-core-cloud-services|L1-explain-aws-core-cloud-services]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # AWS Managed Services
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/amazon-web-services/ama
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/amazon-web-services/competencies/L2-explain-aws-core-cloud-services|L2- Explain AWS Core Cloud Services]]
+- [[skills/cloud-devops/platform-engineering/amazon-web-services/competencies/L1-explain-aws-core-cloud-services|L2- Explain AWS Core Cloud Services]]
 
 ## Description
 

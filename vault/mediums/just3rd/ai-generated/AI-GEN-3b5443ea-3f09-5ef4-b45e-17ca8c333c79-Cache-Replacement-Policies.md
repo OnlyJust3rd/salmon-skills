@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-replacement-policies|Cache Replacement Policies]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-replacement-policies|cache-replacement-policies]]"
 ---
 # Cache Replacement Policies: Keeping Your Cache Smart
 

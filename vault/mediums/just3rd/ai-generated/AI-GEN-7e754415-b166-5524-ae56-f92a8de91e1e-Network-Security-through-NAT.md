@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/network-security-through-nat|Network Security through NAT]]"
+  - "[[skills/systems/networking/network-layer/microskills/network-security-through-nat|network-security-through-nat]]"
 ---
 # Network Security through NAT
 

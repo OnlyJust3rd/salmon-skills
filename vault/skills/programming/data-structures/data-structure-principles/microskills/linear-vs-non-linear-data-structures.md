@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Linear vs. Non-linear Data Structures"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Data Structure Principles"
-parent-competency: "L2- Explain Data Structure Properties and Classifications"
+  - "microskill"
+parent-skill: "[[skills/programming/data-structures/data-structure-principles/data-structure-principles|data-structure-principles]]"
+requires-in-competencies:
+  - "[[skills/programming/data-structures/data-structure-principles/competencies/L1-explain-data-structure-properties-and-classifications|L1-explain-data-structure-properties-and-classifications]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Linear vs. Non-linear Data Structures
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/data-structures/data-structure-principles/dat
 
 Parent competency:
 
-- [[skills/programming/data-structures/data-structure-principles/competencies/L2-explain-data-structure-properties-and-classifications|L2- Explain Data Structure Properties and Classifications]]
+- [[skills/programming/data-structures/data-structure-principles/competencies/L1-explain-data-structure-properties-and-classifications|L2- Explain Data Structure Properties and Classifications]]
 
 ## Description
 

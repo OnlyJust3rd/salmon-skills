@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-data-management|Volume Data Management]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-data-management|volume-data-management]]"
 ---
 # Understanding Docker Volume Data Management
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/low-code-platform-usage|Low-Code Platform Usage]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/low-code-platform-usage|low-code-platform-usage]]"
 ---
 # Mastering Low-Code for IoT Workflows
 

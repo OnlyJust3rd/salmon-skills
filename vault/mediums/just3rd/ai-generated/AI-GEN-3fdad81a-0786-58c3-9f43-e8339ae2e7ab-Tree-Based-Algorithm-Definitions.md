@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/tree-based-algorithm-definitions|Tree-Based Algorithm Definitions]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/tree-based-algorithm-definitions|tree-based-algorithm-definitions]]"
 ---
 # Tree-Based Algorithm Definitions
 

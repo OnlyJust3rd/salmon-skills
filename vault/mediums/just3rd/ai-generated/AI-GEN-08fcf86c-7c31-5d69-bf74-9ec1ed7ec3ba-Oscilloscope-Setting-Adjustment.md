@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-setting-adjustment|Oscilloscope Setting Adjustment]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-setting-adjustment|oscilloscope-setting-adjustment]]"
 ---
 # Oscilloscope Setting Adjustment for Waveform Capture
 

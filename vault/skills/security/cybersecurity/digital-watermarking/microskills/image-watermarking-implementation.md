@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Image Watermarking Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Watermarking"
-parent-competency: "L3- Implement Watermarking Algorithms"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/digital-watermarking/digital-watermarking|digital-watermarking]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/digital-watermarking/competencies/L2-implement-watermarking-algorithms|L2-implement-watermarking-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Image Watermarking Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/digital-watermarking/digital-water
 
 Parent competency:
 
-- [[skills/security/cybersecurity/digital-watermarking/competencies/L3-implement-watermarking-algorithms|L3- Implement Watermarking Algorithms]]
+- [[skills/security/cybersecurity/digital-watermarking/competencies/L2-implement-watermarking-algorithms|L3- Implement Watermarking Algorithms]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/external-interrupt-configuration|External Interrupt Configuration]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/external-interrupt-configuration|external-interrupt-configuration]]"
 ---
 # External Interrupt Configuration for AVR Microcontrollers
 

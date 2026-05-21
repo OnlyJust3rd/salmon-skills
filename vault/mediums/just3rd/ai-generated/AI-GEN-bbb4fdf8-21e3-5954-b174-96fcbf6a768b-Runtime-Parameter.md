@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-animation/microskills/runtime-parameter|Runtime Parameter]]"
+  - "[[skills/creative-media/game-development/game-animation/microskills/runtime-parameter|runtime-parameter]]"
 ---
 # Driving Animation with Runtime Parameters
 

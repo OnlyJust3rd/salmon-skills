@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/ethernet-protocol-operations|Ethernet Protocol Operations]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/ethernet-protocol-operations|ethernet-protocol-operations]]"
 ---
 # Ethernet Protocol Operations: How Devices Talk on Your Network
 

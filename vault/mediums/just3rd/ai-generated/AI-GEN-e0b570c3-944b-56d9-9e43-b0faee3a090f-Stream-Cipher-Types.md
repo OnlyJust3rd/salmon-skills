@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/stream-cipher-types|Stream Cipher Types]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/stream-cipher-types|stream-cipher-types]]"
 ---
 # Identifying Stream Ciphers
 

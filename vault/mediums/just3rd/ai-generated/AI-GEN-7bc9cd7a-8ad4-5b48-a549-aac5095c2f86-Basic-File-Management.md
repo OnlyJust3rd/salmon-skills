@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/basic-file-management|Basic File Management]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/basic-file-management|basic-file-management]]"
 ---
 # Basic File Management: Create, Read, and Write
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/typescript/microskills/compile-targets|Compile targets]]"
+  - "[[skills/programming/programming-languages/typescript/microskills/compile-targets|compile-targets]]"
 ---
 # TypeScript Compile Targets: From Code to JavaScript
 

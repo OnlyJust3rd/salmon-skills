@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-distortion-analysis|Projection Distortion Analysis]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-distortion-analysis|projection-distortion-analysis]]"
 ---
 # Projection Distortion Analysis
 

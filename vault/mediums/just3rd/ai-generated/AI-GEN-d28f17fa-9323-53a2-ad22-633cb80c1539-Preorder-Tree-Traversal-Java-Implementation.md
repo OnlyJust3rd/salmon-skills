@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/preorder-tree-traversal-java-implementation|Preorder Tree Traversal Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/preorder-tree-traversal-java-implementation|preorder-tree-traversal-java-implementation]]"
 ---
 # Preorder Tree Traversal in Java
 

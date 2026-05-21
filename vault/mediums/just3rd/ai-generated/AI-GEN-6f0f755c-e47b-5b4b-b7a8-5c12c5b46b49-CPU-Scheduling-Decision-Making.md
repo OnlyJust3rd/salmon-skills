@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/cpu-scheduling-decision-making|CPU Scheduling Decision-Making]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/cpu-scheduling-decision-making|cpu-scheduling-decision-making]]"
 ---
 # CPU Scheduling: Making the Decisions
 

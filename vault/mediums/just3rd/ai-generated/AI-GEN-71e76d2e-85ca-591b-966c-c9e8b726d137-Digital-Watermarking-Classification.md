@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-classification|Digital Watermarking Classification]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/digital-watermarking-classification|digital-watermarking-classification]]"
 ---
 # Digital Watermarking: Classifying Techniques
 

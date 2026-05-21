@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/key-serverless-characteristics|Key Serverless Characteristics]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/key-serverless-characteristics|key-serverless-characteristics]]"
 ---
 # Key Serverless Characteristics
 

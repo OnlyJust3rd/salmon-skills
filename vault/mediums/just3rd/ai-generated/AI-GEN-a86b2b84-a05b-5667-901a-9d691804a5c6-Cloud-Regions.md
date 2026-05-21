@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/cloud-regions|Cloud Regions]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-infrastructure/microskills/cloud-regions|cloud-regions]]"
 ---
 # Cloud Regions: Your Global Data Center Footprint
 

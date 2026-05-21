@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modularity-impact|Modularity Impact]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modularity-impact|modularity-impact]]"
 ---
 # The Impact of Modularity on System Design
 

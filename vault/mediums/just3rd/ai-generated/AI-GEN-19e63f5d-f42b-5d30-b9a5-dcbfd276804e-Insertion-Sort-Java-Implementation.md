@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/insertion-sort-java-implementation|Insertion Sort Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/insertion-sort-java-implementation|insertion-sort-java-implementation]]"
 ---
 # Insertion Sort: Java Implementation
 

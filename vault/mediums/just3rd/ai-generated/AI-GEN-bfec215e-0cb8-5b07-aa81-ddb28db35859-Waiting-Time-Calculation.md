@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|Waiting Time Calculation]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|waiting-time-calculation]]"
 ---
 # Calculating Waiting Time in CPU Scheduling
 

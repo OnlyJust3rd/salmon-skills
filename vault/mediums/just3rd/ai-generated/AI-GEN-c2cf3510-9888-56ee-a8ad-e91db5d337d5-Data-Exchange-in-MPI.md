@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/data-exchange-in-mpi|Data Exchange in MPI]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/data-exchange-in-mpi|data-exchange-in-mpi]]"
 ---
 # Data Exchange in MPI
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/use-case-suitability|Use Case Suitability]]"
+  - "[[skills/data/databases/database-system/microskills/use-case-suitability|use-case-suitability]]"
 ---
 # Matching Databases to the Job: Relational vs. NoSQL Use Cases
 

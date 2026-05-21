@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/helm-chart-installation|Helm Chart Installation]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/helm-chart-installation|helm-chart-installation]]"
 ---
 # Installing Applications with Helm Charts
 

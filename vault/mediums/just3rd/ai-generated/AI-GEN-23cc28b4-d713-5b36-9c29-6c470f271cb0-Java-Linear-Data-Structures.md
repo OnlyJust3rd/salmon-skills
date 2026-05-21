@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/java-linear-data-structures|Java Linear Data Structures]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-linear-data-structures|java-linear-data-structures]]"
 ---
 # Java Linear Data Structures: Building Blocks for Data Management
 

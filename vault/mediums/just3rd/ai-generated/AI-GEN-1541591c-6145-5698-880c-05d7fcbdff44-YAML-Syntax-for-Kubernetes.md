@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/yaml-syntax-for-kubernetes|YAML Syntax for Kubernetes]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/yaml-syntax-for-kubernetes|yaml-syntax-for-kubernetes]]"
 ---
 # YAML Syntax for Kubernetes Pods
 

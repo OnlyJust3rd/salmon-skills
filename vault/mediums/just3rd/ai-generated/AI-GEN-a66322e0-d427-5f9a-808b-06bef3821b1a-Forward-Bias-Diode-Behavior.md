@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/forward-bias-diode-behavior|Forward Bias Diode Behavior]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/forward-bias-diode-behavior|forward-bias-diode-behavior]]"
 ---
 # Forward Bias Diode Behavior
 

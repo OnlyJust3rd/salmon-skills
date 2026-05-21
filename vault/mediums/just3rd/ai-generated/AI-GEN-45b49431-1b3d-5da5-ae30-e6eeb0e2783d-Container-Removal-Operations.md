@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-removal-operations|Container Removal Operations]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-removal-operations|container-removal-operations]]"
 ---
 # Removing Docker Containers
 

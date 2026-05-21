@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-definitions|Data Structure Definitions]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-definitions|data-structure-definitions]]"
 ---
 # Data Structure Definitions
 

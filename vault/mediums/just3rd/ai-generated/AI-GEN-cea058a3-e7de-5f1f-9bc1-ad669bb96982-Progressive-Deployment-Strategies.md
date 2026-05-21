@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/progressive-deployment-strategies|Progressive Deployment Strategies]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/progressive-deployment-strategies|progressive-deployment-strategies]]"
 ---
 # Progressive Deployment Strategies: Blue-Green and Canary Releases
 

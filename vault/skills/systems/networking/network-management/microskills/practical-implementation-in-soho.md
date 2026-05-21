@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Practical Implementation in SOHO"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Management"
-parent-competency: "L2- Explain SOHO Network Management Purpose and Application"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-management/network-management|network-management]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-management/competencies/L1-explain-soho-network-management-purpose-and-application|L1-explain-soho-network-management-purpose-and-application]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Practical Implementation in SOHO
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-management/network-management|
 
 Parent competency:
 
-- [[skills/systems/networking/network-management/competencies/L2-explain-soho-network-management-purpose-and-application|L2- Explain SOHO Network Management Purpose and Application]]
+- [[skills/systems/networking/network-management/competencies/L1-explain-soho-network-management-purpose-and-application|L2- Explain SOHO Network Management Purpose and Application]]
 
 ## Description
 

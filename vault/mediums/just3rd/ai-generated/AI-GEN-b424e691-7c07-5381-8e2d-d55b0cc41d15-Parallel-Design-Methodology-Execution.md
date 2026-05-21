@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/parallel-algorithm/microskills/parallel-design-methodology-execution|Parallel Design Methodology Execution]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/parallel-design-methodology-execution|parallel-design-methodology-execution]]"
 ---
 # Executing Foster's Parallel Design Methodology
 

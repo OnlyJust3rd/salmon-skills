@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/continuous-improvement-reflection|Continuous Improvement Reflection]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/continuous-improvement-reflection|continuous-improvement-reflection]]"
 ---
 # Continuous Improvement Reflection: Analyzing Your Sprint Workflow
 

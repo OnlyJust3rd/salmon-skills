@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/function-modeling|Function Modeling]]"
+  - "[[skills/programming/data-structures/discrete-structure-modeling/microskills/function-modeling|function-modeling]]"
 ---
 # Modeling Mappings with Functions
 

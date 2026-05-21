@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-behavior|UML Diagram Application for Behavior]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-application-for-behavior|uml-diagram-application-for-behavior]]"
 ---
 # Modeling Dynamic System Processes with UML: Behavior Diagrams
 

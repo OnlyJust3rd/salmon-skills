@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-scaling|Image Scaling]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-scaling|image-scaling]]"
 ---
 # Image Scaling: Resizing Your Digital Images
 

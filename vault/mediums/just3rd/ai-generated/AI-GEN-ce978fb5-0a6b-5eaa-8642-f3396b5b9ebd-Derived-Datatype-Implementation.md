@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/derived-datatype-implementation|Derived Datatype Implementation]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/derived-datatype-implementation|derived-datatype-implementation]]"
 ---
 # Understanding Derived Datatypes in MPI
 

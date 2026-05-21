@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/augmented-matrix-representation|Augmented matrix representation]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/augmented-matrix-representation|augmented-matrix-representation]]"
 ---
 # Representing Systems of Equations as Augmented Matrices
 

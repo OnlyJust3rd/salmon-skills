@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Visual Dashboard Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "IoT Cloud"
-parent-competency: "L3- Design Visual Dashboard"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/iot-cloud/iot-cloud|iot-cloud]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-design-visual-dashboard|L2-design-visual-dashboard]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Visual Dashboard Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/iot-cloud/iot-cloud|IoT
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L3-design-visual-dashboard|L3- Design Visual Dashboard]]
+- [[skills/cloud-devops/platform-engineering/iot-cloud/competencies/L2-design-visual-dashboard|L3- Design Visual Dashboard]]
 
 ## Description
 

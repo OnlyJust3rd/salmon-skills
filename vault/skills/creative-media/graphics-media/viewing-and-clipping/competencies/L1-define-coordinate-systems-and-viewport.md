@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Coordinate Systems and Viewport"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Viewing and Clipping"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Identify and Define Geometric Transformations"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-identify-and-define-geometric-transformations|L1-identify-and-define-geometric-transformations]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/graphics-media/viewing-and-clipping/viewing-and-clipping|viewing-and-clipping]]"
+requires-microskills:
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/view-coordinates|view-coordinates]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/viewport-definition|viewport-definition]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/window-definition|window-definition]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/world-coordinates|world-coordinates]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Coordinate Systems and Viewport

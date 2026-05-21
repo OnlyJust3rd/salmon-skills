@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/database-connectivity|Database Connectivity]]"
+  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/database-connectivity|database-connectivity]]"
 ---
 # Database Connectivity: Bridging Your Application and Data
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/figma/microskills/design-comment|Design Comment]]"
+  - "[[skills/web-and-design/frontend-ux/figma/microskills/design-comment|design-comment]]"
 ---
 # Capturing Collaboration Feedback: Figma's Design Comment Feature
 

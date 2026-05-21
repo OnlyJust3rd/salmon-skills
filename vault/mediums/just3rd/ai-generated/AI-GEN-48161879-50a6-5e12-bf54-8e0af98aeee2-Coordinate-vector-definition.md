@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/coordinate-vector-definition|Coordinate vector definition]]"
+  - "[[skills/mathematics/vector-space/microskills/coordinate-vector-definition|coordinate-vector-definition]]"
 ---
 # Understanding Coordinate Vectors
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/hash-function-properties|Hash Function Properties]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/hash-function-properties|hash-function-properties]]"
 ---
 # Understanding Hash Function Properties
 

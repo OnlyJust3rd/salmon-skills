@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/execution-of-computer-arithmetic|Execution of Computer Arithmetic]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/execution-of-computer-arithmetic|execution-of-computer-arithmetic]]"
 ---
 # Execution of Computer Arithmetic
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/societal-behavior-influence|Societal Behavior Influence]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/societal-behavior-influence|societal-behavior-influence]]"
 ---
 # Understanding Societal Behavior Influence Through Social Media
 

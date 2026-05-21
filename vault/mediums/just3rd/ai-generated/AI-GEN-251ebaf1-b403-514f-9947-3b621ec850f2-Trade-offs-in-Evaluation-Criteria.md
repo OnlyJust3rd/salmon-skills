@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/trade-offs-in-evaluation-criteria|Trade-offs in Evaluation Criteria]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/trade-offs-in-evaluation-criteria|trade-offs-in-evaluation-criteria]]"
 ---
 # Understanding Trade-offs in Selective Encryption Evaluation Criteria
 

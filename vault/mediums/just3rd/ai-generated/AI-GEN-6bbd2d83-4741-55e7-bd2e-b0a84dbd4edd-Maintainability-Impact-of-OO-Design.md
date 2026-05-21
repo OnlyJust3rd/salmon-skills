@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/maintainability-impact-of-oo-design|Maintainability Impact of OO Design]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/maintainability-impact-of-oo-design|maintainability-impact-of-oo-design]]"
 ---
 # How OO Design Principles Make Software Easier to Maintain
 

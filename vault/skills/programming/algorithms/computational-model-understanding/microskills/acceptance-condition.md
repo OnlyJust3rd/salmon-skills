@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Acceptance Condition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Computational Model Understanding"
-parent-competency: "L2- Explain Finite Automaton Behavior and Definition"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/computational-model-understanding/computational-model-understanding|computational-model-understanding]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/computational-model-understanding/competencies/L1-explain-finite-automaton-behavior-and-definition|L1-explain-finite-automaton-behavior-and-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Acceptance Condition
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/computational-model-understanding/
 
 Parent competency:
 
-- [[skills/programming/algorithms/computational-model-understanding/competencies/L2-explain-finite-automaton-behavior-and-definition|L2- Explain Finite Automaton Behavior and Definition]]
+- [[skills/programming/algorithms/computational-model-understanding/competencies/L1-explain-finite-automaton-behavior-and-definition|L2- Explain Finite Automaton Behavior and Definition]]
 
 ## Description
 

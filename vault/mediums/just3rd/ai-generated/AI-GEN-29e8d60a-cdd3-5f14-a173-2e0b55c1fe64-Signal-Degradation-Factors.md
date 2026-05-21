@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/signal-degradation-factors|Signal Degradation Factors]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/signal-degradation-factors|signal-degradation-factors]]"
 ---
 # Understanding Signal Degradation Factors
 

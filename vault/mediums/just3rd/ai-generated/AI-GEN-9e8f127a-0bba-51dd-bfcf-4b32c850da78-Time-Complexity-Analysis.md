@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/time-complexity-analysis|Time Complexity Analysis]]"
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/time-complexity-analysis|Time Complexity Analysis]]"
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/microskills/time-complexity-analysis|time-complexity-analysis]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/time-complexity-analysis|time-complexity-analysis]]"
 ---
 # Understanding Big O for Time Complexity
 

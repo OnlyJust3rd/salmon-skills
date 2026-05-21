@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-problem-solving/microskills/problem-specification|Problem Specification]]"
+  - "[[skills/programming/algorithms/computational-problem-solving/microskills/problem-specification|problem-specification]]"
 ---
 # Defining Problems: Inputs, Outputs, and Constraints
 

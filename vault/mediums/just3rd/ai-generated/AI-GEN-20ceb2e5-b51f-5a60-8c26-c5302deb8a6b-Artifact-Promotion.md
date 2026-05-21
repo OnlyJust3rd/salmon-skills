@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/artifact-management/microskills/artifact-promotion|Artifact Promotion]]"
+  - "[[skills/cloud-devops/platform-engineering/artifact-management/microskills/artifact-promotion|artifact-promotion]]"
 ---
 # Artifact Promotion
 

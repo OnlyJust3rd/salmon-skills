@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Modularity Explanation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Architecture"
-parent-competency: "L2- Explain Software Architecture Qualities"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/software-architecture/software-architecture|software-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-explain-software-architecture-qualities|L1-explain-software-architecture-qualities]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Modularity Explanation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/software-architect
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L2-explain-software-architecture-qualities|L2- Explain Software Architecture Qualities]]
+- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-explain-software-architecture-qualities|L2- Explain Software Architecture Qualities]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/parallel-algorithm/microskills/foster-s-methodology-application|Foster's Methodology Application]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/foster-s-methodology-application|foster-s-methodology-application]]"
 ---
 # Applying Foster's Methodology to Parallel Application Design
 

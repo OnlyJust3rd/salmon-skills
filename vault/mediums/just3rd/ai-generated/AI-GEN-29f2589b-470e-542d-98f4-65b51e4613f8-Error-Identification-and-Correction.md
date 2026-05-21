@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/error-identification-and-correction|Error Identification and Correction]]"
+  - "[[skills/hardware-embedded/electronics-embedded/emulator-usage/microskills/error-identification-and-correction|error-identification-and-correction]]"
 ---
 # Identifying and Correcting Errors in Processor Designs using an Emulator
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Physical Design Verification Mitigation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Hardware Troubleshooting"
-parent-competency: "L3- Troubleshoot and mitigate hardware challenges"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/hardware-troubleshooting|hardware-troubleshooting]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L2-troubleshoot-and-mitigate-hardware-challenges|L2-troubleshoot-and-mitigate-hardware-challenges]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Physical Design Verification Mitigation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/hardware-troublesh
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L3-troubleshoot-and-mitigate-hardware-challenges|L3- Troubleshoot and mitigate hardware challenges]]
+- [[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/competencies/L2-troubleshoot-and-mitigate-hardware-challenges|L3- Troubleshoot and mitigate hardware challenges]]
 
 ## Description
 

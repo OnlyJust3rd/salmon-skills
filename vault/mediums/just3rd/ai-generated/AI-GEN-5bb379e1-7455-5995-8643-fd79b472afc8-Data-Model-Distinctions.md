@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/data-model-distinctions|Data Model Distinctions]]"
+  - "[[skills/data/databases/database-system/microskills/data-model-distinctions|data-model-distinctions]]"
 ---
 # Data Model Distinctions: Relational vs. NoSQL
 

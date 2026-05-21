@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/multi-core-processor-system-identification|Multi-core Processor System Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/multi-core-processor-system-identification|multi-core-processor-system-identification]]"
 ---
 # Recognizing Multi-core Processor Systems
 

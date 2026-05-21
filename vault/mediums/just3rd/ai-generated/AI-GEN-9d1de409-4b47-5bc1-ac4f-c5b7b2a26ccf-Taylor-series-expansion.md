@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/taylor-series-expansion|Taylor series expansion]]"
+  - "[[skills/mathematics/power-series-and-taylor-expansions/microskills/taylor-series-expansion|taylor-series-expansion]]"
 ---
 # Taylor Series Expansion
 

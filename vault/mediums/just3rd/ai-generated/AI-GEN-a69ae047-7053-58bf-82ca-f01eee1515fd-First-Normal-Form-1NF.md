@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/first-normal-form-1nf|First Normal Form (1NF)]]"
+  - "[[skills/data/databases/relational-database/microskills/first-normal-form-1nf|first-normal-form-1nf]]"
 ---
 # Understanding First Normal Form (1NF)
 

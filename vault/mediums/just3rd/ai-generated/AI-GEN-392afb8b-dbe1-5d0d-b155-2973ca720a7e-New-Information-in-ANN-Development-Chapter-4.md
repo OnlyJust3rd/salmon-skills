@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/new-information-in-ann-development-chapter-4|New Information in ANN Development (Chapter 4)]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/new-information-in-ann-development-chapter-4|new-information-in-ann-development-chapter-4]]"
 ---
 # Understanding New Information in ANN Development (Chapter 4)
 

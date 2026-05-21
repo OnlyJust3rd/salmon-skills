@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/assembly-programming/microskills/task-specific-assembly-programming|Task-Specific Assembly Programming]]"
+  - "[[skills/programming/programming-languages/assembly-programming/microskills/task-specific-assembly-programming|task-specific-assembly-programming]]"
 ---
 # Task-Specific Assembly Programming
 

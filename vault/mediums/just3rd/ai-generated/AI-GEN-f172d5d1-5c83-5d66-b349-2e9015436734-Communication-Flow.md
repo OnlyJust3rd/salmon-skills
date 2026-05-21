@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/communication-flow|Communication Flow]]"
+  - "[[skills/systems/networking/application-layer/microskills/communication-flow|communication-flow]]"
 ---
 # Understanding Communication Flow in HTTP and DNS
 

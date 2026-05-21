@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/laboratory-equipment-functions|Laboratory Equipment Functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/laboratory-equipment-functions|laboratory-equipment-functions]]"
 ---
 # Understanding the Functions of Essential Lab Equipment
 

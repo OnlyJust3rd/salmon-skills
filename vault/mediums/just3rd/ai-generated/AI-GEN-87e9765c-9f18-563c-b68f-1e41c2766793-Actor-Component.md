@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unreal-engine/microskills/actor-component|Actor Component]]"
+  - "[[skills/creative-media/game-development/unreal-engine/microskills/actor-component|actor-component]]"
 ---
 # Actor Components in Unreal Engine
 

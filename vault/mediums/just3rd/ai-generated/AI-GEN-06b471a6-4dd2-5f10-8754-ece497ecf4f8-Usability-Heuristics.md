@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-heuristics|Usability Heuristics]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-heuristics|usability-heuristics]]"
 ---
 # Usability Heuristics: Guiding Principles for User-Friendly Design
 

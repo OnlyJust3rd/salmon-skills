@@ -1,19 +1,27 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cloud Networking"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-coverage:
-  - "Implementation"
-  - "Evaluation"
-competency-count: 2
-microskill-count: 9
-related-jobs:
-  - "DevOps Engineer"
-  - "Cloud Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-494-special-topic-iv-system-virtualization-and-platform-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L2-configure-cloud-network-components|L2-configure-cloud-network-components]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L2-implement-iam-policies|L2-implement-iam-policies]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L2-configure-cloud-network-components|L2-configure-cloud-network-components]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L2-implement-iam-policies|L2-implement-iam-policies]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/cloud-networking-services|cloud-networking-services]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/iam-policy-creation|iam-policy-creation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/identity-and-access-management-iam|identity-and-access-management-iam]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/load-balancer-configuration|load-balancer-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/network-security-group-nsg-configuration|network-security-group-nsg-configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/principle-of-least-privilege|principle-of-least-privilege]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/resource-access-control|resource-access-control]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/subnet-segmentation|subnet-segmentation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/virtual-network-configuration|virtual-network-configuration]]"
 ---
 
 # Cloud Networking
@@ -22,8 +30,8 @@ Configure cloud networking, including virtual networks, subnet segmentation, Net
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L3-configure-cloud-network-components|L3- Configure Cloud Network Components]]
-- [[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L3-implement-iam-policies|L3- Implement IAM Policies]]
+- [[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L2-configure-cloud-network-components|L3- Configure Cloud Network Components]]
+- [[skills/cloud-devops/platform-engineering/cloud-networking/competencies/L2-implement-iam-policies|L3- Implement IAM Policies]]
 
 ## Microskills
 

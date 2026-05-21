@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/truth-functions|Truth Functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/truth-functions|truth-functions]]"
 ---
 # Truth Functions: The Heart of Logic Gates
 

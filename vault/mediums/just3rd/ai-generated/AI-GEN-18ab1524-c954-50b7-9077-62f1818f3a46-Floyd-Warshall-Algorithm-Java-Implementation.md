@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/floyd-warshall-algorithm-java-implementation|Floyd-Warshall Algorithm Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/floyd-warshall-algorithm-java-implementation|floyd-warshall-algorithm-java-implementation]]"
 ---
 # Implementing the Floyd-Warshall Algorithm in Java
 

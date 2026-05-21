@@ -1,20 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cloud-Native Application Architecture"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-coverage:
-  - "Concept"
-  - "Architecture"
-  - "Implementation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Cloud Engineer"
-  - "Software Solution Architect"
-  - "Technical Consultant"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L1-explain-cloud-native-application-architecture-principles]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L2-apply-managed-service-selection-for-cloud-solutions]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L2-apply-managed-service-selection-for-cloud-solutions]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/cloud-cost-driver|cloud-cost-driver]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/elasticity|elasticity]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/failure-aware-design|failure-aware-design]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/managed-service|managed-service]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/operational-burden|operational-burden]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/service-fit|service-fit]]"
 ---
 
 # Cloud-Native Application Architecture
@@ -23,8 +26,8 @@ Designing applications around managed services, containers, scalability, resilie
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L2-explain-cloud-native-application-architecture-principles|L2- Explain Cloud-Native Application Architecture Principles]]
-- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L3-apply-managed-service-selection-for-cloud-solutions|L3- Apply Managed Service Selection for Cloud Solutions]]
+- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L2- Explain Cloud-Native Application Architecture Principles]]
+- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L3- Apply Managed Service Selection for Cloud Solutions]]
 
 ## Microskills
 

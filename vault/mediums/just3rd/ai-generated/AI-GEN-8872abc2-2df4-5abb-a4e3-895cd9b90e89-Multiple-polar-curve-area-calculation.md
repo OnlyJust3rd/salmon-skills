@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/multiple-polar-curve-area-calculation|Multiple polar curve area calculation]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/multiple-polar-curve-area-calculation|multiple-polar-curve-area-calculation]]"
 ---
 # Calculating Area Between Multiple Polar Curves
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Video Frame Watermarking"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Watermarking"
-parent-competency: "L3- Apply Watermarking to Video"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/digital-watermarking/digital-watermarking|digital-watermarking]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/digital-watermarking/competencies/L2-apply-watermarking-to-video|L2-apply-watermarking-to-video]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Video Frame Watermarking
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/digital-watermarking/digital-water
 
 Parent competency:
 
-- [[skills/security/cybersecurity/digital-watermarking/competencies/L3-apply-watermarking-to-video|L3- Apply Watermarking to Video]]
+- [[skills/security/cybersecurity/digital-watermarking/competencies/L2-apply-watermarking-to-video|L3- Apply Watermarking to Video]]
 
 ## Description
 

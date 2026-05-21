@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/stcf-algorithm-principles|STCF Algorithm Principles]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/stcf-algorithm-principles|stcf-algorithm-principles]]"
 ---
 # Understanding the Shortest Time-to-Completion First (STCF) Algorithm
 

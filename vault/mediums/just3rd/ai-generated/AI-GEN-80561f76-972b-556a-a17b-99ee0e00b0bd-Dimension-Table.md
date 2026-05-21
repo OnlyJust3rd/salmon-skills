@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-warehousing/microskills/dimension-table|Dimension Table]]"
+  - "[[skills/data/data-platforms/data-warehousing/microskills/dimension-table|dimension-table]]"
 ---
 # Dimension Tables in Data Warehousing
 

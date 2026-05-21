@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/polymorphism-application|Polymorphism Application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/polymorphism-application|polymorphism-application]]"
 ---
 # Implementing Polymorphism in Code
 

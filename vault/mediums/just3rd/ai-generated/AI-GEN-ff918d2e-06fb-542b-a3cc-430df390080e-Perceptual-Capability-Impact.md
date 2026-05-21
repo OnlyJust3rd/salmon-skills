@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/perceptual-capability-impact|Perceptual Capability Impact]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/perceptual-capability-impact|perceptual-capability-impact]]"
 ---
 # Understanding How Our Senses Shape Our Interaction with Technology
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-vulnerabilities|Analogue Scrambling Vulnerabilities]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-vulnerabilities|analogue-scrambling-vulnerabilities]]"
 ---
 # Analogue Scrambling Vulnerabilities
 

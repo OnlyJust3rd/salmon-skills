@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/reduced-row-echelon-form-for-column-space-basis|Reduced row echelon form for column space basis]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/reduced-row-echelon-form-for-column-space-basis|reduced-row-echelon-form-for-column-space-basis]]"
 ---
 # Finding a Basis for the Column Space using Reduced Row Echelon Form
 

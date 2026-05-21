@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "AWS Service Selection"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-parent-macro: "Amazon Web Services"
-parent-competency: "L3- Apply AWS Compute Storage and IAM Concepts"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/amazon-web-services/amazon-web-services|amazon-web-services]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/competencies/L2-apply-aws-compute-storage-and-iam-concepts|L2-apply-aws-compute-storage-and-iam-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # AWS Service Selection
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/amazon-web-services/ama
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/amazon-web-services/competencies/L3-apply-aws-compute-storage-and-iam-concepts|L3- Apply AWS Compute Storage and IAM Concepts]]
+- [[skills/cloud-devops/platform-engineering/amazon-web-services/competencies/L2-apply-aws-compute-storage-and-iam-concepts|L3- Apply AWS Compute Storage and IAM Concepts]]
 
 ## Description
 

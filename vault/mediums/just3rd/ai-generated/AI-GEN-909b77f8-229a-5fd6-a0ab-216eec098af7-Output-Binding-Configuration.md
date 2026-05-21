@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/output-binding-configuration|Output Binding Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/output-binding-configuration|output-binding-configuration]]"
 ---
 # Configuring Serverless Function Output Bindings
 

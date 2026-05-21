@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/visible-watermarking-definition|Visible Watermarking Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/visible-watermarking-definition|visible-watermarking-definition]]"
 ---
 # Visible Watermarking: A Clear Identifier
 

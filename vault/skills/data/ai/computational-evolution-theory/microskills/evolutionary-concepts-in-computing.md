@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Evolutionary Concepts in Computing"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Computational Evolution Theory"
-parent-competency: "L1- Biological Evolution Inspirations"
+  - "microskill"
+parent-skill: "[[skills/data/ai/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
+requires-in-competencies:
+  - "[[skills/data/ai/computational-evolution-theory/competencies/L1-biological-evolution-inspirations|L1-biological-evolution-inspirations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Evolutionary Concepts in Computing

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/basic-embedded-system-programming|Basic Embedded System Programming]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/basic-embedded-system-programming|basic-embedded-system-programming]]"
 ---
 # Basic Embedded System Programming
 

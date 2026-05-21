@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/service-fit|Service Fit]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/service-fit|service-fit]]"
 ---
 # Matching Service Capabilities to Application Needs (Service Fit)
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/step-response-analysis|Step Response Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-analysis/microskills/step-response-analysis|step-response-analysis]]"
 ---
 # Interpreting Step Responses of RC and RL Circuits
 

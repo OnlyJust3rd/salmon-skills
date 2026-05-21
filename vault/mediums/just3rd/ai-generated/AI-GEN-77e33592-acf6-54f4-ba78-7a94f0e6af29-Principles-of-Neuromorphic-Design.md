@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/principles-of-neuromorphic-design|Principles of Neuromorphic Design]]"
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/principles-of-neuromorphic-design|principles-of-neuromorphic-design]]"
 ---
 # Principles of Neuromorphic Design
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ai/microskills/finite-state-machine|Finite State Machine]]"
+  - "[[skills/creative-media/game-development/game-ai/microskills/finite-state-machine|finite-state-machine]]"
 ---
 # Finite State Machines: Controlling Game AI Behavior
 

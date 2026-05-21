@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/e-waste-examples|E-waste Examples]]"
+  - "[[skills/business-it/business-product/technology-impact-analysis/microskills/e-waste-examples|e-waste-examples]]"
 ---
 # E-waste Examples: Understanding the Byproducts of Technology
 

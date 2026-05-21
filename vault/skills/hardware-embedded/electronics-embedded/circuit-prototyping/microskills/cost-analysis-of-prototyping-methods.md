@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Cost Analysis of Prototyping Methods"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Circuit Prototyping"
-parent-competency: "L5- Prototyping Comparison"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/circuit-prototyping|circuit-prototyping]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L3-prototyping-comparison|L3-prototyping-comparison]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Cost Analysis of Prototyping Methods
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/circuit-prototypin
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L5-prototyping-comparison|L5- Prototyping Comparison]]
+- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L3-prototyping-comparison|L5- Prototyping Comparison]]
 
 ## Description
 

@@ -1,18 +1,36 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Selective Encryption"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-coverage:
-  - "Concept"
-  - "Representation"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 17
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/n-a-cryptographic-techniques-for-multimedia-communication"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/selective-encryption/competencies/L1-goals-and-context-of-selective-encryption|L1-goals-and-context-of-selective-encryption]]"
+  - "[[skills/security/cybersecurity/selective-encryption/competencies/L3-analyze-and-apply-selective-encryption-evaluation-criteria|L3-analyze-and-apply-selective-encryption-evaluation-criteria]]"
+  - "[[skills/security/cybersecurity/selective-encryption/competencies/L3-analyze-encryption-placement-in-compression-pipeline|L3-analyze-encryption-placement-in-compression-pipeline]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/selective-encryption/competencies/L3-analyze-and-apply-selective-encryption-evaluation-criteria|L3-analyze-and-apply-selective-encryption-evaluation-criteria]]"
+  - "[[skills/security/cybersecurity/selective-encryption/competencies/L3-analyze-encryption-placement-in-compression-pipeline|L3-analyze-encryption-placement-in-compression-pipeline]]"
+microskills:
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/cryptographic-security-criterion|cryptographic-security-criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-location-identification|encryption-location-identification]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-ratio-criterion|encryption-ratio-criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/encryption-stage-analysis|encryption-stage-analysis]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/error-tolerance-criterion|error-tolerance-criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/format-compliance-criterion|format-compliance-criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/interrelationships-of-evaluation-criteria|interrelationships-of-evaluation-criteria]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/multimedia-communication-context|multimedia-communication-context]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/placement-implications-analysis|placement-implications-analysis]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/resource-constrained-communications|resource-constrained-communications]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/resource-constraints|resource-constraints]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-algorithm-components|selective-encryption-algorithm-components]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-goal|selective-encryption-goal]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/selective-encryption-system-analysis|selective-encryption-system-analysis]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/trade-offs-in-evaluation-criteria|trade-offs-in-evaluation-criteria]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/tunability-criterion|tunability-criterion]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/visual-degradation-criterion|visual-degradation-criterion]]"
 ---
 
 # Selective Encryption
@@ -22,8 +40,8 @@ Classifying and critiquing selective encryption algorithms based on when encrypt
 ## Competencies
 
 - [[skills/security/cybersecurity/selective-encryption/competencies/L1-goals-and-context-of-selective-encryption|L1- Goals and Context of Selective Encryption]]
-- [[skills/security/cybersecurity/selective-encryption/competencies/L4-analyze-encryption-placement-in-compression-pipeline|L4- Analyze Encryption Placement in Compression Pipeline]]
-- [[skills/security/cybersecurity/selective-encryption/competencies/L4-analyze-and-apply-selective-encryption-evaluation-criteria|L4- Analyze and Apply Selective Encryption Evaluation Criteria]]
+- [[skills/security/cybersecurity/selective-encryption/competencies/L3-analyze-encryption-placement-in-compression-pipeline|L4- Analyze Encryption Placement in Compression Pipeline]]
+- [[skills/security/cybersecurity/selective-encryption/competencies/L3-analyze-and-apply-selective-encryption-evaluation-criteria|L4- Analyze and Apply Selective Encryption Evaluation Criteria]]
 
 ## Microskills
 

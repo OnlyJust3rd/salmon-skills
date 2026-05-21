@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/circuit-parameter-measurement|Circuit Parameter Measurement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/circuit-parameter-measurement|circuit-parameter-measurement]]"
 ---
 # Measuring Circuit Parameters: Voltage, Current, and Signal Integrity
 

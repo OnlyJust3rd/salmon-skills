@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Inheritance Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 361 - Java Programming"
-parent-macro: "Object-Oriented Programming"
-parent-competency: "L1- Define OOP Principles"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/object-oriented-programming/object-oriented-programming|object-oriented-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/object-oriented-programming/competencies/L1-define-oop-principles|L1-define-oop-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Inheritance Definition

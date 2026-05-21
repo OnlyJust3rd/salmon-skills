@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-problem-solving-framework|Engineering Problem-Solving Framework]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/engineering-problem-solving-framework|engineering-problem-solving-framework]]"
 ---
 # The Engineering Problem-Solving Framework
 

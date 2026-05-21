@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/deadlock-management/microskills/resource-ordering-strategy|Resource Ordering Strategy]]"
+  - "[[skills/systems/operating-systems/deadlock-management/microskills/resource-ordering-strategy|resource-ordering-strategy]]"
 ---
 # Resource Ordering for Deadlock Prevention
 

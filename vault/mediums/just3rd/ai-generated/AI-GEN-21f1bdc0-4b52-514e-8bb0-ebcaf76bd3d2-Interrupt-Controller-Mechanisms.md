@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-controller-mechanisms|Interrupt Controller Mechanisms]]"
+  - "[[skills/programming/programming-languages/avr-peripheral-programming/microskills/interrupt-controller-mechanisms|interrupt-controller-mechanisms]]"
 ---
 # Understanding AVR Interrupt Controller Mechanisms
 

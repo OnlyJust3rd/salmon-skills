@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/function-calls-for-protocol-control|Function Calls for Protocol Control]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/function-calls-for-protocol-control|function-calls-for-protocol-control]]"
 ---
 # Understanding Function Calls for Communication Protocol Control
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/subnetting-principles|Subnetting Principles]]"
+  - "[[skills/systems/networking/network-layer/microskills/subnetting-principles|subnetting-principles]]"
 ---
 # Understanding Subnetting Principles
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/usability-testing-implementation|Usability Testing Implementation]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/usability-testing-implementation|usability-testing-implementation]]"
 ---
 # Implementing Usability Testing
 

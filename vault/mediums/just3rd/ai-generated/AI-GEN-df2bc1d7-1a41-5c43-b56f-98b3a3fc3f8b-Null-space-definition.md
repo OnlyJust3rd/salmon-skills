@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-definition|Null space definition]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-definition|null-space-definition]]"
 ---
 # Understanding the Null Space of a Matrix
 

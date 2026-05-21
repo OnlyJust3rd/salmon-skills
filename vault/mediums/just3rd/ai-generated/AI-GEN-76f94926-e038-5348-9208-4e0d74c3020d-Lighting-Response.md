@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/shader-programming/microskills/lighting-response|Lighting Response]]"
+  - "[[skills/programming/programming-languages/shader-programming/microskills/lighting-response|lighting-response]]"
 ---
 # Understanding Lighting Response in Shaders
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Extreme Value Theorem"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Calculus Theorems Application"
-parent-competency: "L1- List Calculus Theorems"
+  - "microskill"
+parent-skill: "[[skills/mathematics/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
+requires-in-competencies:
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-list-calculus-theorems|L1-list-calculus-theorems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Extreme Value Theorem
@@ -15,7 +17,7 @@ Parent macro: [[calculus-theorems-application|Calculus Theorems Application]]
 
 Parent competency:
 
-- [[L1-list-calculus-theorems|L1- List Calculus Theorems]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-list-calculus-theorems|L1- List Calculus Theorems]]
 
 ## Description
 

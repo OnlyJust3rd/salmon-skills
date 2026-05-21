@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-receive-function-application|MPI Receive Function Application]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/mpi-receive-function-application|mpi-receive-function-application]]"
 ---
 # Applying MPI_Recv for Data Reception
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Knowledge Acquisition Process"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Engineering"
-parent-competency: "L2- Software Engineering as Modeling, Problem-Solving, and Knowledge Acquisition"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/software-engineering/software-engineering|software-engineering]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/software-engineering/competencies/L1-software-engineering-as-modeling-problem-solving-and-knowledge-acquisition|L1-software-engineering-as-modeling-problem-solving-and-knowledge-acquisition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Knowledge Acquisition Process
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/software-engineering/sof
 
 Parent competency:
 
-- [[skills/programming/software-engineering/software-engineering/competencies/L2-software-engineering-as-modeling-problem-solving-and-knowledge-acquisition|L2- Software Engineering as Modeling, Problem-Solving, and Knowledge Acquisition]]
+- [[skills/programming/software-engineering/software-engineering/competencies/L1-software-engineering-as-modeling-problem-solving-and-knowledge-acquisition|L2- Software Engineering as Modeling, Problem-Solving, and Knowledge Acquisition]]
 
 ## Description
 

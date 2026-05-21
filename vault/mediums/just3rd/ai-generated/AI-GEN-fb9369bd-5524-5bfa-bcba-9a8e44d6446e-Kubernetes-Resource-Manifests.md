@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-manifests|Kubernetes Resource Manifests]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-manifests|kubernetes-resource-manifests]]"
 ---
 # Writing Kubernetes Resource Manifests in YAML
 

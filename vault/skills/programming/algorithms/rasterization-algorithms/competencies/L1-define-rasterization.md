@@ -1,18 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Rasterization"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Rasterization Algorithms"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- List and Define Geometric Primitives"
+  - "[[skills/creative-media/graphics-media/geometric-representation/competencies/L1-list-and-define-geometric-primitives|L1-list-and-define-geometric-primitives]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 1
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/algorithms/rasterization-algorithms/rasterization-algorithms|rasterization-algorithms]]"
+requires-microskills:
+  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/rasterization-definition|rasterization-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Rasterization

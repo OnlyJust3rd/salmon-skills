@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/text-processing-commands|Text Processing Commands]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/text-processing-commands|text-processing-commands]]"
 ---
 # Text Processing Commands in Linux
 

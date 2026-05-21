@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-control-registers|SPI Control Registers]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-control-registers|spi-control-registers]]"
 ---
 # SPI Control Registers for AVR Microcontrollers
 

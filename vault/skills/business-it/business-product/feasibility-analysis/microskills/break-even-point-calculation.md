@@ -1,14 +1,15 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Break-Even Point Calculation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Feasibility Analysis"
-parent-competencies:
-  - "L2- Define and Explain Financial Metrics"
-  - "L3- Apply Profitability and Break-Even Analysis"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/feasibility-analysis/feasibility-analysis|feasibility-analysis]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/feasibility-analysis/competencies/L1-define-and-explain-financial-metrics|L1-define-and-explain-financial-metrics]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/competencies/L2-apply-profitability-and-break-even-analysis|L2-apply-profitability-and-break-even-analysis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Break-Even Point Calculation
@@ -17,8 +18,8 @@ Parent macro: [[skills/business-it/business-product/feasibility-analysis/feasibi
 
 Parent competency:
 
-- [[skills/business-it/business-product/feasibility-analysis/competencies/L2-define-and-explain-financial-metrics|L2- Define and Explain Financial Metrics]]
-- [[skills/business-it/business-product/feasibility-analysis/competencies/L3-apply-profitability-and-break-even-analysis|L3- Apply Profitability and Break-Even Analysis]]
+- [[skills/business-it/business-product/feasibility-analysis/competencies/L1-define-and-explain-financial-metrics|L2- Define and Explain Financial Metrics]]
+- [[skills/business-it/business-product/feasibility-analysis/competencies/L2-apply-profitability-and-break-even-analysis|L3- Apply Profitability and Break-Even Analysis]]
 
 ## Description
 

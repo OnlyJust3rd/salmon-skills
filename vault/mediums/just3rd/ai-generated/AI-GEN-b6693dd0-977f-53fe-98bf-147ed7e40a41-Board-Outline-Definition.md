@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/board-outline-definition|Board Outline Definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/board-outline-definition|board-outline-definition]]"
 ---
 # PCB Design: Defining the Board Outline
 

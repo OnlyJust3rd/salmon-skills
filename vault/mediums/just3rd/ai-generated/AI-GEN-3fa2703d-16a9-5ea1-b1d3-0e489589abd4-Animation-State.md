@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-animation/microskills/animation-state|Animation State]]"
+  - "[[skills/creative-media/game-development/game-animation/microskills/animation-state|animation-state]]"
 ---
 # Understanding Animation States
 

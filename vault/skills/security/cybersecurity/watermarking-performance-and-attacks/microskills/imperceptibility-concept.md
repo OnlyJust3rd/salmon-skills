@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Imperceptibility Concept"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Watermarking Performance and Attacks"
-parent-competency: "L2- Explain Watermarking Concepts and Attack Mechanisms"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|watermarking-performance-and-attacks]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L1-explain-watermarking-concepts-and-attack-mechanisms|L1-explain-watermarking-concepts-and-attack-mechanisms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Imperceptibility Concept
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/watermarking-performance-and-attac
 
 Parent competency:
 
-- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L2-explain-watermarking-concepts-and-attack-mechanisms|L2- Explain Watermarking Concepts and Attack Mechanisms]]
+- [[skills/security/cybersecurity/watermarking-performance-and-attacks/competencies/L1-explain-watermarking-concepts-and-attack-mechanisms|L2- Explain Watermarking Concepts and Attack Mechanisms]]
 
 ## Description
 

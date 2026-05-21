@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-lake/microskills/object-storage|Object Storage]]"
+  - "[[skills/data/data-platforms/data-lake/microskills/object-storage|object-storage]]"
 ---
 # Object Storage in Data Lakes
 

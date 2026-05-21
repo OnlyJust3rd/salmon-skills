@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/amazon-redshift/microskills/table-distribution|Table Distribution]]"
+  - "[[skills/data/data-platforms/amazon-redshift/microskills/table-distribution|table-distribution]]"
 ---
 # Redshift Table Distribution: Optimizing Joins and Scans
 

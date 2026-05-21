@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/backing-storage-role|Backing Storage Role]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/backing-storage-role|backing-storage-role]]"
 ---
 # The Role of Backing Storage in Virtual Memory
 

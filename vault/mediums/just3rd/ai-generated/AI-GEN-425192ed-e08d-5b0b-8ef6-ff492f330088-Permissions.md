@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cybersecurity/microskills/permissions|Permissions]]"
+  - "[[skills/security/cybersecurity/cybersecurity/microskills/permissions|permissions]]"
 ---
 # Understanding Permissions in Authorization
 

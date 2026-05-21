@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/transaction-boundaries|Transaction Boundaries]]"
+  - "[[skills/data/databases/database-system/microskills/transaction-boundaries|transaction-boundaries]]"
 ---
 # Understanding Transaction Boundaries
 

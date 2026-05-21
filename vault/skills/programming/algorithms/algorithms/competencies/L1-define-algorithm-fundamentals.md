@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Algorithm Fundamentals"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 231 - Algorithms"
-parent-macro: "Algorithms"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Computational Problem Solving"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/algorithms/algorithms/algorithms|algorithms]]"
+requires-microskills:
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-classifications|algorithm-classifications]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-definition|algorithm-definition]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-properties|algorithm-properties]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/problem-domains-for-algorithms|problem-domains-for-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Algorithm Fundamentals

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/data-structuring|Data Structuring]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/data-structuring|data-structuring]]"
 ---
 # Structuring Data: The Foundation of Models
 

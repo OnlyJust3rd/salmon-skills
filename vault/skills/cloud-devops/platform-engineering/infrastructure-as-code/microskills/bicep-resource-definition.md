@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Bicep Resource Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-parent-competency: "L3- Provision Infrastructure with Bicep"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-provision-infrastructure-with-bicep|L2-provision-infrastructure-with-bicep]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Bicep Resource Definition
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/infrastructure-as-code/
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L3-provision-infrastructure-with-bicep|L3- Provision Infrastructure with Bicep]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-provision-infrastructure-with-bicep|L3- Provision Infrastructure with Bicep]]
 
 ## Description
 

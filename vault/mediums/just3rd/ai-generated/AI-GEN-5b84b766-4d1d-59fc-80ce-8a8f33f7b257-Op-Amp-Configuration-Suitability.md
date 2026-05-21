@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/op-amp-configuration-suitability|Op-Amp Configuration Suitability]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/op-amp-configuration-suitability|op-amp-configuration-suitability]]"
 ---
 # Evaluating Op-Amp Configuration Suitability
 

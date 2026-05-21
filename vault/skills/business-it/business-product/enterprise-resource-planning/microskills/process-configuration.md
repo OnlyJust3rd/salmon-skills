@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Process Configuration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Enterprise Resource Planning"
-parent-competency: "L4- Analyze ERP Module Fit for Business Processes"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/enterprise-resource-planning/enterprise-resource-planning|enterprise-resource-planning]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/enterprise-resource-planning/competencies/L3-analyze-erp-module-fit-for-business-processes|L3-analyze-erp-module-fit-for-business-processes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Process Configuration
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/enterprise-resource-planning
 
 Parent competency:
 
-- [[skills/business-it/business-product/enterprise-resource-planning/competencies/L4-analyze-erp-module-fit-for-business-processes|L4- Analyze ERP Module Fit for Business Processes]]
+- [[skills/business-it/business-product/enterprise-resource-planning/competencies/L3-analyze-erp-module-fit-for-business-processes|L4- Analyze ERP Module Fit for Business Processes]]
 
 ## Description
 

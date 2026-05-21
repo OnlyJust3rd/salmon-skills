@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Eigenvalues and Eigenvectors"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Spectral Analysis and Matrix Decomposition"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Matrix Dimensions and Elements"
+  - "[[skills/mathematics/matrix-algebra/competencies/L1-matrix-dimensions-and-elements|L1-matrix-dimensions-and-elements]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/spectral-analysis-and-matrix-decomposition|spectral-analysis-and-matrix-decomposition]]"
+requires-microskills:
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-definition|eigenvalue-definition]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-eigenvector-relationship|eigenvalue-eigenvector-relationship]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenvector-definition|eigenvector-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Eigenvalues and Eigenvectors
@@ -25,7 +27,7 @@ Define eigenvalues and eigenvectors of a matrix.
 
 ## Strict Prerequisites
 
-- [[L1-matrix-dimensions-and-elements|L1- Matrix Dimensions and Elements]]
+- [[skills/mathematics/matrix-algebra/competencies/L1-matrix-dimensions-and-elements|L1- Matrix Dimensions and Elements]]
 
 ## Optional Prerequisites
 

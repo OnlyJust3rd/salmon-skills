@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/definiteness-properties|Definiteness properties]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/definiteness-properties|definiteness-properties]]"
 ---
 # Understanding Definiteness Properties of Quadratic Forms
 

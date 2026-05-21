@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/user-access-management|User Access Management]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/user-access-management|user-access-management]]"
 ---
 # User Access Management in Digital Rights Management
 

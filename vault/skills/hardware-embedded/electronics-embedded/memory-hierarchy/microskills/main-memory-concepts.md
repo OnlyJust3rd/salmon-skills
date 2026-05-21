@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Main Memory Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Memory Hierarchy"
-parent-competency: "L1- Memory Hierarchy Components"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/memory-hierarchy|memory-hierarchy]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/competencies/L1-memory-hierarchy-components|L1-memory-hierarchy-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Main Memory Concepts

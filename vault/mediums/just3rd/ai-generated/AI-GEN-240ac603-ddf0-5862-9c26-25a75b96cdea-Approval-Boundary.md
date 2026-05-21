@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/approval-boundary|Approval Boundary]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/agentic-coding-workflows/microskills/approval-boundary|approval-boundary]]"
 ---
 # Approval Boundary in Agentic Coding Workflows
 

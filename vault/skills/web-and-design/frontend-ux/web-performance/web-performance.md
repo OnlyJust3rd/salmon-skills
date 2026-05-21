@@ -1,17 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Web Performance"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - frontend web skills"
-coverage:
-  - "Concept"
-  - "Evaluation"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Frontend Developer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/web-and-design/frontend-ux/web-performance/competencies/L1-explain-web-performance-fundamentals|L1-explain-web-performance-fundamentals]]"
+standard-competency:
+  - "[[skills/web-and-design/frontend-ux/web-performance/competencies/L1-explain-web-performance-fundamentals|L1-explain-web-performance-fundamentals]]"
+microskills:
+  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/loading-performance|loading-performance]]"
+  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/perceived-latency|perceived-latency]]"
+  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/rendering-performance|rendering-performance]]"
 ---
 
 # Web Performance
@@ -20,7 +22,7 @@ Concepts for understanding and improving frontend loading, rendering, responsive
 
 ## Competencies
 
-- [[skills/web-and-design/frontend-ux/web-performance/competencies/L2-explain-web-performance-fundamentals|L2- Explain Web Performance Fundamentals]]
+- [[skills/web-and-design/frontend-ux/web-performance/competencies/L1-explain-web-performance-fundamentals|L2- Explain Web Performance Fundamentals]]
 
 ## Microskills
 

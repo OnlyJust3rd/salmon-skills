@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Constructor Implementation for ADTs"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Java Programming"
-parent-competency: "L3- Implement ADTs and Data Structures with OOP"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/java-programming/java-programming|java-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-adts-and-data-structures-with-oop|L2-implement-adts-and-data-structures-with-oop]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Constructor Implementation for ADTs
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/java-programming/java-p
 
 Parent competency:
 
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-adts-and-data-structures-with-oop|L3- Implement ADTs and Data Structures with OOP]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-adts-and-data-structures-with-oop|L3- Implement ADTs and Data Structures with OOP]]
 
 ## Description
 

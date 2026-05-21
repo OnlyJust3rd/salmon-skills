@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/image-watermarking-implementation|Image Watermarking Implementation]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/image-watermarking-implementation|image-watermarking-implementation]]"
 ---
 # Implementing Basic Image Watermarking
 

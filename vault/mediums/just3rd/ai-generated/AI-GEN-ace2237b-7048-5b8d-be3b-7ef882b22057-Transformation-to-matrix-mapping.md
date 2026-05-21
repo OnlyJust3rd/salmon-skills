@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/linear-transformations/microskills/transformation-to-matrix-mapping|Transformation-to-matrix mapping]]"
+  - "[[skills/mathematics/linear-transformations/microskills/transformation-to-matrix-mapping|transformation-to-matrix-mapping]]"
 ---
 # Mapping Linear Transformations to Matrices
 

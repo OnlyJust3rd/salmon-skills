@@ -1,17 +1,18 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List and Contextualize CE Domains"
 tags:
   - "cpe"
   - "competency"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "Engineering Process"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/engineering/engineering-practices/engineering-process/engineering-process|engineering-process]]"
+requires-microskills:
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/domain-problem-contexts|domain-problem-contexts]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/major-computer-engineering-domains|major-computer-engineering-domains]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List and Contextualize CE Domains

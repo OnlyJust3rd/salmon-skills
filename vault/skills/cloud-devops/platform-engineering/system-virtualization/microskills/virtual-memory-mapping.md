@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Virtual Memory Mapping"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Virtualization"
-parent-competency: "L2- Map OS Concepts to Virtual Environments"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-virtualization/system-virtualization|system-virtualization]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-map-os-concepts-to-virtual-environments|L1-map-os-concepts-to-virtual-environments]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Virtual Memory Mapping
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/system-virtualization/s
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-map-os-concepts-to-virtual-environments|L2- Map OS Concepts to Virtual Environments]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-map-os-concepts-to-virtual-environments|L2- Map OS Concepts to Virtual Environments]]
 
 ## Description
 

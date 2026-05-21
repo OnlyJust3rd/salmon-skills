@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/induction-and-recursion-relationship|Induction and Recursion Relationship]]"
+  - "[[skills/mathematics/proof-techniques/microskills/induction-and-recursion-relationship|induction-and-recursion-relationship]]"
 ---
 # The Deep Connection: Induction and Recursion
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/perceived-latency|Perceived Latency]]"
+  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/perceived-latency|perceived-latency]]"
 ---
 # Understanding Perceived Latency in Web Performance
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Component-Based Architecture"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Architecture"
-parent-competency: "L2- Explore Modern Architectural Styles"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/software-architecture/software-architecture|software-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-explore-modern-architectural-styles|L1-explore-modern-architectural-styles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Component-Based Architecture
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/software-architect
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L2-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]]
+- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]]
 
 ## Description
 

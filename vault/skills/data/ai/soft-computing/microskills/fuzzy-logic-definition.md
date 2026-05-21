@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Fuzzy Logic Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Soft Computing"
-parent-competency: "L1- Define Fuzzy Logic and Controllers"
+  - "microskill"
+parent-skill: "[[skills/data/ai/soft-computing/soft-computing|soft-computing]]"
+requires-in-competencies:
+  - "[[skills/data/ai/soft-computing/competencies/L1-define-fuzzy-logic-and-controllers|L1-define-fuzzy-logic-and-controllers]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Fuzzy Logic Definition

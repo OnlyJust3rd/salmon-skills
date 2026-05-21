@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/2d-representation-of-3d-objects|2D Representation of 3D Objects]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/2d-representation-of-3d-objects|2d-representation-of-3d-objects]]"
 ---
 # Creating 2D Representations of 3D Objects
 

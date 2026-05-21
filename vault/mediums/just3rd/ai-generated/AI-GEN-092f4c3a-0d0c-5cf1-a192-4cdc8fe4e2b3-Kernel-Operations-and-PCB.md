@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|Kernel Operations and PCB]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|kernel-operations-and-pcb]]"
 ---
 # Kernel Operations and the Process Control Block (PCB)
 

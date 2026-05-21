@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/operational-responsibility|Operational Responsibility]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/operational-responsibility|operational-responsibility]]"
 ---
 # Understanding Provider Responsibility in SaaS
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-spark/microskills/dataframe|DataFrame]]"
+  - "[[skills/data/data-platforms/apache-spark/microskills/dataframe|dataframe]]"
 ---
 # Understanding DataFrames in Spark
 

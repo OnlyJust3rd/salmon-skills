@@ -1,16 +1,32 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Embedded System Interfacing"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 324 - Embedded Systems"
-coverage:
-  - "Implementation"
-competency-count: 3
-microskill-count: 13
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-324-embedded-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L1-define-communication-protocols|L1-define-communication-protocols]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L2-interface-microcontrollers-with-peripherals|L2-interface-microcontrollers-with-peripherals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L3-protocol-justification|L3-protocol-justification]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L2-interface-microcontrollers-with-peripherals|L2-interface-microcontrollers-with-peripherals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L3-protocol-justification|L3-protocol-justification]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/actuator-control-via-communication|actuator-control-via-communication]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/complexity-and-pin-count-considerations|complexity-and-pin-count-considerations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/data-acquisition-from-sensors|data-acquisition-from-sensors]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/data-rate-requirement-analysis|data-rate-requirement-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/i2c-protocol-fundamentals|i2c-protocol-fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/i2c-sensor-interfacing|i2c-sensor-interfacing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/noise-immunity-comparison|noise-immunity-comparison]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/power-consumption-trade-offs|power-consumption-trade-offs]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/protocol-key-features|protocol-key-features]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/spi-device-interfacing|spi-device-interfacing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/spi-protocol-fundamentals|spi-protocol-fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/uart-device-interfacing|uart-device-interfacing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/uart-protocol-fundamentals|uart-protocol-fundamentals]]"
 ---
 
 # Embedded System Interfacing
@@ -20,8 +36,8 @@ Interfacing AVR microcontrollers with external sensors, actuators, and communica
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L1-define-communication-protocols|L1- Define Communication Protocols]]
-- [[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L3-interface-microcontrollers-with-peripherals|L3- Interface Microcontrollers with Peripherals]]
-- [[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L5-protocol-justification|L5- Protocol Justification]]
+- [[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L2-interface-microcontrollers-with-peripherals|L3- Interface Microcontrollers with Peripherals]]
+- [[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L3-protocol-justification|L5- Protocol Justification]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/javascript/microskills/functions-and-scope|Functions and scope]]"
+  - "[[skills/programming/programming-languages/javascript/microskills/functions-and-scope|functions-and-scope]]"
 ---
 # Understanding JavaScript Functions and Scope
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/ac-to-dc-conversion-effectiveness|AC to DC Conversion Effectiveness]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/ac-to-dc-conversion-effectiveness|ac-to-dc-conversion-effectiveness]]"
 ---
 # Evaluating AC to DC Conversion Effectiveness in Full-Wave Rectifiers
 

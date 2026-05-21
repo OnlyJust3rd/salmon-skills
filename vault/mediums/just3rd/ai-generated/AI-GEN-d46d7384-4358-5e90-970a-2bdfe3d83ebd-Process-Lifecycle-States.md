@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|Process Lifecycle States]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|process-lifecycle-states]]"
 ---
 # The Journey of a Program: Understanding Process States
 

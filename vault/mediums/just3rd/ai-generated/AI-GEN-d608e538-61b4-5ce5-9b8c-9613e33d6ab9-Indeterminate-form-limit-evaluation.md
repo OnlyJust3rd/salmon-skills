@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/indeterminate-form-limit-evaluation|Indeterminate form limit evaluation]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/indeterminate-form-limit-evaluation|indeterminate-form-limit-evaluation]]"
 ---
 # Understanding Indeterminate Forms and L'Hôpital's Rule
 

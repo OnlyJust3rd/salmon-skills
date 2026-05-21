@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/implementation-of-compression-algorithms|Implementation of Compression Algorithms]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/implementation-of-compression-algorithms|implementation-of-compression-algorithms]]"
 ---
 # Implementing Compression Algorithms: A Practical Guide
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/break-even-point-calculation|Break-Even Point Calculation]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/break-even-point-calculation|break-even-point-calculation]]"
 ---
 # Calculating the Break-Even Point
 

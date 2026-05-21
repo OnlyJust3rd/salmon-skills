@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/performance-testing|Performance Testing]]"
+  - "[[skills/programming/software-engineering/iterative-prototyping-and-testing/microskills/performance-testing|performance-testing]]"
 ---
 # Performance Testing Your Prototype
 

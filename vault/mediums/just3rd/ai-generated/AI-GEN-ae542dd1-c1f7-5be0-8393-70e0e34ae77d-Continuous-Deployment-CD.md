@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/continuous-deployment-cd|Continuous Deployment (CD)]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/continuous-deployment-cd|continuous-deployment-cd]]"
 ---
 # Continuous Deployment (CD) in Serverless CI/CD
 

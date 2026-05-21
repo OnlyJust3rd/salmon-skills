@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/h-261-h-263-standards|H.261/H.263 Standards]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/h-261-h-263-standards|h-261-h-263-standards]]"
 ---
 # Understanding Redundancy in H.261/H.263 Video Compression
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/algorithmic-thinking-principles|Algorithmic Thinking Principles]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/algorithmic-thinking-principles|algorithmic-thinking-principles]]"
 ---
 # Algorithmic Thinking Principles
 

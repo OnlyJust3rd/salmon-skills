@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/design-choice-impact-assessment|Design Choice Impact Assessment]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/design-choice-impact-assessment|design-choice-impact-assessment]]"
 ---
 # Assessing the Impact of Object-Oriented Design Choices
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/3-tier-integration-patterns|3-Tier Integration Patterns]]"
+  - "[[skills/web-and-design/backend-api/application-database-integration/microskills/3-tier-integration-patterns|3-tier-integration-patterns]]"
 ---
 # 3-Tier Integration Patterns for Database Connectivity
 

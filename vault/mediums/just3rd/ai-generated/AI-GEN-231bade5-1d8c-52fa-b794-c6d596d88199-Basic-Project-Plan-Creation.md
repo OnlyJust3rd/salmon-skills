@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/project-management/microskills/basic-project-plan-creation|Basic Project Plan Creation]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/basic-project-plan-creation|basic-project-plan-creation]]"
 ---
 # Basic Project Plan Creation
 

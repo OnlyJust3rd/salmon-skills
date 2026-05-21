@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Managed Service"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - cloud platform and SaaS skills"
-parent-macro: "Cloud-Native Application Architecture"
-parent-competency: "L2- Explain Cloud-Native Application Architecture Principles"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/cloud-native-application-architecture|cloud-native-application-architecture]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L1-explain-cloud-native-application-architecture-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Managed Service
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-native-applicatio
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L2-explain-cloud-native-application-architecture-principles|L2- Explain Cloud-Native Application Architecture Principles]]
+- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L2- Explain Cloud-Native Application Architecture Principles]]
 
 ## Description
 

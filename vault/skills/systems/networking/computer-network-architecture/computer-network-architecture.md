@@ -1,19 +1,20 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Computer Network Architecture"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 314 - Computer Networks"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 1
-microskill-count: 4
-related-jobs:
-  - "IT Support Specialist"
-  - "Network Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-314-computer-networks"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+standard-competency:
+  - "[[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+microskills:
+  - "[[skills/systems/networking/computer-network-architecture/microskills/network-layered-models|network-layered-models]]"
+  - "[[skills/systems/networking/computer-network-architecture/microskills/protocol-stack-functions|protocol-stack-functions]]"
+  - "[[skills/systems/networking/computer-network-architecture/microskills/purpose-of-network-layers|purpose-of-network-layers]]"
+  - "[[skills/systems/networking/computer-network-architecture/microskills/tcp-ip-model-layers|tcp-ip-model-layers]]"
 ---
 
 # Computer Network Architecture
@@ -22,7 +23,7 @@ Explaining fundamental computer network architectures and protocol stacks (e.g.,
 
 ## Competencies
 
-- [[skills/systems/networking/computer-network-architecture/competencies/L2-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[skills/systems/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Microskills
 

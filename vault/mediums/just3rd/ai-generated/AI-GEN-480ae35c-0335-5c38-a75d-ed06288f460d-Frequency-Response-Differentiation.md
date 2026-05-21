@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/frequency-response-differentiation|Frequency Response Differentiation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/frequency-response-differentiation|frequency-response-differentiation]]"
 ---
 # Analyzing Filter Frequency Responses
 

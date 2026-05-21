@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interactive Level Elements"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Game Design"
-parent-competency: "L2- Understand Level Design Elements"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-design/game-design|game-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-design/competencies/L1-understand-level-design-elements|L1-understand-level-design-elements]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interactive Level Elements
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/game-design/game-design|G
 
 Parent competency:
 
-- [[skills/creative-media/game-development/game-design/competencies/L2-understand-level-design-elements|L2- Understand Level Design Elements]]
+- [[skills/creative-media/game-development/game-design/competencies/L1-understand-level-design-elements|L2- Understand Level Design Elements]]
 
 ## Description
 

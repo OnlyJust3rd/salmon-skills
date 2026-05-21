@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Simple Shading Algorithms"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Rendering and Visual Realism"
-parent-competency: "L3- Apply Realism Techniques"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/rendering-and-visual-realism/rendering-and-visual-realism|rendering-and-visual-realism]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L2-apply-realism-techniques|L2-apply-realism-techniques]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Simple Shading Algorithms
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/rendering-and-visual-realis
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L3-apply-realism-techniques|L3- Apply Realism Techniques]]
+- [[skills/creative-media/graphics-media/rendering-and-visual-realism/competencies/L2-apply-realism-techniques|L3- Apply Realism Techniques]]
 
 ## Description
 

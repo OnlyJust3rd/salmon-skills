@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/basic-model-families|Basic Model Families]]"
+  - "[[skills/data/data-science/machine-learning/microskills/basic-model-families|basic-model-families]]"
 ---
 # Understanding Basic Model Families in Machine Learning
 

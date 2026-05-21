@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/signal-inversion-requirement-evaluation|Signal Inversion Requirement Evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/signal-inversion-requirement-evaluation|signal-inversion-requirement-evaluation]]"
 ---
 # Evaluating Op-Amp Configurations for Signal Inversion
 

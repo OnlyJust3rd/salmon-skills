@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/leadership-style-impact|Leadership Style Impact]]"
+  - "[[skills/business-it/business-product/legal-and-organizational-foundations/microskills/leadership-style-impact|leadership-style-impact]]"
 ---
 # Understanding the Influence of Leadership Style on Organizational Dynamics
 

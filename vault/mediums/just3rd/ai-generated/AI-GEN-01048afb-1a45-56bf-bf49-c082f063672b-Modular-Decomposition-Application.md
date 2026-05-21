@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-application|Modular Decomposition Application]]"
+  - "[[skills/programming/software-engineering/object-oriented-design/microskills/modular-decomposition-application|modular-decomposition-application]]"
 ---
 # Modular Decomposition: Breaking Down Your Code
 

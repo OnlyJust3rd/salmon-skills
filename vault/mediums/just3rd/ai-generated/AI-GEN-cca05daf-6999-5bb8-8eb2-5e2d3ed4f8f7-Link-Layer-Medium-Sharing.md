@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/link-layer-medium-sharing|Link Layer Medium Sharing]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/link-layer-medium-sharing|link-layer-medium-sharing]]"
 ---
 # Sharing the Airwaves: Understanding Link Layer Medium Sharing
 

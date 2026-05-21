@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/modeling-activity|Modeling Activity]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/modeling-activity|modeling-activity]]"
 ---
 # Modeling in Software Engineering
 

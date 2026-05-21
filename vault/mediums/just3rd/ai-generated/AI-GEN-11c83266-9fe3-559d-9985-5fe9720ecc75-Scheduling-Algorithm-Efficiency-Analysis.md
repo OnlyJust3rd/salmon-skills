@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|Scheduling Algorithm Efficiency Analysis]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|scheduling-algorithm-efficiency-analysis]]"
 ---
 # Scheduling Algorithm Efficiency Analysis
 

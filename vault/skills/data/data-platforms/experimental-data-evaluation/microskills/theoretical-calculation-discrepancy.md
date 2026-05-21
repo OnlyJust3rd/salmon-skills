@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Theoretical Calculation Discrepancy"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-parent-macro: "Experimental Data Evaluation"
-parent-competency: "L2- Error and Distortion Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/experimental-data-evaluation/competencies/L1-error-and-distortion-concepts|L1-error-and-distortion-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Theoretical Calculation Discrepancy
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/experimental-data-evaluation/experime
 
 Parent competency:
 
-- [[skills/data/data-platforms/experimental-data-evaluation/competencies/L2-error-and-distortion-concepts|L2- Error and Distortion Concepts]]
+- [[skills/data/data-platforms/experimental-data-evaluation/competencies/L1-error-and-distortion-concepts|L2- Error and Distortion Concepts]]
 
 ## Description
 

@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/process-management-concepts|Process Management Concepts]]"
-  - "[[skills/systems/operating-systems/operating-system/microskills/process-management-concepts|Process Management Concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/process-management-concepts|process-management-concepts]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/process-management-concepts|process-management-concepts]]"
 ---
 # Process Management Concepts
 

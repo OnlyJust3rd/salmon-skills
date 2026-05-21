@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/hypothetical-speech-signal-ciphering|Hypothetical Speech Signal Ciphering]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/hypothetical-speech-signal-ciphering|hypothetical-speech-signal-ciphering]]"
 ---
 # Hypothetical Speech Signal Ciphering
 

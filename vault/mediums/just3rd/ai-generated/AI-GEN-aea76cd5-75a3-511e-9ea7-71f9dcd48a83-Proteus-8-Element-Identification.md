@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/proteus-8-element-identification|Proteus 8 Element Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/proteus-8-element-identification|proteus-8-element-identification]]"
 ---
 # Proteus 8: Your Digital Circuit Building Blocks
 

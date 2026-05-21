@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Interaction Style Consideration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Visual Interface Design"
-parent-competency: "L3- Design Interface Solutions"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/visual-interface-design/visual-interface-design|visual-interface-design]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L2-design-interface-solutions|L2-design-interface-solutions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Interaction Style Consideration
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/visual-interface-design/visual
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L3-design-interface-solutions|L3- Design Interface Solutions]]
+- [[skills/web-and-design/frontend-ux/visual-interface-design/competencies/L2-design-interface-solutions|L3- Design Interface Solutions]]
 
 ## Description
 

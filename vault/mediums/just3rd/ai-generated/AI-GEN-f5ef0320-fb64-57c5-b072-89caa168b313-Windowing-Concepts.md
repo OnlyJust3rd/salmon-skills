@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/windowing-concepts|Windowing Concepts]]"
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/microskills/windowing-concepts|windowing-concepts]]"
 ---
 # Understanding Windowing Concepts
 

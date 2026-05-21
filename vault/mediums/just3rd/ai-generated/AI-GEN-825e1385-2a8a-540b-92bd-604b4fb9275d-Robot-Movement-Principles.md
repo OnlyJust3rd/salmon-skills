@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robot-movement-principles|Robot Movement Principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robot-movement-principles|robot-movement-principles]]"
 ---
 # Robot Movement Principles
 

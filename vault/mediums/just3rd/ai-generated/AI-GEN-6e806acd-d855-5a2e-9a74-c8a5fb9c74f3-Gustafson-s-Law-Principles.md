@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|Gustafson's Law Principles]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|gustafson-s-law-principles]]"
 ---
 # Understanding Gustafson's Law
 

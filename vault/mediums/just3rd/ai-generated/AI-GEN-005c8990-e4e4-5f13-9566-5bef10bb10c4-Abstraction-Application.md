@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-application|Abstraction Application]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/abstraction-application|abstraction-application]]"
 ---
 # Implementing Abstraction in Code
 

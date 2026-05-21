@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/z-transform-roc-determination|Z-transform ROC Determination]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/z-transform-roc-determination|z-transform-roc-determination]]"
 ---
 # Z-transform Region of Convergence (ROC) Determination
 

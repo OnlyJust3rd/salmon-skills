@@ -1,20 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Game Engine Architecture"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - game development production skills"
-coverage:
-  - "Concept"
-  - "Architecture"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "Game Developer"
-  - "Unity Developer"
-  - "Unreal Engine Developer"
-  - "Gameplay Programmer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L1-explain-game-loop-scene-and-component-architecture|L1-explain-game-loop-scene-and-component-architecture]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L2-apply-scene-entity-and-component-architecture-concepts|L2-apply-scene-entity-and-component-architecture-concepts]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L2-apply-scene-entity-and-component-architecture-concepts|L2-apply-scene-entity-and-component-architecture-concepts]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/asset-reference|asset-reference]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/component|component]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/entity-composition|entity-composition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/game-loop|game-loop]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/scene-graph|scene-graph]]"
+  - "[[skills/hardware-embedded/electronics-embedded/game-engine-architecture/microskills/update-method|update-method]]"
 ---
 
 # Game Engine Architecture
@@ -23,8 +26,8 @@ Understanding game loops, scene graphs, entities, components, asset loading, and
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L2-explain-game-loop-scene-and-component-architecture|L2- Explain Game Loop Scene and Component Architecture]]
-- [[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L3-apply-scene-entity-and-component-architecture-concepts|L3- Apply Scene Entity and Component Architecture Concepts]]
+- [[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L1-explain-game-loop-scene-and-component-architecture|L2- Explain Game Loop Scene and Component Architecture]]
+- [[skills/hardware-embedded/electronics-embedded/game-engine-architecture/competencies/L2-apply-scene-entity-and-component-architecture-concepts|L3- Apply Scene Entity and Component Architecture Concepts]]
 
 ## Microskills
 

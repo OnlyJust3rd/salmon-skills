@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Breadboard Layout Conventions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Digital Circuit Construction"
-parent-competency: "L1- Identify Circuit Components and Breadboard Layout"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/digital-circuit-construction|digital-circuit-construction]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-circuit-construction/competencies/L1-identify-circuit-components-and-breadboard-layout|L1-identify-circuit-components-and-breadboard-layout]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Breadboard Layout Conventions

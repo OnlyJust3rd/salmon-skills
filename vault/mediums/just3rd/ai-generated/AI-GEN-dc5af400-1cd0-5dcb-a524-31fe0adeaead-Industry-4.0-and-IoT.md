@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/industry-4-0-and-iot|Industry 4.0 and IoT]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/industry-4-0-and-iot|industry-4-0-and-iot]]"
 ---
 # Industry 4.0 and the Internet of Things
 

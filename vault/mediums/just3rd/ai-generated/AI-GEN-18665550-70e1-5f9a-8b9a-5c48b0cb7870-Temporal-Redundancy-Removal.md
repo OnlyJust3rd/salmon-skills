@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/temporal-redundancy-removal|Temporal Redundancy Removal]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/temporal-redundancy-removal|temporal-redundancy-removal]]"
 ---
 # Understanding Temporal Redundancy Removal in Video Compression
 

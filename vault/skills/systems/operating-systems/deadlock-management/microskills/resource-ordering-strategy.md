@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Resource Ordering Strategy"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Deadlock Management"
-parent-competency: "L3- Apply Deadlock Prevention"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/deadlock-management/deadlock-management|deadlock-management]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/deadlock-management/competencies/L2-apply-deadlock-prevention|L2-apply-deadlock-prevention]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Resource Ordering Strategy
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/deadlock-management/deadlock-ma
 
 Parent competency:
 
-- [[skills/systems/operating-systems/deadlock-management/competencies/L3-apply-deadlock-prevention|L3- Apply Deadlock Prevention]]
+- [[skills/systems/operating-systems/deadlock-management/competencies/L2-apply-deadlock-prevention|L3- Apply Deadlock Prevention]]
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Verilog Modeling Levels"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Verilog HDL Modeling"
-parent-competency: "L2- Verilog Concepts and Testbenches"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/verilog-hdl-modeling|verilog-hdl-modeling]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L1-verilog-concepts-and-testbenches|L1-verilog-concepts-and-testbenches]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Verilog Modeling Levels
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeli
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L2-verilog-concepts-and-testbenches|L2- Verilog Concepts and Testbenches]]
+- [[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L1-verilog-concepts-and-testbenches|L2- Verilog Concepts and Testbenches]]
 
 ## Description
 

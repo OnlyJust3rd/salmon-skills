@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/design-rule-check|Design Rule Check]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/design-rule-check|design-rule-check]]"
 ---
 # Design Rule Check (DRC) in PCB Design
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/dynamic-system-definition|Dynamic System Definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/dynamic-system-definition|dynamic-system-definition]]"
 ---
 # Understanding Dynamic Systems
 

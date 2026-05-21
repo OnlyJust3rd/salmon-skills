@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Lean Canvas Elements"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Business Model Design"
-parent-competency: "L1- Define Canvas Components"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/business-model-design/business-model-design|business-model-design]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/business-model-design/competencies/L1-define-canvas-components|L1-define-canvas-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Lean Canvas Elements

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/failure-aware-design|Failure-Aware Design]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/failure-aware-design|failure-aware-design]]"
 ---
 # Failure-Aware Design in Cloud-Native Applications
 

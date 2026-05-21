@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Dockerfile Instructions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "System Virtualization"
-parent-competency: "L2- Build Container Images"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/system-virtualization/system-virtualization|system-virtualization]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-build-container-images|L1-build-container-images]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Dockerfile Instructions
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/system-virtualization/s
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L2-build-container-images|L2- Build Container Images]]
+- [[skills/cloud-devops/platform-engineering/system-virtualization/competencies/L1-build-container-images|L2- Build Container Images]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/track-definition|Track Definition]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/track-definition|track-definition]]"
 ---
 # Understanding Disk Tracks
 

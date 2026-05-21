@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Quality Gate"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - AI coding assistant and agentic development tools"
-parent-macro: "OpenAI Codex"
-parent-competency: "L3- Apply OpenAI Codex Task Delegation Workflow Concepts"
+  - "microskill"
+parent-skill: "[[skills/ai-assistant-tools/coding-assistants/openai-codex/openai-codex|openai-codex]]"
+requires-in-competencies:
+  - "[[skills/ai-assistant-tools/coding-assistants/openai-codex/competencies/L2-apply-openai-codex-task-delegation-workflow-concepts|L2-apply-openai-codex-task-delegation-workflow-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Quality Gate
@@ -15,7 +17,7 @@ Parent macro: [[openai-codex|OpenAI Codex]]
 
 Parent competency:
 
-- [[L3-apply-openai-codex-task-delegation-workflow-concepts|L3- Apply OpenAI Codex Task Delegation Workflow Concepts]]
+- [[skills/ai-assistant-tools/coding-assistants/openai-codex/competencies/L2-apply-openai-codex-task-delegation-workflow-concepts|L3- Apply OpenAI Codex Task Delegation Workflow Concepts]]
 
 ## Description
 

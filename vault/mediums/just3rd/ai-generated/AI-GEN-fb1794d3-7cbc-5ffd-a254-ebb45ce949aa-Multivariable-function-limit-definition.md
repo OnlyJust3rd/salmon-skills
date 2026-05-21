@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/function-analysis/microskills/multivariable-function-limit-definition|Multivariable function limit definition]]"
+  - "[[skills/mathematics/function-analysis/microskills/multivariable-function-limit-definition|multivariable-function-limit-definition]]"
 ---
 # Understanding the Formal Definition of Multivariable Function Limits
 

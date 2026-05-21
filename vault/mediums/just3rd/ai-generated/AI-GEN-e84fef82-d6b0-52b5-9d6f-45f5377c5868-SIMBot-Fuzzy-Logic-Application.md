@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/simbot-fuzzy-logic-application|SIMBot Fuzzy Logic Application]]"
+  - "[[skills/data/ai/soft-computing/microskills/simbot-fuzzy-logic-application|simbot-fuzzy-logic-application]]"
 ---
 # Applying Fuzzy Logic Control in SIMBot
 

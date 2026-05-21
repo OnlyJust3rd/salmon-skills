@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Dimension Attribute"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Data Warehousing"
-parent-competency: "L3- Apply Dimensional Modeling Concepts"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/data-warehousing/data-warehousing|data-warehousing]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/data-warehousing/competencies/L2-apply-dimensional-modeling-concepts|L2-apply-dimensional-modeling-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Dimension Attribute
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/data-warehousing/data-warehousing|Dat
 
 Parent competency:
 
-- [[skills/data/data-platforms/data-warehousing/competencies/L3-apply-dimensional-modeling-concepts|L3- Apply Dimensional Modeling Concepts]]
+- [[skills/data/data-platforms/data-warehousing/competencies/L2-apply-dimensional-modeling-concepts|L3- Apply Dimensional Modeling Concepts]]
 
 ## Description
 

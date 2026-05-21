@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/positive-definite-classification|Positive definite classification]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/positive-definite-classification|positive-definite-classification]]"
 ---
 # Positive Definite Classification Using Eigenvalues
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|Infrastructure as Code Best Practices]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|infrastructure-as-code-best-practices]]"
 ---
 # Infrastructure as Code Best Practices
 

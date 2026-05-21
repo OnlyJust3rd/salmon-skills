@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Java Linear Data Structures"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Java Programming"
-parent-competency: "L3- Java Data Structure Implementation"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/java-programming/java-programming|java-programming]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-java-data-structure-implementation|L2-java-data-structure-implementation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Java Linear Data Structures
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/java-programming/java-p
 
 Parent competency:
 
-- [[skills/programming/programming-languages/java-programming/competencies/L3-java-data-structure-implementation|L3- Java Data Structure Implementation]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-java-data-structure-implementation|L3- Java Data Structure Implementation]]
 
 ## Description
 

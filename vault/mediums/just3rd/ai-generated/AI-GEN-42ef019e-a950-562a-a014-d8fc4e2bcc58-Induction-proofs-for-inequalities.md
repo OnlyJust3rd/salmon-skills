@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-inequalities|Induction proofs for inequalities]]"
+  - "[[skills/mathematics/mathematical-induction/microskills/induction-proofs-for-inequalities|induction-proofs-for-inequalities]]"
 ---
 # Induction Proofs for Inequalities
 

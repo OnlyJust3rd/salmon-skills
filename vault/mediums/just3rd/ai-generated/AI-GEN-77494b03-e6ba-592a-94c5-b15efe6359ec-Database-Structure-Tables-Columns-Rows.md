@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/database-structure-tables-columns-rows|Database Structure: Tables, Columns, Rows]]"
+  - "[[skills/data/databases/database-system/microskills/database-structure-tables-columns-rows|database-structure-tables-columns-rows]]"
 ---
 # Database Structure: Tables, Columns, and Rows
 

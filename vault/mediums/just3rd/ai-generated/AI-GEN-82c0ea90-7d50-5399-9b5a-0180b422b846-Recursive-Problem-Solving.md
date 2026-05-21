@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/proof-techniques/microskills/recursive-problem-solving|Recursive Problem Solving]]"
+  - "[[skills/mathematics/proof-techniques/microskills/recursive-problem-solving|recursive-problem-solving]]"
 ---
 # Recursive Problem Solving
 

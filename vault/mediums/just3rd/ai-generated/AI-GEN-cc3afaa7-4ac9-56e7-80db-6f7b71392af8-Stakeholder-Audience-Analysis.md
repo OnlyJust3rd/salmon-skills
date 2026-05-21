@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/stakeholder-audience-analysis|Stakeholder Audience Analysis]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/stakeholder-audience-analysis|stakeholder-audience-analysis]]"
 ---
 # Understanding Your Stakeholder Audience
 

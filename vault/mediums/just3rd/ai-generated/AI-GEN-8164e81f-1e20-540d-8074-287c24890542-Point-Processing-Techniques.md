@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/point-processing-techniques|Point Processing Techniques]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/point-processing-techniques|point-processing-techniques]]"
 ---
 # Understanding Point Processing Techniques in Digital Image Manipulation
 

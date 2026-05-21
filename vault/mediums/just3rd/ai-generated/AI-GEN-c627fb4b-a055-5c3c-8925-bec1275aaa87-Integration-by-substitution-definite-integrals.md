@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/integration-by-substitution-definite-integrals|Integration by substitution (definite integrals)]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/integration-by-substitution-definite-integrals|integration-by-substitution-definite-integrals]]"
 ---
 # Integration by Substitution for Definite Integrals
 

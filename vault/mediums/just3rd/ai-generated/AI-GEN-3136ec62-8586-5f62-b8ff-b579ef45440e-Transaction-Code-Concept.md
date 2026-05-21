@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sap-erp/microskills/transaction-code-concept|Transaction Code Concept]]"
+  - "[[skills/business-it/business-product/sap-erp/microskills/transaction-code-concept|transaction-code-concept]]"
 ---
 # Understanding SAP Transaction Codes
 

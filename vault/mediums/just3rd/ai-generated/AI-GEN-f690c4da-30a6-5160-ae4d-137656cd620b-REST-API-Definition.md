@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/rest-api-definition|REST API Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/rest-api-definition|rest-api-definition]]"
 ---
 # Understanding RESTful APIs
 

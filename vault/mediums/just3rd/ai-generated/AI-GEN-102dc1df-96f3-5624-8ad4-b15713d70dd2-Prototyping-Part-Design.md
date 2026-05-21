@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/prototyping-part-design|Prototyping Part Design]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/prototyping-part-design|prototyping-part-design]]"
 ---
 # Prototyping Part Design: From Idea to 3D Model
 

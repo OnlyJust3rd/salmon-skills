@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Code Review Purpose"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Quality Assurance"
-parent-competency: "L2- Explain Code Reviews"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/quality-assurance/quality-assurance|quality-assurance]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Code Review Purpose
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/quality-assurance/qualit
 
 Parent competency:
 
-- [[skills/programming/software-engineering/quality-assurance/competencies/L2-explain-code-reviews|L2- Explain Code Reviews]]
+- [[skills/programming/software-engineering/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
 
 ## Description
 

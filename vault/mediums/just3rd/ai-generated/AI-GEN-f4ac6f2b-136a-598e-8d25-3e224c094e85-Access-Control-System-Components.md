@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/access-control-system-components|Access Control System Components]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/access-control-system-components|access-control-system-components]]"
 ---
 # Access Control System Components
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/huffman-coding-greedy-java-implementation|Huffman Coding Greedy Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/huffman-coding-greedy-java-implementation|huffman-coding-greedy-java-implementation]]"
 ---
 # Huffman Coding Greedy Java Implementation
 

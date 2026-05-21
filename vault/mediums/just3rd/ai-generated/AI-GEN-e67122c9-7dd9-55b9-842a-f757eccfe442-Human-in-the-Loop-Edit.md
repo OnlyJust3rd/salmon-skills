@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/human-in-the-loop-edit|Human-in-the-Loop Edit]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-assisted-software-development/microskills/human-in-the-loop-edit|human-in-the-loop-edit]]"
 ---
 # Human-in-the-Loop Editing for AI-Generated Code
 

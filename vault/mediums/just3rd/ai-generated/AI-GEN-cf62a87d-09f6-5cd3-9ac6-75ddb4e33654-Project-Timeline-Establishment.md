@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/project-timeline-establishment|Project Timeline Establishment]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/project-timeline-establishment|project-timeline-establishment]]"
 ---
 # Establishing a Project Timeline
 

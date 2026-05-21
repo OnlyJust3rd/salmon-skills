@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/opportunity-identification|Opportunity Identification]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/opportunity-identification|opportunity-identification]]"
 ---
 # Identifying Market Opportunities Through Competitive Analysis
 

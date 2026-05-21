@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Projection Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Perspective Projection"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Identify and Define Geometric Transformations"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-identify-and-define-geometric-transformations|L1-identify-and-define-geometric-transformations]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/creative-media/graphics-media/perspective-projection/perspective-projection|perspective-projection]]"
+requires-microskills:
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/eye-point|eye-point]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-plane|projection-plane]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/projection-system-components|projection-system-components]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/vanishing-points|vanishing-points]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Projection Components

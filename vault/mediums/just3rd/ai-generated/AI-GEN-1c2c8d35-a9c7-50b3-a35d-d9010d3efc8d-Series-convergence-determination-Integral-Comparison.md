@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/series-convergence-determination-integral-comparison|Series convergence determination (Integral/Comparison)]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/series-convergence-determination-integral-comparison|series-convergence-determination-integral-comparison]]"
 ---
 # Applying the Integral and Comparison Tests for Series Convergence
 

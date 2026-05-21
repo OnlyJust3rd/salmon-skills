@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/fog-computing-ai-tasks|Fog Computing AI Tasks]]"
+  - "[[skills/hardware-embedded/electronics-embedded/edge-computing/microskills/fog-computing-ai-tasks|fog-computing-ai-tasks]]"
 ---
 # Executing AI Tasks on Fog Nodes
 

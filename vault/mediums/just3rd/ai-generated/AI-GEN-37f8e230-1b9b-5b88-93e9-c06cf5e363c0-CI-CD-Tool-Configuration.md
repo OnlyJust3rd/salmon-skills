@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/ci-cd-tool-configuration|CI/CD Tool Configuration]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/ci-cd-tool-configuration|ci-cd-tool-configuration]]"
 ---
 # Configuring CI/CD Tools for Serverless Deployments
 

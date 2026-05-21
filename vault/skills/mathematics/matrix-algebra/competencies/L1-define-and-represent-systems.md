@@ -1,17 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and Represent Systems"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 234 - Linear Algebra"
-parent-macro: "Matrix Algebra"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-microskills:
+  - "[[skills/mathematics/matrix-algebra/microskills/augmented-matrix-representation|augmented-matrix-representation]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/linear-system-definition|linear-system-definition]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/system-of-linear-equations-components|system-of-linear-equations-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and Represent Systems

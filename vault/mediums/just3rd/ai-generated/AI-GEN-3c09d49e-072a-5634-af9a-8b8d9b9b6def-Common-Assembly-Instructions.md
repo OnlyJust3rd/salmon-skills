@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/assembly-programming/microskills/common-assembly-instructions|Common Assembly Instructions]]"
+  - "[[skills/programming/programming-languages/assembly-programming/microskills/common-assembly-instructions|common-assembly-instructions]]"
 ---
 # Common Assembly Instructions
 

@@ -1,18 +1,120 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Java Programming"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 231 - Algorithms"
-coverage:
-  - "Implementation"
-  - "ToolUsage"
-competency-count: 16
-microskill-count: 77
-related-jobs:
-  - "Software Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-231-algorithms"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/programming-languages/java-programming/competencies/L1-define-adts|L1-define-adts]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L1-identify-java-class-components|L1-identify-java-class-components]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L1-explain-java-oop-constructs-and-encapsulation|L1-explain-java-oop-constructs-and-encapsulation]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-adts-and-data-structures-with-oop|L2-implement-adts-and-data-structures-with-oop]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-backtracking-algorithms-in-java|L2-implement-backtracking-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-branch-and-bound-in-java|L2-implement-branch-and-bound-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-dp-in-java|L2-implement-dp-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-genetic-algorithms-in-java|L2-implement-genetic-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-graph-algorithms-in-java|L2-implement-graph-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-greedy-algorithms-in-java|L2-implement-greedy-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-searching-algorithms-in-java|L2-implement-searching-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-sorting-algorithms-in-java|L2-implement-sorting-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-string-algorithms-in-java|L2-implement-string-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-tree-algorithms|L2-implement-tree-algorithms]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-java-data-structure-implementation|L2-java-data-structure-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-translate-algorithms-to-java|L2-translate-algorithms-to-java]]"
+standard-competency:
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-adts-and-data-structures-with-oop|L2-implement-adts-and-data-structures-with-oop]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-backtracking-algorithms-in-java|L2-implement-backtracking-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-branch-and-bound-in-java|L2-implement-branch-and-bound-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-dp-in-java|L2-implement-dp-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-genetic-algorithms-in-java|L2-implement-genetic-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-graph-algorithms-in-java|L2-implement-graph-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-greedy-algorithms-in-java|L2-implement-greedy-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-searching-algorithms-in-java|L2-implement-searching-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-sorting-algorithms-in-java|L2-implement-sorting-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-string-algorithms-in-java|L2-implement-string-algorithms-in-java]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-implement-tree-algorithms|L2-implement-tree-algorithms]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-java-data-structure-implementation|L2-java-data-structure-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/competencies/L2-translate-algorithms-to-java|L2-translate-algorithms-to-java]]"
+microskills:
+  - "[[skills/programming/programming-languages/java-programming/microskills/0-1-knapsack-dp-java-implementation|0-1-knapsack-dp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/a-search-algorithm-java-implementation|a-search-algorithm-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/abstract-data-type-characteristics|abstract-data-type-characteristics]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/abstract-data-type-definition|abstract-data-type-definition]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/access-modifier-usage|access-modifier-usage]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/activity-selection-greedy-java-implementation|activity-selection-greedy-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/adt-representation-with-java-classes|adt-representation-with-java-classes]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/algorithm-structure-integration|algorithm-structure-integration]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/algorithm-to-java-translation|algorithm-to-java-translation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/avl-tree-rotation-java-implementation|avl-tree-rotation-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/bellman-ford-algorithm-java-implementation|bellman-ford-algorithm-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/binary-search-java-implementation|binary-search-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/binary-search-tree-bst-operations-java-implementation|binary-search-tree-bst-operations-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/boyer-moore-java-implementation|boyer-moore-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/breadth-first-search-bfs-java-implementation|breadth-first-search-bfs-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/bubble-sort-java-implementation|bubble-sort-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/coin-change-problem-dp-java-implementation|coin-change-problem-dp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/constructor-implementation-for-adts|constructor-implementation-for-adts]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/depth-first-search-dfs-java-implementation|depth-first-search-dfs-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/dijkstra-s-algorithm-java-implementation|dijkstra-s-algorithm-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/edit-distance-levenshtein-distance-dp-java-implementation|edit-distance-levenshtein-distance-dp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/encapsulation-for-controlled-access|encapsulation-for-controlled-access]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/encapsulation-for-data-hiding|encapsulation-for-data-hiding]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/exponential-search-java-implementation|exponential-search-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/fenwick-tree-binary-indexed-tree-java-implementation|fenwick-tree-binary-indexed-tree-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/fibonacci-dp-java-implementation|fibonacci-dp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/floyd-warshall-algorithm-java-implementation|floyd-warshall-algorithm-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/fractional-knapsack-greedy-java-implementation|fractional-knapsack-greedy-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/genetic-algorithm-implementation|genetic-algorithm-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/hamiltonian-path-cycle-backtracking-java-implementation|hamiltonian-path-cycle-backtracking-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/heap-sort-java-implementation|heap-sort-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/huffman-coding-greedy-java-implementation|huffman-coding-greedy-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/inorder-tree-traversal-java-implementation|inorder-tree-traversal-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/insertion-sort-java-implementation|insertion-sort-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/interpolation-search-java-implementation|interpolation-search-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-access-modifiers|java-access-modifiers]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-classes-purpose|java-classes-purpose]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-constructors-role|java-constructors-role]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-constructors|java-constructors]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-fields|java-fields]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-hierarchical-data-structures|java-hierarchical-data-structures]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-linear-data-structures|java-linear-data-structures]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-methods|java-methods]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/java-objects-functionality|java-objects-functionality]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/job-scheduling-with-deadlines-greedy-java-implementation|job-scheduling-with-deadlines-greedy-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/jump-search-java-implementation|jump-search-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/knapsack-branch-and-bound-java-implementation|knapsack-branch-and-bound-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/knuth-morris-pratt-kmp-java-implementation|knuth-morris-pratt-kmp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/kosaraju-s-algorithm-java-implementation|kosaraju-s-algorithm-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/kruskal-s-algorithm-java-implementation|kruskal-s-algorithm-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/linear-search-java-implementation|linear-search-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/longest-common-subsequence-lcs-dp-java-implementation|longest-common-subsequence-lcs-dp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/longest-increasing-subsequence-lis-dp-java-implementation|longest-increasing-subsequence-lis-dp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/lowest-common-ancestor-lca-java-implementation|lowest-common-ancestor-lca-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/matrix-chain-multiplication-dp-java-implementation|matrix-chain-multiplication-dp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/merge-sort-java-implementation|merge-sort-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/minimum-spanning-tree-prim-kruskal-greedy-java-implementation|minimum-spanning-tree-prim-kruskal-greedy-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/n-queens-problem-backtracking-java-implementation|n-queens-problem-backtracking-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/object-instantiation-for-data-structures|object-instantiation-for-data-structures]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/permutation-generation-backtracking-java-implementation|permutation-generation-backtracking-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/postorder-tree-traversal-java-implementation|postorder-tree-traversal-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/preorder-tree-traversal-java-implementation|preorder-tree-traversal-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/prim-s-algorithm-java-implementation|prim-s-algorithm-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/problem-type-algorithm-implementation|problem-type-algorithm-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/quick-sort-java-implementation|quick-sort-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/rabin-karp-java-implementation|rabin-karp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/red-black-tree-operations-java-implementation|red-black-tree-operations-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/segment-tree-java-implementation|segment-tree-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/selection-sort-java-implementation|selection-sort-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/subset-generation-backtracking-java-implementation|subset-generation-backtracking-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/sudoku-solver-backtracking-java-implementation|sudoku-solver-backtracking-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/tarjan-s-algorithm-java-implementation|tarjan-s-algorithm-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/topological-sort-java-implementation|topological-sort-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/traveling-salesman-problem-tsp-branch-and-bound-java-implementation|traveling-salesman-problem-tsp-branch-and-bound-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/trie-prefix-tree-java-implementation|trie-prefix-tree-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/unbounded-knapsack-dp-java-implementation|unbounded-knapsack-dp-java-implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/z-algorithm-java-implementation|z-algorithm-java-implementation]]"
 ---
 
 # Java Programming
@@ -21,22 +123,22 @@ Developing Java programs that implement algorithms and data structures, includin
 
 ## Competencies
 
-- [[skills/programming/programming-languages/java-programming/competencies/L3-translate-algorithms-to-java|L3- Translate Algorithms to Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-sorting-algorithms-in-java|L3- Implement Sorting Algorithms in Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-searching-algorithms-in-java|L3- Implement Searching Algorithms in Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-graph-algorithms-in-java|L3- Implement Graph Algorithms in Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-tree-algorithms|L3- Implement Tree Algorithms]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-dp-in-java|L3- Implement DP in Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-greedy-algorithms-in-java|L3- Implement Greedy Algorithms in Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-backtracking-algorithms-in-java|L3- Implement Backtracking Algorithms in Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-branch-and-bound-in-java|L3- Implement Branch and Bound in Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-string-algorithms-in-java|L3- Implement String Algorithms in Java]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-genetic-algorithms-in-java|L3- Implement Genetic Algorithms in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-translate-algorithms-to-java|L3- Translate Algorithms to Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-sorting-algorithms-in-java|L3- Implement Sorting Algorithms in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-searching-algorithms-in-java|L3- Implement Searching Algorithms in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-graph-algorithms-in-java|L3- Implement Graph Algorithms in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-tree-algorithms|L3- Implement Tree Algorithms]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-dp-in-java|L3- Implement DP in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-greedy-algorithms-in-java|L3- Implement Greedy Algorithms in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-backtracking-algorithms-in-java|L3- Implement Backtracking Algorithms in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-branch-and-bound-in-java|L3- Implement Branch and Bound in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-string-algorithms-in-java|L3- Implement String Algorithms in Java]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-genetic-algorithms-in-java|L3- Implement Genetic Algorithms in Java]]
 - [[skills/programming/programming-languages/java-programming/competencies/L1-identify-java-class-components|L1- Identify Java Class Components]]
-- [[skills/programming/programming-languages/java-programming/competencies/L2-explain-java-oop-constructs-and-encapsulation|L2- Explain Java OOP Constructs and Encapsulation]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-implement-adts-and-data-structures-with-oop|L3- Implement ADTs and Data Structures with OOP]]
+- [[skills/programming/programming-languages/java-programming/competencies/L1-explain-java-oop-constructs-and-encapsulation|L2- Explain Java OOP Constructs and Encapsulation]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-adts-and-data-structures-with-oop|L3- Implement ADTs and Data Structures with OOP]]
 - [[skills/programming/programming-languages/java-programming/competencies/L1-define-adts|L1- Define ADTs]]
-- [[skills/programming/programming-languages/java-programming/competencies/L3-java-data-structure-implementation|L3- Java Data Structure Implementation]]
+- [[skills/programming/programming-languages/java-programming/competencies/L2-java-data-structure-implementation|L3- Java Data Structure Implementation]]
 
 ## Microskills
 

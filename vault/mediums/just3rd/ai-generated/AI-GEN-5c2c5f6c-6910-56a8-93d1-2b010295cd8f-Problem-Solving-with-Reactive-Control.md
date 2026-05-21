@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/problem-solving-with-reactive-control|Problem Solving with Reactive Control]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/problem-solving-with-reactive-control|problem-solving-with-reactive-control]]"
 ---
 # Problem Solving with Reactive Control
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-performance/microskills/load-condition-effects|Load Condition Effects]]"
+  - "[[skills/systems/networking/network-performance/microskills/load-condition-effects|load-condition-effects]]"
 ---
 # Load Condition Effects on Congestion Control
 

@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-modeling/microskills/model-comparison|Model Comparison]]"
-  - "[[skills/data/data-science/machine-learning/microskills/model-comparison|Model Comparison]]"
+  - "[[skills/data/data-platforms/data-modeling/microskills/model-comparison|model-comparison]]"
+  - "[[skills/data/data-science/machine-learning/microskills/model-comparison|model-comparison]]"
 ---
 # Comparing Data Modeling Techniques
 

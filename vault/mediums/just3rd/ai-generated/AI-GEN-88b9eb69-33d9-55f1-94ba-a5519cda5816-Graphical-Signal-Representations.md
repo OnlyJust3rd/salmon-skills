@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/graphical-signal-representations|Graphical Signal Representations]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/graphical-signal-representations|graphical-signal-representations]]"
 ---
 # Understanding Graphical Signal Representations
 

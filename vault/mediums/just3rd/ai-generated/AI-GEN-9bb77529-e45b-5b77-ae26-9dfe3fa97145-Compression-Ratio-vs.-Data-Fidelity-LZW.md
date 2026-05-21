@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-lzw|Compression Ratio vs. Data Fidelity (LZW)]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-lzw|compression-ratio-vs-data-fidelity-lzw]]"
 ---
 # Compression Ratio vs. Data Fidelity (LZW)
 

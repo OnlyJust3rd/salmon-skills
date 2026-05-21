@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-allocation-and-chargeback|Cost Allocation and Chargeback]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-finops/microskills/cost-allocation-and-chargeback|cost-allocation-and-chargeback]]"
 ---
 # Understanding Cost Allocation and Chargeback with Resource Tags
 

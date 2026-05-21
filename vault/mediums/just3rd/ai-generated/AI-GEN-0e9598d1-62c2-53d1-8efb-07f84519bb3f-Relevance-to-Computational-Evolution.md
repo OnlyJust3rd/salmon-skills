@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/computational-evolution-theory/microskills/relevance-to-computational-evolution|Relevance to Computational Evolution]]"
+  - "[[skills/data/ai/computational-evolution-theory/microskills/relevance-to-computational-evolution|relevance-to-computational-evolution]]"
 ---
 # Bridging Biology and Code: Evolutionary Theory in Computation
 

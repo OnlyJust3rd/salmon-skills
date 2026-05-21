@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Reward definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 342 - Machine Learning"
-parent-macro: "Reinforcement Learning"
-parent-competency: "L1- Define RL Components"
+  - "microskill"
+parent-skill: "[[skills/data/ai/reinforcement-learning/reinforcement-learning|reinforcement-learning]]"
+requires-in-competencies:
+  - "[[skills/data/ai/reinforcement-learning/competencies/L1-define-rl-components|L1-define-rl-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Reward definition

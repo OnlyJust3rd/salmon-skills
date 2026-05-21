@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/reinforcement-learning/microskills/agent-definition|Agent definition]]"
+  - "[[skills/data/ai/reinforcement-learning/microskills/agent-definition|agent-definition]]"
 ---
 # The Agent: The Decision Maker in Reinforcement Learning
 

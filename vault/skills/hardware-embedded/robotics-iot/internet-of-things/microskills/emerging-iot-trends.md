@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Emerging IoT Trends"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 475 - Internet of Things"
-parent-macro: "Internet of Things"
-parent-competency: "L2- Describe Emerging IoT Trends and Technologies"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/robotics-iot/internet-of-things/internet-of-things|internet-of-things]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-describe-emerging-iot-trends-and-technologies|L1-describe-emerging-iot-trends-and-technologies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Emerging IoT Trends
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/robotics-iot/internet-of-things/interne
 
 Parent competency:
 
-- [[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L2-describe-emerging-iot-trends-and-technologies|L2- Describe Emerging IoT Trends and Technologies]]
+- [[skills/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-describe-emerging-iot-trends-and-technologies|L2- Describe Emerging IoT Trends and Technologies]]
 
 ## Description
 

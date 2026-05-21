@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/navigation-flow|Navigation Flow]]"
+  - "[[skills/web-and-design/mobile/mobile-application-development/microskills/navigation-flow|navigation-flow]]"
 ---
 # Understanding Navigation Flow in Mobile App Architecture
 

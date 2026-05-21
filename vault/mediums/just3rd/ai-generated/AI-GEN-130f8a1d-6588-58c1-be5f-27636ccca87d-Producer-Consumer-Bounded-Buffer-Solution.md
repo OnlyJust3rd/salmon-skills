@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/producer-consumer-bounded-buffer-solution|Producer-Consumer Bounded-Buffer Solution]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/producer-consumer-bounded-buffer-solution|producer-consumer-bounded-buffer-solution]]"
 ---
 # Producer-Consumer Bounded-Buffer Solution with Condition Variables
 

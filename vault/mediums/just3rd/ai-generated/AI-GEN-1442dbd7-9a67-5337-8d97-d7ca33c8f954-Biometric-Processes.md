@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/biometric-processes|Biometric Processes]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/biometric-processes|biometric-processes]]"
 ---
 # Biometric System Processes: Enrollment, Verification, and Identification
 

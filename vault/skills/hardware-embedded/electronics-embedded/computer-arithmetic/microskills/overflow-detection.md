@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Overflow Detection"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Computer Arithmetic"
-parent-competency: "L3- Apply Arithmetic Algorithms"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/computer-arithmetic|computer-arithmetic]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/competencies/L2-apply-arithmetic-algorithms|L2-apply-arithmetic-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Overflow Detection
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/computer-arithmeti
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/computer-arithmetic/competencies/L3-apply-arithmetic-algorithms|L3- Apply Arithmetic Algorithms]]
+- [[skills/hardware-embedded/electronics-embedded/computer-arithmetic/competencies/L2-apply-arithmetic-algorithms|L3- Apply Arithmetic Algorithms]]
 
 ## Description
 

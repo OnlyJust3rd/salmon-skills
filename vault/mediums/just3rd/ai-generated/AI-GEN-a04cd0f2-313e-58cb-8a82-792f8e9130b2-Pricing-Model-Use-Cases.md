@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/pricing-model-use-cases|Pricing Model Use Cases]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/pricing-model-use-cases|pricing-model-use-cases]]"
 ---
 # Cloud Pricing Model Use Cases
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/serverless-vs-traditional-computing|Serverless vs. Traditional Computing]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/serverless-vs-traditional-computing|serverless-vs-traditional-computing]]"
 ---
 # Serverless vs. Traditional Computing
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/player-psychology/microskills/desired-player-experience-design|Desired Player Experience Design]]"
+  - "[[skills/creative-media/game-development/player-psychology/microskills/desired-player-experience-design|desired-player-experience-design]]"
 ---
 # Designing for Desired Player Experiences with Motivational Theories
 

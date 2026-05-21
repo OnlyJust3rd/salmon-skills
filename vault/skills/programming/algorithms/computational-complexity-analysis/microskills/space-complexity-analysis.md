@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Space Complexity Analysis"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 231 - Algorithms"
-parent-macro: "Computational Complexity Analysis"
-parent-competency: "L4- Analyze Complexity Trade-offs"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/computational-complexity-analysis/computational-complexity-analysis|computational-complexity-analysis]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/computational-complexity-analysis/competencies/L3-analyze-complexity-trade-offs|L3-analyze-complexity-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Space Complexity Analysis
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/computational-complexity-analysis/
 
 Parent competency:
 
-- [[skills/programming/algorithms/computational-complexity-analysis/competencies/L4-analyze-complexity-trade-offs|L4- Analyze Complexity Trade-offs]]
+- [[skills/programming/algorithms/computational-complexity-analysis/competencies/L3-analyze-complexity-trade-offs|L4- Analyze Complexity Trade-offs]]
 
 ## Description
 

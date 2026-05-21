@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Credentials"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - backend security concepts"
-parent-macro: "Cybersecurity"
-parent-competency: "L2- Explain Authentication Mechanisms"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/cybersecurity/cybersecurity|cybersecurity]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/cybersecurity/competencies/L1-explain-authentication-mechanisms|L1-explain-authentication-mechanisms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Credentials
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/cybersecurity/cybersecurity|Cybers
 
 Parent competency:
 
-- [[skills/security/cybersecurity/cybersecurity/competencies/L2-explain-authentication-mechanisms|L2- Explain Authentication Mechanisms]]
+- [[skills/security/cybersecurity/cybersecurity/competencies/L1-explain-authentication-mechanisms|L2- Explain Authentication Mechanisms]]
 
 ## Description
 

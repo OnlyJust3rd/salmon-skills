@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/heatmap-creation-for-text-analysis|Heatmap Creation for Text Analysis]]"
+  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/heatmap-creation-for-text-analysis|heatmap-creation-for-text-analysis]]"
 ---
 # Heatmap Creation for Text Analysis
 

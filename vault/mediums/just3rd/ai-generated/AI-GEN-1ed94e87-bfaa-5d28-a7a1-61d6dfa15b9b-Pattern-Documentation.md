@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/pattern-documentation|Pattern Documentation]]"
+  - "[[skills/web-and-design/frontend-ux/design-systems/microskills/pattern-documentation|pattern-documentation]]"
 ---
 # Documenting Design System Patterns
 

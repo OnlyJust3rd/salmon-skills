@@ -1,18 +1,23 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List PCB Design Steps"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "PCB Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Identify Circuit Components"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/competencies/L1-identify-circuit-components|L1-identify-circuit-components]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 6
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/pcb-design/pcb-design|pcb-design]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/board-outline-definition|board-outline-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-footprint-selection|component-footprint-selection]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/component-placement|component-placement]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/design-rule-check|design-rule-check]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/routing-traces|routing-traces]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/schematic-capture|schematic-capture]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List PCB Design Steps

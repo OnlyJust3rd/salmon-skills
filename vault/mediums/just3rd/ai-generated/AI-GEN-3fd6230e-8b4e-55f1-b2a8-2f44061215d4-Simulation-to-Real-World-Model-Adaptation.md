@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-real-world-model-adaptation|Simulation to Real-World Model Adaptation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-real-world-model-adaptation|simulation-to-real-world-model-adaptation]]"
 ---
 # Adapting Robotic Models: Bridging the Simulation-Reality Gap
 

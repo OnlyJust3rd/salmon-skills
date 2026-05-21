@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/team-communication|Team Communication]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/team-communication|team-communication]]"
 ---
 # Effective Internal Messaging within Your Startup Team
 

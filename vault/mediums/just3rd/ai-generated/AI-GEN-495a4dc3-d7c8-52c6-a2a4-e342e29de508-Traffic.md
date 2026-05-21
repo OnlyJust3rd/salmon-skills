@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traffic|Traffic]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/traffic|traffic]]"
 ---
 # Understanding Traffic as a Golden Signal
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-application|TF-IDF Application]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-application|tf-idf-application]]"
 ---
 # TF-IDF Application: Turning Words into Numbers
 

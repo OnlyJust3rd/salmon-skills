@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/spatial-domain-watermarking-definition|Spatial Domain Watermarking Definition]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/spatial-domain-watermarking-definition|spatial-domain-watermarking-definition]]"
 ---
 # Spatial Domain Watermarking Definition
 

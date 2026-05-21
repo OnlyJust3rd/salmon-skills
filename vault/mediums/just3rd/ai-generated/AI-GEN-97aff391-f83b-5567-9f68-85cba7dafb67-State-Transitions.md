@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/application-layer/microskills/state-transitions|State Transitions]]"
+  - "[[skills/systems/networking/application-layer/microskills/state-transitions|state-transitions]]"
 ---
 # Understanding State Transitions in Network Protocols
 

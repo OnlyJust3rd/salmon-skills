@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Relationship Representation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Logical Reasoning"
-parent-competency: "L3- Apply Predicate Logic Representation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/logical-reasoning|logical-reasoning]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/logical-reasoning/competencies/L2-apply-predicate-logic-representation|L2-apply-predicate-logic-representation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Relationship Representation
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/logical-reasoning/
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/logical-reasoning/competencies/L3-apply-predicate-logic-representation|L3- Apply Predicate Logic Representation]]
+- [[skills/hardware-embedded/electronics-embedded/logical-reasoning/competencies/L2-apply-predicate-logic-representation|L3- Apply Predicate Logic Representation]]
 
 ## Description
 

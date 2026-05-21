@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-testing/microskills/automated-testing-framework-utilization|Automated Testing Framework Utilization]]"
+  - "[[skills/programming/software-engineering/software-testing/microskills/automated-testing-framework-utilization|automated-testing-framework-utilization]]"
 ---
 # Utilizing JUnit for Automated Testing
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/el-gamal-mechanics|El Gamal Mechanics]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/el-gamal-mechanics|el-gamal-mechanics]]"
 ---
 # El Gamal Mechanics: A Practical Walkthrough
 

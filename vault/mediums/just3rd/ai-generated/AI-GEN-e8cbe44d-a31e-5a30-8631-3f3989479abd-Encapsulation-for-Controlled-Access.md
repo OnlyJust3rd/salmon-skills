@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/encapsulation-for-controlled-access|Encapsulation for Controlled Access]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/encapsulation-for-controlled-access|encapsulation-for-controlled-access]]"
 ---
 # Encapsulation for Controlled Access in Java
 

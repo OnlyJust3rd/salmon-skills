@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/serverless-function-invocation|Serverless Function Invocation]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-computing/microskills/serverless-function-invocation|serverless-function-invocation]]"
 ---
 # Serverless Function Invocation: Understanding Triggers
 

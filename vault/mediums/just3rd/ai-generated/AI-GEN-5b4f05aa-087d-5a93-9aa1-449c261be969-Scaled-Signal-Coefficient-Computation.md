@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/scaled-signal-coefficient-computation|Scaled Signal Coefficient Computation]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/scaled-signal-coefficient-computation|scaled-signal-coefficient-computation]]"
 ---
 # Scaled Signal Coefficient Computation using Linearity
 

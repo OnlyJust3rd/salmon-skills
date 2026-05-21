@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/graph-use-cases|Graph Use Cases]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/graph-use-cases|graph-use-cases]]"
 ---
 # Graph Use Cases
 

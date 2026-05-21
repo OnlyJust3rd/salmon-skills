@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/network-diagram-application|Network Diagram Application]]"
+  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/network-diagram-application|network-diagram-application]]"
 ---
 # Understanding Network Diagrams in Text Analysis
 

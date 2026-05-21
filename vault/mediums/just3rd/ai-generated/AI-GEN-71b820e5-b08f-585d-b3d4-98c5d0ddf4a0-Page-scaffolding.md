@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/html/microskills/page-scaffolding|Page scaffolding]]"
+  - "[[skills/web-and-design/frontend-ux/html/microskills/page-scaffolding|page-scaffolding]]"
 ---
 # Page Scaffolding: Building Your HTML Foundation
 

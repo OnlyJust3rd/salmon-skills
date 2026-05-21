@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "BML Cycle Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Lean Startup"
-parent-competency: "L1- Identify BML Stages and Components"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-identify-bml-stages-and-components|L1-identify-bml-stages-and-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # BML Cycle Components

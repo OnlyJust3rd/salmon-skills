@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Lossless Compression Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Algorithm Classification"
-parent-competency: "L2- Explain Compression Principles and List Algorithms"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-classification/competencies/L1-explain-compression-principles-and-list-algorithms|L1-explain-compression-principles-and-list-algorithms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Lossless Compression Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-classification/algorithm
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-classification/competencies/L2-explain-compression-principles-and-list-algorithms|L2- Explain Compression Principles and List Algorithms]]
+- [[skills/programming/algorithms/algorithm-classification/competencies/L1-explain-compression-principles-and-list-algorithms|L2- Explain Compression Principles and List Algorithms]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-testing/microskills/bug-reproduction|Bug Reproduction]]"
+  - "[[skills/creative-media/game-development/game-testing/microskills/bug-reproduction|bug-reproduction]]"
 ---
 # Bug Reproduction: Making Bugs Happen Again and Again
 

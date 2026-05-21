@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Configuration Review"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-parent-macro: "Endpoint Administration"
-parent-competency: "L3- Apply Endpoint Maintenance and Software Installation"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/endpoint-administration/endpoint-administration|endpoint-administration]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/endpoint-administration/competencies/L2-apply-endpoint-maintenance-and-software-installation|L2-apply-endpoint-maintenance-and-software-installation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Configuration Review
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/endpoint-administration/endp
 
 Parent competency:
 
-- [[skills/business-it/business-product/endpoint-administration/competencies/L3-apply-endpoint-maintenance-and-software-installation|L3- Apply Endpoint Maintenance and Software Installation]]
+- [[skills/business-it/business-product/endpoint-administration/competencies/L2-apply-endpoint-maintenance-and-software-installation|L3- Apply Endpoint Maintenance and Software Installation]]
 
 ## Description
 

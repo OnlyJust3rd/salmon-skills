@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/character-normalization-definition|Character Normalization Definition]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/character-normalization-definition|character-normalization-definition]]"
 ---
 # Character Normalization: Making Text Consistent
 

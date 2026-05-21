@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-structure-fundamentals|Diode Structure Fundamentals]]"
+  - "[[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/microskills/diode-structure-fundamentals|diode-structure-fundamentals]]"
 ---
 # Diode Structure Fundamentals
 

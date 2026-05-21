@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-geometric-interpretation-volume|Double integral geometric interpretation (volume)]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-geometric-interpretation-volume|double-integral-geometric-interpretation-volume]]"
 ---
 # Double Integrals: Visualizing Volume
 

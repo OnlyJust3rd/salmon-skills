@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/wireless-networks/microskills/wireless-network-components|Wireless Network Components]]"
+  - "[[skills/systems/networking/wireless-networks/microskills/wireless-network-components|wireless-network-components]]"
 ---
 # Wireless Network Components: The Building Blocks
 

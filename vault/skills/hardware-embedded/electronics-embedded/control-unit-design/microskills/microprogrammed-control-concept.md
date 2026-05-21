@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Microprogrammed Control Concept"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Control Unit Design"
-parent-competency: "L2- Explain Control Unit Approaches"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/control-unit-design/control-unit-design|control-unit-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L1-explain-control-unit-approaches|L1-explain-control-unit-approaches]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Microprogrammed Control Concept
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/control-unit-desig
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L2-explain-control-unit-approaches|L2- Explain Control Unit Approaches]]
+- [[skills/hardware-embedded/electronics-embedded/control-unit-design/competencies/L1-explain-control-unit-approaches|L2- Explain Control Unit Approaches]]
 
 ## Description
 

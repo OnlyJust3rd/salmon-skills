@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/roc-significance|ROC Significance]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/roc-significance|roc-significance]]"
 ---
 # Understanding the Region of Convergence (ROC)
 

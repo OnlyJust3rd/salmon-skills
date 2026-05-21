@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Double integral interpretation in polar coordinates"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Multiple Integral Evaluation"
-parent-competency: "L2- Geometric Interpretation of Coordinate Systems"
+  - "microskill"
+parent-skill: "[[skills/mathematics/multiple-integral-evaluation/multiple-integral-evaluation|multiple-integral-evaluation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/multiple-integral-evaluation/competencies/L1-geometric-interpretation-of-coordinate-systems|L1-geometric-interpretation-of-coordinate-systems]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Double integral interpretation in polar coordinates
@@ -15,7 +17,7 @@ Parent macro: [[multiple-integral-evaluation|Multiple Integral Evaluation]]
 
 Parent competency:
 
-- [[L2-geometric-interpretation-of-coordinate-systems|L2- Geometric Interpretation of Coordinate Systems]]
+- [[skills/mathematics/multiple-integral-evaluation/competencies/L1-geometric-interpretation-of-coordinate-systems|L2- Geometric Interpretation of Coordinate Systems]]
 
 ## Description
 

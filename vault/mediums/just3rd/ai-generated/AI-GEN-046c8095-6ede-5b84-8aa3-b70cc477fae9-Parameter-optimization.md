@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/parameter-optimization|Parameter optimization]]"
-  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/parameter-optimization|Parameter Optimization]]"
+  - "[[skills/data/data-science/machine-learning/microskills/parameter-optimization|parameter-optimization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/circuit-prototyping/microskills/parameter-optimization|parameter-optimization]]"
 ---
 # Parameter Optimization: Tuning the Engine of Your ML Models
 

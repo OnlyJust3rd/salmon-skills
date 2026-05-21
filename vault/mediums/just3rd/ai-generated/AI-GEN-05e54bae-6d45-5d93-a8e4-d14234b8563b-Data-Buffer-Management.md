@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/data-buffer-management|Data Buffer Management]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/data-buffer-management|data-buffer-management]]"
 ---
 # Data Buffer Management in AVR Communication
 

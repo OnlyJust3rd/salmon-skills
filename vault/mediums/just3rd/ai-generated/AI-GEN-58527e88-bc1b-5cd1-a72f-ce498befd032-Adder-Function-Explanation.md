@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/adder-function-explanation|Adder Function Explanation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/adder-function-explanation|adder-function-explanation]]"
 ---
 # Understanding Adders: The Building Blocks of Arithmetic
 

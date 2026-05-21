@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/security-monitoring/microskills/security-event-logs|Security Event Logs]]"
+  - "[[skills/cloud-devops/platform-engineering/security-monitoring/microskills/security-event-logs|security-event-logs]]"
 ---
 # Understanding Security Event Logs
 

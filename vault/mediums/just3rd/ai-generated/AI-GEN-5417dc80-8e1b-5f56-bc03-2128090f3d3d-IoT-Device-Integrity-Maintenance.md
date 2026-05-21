@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/iot-device-integrity-maintenance|IoT Device Integrity Maintenance]]"
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/iot-device-integrity-maintenance|iot-device-integrity-maintenance]]"
 ---
 # Maintaining IoT Device Integrity
 

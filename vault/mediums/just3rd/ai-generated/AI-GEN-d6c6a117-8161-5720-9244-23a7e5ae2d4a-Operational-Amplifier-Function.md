@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/operational-amplifier-function|Operational Amplifier Function]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/operational-amplifier-function|operational-amplifier-function]]"
 ---
 # Operational Amplifier Function
 

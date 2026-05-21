@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/application-distinction|Application Distinction]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/application-distinction|application-distinction]]"
 ---
 # Application Distinction: VR vs. AR
 

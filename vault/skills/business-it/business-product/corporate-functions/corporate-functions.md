@@ -1,16 +1,27 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Corporate Functions"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-coverage:
-  - "Concept"
-competency-count: 2
-microskill-count: 10
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-301-professional-issues-in-computer-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/corporate-functions/competencies/L1-list-corporate-departments|L1-list-corporate-departments]]"
+  - "[[skills/business-it/business-product/corporate-functions/competencies/L1-explain-corporate-department-functions|L1-explain-corporate-department-functions]]"
+standard-competency:
+  - "[[skills/business-it/business-product/corporate-functions/competencies/L1-explain-corporate-department-functions|L1-explain-corporate-department-functions]]"
+microskills:
+  - "[[skills/business-it/business-product/corporate-functions/microskills/accounting-and-finance-functions|accounting-and-finance-functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/corporate-department-names|corporate-department-names]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/customer-services-functions|customer-services-functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/human-resources-functions|human-resources-functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/information-technology-functions|information-technology-functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/legal-department-functions|legal-department-functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/marketing-functions|marketing-functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/operations-functions|operations-functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/research-and-development-functions|research-and-development-functions]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/sales-functions|sales-functions]]"
 ---
 
 # Corporate Functions
@@ -20,7 +31,7 @@ Detail the core functions and responsibilities of various corporate departments,
 ## Competencies
 
 - [[skills/business-it/business-product/corporate-functions/competencies/L1-list-corporate-departments|L1- List Corporate Departments]]
-- [[skills/business-it/business-product/corporate-functions/competencies/L2-explain-corporate-department-functions|L2- Explain Corporate Department Functions]]
+- [[skills/business-it/business-product/corporate-functions/competencies/L1-explain-corporate-department-functions|L2- Explain Corporate Department Functions]]
 
 ## Microskills
 

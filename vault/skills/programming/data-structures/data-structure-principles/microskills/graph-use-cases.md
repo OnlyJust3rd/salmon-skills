@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Graph Use Cases"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Data Structure Principles"
-parent-competency: "L2- Illustrate Use Cases"
+  - "microskill"
+parent-skill: "[[skills/programming/data-structures/data-structure-principles/data-structure-principles|data-structure-principles]]"
+requires-in-competencies:
+  - "[[skills/programming/data-structures/data-structure-principles/competencies/L1-illustrate-use-cases|L1-illustrate-use-cases]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Graph Use Cases
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/data-structures/data-structure-principles/dat
 
 Parent competency:
 
-- [[skills/programming/data-structures/data-structure-principles/competencies/L2-illustrate-use-cases|L2- Illustrate Use Cases]]
+- [[skills/programming/data-structures/data-structure-principles/competencies/L1-illustrate-use-cases|L2- Illustrate Use Cases]]
 
 ## Description
 

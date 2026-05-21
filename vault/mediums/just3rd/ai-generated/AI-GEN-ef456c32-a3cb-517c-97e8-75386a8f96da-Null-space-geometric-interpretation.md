@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-geometric-interpretation|Null space geometric interpretation]]"
+  - "[[skills/mathematics/subspaces-and-orthogonality/microskills/null-space-geometric-interpretation|null-space-geometric-interpretation]]"
 ---
 # The Geometric Heart of the Null Space
 

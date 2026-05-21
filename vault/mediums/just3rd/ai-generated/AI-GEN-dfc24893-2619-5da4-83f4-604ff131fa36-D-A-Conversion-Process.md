@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/d-a-conversion-process|D/A Conversion Process]]"
+  - "[[skills/mathematics/signal-conversion-a-d-and-d-a/microskills/d-a-conversion-process|d-a-conversion-process]]"
 ---
 # Understanding the D/A Conversion Process
 

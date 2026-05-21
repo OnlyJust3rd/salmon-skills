@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-design/microskills/interactive-level-elements|Interactive Level Elements]]"
+  - "[[skills/creative-media/game-development/game-design/microskills/interactive-level-elements|interactive-level-elements]]"
 ---
 # Interactive Level Elements in Game Design
 

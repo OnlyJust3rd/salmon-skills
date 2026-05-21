@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Number Theory Definitions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 111 - Discrete Mathematics for Computer Engineers"
-parent-macro: "Algorithmic Thinking"
-parent-competency: "L1- Key Concepts and Paradigms"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithmic-thinking/algorithmic-thinking|algorithmic-thinking]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithmic-thinking/competencies/L1-key-concepts-and-paradigms|L1-key-concepts-and-paradigms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Number Theory Definitions

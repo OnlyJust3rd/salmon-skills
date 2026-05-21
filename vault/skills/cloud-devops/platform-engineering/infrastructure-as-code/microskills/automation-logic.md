@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Automation Logic"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Infrastructure as Code"
-parent-competency: "L2- Explain Declarative Automation"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-explain-declarative-automation|L1-explain-declarative-automation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Automation Logic
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/infrastructure-as-code/
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L2-explain-declarative-automation|L2- Explain Declarative Automation]]
+- [[skills/cloud-devops/platform-engineering/infrastructure-as-code/competencies/L1-explain-declarative-automation|L2- Explain Declarative Automation]]
 
 ## Description
 

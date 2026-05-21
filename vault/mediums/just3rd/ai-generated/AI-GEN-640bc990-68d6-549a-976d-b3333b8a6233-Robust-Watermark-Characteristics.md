@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/robust-watermark-characteristics|Robust Watermark Characteristics]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/robust-watermark-characteristics|robust-watermark-characteristics]]"
 ---
 # Understanding Robust Watermark Characteristics
 

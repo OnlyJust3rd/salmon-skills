@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/modularity-explanation|Modularity Explanation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/modularity-explanation|modularity-explanation]]"
 ---
 # Understanding Modularity in Software Architecture
 

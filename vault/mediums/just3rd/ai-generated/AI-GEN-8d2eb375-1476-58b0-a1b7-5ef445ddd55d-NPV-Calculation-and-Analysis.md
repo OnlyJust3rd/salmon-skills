@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/npv-calculation-and-analysis|NPV Calculation and Analysis]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/npv-calculation-and-analysis|npv-calculation-and-analysis]]"
 ---
 # Net Present Value (NPV) Calculation and Analysis
 

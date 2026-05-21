@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/similarity-calculation-via-text-representations|Similarity Calculation via Text Representations]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/similarity-calculation-via-text-representations|similarity-calculation-via-text-representations]]"
 ---
 # Calculating Text Similarity Using Numerical Representations
 

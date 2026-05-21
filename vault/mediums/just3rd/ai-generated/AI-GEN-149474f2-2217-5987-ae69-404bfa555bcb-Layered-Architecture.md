@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/layered-architecture|Layered Architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/layered-architecture|layered-architecture]]"
 ---
 # Understanding Docker Image Layers
 

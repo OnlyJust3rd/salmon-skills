@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/video-frame-watermarking|Video Frame Watermarking]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/video-frame-watermarking|video-frame-watermarking]]"
 ---
 # Video Frame Watermarking: Applying Image Techniques to Moving Pictures
 

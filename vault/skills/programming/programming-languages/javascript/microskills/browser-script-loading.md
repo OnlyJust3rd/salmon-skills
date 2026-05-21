@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Browser script loading"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "JavaScript"
-parent-competency: "L2- Explain JavaScript Syntax and Browser Runtime"
+  - "microskill"
+parent-skill: "[[skills/programming/programming-languages/javascript/javascript|javascript]]"
+requires-in-competencies:
+  - "[[skills/programming/programming-languages/javascript/competencies/L1-explain-javascript-syntax-and-browser-runtime|L1-explain-javascript-syntax-and-browser-runtime]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Browser script loading
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/programming-languages/javascript/javascript|J
 
 Parent competency:
 
-- [[skills/programming/programming-languages/javascript/competencies/L2-explain-javascript-syntax-and-browser-runtime|L2- Explain JavaScript Syntax and Browser Runtime]]
+- [[skills/programming/programming-languages/javascript/competencies/L1-explain-javascript-syntax-and-browser-runtime|L2- Explain JavaScript Syntax and Browser Runtime]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/copper-layers|Copper Layers]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pcb-design/microskills/copper-layers|copper-layers]]"
 ---
 # Understanding PCB Copper Layers
 

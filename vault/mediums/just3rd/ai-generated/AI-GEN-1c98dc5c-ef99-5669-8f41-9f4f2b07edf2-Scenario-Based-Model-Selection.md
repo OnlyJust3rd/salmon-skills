@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/scenario-based-model-selection|Scenario-Based Model Selection]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/scenario-based-model-selection|scenario-based-model-selection]]"
 ---
 # Scenario-Based Cloud Service Model Selection
 

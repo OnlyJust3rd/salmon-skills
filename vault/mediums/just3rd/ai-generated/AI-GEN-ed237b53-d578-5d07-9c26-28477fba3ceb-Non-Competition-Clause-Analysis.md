@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/non-competition-clause-analysis|Non-Competition Clause Analysis]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/non-competition-clause-analysis|non-competition-clause-analysis]]"
 ---
 # Understanding Non-Competition Clauses
 

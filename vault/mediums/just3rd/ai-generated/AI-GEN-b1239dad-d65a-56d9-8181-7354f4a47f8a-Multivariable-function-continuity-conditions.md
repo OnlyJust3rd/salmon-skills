@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/function-analysis/microskills/multivariable-function-continuity-conditions|Multivariable function continuity conditions]]"
+  - "[[skills/mathematics/function-analysis/microskills/multivariable-function-continuity-conditions|multivariable-function-continuity-conditions]]"
 ---
 # Multivariable Function Continuity Conditions
 

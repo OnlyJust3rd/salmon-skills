@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/program-testing/microskills/coverage-of-edge-cases|Coverage of edge cases]]"
+  - "[[skills/programming/software-engineering/program-testing/microskills/coverage-of-edge-cases|coverage-of-edge-cases]]"
 ---
 # Understanding Edge Cases in Test Case Identification
 

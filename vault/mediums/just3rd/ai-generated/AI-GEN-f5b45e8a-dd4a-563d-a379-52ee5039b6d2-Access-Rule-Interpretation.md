@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-rule-interpretation|Access Rule Interpretation]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-rule-interpretation|access-rule-interpretation]]"
 ---
 # Interpreting Access Control Rules with Packet Filtering
 

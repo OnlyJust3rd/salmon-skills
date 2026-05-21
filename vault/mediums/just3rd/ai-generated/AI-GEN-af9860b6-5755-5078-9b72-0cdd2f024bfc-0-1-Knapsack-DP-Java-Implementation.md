@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/0-1-knapsack-dp-java-implementation|0/1 Knapsack DP Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/0-1-knapsack-dp-java-implementation|0-1-knapsack-dp-java-implementation]]"
 ---
 # 0/1 Knapsack DP Java Implementation
 

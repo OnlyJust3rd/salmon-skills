@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/signal-transduction-in-iot|Signal Transduction in IoT]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/signal-transduction-in-iot|signal-transduction-in-iot]]"
 ---
 # Signal Transduction in IoT Devices
 

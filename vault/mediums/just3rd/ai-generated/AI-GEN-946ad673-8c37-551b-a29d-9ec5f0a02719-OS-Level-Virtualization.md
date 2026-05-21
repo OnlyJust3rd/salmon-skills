@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/os-level-virtualization|OS-Level Virtualization]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/os-level-virtualization|os-level-virtualization]]"
 ---
 # Understanding OS-Level Virtualization: Shared Kernels
 

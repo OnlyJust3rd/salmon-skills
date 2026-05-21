@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/stability-relationship-transforms|Stability Relationship (Transforms)]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/stability-relationship-transforms|stability-relationship-transforms]]"
 ---
 # Stability and Transform Properties
 

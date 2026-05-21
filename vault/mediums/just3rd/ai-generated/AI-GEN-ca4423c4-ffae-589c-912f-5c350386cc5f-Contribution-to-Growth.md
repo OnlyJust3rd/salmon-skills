@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/it-career-path/microskills/contribution-to-growth|Contribution to Growth]]"
+  - "[[skills/business-it/business-product/it-career-path/microskills/contribution-to-growth|contribution-to-growth]]"
 ---
 # Understanding the Contribution of Support Roles to Your IT Career
 

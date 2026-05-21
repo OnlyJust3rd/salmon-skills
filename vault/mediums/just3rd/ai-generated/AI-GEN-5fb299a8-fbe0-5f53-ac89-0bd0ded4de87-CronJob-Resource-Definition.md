@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/cronjob-resource-definition|CronJob Resource Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/cronjob-resource-definition|cronjob-resource-definition]]"
 ---
 # Defining Kubernetes CronJob Resources
 

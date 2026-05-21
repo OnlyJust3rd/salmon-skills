@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-system/microskills/presentation-layer-functionality|Presentation Layer Functionality]]"
+  - "[[skills/data/databases/database-system/microskills/presentation-layer-functionality|presentation-layer-functionality]]"
 ---
 # The Presentation Layer: Your Web Application's Face
 

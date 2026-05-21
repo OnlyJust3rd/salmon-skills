@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/dynamic-behavioral-diagrams|Dynamic Behavioral Diagrams]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/dynamic-behavioral-diagrams|dynamic-behavioral-diagrams]]"
 ---
 # Modeling Dynamic Behavior with UML Diagrams
 

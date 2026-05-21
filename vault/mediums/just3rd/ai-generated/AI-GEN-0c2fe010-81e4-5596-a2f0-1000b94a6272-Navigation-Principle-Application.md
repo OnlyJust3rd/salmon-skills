@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/navigation-principle-application|Navigation Principle Application]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/navigation-principle-application|navigation-principle-application]]"
 ---
 # Applying Navigation Principles with SIMBot
 

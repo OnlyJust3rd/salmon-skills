@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/ci-cd-pipeline-stages|CI/CD Pipeline Stages]]"
+  - "[[skills/cloud-devops/platform-engineering/serverless-ci-cd/microskills/ci-cd-pipeline-stages|ci-cd-pipeline-stages]]"
 ---
 # Understanding CI/CD Pipeline Stages for Serverless
 

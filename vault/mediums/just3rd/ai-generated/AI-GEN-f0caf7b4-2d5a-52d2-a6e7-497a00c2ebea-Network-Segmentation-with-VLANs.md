@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/network-segmentation-with-vlans|Network Segmentation with VLANs]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/network-segmentation-with-vlans|network-segmentation-with-vlans]]"
 ---
 # Network Segmentation with VLANs
 

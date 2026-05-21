@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/machine-learning/microskills/pca-implementation|PCA implementation]]"
+  - "[[skills/data/data-science/machine-learning/microskills/pca-implementation|pca-implementation]]"
 ---
 # Implementing PCA for Dimensionality Reduction
 

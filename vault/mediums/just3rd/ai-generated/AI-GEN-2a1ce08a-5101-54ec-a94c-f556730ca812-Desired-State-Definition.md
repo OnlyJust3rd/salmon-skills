@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/desired-state-definition|Desired State Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/desired-state-definition|desired-state-definition]]"
 ---
 # Defining Your Desired State
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/error-rate-monitoring|Error Rate Monitoring]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/error-rate-monitoring|error-rate-monitoring]]"
 ---
 # Understanding and Applying Error Rate Monitoring
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Continuous Deployment Workflows"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "GitOps"
-parent-competency: "L3- Implement and Manage GitOps Workflows"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/gitops/gitops|gitops]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/gitops/competencies/L2-implement-and-manage-gitops-workflows|L2-implement-and-manage-gitops-workflows]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Continuous Deployment Workflows
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/gitops/gitops|GitOps]]
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/gitops/competencies/L3-implement-and-manage-gitops-workflows|L3- Implement and Manage GitOps Workflows]]
+- [[skills/cloud-devops/platform-engineering/gitops/competencies/L2-implement-and-manage-gitops-workflows|L3- Implement and Manage GitOps Workflows]]
 
 ## Description
 

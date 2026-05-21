@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/row-echelon-form|Row echelon form]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/row-echelon-form|row-echelon-form]]"
 ---
 # Understanding Row Echelon Form
 

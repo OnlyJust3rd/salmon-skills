@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/system-functionality-representation|System Functionality Representation]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/system-functionality-representation|system-functionality-representation]]"
 ---
 # Understanding UML Diagrams for System Functionality
 

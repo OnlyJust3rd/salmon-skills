@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Sequential Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Sequential Logic Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Recall Logic Gate Basics"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/competencies/L1-recall-logic-gate-basics|L1-recall-logic-gate-basics]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/sequential-logic-design|sequential-logic-design]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/counter-definitions|counter-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/flip-flop-definitions|flip-flop-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/memory-device-definitions|memory-device-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/sequential-circuit-component-characteristics|sequential-circuit-component-characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/state-machine-definitions|state-machine-definitions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Sequential Components

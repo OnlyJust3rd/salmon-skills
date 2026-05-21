@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Edge Detection Methods"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Image Processing"
-parent-competency: "L3- Apply Neighborhood Processing"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|digital-image-processing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-apply-neighborhood-processing|L2-apply-neighborhood-processing]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Edge Detection Methods
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/digital-image-proc
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L3-apply-neighborhood-processing|L3- Apply Neighborhood Processing]]
+- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/competencies/L2-apply-neighborhood-processing|L3- Apply Neighborhood Processing]]
 
 ## Description
 

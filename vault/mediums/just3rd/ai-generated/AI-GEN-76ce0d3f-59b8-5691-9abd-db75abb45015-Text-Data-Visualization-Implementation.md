@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/text-data-visualization-implementation|Text Data Visualization Implementation]]"
+  - "[[skills/data/data-science/text-visualization-and-exploratory-analysis/microskills/text-data-visualization-implementation|text-data-visualization-implementation]]"
 ---
 # Implementing Text Data Visualizations
 

@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/apache-hadoop/microskills/replication|Replication]]"
-  - "[[skills/systems/networking/game-networking/microskills/replication|Replication]]"
+  - "[[skills/data/data-platforms/apache-hadoop/microskills/replication|replication]]"
+  - "[[skills/systems/networking/game-networking/microskills/replication|replication]]"
 ---
 # Understanding Replication in Hadoop
 

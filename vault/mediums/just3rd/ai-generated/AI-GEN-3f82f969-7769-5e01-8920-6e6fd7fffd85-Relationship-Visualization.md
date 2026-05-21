@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/relationship-visualization|Relationship Visualization]]"
+  - "[[skills/programming/programming-languages/python/microskills/relationship-visualization|relationship-visualization]]"
 ---
 # Visualizing Relationships with Matplotlib
 

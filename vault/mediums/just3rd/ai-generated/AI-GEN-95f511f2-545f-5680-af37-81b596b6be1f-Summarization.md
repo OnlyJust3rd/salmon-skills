@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/large-language-models/microskills/summarization|Summarization]]"
+  - "[[skills/data/ai/large-language-models/microskills/summarization|summarization]]"
 ---
 # Summarization with Large Language Models
 

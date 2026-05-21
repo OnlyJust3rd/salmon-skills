@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-updates|Software Updates]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/software-updates|software-updates]]"
 ---
 # Updating Linux Software Packages
 

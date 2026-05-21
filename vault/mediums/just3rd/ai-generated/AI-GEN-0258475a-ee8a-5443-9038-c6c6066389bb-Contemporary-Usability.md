@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/contemporary-usability|Contemporary Usability]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/contemporary-usability|contemporary-usability]]"
 ---
 # Understanding the Ripple Effect: How Interface History Shapes Today's UX
 

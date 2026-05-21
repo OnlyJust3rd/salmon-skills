@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-properties|Algorithm Properties]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-properties|algorithm-properties]]"
 ---
 # Algorithm Properties
 

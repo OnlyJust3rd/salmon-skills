@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Unit Function Interpretation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Signal Representation and Classification"
-parent-competency: "L2- Unit Functions Properties"
+  - "microskill"
+parent-skill: "[[skills/mathematics/signal-representation-and-classification/signal-representation-and-classification|signal-representation-and-classification]]"
+requires-in-competencies:
+  - "[[skills/mathematics/signal-representation-and-classification/competencies/L1-unit-functions-properties|L1-unit-functions-properties]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Unit Function Interpretation
@@ -15,7 +17,7 @@ Parent macro: [[signal-representation-and-classification|Signal Representation a
 
 Parent competency:
 
-- [[L2-unit-functions-properties|L2- Unit Functions Properties]]
+- [[skills/mathematics/signal-representation-and-classification/competencies/L1-unit-functions-properties|L2- Unit Functions Properties]]
 
 ## Description
 

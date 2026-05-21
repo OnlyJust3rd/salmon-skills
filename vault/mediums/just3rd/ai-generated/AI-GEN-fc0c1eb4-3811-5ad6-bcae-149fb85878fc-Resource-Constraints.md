@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/selective-encryption/microskills/resource-constraints|Resource Constraints]]"
+  - "[[skills/security/cybersecurity/selective-encryption/microskills/resource-constraints|resource-constraints]]"
 ---
 # Understanding Resource Constraints in Selective Encryption
 

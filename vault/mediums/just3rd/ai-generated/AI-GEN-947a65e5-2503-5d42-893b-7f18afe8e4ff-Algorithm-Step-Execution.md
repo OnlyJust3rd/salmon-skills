@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/algorithm-step-execution|Algorithm Step Execution]]"
+  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/algorithm-step-execution|algorithm-step-execution]]"
 ---
 # Executing Adder Algorithm Steps
 

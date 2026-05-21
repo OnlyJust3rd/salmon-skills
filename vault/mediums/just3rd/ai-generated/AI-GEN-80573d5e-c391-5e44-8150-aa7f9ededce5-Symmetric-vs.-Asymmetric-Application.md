@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-vs-asymmetric-application|Symmetric vs. Asymmetric Application]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-vs-asymmetric-application|symmetric-vs-asymmetric-application]]"
 ---
 # Symmetric vs. Asymmetric Application
 

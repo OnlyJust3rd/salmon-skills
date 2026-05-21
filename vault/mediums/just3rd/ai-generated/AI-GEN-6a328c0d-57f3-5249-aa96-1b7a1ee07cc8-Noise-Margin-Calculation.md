@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/noise-margin-calculation|Noise Margin Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/noise-margin-calculation|noise-margin-calculation]]"
 ---
 # Understanding Noise Margins in Digital Logic
 

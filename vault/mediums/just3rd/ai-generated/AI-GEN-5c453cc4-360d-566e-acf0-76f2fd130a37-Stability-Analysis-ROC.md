@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/stability-analysis-roc|Stability Analysis (ROC)]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/stability-analysis-roc|stability-analysis-roc]]"
 ---
 # Stability Analysis using the Region of Convergence (ROC)
 

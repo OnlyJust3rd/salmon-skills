@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/saas-application-scenarios|SaaS Application Scenarios]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/saas-application-scenarios|saas-application-scenarios]]"
 ---
 # SaaS Application Scenarios
 

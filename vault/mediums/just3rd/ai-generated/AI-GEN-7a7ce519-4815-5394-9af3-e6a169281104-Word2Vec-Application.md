@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-application|Word2Vec Application]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-application|word2vec-application]]"
 ---
 # Applying Word2Vec for Text Embeddings
 

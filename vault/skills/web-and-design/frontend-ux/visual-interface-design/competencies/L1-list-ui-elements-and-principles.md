@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List UI Elements and Principles"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Visual Interface Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and List Cognitive Foundations"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/competencies/L1-define-and-list-cognitive-foundations|L1-define-and-list-cognitive-foundations]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/web-and-design/frontend-ux/visual-interface-design/visual-interface-design|visual-interface-design]]"
+requires-microskills:
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/fundamental-design-principles|fundamental-design-principles]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/usability-heuristics|usability-heuristics]]"
+  - "[[skills/web-and-design/frontend-ux/visual-interface-design/microskills/user-interface-elements|user-interface-elements]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List UI Elements and Principles

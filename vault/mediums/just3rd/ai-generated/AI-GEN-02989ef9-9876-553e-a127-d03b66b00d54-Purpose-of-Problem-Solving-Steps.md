@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/purpose-of-problem-solving-steps|Purpose of Problem-Solving Steps]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/purpose-of-problem-solving-steps|purpose-of-problem-solving-steps]]"
 ---
 # The "Why" Behind Engineering Problem-Solving Steps
 

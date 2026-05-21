@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/i-o-device-integration-principles|I/O Device Integration Principles]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/i-o-device-integration-principles|i-o-device-integration-principles]]"
 ---
 # Understanding Hierarchical Bus Structures in I/O Integration
 

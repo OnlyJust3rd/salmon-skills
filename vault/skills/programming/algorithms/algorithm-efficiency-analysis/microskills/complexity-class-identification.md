@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Complexity Class Identification"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Algorithm Efficiency Analysis"
-parent-competency: "L1- Recall Complexity Classes"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-efficiency-analysis/algorithm-efficiency-analysis|algorithm-efficiency-analysis]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-efficiency-analysis/competencies/L1-recall-complexity-classes|L1-recall-complexity-classes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Complexity Class Identification

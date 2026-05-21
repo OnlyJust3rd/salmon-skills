@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/topic-modeling/microskills/latent-dirichlet-allocation-lda-application|Latent Dirichlet Allocation (LDA) Application]]"
+  - "[[skills/data/data-science/topic-modeling/microskills/latent-dirichlet-allocation-lda-application|latent-dirichlet-allocation-lda-application]]"
 ---
 # Latent Dirichlet Allocation (LDA) Application for Theme Discovery
 

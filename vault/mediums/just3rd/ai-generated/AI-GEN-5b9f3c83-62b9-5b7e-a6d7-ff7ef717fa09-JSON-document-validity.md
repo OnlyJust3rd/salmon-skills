@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/backend-api/json-format/microskills/json-document-validity|JSON document validity]]"
+  - "[[skills/web-and-design/backend-api/json-format/microskills/json-document-validity|json-document-validity]]"
 ---
 # Understanding JSON Document Validity
 

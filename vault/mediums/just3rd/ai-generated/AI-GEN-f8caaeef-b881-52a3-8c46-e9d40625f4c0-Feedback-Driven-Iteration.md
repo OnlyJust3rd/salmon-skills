@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/feedback-driven-iteration|Feedback-Driven Iteration]]"
+  - "[[skills/business-it/business-product/mvp-design-and-prototyping/microskills/feedback-driven-iteration|feedback-driven-iteration]]"
 ---
 # Feedback-Driven Iteration: Refining Your MVP
 

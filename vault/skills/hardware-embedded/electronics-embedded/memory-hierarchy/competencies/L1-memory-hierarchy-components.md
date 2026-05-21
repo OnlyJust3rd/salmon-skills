@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Memory Hierarchy Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Memory Hierarchy"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Datapath Components Definition"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-datapath/competencies/L1-datapath-components-definition|L1-datapath-components-definition]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/memory-hierarchy|memory-hierarchy]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-memory-concepts|cache-memory-concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/main-memory-concepts|main-memory-concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/memory-hierarchy-definitions|memory-hierarchy-definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/registers-in-memory-hierarchy|registers-in-memory-hierarchy]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/secondary-storage-concepts|secondary-storage-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Memory Hierarchy Components

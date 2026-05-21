@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/differentiated-domain-problem-areas|Differentiated Domain Problem Areas]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/differentiated-domain-problem-areas|differentiated-domain-problem-areas]]"
 ---
 # Differentiating Problem Areas in Computer Engineering Domains
 

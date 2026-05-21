@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Process Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Process Management and System Calls"
-parent-competency: "L2- Program vs Process and States"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/process-management-and-system-calls/process-management-and-system-calls|process-management-and-system-calls]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/competencies/L1-program-vs-process-and-states|L1-program-vs-process-and-states]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Process Definition
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/process-management-and-system-c
 
 Parent competency:
 
-- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L2-program-vs-process-and-states|L2- Program vs Process and States]]
+- [[skills/systems/operating-systems/process-management-and-system-calls/competencies/L1-program-vs-process-and-states|L2- Program vs Process and States]]
 
 ## Description
 

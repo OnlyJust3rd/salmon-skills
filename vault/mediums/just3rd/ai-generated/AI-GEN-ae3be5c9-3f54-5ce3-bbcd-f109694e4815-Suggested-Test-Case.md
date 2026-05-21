@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/suggested-test-case|Suggested Test Case]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-code-review/microskills/suggested-test-case|suggested-test-case]]"
 ---
 # Translating Review Concerns into Suggested Test Cases
 

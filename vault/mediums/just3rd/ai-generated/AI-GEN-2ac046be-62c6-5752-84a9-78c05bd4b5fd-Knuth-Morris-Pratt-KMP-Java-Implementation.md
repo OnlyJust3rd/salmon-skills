@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/knuth-morris-pratt-kmp-java-implementation|Knuth-Morris-Pratt (KMP) Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/knuth-morris-pratt-kmp-java-implementation|knuth-morris-pratt-kmp-java-implementation]]"
 ---
 # Knuth-Morris-Pratt (KMP) Java Implementation
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/unreal-engine/microskills/level-interaction|Level Interaction]]"
+  - "[[skills/creative-media/game-development/unreal-engine/microskills/level-interaction|level-interaction]]"
 ---
 # Level Interaction: Connecting Actors with Gameplay Events in Unreal Engine
 

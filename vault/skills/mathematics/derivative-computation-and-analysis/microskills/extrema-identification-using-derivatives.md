@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Extrema identification using derivatives"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Derivative Computation and Analysis"
-parent-competency: "L3- Apply derivatives for graph sketching and analysis"
+  - "microskill"
+parent-skill: "[[skills/mathematics/derivative-computation-and-analysis/derivative-computation-and-analysis|derivative-computation-and-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-derivatives-for-graph-sketching-and-analysis|L2-apply-derivatives-for-graph-sketching-and-analysis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Extrema identification using derivatives
@@ -15,7 +17,7 @@ Parent macro: [[derivative-computation-and-analysis|Derivative Computation and A
 
 Parent competency:
 
-- [[L3-apply-derivatives-for-graph-sketching-and-analysis|L3- Apply derivatives for graph sketching and analysis]]
+- [[skills/mathematics/derivative-computation-and-analysis/competencies/L2-apply-derivatives-for-graph-sketching-and-analysis|L3- Apply derivatives for graph sketching and analysis]]
 
 ## Description
 

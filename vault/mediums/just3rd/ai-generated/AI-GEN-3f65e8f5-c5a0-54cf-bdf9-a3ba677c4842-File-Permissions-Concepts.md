@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/file-permissions-concepts|File Permissions Concepts]]"
+  - "[[skills/cloud-devops/platform-engineering/linux-system/microskills/file-permissions-concepts|file-permissions-concepts]]"
 ---
 # File Permissions in Linux: Who Can Do What?
 

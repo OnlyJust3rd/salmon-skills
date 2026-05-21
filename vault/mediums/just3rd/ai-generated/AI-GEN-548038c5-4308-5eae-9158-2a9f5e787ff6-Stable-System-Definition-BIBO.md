@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/system-property-analysis/microskills/stable-system-definition-bibo|Stable System Definition (BIBO)]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/stable-system-definition-bibo|stable-system-definition-bibo]]"
 ---
 # Understanding Bounded-Input, Bounded-Output (BIBO) Stability
 

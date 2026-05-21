@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/basic-i-o-device-functions|Basic I/O Device Functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/basic-i-o-device-functions|basic-i-o-device-functions]]"
 ---
 # Understanding Basic I/O Device Functions
 

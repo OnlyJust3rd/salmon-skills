@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/memory-access-mechanisms|Memory Access Mechanisms]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/memory-access-mechanisms|memory-access-mechanisms]]"
 ---
 # Memory Access Mechanisms in AVR Microcontrollers
 

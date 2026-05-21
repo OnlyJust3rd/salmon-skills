@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/eigenvalue-computation-for-definiteness|Eigenvalue computation for definiteness]]"
+  - "[[skills/mathematics/quadratic-forms-and-definiteness/microskills/eigenvalue-computation-for-definiteness|eigenvalue-computation-for-definiteness]]"
 ---
 # Computing Eigenvalues for Quadratic Forms
 

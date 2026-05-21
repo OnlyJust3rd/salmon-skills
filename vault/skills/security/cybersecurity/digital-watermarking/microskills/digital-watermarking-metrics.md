@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Digital Watermarking Metrics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-parent-macro: "Digital Watermarking"
-parent-competency: "L1- Digital Watermarking Fundamentals"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/digital-watermarking/digital-watermarking|digital-watermarking]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/digital-watermarking/competencies/L1-digital-watermarking-fundamentals|L1-digital-watermarking-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Digital Watermarking Metrics

@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Canvas Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "Business Model Design"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Lean Startup and BML Principles"
+  - "[[skills/business-it/business-product/lean-startup/competencies/L1-define-lean-startup-and-bml-principles|L1-define-lean-startup-and-bml-principles]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/business-it/business-product/business-model-design/business-model-design|business-model-design]]"
+requires-microskills:
+  - "[[skills/business-it/business-product/business-model-design/microskills/business-model-canvas-elements|business-model-canvas-elements]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/lean-canvas-elements|lean-canvas-elements]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Canvas Components

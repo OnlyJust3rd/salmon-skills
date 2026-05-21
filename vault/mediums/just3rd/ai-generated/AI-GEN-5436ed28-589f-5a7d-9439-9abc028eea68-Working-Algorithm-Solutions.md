@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/working-algorithm-solutions|Working Algorithm Solutions]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/working-algorithm-solutions|working-algorithm-solutions]]"
 ---
 # Implementing a Simple Search Algorithm
 

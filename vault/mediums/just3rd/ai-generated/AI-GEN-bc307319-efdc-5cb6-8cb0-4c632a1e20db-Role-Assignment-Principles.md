@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/role-assignment-principles|Role Assignment Principles]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/role-assignment-principles|role-assignment-principles]]"
 ---
 # Understanding Role Assignment in Team Collaboration
 

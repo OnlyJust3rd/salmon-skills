@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/public-and-private-key-roles|Public and Private Key Roles]]"
+  - "[[skills/security/cybersecurity/message-integrity-mechanisms/microskills/public-and-private-key-roles|public-and-private-key-roles]]"
 ---
 # Understanding Public and Private Keys in Digital Signatures
 

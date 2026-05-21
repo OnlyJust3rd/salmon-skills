@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Spiking Neural Network Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Neuromorphic and Brain-Inspired Computing"
-parent-competency: "L3- Program Spiking Networks"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/neuromorphic-and-brain-inspired-computing|neuromorphic-and-brain-inspired-computing]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/competencies/L2-program-spiking-networks|L2-program-spiking-networks]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Spiking Neural Network Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/high-performance-computing/neuromorphic-and-brain
 
 Parent competency:
 
-- [[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/competencies/L3-program-spiking-networks|L3- Program Spiking Networks]]
+- [[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/competencies/L2-program-spiking-networks|L3- Program Spiking Networks]]
 
 ## Description
 

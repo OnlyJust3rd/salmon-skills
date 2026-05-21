@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Player Immersion Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 486 - Game Design and Development"
-parent-macro: "Game Flow and Difficulty Balancing"
-parent-competency: "L1- Define Player Immersion"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/game-flow-and-difficulty-balancing|game-flow-and-difficulty-balancing]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/game-flow-and-difficulty-balancing/competencies/L1-define-player-immersion|L1-define-player-immersion]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Player Immersion Definition

@@ -1,17 +1,52 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "System Property Analysis"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-coverage:
-  - "Concept"
-  - "Analysis"
-competency-count: 6
-microskill-count: 28
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-313-signals-and-linear-systems"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/mathematics/system-property-analysis/competencies/L1-describe-lti-behavior-impact|L1-describe-lti-behavior-impact]]"
+  - "[[skills/mathematics/system-property-analysis/competencies/L1-explain-system-criteria|L1-explain-system-criteria]]"
+  - "[[skills/mathematics/system-property-analysis/competencies/L2-apply-linearity-property|L2-apply-linearity-property]]"
+  - "[[skills/mathematics/system-property-analysis/competencies/L2-apply-system-tests|L2-apply-system-tests]]"
+  - "[[skills/mathematics/system-property-analysis/competencies/L3-analyze-pole-location-and-stability|L3-analyze-pole-location-and-stability]]"
+  - "[[skills/mathematics/system-property-analysis/competencies/L3-analyze-system-input-output|L3-analyze-system-input-output]]"
+standard-competency:
+  - "[[skills/mathematics/system-property-analysis/competencies/L2-apply-linearity-property|L2-apply-linearity-property]]"
+  - "[[skills/mathematics/system-property-analysis/competencies/L2-apply-system-tests|L2-apply-system-tests]]"
+  - "[[skills/mathematics/system-property-analysis/competencies/L3-analyze-pole-location-and-stability|L3-analyze-pole-location-and-stability]]"
+  - "[[skills/mathematics/system-property-analysis/competencies/L3-analyze-system-input-output|L3-analyze-system-input-output]]"
+microskills:
+  - "[[skills/mathematics/system-property-analysis/microskills/causal-system-definition|causal-system-definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/causality-and-input-output-relationship|causality-and-input-output-relationship]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/causality-system-verification|causality-system-verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/composite-signal-coefficient-computation|composite-signal-coefficient-computation]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/dynamic-system-definition|dynamic-system-definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/impulse-response-significance-in-lti-systems|impulse-response-significance-in-lti-systems]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/input-output-behavior-analysis|input-output-behavior-analysis]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/invertibility-system-verification|invertibility-system-verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/invertible-system-definition|invertible-system-definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linear-system-definition|linear-system-definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linearity-and-input-output-relationship|linearity-and-input-output-relationship]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linearity-impact-on-system-behavior|linearity-impact-on-system-behavior]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linearity-property-application-fs-dtfs|linearity-property-application-fs-dtfs]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/linearity-system-verification|linearity-system-verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/pole-location-significance-s-plane|pole-location-significance-s-plane]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/pole-zero-plot-interpretation-for-stability|pole-zero-plot-interpretation-for-stability]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/scaled-signal-coefficient-computation|scaled-signal-coefficient-computation]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/simplified-system-analysis-with-lti-properties|simplified-system-analysis-with-lti-properties]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/stability-and-input-output-relationship|stability-and-input-output-relationship]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/stability-criteria-from-pole-location|stability-criteria-from-pole-location]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/stability-system-verification-bibo|stability-system-verification-bibo]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/stable-system-definition-bibo|stable-system-definition-bibo]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/static-dynamic-system-verification|static-dynamic-system-verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/static-system-definition|static-system-definition]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-and-input-output-relationship|time-invariance-and-input-output-relationship]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-impact-on-system-behavior|time-invariance-impact-on-system-behavior]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/time-invariance-system-verification|time-invariance-system-verification]]"
+  - "[[skills/mathematics/system-property-analysis/microskills/time-invariant-system-definition|time-invariant-system-definition]]"
 ---
 
 # System Property Analysis
@@ -20,12 +55,12 @@ Analyzing system characteristics based on input-output relationships, including 
 
 ## Competencies
 
-- [[L2-explain-system-criteria|L2- Explain System Criteria]]
-- [[L3-apply-system-tests|L3- Apply System Tests]]
-- [[L4-analyze-system-input-output|L4- Analyze System Input-Output]]
-- [[L2-describe-lti-behavior-impact|L2- Describe LTI Behavior Impact]]
-- [[L3-apply-linearity-property|L3- Apply linearity property]]
-- [[L4-analyze-pole-location-and-stability|L4- Analyze Pole Location and Stability]]
+- [[skills/mathematics/system-property-analysis/competencies/L1-explain-system-criteria|L2- Explain System Criteria]]
+- [[skills/mathematics/system-property-analysis/competencies/L2-apply-system-tests|L3- Apply System Tests]]
+- [[skills/mathematics/system-property-analysis/competencies/L3-analyze-system-input-output|L4- Analyze System Input-Output]]
+- [[skills/mathematics/system-property-analysis/competencies/L1-describe-lti-behavior-impact|L2- Describe LTI Behavior Impact]]
+- [[skills/mathematics/system-property-analysis/competencies/L2-apply-linearity-property|L3- Apply linearity property]]
+- [[skills/mathematics/system-property-analysis/competencies/L3-analyze-pole-location-and-stability|L4- Analyze Pole Location and Stability]]
 
 ## Microskills
 

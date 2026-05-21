@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/stability-analysis-pole-zero-plot|Stability Analysis (Pole-Zero Plot)]]"
+  - "[[skills/mathematics/complex-frequency-domain-analysis/microskills/stability-analysis-pole-zero-plot|stability-analysis-pole-zero-plot]]"
 ---
 # Stability Analysis Using Pole-Zero Plots
 

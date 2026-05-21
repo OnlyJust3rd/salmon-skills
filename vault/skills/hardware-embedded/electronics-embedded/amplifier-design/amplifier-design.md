@@ -1,17 +1,40 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Amplifier Design"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 121 - Basic Circuits and Electronics"
-coverage:
-  - "Concept"
-  - "Implementation"
-competency-count: 5
-microskill-count: 17
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-121-basic-circuits-and-electronics"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L1-op-amp-fundamentals-and-gain|L1-op-amp-fundamentals-and-gain]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L2-basic-op-amp-calculations|L2-basic-op-amp-calculations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L3-feedback-analysis|L3-feedback-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L3-configuration-evaluation|L3-configuration-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L4-multi-stage-op-amp-design|L4-multi-stage-op-amp-design]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L2-basic-op-amp-calculations|L2-basic-op-amp-calculations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L3-feedback-analysis|L3-feedback-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L3-configuration-evaluation|L3-configuration-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L4-multi-stage-op-amp-design|L4-multi-stage-op-amp-design]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/closed-loop-gain-concepts|closed-loop-gain-concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-gain|feedback-resistor-impact-on-gain]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-input-impedance|feedback-resistor-impact-on-input-impedance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/feedback-resistor-impact-on-output-impedance|feedback-resistor-impact-on-output-impedance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/gain-requirement-evaluation|gain-requirement-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/inverting-op-amp-gain-calculation|inverting-op-amp-gain-calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/multi-stage-op-amp-circuit-design|multi-stage-op-amp-circuit-design]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/non-inverting-op-amp-gain-calculation|non-inverting-op-amp-gain-calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/op-amp-circuit-performance-analysis|op-amp-circuit-performance-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/op-amp-configuration-suitability|op-amp-configuration-suitability]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/open-loop-gain-concepts|open-loop-gain-concepts]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/operational-amplifier-configuration|operational-amplifier-configuration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/operational-amplifier-function|operational-amplifier-function]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/performance-criteria-integration|performance-criteria-integration]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/signal-inversion-requirement-evaluation|signal-inversion-requirement-evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/signal-inversion-requirement-implementation|signal-inversion-requirement-implementation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/amplifier-design/microskills/single-stage-op-amp-gain-determination|single-stage-op-amp-gain-determination]]"
 ---
 
 # Amplifier Design
@@ -20,11 +43,11 @@ The ability to design multi-stage amplifier circuits, particularly those using o
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L2-op-amp-fundamentals-and-gain|L2- Op-Amp Fundamentals and Gain]]
-- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L3-basic-op-amp-calculations|L3- Basic Op-Amp Calculations]]
-- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L4-feedback-analysis|L4- Feedback Analysis]]
-- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L5-configuration-evaluation|L5- Configuration Evaluation]]
-- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L6-multi-stage-op-amp-design|L6- Multi-Stage Op-Amp Design]]
+- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L1-op-amp-fundamentals-and-gain|L2- Op-Amp Fundamentals and Gain]]
+- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L2-basic-op-amp-calculations|L3- Basic Op-Amp Calculations]]
+- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L3-feedback-analysis|L4- Feedback Analysis]]
+- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L3-configuration-evaluation|L5- Configuration Evaluation]]
+- [[skills/hardware-embedded/electronics-embedded/amplifier-design/competencies/L4-multi-stage-op-amp-design|L6- Multi-Stage Op-Amp Design]]
 
 ## Microskills
 

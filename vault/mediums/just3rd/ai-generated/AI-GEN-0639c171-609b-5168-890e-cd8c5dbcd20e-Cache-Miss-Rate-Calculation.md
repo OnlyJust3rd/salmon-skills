@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-miss-rate-calculation|Cache Miss Rate Calculation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/memory-hierarchy/microskills/cache-miss-rate-calculation|cache-miss-rate-calculation]]"
 ---
 # Calculating Cache Miss Rate
 

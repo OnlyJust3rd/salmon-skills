@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/alert-notification-setup|Alert Notification Setup]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/alert-notification-setup|alert-notification-setup]]"
 ---
 # Setting Up Alert Notifications
 

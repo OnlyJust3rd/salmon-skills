@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/action-planning/microskills/task-definition-for-action-plan|Task definition for action plan]]"
+  - "[[skills/programming/software-engineering/action-planning/microskills/task-definition-for-action-plan|task-definition-for-action-plan]]"
 ---
 # Defining Actionable Tasks for Your Engineering Plan
 

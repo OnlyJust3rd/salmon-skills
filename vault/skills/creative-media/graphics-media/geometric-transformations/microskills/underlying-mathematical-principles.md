@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Underlying Mathematical Principles"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Geometric Transformations"
-parent-competency: "L2- Explain Transformation Purpose, Effects, and Principles"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/geometric-transformations/geometric-transformations|geometric-transformations]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-explain-transformation-purpose-effects-and-principles|L1-explain-transformation-purpose-effects-and-principles]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Underlying Mathematical Principles
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/geometric-transformations/g
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/geometric-transformations/competencies/L2-explain-transformation-purpose-effects-and-principles|L2- Explain Transformation Purpose, Effects, and Principles]]
+- [[skills/creative-media/graphics-media/geometric-transformations/competencies/L1-explain-transformation-purpose-effects-and-principles|L2- Explain Transformation Purpose, Effects, and Principles]]
 
 ## Description
 

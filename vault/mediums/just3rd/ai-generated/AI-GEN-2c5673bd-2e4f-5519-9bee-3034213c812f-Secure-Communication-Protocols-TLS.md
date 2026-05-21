@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/secure-communication-protocols-tls|Secure Communication Protocols (TLS)]]"
+  - "[[skills/security/cybersecurity/iot-security-and-privacy/microskills/secure-communication-protocols-tls|secure-communication-protocols-tls]]"
 ---
 # Secure Communication Protocols: Transport Layer Security (TLS) in IoT
 

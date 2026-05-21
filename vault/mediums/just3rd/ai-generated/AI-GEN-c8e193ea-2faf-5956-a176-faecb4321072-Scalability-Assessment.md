@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/scalability-assessment|Scalability Assessment]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/scalability-assessment|scalability-assessment]]"
 ---
 # Assessing Scalability for Business Growth
 

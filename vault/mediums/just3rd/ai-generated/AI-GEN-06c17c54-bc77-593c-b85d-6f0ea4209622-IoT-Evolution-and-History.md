@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-evolution-and-history|IoT Evolution and History]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-evolution-and-history|iot-evolution-and-history]]"
 ---
 # IoT Evolution and History
 

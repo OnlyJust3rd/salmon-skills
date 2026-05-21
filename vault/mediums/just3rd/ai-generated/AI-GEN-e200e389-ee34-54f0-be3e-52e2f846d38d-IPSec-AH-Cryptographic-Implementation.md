@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-ah-cryptographic-implementation|IPSec (AH) Cryptographic Implementation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-ah-cryptographic-implementation|ipsec-ah-cryptographic-implementation]]"
 ---
 # Understanding IPSec AH Cryptographic Implementation
 

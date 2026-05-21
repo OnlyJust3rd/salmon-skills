@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/memory-addressing-and-organization|Memory Addressing and Organization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/memory-addressing-and-organization|memory-addressing-and-organization]]"
 ---
 # Memory Addressing and Organization
 

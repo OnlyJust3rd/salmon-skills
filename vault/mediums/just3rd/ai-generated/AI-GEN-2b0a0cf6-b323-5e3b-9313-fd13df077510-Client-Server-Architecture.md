@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/client-server-architecture|Client-Server Architecture]]"
+  - "[[skills/systems/networking/socket-programming/microskills/client-server-architecture|client-server-architecture]]"
 ---
 # Understanding the Client-Server Architecture in Socket Programming
 

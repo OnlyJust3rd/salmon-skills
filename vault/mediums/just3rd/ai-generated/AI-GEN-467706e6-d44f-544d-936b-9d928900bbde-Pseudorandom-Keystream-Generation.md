@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/pseudorandom-keystream-generation|Pseudorandom Keystream Generation]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/pseudorandom-keystream-generation|pseudorandom-keystream-generation]]"
 ---
 # Understanding LFSR Keystream Generation
 

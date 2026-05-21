@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|AI Processor vs. CPU Architectures]]"
+  - "[[skills/systems/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|ai-processor-vs-cpu-architectures]]"
 ---
 # AI Processor vs. CPU Architectures
 

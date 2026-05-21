@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Version Identification Concepts"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Version Control"
-parent-competency: "L2- Explain SCM Concepts"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/software-version-control/software-version-control|software-version-control]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/software-version-control/competencies/L1-explain-scm-concepts|L1-explain-scm-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Version Identification Concepts
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/software-version-control
 
 Parent competency:
 
-- [[skills/programming/software-engineering/software-version-control/competencies/L2-explain-scm-concepts|L2- Explain SCM Concepts]]
+- [[skills/programming/software-engineering/software-version-control/competencies/L1-explain-scm-concepts|L2- Explain SCM Concepts]]
 
 ## Description
 

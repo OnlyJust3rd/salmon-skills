@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-exec|UNIX System Call Application (exec)]]"
+  - "[[skills/systems/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-exec|unix-system-call-application-exec]]"
 ---
 # Understanding the `exec()` Family of System Calls in UNIX
 

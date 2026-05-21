@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "User Journey Mapping"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: Commercializing Your Projects"
-parent-macro: "User Experience"
-parent-competency: "L3- Design UX Flows"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/user-experience/user-experience|user-experience]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/user-experience/competencies/L2-design-ux-flows|L2-design-ux-flows]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # User Journey Mapping
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/user-experience/user-experienc
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/user-experience/competencies/L3-design-ux-flows|L3- Design UX Flows]]
+- [[skills/web-and-design/frontend-ux/user-experience/competencies/L2-design-ux-flows|L3- Design UX Flows]]
 
 ## Description
 

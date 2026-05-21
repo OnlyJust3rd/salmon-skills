@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/intradomain-scalability-limitations|Intradomain Scalability Limitations]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/intradomain-scalability-limitations|intradomain-scalability-limitations]]"
 ---
 # Intradomain Scalability Limitations
 

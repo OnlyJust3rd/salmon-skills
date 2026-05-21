@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenpair-calculation|Eigenpair calculation]]"
+  - "[[skills/mathematics/spectral-analysis-and-matrix-decomposition/microskills/eigenpair-calculation|eigenpair-calculation]]"
 ---
 # Calculating Eigenpairs: Eigenvalues and Eigenvectors
 

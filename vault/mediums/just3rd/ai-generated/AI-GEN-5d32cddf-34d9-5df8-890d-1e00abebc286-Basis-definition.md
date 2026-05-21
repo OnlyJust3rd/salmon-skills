@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector-space/microskills/basis-definition|Basis definition]]"
+  - "[[skills/mathematics/vector-space/microskills/basis-definition|basis-definition]]"
 ---
 # Basis Definition
 

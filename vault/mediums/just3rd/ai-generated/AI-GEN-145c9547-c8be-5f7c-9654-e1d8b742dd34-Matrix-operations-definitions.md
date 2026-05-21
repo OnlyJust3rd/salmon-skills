@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/matrix-operations-definitions|Matrix operations definitions]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/matrix-operations-definitions|matrix-operations-definitions]]"
 ---
 # Understanding Matrix Operations: Addition and Scalar Multiplication
 

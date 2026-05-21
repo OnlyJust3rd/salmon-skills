@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/model-identification|Model Identification]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/model-identification|model-identification]]"
 ---
 # Identifying Parallel Programming Models
 

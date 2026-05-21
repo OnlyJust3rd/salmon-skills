@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/css/microskills/typography-and-spacing-scale|Typography and spacing scale]]"
+  - "[[skills/web-and-design/frontend-ux/css/microskills/typography-and-spacing-scale|typography-and-spacing-scale]]"
 ---
 # Typography and Spacing Scale for Styled Layouts
 

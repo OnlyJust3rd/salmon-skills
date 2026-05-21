@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Data Compression Demonstration"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Algorithm Classification"
-parent-competency: "L3- Apply Huffman coding"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/algorithm-classification/algorithm-classification|algorithm-classification]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/algorithm-classification/competencies/L2-apply-huffman-coding|L2-apply-huffman-coding]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Data Compression Demonstration
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/algorithm-classification/algorithm
 
 Parent competency:
 
-- [[skills/programming/algorithms/algorithm-classification/competencies/L3-apply-huffman-coding|L3- Apply Huffman coding]]
+- [[skills/programming/algorithms/algorithm-classification/competencies/L2-apply-huffman-coding|L3- Apply Huffman coding]]
 
 ## Description
 

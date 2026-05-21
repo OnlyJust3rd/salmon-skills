@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/foreshortening-concept|Foreshortening Concept]]"
+  - "[[skills/creative-media/graphics-media/perspective-projection/microskills/foreshortening-concept|foreshortening-concept]]"
 ---
 # Understanding Foreshortening in Perspective Projection
 

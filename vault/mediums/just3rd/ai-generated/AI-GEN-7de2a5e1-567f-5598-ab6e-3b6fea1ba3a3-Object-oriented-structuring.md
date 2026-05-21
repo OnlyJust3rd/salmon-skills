@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-oriented-structuring|Object-oriented structuring]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/object-oriented-structuring|object-oriented-structuring]]"
 ---
 # Object-Oriented Structuring: Organizing Your Code
 

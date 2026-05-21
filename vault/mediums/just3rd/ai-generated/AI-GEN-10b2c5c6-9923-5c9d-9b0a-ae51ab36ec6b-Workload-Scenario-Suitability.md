@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|Workload Scenario Suitability]]"
+  - "[[skills/systems/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|workload-scenario-suitability]]"
 ---
 # Matching Scheduling Algorithms to Workloads
 

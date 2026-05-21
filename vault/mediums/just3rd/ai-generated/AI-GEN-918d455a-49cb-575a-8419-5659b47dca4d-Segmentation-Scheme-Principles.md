@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/memory-virtualization/microskills/segmentation-scheme-principles|Segmentation Scheme Principles]]"
+  - "[[skills/systems/operating-systems/memory-virtualization/microskills/segmentation-scheme-principles|segmentation-scheme-principles]]"
 ---
 # Segmentation Scheme Principles
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Mean Squared Error (MSE)"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Copyright Protection"
-parent-competency: "L5- Evaluate Watermarking Performance"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/copyright-protection/copyright-protection|copyright-protection]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/copyright-protection/competencies/L3-evaluate-watermarking-performance|L3-evaluate-watermarking-performance]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Mean Squared Error (MSE)
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/copyright-protection/copyright-pro
 
 Parent competency:
 
-- [[skills/security/cybersecurity/copyright-protection/competencies/L5-evaluate-watermarking-performance|L5- Evaluate Watermarking Performance]]
+- [[skills/security/cybersecurity/copyright-protection/competencies/L3-evaluate-watermarking-performance|L5- Evaluate Watermarking Performance]]
 
 ## Description
 

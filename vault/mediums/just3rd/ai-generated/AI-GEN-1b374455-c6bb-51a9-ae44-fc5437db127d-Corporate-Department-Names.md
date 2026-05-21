@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/corporate-functions/microskills/corporate-department-names|Corporate Department Names]]"
+  - "[[skills/business-it/business-product/corporate-functions/microskills/corporate-department-names|corporate-department-names]]"
 ---
 # Corporate Department Names
 

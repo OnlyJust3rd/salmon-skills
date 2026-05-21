@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/project-management/microskills/timeline-establishment|Timeline Establishment]]"
+  - "[[skills/programming/software-engineering/project-management/microskills/timeline-establishment|timeline-establishment]]"
 ---
 # Establishing Task Timelines in Project Management
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/common-cryptographic-hash-functions|Common Cryptographic Hash Functions]]"
+  - "[[skills/security/cybersecurity/cryptographic-fundamentals/microskills/common-cryptographic-hash-functions|common-cryptographic-hash-functions]]"
 ---
 # Common Cryptographic Hash Functions
 

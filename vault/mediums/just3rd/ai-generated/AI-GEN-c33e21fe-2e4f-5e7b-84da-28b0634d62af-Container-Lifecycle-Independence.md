@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-lifecycle-independence|Container Lifecycle Independence]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/container-lifecycle-independence|container-lifecycle-independence]]"
 ---
 # Understanding Container Lifecycle Independence with Docker Volumes
 

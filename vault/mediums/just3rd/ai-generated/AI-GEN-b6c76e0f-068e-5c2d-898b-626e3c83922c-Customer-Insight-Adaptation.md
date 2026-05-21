@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/customer-insight-adaptation|Customer Insight Adaptation]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/customer-insight-adaptation|customer-insight-adaptation]]"
 ---
 # Customer Insight Adaptation: Pivoting Your Lean Startup
 

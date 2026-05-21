@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "IaaS Application Scenarios"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 494 - Special Topic IV: System Virtualization and Platform Engineering"
-parent-macro: "Cloud Computing"
-parent-competency: "L3- Apply Cloud Service Models"
+  - "microskill"
+parent-skill: "[[skills/cloud-devops/platform-engineering/cloud-computing/cloud-computing|cloud-computing]]"
+requires-in-competencies:
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # IaaS Application Scenarios
@@ -15,7 +17,7 @@ Parent macro: [[skills/cloud-devops/platform-engineering/cloud-computing/cloud-c
 
 Parent competency:
 
-- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L3-apply-cloud-service-models|L3- Apply Cloud Service Models]]
+- [[skills/cloud-devops/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
 
 ## Description
 

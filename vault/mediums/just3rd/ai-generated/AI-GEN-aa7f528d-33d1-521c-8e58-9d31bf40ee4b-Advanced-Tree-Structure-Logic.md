@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/advanced-tree-structure-logic|Advanced Tree Structure Logic]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/advanced-tree-structure-logic|advanced-tree-structure-logic]]"
 ---
 # Advanced Tree Structure Logic
 

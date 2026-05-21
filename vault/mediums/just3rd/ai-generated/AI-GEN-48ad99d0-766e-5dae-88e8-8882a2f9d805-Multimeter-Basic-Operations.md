@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/multimeter-basic-operations|Multimeter Basic Operations]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/multimeter-basic-operations|multimeter-basic-operations]]"
 ---
 # Multimeter: Measuring Electricity's Basics
 

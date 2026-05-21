@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Data Structure Definitions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Data Structure Principles"
-parent-competency: "L1- Define and Identify Data Structures and Concepts"
+  - "microskill"
+parent-skill: "[[skills/programming/data-structures/data-structure-principles/data-structure-principles|data-structure-principles]]"
+requires-in-competencies:
+  - "[[skills/programming/data-structures/data-structure-principles/competencies/L1-define-and-identify-data-structures-and-concepts|L1-define-and-identify-data-structures-and-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Data Structure Definitions

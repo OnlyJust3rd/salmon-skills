@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/value-proposition-articulation|Value Proposition Articulation]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/value-proposition-articulation|value-proposition-articulation]]"
 ---
 # Articulating Your Value Proposition
 

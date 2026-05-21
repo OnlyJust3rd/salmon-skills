@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/matrix-dimensions|Matrix dimensions]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/matrix-dimensions|matrix-dimensions]]"
 ---
 # Understanding Matrix Dimensions
 

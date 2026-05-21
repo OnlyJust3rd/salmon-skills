@@ -1,16 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Incident Response"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - cybersecurity operations skills"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Cybersecurity Analyst"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/incident-response/competencies/L1-explain-incident-response-lifecycle|L1-explain-incident-response-lifecycle]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/incident-response/competencies/L1-explain-incident-response-lifecycle|L1-explain-incident-response-lifecycle]]"
+microskills:
+  - "[[skills/security/cybersecurity/incident-response/microskills/containment-and-recovery|containment-and-recovery]]"
+  - "[[skills/security/cybersecurity/incident-response/microskills/detection-and-analysis|detection-and-analysis]]"
+  - "[[skills/security/cybersecurity/incident-response/microskills/lessons-learned|lessons-learned]]"
 ---
 
 # Incident Response
@@ -19,7 +22,7 @@ Understanding the lifecycle for handling security incidents, from preparation an
 
 ## Competencies
 
-- [[skills/security/cybersecurity/incident-response/competencies/L2-explain-incident-response-lifecycle|L2- Explain Incident Response Lifecycle]]
+- [[skills/security/cybersecurity/incident-response/competencies/L1-explain-incident-response-lifecycle|L2- Explain Incident Response Lifecycle]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-standards-and-protocols|IoT Standards and Protocols]]"
+  - "[[skills/hardware-embedded/robotics-iot/internet-of-things/microskills/iot-standards-and-protocols|iot-standards-and-protocols]]"
 ---
 # IoT Standards and Protocols: Enabling Communication
 

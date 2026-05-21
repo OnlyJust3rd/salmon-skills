@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/dbt/microskills/data-test|Data Test]]"
+  - "[[skills/data/data-platforms/dbt/microskills/data-test|data-test]]"
 ---
 # Data Tests: Assertions for Transformed Data Quality
 

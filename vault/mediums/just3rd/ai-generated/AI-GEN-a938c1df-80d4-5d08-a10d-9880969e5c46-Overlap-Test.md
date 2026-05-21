@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-physics/microskills/overlap-test|Overlap Test]]"
+  - "[[skills/creative-media/game-development/game-physics/microskills/overlap-test|overlap-test]]"
 ---
 # Overlap Test: Detecting Collisions
 

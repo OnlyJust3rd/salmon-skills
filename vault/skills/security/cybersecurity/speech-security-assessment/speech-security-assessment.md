@@ -1,16 +1,36 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Speech Security Assessment"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-coverage:
-  - "Evaluation"
-competency-count: 4
-microskill-count: 15
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/n-a-cryptographic-techniques-for-multimedia-communication"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L1-explain-speech-security-principles-and-techniques|L1-explain-speech-security-principles-and-techniques]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L2-demonstrate-digital-ciphering-application|L2-demonstrate-digital-ciphering-application]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L3-analyze-security-mechanism-differences|L3-analyze-security-mechanism-differences]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L3-evaluate-speech-security-effectiveness|L3-evaluate-speech-security-effectiveness]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L2-demonstrate-digital-ciphering-application|L2-demonstrate-digital-ciphering-application]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L3-analyze-security-mechanism-differences|L3-analyze-security-mechanism-differences]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L3-evaluate-speech-security-effectiveness|L3-evaluate-speech-security-effectiveness]]"
+microskills:
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-advantages|analogue-scrambling-advantages]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-principles|analogue-scrambling-principles]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-security-mechanisms|analogue-scrambling-security-mechanisms]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-techniques|analogue-scrambling-techniques]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-vulnerabilities|analogue-scrambling-vulnerabilities]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/common-analogue-scrambling-methods|common-analogue-scrambling-methods]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-advantages|digital-ciphering-advantages]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-principles|digital-ciphering-principles]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-process-steps|digital-ciphering-process-steps]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-security-mechanisms|digital-ciphering-security-mechanisms]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-techniques|digital-ciphering-techniques]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/digital-ciphering-vulnerabilities|digital-ciphering-vulnerabilities]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/hypothetical-speech-signal-ciphering|hypothetical-speech-signal-ciphering]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/speech-security-mechanism-comparison|speech-security-mechanism-comparison]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/speech-security-method-comparison|speech-security-method-comparison]]"
 ---
 
 # Speech Security Assessment
@@ -19,10 +39,10 @@ Assessing the advantages and vulnerabilities of speech security systems, compari
 
 ## Competencies
 
-- [[skills/security/cybersecurity/speech-security-assessment/competencies/L2-explain-speech-security-principles-and-techniques|L2- Explain Speech Security Principles and Techniques]]
-- [[skills/security/cybersecurity/speech-security-assessment/competencies/L3-demonstrate-digital-ciphering-application|L3- Demonstrate Digital Ciphering Application]]
-- [[skills/security/cybersecurity/speech-security-assessment/competencies/L4-analyze-security-mechanism-differences|L4- Analyze Security Mechanism Differences]]
-- [[skills/security/cybersecurity/speech-security-assessment/competencies/L5-evaluate-speech-security-effectiveness|L5- Evaluate Speech Security Effectiveness]]
+- [[skills/security/cybersecurity/speech-security-assessment/competencies/L1-explain-speech-security-principles-and-techniques|L2- Explain Speech Security Principles and Techniques]]
+- [[skills/security/cybersecurity/speech-security-assessment/competencies/L2-demonstrate-digital-ciphering-application|L3- Demonstrate Digital Ciphering Application]]
+- [[skills/security/cybersecurity/speech-security-assessment/competencies/L3-analyze-security-mechanism-differences|L4- Analyze Security Mechanism Differences]]
+- [[skills/security/cybersecurity/speech-security-assessment/competencies/L3-evaluate-speech-security-effectiveness|L5- Evaluate Speech Security Effectiveness]]
 
 ## Microskills
 

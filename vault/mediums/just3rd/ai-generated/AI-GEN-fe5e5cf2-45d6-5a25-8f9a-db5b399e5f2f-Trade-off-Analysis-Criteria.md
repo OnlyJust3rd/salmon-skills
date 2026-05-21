@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/engineering-process/microskills/trade-off-analysis-criteria|Trade-off Analysis Criteria]]"
+  - "[[skills/engineering/engineering-practices/engineering-process/microskills/trade-off-analysis-criteria|trade-off-analysis-criteria]]"
 ---
 # Defining Trade-off Analysis Criteria
 

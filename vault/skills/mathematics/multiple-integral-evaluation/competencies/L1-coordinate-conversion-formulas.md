@@ -1,18 +1,23 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Coordinate Conversion Formulas"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Multiple Integral Evaluation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Coordinate and Equation Conversion"
+  - "[[skills/mathematics/polar-coordinate-systems/competencies/L1-coordinate-and-equation-conversion|L1-coordinate-and-equation-conversion]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 6
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/multiple-integral-evaluation/multiple-integral-evaluation|multiple-integral-evaluation]]"
+requires-microskills:
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/cylindrical-to-rectangular-conversion-formulas|cylindrical-to-rectangular-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/polar-to-rectangular-conversion-formulas|polar-to-rectangular-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/rectangular-to-cylindrical-conversion-formulas|rectangular-to-cylindrical-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/rectangular-to-polar-conversion-formulas|rectangular-to-polar-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/rectangular-to-spherical-conversion-formulas|rectangular-to-spherical-conversion-formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/spherical-to-rectangular-conversion-formulas|spherical-to-rectangular-conversion-formulas]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Coordinate Conversion Formulas
@@ -25,7 +30,7 @@ Define the formulas for converting between rectangular, polar, cylindrical, and 
 
 ## Strict Prerequisites
 
-- [[L2-coordinate-and-equation-conversion|L2- Coordinate and Equation Conversion]]
+- [[skills/mathematics/polar-coordinate-systems/competencies/L1-coordinate-and-equation-conversion|L2- Coordinate and Equation Conversion]]
 
 ## Optional Prerequisites
 

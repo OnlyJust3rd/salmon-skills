@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-control-techniques|Access Control Techniques]]"
+  - "[[skills/security/cybersecurity/network-security-access-control/microskills/access-control-techniques|access-control-techniques]]"
 ---
 # Access Control Techniques: A Foundation for Network Defense
 

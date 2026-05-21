@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/online-search-strategies|Online Search Strategies]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/online-search-strategies|online-search-strategies]]"
 ---
 # Online Search Strategies for Identifying Competitors
 

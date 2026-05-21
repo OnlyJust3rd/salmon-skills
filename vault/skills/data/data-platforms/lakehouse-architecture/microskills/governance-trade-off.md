@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Governance Trade-off"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - data platform and big data skills"
-parent-macro: "Lakehouse Architecture"
-parent-competency: "L4- Analyze Lakehouse and Warehouse Trade-offs"
+  - "microskill"
+parent-skill: "[[skills/data/data-platforms/lakehouse-architecture/lakehouse-architecture|lakehouse-architecture]]"
+requires-in-competencies:
+  - "[[skills/data/data-platforms/lakehouse-architecture/competencies/L3-analyze-lakehouse-and-warehouse-trade-offs|L3-analyze-lakehouse-and-warehouse-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Governance Trade-off
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-platforms/lakehouse-architecture/lakehouse-arch
 
 Parent competency:
 
-- [[skills/data/data-platforms/lakehouse-architecture/competencies/L4-analyze-lakehouse-and-warehouse-trade-offs|L4- Analyze Lakehouse and Warehouse Trade-offs]]
+- [[skills/data/data-platforms/lakehouse-architecture/competencies/L3-analyze-lakehouse-and-warehouse-trade-offs|L4- Analyze Lakehouse and Warehouse Trade-offs]]
 
 ## Description
 

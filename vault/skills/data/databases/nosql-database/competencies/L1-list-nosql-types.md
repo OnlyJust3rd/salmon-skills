@@ -1,18 +1,22 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List NoSQL Types"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 241 - Database Systems"
-parent-macro: "NoSQL Database"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define and List RDBMS Concepts"
+  - "[[skills/data/databases/database-system/competencies/L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/databases/nosql-database/nosql-database|nosql-database]]"
+requires-microskills:
+  - "[[skills/data/databases/nosql-database/microskills/column-family-stores|column-family-stores]]"
+  - "[[skills/data/databases/nosql-database/microskills/document-databases|document-databases]]"
+  - "[[skills/data/databases/nosql-database/microskills/graph-databases|graph-databases]]"
+  - "[[skills/data/databases/nosql-database/microskills/key-value-stores|key-value-stores]]"
+  - "[[skills/data/databases/nosql-database/microskills/nosql-database-categories|nosql-database-categories]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List NoSQL Types

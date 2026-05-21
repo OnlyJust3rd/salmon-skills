@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Network Path Determination"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 314 - Computer Networks"
-parent-macro: "Network Layer"
-parent-competency: "L2- Describe IP forwarding process"
+  - "microskill"
+parent-skill: "[[skills/systems/networking/network-layer/network-layer|network-layer]]"
+requires-in-competencies:
+  - "[[skills/systems/networking/network-layer/competencies/L1-describe-ip-forwarding-process|L1-describe-ip-forwarding-process]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Network Path Determination
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/networking/network-layer/network-layer|Network La
 
 Parent competency:
 
-- [[skills/systems/networking/network-layer/competencies/L2-describe-ip-forwarding-process|L2- Describe IP forwarding process]]
+- [[skills/systems/networking/network-layer/competencies/L1-describe-ip-forwarding-process|L2- Describe IP forwarding process]]
 
 ## Description
 

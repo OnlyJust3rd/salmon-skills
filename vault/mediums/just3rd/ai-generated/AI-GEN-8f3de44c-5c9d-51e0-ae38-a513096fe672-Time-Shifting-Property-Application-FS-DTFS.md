@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-operations/microskills/time-shifting-property-application-fs-dtfs|Time-Shifting Property Application (FS/DTFS)]]"
+  - "[[skills/mathematics/signal-operations/microskills/time-shifting-property-application-fs-dtfs|time-shifting-property-application-fs-dtfs]]"
 ---
 # Applying the Time-Shifting Property for FS/DTFS Coefficient Calculation
 

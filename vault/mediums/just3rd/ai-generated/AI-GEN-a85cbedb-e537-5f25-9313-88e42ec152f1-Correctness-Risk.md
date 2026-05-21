@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/ai-assistant-tools/coding-assistants/ai-coding-tool-evaluation/microskills/correctness-risk|Correctness Risk]]"
+  - "[[skills/ai-assistant-tools/coding-assistants/ai-coding-tool-evaluation/microskills/correctness-risk|correctness-risk]]"
 ---
 # Correctness Risk in AI Coding Tool Output
 

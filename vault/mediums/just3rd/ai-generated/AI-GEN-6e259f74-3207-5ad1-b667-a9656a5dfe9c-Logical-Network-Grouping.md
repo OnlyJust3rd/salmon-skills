@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-link-layer/microskills/logical-network-grouping|Logical Network Grouping]]"
+  - "[[skills/data/data-platforms/data-link-layer/microskills/logical-network-grouping|logical-network-grouping]]"
 ---
 # Logical Network Grouping: Your First Step to VLANs
 

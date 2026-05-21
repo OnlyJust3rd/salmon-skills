@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-operational-mode-comparison|JPEG Operational Mode Comparison]]"
+  - "[[skills/mathematics/multimedia-compression/microskills/jpeg-operational-mode-comparison|jpeg-operational-mode-comparison]]"
 ---
 # Understanding JPEG Operational Modes
 

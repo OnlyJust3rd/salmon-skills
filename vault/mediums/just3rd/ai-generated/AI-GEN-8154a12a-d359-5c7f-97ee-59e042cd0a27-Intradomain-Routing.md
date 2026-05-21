@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/routing-algorithms/microskills/intradomain-routing|Intradomain Routing]]"
+  - "[[skills/programming/algorithms/routing-algorithms/microskills/intradomain-routing|intradomain-routing]]"
 ---
 # Intradomain Routing: Navigating Within Your Network
 

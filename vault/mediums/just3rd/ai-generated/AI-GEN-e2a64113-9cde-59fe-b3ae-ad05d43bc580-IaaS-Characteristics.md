@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/iaas-characteristics|IaaS Characteristics]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-computing/microskills/iaas-characteristics|iaas-characteristics]]"
 ---
 # Understanding Infrastructure as a Service (IaaS)
 

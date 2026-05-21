@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/differentiation-integration-connection-via-ftc|Differentiation-integration connection via FTC]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/differentiation-integration-connection-via-ftc|differentiation-integration-connection-via-ftc]]"
 ---
 # The Inverse Dance: Differentiation and Integration
 

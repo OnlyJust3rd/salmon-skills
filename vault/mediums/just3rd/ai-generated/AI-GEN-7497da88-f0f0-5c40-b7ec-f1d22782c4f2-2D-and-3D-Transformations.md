@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-and-3d-transformations|2D and 3D Transformations]]"
+  - "[[skills/creative-media/graphics-media/geometric-transformations/microskills/2d-and-3d-transformations|2d-and-3d-transformations]]"
 ---
 # Understanding 2D and 3D Transformations
 

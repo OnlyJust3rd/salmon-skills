@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/basic-logic-gate-definitions|Basic Logic Gate Definitions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-fundamentals/microskills/basic-logic-gate-definitions|basic-logic-gate-definitions]]"
 ---
 # Basic Logic Gate Definitions
 

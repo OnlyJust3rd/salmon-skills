@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Parametric line equation definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Geometric Formulation"
-parent-competency: "L1- 3D Geometric Equation Definitions"
+  - "microskill"
+parent-skill: "[[skills/mathematics/geometric-formulation/geometric-formulation|geometric-formulation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/geometric-formulation/competencies/L1-3d-geometric-equation-definitions|L1-3d-geometric-equation-definitions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Parametric line equation definition
@@ -15,7 +17,7 @@ Parent macro: [[geometric-formulation|Geometric Formulation]]
 
 Parent competency:
 
-- [[L1-3d-geometric-equation-definitions|L1- 3D Geometric Equation Definitions]]
+- [[skills/mathematics/geometric-formulation/competencies/L1-3d-geometric-equation-definitions|L1- 3D Geometric Equation Definitions]]
 
 ## Description
 

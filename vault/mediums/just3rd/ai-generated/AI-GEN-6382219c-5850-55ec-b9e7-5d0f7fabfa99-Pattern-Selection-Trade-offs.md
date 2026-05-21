@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/design-patterns/microskills/pattern-selection-trade-offs|Pattern Selection Trade-offs]]"
+  - "[[skills/programming/software-engineering/design-patterns/microskills/pattern-selection-trade-offs|pattern-selection-trade-offs]]"
 ---
 # Pattern Selection Trade-offs
 

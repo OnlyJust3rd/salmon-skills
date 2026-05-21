@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/merge-sort-java-implementation|Merge Sort Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/merge-sort-java-implementation|merge-sort-java-implementation]]"
 ---
 # Merge Sort Java Implementation
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-design-strategy-recall|Algorithm Design Strategy Recall]]"
+  - "[[skills/programming/algorithms/algorithms/microskills/algorithm-design-strategy-recall|algorithm-design-strategy-recall]]"
 ---
 # Algorithm Design Strategy Recall
 

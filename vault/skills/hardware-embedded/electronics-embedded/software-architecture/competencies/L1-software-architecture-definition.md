@@ -1,18 +1,19 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Software Architecture Definition"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Architecture"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L2- Explain Problem Decomposition"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-explain-problem-decomposition|L1-explain-problem-decomposition]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 2
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/software-architecture/software-architecture|software-architecture]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/architecture-as-high-level-organization|architecture-as-high-level-organization]]"
+  - "[[skills/hardware-embedded/electronics-embedded/software-architecture/microskills/components-and-connectors-vocabulary|components-and-connectors-vocabulary]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Software Architecture Definition
@@ -25,7 +26,7 @@ Define software architecture as the high-level organization of a software system
 
 ## Strict Prerequisites
 
-- [[skills/programming/algorithms/computational-problem-solving/competencies/L2-explain-problem-decomposition|L2- Explain Problem Decomposition]]
+- [[skills/programming/algorithms/computational-problem-solving/competencies/L1-explain-problem-decomposition|L2- Explain Problem Decomposition]]
 
 ## Optional Prerequisites
 

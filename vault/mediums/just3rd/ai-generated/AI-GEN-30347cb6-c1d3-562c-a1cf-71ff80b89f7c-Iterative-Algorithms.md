@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/iterative-algorithms|Iterative Algorithms]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/iterative-algorithms|iterative-algorithms]]"
 ---
 # Iterative Algorithms: Repeating for Results
 

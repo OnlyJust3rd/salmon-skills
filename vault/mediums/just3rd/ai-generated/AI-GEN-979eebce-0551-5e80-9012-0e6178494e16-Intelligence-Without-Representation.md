@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/intelligence-without-representation|Intelligence Without Representation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotics/microskills/intelligence-without-representation|intelligence-without-representation]]"
 ---
 # Intelligence Without Representation
 

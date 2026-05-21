@@ -1,18 +1,30 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Cryptography for Digital Media Protection"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 383 - Digital Image Processing for Copyright Protection"
-coverage:
-  - "Concept"
-  - "Implementation"
-  - "Evaluation"
-competency-count: 3
-microskill-count: 10
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-383-digital-image-processing-for-copyright-protection"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-apply-cryptographic-primitive|L2-apply-cryptographic-primitive]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-implement-hybrid-encryption|L2-implement-hybrid-encryption]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L3-differentiate-encryption-algorithms|L3-differentiate-encryption-algorithms]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-apply-cryptographic-primitive|L2-apply-cryptographic-primitive]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-implement-hybrid-encryption|L2-implement-hybrid-encryption]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L3-differentiate-encryption-algorithms|L3-differentiate-encryption-algorithms]]"
+microskills:
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/asymmetric-encryption-characteristics|asymmetric-encryption-characteristics]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-function-for-watermarking|cryptographic-function-for-watermarking]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-primitive-utilization|cryptographic-primitive-utilization]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-key-management|encryption-algorithm-key-management]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-security-comparison|encryption-algorithm-security-comparison]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-speed-comparison|encryption-algorithm-speed-comparison]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/hybrid-encryption-scheme|hybrid-encryption-scheme]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/media-protection-with-hybrid-encryption|media-protection-with-hybrid-encryption]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/symmetric-encryption-characteristics|symmetric-encryption-characteristics]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/watermark-signal-generation|watermark-signal-generation]]"
 ---
 
 # Cryptography for Digital Media Protection
@@ -21,9 +33,9 @@ Apply cryptographic techniques to ensure confidentiality, integrity, and authent
 
 ## Competencies
 
-- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L4-differentiate-encryption-algorithms|L4- Differentiate Encryption Algorithms]]
-- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L3-implement-hybrid-encryption|L3- Implement hybrid encryption]]
-- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L3-apply-cryptographic-primitive|L3- Apply Cryptographic Primitive]]
+- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L3-differentiate-encryption-algorithms|L4- Differentiate Encryption Algorithms]]
+- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-implement-hybrid-encryption|L3- Implement hybrid encryption]]
+- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/competencies/L2-apply-cryptographic-primitive|L3- Apply Cryptographic Primitive]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-2-hypervisor-architecture|Type-2 Hypervisor Architecture]]"
+  - "[[skills/cloud-devops/platform-engineering/system-virtualization/microskills/type-2-hypervisor-architecture|type-2-hypervisor-architecture]]"
 ---
 # Type-2 Hypervisor Architecture: The Hosted Approach
 

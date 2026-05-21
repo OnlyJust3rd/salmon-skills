@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/socket-programming/microskills/socket-programming-implementation|Socket Programming Implementation]]"
+  - "[[skills/systems/networking/socket-programming/microskills/socket-programming-implementation|socket-programming-implementation]]"
 ---
 # Socket Programming Implementation
 

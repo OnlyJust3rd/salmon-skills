@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/database-indexing/microskills/index-access-paths|Index Access Paths]]"
+  - "[[skills/data/databases/database-indexing/microskills/index-access-paths|index-access-paths]]"
 ---
 # Understanding Index Access Paths
 

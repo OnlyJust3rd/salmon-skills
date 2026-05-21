@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/problem-to-logic-translation|Problem-to-Logic Translation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/microskills/problem-to-logic-translation|problem-to-logic-translation]]"
 ---
 # Problem-to-Logic Translation: Bridging the Gap
 

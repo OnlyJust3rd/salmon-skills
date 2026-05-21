@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/quantitative-feedback-analysis|Quantitative Feedback Analysis]]"
+  - "[[skills/web-and-design/frontend-ux/user-experience/microskills/quantitative-feedback-analysis|quantitative-feedback-analysis]]"
 ---
 # Analyzing Quantitative User Feedback
 

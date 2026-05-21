@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/lean-startup/microskills/solution-interview-validation-role|Solution Interview Validation Role]]"
+  - "[[skills/business-it/business-product/lean-startup/microskills/solution-interview-validation-role|solution-interview-validation-role]]"
 ---
 # Solution Interview Validation Role in Lean Startup
 

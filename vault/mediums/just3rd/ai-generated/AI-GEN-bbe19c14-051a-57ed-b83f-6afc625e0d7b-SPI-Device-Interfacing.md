@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/spi-device-interfacing|SPI Device Interfacing]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/spi-device-interfacing|spi-device-interfacing]]"
 ---
 # SPI Device Interfacing with AVR Microcontrollers
 

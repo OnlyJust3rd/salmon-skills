@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/deployment-challenge-mitigation|Deployment Challenge Mitigation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/deployment-challenge-mitigation|deployment-challenge-mitigation]]"
 ---
 # Deployment Challenge Mitigation
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/fundamental-input-output-control|Fundamental Input/Output Control]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/fundamental-input-output-control|fundamental-input-output-control]]"
 ---
 # Fundamental Input/Output (I/O) Control for Embedded Systems
 

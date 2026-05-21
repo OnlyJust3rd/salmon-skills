@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Noise Immunity Comparison"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 324 - Embedded Systems"
-parent-macro: "Embedded System Interfacing"
-parent-competency: "L5- Protocol Justification"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/embedded-system-interfacing|embedded-system-interfacing]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L3-protocol-justification|L3-protocol-justification]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Noise Immunity Comparison
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/embedded-system-in
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L5-protocol-justification|L5- Protocol Justification]]
+- [[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/competencies/L3-protocol-justification|L5- Protocol Justification]]
 
 ## Description
 

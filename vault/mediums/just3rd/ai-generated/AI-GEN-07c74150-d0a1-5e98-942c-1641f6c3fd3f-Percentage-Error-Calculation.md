@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/percentage-error-calculation|Percentage Error Calculation]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/percentage-error-calculation|percentage-error-calculation]]"
 ---
 # Calculating Percentage Error
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/icmp-functions|ICMP Functions]]"
+  - "[[skills/systems/networking/network-layer/microskills/icmp-functions|icmp-functions]]"
 ---
 # Understanding ICMP Functions
 

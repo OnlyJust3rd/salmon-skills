@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/matrix-algebra/microskills/matrix-invertibility|Matrix invertibility]]"
+  - "[[skills/mathematics/matrix-algebra/microskills/matrix-invertibility|matrix-invertibility]]"
 ---
 # Matrix Invertibility: Does the Inverse Exist?
 

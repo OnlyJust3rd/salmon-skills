@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/message-size-optimization|Message Size Optimization]]"
+  - "[[skills/systems/high-performance-computing/parallel-programming/microskills/message-size-optimization|message-size-optimization]]"
 ---
 # Optimizing Message Size with Data Packing in MPI
 

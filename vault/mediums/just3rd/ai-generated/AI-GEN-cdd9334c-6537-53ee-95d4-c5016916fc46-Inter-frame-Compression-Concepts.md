@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/graphics-media/image-compression/microskills/inter-frame-compression-concepts|Inter-frame Compression Concepts]]"
+  - "[[skills/creative-media/graphics-media/image-compression/microskills/inter-frame-compression-concepts|inter-frame-compression-concepts]]"
 ---
 # Inter-frame Compression Concepts
 

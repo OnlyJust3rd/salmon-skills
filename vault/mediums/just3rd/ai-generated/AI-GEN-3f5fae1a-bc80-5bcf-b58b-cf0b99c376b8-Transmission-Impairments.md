@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/physical-layer-protocol/microskills/transmission-impairments|Transmission Impairments]]"
+  - "[[skills/systems/networking/physical-layer-protocol/microskills/transmission-impairments|transmission-impairments]]"
 ---
 # Transmission Impairments: Understanding Signal Degradation
 

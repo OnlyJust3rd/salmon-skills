@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-segment-characteristics|Customer Segment Characteristics]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/customer-segment-characteristics|customer-segment-characteristics]]"
 ---
 # Understanding Customer Segment Characteristics in the Technology Adoption Lifecycle
 

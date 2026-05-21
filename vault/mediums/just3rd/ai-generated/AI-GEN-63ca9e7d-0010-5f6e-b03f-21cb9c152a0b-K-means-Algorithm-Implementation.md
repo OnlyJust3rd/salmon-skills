@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-clustering/microskills/k-means-algorithm-implementation|K-means Algorithm Implementation]]"
+  - "[[skills/data/data-science/text-clustering/microskills/k-means-algorithm-implementation|k-means-algorithm-implementation]]"
 ---
 # K-means Algorithm Implementation
 

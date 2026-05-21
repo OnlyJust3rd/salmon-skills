@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-efficiency|Data Access Efficiency]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/data-access-efficiency|data-access-efficiency]]"
 ---
 # Understanding Data Access Efficiency in File Allocation
 

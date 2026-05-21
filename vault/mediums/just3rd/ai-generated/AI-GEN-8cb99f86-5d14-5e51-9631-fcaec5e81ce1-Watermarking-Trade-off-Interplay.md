@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermarking-trade-off-interplay|Watermarking Trade-off Interplay]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/watermarking-trade-off-interplay|watermarking-trade-off-interplay]]"
 ---
 # Understanding the Watermarking Trade-off Interplay
 

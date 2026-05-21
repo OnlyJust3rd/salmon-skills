@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/conceptual-link-mean-value-theorem-and-derivative|Conceptual link: Mean Value Theorem and derivative]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/conceptual-link-mean-value-theorem-and-derivative|conceptual-link-mean-value-theorem-and-derivative]]"
 ---
 # The Mean Value Theorem: Connecting Average and Instantaneous Change
 

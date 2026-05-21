@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/product-analytics/microskills/experiment-result|Experiment Result]]"
+  - "[[skills/data/data-platforms/product-analytics/microskills/experiment-result|experiment-result]]"
 ---
 # Interpreting Experiment Results: Understanding Product Variant Differences
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/adaptation-of-simulated-models|Adaptation of Simulated Models]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/adaptation-of-simulated-models|adaptation-of-simulated-models]]"
 ---
 # Adapting Simulated Models for Real-World Robots
 

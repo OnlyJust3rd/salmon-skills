@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/function-analysis/microskills/inverse-function-properties|Inverse function properties]]"
+  - "[[skills/mathematics/function-analysis/microskills/inverse-function-properties|inverse-function-properties]]"
 ---
 # Understanding Inverse Function Properties
 

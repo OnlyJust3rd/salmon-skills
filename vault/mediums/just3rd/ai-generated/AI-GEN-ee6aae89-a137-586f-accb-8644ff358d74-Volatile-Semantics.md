@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-semantics|Volatile Semantics]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/volatile-semantics|volatile-semantics]]"
 ---
 # Volatile Semantics in Bare-Metal C
 

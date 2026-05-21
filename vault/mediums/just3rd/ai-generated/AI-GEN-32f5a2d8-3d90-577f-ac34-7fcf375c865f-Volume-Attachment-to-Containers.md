@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-attachment-to-containers|Volume Attachment to Containers]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-attachment-to-containers|volume-attachment-to-containers]]"
 ---
 # Attaching Docker Volumes to Containers
 

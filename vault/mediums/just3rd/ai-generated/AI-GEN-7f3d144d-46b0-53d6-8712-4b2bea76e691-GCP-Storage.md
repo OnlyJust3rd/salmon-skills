@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-storage|GCP Storage]]"
+  - "[[skills/cloud-devops/platform-engineering/google-cloud-platform/microskills/gcp-storage|gcp-storage]]"
 ---
 # Understanding GCP Storage Services
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/distribution-visualization|Distribution Visualization]]"
+  - "[[skills/programming/programming-languages/python/microskills/distribution-visualization|distribution-visualization]]"
 ---
 # Visualizing Data Distributions with Python
 

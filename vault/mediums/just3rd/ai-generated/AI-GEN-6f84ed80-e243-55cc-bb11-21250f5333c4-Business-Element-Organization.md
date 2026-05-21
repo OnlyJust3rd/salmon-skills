@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/business-model-design/microskills/business-element-organization|Business Element Organization]]"
+  - "[[skills/business-it/business-product/business-model-design/microskills/business-element-organization|business-element-organization]]"
 ---
 # Organizing Your Business Elements
 

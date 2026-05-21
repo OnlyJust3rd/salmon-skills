@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "MonoBehaviour Script"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - game development production skills"
-parent-macro: "Unity"
-parent-competency: "L3- Implement Unity Gameplay Scripts and Scenes"
+  - "microskill"
+parent-skill: "[[skills/creative-media/game-development/unity/unity|unity]]"
+requires-in-competencies:
+  - "[[skills/creative-media/game-development/unity/competencies/L2-implement-unity-gameplay-scripts-and-scenes|L2-implement-unity-gameplay-scripts-and-scenes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # MonoBehaviour Script
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/game-development/unity/unity|Unity]]
 
 Parent competency:
 
-- [[skills/creative-media/game-development/unity/competencies/L3-implement-unity-gameplay-scripts-and-scenes|L3- Implement Unity Gameplay Scripts and Scenes]]
+- [[skills/creative-media/game-development/unity/competencies/L2-implement-unity-gameplay-scripts-and-scenes|L3- Implement Unity Gameplay Scripts and Scenes]]
 
 ## Description
 

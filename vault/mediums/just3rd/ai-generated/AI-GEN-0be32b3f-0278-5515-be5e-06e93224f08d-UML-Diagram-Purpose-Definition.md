@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-purpose-definition|UML Diagram Purpose Definition]]"
+  - "[[skills/programming/software-engineering/uml-modeling/microskills/uml-diagram-purpose-definition|uml-diagram-purpose-definition]]"
 ---
 # Understanding the Purpose of UML Diagrams
 

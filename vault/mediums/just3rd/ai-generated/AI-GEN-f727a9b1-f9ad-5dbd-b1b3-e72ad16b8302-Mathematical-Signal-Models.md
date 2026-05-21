@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/signal-representation-and-classification/microskills/mathematical-signal-models|Mathematical Signal Models]]"
+  - "[[skills/mathematics/signal-representation-and-classification/microskills/mathematical-signal-models|mathematical-signal-models]]"
 ---
 # Mathematical Signal Models
 

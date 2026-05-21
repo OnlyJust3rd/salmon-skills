@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/fundamental-vector-operations-enumeration|Fundamental vector operations enumeration]]"
+  - "[[skills/mathematics/vector/microskills/fundamental-vector-operations-enumeration|fundamental-vector-operations-enumeration]]"
 ---
 # Fundamental Vector Operations: Enumeration
 

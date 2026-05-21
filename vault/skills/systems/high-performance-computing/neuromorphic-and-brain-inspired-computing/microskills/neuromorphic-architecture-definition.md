@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Neuromorphic Architecture Definition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Neuromorphic and Brain-Inspired Computing"
-parent-competency: "L1- Define Brain-Inspired and Neuromorphic Concepts"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/neuromorphic-and-brain-inspired-computing|neuromorphic-and-brain-inspired-computing]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/neuromorphic-and-brain-inspired-computing/competencies/L1-define-brain-inspired-and-neuromorphic-concepts|L1-define-brain-inspired-and-neuromorphic-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Neuromorphic Architecture Definition

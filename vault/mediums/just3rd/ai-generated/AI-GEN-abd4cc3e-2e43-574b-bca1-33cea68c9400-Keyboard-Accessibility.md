@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/web-accessibility/microskills/keyboard-accessibility|Keyboard Accessibility]]"
+  - "[[skills/web-and-design/frontend-ux/web-accessibility/microskills/keyboard-accessibility|keyboard-accessibility]]"
 ---
 # Keyboard Accessibility: Navigating the Web Without a Mouse
 

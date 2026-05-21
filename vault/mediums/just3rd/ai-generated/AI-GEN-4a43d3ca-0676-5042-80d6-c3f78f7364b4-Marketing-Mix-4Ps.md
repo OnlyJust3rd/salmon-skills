@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-4ps|Marketing Mix (4Ps)]]"
+  - "[[skills/business-it/business-product/marketing-strategy/microskills/marketing-mix-4ps|marketing-mix-4ps]]"
 ---
 # Understanding the Marketing Mix (4Ps)
 

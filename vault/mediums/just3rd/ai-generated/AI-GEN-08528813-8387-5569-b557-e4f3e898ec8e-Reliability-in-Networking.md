@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/transport-layer/microskills/reliability-in-networking|Reliability in Networking]]"
+  - "[[skills/systems/networking/transport-layer/microskills/reliability-in-networking|reliability-in-networking]]"
 ---
 # Reliability in Networking: Ensuring Your Data Arrives Safely
 

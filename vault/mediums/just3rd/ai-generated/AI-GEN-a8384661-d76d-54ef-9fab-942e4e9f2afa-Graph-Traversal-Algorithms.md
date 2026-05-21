@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/graph-traversal-algorithms|Graph Traversal Algorithms]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/graph-traversal-algorithms|graph-traversal-algorithms]]"
 ---
 # Graph Traversal Algorithms
 

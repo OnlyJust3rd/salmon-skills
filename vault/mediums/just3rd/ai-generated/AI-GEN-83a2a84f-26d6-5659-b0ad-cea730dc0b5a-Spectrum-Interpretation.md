@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/spectrum-interpretation|Spectrum Interpretation]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/spectrum-interpretation|spectrum-interpretation]]"
 ---
 # Understanding the Virtuality Continuum
 

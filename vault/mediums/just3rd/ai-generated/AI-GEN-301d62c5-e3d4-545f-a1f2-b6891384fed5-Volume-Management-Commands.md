@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-management-commands|Volume Management Commands]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/volume-management-commands|volume-management-commands]]"
 ---
 # Managing Docker Volumes with Commands
 

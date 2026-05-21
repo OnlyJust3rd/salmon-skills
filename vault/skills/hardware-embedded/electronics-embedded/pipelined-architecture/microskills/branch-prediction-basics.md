@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Branch Prediction Basics"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 223 - Computer Architectures"
-parent-macro: "Pipelined Architecture"
-parent-competency: "L5- Evaluate Hazard Mitigation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/pipelined-architecture|pipelined-architecture]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-evaluate-hazard-mitigation|L3-evaluate-hazard-mitigation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Branch Prediction Basics
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/electronics-embedded/pipelined-architec
 
 Parent competency:
 
-- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L5-evaluate-hazard-mitigation|L5- Evaluate Hazard Mitigation]]
+- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-evaluate-hazard-mitigation|L5- Evaluate Hazard Mitigation]]
 
 ## Description
 

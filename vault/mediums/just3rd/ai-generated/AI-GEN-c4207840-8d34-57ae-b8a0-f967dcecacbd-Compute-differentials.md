@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/compute-differentials|Compute differentials]]"
+  - "[[skills/mathematics/derivative-computation-and-analysis/microskills/compute-differentials|compute-differentials]]"
 ---
 # Computing Differentials
 

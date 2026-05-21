@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-design-verification-mitigation|Physical Design Verification Mitigation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/physical-design-verification-mitigation|physical-design-verification-mitigation]]"
 ---
 # Mitigating Physical Design Verification Issues in Digital Circuits
 

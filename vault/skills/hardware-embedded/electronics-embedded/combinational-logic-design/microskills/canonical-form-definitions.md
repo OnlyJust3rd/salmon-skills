@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Canonical Form Definitions"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Combinational Logic Design"
-parent-competency: "L1- Recall Combinational Logic Terms"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/combinational-logic-design|combinational-logic-design]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/combinational-logic-design/competencies/L1-recall-combinational-logic-terms|L1-recall-combinational-logic-terms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Canonical Form Definitions

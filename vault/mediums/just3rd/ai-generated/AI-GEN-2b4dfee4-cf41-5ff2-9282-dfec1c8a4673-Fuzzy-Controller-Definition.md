@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/soft-computing/microskills/fuzzy-controller-definition|Fuzzy Controller Definition]]"
+  - "[[skills/data/ai/soft-computing/microskills/fuzzy-controller-definition|fuzzy-controller-definition]]"
 ---
 # Defining Fuzzy Controllers
 

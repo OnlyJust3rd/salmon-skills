@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/c-programming/microskills/variable-implementation|Variable implementation]]"
+  - "[[skills/programming/programming-languages/c-programming/microskills/variable-implementation|variable-implementation]]"
 ---
 # Variable Implementation in C
 

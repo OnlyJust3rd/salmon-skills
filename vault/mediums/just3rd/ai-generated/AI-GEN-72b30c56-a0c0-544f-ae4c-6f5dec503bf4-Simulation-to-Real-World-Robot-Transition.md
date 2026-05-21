@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-real-world-robot-transition|Simulation to Real-World Robot Transition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/evolutional-robotics/microskills/simulation-to-real-world-robot-transition|simulation-to-real-world-robot-transition]]"
 ---
 # Bridging the Gap: Simulation to Real-World Robot Transition
 

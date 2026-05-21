@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/startup-communication/microskills/business-model|Business Model]]"
+  - "[[skills/business-it/business-product/startup-communication/microskills/business-model|business-model]]"
 ---
 # The Business Model: How Your Startup Makes Money
 

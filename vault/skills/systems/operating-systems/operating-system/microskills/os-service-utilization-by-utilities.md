@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "OS Service Utilization by Utilities"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Operating System"
-parent-competency: "L3- Utility-OS Interaction"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/operating-system/operating-system|operating-system]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/operating-system/competencies/L2-utility-os-interaction|L2-utility-os-interaction]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # OS Service Utilization by Utilities
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/operating-system/operating-syst
 
 Parent competency:
 
-- [[skills/systems/operating-systems/operating-system/competencies/L3-utility-os-interaction|L3- Utility-OS Interaction]]
+- [[skills/systems/operating-systems/operating-system/competencies/L2-utility-os-interaction|L3- Utility-OS Interaction]]
 
 ## Description
 

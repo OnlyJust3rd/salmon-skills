@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/lti-system-analysis/microskills/continuous-time-convolution-definition-recall|Continuous-Time Convolution Definition Recall]]"
+  - "[[skills/mathematics/lti-system-analysis/microskills/continuous-time-convolution-definition-recall|continuous-time-convolution-definition-recall]]"
 ---
 # Continuous-Time Convolution: The Definition
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-format-definition|JSON Data Format Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/iot-cloud/microskills/json-data-format-definition|json-data-format-definition]]"
 ---
 # Understanding JSON Data Format
 

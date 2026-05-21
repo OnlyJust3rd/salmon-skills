@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Path Planning Process for Mobile Robots"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 365 - Intelligent Robot Programming"
-parent-macro: "Mobile Robot Navigation"
-parent-competency: "L2- Describe Path Planning Implementation"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/mobile-robot-navigation|mobile-robot-navigation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/competencies/L1-describe-path-planning-implementation|L1-describe-path-planning-implementation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Path Planning Process for Mobile Robots
@@ -15,7 +17,7 @@ Parent macro: [[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/mo
 
 Parent competency:
 
-- [[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/competencies/L2-describe-path-planning-implementation|L2- Describe Path Planning Implementation]]
+- [[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/competencies/L1-describe-path-planning-implementation|L2- Describe Path Planning Implementation]]
 
 ## Description
 

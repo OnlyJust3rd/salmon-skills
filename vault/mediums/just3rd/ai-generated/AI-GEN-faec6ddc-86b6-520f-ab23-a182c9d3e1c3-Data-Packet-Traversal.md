@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/data-packet-traversal|Data Packet Traversal]]"
+  - "[[skills/systems/networking/network-layer/microskills/data-packet-traversal|data-packet-traversal]]"
 ---
 # Data Packet Traversal: A Packet's Journey Through the Network
 

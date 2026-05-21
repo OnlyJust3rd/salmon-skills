@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/n-queens-problem-backtracking-java-implementation|N-Queens Problem Backtracking Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/n-queens-problem-backtracking-java-implementation|n-queens-problem-backtracking-java-implementation]]"
 ---
 # N-Queens Problem Backtracking Java Implementation
 

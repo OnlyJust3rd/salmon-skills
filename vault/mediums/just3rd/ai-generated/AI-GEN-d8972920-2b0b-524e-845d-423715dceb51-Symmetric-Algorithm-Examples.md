@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-algorithm-examples|Symmetric Algorithm Examples]]"
+  - "[[skills/programming/algorithms/algorithm-classification/microskills/symmetric-algorithm-examples|symmetric-algorithm-examples]]"
 ---
 # Symmetric Algorithm Examples
 

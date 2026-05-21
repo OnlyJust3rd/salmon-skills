@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Text Summary Generation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Summarization"
-parent-competency: "L3- Implement Text Summarization"
+  - "microskill"
+parent-skill: "[[skills/data/data-science/text-summarization/text-summarization|text-summarization]]"
+requires-in-competencies:
+  - "[[skills/data/data-science/text-summarization/competencies/L2-implement-text-summarization|L2-implement-text-summarization]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Text Summary Generation
@@ -15,7 +17,7 @@ Parent macro: [[skills/data/data-science/text-summarization/text-summarization|T
 
 Parent competency:
 
-- [[skills/data/data-science/text-summarization/competencies/L3-implement-text-summarization|L3- Implement Text Summarization]]
+- [[skills/data/data-science/text-summarization/competencies/L2-implement-text-summarization|L3- Implement Text Summarization]]
 
 ## Description
 

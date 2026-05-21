@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/logic-level-voltage-ranges|Logic Level Voltage Ranges]]"
+  - "[[skills/hardware-embedded/electronics-embedded/logic-families/microskills/logic-level-voltage-ranges|logic-level-voltage-ranges]]"
 ---
 # Logic Level Voltage Ranges
 

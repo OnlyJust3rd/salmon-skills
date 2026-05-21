@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/interaction-demonstration|Interaction Demonstration]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/interaction-demonstration|interaction-demonstration]]"
 ---
 # Demonstrating XR Interactions in a Prototype
 

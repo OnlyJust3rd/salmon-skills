@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/transport-layer/microskills/reliable-data-transfer-principles|Reliable Data Transfer Principles]]"
+  - "[[skills/systems/networking/transport-layer/microskills/reliable-data-transfer-principles|reliable-data-transfer-principles]]"
 ---
 # Reliable Data Transfer Principles
 

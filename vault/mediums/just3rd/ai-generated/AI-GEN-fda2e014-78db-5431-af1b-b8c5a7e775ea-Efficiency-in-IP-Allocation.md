@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/efficiency-in-ip-allocation|Efficiency in IP Allocation]]"
+  - "[[skills/systems/networking/network-layer/microskills/efficiency-in-ip-allocation|efficiency-in-ip-allocation]]"
 ---
 # Efficiency in IP Allocation: The Advantages of Subnetting
 

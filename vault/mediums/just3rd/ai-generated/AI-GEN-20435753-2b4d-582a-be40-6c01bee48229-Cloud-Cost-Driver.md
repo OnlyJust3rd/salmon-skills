@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/cloud-cost-driver|Cloud Cost Driver]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/microskills/cloud-cost-driver|cloud-cost-driver]]"
 ---
 # Cloud Cost Drivers: Usage-Based Pricing
 

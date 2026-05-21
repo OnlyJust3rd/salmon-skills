@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/measurement-of-electrical-properties|Measurement of Electrical Properties]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/measurement-of-electrical-properties|measurement-of-electrical-properties]]"
 ---
 # Understanding How Equipment Measures Electrical Properties
 

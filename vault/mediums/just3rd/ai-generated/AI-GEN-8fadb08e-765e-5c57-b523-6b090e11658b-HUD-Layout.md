@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-ui/microskills/hud-layout|HUD Layout]]"
+  - "[[skills/creative-media/game-development/game-ui/microskills/hud-layout|hud-layout]]"
 ---
 # HUD Layout: Arranging Gameplay Information
 

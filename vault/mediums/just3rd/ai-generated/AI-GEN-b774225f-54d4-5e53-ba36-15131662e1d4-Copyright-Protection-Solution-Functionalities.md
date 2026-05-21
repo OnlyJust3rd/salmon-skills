@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-solution-functionalities|Copyright Protection Solution Functionalities]]"
+  - "[[skills/security/cybersecurity/copyright-protection/microskills/copyright-protection-solution-functionalities|copyright-protection-solution-functionalities]]"
 ---
 # Copyright Protection Solution Functionalities
 

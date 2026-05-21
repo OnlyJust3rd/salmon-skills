@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/rectangular-to-polar-conversion-formulas|Rectangular to polar conversion formulas]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/rectangular-to-polar-conversion-formulas|rectangular-to-polar-conversion-formulas]]"
 ---
 # Rectangular to Polar Coordinate Conversion Formulas
 

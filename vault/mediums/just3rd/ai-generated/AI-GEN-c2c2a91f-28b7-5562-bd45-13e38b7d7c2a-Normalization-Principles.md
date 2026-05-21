@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/relational-database/microskills/normalization-principles|Normalization Principles]]"
+  - "[[skills/data/databases/relational-database/microskills/normalization-principles|normalization-principles]]"
 ---
 # Understanding Database Normalization Principles
 

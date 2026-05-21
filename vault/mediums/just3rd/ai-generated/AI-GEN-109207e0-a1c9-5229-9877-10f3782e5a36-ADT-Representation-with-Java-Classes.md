@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/adt-representation-with-java-classes|ADT Representation with Java Classes]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/adt-representation-with-java-classes|adt-representation-with-java-classes]]"
 ---
 # Representing Abstract Data Types (ADTs) with Java Classes
 

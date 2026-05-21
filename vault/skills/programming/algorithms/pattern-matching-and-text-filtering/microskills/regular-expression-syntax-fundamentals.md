@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Regular Expression Syntax Fundamentals"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Pattern Matching and Text Filtering"
-parent-competency: "L2- RegEx Syntax and Pattern Matching"
+  - "microskill"
+parent-skill: "[[skills/programming/algorithms/pattern-matching-and-text-filtering/pattern-matching-and-text-filtering|pattern-matching-and-text-filtering]]"
+requires-in-competencies:
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L1-regex-syntax-and-pattern-matching|L1-regex-syntax-and-pattern-matching]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Regular Expression Syntax Fundamentals
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/algorithms/pattern-matching-and-text-filterin
 
 Parent competency:
 
-- [[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L2-regex-syntax-and-pattern-matching|L2- RegEx Syntax and Pattern Matching]]
+- [[skills/programming/algorithms/pattern-matching-and-text-filtering/competencies/L1-regex-syntax-and-pattern-matching|L2- RegEx Syntax and Pattern Matching]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-benefits|Encapsulation Benefits]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/encapsulation-benefits|encapsulation-benefits]]"
 ---
 # Understanding Encapsulation Benefits
 

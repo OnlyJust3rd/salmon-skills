@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "No Preemption Condition"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Deadlock Management"
-parent-competency: "L1- Deadlock Conditions"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/deadlock-management/deadlock-management|deadlock-management]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/deadlock-management/competencies/L1-deadlock-conditions|L1-deadlock-conditions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # No Preemption Condition

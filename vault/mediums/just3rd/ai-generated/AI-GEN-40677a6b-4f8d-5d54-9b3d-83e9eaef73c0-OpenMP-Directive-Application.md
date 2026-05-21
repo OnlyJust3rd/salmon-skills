@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/openmp/microskills/openmp-directive-application|OpenMP Directive Application]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/openmp-directive-application|openmp-directive-application]]"
 ---
 # Applying OpenMP Directives for Parallelism
 

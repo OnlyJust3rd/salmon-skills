@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/latin-squares-application|Latin Squares Application]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/latin-squares-application|latin-squares-application]]"
 ---
 # Applying Latin Squares to Mitigate Experimental Effects
 

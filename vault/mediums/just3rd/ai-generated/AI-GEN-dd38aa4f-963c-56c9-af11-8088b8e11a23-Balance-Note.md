@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-testing/microskills/balance-note|Balance Note]]"
+  - "[[skills/creative-media/game-development/game-testing/microskills/balance-note|balance-note]]"
 ---
 # Documenting Balance Notes in Game Testing
 

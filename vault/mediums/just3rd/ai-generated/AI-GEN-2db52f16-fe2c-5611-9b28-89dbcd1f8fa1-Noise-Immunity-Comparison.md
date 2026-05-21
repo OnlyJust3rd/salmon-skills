@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/noise-immunity-comparison|Noise Immunity Comparison]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/microskills/noise-immunity-comparison|noise-immunity-comparison]]"
 ---
 # Evaluating Noise Immunity of Communication Protocols
 

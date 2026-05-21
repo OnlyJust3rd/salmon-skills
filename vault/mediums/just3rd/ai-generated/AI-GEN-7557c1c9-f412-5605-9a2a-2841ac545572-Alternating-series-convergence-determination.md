@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/alternating-series-convergence-determination|Alternating series convergence determination]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/alternating-series-convergence-determination|alternating-series-convergence-determination]]"
 ---
 # Applying the Alternating Series Test
 

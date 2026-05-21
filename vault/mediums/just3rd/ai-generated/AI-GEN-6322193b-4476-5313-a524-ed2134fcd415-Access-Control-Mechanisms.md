@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/access-control/microskills/access-control-mechanisms|Access Control Mechanisms]]"
+  - "[[skills/security/cybersecurity/access-control/microskills/access-control-mechanisms|access-control-mechanisms]]"
 ---
 # Understanding Access Control Mechanisms
 

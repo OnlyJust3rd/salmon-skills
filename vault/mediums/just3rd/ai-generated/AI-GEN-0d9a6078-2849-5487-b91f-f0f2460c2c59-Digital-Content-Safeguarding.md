@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/digital-content-safeguarding|Digital Content Safeguarding]]"
+  - "[[skills/security/cybersecurity/digital-rights-management-systems/microskills/digital-content-safeguarding|digital-content-safeguarding]]"
 ---
 # Digital Content Safeguarding: How DRM Protects Your Media
 

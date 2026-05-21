@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/memory-and-attention|Memory and Attention]]"
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/microskills/memory-and-attention|memory-and-attention]]"
 ---
 # Memory and Attention: The Building Blocks of HCI
 

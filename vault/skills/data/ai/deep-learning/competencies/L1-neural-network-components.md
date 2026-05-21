@@ -1,17 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Neural Network Components"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 342 - Machine Learning"
-parent-macro: "Deep Learning"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/ai/deep-learning/deep-learning|deep-learning]]"
+requires-microskills:
+  - "[[skills/data/ai/deep-learning/microskills/activation-function-identification|activation-function-identification]]"
+  - "[[skills/data/ai/deep-learning/microskills/convolutional-kernel-understanding|convolutional-kernel-understanding]]"
+  - "[[skills/data/ai/deep-learning/microskills/layer-types|layer-types]]"
+  - "[[skills/data/ai/deep-learning/microskills/neuron-definition|neuron-definition]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Neural Network Components

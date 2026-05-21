@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/displaying-geometric-primitives|Displaying Geometric Primitives]]"
+  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/displaying-geometric-primitives|displaying-geometric-primitives]]"
 ---
 # Displaying Geometric Primitives
 

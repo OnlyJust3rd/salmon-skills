@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/databases/mysql/microskills/table-creation-statements|Table Creation Statements]]"
+  - "[[skills/data/databases/mysql/microskills/table-creation-statements|table-creation-statements]]"
 ---
 # Creating Tables in MySQL with `CREATE TABLE`
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics|Objective Watermarking Metrics]]"
+  - "[[skills/security/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics|objective-watermarking-metrics]]"
 ---
 # Objective Watermarking Metrics
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/vector/microskills/vector-operations-for-line-relationship-assessment|Vector operations for line relationship assessment]]"
+  - "[[skills/mathematics/vector/microskills/vector-operations-for-line-relationship-assessment|vector-operations-for-line-relationship-assessment]]"
 ---
 # Using Vector Operations to Determine Line Relationships
 

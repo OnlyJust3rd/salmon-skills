@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and Identify Data Structures and Concepts"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 112 - Programming with Data Structures"
-parent-macro: "Data Structure Principles"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Computational Problem Solving"
+  - "[[skills/programming/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/programming/data-structures/data-structure-principles/data-structure-principles|data-structure-principles]]"
+requires-microskills:
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/common-data-structure-identification|common-data-structure-identification]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-classifications|data-structure-classifications]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-definitions|data-structure-definitions]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/memory-management-concepts|memory-management-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and Identify Data Structures and Concepts

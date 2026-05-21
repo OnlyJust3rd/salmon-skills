@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-management/microskills/practical-implementation-in-soho|Practical Implementation in SOHO]]"
+  - "[[skills/systems/networking/network-management/microskills/practical-implementation-in-soho|practical-implementation-in-soho]]"
 ---
 # Implementing Network Management in Your Home or Small Office (SOHO)
 

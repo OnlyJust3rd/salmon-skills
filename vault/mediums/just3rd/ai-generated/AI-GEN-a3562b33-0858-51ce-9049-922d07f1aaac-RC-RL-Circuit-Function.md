@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/rc-rl-circuit-function|RC/RL Circuit Function]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/rc-rl-circuit-function|rc-rl-circuit-function]]"
 ---
 # Understanding RC and RL Circuit Function
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/uart-communication-features|UART Communication Features]]"
+  - "[[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/microskills/uart-communication-features|uart-communication-features]]"
 ---
 # UART Communication: Optimizing Settings for Serial Data Transmission
 

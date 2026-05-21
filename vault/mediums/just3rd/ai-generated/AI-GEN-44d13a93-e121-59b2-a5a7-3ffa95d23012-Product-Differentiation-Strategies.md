@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/product-differentiation-strategies|Product Differentiation Strategies]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/product-differentiation-strategies|product-differentiation-strategies]]"
 ---
 # Understanding Product Differentiation Strategies
 

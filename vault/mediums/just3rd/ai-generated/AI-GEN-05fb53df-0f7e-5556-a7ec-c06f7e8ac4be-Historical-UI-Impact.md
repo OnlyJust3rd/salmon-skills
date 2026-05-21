@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/historical-ui-impact|Historical UI Impact]]"
+  - "[[skills/web-and-design/frontend-ux/human-computer-interaction/microskills/historical-ui-impact|historical-ui-impact]]"
 ---
 # The Echoes of the Past: How Old Interfaces Shape Today's User Experience
 

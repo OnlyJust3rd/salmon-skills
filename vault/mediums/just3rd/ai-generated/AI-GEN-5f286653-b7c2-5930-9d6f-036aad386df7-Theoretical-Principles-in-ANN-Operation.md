@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/ai/artificial-neural-network/microskills/theoretical-principles-in-ann-operation|Theoretical Principles in ANN Operation]]"
+  - "[[skills/data/ai/artificial-neural-network/microskills/theoretical-principles-in-ann-operation|theoretical-principles-in-ann-operation]]"
 ---
 # Understanding the Theoretical Principles in ANN Operation
 

@@ -1,17 +1,41 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Symmetric Cipher Operations"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 5
-microskill-count: 20
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/n-a-cryptographic-techniques-for-multimedia-communication"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-explain-block-cipher-processes|L1-explain-block-cipher-processes]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-explain-lfsr-keystream-generation|L1-explain-lfsr-keystream-generation]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-understand-stream-cipher-mechanics|L1-understand-stream-cipher-mechanics]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-apply-subbytes-and-shiftrows|L2-apply-subbytes-and-shiftrows]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L3-analyze-block-cipher-operations|L3-analyze-block-cipher-operations]]"
+standard-competency:
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-apply-subbytes-and-shiftrows|L2-apply-subbytes-and-shiftrows]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L3-analyze-block-cipher-operations|L3-analyze-block-cipher-operations]]"
+microskills:
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/addroundkey-functionality|addroundkey-functionality]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/aes-operations-analysis|aes-operations-analysis]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/bit-stream-generator-combination|bit-stream-generator-combination]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-internal-processes|block-cipher-internal-processes]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-transformation-flow|block-cipher-transformation-flow]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/combined-effect-of-block-cipher-operations|combined-effect-of-block-cipher-operations]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/des-operations-analysis|des-operations-analysis]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/geffe-generator-mechanics|geffe-generator-mechanics]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/idea-operations-analysis|idea-operations-analysis]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/lfsr-definition-recall|lfsr-definition-recall]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/linear-feedback-shift-register-lfsr-mechanics|linear-feedback-shift-register-lfsr-mechanics]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/mixcolumns-functionality|mixcolumns-functionality]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-key-features|one-time-pad-key-features]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-operation|one-time-pad-operation]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/pseudorandom-keystream-generation|pseudorandom-keystream-generation]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-functionality|shiftrows-functionality]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-operation-application|shiftrows-operation-application]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/simplified-block-cipher-operation|simplified-block-cipher-operation]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/subbytes-functionality|subbytes-functionality]]"
+  - "[[skills/security/cybersecurity/symmetric-cipher-operations/microskills/subbytes-operation-application|subbytes-operation-application]]"
 ---
 
 # Symmetric Cipher Operations
@@ -20,11 +44,11 @@ Analyzing the step-by-step operations of modern block ciphers like DES, IDEA, an
 
 ## Competencies
 
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-explain-block-cipher-processes|L2- Explain Block Cipher Processes]]
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L3-apply-subbytes-and-shiftrows|L3- Apply SubBytes and ShiftRows]]
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L4-analyze-block-cipher-operations|L4- Analyze Block Cipher Operations]]
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-explain-lfsr-keystream-generation|L2- Explain LFSR Keystream Generation]]
-- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-understand-stream-cipher-mechanics|L2- Understand Stream Cipher Mechanics]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-explain-block-cipher-processes|L2- Explain Block Cipher Processes]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L2-apply-subbytes-and-shiftrows|L3- Apply SubBytes and ShiftRows]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L3-analyze-block-cipher-operations|L4- Analyze Block Cipher Operations]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-explain-lfsr-keystream-generation|L2- Explain LFSR Keystream Generation]]
+- [[skills/security/cybersecurity/symmetric-cipher-operations/competencies/L1-understand-stream-cipher-mechanics|L2- Understand Stream Cipher Mechanics]]
 
 ## Microskills
 

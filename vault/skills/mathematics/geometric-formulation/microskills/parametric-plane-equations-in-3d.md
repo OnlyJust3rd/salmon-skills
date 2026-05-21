@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Parametric plane equations in 3D"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "MTH 102 - Mathematics II"
-parent-macro: "Geometric Formulation"
-parent-competency: "L3- Line and plane equation formulation"
+  - "microskill"
+parent-skill: "[[skills/mathematics/geometric-formulation/geometric-formulation|geometric-formulation]]"
+requires-in-competencies:
+  - "[[skills/mathematics/geometric-formulation/competencies/L2-line-and-plane-equation-formulation|L2-line-and-plane-equation-formulation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Parametric plane equations in 3D
@@ -15,7 +17,7 @@ Parent macro: [[geometric-formulation|Geometric Formulation]]
 
 Parent competency:
 
-- [[L3-line-and-plane-equation-formulation|L3- Line and plane equation formulation]]
+- [[skills/mathematics/geometric-formulation/competencies/L2-line-and-plane-equation-formulation|L3- Line and plane equation formulation]]
 
 ## Description
 

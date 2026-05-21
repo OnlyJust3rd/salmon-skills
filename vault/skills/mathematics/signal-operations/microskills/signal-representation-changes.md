@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Signal Representation Changes"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 313 - Signals and Linear Systems"
-parent-macro: "Signal Operations"
-parent-competency: "L2- Describe Signal Transformations"
+  - "microskill"
+parent-skill: "[[skills/mathematics/signal-operations/signal-operations|signal-operations]]"
+requires-in-competencies:
+  - "[[skills/mathematics/signal-operations/competencies/L1-describe-signal-transformations|L1-describe-signal-transformations]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Signal Representation Changes
@@ -15,7 +17,7 @@ Parent macro: [[signal-operations|Signal Operations]]
 
 Parent competency:
 
-- [[L2-describe-signal-transformations|L2- Describe Signal Transformations]]
+- [[skills/mathematics/signal-operations/competencies/L1-describe-signal-transformations|L2- Describe Signal Transformations]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/speech-security-mechanism-comparison|Speech Security Mechanism Comparison]]"
+  - "[[skills/security/cybersecurity/speech-security-assessment/microskills/speech-security-mechanism-comparison|speech-security-mechanism-comparison]]"
 ---
 # Speech Security Mechanism Comparison
 

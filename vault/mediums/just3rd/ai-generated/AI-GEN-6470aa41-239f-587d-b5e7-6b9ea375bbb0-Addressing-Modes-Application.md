@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/addressing-modes-application|Addressing Modes Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/addressing-modes-application|addressing-modes-application]]"
 ---
 # Applying Addressing Modes in Assembly Programming
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/product-strategy/microskills/prioritization-criteria|Prioritization Criteria]]"
+  - "[[skills/business-it/business-product/product-strategy/microskills/prioritization-criteria|prioritization-criteria]]"
 ---
 # Defining and Using Prioritization Criteria
 

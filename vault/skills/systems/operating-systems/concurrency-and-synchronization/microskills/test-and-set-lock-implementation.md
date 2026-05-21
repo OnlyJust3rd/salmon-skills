@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Test-and-Set Lock Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 333 - Operating Systems"
-parent-macro: "Concurrency and Synchronization"
-parent-competency: "L3- Apply Lock to Critical Section"
+  - "microskill"
+parent-skill: "[[skills/systems/operating-systems/concurrency-and-synchronization/concurrency-and-synchronization|concurrency-and-synchronization]]"
+requires-in-competencies:
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L2-apply-lock-to-critical-section|L2-apply-lock-to-critical-section]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Test-and-Set Lock Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/systems/operating-systems/concurrency-and-synchronization
 
 Parent competency:
 
-- [[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L3-apply-lock-to-critical-section|L3- Apply Lock to Critical Section]]
+- [[skills/systems/operating-systems/concurrency-and-synchronization/competencies/L2-apply-lock-to-critical-section|L3- Apply Lock to Critical Section]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-automation-principles|Declarative Automation Principles]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/declarative-automation-principles|declarative-automation-principles]]"
 ---
 # Declarative Automation Principles
 

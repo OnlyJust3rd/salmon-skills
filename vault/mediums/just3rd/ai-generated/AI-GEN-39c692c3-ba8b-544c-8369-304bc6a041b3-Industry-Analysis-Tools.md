@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/competitor-analysis/microskills/industry-analysis-tools|Industry Analysis Tools]]"
+  - "[[skills/business-it/business-product/competitor-analysis/microskills/industry-analysis-tools|industry-analysis-tools]]"
 ---
 # Industry Analysis Tools for Competitor Identification
 

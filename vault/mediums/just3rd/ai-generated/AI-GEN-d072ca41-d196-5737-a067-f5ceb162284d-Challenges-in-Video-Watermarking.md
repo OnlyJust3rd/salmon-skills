@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/challenges-in-video-watermarking|Challenges in Video Watermarking]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/challenges-in-video-watermarking|challenges-in-video-watermarking]]"
 ---
 # Challenges in Video Watermarking
 

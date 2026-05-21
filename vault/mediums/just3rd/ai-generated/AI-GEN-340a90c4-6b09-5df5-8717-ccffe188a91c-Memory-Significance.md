@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/memory-significance|Memory Significance]]"
+  - "[[skills/cloud-devops/platform-engineering/system-monitoring/microskills/memory-significance|memory-significance]]"
 ---
 # Understanding Memory Significance
 

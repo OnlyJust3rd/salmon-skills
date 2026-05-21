@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-availability-across-containers|Data Availability Across Containers]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/data-availability-across-containers|data-availability-across-containers]]"
 ---
 # Sharing Docker Volumes for Data Availability
 

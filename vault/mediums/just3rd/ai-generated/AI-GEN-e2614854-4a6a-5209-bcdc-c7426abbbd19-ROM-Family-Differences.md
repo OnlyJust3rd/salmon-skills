@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/rom-family-differences|ROM Family Differences]]"
+  - "[[skills/hardware-embedded/electronics-embedded/sequential-logic-design/microskills/rom-family-differences|rom-family-differences]]"
 ---
 # ROM Family: From Permanent to Programmable
 

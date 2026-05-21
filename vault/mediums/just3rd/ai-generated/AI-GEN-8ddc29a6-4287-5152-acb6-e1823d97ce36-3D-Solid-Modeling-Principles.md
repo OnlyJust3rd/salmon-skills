@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/design-fabrication/cad-design/microskills/3d-solid-modeling-principles|3D Solid Modeling Principles]]"
+  - "[[skills/creative-media/design-fabrication/cad-design/microskills/3d-solid-modeling-principles|3d-solid-modeling-principles]]"
 ---
 # Understanding 3D Solid Modeling Principles
 

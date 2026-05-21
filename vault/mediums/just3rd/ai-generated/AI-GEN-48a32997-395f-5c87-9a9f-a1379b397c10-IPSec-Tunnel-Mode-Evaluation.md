@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-evaluation|IPSec Tunnel Mode Evaluation]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-evaluation|ipsec-tunnel-mode-evaluation]]"
 ---
 # Evaluating IPSec Tunnel Mode Effectiveness
 

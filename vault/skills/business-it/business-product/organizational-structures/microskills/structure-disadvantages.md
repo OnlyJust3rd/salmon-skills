@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Structure Disadvantages"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-parent-macro: "Organizational Structures"
-parent-competency: "L2- Characteristics and Pros/Cons of Structures"
+  - "microskill"
+parent-skill: "[[skills/business-it/business-product/organizational-structures/organizational-structures|organizational-structures]]"
+requires-in-competencies:
+  - "[[skills/business-it/business-product/organizational-structures/competencies/L1-characteristics-and-pros-cons-of-structures|L1-characteristics-and-pros-cons-of-structures]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Structure Disadvantages
@@ -15,7 +17,7 @@ Parent macro: [[skills/business-it/business-product/organizational-structures/or
 
 Parent competency:
 
-- [[skills/business-it/business-product/organizational-structures/competencies/L2-characteristics-and-pros-cons-of-structures|L2- Characteristics and Pros/Cons of Structures]]
+- [[skills/business-it/business-product/organizational-structures/competencies/L1-characteristics-and-pros-cons-of-structures|L2- Characteristics and Pros/Cons of Structures]]
 
 ## Description
 

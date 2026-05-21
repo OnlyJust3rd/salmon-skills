@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/condition-variable-operations|Condition Variable Operations]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/condition-variable-operations|condition-variable-operations]]"
 ---
 # Understanding Condition Variables
 

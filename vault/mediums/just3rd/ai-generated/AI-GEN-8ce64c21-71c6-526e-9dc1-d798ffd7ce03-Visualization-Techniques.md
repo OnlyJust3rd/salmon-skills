@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/python/microskills/visualization-techniques|Visualization Techniques]]"
+  - "[[skills/programming/programming-languages/python/microskills/visualization-techniques|visualization-techniques]]"
 ---
 # Applying Various Visualization Techniques with Matplotlib
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/watermark-signal-generation|Watermark Signal Generation]]"
+  - "[[skills/security/cybersecurity/cryptography-for-digital-media-protection/microskills/watermark-signal-generation|watermark-signal-generation]]"
 ---
 # Watermark Signal Generation using Hashing
 

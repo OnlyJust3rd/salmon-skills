@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/virtuality-continuum-concept|Virtuality Continuum Concept]]"
+  - "[[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/microskills/virtuality-continuum-concept|virtuality-continuum-concept]]"
 ---
 # Understanding the Virtuality Continuum
 

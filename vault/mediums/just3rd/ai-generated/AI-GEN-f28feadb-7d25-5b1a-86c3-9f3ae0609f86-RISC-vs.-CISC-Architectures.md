@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/risc-vs-cisc-architectures|RISC vs. CISC Architectures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/risc-vs-cisc-architectures|risc-vs-cisc-architectures]]"
 ---
 # RISC vs. CISC Architectures
 

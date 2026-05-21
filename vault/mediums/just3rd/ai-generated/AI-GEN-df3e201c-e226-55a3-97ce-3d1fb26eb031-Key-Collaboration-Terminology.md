@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/key-collaboration-terminology|Key Collaboration Terminology]]"
+  - "[[skills/engineering/engineering-practices/team-collaboration/microskills/key-collaboration-terminology|key-collaboration-terminology]]"
 ---
 # Key Collaboration Terminology
 

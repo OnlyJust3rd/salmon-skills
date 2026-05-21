@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-properties|Data Structure Properties]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-properties|data-structure-properties]]"
 ---
 # Data Structure Properties
 

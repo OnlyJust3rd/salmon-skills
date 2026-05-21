@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/vulnerability-assessment/microskills/remediation-priority|Remediation Priority]]"
+  - "[[skills/security/cybersecurity/vulnerability-assessment/microskills/remediation-priority|remediation-priority]]"
 ---
 # Prioritizing Your Fixes: Understanding Remediation Priority
 

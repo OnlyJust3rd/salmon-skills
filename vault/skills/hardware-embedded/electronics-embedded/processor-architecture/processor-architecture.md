@@ -1,16 +1,41 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Processor Architecture"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 223 - Computer Architectures"
-coverage:
-  - "Concept"
-competency-count: 5
-microskill-count: 19
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-223-computer-architectures"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L1-define-architectures|L1-define-architectures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L1-explain-uma-numa|L1-explain-uma-numa]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L2-identify-and-illustrate-architectures|L2-identify-and-illustrate-architectures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L3-analyze-mpp-cluster-vector|L3-analyze-mpp-cluster-vector]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L3-analyze-specialized-processors|L3-analyze-specialized-processors]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L2-identify-and-illustrate-architectures|L2-identify-and-illustrate-architectures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L3-analyze-mpp-cluster-vector|L3-analyze-mpp-cluster-vector]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L3-analyze-specialized-processors|L3-analyze-specialized-processors]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-identification|cluster-computing-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-operational-analysis|cluster-computing-operational-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cluster-computing-structural-analysis|cluster-computing-structural-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/cpu-vs-gpu-workload-fit|cpu-vs-gpu-workload-fit]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/dsp-workload-fit|dsp-workload-fit]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/heterogeneous-processor-architecture-definition|heterogeneous-processor-architecture-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/homogeneous-processor-architecture-definition|homogeneous-processor-architecture-definition]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/massively-parallel-processing-mpp-system-identification|massively-parallel-processing-mpp-system-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/mpp-system-operational-analysis|mpp-system-operational-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/mpp-system-structural-analysis|mpp-system-structural-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/mpp-vs-cluster-vs-vector-processor-differentiation|mpp-vs-cluster-vs-vector-processor-differentiation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/multi-core-processor-system-identification|multi-core-processor-system-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/non-uniform-memory-access-numa-principles|non-uniform-memory-access-numa-principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-identification|specialized-vector-processor-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-operational-analysis|specialized-vector-processor-operational-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/specialized-vector-processor-structural-analysis|specialized-vector-processor-structural-analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/symmetric-multiprocessing-smp-identification|symmetric-multiprocessing-smp-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/uniform-memory-access-uma-principles|uniform-memory-access-uma-principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/processor-architecture/microskills/vector-processor-workload-fit|vector-processor-workload-fit]]"
 ---
 
 # Processor Architecture
@@ -20,10 +45,10 @@ Comparing and contrasting homogeneous and heterogeneous processor architectures,
 ## Competencies
 
 - [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L1-define-architectures|L1- Define Architectures]]
-- [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L2-explain-uma-numa|L2- Explain UMA/NUMA]]
-- [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L3-identify-and-illustrate-architectures|L3- Identify and Illustrate Architectures]]
-- [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L4-analyze-specialized-processors|L4- Analyze Specialized Processors]]
-- [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L4-analyze-mpp-cluster-vector|L4- Analyze MPP/Cluster/Vector]]
+- [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L1-explain-uma-numa|L2- Explain UMA/NUMA]]
+- [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L2-identify-and-illustrate-architectures|L3- Identify and Illustrate Architectures]]
+- [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L3-analyze-specialized-processors|L4- Analyze Specialized Processors]]
+- [[skills/hardware-embedded/electronics-embedded/processor-architecture/competencies/L3-analyze-mpp-cluster-vector|L4- Analyze MPP/Cluster/Vector]]
 
 ## Microskills
 

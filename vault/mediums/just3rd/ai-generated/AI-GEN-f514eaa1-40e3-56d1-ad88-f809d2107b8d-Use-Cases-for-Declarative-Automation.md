@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/use-cases-for-declarative-automation|Use Cases for Declarative Automation]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/use-cases-for-declarative-automation|use-cases-for-declarative-automation]]"
 ---
 # Use Cases for Declarative Automation in Infrastructure as Code
 

@@ -1,17 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Microcontroller Interfacing"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 223 - Computer Architectures"
-coverage:
-  - "Implementation"
-competency-count: 1
-microskill-count: 3
-related-jobs:
-  - "Embedded Systems Engineer"
-source-note: "courses/kmutt/cpe-2021/cpe-223-computer-architectures"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/competencies/L2-physical-device-interfacing|L2-physical-device-interfacing]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/competencies/L2-physical-device-interfacing|L2-physical-device-interfacing]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/microskills/applied-interfacing-knowledge|applied-interfacing-knowledge]]"
+  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/microskills/microcomputer-interfacing-with-physical-devices|microcomputer-interfacing-with-physical-devices]]"
+  - "[[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/microskills/microprocessor-interfacing-with-physical-devices|microprocessor-interfacing-with-physical-devices]]"
 ---
 
 # Microcontroller Interfacing
@@ -20,7 +22,7 @@ Applying theoretical knowledge to successfully demonstrate microcomputer and mic
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/competencies/L3-physical-device-interfacing|L3- Physical Device Interfacing]]
+- [[skills/hardware-embedded/electronics-embedded/microcontroller-interfacing/competencies/L2-physical-device-interfacing|L3- Physical Device Interfacing]]
 
 ## Microskills
 

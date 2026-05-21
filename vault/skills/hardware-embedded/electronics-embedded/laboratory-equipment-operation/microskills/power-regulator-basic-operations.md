@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Power Regulator Basic Operations"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "Laboratory Equipment Operation"
-parent-competency: "L1- Identify Lab Equipment Functions"
+  - "microskill"
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/laboratory-equipment-operation|laboratory-equipment-operation]]"
+requires-in-competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/competencies/L1-identify-lab-equipment-functions|L1-identify-lab-equipment-functions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Power Regulator Basic Operations

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/critical-section-identification|Critical Section Identification]]"
+  - "[[skills/systems/operating-systems/concurrency-and-synchronization/microskills/critical-section-identification|critical-section-identification]]"
 ---
 # Identifying Critical Sections
 

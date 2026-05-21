@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|Speedup Definition]]"
+  - "[[skills/systems/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|speedup-definition]]"
 ---
 # Speedup Definition
 

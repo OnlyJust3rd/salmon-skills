@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Conceptual vs. Concrete Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Interactive System Development"
-parent-competency: "L4- Differentiate Design & Steps"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/interactive-system-development/interactive-system-development|interactive-system-development]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L3-differentiate-design-steps|L3-differentiate-design-steps]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Conceptual vs. Concrete Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/interactive-system-development
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L4-differentiate-design-steps|L4- Differentiate Design & Steps]]
+- [[skills/web-and-design/frontend-ux/interactive-system-development/competencies/L3-differentiate-design-steps|L4- Differentiate Design & Steps]]
 
 ## Description
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/taxable-income-definition|Taxable Income Definition]]"
+  - "[[skills/business-it/business-product/income-tax-fundamentals/microskills/taxable-income-definition|taxable-income-definition]]"
 ---
 # Defining Taxable Income
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/trade-off-reasoning|Trade-off Reasoning]]"
+  - "[[skills/programming/algorithms/computational-complexity-analysis/microskills/trade-off-reasoning|trade-off-reasoning]]"
 ---
 # Trade-off Reasoning: Balancing Time and Space
 

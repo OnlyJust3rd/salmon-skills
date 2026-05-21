@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/macro-definitions-for-register-access|Macro Definitions for Register Access]]"
+  - "[[skills/programming/programming-languages/bare-metal-c-programming/microskills/macro-definitions-for-register-access|macro-definitions-for-register-access]]"
 ---
 # Macro Definitions for Readable Register Access
 

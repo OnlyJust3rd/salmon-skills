@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/created-container-state|Created Container State]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/created-container-state|created-container-state]]"
 ---
 # Docker: The "Created" Container State
 

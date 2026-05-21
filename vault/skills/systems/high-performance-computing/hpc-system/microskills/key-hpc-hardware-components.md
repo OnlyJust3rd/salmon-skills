@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Key HPC Hardware Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "HPC System"
-parent-competency: "L1- HPC System Components"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/hpc-system/hpc-system|hpc-system]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/hpc-system/competencies/L1-hpc-system-components|L1-hpc-system-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Key HPC Hardware Components

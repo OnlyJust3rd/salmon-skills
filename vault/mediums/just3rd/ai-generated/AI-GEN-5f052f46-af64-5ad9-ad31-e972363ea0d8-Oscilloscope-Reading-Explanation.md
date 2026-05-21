@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-reading-explanation|Oscilloscope Reading Explanation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-reading-explanation|oscilloscope-reading-explanation]]"
 ---
 # Understanding Oscilloscope Readings
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Prototyping Part Design"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE101 - Computer Engineering Exploration"
-parent-macro: "CAD Design"
-parent-competency: "L3- Design Basic Components for Prototyping"
+  - "microskill"
+parent-skill: "[[skills/creative-media/design-fabrication/cad-design/cad-design|cad-design]]"
+requires-in-competencies:
+  - "[[skills/creative-media/design-fabrication/cad-design/competencies/L2-design-basic-components-for-prototyping|L2-design-basic-components-for-prototyping]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Prototyping Part Design
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/design-fabrication/cad-design/cad-design|C
 
 Parent competency:
 
-- [[skills/creative-media/design-fabrication/cad-design/competencies/L3-design-basic-components-for-prototyping|L3- Design Basic Components for Prototyping]]
+- [[skills/creative-media/design-fabrication/cad-design/competencies/L2-design-basic-components-for-prototyping|L3- Design Basic Components for Prototyping]]
 
 ## Description
 

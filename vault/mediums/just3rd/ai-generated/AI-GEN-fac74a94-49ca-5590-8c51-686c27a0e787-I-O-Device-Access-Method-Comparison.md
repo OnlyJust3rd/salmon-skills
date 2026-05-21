@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/i-o-device-access-method-comparison|I/O Device Access Method Comparison]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/i-o-device-access-method-comparison|i-o-device-access-method-comparison]]"
 ---
 # Comparing I/O Device Access Methods
 

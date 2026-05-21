@@ -1,21 +1,23 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Business Process Modeling"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - Thailand IT job support skills"
-coverage:
-  - "Concept"
-  - "Representation"
-competency-count: 2
-microskill-count: 6
-related-jobs:
-  - "System Analyst"
-  - "Business Analyst"
-  - "ERP Consultant"
-  - "SAP Consultant"
-  - "Technical Consultant"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/programming/software-engineering/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L1-explain-business-process-modeling-concepts]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L2-apply-bpmn-process-modeling]]"
+standard-competency:
+  - "[[skills/programming/software-engineering/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L2-apply-bpmn-process-modeling]]"
+microskills:
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/activity|activity]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/bpmn-event|bpmn-event]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/decision-point|decision-point]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/gateway|gateway]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/process-boundary|process-boundary]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/swimlane|swimlane]]"
 ---
 
 # Business Process Modeling
@@ -24,8 +26,8 @@ Representing organizational workflows, roles, decisions, and system interactions
 
 ## Competencies
 
-- [[skills/programming/software-engineering/business-process-modeling/competencies/L2-explain-business-process-modeling-concepts|L2- Explain Business Process Modeling Concepts]]
-- [[skills/programming/software-engineering/business-process-modeling/competencies/L3-apply-bpmn-process-modeling|L3- Apply BPMN Process Modeling]]
+- [[skills/programming/software-engineering/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L2- Explain Business Process Modeling Concepts]]
+- [[skills/programming/software-engineering/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L3- Apply BPMN Process Modeling]]
 
 ## Microskills
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/esg-pillars-definition|ESG Pillars Definition]]"
+  - "[[skills/business-it/business-product/sustainability-and-esg-frameworks/microskills/esg-pillars-definition|esg-pillars-definition]]"
 ---
 # Understanding the ESG Pillars: Environmental, Social, and Governance
 

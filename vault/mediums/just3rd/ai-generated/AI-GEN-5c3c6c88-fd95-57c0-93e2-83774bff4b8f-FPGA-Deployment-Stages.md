@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/fpga-deployment-stages|FPGA Deployment Stages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/fpga-deployment-stages|fpga-deployment-stages]]"
 ---
 # Understanding FPGA Deployment Stages
 

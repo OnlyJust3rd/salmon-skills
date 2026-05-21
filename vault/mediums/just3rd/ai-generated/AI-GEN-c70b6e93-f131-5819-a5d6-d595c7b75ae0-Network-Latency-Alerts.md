@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/network-latency-alerts|Network Latency Alerts]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-alert/microskills/network-latency-alerts|network-latency-alerts]]"
 ---
 # Network Latency Alerts
 

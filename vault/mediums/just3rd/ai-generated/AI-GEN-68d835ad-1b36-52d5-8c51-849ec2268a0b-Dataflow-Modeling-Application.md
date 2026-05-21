@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/dataflow-modeling-application|Dataflow Modeling Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/microskills/dataflow-modeling-application|dataflow-modeling-application]]"
 ---
 # Applying Dataflow Modeling in Verilog HDL
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-version-control/microskills/git-change-tracking|Git Change Tracking]]"
+  - "[[skills/programming/software-engineering/software-version-control/microskills/git-change-tracking|git-change-tracking]]"
 ---
 # Tracking Changes with Git
 

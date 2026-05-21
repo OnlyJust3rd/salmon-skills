@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Lists and keys"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "React"
-parent-competency: "L2- Explain React Rendering and Hooks"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/react/react|react]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/react/competencies/L1-explain-react-rendering-and-hooks|L1-explain-react-rendering-and-hooks]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Lists and keys
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/react/react|React]]
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/react/competencies/L2-explain-react-rendering-and-hooks|L2- Explain React Rendering and Hooks]]
+- [[skills/web-and-design/frontend-ux/react/competencies/L1-explain-react-rendering-and-hooks|L2- Explain React Rendering and Hooks]]
 
 ## Description
 

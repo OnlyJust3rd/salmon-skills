@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/iot-data-analytics/microskills/iot-telemetry-data-analysis|IoT Telemetry Data Analysis]]"
+  - "[[skills/data/data-platforms/iot-data-analytics/microskills/iot-telemetry-data-analysis|iot-telemetry-data-analysis]]"
 ---
 # Analyzing IoT Telemetry Data: Identifying Trends and Anomalies
 

@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Analogue Scrambling Vulnerabilities"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "N/A - Cryptographic Techniques for Multimedia Communication"
-parent-macro: "Speech Security Assessment"
-parent-competency: "L5- Evaluate Speech Security Effectiveness"
+  - "microskill"
+parent-skill: "[[skills/security/cybersecurity/speech-security-assessment/speech-security-assessment|speech-security-assessment]]"
+requires-in-competencies:
+  - "[[skills/security/cybersecurity/speech-security-assessment/competencies/L3-evaluate-speech-security-effectiveness|L3-evaluate-speech-security-effectiveness]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Analogue Scrambling Vulnerabilities
@@ -15,7 +17,7 @@ Parent macro: [[skills/security/cybersecurity/speech-security-assessment/speech-
 
 Parent competency:
 
-- [[skills/security/cybersecurity/speech-security-assessment/competencies/L5-evaluate-speech-security-effectiveness|L5- Evaluate Speech Security Effectiveness]]
+- [[skills/security/cybersecurity/speech-security-assessment/competencies/L3-evaluate-speech-security-effectiveness|L5- Evaluate Speech Security Effectiveness]]
 
 ## Description
 

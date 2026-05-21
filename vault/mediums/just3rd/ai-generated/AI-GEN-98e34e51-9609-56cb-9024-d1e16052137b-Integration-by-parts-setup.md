@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/integration-by-parts-setup|Integration by parts setup]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/integration-by-parts-setup|integration-by-parts-setup]]"
 ---
 # Choosing u and dv for Integration by Parts
 

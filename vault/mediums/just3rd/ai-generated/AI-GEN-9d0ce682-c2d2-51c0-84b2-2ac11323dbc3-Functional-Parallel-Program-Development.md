@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/high-performance-computing/openmp/microskills/functional-parallel-program-development|Functional Parallel Program Development]]"
+  - "[[skills/systems/high-performance-computing/openmp/microskills/functional-parallel-program-development|functional-parallel-program-development]]"
 ---
 # Developing Functional Parallel Programs with OpenMP
 

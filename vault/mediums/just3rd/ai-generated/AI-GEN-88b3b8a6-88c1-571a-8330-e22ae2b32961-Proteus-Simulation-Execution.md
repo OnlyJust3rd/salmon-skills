@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/proteus-simulation-execution|Proteus Simulation Execution]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/proteus-simulation-execution|proteus-simulation-execution]]"
 ---
 # Executing Proteus Simulations
 

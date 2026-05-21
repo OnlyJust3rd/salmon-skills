@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/network-layer/microskills/ip-addressing-schemes|IP Addressing Schemes]]"
+  - "[[skills/systems/networking/network-layer/microskills/ip-addressing-schemes|ip-addressing-schemes]]"
 ---
 # Understanding IP Addressing Schemes
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/extensibility-analysis|Extensibility Analysis]]"
+  - "[[skills/programming/software-engineering/object-oriented-programming/microskills/extensibility-analysis|extensibility-analysis]]"
 ---
 # Analyzing Extensibility in Object-Oriented Design
 

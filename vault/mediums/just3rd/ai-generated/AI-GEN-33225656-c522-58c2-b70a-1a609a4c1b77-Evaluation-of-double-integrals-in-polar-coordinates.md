@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/evaluation-of-double-integrals-in-polar-coordinates|Evaluation of double integrals in polar coordinates]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/evaluation-of-double-integrals-in-polar-coordinates|evaluation-of-double-integrals-in-polar-coordinates]]"
 ---
 # Evaluating Double Integrals in Polar Coordinates
 

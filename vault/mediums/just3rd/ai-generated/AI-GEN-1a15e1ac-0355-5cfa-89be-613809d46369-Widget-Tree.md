@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/mobile/flutter/microskills/widget-tree|Widget Tree]]"
+  - "[[skills/web-and-design/mobile/flutter/microskills/widget-tree|widget-tree]]"
 ---
 # Understanding the Widget Tree in Flutter
 

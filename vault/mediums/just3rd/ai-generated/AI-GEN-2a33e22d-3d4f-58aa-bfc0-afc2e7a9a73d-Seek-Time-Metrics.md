@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/seek-time-metrics|Seek Time Metrics]]"
+  - "[[skills/systems/operating-systems/i-o-and-file-systems/microskills/seek-time-metrics|seek-time-metrics]]"
 ---
 # Analyzing Seek Time in Disk Scheduling
 

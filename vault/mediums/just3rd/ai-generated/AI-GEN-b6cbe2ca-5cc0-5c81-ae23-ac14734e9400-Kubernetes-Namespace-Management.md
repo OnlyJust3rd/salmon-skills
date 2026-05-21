@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-namespace-management|Kubernetes Namespace Management]]"
+  - "[[skills/cloud-devops/platform-engineering/kubernetes/microskills/kubernetes-namespace-management|kubernetes-namespace-management]]"
 ---
 # Kubernetes Namespace Management
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/binary-arithmetic-application|Binary Arithmetic Application]]"
+  - "[[skills/hardware-embedded/electronics-embedded/number-representation/microskills/binary-arithmetic-application|binary-arithmetic-application]]"
 ---
 # Binary Arithmetic Application
 

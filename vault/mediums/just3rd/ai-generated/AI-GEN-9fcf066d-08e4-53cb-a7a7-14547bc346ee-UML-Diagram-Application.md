@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/software-engineering/microskills/uml-diagram-application|UML Diagram Application]]"
+  - "[[skills/programming/software-engineering/software-engineering/microskills/uml-diagram-application|uml-diagram-application]]"
 ---
 # Applying UML Diagrams for Design Representation
 

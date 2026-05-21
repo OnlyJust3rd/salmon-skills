@@ -1,18 +1,25 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define and Identify Text Representations"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Feature Engineering"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Define Text Cleaning Concepts"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/competencies/L1-define-text-cleaning-concepts|L1-define-text-cleaning-concepts]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 8
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/data-science/text-feature-engineering/text-feature-engineering|text-feature-engineering]]"
+requires-microskills:
+  - "[[skills/data/data-science/text-feature-engineering/microskills/bag-of-words-bow-concept|bag-of-words-bow-concept]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/co-occurrence-matrix-identification|co-occurrence-matrix-identification]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/discrete-text-representations|discrete-text-representations]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/distributed-text-representations|distributed-text-representations]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/glove-representation-definition|glove-representation-definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/one-hot-encoding-definition|one-hot-encoding-definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/tf-idf-definition|tf-idf-definition]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/word2vec-cbow-skip-gram-concepts|word2vec-cbow-skip-gram-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define and Identify Text Representations

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/function-generator-functions|Function Generator Functions]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/function-generator-functions|function-generator-functions]]"
 ---
 # Understanding the Function Generator: Your Signal Creation Tool
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/java-programming/microskills/activity-selection-greedy-java-implementation|Activity Selection Greedy Java Implementation]]"
+  - "[[skills/programming/programming-languages/java-programming/microskills/activity-selection-greedy-java-implementation|activity-selection-greedy-java-implementation]]"
 ---
 # Activity Selection Problem: Greedy Approach in Java
 

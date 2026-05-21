@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/text-feature-engineering/microskills/one-hot-encoding-application|One-Hot Encoding Application]]"
+  - "[[skills/data/data-science/text-feature-engineering/microskills/one-hot-encoding-application|one-hot-encoding-application]]"
 ---
 # Applying One-Hot Encoding for Text Representation
 

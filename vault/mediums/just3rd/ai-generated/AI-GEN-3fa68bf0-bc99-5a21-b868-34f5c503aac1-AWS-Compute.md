@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-compute|AWS Compute]]"
+  - "[[skills/cloud-devops/platform-engineering/amazon-web-services/microskills/aws-compute|aws-compute]]"
 ---
 # AWS Compute: The Brains of Your Cloud Operations
 

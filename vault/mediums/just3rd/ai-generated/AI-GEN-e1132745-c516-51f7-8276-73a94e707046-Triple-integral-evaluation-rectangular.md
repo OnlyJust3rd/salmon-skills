@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-evaluation-rectangular|Triple integral evaluation (rectangular)]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/triple-integral-evaluation-rectangular|triple-integral-evaluation-rectangular]]"
 ---
 # Triple Integral Evaluation in Rectangular Coordinates
 

@@ -1,17 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Define Text Cleaning Concepts"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 393 - Text Analytics"
-parent-macro: "Text Cleaning and Normalization"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites: []
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 5
-corresponding-course-competencies: []
+parent-skill: "[[skills/data/data-science/text-cleaning-and-normalization/text-cleaning-and-normalization|text-cleaning-and-normalization]]"
+requires-microskills:
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/character-normalization-definition|character-normalization-definition]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/data-masking-definition|data-masking-definition]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/html-tag-handling-concepts|html-tag-handling-concepts]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/noise-removal-definition|noise-removal-definition]]"
+  - "[[skills/data/data-science/text-cleaning-and-normalization/microskills/text-cleaning-terminology|text-cleaning-terminology]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Define Text Cleaning Concepts

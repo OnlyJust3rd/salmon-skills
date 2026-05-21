@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sbc-hardware-components|SBC Hardware Components]]"
+  - "[[skills/hardware-embedded/electronics-embedded/embedded-systems/microskills/sbc-hardware-components|sbc-hardware-components]]"
 ---
 # Single Board Computer (SBC) Hardware Components
 

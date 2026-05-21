@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/rsa-mechanics|RSA Mechanics]]"
+  - "[[skills/programming/algorithms/asymmetric-algorithm-mechanics/microskills/rsa-mechanics|rsa-mechanics]]"
 ---
 # RSA Mechanics: A Practical Application
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/contractual-agreements/microskills/contractual-scenario-application|Contractual Scenario Application]]"
+  - "[[skills/business-it/business-product/contractual-agreements/microskills/contractual-scenario-application|contractual-scenario-application]]"
 ---
 # Applying Employment Contracts in Scenarios
 

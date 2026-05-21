@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/bicep-deployment-commands|Bicep Deployment Commands]]"
+  - "[[skills/cloud-devops/platform-engineering/infrastructure-as-code/microskills/bicep-deployment-commands|bicep-deployment-commands]]"
 ---
 # Deploying Infrastructure with Bicep: Key Azure CLI Commands
 

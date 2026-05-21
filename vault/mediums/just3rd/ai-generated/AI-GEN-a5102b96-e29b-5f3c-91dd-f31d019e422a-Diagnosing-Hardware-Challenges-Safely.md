@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/diagnosing-hardware-challenges-safely|Diagnosing Hardware Challenges Safely]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/diagnosing-hardware-challenges-safely|diagnosing-hardware-challenges-safely]]"
 ---
 # Diagnosing Hardware Challenges Safely
 

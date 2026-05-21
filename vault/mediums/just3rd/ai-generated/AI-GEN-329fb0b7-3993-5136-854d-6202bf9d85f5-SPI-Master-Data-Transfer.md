@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-master-data-transfer|SPI Master Data Transfer]]"
+  - "[[skills/programming/programming-languages/avr-communication-programming/microskills/spi-master-data-transfer|spi-master-data-transfer]]"
 ---
 # SPI Master Data Transfer: Implementing C Code
 

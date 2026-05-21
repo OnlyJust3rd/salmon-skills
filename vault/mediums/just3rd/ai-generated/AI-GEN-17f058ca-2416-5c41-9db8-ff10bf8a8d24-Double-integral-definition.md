@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-definition|Double integral definition]]"
+  - "[[skills/mathematics/multiple-integral-evaluation/microskills/double-integral-definition|double-integral-definition]]"
 ---
 # Recalling the Definition of Double Integrals
 

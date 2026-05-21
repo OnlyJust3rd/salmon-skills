@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-growth-potential|Market Growth Potential]]"
+  - "[[skills/business-it/business-product/feasibility-analysis/microskills/market-growth-potential|market-growth-potential]]"
 ---
 # Understanding Market Growth Potential
 

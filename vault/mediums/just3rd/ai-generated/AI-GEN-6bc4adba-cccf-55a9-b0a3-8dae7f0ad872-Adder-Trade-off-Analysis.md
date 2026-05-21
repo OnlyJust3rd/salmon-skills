@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/adder-trade-off-analysis|Adder Trade-off Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/computer-arithmetic/microskills/adder-trade-off-analysis|adder-trade-off-analysis]]"
 ---
 # Adder Trade-off Analysis
 

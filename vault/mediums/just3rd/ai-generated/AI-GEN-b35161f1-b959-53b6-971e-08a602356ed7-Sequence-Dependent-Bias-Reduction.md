@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/sequence-dependent-bias-reduction|Sequence-Dependent Bias Reduction]]"
+  - "[[skills/web-and-design/frontend-ux/usability-evaluation/microskills/sequence-dependent-bias-reduction|sequence-dependent-bias-reduction]]"
 ---
 # Reducing Sequence-Dependent Bias in Usability Studies
 

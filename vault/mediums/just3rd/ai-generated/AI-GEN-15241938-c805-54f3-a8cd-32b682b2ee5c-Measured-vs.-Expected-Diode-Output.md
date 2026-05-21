@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/measured-vs-expected-diode-output|Measured vs. Expected Diode Output]]"
+  - "[[skills/data/data-platforms/experimental-data-evaluation/microskills/measured-vs-expected-diode-output|measured-vs-expected-diode-output]]"
 ---
 # Measured vs. Expected Diode Output: Justifying Discrepancies
 

@@ -1,16 +1,19 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Employer Expectations"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 301 - Professional Issues in Computer Engineering"
-coverage:
-  - "Concept"
-competency-count: 1
-microskill-count: 3
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-301-professional-issues-in-computer-engineering"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/business-it/business-product/employer-expectations/competencies/L1-explain-employer-expectations|L1-explain-employer-expectations]]"
+standard-competency:
+  - "[[skills/business-it/business-product/employer-expectations/competencies/L1-explain-employer-expectations|L1-explain-employer-expectations]]"
+microskills:
+  - "[[skills/business-it/business-product/employer-expectations/microskills/attribute-definitions|attribute-definitions]]"
+  - "[[skills/business-it/business-product/employer-expectations/microskills/employer-attribute-significance|employer-attribute-significance]]"
+  - "[[skills/business-it/business-product/employer-expectations/microskills/essential-employee-attributes|essential-employee-attributes]]"
 ---
 
 # Employer Expectations
@@ -19,7 +22,7 @@ List and explain ten key attributes employers expect from their employees, inclu
 
 ## Competencies
 
-- [[skills/business-it/business-product/employer-expectations/competencies/L2-explain-employer-expectations|L2- Explain Employer Expectations]]
+- [[skills/business-it/business-product/employer-expectations/competencies/L1-explain-employer-expectations|L2- Explain Employer Expectations]]
 
 ## Microskills
 

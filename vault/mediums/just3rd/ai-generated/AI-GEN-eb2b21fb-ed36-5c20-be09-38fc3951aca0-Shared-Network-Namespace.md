@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/shared-network-namespace|Shared Network Namespace]]"
+  - "[[skills/cloud-devops/platform-engineering/docker-container/microskills/shared-network-namespace|shared-network-namespace]]"
 ---
 # Shared Network Namespace: The Foundation of Pod Communication
 

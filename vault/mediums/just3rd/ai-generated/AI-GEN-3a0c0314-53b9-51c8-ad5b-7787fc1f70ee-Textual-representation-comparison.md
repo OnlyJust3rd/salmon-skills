@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithm-representation/microskills/textual-representation-comparison|Textual representation comparison]]"
+  - "[[skills/programming/algorithms/algorithm-representation/microskills/textual-representation-comparison|textual-representation-comparison]]"
 ---
 # Pseudocode vs. Flowcharts: Choosing the Right Algorithm Representation
 

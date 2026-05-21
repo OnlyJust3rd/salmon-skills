@@ -1,17 +1,20 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Continuous Delivery"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "Curriculum supplement - DevOps skills"
-coverage:
-  - "Concept"
-  - "ToolUsage"
-competency-count: 1
-microskill-count: 4
-related-jobs:
-  - "DevOps Engineer"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/competencies/L1-explain-continuous-delivery-and-deployment-strategies|L1-explain-continuous-delivery-and-deployment-strategies]]"
+standard-competency:
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/competencies/L1-explain-continuous-delivery-and-deployment-strategies|L1-explain-continuous-delivery-and-deployment-strategies]]"
+microskills:
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/automated-promotion|automated-promotion]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/progressive-deployment-strategies|progressive-deployment-strategies]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/release-stages|release-stages]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-delivery/microskills/rollback-concepts|rollback-concepts]]"
 ---
 
 # Continuous Delivery
@@ -20,7 +23,7 @@ Principles for keeping software releasable through automated delivery pipelines,
 
 ## Competencies
 
-- [[skills/cloud-devops/platform-engineering/continuous-delivery/competencies/L2-explain-continuous-delivery-and-deployment-strategies|L2- Explain Continuous Delivery and Deployment Strategies]]
+- [[skills/cloud-devops/platform-engineering/continuous-delivery/competencies/L1-explain-continuous-delivery-and-deployment-strategies|L2- Explain Continuous Delivery and Deployment Strategies]]
 
 ## Microskills
 

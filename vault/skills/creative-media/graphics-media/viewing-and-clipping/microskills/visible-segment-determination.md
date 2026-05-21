@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Visible Segment Determination"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 381 - Computer Graphics"
-parent-macro: "Viewing and Clipping"
-parent-competency: "L3- Apply Windowing and Line Clipping"
+  - "microskill"
+parent-skill: "[[skills/creative-media/graphics-media/viewing-and-clipping/viewing-and-clipping|viewing-and-clipping]]"
+requires-in-competencies:
+  - "[[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L2-apply-windowing-and-line-clipping|L2-apply-windowing-and-line-clipping]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Visible Segment Determination
@@ -15,7 +17,7 @@ Parent macro: [[skills/creative-media/graphics-media/viewing-and-clipping/viewin
 
 Parent competency:
 
-- [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L3-apply-windowing-and-line-clipping|L3- Apply Windowing and Line Clipping]]
+- [[skills/creative-media/graphics-media/viewing-and-clipping/competencies/L2-apply-windowing-and-line-clipping|L3- Apply Windowing and Line Clipping]]
 
 ## Description
 

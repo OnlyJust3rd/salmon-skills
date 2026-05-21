@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robotic-system-programming|Robotic System Programming]]"
+  - "[[skills/hardware-embedded/electronics-embedded/robotic-system/microskills/robotic-system-programming|robotic-system-programming]]"
 ---
 # Robotic System Programming: Directing Your Robot's Actions
 

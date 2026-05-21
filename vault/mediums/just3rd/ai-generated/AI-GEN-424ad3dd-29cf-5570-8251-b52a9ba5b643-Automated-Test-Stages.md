@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/continuous-integration/microskills/automated-test-stages|Automated Test Stages]]"
+  - "[[skills/cloud-devops/platform-engineering/continuous-integration/microskills/automated-test-stages|automated-test-stages]]"
 ---
 # Automated Test Stages in CI Pipelines
 

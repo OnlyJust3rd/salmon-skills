@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/sequence-and-series-convergence/microskills/series-convergence-determination-ratio-root|Series convergence determination (Ratio/Root)]]"
+  - "[[skills/mathematics/sequence-and-series-convergence/microskills/series-convergence-determination-ratio-root|series-convergence-determination-ratio-root]]"
 ---
 # Applying Ratio and Root Tests for Series Convergence
 

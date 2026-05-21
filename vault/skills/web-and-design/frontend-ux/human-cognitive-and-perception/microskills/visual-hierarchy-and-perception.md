@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Visual Hierarchy and Perception"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 363 - Human-Computer Interaction"
-parent-macro: "Human Cognitive and Perception"
-parent-competency: "L2- Explain Cognitive and Perceptual Influences on HCI and Experimentation"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/human-cognitive-and-perception|human-cognitive-and-perception]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/frontend-ux/human-cognitive-and-perception/competencies/L1-explain-cognitive-and-perceptual-influences-on-hci-and-experimentation|L1-explain-cognitive-and-perceptual-influences-on-hci-and-experimentation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Visual Hierarchy and Perception
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/frontend-ux/human-cognitive-and-perception
 
 Parent competency:
 
-- [[skills/web-and-design/frontend-ux/human-cognitive-and-perception/competencies/L2-explain-cognitive-and-perceptual-influences-on-hci-and-experimentation|L2- Explain Cognitive and Perceptual Influences on HCI and Experimentation]]
+- [[skills/web-and-design/frontend-ux/human-cognitive-and-perception/competencies/L1-explain-cognitive-and-perceptual-influences-on-hci-and-experimentation|L2- Explain Cognitive and Perceptual Influences on HCI and Experimentation]]
 
 ## Description
 

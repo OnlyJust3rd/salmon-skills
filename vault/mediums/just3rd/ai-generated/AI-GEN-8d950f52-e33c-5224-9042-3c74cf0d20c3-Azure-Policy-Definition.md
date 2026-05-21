@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/azure-policy-definition|Azure Policy Definition]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-scalability/microskills/azure-policy-definition|azure-policy-definition]]"
 ---
 # Azure Policy Definitions: Enforcing Governance
 

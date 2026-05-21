@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/gpu-bottleneck|GPU Bottleneck]]"
+  - "[[skills/creative-media/game-development/game-performance-optimization/microskills/gpu-bottleneck|gpu-bottleneck]]"
 ---
 # Understanding GPU Bottlenecks in Game Performance
 

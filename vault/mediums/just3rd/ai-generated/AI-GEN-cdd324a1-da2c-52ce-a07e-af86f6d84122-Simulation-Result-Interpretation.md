@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/simulation-result-interpretation|Simulation Result Interpretation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/proteus-8-simulation/microskills/simulation-result-interpretation|simulation-result-interpretation]]"
 ---
 # Interpreting Proteus 8 Simulation Results
 

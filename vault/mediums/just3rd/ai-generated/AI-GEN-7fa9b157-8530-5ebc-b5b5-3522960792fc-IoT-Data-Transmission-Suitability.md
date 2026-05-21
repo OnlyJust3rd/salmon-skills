@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/networking/iot-communication-and-networking/microskills/iot-data-transmission-suitability|IoT Data Transmission Suitability]]"
+  - "[[skills/systems/networking/iot-communication-and-networking/microskills/iot-data-transmission-suitability|iot-data-transmission-suitability]]"
 ---
 # IoT Data Transmission Suitability: Choosing the Right Path
 

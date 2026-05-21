@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-rotation|Image Rotation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/digital-image-processing/microskills/image-rotation|image-rotation]]"
 ---
 # Image Rotation
 

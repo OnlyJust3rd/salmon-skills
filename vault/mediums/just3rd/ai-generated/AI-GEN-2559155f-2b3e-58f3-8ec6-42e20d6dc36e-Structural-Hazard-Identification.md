@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/structural-hazard-identification|Structural Hazard Identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/structural-hazard-identification|structural-hazard-identification]]"
 ---
 # Identifying Structural Hazards in Pipelined Architectures
 

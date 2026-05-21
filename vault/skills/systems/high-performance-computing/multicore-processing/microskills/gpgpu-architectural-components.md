@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "GPGPU Architectural Components"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 372 - High Performance Computing and Cloud Technologies"
-parent-macro: "Multicore Processing"
-parent-competency: "L1- Identify/Describe Heterogeneous Processor Components"
+  - "microskill"
+parent-skill: "[[skills/systems/high-performance-computing/multicore-processing/multicore-processing|multicore-processing]]"
+requires-in-competencies:
+  - "[[skills/systems/high-performance-computing/multicore-processing/competencies/L1-identify-describe-heterogeneous-processor-components|L1-identify-describe-heterogeneous-processor-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # GPGPU Architectural Components

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/ftc-role-in-defining-new-functions|FTC role in defining new functions]]"
+  - "[[skills/mathematics/fundamental-theorem-of-calculus/microskills/ftc-role-in-defining-new-functions|ftc-role-in-defining-new-functions]]"
 ---
 # The FTC: Building New Functions from Areas
 

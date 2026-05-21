@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/signal-noise-reduction-evaluation|Signal Noise Reduction Evaluation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/filter-design/microskills/signal-noise-reduction-evaluation|signal-noise-reduction-evaluation]]"
 ---
 # Evaluating Signal Noise Reduction
 

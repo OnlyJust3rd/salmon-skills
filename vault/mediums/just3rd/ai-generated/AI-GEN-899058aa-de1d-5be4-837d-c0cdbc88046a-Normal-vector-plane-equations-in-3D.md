@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-plane-equations-in-3d|Normal vector plane equations in 3D]]"
+  - "[[skills/mathematics/geometric-formulation/microskills/normal-vector-plane-equations-in-3d|normal-vector-plane-equations-in-3d]]"
 ---
 # Plane Equations Using Normal Vectors in 3D
 

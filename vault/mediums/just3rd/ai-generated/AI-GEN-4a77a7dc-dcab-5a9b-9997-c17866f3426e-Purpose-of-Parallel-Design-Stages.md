@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/parallel-algorithm/microskills/purpose-of-parallel-design-stages|Purpose of Parallel Design Stages]]"
+  - "[[skills/programming/algorithms/parallel-algorithm/microskills/purpose-of-parallel-design-stages|purpose-of-parallel-design-stages]]"
 ---
 # Understanding Foster's Parallel Design Stages
 

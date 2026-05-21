@@ -1,18 +1,21 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- Identify PLD types"
 tags:
   - "cpe"
   - "competency"
-source: "CPE 222 - Digital Electronics and Logic Design"
-parent-macro: "FPGA Implementation"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- Verilog HDL Fundamentals"
+  - "[[skills/hardware-embedded/electronics-embedded/verilog-hdl-modeling/competencies/L1-verilog-hdl-fundamentals|L1-verilog-hdl-fundamentals]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 4
-corresponding-course-competencies: []
+parent-skill: "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/fpga-implementation|fpga-implementation]]"
+requires-microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-architectures|pld-architectures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-classifications|pld-classifications]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/pld-fundamental-characteristics|pld-fundamental-characteristics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/fpga-implementation/microskills/programmable-logic-device-types|programmable-logic-device-types]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- Identify PLD types

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelining-benefits-for-execution-speed|Pipelining Benefits for Execution Speed]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelining-benefits-for-execution-speed|pipelining-benefits-for-execution-speed]]"
 ---
 # Pipelining Benefits for Execution Speed
 

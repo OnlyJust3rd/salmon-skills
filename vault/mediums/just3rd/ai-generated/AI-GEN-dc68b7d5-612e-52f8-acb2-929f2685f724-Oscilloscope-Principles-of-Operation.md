@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscilloscope-principles-of-operation|Oscilloscope Principles of Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/laboratory-equipment-operation/microskills/oscilloscope-principles-of-operation|oscilloscope-principles-of-operation]]"
 ---
 # Oscilloscope Principles of Operation
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/machine-instruction-sequencing-analysis|Machine Instruction Sequencing Analysis]]"
+  - "[[skills/hardware-embedded/electronics-embedded/machine-instruction/microskills/machine-instruction-sequencing-analysis|machine-instruction-sequencing-analysis]]"
 ---
 # Machine Instruction Sequencing: The Flow of Operations
 

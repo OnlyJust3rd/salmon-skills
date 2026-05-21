@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/loading-performance|Loading Performance]]"
+  - "[[skills/web-and-design/frontend-ux/web-performance/microskills/loading-performance|loading-performance]]"
 ---
 # Understanding Loading Performance
 

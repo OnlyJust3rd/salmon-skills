@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/basic-navigation-strategy-implementation|Basic Navigation Strategy Implementation]]"
+  - "[[skills/hardware-embedded/robotics-iot/mobile-robot-navigation/microskills/basic-navigation-strategy-implementation|basic-navigation-strategy-implementation]]"
 ---
 # Implementing Basic Navigation Strategies with SIMBot
 

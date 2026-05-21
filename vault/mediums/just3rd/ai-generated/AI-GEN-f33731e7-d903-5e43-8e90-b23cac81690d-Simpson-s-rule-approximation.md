@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/integral-evaluation/microskills/simpson-s-rule-approximation|Simpson's rule approximation]]"
+  - "[[skills/mathematics/integral-evaluation/microskills/simpson-s-rule-approximation|simpson-s-rule-approximation]]"
 ---
 # Simpson's Rule Approximation
 

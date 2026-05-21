@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/digital-watermarking/microskills/transform-domain-watermarking|Transform Domain Watermarking]]"
+  - "[[skills/security/cybersecurity/digital-watermarking/microskills/transform-domain-watermarking|transform-domain-watermarking]]"
 ---
 # Transform Domain Watermarking
 

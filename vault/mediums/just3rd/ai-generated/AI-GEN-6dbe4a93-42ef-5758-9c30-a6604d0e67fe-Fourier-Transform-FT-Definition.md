@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/fourier-transform-analysis/microskills/fourier-transform-ft-definition|Fourier Transform (FT) Definition]]"
+  - "[[skills/mathematics/fourier-transform-analysis/microskills/fourier-transform-ft-definition|fourier-transform-ft-definition]]"
 ---
 # Fourier Transform (FT) Definition
 

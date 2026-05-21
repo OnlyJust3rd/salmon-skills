@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-mining/microskills/crisp-dm-framework|CRISP-DM Framework]]"
+  - "[[skills/data/data-platforms/data-mining/microskills/crisp-dm-framework|crisp-dm-framework]]"
 ---
 # Understanding the CRISP-DM Framework
 

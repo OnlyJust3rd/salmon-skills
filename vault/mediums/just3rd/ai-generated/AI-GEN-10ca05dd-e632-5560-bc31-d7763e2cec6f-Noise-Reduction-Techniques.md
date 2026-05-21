@@ -7,8 +7,8 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-reduction-techniques|Noise Reduction Techniques]]"
-  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/noise-reduction-techniques|Noise Reduction Techniques]]"
+  - "[[skills/hardware-embedded/electronics-embedded/hardware-troubleshooting/microskills/noise-reduction-techniques|noise-reduction-techniques]]"
+  - "[[skills/programming/algorithms/pattern-matching-and-text-filtering/microskills/noise-reduction-techniques|noise-reduction-techniques]]"
 ---
 # Noise Reduction Techniques for Text Data
 

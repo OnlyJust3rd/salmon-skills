@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-science/topic-modeling/microskills/latent-semantic-analysis-lsa-application|Latent Semantic Analysis (LSA) Application]]"
+  - "[[skills/data/data-science/topic-modeling/microskills/latent-semantic-analysis-lsa-application|latent-semantic-analysis-lsa-application]]"
 ---
 # Applying Latent Semantic Analysis (LSA) for Theme Discovery
 

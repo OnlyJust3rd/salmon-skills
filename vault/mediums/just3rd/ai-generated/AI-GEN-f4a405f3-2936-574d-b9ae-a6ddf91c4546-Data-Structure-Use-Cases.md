@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-use-cases|Data Structure Use Cases]]"
+  - "[[skills/programming/data-structures/data-structure-principles/microskills/data-structure-use-cases|data-structure-use-cases]]"
 ---
 # Data Structure Use Cases: Where Do They Live?
 

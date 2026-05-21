@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/software-engineering/business-process-modeling/microskills/bpmn-event|BPMN Event]]"
+  - "[[skills/programming/software-engineering/business-process-modeling/microskills/bpmn-event|bpmn-event]]"
 ---
 # Understanding BPMN Events
 

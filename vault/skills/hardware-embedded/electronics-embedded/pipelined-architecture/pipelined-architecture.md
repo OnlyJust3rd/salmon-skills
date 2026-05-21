@@ -1,17 +1,37 @@
 ---
-type: "macro-skill"
+type: "Skill"
 title: "Pipelined Architecture"
 tags:
   - "cpe"
-  - "macro-skill"
-source: "CPE 223 - Computer Architectures"
-coverage:
-  - "Concept"
-  - "Evaluation"
-competency-count: 5
-microskill-count: 14
-related-jobs: []
-source-note: "courses/kmutt/cpe-2021/cpe-223-computer-architectures"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L1-pipelining-concept-and-stages|L1-pipelining-concept-and-stages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L2-pipeline-execution-steps|L2-pipeline-execution-steps]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-pipeline-hazard-identification|L3-pipeline-hazard-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-pipelined-speed-impact|L3-pipelined-speed-impact]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-evaluate-hazard-mitigation|L3-evaluate-hazard-mitigation]]"
+standard-competency:
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L2-pipeline-execution-steps|L2-pipeline-execution-steps]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-pipeline-hazard-identification|L3-pipeline-hazard-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-pipelined-speed-impact|L3-pipelined-speed-impact]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-evaluate-hazard-mitigation|L3-evaluate-hazard-mitigation]]"
+microskills:
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/branch-prediction-basics|branch-prediction-basics]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/comparison-with-non-pipelined-architectures|comparison-with-non-pipelined-architectures]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/control-hazard-identification|control-hazard-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/cpi-impact-estimation|cpi-impact-estimation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/data-hazard-identification|data-hazard-identification]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/instruction-sequence-pipelining|instruction-sequence-pipelining]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/operand-forwarding-reasoning|operand-forwarding-reasoning]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipeline-stall-reasoning|pipeline-stall-reasoning]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-architecture-performance|pipelined-architecture-performance]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-execution-simulation|pipelined-execution-simulation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelined-execution-stages|pipelined-execution-stages]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelining-benefits-for-execution-speed|pipelining-benefits-for-execution-speed]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/pipelining-principles|pipelining-principles]]"
+  - "[[skills/hardware-embedded/electronics-embedded/pipelined-architecture/microskills/structural-hazard-identification|structural-hazard-identification]]"
 ---
 
 # Pipelined Architecture
@@ -20,11 +40,11 @@ Analyzing pipelined processor architectures, identifying and resolving performan
 
 ## Competencies
 
-- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L2-pipelining-concept-and-stages|L2- Pipelining Concept and Stages]]
-- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-pipeline-execution-steps|L3- Pipeline Execution Steps]]
-- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L4-pipelined-speed-impact|L4- Pipelined Speed Impact]]
-- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L4-pipeline-hazard-identification|L4- Pipeline Hazard Identification]]
-- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L5-evaluate-hazard-mitigation|L5- Evaluate Hazard Mitigation]]
+- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L1-pipelining-concept-and-stages|L2- Pipelining Concept and Stages]]
+- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L2-pipeline-execution-steps|L3- Pipeline Execution Steps]]
+- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-pipelined-speed-impact|L4- Pipelined Speed Impact]]
+- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-pipeline-hazard-identification|L4- Pipeline Hazard Identification]]
+- [[skills/hardware-embedded/electronics-embedded/pipelined-architecture/competencies/L3-evaluate-hazard-mitigation|L5- Evaluate Hazard Mitigation]]
 
 ## Microskills
 

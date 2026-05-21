@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/data/data-platforms/data-cleansing/microskills/format-standardization|Format Standardization]]"
+  - "[[skills/data/data-platforms/data-cleansing/microskills/format-standardization|format-standardization]]"
 ---
 # Format Standardization in Data Cleansing
 

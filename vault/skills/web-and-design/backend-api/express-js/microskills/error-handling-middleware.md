@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Error handling middleware"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "Curriculum supplement - web stack skills"
-parent-macro: "Express.js"
-parent-competency: "L3- Implement REST JSON API with Express"
+  - "microskill"
+parent-skill: "[[skills/web-and-design/backend-api/express-js/express-js|express-js]]"
+requires-in-competencies:
+  - "[[skills/web-and-design/backend-api/express-js/competencies/L2-implement-rest-json-api-with-express|L2-implement-rest-json-api-with-express]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Error handling middleware
@@ -15,7 +17,7 @@ Parent macro: [[skills/web-and-design/backend-api/express-js/express-js|Express.
 
 Parent competency:
 
-- [[skills/web-and-design/backend-api/express-js/competencies/L3-implement-rest-json-api-with-express|L3- Implement REST JSON API with Express]]
+- [[skills/web-and-design/backend-api/express-js/competencies/L2-implement-rest-json-api-with-express|L3- Implement REST JSON API with Express]]
 
 ## Description
 

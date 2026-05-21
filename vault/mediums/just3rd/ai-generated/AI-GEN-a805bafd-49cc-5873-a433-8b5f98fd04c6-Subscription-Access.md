@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/subscription-access|Subscription Access]]"
+  - "[[skills/cloud-devops/platform-engineering/software-as-a-service/microskills/subscription-access|subscription-access]]"
 ---
 # Subscription Access: Understanding Recurring Service Entitlement
 

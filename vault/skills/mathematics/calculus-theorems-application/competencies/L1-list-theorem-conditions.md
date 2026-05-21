@@ -1,18 +1,20 @@
 ---
-type: "competency"
+type: "Competency"
 title: "L1- List Theorem Conditions"
 tags:
   - "cpe"
   - "competency"
-source: "MTH 101 - Mathematics I"
-parent-macro: "Calculus Theorems Application"
-bloom-level: 1
-bloom-category: "Remember"
 strict-prerequisites:
-  - "L1- List Calculus Theorems"
+  - "[[skills/mathematics/calculus-theorems-application/competencies/L1-list-calculus-theorems|L1-list-calculus-theorems]]"
+miller-level: 1
 optional-prerequisites: []
-microskill-count: 3
-corresponding-course-competencies: []
+parent-skill: "[[skills/mathematics/calculus-theorems-application/calculus-theorems-application|calculus-theorems-application]]"
+requires-microskills:
+  - "[[skills/mathematics/calculus-theorems-application/microskills/conditions-for-differentiable-functions|conditions-for-differentiable-functions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/mean-value-theorem-applicability-conditions|mean-value-theorem-applicability-conditions]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/rolle-s-theorem-applicability-conditions|rolle-s-theorem-applicability-conditions]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # L1- List Theorem Conditions
@@ -25,7 +27,7 @@ List the conditions under which Rolle's Theorem and the Mean Value Theorem can b
 
 ## Strict Prerequisites
 
-- [[L1-list-calculus-theorems|L1- List Calculus Theorems]]
+- [[skills/mathematics/calculus-theorems-application/competencies/L1-list-calculus-theorems|L1- List Calculus Theorems]]
 
 ## Optional Prerequisites
 

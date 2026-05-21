@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-ah-cryptography-role|IPSec (AH) Cryptography Role]]"
+  - "[[skills/security/cybersecurity/applied-cryptography/microskills/ipsec-ah-cryptography-role|ipsec-ah-cryptography-role]]"
 ---
 # Understanding IPSec Authentication Header (AH) Cryptography Role
 

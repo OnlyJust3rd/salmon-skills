@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-operation|Oscilloscope Operation]]"
+  - "[[skills/hardware-embedded/electronics-embedded/electronic-measurement/microskills/oscilloscope-operation|oscilloscope-operation]]"
 ---
 # Oscilloscope Operation: Displaying a Signal
 

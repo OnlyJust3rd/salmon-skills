@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/subnet-segmentation|Subnet Segmentation]]"
+  - "[[skills/cloud-devops/platform-engineering/cloud-networking/microskills/subnet-segmentation|subnet-segmentation]]"
 ---
 # Subnet Segmentation: Dividing Your Virtual Network
 

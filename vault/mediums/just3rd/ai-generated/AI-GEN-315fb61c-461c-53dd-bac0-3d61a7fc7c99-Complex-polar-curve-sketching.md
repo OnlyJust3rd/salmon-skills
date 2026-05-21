@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/polar-coordinate-systems/microskills/complex-polar-curve-sketching|Complex polar curve sketching]]"
+  - "[[skills/mathematics/polar-coordinate-systems/microskills/complex-polar-curve-sketching|complex-polar-curve-sketching]]"
 ---
 # Sketching Complex Polar Curves Using Symmetry
 

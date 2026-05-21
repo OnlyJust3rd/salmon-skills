@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/mathematics/calculus-theorems-application/microskills/extreme-value-theorem|Extreme Value Theorem]]"
+  - "[[skills/mathematics/calculus-theorems-application/microskills/extreme-value-theorem|extreme-value-theorem]]"
 ---
 # Recognizing the Extreme Value Theorem
 

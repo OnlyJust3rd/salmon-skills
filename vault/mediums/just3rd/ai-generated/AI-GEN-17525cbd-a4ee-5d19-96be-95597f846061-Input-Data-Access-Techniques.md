@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/input-data-access-techniques|Input Data Access Techniques]]"
+  - "[[skills/hardware-embedded/electronics-embedded/input-output-interfacing/microskills/input-data-access-techniques|input-data-access-techniques]]"
 ---
 # Accessing Input Data: Reading from a Simulated Sensor
 

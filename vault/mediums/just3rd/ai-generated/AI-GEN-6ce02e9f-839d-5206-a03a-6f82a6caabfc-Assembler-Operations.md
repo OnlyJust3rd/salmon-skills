@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/systems/operating-systems/operating-system/microskills/assembler-operations|Assembler Operations]]"
+  - "[[skills/systems/operating-systems/operating-system/microskills/assembler-operations|assembler-operations]]"
 ---
 # Assembler Operations: Translating Human Code into Machine Language
 

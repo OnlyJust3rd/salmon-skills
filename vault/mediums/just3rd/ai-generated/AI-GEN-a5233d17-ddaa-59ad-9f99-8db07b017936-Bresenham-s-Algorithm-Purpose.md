@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/bresenham-s-algorithm-purpose|Bresenham's Algorithm Purpose]]"
+  - "[[skills/programming/algorithms/rasterization-algorithms/microskills/bresenham-s-algorithm-purpose|bresenham-s-algorithm-purpose]]"
 ---
 # Understanding the Purpose of Bresenham's Algorithm
 

@@ -7,7 +7,7 @@ tags:
 medium-kind: "ai-generated"
 source: "just3rd"
 supports:
-  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/vertex-addition-removal|Vertex Addition/Removal]]"
+  - "[[skills/programming/algorithms/algorithmic-thinking/microskills/vertex-addition-removal|vertex-addition-removal]]"
 ---
 # Vertex Addition and Removal in Graphs
 

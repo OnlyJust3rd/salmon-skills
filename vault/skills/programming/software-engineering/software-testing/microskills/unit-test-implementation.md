@@ -1,12 +1,14 @@
 ---
-type: "micro-skill"
+type: "Microskill"
 title: "Unit Test Implementation"
 tags:
   - "cpe"
-  - "micro-skill"
-source: "CPE 334 - Software Engineering"
-parent-macro: "Software Testing"
-parent-competency: "L3- Automated Testing Implementation"
+  - "microskill"
+parent-skill: "[[skills/programming/software-engineering/software-testing/software-testing|software-testing]]"
+requires-in-competencies:
+  - "[[skills/programming/software-engineering/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Unit Test Implementation
@@ -15,7 +17,7 @@ Parent macro: [[skills/programming/software-engineering/software-testing/softwar
 
 Parent competency:
 
-- [[skills/programming/software-engineering/software-testing/competencies/L3-automated-testing-implementation|L3- Automated Testing Implementation]]
+- [[skills/programming/software-engineering/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
 
 ## Description
 
