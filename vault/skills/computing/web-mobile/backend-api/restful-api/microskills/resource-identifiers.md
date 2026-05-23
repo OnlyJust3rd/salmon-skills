@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Resource identifiers"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/web-mobile/backend-api/restful-api/restful-api|restful-api]]"
+requires-in-competencies:
+  - "[[skills/computing/web-mobile/backend-api/restful-api/competencies/L1-explain-rest-resources-methods-and-status-codes|L1-explain-rest-resources-methods-and-status-codes]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Resource identifiers
+
+Parent macro: [[skills/computing/web-mobile/backend-api/restful-api/restful-api|RESTful API]]
+
+Parent competency:
+
+- [[skills/computing/web-mobile/backend-api/restful-api/competencies/L1-explain-rest-resources-methods-and-status-codes|L2- Explain REST Resources Methods and Status Codes]]
+
+## Description
+
+Map domain entities to URL paths and resource concepts.

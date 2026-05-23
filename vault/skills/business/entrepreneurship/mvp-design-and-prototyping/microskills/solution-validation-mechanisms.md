@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Solution Validation Mechanisms"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/business/entrepreneurship/mvp-design-and-prototyping/mvp-design-and-prototyping|mvp-design-and-prototyping]]"
+requires-in-competencies:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/competencies/L1-explain-poc-and-feature-role-in-validation|L1-explain-poc-and-feature-role-in-validation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Solution Validation Mechanisms
+
+Parent macro: [[skills/business/entrepreneurship/mvp-design-and-prototyping/mvp-design-and-prototyping|MVP Design and Prototyping]]
+
+Parent competency:
+
+- [[skills/business/entrepreneurship/mvp-design-and-prototyping/competencies/L1-explain-poc-and-feature-role-in-validation|L2- Explain PoC and Feature Role in Validation]]
+
+## Description
+
+How features contribute to validating proposed solutions.

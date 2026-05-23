@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Region of Convergence (ROC) Definition"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/complex-frequency-domain-analysis|complex-frequency-domain-analysis]]"
+requires-in-competencies:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/competencies/L1-define-fundamental-concepts|L1-define-fundamental-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Region of Convergence (ROC) Definition
+
+Parent macro: [[complex-frequency-domain-analysis|Complex Frequency Domain Analysis]]
+
+Parent competency:
+
+- [[skills/mathematics/signals-systems/complex-frequency-domain-analysis/competencies/L1-define-fundamental-concepts|L1- Define Fundamental Concepts]]
+
+## Description
+
+Recall of the definition of the Region of Convergence.

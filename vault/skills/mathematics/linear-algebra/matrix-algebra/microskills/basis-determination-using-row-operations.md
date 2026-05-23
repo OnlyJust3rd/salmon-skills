@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Basis determination using row operations"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/mathematics/linear-algebra/matrix-algebra/matrix-algebra|matrix-algebra]]"
+requires-in-competencies:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/competencies/L2-use-gaussian-elimination-for-basis|L2-use-gaussian-elimination-for-basis]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Basis determination using row operations
+
+Parent macro: [[matrix-algebra|Matrix Algebra]]
+
+Parent competency:
+
+- [[skills/mathematics/linear-algebra/matrix-algebra/competencies/L2-use-gaussian-elimination-for-basis|L3- Use Gaussian Elimination for Basis]]
+
+## Description
+
+Applying Gaussian elimination to find bases for row and column spaces.

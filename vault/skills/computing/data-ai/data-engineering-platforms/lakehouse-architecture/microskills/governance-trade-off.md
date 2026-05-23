@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Governance Trade-off"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/lakehouse-architecture|lakehouse-architecture]]"
+requires-in-competencies:
+  - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/competencies/L3-analyze-lakehouse-and-warehouse-trade-offs|L3-analyze-lakehouse-and-warehouse-trade-offs]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Governance Trade-off
+
+Parent macro: [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/lakehouse-architecture|Lakehouse Architecture]]
+
+Parent competency:
+
+- [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/competencies/L3-analyze-lakehouse-and-warehouse-trade-offs|L4- Analyze Lakehouse and Warehouse Trade-offs]]
+
+## Description
+
+Comparing controls over data access and quality.

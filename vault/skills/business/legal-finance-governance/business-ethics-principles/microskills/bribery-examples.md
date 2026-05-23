@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Bribery Examples"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/business/legal-finance-governance/business-ethics-principles/business-ethics-principles|business-ethics-principles]]"
+requires-in-competencies:
+  - "[[skills/business/legal-finance-governance/business-ethics-principles/competencies/L1-describe-unethical-behaviors|L1-describe-unethical-behaviors]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Bribery Examples
+
+Parent macro: [[skills/business/legal-finance-governance/business-ethics-principles/business-ethics-principles|Business Ethics Principles]]
+
+Parent competency:
+
+- [[skills/business/legal-finance-governance/business-ethics-principles/competencies/L1-describe-unethical-behaviors|L2- Describe Unethical Behaviors]]
+
+## Description
+
+Identification of bribery as an unethical business behavior.

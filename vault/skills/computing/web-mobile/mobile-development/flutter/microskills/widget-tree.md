@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Widget Tree"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/web-mobile/mobile-development/flutter/flutter|flutter]]"
+requires-in-competencies:
+  - "[[skills/computing/web-mobile/mobile-development/flutter/competencies/L1-explain-flutter-widget-architecture|L1-explain-flutter-widget-architecture]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Widget Tree
+
+Parent macro: [[skills/computing/web-mobile/mobile-development/flutter/flutter|Flutter]]
+
+Parent competency:
+
+- [[skills/computing/web-mobile/mobile-development/flutter/competencies/L1-explain-flutter-widget-architecture|L2- Explain Flutter Widget Architecture]]
+
+## Description
+
+Understanding nested UI composition.

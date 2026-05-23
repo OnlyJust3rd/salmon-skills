@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "CPU Significance"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/system-monitoring|system-monitoring]]"
+requires-in-competencies:
+  - "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/competencies/L1-explain-metric-significance|L1-explain-metric-significance]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# CPU Significance
+
+Parent macro: [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/system-monitoring|System Monitoring]]
+
+Parent competency:
+
+- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/competencies/L1-explain-metric-significance|L2- Explain Metric Significance]]
+
+## Description
+
+Understanding how CPU load impacts system performance.

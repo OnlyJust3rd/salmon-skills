@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Unit test planning"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/software-engineering/software-practices/program-testing/program-testing|program-testing]]"
+requires-in-competencies:
+  - "[[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-unit-tests|L2-unit-tests]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Unit test planning
+
+Parent macro: [[skills/computing/software-engineering/software-practices/program-testing/program-testing|Program Testing]]
+
+Parent competency:
+
+- [[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-unit-tests|L3- Unit Tests]]
+
+## Description
+
+Ability to plan unit tests for specific functions and behaviors.

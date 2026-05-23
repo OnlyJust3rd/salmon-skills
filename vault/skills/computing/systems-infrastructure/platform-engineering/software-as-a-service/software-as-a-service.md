@@ -1,0 +1,39 @@
+---
+type: "skill"
+title: "Software as a Service"
+tags:
+  - "cpe"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L1-explain-saas-architecture-concepts|L1-explain-saas-architecture-concepts]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L3-analyze-saas-tenancy-billing-and-operational-trade-offs]]"
+standard-competency:
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L3-analyze-saas-tenancy-billing-and-operational-trade-offs]]"
+microskills:
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/billing-model|billing-model]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/multi-tenancy|multi-tenancy]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/operational-responsibility|operational-responsibility]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/operational-trade-off|operational-trade-off]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/subscription-access|subscription-access]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/tenant-isolation|tenant-isolation]]"
+---
+
+# Software as a Service
+
+Understanding SaaS as a cloud software delivery model involving tenancy, subscription access, operational monitoring, billing, and platform responsibilities.
+
+## Competencies
+
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L1-explain-saas-architecture-concepts|L2- Explain SaaS Architecture Concepts]]
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L4- Analyze SaaS Tenancy Billing and Operational Trade-offs]]
+
+## Microskills
+
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/billing-model|Billing Model]]
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/multi-tenancy|Multi-Tenancy]]
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/operational-responsibility|Operational Responsibility]]
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/operational-trade-off|Operational Trade-off]]
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/subscription-access|Subscription Access]]
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/tenant-isolation|Tenant Isolation]]

@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Team Performance Improvement"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/legal-and-organizational-foundations|legal-and-organizational-foundations]]"
+requires-in-competencies:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/competencies/L2-apply-team-dynamics-and-communication|L2-apply-team-dynamics-and-communication]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Team Performance Improvement
+
+Parent macro: [[skills/business/legal-finance-governance/legal-and-organizational-foundations/legal-and-organizational-foundations|Legal and Organizational Foundations]]
+
+Parent competency:
+
+- [[skills/business/legal-finance-governance/legal-and-organizational-foundations/competencies/L2-apply-team-dynamics-and-communication|L3- Apply Team Dynamics and Communication]]
+
+## Description
+
+Enhancing group effectiveness through collaboration.

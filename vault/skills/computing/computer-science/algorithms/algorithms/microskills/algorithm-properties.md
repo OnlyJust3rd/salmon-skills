@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Algorithm Properties"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/computer-science/algorithms/algorithms/algorithms|algorithms]]"
+requires-in-competencies:
+  - "[[skills/computing/computer-science/algorithms/algorithms/competencies/L1-define-algorithm-fundamentals|L1-define-algorithm-fundamentals]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Algorithm Properties
+
+Parent macro: [[skills/computing/computer-science/algorithms/algorithms/algorithms|Algorithms]]
+
+Parent competency:
+
+- [[skills/computing/computer-science/algorithms/algorithms/competencies/L1-define-algorithm-fundamentals|L1- Define Algorithm Fundamentals]]
+
+## Description
+
+Key characteristics and attributes of algorithms.

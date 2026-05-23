@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Capacity Concept"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|watermarking-performance-and-attacks]]"
+requires-in-competencies:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/competencies/L1-explain-watermarking-concepts-and-attack-mechanisms|L1-explain-watermarking-concepts-and-attack-mechanisms]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Capacity Concept
+
+Parent macro: [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/watermarking-performance-and-attacks|Watermarking Performance and Attacks]]
+
+Parent competency:
+
+- [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/competencies/L1-explain-watermarking-concepts-and-attack-mechanisms|L2- Explain Watermarking Concepts and Attack Mechanisms]]
+
+## Description
+
+Articulation of the concept of capacity in watermarking.

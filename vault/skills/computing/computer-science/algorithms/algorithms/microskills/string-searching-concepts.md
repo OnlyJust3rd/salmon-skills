@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "String Searching Concepts"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/computer-science/algorithms/algorithms/algorithms|algorithms]]"
+requires-in-competencies:
+  - "[[skills/computing/computer-science/algorithms/algorithms/competencies/L1-string-search-and-algorithm-strategies|L1-string-search-and-algorithm-strategies]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# String Searching Concepts
+
+Parent macro: [[skills/computing/computer-science/algorithms/algorithms/algorithms|Algorithms]]
+
+Parent competency:
+
+- [[skills/computing/computer-science/algorithms/algorithms/competencies/L1-string-search-and-algorithm-strategies|L1- String Search and Algorithm Strategies]]
+
+## Description
+
+Fundamental ideas related to finding patterns within strings.

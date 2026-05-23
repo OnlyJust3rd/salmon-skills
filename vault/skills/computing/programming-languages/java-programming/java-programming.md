@@ -1,0 +1,221 @@
+---
+type: skill
+title: Java Programming
+tags:
+  - cpe
+  - skill
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[L1-define-adts|L1-define-adts]]"
+  - "[[L1-identify-java-class-components|L1-identify-java-class-components]]"
+  - "[[L1-explain-java-oop-constructs-and-encapsulation|L1-explain-java-oop-constructs-and-encapsulation]]"
+  - "[[L2-implement-adts-and-data-structures-with-oop|L2-implement-adts-and-data-structures-with-oop]]"
+  - "[[L2-implement-backtracking-algorithms-in-java|L2-implement-backtracking-algorithms-in-java]]"
+  - "[[L2-implement-branch-and-bound-in-java|L2-implement-branch-and-bound-in-java]]"
+  - "[[L2-implement-dp-in-java|L2-implement-dp-in-java]]"
+  - "[[L2-implement-genetic-algorithms-in-java|L2-implement-genetic-algorithms-in-java]]"
+  - "[[L2-implement-graph-algorithms-in-java|L2-implement-graph-algorithms-in-java]]"
+  - "[[L2-implement-greedy-algorithms-in-java|L2-implement-greedy-algorithms-in-java]]"
+  - "[[L2-implement-searching-algorithms-in-java|L2-implement-searching-algorithms-in-java]]"
+  - "[[L2-implement-sorting-algorithms-in-java|L2-implement-sorting-algorithms-in-java]]"
+  - "[[L2-implement-string-algorithms-in-java|L2-implement-string-algorithms-in-java]]"
+  - "[[L2-implement-tree-algorithms|L2-implement-tree-algorithms]]"
+  - "[[L2-java-data-structure-implementation|L2-java-data-structure-implementation]]"
+  - "[[L2-translate-algorithms-to-java|L2-translate-algorithms-to-java]]"
+standard-competency:
+  - "[[L2-implement-adts-and-data-structures-with-oop|L2-implement-adts-and-data-structures-with-oop]]"
+  - "[[L2-implement-backtracking-algorithms-in-java|L2-implement-backtracking-algorithms-in-java]]"
+  - "[[L2-implement-branch-and-bound-in-java|L2-implement-branch-and-bound-in-java]]"
+  - "[[L2-implement-dp-in-java|L2-implement-dp-in-java]]"
+  - "[[L2-implement-genetic-algorithms-in-java|L2-implement-genetic-algorithms-in-java]]"
+  - "[[L2-implement-graph-algorithms-in-java|L2-implement-graph-algorithms-in-java]]"
+  - "[[L2-implement-greedy-algorithms-in-java|L2-implement-greedy-algorithms-in-java]]"
+  - "[[L2-implement-searching-algorithms-in-java|L2-implement-searching-algorithms-in-java]]"
+  - "[[L2-implement-sorting-algorithms-in-java|L2-implement-sorting-algorithms-in-java]]"
+  - "[[L2-implement-string-algorithms-in-java|L2-implement-string-algorithms-in-java]]"
+  - "[[L2-implement-tree-algorithms|L2-implement-tree-algorithms]]"
+  - "[[L2-java-data-structure-implementation|L2-java-data-structure-implementation]]"
+  - "[[L2-translate-algorithms-to-java|L2-translate-algorithms-to-java]]"
+microskills:
+  - "[[0-1-knapsack-dp-java-implementation|0-1-knapsack-dp-java-implementation]]"
+  - "[[a-search-algorithm-java-implementation|a-search-algorithm-java-implementation]]"
+  - "[[abstract-data-type-characteristics|abstract-data-type-characteristics]]"
+  - "[[abstract-data-type-definition|abstract-data-type-definition]]"
+  - "[[access-modifier-usage|access-modifier-usage]]"
+  - "[[activity-selection-greedy-java-implementation|activity-selection-greedy-java-implementation]]"
+  - "[[adt-representation-with-java-classes|adt-representation-with-java-classes]]"
+  - "[[algorithm-structure-integration|algorithm-structure-integration]]"
+  - "[[algorithm-to-java-translation|algorithm-to-java-translation]]"
+  - "[[avl-tree-rotation-java-implementation|avl-tree-rotation-java-implementation]]"
+  - "[[bellman-ford-algorithm-java-implementation|bellman-ford-algorithm-java-implementation]]"
+  - "[[binary-search-java-implementation|binary-search-java-implementation]]"
+  - "[[binary-search-tree-bst-operations-java-implementation|binary-search-tree-bst-operations-java-implementation]]"
+  - "[[boyer-moore-java-implementation|boyer-moore-java-implementation]]"
+  - "[[breadth-first-search-bfs-java-implementation|breadth-first-search-bfs-java-implementation]]"
+  - "[[bubble-sort-java-implementation|bubble-sort-java-implementation]]"
+  - "[[coin-change-problem-dp-java-implementation|coin-change-problem-dp-java-implementation]]"
+  - "[[constructor-implementation-for-adts|constructor-implementation-for-adts]]"
+  - "[[depth-first-search-dfs-java-implementation|depth-first-search-dfs-java-implementation]]"
+  - "[[dijkstra-s-algorithm-java-implementation|dijkstra-s-algorithm-java-implementation]]"
+  - "[[edit-distance-levenshtein-distance-dp-java-implementation|edit-distance-levenshtein-distance-dp-java-implementation]]"
+  - "[[encapsulation-for-controlled-access|encapsulation-for-controlled-access]]"
+  - "[[encapsulation-for-data-hiding|encapsulation-for-data-hiding]]"
+  - "[[exponential-search-java-implementation|exponential-search-java-implementation]]"
+  - "[[fenwick-tree-binary-indexed-tree-java-implementation|fenwick-tree-binary-indexed-tree-java-implementation]]"
+  - "[[fibonacci-dp-java-implementation|fibonacci-dp-java-implementation]]"
+  - "[[floyd-warshall-algorithm-java-implementation|floyd-warshall-algorithm-java-implementation]]"
+  - "[[fractional-knapsack-greedy-java-implementation|fractional-knapsack-greedy-java-implementation]]"
+  - "[[genetic-algorithm-implementation|genetic-algorithm-implementation]]"
+  - "[[hamiltonian-path-cycle-backtracking-java-implementation|hamiltonian-path-cycle-backtracking-java-implementation]]"
+  - "[[heap-sort-java-implementation|heap-sort-java-implementation]]"
+  - "[[huffman-coding-greedy-java-implementation|huffman-coding-greedy-java-implementation]]"
+  - "[[inorder-tree-traversal-java-implementation|inorder-tree-traversal-java-implementation]]"
+  - "[[insertion-sort-java-implementation|insertion-sort-java-implementation]]"
+  - "[[interpolation-search-java-implementation|interpolation-search-java-implementation]]"
+  - "[[java-access-modifiers|java-access-modifiers]]"
+  - "[[java-classes-purpose|java-classes-purpose]]"
+  - "[[java-constructors-role|java-constructors-role]]"
+  - "[[java-constructors|java-constructors]]"
+  - "[[java-fields|java-fields]]"
+  - "[[java-hierarchical-data-structures|java-hierarchical-data-structures]]"
+  - "[[java-linear-data-structures|java-linear-data-structures]]"
+  - "[[java-methods|java-methods]]"
+  - "[[java-objects-functionality|java-objects-functionality]]"
+  - "[[job-scheduling-with-deadlines-greedy-java-implementation|job-scheduling-with-deadlines-greedy-java-implementation]]"
+  - "[[jump-search-java-implementation|jump-search-java-implementation]]"
+  - "[[knapsack-branch-and-bound-java-implementation|knapsack-branch-and-bound-java-implementation]]"
+  - "[[knuth-morris-pratt-kmp-java-implementation|knuth-morris-pratt-kmp-java-implementation]]"
+  - "[[kosaraju-s-algorithm-java-implementation|kosaraju-s-algorithm-java-implementation]]"
+  - "[[kruskal-s-algorithm-java-implementation|kruskal-s-algorithm-java-implementation]]"
+  - "[[linear-search-java-implementation|linear-search-java-implementation]]"
+  - "[[longest-common-subsequence-lcs-dp-java-implementation|longest-common-subsequence-lcs-dp-java-implementation]]"
+  - "[[longest-increasing-subsequence-lis-dp-java-implementation|longest-increasing-subsequence-lis-dp-java-implementation]]"
+  - "[[lowest-common-ancestor-lca-java-implementation|lowest-common-ancestor-lca-java-implementation]]"
+  - "[[matrix-chain-multiplication-dp-java-implementation|matrix-chain-multiplication-dp-java-implementation]]"
+  - "[[merge-sort-java-implementation|merge-sort-java-implementation]]"
+  - "[[minimum-spanning-tree-prim-kruskal-greedy-java-implementation|minimum-spanning-tree-prim-kruskal-greedy-java-implementation]]"
+  - "[[n-queens-problem-backtracking-java-implementation|n-queens-problem-backtracking-java-implementation]]"
+  - "[[object-instantiation-for-data-structures|object-instantiation-for-data-structures]]"
+  - "[[permutation-generation-backtracking-java-implementation|permutation-generation-backtracking-java-implementation]]"
+  - "[[postorder-tree-traversal-java-implementation|postorder-tree-traversal-java-implementation]]"
+  - "[[preorder-tree-traversal-java-implementation|preorder-tree-traversal-java-implementation]]"
+  - "[[prim-s-algorithm-java-implementation|prim-s-algorithm-java-implementation]]"
+  - "[[problem-type-algorithm-implementation|problem-type-algorithm-implementation]]"
+  - "[[quick-sort-java-implementation|quick-sort-java-implementation]]"
+  - "[[rabin-karp-java-implementation|rabin-karp-java-implementation]]"
+  - "[[red-black-tree-operations-java-implementation|red-black-tree-operations-java-implementation]]"
+  - "[[segment-tree-java-implementation|segment-tree-java-implementation]]"
+  - "[[selection-sort-java-implementation|selection-sort-java-implementation]]"
+  - "[[subset-generation-backtracking-java-implementation|subset-generation-backtracking-java-implementation]]"
+  - "[[sudoku-solver-backtracking-java-implementation|sudoku-solver-backtracking-java-implementation]]"
+  - "[[tarjan-s-algorithm-java-implementation|tarjan-s-algorithm-java-implementation]]"
+  - "[[topological-sort-java-implementation|topological-sort-java-implementation]]"
+  - "[[traveling-salesman-problem-tsp-branch-and-bound-java-implementation|traveling-salesman-problem-tsp-branch-and-bound-java-implementation]]"
+  - "[[trie-prefix-tree-java-implementation|trie-prefix-tree-java-implementation]]"
+  - "[[unbounded-knapsack-dp-java-implementation|unbounded-knapsack-dp-java-implementation]]"
+  - "[[z-algorithm-java-implementation|z-algorithm-java-implementation]]"
+---
+
+# Java Programming
+
+Developing Java programs that implement algorithms and data structures, including sorting, searching, graph, tree, dynamic programming, greedy, backtracking, branch and bound, string, and genetic algorithms, using Java language features and standard libraries.
+
+## Competencies
+
+- [[L2-translate-algorithms-to-java|L3- Translate Algorithms to Java]]
+- [[L2-implement-sorting-algorithms-in-java|L3- Implement Sorting Algorithms in Java]]
+- [[L2-implement-searching-algorithms-in-java|L3- Implement Searching Algorithms in Java]]
+- [[L2-implement-graph-algorithms-in-java|L3- Implement Graph Algorithms in Java]]
+- [[L2-implement-tree-algorithms|L3- Implement Tree Algorithms]]
+- [[L2-implement-dp-in-java|L3- Implement DP in Java]]
+- [[L2-implement-greedy-algorithms-in-java|L3- Implement Greedy Algorithms in Java]]
+- [[L2-implement-backtracking-algorithms-in-java|L3- Implement Backtracking Algorithms in Java]]
+- [[L2-implement-branch-and-bound-in-java|L3- Implement Branch and Bound in Java]]
+- [[L2-implement-string-algorithms-in-java|L3- Implement String Algorithms in Java]]
+- [[L2-implement-genetic-algorithms-in-java|L3- Implement Genetic Algorithms in Java]]
+- [[L1-identify-java-class-components|L1- Identify Java Class Components]]
+- [[L1-explain-java-oop-constructs-and-encapsulation|L2- Explain Java OOP Constructs and Encapsulation]]
+- [[L2-implement-adts-and-data-structures-with-oop|L3- Implement ADTs and Data Structures with OOP]]
+- [[L1-define-adts|L1- Define ADTs]]
+- [[L2-java-data-structure-implementation|L3- Java Data Structure Implementation]]
+
+## Microskills
+
+- [[0-1-knapsack-dp-java-implementation|0/1 Knapsack DP Java Implementation]]
+- [[a-search-algorithm-java-implementation|A* Search Algorithm Java Implementation]]
+- [[abstract-data-type-characteristics|Abstract Data Type Characteristics]]
+- [[abstract-data-type-definition|Abstract Data Type Definition]]
+- [[access-modifier-usage|Access Modifier Usage]]
+- [[activity-selection-greedy-java-implementation|Activity Selection Greedy Java Implementation]]
+- [[adt-representation-with-java-classes|ADT Representation with Java Classes]]
+- [[algorithm-to-java-translation|Algorithm to Java Translation]]
+- [[algorithm-structure-integration|Algorithm-Structure Integration]]
+- [[avl-tree-rotation-java-implementation|AVL Tree Rotation Java Implementation]]
+- [[bellman-ford-algorithm-java-implementation|Bellman-Ford Algorithm Java Implementation]]
+- [[binary-search-java-implementation|Binary Search Java Implementation]]
+- [[binary-search-tree-bst-operations-java-implementation|Binary Search Tree (BST) Operations Java Implementation]]
+- [[boyer-moore-java-implementation|Boyer-Moore Java Implementation]]
+- [[breadth-first-search-bfs-java-implementation|Breadth-First Search (BFS) Java Implementation]]
+- [[bubble-sort-java-implementation|Bubble Sort Java Implementation]]
+- [[coin-change-problem-dp-java-implementation|Coin Change Problem DP Java Implementation]]
+- [[constructor-implementation-for-adts|Constructor Implementation for ADTs]]
+- [[depth-first-search-dfs-java-implementation|Depth-First Search (DFS) Java Implementation]]
+- [[dijkstra-s-algorithm-java-implementation|Dijkstra's Algorithm Java Implementation]]
+- [[edit-distance-levenshtein-distance-dp-java-implementation|Edit Distance (Levenshtein Distance) DP Java Implementation]]
+- [[encapsulation-for-controlled-access|Encapsulation for Controlled Access]]
+- [[encapsulation-for-data-hiding|Encapsulation for Data Hiding]]
+- [[exponential-search-java-implementation|Exponential Search Java Implementation]]
+- [[fenwick-tree-binary-indexed-tree-java-implementation|Fenwick Tree (Binary Indexed Tree) Java Implementation]]
+- [[fibonacci-dp-java-implementation|Fibonacci DP Java Implementation]]
+- [[floyd-warshall-algorithm-java-implementation|Floyd-Warshall Algorithm Java Implementation]]
+- [[fractional-knapsack-greedy-java-implementation|Fractional Knapsack Greedy Java Implementation]]
+- [[genetic-algorithm-implementation|Genetic Algorithm Implementation]]
+- [[hamiltonian-path-cycle-backtracking-java-implementation|Hamiltonian Path/Cycle Backtracking Java Implementation]]
+- [[heap-sort-java-implementation|Heap Sort Java Implementation]]
+- [[huffman-coding-greedy-java-implementation|Huffman Coding Greedy Java Implementation]]
+- [[inorder-tree-traversal-java-implementation|Inorder Tree Traversal Java Implementation]]
+- [[insertion-sort-java-implementation|Insertion Sort Java Implementation]]
+- [[interpolation-search-java-implementation|Interpolation Search Java Implementation]]
+- [[java-access-modifiers|Java Access Modifiers]]
+- [[java-classes-purpose|Java Classes Purpose]]
+- [[java-constructors|Java Constructors]]
+- [[java-constructors-role|Java Constructors Role]]
+- [[java-fields|Java Fields]]
+- [[java-hierarchical-data-structures|Java Hierarchical Data Structures]]
+- [[java-linear-data-structures|Java Linear Data Structures]]
+- [[java-methods|Java Methods]]
+- [[java-objects-functionality|Java Objects Functionality]]
+- [[job-scheduling-with-deadlines-greedy-java-implementation|Job Scheduling with Deadlines Greedy Java Implementation]]
+- [[jump-search-java-implementation|Jump Search Java Implementation]]
+- [[knapsack-branch-and-bound-java-implementation|Knapsack Branch and Bound Java Implementation]]
+- [[knuth-morris-pratt-kmp-java-implementation|Knuth-Morris-Pratt (KMP) Java Implementation]]
+- [[kosaraju-s-algorithm-java-implementation|Kosaraju's Algorithm Java Implementation]]
+- [[kruskal-s-algorithm-java-implementation|Kruskal's Algorithm Java Implementation]]
+- [[linear-search-java-implementation|Linear Search Java Implementation]]
+- [[longest-common-subsequence-lcs-dp-java-implementation|Longest Common Subsequence (LCS) DP Java Implementation]]
+- [[longest-increasing-subsequence-lis-dp-java-implementation|Longest Increasing Subsequence (LIS) DP Java Implementation]]
+- [[lowest-common-ancestor-lca-java-implementation|Lowest Common Ancestor (LCA) Java Implementation]]
+- [[matrix-chain-multiplication-dp-java-implementation|Matrix Chain Multiplication DP Java Implementation]]
+- [[merge-sort-java-implementation|Merge Sort Java Implementation]]
+- [[minimum-spanning-tree-prim-kruskal-greedy-java-implementation|Minimum Spanning Tree (Prim/Kruskal) Greedy Java Implementation]]
+- [[n-queens-problem-backtracking-java-implementation|N-Queens Problem Backtracking Java Implementation]]
+- [[object-instantiation-for-data-structures|Object Instantiation for Data Structures]]
+- [[permutation-generation-backtracking-java-implementation|Permutation Generation Backtracking Java Implementation]]
+- [[postorder-tree-traversal-java-implementation|Postorder Tree Traversal Java Implementation]]
+- [[preorder-tree-traversal-java-implementation|Preorder Tree Traversal Java Implementation]]
+- [[prim-s-algorithm-java-implementation|Prim's Algorithm Java Implementation]]
+- [[problem-type-algorithm-implementation|Problem Type Algorithm Implementation]]
+- [[quick-sort-java-implementation|Quick Sort Java Implementation]]
+- [[rabin-karp-java-implementation|Rabin-Karp Java Implementation]]
+- [[red-black-tree-operations-java-implementation|Red-Black Tree Operations Java Implementation]]
+- [[segment-tree-java-implementation|Segment Tree Java Implementation]]
+- [[selection-sort-java-implementation|Selection Sort Java Implementation]]
+- [[subset-generation-backtracking-java-implementation|Subset Generation Backtracking Java Implementation]]
+- [[sudoku-solver-backtracking-java-implementation|Sudoku Solver Backtracking Java Implementation]]
+- [[tarjan-s-algorithm-java-implementation|Tarjan's Algorithm Java Implementation]]
+- [[topological-sort-java-implementation|Topological Sort Java Implementation]]
+- [[traveling-salesman-problem-tsp-branch-and-bound-java-implementation|Traveling Salesman Problem (TSP) Branch and Bound Java Implementation]]
+- [[trie-prefix-tree-java-implementation|Trie (Prefix Tree) Java Implementation]]
+- [[unbounded-knapsack-dp-java-implementation|Unbounded Knapsack DP Java Implementation]]
+- [[z-algorithm-java-implementation|Z-Algorithm Java Implementation]]

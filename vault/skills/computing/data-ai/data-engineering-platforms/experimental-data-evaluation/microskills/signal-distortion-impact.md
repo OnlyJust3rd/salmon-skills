@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Signal Distortion Impact"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/experimental-data-evaluation|experimental-data-evaluation]]"
+requires-in-competencies:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/competencies/L1-error-and-distortion-concepts|L1-error-and-distortion-concepts]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Signal Distortion Impact
+
+Parent macro: [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/experimental-data-evaluation|Experimental Data Evaluation]]
+
+Parent competency:
+
+- [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/competencies/L1-error-and-distortion-concepts|L2- Error and Distortion Concepts]]
+
+## Description
+
+Explanation of how signal distortion affects measurements.

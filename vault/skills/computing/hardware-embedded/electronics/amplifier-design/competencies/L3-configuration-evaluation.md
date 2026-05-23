@@ -1,0 +1,44 @@
+---
+type: "competency"
+title: "L5- Configuration Evaluation"
+tags:
+  - "cpe"
+  - "competency"
+strict-prerequisites:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/competencies/L3-feedback-analysis|L3-feedback-analysis]]"
+miller-level: 3
+optional-prerequisites: []
+parent-skill: "[[skills/computing/hardware-embedded/electronics/amplifier-design/amplifier-design|amplifier-design]]"
+requires-microskills:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/gain-requirement-evaluation|gain-requirement-evaluation]]"
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/op-amp-configuration-suitability|op-amp-configuration-suitability]]"
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-evaluation|signal-inversion-requirement-evaluation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# L5- Configuration Evaluation
+
+Parent macro: [[skills/computing/hardware-embedded/electronics/amplifier-design/amplifier-design|Amplifier Design]]
+
+## Competency Statement
+
+Evaluate the suitability of different operational amplifier configurations for achieving a target amplification gain and signal inversion requirement.
+
+## Strict Prerequisites
+
+- [[skills/computing/hardware-embedded/electronics/amplifier-design/competencies/L3-feedback-analysis|L4- Feedback Analysis]]
+
+## Optional Prerequisites
+
+- None
+
+## Corresponding Course Competencies
+
+- None
+
+## Microskills
+
+- [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/op-amp-configuration-suitability|Op-Amp Configuration Suitability]]
+- [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/gain-requirement-evaluation|Gain Requirement Evaluation]]
+- [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-evaluation|Signal Inversion Requirement Evaluation]]

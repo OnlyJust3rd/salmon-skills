@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "BML for Feature Prioritization"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/business/entrepreneurship/lean-startup/lean-startup|lean-startup]]"
+requires-in-competencies:
+  - "[[skills/business/entrepreneurship/lean-startup/competencies/L2-apply-bml-to-poc-mvp-development|L2-apply-bml-to-poc-mvp-development]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# BML for Feature Prioritization
+
+Parent macro: [[skills/business/entrepreneurship/lean-startup/lean-startup|Lean Startup]]
+
+Parent competency:
+
+- [[skills/business/entrepreneurship/lean-startup/competencies/L2-apply-bml-to-poc-mvp-development|L3- Apply BML to PoC/MVP Development]]
+
+## Description
+
+Using BML to guide the selection of essential features.
