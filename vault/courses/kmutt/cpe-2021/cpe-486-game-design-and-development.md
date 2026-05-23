@@ -32,10 +32,10 @@ This class focuses on the process of planning, developing, and creating computer
 
 ## Macro Skills
 
-- [[skills/creative-media/game-development/character-design/character-design|Character Design]]
-- [[skills/creative-media/game-development/game-design/game-design|Game Design]]
-- [[skills/creative-media/game-development/game-development-lifecycle/game-development-lifecycle|Game Development Lifecycle]]
-- [[skills/creative-media/game-development/game-flow-and-difficulty-balancing/game-flow-and-difficulty-balancing|Game Flow and Difficulty Balancing]]
-- [[skills/creative-media/game-development/level-design/level-design|Level Design]]
-- [[skills/creative-media/game-development/player-psychology/player-psychology|Player Psychology]]
-- [[skills/creative-media/design-fabrication/scene-and-environment-design/scene-and-environment-design|Scene and Environment Design]]
+- [[skills/digital-media/game-development/character-design/character-design|Character Design]]
+- [[skills/digital-media/game-development/game-design/game-design|Game Design]]
+- [[skills/digital-media/game-development/game-development-lifecycle/game-development-lifecycle|Game Development Lifecycle]]
+- [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/game-flow-and-difficulty-balancing|Game Flow and Difficulty Balancing]]
+- [[skills/digital-media/game-development/level-design/level-design|Level Design]]
+- [[skills/digital-media/game-development/player-psychology/player-psychology|Player Psychology]]
+- [[skills/digital-media/design-fabrication/scene-and-environment-design/scene-and-environment-design|Scene and Environment Design]]

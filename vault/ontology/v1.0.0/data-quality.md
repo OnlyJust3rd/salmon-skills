@@ -41,10 +41,10 @@ microskills/
 
 Rules:
 
-- `<skill-name>.md` must use `type: "Skill"`.
-- Notes in `competencies/` must use `type: "Competency"`.
+- `<skill-name>.md` must use `type: "skill"`.
+- Notes in `competencies/` must use `type: "competency"`.
 - Competency filenames must match their `miller-level` prefix: `L<miller-level>-<slug>.md`.
-- Notes in `microskills/` must use `type: "Microskill"`.
+- Notes in `microskills/` must use `type: "microskill"`.
 - Skill, competency, and microskill notes must use the exact property sets defined in [[entity-types|Entity Types]].
 - Empty Markdown files are invalid graph notes.
 
@@ -74,9 +74,9 @@ type: "medium"
 title: ""
 tags:
   - medium
-medium-kind: ""
-source: ""
-supports: []
+contributor: "[[contributors/<contributor-slug>|<contributor-slug>]]"
+outcome: "[[skills/<taxonomy-path>/<skill-name>/microskills/<microskill-slug>|<microskill-slug>]]"
+learning-time-in-minutes: 1
 ```
 
 ## Base Rules
@@ -85,6 +85,22 @@ supports: []
 - Base scope filters must use current top-level folders.
 - Entity views should filter by `type`.
 - Any property referenced in a Base view should be defined in [[properties|Properties]].
+
+## Career Rules
+
+Career notes should use this minimum frontmatter:
+
+```yaml
+type: "career"
+title: ""
+level: "entry-level"
+tags:
+  - career
+contributor: "[[contributors/<contributor-slug>|<contributor-slug>]]"
+required-competencies: []
+```
+
+Career bodies should include `## Description`, `## Responsibilities`, and `## Requirements`. Link responsibilities and requirements only when there is a plausible matching `competency` or `skill` note.
 
 ## Redirect Rules
 

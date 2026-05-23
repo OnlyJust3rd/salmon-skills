@@ -42,9 +42,9 @@ This course presents the concepts and tools used to provide copyright protection
 
 ## Macro Skills
 
-- [[skills/security/cybersecurity/access-control/access-control|Access Control]]
-- [[skills/security/cybersecurity/cryptography-for-digital-media-protection/cryptography-for-digital-media-protection|Cryptography for Digital Media Protection]]
-- [[skills/hardware-embedded/electronics-embedded/digital-image-processing/digital-image-processing|Digital Image Processing]]
-- [[skills/security/cybersecurity/digital-rights-management-systems/digital-rights-management-systems|Digital Rights Management Systems]]
-- [[skills/security/cybersecurity/digital-watermarking/digital-watermarking|Digital Watermarking]]
-- [[skills/creative-media/graphics-media/image-compression/image-compression|Image Compression]]
+- [[skills/computing/security-privacy/cybersecurity/access-control/access-control|Access Control]]
+- [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/cryptography-for-digital-media-protection|Cryptography for Digital Media Protection]]
+- [[skills/digital-media/computer-graphics/digital-image-processing/digital-image-processing|Digital Image Processing]]
+- [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/digital-rights-management-systems|Digital Rights Management Systems]]
+- [[skills/computing/security-privacy/cybersecurity/digital-watermarking/digital-watermarking|Digital Watermarking]]
+- [[skills/digital-media/computer-graphics/image-compression/image-compression|Image Compression]]

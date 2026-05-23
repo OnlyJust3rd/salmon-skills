@@ -24,7 +24,7 @@ Fundamental concepts of programming including data types, conditional execution,
 
 ## Macro Skills
 
-- [[skills/programming/algorithms/algorithm-representation/algorithm-representation|Algorithm Representation]]
-- [[skills/programming/programming-languages/c-programming/c-programming|C Programming]]
-- [[skills/programming/software-engineering/modular-program-design/modular-program-design|Modular Program Design]]
-- [[skills/programming/software-engineering/program-testing/program-testing|Program Testing]]
+- [[skills/computing/computer-science/algorithms/algorithm-representation/algorithm-representation|Algorithm Representation]]
+- [[c-programming|C Programming]]
+- [[skills/computing/software-engineering/software-practices/modular-program-design/modular-program-design|Modular Program Design]]
+- [[skills/computing/software-engineering/software-practices/program-testing/program-testing|Program Testing]]

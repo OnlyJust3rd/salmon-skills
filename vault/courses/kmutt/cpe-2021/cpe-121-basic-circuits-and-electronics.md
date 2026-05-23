@@ -30,9 +30,9 @@ Electrical units and definitions, fundamental laws, resistive circuits and netwo
 
 ## Macro Skills
 
-- [[skills/hardware-embedded/electronics-embedded/amplifier-design/amplifier-design|Amplifier Design]]
-- [[skills/hardware-embedded/electronics-embedded/circuit-analysis/circuit-analysis|Circuit Analysis]]
-- [[skills/hardware-embedded/electronics-embedded/electronic-measurement/electronic-measurement|Electronic Measurement]]
-- [[skills/data/data-platforms/experimental-data-evaluation/experimental-data-evaluation|Experimental Data Evaluation]]
-- [[skills/hardware-embedded/electronics-embedded/filter-design/filter-design|Filter Design]]
-- [[skills/hardware-embedded/electronics-embedded/semiconductor-device-operation/semiconductor-device-operation|Semiconductor Device Operation]]
+- [[skills/computing/hardware-embedded/electronics/amplifier-design/amplifier-design|Amplifier Design]]
+- [[skills/computing/hardware-embedded/electronics/circuit-analysis/circuit-analysis|Circuit Analysis]]
+- [[skills/computing/hardware-embedded/electronics/electronic-measurement/electronic-measurement|Electronic Measurement]]
+- [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/experimental-data-evaluation|Experimental Data Evaluation]]
+- [[skills/computing/hardware-embedded/electronics/filter-design/filter-design|Filter Design]]
+- [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/semiconductor-device-operation|Semiconductor Device Operation]]

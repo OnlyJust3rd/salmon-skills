@@ -28,10 +28,10 @@ This course provides a comprehensive study of discrete mathematics for computer 
 
 ## Macro Skills
 
-- [[skills/programming/algorithms/algorithmic-thinking/algorithmic-thinking|Algorithmic Thinking]]
+- [[skills/computing/computer-science/algorithms/algorithmic-thinking/algorithmic-thinking|Algorithmic Thinking]]
 - [[combinatorial-analysis|Combinatorial Analysis]]
-- [[skills/programming/algorithms/computational-model-understanding/computational-model-understanding|Computational Model Understanding]]
-- [[skills/programming/data-structures/discrete-structure-modeling/discrete-structure-modeling|Discrete Structure Modeling]]
-- [[skills/programming/data-structures/graph-and-tree-modeling/graph-and-tree-modeling|Graph and Tree Modeling]]
-- [[skills/hardware-embedded/electronics-embedded/logical-reasoning/logical-reasoning|Logical Reasoning]]
+- [[skills/computing/computer-science/algorithms/computational-model-understanding/computational-model-understanding|Computational Model Understanding]]
+- [[skills/computing/computer-science/data-structures/discrete-structure-modeling/discrete-structure-modeling|Discrete Structure Modeling]]
+- [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/graph-and-tree-modeling|Graph and Tree Modeling]]
+- [[skills/mathematics/discrete-math/logical-reasoning/logical-reasoning|Logical Reasoning]]
 - [[proof-techniques|Proof Techniques]]

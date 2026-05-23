@@ -36,10 +36,10 @@ This course introduces students to Human-Computer Interaction (HCI), an interdis
 
 ## Macro Skills
 
-- [[skills/web-and-design/frontend-ux/advanced-interaction-paradigms/advanced-interaction-paradigms|Advanced Interaction Paradigms]]
-- [[skills/web-and-design/frontend-ux/human-cognitive-and-perception/human-cognitive-and-perception|Human Cognitive and Perception]]
-- [[skills/web-and-design/frontend-ux/human-computer-interaction/human-computer-interaction|Human-Computer Interaction]]
-- [[skills/web-and-design/frontend-ux/interactive-system-development/interactive-system-development|Interactive System Development]]
-- [[skills/web-and-design/frontend-ux/usability-evaluation/usability-evaluation|Usability Evaluation]]
-- [[skills/web-and-design/frontend-ux/user-centered-design/user-centered-design|User-Centered Design]]
-- [[skills/web-and-design/frontend-ux/visual-interface-design/visual-interface-design|Visual Interface Design]]
+- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/advanced-interaction-paradigms|Advanced Interaction Paradigms]]
+- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/human-cognitive-and-perception|Human Cognitive and Perception]]
+- [[skills/professional-practice/human-centered-design/human-computer-interaction/human-computer-interaction|Human-Computer Interaction]]
+- [[skills/professional-practice/human-centered-design/interactive-system-development/interactive-system-development|Interactive System Development]]
+- [[skills/professional-practice/human-centered-design/usability-evaluation/usability-evaluation|Usability Evaluation]]
+- [[skills/professional-practice/human-centered-design/user-centered-design/user-centered-design|User-Centered Design]]
+- [[skills/professional-practice/human-centered-design/visual-interface-design/visual-interface-design|Visual Interface Design]]

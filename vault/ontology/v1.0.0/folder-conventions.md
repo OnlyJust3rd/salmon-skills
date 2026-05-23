@@ -53,13 +53,14 @@ Rules:
 Career notes live under:
 
 ```text
-vault/careers/<focus-area>/<career-slug>.md
+vault/careers/<domain-or-focus-area>/<career-slug>.md
 ```
 
 Rules:
 
 - The note must use `type: "career"` or `type: "redirect"`.
-- Career notes should link to required competencies under `## Required Competencies`.
+- Career notes should link to role requirements under `## Requirements`.
+- Career notes should use `level`, `contributor`, and `required-competencies` in frontmatter.
 
 ## Skills
 
@@ -76,13 +77,16 @@ vault/skills/<taxonomy-path>/<skill-name>/
 
 Rules:
 
+- Skill classification is path-only. Do not add taxonomy-like frontmatter such as `domain`, `subdomain`, `capability-area`, `skill-kind`, `source-path`, or `migration-status`.
+- Current top-level skill folders are `business/`, `computing/`, `digital-media/`, `mathematics/`, and `professional-practice/`. Add future top-level domains only when real content exists.
+- Computing skills should live under one of `computing/computer-science/`, `computing/software-engineering/`, `computing/systems-infrastructure/`, `computing/data-ai/`, `computing/security-privacy/`, `computing/hardware-embedded/`, or `computing/web-mobile/`.
 - `<taxonomy-path>` may contain one or more nested folders.
 - The leaf folder name and skill filename must match.
-- The skill note must use `type: "Skill"`.
-- Competency notes must live in `competencies/` and use `type: "Competency"`.
+- The skill note must use `type: "skill"`.
+- Competency notes must live in `competencies/` and use `type: "competency"`.
 - Competency filenames must start with `L<miller-level>-`, using the note's `miller-level` property as the source of truth.
-- Microskill notes must live in `microskills/` and use `type: "Microskill"`.
-- Skill taxonomy is derived from folders, not frontmatter properties.
+- Microskill notes must live in `microskills/` and use `type: "microskill"`.
+- Skill taxonomy is derived from folders, not frontmatter properties. Relationship fields may link across taxonomy paths.
 
 ## Contributors
 
@@ -102,13 +106,15 @@ Rules:
 Learning media live under:
 
 ```text
-vault/mediums/<medium-kind>/<medium-slug>.md
+vault/mediums/<contributor>/<medium-kind>/<medium-slug>.md
 ```
 
 Rules:
 
 - Medium notes should use `type: "medium"`.
-- Medium notes should link back to the most specific supported graph nodes.
+- Medium notes should set `contributor` to one contributor wikilink.
+- Medium notes should set `outcome` to the most specific graph node they teach or support, usually a `microskill` or `competency`.
+- Medium notes should estimate `learning-time-in-minutes` as a positive integer.
 
 ## Bases
 

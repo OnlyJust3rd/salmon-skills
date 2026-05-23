@@ -19,20 +19,37 @@ Skill taxonomy is path-derived. The folders between `vault/skills/` and the leaf
 Rules:
 
 - Taxonomy paths may be one or more folders deep.
-- Do not duplicate taxonomy path segments into fixed frontmatter properties.
+- Do not duplicate taxonomy path segments into fixed or faceted frontmatter properties.
 - A leaf skill folder is identified by containing `<skill-name>.md`, `competencies/`, and `microskills/`.
 - Add or reorganize taxonomy folders by changing the folder path and updating affected links.
+
+Current top-level skill paths:
+
+- `business/`
+- `computing/`
+- `digital-media/`
+- `mathematics/`
+- `professional-practice/`
+
+Reserved future top-level skill paths:
+
+- `engineering/`
+- `health/`
+- `education/`
+- `science/`
+- `trades/`
+- `language-communication/`
 
 ## Miller Levels
 
 Allowed competency `miller-level` values:
 
-| Level | Meaning |
-| --- | --- |
-| `1` | Knows |
-| `2` | Knows how |
-| `3` | Shows how |
-| `4` | Does |
+| Level | Meaning   |
+| ----- | --------- |
+| `1`   | Knows     |
+| `2`   | Knows how |
+| `3`   | Shows how |
+| `4`   | Does      |
 
 Rules:
 
@@ -59,9 +76,9 @@ Entity tags should mirror the entity type where useful:
 
 - `course`
 - `career`
-- `Skill`
-- `Competency`
-- `Microskill`
+- `skill`
+- `competency`
+- `microskill`
 - `medium`
 - `contributor`
 - `redirect`

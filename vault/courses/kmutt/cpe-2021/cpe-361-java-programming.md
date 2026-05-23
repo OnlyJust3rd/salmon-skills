@@ -23,4 +23,4 @@ Syntax of Java programming language. Java technology, Object-Oriented Programmin
 
 ## Macro Skills
 
-- [[skills/programming/software-engineering/object-oriented-programming/object-oriented-programming|Object-Oriented Programming]]
+- [[skills/computing/software-engineering/software-practices/object-oriented-programming/object-oriented-programming|Object-Oriented Programming]]

@@ -36,11 +36,9 @@ This note defines the frontmatter vocabulary for graph notes.
 
 | Property | Type | Rule |
 | --- | --- | --- |
-| `job-title` | Text | Role title. |
-| `focus-area` | Text | Career family. |
-| `source` | Text | Upstream source label or generation source. |
-| `required-competency-count` | Number | Optional derived count retained for career notes. |
-| `required-competencies` | List | Required competency labels or links. |
+| `level` | Text | Career seniority or corporate level, for example `Associate`, `Junior`, `Mid`, `Senior`, `Lead`, `fellowship`, `L0`, `L1`, or `entry-level`. |
+| `contributor` | Text | Wikilink to the contributor note for the career profile. |
+| `required-competencies` | List | Wikilinks to required `competency` notes, or to `skill` notes when the requirement is broader than one competency. |
 
 ## Skill Properties
 
@@ -71,15 +69,13 @@ This note defines the frontmatter vocabulary for graph notes.
 
 | Property | Type | Rule |
 | --- | --- | --- |
-| `medium-kind` | Text | Kind of learning artifact. |
-| `source` | Text | Upstream source label or generation source. |
-| `supports` | List | Wikilinks or stable paths to supported graph notes. |
-| `related-competencies` | List | Related competencies. |
-| `related-microskills` | List | Related microskills. |
+| `contributor` | Text | Wikilink to the contributor note for the medium. |
+| `outcome` | Text | Wikilink to one `competency` or `microskill` note that the medium teaches or supports. |
+| `learning-time-in-minutes` | Number | Positive integer estimate of expected learning time in minutes. |
 
 ## Taxonomy Rule
 
-Skill taxonomy is derived from folder paths, not duplicated in frontmatter. Do not add fixed-depth taxonomy properties for skill grouping; use the path under `vault/skills/` when grouping or querying by taxonomy.
+Skill taxonomy is derived from folder paths and must not be duplicated in frontmatter. Do not add fixed-depth or faceted taxonomy properties such as `domain`, `subdomain`, `capability-area`, `skill-kind`, `source-path`, or `migration-status`; use the path under `vault/skills/` when grouping or querying by taxonomy.
 
 ## Wikilink Alias Rule
 

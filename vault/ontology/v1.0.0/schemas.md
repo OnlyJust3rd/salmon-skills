@@ -17,13 +17,13 @@ This ontology defines the vault schema. Treat these notes as the source of truth
 ```mermaid
 graph TD
   Course["Course"] -->|Yield| Competency["Competency"]
+  Course -..->|Contain| Medium["Medium"]
   Skill["Skill"] -->|Owns| Competency
   Competency -->|Requires| Micro["Microskill"]
-  Contributor["Contributor"] -->|Contributes| Skill
-  Contributor -->|Contributes| Competency
-  Contributor -->|Contributes| Micro
+  Career -..->|Requires| Skill
   Career["Career"] -->|Requires| Competency
-  Medium["Learning Medium"] -->|Yields| Micro
+  Medium -->|Outcome| Competency
+  Medium -->|Outcome| Micro
 ```
 
 ## Modules

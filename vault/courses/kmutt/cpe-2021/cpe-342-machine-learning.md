@@ -33,5 +33,5 @@ This course explores the theoretical basis of machine learning through examples 
 
 ## Macro Skills
 
-- [[skills/data/ai/deep-learning/deep-learning|Deep Learning]]
-- [[skills/data/ai/reinforcement-learning/reinforcement-learning|Reinforcement Learning]]
+- [[skills/computing/data-ai/artificial-intelligence/deep-learning/deep-learning|Deep Learning]]
+- [[skills/computing/data-ai/artificial-intelligence/reinforcement-learning/reinforcement-learning|Reinforcement Learning]]

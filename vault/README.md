@@ -43,10 +43,10 @@ Use this folder for:
 Expected pattern:
 
 ```text
-careers/<focus-area>/<career-slug>.md
+careers/<domain-or-focus-area>/<career-slug>.md
 ```
 
-Career notes should link required competencies under `## Required Competencies`.
+Career notes use `level`, one `contributor`, and `required-competencies` links to `competency` or broader `skill` notes. Their body sections are `## Description`, `## Responsibilities`, and `## Requirements`.
 
 ### `skills/`
 
@@ -73,9 +73,9 @@ Rules:
 
 - `<taxonomy-path>` may contain one or more nested folders.
 - The leaf folder and skill note should share the same slug.
-- Skill notes use `type: "Skill"`.
-- Competency notes use `type: "Competency"`.
-- Microskill notes use `type: "Microskill"`.
+- Skill notes use `type: "skill"`.
+- Competency notes use `type: "competency"`.
+- Microskill notes use `type: "microskill"`.
 - Skill `standard-competency` values identify the expected competency level for someone claiming that skill.
 - Competency filenames use their `miller-level` as the `L<miller-level>-` prefix.
 - Competencies describe assessable learning outcomes.
@@ -112,10 +112,10 @@ Use this folder for:
 Expected pattern:
 
 ```text
-mediums/<medium-kind>/<medium-slug>.md
+mediums/<contributor>/<medium-kind>/<medium-slug>.md
 ```
 
-Medium notes should link back to the most specific graph nodes they support, usually microskills or competencies.
+Medium notes use `type: "medium"`, name one `contributor`, and link `outcome` to the most specific graph node they support, usually a microskill or competency. They also include `learning-time-in-minutes` as a positive integer estimate.
 
 ### `ontology/`
 

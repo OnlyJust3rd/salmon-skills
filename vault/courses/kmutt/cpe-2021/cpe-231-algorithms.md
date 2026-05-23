@@ -34,6 +34,6 @@ Efficiency analysis of non-recursive and recursive algorithms. Algorithm design 
 
 ## Macro Skills
 
-- [[skills/programming/algorithms/algorithms/algorithms|Algorithms]]
-- [[skills/programming/algorithms/computational-complexity-analysis/computational-complexity-analysis|Computational Complexity Analysis]]
-- [[skills/programming/programming-languages/java-programming/java-programming|Java Programming]]
+- [[skills/computing/computer-science/algorithms/algorithms/algorithms|Algorithms]]
+- [[skills/computing/computer-science/algorithms/computational-complexity-analysis/computational-complexity-analysis|Computational Complexity Analysis]]
+- [[java-programming|Java Programming]]

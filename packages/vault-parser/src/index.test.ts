@@ -7,7 +7,7 @@ test('parseVaultEntries returns path-keyed nodes and resolved wikilink edges', (
     {
       path: 'skills/programming/javascript.md',
       content:
-        '---\ntype: "Skill"\ntags:\n  - programming\n  - javascript\ncount: 2\nempty-list: []\n---\nSee [[skills/programming/functions|Functions]] and [[loops#Basics]].',
+        '---\ntype: "skill"\ntags:\n  - programming\n  - javascript\ncount: 2\nempty-list: []\n---\nSee [[skills/programming/functions|Functions]] and [[loops#Basics]].',
     },
     {
       path: 'skills/programming/functions.md',
@@ -25,7 +25,7 @@ test('parseVaultEntries returns path-keyed nodes and resolved wikilink edges', (
       path: 'skills/programming/javascript.md',
       absolutePath: undefined,
       frontmatter: {
-        type: 'Skill',
+        type: 'skill',
         tags: ['programming', 'javascript'],
         count: 2,
         'empty-list': [],
@@ -215,12 +215,12 @@ test('validateGraph reports invalid skill folder structure', () => {
     {
       path: 'skills/programming/python.md',
       content:
-        '---\ntype: "Skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nmicroskills: []\n---\n# Python',
+        '---\ntype: "skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Python',
     },
     {
       path: 'skills/programming/python/L1-python.md',
       content:
-        '---\ntype: "Competency"\ntitle: "L1 Python"\ntags: []\nstrict-prerequisites: []\nmiller-level: 1\noptional-prerequisites: []\nparent-skill: "[[skills/programming/python/python|python]]"\nrequires-microskills: []\ncontributors: []\n---\n# L1 Python',
+        '---\ntype: "competency"\ntitle: "L1 Python"\ntags: []\nstrict-prerequisites: []\nmiller-level: 1\noptional-prerequisites: []\nparent-skill: "[[skills/programming/python/python|python]]"\nrequires-microskills: []\ncontributors: []\n---\n# L1 Python',
     },
   ])
 

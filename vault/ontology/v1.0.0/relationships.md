@@ -71,6 +71,7 @@ Relationship: `contributor contributed to graph node`.
 Rules:
 
 - Skill, competency, and microskill notes list contributor wikilinks in `contributors`.
+- Career and medium notes list one contributor wikilink in `contributor`.
 - Contributor notes live under `vault/contributors/`.
 
 ## Career to Competency
@@ -79,16 +80,17 @@ Relationship: `career requires competency`.
 
 Rules:
 
-- Career notes list required competencies under `## Required Competencies`.
+- Career notes list linked role requirements under `## Requirements`.
 - Use `required-competencies` in frontmatter for machine-readable role requirements.
+- `required-competencies` values should link to `competency` notes when the requirement is specific, or to `skill` notes when the requirement is broader than one competency.
 
 ## Medium to Graph Node
 
-Relationship: `medium supports learning graph node`.
+Relationship: `medium has learning outcome`.
 
 Rules:
 
-- Medium notes should use `supports` for the most specific supported notes.
+- Medium notes should use `outcome` for the most specific supported note.
 - Prefer linking to microskills when the content teaches a focused concept.
 - Link to competencies when the content supports an outcome.
 

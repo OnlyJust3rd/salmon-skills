@@ -1,45 +1,54 @@
 ---
 type: "career"
 title: "QA Engineer"
+level: "entry-level"
 tags:
   - "career"
   - "information-technology"
-job-title: "QA Engineer"
-focus-area: "Information technology"
-required-competency-count: 13
-source: "supporting_jobs.json"
+contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
-  - "Program Testing :: L2- Test Case Identification"
-  - "Program Testing :: L3- Unit Tests"
-  - "Program Testing :: L3- Integration Tests"
-  - "Program Testing :: L3- User Acceptance Test"
-  - "Software Testing :: L2- Software Testing Fundamentals"
-  - "Software Testing :: L4- Validation & Verification Differentiation"
-  - "Software Testing :: L3- Automated Testing Implementation"
-  - "Quality Assurance :: L2- Summarize QA Metrics Importance"
-  - "Quality Assurance :: L2- Describe Static Analysis Benefits"
-  - "Quality Assurance :: L2- Explain Code Reviews"
-  - "Cross-Browser Testing :: L2- Explain Cross-Browser Compatibility Testing"
-  - "Usability Evaluation :: L3- Apply Usability Evaluation Methods"
-  - "Software Version Control :: L3- Utilize Git"
+  - "[[skills/computing/software-engineering/software-practices/program-testing/competencies/L1-test-case-identification|L1-test-case-identification]]"
+  - "[[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-unit-tests|L2-unit-tests]]"
+  - "[[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-integration-tests|L2-integration-tests]]"
+  - "[[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-user-acceptance-test|L2-user-acceptance-test]]"
+  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L1-software-testing-fundamentals|L1-software-testing-fundamentals]]"
+  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L3-validation-verification-differentiation|L3-validation-verification-differentiation]]"
+  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-summarize-qa-metrics-importance|L1-summarize-qa-metrics-importance]]"
+  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-describe-static-analysis-benefits|L1-describe-static-analysis-benefits]]"
+  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
+  - "[[skills/computing/web-mobile/frontend-development/cross-browser-testing/competencies/L1-explain-cross-browser-compatibility-testing|L1-explain-cross-browser-compatibility-testing]]"
+  - "[[skills/professional-practice/human-centered-design/usability-evaluation/competencies/L2-apply-usability-evaluation-methods|L2-apply-usability-evaluation-methods]]"
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
 ---
 
 # QA Engineer
 
-Career competency profile from `supporting_jobs.json`.
+## Description
 
-## Required Competencies
+A QA Engineer is an entry-level information technology role focused on applying the listed competencies in practical product, platform, or operational contexts.
 
-- [[skills/programming/software-engineering/program-testing/competencies/L1-test-case-identification|L2- Test Case Identification]]
-- [[skills/programming/software-engineering/program-testing/competencies/L2-unit-tests|L3- Unit Tests]]
-- [[skills/programming/software-engineering/program-testing/competencies/L2-integration-tests|L3- Integration Tests]]
-- [[skills/programming/software-engineering/program-testing/competencies/L2-user-acceptance-test|L3- User Acceptance Test]]
-- [[skills/programming/software-engineering/software-testing/competencies/L1-software-testing-fundamentals|L2- Software Testing Fundamentals]]
-- [[skills/programming/software-engineering/software-testing/competencies/L3-validation-verification-differentiation|L4- Validation & Verification Differentiation]]
-- [[skills/programming/software-engineering/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
-- [[skills/programming/software-engineering/quality-assurance/competencies/L1-summarize-qa-metrics-importance|L2- Summarize QA Metrics Importance]]
-- [[skills/programming/software-engineering/quality-assurance/competencies/L1-describe-static-analysis-benefits|L2- Describe Static Analysis Benefits]]
-- [[skills/programming/software-engineering/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
-- [[skills/web-and-design/frontend-ux/cross-browser-testing/competencies/L1-explain-cross-browser-compatibility-testing|L2- Explain Cross-Browser Compatibility Testing]]
-- [[skills/web-and-design/frontend-ux/usability-evaluation/competencies/L2-apply-usability-evaluation-methods|L3- Apply Usability Evaluation Methods]]
-- [[skills/programming/software-engineering/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]
+## Responsibilities
+
+- Apply [[skills/computing/software-engineering/software-practices/program-testing/competencies/L1-test-case-identification|L2- Test Case Identification]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-unit-tests|L3- Unit Tests]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-integration-tests|L3- Integration Tests]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-user-acceptance-test|L3- User Acceptance Test]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-practices/software-testing/competencies/L1-software-testing-fundamentals|L2- Software Testing Fundamentals]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-practices/software-testing/competencies/L3-validation-verification-differentiation|L4- Validation & Verification Differentiation]] in day-to-day role work.
+
+## Requirements
+
+- [[skills/computing/software-engineering/software-practices/program-testing/competencies/L1-test-case-identification|L2- Test Case Identification]]
+- [[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-unit-tests|L3- Unit Tests]]
+- [[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-integration-tests|L3- Integration Tests]]
+- [[skills/computing/software-engineering/software-practices/program-testing/competencies/L2-user-acceptance-test|L3- User Acceptance Test]]
+- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L1-software-testing-fundamentals|L2- Software Testing Fundamentals]]
+- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L3-validation-verification-differentiation|L4- Validation & Verification Differentiation]]
+- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
+- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-summarize-qa-metrics-importance|L2- Summarize QA Metrics Importance]]
+- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-describe-static-analysis-benefits|L2- Describe Static Analysis Benefits]]
+- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
+- [[skills/computing/web-mobile/frontend-development/cross-browser-testing/competencies/L1-explain-cross-browser-compatibility-testing|L2- Explain Cross-Browser Compatibility Testing]]
+- [[skills/professional-practice/human-centered-design/usability-evaluation/competencies/L2-apply-usability-evaluation-methods|L3- Apply Usability Evaluation Methods]]
+- [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]

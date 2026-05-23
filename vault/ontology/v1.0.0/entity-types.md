@@ -45,16 +45,19 @@ Required properties:
 
 - `type`
 - `title`
+- `level`
 - `tags`
-- `job-title`
-- `focus-area`
-- `source`
-
-Recommended properties:
-
+- `contributor`
 - `required-competencies`
 
-## `Skill`
+Expected body:
+
+- Career heading.
+- `## Description`
+- `## Responsibilities`
+- `## Requirements`
+
+## `skill`
 
 Use for the main note inside each leaf skill folder.
 
@@ -75,7 +78,7 @@ Expected body:
 - `## Competencies`
 - `## Microskills`
 
-## `Competency`
+## `competency`
 
 Use for assessable learning outcomes under a skill.
 
@@ -100,7 +103,7 @@ Expected body:
 - `## Optional Prerequisites`
 - `## Microskills`
 
-## `Microskill`
+## `microskill`
 
 Use for atomic knowledge, technique, or behavior notes under a skill.
 
@@ -129,14 +132,9 @@ Required properties:
 - `type`
 - `title`
 - `tags`
-- `medium-kind`
-- `source`
-
-Recommended properties:
-
-- `supports`
-- `related-competencies`
-- `related-microskills`
+- `contributor`
+- `outcome`
+- `learning-time-in-minutes`
 
 ## `contributor`
 

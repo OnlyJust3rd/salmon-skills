@@ -24,12 +24,12 @@ CPE232 Data Models (also known as Data Modeling and Visualization) provides a co
 
 ## Macro Skills
 
-- [[skills/data/data-platforms/data-cleansing/data-cleansing|Data Cleansing]]
-- [[skills/data/data-platforms/data-mining/data-mining|Data Mining]]
-- [[skills/data/data-platforms/data-modeling/data-modeling|Data Modeling]]
-- [[skills/data/data-science/data-science/data-science|Data Science]]
-- [[skills/programming/data-structures/data-types/data-types|Data Types]]
-- [[skills/data/data-platforms/data-visualization/data-visualization|Data Visualization]]
-- [[skills/data/data-platforms/exploratory-data-analysis/exploratory-data-analysis|Exploratory Data Analysis]]
-- [[skills/data/data-science/machine-learning/machine-learning|Machine Learning]]
-- [[skills/programming/programming-languages/python/python|Python]]
+- [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/data-cleansing|Data Cleansing]]
+- [[skills/computing/data-ai/data-engineering-platforms/data-mining/data-mining|Data Mining]]
+- [[skills/computing/data-ai/data-engineering-platforms/data-modeling/data-modeling|Data Modeling]]
+- [[skills/computing/data-ai/data-science/data-science/data-science|Data Science]]
+- [[skills/computing/computer-science/data-structures/data-types/data-types|Data Types]]
+- [[skills/computing/data-ai/data-engineering-platforms/data-visualization/data-visualization|Data Visualization]]
+- [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/exploratory-data-analysis|Exploratory Data Analysis]]
+- [[skills/computing/data-ai/data-science/machine-learning/machine-learning|Machine Learning]]
+- [[python|Python]]

@@ -31,13 +31,13 @@ Professional and ethical issues related to the work in computer engineering. Per
 
 ## Macro Skills
 
-- [[skills/business-it/business-product/business-ethics-principles/business-ethics-principles|Business Ethics Principles]]
-- [[skills/business-it/business-product/contractual-agreements/contractual-agreements|Contractual Agreements]]
-- [[skills/business-it/business-product/corporate-functions/corporate-functions|Corporate Functions]]
-- [[skills/business-it/business-product/employer-expectations/employer-expectations|Employer Expectations]]
-- [[skills/business-it/business-product/it-career-path/it-career-path|IT Career Path]]
-- [[skills/business-it/business-product/income-tax-fundamentals/income-tax-fundamentals|Income Tax Fundamentals]]
-- [[skills/business-it/business-product/organizational-structures/organizational-structures|Organizational Structures]]
-- [[skills/business-it/business-product/sustainability-and-esg-frameworks/sustainability-and-esg-frameworks|Sustainability and ESG Frameworks]]
-- [[skills/business-it/business-product/technology-impact-analysis/technology-impact-analysis|Technology Impact Analysis]]
-- [[skills/hardware-embedded/electronics-embedded/thai-digital-law/thai-digital-law|Thai Digital Law]]
+- [[skills/business/legal-finance-governance/business-ethics-principles/business-ethics-principles|Business Ethics Principles]]
+- [[skills/business/legal-finance-governance/contractual-agreements/contractual-agreements|Contractual Agreements]]
+- [[skills/business/corporate-operations/corporate-functions/corporate-functions|Corporate Functions]]
+- [[skills/business/career-workplace/employer-expectations/employer-expectations|Employer Expectations]]
+- [[skills/professional-practice/career-development/it-career-path/it-career-path|IT Career Path]]
+- [[skills/business/legal-finance-governance/income-tax-fundamentals/income-tax-fundamentals|Income Tax Fundamentals]]
+- [[skills/business/corporate-operations/organizational-structures/organizational-structures|Organizational Structures]]
+- [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/sustainability-and-esg-frameworks|Sustainability and ESG Frameworks]]
+- [[skills/professional-practice/technology-society/technology-impact-analysis/technology-impact-analysis|Technology Impact Analysis]]
+- [[skills/professional-practice/digital-law/thai-digital-law/thai-digital-law|Thai Digital Law]]

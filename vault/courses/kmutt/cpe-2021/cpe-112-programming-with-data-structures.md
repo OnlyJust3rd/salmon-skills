@@ -24,5 +24,5 @@ Computer programming course with an emphasis on analyzing algorithm efficiency (
 
 ## Macro Skills
 
-- [[skills/programming/algorithms/algorithm-efficiency-analysis/algorithm-efficiency-analysis|Algorithm Efficiency Analysis]]
-- [[skills/programming/data-structures/data-structure-principles/data-structure-principles|Data Structure Principles]]
+- [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/algorithm-efficiency-analysis|Algorithm Efficiency Analysis]]
+- [[skills/computing/computer-science/data-structures/data-structure-principles/data-structure-principles|Data Structure Principles]]

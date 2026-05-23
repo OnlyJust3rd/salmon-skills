@@ -93,9 +93,24 @@ const ENTITY_REQUIRED_PROPERTIES = {
     "academic-level",
     "source",
   ],
-  career: ["type", "title", "tags", "job-title", "focus-area", "source"],
-  Skill: ["type", "title", "tags", "contributors", "competencies", "microskills"],
-  Competency: [
+  career: [
+    "type",
+    "title",
+    "level",
+    "tags",
+    "contributor",
+    "required-competencies",
+  ],
+  skill: [
+    "type",
+    "title",
+    "tags",
+    "contributors",
+    "competencies",
+    "standard-competency",
+    "microskills",
+  ],
+  competency: [
     "type",
     "title",
     "tags",
@@ -106,7 +121,7 @@ const ENTITY_REQUIRED_PROPERTIES = {
     "requires-microskills",
     "contributors",
   ],
-  Microskill: [
+  microskill: [
     "type",
     "title",
     "tags",
@@ -114,7 +129,14 @@ const ENTITY_REQUIRED_PROPERTIES = {
     "requires-in-competencies",
     "contributors",
   ],
-  medium: ["type", "title", "tags", "medium-kind", "source"],
+  medium: [
+    "type",
+    "title",
+    "tags",
+    "contributor",
+    "outcome",
+    "learning-time-in-minutes",
+  ],
   contributor: ["type", "title", "tags"],
   redirect: ["type", "title", "tags"],
 } as const satisfies Record<string, readonly string[]>;
@@ -423,31 +445,31 @@ function validateNodeLocation(
     issues.push(makeIssue("INVALID_LOCATION", "`medium` notes must live under `mediums/`.", node));
   }
 
-  if (type === "Skill" && !isSkillNotePath(node.path)) {
+  if (type === "skill" && !isSkillNotePath(node.path)) {
     issues.push(
       makeIssue(
         "INVALID_SKILL_LOCATION",
-        "`Skill` notes must follow `skills/<taxonomy-path>/<skill-slug>/<skill-slug>.md`.",
+        "`skill` notes must follow `skills/<taxonomy-path>/<skill-slug>/<skill-slug>.md`.",
         node,
       ),
     );
   }
 
-  if (type === "Competency" && !isChildNotePath(node.path, "competencies")) {
+  if (type === "competency" && !isChildNotePath(node.path, "competencies")) {
     issues.push(
       makeIssue(
         "INVALID_COMPETENCY_LOCATION",
-        "`Competency` notes must live in a skill `competencies/` directory.",
+        "`competency` notes must live in a skill `competencies/` directory.",
         node,
       ),
     );
   }
 
-  if (type === "Microskill" && !isChildNotePath(node.path, "microskills")) {
+  if (type === "microskill" && !isChildNotePath(node.path, "microskills")) {
     issues.push(
       makeIssue(
         "INVALID_MICROSKILL_LOCATION",
-        "`Microskill` notes must live in a skill `microskills/` directory.",
+        "`microskill` notes must live in a skill `microskills/` directory.",
         node,
       ),
     );

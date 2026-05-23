@@ -30,10 +30,10 @@ This course introduces the basic concepts in computer graphics, covering the tec
 
 ## Macro Skills
 
-- [[skills/creative-media/graphics-media/curve-modeling/curve-modeling|Curve Modeling]]
-- [[skills/creative-media/graphics-media/geometric-representation/geometric-representation|Geometric Representation]]
-- [[skills/creative-media/graphics-media/geometric-transformations/geometric-transformations|Geometric Transformations]]
-- [[skills/creative-media/graphics-media/perspective-projection/perspective-projection|Perspective Projection]]
-- [[skills/programming/algorithms/rasterization-algorithms/rasterization-algorithms|Rasterization Algorithms]]
-- [[skills/creative-media/graphics-media/rendering-and-visual-realism/rendering-and-visual-realism|Rendering and Visual Realism]]
-- [[skills/creative-media/graphics-media/viewing-and-clipping/viewing-and-clipping|Viewing and Clipping]]
+- [[skills/digital-media/computer-graphics/curve-modeling/curve-modeling|Curve Modeling]]
+- [[skills/digital-media/computer-graphics/geometric-representation/geometric-representation|Geometric Representation]]
+- [[skills/digital-media/computer-graphics/geometric-transformations/geometric-transformations|Geometric Transformations]]
+- [[skills/digital-media/computer-graphics/perspective-projection/perspective-projection|Perspective Projection]]
+- [[skills/digital-media/computer-graphics/rasterization-algorithms/rasterization-algorithms|Rasterization Algorithms]]
+- [[skills/digital-media/computer-graphics/rendering-and-visual-realism/rendering-and-visual-realism|Rendering and Visual Realism]]
+- [[skills/digital-media/computer-graphics/viewing-and-clipping/viewing-and-clipping|Viewing and Clipping]]

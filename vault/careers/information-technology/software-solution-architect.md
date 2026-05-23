@@ -1,57 +1,66 @@
 ---
 type: "career"
 title: "Software Solution Architect"
+level: "entry-level"
 tags:
   - "career"
   - "information-technology"
-job-title: "Software Solution Architect"
-focus-area: "Information technology"
-required-competency-count: 19
-source: "supporting_jobs.json"
+contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
-  - "Software Architecture :: L1- Software Architecture Definition"
-  - "Software Architecture :: L2- Explain Software Architecture Qualities"
-  - "Software Architecture :: L2- Explore Modern Architectural Styles"
-  - "Software Architecture :: L3- Apply MVC in Architecture Descriptions"
-  - "Software Architecture :: L3- Apply Microservices in Architecture Descriptions"
-  - "Software Architecture :: L3- Apply Component-Based Architecture Descriptions"
-  - "Software Engineering :: L3- Apply Design Principles for Abstraction and Coupling"
-  - "Software Engineering :: L3- Utilize UML for Design Documentation"
-  - "System Design :: L3- Develop and Apply System Design"
-  - "UML Modeling :: L3- Apply UML for System Modeling"
-  - "Cloud Infrastructure :: L4- Analyze Cloud Infrastructure Trade-offs"
-  - "Cybersecurity :: L2- Explain Authorization Models"
-  - "Technical Communication :: L1- Define and Communicate Technical Reports"
-  - "Software as a Service :: L2- Explain SaaS Architecture Concepts"
-  - "Software as a Service :: L4- Analyze SaaS Tenancy Billing and Operational Trade-offs"
-  - "Cloud-Native Application Architecture :: L2- Explain Cloud-Native Application Architecture Principles"
-  - "Cloud-Native Application Architecture :: L3- Apply Managed Service Selection for Cloud Solutions"
-  - "Amazon Web Services :: L2- Explain AWS Core Cloud Services"
-  - "Google Cloud Platform :: L2- Explain GCP Core Cloud Services"
+  - "[[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-software-architecture-definition|L1-software-architecture-definition]]"
+  - "[[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explain-software-architecture-qualities|L1-explain-software-architecture-qualities]]"
+  - "[[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explore-modern-architectural-styles|L1-explore-modern-architectural-styles]]"
+  - "[[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-mvc-in-architecture-descriptions|L2-apply-mvc-in-architecture-descriptions]]"
+  - "[[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-microservices-in-architecture-descriptions|L2-apply-microservices-in-architecture-descriptions]]"
+  - "[[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-component-based-architecture-descriptions|L2-apply-component-based-architecture-descriptions]]"
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L2-apply-design-principles-for-abstraction-and-coupling]]"
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-utilize-uml-for-design-documentation|L2-utilize-uml-for-design-documentation]]"
+  - "[[skills/professional-practice/engineering-practices/system-design/competencies/L2-develop-and-apply-system-design|L2-develop-and-apply-system-design]]"
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/competencies/L2-apply-uml-for-system-modeling|L2-apply-uml-for-system-modeling]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/competencies/L3-analyze-cloud-infrastructure-trade-offs|L3-analyze-cloud-infrastructure-trade-offs]]"
+  - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L1-explain-authorization-models]]"
+  - "[[skills/professional-practice/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1-define-and-communicate-technical-reports]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L1-explain-saas-architecture-concepts|L1-explain-saas-architecture-concepts]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L3-analyze-saas-tenancy-billing-and-operational-trade-offs]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L1-explain-cloud-native-application-architecture-principles]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L2-apply-managed-service-selection-for-cloud-solutions]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/competencies/L1-explain-aws-core-cloud-services|L1-explain-aws-core-cloud-services]]"
+  - "[[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/competencies/L1-explain-gcp-core-cloud-services|L1-explain-gcp-core-cloud-services]]"
 ---
 
 # Software Solution Architect
 
-Career competency profile from `supporting_jobs.json`.
+## Description
 
-## Required Competencies
+A Software Solution Architect is an entry-level information technology role focused on applying the listed competencies in practical product, platform, or operational contexts.
 
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-software-architecture-definition|L1- Software Architecture Definition]]
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-explain-software-architecture-qualities|L2- Explain Software Architecture Qualities]]
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]]
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L2-apply-mvc-in-architecture-descriptions|L3- Apply MVC in Architecture Descriptions]]
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L2-apply-microservices-in-architecture-descriptions|L3- Apply Microservices in Architecture Descriptions]]
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L2-apply-component-based-architecture-descriptions|L3- Apply Component-Based Architecture Descriptions]]
-- [[skills/programming/software-engineering/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L3- Apply Design Principles for Abstraction and Coupling]]
-- [[skills/programming/software-engineering/software-engineering/competencies/L2-utilize-uml-for-design-documentation|L3- Utilize UML for Design Documentation]]
-- [[skills/engineering/engineering-practices/system-design/competencies/L2-develop-and-apply-system-design|L3- Develop and Apply System Design]]
-- [[skills/programming/software-engineering/uml-modeling/competencies/L2-apply-uml-for-system-modeling|L3- Apply UML for System Modeling]]
-- [[skills/cloud-devops/platform-engineering/cloud-infrastructure/competencies/L3-analyze-cloud-infrastructure-trade-offs|L4- Analyze Cloud Infrastructure Trade-offs]]
-- [[skills/security/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L2- Explain Authorization Models]]
-- [[skills/engineering/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1- Define and Communicate Technical Reports]]
-- [[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L1-explain-saas-architecture-concepts|L2- Explain SaaS Architecture Concepts]]
-- [[skills/cloud-devops/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L4- Analyze SaaS Tenancy Billing and Operational Trade-offs]]
-- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L2- Explain Cloud-Native Application Architecture Principles]]
-- [[skills/cloud-devops/platform-engineering/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L3- Apply Managed Service Selection for Cloud Solutions]]
-- [[skills/cloud-devops/platform-engineering/amazon-web-services/competencies/L1-explain-aws-core-cloud-services|L2- Explain AWS Core Cloud Services]]
-- [[skills/cloud-devops/platform-engineering/google-cloud-platform/competencies/L1-explain-gcp-core-cloud-services|L2- Explain GCP Core Cloud Services]]
+## Responsibilities
+
+- Apply [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-software-architecture-definition|L1- Software Architecture Definition]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explain-software-architecture-qualities|L2- Explain Software Architecture Qualities]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-mvc-in-architecture-descriptions|L3- Apply MVC in Architecture Descriptions]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-microservices-in-architecture-descriptions|L3- Apply Microservices in Architecture Descriptions]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-component-based-architecture-descriptions|L3- Apply Component-Based Architecture Descriptions]] in day-to-day role work.
+
+## Requirements
+
+- [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-software-architecture-definition|L1- Software Architecture Definition]]
+- [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explain-software-architecture-qualities|L2- Explain Software Architecture Qualities]]
+- [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]]
+- [[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-mvc-in-architecture-descriptions|L3- Apply MVC in Architecture Descriptions]]
+- [[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-microservices-in-architecture-descriptions|L3- Apply Microservices in Architecture Descriptions]]
+- [[skills/computing/software-engineering/software-design/software-architecture/competencies/L2-apply-component-based-architecture-descriptions|L3- Apply Component-Based Architecture Descriptions]]
+- [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L3- Apply Design Principles for Abstraction and Coupling]]
+- [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-utilize-uml-for-design-documentation|L3- Utilize UML for Design Documentation]]
+- [[skills/professional-practice/engineering-practices/system-design/competencies/L2-develop-and-apply-system-design|L3- Develop and Apply System Design]]
+- [[skills/computing/software-engineering/software-practices/uml-modeling/competencies/L2-apply-uml-for-system-modeling|L3- Apply UML for System Modeling]]
+- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/competencies/L3-analyze-cloud-infrastructure-trade-offs|L4- Analyze Cloud Infrastructure Trade-offs]]
+- [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L2- Explain Authorization Models]]
+- [[skills/professional-practice/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1- Define and Communicate Technical Reports]]
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L1-explain-saas-architecture-concepts|L2- Explain SaaS Architecture Concepts]]
+- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/competencies/L3-analyze-saas-tenancy-billing-and-operational-trade-offs|L4- Analyze SaaS Tenancy Billing and Operational Trade-offs]]
+- [[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/competencies/L1-explain-cloud-native-application-architecture-principles|L2- Explain Cloud-Native Application Architecture Principles]]
+- [[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L3- Apply Managed Service Selection for Cloud Solutions]]
+- [[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/competencies/L1-explain-aws-core-cloud-services|L2- Explain AWS Core Cloud Services]]
+- [[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/competencies/L1-explain-gcp-core-cloud-services|L2- Explain GCP Core Cloud Services]]

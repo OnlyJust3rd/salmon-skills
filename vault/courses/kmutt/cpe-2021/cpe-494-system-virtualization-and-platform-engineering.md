@@ -25,7 +25,7 @@ System virtualization and platform engineering concepts for building, deploying,
 
 ## Related Skills
 
-- [[skills/cloud-devops/platform-engineering/docker-container/docker-container|Docker Container]]
-- [[skills/cloud-devops/platform-engineering/kubernetes/kubernetes|Kubernetes]]
-- [[skills/cloud-devops/platform-engineering/cloud-computing/cloud-computing|Cloud Computing]]
+- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/docker-container|Docker Container]]
+- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/kubernetes|Kubernetes]]
+- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/cloud-computing|Cloud Computing]]
 

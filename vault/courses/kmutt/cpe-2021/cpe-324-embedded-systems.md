@@ -26,11 +26,11 @@ This course explores the fundamentals and applications of embedded systems throu
 
 ## Macro Skills
 
-- [[skills/programming/programming-languages/avr-communication-programming/avr-communication-programming|AVR Communication Programming]]
-- [[skills/hardware-embedded/electronics-embedded/avr-microcontroller-architecture/avr-microcontroller-architecture|AVR Microcontroller Architecture]]
-- [[skills/programming/programming-languages/avr-peripheral-programming/avr-peripheral-programming|AVR Peripheral Programming]]
-- [[skills/programming/programming-languages/bare-metal-c-programming/bare-metal-c-programming|Bare-metal C Programming]]
-- [[skills/hardware-embedded/electronics-embedded/circuit-prototyping/circuit-prototyping|Circuit Prototyping]]
-- [[skills/hardware-embedded/electronics-embedded/embedded-system-creation/embedded-system-creation|Embedded System Creation]]
-- [[skills/hardware-embedded/electronics-embedded/embedded-system-interfacing/embedded-system-interfacing|Embedded System Interfacing]]
-- [[skills/hardware-embedded/electronics-embedded/pcb-design/pcb-design|PCB Design]]
+- [[skills/computing/hardware-embedded/embedded-programming/avr-communication-programming/avr-communication-programming|AVR Communication Programming]]
+- [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/avr-microcontroller-architecture|AVR Microcontroller Architecture]]
+- [[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/avr-peripheral-programming|AVR Peripheral Programming]]
+- [[skills/computing/hardware-embedded/embedded-programming/bare-metal-c-programming/bare-metal-c-programming|Bare-metal C Programming]]
+- [[skills/computing/hardware-embedded/electronics/circuit-prototyping/circuit-prototyping|Circuit Prototyping]]
+- [[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/embedded-system-creation|Embedded System Creation]]
+- [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/embedded-system-interfacing|Embedded System Interfacing]]
+- [[skills/computing/hardware-embedded/electronics/pcb-design/pcb-design|PCB Design]]

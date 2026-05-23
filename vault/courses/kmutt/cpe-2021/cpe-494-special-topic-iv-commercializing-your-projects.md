@@ -40,12 +40,12 @@ This course is designed to help students transform their projects into viable bu
 
 ## Macro Skills
 
-- [[skills/business-it/business-product/business-model-design/business-model-design|Business Model Design]]
-- [[skills/business-it/business-product/competitor-analysis/competitor-analysis|Competitor Analysis]]
-- [[skills/business-it/business-product/feasibility-analysis/feasibility-analysis|Feasibility Analysis]]
-- [[skills/business-it/business-product/lean-startup/lean-startup|Lean Startup]]
-- [[skills/business-it/business-product/legal-and-organizational-foundations/legal-and-organizational-foundations|Legal and Organizational Foundations]]
-- [[skills/business-it/business-product/mvp-design-and-prototyping/mvp-design-and-prototyping|MVP Design and Prototyping]]
-- [[skills/business-it/business-product/marketing-strategy/marketing-strategy|Marketing Strategy]]
-- [[skills/business-it/business-product/startup-communication/startup-communication|Startup Communication]]
-- [[skills/web-and-design/frontend-ux/user-experience/user-experience|User Experience]]
+- [[skills/business/entrepreneurship/business-model-design/business-model-design|Business Model Design]]
+- [[skills/business/product-management/competitor-analysis/competitor-analysis|Competitor Analysis]]
+- [[skills/business/product-management/feasibility-analysis/feasibility-analysis|Feasibility Analysis]]
+- [[skills/business/entrepreneurship/lean-startup/lean-startup|Lean Startup]]
+- [[skills/business/legal-finance-governance/legal-and-organizational-foundations/legal-and-organizational-foundations|Legal and Organizational Foundations]]
+- [[skills/business/entrepreneurship/mvp-design-and-prototyping/mvp-design-and-prototyping|MVP Design and Prototyping]]
+- [[skills/business/product-management/marketing-strategy/marketing-strategy|Marketing Strategy]]
+- [[skills/business/entrepreneurship/startup-communication/startup-communication|Startup Communication]]
+- [[skills/professional-practice/human-centered-design/user-experience/user-experience|User Experience]]

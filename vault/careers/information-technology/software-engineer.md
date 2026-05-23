@@ -1,51 +1,60 @@
 ---
-type: "career"
-title: "Software Engineer"
+type: career
+title: Software Engineer
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
-job-title: "Software Engineer"
-focus-area: "Information technology"
-required-competency-count: 16
-source: "supporting_jobs.json"
+  - career
+  - information-technology
+contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
-  - "Software Engineering :: L3- Elicit Requirements and Create Use Case Diagrams"
-  - "Software Engineering :: L3- Apply Design Principles for Abstraction and Coupling"
-  - "Software Architecture :: L2- Explain Software Architecture Qualities"
-  - "Software Architecture :: L2- Explore Modern Architectural Styles"
-  - "Object-Oriented Programming :: L3- OOP Design Application"
-  - "Object-Oriented Design :: L3- Apply OO Design Principles"
-  - "Design Patterns :: L3- Apply Design Patterns"
-  - "Algorithms :: L3- Implement Algorithms for Problems"
-  - "Data Structure Principles :: L2- Explain Data Structure Properties and Classifications"
-  - "Computational Complexity Analysis :: L4- Analyze Complexity Trade-offs"
-  - "Java Programming :: L3- Implement ADTs and Data Structures with OOP"
-  - "Software Testing :: L3- Automated Testing Implementation"
-  - "Software Version Control :: L3- Utilize Git"
-  - "Quality Assurance :: L2- Explain Code Reviews"
-  - "Quality Assurance :: L2- Describe Static Analysis Benefits"
-  - "Refactoring :: L3- Apply Refactoring Techniques"
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-elicit-requirements-and-create-use-case-diagrams|L2-elicit-requirements-and-create-use-case-diagrams]]"
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L2-apply-design-principles-for-abstraction-and-coupling]]"
+  - "[[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explain-software-architecture-qualities|L1-explain-software-architecture-qualities]]"
+  - "[[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explore-modern-architectural-styles|L1-explore-modern-architectural-styles]]"
+  - "[[skills/computing/software-engineering/software-practices/object-oriented-programming/competencies/L2-oop-design-application|L2-oop-design-application]]"
+  - "[[skills/computing/software-engineering/software-practices/object-oriented-design/competencies/L2-apply-oo-design-principles|L2-apply-oo-design-principles]]"
+  - "[[skills/computing/software-engineering/software-practices/design-patterns/competencies/L2-apply-design-patterns|L2-apply-design-patterns]]"
+  - "[[skills/computing/computer-science/algorithms/algorithms/competencies/L2-implement-algorithms-for-problems|L2-implement-algorithms-for-problems]]"
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/competencies/L1-explain-data-structure-properties-and-classifications|L1-explain-data-structure-properties-and-classifications]]"
+  - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/competencies/L3-analyze-complexity-trade-offs|L3-analyze-complexity-trade-offs]]"
+  - "[[L2-implement-adts-and-data-structures-with-oop|L2-implement-adts-and-data-structures-with-oop]]"
+  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
+  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
+  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-describe-static-analysis-benefits|L1-describe-static-analysis-benefits]]"
+  - "[[skills/computing/software-engineering/software-practices/refactoring/competencies/L2-apply-refactoring-techniques|L2-apply-refactoring-techniques]]"
 ---
 
 # Software Engineer
 
-Career competency profile from `supporting_jobs.json`.
+## Description
 
-## Required Competencies
+A Software Engineer is an entry-level information technology role focused on applying the listed competencies in practical product, platform, or operational contexts.
 
-- [[skills/programming/software-engineering/software-engineering/competencies/L2-elicit-requirements-and-create-use-case-diagrams|L3- Elicit Requirements and Create Use Case Diagrams]]
-- [[skills/programming/software-engineering/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L3- Apply Design Principles for Abstraction and Coupling]]
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-explain-software-architecture-qualities|L2- Explain Software Architecture Qualities]]
-- [[skills/hardware-embedded/electronics-embedded/software-architecture/competencies/L1-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]]
-- [[skills/programming/software-engineering/object-oriented-programming/competencies/L2-oop-design-application|L3- OOP Design Application]]
-- [[skills/programming/software-engineering/object-oriented-design/competencies/L2-apply-oo-design-principles|L3- Apply OO Design Principles]]
-- [[skills/programming/software-engineering/design-patterns/competencies/L2-apply-design-patterns|L3- Apply Design Patterns]]
-- [[skills/programming/algorithms/algorithms/competencies/L2-implement-algorithms-for-problems|L3- Implement Algorithms for Problems]]
-- [[skills/programming/data-structures/data-structure-principles/competencies/L1-explain-data-structure-properties-and-classifications|L2- Explain Data Structure Properties and Classifications]]
-- [[skills/programming/algorithms/computational-complexity-analysis/competencies/L3-analyze-complexity-trade-offs|L4- Analyze Complexity Trade-offs]]
-- [[skills/programming/programming-languages/java-programming/competencies/L2-implement-adts-and-data-structures-with-oop|L3- Implement ADTs and Data Structures with OOP]]
-- [[skills/programming/software-engineering/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
-- [[skills/programming/software-engineering/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]
-- [[skills/programming/software-engineering/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
-- [[skills/programming/software-engineering/quality-assurance/competencies/L1-describe-static-analysis-benefits|L2- Describe Static Analysis Benefits]]
-- [[skills/programming/software-engineering/refactoring/competencies/L2-apply-refactoring-techniques|L3- Apply Refactoring Techniques]]
+## Responsibilities
+
+- Apply [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-elicit-requirements-and-create-use-case-diagrams|L3- Elicit Requirements and Create Use Case Diagrams]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L3- Apply Design Principles for Abstraction and Coupling]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explain-software-architecture-qualities|L2- Explain Software Architecture Qualities]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-practices/object-oriented-programming/competencies/L2-oop-design-application|L3- OOP Design Application]] in day-to-day role work.
+- Apply [[skills/computing/software-engineering/software-practices/object-oriented-design/competencies/L2-apply-oo-design-principles|L3- Apply OO Design Principles]] in day-to-day role work.
+
+## Requirements
+
+- [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-elicit-requirements-and-create-use-case-diagrams|L3- Elicit Requirements and Create Use Case Diagrams]]
+- [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L3- Apply Design Principles for Abstraction and Coupling]]
+- [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explain-software-architecture-qualities|L2- Explain Software Architecture Qualities]]
+- [[skills/computing/software-engineering/software-design/software-architecture/competencies/L1-explore-modern-architectural-styles|L2- Explore Modern Architectural Styles]]
+- [[skills/computing/software-engineering/software-practices/object-oriented-programming/competencies/L2-oop-design-application|L3- OOP Design Application]]
+- [[skills/computing/software-engineering/software-practices/object-oriented-design/competencies/L2-apply-oo-design-principles|L3- Apply OO Design Principles]]
+- [[skills/computing/software-engineering/software-practices/design-patterns/competencies/L2-apply-design-patterns|L3- Apply Design Patterns]]
+- [[skills/computing/computer-science/algorithms/algorithms/competencies/L2-implement-algorithms-for-problems|L3- Implement Algorithms for Problems]]
+- [[skills/computing/computer-science/data-structures/data-structure-principles/competencies/L1-explain-data-structure-properties-and-classifications|L2- Explain Data Structure Properties and Classifications]]
+- [[skills/computing/computer-science/algorithms/computational-complexity-analysis/competencies/L3-analyze-complexity-trade-offs|L4- Analyze Complexity Trade-offs]]
+- [[L2-implement-adts-and-data-structures-with-oop|L3- Implement ADTs and Data Structures with OOP]]
+- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
+- [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]
+- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
+- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-describe-static-analysis-benefits|L2- Describe Static Analysis Benefits]]
+- [[skills/computing/software-engineering/software-practices/refactoring/competencies/L2-apply-refactoring-techniques|L3- Apply Refactoring Techniques]]

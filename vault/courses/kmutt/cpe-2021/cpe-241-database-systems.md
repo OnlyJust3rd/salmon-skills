@@ -23,10 +23,10 @@ Database concepts focusing on design and implement an application with a databas
 
 ## Macro Skills
 
-- [[skills/web-and-design/backend-api/application-database-integration/application-database-integration|Application Database Integration]]
-- [[skills/data/databases/database-system/database-system|Database System]]
-- [[skills/data/databases/mongodb/mongodb|MongoDB]]
-- [[skills/data/databases/mysql/mysql|MySQL]]
-- [[skills/data/databases/nosql-database/nosql-database|NoSQL Database]]
-- [[skills/data/databases/relational-database/relational-database|Relational Database]]
-- [[skills/data/databases/sql/sql|SQL]]
+- [[skills/computing/web-mobile/backend-api/application-database-integration/application-database-integration|Application Database Integration]]
+- [[skills/computing/data-ai/databases/database-system/database-system|Database System]]
+- [[skills/computing/data-ai/databases/mongodb/mongodb|MongoDB]]
+- [[skills/computing/data-ai/databases/mysql/mysql|MySQL]]
+- [[skills/computing/data-ai/databases/nosql-database/nosql-database|NoSQL Database]]
+- [[skills/computing/data-ai/databases/relational-database/relational-database|Relational Database]]
+- [[skills/computing/data-ai/databases/sql/sql|SQL]]
