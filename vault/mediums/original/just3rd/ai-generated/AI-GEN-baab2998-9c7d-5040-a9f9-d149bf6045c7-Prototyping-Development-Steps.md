@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Prototyping Development Steps: Conceptual vs. Concrete Design"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/prototyping-development-steps|prototyping-development-steps]]"
+outcome: "[[prototyping-development-steps|prototyping-development-steps]]"
 learning-time-in-minutes: 6
 ---
 # Prototyping Development Steps: Conceptual vs. Concrete Design
@@ -98,4 +98,4 @@ By understanding and applying these distinct development steps for conceptual an
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/prototyping-development-steps|Prototyping Development Steps]]
+- [[prototyping-development-steps|Prototyping Development Steps]]

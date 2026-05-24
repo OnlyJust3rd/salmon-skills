@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-resources|terraform-resources]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resources|terraform-resources]]"
 learning-time-in-minutes: 4
 ---
 # Terraform Resources: Defining Infrastructure Components
@@ -97,4 +97,4 @@ By mastering the definition and configuration of Terraform Resources, you gain t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-resources|Terraform Resources]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resources|Terraform Resources]]

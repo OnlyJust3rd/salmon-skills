@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/remote-access-security|remote-access-security]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/remote-access-security|remote-access-security]]"
 learning-time-in-minutes: 4
 ---
 # Securely Connecting to Your Network: Understanding VPNs
@@ -60,4 +60,4 @@ By understanding what a VPN is and how it works, you gain insight into a fundame
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/remote-access-security|Remote Access Security]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/remote-access-security|Remote Access Security]]

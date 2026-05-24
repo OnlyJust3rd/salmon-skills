@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/code-readability-enhancement|code-readability-enhancement]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-readability-enhancement|code-readability-enhancement]]"
 learning-time-in-minutes: 3
 ---
 # Enhancing Code Readability Through Refactoring
@@ -184,4 +184,4 @@ By consistently applying these techniques, you'll build a codebase that is easie
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/code-readability-enhancement|Code Readability Enhancement]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-readability-enhancement|Code Readability Enhancement]]

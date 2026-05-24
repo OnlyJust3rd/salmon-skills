@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/semaphore-operations|semaphore-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/semaphore-operations|semaphore-operations]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Semaphore Operations
@@ -79,4 +79,4 @@ If you have 5 available database connections, how would you initialize a semapho
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/semaphore-operations|Semaphore Operations]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/semaphore-operations|Semaphore Operations]]

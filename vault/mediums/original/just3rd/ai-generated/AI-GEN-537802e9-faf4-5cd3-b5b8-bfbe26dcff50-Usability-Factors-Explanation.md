@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Usability Factors in UI Design"
+type: medium
+title: Understanding Usability Factors in UI Design
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/usability-factors-explanation|usability-factors-explanation]]"
+outcome: "[[usability-factors-explanation|usability-factors-explanation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Usability Factors in UI Design
@@ -70,4 +70,4 @@ When designers prioritize these usability factors, the resulting interfaces are 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/usability-factors-explanation|Usability Factors Explanation]]
+- [[usability-factors-explanation|Usability Factors Explanation]]

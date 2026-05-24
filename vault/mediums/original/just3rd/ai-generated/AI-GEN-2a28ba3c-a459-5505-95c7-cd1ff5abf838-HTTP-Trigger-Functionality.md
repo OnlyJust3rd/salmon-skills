@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/http-trigger-functionality|http-trigger-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/http-trigger-functionality|http-trigger-functionality]]"
 learning-time-in-minutes: 5
 ---
 # Understanding HTTP Trigger Functionality in Serverless Computing
@@ -92,4 +92,4 @@ By understanding HTTP triggers, you've taken a significant step in harnessing th
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/http-trigger-functionality|HTTP Trigger Functionality]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/http-trigger-functionality|HTTP Trigger Functionality]]

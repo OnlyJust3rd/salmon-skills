@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/continuous-integration-ci|continuous-integration-ci]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-integration-ci|continuous-integration-ci]]"
 learning-time-in-minutes: 5
 ---
 # Continuous Integration (CI) for Serverless Deployments
@@ -72,4 +72,4 @@ By embracing Continuous Integration, you establish a robust foundation for your 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/continuous-integration-ci|Continuous Integration (CI)]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-integration-ci|Continuous Integration (CI)]]

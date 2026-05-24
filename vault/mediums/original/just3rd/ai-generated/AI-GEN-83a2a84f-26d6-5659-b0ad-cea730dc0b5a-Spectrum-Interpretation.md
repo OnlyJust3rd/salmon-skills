@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding the Virtuality Continuum"
+type: medium
+title: Understanding the Virtuality Continuum
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/spectrum-interpretation|spectrum-interpretation]]"
+outcome: "[[spectrum-interpretation|spectrum-interpretation]]"
 learning-time-in-minutes: 6
 ---
 # Understanding the Virtuality Continuum
@@ -85,4 +85,4 @@ Describe your chosen application and justify its position on the continuum.
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/spectrum-interpretation|Spectrum Interpretation]]
+- [[spectrum-interpretation|Spectrum Interpretation]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Applying Heuristic Evaluation to Interactive Systems"
+type: medium
+title: Applying Heuristic Evaluation to Interactive Systems
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/heuristic-evaluation-application|heuristic-evaluation-application]]"
+outcome: "[[heuristic-evaluation-application|heuristic-evaluation-application]]"
 learning-time-in-minutes: 6
 ---
 # Applying Heuristic Evaluation to Interactive Systems
@@ -117,4 +117,4 @@ By systematically going through the system, applying each heuristic, and documen
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/heuristic-evaluation-application|Heuristic Evaluation Application]]
+- [[heuristic-evaluation-application|Heuristic Evaluation Application]]

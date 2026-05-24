@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Implementing Usability Testing"
+type: medium
+title: Implementing Usability Testing
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/usability-testing-implementation|usability-testing-implementation]]"
+outcome: "[[usability-testing-implementation|usability-testing-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Usability Testing
@@ -116,4 +116,4 @@ Usability testing is an iterative process. The feedback you get from these tests
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/usability-testing-implementation|Usability Testing Implementation]]
+- [[usability-testing-implementation|Usability Testing Implementation]]

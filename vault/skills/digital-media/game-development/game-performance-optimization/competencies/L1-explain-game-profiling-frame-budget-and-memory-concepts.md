@@ -6,7 +6,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/digital-media/game-development/game-engine-architecture/competencies/L1-explain-game-loop-scene-and-component-architecture|L1-explain-game-loop-scene-and-component-architecture]]"
-  - "[[skills/computing/systems-infrastructure/networking/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics|L2-identify-define-and-calculate-performance-metrics]]"
+  - "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics|L2-identify-define-and-calculate-performance-metrics]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/digital-media/game-development/game-performance-optimization/game-performance-optimization|game-performance-optimization]]"
@@ -29,7 +29,7 @@ Explain game profiling, frame budget, and memory concepts.
 ## Strict Prerequisites
 
 - [[skills/digital-media/game-development/game-engine-architecture/competencies/L1-explain-game-loop-scene-and-component-architecture|L2- Explain Game Loop Scene and Component Architecture]]
-- [[skills/computing/systems-infrastructure/networking/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics|L3- Identify, define, and calculate performance metrics]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics|L3- Identify, define, and calculate performance metrics]]
 
 ## Optional Prerequisites
 

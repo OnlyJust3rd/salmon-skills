@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/automation-logic|automation-logic]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-logic|automation-logic]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Automation Logic in Declarative Infrastructure as Code
@@ -101,4 +101,4 @@ By mastering this internal logic, you can build reliable, reproducible, and scal
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/automation-logic|Automation Logic]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-logic|Automation Logic]]

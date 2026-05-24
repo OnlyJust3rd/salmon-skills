@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/type-1-hypervisor-architecture|type-1-hypervisor-architecture]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-1-hypervisor-architecture|type-1-hypervisor-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Type-1 Hypervisor Architecture: The Bare-Metal Foundation
@@ -80,4 +80,4 @@ Understanding the bare-metal architecture of Type-1 hypervisors provides a solid
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/type-1-hypervisor-architecture|Type-1 Hypervisor Architecture]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-1-hypervisor-architecture|Type-1 Hypervisor Architecture]]

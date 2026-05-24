@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-application|foster-s-methodology-application]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-application|foster-s-methodology-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Foster's Methodology to Parallel Application Design
@@ -132,4 +132,4 @@ Practice applying these three stages to other simple problems. As you gain exper
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-application|Foster's Methodology Application]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-application|Foster's Methodology Application]]

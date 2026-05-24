@@ -17,7 +17,7 @@ required-competencies:
   - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/competencies/L1-list-and-describe-protocol-cryptography-roles|L1-list-and-describe-protocol-cryptography-roles]]"
   - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/competencies/L1-explain-macs-and-hmacs|L1-explain-macs-and-hmacs]]"
   - "[[skills/computing/security-privacy/cybersecurity/vulnerability-assessment/competencies/L1-explain-vulnerability-assessment-and-risk-rating|L1-explain-vulnerability-assessment-and-risk-rating]]"
-  - "[[skills/computing/systems-infrastructure/observability-operations/security-monitoring/competencies/L1-explain-security-event-monitoring|L1-explain-security-event-monitoring]]"
+  - "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/competencies/L1-explain-security-event-monitoring|L1-explain-security-event-monitoring]]"
   - "[[skills/computing/security-privacy/cybersecurity/incident-response/competencies/L1-explain-incident-response-lifecycle|L1-explain-incident-response-lifecycle]]"
 ---
 
@@ -48,5 +48,5 @@ A Cybersecurity Analyst is an entry-level information technology role focused on
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/competencies/L1-list-and-describe-protocol-cryptography-roles|L2- List and Describe Protocol Cryptography Roles]]
 - [[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/competencies/L1-explain-macs-and-hmacs|L2- Explain MACs and HMACs]]
 - [[skills/computing/security-privacy/cybersecurity/vulnerability-assessment/competencies/L1-explain-vulnerability-assessment-and-risk-rating|L2- Explain Vulnerability Assessment and Risk Rating]]
-- [[skills/computing/systems-infrastructure/observability-operations/security-monitoring/competencies/L1-explain-security-event-monitoring|L2- Explain Security Event Monitoring]]
+- [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/competencies/L1-explain-security-event-monitoring|L2- Explain Security Event Monitoring]]
 - [[skills/computing/security-privacy/cybersecurity/incident-response/competencies/L1-explain-incident-response-lifecycle|L2- Explain Incident Response Lifecycle]]

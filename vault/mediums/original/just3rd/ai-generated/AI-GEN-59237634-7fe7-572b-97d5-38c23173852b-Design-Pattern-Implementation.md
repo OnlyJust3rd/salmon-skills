@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-implementation|design-pattern-implementation]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-implementation|design-pattern-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing the Strategy Pattern
@@ -131,4 +131,4 @@ Imagine you are building a simple text editor that supports different text forma
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-implementation|Design Pattern Implementation]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-implementation|Design Pattern Implementation]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/traffic-monitoring-techniques|traffic-monitoring-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-monitoring-techniques|traffic-monitoring-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Traffic Monitoring Techniques
@@ -129,4 +129,4 @@ By consistently applying these traffic monitoring techniques, you gain valuable 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/traffic-monitoring-techniques|Traffic Monitoring Techniques]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-monitoring-techniques|Traffic Monitoring Techniques]]

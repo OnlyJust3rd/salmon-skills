@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/historical-hpc-milestones|historical-hpc-milestones]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/historical-hpc-milestones|historical-hpc-milestones]]"
 learning-time-in-minutes: 3
 ---
 # Historical HPC Milestones
@@ -55,4 +55,4 @@ By recalling these significant advancements, you build a foundational understand
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/historical-hpc-milestones|Historical HPC Milestones]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/historical-hpc-milestones|Historical HPC Milestones]]

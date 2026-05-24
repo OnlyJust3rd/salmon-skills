@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-principles|brain-inspired-computing-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-principles|brain-inspired-computing-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Brain-Inspired Computing Principles
@@ -70,4 +70,4 @@ Imagine a very basic brain circuit. You have input signals coming in, which are 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-principles|Brain-Inspired Computing Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-principles|Brain-Inspired Computing Principles]]

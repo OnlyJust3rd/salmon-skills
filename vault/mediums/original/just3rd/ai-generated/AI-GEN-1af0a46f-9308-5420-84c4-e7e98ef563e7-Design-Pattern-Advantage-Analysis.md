@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-advantage-analysis|design-pattern-advantage-analysis]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-advantage-analysis|design-pattern-advantage-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Design Pattern Advantage Analysis
@@ -59,4 +59,4 @@ Identify the advantages of using the Observer pattern in this context. Think abo
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-advantage-analysis|Design Pattern Advantage Analysis]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-advantage-analysis|Design Pattern Advantage Analysis]]

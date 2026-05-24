@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/traceability-to-requirements|traceability-to-requirements]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/traceability-to-requirements|traceability-to-requirements]]"
 learning-time-in-minutes: 5
 ---
 # Linking Test Cases to Program Requirements
@@ -124,4 +124,4 @@ By diligently linking every test case back to its originating requirement, you b
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/traceability-to-requirements|Traceability to requirements]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/traceability-to-requirements|Traceability to requirements]]

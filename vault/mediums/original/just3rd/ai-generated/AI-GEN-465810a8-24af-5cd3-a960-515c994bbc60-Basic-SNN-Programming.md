@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/basic-snn-programming|basic-snn-programming]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/basic-snn-programming|basic-snn-programming]]"
 learning-time-in-minutes: 3
 ---
 # Programming Basic Spiking Neural Network Models
@@ -163,4 +163,4 @@ This foundation enables you to explore more complex network architectures, diffe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/basic-snn-programming|Basic SNN Programming]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/basic-snn-programming|Basic SNN Programming]]

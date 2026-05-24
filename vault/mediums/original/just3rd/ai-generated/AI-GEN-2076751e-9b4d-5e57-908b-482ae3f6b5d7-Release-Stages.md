@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/continuous-delivery/microskills/release-stages|release-stages]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/release-stages|release-stages]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Release Stages
@@ -52,4 +52,4 @@ Think about a simple application you've worked on or are familiar with. Describe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/continuous-delivery/microskills/release-stages|Release Stages]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/release-stages|Release Stages]]

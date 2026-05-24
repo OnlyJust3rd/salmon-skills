@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/internet-control-message-protocol|internet-control-message-protocol]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/internet-control-message-protocol|internet-control-message-protocol]]"
 learning-time-in-minutes: 6
 ---
 # Internet Control Message Protocol (ICMP)
@@ -111,4 +111,4 @@ ICMP is an essential, albeit often unseen, protocol at the network layer. It pro
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/internet-control-message-protocol|Internet Control Message Protocol]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/internet-control-message-protocol|Internet Control Message Protocol]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/version-control-for-infrastructure|version-control-for-infrastructure]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/version-control-for-infrastructure|version-control-for-infrastructure]]"
 learning-time-in-minutes: 4
 ---
 # Version Control for Infrastructure: Tracking Changes to Your Code
@@ -116,4 +116,4 @@ By embracing version control for your infrastructure code, you're building a rob
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/version-control-for-infrastructure|Version Control for Infrastructure]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/version-control-for-infrastructure|Version Control for Infrastructure]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/sector-definition|sector-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/sector-definition|sector-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Disk Sectors: The Smallest Addressable Unit
@@ -73,4 +73,4 @@ By understanding sectors, we gain insight into the physical organization of data
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/sector-definition|Sector Definition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/sector-definition|Sector Definition]]

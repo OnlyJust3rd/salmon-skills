@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding the User Perspective"
+type: medium
+title: Understanding the User Perspective
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-perspective-understanding|user-perspective-understanding]]"
+outcome: "[[user-perspective-understanding|user-perspective-understanding]]"
 learning-time-in-minutes: 6
 ---
 # Understanding the User Perspective
@@ -109,4 +109,4 @@ Grasping the user's perspective is more than just a step in the UX process; it's
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-perspective-understanding|User Perspective Understanding]]
+- [[user-perspective-understanding|User Perspective Understanding]]

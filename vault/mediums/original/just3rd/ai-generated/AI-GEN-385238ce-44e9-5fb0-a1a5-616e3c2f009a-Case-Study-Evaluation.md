@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/case-study-evaluation|case-study-evaluation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/case-study-evaluation|case-study-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Case Study Evaluation: Deconstructing OS Design Choices
@@ -81,4 +81,4 @@ Find a real-world operating system case study (e.g., Linux kernel design, Window
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/case-study-evaluation|Case Study Evaluation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/case-study-evaluation|Case Study Evaluation]]

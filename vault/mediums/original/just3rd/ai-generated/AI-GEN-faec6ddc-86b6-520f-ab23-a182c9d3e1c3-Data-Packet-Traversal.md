@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/data-packet-traversal|data-packet-traversal]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/data-packet-traversal|data-packet-traversal]]"
 learning-time-in-minutes: 5
 ---
 # Data Packet Traversal: A Packet's Journey Through the Network
@@ -72,4 +72,4 @@ The packet doesn't usually go directly from your network to the destination. Ins
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/data-packet-traversal|Data Packet Traversal]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/data-packet-traversal|Data Packet Traversal]]

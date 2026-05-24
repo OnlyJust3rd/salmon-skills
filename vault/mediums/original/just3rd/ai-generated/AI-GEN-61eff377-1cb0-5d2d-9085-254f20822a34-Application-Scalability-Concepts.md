@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/application-scalability-concepts|application-scalability-concepts]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-scalability-concepts|application-scalability-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Application Scalability with Kubernetes Deployments
@@ -75,4 +75,4 @@ Understanding how the `replicas` field works is fundamental to managing your app
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/application-scalability-concepts|Application Scalability Concepts]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-scalability-concepts|Application Scalability Concepts]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/cpu-scheduling-decision-making|cpu-scheduling-decision-making]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/cpu-scheduling-decision-making|cpu-scheduling-decision-making]]"
 learning-time-in-minutes: 3
 ---
 # CPU Scheduling: Making the Decisions
@@ -66,4 +66,4 @@ For each of the following algorithms, describe *which process would be chosen to
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/cpu-scheduling-decision-making|CPU Scheduling Decision-Making]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/cpu-scheduling-decision-making|CPU Scheduling Decision-Making]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|scheduling-algorithm-efficiency-analysis]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|scheduling-algorithm-efficiency-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Scheduling Algorithm Efficiency Analysis
@@ -90,4 +90,4 @@ Consider the following processes and their burst times (assume all arrive at tim
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|Scheduling Algorithm Efficiency Analysis]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|Scheduling Algorithm Efficiency Analysis]]

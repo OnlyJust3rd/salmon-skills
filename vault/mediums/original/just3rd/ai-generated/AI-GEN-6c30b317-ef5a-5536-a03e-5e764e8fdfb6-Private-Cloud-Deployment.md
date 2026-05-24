@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/private-cloud-deployment|private-cloud-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/private-cloud-deployment|private-cloud-deployment]]"
 learning-time-in-minutes: 3
 ---
 # Private Cloud Deployment
@@ -60,4 +60,4 @@ Identify a scenario in your hypothetical organization where a private cloud depl
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/private-cloud-deployment|Private Cloud Deployment]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/private-cloud-deployment|Private Cloud Deployment]]

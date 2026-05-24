@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "User Interaction Modeling: Bringing Designs to Life"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-interaction-modeling|user-interaction-modeling]]"
+outcome: "[[user-interaction-modeling|user-interaction-modeling]]"
 learning-time-in-minutes: 6
 ---
 # User Interaction Modeling: Bringing Designs to Life
@@ -133,4 +133,4 @@ The goal is not to create perfect art, but to clearly communicate the intended u
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-interaction-modeling|User Interaction Modeling]]
+- [[user-interaction-modeling|User Interaction Modeling]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Statistical Data Analysis for Usability Evaluations"
+type: medium
+title: Statistical Data Analysis for Usability Evaluations
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/statistical-data-analysis|statistical-data-analysis]]"
+outcome: "[[statistical-data-analysis|statistical-data-analysis]]"
 learning-time-in-minutes: 6
 ---
 # Statistical Data Analysis for Usability Evaluations
@@ -110,4 +110,4 @@ By applying statistical analysis to your usability data, you move beyond subject
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/statistical-data-analysis|Statistical Data Analysis]]
+- [[statistical-data-analysis|Statistical Data Analysis]]

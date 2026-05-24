@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/function-termination|function-termination]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/function-termination|function-termination]]"
 learning-time-in-minutes: 4
 ---
 # Function Termination in Serverless Computing
@@ -90,4 +90,4 @@ By understanding function termination, you gain a deeper insight into the operat
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/function-termination|Function Termination]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/function-termination|Function Termination]]

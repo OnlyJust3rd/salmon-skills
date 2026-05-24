@@ -1,13 +1,13 @@
 ---
-type: "competency"
-title: "L2- Explain Product Discovery and Roadmapping Concepts"
+type: competency
+title: L2- Explain Product Discovery and Roadmapping Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/business/entrepreneurship/business-model-design/competencies/L1-define-canvas-components|L1-define-canvas-components]]"
   - "[[skills/business/entrepreneurship/lean-startup/competencies/L1-define-lean-startup-and-bml-principles|L1-define-lean-startup-and-bml-principles]]"
-  - "[[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-discover-requirements|L2-discover-requirements]]"
+  - "[[L2-discover-requirements|L2-discover-requirements]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/business/product-management/product-strategy/product-strategy|product-strategy]]"
@@ -31,7 +31,7 @@ Explain product discovery and roadmapping concepts.
 
 - [[skills/business/entrepreneurship/lean-startup/competencies/L1-define-lean-startup-and-bml-principles|L1- Define Lean Startup and BML Principles]]
 - [[skills/business/entrepreneurship/business-model-design/competencies/L1-define-canvas-components|L1- Define Canvas Components]]
-- [[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-discover-requirements|L3- Discover Requirements]]
+- [[L2-discover-requirements|L3- Discover Requirements]]
 
 ## Optional Prerequisites
 

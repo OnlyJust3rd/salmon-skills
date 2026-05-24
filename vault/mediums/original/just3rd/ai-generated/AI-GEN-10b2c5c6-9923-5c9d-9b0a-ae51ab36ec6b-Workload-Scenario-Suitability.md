@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|workload-scenario-suitability]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|workload-scenario-suitability]]"
 learning-time-in-minutes: 3
 ---
 # Matching Scheduling Algorithms to Workloads
@@ -60,4 +60,4 @@ Which scheduling algorithm would be most suitable for this system and why?
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|Workload Scenario Suitability]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|Workload Scenario Suitability]]

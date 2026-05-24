@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/metric-collection-process|metric-collection-process]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/metric-collection-process|metric-collection-process]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Metric Collection Process in Prometheus
@@ -77,4 +77,4 @@ By understanding how exporters make metric data available, you lay the foundatio
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/metric-collection-process|Metric Collection Process]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/metric-collection-process|Metric Collection Process]]

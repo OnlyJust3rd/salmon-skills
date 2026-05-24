@@ -1,12 +1,12 @@
 ---
-type: "competency"
-title: "L1- Pitch Deck Components"
+type: competency
+title: L1- Pitch Deck Components
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/business/entrepreneurship/business-model-design/competencies/L1-define-canvas-components|L1-define-canvas-components]]"
-  - "[[skills/professional-practice/human-centered-design/user-experience/competencies/L1-ux-workflow-elements|L1-ux-workflow-elements]]"
+  - "[[L1-ux-workflow-elements|L1-ux-workflow-elements]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/business/entrepreneurship/startup-communication/startup-communication|startup-communication]]"
@@ -31,7 +31,7 @@ Identify and define the essential components of a startup pitch.
 ## Strict Prerequisites
 
 - [[skills/business/entrepreneurship/business-model-design/competencies/L1-define-canvas-components|L1- Define Canvas Components]]
-- [[skills/professional-practice/human-centered-design/user-experience/competencies/L1-ux-workflow-elements|L1- UX Workflow Elements]]
+- [[L1-ux-workflow-elements|L1- UX Workflow Elements]]
 
 ## Optional Prerequisites
 

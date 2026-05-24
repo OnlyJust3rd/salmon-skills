@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|fetch-and-add-atomicity]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|fetch-and-add-atomicity]]"
 learning-time-in-minutes: 3
 ---
 # Fetch-and-Add Atomicity
@@ -95,4 +95,4 @@ function add_job_to_queue(job_data):
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|Fetch-and-Add Atomicity]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|Fetch-and-Add Atomicity]]

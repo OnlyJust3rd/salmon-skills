@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/restful-api/microskills/http-method-semantics|http-method-semantics]]"
+outcome: "[[skills/computing/software-engineering/backend-development/restful-api/microskills/http-method-semantics|http-method-semantics]]"
 learning-time-in-minutes: 3
 ---
 # Understanding HTTP Methods and CRUD
@@ -94,4 +94,4 @@ By correctly mapping CRUD operations to their corresponding HTTP methods, you en
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/restful-api/microskills/http-method-semantics|HTTP method semantics]]
+- [[skills/computing/software-engineering/backend-development/restful-api/microskills/http-method-semantics|HTTP method semantics]]

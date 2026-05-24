@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/cronjob-resource-definition|cronjob-resource-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/cronjob-resource-definition|cronjob-resource-definition]]"
 learning-time-in-minutes: 4
 ---
 # Defining Kubernetes CronJob Resources
@@ -131,4 +131,4 @@ This lesson covered the fundamental aspects of defining a Kubernetes CronJob res
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/cronjob-resource-definition|CronJob Resource Definition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/cronjob-resource-definition|CronJob Resource Definition]]

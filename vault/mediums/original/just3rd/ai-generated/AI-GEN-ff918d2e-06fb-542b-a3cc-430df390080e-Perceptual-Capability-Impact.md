@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding How Our Senses Shape Our Interaction with Technology"
+type: medium
+title: Understanding How Our Senses Shape Our Interaction with Technology
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/perceptual-capability-impact|perceptual-capability-impact]]"
+outcome: "[[perceptual-capability-impact|perceptual-capability-impact]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How Our Senses Shape Our Interaction with Technology
@@ -77,4 +77,4 @@ By understanding and respecting our perceptual capabilities, we can build techno
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/perceptual-capability-impact|Perceptual Capability Impact]]
+- [[perceptual-capability-impact|Perceptual Capability Impact]]

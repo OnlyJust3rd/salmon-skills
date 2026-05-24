@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/operating-system-resource-concepts|operating-system-resource-concepts]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-resource-concepts|operating-system-resource-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Operating System Resource Concepts
@@ -86,4 +86,4 @@ The operating system's resource management is a complex, interconnected system. 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/operating-system-resource-concepts|Operating System Resource Concepts]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-resource-concepts|Operating System Resource Concepts]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/protocol-interdependence|protocol-interdependence]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/protocol-interdependence|protocol-interdependence]]"
 learning-time-in-minutes: 3
 ---
 # Protocol Interdependence: How HTTP and DNS Work Together
@@ -50,4 +50,4 @@ Imagine you are troubleshooting why a specific website is not loading.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/protocol-interdependence|Protocol Interdependence]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/protocol-interdependence|Protocol Interdependence]]

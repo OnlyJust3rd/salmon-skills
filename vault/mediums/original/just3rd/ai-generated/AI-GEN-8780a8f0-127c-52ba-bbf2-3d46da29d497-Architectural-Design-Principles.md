@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/architectural-design-principles|architectural-design-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/architectural-design-principles|architectural-design-principles]]"
 learning-time-in-minutes: 5
 ---
 # Architectural Design Principles: Structure for Success
@@ -109,5 +109,5 @@ Mastering architectural design principles is crucial for building scalable and m
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/architectural-design-principles|Architectural Design Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/architectural-design-principles|Architectural Design Principles]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/architectural-design-principles|Architectural Design Principles]]

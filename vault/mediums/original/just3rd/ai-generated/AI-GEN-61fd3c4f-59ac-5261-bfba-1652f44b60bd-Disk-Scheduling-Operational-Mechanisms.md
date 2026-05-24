@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-operational-mechanisms|disk-scheduling-operational-mechanisms]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-operational-mechanisms|disk-scheduling-operational-mechanisms]]"
 learning-time-in-minutes: 8
 ---
 # Understanding Disk Scheduling Operational Mechanisms
@@ -193,4 +193,4 @@ Understanding these operational mechanisms is crucial for analyzing their perfor
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-operational-mechanisms|Disk Scheduling Operational Mechanisms]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-operational-mechanisms|Disk Scheduling Operational Mechanisms]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Eliciting User Needs: Uncovering What Users Truly Want"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-needs-elicitation|user-needs-elicitation]]"
+outcome: "[[user-needs-elicitation|user-needs-elicitation]]"
 learning-time-in-minutes: 6
 ---
 # Eliciting User Needs: Uncovering What Users Truly Want
@@ -130,4 +130,4 @@ By applying these elicitation techniques and carefully synthesizing the results,
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-needs-elicitation|User Needs Elicitation]]
+- [[user-needs-elicitation|User Needs Elicitation]]

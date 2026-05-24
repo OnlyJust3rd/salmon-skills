@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/external-behavior-preservation|external-behavior-preservation]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/external-behavior-preservation|external-behavior-preservation]]"
 learning-time-in-minutes: 5
 ---
 # Preserving External Behavior During Refactoring
@@ -163,4 +163,4 @@ However, for standard refactoring aimed at improving code quality, preserving ex
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/external-behavior-preservation|External Behavior Preservation]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/external-behavior-preservation|External Behavior Preservation]]

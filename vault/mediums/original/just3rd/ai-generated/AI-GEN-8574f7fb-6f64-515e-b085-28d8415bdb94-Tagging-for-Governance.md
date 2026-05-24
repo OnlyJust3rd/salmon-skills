@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/tagging-for-governance|tagging-for-governance]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-governance|tagging-for-governance]]"
 learning-time-in-minutes: 3
 ---
 # Tagging for Governance
@@ -75,4 +75,4 @@ Choose one of the following cloud providers (AWS, Azure, or GCP):
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/tagging-for-governance|Tagging for Governance]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-governance|Tagging for Governance]]

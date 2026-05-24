@@ -5,7 +5,7 @@ tags:
   - "cpe"
   - "competency"
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/observability-operations/security-monitoring/competencies/L1-explain-security-event-monitoring|L1-explain-security-event-monitoring]]"
+  - "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/competencies/L1-explain-security-event-monitoring|L1-explain-security-event-monitoring]]"
   - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/competencies/L1-core-security-principles-explained|L1-core-security-principles-explained]]"
 miller-level: 1
 optional-prerequisites: []
@@ -28,7 +28,7 @@ Explain the incident response lifecycle for handling security events and restori
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/observability-operations/security-monitoring/competencies/L1-explain-security-event-monitoring|L2- Explain Security Event Monitoring]]
+- [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/competencies/L1-explain-security-event-monitoring|L2- Explain Security Event Monitoring]]
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/competencies/L1-core-security-principles-explained|L2- Core Security Principles Explained]]
 
 ## Optional Prerequisites

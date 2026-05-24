@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/basic-class-implementation|basic-class-implementation]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/basic-class-implementation|basic-class-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Basic Classes: Building Blocks of OOP
@@ -115,4 +115,4 @@ Implementing basic classes is about defining blueprints for your data and the op
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/basic-class-implementation|Basic class implementation]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/basic-class-implementation|Basic class implementation]]

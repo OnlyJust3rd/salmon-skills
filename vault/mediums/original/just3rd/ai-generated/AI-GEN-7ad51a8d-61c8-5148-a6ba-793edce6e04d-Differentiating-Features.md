@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Differentiating Features of VR and AR"
+type: medium
+title: Differentiating Features of VR and AR
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/differentiating-features|differentiating-features]]"
+outcome: "[[differentiating-features|differentiating-features]]"
 learning-time-in-minutes: 5
 ---
 # Differentiating Features of VR and AR
@@ -96,4 +96,4 @@ Imagine you are developing a new application for a museum. For each of the follo
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/differentiating-features|Differentiating Features]]
+- [[differentiating-features|Differentiating Features]]

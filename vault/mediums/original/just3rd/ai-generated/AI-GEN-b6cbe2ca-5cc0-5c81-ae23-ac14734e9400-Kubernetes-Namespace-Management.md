@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-namespace-management|kubernetes-namespace-management]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-namespace-management|kubernetes-namespace-management]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes Namespace Management
@@ -129,4 +129,4 @@ By mastering namespace management, you lay a strong foundation for implementing 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-namespace-management|Kubernetes Namespace Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-namespace-management|Kubernetes Namespace Management]]

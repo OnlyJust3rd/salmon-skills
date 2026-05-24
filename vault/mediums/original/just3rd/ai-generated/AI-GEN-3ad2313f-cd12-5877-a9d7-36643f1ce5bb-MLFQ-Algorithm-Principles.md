@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/mlfq-algorithm-principles|mlfq-algorithm-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/mlfq-algorithm-principles|mlfq-algorithm-principles]]"
 learning-time-in-minutes: 3
 ---
 # Multi-Level Feedback Queue (MLFQ) Algorithm Principles
@@ -67,4 +67,4 @@ Where would each process end up after its first interaction with the CPU?
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/mlfq-algorithm-principles|MLFQ Algorithm Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/mlfq-algorithm-principles|MLFQ Algorithm Principles]]

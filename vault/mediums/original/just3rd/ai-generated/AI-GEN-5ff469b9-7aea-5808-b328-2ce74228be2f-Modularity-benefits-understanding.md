@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/modular-program-design/microskills/modularity-benefits-understanding|modularity-benefits-understanding]]"
+outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/modularity-benefits-understanding|modularity-benefits-understanding]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Benefits of Modularity
@@ -107,4 +107,4 @@ Understanding the benefits of modularity is foundational to writing efficient, m
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/modular-program-design/microskills/modularity-benefits-understanding|Modularity benefits understanding]]
+- [[skills/computing/programming/programming-principles/modular-program-design/microskills/modularity-benefits-understanding|Modularity benefits understanding]]

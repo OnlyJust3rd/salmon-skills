@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-provider-block|terraform-provider-block]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-provider-block|terraform-provider-block]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Terraform Provider Blocks
@@ -121,4 +121,4 @@ In summary, the `provider` block is your entry point for telling Terraform *what
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-provider-block|Terraform Provider Block]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-provider-block|Terraform Provider Block]]

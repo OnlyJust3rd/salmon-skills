@@ -6,7 +6,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/competencies/L1-explain-ai-assisted-coding-concepts|L1-explain-ai-assisted-coding-concepts]]"
-  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/ai-code-review|ai-code-review]]"
@@ -28,7 +28,7 @@ Explain AI-assisted code review concepts.
 
 ## Strict Prerequisites
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
 - [[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/competencies/L1-explain-ai-assisted-coding-concepts|L2- Explain AI-Assisted Coding Concepts]]
 
 ## Optional Prerequisites

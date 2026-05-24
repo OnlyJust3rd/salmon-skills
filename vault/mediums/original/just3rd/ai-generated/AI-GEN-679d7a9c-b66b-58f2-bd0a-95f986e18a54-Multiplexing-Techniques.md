@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/multiplexing-techniques|multiplexing-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/multiplexing-techniques|multiplexing-techniques]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Multiplexing Techniques
@@ -102,4 +102,4 @@ By understanding and applying these multiplexing techniques, we can ensure that 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/multiplexing-techniques|Multiplexing Techniques]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/multiplexing-techniques|Multiplexing Techniques]]

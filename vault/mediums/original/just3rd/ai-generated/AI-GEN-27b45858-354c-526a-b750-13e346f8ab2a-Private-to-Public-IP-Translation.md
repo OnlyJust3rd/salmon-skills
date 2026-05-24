@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/private-to-public-ip-translation|private-to-public-ip-translation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/private-to-public-ip-translation|private-to-public-ip-translation]]"
 learning-time-in-minutes: 5
 ---
 # Private to Public IP Translation
@@ -81,4 +81,4 @@ When the web server sends a response back, it addresses the packet to the public
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/private-to-public-ip-translation|Private to Public IP Translation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/private-to-public-ip-translation|Private to Public IP Translation]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/uat-scenario-preparation|uat-scenario-preparation]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/uat-scenario-preparation|uat-scenario-preparation]]"
 learning-time-in-minutes: 6
 ---
 # Preparing Realistic UAT Scenarios
@@ -159,4 +159,4 @@ By investing time in preparing realistic UAT scenarios, you ensure that your use
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/uat-scenario-preparation|UAT scenario preparation]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/uat-scenario-preparation|UAT scenario preparation]]

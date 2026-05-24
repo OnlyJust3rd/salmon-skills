@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Future Technology Ethics in Human-Computer Interaction"
+type: medium
+title: Future Technology Ethics in Human-Computer Interaction
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/future-technology-ethics|future-technology-ethics]]"
+outcome: "[[future-technology-ethics|future-technology-ethics]]"
 learning-time-in-minutes: 4
 ---
 # Future Technology Ethics in Human-Computer Interaction
@@ -64,4 +64,4 @@ For your chosen capability, identify at least three significant ethical issues. 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/future-technology-ethics|Future Technology Ethics]]
+- [[future-technology-ethics|Future Technology Ethics]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|scheduling-algorithm-fairness-analysis]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|scheduling-algorithm-fairness-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Fairness in CPU Scheduling Algorithms
@@ -74,4 +74,4 @@ Track the execution of each process. How long does each process wait in total? D
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|Scheduling Algorithm Fairness Analysis]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|Scheduling Algorithm Fairness Analysis]]

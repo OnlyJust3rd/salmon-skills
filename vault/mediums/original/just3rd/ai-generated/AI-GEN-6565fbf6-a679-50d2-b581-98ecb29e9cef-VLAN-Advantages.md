@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/vlan-advantages|vlan-advantages]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/vlan-advantages|vlan-advantages]]"
 learning-time-in-minutes: 4
 ---
 # VLAN Advantages
@@ -65,4 +65,4 @@ Think about a small business with a "Guest Wi-Fi" network and a "Internal Networ
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/vlan-advantages|VLAN Advantages]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/vlan-advantages|VLAN Advantages]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding User Needs Capture in UCD: Personas and Scenarios"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-needs-capture|user-needs-capture]]"
+outcome: "[[user-needs-capture|user-needs-capture]]"
 learning-time-in-minutes: 5
 ---
 # Understanding User Needs Capture in UCD: Personas and Scenarios
@@ -122,4 +122,4 @@ Personas and scenarios work hand-in-hand. Personas provide the "who" and the und
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-needs-capture|User Needs Capture]]
+- [[user-needs-capture|User Needs Capture]]

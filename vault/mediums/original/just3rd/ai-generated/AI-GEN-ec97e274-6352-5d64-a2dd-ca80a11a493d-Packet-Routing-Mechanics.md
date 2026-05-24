@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/packet-routing-mechanics|packet-routing-mechanics]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/packet-routing-mechanics|packet-routing-mechanics]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Packet Routing Mechanics
@@ -87,4 +87,4 @@ This process repeats at each router along the path until the packet reaches a ro
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/packet-routing-mechanics|Packet Routing Mechanics]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/packet-routing-mechanics|Packet Routing Mechanics]]

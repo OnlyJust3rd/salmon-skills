@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|deadlock-avoidance-efficiency]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|deadlock-avoidance-efficiency]]"
 learning-time-in-minutes: 4
 ---
 # Deadlock Avoidance Algorithm Efficiency
@@ -87,4 +87,4 @@ Now, P4 requests `[1, 0, 2]` resources.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|Deadlock Avoidance Efficiency]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|Deadlock Avoidance Efficiency]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/ipv4-vs-ipv6-differences|ipv4-vs-ipv6-differences]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ipv4-vs-ipv6-differences|ipv4-vs-ipv6-differences]]"
 learning-time-in-minutes: 3
 ---
 # IPv4 vs. IPv6 Differences
@@ -90,4 +90,4 @@ Understanding these fundamental differences is crucial as the internet continues
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/ipv4-vs-ipv6-differences|IPv4 vs. IPv6 Differences]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ipv4-vs-ipv6-differences|IPv4 vs. IPv6 Differences]]

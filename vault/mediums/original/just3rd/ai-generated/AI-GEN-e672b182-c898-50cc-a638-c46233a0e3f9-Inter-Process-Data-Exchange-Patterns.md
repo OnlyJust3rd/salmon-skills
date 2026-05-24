@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|inter-process-data-exchange-patterns]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|inter-process-data-exchange-patterns]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Inter-Process Data Exchange Patterns
@@ -149,4 +149,4 @@ By dissecting the patterns of data exchange, you gain a deeper understanding of 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|Inter-Process Data Exchange Patterns]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|Inter-Process Data Exchange Patterns]]

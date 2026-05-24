@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/cross-browser-testing/microskills/compatibility-test-matrix|compatibility-test-matrix]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/compatibility-test-matrix|compatibility-test-matrix]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Compatibility Test Matrix
@@ -75,4 +75,4 @@ Imagine you are building a blog application. Based on general web usage trends, 
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/cross-browser-testing/microskills/compatibility-test-matrix|Compatibility Test Matrix]]
+- [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/compatibility-test-matrix|Compatibility Test Matrix]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/cold-start|cold-start]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/cold-start|cold-start]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Serverless Cold Starts
@@ -68,4 +68,4 @@ By understanding what a cold start is and why it happens, you can better design 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/cold-start|Cold Start]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/cold-start|Cold Start]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/icmp-functions|icmp-functions]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/icmp-functions|icmp-functions]]"
 learning-time-in-minutes: 5
 ---
 # Understanding ICMP Functions
@@ -94,4 +94,4 @@ ICMP messages are critical for maintaining and diagnosing IP networks. They prov
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/icmp-functions|ICMP Functions]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/icmp-functions|ICMP Functions]]

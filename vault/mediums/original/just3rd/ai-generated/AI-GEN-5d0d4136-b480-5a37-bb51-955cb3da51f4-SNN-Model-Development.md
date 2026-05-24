@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/snn-model-development|snn-model-development]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/snn-model-development|snn-model-development]]"
 learning-time-in-minutes: 4
 ---
 # Developing Basic Spiking Neural Network (SNN) Models
@@ -172,4 +172,4 @@ By applying these programming steps, you are actively constructing and experimen
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/snn-model-development|SNN Model Development]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/snn-model-development|SNN Model Development]]

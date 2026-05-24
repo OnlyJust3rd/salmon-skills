@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-lock-implementation|compare-and-swap-lock-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-lock-implementation|compare-and-swap-lock-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Locks with Compare-and-Swap
@@ -115,4 +115,4 @@ Implement the `acquire_lock` and `release_lock` functions in a language of your 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-lock-implementation|Compare-and-Swap Lock Implementation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-lock-implementation|Compare-and-Swap Lock Implementation]]

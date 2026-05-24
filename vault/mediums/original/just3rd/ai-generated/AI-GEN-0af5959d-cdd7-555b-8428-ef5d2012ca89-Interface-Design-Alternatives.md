@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Exploring Interface Design Alternatives"
+type: medium
+title: Exploring Interface Design Alternatives
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/interface-design-alternatives|interface-design-alternatives]]"
+outcome: "[[interface-design-alternatives|interface-design-alternatives]]"
 learning-time-in-minutes: 5
 ---
 # Exploring Interface Design Alternatives
@@ -103,4 +103,4 @@ By actively practicing the development of interface design alternatives, you'll 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/interface-design-alternatives|Interface Design Alternatives]]
+- [[interface-design-alternatives|Interface Design Alternatives]]

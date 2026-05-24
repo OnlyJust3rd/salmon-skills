@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-stages|foster-s-methodology-stages]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-stages|foster-s-methodology-stages]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Foster's Methodology Stages for Parallel Algorithm Design
@@ -99,4 +99,4 @@ By systematically working through these stages, you can develop a more robust, e
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-stages|Foster's Methodology Stages]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-stages|Foster's Methodology Stages]]

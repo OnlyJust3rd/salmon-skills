@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/incident-response-trigger|incident-response-trigger]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/incident-response-trigger|incident-response-trigger]]"
 learning-time-in-minutes: 4
 ---
 # Alerts as Incident Response Triggers
@@ -65,4 +65,4 @@ By understanding that alerts are the starting point of incident response, you ca
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/incident-response-trigger|Incident Response Trigger]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/incident-response-trigger|Incident Response Trigger]]

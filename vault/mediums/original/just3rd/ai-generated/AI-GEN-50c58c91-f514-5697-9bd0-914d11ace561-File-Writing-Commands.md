@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-writing-commands|file-writing-commands]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-writing-commands|file-writing-commands]]"
 learning-time-in-minutes: 4
 ---
 # Writing to Files: The `echo` and Redirection Operators
@@ -171,4 +171,4 @@ By mastering `echo` with `>` and `>>`, you gain a fundamental ability to create 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-writing-commands|File Writing Commands]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-writing-commands|File Writing Commands]]

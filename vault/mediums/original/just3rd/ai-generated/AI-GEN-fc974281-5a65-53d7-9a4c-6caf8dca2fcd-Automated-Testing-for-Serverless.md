@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/automated-testing-for-serverless|automated-testing-for-serverless]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/automated-testing-for-serverless|automated-testing-for-serverless]]"
 learning-time-in-minutes: 4
 ---
 # Automated Testing for Serverless Functions
@@ -353,4 +353,4 @@ By implementing both unit and integration tests, you create a robust testing str
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/automated-testing-for-serverless|Automated Testing for Serverless]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/automated-testing-for-serverless|Automated Testing for Serverless]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/utility-program-task-execution|utility-program-task-execution]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/utility-program-task-execution|utility-program-task-execution]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Utility Program Task Execution
@@ -92,4 +92,4 @@ These functions are part of a library that abstracts the direct interaction with
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/utility-program-task-execution|Utility Program Task Execution]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/utility-program-task-execution|Utility Program Task Execution]]

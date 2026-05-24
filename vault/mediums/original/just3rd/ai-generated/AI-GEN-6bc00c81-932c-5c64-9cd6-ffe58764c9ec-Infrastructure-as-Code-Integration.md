@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/infrastructure-as-code-integration|infrastructure-as-code-integration]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/infrastructure-as-code-integration|infrastructure-as-code-integration]]"
 learning-time-in-minutes: 4
 ---
 # Integrating Infrastructure as Code into Serverless CI/CD Pipelines
@@ -187,4 +187,4 @@ By thoughtfully integrating Infrastructure as Code into your CI/CD pipelines, yo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/infrastructure-as-code-integration|Infrastructure as Code Integration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/infrastructure-as-code-integration|Infrastructure as Code Integration]]

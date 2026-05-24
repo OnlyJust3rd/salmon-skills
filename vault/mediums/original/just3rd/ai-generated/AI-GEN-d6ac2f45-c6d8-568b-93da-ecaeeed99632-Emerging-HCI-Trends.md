@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Emerging HCI Trends"
+type: medium
+title: Emerging HCI Trends
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/emerging-hci-trends|emerging-hci-trends]]"
+outcome: "[[emerging-hci-trends|emerging-hci-trends]]"
 learning-time-in-minutes: 4
 ---
 # Emerging HCI Trends
@@ -69,4 +69,4 @@ Continue listing all the trends.
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/emerging-hci-trends|Emerging HCI Trends]]
+- [[emerging-hci-trends|Emerging HCI Trends]]

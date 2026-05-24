@@ -35,6 +35,6 @@ A key component of the course is the end-to-end development workflow, where stud
 
 ## Macro Skills
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/design-patterns|Design Patterns]]
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/object-oriented-design|Object-Oriented Design]]
-- [[skills/computing/software-engineering/software-practices/refactoring/refactoring|Refactoring]]
+- [[skills/computing/software-engineering/software-design/design-patterns/design-patterns|Design Patterns]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/object-oriented-design|Object-Oriented Design]]
+- [[skills/computing/programming/code-quality/refactoring/refactoring|Refactoring]]

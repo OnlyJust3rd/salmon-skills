@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/resource-requests-and-limits|resource-requests-and-limits]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/resource-requests-and-limits|resource-requests-and-limits]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes Resource Requests and Limits
@@ -82,4 +82,4 @@ By thoughtfully implementing resource requests and limits, you gain significant 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/resource-requests-and-limits|Resource Requests and Limits]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/resource-requests-and-limits|Resource Requests and Limits]]

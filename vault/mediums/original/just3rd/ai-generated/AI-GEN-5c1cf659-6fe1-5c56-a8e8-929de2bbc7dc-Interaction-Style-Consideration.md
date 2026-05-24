@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding and Applying Interaction Styles in Interface Design"
+type: medium
+title: Understanding and Applying Interaction Styles in Interface Design
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/interaction-style-consideration|interaction-style-consideration]]"
+outcome: "[[interaction-style-consideration|interaction-style-consideration]]"
 learning-time-in-minutes: 5
 ---
 # Understanding and Applying Interaction Styles in Interface Design
@@ -129,4 +129,4 @@ By carefully considering and applying appropriate interaction styles, you can cr
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/interaction-style-consideration|Interaction Style Consideration]]
+- [[interaction-style-consideration|Interaction Style Consideration]]

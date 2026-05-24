@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/program-definition|program-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/program-definition|program-definition]]"
 learning-time-in-minutes: 4
 ---
 # Program vs. Process: The Building Blocks of Computing
@@ -74,4 +74,4 @@ Understanding this fundamental difference is the first step to comprehending how
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/program-definition|Program Definition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/program-definition|Program Definition]]

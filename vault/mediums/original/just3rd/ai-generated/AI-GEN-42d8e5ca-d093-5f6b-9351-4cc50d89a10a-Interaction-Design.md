@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Interaction Design: Understanding User Actions"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/interaction-design|interaction-design]]"
+outcome: "[[interaction-design|interaction-design]]"
 learning-time-in-minutes: 5
 ---
 # Interaction Design: Understanding User Actions
@@ -89,4 +89,4 @@ By understanding these fundamental elements, you can begin to analyze and apprec
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/interaction-design|Interaction Design]]
+- [[interaction-design|Interaction Design]]

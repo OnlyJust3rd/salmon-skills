@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/support-documentation|support-documentation]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/support-documentation|support-documentation]]"
 learning-time-in-minutes: 4
 ---
 # Documenting IT Support Incidents
@@ -100,4 +100,4 @@ By consistently applying these documentation principles, you contribute to a mor
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/support-documentation|Support Documentation]]
+- [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/support-documentation|Support Documentation]]

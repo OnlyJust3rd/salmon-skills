@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/consistency-and-repeatability|consistency-and-repeatability]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/consistency-and-repeatability|consistency-and-repeatability]]"
 learning-time-in-minutes: 5
 ---
 # Consistency and Repeatability in Infrastructure as Code
@@ -71,4 +71,4 @@ The ability to ensure that your infrastructure is identical across deployments, 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/consistency-and-repeatability|Consistency and Repeatability]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/consistency-and-repeatability|Consistency and Repeatability]]

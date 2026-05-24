@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/unguided-media-characteristics|unguided-media-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/unguided-media-characteristics|unguided-media-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Unguided Media Characteristics
@@ -70,4 +70,4 @@ When working with unguided media, designers must carefully consider signal stren
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/unguided-media-characteristics|Unguided Media Characteristics]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/unguided-media-characteristics|Unguided Media Characteristics]]

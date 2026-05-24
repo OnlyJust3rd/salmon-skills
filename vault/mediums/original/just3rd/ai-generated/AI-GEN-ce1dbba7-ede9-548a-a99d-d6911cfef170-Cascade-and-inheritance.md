@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/css/microskills/cascade-and-inheritance|cascade-and-inheritance]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/cascade-and-inheritance|cascade-and-inheritance]]"
 learning-time-in-minutes: 3
 ---
 # Understanding CSS Cascade and Inheritance
@@ -130,4 +130,4 @@ body {
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/css/microskills/cascade-and-inheritance|Cascade and inheritance]]
+- [[skills/computing/software-engineering/frontend-development/css/microskills/cascade-and-inheritance|Cascade and inheritance]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-health-monitoring|hpc-cluster-health-monitoring]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-health-monitoring|hpc-cluster-health-monitoring]]"
 learning-time-in-minutes: 5
 ---
 # Understanding HPC Cluster Health Monitoring
@@ -88,4 +88,4 @@ By understanding and implementing robust HPC cluster health monitoring, you are 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-health-monitoring|HPC Cluster Health Monitoring]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-health-monitoring|HPC Cluster Health Monitoring]]

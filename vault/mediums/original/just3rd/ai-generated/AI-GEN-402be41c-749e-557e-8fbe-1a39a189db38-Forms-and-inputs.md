@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/html/microskills/forms-and-inputs|forms-and-inputs]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/html/microskills/forms-and-inputs|forms-and-inputs]]"
 learning-time-in-minutes: 4
 ---
 # Understanding HTML Forms and Inputs
@@ -121,4 +121,4 @@ By understanding and correctly implementing labels, input fields, and submission
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/html/microskills/forms-and-inputs|Forms and inputs]]
+- [[skills/computing/software-engineering/frontend-development/html/microskills/forms-and-inputs|Forms and inputs]]

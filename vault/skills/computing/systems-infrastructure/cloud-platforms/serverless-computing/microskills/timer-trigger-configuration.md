@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Timer Trigger Configuration"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/serverless-computing|serverless-computing]]"
+requires-in-competencies:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/competencies/L2-configure-serverless-function-triggers|L2-configure-serverless-function-triggers]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Timer Trigger Configuration
+
+Parent macro: [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/serverless-computing|Serverless Computing]]
+
+Parent competency:
+
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/competencies/L2-configure-serverless-function-triggers|L3- Configure Serverless Function Triggers]]
+
+## Description
+
+Ability to set up scheduled function executions.

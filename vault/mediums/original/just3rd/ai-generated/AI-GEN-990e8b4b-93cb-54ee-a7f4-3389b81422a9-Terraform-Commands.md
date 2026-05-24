@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-commands|terraform-commands]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-commands|terraform-commands]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Terraform Commands: init, plan, apply, destroy
@@ -136,4 +136,4 @@ By understanding and consistently using these four core commands, you gain contr
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-commands|Terraform Commands]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-commands|Terraform Commands]]

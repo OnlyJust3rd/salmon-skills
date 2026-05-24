@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/benefits-of-iac|benefits-of-iac]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/benefits-of-iac|benefits-of-iac]]"
 learning-time-in-minutes: 4
 ---
 # Benefits of Infrastructure as Code (IaC)
@@ -83,4 +83,4 @@ By understanding these benefits, you can see why Infrastructure as Code is a fun
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/benefits-of-iac|Benefits of IaC]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/benefits-of-iac|Benefits of IaC]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|logical-to-physical-address-translation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|logical-to-physical-address-translation]]"
 learning-time-in-minutes: 5
 ---
 # Translating the Program's View to Reality: Logical to Physical Address Translation
@@ -76,4 +76,4 @@ Understanding this translation mechanism is the first step in grasping how memor
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|Logical to Physical Address Translation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|Logical to Physical Address Translation]]

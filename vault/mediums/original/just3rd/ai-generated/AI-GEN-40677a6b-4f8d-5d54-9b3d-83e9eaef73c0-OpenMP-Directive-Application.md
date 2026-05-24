@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/openmp/microskills/openmp-directive-application|openmp-directive-application]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-application|openmp-directive-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying OpenMP Directives for Parallelism
@@ -180,4 +180,4 @@ OpenMP directives are powerful tools for parallelizing your C/C++ code. By under
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/openmp/microskills/openmp-directive-application|OpenMP Directive Application]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-application|OpenMP Directive Application]]

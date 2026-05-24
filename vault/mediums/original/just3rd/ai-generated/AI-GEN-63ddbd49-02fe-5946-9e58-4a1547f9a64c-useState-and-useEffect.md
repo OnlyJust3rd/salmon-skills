@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/react/microskills/usestate-and-useeffect|usestate-and-useeffect]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/react/microskills/usestate-and-useeffect|usestate-and-useeffect]]"
 learning-time-in-minutes: 4
 ---
 # Understanding `useState` and `useEffect` in React
@@ -154,4 +154,4 @@ By mastering `useState` and `useEffect`, you gain the core abilities to make you
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/react/microskills/usestate-and-useeffect|useState and useEffect]]
+- [[skills/computing/software-engineering/frontend-development/react/microskills/usestate-and-useeffect|useState and useEffect]]

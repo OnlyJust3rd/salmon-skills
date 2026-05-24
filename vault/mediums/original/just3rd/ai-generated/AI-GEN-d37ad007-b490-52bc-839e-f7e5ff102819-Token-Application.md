@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Token Application: Building Consistent Interfaces"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/design-systems/microskills/token-application|token-application]]"
+outcome: "[[token-application|token-application]]"
 learning-time-in-minutes: 4
 ---
 # Token Application: Building Consistent Interfaces
@@ -113,4 +113,4 @@ Token application is the mechanism by which your design system's foundational de
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/design-systems/microskills/token-application|Token Application]]
+- [[token-application|Token Application]]

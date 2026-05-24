@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-benefits-explanation|design-pattern-benefits-explanation]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-benefits-explanation|design-pattern-benefits-explanation]]"
 learning-time-in-minutes: 4
 ---
 # Benefits of Design Patterns
@@ -60,4 +60,4 @@ Consider a simple task management application. You have a list of tasks, and use
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-benefits-explanation|Design Pattern Benefits Explanation]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-benefits-explanation|Design Pattern Benefits Explanation]]

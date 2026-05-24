@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/continuous-delivery/microskills/automated-promotion|automated-promotion]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/automated-promotion|automated-promotion]]"
 learning-time-in-minutes: 3
 ---
 # Automated Promotion in Continuous Delivery
@@ -65,4 +65,4 @@ Imagine you are setting up a CD pipeline for a simple mobile app.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/continuous-delivery/microskills/automated-promotion|Automated Promotion]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/automated-promotion|Automated Promotion]]

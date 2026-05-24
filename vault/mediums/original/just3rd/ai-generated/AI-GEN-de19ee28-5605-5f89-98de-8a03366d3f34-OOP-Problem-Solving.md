@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/oop-problem-solving|oop-problem-solving]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/oop-problem-solving|oop-problem-solving]]"
 learning-time-in-minutes: 3
 ---
 # OOP Problem Solving: Modeling a Library System
@@ -302,4 +302,4 @@ This example demonstrates how abstraction (identifying `LibraryItem`, `Book`, `E
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/oop-problem-solving|OOP Problem Solving]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/oop-problem-solving|OOP Problem Solving]]

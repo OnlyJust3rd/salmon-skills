@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-topology-for-interconnection|network-topology-for-interconnection]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-topology-for-interconnection|network-topology-for-interconnection]]"
 learning-time-in-minutes: 4
 ---
 # Network Topology for Interconnection
@@ -65,4 +65,4 @@ Imagine you are tasked with connecting two small office LANs that need to share 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-topology-for-interconnection|Network Topology for Interconnection]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-topology-for-interconnection|Network Topology for Interconnection]]

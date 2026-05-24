@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/routing-decision-components|routing-decision-components]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/routing-decision-components|routing-decision-components]]"
 learning-time-in-minutes: 4
 ---
 # Routing Decision Components
@@ -88,4 +88,4 @@ By understanding these components, you gain insight into the intelligence behind
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/routing-decision-components|Routing Decision Components]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/routing-decision-components|Routing Decision Components]]

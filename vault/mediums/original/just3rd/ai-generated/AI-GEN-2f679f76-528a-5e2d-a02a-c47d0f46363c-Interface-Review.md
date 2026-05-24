@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Interface Review: Applying Usability Principles"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/interface-review|interface-review]]"
+outcome: "[[interface-review|interface-review]]"
 learning-time-in-minutes: 5
 ---
 # Interface Review: Applying Usability Principles
@@ -125,4 +125,4 @@ By systematically applying these principles and following a structured process, 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/interface-review|Interface Review]]
+- [[interface-review|Interface Review]]

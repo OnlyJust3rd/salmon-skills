@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-and-switching/microskills/vlan-membership|vlan-membership]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/vlan-membership|vlan-membership]]"
 learning-time-in-minutes: 5
 ---
 # Understanding VLAN Membership: Segmenting Your Network
@@ -101,4 +101,4 @@ By carefully assigning endpoints to VLANs via access ports, you've successfully 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-and-switching/microskills/vlan-membership|VLAN Membership]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/vlan-membership|VLAN Membership]]

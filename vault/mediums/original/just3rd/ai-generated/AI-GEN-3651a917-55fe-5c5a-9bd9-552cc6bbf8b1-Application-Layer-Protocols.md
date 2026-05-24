@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/application-layer-protocols|application-layer-protocols]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/application-layer-protocols|application-layer-protocols]]"
 learning-time-in-minutes: 3
 ---
 # Application Layer Protocols: The Internet's Language
@@ -58,4 +58,4 @@ Identify which application layer protocol is primarily used for each of the foll
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/application-layer-protocols|Application Layer Protocols]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/application-layer-protocols|Application Layer Protocols]]

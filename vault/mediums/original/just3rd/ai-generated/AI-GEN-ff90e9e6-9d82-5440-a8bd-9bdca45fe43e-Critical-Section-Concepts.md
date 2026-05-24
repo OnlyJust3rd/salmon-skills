@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/critical-section-concepts|critical-section-concepts]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/critical-section-concepts|critical-section-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Critical Sections
@@ -100,4 +100,4 @@ function get_next_id():
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/critical-section-concepts|Critical Section Concepts]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/critical-section-concepts|Critical Section Concepts]]

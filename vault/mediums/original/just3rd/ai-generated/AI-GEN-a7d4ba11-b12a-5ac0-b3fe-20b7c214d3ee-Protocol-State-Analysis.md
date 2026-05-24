@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/protocol-state-analysis|protocol-state-analysis]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/protocol-state-analysis|protocol-state-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Protocol States: HTTP and DNS
@@ -62,4 +62,4 @@ Using a network analysis tool like Wireshark (or by examining browser developer 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/protocol-state-analysis|Protocol State Analysis]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/protocol-state-analysis|Protocol State Analysis]]

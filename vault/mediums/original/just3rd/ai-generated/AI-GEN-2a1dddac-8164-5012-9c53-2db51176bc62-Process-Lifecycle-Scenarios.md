@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-scenarios|process-lifecycle-scenarios]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-scenarios|process-lifecycle-scenarios]]"
 learning-time-in-minutes: 5
 ---
 # Illustrating Process Lifecycles with fork() and exec()
@@ -115,4 +115,4 @@ This scenario highlights how `fork()` allows for parallel execution, where the p
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-scenarios|Process Lifecycle Scenarios]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-scenarios|Process Lifecycle Scenarios]]

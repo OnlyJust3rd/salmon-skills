@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/device-communication-principles|device-communication-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/device-communication-principles|device-communication-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Device Communication Principles in Operating Systems
@@ -64,4 +64,4 @@ This process, though complex under the hood, is abstracted away from the applica
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/device-communication-principles|Device Communication Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/device-communication-principles|Device Communication Principles]]

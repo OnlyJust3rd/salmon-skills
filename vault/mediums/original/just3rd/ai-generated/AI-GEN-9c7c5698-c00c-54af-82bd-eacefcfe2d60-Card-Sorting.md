@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Card Sorting: Organizing Information Architecture"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/card-sorting|card-sorting]]"
+outcome: "[[card-sorting|card-sorting]]"
 learning-time-in-minutes: 5
 ---
 # Card Sorting: Organizing Information Architecture
@@ -93,4 +93,4 @@ By mastering card sorting, you gain a fundamental tool for building user-centere
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/card-sorting|Card Sorting]]
+- [[card-sorting|Card Sorting]]

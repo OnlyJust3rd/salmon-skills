@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-state-transitions|container-state-transitions]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-state-transitions|container-state-transitions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Container State Transitions
@@ -142,4 +142,4 @@ By mastering these commands and understanding the state transitions they trigger
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-state-transitions|Container State Transitions]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-state-transitions|Container State Transitions]]

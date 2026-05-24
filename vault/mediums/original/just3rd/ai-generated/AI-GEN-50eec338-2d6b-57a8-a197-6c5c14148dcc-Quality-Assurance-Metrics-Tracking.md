@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/quality-assurance-metrics-tracking|quality-assurance-metrics-tracking]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/quality-assurance-metrics-tracking|quality-assurance-metrics-tracking]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Significance of Monitoring Quality Indicators
@@ -70,4 +70,4 @@ By understanding and consistently monitoring Quality Assurance metrics, you move
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/quality-assurance-metrics-tracking|Quality Assurance Metrics Tracking]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/quality-assurance-metrics-tracking|Quality Assurance Metrics Tracking]]

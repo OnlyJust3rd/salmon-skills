@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|mutual-exclusion-condition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|mutual-exclusion-condition]]"
 learning-time-in-minutes: 3
 ---
 # The Mutual Exclusion Condition
@@ -55,4 +55,4 @@ Describe how the Mutual Exclusion condition could potentially play a role in a d
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|Mutual Exclusion Condition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|Mutual Exclusion Condition]]

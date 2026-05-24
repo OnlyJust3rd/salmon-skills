@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-resource-block|terraform-resource-block]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resource-block|terraform-resource-block]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Terraform Resource Block
@@ -86,4 +86,4 @@ Understanding resource blocks is fundamental to using Terraform effectively to p
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-resource-block|Terraform Resource Block]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resource-block|Terraform Resource Block]]

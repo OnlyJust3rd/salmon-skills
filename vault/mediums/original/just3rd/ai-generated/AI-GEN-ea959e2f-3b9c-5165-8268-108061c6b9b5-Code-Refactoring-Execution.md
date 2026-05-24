@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/code-refactoring-execution|code-refactoring-execution]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-refactoring-execution|code-refactoring-execution]]"
 learning-time-in-minutes: 4
 ---
 # Executing Code Refactoring: Improving Code Structure
@@ -193,4 +193,4 @@ By consistently applying these execution techniques, you actively improve your c
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/code-refactoring-execution|Code Refactoring Execution]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-refactoring-execution|Code Refactoring Execution]]

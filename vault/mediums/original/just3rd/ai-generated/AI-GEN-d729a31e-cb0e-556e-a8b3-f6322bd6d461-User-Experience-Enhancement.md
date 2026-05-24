@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Enhancing User Experience with Conversational Agents"
+type: medium
+title: Enhancing User Experience with Conversational Agents
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/user-experience-enhancement|user-experience-enhancement]]"
+outcome: "[[user-experience-enhancement|user-experience-enhancement]]"
 learning-time-in-minutes: 4
 ---
 # Enhancing User Experience with Conversational Agents
@@ -65,4 +65,4 @@ By understanding these aspects, we can see how conversational agents are not jus
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/user-experience-enhancement|User Experience Enhancement]]
+- [[user-experience-enhancement|User Experience Enhancement]]

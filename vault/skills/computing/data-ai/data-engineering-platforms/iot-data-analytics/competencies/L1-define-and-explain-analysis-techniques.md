@@ -6,7 +6,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-applications-and-architecture|L1-explain-iot-applications-and-architecture]]"
-  - "[[skills/computing/systems-infrastructure/networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L3-analyze-iot-communication-technologies]]"
+  - "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L3-analyze-iot-communication-technologies]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/iot-data-analytics|iot-data-analytics]]"
@@ -29,7 +29,7 @@ Explain and define time-series analysis, classification, and clustering and thei
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
+- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
 - [[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-applications-and-architecture|L2- Explain IoT Applications and Architecture]]
 
 ## Optional Prerequisites

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|parallel-model-terminology]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|parallel-model-terminology]]"
 learning-time-in-minutes: 4
 ---
 # Parallel Model Terminology
@@ -89,4 +89,4 @@ This foundational terminology will serve you well as we explore the different pa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|Parallel Model Terminology]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|Parallel Model Terminology]]

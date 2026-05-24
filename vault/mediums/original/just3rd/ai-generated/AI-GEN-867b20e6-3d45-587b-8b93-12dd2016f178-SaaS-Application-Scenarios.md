@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/saas-application-scenarios|saas-application-scenarios]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/saas-application-scenarios|saas-application-scenarios]]"
 learning-time-in-minutes: 4
 ---
 # SaaS Application Scenarios
@@ -69,4 +69,4 @@ For each of these needs, determine if SaaS is a good fit and explain why. If it 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/saas-application-scenarios|SaaS Application Scenarios]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/saas-application-scenarios|SaaS Application Scenarios]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/logs|logs]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/logs|logs]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Logs in System Monitoring
@@ -78,4 +78,4 @@ Logs are the raw, chronological records of events happening in your systems. The
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/logs|Logs]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/logs|Logs]]

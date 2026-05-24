@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/network-security-group-nsg-configuration|network-security-group-nsg-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/network-security-group-nsg-configuration|network-security-group-nsg-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Network Security Group (NSG) Configuration
@@ -104,4 +104,4 @@ You would create an NSG and associate it with the subnet or network interface of
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/network-security-group-nsg-configuration|Network Security Group (NSG) Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/network-security-group-nsg-configuration|Network Security Group (NSG) Configuration]]

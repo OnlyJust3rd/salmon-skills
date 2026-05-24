@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/reduced-operational-overhead|reduced-operational-overhead]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/reduced-operational-overhead|reduced-operational-overhead]]"
 learning-time-in-minutes: 5
 ---
 # Serverless: The Beauty of Reduced Operational Overhead
@@ -66,4 +66,4 @@ The core benefit of the serverless model for reduced operational overhead is **o
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/reduced-operational-overhead|Reduced Operational Overhead]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/reduced-operational-overhead|Reduced Operational Overhead]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/rule-based-alerting-implementation|rule-based-alerting-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/rule-based-alerting-implementation|rule-based-alerting-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Rule-Based Alerting
@@ -119,4 +119,4 @@ By carefully defining your metrics, thresholds, and rule logic, and by continuou
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/rule-based-alerting-implementation|Rule-Based Alerting Implementation]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/rule-based-alerting-implementation|Rule-Based Alerting Implementation]]

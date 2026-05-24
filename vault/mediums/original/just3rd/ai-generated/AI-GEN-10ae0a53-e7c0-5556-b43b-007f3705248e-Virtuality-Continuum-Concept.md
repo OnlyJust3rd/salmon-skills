@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding the Virtuality Continuum"
+type: medium
+title: Understanding the Virtuality Continuum
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/virtuality-continuum-concept|virtuality-continuum-concept]]"
+outcome: "[[virtuality-continuum-concept|virtuality-continuum-concept]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Virtuality Continuum
@@ -66,4 +66,4 @@ For each, try to pinpoint:
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/virtuality-continuum-concept|Virtuality Continuum Concept]]
+- [[virtuality-continuum-concept|Virtuality Continuum Concept]]

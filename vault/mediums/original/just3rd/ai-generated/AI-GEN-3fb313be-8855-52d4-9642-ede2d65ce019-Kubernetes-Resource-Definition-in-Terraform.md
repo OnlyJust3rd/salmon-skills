@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|kubernetes-resource-definition-in-terraform]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|kubernetes-resource-definition-in-terraform]]"
 learning-time-in-minutes: 4
 ---
 # Defining Kubernetes Resources with Terraform
@@ -117,4 +117,4 @@ This micro-skill of defining Kubernetes resources is fundamental. By mastering t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|Kubernetes Resource Definition in Terraform]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|Kubernetes Resource Definition in Terraform]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/restful-api/microskills/consistency-with-http-semantics|consistency-with-http-semantics]]"
+outcome: "[[skills/computing/software-engineering/backend-development/restful-api/microskills/consistency-with-http-semantics|consistency-with-http-semantics]]"
 learning-time-in-minutes: 5
 ---
 # Consistency with HTTP Semantics
@@ -114,4 +114,4 @@ By consistently applying HTTP methods and status codes, you build more robust, p
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/restful-api/microskills/consistency-with-http-semantics|Consistency with HTTP semantics]]
+- [[skills/computing/software-engineering/backend-development/restful-api/microskills/consistency-with-http-semantics|Consistency with HTTP semantics]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/kubernetes-api-interaction|kubernetes-api-interaction]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-api-interaction|kubernetes-api-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Interacting with the Kubernetes API using YAML
@@ -151,4 +151,4 @@ By understanding these core components and how `kubectl apply` uses them to comm
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/kubernetes-api-interaction|Kubernetes API Interaction]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-api-interaction|Kubernetes API Interaction]]

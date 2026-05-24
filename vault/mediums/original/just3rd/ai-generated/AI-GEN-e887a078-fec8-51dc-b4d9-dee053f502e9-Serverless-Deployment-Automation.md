@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/serverless-deployment-automation|serverless-deployment-automation]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/serverless-deployment-automation|serverless-deployment-automation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Serverless Deployment Automation: CI/CD Pipeline Purpose and Stages
@@ -107,4 +107,4 @@ Understanding the purpose and stages of a CI/CD pipeline is fundamental to succe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/serverless-deployment-automation|Serverless Deployment Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/serverless-deployment-automation|Serverless Deployment Automation]]

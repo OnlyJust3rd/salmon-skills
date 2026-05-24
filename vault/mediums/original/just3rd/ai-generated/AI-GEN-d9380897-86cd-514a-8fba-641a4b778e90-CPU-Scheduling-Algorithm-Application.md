@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|cpu-scheduling-algorithm-application]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|cpu-scheduling-algorithm-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying CPU Scheduling Algorithms
@@ -85,4 +85,4 @@ Apply the **Shortest Job First (SJF)** algorithm (non-preemptive version) to the
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|CPU Scheduling Algorithm Application]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|CPU Scheduling Algorithm Application]]

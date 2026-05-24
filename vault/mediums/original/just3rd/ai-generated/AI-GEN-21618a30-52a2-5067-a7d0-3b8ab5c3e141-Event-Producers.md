@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/event-producers|event-producers]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/event-producers|event-producers]]"
 learning-time-in-minutes: 4
 ---
 # Event Producers: The Spark of Event-Driven Architectures
@@ -85,4 +85,4 @@ Event producers are the originators of information in an event-driven system. Th
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/event-producers|Event Producers]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/event-producers|Event Producers]]

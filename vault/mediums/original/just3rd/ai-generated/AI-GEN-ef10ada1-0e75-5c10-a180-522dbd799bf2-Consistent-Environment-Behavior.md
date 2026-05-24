@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/consistent-environment-behavior|consistent-environment-behavior]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/consistent-environment-behavior|consistent-environment-behavior]]"
 learning-time-in-minutes: 4
 ---
 # Containers: The Secret to Consistent Application Behavior
@@ -95,4 +95,4 @@ By understanding these principles, you can appreciate why containers are a corne
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/consistent-environment-behavior|Consistent Environment Behavior]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/consistent-environment-behavior|Consistent Environment Behavior]]

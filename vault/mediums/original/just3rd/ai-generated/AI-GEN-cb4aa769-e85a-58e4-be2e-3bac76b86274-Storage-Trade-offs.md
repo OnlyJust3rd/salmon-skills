@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/storage-trade-offs|storage-trade-offs]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-trade-offs|storage-trade-offs]]"
 learning-time-in-minutes: 4
 ---
 # Storage Trade-offs in Cloud Infrastructure
@@ -70,4 +70,4 @@ Consider an e-commerce platform. Identify at least three distinct data storage n
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/storage-trade-offs|Storage Trade-offs]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-trade-offs|Storage Trade-offs]]

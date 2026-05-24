@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/automation-with-tags|automation-with-tags]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/automation-with-tags|automation-with-tags]]"
 learning-time-in-minutes: 4
 ---
 # Automation with Tags
@@ -65,4 +65,4 @@ Imagine you are managing a cloud environment with multiple projects. You want to
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/automation-with-tags|Automation with Tags]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/automation-with-tags|Automation with Tags]]

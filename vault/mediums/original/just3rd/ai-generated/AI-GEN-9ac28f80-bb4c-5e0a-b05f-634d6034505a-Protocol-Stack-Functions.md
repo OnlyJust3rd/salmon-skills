@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/computer-network-architecture/microskills/protocol-stack-functions|protocol-stack-functions]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/microskills/protocol-stack-functions|protocol-stack-functions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Protocol Stack Functions
@@ -74,4 +74,4 @@ Imagine you are sending an email. Identify which layer of the TCP/IP model is pr
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/computer-network-architecture/microskills/protocol-stack-functions|Protocol Stack Functions]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/microskills/protocol-stack-functions|Protocol Stack Functions]]

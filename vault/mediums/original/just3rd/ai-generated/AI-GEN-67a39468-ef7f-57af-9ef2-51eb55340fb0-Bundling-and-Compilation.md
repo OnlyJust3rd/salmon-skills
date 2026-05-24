@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/client-side-web-tooling/microskills/bundling-and-compilation|bundling-and-compilation]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/bundling-and-compilation|bundling-and-compilation]]"
 learning-time-in-minutes: 3
 ---
 # Bundling and Compilation: Transforming Your Code for the Browser
@@ -115,4 +115,4 @@ This bundled code eliminates the need for separate module files and uses a more 
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/client-side-web-tooling/microskills/bundling-and-compilation|Bundling and Compilation]]
+- [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/bundling-and-compilation|Bundling and Compilation]]

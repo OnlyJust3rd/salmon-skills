@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/automation-and-orchestration|automation-and-orchestration]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-and-orchestration|automation-and-orchestration]]"
 learning-time-in-minutes: 5
 ---
 # Automation and Orchestration in Infrastructure as Code
@@ -89,4 +89,4 @@ When you apply this configuration using an IaC tool:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/automation-and-orchestration|Automation and Orchestration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-and-orchestration|Automation and Orchestration]]

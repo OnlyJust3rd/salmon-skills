@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/json-format/microskills/json-in-http-requests|json-in-http-requests]]"
+outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-requests|json-in-http-requests]]"
 learning-time-in-minutes: 4
 ---
 # Sending Data with JSON in HTTP Requests
@@ -77,4 +77,4 @@ The server, upon receiving this request, would:
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/json-format/microskills/json-in-http-requests|JSON in HTTP requests]]
+- [[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-requests|JSON in HTTP requests]]

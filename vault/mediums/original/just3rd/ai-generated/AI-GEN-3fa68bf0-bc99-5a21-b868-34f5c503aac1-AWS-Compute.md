@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-compute|aws-compute]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-compute|aws-compute]]"
 learning-time-in-minutes: 3
 ---
 # AWS Compute: The Brains of Your Cloud Operations
@@ -41,4 +41,4 @@ Imagine you want to host a dynamic website that interacts with a database. Here'
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-compute|AWS Compute]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-compute|AWS Compute]]

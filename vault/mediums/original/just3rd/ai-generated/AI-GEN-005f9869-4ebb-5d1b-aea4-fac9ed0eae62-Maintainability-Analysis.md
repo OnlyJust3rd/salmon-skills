@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/maintainability-analysis|maintainability-analysis]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/maintainability-analysis|maintainability-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Maintainability in Object-Oriented Design
@@ -187,4 +187,4 @@ Analyzing maintainability involves looking beyond immediate functionality to und
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/maintainability-analysis|Maintainability Analysis]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/maintainability-analysis|Maintainability Analysis]]

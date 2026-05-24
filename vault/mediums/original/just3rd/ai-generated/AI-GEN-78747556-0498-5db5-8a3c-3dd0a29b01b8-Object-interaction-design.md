@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/object-interaction-design|object-interaction-design]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-interaction-design|object-interaction-design]]"
 learning-time-in-minutes: 3
 ---
 # Designing Object Collaboration
@@ -181,4 +181,4 @@ By thoughtfully designing these interactions, you'll build more robust and maint
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/object-interaction-design|Object interaction design]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-interaction-design|Object interaction design]]

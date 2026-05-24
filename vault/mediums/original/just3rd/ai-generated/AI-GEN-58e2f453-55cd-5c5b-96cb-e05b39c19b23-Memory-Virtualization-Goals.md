@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-virtualization-goals|memory-virtualization-goals]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-virtualization-goals|memory-virtualization-goals]]"
 learning-time-in-minutes: 4
 ---
 # Memory Virtualization Goals in Operating Systems
@@ -54,4 +54,4 @@ Understanding these goals is crucial for grasping how modern operating systems e
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-virtualization-goals|Memory Virtualization Goals]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-virtualization-goals|Memory Virtualization Goals]]

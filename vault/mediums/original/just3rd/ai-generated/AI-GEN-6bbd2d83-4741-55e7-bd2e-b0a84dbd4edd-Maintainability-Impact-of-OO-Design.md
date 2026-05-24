@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/maintainability-impact-of-oo-design|maintainability-impact-of-oo-design]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/maintainability-impact-of-oo-design|maintainability-impact-of-oo-design]]"
 learning-time-in-minutes: 5
 ---
 # How OO Design Principles Make Software Easier to Maintain
@@ -67,4 +67,4 @@ By applying these OOD principles, we build software that is not just functional 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/maintainability-impact-of-oo-design|Maintainability Impact of OO Design]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/maintainability-impact-of-oo-design|Maintainability Impact of OO Design]]

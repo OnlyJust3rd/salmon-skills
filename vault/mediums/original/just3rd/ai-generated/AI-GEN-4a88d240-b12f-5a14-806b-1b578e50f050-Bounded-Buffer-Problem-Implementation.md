@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/bounded-buffer-problem-implementation|bounded-buffer-problem-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/bounded-buffer-problem-implementation|bounded-buffer-problem-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing the Bounded-Buffer Problem
@@ -135,4 +135,4 @@ Imagine you are building a web server that uses a bounded buffer to hold incomin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/bounded-buffer-problem-implementation|Bounded-Buffer Problem Implementation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/bounded-buffer-problem-implementation|Bounded-Buffer Problem Implementation]]

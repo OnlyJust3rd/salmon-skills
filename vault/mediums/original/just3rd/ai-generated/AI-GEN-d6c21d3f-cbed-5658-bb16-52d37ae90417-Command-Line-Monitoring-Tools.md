@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/command-line-monitoring-tools|command-line-monitoring-tools]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/command-line-monitoring-tools|command-line-monitoring-tools]]"
 learning-time-in-minutes: 5
 ---
 # Using Command-Line Tools for Basic System Monitoring
@@ -166,4 +166,4 @@ By practicing with these command-line utilities, you'll build the essential skil
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/command-line-monitoring-tools|Command-Line Monitoring Tools]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/command-line-monitoring-tools|Command-Line Monitoring Tools]]

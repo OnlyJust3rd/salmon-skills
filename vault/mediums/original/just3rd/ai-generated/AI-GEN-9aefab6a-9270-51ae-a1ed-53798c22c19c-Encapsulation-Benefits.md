@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/encapsulation-benefits|encapsulation-benefits]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-benefits|encapsulation-benefits]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Encapsulation Benefits
@@ -100,4 +100,4 @@ Well-encapsulated classes are like robust building blocks. Because they are self
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/encapsulation-benefits|Encapsulation Benefits]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-benefits|Encapsulation Benefits]]

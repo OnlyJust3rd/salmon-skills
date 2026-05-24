@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding the Interaction Design Process"
+type: medium
+title: Understanding the Interaction Design Process
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/interaction-design-process|interaction-design-process]]"
+outcome: "[[interaction-design-process|interaction-design-process]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Interaction Design Process
@@ -66,4 +66,4 @@ By systematically understanding users, defining interactions, designing interfac
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/interaction-design-process|Interaction Design Process]]
+- [[interaction-design-process|Interaction Design Process]]

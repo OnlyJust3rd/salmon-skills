@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Memory and Attention: The Building Blocks of HCI"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/memory-and-attention|memory-and-attention]]"
+outcome: "[[memory-and-attention|memory-and-attention]]"
 learning-time-in-minutes: 4
 ---
 # Memory and Attention: The Building Blocks of HCI
@@ -65,4 +65,4 @@ By understanding and applying principles of memory and attention, designers can 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/memory-and-attention|Memory and Attention]]
+- [[memory-and-attention|Memory and Attention]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/reserved-instance-pricing|reserved-instance-pricing]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/reserved-instance-pricing|reserved-instance-pricing]]"
 learning-time-in-minutes: 4
 ---
 # Reserved Instance Pricing: Understanding Long-Term Commitments
@@ -63,4 +63,4 @@ Research the pricing for a specific cloud instance type you commonly use (e.g., 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/reserved-instance-pricing|Reserved Instance Pricing]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/reserved-instance-pricing|Reserved Instance Pricing]]

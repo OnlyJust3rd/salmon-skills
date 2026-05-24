@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/transport-layer/microskills/reliable-data-transfer-principles|reliable-data-transfer-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/reliable-data-transfer-principles|reliable-data-transfer-principles]]"
 learning-time-in-minutes: 5
 ---
 # Reliable Data Transfer Principles
@@ -94,4 +94,4 @@ If Packet 1 arrived out of order after Packet 3, the sequence numbers would allo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/transport-layer/microskills/reliable-data-transfer-principles|Reliable Data Transfer Principles]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/reliable-data-transfer-principles|Reliable Data Transfer Principles]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/job-control-language-functionality|job-control-language-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/job-control-language-functionality|job-control-language-functionality]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Job Control Language (JCL) Functionality
@@ -89,4 +89,4 @@ By grasping the functionality of JCL, you gain a deeper appreciation for the int
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/job-control-language-functionality|Job Control Language Functionality]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/job-control-language-functionality|Job Control Language Functionality]]

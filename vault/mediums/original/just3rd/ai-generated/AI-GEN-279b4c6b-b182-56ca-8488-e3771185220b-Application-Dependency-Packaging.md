@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/application-dependency-packaging|application-dependency-packaging]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/application-dependency-packaging|application-dependency-packaging]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Application Dependency Packaging in Containers
@@ -65,4 +65,4 @@ The ability of containers to **bundle application dependencies** is fundamental 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/application-dependency-packaging|Application Dependency Packaging]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/application-dependency-packaging|Application Dependency Packaging]]

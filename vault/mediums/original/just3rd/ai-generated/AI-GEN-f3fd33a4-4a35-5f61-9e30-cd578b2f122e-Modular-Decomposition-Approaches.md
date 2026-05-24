@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/modular-decomposition-approaches|modular-decomposition-approaches]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-approaches|modular-decomposition-approaches]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Modular Decomposition Approaches
@@ -138,4 +138,4 @@ By analyzing these different modular decomposition approaches, you gain the tool
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/modular-decomposition-approaches|Modular Decomposition Approaches]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-approaches|Modular Decomposition Approaches]]

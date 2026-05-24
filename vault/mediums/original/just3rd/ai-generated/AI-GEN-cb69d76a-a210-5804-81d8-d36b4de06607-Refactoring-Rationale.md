@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/refactoring-rationale|refactoring-rationale]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/refactoring-rationale|refactoring-rationale]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Why We Refactor: The Rationale Behind Cleaner Code
@@ -78,4 +78,4 @@ The rationale behind refactoring is clear: **it’s an investment in the future 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/refactoring-rationale|Refactoring Rationale]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/refactoring-rationale|Refactoring Rationale]]

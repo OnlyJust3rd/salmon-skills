@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/storage-type-selection|storage-type-selection]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-type-selection|storage-type-selection]]"
 learning-time-in-minutes: 4
 ---
 # Choosing the Right Cloud Storage: Performance vs. Cost
@@ -82,4 +82,4 @@ Based on the principles discussed, what storage types would you recommend for ea
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/storage-type-selection|Storage Type Selection]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-type-selection|Storage Type Selection]]

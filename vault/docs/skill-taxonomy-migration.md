@@ -38,11 +38,14 @@ This refinement cleans up clear misplacements inside `skills/computing` while pr
 | `skills/computing/systems-infrastructure/networking/game-networking` | `skills/digital-media/game-development/game-networking` | clear game development exit |
 | `skills/computing/hardware-embedded/electronics-and-computer-architecture/{robotics,robotic-system,evolutional-robotics,edge-computing}` | `skills/computing/hardware-embedded/robotics-iot/*` | robotics and IoT subarea |
 | `skills/computing/hardware-embedded/electronics-and-computer-architecture/logical-reasoning` | `skills/mathematics/discrete-math/logical-reasoning` | logic/discrete math exit |
-| `skills/computing/data-ai/data-engineering-platforms/data-link-layer` | `skills/computing/systems-infrastructure/networking/data-link-layer` | networking layer |
-| `skills/computing/computer-science/algorithms/routing-algorithms` | `skills/computing/systems-infrastructure/networking/routing-algorithms` | networking algorithms |
-| `skills/computing/computer-science/algorithms/parallel-algorithm` | `skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm` | HPC algorithm design |
+| `skills/computing/data-ai/data-engineering-platforms/data-link-layer` | `skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer` | networking layer |
+| `skills/computing/computer-science/algorithms/routing-algorithms` | `skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms` | networking algorithms |
+| `skills/computing/computer-science/algorithms/parallel-algorithm` | `skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm` | HPC algorithm design |
 | `skills/computing/computer-science/algorithms/asymmetric-algorithm-mechanics` | `skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics` | cryptography/security |
-| `skills/computing/systems-infrastructure/platform-engineering/{linux-system,shell-scripting,system-virtualization}` | `skills/computing/systems-infrastructure/system-administration/*` | system administration |
+| legacy systems infrastructure platform bucket for `linux-system` and `shell-scripting` | `skills/computing/systems-infrastructure/system-administration/*` | system administration |
+| legacy systems infrastructure platform bucket for `system-virtualization` | `skills/computing/systems-infrastructure/compute-runtime/system-virtualization` | compute runtime |
 | `skills/computing/systems-infrastructure/endpoint-administration` | `skills/computing/systems-infrastructure/system-administration/endpoint-administration` | system administration |
-| `skills/computing/systems-infrastructure/platform-engineering/{infrastructure-alert,system-monitoring,security-monitoring}` | `skills/computing/systems-infrastructure/observability-operations/*` | observability operations |
-| `skills/computing/systems-infrastructure/it-service-management` | `skills/computing/systems-infrastructure/service-management/it-service-management` | service management |
+| legacy systems infrastructure platform bucket for `infrastructure-alert` | `skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert` | alerting and incident response |
+| legacy systems infrastructure platform bucket for `system-monitoring` | `skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring` | observability |
+| legacy systems infrastructure platform bucket for `security-monitoring` | `skills/computing/systems-infrastructure/operations-reliability/security-monitoring` | security monitoring |
+| `skills/computing/systems-infrastructure/it-service-management` | `skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management` | service management |

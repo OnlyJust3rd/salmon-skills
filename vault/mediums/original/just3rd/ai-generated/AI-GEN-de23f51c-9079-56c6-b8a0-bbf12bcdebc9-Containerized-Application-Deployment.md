@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/containerized-application-deployment|containerized-application-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/containerized-application-deployment|containerized-application-deployment]]"
 learning-time-in-minutes: 4
 ---
 # Deploying Containerized Applications with Kubernetes Deployments
@@ -137,4 +137,4 @@ By mastering Kubernetes Deployments, you gain a powerful tool for managing and r
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/containerized-application-deployment|Containerized Application Deployment]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/containerized-application-deployment|Containerized Application Deployment]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/automatic-ip-address-allocation|automatic-ip-address-allocation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/automatic-ip-address-allocation|automatic-ip-address-allocation]]"
 learning-time-in-minutes: 3
 ---
 # Automatic IP Address Allocation with DHCP
@@ -49,4 +49,4 @@ This DORA process ensures that IP addresses are assigned efficiently and without
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/automatic-ip-address-allocation|Automatic IP Address Allocation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/automatic-ip-address-allocation|Automatic IP Address Allocation]]

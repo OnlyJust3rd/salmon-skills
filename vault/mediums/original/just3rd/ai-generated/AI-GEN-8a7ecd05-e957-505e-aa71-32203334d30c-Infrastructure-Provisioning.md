@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-provisioning|infrastructure-provisioning]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-provisioning|infrastructure-provisioning]]"
 learning-time-in-minutes: 3
 ---
 # Provisioning Your First Azure Resource with Bicep
@@ -117,4 +117,4 @@ This exercise provides a foundational understanding of how to define and deploy 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-provisioning|Infrastructure Provisioning]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-provisioning|Infrastructure Provisioning]]

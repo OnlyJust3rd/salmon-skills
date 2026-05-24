@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/secrets-management/microskills/secret-rotation|secret-rotation]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-rotation|secret-rotation]]"
 learning-time-in-minutes: 4
 ---
 # Secret Rotation: Keeping Your Secrets Fresh
@@ -88,4 +88,4 @@ By understanding and implementing secret rotation, you significantly enhance the
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/secrets-management/microskills/secret-rotation|Secret Rotation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-rotation|Secret Rotation]]

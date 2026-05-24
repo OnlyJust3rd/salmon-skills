@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Designing for Usability: Making Interfaces Easy to Use"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/usability-focused-design|usability-focused-design]]"
+outcome: "[[usability-focused-design|usability-focused-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing for Usability: Making Interfaces Easy to Use
@@ -103,4 +103,4 @@ By actively thinking about these elements during your design process, you move f
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/usability-focused-design|Usability-Focused Design]]
+- [[usability-focused-design|Usability-Focused Design]]

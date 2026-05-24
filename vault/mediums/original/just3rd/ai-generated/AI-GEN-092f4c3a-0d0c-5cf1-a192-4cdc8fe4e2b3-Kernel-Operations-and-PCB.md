@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|kernel-operations-and-pcb]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|kernel-operations-and-pcb]]"
 learning-time-in-minutes: 5
 ---
 # Kernel Operations and the Process Control Block (PCB)
@@ -63,4 +63,4 @@ In essence, the PCB is the kernel's control panel for each process, enabling it 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|Kernel Operations and PCB]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|Kernel Operations and PCB]]

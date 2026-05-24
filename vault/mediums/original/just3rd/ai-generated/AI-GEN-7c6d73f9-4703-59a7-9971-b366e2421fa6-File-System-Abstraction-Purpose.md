@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-system-abstraction-purpose|file-system-abstraction-purpose]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-abstraction-purpose|file-system-abstraction-purpose]]"
 learning-time-in-minutes: 5
 ---
 # File System Abstraction: Why We Need It
@@ -69,4 +69,4 @@ File system abstraction is a fundamental concept that makes using computers prac
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-system-abstraction-purpose|File System Abstraction Purpose]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-abstraction-purpose|File System Abstraction Purpose]]

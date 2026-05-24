@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/protocol-integration|protocol-integration]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/protocol-integration|protocol-integration]]"
 learning-time-in-minutes: 3
 ---
 # Protocol Integration in Socket Applications
@@ -140,4 +140,4 @@ By understanding and applying application layer protocols, you move beyond simpl
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/protocol-integration|Protocol Integration]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/protocol-integration|Protocol Integration]]

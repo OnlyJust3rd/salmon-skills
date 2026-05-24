@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/dns-message-analysis|dns-message-analysis]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/dns-message-analysis|dns-message-analysis]]"
 learning-time-in-minutes: 4
 ---
 # DNS Message Analysis
@@ -70,4 +70,4 @@ Examine the output. Identify the different sections of the DNS message (Question
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/dns-message-analysis|DNS Message Analysis]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/dns-message-analysis|DNS Message Analysis]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cloud-cost-drivers|cloud-cost-drivers]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-cost-drivers|cloud-cost-drivers]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cloud Cost Drivers
@@ -75,4 +75,4 @@ Review your cloud spending for the past month. Identify the top three services o
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cloud-cost-drivers|Cloud Cost Drivers]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-cost-drivers|Cloud Cost Drivers]]

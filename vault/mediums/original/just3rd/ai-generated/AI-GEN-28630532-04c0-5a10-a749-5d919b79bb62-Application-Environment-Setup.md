@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/application-environment-setup|application-environment-setup]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/application-environment-setup|application-environment-setup]]"
 learning-time-in-minutes: 4
 ---
 # Application Environment Setup in Dockerfiles
@@ -79,4 +79,4 @@ By mastering these instructions and practices, you can effectively configure the
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/application-environment-setup|Application Environment Setup]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/application-environment-setup|Application Environment Setup]]

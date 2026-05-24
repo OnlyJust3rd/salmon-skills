@@ -103,4 +103,4 @@ By understanding and utilizing components effectively, you can build more robust
 ## Supports
 
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/component|Component]]
-- [[skills/professional-practice/human-centered-design/figma/microskills/component|Component]]
+- [[skills/digital-media/ux-ui-design/figma/microskills/component|Component]]

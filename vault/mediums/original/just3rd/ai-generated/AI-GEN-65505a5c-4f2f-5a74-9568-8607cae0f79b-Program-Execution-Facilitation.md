@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/program-execution-facilitation|program-execution-facilitation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/program-execution-facilitation|program-execution-facilitation]]"
 learning-time-in-minutes: 4
 ---
 # Program Execution Facilitation by the Operating System
@@ -68,4 +68,4 @@ By understanding how the OS manages program execution, you gain insight into why
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/program-execution-facilitation|Program Execution Facilitation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/program-execution-facilitation|Program Execution Facilitation]]

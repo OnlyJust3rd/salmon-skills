@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/latency-monitoring-techniques|latency-monitoring-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/latency-monitoring-techniques|latency-monitoring-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Monitoring Latency: Tracking System Response Times
@@ -117,4 +117,4 @@ By consistently monitoring and analyzing latency, you gain deep insights into yo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/latency-monitoring-techniques|Latency Monitoring Techniques]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/latency-monitoring-techniques|Latency Monitoring Techniques]]

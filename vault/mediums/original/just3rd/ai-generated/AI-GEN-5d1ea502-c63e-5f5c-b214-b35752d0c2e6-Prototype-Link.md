@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Prototype Linking in Figma: Creating Interactive Navigation"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/figma/microskills/prototype-link|prototype-link]]"
+outcome: "[[prototype-link|prototype-link]]"
 learning-time-in-minutes: 5
 ---
 # Prototype Linking in Figma: Creating Interactive Navigation
@@ -87,4 +87,4 @@ By mastering prototype linking, you can create dynamic, testable, and shareable 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/figma/microskills/prototype-link|Prototype Link]]
+- [[prototype-link|Prototype Link]]

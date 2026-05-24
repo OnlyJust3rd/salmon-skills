@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/artifact-management/microskills/artifact-promotion|artifact-promotion]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/artifact-promotion|artifact-promotion]]"
 learning-time-in-minutes: 3
 ---
 # Artifact Promotion
@@ -60,4 +60,4 @@ Consider a scenario where you have a build artifact named `user-service.jar` wit
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/artifact-management/microskills/artifact-promotion|Artifact Promotion]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/artifact-promotion|Artifact Promotion]]

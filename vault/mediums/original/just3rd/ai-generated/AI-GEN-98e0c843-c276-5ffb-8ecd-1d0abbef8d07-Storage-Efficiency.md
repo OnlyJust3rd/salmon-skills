@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/storage-efficiency|storage-efficiency]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/storage-efficiency|storage-efficiency]]"
 learning-time-in-minutes: 5
 ---
 # Storage Efficiency in File Allocation
@@ -74,4 +74,4 @@ Understanding these implications helps us appreciate why file systems are design
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/storage-efficiency|Storage Efficiency]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/storage-efficiency|Storage Efficiency]]

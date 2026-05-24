@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/virtual-network-configuration|virtual-network-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/virtual-network-configuration|virtual-network-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Configuring Virtual Networks in the Cloud
@@ -79,4 +79,4 @@ Using your chosen cloud provider's console or CLI (e.g., AWS, Azure, GCP), creat
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/virtual-network-configuration|Virtual Network Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/virtual-network-configuration|Virtual Network Configuration]]

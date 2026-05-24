@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/multiple-access-protocols|multiple-access-protocols]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/multiple-access-protocols|multiple-access-protocols]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Multiple Access Protocols
@@ -63,4 +63,4 @@ Imagine you are designing a small, shared network for a group of robots in a fac
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/multiple-access-protocols|Multiple Access Protocols]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/multiple-access-protocols|Multiple Access Protocols]]

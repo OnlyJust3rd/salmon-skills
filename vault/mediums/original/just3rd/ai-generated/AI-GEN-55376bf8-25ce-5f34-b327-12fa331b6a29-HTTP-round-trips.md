@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/web-application-concept/microskills/http-round-trips|http-round-trips]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/http-round-trips|http-round-trips]]"
 learning-time-in-minutes: 4
 ---
 # Understanding HTTP Round Trips
@@ -83,4 +83,4 @@ By understanding HTTP round trips, you can better visualize the constant back-an
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/web-application-concept/microskills/http-round-trips|HTTP round trips]]
+- [[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/http-round-trips|HTTP round trips]]

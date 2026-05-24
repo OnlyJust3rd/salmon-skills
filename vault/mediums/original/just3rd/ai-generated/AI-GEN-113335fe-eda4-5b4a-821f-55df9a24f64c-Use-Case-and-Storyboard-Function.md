@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Use Cases and Storyboards: Visualizing User Interactions"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/use-case-and-storyboard-function|use-case-and-storyboard-function]]"
+outcome: "[[use-case-and-storyboard-function|use-case-and-storyboard-function]]"
 learning-time-in-minutes: 5
 ---
 # Use Cases and Storyboards: Visualizing User Interactions
@@ -113,4 +113,4 @@ Often, these techniques are used together. A use case can define the overall fun
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/use-case-and-storyboard-function|Use Case and Storyboard Function]]
+- [[use-case-and-storyboard-function|Use Case and Storyboard Function]]

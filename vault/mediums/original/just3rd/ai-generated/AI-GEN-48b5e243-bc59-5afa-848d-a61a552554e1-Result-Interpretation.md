@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Interpreting Usability Evaluation Results"
+type: medium
+title: Interpreting Usability Evaluation Results
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/result-interpretation|result-interpretation]]"
+outcome: "[[result-interpretation|result-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Interpreting Usability Evaluation Results
@@ -84,4 +84,4 @@ By systematically interpreting your usability evaluation data, you transform raw
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/result-interpretation|Result Interpretation]]
+- [[result-interpretation|Result Interpretation]]

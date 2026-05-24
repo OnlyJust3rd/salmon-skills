@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Crafting Effective Improvement Recommendations"
+type: medium
+title: Crafting Effective Improvement Recommendations
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/improvement-recommendations|improvement-recommendations]]"
+outcome: "[[improvement-recommendations|improvement-recommendations]]"
 learning-time-in-minutes: 5
 ---
 # Crafting Effective Improvement Recommendations
@@ -104,4 +104,4 @@ Crafting effective improvement recommendations is a critical skill for any usabi
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/improvement-recommendations|Improvement Recommendations]]
+- [[improvement-recommendations|Improvement Recommendations]]

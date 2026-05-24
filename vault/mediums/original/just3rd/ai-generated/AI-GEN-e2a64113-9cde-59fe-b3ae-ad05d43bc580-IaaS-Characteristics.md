@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/iaas-characteristics|iaas-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/iaas-characteristics|iaas-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Infrastructure as a Service (IaaS)
@@ -59,4 +59,4 @@ Outline the responsibilities of the startup and the IaaS provider in this scenar
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/iaas-characteristics|IaaS Characteristics]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/iaas-characteristics|IaaS Characteristics]]

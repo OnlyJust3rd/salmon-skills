@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-address-management|ip-address-management]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-address-management|ip-address-management]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Benefits of Subnetting for IP Address Management
@@ -79,4 +79,4 @@ Subnetting is a fundamental concept in IP address management. By understanding i
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-address-management|IP Address Management]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-address-management|IP Address Management]]

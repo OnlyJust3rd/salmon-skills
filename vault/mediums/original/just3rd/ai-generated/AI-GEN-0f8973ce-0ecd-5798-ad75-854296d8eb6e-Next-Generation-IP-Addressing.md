@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/next-generation-ip-addressing|next-generation-ip-addressing]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/next-generation-ip-addressing|next-generation-ip-addressing]]"
 learning-time-in-minutes: 4
 ---
 # Next Generation IP Addressing: Understanding IPv6
@@ -80,4 +80,4 @@ As you continue your learning journey in networking, understanding IPv6 is cruci
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/next-generation-ip-addressing|Next Generation IP Addressing]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/next-generation-ip-addressing|Next Generation IP Addressing]]

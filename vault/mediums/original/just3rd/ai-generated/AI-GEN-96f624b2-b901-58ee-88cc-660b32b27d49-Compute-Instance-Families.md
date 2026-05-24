@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/compute-instance-families|compute-instance-families]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-families|compute-instance-families]]"
 learning-time-in-minutes: 4
 ---
 # Compute Instance Families: Choosing the Right Virtual Machine
@@ -61,4 +61,4 @@ For a hypothetical workload, choose the most appropriate instance family and jus
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/compute-instance-families|Compute Instance Families]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-families|Compute Instance Families]]

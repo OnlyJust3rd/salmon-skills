@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/incremental-design-improvements|incremental-design-improvements]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/incremental-design-improvements|incremental-design-improvements]]"
 learning-time-in-minutes: 4
 ---
 # Incremental Design Improvements: Evolving Your Code Gracefully
@@ -195,4 +195,4 @@ By consistently applying these incremental design improvements, you'll find your
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/incremental-design-improvements|Incremental Design Improvements]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/incremental-design-improvements|Incremental Design Improvements]]

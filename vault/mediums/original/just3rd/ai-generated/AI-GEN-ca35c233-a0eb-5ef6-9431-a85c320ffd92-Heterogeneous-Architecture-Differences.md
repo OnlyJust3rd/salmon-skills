@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/heterogeneous-architecture-differences|heterogeneous-architecture-differences]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/heterogeneous-architecture-differences|heterogeneous-architecture-differences]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Heterogeneous Processor Architectures
@@ -58,4 +58,4 @@ Understanding these differences is key to appreciating how modern computing syst
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/heterogeneous-architecture-differences|Heterogeneous Architecture Differences]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/heterogeneous-architecture-differences|Heterogeneous Architecture Differences]]

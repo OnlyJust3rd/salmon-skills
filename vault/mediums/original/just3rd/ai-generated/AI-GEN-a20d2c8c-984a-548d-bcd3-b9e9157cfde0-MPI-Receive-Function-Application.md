@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/mpi-receive-function-application|mpi-receive-function-application]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-receive-function-application|mpi-receive-function-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying MPI_Recv for Data Reception
@@ -111,4 +111,4 @@ By understanding and correctly applying `MPI_Recv` with its parameters and consi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/mpi-receive-function-application|MPI Receive Function Application]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-receive-function-application|MPI Receive Function Application]]

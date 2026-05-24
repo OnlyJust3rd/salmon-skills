@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/component-interaction-design-principles|component-interaction-design-principles]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/component-interaction-design-principles|component-interaction-design-principles]]"
 learning-time-in-minutes: 5
 ---
 # Component Interaction Design Principles
@@ -110,4 +110,4 @@ Designing how your software components interact is crucial for building systems 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/component-interaction-design-principles|Component Interaction Design Principles]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/component-interaction-design-principles|Component Interaction Design Principles]]

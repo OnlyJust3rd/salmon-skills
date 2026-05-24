@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/navigation-flow|navigation-flow]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-flow|navigation-flow]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Navigation Flow in Mobile App Architecture
@@ -89,4 +89,4 @@ By carefully planning and implementing your app's navigation flow, you lay a str
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/navigation-flow|Navigation Flow]]
+- [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-flow|Navigation Flow]]

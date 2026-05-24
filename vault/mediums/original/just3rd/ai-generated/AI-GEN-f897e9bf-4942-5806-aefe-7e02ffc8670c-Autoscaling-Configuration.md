@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/autoscaling-configuration|autoscaling-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/autoscaling-configuration|autoscaling-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Autoscaling Configuration for VM Scale Sets
@@ -78,4 +78,4 @@ When a promotional campaign launches and traffic surges, the CPU utilization wil
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/autoscaling-configuration|Autoscaling Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/autoscaling-configuration|Autoscaling Configuration]]

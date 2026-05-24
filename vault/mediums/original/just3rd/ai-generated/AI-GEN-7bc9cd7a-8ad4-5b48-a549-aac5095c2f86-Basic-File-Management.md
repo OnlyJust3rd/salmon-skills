@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/basic-file-management|basic-file-management]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/basic-file-management|basic-file-management]]"
 learning-time-in-minutes: 3
 ---
 # Basic File Management: Create, Read, and Write
@@ -218,4 +218,4 @@ These basic commands are fundamental building blocks for interacting with your f
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/basic-file-management|Basic File Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/basic-file-management|Basic File Management]]

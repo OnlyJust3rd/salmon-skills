@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/link-layer-data-encapsulation|link-layer-data-encapsulation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/link-layer-data-encapsulation|link-layer-data-encapsulation]]"
 learning-time-in-minutes: 3
 ---
 # Framing: Building Blocks for Data Link Communication
@@ -69,4 +69,4 @@ Identify the components of this conceptual frame.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/link-layer-data-encapsulation|Link Layer Data Encapsulation]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/link-layer-data-encapsulation|Link Layer Data Encapsulation]]

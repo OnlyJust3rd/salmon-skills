@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/process-communication-models|process-communication-models]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/process-communication-models|process-communication-models]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Process Communication Models in Distributed Memory HPC
@@ -110,4 +110,4 @@ By mastering these concepts, you lay the groundwork for building powerful and pe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/process-communication-models|Process Communication Models]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/process-communication-models|Process Communication Models]]

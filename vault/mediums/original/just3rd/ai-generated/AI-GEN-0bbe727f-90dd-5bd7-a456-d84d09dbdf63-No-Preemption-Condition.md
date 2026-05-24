@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/no-preemption-condition|no-preemption-condition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/no-preemption-condition|no-preemption-condition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the "No Preemption" Condition in Deadlock
@@ -60,4 +60,4 @@ Describe how the "No Preemption" condition, along with the other three deadlock 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/no-preemption-condition|No Preemption Condition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/no-preemption-condition|No Preemption Condition]]

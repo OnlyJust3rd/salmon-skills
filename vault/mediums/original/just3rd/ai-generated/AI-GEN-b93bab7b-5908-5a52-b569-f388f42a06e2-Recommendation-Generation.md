@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Generating Actionable Recommendations: Turning Findings into Improvements"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/recommendation-generation|recommendation-generation]]"
+outcome: "[[recommendation-generation|recommendation-generation]]"
 learning-time-in-minutes: 4
 ---
 # Generating Actionable Recommendations: Turning Findings into Improvements
@@ -110,4 +110,4 @@ By following these steps, you can transform your usability evaluation findings i
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/recommendation-generation|Recommendation Generation]]
+- [[recommendation-generation|Recommendation Generation]]

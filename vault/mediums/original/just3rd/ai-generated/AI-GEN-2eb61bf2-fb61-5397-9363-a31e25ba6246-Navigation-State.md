@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/navigation-state|navigation-state]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-state|navigation-state]]"
 learning-time-in-minutes: 4
 ---
 # Navigating Your Mobile App: Managing State and Transitions
@@ -132,4 +132,4 @@ By carefully planning and implementing your navigation state, you'll build mobil
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/navigation-state|Navigation State]]
+- [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-state|Navigation State]]

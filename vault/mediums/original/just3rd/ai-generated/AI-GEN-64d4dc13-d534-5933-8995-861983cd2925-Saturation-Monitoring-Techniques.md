@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/saturation-monitoring-techniques|saturation-monitoring-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/saturation-monitoring-techniques|saturation-monitoring-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Understanding and Applying Saturation Monitoring
@@ -124,4 +124,4 @@ By actively monitoring saturation using the right tools and techniques, you can 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/saturation-monitoring-techniques|Saturation Monitoring Techniques]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/saturation-monitoring-techniques|Saturation Monitoring Techniques]]

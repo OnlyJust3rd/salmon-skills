@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/polymorphism-definition|polymorphism-definition]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-definition|polymorphism-definition]]"
 learning-time-in-minutes: 3
 ---
 # Polymorphism: One Name, Many Forms
@@ -100,4 +100,4 @@ Polymorphism is a cornerstone of effective object-oriented design, enabling you 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/polymorphism-definition|Polymorphism Definition]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-definition|Polymorphism Definition]]

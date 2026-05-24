@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Prototype Fidelity Levels"
+type: medium
+title: Understanding Prototype Fidelity Levels
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/prototype-fidelity-levels|prototype-fidelity-levels]]"
+outcome: "[[prototype-fidelity-levels|prototype-fidelity-levels]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Prototype Fidelity Levels
@@ -93,4 +93,4 @@ Understanding the distinction between low-fidelity and high-fidelity prototypes 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/prototype-fidelity-levels|Prototype Fidelity Levels]]
+- [[prototype-fidelity-levels|Prototype Fidelity Levels]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/pod-abstraction|pod-abstraction]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/pod-abstraction|pod-abstraction]]"
 learning-time-in-minutes: 5
 ---
 # The Pod: Kubernetes' Smallest Deployable Unit
@@ -80,4 +80,4 @@ The Pod is the fundamental unit of deployment in Kubernetes. It’s not a replac
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/pod-abstraction|Pod Abstraction]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/pod-abstraction|Pod Abstraction]]

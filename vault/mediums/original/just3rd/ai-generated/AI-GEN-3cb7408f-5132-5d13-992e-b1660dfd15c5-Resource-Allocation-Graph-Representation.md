@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/resource-allocation-graph-representation|resource-allocation-graph-representation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-allocation-graph-representation|resource-allocation-graph-representation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Resource Allocation Graphs
@@ -92,4 +92,4 @@ Analyze your drawn graph. Does it represent a deadlock? Explain why or why not, 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/resource-allocation-graph-representation|Resource Allocation Graph Representation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-allocation-graph-representation|Resource Allocation Graph Representation]]

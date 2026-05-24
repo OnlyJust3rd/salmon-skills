@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "The Echoes of the Past: How Old Interfaces Shape Today's User Experience"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/historical-ui-impact|historical-ui-impact]]"
+outcome: "[[historical-ui-impact|historical-ui-impact]]"
 learning-time-in-minutes: 4
 ---
 # The Echoes of the Past: How Old Interfaces Shape Today's User Experience
@@ -74,4 +74,4 @@ By understanding the journey from typing commands to tapping screens and speakin
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/historical-ui-impact|Historical UI Impact]]
+- [[historical-ui-impact|Historical UI Impact]]

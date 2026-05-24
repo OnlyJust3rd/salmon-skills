@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/firebase-authentication|firebase-authentication]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-authentication|firebase-authentication]]"
 learning-time-in-minutes: 4
 ---
 # Firebase Authentication: Understanding Managed Identity for Applications
@@ -85,4 +85,4 @@ By understanding these concepts, you're well on your way to effectively using Fi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/firebase-authentication|Firebase Authentication]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-authentication|Firebase Authentication]]

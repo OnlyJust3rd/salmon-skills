@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/concurrency-scenario-suitability|concurrency-scenario-suitability]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-scenario-suitability|concurrency-scenario-suitability]]"
 learning-time-in-minutes: 5
 ---
 # Concurrency Scenario Suitability
@@ -78,4 +78,4 @@ Analyze which of the atomic operations (Test-and-Set, Compare-and-Swap, Fetch-an
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/concurrency-scenario-suitability|Concurrency Scenario Suitability]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-scenario-suitability|Concurrency Scenario Suitability]]

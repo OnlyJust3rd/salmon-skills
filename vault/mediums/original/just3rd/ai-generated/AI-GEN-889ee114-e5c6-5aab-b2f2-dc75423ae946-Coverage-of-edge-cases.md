@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/coverage-of-edge-cases|coverage-of-edge-cases]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/coverage-of-edge-cases|coverage-of-edge-cases]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Edge Cases in Test Case Identification
@@ -116,4 +116,4 @@ By systematically identifying and testing these edge cases, you build more robus
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/coverage-of-edge-cases|Coverage of edge cases]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/coverage-of-edge-cases|Coverage of edge cases]]

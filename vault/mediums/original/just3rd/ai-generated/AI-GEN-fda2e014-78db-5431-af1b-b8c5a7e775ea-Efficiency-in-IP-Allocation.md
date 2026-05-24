@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/efficiency-in-ip-allocation|efficiency-in-ip-allocation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/efficiency-in-ip-allocation|efficiency-in-ip-allocation]]"
 learning-time-in-minutes: 5
 ---
 # Efficiency in IP Allocation: The Advantages of Subnetting
@@ -73,4 +73,4 @@ Subnetting is a foundational networking concept that offers substantial benefits
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/efficiency-in-ip-allocation|Efficiency in IP Allocation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/efficiency-in-ip-allocation|Efficiency in IP Allocation]]

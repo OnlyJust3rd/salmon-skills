@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/storage-provisioning-types|storage-provisioning-types]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-provisioning-types|storage-provisioning-types]]"
 learning-time-in-minutes: 4
 ---
 # Storage Provisioning Types: Block, File, and Object Storage
@@ -90,4 +90,4 @@ For each scenario, identify the most suitable storage provisioning type (Block, 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/storage-provisioning-types|Storage Provisioning Types]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-provisioning-types|Storage Provisioning Types]]

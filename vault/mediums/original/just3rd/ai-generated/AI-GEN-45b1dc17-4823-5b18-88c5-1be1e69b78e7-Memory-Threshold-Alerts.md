@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/memory-threshold-alerts|memory-threshold-alerts]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/memory-threshold-alerts|memory-threshold-alerts]]"
 learning-time-in-minutes: 4
 ---
 # Memory Threshold Alerts: Recognizing High Memory Usage
@@ -78,4 +78,4 @@ By understanding the common causes and the typical structure of these alerts, yo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/memory-threshold-alerts|Memory Threshold Alerts]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/memory-threshold-alerts|Memory Threshold Alerts]]

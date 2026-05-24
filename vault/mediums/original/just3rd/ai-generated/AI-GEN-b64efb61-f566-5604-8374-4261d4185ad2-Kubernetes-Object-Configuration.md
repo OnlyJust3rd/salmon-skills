@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/kubernetes-object-configuration|kubernetes-object-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-object-configuration|kubernetes-object-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Kubernetes Object Configuration with YAML
@@ -117,4 +117,4 @@ By understanding the fundamental structure of Kubernetes YAML manifests and prac
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/kubernetes-object-configuration|Kubernetes Object Configuration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-object-configuration|Kubernetes Object Configuration]]

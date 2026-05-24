@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Interpreting Cognitive Load in Usability Studies"
+type: medium
+title: Interpreting Cognitive Load in Usability Studies
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/usability-study-interpretation|usability-study-interpretation]]"
+outcome: "[[usability-study-interpretation|usability-study-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Interpreting Cognitive Load in Usability Studies
@@ -66,4 +66,4 @@ By thoughtfully analyzing the relationship between cognitive load and user perfo
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/usability-study-interpretation|Usability Study Interpretation]]
+- [[usability-study-interpretation|Usability Study Interpretation]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/client-side-web-tooling/microskills/package-manifests|package-manifests]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/package-manifests|package-manifests]]"
 learning-time-in-minutes: 3
 ---
 # Package Manifests: Your Project's Identity Card
@@ -88,4 +88,4 @@ Later, you decide to use Webpack to bundle your code. You install it as a develo
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/client-side-web-tooling/microskills/package-manifests|Package Manifests]]
+- [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/package-manifests|Package Manifests]]

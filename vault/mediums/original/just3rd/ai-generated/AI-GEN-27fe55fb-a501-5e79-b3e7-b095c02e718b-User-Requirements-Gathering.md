@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "User Requirements Gathering: Techniques for Defining What Users Need"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-requirements-gathering|user-requirements-gathering]]"
+outcome: "[[user-requirements-gathering|user-requirements-gathering]]"
 learning-time-in-minutes: 6
 ---
 # User Requirements Gathering: Techniques for Defining What Users Need
@@ -129,4 +129,4 @@ By diligently applying these structured techniques, you lay a robust foundation 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-requirements-gathering|User Requirements Gathering]]
+- [[user-requirements-gathering|User Requirements Gathering]]

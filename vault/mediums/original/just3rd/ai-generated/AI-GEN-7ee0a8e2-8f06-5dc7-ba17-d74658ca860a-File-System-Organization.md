@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-system-organization|file-system-organization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-organization|file-system-organization]]"
 learning-time-in-minutes: 4
 ---
 # File System Organization: How Data Finds Its Place
@@ -74,4 +74,4 @@ Understanding how file systems organize data into hierarchies, use structures li
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-system-organization|File System Organization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-organization|File System Organization]]

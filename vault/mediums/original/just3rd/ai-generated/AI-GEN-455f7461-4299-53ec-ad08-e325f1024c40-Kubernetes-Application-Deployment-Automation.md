@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/gitops/microskills/kubernetes-application-deployment-automation|kubernetes-application-deployment-automation]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/kubernetes-application-deployment-automation|kubernetes-application-deployment-automation]]"
 learning-time-in-minutes: 4
 ---
 # Automating Kubernetes Deployments with GitOps
@@ -159,4 +159,4 @@ By adopting GitOps, you move towards a more declarative, automated, and robust w
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/gitops/microskills/kubernetes-application-deployment-automation|Kubernetes Application Deployment Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/kubernetes-application-deployment-automation|Kubernetes Application Deployment Automation]]

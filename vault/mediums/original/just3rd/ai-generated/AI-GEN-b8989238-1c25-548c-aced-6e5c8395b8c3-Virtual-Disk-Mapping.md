@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-disk-mapping|virtual-disk-mapping]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-disk-mapping|virtual-disk-mapping]]"
 learning-time-in-minutes: 5
 ---
 # Virtual Disk Mapping: Understanding Storage in Virtual Machines
@@ -86,4 +86,4 @@ Understanding virtual disk mapping is fundamental to managing storage resources 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-disk-mapping|Virtual Disk Mapping]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-disk-mapping|Virtual Disk Mapping]]

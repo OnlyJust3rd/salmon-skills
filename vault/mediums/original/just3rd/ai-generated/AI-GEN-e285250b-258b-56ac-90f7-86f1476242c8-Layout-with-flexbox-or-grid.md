@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/css/microskills/layout-with-flexbox-or-grid|layout-with-flexbox-or-grid]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/layout-with-flexbox-or-grid|layout-with-flexbox-or-grid]]"
 learning-time-in-minutes: 2
 ---
 # Layout with Flexbox or Grid
@@ -97,4 +97,4 @@ Create a simple navigation bar with three links. Use Flexbox to:
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/css/microskills/layout-with-flexbox-or-grid|Layout with flexbox or grid]]
+- [[skills/computing/software-engineering/frontend-development/css/microskills/layout-with-flexbox-or-grid|Layout with flexbox or grid]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "User Observation Protocols: Watching Users in Action"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-observation-protocols|user-observation-protocols]]"
+outcome: "[[user-observation-protocols|user-observation-protocols]]"
 learning-time-in-minutes: 5
 ---
 # User Observation Protocols: Watching Users in Action
@@ -104,4 +104,4 @@ By thoughtfully applying user observation protocols, you gain invaluable insight
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-observation-protocols|User Observation Protocols]]
+- [[user-observation-protocols|User Observation Protocols]]

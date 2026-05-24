@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/web-application-concept/microskills/client-versus-server-execution|client-versus-server-execution]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/client-versus-server-execution|client-versus-server-execution]]"
 learning-time-in-minutes: 5
 ---
 # Where Does the Magic Happen? Client vs. Server Execution
@@ -92,4 +92,4 @@ Understanding this client-server split is fundamental to building and troublesho
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/web-application-concept/microskills/client-versus-server-execution|Client versus server execution]]
+- [[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/client-versus-server-execution|Client versus server execution]]

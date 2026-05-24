@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-management-strategies|memory-management-strategies]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-strategies|memory-management-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Memory Management Strategies in Operating Systems
@@ -92,4 +92,4 @@ For instance, if a case study highlights an OS designed for embedded systems wit
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-management-strategies|Memory Management Strategies]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-strategies|Memory Management Strategies]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-atomicity|compare-and-swap-atomicity]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-atomicity|compare-and-swap-atomicity]]"
 learning-time-in-minutes: 4
 ---
 # Analyze Compare-and-Swap Atomicity
@@ -87,4 +87,4 @@ Describe how you would use Compare-and-Swap to implement an atomic `claimWorker`
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-atomicity|Compare-and-Swap Atomicity]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-atomicity|Compare-and-Swap Atomicity]]

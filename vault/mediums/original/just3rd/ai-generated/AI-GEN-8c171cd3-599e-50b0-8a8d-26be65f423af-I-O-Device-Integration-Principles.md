@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/i-o-device-integration-principles|i-o-device-integration-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-device-integration-principles|i-o-device-integration-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Hierarchical Bus Structures in I/O Integration
@@ -74,4 +74,4 @@ This layered system allows for efficient movement of vehicles (data) of various 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/i-o-device-integration-principles|I/O Device Integration Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-device-integration-principles|I/O Device Integration Principles]]

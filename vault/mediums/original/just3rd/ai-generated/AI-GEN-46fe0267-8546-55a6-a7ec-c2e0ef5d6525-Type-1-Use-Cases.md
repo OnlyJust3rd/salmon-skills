@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/type-1-use-cases|type-1-use-cases]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-1-use-cases|type-1-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Use Cases for Type-1 Hypervisors
@@ -78,4 +78,4 @@ By understanding these use cases, you can better analyze situations and determin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/type-1-use-cases|Type-1 Use Cases]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-1-use-cases|Type-1 Use Cases]]

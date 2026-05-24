@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-variables|terraform-variables]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variables|terraform-variables]]"
 learning-time-in-minutes: 4
 ---
 # Terraform Variables: Parameterizing Your Infrastructure
@@ -247,4 +247,4 @@ By mastering Terraform variables, you've taken a significant step towards writin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-variables|Terraform Variables]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variables|Terraform Variables]]

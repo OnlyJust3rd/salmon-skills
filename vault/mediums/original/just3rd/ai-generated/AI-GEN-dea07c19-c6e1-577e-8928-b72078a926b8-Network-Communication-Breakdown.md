@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/network-communication-breakdown|network-communication-breakdown]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/network-communication-breakdown|network-communication-breakdown]]"
 learning-time-in-minutes: 3
 ---
 # Network Communication Breakdown
@@ -55,4 +55,4 @@ Use a network analysis tool like Wireshark or `tcpdump` (on Linux/macOS) to capt
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/network-communication-breakdown|Network Communication Breakdown]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/network-communication-breakdown|Network Communication Breakdown]]

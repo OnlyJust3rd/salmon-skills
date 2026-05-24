@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/resource-access-control|resource-access-control]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/resource-access-control|resource-access-control]]"
 learning-time-in-minutes: 3
 ---
 # Resource Access Control: Granting Specific Permissions
@@ -108,4 +108,4 @@ You would then attach these policies to the respective users or groups.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/resource-access-control|Resource Access Control]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/resource-access-control|Resource Access Control]]

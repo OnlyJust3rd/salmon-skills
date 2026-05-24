@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/disk-i-o-significance|disk-i-o-significance]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/disk-i-o-significance|disk-i-o-significance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Disk I/O Significance
@@ -71,4 +71,4 @@ Disk I/O is a critical component of system performance. By understanding and mon
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/disk-i-o-significance|Disk I/O Significance]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/disk-i-o-significance|Disk I/O Significance]]

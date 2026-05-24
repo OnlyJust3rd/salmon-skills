@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/virtual-private-cloud|virtual-private-cloud]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/virtual-private-cloud|virtual-private-cloud]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Virtual Private Cloud (VPC) Purpose
@@ -74,4 +74,4 @@ In essence, a VPC provides the foundational networking infrastructure for deploy
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/virtual-private-cloud|Virtual Private Cloud]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/virtual-private-cloud|Virtual Private Cloud]]

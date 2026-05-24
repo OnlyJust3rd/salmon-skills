@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/react/microskills/lists-and-keys|lists-and-keys]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/react/microskills/lists-and-keys|lists-and-keys]]"
 learning-time-in-minutes: 5
 ---
 # Lists and Keys in React: Understanding Dynamic Collections
@@ -166,4 +166,4 @@ Keys are a fundamental concept for rendering dynamic lists in React. They provid
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/react/microskills/lists-and-keys|Lists and keys]]
+- [[skills/computing/software-engineering/frontend-development/react/microskills/lists-and-keys|Lists and keys]]

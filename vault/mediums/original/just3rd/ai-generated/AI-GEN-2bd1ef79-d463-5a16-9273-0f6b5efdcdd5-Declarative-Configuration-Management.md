@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/gitops/microskills/declarative-configuration-management|declarative-configuration-management]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/declarative-configuration-management|declarative-configuration-management]]"
 learning-time-in-minutes: 4
 ---
 # Declarative Configuration Management in GitOps
@@ -144,4 +144,4 @@ By mastering declarative configuration, you lay the groundwork for robust and au
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/gitops/microskills/declarative-configuration-management|Declarative Configuration Management]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/declarative-configuration-management|Declarative Configuration Management]]

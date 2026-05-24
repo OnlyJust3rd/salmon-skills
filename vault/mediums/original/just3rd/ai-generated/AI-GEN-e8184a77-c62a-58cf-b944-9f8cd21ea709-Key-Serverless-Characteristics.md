@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/key-serverless-characteristics|key-serverless-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/key-serverless-characteristics|key-serverless-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Key Serverless Characteristics
@@ -72,4 +72,4 @@ Understanding these core characteristics helps in designing and deploying applic
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/key-serverless-characteristics|Key Serverless Characteristics]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/key-serverless-characteristics|Key Serverless Characteristics]]

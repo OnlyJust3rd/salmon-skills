@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/json-format/microskills/json-document-validity|json-document-validity]]"
+outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-document-validity|json-document-validity]]"
 learning-time-in-minutes: 4
 ---
 # Understanding JSON Document Validity
@@ -75,4 +75,4 @@ By understanding and applying these rules, you can significantly reduce the chan
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/json-format/microskills/json-document-validity|JSON document validity]]
+- [[skills/computing/software-engineering/backend-development/json-format/microskills/json-document-validity|JSON document validity]]

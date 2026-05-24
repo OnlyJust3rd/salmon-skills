@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-disadvantage-analysis|design-pattern-disadvantage-analysis]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-disadvantage-analysis|design-pattern-disadvantage-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Design Pattern Disadvantages
@@ -51,4 +51,4 @@ Choose another common design pattern, such as the **Strategy pattern** or the **
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-disadvantage-analysis|Design Pattern Disadvantage Analysis]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-disadvantage-analysis|Design Pattern Disadvantage Analysis]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/errors-significance|errors-significance]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/errors-significance|errors-significance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Significance of Errors
@@ -74,4 +74,4 @@ Errors are an unavoidable part of any complex system. However, how you manage an
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/errors-significance|Errors Significance]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/errors-significance|Errors Significance]]

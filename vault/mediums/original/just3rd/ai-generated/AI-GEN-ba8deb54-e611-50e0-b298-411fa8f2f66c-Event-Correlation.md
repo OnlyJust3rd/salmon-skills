@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/security-monitoring/microskills/event-correlation|event-correlation]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/event-correlation|event-correlation]]"
 learning-time-in-minutes: 5
 ---
 # Event Correlation: Connecting the Dots in Security Monitoring
@@ -92,4 +92,4 @@ Event correlation is a fundamental capability for effective security monitoring.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/security-monitoring/microskills/event-correlation|Event Correlation]]
+- [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/event-correlation|Event Correlation]]

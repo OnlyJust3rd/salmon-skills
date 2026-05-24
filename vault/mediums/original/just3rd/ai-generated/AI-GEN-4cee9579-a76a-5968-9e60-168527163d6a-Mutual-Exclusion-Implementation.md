@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-implementation|mutual-exclusion-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-implementation|mutual-exclusion-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Mutual Exclusion with Locks
@@ -145,4 +145,4 @@ function increment_shared_counter():
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-implementation|Mutual Exclusion Implementation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-implementation|Mutual Exclusion Implementation]]

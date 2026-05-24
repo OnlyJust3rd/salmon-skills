@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/when-to-use-specific-patterns|when-to-use-specific-patterns]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/when-to-use-specific-patterns|when-to-use-specific-patterns]]"
 learning-time-in-minutes: 4
 ---
 # When to Use Specific Design Patterns
@@ -68,4 +68,4 @@ Which design pattern would be most suitable for creating these different product
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/when-to-use-specific-patterns|When to Use Specific Patterns]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/when-to-use-specific-patterns|When to Use Specific Patterns]]

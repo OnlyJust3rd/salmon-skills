@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/hardware-virtualization|hardware-virtualization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hardware-virtualization|hardware-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # Hardware Virtualization: The Foundation of Virtual Machines
@@ -61,4 +61,4 @@ Hardware virtualization, through the use of a hypervisor, allows us to run multi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/hardware-virtualization|Hardware Virtualization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hardware-virtualization|Hardware Virtualization]]

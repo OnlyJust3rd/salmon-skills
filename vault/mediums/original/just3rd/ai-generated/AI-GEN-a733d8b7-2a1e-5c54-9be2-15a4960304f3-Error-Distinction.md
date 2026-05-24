@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/error-distinction|error-distinction]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/error-distinction|error-distinction]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Difference Between Mistakes, Faults, Errors, and Failures
@@ -72,4 +72,4 @@ By understanding the journey from a human mistake to an observable failure, you 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/error-distinction|Error Distinction]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/error-distinction|Error Distinction]]

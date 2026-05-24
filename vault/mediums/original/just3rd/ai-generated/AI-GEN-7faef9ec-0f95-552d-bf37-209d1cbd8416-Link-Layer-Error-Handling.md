@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/link-layer-error-handling|link-layer-error-handling]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/link-layer-error-handling|link-layer-error-handling]]"
 learning-time-in-minutes: 5
 ---
 # Link Layer Error Handling: Keeping Data Clean
@@ -77,4 +77,4 @@ Consider the following 7-bit ASCII character: `A` (binary `01000001`). We'll use
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/link-layer-error-handling|Link Layer Error Handling]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/link-layer-error-handling|Link Layer Error Handling]]

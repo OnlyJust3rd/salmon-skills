@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/system-software-workflow|system-software-workflow]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/system-software-workflow|system-software-workflow]]"
 learning-time-in-minutes: 5
 ---
 # System Software Workflow
@@ -78,4 +78,4 @@ Each of these system software components plays a vital, sequential role. Without
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/system-software-workflow|System Software Workflow]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/system-software-workflow|System Software Workflow]]

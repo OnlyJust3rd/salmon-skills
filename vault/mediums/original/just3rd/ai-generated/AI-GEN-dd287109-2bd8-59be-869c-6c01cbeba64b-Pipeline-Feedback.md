@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/continuous-integration/microskills/pipeline-feedback|pipeline-feedback]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/pipeline-feedback|pipeline-feedback]]"
 learning-time-in-minutes: 4
 ---
 # Pipeline Feedback: Knowing if Your Code Works, Fast!
@@ -76,4 +76,4 @@ Imagine you've just pushed a code change. Your CI pipeline runs and reports a fa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/continuous-integration/microskills/pipeline-feedback|Pipeline Feedback]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/pipeline-feedback|Pipeline Feedback]]

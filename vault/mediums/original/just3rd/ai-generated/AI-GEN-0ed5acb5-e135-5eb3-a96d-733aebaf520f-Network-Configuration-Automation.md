@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-configuration-automation|network-configuration-automation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-configuration-automation|network-configuration-automation]]"
 learning-time-in-minutes: 4
 ---
 # DHCP: Your Network's Automatic Address Book
@@ -59,4 +59,4 @@ DHCP is a fundamental service that makes modern networking practical. It automat
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-configuration-automation|Network Configuration Automation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-configuration-automation|Network Configuration Automation]]

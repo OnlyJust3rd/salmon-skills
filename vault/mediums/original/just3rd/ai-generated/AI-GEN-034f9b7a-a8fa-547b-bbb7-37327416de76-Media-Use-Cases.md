@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/media-use-cases|media-use-cases]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/media-use-cases|media-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Choosing the Right Path: Media Use Cases
@@ -105,4 +105,4 @@ By understanding these characteristics and their typical applications, you can m
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/media-use-cases|Media Use Cases]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/media-use-cases|Media Use Cases]]

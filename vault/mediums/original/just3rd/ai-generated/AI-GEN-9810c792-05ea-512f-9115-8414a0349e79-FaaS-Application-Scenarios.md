@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/faas-application-scenarios|faas-application-scenarios]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-application-scenarios|faas-application-scenarios]]"
 learning-time-in-minutes: 4
 ---
 # Function as a Service (FaaS) Application Scenarios
@@ -105,4 +105,4 @@ For each of the following aspects, briefly explain how FaaS could be applied:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/faas-application-scenarios|FaaS Application Scenarios]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-application-scenarios|FaaS Application Scenarios]]

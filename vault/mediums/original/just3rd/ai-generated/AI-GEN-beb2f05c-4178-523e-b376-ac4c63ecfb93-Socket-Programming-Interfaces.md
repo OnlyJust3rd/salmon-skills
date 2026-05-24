@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/socket-programming-interfaces|socket-programming-interfaces]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/socket-programming-interfaces|socket-programming-interfaces]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Socket Programming Interfaces: Essential Functions
@@ -82,4 +82,4 @@ Understanding these fundamental functions is the first step towards building net
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/socket-programming-interfaces|Socket Programming Interfaces]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/socket-programming-interfaces|Socket Programming Interfaces]]

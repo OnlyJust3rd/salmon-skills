@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-machine-architecture|virtual-machine-architecture]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-machine-architecture|virtual-machine-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Virtual Machine Architecture: The Foundation of Hardware Virtualization
@@ -98,4 +98,4 @@ Understanding the architecture of virtual machines, with the hypervisor at its c
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-machine-architecture|Virtual Machine Architecture]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-machine-architecture|Virtual Machine Architecture]]

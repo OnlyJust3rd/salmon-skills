@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-performance/microskills/performance-metric-relationships|performance-metric-relationships]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/performance-metric-relationships|performance-metric-relationships]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Performance Metric Relationships in Congestion Control
@@ -67,4 +67,4 @@ By understanding these relationships, you can better identify bottlenecks, tune 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-performance/microskills/performance-metric-relationships|Performance Metric Relationships]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/performance-metric-relationships|Performance Metric Relationships]]

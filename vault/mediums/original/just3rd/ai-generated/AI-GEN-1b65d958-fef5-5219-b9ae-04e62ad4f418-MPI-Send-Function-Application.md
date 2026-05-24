@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/mpi-send-function-application|mpi-send-function-application]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-send-function-application|mpi-send-function-application]]"
 learning-time-in-minutes: 3
 ---
 # MPI_Send Function: Initiating Data Transmission
@@ -107,4 +107,4 @@ By mastering `MPI_Send`, you've taken a significant step in understanding how pr
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/mpi-send-function-application|MPI Send Function Application]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-send-function-application|MPI Send Function Application]]

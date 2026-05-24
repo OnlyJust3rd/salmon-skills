@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|real-world-serverless-examples]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|real-world-serverless-examples]]"
 learning-time-in-minutes: 5
 ---
 # Real-World Serverless Examples
@@ -93,4 +93,4 @@ By recognizing these patterns, you can identify many real-world instances where 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|Real-World Serverless Examples]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|Real-World Serverless Examples]]

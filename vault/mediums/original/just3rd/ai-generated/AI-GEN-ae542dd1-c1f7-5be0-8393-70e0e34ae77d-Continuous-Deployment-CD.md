@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/continuous-deployment-cd|continuous-deployment-cd]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-deployment-cd|continuous-deployment-cd]]"
 learning-time-in-minutes: 5
 ---
 # Continuous Deployment (CD) in Serverless CI/CD
@@ -83,4 +83,4 @@ By understanding and implementing these stages, you empower your serverless proj
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/continuous-deployment-cd|Continuous Deployment (CD)]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-deployment-cd|Continuous Deployment (CD)]]

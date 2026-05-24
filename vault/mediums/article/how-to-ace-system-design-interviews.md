@@ -6,7 +6,7 @@ tags:
   - article
   - system-design
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/system-design/competencies/L2-explain-system-design-choice|L2-explain-system-design-choice]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/system-design/competencies/L2-explain-system-design-choice|L2-explain-system-design-choice]]"
 learning-time-in-minutes: 20
 source: ByteByteGo
 ---
@@ -17,6 +17,6 @@ source: ByteByteGo
 
 ## Outcome
 
-- [[skills/computing/systems-infrastructure/platform-engineering/system-design/competencies/L2-explain-system-design-choice|L2-explain-system-design-choice]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/system-design/competencies/L2-explain-system-design-choice|L2-explain-system-design-choice]]
 - [[skills/professional-practice/engineering-practices/system-design/competencies/L2-develop-and-apply-system-design|L2-develop-and-apply-system-design]]
 

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/tagging-for-cost-allocation|tagging-for-cost-allocation]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-cost-allocation|tagging-for-cost-allocation]]"
 learning-time-in-minutes: 3
 ---
 # Tagging for Cost Allocation
@@ -75,4 +75,4 @@ Here's how you might implement tagging:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/tagging-for-cost-allocation|Tagging for Cost Allocation]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-cost-allocation|Tagging for Cost Allocation]]

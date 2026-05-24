@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/virtual-local-area-networks|virtual-local-area-networks]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/virtual-local-area-networks|virtual-local-area-networks]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Virtual Local Area Networks (VLANs)
@@ -63,4 +63,4 @@ How would you use the concept of VLANs to logically separate these two groups of
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/virtual-local-area-networks|Virtual Local Area Networks]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/virtual-local-area-networks|Virtual Local Area Networks]]

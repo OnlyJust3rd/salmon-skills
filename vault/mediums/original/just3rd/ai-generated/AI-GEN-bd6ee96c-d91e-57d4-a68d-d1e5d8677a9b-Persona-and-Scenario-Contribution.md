@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Personas and Scenarios for Requirements"
+type: medium
+title: Understanding Personas and Scenarios for Requirements
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/persona-and-scenario-contribution|persona-and-scenario-contribution]]"
+outcome: "[[persona-and-scenario-contribution|persona-and-scenario-contribution]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Personas and Scenarios for Requirements
@@ -93,4 +93,4 @@ By using personas and scenarios, you move beyond abstract ideas and focus on bui
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/persona-and-scenario-contribution|Persona and Scenario Contribution]]
+- [[persona-and-scenario-contribution|Persona and Scenario Contribution]]

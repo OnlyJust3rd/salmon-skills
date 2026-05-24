@@ -6,7 +6,7 @@ tags:
   - roadmap
   - system-design
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]"
 learning-time-in-minutes: 60
 source: roadmap.sh
 ---
@@ -17,6 +17,6 @@ source: roadmap.sh
 
 ## Outcome
 
-- [[skills/computing/systems-infrastructure/platform-engineering/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]
 - [[skills/professional-practice/engineering-practices/system-design/competencies/L1-list-system-design-approaches|L1-list-system-design-approaches]]
 

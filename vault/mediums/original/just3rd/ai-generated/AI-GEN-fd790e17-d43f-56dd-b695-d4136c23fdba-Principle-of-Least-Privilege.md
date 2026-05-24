@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/principle-of-least-privilege|principle-of-least-privilege]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/principle-of-least-privilege|principle-of-least-privilege]]"
 learning-time-in-minutes: 3
 ---
 # Applying the Principle of Least Privilege in IAM
@@ -87,4 +87,4 @@ This policy is concise and grants precisely the permission needed for the web se
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/principle-of-least-privilege|Principle of Least Privilege]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/principle-of-least-privilege|Principle of Least Privilege]]

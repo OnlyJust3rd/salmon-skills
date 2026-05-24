@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/data-integrity-assurance|data-integrity-assurance]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/data-integrity-assurance|data-integrity-assurance]]"
 learning-time-in-minutes: 4
 ---
 # Data Integrity Assurance at the Link Layer
@@ -91,4 +91,4 @@ Calculate the LRC byte for this block.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/data-integrity-assurance|Data Integrity Assurance]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/data-integrity-assurance|Data Integrity Assurance]]

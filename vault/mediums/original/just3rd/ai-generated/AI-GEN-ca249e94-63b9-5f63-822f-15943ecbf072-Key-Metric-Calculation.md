@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Calculating Key Usability Metrics"
+type: medium
+title: Calculating Key Usability Metrics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/key-metric-calculation|key-metric-calculation]]"
+outcome: "[[key-metric-calculation|key-metric-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Key Usability Metrics
@@ -110,4 +110,4 @@ By consistently calculating and analyzing these key metrics, you gain the object
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/key-metric-calculation|Key Metric Calculation]]
+- [[key-metric-calculation|Key Metric Calculation]]

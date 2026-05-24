@@ -51,4 +51,4 @@ Consider a simple e-commerce API with an endpoint `GET /products/{productId}`. D
 ## Supports
 
 - [[skills/computing/data-ai/databases/database-system/microskills/data-access-layer|Data Access Layer]]
-- [[skills/computing/web-mobile/backend-api/backend-web-api-concept/microskills/data-access-layer|Data access layer]]
+- [[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/data-access-layer|Data access layer]]

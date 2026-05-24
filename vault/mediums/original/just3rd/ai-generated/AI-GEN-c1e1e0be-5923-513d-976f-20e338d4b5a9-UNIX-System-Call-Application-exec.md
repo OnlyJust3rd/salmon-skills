@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-exec|unix-system-call-application-exec]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-exec|unix-system-call-application-exec]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the `exec()` Family of System Calls in UNIX
@@ -96,4 +96,4 @@ Understanding `exec()` is vital for grasping how processes are managed and new p
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-exec|UNIX System Call Application (exec)]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-exec|UNIX System Call Application (exec)]]

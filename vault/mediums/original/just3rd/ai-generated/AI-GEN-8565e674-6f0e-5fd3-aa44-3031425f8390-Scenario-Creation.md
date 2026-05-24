@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Scenario Creation: Visualizing User Journeys"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/scenario-creation|scenario-creation]]"
+outcome: "[[scenario-creation|scenario-creation]]"
 learning-time-in-minutes: 5
 ---
 # Scenario Creation: Visualizing User Journeys
@@ -107,4 +107,4 @@ By mastering scenario creation, you gain a powerful tool for understanding and d
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/scenario-creation|Scenario Creation]]
+- [[scenario-creation|Scenario Creation]]

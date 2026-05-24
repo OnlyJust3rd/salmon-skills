@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/class-structures|class-structures]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-structures|class-structures]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Class Structures in Object-Oriented Programming
@@ -116,4 +116,4 @@ Understanding class structures is the first step to grasping the power of object
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/class-structures|Class structures]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-structures|Class structures]]

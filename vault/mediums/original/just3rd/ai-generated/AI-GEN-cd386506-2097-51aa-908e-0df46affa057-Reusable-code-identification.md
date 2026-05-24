@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/modular-program-design/microskills/reusable-code-identification|reusable-code-identification]]"
+outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/reusable-code-identification|reusable-code-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Reusable Code Segments
@@ -144,4 +144,4 @@ By practicing this identification skill, you'll become much better at designing 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/modular-program-design/microskills/reusable-code-identification|Reusable code identification]]
+- [[skills/computing/programming/programming-principles/modular-program-design/microskills/reusable-code-identification|Reusable code identification]]

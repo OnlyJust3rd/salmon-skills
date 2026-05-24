@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/alerting-context-for-golden-signals|alerting-context-for-golden-signals]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/alerting-context-for-golden-signals|alerting-context-for-golden-signals]]"
 learning-time-in-minutes: 5
 ---
 # Alerting Context for Golden Signals
@@ -73,4 +73,4 @@ By thoughtfully configuring alerts based on the Golden Signals, you transform ra
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/alerting-context-for-golden-signals|Alerting Context for Golden Signals]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/alerting-context-for-golden-signals|Alerting Context for Golden Signals]]

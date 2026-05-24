@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/node-js/microskills/npm-packages|npm-packages]]"
+outcome: "[[skills/computing/software-engineering/backend-development/node-js/microskills/npm-packages|npm-packages]]"
 learning-time-in-minutes: 3
 ---
 # Understanding npm Packages: Manifests and Installation
@@ -97,4 +97,4 @@ Understanding `package.json` and how npm installs dependencies is a fundamental 
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/node-js/microskills/npm-packages|npm packages]]
+- [[skills/computing/software-engineering/backend-development/node-js/microskills/npm-packages|npm packages]]

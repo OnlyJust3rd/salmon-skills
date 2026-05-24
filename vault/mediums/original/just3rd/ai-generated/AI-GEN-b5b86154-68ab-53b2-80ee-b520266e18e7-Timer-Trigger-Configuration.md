@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/timer-trigger-configuration|timer-trigger-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/timer-trigger-configuration|timer-trigger-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Timer Trigger Configuration
@@ -108,4 +108,4 @@ By mastering timer trigger configurations, you can effectively automate recurrin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/timer-trigger-configuration|Timer Trigger Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/timer-trigger-configuration|Timer Trigger Configuration]]

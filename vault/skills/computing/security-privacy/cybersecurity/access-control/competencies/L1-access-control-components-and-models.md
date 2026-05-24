@@ -5,7 +5,7 @@ tags:
   - "cpe"
   - "competency"
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+  - "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/security-privacy/cybersecurity/access-control/access-control|access-control]]"
@@ -26,7 +26,7 @@ Identify and list the key components and common models of access control systems
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Optional Prerequisites
 

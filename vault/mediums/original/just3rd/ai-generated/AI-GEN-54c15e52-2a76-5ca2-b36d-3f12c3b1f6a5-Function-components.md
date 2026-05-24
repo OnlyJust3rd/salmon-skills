@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/react/microskills/function-components|function-components]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/react/microskills/function-components|function-components]]"
 learning-time-in-minutes: 3
 ---
 # Function Components in React
@@ -101,4 +101,4 @@ By understanding function components and how they use `props`, you've taken a cr
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/react/microskills/function-components|Function components]]
+- [[skills/computing/software-engineering/frontend-development/react/microskills/function-components|Function components]]

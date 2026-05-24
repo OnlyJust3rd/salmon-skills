@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/transport-layer/microskills/network-performance-impact|network-performance-impact]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/network-performance-impact|network-performance-impact]]"
 learning-time-in-minutes: 7
 ---
 # Network Performance Impact: Throughput and Latency
@@ -99,4 +99,4 @@ By analyzing the specific performance requirements (throughput needs, latency se
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/transport-layer/microskills/network-performance-impact|Network Performance Impact]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/network-performance-impact|Network Performance Impact]]

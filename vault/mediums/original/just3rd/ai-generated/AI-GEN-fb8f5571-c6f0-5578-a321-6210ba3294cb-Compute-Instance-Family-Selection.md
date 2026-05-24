@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/compute-instance-family-selection|compute-instance-family-selection]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-family-selection|compute-instance-family-selection]]"
 learning-time-in-minutes: 4
 ---
 # Selecting the Right Compute Instance Family
@@ -55,4 +55,4 @@ What type of compute instance family would you prioritize for this workload, and
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/compute-instance-family-selection|Compute Instance Family Selection]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-family-selection|Compute Instance Family Selection]]

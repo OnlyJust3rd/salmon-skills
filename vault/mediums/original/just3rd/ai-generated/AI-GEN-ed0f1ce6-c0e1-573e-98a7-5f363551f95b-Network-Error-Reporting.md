@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-error-reporting|network-error-reporting]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-error-reporting|network-error-reporting]]"
 learning-time-in-minutes: 5
 ---
 # Network Error Reporting with ICMP
@@ -80,4 +80,4 @@ By understanding the different types of ICMP messages and how they convey networ
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-error-reporting|Network Error Reporting]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-error-reporting|Network Error Reporting]]

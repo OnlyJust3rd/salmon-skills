@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/openmp/microskills/computational-problem-parallelization|computational-problem-parallelization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/computational-problem-parallelization|computational-problem-parallelization]]"
 learning-time-in-minutes: 4
 ---
 # Parallelizing Computational Problems with OpenMP
@@ -155,4 +155,4 @@ Identify the loops that can be parallelized and implement an OpenMP solution to 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/openmp/microskills/computational-problem-parallelization|Computational Problem Parallelization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/computational-problem-parallelization|Computational Problem Parallelization]]

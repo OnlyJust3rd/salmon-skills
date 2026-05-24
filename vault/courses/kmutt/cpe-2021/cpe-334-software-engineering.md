@@ -36,9 +36,9 @@ This course introduces you to the core principles and techniques used to create 
 
 ## Macro Skills
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/quality-assurance|Quality Assurance]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/quality-assurance|Quality Assurance]]
 - [[skills/computing/software-engineering/software-design/software-architecture/software-architecture|Software Architecture]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/software-engineering|Software Engineering]]
-- [[skills/computing/software-engineering/software-practices/software-testing/software-testing|Software Testing]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/software-testing|Software Testing]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/software-version-control|Software Version Control]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/uml-modeling|UML Modeling]]

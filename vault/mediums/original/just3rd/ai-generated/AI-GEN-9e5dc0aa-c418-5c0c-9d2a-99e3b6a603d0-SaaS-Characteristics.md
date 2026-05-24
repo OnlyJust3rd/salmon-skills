@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/saas-characteristics|saas-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/saas-characteristics|saas-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # SaaS Characteristics: Understanding Software as a Service
@@ -49,4 +49,4 @@ Imagine your company is looking to implement a new Customer Relationship Managem
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/saas-characteristics|SaaS Characteristics]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/saas-characteristics|SaaS Characteristics]]

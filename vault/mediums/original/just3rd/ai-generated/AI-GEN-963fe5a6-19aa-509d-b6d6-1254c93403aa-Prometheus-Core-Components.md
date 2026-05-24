@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/prometheus-core-components|prometheus-core-components]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-core-components|prometheus-core-components]]"
 learning-time-in-minutes: 4
 ---
 # Prometheus Core Components
@@ -93,4 +93,4 @@ Remember these core components and their roles:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/prometheus-core-components|Prometheus Core Components]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-core-components|Prometheus Core Components]]

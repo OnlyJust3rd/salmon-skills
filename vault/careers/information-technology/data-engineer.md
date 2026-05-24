@@ -17,8 +17,8 @@ required-competencies:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L2-apply-data-cleansing-techniques]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L2-apply-data-models]]"
   - "[[skills/computing/data-ai/databases/database-system/competencies/L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/competencies/L1-build-container-images|L1-build-container-images]]"
-  - "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-build-container-images|L1-build-container-images]]"
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
   - "[[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/competencies/L2-apply-hadoop-batch-processing-concepts|L2-apply-hadoop-batch-processing-concepts]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/competencies/L2-apply-spark-dataframe-transformation-concepts|L2-apply-spark-dataframe-transformation-concepts]]"
@@ -61,8 +61,8 @@ A Data Engineer is an entry-level information technology role focused on applyin
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L3- Apply Data Cleansing Techniques]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L3- Apply Data Models]]
 - [[skills/computing/data-ai/databases/database-system/competencies/L1-define-and-list-rdbms-concepts|L1- Define and List RDBMS Concepts]]
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/competencies/L1-build-container-images|L2- Build Container Images]]
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-build-container-images|L2- Build Container Images]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/competencies/L2-apply-hadoop-batch-processing-concepts|L3- Apply Hadoop Batch Processing Concepts]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/competencies/L2-apply-spark-dataframe-transformation-concepts|L3- Apply Spark DataFrame Transformation Concepts]]

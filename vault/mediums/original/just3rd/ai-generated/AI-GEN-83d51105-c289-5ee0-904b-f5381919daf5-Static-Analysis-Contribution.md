@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/static-analysis-contribution|static-analysis-contribution]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-contribution|static-analysis-contribution]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Static Analysis Benefits for Software Quality
@@ -128,4 +128,4 @@ Static analysis is not a replacement for other forms of testing like dynamic ana
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/static-analysis-contribution|Static Analysis Contribution]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-contribution|Static Analysis Contribution]]

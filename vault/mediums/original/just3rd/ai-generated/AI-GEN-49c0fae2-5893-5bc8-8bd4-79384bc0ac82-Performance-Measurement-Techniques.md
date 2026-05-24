@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-performance/microskills/performance-measurement-techniques|performance-measurement-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/performance-measurement-techniques|performance-measurement-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Measuring Network Performance: Throughput, Latency, and Jitter
@@ -129,4 +129,4 @@ By actively measuring and calculating these performance metrics, you gain a tang
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-performance/microskills/performance-measurement-techniques|Performance Measurement Techniques]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/performance-measurement-techniques|Performance Measurement Techniques]]

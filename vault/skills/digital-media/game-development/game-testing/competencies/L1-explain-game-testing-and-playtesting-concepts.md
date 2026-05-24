@@ -6,7 +6,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/competencies/L1-define-player-immersion|L1-define-player-immersion]]"
-  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L1-software-testing-fundamentals|L1-software-testing-fundamentals]]"
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/competencies/L1-software-testing-fundamentals|L1-software-testing-fundamentals]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/digital-media/game-development/game-testing/game-testing|game-testing]]"
@@ -28,7 +28,7 @@ Explain game testing and playtesting concepts.
 
 ## Strict Prerequisites
 
-- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L1-software-testing-fundamentals|L2- Software Testing Fundamentals]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/competencies/L1-software-testing-fundamentals|L2- Software Testing Fundamentals]]
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/competencies/L1-define-player-immersion|L1- Define Player Immersion]]
 
 ## Optional Prerequisites

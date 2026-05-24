@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-disk-i-o-management|virtual-disk-i-o-management]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-disk-i-o-management|virtual-disk-i-o-management]]"
 learning-time-in-minutes: 5
 ---
 # Virtual Disk I/O Management
@@ -84,4 +84,4 @@ When managing virtual environments, it's important to understand that disk I/O i
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-disk-i-o-management|Virtual Disk I/O Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-disk-i-o-management|Virtual Disk I/O Management]]

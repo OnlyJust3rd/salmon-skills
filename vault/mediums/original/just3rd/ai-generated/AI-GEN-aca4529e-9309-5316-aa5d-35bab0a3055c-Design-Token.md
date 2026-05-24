@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Design Tokens"
+type: medium
+title: Understanding Design Tokens
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/design-systems/microskills/design-token|design-token]]"
+outcome: "[[design-token|design-token]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Design Tokens
@@ -165,4 +165,4 @@ Design tokens are the backbone of a scalable and maintainable design system. The
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/design-systems/microskills/design-token|Design Token]]
+- [[design-token|Design Token]]

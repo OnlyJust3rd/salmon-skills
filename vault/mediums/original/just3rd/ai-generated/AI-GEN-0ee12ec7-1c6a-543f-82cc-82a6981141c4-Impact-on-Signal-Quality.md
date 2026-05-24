@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/impact-on-signal-quality|impact-on-signal-quality]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/impact-on-signal-quality|impact-on-signal-quality]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Impact of Transmission Impairments on Signal Quality
@@ -67,4 +67,4 @@ By understanding how these impairments affect signal quality, we can better appr
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/impact-on-signal-quality|Impact on Signal Quality]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/impact-on-signal-quality|Impact on Signal Quality]]

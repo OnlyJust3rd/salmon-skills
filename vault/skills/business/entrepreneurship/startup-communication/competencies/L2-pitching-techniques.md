@@ -1,14 +1,14 @@
 ---
-type: "competency"
-title: "L3- Pitching Techniques"
+type: competency
+title: L3- Pitching Techniques
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/business/entrepreneurship/business-model-design/competencies/L2-lean-canvas-application|L2-lean-canvas-application]]"
   - "[[skills/business/product-management/feasibility-analysis/competencies/L2-apply-profitability-and-break-even-analysis|L2-apply-profitability-and-break-even-analysis]]"
   - "[[skills/business/entrepreneurship/startup-communication/competencies/L1-tailored-communication|L1-tailored-communication]]"
-  - "[[skills/professional-practice/human-centered-design/user-experience/competencies/L2-conduct-solution-interviews-and-usability-testing|L2-conduct-solution-interviews-and-usability-testing]]"
+  - "[[L2-conduct-solution-interviews-and-usability-testing|L2-conduct-solution-interviews-and-usability-testing]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/business/entrepreneurship/startup-communication/startup-communication|startup-communication]]"
@@ -33,7 +33,7 @@ Apply pitching techniques to effectively communicate a startup idea and its valu
 
 - [[skills/business/entrepreneurship/startup-communication/competencies/L1-tailored-communication|L2- Tailored Communication]]
 - [[skills/business/entrepreneurship/business-model-design/competencies/L2-lean-canvas-application|L3- Lean Canvas Application]]
-- [[skills/professional-practice/human-centered-design/user-experience/competencies/L2-conduct-solution-interviews-and-usability-testing|L3- Conduct Solution Interviews and Usability Testing]]
+- [[L2-conduct-solution-interviews-and-usability-testing|L3- Conduct Solution Interviews and Usability Testing]]
 - [[skills/business/product-management/feasibility-analysis/competencies/L2-apply-profitability-and-break-even-analysis|L3- Apply Profitability and Break-Even Analysis]]
 
 ## Optional Prerequisites

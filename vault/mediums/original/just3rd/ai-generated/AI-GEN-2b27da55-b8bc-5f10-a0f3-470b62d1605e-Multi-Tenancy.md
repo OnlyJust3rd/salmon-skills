@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/multi-tenancy|multi-tenancy]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/multi-tenancy|multi-tenancy]]"
 learning-time-in-minutes: 5
 ---
 # Multi-Tenancy in SaaS
@@ -79,4 +79,4 @@ Multi-tenancy is a fundamental architectural pattern that underpins the success 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/multi-tenancy|Multi-Tenancy]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/multi-tenancy|Multi-Tenancy]]

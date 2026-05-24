@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/operational-trade-off|operational-trade-off]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/operational-trade-off|operational-trade-off]]"
 learning-time-in-minutes: 5
 ---
 # Operational Trade-offs in SaaS Tenancy
@@ -75,4 +75,4 @@ There's no single "best" way to operate a SaaS. The optimal approach is highly d
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/operational-trade-off|Operational Trade-off]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/operational-trade-off|Operational Trade-off]]

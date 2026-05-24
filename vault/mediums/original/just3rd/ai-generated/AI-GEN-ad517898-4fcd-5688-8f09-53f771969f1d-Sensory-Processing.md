@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Sensory Processing: The Building Blocks of Human Perception"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/sensory-processing|sensory-processing]]"
+outcome: "[[sensory-processing|sensory-processing]]"
 learning-time-in-minutes: 4
 ---
 # Sensory Processing: The Building Blocks of Human Perception
@@ -78,4 +78,4 @@ By remembering these foundational sensory inputs and the basic processing pathwa
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/sensory-processing|Sensory Processing]]
+- [[sensory-processing|Sensory Processing]]

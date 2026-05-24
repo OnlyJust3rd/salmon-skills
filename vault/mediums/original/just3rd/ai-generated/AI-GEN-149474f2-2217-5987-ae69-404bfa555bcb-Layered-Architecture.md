@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/layered-architecture|layered-architecture]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/layered-architecture|layered-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Docker Image Layers
@@ -65,4 +65,4 @@ In essence, Docker's layered architecture is a fundamental design choice that un
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/layered-architecture|Layered Architecture]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/layered-architecture|Layered Architecture]]

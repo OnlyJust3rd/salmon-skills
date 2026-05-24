@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/web-performance/microskills/perceived-latency|perceived-latency]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/web-performance/microskills/perceived-latency|perceived-latency]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Perceived Latency in Web Performance
@@ -78,4 +78,4 @@ By focusing on the user's experience and minimizing the time they spend waiting 
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/web-performance/microskills/perceived-latency|Perceived Latency]]
+- [[skills/computing/software-engineering/frontend-development/web-performance/microskills/perceived-latency|Perceived Latency]]

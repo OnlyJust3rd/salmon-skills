@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Ethical Implications of Future Human-Computer Interaction"
+type: medium
+title: Understanding Ethical Implications of Future Human-Computer Interaction
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/ethical-implications-of-hci|ethical-implications-of-hci]]"
+outcome: "[[ethical-implications-of-hci|ethical-implications-of-hci]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Ethical Implications of Future Human-Computer Interaction
@@ -86,4 +86,4 @@ For this technology, identify and briefly explain **two** distinct ethical consi
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/ethical-implications-of-hci|Ethical Implications of HCI]]
+- [[ethical-implications-of-hci|Ethical Implications of HCI]]

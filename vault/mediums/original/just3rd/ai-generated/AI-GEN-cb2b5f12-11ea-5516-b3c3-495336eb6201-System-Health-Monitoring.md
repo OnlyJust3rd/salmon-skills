@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/system-health-monitoring|system-health-monitoring]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/system-health-monitoring|system-health-monitoring]]"
 learning-time-in-minutes: 4
 ---
 # Understanding System Health Monitoring Through Alerting
@@ -61,4 +61,4 @@ In essence, rule-based alerting transforms raw monitoring data into actionable i
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/system-health-monitoring|System Health Monitoring]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/system-health-monitoring|System Health Monitoring]]

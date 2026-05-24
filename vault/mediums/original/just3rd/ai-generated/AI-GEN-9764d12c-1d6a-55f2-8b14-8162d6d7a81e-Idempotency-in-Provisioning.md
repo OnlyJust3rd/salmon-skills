@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/idempotency-in-provisioning|idempotency-in-provisioning]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-provisioning|idempotency-in-provisioning]]"
 learning-time-in-minutes: 5
 ---
 # Idempotency in Infrastructure as Code
@@ -100,4 +100,4 @@ By understanding and leveraging idempotency, you can build more reliable, predic
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/idempotency-in-provisioning|Idempotency in Provisioning]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-provisioning|Idempotency in Provisioning]]

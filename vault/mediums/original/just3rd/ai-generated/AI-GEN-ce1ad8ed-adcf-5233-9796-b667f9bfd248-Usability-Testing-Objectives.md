@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Usability Testing Objectives"
+type: medium
+title: Understanding Usability Testing Objectives
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/usability-testing-objectives|usability-testing-objectives]]"
+outcome: "[[usability-testing-objectives|usability-testing-objectives]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Usability Testing Objectives
@@ -86,4 +86,4 @@ By clearly defining and pursuing these objectives, usability testing becomes a p
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/usability-testing-objectives|Usability Testing Objectives]]
+- [[usability-testing-objectives|Usability Testing Objectives]]

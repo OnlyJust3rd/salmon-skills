@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/microskills/service-fit|service-fit]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/service-fit|service-fit]]"
 learning-time-in-minutes: 4
 ---
 # Matching Service Capabilities to Application Needs (Service Fit)
@@ -69,4 +69,4 @@ Consider an application that needs to store user profile information, handle use
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/microskills/service-fit|Service Fit]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/service-fit|Service Fit]]

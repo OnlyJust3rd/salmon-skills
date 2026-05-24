@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Virtual Reality (VR) Concepts"
+type: medium
+title: Understanding Virtual Reality (VR) Concepts
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/virtual-reality-concepts|virtual-reality-concepts]]"
+outcome: "[[virtual-reality-concepts|virtual-reality-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Virtual Reality (VR) Concepts
@@ -52,4 +52,4 @@ For example, if your hobby is painting:
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/virtual-reality-concepts|Virtual Reality Concepts]]
+- [[virtual-reality-concepts|Virtual Reality Concepts]]

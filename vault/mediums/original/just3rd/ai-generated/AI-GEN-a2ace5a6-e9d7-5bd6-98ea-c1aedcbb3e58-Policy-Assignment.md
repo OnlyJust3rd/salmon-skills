@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/policy-assignment|policy-assignment]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/policy-assignment|policy-assignment]]"
 learning-time-in-minutes: 4
 ---
 # Applying Azure Policies: Policy Assignment
@@ -81,4 +81,4 @@ Assign the "Allowed locations" policy to a different resource group named `Dev-S
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/policy-assignment|Policy Assignment]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/policy-assignment|Policy Assignment]]

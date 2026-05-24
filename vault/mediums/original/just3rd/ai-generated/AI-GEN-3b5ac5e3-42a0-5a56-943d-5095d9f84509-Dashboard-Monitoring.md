@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/dashboard-monitoring|dashboard-monitoring]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/dashboard-monitoring|dashboard-monitoring]]"
 learning-time-in-minutes: 6
 ---
 # Dashboard Monitoring for System Performance
@@ -108,4 +108,4 @@ By actively using and interpreting your system monitoring dashboards, you can ga
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/dashboard-monitoring|Dashboard Monitoring]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/dashboard-monitoring|Dashboard Monitoring]]

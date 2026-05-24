@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/polymorphism-application|polymorphism-application]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-application|polymorphism-application]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Polymorphism in Code
@@ -151,4 +151,4 @@ By mastering polymorphism, you unlock a powerful tool for writing more robust an
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/polymorphism-application|Polymorphism Application]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-application|Polymorphism Application]]

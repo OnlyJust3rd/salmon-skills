@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Historical UI Evolution"
+type: medium
+title: Historical UI Evolution
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/historical-ui-evolution|historical-ui-evolution]]"
+outcome: "[[historical-ui-evolution|historical-ui-evolution]]"
 learning-time-in-minutes: 3
 ---
 # Historical UI Evolution
@@ -83,4 +83,4 @@ This understanding of historical UI paradigms provides a foundation for explorin
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/historical-ui-evolution|Historical UI Evolution]]
+- [[historical-ui-evolution|Historical UI Evolution]]

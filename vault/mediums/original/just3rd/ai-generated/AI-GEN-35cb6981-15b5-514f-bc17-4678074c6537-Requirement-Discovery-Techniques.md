@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Requirement Discovery Techniques"
+type: medium
+title: Requirement Discovery Techniques
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/requirement-discovery-techniques|requirement-discovery-techniques]]"
+outcome: "[[requirement-discovery-techniques|requirement-discovery-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Requirement Discovery Techniques
@@ -122,4 +122,4 @@ As you apply these techniques, remember to:
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/requirement-discovery-techniques|Requirement Discovery Techniques]]
+- [[requirement-discovery-techniques|Requirement Discovery Techniques]]

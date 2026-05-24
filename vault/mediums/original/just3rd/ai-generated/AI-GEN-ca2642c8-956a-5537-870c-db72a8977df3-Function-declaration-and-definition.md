@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/modular-program-design/microskills/function-declaration-and-definition|function-declaration-and-definition]]"
+outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/function-declaration-and-definition|function-declaration-and-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding C Function Declaration and Definition
@@ -145,4 +145,4 @@ By understanding and correctly applying function declarations and definitions, y
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/modular-program-design/microskills/function-declaration-and-definition|Function declaration and definition]]
+- [[skills/computing/programming/programming-principles/modular-program-design/microskills/function-declaration-and-definition|Function declaration and definition]]

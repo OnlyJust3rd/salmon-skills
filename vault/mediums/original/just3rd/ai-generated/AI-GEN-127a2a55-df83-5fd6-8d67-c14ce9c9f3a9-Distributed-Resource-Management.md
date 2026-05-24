@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/distributed-resource-management|distributed-resource-management]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/distributed-resource-management|distributed-resource-management]]"
 learning-time-in-minutes: 5
 ---
 # Distributed Resource Management in GRID Computing
@@ -71,4 +71,4 @@ Distributed Resource Management is the backbone of GRID computing. It transforms
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/distributed-resource-management|Distributed Resource Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/distributed-resource-management|Distributed Resource Management]]

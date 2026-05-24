@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/alert-notification-setup|alert-notification-setup]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/alert-notification-setup|alert-notification-setup]]"
 learning-time-in-minutes: 4
 ---
 # Setting Up Alert Notifications
@@ -95,4 +95,4 @@ By carefully configuring your alert notification channels, you transform your al
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/alert-notification-setup|Alert Notification Setup]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/alert-notification-setup|Alert Notification Setup]]

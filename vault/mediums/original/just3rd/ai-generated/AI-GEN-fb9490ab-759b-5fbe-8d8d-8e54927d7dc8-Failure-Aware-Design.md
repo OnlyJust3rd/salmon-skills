@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/microskills/failure-aware-design|failure-aware-design]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/failure-aware-design|failure-aware-design]]"
 learning-time-in-minutes: 4
 ---
 # Failure-Aware Design in Cloud-Native Applications
@@ -59,4 +59,4 @@ Consider a social media application. Identify three distinct microservices (e.g.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/microskills/failure-aware-design|Failure-Aware Design]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/failure-aware-design|Failure-Aware Design]]

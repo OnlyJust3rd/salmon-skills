@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|serverless-architecture-use-cases]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|serverless-architecture-use-cases]]"
 learning-time-in-minutes: 6
 ---
 # Serverless Architecture Use Cases
@@ -100,4 +100,4 @@ By recognizing these patterns, you can better understand how serverless computin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|Serverless Architecture Use Cases]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|Serverless Architecture Use Cases]]

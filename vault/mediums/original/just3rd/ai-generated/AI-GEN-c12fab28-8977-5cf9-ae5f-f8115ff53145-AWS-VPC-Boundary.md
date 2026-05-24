@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-vpc-boundary|aws-vpc-boundary]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-vpc-boundary|aws-vpc-boundary]]"
 learning-time-in-minutes: 3
 ---
 # Understanding AWS VPC Boundaries for Cloud Deployment
@@ -49,4 +49,4 @@ By defining these VPC boundaries and using subnets and security groups effective
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-vpc-boundary|AWS VPC Boundary]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-vpc-boundary|AWS VPC Boundary]]

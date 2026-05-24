@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/operating-system-terminology|operating-system-terminology]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-terminology|operating-system-terminology]]"
 learning-time-in-minutes: 5
 ---
 # Operating System Terminology
@@ -91,4 +91,4 @@ By understanding these fundamental terms, you're building a strong foundation fo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/operating-system-terminology|Operating System Terminology]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-terminology|Operating System Terminology]]

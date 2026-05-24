@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Product Validation Methods: Solution Interviews & Usability Testing"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/product-validation-methods|product-validation-methods]]"
+outcome: "[[product-validation-methods|product-validation-methods]]"
 learning-time-in-minutes: 4
 ---
 # Product Validation Methods: Solution Interviews & Usability Testing
@@ -76,4 +76,4 @@ By combining Solution Interviews and Usability Testing, you gain a comprehensive
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/product-validation-methods|Product Validation Methods]]
+- [[product-validation-methods|Product Validation Methods]]

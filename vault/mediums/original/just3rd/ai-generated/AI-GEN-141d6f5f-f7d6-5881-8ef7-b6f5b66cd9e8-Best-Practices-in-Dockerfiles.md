@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/best-practices-in-dockerfiles|best-practices-in-dockerfiles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/best-practices-in-dockerfiles|best-practices-in-dockerfiles]]"
 learning-time-in-minutes: 4
 ---
 # Dockerfile Best Practices for Efficiency and Security
@@ -190,4 +190,4 @@ By applying these best practices, you can build Docker images that are smaller, 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/best-practices-in-dockerfiles|Best Practices in Dockerfiles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/best-practices-in-dockerfiles|Best Practices in Dockerfiles]]

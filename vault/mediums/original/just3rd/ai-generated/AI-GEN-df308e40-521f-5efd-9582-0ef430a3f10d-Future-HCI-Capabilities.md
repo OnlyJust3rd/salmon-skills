@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Future HCI Capabilities: Anticipating Tomorrow's Interactions"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/future-hci-capabilities|future-hci-capabilities]]"
+outcome: "[[future-hci-capabilities|future-hci-capabilities]]"
 learning-time-in-minutes: 4
 ---
 # Future HCI Capabilities: Anticipating Tomorrow's Interactions
@@ -65,4 +65,4 @@ Now, create your own for the remaining trends.
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/future-hci-capabilities|Future HCI Capabilities]]
+- [[future-hci-capabilities|Future HCI Capabilities]]

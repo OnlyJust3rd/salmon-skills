@@ -5,7 +5,7 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming-languages/c-sharp-programming/microskills/object-instantiation|object-instantiation]]"
+outcome: "[[skills/computing/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|object-instantiation]]"
 learning-time-in-minutes: 2
 ---
 # Object Instantiation in C#
@@ -71,5 +71,5 @@ Here, `myCar` is an object of the `Car` class. We provided the necessary informa
 
 ## Supports
 
-- [[skills/computing/programming-languages/c-sharp-programming/microskills/object-instantiation|Object Instantiation]]
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/object-instantiation|Object instantiation]]
+- [[skills/computing/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|Object Instantiation]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-instantiation|Object instantiation]]

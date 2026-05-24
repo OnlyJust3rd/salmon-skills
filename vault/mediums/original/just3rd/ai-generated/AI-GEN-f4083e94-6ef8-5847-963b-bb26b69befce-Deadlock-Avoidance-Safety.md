@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/deadlock-avoidance-safety|deadlock-avoidance-safety]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-avoidance-safety|deadlock-avoidance-safety]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Deadlock Avoidance: Safety First
@@ -83,4 +83,4 @@ Calculate the `Need` for each process and determine if the system is currently i
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/deadlock-avoidance-safety|Deadlock Avoidance Safety]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-avoidance-safety|Deadlock Avoidance Safety]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding Prototype Fidelity: Detailed vs. Basic Prototypes"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/detailed-vs-basic-prototypes|detailed-vs-basic-prototypes]]"
+outcome: "[[detailed-vs-basic-prototypes|detailed-vs-basic-prototypes]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Prototype Fidelity: Detailed vs. Basic Prototypes
@@ -95,4 +95,4 @@ Understanding the difference between basic and detailed prototypes is key to usi
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/detailed-vs-basic-prototypes|Detailed vs. Basic Prototypes]]
+- [[detailed-vs-basic-prototypes|Detailed vs. Basic Prototypes]]

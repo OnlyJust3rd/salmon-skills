@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/builder-pattern-application|builder-pattern-application]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/builder-pattern-application|builder-pattern-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying the Builder Pattern
@@ -160,4 +160,4 @@ Then, write code to create two pizzas:
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/builder-pattern-application|Builder Pattern Application]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/builder-pattern-application|Builder Pattern Application]]

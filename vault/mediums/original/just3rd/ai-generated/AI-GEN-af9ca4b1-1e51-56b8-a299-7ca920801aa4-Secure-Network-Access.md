@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/secure-network-access|secure-network-access]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/secure-network-access|secure-network-access]]"
 learning-time-in-minutes: 4
 ---
 # Secure Network Access with VPNs
@@ -55,4 +55,4 @@ This entire process shields your actual data from being exposed on the public in
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/secure-network-access|Secure Network Access]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/secure-network-access|Secure Network Access]]

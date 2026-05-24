@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/indexed-file-allocation|indexed-file-allocation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/indexed-file-allocation|indexed-file-allocation]]"
 learning-time-in-minutes: 5
 ---
 # Indexed File Allocation: Understanding the Index
@@ -74,4 +74,4 @@ By understanding indexed file allocation, we gain insight into how file systems 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/indexed-file-allocation|Indexed File Allocation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/indexed-file-allocation|Indexed File Allocation]]

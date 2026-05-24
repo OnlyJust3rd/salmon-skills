@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management/microskills/network-management-concepts|network-management-concepts]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/network-management-concepts|network-management-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Network Management Concepts: The Building Blocks
@@ -101,4 +101,4 @@ Understanding these fundamental concepts is your first step in mastering network
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management/microskills/network-management-concepts|Network Management Concepts]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/network-management-concepts|Network Management Concepts]]

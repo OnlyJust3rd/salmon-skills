@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/traffic|traffic]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic|traffic]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Traffic as a Golden Signal
@@ -75,4 +75,4 @@ By monitoring traffic, you gain an early indication of potential issues or succe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/traffic|Traffic]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic|Traffic]]

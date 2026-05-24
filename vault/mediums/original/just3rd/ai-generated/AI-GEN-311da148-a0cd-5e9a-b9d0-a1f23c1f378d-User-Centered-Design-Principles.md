@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "User-Centered Design Principles: Putting the User First"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-centered-design-principles|user-centered-design-principles]]"
+outcome: "[[user-centered-design-principles|user-centered-design-principles]]"
 learning-time-in-minutes: 4
 ---
 # User-Centered Design Principles: Putting the User First
@@ -81,4 +81,4 @@ By consistently applying user-centered design principles, you ensure that the ex
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-centered-design-principles|User Centered Design Principles]]
+- [[user-centered-design-principles|User Centered Design Principles]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/basic-parallel-program-construction|basic-parallel-program-construction]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/basic-parallel-program-construction|basic-parallel-program-construction]]"
 learning-time-in-minutes: 4
 ---
 # Building a Simple MPI Point-to-Point Application
@@ -219,4 +219,4 @@ This exercise provides a foundational understanding of constructing simple MPI a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/basic-parallel-program-construction|Basic Parallel Program Construction]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/basic-parallel-program-construction|Basic Parallel Program Construction]]

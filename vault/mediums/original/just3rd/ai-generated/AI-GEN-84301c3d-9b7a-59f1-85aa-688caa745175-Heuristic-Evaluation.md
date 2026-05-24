@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Applying Heuristics for Interface Evaluation"
+type: medium
+title: Applying Heuristics for Interface Evaluation
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/heuristic-evaluation|heuristic-evaluation]]"
+outcome: "[[skills/digital-media/ux-ui-design/usability-evaluation/microskills/heuristic-evaluation|heuristic-evaluation]]"
 learning-time-in-minutes: 6
 ---
 # Applying Heuristics for Interface Evaluation
@@ -126,5 +126,5 @@ Choose a website or application you use regularly. Select 3-4 of Nielsen's heuri
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/heuristic-evaluation|Heuristic Evaluation]]
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/heuristic-evaluation|Heuristic Evaluation]]
+- [[skills/digital-media/ux-ui-design/usability-evaluation/microskills/heuristic-evaluation|Heuristic Evaluation]]
+- [[skills/digital-media/ux-ui-design/user-experience/microskills/heuristic-evaluation|Heuristic Evaluation]]

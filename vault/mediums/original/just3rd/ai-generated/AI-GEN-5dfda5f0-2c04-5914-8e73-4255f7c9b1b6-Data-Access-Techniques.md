@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/data-access-techniques|data-access-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-techniques|data-access-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Data Access Techniques in File Systems
@@ -83,4 +83,4 @@ As you continue to explore file systems and operating systems, you'll see how th
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/data-access-techniques|Data Access Techniques]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-techniques|Data Access Techniques]]

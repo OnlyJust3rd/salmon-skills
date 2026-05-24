@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/html/microskills/page-scaffolding|page-scaffolding]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/html/microskills/page-scaffolding|page-scaffolding]]"
 learning-time-in-minutes: 4
 ---
 # Page Scaffolding: Building Your HTML Foundation
@@ -158,4 +158,4 @@ By mastering page scaffolding, you're building a strong, maintainable foundation
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/html/microskills/page-scaffolding|Page scaffolding]]
+- [[skills/computing/software-engineering/frontend-development/html/microskills/page-scaffolding|Page scaffolding]]

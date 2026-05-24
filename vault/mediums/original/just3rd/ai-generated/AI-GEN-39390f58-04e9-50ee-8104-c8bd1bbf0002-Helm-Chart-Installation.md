@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/helm-chart-installation|helm-chart-installation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/helm-chart-installation|helm-chart-installation]]"
 learning-time-in-minutes: 4
 ---
 # Installing Applications with Helm Charts
@@ -202,4 +202,4 @@ This allows you to manage your application's configuration separately from the c
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/helm-chart-installation|Helm Chart Installation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/helm-chart-installation|Helm Chart Installation]]

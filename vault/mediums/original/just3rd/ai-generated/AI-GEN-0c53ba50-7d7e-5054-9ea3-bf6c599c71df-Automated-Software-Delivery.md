@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/automated-software-delivery|automated-software-delivery]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/automated-software-delivery|automated-software-delivery]]"
 learning-time-in-minutes: 5
 ---
 # Automated Software Delivery: The Heart of CI/CD
@@ -86,4 +86,4 @@ This automated flow ensures that only well-tested and verified changes reach you
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/automated-software-delivery|Automated Software Delivery]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/automated-software-delivery|Automated Software Delivery]]

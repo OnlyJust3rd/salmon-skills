@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/recurring-design-problem-solutions|recurring-design-problem-solutions]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-solutions|recurring-design-problem-solutions]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Recurring Design Problem Solutions
@@ -168,4 +168,4 @@ Implement the Builder pattern to construct these pizzas.
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/recurring-design-problem-solutions|Recurring Design Problem Solutions]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-solutions|Recurring Design Problem Solutions]]

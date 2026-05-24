@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/acceptance-criteria-extraction|acceptance-criteria-extraction]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/acceptance-criteria-extraction|acceptance-criteria-extraction]]"
 learning-time-in-minutes: 5
 ---
 # Extracting Acceptance Criteria: Your Blueprint for User Satisfaction
@@ -99,4 +99,4 @@ By mastering the art of acceptance criteria extraction, you are directly contrib
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/acceptance-criteria-extraction|Acceptance criteria extraction]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/acceptance-criteria-extraction|Acceptance criteria extraction]]

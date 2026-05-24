@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/dns-message-structure|dns-message-structure]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/dns-message-structure|dns-message-structure]]"
 learning-time-in-minutes: 3
 ---
 # DNS Message Structure
@@ -47,4 +47,4 @@ Examine a simplified DNS message structure. Imagine a DNS query for `www.justlea
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/dns-message-structure|DNS Message Structure]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/dns-message-structure|DNS Message Structure]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/hard-disk-drive-geometry|hard-disk-drive-geometry]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/hard-disk-drive-geometry|hard-disk-drive-geometry]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Hard Disk Drive Geometry
@@ -68,4 +68,4 @@ This fundamental understanding of HDD geometry is the bedrock for understanding 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/hard-disk-drive-geometry|Hard Disk Drive Geometry]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/hard-disk-drive-geometry|Hard Disk Drive Geometry]]

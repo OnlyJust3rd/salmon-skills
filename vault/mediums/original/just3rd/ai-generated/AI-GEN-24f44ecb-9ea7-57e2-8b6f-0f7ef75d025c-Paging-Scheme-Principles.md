@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/paging-scheme-principles|paging-scheme-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/paging-scheme-principles|paging-scheme-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Paging: Principles of Memory Allocation
@@ -80,4 +80,4 @@ This process allows the operating system to flexibly place pages of a process in
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/paging-scheme-principles|Paging Scheme Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/paging-scheme-principles|Paging Scheme Principles]]

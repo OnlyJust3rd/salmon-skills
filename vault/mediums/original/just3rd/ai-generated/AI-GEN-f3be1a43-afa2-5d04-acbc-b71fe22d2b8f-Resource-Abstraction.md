@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/resource-abstraction|resource-abstraction]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/resource-abstraction|resource-abstraction]]"
 learning-time-in-minutes: 5
 ---
 # Resource Abstraction in Virtualization
@@ -73,4 +73,4 @@ By understanding resource abstraction, you gain insight into how virtualization 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/resource-abstraction|Resource Abstraction]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/resource-abstraction|Resource Abstraction]]

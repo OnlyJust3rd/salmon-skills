@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/http-and-dns-interaction|http-and-dns-interaction]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/http-and-dns-interaction|http-and-dns-interaction]]"
 learning-time-in-minutes: 3
 ---
 # HTTP and DNS: A Web Browsing Partnership
@@ -49,4 +49,4 @@ Let's trace the journey of visiting `www.example.com`:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/http-and-dns-interaction|HTTP and DNS Interaction]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/http-and-dns-interaction|HTTP and DNS Interaction]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/grafana-data-source-connection|grafana-data-source-connection]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-source-connection|grafana-data-source-connection]]"
 learning-time-in-minutes: 3
 ---
 # Connecting Grafana to Prometheus
@@ -69,4 +69,4 @@ Once successfully connected, you can start using this Prometheus data source whe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/grafana-data-source-connection|Grafana Data Source Connection]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-source-connection|Grafana Data Source Connection]]

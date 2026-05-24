@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/governance-rule-enforcement|governance-rule-enforcement]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/governance-rule-enforcement|governance-rule-enforcement]]"
 learning-time-in-minutes: 4
 ---
 # Governance Rule Enforcement with Azure Policy
@@ -75,4 +75,4 @@ Once assigned, any attempt to create a VM without disk encryption enabled within
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/governance-rule-enforcement|Governance Rule Enforcement]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/governance-rule-enforcement|Governance Rule Enforcement]]

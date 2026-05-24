@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/restful-api/microskills/resource-identifiers|resource-identifiers]]"
+outcome: "[[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-identifiers|resource-identifiers]]"
 learning-time-in-minutes: 3
 ---
 # Mapping Domain Entities to Resource Identifiers
@@ -70,4 +70,4 @@ By understanding how to map your domain entities to clear, consistent, and logic
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/restful-api/microskills/resource-identifiers|Resource identifiers]]
+- [[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-identifiers|Resource identifiers]]

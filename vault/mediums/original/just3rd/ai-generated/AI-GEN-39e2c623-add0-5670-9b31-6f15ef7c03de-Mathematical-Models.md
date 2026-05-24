@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-performance/microskills/mathematical-models|mathematical-models]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/mathematical-models|mathematical-models]]"
 learning-time-in-minutes: 4
 ---
 # Applying Formulas for Network Performance Metrics
@@ -126,4 +126,4 @@ $$ \text{Average Jitter} = 8 \text{ ms} $$
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-performance/microskills/mathematical-models|Mathematical Models]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/mathematical-models|Mathematical Models]]

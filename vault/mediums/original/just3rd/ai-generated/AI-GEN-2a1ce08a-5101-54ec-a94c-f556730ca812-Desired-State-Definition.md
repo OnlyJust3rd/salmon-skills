@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/desired-state-definition|desired-state-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/desired-state-definition|desired-state-definition]]"
 learning-time-in-minutes: 4
 ---
 # Defining Your Desired State
@@ -112,4 +112,4 @@ By focusing on defining your desired state, you're laying the groundwork for pow
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/desired-state-definition|Desired State Definition]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/desired-state-definition|Desired State Definition]]

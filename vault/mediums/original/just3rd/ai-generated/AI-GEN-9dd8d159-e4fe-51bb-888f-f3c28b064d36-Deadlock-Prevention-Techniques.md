@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|deadlock-prevention-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|deadlock-prevention-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Deadlock Prevention Techniques: Proactive Measures
@@ -111,4 +111,4 @@ You need to implement a deadlock prevention strategy.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|Deadlock Prevention Techniques]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|Deadlock Prevention Techniques]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-application|amdahl-s-law-application]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-application|amdahl-s-law-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying Amdahl's Law for Parallel Performance Prediction
@@ -84,4 +84,4 @@ By applying Amdahl's Law, you can make informed decisions about whether parallel
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-application|Amdahl's Law Application]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-application|Amdahl's Law Application]]

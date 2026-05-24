@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/appropriate-refactoring-technique-selection|appropriate-refactoring-technique-selection]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/appropriate-refactoring-technique-selection|appropriate-refactoring-technique-selection]]"
 learning-time-in-minutes: 5
 ---
 # Selecting the Right Refactoring Technique
@@ -168,4 +168,4 @@ The art of refactoring lies not just in knowing many techniques, but in understa
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/appropriate-refactoring-technique-selection|Appropriate Refactoring Technique Selection]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/appropriate-refactoring-technique-selection|Appropriate Refactoring Technique Selection]]

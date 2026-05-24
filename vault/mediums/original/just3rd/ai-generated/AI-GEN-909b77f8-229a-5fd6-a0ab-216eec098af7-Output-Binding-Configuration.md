@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/output-binding-configuration|output-binding-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/output-binding-configuration|output-binding-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Configuring Serverless Function Output Bindings
@@ -156,4 +156,4 @@ This declarative approach significantly simplifies your code, allowing you to fo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/output-binding-configuration|Output Binding Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/output-binding-configuration|Output Binding Configuration]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/factory-method-abstract-factory-application|factory-method-abstract-factory-application]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/factory-method-abstract-factory-application|factory-method-abstract-factory-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying Factory Method and Abstract Factory
@@ -197,4 +197,4 @@ Implement a simple e-commerce system where you need to create different types of
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/factory-method-abstract-factory-application|Factory Method / Abstract Factory Application]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/factory-method-abstract-factory-application|Factory Method / Abstract Factory Application]]

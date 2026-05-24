@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-service-selection|gcp-service-selection]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-service-selection|gcp-service-selection]]"
 learning-time-in-minutes: 5
 ---
 # GCP Service Selection: Choosing the Right Tools for Your Application
@@ -98,4 +98,4 @@ Effectively selecting GCP service categories is a foundational skill for buildin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-service-selection|GCP Service Selection]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-service-selection|GCP Service Selection]]

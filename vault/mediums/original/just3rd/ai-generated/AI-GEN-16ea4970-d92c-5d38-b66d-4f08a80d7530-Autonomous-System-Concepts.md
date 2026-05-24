@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/autonomous-system-concepts|autonomous-system-concepts]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/autonomous-system-concepts|autonomous-system-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Autonomous Systems in Routing
@@ -54,4 +54,4 @@ By segmenting the internet into these ASes, routing becomes a hierarchical and m
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/autonomous-system-concepts|Autonomous System Concepts]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/autonomous-system-concepts|Autonomous System Concepts]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/software-design-improvement|software-design-improvement]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/software-design-improvement|software-design-improvement]]"
 learning-time-in-minutes: 4
 ---
 # Improving Software Design Through Refactoring
@@ -239,4 +239,4 @@ By continuously applying these small improvements, you build a codebase that is 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/software-design-improvement|Software Design Improvement]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/software-design-improvement|Software Design Improvement]]

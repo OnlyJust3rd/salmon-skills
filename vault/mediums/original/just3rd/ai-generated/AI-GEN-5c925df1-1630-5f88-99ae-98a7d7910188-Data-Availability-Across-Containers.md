@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/data-availability-across-containers|data-availability-across-containers]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-availability-across-containers|data-availability-across-containers]]"
 learning-time-in-minutes: 4
 ---
 # Sharing Docker Volumes for Data Availability
@@ -103,4 +103,4 @@ Understanding how Docker volumes can be shared is fundamental to building statef
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/data-availability-across-containers|Data Availability Across Containers]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-availability-across-containers|Data Availability Across Containers]]

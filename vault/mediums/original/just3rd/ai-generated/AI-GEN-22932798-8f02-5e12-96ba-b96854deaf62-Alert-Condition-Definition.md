@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/alert-condition-definition|alert-condition-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/alert-condition-definition|alert-condition-definition]]"
 learning-time-in-minutes: 5
 ---
 # Defining Alert Conditions: The Heart of Infrastructure Monitoring
@@ -95,4 +95,4 @@ By mastering the art of defining precise and meaningful alert conditions, you la
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/alert-condition-definition|Alert Condition Definition]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/alert-condition-definition|Alert Condition Definition]]

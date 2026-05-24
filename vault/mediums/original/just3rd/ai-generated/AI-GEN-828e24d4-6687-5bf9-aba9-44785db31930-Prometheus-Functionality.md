@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/prometheus-functionality|prometheus-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-functionality|prometheus-functionality]]"
 learning-time-in-minutes: 3
 ---
 # Prometheus: The Metric Collector
@@ -111,4 +111,4 @@ This query calculates the per-second average rate of increase of `http_requests_
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/prometheus-functionality|Prometheus Functionality]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-functionality|Prometheus Functionality]]

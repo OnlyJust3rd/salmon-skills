@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-vpc-boundary|gcp-vpc-boundary]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-vpc-boundary|gcp-vpc-boundary]]"
 learning-time-in-minutes: 5
 ---
 # GCP VPC Boundaries: Architecting Secure and Organized Networks
@@ -76,4 +76,4 @@ By thoughtfully designing and implementing your GCP VPC network boundaries using
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-vpc-boundary|GCP VPC Boundary]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-vpc-boundary|GCP VPC Boundary]]

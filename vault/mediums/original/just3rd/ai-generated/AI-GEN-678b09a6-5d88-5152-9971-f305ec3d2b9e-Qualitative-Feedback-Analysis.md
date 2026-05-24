@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Qualitative Feedback Analysis"
+type: medium
+title: Understanding Qualitative Feedback Analysis
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/qualitative-feedback-analysis|qualitative-feedback-analysis]]"
+outcome: "[[qualitative-feedback-analysis|qualitative-feedback-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Qualitative Feedback Analysis
@@ -127,4 +127,4 @@ This structured approach allows you to transform raw user comments into actionab
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/qualitative-feedback-analysis|Qualitative Feedback Analysis]]
+- [[qualitative-feedback-analysis|Qualitative Feedback Analysis]]

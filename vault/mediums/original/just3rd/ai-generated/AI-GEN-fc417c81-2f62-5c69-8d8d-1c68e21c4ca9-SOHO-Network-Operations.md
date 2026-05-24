@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management/microskills/soho-network-operations|soho-network-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/soho-network-operations|soho-network-operations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding SOHO Network Operations
@@ -90,4 +90,4 @@ By understanding these SOHO-specific network operations, you can better manage a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management/microskills/soho-network-operations|SOHO Network Operations]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/soho-network-operations|SOHO Network Operations]]

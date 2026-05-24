@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/cross-browser-testing/microskills/rendering-compatibility|rendering-compatibility]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/rendering-compatibility|rendering-compatibility]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Rendering Compatibility in Web Development
@@ -75,4 +75,4 @@ The first step in addressing rendering compatibility is to simply **recognize th
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/cross-browser-testing/microskills/rendering-compatibility|Rendering Compatibility]]
+- [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/rendering-compatibility|Rendering Compatibility]]

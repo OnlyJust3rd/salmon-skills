@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cost-allocation-and-chargeback|cost-allocation-and-chargeback]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-allocation-and-chargeback|cost-allocation-and-chargeback]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Cost Allocation and Chargeback with Resource Tags
@@ -63,4 +63,4 @@ Imagine you are part of a team launching a new mobile app. Identify at least thr
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cost-allocation-and-chargeback|Cost Allocation and Chargeback]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-allocation-and-chargeback|Cost Allocation and Chargeback]]

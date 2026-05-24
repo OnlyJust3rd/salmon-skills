@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Social Interaction Concepts in HCI"
+type: medium
+title: Social Interaction Concepts in HCI
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/social-interaction-concepts|social-interaction-concepts]]"
+outcome: "[[social-interaction-concepts|social-interaction-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Social Interaction Concepts in HCI
@@ -66,4 +66,4 @@ For example, for "Awareness" in a multiplayer game, you might note:
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/social-interaction-concepts|Social Interaction Concepts]]
+- [[social-interaction-concepts|Social Interaction Concepts]]

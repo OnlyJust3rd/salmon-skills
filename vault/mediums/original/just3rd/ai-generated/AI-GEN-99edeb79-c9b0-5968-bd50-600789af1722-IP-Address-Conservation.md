@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-address-conservation|ip-address-conservation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-address-conservation|ip-address-conservation]]"
 learning-time-in-minutes: 4
 ---
 # IP Address Conservation with NAT
@@ -55,4 +55,4 @@ NAT's primary contribution to IP address conservation is by enabling multiple de
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-address-conservation|IP Address Conservation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-address-conservation|IP Address Conservation]]

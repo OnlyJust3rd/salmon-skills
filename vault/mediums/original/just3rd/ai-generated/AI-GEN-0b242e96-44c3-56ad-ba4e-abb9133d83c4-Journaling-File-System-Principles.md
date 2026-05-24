@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/journaling-file-system-principles|journaling-file-system-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/journaling-file-system-principles|journaling-file-system-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Journaling File System Principles
@@ -86,4 +86,4 @@ Understanding these principles helps you appreciate how journaling file systems 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/journaling-file-system-principles|Journaling File System Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/journaling-file-system-principles|Journaling File System Principles]]

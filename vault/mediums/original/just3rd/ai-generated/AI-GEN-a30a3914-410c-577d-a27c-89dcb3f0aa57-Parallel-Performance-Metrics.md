@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/parallel-performance-metrics|parallel-performance-metrics]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/parallel-performance-metrics|parallel-performance-metrics]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Parallel Performance Metrics
@@ -95,4 +95,4 @@ High efficiency is important because using more processors doesn't always lead t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/parallel-performance-metrics|Parallel Performance Metrics]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/parallel-performance-metrics|Parallel Performance Metrics]]

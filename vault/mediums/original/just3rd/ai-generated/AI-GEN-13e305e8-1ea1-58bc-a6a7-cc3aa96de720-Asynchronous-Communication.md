@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/asynchronous-communication|asynchronous-communication]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/asynchronous-communication|asynchronous-communication]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Asynchronous Communication in Event-Driven Architectures
@@ -66,4 +66,4 @@ Asynchronous communication is a cornerstone of modern event-driven architectures
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/asynchronous-communication|Asynchronous Communication]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/asynchronous-communication|Asynchronous Communication]]

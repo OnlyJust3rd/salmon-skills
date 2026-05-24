@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/platform-engineering/microskills/deliverable-management|deliverable-management]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/deliverable-management|deliverable-management]]"
 learning-time-in-minutes: 5
 ---
 # Deliverable Management in Platform Engineering
@@ -93,4 +93,4 @@ By actively managing deliverables through these stages, the platform engineering
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/platform-engineering/microskills/deliverable-management|Deliverable Management]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/deliverable-management|Deliverable Management]]

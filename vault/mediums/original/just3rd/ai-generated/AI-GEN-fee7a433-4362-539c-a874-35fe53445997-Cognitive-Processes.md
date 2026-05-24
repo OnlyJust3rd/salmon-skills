@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Cognitive Processes: The Building Blocks of Human Interaction"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/cognitive-processes|cognitive-processes]]"
+outcome: "[[cognitive-processes|cognitive-processes]]"
 learning-time-in-minutes: 4
 ---
 # Cognitive Processes: The Building Blocks of Human Interaction
@@ -75,4 +75,4 @@ In essence, designing with cognitive processes in mind means designing for the u
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/cognitive-processes|Cognitive Processes]]
+- [[cognitive-processes|Cognitive Processes]]

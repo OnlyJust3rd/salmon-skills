@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/governance-and-policy-enforcement|governance-and-policy-enforcement]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/governance-and-policy-enforcement|governance-and-policy-enforcement]]"
 learning-time-in-minutes: 3
 ---
 # Tags: Your Cloud Compliance and Security Allies
@@ -60,4 +60,4 @@ Think about a hypothetical company that handles financial data and needs to comp
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/governance-and-policy-enforcement|Governance and Policy Enforcement]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/governance-and-policy-enforcement|Governance and Policy Enforcement]]

@@ -48,4 +48,4 @@ This course is designed to help students transform their projects into viable bu
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/mvp-design-and-prototyping|MVP Design and Prototyping]]
 - [[skills/business/product-management/marketing-strategy/marketing-strategy|Marketing Strategy]]
 - [[skills/business/entrepreneurship/startup-communication/startup-communication|Startup Communication]]
-- [[skills/professional-practice/human-centered-design/user-experience/user-experience|User Experience]]
+- [[user-experience|User Experience]]

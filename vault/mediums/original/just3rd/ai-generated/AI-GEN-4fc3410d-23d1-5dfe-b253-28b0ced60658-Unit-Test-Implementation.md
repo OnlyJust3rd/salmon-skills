@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/unit-test-implementation|unit-test-implementation]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/unit-test-implementation|unit-test-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Unit Tests with JUnit
@@ -197,4 +197,4 @@ By consistently writing and executing unit tests, you lay a strong foundation fo
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/unit-test-implementation|Unit Test Implementation]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/unit-test-implementation|Unit Test Implementation]]

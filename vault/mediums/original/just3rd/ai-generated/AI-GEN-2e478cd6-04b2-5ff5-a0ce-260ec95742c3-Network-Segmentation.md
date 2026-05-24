@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-segmentation|network-segmentation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-segmentation|network-segmentation]]"
 learning-time-in-minutes: 4
 ---
 # Network Segmentation: The Power of Subnetting
@@ -57,5 +57,5 @@ This ability to fine-tune the network size and the number of hosts within each s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-segmentation|Network Segmentation]]
-- [[skills/computing/systems-infrastructure/networking/routing-and-switching/microskills/network-segmentation|Network Segmentation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-segmentation|Network Segmentation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/network-segmentation|Network Segmentation]]

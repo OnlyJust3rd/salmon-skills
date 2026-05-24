@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/client-side-web-tooling/microskills/build-scripts|build-scripts]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/build-scripts|build-scripts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Build Scripts
@@ -68,4 +68,4 @@ To run these scripts, you would open your terminal in the project's root directo
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/client-side-web-tooling/microskills/build-scripts|Build Scripts]]
+- [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/build-scripts|Build Scripts]]

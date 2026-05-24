@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/css/microskills/typography-and-spacing-scale|typography-and-spacing-scale]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/typography-and-spacing-scale|typography-and-spacing-scale]]"
 learning-time-in-minutes: 2
 ---
 # Typography and Spacing Scale for Styled Layouts
@@ -96,4 +96,4 @@ Similarly, a spacing scale defines a set of values for margins, padding, and gap
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/css/microskills/typography-and-spacing-scale|Typography and spacing scale]]
+- [[skills/computing/software-engineering/frontend-development/css/microskills/typography-and-spacing-scale|Typography and spacing scale]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/apiversion-kind-metadata-spec|apiversion-kind-metadata-spec]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/apiversion-kind-metadata-spec|apiversion-kind-metadata-spec]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Core Kubernetes Pod YAML Fields
@@ -96,4 +96,4 @@ By understanding and correctly applying `apiVersion`, `kind`, `metadata`, and `s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/apiversion-kind-metadata-spec|apiVersion, kind, metadata, spec]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/apiversion-kind-metadata-spec|apiVersion, kind, metadata, spec]]

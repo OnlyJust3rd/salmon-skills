@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/application-management-with-helm|application-management-with-helm]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-management-with-helm|application-management-with-helm]]"
 learning-time-in-minutes: 4
 ---
 # Managing Kubernetes Applications with Helm: Upgrades and Rollbacks
@@ -140,4 +140,4 @@ Notice how revision `2` (the faulty upgrade) is now superseded by revision `3` (
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/application-management-with-helm|Application Management with Helm]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-management-with-helm|Application Management with Helm]]

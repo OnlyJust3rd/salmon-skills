@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/interdomain-routing-use-cases|interdomain-routing-use-cases]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-routing-use-cases|interdomain-routing-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Interdomain Routing Use Cases
@@ -83,4 +83,4 @@ Interdomain routing is the backbone of the global internet. Its use cases are ce
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/interdomain-routing-use-cases|Interdomain Routing Use Cases]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-routing-use-cases|Interdomain Routing Use Cases]]

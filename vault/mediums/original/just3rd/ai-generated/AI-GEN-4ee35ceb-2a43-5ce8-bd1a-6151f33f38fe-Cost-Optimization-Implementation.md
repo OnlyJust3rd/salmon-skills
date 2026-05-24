@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cost-optimization-implementation|cost-optimization-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-implementation|cost-optimization-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Cloud Cost Optimization: Rightsizing and Shutting Down Idle Resources
@@ -78,4 +78,4 @@ Your team has a staging environment that is only used for testing new releases, 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cost-optimization-implementation|Cost Optimization Implementation]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-implementation|Cost Optimization Implementation]]

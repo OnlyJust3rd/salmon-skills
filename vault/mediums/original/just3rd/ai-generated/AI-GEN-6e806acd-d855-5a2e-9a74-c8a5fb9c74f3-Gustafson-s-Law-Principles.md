@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|gustafson-s-law-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|gustafson-s-law-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Gustafson's Law
@@ -79,4 +79,4 @@ Gustafson's Law provides a complementary view to Amdahl's Law. Instead of lookin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|Gustafson's Law Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|Gustafson's Law Principles]]

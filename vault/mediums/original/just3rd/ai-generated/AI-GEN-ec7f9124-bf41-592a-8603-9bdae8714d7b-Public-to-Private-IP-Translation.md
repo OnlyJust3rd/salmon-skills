@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/public-to-private-ip-translation|public-to-private-ip-translation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/public-to-private-ip-translation|public-to-private-ip-translation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Public to Private IP Translation in NAT
@@ -60,4 +60,4 @@ Understanding how NAT handles public-to-private IP translation is fundamental to
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/public-to-private-ip-translation|Public to Private IP Translation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/public-to-private-ip-translation|Public to Private IP Translation]]

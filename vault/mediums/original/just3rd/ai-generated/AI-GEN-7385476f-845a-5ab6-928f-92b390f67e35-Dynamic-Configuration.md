@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/dynamic-configuration|dynamic-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/dynamic-configuration|dynamic-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Dynamic Configuration with Terraform Data Sources
@@ -150,4 +150,4 @@ By incorporating data sources, you significantly enhance the flexibility and mai
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/dynamic-configuration|Dynamic Configuration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/dynamic-configuration|Dynamic Configuration]]

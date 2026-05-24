@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/availability-zone-strategy|availability-zone-strategy]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zone-strategy|availability-zone-strategy]]"
 learning-time-in-minutes: 3
 ---
 # Designing for High Availability with Availability Zones
@@ -64,4 +64,4 @@ Consider a scenario where you are designing the infrastructure for an e-commerce
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/availability-zone-strategy|Availability Zone Strategy]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zone-strategy|Availability Zone Strategy]]

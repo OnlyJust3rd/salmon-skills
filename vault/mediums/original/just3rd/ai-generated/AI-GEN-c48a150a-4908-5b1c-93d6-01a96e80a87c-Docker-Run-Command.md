@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-run-command|docker-run-command]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-run-command|docker-run-command]]"
 learning-time-in-minutes: 4
 ---
 # Docker Run Command: Starting Your First Container
@@ -118,4 +118,4 @@ This lesson covers the basics of starting containers with `docker run`. In futur
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-run-command|Docker Run Command]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-run-command|Docker Run Command]]

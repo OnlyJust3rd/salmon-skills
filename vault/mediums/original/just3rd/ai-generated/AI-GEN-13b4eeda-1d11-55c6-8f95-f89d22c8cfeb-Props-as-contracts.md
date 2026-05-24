@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/component-based-web-ui/microskills/props-as-contracts|props-as-contracts]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/props-as-contracts|props-as-contracts]]"
 learning-time-in-minutes: 3
 ---
 # Props as Contracts: Immutable Inputs in Component Architecture
@@ -103,4 +103,4 @@ Imagine you have a `Button` component that should accept text to display and a f
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/component-based-web-ui/microskills/props-as-contracts|Props as contracts]]
+- [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/props-as-contracts|Props as contracts]]

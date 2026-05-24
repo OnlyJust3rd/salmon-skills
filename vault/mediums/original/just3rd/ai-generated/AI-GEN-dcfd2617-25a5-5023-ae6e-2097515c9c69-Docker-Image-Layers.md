@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-image-layers|docker-image-layers]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-image-layers|docker-image-layers]]"
 learning-time-in-minutes: 4
 ---
 # Docker Image Layers: Building Blocks of Your Container
@@ -79,4 +79,4 @@ By understanding and leveraging Docker's layered image architecture, you can bui
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-image-layers|Docker Image Layers]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-image-layers|Docker Image Layers]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Solution Interview Objectives"
+type: medium
+title: Understanding Solution Interview Objectives
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/solution-interview-objectives|solution-interview-objectives]]"
+outcome: "[[solution-interview-objectives|solution-interview-objectives]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Solution Interview Objectives
@@ -62,4 +62,4 @@ Solution interviews are a low-cost, high-impact way to get early validation for 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/solution-interview-objectives|Solution Interview Objectives]]
+- [[solution-interview-objectives|Solution Interview Objectives]]

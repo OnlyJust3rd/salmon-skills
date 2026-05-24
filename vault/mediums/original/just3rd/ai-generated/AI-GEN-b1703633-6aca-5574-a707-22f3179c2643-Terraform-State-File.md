@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-state-file|terraform-state-file]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-state-file|terraform-state-file]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Terraform State File
@@ -115,4 +115,4 @@ Understanding the state file is a fundamental step in mastering Terraform. It's 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-state-file|Terraform State File]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-state-file|Terraform State File]]

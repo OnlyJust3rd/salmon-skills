@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-kubernetes-provider|terraform-kubernetes-provider]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-kubernetes-provider|terraform-kubernetes-provider]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Terraform Kubernetes Provider
@@ -150,4 +150,4 @@ By understanding and applying the Terraform Kubernetes provider, you gain a powe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-kubernetes-provider|Terraform Kubernetes Provider]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-kubernetes-provider|Terraform Kubernetes Provider]]

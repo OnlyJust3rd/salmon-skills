@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/queue-trigger-configuration|queue-trigger-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/queue-trigger-configuration|queue-trigger-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Queue Trigger Configuration for Serverless Functions
@@ -126,4 +126,4 @@ By mastering queue trigger configuration, you unlock a powerful pattern for buil
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/queue-trigger-configuration|Queue Trigger Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/queue-trigger-configuration|Queue Trigger Configuration]]

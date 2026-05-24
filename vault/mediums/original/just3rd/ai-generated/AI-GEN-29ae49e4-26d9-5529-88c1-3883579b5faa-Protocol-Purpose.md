@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/protocol-purpose|protocol-purpose]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/protocol-purpose|protocol-purpose]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Application Protocol Purposes
@@ -57,4 +57,4 @@ For each of the following scenarios, identify which application protocol is most
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/protocol-purpose|Protocol Purpose]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/protocol-purpose|Protocol Purpose]]

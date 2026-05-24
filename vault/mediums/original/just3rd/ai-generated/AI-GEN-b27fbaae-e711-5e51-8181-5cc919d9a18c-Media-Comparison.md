@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/media-comparison|media-comparison]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/media-comparison|media-comparison]]"
 learning-time-in-minutes: 5
 ---
 # Differentiating Guided vs. Unguided Transmission Media
@@ -80,4 +80,4 @@ The fundamental difference lies in how the signal is transmitted. Guided media u
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/media-comparison|Media Comparison]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/media-comparison|Media Comparison]]

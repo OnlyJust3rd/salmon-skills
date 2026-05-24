@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/dynamic-host-configuration-protocol|dynamic-host-configuration-protocol]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/dynamic-host-configuration-protocol|dynamic-host-configuration-protocol]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Dynamic Host Configuration Protocol (DHCP)
@@ -53,4 +53,4 @@ In summary, DHCP is a fundamental service for modern IP networks, making device 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/dynamic-host-configuration-protocol|Dynamic Host Configuration Protocol]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/dynamic-host-configuration-protocol|Dynamic Host Configuration Protocol]]

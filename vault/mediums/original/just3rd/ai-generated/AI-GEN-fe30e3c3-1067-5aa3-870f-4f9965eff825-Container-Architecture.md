@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/container-architecture|container-architecture]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/container-architecture|container-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Container Architecture: The Building Blocks of Containerization
@@ -76,4 +76,4 @@ This process allows you to package applications and their dependencies into isol
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/container-architecture|Container Architecture]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/container-architecture|Container Architecture]]

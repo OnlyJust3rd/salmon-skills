@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "User Control and Freedom: Empowering Your Users"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-control-and-freedom|user-control-and-freedom]]"
+outcome: "[[user-control-and-freedom|user-control-and-freedom]]"
 learning-time-in-minutes: 4
 ---
 # User Control and Freedom: Empowering Your Users
@@ -67,4 +67,4 @@ The principle of User Control and Freedom is simple yet profound: **users should
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-control-and-freedom|User Control and Freedom]]
+- [[user-control-and-freedom|User Control and Freedom]]

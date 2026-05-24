@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "VR vs AR: Understanding the Differences"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/vr-and-ar-differences|vr-and-ar-differences]]"
+outcome: "[[vr-and-ar-differences|vr-and-ar-differences]]"
 learning-time-in-minutes: 4
 ---
 # VR vs AR: Understanding the Differences
@@ -73,4 +73,4 @@ Read the following descriptions and determine if they describe a Virtual Reality
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/vr-and-ar-differences|VR and AR Differences]]
+- [[vr-and-ar-differences|VR and AR Differences]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/cloud-regions|cloud-regions]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/cloud-regions|cloud-regions]]"
 learning-time-in-minutes: 4
 ---
 # Cloud Regions: Your Global Data Center Footprint
@@ -53,4 +53,4 @@ Look up the cloud regions offered by a major cloud provider (e.g., AWS, Azure, G
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/cloud-regions|Cloud Regions]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/cloud-regions|Cloud Regions]]

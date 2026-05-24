@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/subnetting-principles|subnetting-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/subnetting-principles|subnetting-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Subnetting Principles
@@ -89,4 +89,4 @@ Understanding these basic principles of subnetting is a vital step in mastering 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/subnetting-principles|Subnetting Principles]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/subnetting-principles|Subnetting Principles]]

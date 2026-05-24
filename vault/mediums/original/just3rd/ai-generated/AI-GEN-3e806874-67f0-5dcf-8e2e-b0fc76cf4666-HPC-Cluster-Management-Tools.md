@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-management-tools|hpc-cluster-management-tools]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-management-tools|hpc-cluster-management-tools]]"
 learning-time-in-minutes: 4
 ---
 # HPC Cluster Management Tools
@@ -70,4 +70,4 @@ Cluster middleware is the essential software layer that enables HPC clusters to 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-management-tools|HPC Cluster Management Tools]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-management-tools|HPC Cluster Management Tools]]

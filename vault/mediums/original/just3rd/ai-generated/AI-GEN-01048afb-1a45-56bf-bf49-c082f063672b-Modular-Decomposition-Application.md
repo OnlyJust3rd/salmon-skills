@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/modular-decomposition-application|modular-decomposition-application]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-application|modular-decomposition-application]]"
 learning-time-in-minutes: 4
 ---
 # Modular Decomposition: Breaking Down Your Code
@@ -132,4 +132,4 @@ By consciously applying the principles of cohesion and coupling when decomposing
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/modular-decomposition-application|Modular Decomposition Application]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-application|Modular Decomposition Application]]

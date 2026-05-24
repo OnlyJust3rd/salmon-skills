@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/code-review-purpose|code-review-purpose]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-purpose|code-review-purpose]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Purpose of Code Reviews
@@ -72,4 +72,4 @@ By understanding these purposes, you can approach code reviews not as a bureaucr
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/code-review-purpose|Code Review Purpose]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-purpose|Code Review Purpose]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|xeon-phi-processor-components]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|xeon-phi-processor-components]]"
 learning-time-in-minutes: 3
 ---
 # Xeon Phi Processor Components
@@ -54,4 +54,4 @@ By understanding these core components, you can better grasp how Xeon Phi proces
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|Xeon Phi Processor Components]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|Xeon Phi Processor Components]]

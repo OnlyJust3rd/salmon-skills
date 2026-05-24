@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/json-format/microskills/json-object-and-array-structure|json-object-and-array-structure]]"
+outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-object-and-array-structure|json-object-and-array-structure]]"
 learning-time-in-minutes: 3
 ---
 # Understanding JSON Object and Array Structure
@@ -132,4 +132,4 @@ Understanding how to correctly nest JSON objects and arrays is crucial for parsi
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/json-format/microskills/json-object-and-array-structure|JSON object and array structure]]
+- [[skills/computing/software-engineering/backend-development/json-format/microskills/json-object-and-array-structure|JSON object and array structure]]

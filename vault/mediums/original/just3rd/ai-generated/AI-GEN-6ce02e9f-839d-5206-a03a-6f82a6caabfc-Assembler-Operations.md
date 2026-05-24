@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/assembler-operations|assembler-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/assembler-operations|assembler-operations]]"
 learning-time-in-minutes: 3
 ---
 # Assembler Operations: Translating Human Code into Machine Language
@@ -106,4 +106,4 @@ Understanding how assemblers translate code is a foundational step in comprehend
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/assembler-operations|Assembler Operations]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/assembler-operations|Assembler Operations]]

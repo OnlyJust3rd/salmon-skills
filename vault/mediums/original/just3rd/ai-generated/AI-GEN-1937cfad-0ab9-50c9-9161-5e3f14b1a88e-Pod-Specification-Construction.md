@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/pod-specification-construction|pod-specification-construction]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/pod-specification-construction|pod-specification-construction]]"
 learning-time-in-minutes: 4
 ---
 # Constructing Pod Specifications with YAML
@@ -111,4 +111,4 @@ By successfully constructing this YAML, you've applied the core rules for defini
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/pod-specification-construction|Pod Specification Construction]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/pod-specification-construction|Pod Specification Construction]]

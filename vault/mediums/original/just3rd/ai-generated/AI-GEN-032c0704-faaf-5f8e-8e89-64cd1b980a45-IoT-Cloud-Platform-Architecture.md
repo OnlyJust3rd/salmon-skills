@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/iot-cloud-platform-architecture|iot-cloud-platform-architecture]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-cloud-platform-architecture|iot-cloud-platform-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Understanding IoT Cloud Platform Architecture
@@ -83,4 +83,4 @@ This basic flow highlights how each architectural component plays a crucial role
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/iot-cloud-platform-architecture|IoT Cloud Platform Architecture]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-cloud-platform-architecture|IoT Cloud Platform Architecture]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/serverless-function-invocation|serverless-function-invocation]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-function-invocation|serverless-function-invocation]]"
 learning-time-in-minutes: 4
 ---
 # Serverless Function Invocation: Understanding Triggers
@@ -74,4 +74,4 @@ By understanding these different trigger types, you can effectively design serve
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/serverless-function-invocation|Serverless Function Invocation]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-function-invocation|Serverless Function Invocation]]

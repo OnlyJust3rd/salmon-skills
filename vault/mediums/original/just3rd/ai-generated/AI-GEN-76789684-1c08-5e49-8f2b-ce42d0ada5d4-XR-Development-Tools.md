@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "XR Development Tools for Prototyping"
+type: medium
+title: XR Development Tools for Prototyping
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/xr-development-tools|xr-development-tools]]"
+outcome: "[[xr-development-tools|xr-development-tools]]"
 learning-time-in-minutes: 3
 ---
 # XR Development Tools for Prototyping
@@ -56,4 +56,4 @@ Create a new Unity project. Install the XR Plugin Management and enable the prov
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/xr-development-tools|XR Development Tools]]
+- [[xr-development-tools|XR Development Tools]]

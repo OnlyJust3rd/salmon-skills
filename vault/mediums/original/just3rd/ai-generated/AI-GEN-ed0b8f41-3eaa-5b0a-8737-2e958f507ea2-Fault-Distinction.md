@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/fault-distinction|fault-distinction]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/fault-distinction|fault-distinction]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Difference Between Faults, Errors, and Failures
@@ -68,4 +68,4 @@ By grasping the nuanced differences between faults, errors, and failures, you bu
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/fault-distinction|Fault Distinction]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/fault-distinction|Fault Distinction]]

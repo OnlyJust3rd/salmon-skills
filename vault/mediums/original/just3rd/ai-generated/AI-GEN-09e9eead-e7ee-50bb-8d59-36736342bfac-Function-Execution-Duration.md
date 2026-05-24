@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/function-execution-duration|function-execution-duration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/function-execution-duration|function-execution-duration]]"
 learning-time-in-minutes: 4
 ---
 # Function Execution Duration in Serverless Computing
@@ -80,4 +80,4 @@ By understanding the factors that influence function execution duration, you can
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/function-execution-duration|Function Execution Duration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/function-execution-duration|Function Execution Duration]]

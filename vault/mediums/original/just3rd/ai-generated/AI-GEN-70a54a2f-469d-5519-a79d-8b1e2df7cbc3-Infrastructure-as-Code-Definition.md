@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-definition|infrastructure-as-code-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-definition|infrastructure-as-code-definition]]"
 learning-time-in-minutes: 3
 ---
 # What is Infrastructure as Code (IaC)?
@@ -53,4 +53,4 @@ IaC brings several significant benefits to IT teams:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-definition|Infrastructure as Code Definition]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-definition|Infrastructure as Code Definition]]

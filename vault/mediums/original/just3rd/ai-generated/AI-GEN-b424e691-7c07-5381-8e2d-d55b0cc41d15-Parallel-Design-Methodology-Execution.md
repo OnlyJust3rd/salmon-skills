@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/microskills/parallel-design-methodology-execution|parallel-design-methodology-execution]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/parallel-design-methodology-execution|parallel-design-methodology-execution]]"
 learning-time-in-minutes: 4
 ---
 # Executing Foster's Parallel Design Methodology
@@ -121,4 +121,4 @@ By systematically applying these steps, you can move from a sequential problem s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/microskills/parallel-design-methodology-execution|Parallel Design Methodology Execution]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/parallel-design-methodology-execution|Parallel Design Methodology Execution]]

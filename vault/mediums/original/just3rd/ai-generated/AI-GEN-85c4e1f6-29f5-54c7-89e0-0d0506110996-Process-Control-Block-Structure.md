@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/process-control-block-structure|process-control-block-structure]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-control-block-structure|process-control-block-structure]]"
 learning-time-in-minutes: 4
 ---
 # Process Control Block (PCB) Structure
@@ -102,4 +102,4 @@ When the operating system performs a **context switch**, it essentially involves
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/process-control-block-structure|Process Control Block Structure]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-control-block-structure|Process Control Block Structure]]

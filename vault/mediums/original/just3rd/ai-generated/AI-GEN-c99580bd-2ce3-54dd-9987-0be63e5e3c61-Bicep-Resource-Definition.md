@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/bicep-resource-definition|bicep-resource-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-resource-definition|bicep-resource-definition]]"
 learning-time-in-minutes: 4
 ---
 # Defining Azure Resources with Bicep
@@ -97,4 +97,4 @@ By understanding and applying the structure of Bicep resource definitions, you'l
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/bicep-resource-definition|Bicep Resource Definition]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-resource-definition|Bicep Resource Definition]]

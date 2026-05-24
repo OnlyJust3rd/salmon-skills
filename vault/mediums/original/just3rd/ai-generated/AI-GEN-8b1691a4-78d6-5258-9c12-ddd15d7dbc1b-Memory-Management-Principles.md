@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-management-principles|memory-management-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-principles|memory-management-principles]]"
 learning-time-in-minutes: 4
 ---
 # Memory Management Principles in Operating Systems
@@ -74,4 +74,4 @@ Memory management is a critical function of the OS, ensuring that programs can s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-management-principles|Memory Management Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-principles|Memory Management Principles]]

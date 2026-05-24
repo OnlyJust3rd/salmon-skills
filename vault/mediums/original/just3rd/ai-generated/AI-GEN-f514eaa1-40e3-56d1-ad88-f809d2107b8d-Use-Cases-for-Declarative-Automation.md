@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/use-cases-for-declarative-automation|use-cases-for-declarative-automation]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-declarative-automation|use-cases-for-declarative-automation]]"
 learning-time-in-minutes: 5
 ---
 # Use Cases for Declarative Automation in Infrastructure as Code
@@ -84,4 +84,4 @@ Declarative automation in Infrastructure as Code is a fundamental concept for mo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/use-cases-for-declarative-automation|Use Cases for Declarative Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-declarative-automation|Use Cases for Declarative Automation]]

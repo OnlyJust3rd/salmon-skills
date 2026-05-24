@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/lan-interconnection-methods|lan-interconnection-methods]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/lan-interconnection-methods|lan-interconnection-methods]]"
 learning-time-in-minutes: 4
 ---
 # Connecting Local Area Networks (LANs)
@@ -53,4 +53,4 @@ Describe a suitable interconnection method for these LANs and explain *why* it's
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/lan-interconnection-methods|LAN Interconnection Methods]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/lan-interconnection-methods|LAN Interconnection Methods]]

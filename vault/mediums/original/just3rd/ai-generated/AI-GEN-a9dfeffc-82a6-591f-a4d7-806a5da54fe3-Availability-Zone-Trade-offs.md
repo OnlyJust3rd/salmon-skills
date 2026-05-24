@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/availability-zone-trade-offs|availability-zone-trade-offs]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zone-trade-offs|availability-zone-trade-offs]]"
 learning-time-in-minutes: 3
 ---
 # Availability Zone Trade-offs: Redundancy vs. Complexity
@@ -53,4 +53,4 @@ Consider a web application that processes user requests and stores data in a dat
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/availability-zone-trade-offs|Availability Zone Trade-offs]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zone-trade-offs|Availability Zone Trade-offs]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/unix-process-management-apis|unix-process-management-apis]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-process-management-apis|unix-process-management-apis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Core UNIX Process Management APIs
@@ -90,4 +90,4 @@ By understanding `fork()`, `wait()`, and `exec()`, you gain insight into how pro
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/unix-process-management-apis|UNIX Process Management APIs]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-process-management-apis|UNIX Process Management APIs]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/json-format/microskills/json-primitive-literals|json-primitive-literals]]"
+outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-primitive-literals|json-primitive-literals]]"
 learning-time-in-minutes: 3
 ---
 # JSON Primitive Literals: Understanding the Building Blocks
@@ -115,4 +115,4 @@ Mastering the recognition of these basic JSON primitive literals is a crucial fo
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/json-format/microskills/json-primitive-literals|JSON primitive literals]]
+- [[skills/computing/software-engineering/backend-development/json-format/microskills/json-primitive-literals|JSON primitive literals]]

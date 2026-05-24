@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/artifact-management/microskills/build-artifacts|build-artifacts]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/build-artifacts|build-artifacts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Build Artifacts
@@ -57,4 +57,4 @@ Consider a project you've worked on or are familiar with.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/artifact-management/microskills/build-artifacts|Build Artifacts]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/build-artifacts|Build Artifacts]]

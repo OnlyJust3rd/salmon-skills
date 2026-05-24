@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/imperative-automation|imperative-automation]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation|imperative-automation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Imperative Automation in IaC
@@ -87,4 +87,4 @@ In summary, imperative automation is about commanding your infrastructure throug
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/imperative-automation|Imperative Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation|Imperative Automation]]

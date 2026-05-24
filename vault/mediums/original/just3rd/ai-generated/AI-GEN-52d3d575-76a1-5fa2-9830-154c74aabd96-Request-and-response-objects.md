@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/express-js/microskills/request-and-response-objects|request-and-response-objects]]"
+outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/request-and-response-objects|request-and-response-objects]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Request and Response Objects in Express.js
@@ -139,4 +139,4 @@ Understanding how `req` and `res` are populated and modified throughout this pip
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/express-js/microskills/request-and-response-objects|Request and response objects]]
+- [[skills/computing/software-engineering/backend-development/express-js/microskills/request-and-response-objects|Request and response objects]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Information Architecture: Structuring Content and Navigation"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/information-architecture|information-architecture]]"
+outcome: "[[information-architecture|information-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Information Architecture: Structuring Content and Navigation
@@ -83,4 +83,4 @@ By understanding and applying the principles of Information Architecture, you la
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/information-architecture|Information Architecture]]
+- [[information-architecture|Information Architecture]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/saturation-significance|saturation-significance]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/saturation-significance|saturation-significance]]"
 learning-time-in-minutes: 5
 ---
 # Saturation: The Bottleneck of Performance
@@ -76,4 +76,4 @@ Saturation is a critical "Golden Signal" because it directly reflects the system
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/saturation-significance|Saturation Significance]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/saturation-significance|Saturation Significance]]

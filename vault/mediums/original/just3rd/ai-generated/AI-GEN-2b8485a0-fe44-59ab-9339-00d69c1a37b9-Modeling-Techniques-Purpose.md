@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding the Purpose of Modeling Techniques in User-Centered Design"
+type: medium
+title: Understanding the Purpose of Modeling Techniques in User-Centered Design
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/modeling-techniques-purpose|modeling-techniques-purpose]]"
+outcome: "[[modeling-techniques-purpose|modeling-techniques-purpose]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Purpose of Modeling Techniques in User-Centered Design
@@ -58,4 +58,4 @@ Modeling techniques are not just academic exercises; they are practical tools th
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/modeling-techniques-purpose|Modeling Techniques Purpose]]
+- [[modeling-techniques-purpose|Modeling Techniques Purpose]]

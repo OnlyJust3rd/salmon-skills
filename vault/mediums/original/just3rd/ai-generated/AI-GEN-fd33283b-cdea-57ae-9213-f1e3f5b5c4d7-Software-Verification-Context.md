@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/software-verification-context|software-verification-context]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-verification-context|software-verification-context]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Software Verification: Are We Building the System Correctly?
@@ -76,4 +76,4 @@ Software verification is about building the product **right**. It involves a con
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/software-verification-context|Software Verification Context]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-verification-context|Software Verification Context]]

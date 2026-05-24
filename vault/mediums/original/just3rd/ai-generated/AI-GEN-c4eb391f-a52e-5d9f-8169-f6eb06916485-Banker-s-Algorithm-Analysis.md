@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/banker-s-algorithm-analysis|banker-s-algorithm-analysis]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/banker-s-algorithm-analysis|banker-s-algorithm-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing the Banker's Algorithm
@@ -106,4 +106,4 @@ Consider a system with 4 processes (P0, P1, P2, P3) and 3 resource types (R0, R1
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/banker-s-algorithm-analysis|Banker's Algorithm Analysis]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/banker-s-algorithm-analysis|Banker's Algorithm Analysis]]

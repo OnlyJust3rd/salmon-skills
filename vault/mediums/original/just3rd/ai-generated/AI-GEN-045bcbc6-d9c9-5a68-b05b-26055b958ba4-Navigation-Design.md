@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Designing Effective Navigation"
+type: medium
+title: Designing Effective Navigation
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/navigation-design|navigation-design]]"
+outcome: "[[navigation-design|navigation-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing Effective Navigation
@@ -113,4 +113,4 @@ By following these steps and principles, you can design navigation that guides u
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/navigation-design|Navigation Design]]
+- [[navigation-design|Navigation Design]]

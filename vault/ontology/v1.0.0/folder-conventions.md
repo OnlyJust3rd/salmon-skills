@@ -79,7 +79,11 @@ Rules:
 
 - Skill classification is path-only. Do not add taxonomy-like frontmatter such as `domain`, `subdomain`, `capability-area`, `skill-kind`, `source-path`, or `migration-status`.
 - Current top-level skill folders are `business/`, `computing/`, `digital-media/`, `mathematics/`, and `professional-practice/`. Add future top-level domains only when real content exists.
-- Computing skills should live under one of `computing/computer-science/`, `computing/software-engineering/`, `computing/systems-infrastructure/`, `computing/data-ai/`, `computing/security-privacy/`, `computing/hardware-embedded/`, or `computing/web-mobile/`.
+- Computing skills should live under one of `computing/computer-science/`, `computing/programming/`, `computing/software-engineering/`, `computing/systems-infrastructure/`, `computing/data-ai/`, `computing/security-privacy/`, or `computing/hardware-embedded/`.
+- Programming language and language-agnostic coding skills should live under `computing/programming/`, using branches such as `programming-languages/`, `programming-principles/`, `programming-paradigms/`, and `code-quality/`.
+- Applied software construction skills should live under direct `computing/software-engineering/` branches such as `frontend-development/`, `backend-development/`, and `mobile-development/`.
+- Software engineering design, testing, quality, and process skills should live under `computing/software-engineering/` branches such as `software-design/`, `testing-quality/`, and `software-practices/`.
+- Systems infrastructure skills should live under `computing/systems-infrastructure/`, using branches such as `compute-runtime/`, `networking/`, `cloud-platforms/`, `delivery-platforms/`, `operations-reliability/`, and `system-administration/`.
 - `<taxonomy-path>` may contain one or more nested folders.
 - The leaf folder name and skill filename must match.
 - The skill note must use `type: "skill"`.

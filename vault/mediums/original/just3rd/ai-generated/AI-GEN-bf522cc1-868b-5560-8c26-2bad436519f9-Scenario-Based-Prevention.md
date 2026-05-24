@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/scenario-based-prevention|scenario-based-prevention]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/scenario-based-prevention|scenario-based-prevention]]"
 learning-time-in-minutes: 3
 ---
 # Scenario-Based Deadlock Prevention
@@ -77,4 +77,4 @@ Determine if a deadlock can occur in this scenario if processes follow the resou
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/scenario-based-prevention|Scenario-Based Prevention]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/scenario-based-prevention|Scenario-Based Prevention]]

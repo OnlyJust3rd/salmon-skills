@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/microskills/purpose-of-parallel-design-stages|purpose-of-parallel-design-stages]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/purpose-of-parallel-design-stages|purpose-of-parallel-design-stages]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Foster's Parallel Design Stages
@@ -88,4 +88,4 @@ By understanding the distinct purpose of each of Foster's stages, you gain a roa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/microskills/purpose-of-parallel-design-stages|Purpose of Parallel Design Stages]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/purpose-of-parallel-design-stages|Purpose of Parallel Design Stages]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/json-format/microskills/human-readable-structured-data|human-readable-structured-data]]"
+outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/human-readable-structured-data|human-readable-structured-data]]"
 learning-time-in-minutes: 4
 ---
 # Understanding JSON as Human-Readable Structured Data
@@ -84,4 +84,4 @@ In essence, JSON strikes a fantastic balance between being easily understandable
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/json-format/microskills/human-readable-structured-data|Human-readable structured data]]
+- [[skills/computing/software-engineering/backend-development/json-format/microskills/human-readable-structured-data|Human-readable structured data]]

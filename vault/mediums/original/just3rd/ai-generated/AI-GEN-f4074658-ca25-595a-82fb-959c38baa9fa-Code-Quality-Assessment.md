@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/code-quality-assessment|code-quality-assessment]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-quality-assessment|code-quality-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing Code Quality for Refactoring
@@ -130,4 +130,4 @@ Code quality assessment is your compass for refactoring. By actively seeking out
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/code-quality-assessment|Code Quality Assessment]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/code-quality-assessment|Code Quality Assessment]]

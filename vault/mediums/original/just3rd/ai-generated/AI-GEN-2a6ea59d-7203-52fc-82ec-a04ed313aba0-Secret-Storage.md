@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/secrets-management/microskills/secret-storage|secret-storage]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-storage|secret-storage]]"
 learning-time-in-minutes: 5
 ---
 # Secret Storage: Keeping Your Sensitive Data Safe
@@ -114,4 +114,4 @@ By understanding and implementing controlled secret storage, you significantly r
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/secrets-management/microskills/secret-storage|Secret Storage]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-storage|Secret Storage]]

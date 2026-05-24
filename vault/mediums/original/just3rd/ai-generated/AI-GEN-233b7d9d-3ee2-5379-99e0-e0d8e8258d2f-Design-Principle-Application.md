@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Applying Design Principles for Effective UI Solutions"
+type: medium
+title: Applying Design Principles for Effective UI Solutions
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/design-principle-application|design-principle-application]]"
+outcome: "[[design-principle-application|design-principle-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Design Principles for Effective UI Solutions
@@ -120,4 +120,4 @@ By consciously applying these principles, you move beyond just placing elements 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/design-principle-application|Design Principle Application]]
+- [[design-principle-application|Design Principle Application]]

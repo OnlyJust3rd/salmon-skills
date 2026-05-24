@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Sensory Inputs: The Building Blocks of Human-Computer Interaction"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/sensory-inputs|sensory-inputs]]"
+outcome: "[[sensory-inputs|sensory-inputs]]"
 learning-time-in-minutes: 3
 ---
 # Sensory Inputs: The Building Blocks of Human-Computer Interaction
@@ -66,4 +66,4 @@ By recognizing and thoughtfully integrating vision, hearing, and touch into the 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/sensory-inputs|Sensory Inputs]]
+- [[sensory-inputs|Sensory Inputs]]

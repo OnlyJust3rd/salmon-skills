@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|efficiency-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|efficiency-definition]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Parallel Computing Efficiency
@@ -91,4 +91,4 @@ By remembering the definition and the formula for efficiency, you gain a powerfu
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|Efficiency Definition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|Efficiency Definition]]

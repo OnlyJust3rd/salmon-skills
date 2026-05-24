@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/react/microskills/feature-folder-structure|feature-folder-structure]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/react/microskills/feature-folder-structure|feature-folder-structure]]"
 learning-time-in-minutes: 3
 ---
 # Feature Folder Structure in React
@@ -136,4 +136,4 @@ By adopting a clear feature folder structure, you're applying a fundamental prin
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/react/microskills/feature-folder-structure|Feature folder structure]]
+- [[skills/computing/software-engineering/frontend-development/react/microskills/feature-folder-structure|Feature folder structure]]

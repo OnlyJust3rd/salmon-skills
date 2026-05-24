@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/target-application-scraping|target-application-scraping]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/target-application-scraping|target-application-scraping]]"
 learning-time-in-minutes: 3
 ---
 # Configuring Prometheus for Target Application Scraping
@@ -79,4 +79,4 @@ By mastering the configuration of targets, you lay the groundwork for effective 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/target-application-scraping|Target Application Scraping]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/target-application-scraping|Target Application Scraping]]

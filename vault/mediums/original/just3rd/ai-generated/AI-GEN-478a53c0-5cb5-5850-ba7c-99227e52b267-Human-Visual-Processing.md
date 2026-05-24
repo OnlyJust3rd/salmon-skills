@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Human Visual Processing"
+type: medium
+title: Understanding Human Visual Processing
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/human-visual-processing|human-visual-processing]]"
+outcome: "[[human-visual-processing|human-visual-processing]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Human Visual Processing
@@ -89,4 +89,4 @@ Understanding these principles helps us appreciate the complexity and efficiency
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/human-visual-processing|Human Visual Processing]]
+- [[human-visual-processing|Human Visual Processing]]

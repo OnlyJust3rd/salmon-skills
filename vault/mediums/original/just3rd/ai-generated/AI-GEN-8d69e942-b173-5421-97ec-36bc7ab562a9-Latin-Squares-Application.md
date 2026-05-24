@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Applying Latin Squares to Mitigate Experimental Effects"
+type: medium
+title: Applying Latin Squares to Mitigate Experimental Effects
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/latin-squares-application|latin-squares-application]]"
+outcome: "[[latin-squares-application|latin-squares-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Latin Squares to Mitigate Experimental Effects
@@ -98,4 +98,4 @@ By thoughtfully applying Latin Squares, you can significantly improve the intern
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/latin-squares-application|Latin Squares Application]]
+- [[latin-squares-application|Latin Squares Application]]

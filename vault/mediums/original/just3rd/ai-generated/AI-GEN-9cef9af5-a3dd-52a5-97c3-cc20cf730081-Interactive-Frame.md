@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Interactive Frames in Figma: Connecting Your Designs"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/figma/microskills/interactive-frame|interactive-frame]]"
+outcome: "[[interactive-frame|interactive-frame]]"
 learning-time-in-minutes: 6
 ---
 # Interactive Frames in Figma: Connecting Your Designs
@@ -113,4 +113,4 @@ By mastering the creation and connection of interactive frames, you'll significa
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/figma/microskills/interactive-frame|Interactive Frame]]
+- [[interactive-frame|Interactive Frame]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/faster-development-cycles|faster-development-cycles]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/faster-development-cycles|faster-development-cycles]]"
 learning-time-in-minutes: 4
 ---
 # Accelerating Development with Serverless
@@ -97,4 +97,4 @@ By understanding and embracing the serverless model, development teams can unloc
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/faster-development-cycles|Faster Development Cycles]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/faster-development-cycles|Faster Development Cycles]]

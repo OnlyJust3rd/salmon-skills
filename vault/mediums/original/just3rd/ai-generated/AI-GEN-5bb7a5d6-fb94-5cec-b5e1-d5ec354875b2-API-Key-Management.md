@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/api-key-management|api-key-management]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/api-key-management|api-key-management]]"
 learning-time-in-minutes: 5
 ---
 # API Key Management: Securing Your IoT Devices
@@ -76,4 +76,4 @@ By understanding and diligently managing your API keys (device keys in the conte
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/api-key-management|API Key Management]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/api-key-management|API Key Management]]

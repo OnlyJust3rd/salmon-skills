@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/ci-cd-pipeline-stages|ci-cd-pipeline-stages]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-pipeline-stages|ci-cd-pipeline-stages]]"
 learning-time-in-minutes: 4
 ---
 # Understanding CI/CD Pipeline Stages for Serverless
@@ -108,4 +108,4 @@ Understanding these key stages – Code Commit, Build, Test, Deploy, and Post-De
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/ci-cd-pipeline-stages|CI/CD Pipeline Stages]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-pipeline-stages|CI/CD Pipeline Stages]]

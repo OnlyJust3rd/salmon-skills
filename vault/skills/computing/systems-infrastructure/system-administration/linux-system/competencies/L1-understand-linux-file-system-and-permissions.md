@@ -5,7 +5,7 @@ tags:
   - "cpe"
   - "competency"
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/operating-systems/operating-system/competencies/L1-define-os-terms|L1-define-os-terms]]"
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-define-os-terms|L1-define-os-terms]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/system-administration/linux-system/linux-system|linux-system]]"
@@ -28,7 +28,7 @@ Explain the foundational concepts of Linux system administration, including the 
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/competencies/L1-define-os-terms|L1- Define OS Terms]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-define-os-terms|L1- Define OS Terms]]
 
 ## Optional Prerequisites
 

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/component-based-web-ui/microskills/component-boundaries|component-boundaries]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/component-boundaries|component-boundaries]]"
 learning-time-in-minutes: 4
 ---
 # Defining Component Boundaries
@@ -133,4 +133,4 @@ Consider a simple e-commerce product listing. You have a product image, its name
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/component-based-web-ui/microskills/component-boundaries|Component boundaries]]
+- [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/component-boundaries|Component boundaries]]

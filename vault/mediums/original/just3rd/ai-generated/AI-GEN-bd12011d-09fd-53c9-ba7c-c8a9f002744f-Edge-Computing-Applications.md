@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/edge-computing-applications|edge-computing-applications]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/edge-computing-applications|edge-computing-applications]]"
 learning-time-in-minutes: 4
 ---
 # Edge Computing Applications
@@ -81,4 +81,4 @@ The applications of edge computing are vast and continually expanding. By bringi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/edge-computing-applications|Edge Computing Applications]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/edge-computing-applications|Edge Computing Applications]]

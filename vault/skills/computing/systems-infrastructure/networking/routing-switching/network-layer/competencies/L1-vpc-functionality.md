@@ -1,0 +1,50 @@
+---
+type: "competency"
+title: "L2- VPC Functionality"
+tags:
+  - "cpe"
+  - "competency"
+strict-prerequisites:
+  - "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts|L1-define-ip-addressing-and-forwarding-concepts]]"
+  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-vpn-concept-and-purpose|L1-vpn-concept-and-purpose]]"
+miller-level: 1
+optional-prerequisites: []
+parent-skill: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/network-layer|network-layer]]"
+requires-microskills:
+  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-benefits|cloud-network-benefits]]"
+  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-configuration|cloud-network-configuration]]"
+  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-isolation|cloud-network-isolation]]"
+  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/virtual-private-cloud|virtual-private-cloud]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# L2- VPC Functionality
+
+Parent macro: [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/network-layer|Network Layer]]
+
+## Competency Statement
+
+Identify the primary function of a VPC and describe its core functionality and benefits.
+
+## Strict Prerequisites
+
+- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts|L2- Define IP addressing and forwarding concepts]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-vpn-concept-and-purpose|L2- VPN Concept and Purpose]]
+
+## Optional Prerequisites
+
+- None
+
+## Corresponding Course Competencies
+
+- None
+
+## Microskills
+
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/virtual-private-cloud|Virtual Private Cloud]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-isolation|Cloud Network Isolation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-configuration|Cloud Network Configuration]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-benefits|Cloud Network Benefits]]

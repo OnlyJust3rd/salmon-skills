@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/responsive-web-design/microskills/fluid-layout|fluid-layout]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/fluid-layout|fluid-layout]]"
 learning-time-in-minutes: 4
 ---
 # Fluid Layouts: Adapting to Any Screen
@@ -172,4 +172,4 @@ This example shows how `width` with percentages makes the columns fluid, `max-wi
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/responsive-web-design/microskills/fluid-layout|Fluid Layout]]
+- [[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/fluid-layout|Fluid Layout]]

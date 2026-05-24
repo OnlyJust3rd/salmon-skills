@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/hpc-definition-recall|hpc-definition-recall]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/hpc-definition-recall|hpc-definition-recall]]"
 learning-time-in-minutes: 4
 ---
 # Understanding High-Performance Computing (HPC)
@@ -55,4 +55,4 @@ This lesson has reinforced the core definition of High-Performance Computing. As
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/hpc-definition-recall|HPC Definition Recall]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/hpc-definition-recall|HPC Definition Recall]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/mpi-collective-function-implementation|mpi-collective-function-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-collective-function-implementation|mpi-collective-function-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing MPI Collective Functions
@@ -267,4 +267,4 @@ Each process sends its local data (`&send_value`) to the root process. The root 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/mpi-collective-function-implementation|MPI Collective Function Implementation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-collective-function-implementation|MPI Collective Function Implementation]]

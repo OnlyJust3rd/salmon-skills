@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-manifests|kubernetes-resource-manifests]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-manifests|kubernetes-resource-manifests]]"
 learning-time-in-minutes: 3
 ---
 # Writing Kubernetes Resource Manifests in YAML
@@ -96,4 +96,4 @@ By mastering the art of writing these YAML manifests, you'll be well on your way
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/kubernetes-resource-manifests|Kubernetes Resource Manifests]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-manifests|Kubernetes Resource Manifests]]

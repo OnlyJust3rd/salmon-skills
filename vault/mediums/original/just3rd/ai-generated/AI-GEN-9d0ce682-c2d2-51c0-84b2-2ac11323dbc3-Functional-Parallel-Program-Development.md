@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/openmp/microskills/functional-parallel-program-development|functional-parallel-program-development]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/functional-parallel-program-development|functional-parallel-program-development]]"
 learning-time-in-minutes: 4
 ---
 # Developing Functional Parallel Programs with OpenMP
@@ -132,4 +132,4 @@ By systematically applying these principles and directives, you can build robust
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/openmp/microskills/functional-parallel-program-development|Functional Parallel Program Development]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/functional-parallel-program-development|Functional Parallel Program Development]]

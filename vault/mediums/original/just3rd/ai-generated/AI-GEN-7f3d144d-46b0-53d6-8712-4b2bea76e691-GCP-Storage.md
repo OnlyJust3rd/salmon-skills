@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-storage|gcp-storage]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-storage|gcp-storage]]"
 learning-time-in-minutes: 4
 ---
 # Understanding GCP Storage Services
@@ -103,4 +103,4 @@ By grasping these core storage categories, you can make informed decisions about
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-storage|GCP Storage]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-storage|GCP Storage]]

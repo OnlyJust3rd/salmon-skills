@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/scheduled-task-deployment|scheduled-task-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/scheduled-task-deployment|scheduled-task-deployment]]"
 learning-time-in-minutes: 4
 ---
 # Deploying Scheduled Tasks with Kubernetes CronJobs
@@ -135,4 +135,4 @@ By mastering `CronJob` deployment, you gain a powerful tool for automating routi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/scheduled-task-deployment|Scheduled Task Deployment]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/scheduled-task-deployment|Scheduled Task Deployment]]

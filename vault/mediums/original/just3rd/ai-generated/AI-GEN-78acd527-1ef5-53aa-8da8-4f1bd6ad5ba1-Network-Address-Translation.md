@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-address-translation|network-address-translation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-address-translation|network-address-translation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Network Address Translation (NAT)
@@ -63,4 +63,4 @@ By understanding the fundamental purpose of NAT, you gain insight into a crucial
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-address-translation|Network Address Translation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-address-translation|Network Address Translation]]

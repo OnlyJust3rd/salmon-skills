@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/cloud-network-configuration|cloud-network-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-configuration|cloud-network-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Virtual Private Cloud (VPC) Functionality
@@ -70,4 +70,4 @@ By understanding and utilizing VPC functionality, you lay the groundwork for sec
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/cloud-network-configuration|Cloud Network Configuration]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-configuration|Cloud Network Configuration]]

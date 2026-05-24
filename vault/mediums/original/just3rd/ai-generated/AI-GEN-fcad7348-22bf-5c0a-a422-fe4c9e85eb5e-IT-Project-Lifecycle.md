@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/platform-engineering/microskills/it-project-lifecycle|it-project-lifecycle]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/it-project-lifecycle|it-project-lifecycle]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the IT Project Lifecycle
@@ -114,4 +114,4 @@ By consistently applying the IT Project Lifecycle, you build a foundation for su
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/platform-engineering/microskills/it-project-lifecycle|IT Project Lifecycle]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/it-project-lifecycle|IT Project Lifecycle]]

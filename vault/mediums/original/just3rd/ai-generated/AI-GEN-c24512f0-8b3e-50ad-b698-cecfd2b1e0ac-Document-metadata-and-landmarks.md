@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/html/microskills/document-metadata-and-landmarks|document-metadata-and-landmarks]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/html/microskills/document-metadata-and-landmarks|document-metadata-and-landmarks]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Document Metadata and Landmarks in HTML
@@ -147,4 +147,4 @@ By correctly using `<html>`, `<head>`, `<body>`, and the various landmark elemen
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/html/microskills/document-metadata-and-landmarks|Document metadata and landmarks]]
+- [[skills/computing/software-engineering/frontend-development/html/microskills/document-metadata-and-landmarks|Document metadata and landmarks]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|gpgpu-programming-models]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|gpgpu-programming-models]]"
 learning-time-in-minutes: 4
 ---
 # GPGPU Programming Models: A Summary
@@ -79,4 +79,4 @@ By understanding these core components and the typical workflow, you can begin t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|GPGPU Programming Models]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|GPGPU Programming Models]]

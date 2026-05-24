@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/static-analysis-tool-impact|static-analysis-tool-impact]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-tool-impact|static-analysis-tool-impact]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Impact of Static Analysis Tools
@@ -83,4 +83,4 @@ In essence, static analysis tools act as an ever-vigilant guardian of your codeb
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/static-analysis-tool-impact|Static Analysis Tool Impact]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-tool-impact|Static Analysis Tool Impact]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Conversational Technology's Impact on User Experience"
+type: medium
+title: Understanding Conversational Technology's Impact on User Experience
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/conversational-technology-contribution|conversational-technology-contribution]]"
+outcome: "[[conversational-technology-contribution|conversational-technology-contribution]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Conversational Technology's Impact on User Experience
@@ -77,4 +77,4 @@ Understanding how these technologies work and how they impact user perception is
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/conversational-technology-contribution|Conversational Technology Contribution]]
+- [[conversational-technology-contribution|Conversational Technology Contribution]]

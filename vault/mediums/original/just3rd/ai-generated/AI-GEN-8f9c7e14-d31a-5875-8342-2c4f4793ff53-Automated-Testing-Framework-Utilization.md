@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/automated-testing-framework-utilization|automated-testing-framework-utilization]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/automated-testing-framework-utilization|automated-testing-framework-utilization]]"
 learning-time-in-minutes: 3
 ---
 # Utilizing JUnit for Automated Testing
@@ -180,4 +180,4 @@ By mastering JUnit, you're taking a significant step towards effectively impleme
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/automated-testing-framework-utilization|Automated Testing Framework Utilization]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/automated-testing-framework-utilization|Automated Testing Framework Utilization]]

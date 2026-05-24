@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/software-testing-principles|software-testing-principles]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-testing-principles|software-testing-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Software Testing Principles
@@ -86,4 +86,4 @@ By understanding these fundamental principles and the nuances of faults, errors,
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/software-testing-principles|Software Testing Principles]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-testing-principles|Software Testing Principles]]

@@ -1,10 +1,10 @@
 ---
-type: "career"
-title: "Product Manager"
-level: "entry-level"
+type: career
+title: Product Manager
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
+  - career
+  - information-technology
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/business/product-management/product-strategy/competencies/L1-explain-product-discovery-and-roadmapping-concepts|L1-explain-product-discovery-and-roadmapping-concepts]]"
@@ -15,8 +15,8 @@ required-competencies:
   - "[[skills/business/entrepreneurship/business-model-design/competencies/L2-lean-canvas-application|L2-lean-canvas-application]]"
   - "[[skills/business/product-management/competitor-analysis/competencies/L3-analyze-competitors-and-alternatives|L3-analyze-competitors-and-alternatives]]"
   - "[[skills/business/product-management/feasibility-analysis/competencies/L3-analyze-risks-and-financial-returns|L3-analyze-risks-and-financial-returns]]"
-  - "[[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-discover-requirements|L2-discover-requirements]]"
-  - "[[skills/professional-practice/human-centered-design/user-experience/competencies/L1-purpose-of-solution-interviews-and-usability-testing|L1-purpose-of-solution-interviews-and-usability-testing]]"
+  - "[[L2-discover-requirements|L2-discover-requirements]]"
+  - "[[L1-purpose-of-solution-interviews-and-usability-testing|L1-purpose-of-solution-interviews-and-usability-testing]]"
   - "[[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L2-develop-and-manage-basic-project-plan]]"
   - "[[skills/professional-practice/engineering-practices/technical-communication/competencies/L3-present-functional-project|L3-present-functional-project]]"
 ---
@@ -46,7 +46,7 @@ A Product Manager is an entry-level information technology role focused on apply
 - [[skills/business/entrepreneurship/business-model-design/competencies/L2-lean-canvas-application|L3- Lean Canvas Application]]
 - [[skills/business/product-management/competitor-analysis/competencies/L3-analyze-competitors-and-alternatives|L4- Analyze Competitors and Alternatives]]
 - [[skills/business/product-management/feasibility-analysis/competencies/L3-analyze-risks-and-financial-returns|L4- Analyze Risks and Financial Returns]]
-- [[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-discover-requirements|L3- Discover Requirements]]
-- [[skills/professional-practice/human-centered-design/user-experience/competencies/L1-purpose-of-solution-interviews-and-usability-testing|L2- Purpose of Solution Interviews and Usability Testing]]
+- [[L2-discover-requirements|L3- Discover Requirements]]
+- [[L1-purpose-of-solution-interviews-and-usability-testing|L2- Purpose of Solution Interviews and Usability Testing]]
 - [[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L3- Develop and Manage Basic Project Plan]]
 - [[skills/professional-practice/engineering-practices/technical-communication/competencies/L3-present-functional-project|L5- Present Functional Project]]

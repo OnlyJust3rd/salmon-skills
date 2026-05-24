@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/separation-of-concerns-impact|separation-of-concerns-impact]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/separation-of-concerns-impact|separation-of-concerns-impact]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Impact of Separation of Concerns on System Design
@@ -75,4 +75,4 @@ Separation of Concerns is a cornerstone of good object-oriented design. By consc
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/separation-of-concerns-impact|Separation of Concerns Impact]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/separation-of-concerns-impact|Separation of Concerns Impact]]

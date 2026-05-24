@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/software-component-structuring|software-component-structuring]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/software-component-structuring|software-component-structuring]]"
 learning-time-in-minutes: 4
 ---
 # Structuring Software Components for Clarity
@@ -82,4 +82,4 @@ Effective software component structuring is a cornerstone of good object-oriente
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/software-component-structuring|Software Component Structuring]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/software-component-structuring|Software Component Structuring]]

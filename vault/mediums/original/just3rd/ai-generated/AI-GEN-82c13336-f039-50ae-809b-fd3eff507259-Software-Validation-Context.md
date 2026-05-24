@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/software-validation-context|software-validation-context]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-validation-context|software-validation-context]]"
 learning-time-in-minutes: 4
 ---
 # Software Validation: Are We Building the Right Product?
@@ -58,4 +58,4 @@ By focusing on whether the software meets user needs and achieves its intended p
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/software-validation-context|Software Validation Context]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-validation-context|Software Validation Context]]

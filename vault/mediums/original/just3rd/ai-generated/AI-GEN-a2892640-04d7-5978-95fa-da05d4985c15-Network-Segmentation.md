@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-segmentation|network-segmentation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-segmentation|network-segmentation]]"
 learning-time-in-minutes: 5
 ---
 # Network Segmentation with VLANs
@@ -74,5 +74,5 @@ Understanding VLANs is a crucial step in mastering network routing and switching
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-segmentation|Network Segmentation]]
-- [[skills/computing/systems-infrastructure/networking/routing-and-switching/microskills/network-segmentation|Network Segmentation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-segmentation|Network Segmentation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/network-segmentation|Network Segmentation]]

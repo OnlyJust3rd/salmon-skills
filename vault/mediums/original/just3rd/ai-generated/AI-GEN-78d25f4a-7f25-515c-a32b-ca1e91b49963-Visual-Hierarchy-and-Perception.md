@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Visual Hierarchy: Guiding the User's Eye"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/visual-hierarchy-and-perception|visual-hierarchy-and-perception]]"
+outcome: "[[visual-hierarchy-and-perception|visual-hierarchy-and-perception]]"
 learning-time-in-minutes: 5
 ---
 # Visual Hierarchy: Guiding the User's Eye
@@ -103,4 +103,4 @@ By understanding and applying the principles of visual hierarchy, you can create
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/visual-hierarchy-and-perception|Visual Hierarchy and Perception]]
+- [[visual-hierarchy-and-perception|Visual Hierarchy and Perception]]

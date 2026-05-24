@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/network-latency-alerts|network-latency-alerts]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/network-latency-alerts|network-latency-alerts]]"
 learning-time-in-minutes: 5
 ---
 # Network Latency Alerts
@@ -86,4 +86,4 @@ Understanding network latency and the types of events that signal its increase i
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/network-latency-alerts|Network Latency Alerts]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/network-latency-alerts|Network Latency Alerts]]

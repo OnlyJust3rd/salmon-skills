@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding User Interface Elements"
+type: medium
+title: Understanding User Interface Elements
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/user-interface-elements|user-interface-elements]]"
+outcome: "[[user-interface-elements|user-interface-elements]]"
 learning-time-in-minutes: 4
 ---
 # Understanding User Interface Elements
@@ -76,4 +76,4 @@ Recognizing these common elements is the first critical step in your journey to 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/user-interface-elements|User Interface Elements]]
+- [[user-interface-elements|User Interface Elements]]

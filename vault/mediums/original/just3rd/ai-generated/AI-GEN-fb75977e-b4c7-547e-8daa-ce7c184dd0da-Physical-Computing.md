@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Physical Computing with Arduino: Bringing Ideas to Life"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/physical-computing|physical-computing]]"
+outcome: "[[physical-computing|physical-computing]]"
 learning-time-in-minutes: 5
 ---
 # Physical Computing with Arduino: Bringing Ideas to Life
@@ -113,4 +113,4 @@ By understanding how to connect components and write basic code, you are applyin
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/physical-computing|Physical Computing]]
+- [[physical-computing|Physical Computing]]

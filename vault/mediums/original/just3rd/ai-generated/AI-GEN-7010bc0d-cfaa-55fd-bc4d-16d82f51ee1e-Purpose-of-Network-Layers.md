@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/computer-network-architecture/microskills/purpose-of-network-layers|purpose-of-network-layers]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/microskills/purpose-of-network-layers|purpose-of-network-layers]]"
 learning-time-in-minutes: 4
 ---
 # The Purpose of Network Layers
@@ -55,4 +55,4 @@ Think about using a web browser to visit a website.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/computer-network-architecture/microskills/purpose-of-network-layers|Purpose of Network Layers]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/microskills/purpose-of-network-layers|Purpose of Network Layers]]

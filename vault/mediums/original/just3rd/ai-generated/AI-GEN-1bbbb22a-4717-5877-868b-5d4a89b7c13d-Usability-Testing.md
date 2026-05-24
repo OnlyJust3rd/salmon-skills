@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Conducting a Usability Test"
+type: medium
+title: Conducting a Usability Test
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/usability-testing|usability-testing]]"
+outcome: "[[usability-testing|usability-testing]]"
 learning-time-in-minutes: 5
 ---
 # Conducting a Usability Test
@@ -139,4 +139,4 @@ By systematically applying these steps, you can effectively conduct usability te
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/usability-testing|Usability Testing]]
+- [[usability-testing|Usability Testing]]

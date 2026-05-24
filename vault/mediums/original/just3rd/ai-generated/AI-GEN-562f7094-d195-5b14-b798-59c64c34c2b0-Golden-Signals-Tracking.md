@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/golden-signals-tracking|golden-signals-tracking]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/golden-signals-tracking|golden-signals-tracking]]"
 learning-time-in-minutes: 5
 ---
 # Tracking the Golden Signals: Latency, Traffic, Errors, and Saturation
@@ -150,4 +150,4 @@ By actively monitoring and understanding these four Golden Signals, you gain the
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/golden-signals-tracking|Golden Signals Tracking]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/golden-signals-tracking|Golden Signals Tracking]]

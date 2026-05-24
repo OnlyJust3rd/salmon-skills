@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/hold-and-wait-condition|hold-and-wait-condition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/hold-and-wait-condition|hold-and-wait-condition]]"
 learning-time-in-minutes: 2
 ---
 # Hold and Wait Condition
@@ -53,4 +53,4 @@ For example, consider a word processor saving a document. It needs access to the
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/hold-and-wait-condition|Hold and Wait Condition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/hold-and-wait-condition|Hold and Wait Condition]]

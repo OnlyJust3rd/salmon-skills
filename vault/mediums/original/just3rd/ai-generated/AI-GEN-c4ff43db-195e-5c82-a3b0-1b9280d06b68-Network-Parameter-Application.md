@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-performance/microskills/network-parameter-application|network-parameter-application]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-parameter-application|network-parameter-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Network Parameters to Calculate Performance Metrics
@@ -139,4 +139,4 @@ Use the formulas and steps provided above to solve this. Good luck!
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-performance/microskills/network-parameter-application|Network Parameter Application]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-parameter-application|Network Parameter Application]]

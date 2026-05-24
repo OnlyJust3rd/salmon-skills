@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/pay-per-execution|pay-per-execution]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/pay-per-execution|pay-per-execution]]"
 learning-time-in-minutes: 4
 ---
 # Pay-per-Execution: The Serverless Pricing Revolution
@@ -65,4 +65,4 @@ By understanding and embracing the Pay-per-Execution model, you can leverage ser
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/pay-per-execution|Pay-per-Execution]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/pay-per-execution|Pay-per-Execution]]

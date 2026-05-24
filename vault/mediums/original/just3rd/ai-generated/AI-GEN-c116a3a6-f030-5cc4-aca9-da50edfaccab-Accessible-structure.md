@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/html/microskills/accessible-structure|accessible-structure]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/html/microskills/accessible-structure|accessible-structure]]"
 learning-time-in-minutes: 5
 ---
 # Accessible Structure with HTML Landmarks and Labels
@@ -149,4 +149,4 @@ By applying these landmark elements and considering ARIA labels where necessary,
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/html/microskills/accessible-structure|Accessible structure]]
+- [[skills/computing/software-engineering/frontend-development/html/microskills/accessible-structure|Accessible structure]]

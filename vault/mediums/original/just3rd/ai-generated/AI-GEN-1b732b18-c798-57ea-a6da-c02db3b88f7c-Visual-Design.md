@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Visual Design in UX Workflows"
+type: medium
+title: Understanding Visual Design in UX Workflows
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/visual-design|visual-design]]"
+outcome: "[[visual-design|visual-design]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Visual Design in UX Workflows
@@ -76,4 +76,4 @@ By remembering these core elements of visual design, you can better understand h
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/visual-design|Visual Design]]
+- [[visual-design|Visual Design]]

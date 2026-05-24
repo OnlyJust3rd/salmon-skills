@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/design-approach-comparison|design-approach-comparison]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-approach-comparison|design-approach-comparison]]"
 learning-time-in-minutes: 7
 ---
 # Comparing Object-Oriented Design Approaches
@@ -132,4 +132,4 @@ By understanding these different approaches and their strengths, you can begin t
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/design-approach-comparison|Design Approach Comparison]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-approach-comparison|Design Approach Comparison]]

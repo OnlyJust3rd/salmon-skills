@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Visual Aesthetics in User Interface Design"
+type: medium
+title: Visual Aesthetics in User Interface Design
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/visual-aesthetics-impact|visual-aesthetics-impact]]"
+outcome: "[[visual-aesthetics-impact|visual-aesthetics-impact]]"
 learning-time-in-minutes: 4
 ---
 # Visual Aesthetics in User Interface Design
@@ -86,4 +86,4 @@ Visual aesthetics are not merely decorative; they are functional components of U
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/visual-aesthetics-impact|Visual Aesthetics Impact]]
+- [[visual-aesthetics-impact|Visual Aesthetics Impact]]

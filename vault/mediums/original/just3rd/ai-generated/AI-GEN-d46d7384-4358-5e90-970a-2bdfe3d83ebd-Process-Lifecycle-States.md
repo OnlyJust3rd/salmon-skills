@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|process-lifecycle-states]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|process-lifecycle-states]]"
 learning-time-in-minutes: 4
 ---
 # The Journey of a Program: Understanding Process States
@@ -69,4 +69,4 @@ By comprehending the process lifecycle, you gain a foundational understanding of
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|Process Lifecycle States]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|Process Lifecycle States]]

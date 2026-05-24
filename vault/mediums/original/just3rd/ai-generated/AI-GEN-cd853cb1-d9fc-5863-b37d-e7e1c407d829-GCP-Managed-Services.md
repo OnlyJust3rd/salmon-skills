@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-managed-services|gcp-managed-services]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-managed-services|gcp-managed-services]]"
 learning-time-in-minutes: 5
 ---
 # Understanding GCP Managed Services
@@ -86,4 +86,4 @@ GCP's managed services are a powerful way to build and deploy applications effic
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-managed-services|GCP Managed Services]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-managed-services|GCP Managed Services]]

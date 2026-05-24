@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/interdomain-scalability-limitations|interdomain-scalability-limitations]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-scalability-limitations|interdomain-scalability-limitations]]"
 learning-time-in-minutes: 4
 ---
 # Interdomain Scalability Limitations
@@ -73,4 +73,4 @@ Understanding these constraints is crucial for anyone working with large-scale n
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/interdomain-scalability-limitations|Interdomain Scalability Limitations]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-scalability-limitations|Interdomain Scalability Limitations]]

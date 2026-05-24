@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/threshold-configuration|threshold-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/threshold-configuration|threshold-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Threshold Configuration for Infrastructure Alerting
@@ -101,4 +101,4 @@ By carefully considering the metric, its typical behavior, and the desired respo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/threshold-configuration|Threshold Configuration]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/threshold-configuration|Threshold Configuration]]

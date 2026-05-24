@@ -6,8 +6,8 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/competencies/L1-explain-agentic-coding-workflow-concepts|L1-explain-agentic-coding-workflow-concepts]]"
-  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
-  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/agentic-coding-workflows|agentic-coding-workflows]]"
@@ -30,8 +30,8 @@ Apply agentic coding task decomposition and review.
 ## Strict Prerequisites
 
 - [[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/competencies/L1-explain-agentic-coding-workflow-concepts|L2- Explain Agentic Coding Workflow Concepts]]
-- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
-- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
 
 ## Optional Prerequisites
 

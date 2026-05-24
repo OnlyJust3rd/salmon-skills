@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Component Selection: Building Blocks for Your Interfaces"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/design-systems/microskills/component-selection|component-selection]]"
+outcome: "[[component-selection|component-selection]]"
 learning-time-in-minutes: 5
 ---
 # Component Selection: Building Blocks for Your Interfaces
@@ -85,4 +85,4 @@ By diligently following the steps of understanding the need, consulting your des
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/design-systems/microskills/component-selection|Component Selection]]
+- [[component-selection|Component Selection]]

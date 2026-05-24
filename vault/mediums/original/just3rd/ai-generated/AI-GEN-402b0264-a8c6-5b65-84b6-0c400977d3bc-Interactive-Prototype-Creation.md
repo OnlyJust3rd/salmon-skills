@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Interactive Prototype Creation"
+type: medium
+title: Interactive Prototype Creation
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/interactive-prototype-creation|interactive-prototype-creation]]"
+outcome: "[[interactive-prototype-creation|interactive-prototype-creation]]"
 learning-time-in-minutes: 5
 ---
 # Interactive Prototype Creation
@@ -117,4 +117,4 @@ By creating and testing interactive prototypes, you can effectively *apply* your
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/interactive-prototype-creation|Interactive Prototype Creation]]
+- [[interactive-prototype-creation|Interactive Prototype Creation]]

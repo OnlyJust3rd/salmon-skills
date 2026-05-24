@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Identifying Trends and Patterns in Usability Data"
+type: medium
+title: Identifying Trends and Patterns in Usability Data
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/trend-and-pattern-identification|trend-and-pattern-identification]]"
+outcome: "[[trend-and-pattern-identification|trend-and-pattern-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Trends and Patterns in Usability Data
@@ -94,4 +94,4 @@ By systematically looking for and analyzing trends and patterns, you transform r
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/trend-and-pattern-identification|Trend and Pattern Identification]]
+- [[trend-and-pattern-identification|Trend and Pattern Identification]]

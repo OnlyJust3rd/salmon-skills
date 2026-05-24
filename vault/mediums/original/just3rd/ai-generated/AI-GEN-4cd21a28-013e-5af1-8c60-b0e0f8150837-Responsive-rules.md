@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/css/microskills/responsive-rules|responsive-rules]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/responsive-rules|responsive-rules]]"
 learning-time-in-minutes: 2
 ---
 # Responsive Rules with Media Queries
@@ -115,4 +115,4 @@ In this example:
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/css/microskills/responsive-rules|Responsive rules]]
+- [[skills/computing/software-engineering/frontend-development/css/microskills/responsive-rules|Responsive rules]]

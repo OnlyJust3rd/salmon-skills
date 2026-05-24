@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "The Journey of User Interfaces: From Commands to Conversations"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/interface-evolution|interface-evolution]]"
+outcome: "[[interface-evolution|interface-evolution]]"
 learning-time-in-minutes: 4
 ---
 # The Journey of User Interfaces: From Commands to Conversations
@@ -81,4 +81,4 @@ The evolution of interfaces is a continuous journey driven by the desire to make
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/interface-evolution|Interface Evolution]]
+- [[interface-evolution|Interface Evolution]]

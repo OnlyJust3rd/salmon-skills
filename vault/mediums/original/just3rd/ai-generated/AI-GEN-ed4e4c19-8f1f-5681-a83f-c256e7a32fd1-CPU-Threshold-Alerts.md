@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/cpu-threshold-alerts|cpu-threshold-alerts]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/cpu-threshold-alerts|cpu-threshold-alerts]]"
 learning-time-in-minutes: 4
 ---
 # CPU Threshold Alerts
@@ -74,4 +74,4 @@ By understanding what CPU threshold alerts are, you are taking the first step in
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/cpu-threshold-alerts|CPU Threshold Alerts]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/cpu-threshold-alerts|CPU Threshold Alerts]]

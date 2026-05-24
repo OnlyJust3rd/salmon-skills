@@ -1,10 +1,10 @@
 ---
-type: "career"
-title: "System Analyst"
-level: "entry-level"
+type: career
+title: System Analyst
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
+  - career
+  - information-technology
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-elicit-requirements-and-create-use-case-diagrams|L2-elicit-requirements-and-create-use-case-diagrams]]"
@@ -15,7 +15,7 @@ required-competencies:
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L2-apply-bpmn-process-modeling]]"
   - "[[skills/computing/data-ai/databases/database-system/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
   - "[[skills/computing/data-ai/databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
-  - "[[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-define-user-requirements|L2-define-user-requirements]]"
+  - "[[L2-define-user-requirements|L2-define-user-requirements]]"
   - "[[skills/professional-practice/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1-define-and-communicate-technical-reports]]"
   - "[[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L2-develop-and-manage-basic-project-plan]]"
 ---
@@ -45,6 +45,6 @@ A System Analyst is an entry-level information technology role focused on applyi
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L3- Apply BPMN Process Modeling]]
 - [[skills/computing/data-ai/databases/database-system/competencies/L1-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
 - [[skills/computing/data-ai/databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
-- [[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-define-user-requirements|L3- Define User Requirements]]
+- [[L2-define-user-requirements|L3- Define User Requirements]]
 - [[skills/professional-practice/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1- Define and Communicate Technical Reports]]
 - [[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L3- Develop and Manage Basic Project Plan]]

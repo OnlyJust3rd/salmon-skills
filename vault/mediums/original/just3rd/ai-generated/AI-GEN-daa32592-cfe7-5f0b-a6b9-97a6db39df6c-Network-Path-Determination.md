@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-path-determination|network-path-determination]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-path-determination|network-path-determination]]"
 learning-time-in-minutes: 5
 ---
 # Navigating the Network: How Data Finds Its Way
@@ -72,4 +72,4 @@ This step-by-step process, guided by IP addresses and routing tables, is how dat
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-path-determination|Network Path Determination]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-path-determination|Network Path Determination]]

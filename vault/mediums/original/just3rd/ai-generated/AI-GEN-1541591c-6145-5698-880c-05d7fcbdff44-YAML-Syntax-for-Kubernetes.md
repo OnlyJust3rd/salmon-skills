@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/yaml-syntax-for-kubernetes|yaml-syntax-for-kubernetes]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/yaml-syntax-for-kubernetes|yaml-syntax-for-kubernetes]]"
 learning-time-in-minutes: 3
 ---
 # YAML Syntax for Kubernetes Pods
@@ -96,4 +96,4 @@ By mastering these basic YAML syntax rules, you lay the foundation for effective
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/yaml-syntax-for-kubernetes|YAML Syntax for Kubernetes]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/yaml-syntax-for-kubernetes|YAML Syntax for Kubernetes]]

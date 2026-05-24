@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Capturing Collaboration Feedback: Figma's Design Comment Feature"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/figma/microskills/design-comment|design-comment]]"
+outcome: "[[design-comment|design-comment]]"
 learning-time-in-minutes: 4
 ---
 # Capturing Collaboration Feedback: Figma's Design Comment Feature
@@ -63,4 +63,4 @@ By effectively using Figma's Design Comment feature, you transform static design
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/figma/microskills/design-comment|Design Comment]]
+- [[design-comment|Design Comment]]

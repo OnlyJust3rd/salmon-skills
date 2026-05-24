@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Interface Prototyping: Bringing Your Designs to Life"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/interface-prototyping|interface-prototyping]]"
+outcome: "[[interface-prototyping|interface-prototyping]]"
 learning-time-in-minutes: 6
 ---
 # Interface Prototyping: Bringing Your Designs to Life
@@ -119,4 +119,4 @@ By mastering interface prototyping, you gain a powerful tool to translate comple
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/interface-prototyping|Interface Prototyping]]
+- [[interface-prototyping|Interface Prototyping]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|sjf-algorithm-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|sjf-algorithm-principles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Shortest Job First (SJF) Algorithm
@@ -64,4 +64,4 @@ Using the **non-preemptive SJF** algorithm, determine the order in which these p
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|SJF Algorithm Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|SJF Algorithm Principles]]

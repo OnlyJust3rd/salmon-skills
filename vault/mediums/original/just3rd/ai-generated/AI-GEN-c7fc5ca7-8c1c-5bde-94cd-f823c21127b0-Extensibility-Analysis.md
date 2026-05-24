@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/extensibility-analysis|extensibility-analysis]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/extensibility-analysis|extensibility-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Extensibility in Object-Oriented Design
@@ -144,4 +144,4 @@ By critically examining these aspects of an OO design, you can predict how adapt
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/extensibility-analysis|Extensibility Analysis]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/extensibility-analysis|Extensibility Analysis]]

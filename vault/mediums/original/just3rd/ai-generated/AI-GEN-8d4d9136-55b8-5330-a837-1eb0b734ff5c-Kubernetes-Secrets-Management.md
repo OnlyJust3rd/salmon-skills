@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-secrets-management|kubernetes-secrets-management]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-secrets-management|kubernetes-secrets-management]]"
 learning-time-in-minutes: 5
 ---
 # Kubernetes Secrets Management
@@ -218,4 +218,4 @@ By mastering Kubernetes Secrets, you significantly enhance the security posture 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-secrets-management|Kubernetes Secrets Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-secrets-management|Kubernetes Secrets Management]]

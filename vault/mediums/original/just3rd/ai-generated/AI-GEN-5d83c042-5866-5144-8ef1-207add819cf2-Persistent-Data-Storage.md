@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/persistent-data-storage|persistent-data-storage]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/persistent-data-storage|persistent-data-storage]]"
 learning-time-in-minutes: 4
 ---
 # Persistent Data Storage with Docker Volumes
@@ -149,4 +149,4 @@ Docker volumes are an essential tool for building robust and stateful containeri
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/persistent-data-storage|Persistent Data Storage]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/persistent-data-storage|Persistent Data Storage]]

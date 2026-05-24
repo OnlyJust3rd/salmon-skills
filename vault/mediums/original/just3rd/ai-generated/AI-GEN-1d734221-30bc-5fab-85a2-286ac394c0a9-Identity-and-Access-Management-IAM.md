@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/identity-and-access-management-iam|identity-and-access-management-iam]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/identity-and-access-management-iam|identity-and-access-management-iam]]"
 learning-time-in-minutes: 3
 ---
 # Mastering Identity and Access Management (IAM) Policies
@@ -91,4 +91,4 @@ Navigate to your cloud provider's IAM console.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/identity-and-access-management-iam|Identity and Access Management (IAM)]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/identity-and-access-management-iam|Identity and Access Management (IAM)]]

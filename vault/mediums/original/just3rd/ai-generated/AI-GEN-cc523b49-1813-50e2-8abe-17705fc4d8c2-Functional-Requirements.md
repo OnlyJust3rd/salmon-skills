@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Defining Functional Requirements for Computer-Based Devices"
+type: medium
+title: Defining Functional Requirements for Computer-Based Devices
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/functional-requirements|functional-requirements]]"
+outcome: "[[functional-requirements|functional-requirements]]"
 learning-time-in-minutes: 4
 ---
 # Defining Functional Requirements for Computer-Based Devices
@@ -103,4 +103,4 @@ By systematically defining functional requirements, you build a strong blueprint
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/functional-requirements|Functional Requirements]]
+- [[functional-requirements|Functional Requirements]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-rm-command|docker-rm-command]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-rm-command|docker-rm-command]]"
 learning-time-in-minutes: 3
 ---
 # Removing Docker Containers with `docker rm`
@@ -123,4 +123,4 @@ Mastering these fundamental commands like `docker rm` is a key step in effective
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-rm-command|Docker Rm Command]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-rm-command|Docker Rm Command]]

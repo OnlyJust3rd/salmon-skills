@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-management-terms|memory-management-terms]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-terms|memory-management-terms]]"
 learning-time-in-minutes: 5
 ---
 # Operating System: Understanding Memory Management Terms
@@ -81,4 +81,4 @@ Understanding these terms provides a solid foundation for exploring more advance
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-management-terms|Memory Management Terms]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-terms|Memory Management Terms]]

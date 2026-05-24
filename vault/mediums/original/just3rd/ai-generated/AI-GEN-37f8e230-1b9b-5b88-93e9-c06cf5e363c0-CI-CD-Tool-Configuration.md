@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/ci-cd-tool-configuration|ci-cd-tool-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-tool-configuration|ci-cd-tool-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Configuring CI/CD Tools for Serverless Deployments
@@ -141,4 +141,4 @@ Configuring CI/CD tools is a fundamental skill for implementing serverless deplo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-ci-cd/microskills/ci-cd-tool-configuration|CI/CD Tool Configuration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-tool-configuration|CI/CD Tool Configuration]]

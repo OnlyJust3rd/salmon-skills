@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/network-interaction-patterns|network-interaction-patterns]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/network-interaction-patterns|network-interaction-patterns]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Network Interaction Patterns: The Socket Model
@@ -79,4 +79,4 @@ By grasping how clients and servers interact through sockets, you build a founda
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/network-interaction-patterns|Network Interaction Patterns]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/network-interaction-patterns|Network Interaction Patterns]]

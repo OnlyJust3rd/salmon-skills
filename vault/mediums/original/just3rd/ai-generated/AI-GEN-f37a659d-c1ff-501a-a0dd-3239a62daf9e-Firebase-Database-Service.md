@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/firebase-database-service|firebase-database-service]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-database-service|firebase-database-service]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Firebase Database Services
@@ -131,4 +131,4 @@ Understanding these core concepts will help you choose the right Firebase databa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/firebase-database-service|Firebase Database Service]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-database-service|Firebase Database Service]]

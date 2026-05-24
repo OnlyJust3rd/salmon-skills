@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/loader-and-linker-processes|loader-and-linker-processes]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/loader-and-linker-processes|loader-and-linker-processes]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Loader and Linker Processes
@@ -89,4 +89,4 @@ By understanding the distinct roles of the linker and the loader, you gain a cle
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/loader-and-linker-processes|Loader and Linker Processes]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/loader-and-linker-processes|Loader and Linker Processes]]

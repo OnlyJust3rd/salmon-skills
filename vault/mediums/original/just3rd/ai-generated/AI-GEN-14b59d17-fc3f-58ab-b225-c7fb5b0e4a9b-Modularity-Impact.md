@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/modularity-impact|modularity-impact]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modularity-impact|modularity-impact]]"
 learning-time-in-minutes: 5
 ---
 # The Impact of Modularity on System Design
@@ -88,4 +88,4 @@ Modularity is a cornerstone of effective object-oriented design. By breaking dow
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/modularity-impact|Modularity Impact]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modularity-impact|Modularity Impact]]

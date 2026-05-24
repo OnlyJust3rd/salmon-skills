@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/created-container-state|created-container-state]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/created-container-state|created-container-state]]"
 learning-time-in-minutes: 3
 ---
 # Docker: The "Created" Container State
@@ -76,4 +76,4 @@ Understanding the "created" state is the first step in grasping the full lifecyc
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/created-container-state|Created Container State]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/created-container-state|Created Container State]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/uat-execution-and-feedback|uat-execution-and-feedback]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/uat-execution-and-feedback|uat-execution-and-feedback]]"
 learning-time-in-minutes: 5
 ---
 # Executing User Acceptance Testing (UAT) and Gathering Feedback
@@ -85,4 +85,4 @@ By diligently executing UAT sessions and meticulously recording user feedback, y
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/uat-execution-and-feedback|UAT execution and feedback]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/uat-execution-and-feedback|UAT execution and feedback]]

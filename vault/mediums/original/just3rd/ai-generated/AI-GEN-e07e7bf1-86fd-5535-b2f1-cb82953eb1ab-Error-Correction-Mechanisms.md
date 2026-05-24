@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/error-correction-mechanisms|error-correction-mechanisms]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/error-correction-mechanisms|error-correction-mechanisms]]"
 learning-time-in-minutes: 4
 ---
 # Error Correction Mechanisms
@@ -68,4 +68,4 @@ Imagine you are designing a simple communication system for sending a 3-bit mess
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/error-correction-mechanisms|Error Correction Mechanisms]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/error-correction-mechanisms|Error Correction Mechanisms]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-connectivity|network-connectivity]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-connectivity|network-connectivity]]"
 learning-time-in-minutes: 5
 ---
 # Network Connectivity: Linking Your Local Networks
@@ -65,4 +65,4 @@ Based on what you've learned, describe which device (router, Layer 3 switch, or 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-connectivity|Network Connectivity]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-connectivity|Network Connectivity]]

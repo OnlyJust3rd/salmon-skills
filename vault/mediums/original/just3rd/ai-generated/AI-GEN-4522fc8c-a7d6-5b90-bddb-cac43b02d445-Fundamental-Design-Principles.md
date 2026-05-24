@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Fundamental Design Principles"
+type: medium
+title: Fundamental Design Principles
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/fundamental-design-principles|fundamental-design-principles]]"
+outcome: "[[fundamental-design-principles|fundamental-design-principles]]"
 learning-time-in-minutes: 4
 ---
 # Fundamental Design Principles
@@ -79,4 +79,4 @@ Your goal at this stage is to be able to **recall** these fundamental principles
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/fundamental-design-principles|Fundamental Design Principles]]
+- [[fundamental-design-principles|Fundamental Design Principles]]

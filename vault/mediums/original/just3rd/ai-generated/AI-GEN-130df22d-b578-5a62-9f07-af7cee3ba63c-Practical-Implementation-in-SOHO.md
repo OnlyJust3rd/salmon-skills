@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management/microskills/practical-implementation-in-soho|practical-implementation-in-soho]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/practical-implementation-in-soho|practical-implementation-in-soho]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Network Management in Your Home or Small Office (SOHO)
@@ -103,4 +103,4 @@ By understanding these practical applications, you can effectively manage your S
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management/microskills/practical-implementation-in-soho|Practical Implementation in SOHO]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/practical-implementation-in-soho|Practical Implementation in SOHO]]

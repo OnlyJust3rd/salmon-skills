@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/critical-section-identification|critical-section-identification]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/critical-section-identification|critical-section-identification]]"
 learning-time-in-minutes: 2
 ---
 # Identifying Critical Sections
@@ -85,4 +85,4 @@ What is the critical section in this `process_data` function?
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/critical-section-identification|Critical Section Identification]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/critical-section-identification|Critical Section Identification]]

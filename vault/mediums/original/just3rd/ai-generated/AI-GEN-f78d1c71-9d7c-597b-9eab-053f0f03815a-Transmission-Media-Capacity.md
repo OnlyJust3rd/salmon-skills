@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/transmission-media-capacity|transmission-media-capacity]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/transmission-media-capacity|transmission-media-capacity]]"
 learning-time-in-minutes: 6
 ---
 # Transmission Media Capacity and Multiplexing
@@ -81,4 +81,4 @@ Understanding how these techniques work allows us to appreciate how efficient ne
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/transmission-media-capacity|Transmission Media Capacity]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/transmission-media-capacity|Transmission Media Capacity]]

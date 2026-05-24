@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-resource-application|kubernetes-resource-application]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-resource-application|kubernetes-resource-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying Kubernetes Deployment Configurations
@@ -124,4 +124,4 @@ kubectl rollout status deployment/my-nginx-deployment
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-resource-application|Kubernetes Resource Application]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-resource-application|Kubernetes Resource Application]]

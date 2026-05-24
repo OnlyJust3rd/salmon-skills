@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Reducing Sequence-Dependent Bias in Usability Studies"
+type: medium
+title: Reducing Sequence-Dependent Bias in Usability Studies
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/sequence-dependent-bias-reduction|sequence-dependent-bias-reduction]]"
+outcome: "[[sequence-dependent-bias-reduction|sequence-dependent-bias-reduction]]"
 learning-time-in-minutes: 6
 ---
 # Reducing Sequence-Dependent Bias in Usability Studies
@@ -136,4 +136,4 @@ By systematically arranging the order of conditions in your usability studies, y
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/sequence-dependent-bias-reduction|Sequence-Dependent Bias Reduction]]
+- [[sequence-dependent-bias-reduction|Sequence-Dependent Bias Reduction]]

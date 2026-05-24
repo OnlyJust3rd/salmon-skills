@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/transport-layer/microskills/udp-characteristics|udp-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/udp-characteristics|udp-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # UDP Characteristics: The Lightweight of the Transport Layer
@@ -85,4 +85,4 @@ By understanding these characteristics, you can better analyze scenarios where U
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/transport-layer/microskills/udp-characteristics|UDP Characteristics]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/udp-characteristics|UDP Characteristics]]

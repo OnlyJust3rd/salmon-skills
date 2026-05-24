@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/code-smell-identification|code-smell-identification]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-smell-identification|code-smell-identification]]"
 learning-time-in-minutes: 4
 ---
 # Recognizing Code Smells
@@ -160,4 +160,4 @@ By familiarizing yourself with these common code smells, you'll develop a strong
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/code-smell-identification|Code Smell Identification]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/code-smell-identification|Code Smell Identification]]

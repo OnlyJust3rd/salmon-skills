@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Experimental Effects Mitigation in Usability Evaluation"
+type: medium
+title: Experimental Effects Mitigation in Usability Evaluation
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/experimental-effects-mitigation|experimental-effects-mitigation]]"
+outcome: "[[experimental-effects-mitigation|experimental-effects-mitigation]]"
 learning-time-in-minutes: 5
 ---
 # Experimental Effects Mitigation in Usability Evaluation
@@ -95,4 +95,4 @@ By actively applying these mitigation strategies, you can conduct more robust us
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/experimental-effects-mitigation|Experimental Effects Mitigation]]
+- [[experimental-effects-mitigation|Experimental Effects Mitigation]]

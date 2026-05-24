@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/key-infrastructure-metrics-tracking|key-infrastructure-metrics-tracking]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/key-infrastructure-metrics-tracking|key-infrastructure-metrics-tracking]]"
 learning-time-in-minutes: 4
 ---
 # Tracking Key Infrastructure Metrics
@@ -126,4 +126,4 @@ By regularly checking these metrics, you'll develop an intuition for what "norma
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/key-infrastructure-metrics-tracking|Key Infrastructure Metrics Tracking]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/key-infrastructure-metrics-tracking|Key Infrastructure Metrics Tracking]]

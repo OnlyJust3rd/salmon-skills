@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-creation-commands|file-creation-commands]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-creation-commands|file-creation-commands]]"
 learning-time-in-minutes: 4
 ---
 # Creating Files with Commands
@@ -162,4 +162,4 @@ By mastering these basic file creation commands, you gain a powerful ability to 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-creation-commands|File Creation Commands]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-creation-commands|File Creation Commands]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/cloud-infrastructure-architecture|cloud-infrastructure-architecture]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/cloud-infrastructure-architecture|cloud-infrastructure-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Cloud Infrastructure Architecture: Putting the Pieces Together
@@ -64,4 +64,4 @@ Research the regions and Availability Zones offered by a major cloud provider (e
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/cloud-infrastructure-architecture|Cloud Infrastructure Architecture]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/cloud-infrastructure-architecture|Cloud Infrastructure Architecture]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/root-bridge-election|root-bridge-election]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/root-bridge-election|root-bridge-election]]"
 learning-time-in-minutes: 4
 ---
 # Root Bridge Election: The First Step in STP
@@ -77,4 +77,4 @@ Which switch will be elected as the Root Bridge? Explain your reasoning based on
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/root-bridge-election|Root Bridge Election]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/root-bridge-election|Root Bridge Election]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/condition-variable-operations|condition-variable-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/condition-variable-operations|condition-variable-operations]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Condition Variables
@@ -80,4 +80,4 @@ Imagine a scenario with multiple worker threads that need to process tasks from 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/condition-variable-operations|Condition Variable Operations]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/condition-variable-operations|Condition Variable Operations]]

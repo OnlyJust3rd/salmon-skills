@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/application-error-rate-alerts|application-error-rate-alerts]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/application-error-rate-alerts|application-error-rate-alerts]]"
 learning-time-in-minutes: 4
 ---
 # Application Error Rate Alerts
@@ -77,4 +77,4 @@ By understanding and recognizing Application Error Rate Alerts, you are taking t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/application-error-rate-alerts|Application Error Rate Alerts]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/application-error-rate-alerts|Application Error Rate Alerts]]

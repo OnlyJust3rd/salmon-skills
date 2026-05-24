@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-reading-commands|file-reading-commands]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-reading-commands|file-reading-commands]]"
 learning-time-in-minutes: 4
 ---
 # Reading Files with Command-Line Tools
@@ -152,4 +152,4 @@ By mastering these commands, you've taken a significant step in applying command
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/file-reading-commands|File Reading Commands]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-reading-commands|File Reading Commands]]

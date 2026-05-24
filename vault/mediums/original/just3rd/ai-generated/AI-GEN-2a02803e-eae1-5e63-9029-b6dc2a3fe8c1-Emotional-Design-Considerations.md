@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Emotional Design Considerations in UX"
+type: medium
+title: Emotional Design Considerations in UX
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/emotional-design-considerations|emotional-design-considerations]]"
+outcome: "[[emotional-design-considerations|emotional-design-considerations]]"
 learning-time-in-minutes: 5
 ---
 # Emotional Design Considerations in UX
@@ -98,4 +98,4 @@ By consciously considering these emotional aspects, you move beyond just functio
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/emotional-design-considerations|Emotional Design Considerations]]
+- [[emotional-design-considerations|Emotional Design Considerations]]

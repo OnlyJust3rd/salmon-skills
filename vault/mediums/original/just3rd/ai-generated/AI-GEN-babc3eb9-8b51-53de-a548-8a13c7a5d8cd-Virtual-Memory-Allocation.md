@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-memory-allocation|virtual-memory-allocation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-allocation|virtual-memory-allocation]]"
 learning-time-in-minutes: 4
 ---
 # Virtual Memory Allocation: Understanding How VMs Get Their RAM
@@ -56,4 +56,4 @@ By understanding the principles of virtual memory allocation, you gain a crucial
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-memory-allocation|Virtual Memory Allocation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-allocation|Virtual Memory Allocation]]

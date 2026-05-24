@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/fork-functionality|fork-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/fork-functionality|fork-functionality]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Process Duplication with `fork()`
@@ -103,4 +103,4 @@ Understanding `fork()` is a crucial step in grasping how UNIX processes are crea
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/fork-functionality|fork() Functionality]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/fork-functionality|fork() Functionality]]

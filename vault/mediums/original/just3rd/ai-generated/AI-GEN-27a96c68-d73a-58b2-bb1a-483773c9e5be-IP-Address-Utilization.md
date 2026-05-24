@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-address-utilization|ip-address-utilization]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-address-utilization|ip-address-utilization]]"
 learning-time-in-minutes: 5
 ---
 # IP Address Utilization: Guiding the Journey of Data
@@ -80,4 +80,4 @@ Understanding how IP addresses guide forwarding is fundamental to grasping how d
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-address-utilization|IP Address Utilization]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-address-utilization|IP Address Utilization]]

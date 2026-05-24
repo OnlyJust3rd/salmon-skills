@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/expected-output-definition|expected-output-definition]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/expected-output-definition|expected-output-definition]]"
 learning-time-in-minutes: 4
 ---
 # Defining Expected Outputs for Test Cases
@@ -117,4 +117,4 @@ By carefully defining the expected output for each test case, you create a clear
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/expected-output-definition|Expected output definition]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/expected-output-definition|Expected output definition]]

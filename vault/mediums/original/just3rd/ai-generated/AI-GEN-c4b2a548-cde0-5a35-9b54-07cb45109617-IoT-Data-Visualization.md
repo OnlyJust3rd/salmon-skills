@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/iot-data-visualization|iot-data-visualization]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-data-visualization|iot-data-visualization]]"
 learning-time-in-minutes: 5
 ---
 # Understanding IoT Data Visualization Tools
@@ -120,4 +120,4 @@ By understanding these tools and practicing with them, you'll be well on your wa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/iot-data-visualization|IoT Data Visualization]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-data-visualization|IoT Data Visualization]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-cpu-allocation|virtual-cpu-allocation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-cpu-allocation|virtual-cpu-allocation]]"
 learning-time-in-minutes: 5
 ---
 # Virtual CPU Allocation: Understanding How VMs Get Their Processing Power
@@ -68,4 +68,4 @@ Understanding virtual CPU allocation is fundamental to effective virtual resourc
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-cpu-allocation|Virtual CPU Allocation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-cpu-allocation|Virtual CPU Allocation]]

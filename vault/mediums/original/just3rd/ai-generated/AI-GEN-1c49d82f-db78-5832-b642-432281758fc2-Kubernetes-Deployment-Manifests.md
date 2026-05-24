@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-deployment-manifests|kubernetes-deployment-manifests]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-deployment-manifests|kubernetes-deployment-manifests]]"
 learning-time-in-minutes: 3
 ---
 # Kubernetes Deployment Manifests: Your Blueprint for Application Deployment
@@ -149,4 +149,4 @@ kubectl get pods
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-deployment-manifests|Kubernetes Deployment Manifests]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-deployment-manifests|Kubernetes Deployment Manifests]]

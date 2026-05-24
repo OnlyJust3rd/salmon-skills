@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-application-deployment|kubernetes-application-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-application-deployment|kubernetes-application-deployment]]"
 learning-time-in-minutes: 4
 ---
 # Deploying Applications with Helm: A Practical Guide
@@ -209,4 +209,4 @@ By mastering these Helm commands, you gain a powerful tool for managing your Kub
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-application-deployment|Kubernetes Application Deployment]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-application-deployment|Kubernetes Application Deployment]]

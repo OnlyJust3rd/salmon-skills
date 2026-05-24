@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/http-message-analysis|http-message-analysis]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/http-message-analysis|http-message-analysis]]"
 learning-time-in-minutes: 3
 ---
 # HTTP Message Analysis: Decoding the Web's Language
@@ -95,4 +95,4 @@ Use your browser's developer tools (usually by pressing F12) to inspect the netw
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/http-message-analysis|HTTP Message Analysis]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/http-message-analysis|HTTP Message Analysis]]

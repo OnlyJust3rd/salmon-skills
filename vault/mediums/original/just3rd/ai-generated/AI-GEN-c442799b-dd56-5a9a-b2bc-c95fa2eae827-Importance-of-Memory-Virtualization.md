@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/importance-of-memory-virtualization|importance-of-memory-virtualization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/importance-of-memory-virtualization|importance-of-memory-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # The Crucial Role of Memory Virtualization
@@ -65,4 +65,4 @@ Memory virtualization is a foundational element that enables the flexibility, ef
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/importance-of-memory-virtualization|Importance of Memory Virtualization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/importance-of-memory-virtualization|Importance of Memory Virtualization]]

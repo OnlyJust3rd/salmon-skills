@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-cronjob-configuration|kubernetes-cronjob-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cronjob-configuration|kubernetes-cronjob-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes CronJob Configuration
@@ -182,4 +182,4 @@ By mastering CronJob configuration, you can effectively automate routine tasks w
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-cronjob-configuration|Kubernetes CronJob Configuration]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cronjob-configuration|Kubernetes CronJob Configuration]]

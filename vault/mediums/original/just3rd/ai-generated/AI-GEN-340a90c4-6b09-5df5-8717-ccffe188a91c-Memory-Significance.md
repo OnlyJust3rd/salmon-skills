@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/memory-significance|memory-significance]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/memory-significance|memory-significance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Memory Significance
@@ -85,4 +85,4 @@ By understanding and monitoring these memory metrics, you can proactively identi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/memory-significance|Memory Significance]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/memory-significance|Memory Significance]]

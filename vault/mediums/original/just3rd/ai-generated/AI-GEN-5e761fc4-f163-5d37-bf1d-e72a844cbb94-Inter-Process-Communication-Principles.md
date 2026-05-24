@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/inter-process-communication-principles|inter-process-communication-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/inter-process-communication-principles|inter-process-communication-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Inter-Process Communication Principles
@@ -77,4 +77,4 @@ By grasping these fundamental principles – message passing, data handling, syn
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/inter-process-communication-principles|Inter-Process Communication Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/inter-process-communication-principles|Inter-Process Communication Principles]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/type-2-hypervisor-architecture|type-2-hypervisor-architecture]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-2-hypervisor-architecture|type-2-hypervisor-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Type-2 Hypervisor Architecture: The Hosted Approach
@@ -87,4 +87,4 @@ When you install VirtualBox on your Windows laptop, you're installing a Type-2 h
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/type-2-hypervisor-architecture|Type-2 Hypervisor Architecture]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-2-hypervisor-architecture|Type-2 Hypervisor Architecture]]

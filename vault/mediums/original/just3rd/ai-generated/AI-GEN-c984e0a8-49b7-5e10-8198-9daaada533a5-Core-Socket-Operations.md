@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/core-socket-operations|core-socket-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/core-socket-operations|core-socket-operations]]"
 learning-time-in-minutes: 4
 ---
 # Core Socket Operations
@@ -140,4 +140,4 @@ Understanding these fundamental functions is the first step in building robust n
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/core-socket-operations|Core Socket Operations]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/core-socket-operations|Core Socket Operations]]

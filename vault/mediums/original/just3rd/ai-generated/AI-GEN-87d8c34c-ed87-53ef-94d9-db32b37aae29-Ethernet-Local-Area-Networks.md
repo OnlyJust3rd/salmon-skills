@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/ethernet-local-area-networks|ethernet-local-area-networks]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/ethernet-local-area-networks|ethernet-local-area-networks]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Ethernet Local Area Networks (LANs)
@@ -56,4 +56,4 @@ Identify the devices in your own home or office that are connected via Ethernet 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/ethernet-local-area-networks|Ethernet Local Area Networks]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/ethernet-local-area-networks|Ethernet Local Area Networks]]

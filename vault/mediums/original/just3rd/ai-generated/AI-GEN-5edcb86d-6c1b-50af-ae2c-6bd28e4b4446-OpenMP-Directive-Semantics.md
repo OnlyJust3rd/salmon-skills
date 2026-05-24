@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/openmp/microskills/openmp-directive-semantics|openmp-directive-semantics]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-semantics|openmp-directive-semantics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding OpenMP Directive Semantics
@@ -153,4 +153,4 @@ Understanding the semantics of these directives and clauses is the first step to
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/openmp/microskills/openmp-directive-semantics|OpenMP Directive Semantics]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-semantics|OpenMP Directive Semantics]]

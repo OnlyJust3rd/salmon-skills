@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cloud-cost-management|cloud-cost-management]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-cost-management|cloud-cost-management]]"
 learning-time-in-minutes: 3
 ---
 # Cloud Cost Management: Tracking Your Cloud Spend
@@ -56,4 +56,4 @@ For your current or a past cloud project, try to identify one instance where you
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cloud-cost-management|Cloud Cost Management]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-cost-management|Cloud Cost Management]]

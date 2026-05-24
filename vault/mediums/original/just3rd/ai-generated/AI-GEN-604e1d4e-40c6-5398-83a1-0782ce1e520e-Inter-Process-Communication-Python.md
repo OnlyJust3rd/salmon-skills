@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/inter-process-communication-python|inter-process-communication-python]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/inter-process-communication-python|inter-process-communication-python]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Inter-Process Communication (IPC) in Python
@@ -146,4 +146,4 @@ By understanding and implementing `Queue` and `Pipe`, you can effectively enable
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/inter-process-communication-python|Inter-Process Communication (Python)]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/inter-process-communication-python|Inter-Process Communication (Python)]]

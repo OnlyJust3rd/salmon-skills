@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/monolithic-architecture-characteristics|monolithic-architecture-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/monolithic-architecture-characteristics|monolithic-architecture-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Monolithic Architecture: The Single, Big Application
@@ -52,4 +52,4 @@ By understanding these characteristics and drawbacks, you're now better prepared
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/monolithic-architecture-characteristics|Monolithic Architecture Characteristics]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/monolithic-architecture-characteristics|Monolithic Architecture Characteristics]]

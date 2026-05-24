@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/network-throughput|network-throughput]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/network-throughput|network-throughput]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Network Throughput for System Monitoring
@@ -91,4 +91,4 @@ By understanding and monitoring network throughput, you gain a critical insight 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/network-throughput|Network Throughput]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/network-throughput|Network Throughput]]

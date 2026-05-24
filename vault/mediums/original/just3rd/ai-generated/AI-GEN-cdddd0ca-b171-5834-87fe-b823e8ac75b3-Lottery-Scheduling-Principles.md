@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/lottery-scheduling-principles|lottery-scheduling-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/lottery-scheduling-principles|lottery-scheduling-principles]]"
 learning-time-in-minutes: 2
 ---
 # Lottery Scheduling Principles
@@ -54,4 +54,4 @@ What is the probability that Process X gets the CPU on the next draw? What is th
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/lottery-scheduling-principles|Lottery Scheduling Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/lottery-scheduling-principles|Lottery Scheduling Principles]]

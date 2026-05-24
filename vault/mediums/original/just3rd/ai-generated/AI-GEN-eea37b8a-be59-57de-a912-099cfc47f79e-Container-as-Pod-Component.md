@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-as-pod-component|container-as-pod-component]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-as-pod-component|container-as-pod-component]]"
 learning-time-in-minutes: 4
 ---
 # Containers as Pod Components
@@ -67,4 +67,4 @@ The fundamental understanding here is that a Pod is the atomic unit of deploymen
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-as-pod-component|Container as Pod Component]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-as-pod-component|Container as Pod Component]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/http-trigger-configuration|http-trigger-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/http-trigger-configuration|http-trigger-configuration]]"
 learning-time-in-minutes: 3
 ---
 # HTTP Trigger Configuration for Serverless Functions
@@ -112,4 +112,4 @@ By mastering HTTP trigger configuration, you gain the ability to expose your ser
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/http-trigger-configuration|HTTP Trigger Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/http-trigger-configuration|HTTP Trigger Configuration]]

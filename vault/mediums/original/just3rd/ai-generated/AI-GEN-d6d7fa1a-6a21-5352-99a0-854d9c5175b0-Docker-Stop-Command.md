@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-stop-command|docker-stop-command]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-stop-command|docker-stop-command]]"
 learning-time-in-minutes: 3
 ---
 # Halting Docker Containers with `docker stop`
@@ -86,4 +86,4 @@ In summary, `docker stop` is your go-to command for cleanly halting a running Do
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-stop-command|Docker Stop Command]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-stop-command|Docker Stop Command]]

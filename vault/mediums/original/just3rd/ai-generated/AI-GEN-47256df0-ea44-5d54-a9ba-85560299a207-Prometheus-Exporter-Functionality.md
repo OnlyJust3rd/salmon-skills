@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/prometheus-exporter-functionality|prometheus-exporter-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-exporter-functionality|prometheus-exporter-functionality]]"
 learning-time-in-minutes: 3
 ---
 # Prometheus Exporter Functionality
@@ -64,4 +64,4 @@ Understanding how exporters work is fundamental to building a comprehensive moni
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/prometheus-exporter-functionality|Prometheus Exporter Functionality]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-exporter-functionality|Prometheus Exporter Functionality]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/lock-operations|lock-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/lock-operations|lock-operations]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Lock Operations
@@ -94,4 +94,4 @@ Write pseudocode to protect a shared `counter` variable using a lock. Ensure tha
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/lock-operations|Lock Operations]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/lock-operations|Lock Operations]]

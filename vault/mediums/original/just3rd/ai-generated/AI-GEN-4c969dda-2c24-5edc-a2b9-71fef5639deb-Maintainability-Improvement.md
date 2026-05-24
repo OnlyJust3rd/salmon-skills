@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/maintainability-improvement|maintainability-improvement]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/maintainability-improvement|maintainability-improvement]]"
 learning-time-in-minutes: 4
 ---
 # Improving Maintainability Through Refactoring
@@ -211,5 +211,5 @@ By consistently applying these refactoring techniques, you contribute directly t
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/maintainability-improvement|Maintainability Improvement]]
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/maintainability-improvement|Maintainability Improvement]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/maintainability-improvement|Maintainability Improvement]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/maintainability-improvement|Maintainability Improvement]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-consistency|infrastructure-consistency]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-consistency|infrastructure-consistency]]"
 learning-time-in-minutes: 5
 ---
 # Infrastructure Consistency with Terraform State and Idempotency
@@ -114,4 +114,4 @@ Without state, Terraform wouldn't know about the change. Without idempotency, ap
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-consistency|Infrastructure Consistency]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-consistency|Infrastructure Consistency]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait-functionality]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the `wait()` System Call
@@ -128,4 +128,4 @@ For understanding the fundamental role of waiting for child processes, `wait()` 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait() Functionality]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait() Functionality]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-lock-implementation|fetch-and-add-lock-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-lock-implementation|fetch-and-add-lock-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Fetch-and-Add Lock Implementation
@@ -120,4 +120,4 @@ END FUNCTION
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-lock-implementation|Fetch-and-Add Lock Implementation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-lock-implementation|Fetch-and-Add Lock Implementation]]

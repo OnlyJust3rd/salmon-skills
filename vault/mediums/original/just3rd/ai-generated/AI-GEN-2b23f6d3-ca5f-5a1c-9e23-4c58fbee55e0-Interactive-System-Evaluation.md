@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Conducting Interactive System Evaluations"
+type: medium
+title: Conducting Interactive System Evaluations
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/interactive-system-evaluation|interactive-system-evaluation]]"
+outcome: "[[interactive-system-evaluation|interactive-system-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Conducting Interactive System Evaluations
@@ -90,4 +90,4 @@ By systematically applying these methodologies, you can effectively evaluate int
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/interactive-system-evaluation|Interactive System Evaluation]]
+- [[interactive-system-evaluation|Interactive System Evaluation]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/container-image-structure|container-image-structure]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/container-image-structure|container-image-structure]]"
 learning-time-in-minutes: 4
 ---
 # Container Image Structure
@@ -59,4 +59,4 @@ You can often inspect the layers of an image using containerization tools. For e
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/container-image-structure|Container Image Structure]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/container-image-structure|Container Image Structure]]

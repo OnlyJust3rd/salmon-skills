@@ -6,8 +6,8 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/competencies/L2-apply-ai-assisted-code-generation-and-refactoring|L2-apply-ai-assisted-code-generation-and-refactoring]]"
-  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-describe-static-analysis-benefits|L1-describe-static-analysis-benefits]]"
-  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L3-validation-verification-differentiation|L3-validation-verification-differentiation]]"
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/competencies/L1-describe-static-analysis-benefits|L1-describe-static-analysis-benefits]]"
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/competencies/L3-validation-verification-differentiation|L3-validation-verification-differentiation]]"
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L1-explain-authorization-models]]"
 miller-level: 3
 optional-prerequisites: []
@@ -32,8 +32,8 @@ Analyze AI coding tool output quality and risk.
 
 - [[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/competencies/L2-apply-ai-assisted-code-generation-and-refactoring|L3- Apply AI-Assisted Code Generation and Refactoring]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L2- Explain Authorization Models]]
-- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L3-validation-verification-differentiation|L4- Validation & Verification Differentiation]]
-- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-describe-static-analysis-benefits|L2- Describe Static Analysis Benefits]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/competencies/L3-validation-verification-differentiation|L4- Validation & Verification Differentiation]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/competencies/L1-describe-static-analysis-benefits|L2- Describe Static Analysis Benefits]]
 
 ## Optional Prerequisites
 

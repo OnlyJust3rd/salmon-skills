@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/logical-address-concepts|logical-address-concepts]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/logical-address-concepts|logical-address-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Logical Addresses
@@ -61,4 +61,4 @@ By understanding logical addresses, you gain insight into how operating systems 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/logical-address-concepts|Logical Address Concepts]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/logical-address-concepts|Logical Address Concepts]]

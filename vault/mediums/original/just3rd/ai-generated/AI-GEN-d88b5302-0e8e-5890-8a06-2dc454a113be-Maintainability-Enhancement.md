@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/maintainability-enhancement|maintainability-enhancement]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/maintainability-enhancement|maintainability-enhancement]]"
 learning-time-in-minutes: 4
 ---
 # Enhancing Code Maintainability Through Refactoring
@@ -183,4 +183,4 @@ By consistently applying these techniques, you'll transform your codebase into o
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/maintainability-enhancement|Maintainability Enhancement]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/maintainability-enhancement|Maintainability Enhancement]]

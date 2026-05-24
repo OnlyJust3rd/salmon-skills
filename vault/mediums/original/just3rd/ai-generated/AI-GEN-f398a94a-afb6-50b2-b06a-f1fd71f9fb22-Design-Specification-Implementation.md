@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Implementing Design Specifications: Building Interactive Prototypes"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/design-specification-implementation|design-specification-implementation]]"
+outcome: "[[design-specification-implementation|design-specification-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Design Specifications: Building Interactive Prototypes
@@ -129,4 +129,4 @@ By diligently implementing your design specifications, you create a valuable int
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/design-specification-implementation|Design Specification Implementation]]
+- [[design-specification-implementation|Design Specification Implementation]]

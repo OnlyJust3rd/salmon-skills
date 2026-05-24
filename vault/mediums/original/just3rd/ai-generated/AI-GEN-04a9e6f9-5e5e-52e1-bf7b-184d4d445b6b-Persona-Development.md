@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Persona Development: Bringing Your Users to Life"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/persona-development|persona-development]]"
+outcome: "[[persona-development|persona-development]]"
 learning-time-in-minutes: 5
 ---
 # Persona Development: Bringing Your Users to Life
@@ -132,4 +132,4 @@ By consistently referring to your personas, you can ensure that the interactions
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/persona-development|Persona Development]]
+- [[persona-development|Persona Development]]

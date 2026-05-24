@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-need|mutual-exclusion-need]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-need|mutual-exclusion-need]]"
 learning-time-in-minutes: 3
 ---
 # The Critical Need for Mutual Exclusion
@@ -76,4 +76,4 @@ Describe a scenario where concurrent access to this resource without mutual excl
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-need|Mutual Exclusion Need]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-need|Mutual Exclusion Need]]

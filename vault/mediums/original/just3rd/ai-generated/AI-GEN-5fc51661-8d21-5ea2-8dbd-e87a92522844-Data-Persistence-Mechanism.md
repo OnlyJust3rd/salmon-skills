@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/data-persistence-mechanism|data-persistence-mechanism]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-persistence-mechanism|data-persistence-mechanism]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Docker Volume Persistence: The Data Persistence Mechanism
@@ -113,4 +113,4 @@ By understanding and utilizing Docker volumes, you ensure that your applications
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/data-persistence-mechanism|Data Persistence Mechanism]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-persistence-mechanism|Data Persistence Mechanism]]

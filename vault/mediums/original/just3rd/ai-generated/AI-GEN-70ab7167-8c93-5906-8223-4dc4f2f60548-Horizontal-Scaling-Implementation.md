@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/horizontal-scaling-implementation|horizontal-scaling-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/horizontal-scaling-implementation|horizontal-scaling-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Horizontal Scaling with VM Scale Sets
@@ -72,4 +72,4 @@ This configuration means that if the average CPU usage across your running VMs c
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/horizontal-scaling-implementation|Horizontal Scaling Implementation]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/horizontal-scaling-implementation|Horizontal Scaling Implementation]]

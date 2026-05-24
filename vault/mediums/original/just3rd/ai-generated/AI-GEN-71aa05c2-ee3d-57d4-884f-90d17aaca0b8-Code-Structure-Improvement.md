@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/code-structure-improvement|code-structure-improvement]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-structure-improvement|code-structure-improvement]]"
 learning-time-in-minutes: 4
 ---
 # Improving Code Structure with Refactoring
@@ -245,4 +245,4 @@ Improving code structure is an ongoing process. By applying techniques like Extr
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/code-structure-improvement|Code Structure Improvement]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/code-structure-improvement|Code Structure Improvement]]

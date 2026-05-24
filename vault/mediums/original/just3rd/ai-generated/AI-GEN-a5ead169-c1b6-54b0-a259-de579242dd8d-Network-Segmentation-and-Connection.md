@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-segmentation-and-connection|network-segmentation-and-connection]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-segmentation-and-connection|network-segmentation-and-connection]]"
 learning-time-in-minutes: 4
 ---
 # Joining Small Networks: Principles of Network Segmentation and Connection
@@ -63,4 +63,4 @@ Identify a common scenario where network segmentation and connection are used. F
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-segmentation-and-connection|Network Segmentation and Connection]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-segmentation-and-connection|Network Segmentation and Connection]]

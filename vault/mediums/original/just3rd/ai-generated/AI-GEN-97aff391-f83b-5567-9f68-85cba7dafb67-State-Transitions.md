@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/state-transitions|state-transitions]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/state-transitions|state-transitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding State Transitions in Network Protocols
@@ -65,4 +65,4 @@ Map out these states and the transitions that would occur during a successful AP
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/state-transitions|State Transitions]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/state-transitions|State Transitions]]

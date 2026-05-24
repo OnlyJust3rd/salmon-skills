@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/volume-attachment-to-containers|volume-attachment-to-containers]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-attachment-to-containers|volume-attachment-to-containers]]"
 learning-time-in-minutes: 4
 ---
 # Attaching Docker Volumes to Containers
@@ -98,4 +98,4 @@ By mastering the attachment of volumes, you gain control over your containerized
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/volume-attachment-to-containers|Volume Attachment to Containers]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-attachment-to-containers|Volume Attachment to Containers]]

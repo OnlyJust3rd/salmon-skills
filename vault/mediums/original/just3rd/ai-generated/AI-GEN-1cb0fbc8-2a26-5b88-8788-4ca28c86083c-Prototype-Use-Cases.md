@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Prototype Use Cases"
+type: medium
+title: Understanding Prototype Use Cases
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/prototype-use-cases|prototype-use-cases]]"
+outcome: "[[prototype-use-cases|prototype-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Prototype Use Cases
@@ -93,4 +93,4 @@ By understanding these distinct use cases, you can strategically employ the righ
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/prototype-use-cases|Prototype Use Cases]]
+- [[prototype-use-cases|Prototype Use Cases]]

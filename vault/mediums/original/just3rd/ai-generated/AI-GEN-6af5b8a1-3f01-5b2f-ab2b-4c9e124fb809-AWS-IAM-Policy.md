@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-iam-policy|aws-iam-policy]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-iam-policy|aws-iam-policy]]"
 learning-time-in-minutes: 2
 ---
 # AWS IAM Policies: Granting Specific Permissions
@@ -72,4 +72,4 @@ Create an IAM policy for an EC2 instance that allows it to describe EC2 instance
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-iam-policy|AWS IAM Policy]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-iam-policy|AWS IAM Policy]]

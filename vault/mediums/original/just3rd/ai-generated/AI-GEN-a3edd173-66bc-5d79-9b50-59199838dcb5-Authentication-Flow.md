@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/authentication-flow|authentication-flow]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/authentication-flow|authentication-flow]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Firebase Authentication Flow
@@ -137,4 +137,4 @@ By effectively applying these concepts, you can implement robust and secure user
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/authentication-flow|Authentication Flow]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/authentication-flow|Authentication Flow]]

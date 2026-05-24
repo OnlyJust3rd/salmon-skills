@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-networks/microskills/wireless-network-components|wireless-network-components]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wireless-network-components|wireless-network-components]]"
 learning-time-in-minutes: 4
 ---
 # Wireless Network Components: The Building Blocks
@@ -73,4 +73,4 @@ Each component plays a vital role in enabling your wireless world, from the tiny
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-networks/microskills/wireless-network-components|Wireless Network Components]]
+- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wireless-network-components|Wireless Network Components]]

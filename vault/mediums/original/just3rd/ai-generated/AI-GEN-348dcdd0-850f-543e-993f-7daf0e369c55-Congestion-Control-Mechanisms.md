@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-performance/microskills/congestion-control-mechanisms|congestion-control-mechanisms]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/congestion-control-mechanisms|congestion-control-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Congestion Control Mechanisms: AIMD
@@ -85,4 +85,4 @@ While AIMD is a foundational concept, modern TCP implementations use more advanc
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-performance/microskills/congestion-control-mechanisms|Congestion Control Mechanisms]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/congestion-control-mechanisms|Congestion Control Mechanisms]]

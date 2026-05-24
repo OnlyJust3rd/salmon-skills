@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/collision-avoidance-detection|collision-avoidance-detection]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/collision-avoidance-detection|collision-avoidance-detection]]"
 learning-time-in-minutes: 4
 ---
 # Handling Traffic Jams: Collision Avoidance and Detection
@@ -57,4 +57,4 @@ Imagine you are designing a small network for a shared workspace.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/collision-avoidance-detection|Collision Avoidance/Detection]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/collision-avoidance-detection|Collision Avoidance/Detection]]

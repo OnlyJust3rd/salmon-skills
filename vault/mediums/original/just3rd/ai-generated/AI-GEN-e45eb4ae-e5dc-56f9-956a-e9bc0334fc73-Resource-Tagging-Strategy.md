@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/resource-tagging-strategy|resource-tagging-strategy]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/resource-tagging-strategy|resource-tagging-strategy]]"
 learning-time-in-minutes: 3
 ---
 # Implementing a Resource Tagging Strategy
@@ -84,4 +84,4 @@ This allows FinOps to easily filter and report on costs associated with `e-comme
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/resource-tagging-strategy|Resource Tagging Strategy]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/resource-tagging-strategy|Resource Tagging Strategy]]

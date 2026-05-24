@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-scenarios|real-world-serverless-scenarios]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-scenarios|real-world-serverless-scenarios]]"
 learning-time-in-minutes: 4
 ---
 # Real-World Serverless Scenarios
@@ -72,4 +72,4 @@ By examining these scenarios, you can see how serverless computing offers practi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-scenarios|Real-World Serverless Scenarios]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-scenarios|Real-World Serverless Scenarios]]

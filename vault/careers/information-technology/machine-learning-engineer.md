@@ -15,10 +15,10 @@ required-competencies:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L2-apply-data-cleansing-techniques]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L2-apply-data-models]]"
   - "[[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L2-apply-design-principles-for-abstraction-and-coupling]]"
-  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
   - "[[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/competencies/L1-build-container-images|L1-build-container-images]]"
-  - "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-build-container-images|L1-build-container-images]]"
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/competencies/L2-apply-spark-dataframe-transformation-concepts|L2-apply-spark-dataframe-transformation-concepts]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-lake/competencies/L2-apply-data-lake-organization-concepts|L2-apply-data-lake-organization-concepts]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/competencies/L1-explain-lakehouse-architecture-concepts|L1-explain-lakehouse-architecture-concepts]]"
@@ -50,10 +50,10 @@ A Machine Learning Engineer is an entry-level information technology role focuse
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L3- Apply Data Cleansing Techniques]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L3- Apply Data Models]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-apply-design-principles-for-abstraction-and-coupling|L3- Apply Design Principles for Abstraction and Coupling]]
-- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/competencies/L1-build-container-images|L2- Build Container Images]]
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-build-container-images|L2- Build Container Images]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/competencies/L2-apply-spark-dataframe-transformation-concepts|L3- Apply Spark DataFrame Transformation Concepts]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/competencies/L2-apply-data-lake-organization-concepts|L3- Apply Data Lake Organization Concepts]]
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/competencies/L1-explain-lakehouse-architecture-concepts|L2- Explain Lakehouse Architecture Concepts]]

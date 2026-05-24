@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/html/microskills/markup-validation-mindset|markup-validation-mindset]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/html/microskills/markup-validation-mindset|markup-validation-mindset]]"
 learning-time-in-minutes: 5
 ---
 # Mastering Markup Validation: Your HTML's Best Friend
@@ -189,4 +189,4 @@ By adopting a validation mindset, you'll catch these issues early, leading to mo
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/html/microskills/markup-validation-mindset|Markup validation mindset]]
+- [[skills/computing/software-engineering/frontend-development/html/microskills/markup-validation-mindset|Markup validation mindset]]

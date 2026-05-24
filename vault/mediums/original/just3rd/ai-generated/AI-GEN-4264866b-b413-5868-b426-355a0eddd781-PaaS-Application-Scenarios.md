@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/paas-application-scenarios|paas-application-scenarios]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/paas-application-scenarios|paas-application-scenarios]]"
 learning-time-in-minutes: 4
 ---
 # Platform as a Service (PaaS): Application Scenarios
@@ -64,4 +64,4 @@ Review the following application development scenarios. For each, determine if P
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/paas-application-scenarios|PaaS Application Scenarios]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/paas-application-scenarios|PaaS Application Scenarios]]

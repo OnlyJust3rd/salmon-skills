@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/rbac-configuration|rbac-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/rbac-configuration|rbac-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Kubernetes RBAC Configuration
@@ -175,4 +175,4 @@ By mastering RBAC configuration, you significantly enhance the security posture 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/rbac-configuration|RBAC Configuration]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/rbac-configuration|RBAC Configuration]]

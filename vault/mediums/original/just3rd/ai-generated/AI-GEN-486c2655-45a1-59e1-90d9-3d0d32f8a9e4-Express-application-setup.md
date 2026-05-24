@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/express-js/microskills/express-application-setup|express-application-setup]]"
+outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/express-application-setup|express-application-setup]]"
 learning-time-in-minutes: 3
 ---
 # Express Application Setup
@@ -144,4 +144,4 @@ app.listen(PORT, () => {
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/express-js/microskills/express-application-setup|Express application setup]]
+- [[skills/computing/software-engineering/backend-development/express-js/microskills/express-application-setup|Express application setup]]

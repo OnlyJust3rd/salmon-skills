@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/shared-channel-access|shared-channel-access]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/shared-channel-access|shared-channel-access]]"
 learning-time-in-minutes: 3
 ---
 # Sharing the Highway: Understanding Shared Channel Access
@@ -48,4 +48,4 @@ Imagine you are designing a simple network for a small group of computers that n
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/shared-channel-access|Shared Channel Access]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/shared-channel-access|Shared Channel Access]]

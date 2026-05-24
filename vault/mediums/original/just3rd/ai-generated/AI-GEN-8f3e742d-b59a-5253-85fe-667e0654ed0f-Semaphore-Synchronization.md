@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/semaphore-synchronization|semaphore-synchronization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/semaphore-synchronization|semaphore-synchronization]]"
 learning-time-in-minutes: 3
 ---
 # Semaphore Synchronization
@@ -64,4 +64,4 @@ Consider the bounded buffer problem described above. Write pseudocode for both t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/semaphore-synchronization|Semaphore Synchronization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/semaphore-synchronization|Semaphore Synchronization]]

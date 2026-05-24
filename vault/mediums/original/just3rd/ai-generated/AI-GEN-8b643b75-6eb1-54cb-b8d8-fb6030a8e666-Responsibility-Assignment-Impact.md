@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/responsibility-assignment-impact|responsibility-assignment-impact]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-impact|responsibility-assignment-impact]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Responsibility Assignment in Object-Oriented Design
@@ -72,4 +72,4 @@ Effectively assigning responsibilities to objects is not just about writing code
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/responsibility-assignment-impact|Responsibility Assignment Impact]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-impact|Responsibility Assignment Impact]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|waiting-time-calculation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|waiting-time-calculation]]"
 learning-time-in-minutes: 3
 ---
 # Calculating Waiting Time in CPU Scheduling
@@ -87,4 +87,4 @@ Consider the following processes with their arrival times and burst times. Calcu
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|Waiting Time Calculation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|Waiting Time Calculation]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/service-level|service-level]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/service-level|service-level]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Service Levels in IT Service Management
@@ -72,4 +72,4 @@ By understanding these core concepts, you are well on your way to grasping how s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/service-level|Service Level]]
+- [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/service-level|Service Level]]

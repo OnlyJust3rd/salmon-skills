@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/public-cloud-deployment|public-cloud-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/public-cloud-deployment|public-cloud-deployment]]"
 learning-time-in-minutes: 3
 ---
 # Public Cloud Deployment
@@ -51,4 +51,4 @@ Given the predictable workload and the need for tight security and control over 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/public-cloud-deployment|Public Cloud Deployment]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/public-cloud-deployment|Public Cloud Deployment]]

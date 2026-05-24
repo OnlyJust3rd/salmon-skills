@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/code-review-process|code-review-process]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-process|code-review-process]]"
 learning-time-in-minutes: 4
 ---
 # The Code Review Process: A Step-by-Step Guide
@@ -74,4 +74,4 @@ Adhering to these steps helps ensure that code reviews are effective and contrib
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/code-review-process|Code Review Process]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-process|Code Review Process]]

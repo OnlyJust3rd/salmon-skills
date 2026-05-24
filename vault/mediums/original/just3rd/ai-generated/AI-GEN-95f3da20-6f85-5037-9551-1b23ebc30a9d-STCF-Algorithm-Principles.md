@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/stcf-algorithm-principles|stcf-algorithm-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/stcf-algorithm-principles|stcf-algorithm-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Shortest Time-to-Completion First (STCF) Algorithm
@@ -69,4 +69,4 @@ Trace the execution of these processes using the STCF algorithm. Determine the c
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/stcf-algorithm-principles|STCF Algorithm Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/stcf-algorithm-principles|STCF Algorithm Principles]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/serverless-application-explanation|serverless-application-explanation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-application-explanation|serverless-application-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Serverless Applications
@@ -97,4 +97,4 @@ By understanding these practical applications, you can better identify opportuni
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/serverless-application-explanation|Serverless Application Explanation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-application-explanation|Serverless Application Explanation]]

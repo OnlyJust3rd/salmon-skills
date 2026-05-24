@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Developing Functional Models for Interactive Systems"
+type: medium
+title: Developing Functional Models for Interactive Systems
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/functional-model-development|functional-model-development]]"
+outcome: "[[functional-model-development|functional-model-development]]"
 learning-time-in-minutes: 5
 ---
 # Developing Functional Models for Interactive Systems
@@ -241,4 +241,4 @@ By developing functional models, you actively apply your design knowledge to cre
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/functional-model-development|Functional Model Development]]
+- [[functional-model-development|Functional Model Development]]

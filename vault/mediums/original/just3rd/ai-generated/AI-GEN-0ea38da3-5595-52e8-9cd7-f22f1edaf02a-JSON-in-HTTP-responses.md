@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/json-format/microskills/json-in-http-responses|json-in-http-responses]]"
+outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-responses|json-in-http-responses]]"
 learning-time-in-minutes: 4
 ---
 # JSON in HTTP Responses
@@ -104,4 +104,4 @@ JSON is a fundamental format for data exchange in modern web APIs, particularly 
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/json-format/microskills/json-in-http-responses|JSON in HTTP responses]]
+- [[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-responses|JSON in HTTP responses]]

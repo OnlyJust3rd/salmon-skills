@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/express-js/microskills/json-route-handlers|json-route-handlers]]"
+outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/json-route-handlers|json-route-handlers]]"
 learning-time-in-minutes: 3
 ---
 # JSON Route Handlers in Express.js
@@ -137,4 +137,4 @@ By mastering these JSON route handlers, you are well on your way to implementing
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/express-js/microskills/json-route-handlers|JSON route handlers]]
+- [[skills/computing/software-engineering/backend-development/express-js/microskills/json-route-handlers|JSON route handlers]]

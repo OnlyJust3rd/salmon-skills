@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/event-consumers|event-consumers]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/event-consumers|event-consumers]]"
 learning-time-in-minutes: 4
 ---
 # Event Consumers in Event-Driven Architectures
@@ -80,4 +80,4 @@ Event consumers are the active responders in an event-driven architecture. They 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/event-consumers|Event Consumers]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/event-consumers|Event Consumers]]

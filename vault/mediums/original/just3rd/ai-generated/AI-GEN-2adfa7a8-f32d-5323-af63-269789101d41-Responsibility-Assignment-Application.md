@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/responsibility-assignment-application|responsibility-assignment-application]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-application|responsibility-assignment-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Responsibility Assignment in Object-Oriented Design
@@ -187,4 +187,4 @@ By consciously applying these principles, you'll build software systems that are
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/responsibility-assignment-application|Responsibility Assignment Application]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-application|Responsibility Assignment Application]]

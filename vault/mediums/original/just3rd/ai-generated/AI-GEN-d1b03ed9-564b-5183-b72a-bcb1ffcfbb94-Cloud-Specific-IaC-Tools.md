@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/cloud-specific-iac-tools|cloud-specific-iac-tools]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/cloud-specific-iac-tools|cloud-specific-iac-tools]]"
 learning-time-in-minutes: 4
 ---
 # Cloud-Specific Infrastructure as Code Tools
@@ -177,4 +177,4 @@ By recognizing and understanding these cloud-specific IaC tools, you build a str
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/cloud-specific-iac-tools|Cloud-Specific IaC Tools]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/cloud-specific-iac-tools|Cloud-Specific IaC Tools]]

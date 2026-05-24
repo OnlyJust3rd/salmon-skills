@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/function-as-a-service-faas|function-as-a-service-faas]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/function-as-a-service-faas|function-as-a-service-faas]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Function as a Service (FaaS)
@@ -58,4 +58,4 @@ Describe how you would use FaaS to achieve this. What would be the event trigger
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/function-as-a-service-faas|Function as a Service (FaaS)]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/function-as-a-service-faas|Function as a Service (FaaS)]]

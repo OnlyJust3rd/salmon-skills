@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/react/microskills/data-fetching-in-components|data-fetching-in-components]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/react/microskills/data-fetching-in-components|data-fetching-in-components]]"
 learning-time-in-minutes: 4
 ---
 # Data Fetching in React Components
@@ -225,4 +225,4 @@ By implementing loading and error states, you make your React features robust an
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/react/microskills/data-fetching-in-components|Data fetching in components]]
+- [[skills/computing/software-engineering/frontend-development/react/microskills/data-fetching-in-components|Data fetching in components]]

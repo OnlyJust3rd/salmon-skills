@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|infrastructure-as-code-best-practices]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|infrastructure-as-code-best-practices]]"
 learning-time-in-minutes: 5
 ---
 # Infrastructure as Code Best Practices
@@ -111,4 +111,4 @@ Adopting these best practices transforms your IaC from a simple set of scripts i
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|Infrastructure as Code Best Practices]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|Infrastructure as Code Best Practices]]

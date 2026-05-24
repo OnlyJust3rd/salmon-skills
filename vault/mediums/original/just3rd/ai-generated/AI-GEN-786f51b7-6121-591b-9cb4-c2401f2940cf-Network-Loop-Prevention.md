@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-loop-prevention|network-loop-prevention]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-loop-prevention|network-loop-prevention]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Network Loops and STP
@@ -79,4 +79,4 @@ If SW1 is elected as the Root Bridge and all links have the same cost:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-loop-prevention|Network Loop Prevention]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-loop-prevention|Network Loop Prevention]]

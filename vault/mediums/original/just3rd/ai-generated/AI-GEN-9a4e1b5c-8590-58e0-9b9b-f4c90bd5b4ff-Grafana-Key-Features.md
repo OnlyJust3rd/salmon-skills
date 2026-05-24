@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/grafana-key-features|grafana-key-features]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-key-features|grafana-key-features]]"
 learning-time-in-minutes: 4
 ---
 # Grafana: Key Features for Data Visualization
@@ -91,4 +91,4 @@ By understanding these key features, you can begin to build powerful and informa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/grafana-key-features|Grafana Key Features]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-key-features|Grafana Key Features]]

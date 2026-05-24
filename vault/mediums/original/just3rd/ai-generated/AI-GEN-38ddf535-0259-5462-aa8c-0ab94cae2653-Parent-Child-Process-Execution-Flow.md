@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|parent-child-process-execution-flow]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|parent-child-process-execution-flow]]"
 learning-time-in-minutes: 4
 ---
 # Parent-Child Process Execution Flow: Analyzing Sequential Behavior
@@ -159,4 +159,4 @@ Analyzing parent-child process execution flow involves:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|Parent-Child Process Execution Flow]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|Parent-Child Process Execution Flow]]

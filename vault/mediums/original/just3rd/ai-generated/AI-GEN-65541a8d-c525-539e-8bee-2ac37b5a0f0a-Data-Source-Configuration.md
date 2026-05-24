@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/data-source-configuration|data-source-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/data-source-configuration|data-source-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Connecting Grafana to Prometheus: Data Source Configuration
@@ -102,4 +102,4 @@ This fundamental step of data source configuration is the gateway to building po
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/data-source-configuration|Data Source Configuration]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/data-source-configuration|Data Source Configuration]]

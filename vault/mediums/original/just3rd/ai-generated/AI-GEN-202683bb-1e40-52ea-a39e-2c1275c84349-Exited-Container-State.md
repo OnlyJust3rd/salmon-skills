@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/exited-container-state|exited-container-state]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/exited-container-state|exited-container-state]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Exited State of a Docker Container
@@ -117,4 +117,4 @@ Exited containers consume disk space for their file system layers. It's good pra
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/exited-container-state|Exited Container State]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/exited-container-state|Exited Container State]]

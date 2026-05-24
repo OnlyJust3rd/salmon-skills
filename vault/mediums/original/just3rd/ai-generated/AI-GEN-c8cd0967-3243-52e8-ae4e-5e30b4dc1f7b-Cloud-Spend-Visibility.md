@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cloud-spend-visibility|cloud-spend-visibility]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-spend-visibility|cloud-spend-visibility]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cloud Spend Visibility
@@ -65,4 +65,4 @@ Let's say your team has noticed a general increase in your AWS bill this month.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cloud-spend-visibility|Cloud Spend Visibility]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-spend-visibility|Cloud Spend Visibility]]

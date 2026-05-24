@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-forwarding-process|ip-forwarding-process]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-forwarding-process|ip-forwarding-process]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the IP Forwarding Process
@@ -76,4 +76,4 @@ By understanding the mechanics of IP forwarding, you gain insight into how data 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-forwarding-process|IP Forwarding Process]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-forwarding-process|IP Forwarding Process]]

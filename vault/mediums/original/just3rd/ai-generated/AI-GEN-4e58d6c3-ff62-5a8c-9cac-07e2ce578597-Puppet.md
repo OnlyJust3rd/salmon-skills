@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/puppet|puppet]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/puppet|puppet]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Puppet in Infrastructure as Code
@@ -74,4 +74,4 @@ Puppet is a powerful and established tool within the Infrastructure as Code ecos
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/puppet|Puppet]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/puppet|Puppet]]

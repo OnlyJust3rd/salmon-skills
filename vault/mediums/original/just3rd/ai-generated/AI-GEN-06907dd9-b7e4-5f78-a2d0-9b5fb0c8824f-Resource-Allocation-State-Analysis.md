@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/resource-allocation-state-analysis|resource-allocation-state-analysis]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-allocation-state-analysis|resource-allocation-state-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Resource Allocation States with Graphs
@@ -87,4 +87,4 @@ Draw the Resource Allocation Graph for this state. Analyze the graph and identif
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/resource-allocation-state-analysis|Resource Allocation State Analysis]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-allocation-state-analysis|Resource Allocation State Analysis]]

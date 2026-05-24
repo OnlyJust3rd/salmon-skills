@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/mobile-screen-layout|mobile-screen-layout]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/mobile-screen-layout|mobile-screen-layout]]"
 learning-time-in-minutes: 4
 ---
 # Mobile Screen Layout: Arranging for Mobile
@@ -152,4 +152,4 @@ Experiment with different layout managers in your chosen mobile development fram
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/mobile-screen-layout|Mobile Screen Layout]]
+- [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/mobile-screen-layout|Mobile Screen Layout]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/cloud-financial-shifts|cloud-financial-shifts]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/cloud-financial-shifts|cloud-financial-shifts]]"
 learning-time-in-minutes: 4
 ---
 # Cloud Financial Shifts: From Buying to Renting IT
@@ -64,4 +64,4 @@ Consider a small startup planning its initial IT infrastructure. They have a lim
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/cloud-financial-shifts|Cloud Financial Shifts]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/cloud-financial-shifts|Cloud Financial Shifts]]

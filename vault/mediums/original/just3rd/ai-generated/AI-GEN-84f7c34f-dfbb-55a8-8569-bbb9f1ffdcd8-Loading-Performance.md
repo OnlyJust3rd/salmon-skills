@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/web-performance/microskills/loading-performance|loading-performance]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/web-performance/microskills/loading-performance|loading-performance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Loading Performance
@@ -82,4 +82,4 @@ By understanding these fundamental factors, you can start identifying areas for 
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/web-performance/microskills/loading-performance|Loading Performance]]
+- [[skills/computing/software-engineering/frontend-development/web-performance/microskills/loading-performance|Loading Performance]]

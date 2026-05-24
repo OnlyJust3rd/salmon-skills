@@ -66,4 +66,4 @@ By understanding the fundamental concept of reusable design elements and how Fig
 ## Supports
 
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/component|Component]]
-- [[skills/professional-practice/human-centered-design/figma/microskills/component|Component]]
+- [[skills/digital-media/ux-ui-design/figma/microskills/component|Component]]

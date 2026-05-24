@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Building Your First XR Application Prototype"
+type: medium
+title: Building Your First XR Application Prototype
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/extended-reality-application-prototype|extended-reality-application-prototype]]"
+outcome: "[[extended-reality-application-prototype|extended-reality-application-prototype]]"
 learning-time-in-minutes: 3
 ---
 # Building Your First XR Application Prototype
@@ -63,4 +63,4 @@ Using your preferred XR development engine (Unity with XR Interaction Toolkit is
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/extended-reality-application-prototype|Extended Reality Application Prototype]]
+- [[extended-reality-application-prototype|Extended Reality Application Prototype]]

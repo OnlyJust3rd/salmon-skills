@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/responsive-web-design/microskills/media-queries|media-queries]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/media-queries|media-queries]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Media Queries for Responsive Layouts
@@ -157,4 +157,4 @@ By effectively using media queries, you can ensure your web designs look and fun
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/responsive-web-design/microskills/media-queries|Media Queries]]
+- [[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/media-queries|Media Queries]]

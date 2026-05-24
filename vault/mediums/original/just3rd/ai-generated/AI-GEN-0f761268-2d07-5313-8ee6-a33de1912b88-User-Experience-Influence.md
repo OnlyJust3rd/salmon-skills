@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "The Ripple Effect: How Design Choices Shape User Experience"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/user-experience-influence|user-experience-influence]]"
+outcome: "[[user-experience-influence|user-experience-influence]]"
 learning-time-in-minutes: 5
 ---
 # The Ripple Effect: How Design Choices Shape User Experience
@@ -69,4 +69,4 @@ The goal is to achieve a synergy where attractive visuals support and enhance th
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/user-experience-influence|User Experience Influence]]
+- [[user-experience-influence|User Experience Influence]]

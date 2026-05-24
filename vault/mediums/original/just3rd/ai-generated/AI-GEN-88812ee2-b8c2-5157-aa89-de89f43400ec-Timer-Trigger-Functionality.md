@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/timer-trigger-functionality|timer-trigger-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/timer-trigger-functionality|timer-trigger-functionality]]"
 learning-time-in-minutes: 4
 ---
 # Timer Trigger Functionality
@@ -109,4 +109,4 @@ Timer triggers are a powerful mechanism in serverless computing for automating t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/timer-trigger-functionality|Timer Trigger Functionality]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/timer-trigger-functionality|Timer Trigger Functionality]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/region-trade-offs|region-trade-offs]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/region-trade-offs|region-trade-offs]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cloud Region Trade-offs
@@ -66,4 +66,4 @@ Research the primary regions offered by your preferred cloud provider (e.g., AWS
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/region-trade-offs|Region Trade-offs]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/region-trade-offs|Region Trade-offs]]

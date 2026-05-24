@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/performance-degradation-notification|performance-degradation-notification]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/performance-degradation-notification|performance-degradation-notification]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Performance Degradation Notifications
@@ -61,4 +61,4 @@ In essence, these alerts transform potential crises into manageable incidents, a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/performance-degradation-notification|Performance Degradation Notification]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/performance-degradation-notification|Performance Degradation Notification]]

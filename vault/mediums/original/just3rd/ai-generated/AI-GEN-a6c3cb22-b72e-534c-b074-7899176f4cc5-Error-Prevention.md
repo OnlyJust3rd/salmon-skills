@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Error Prevention: Design to Avoid Mistakes"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/error-prevention|error-prevention]]"
+outcome: "[[error-prevention|error-prevention]]"
 learning-time-in-minutes: 4
 ---
 # Error Prevention: Design to Avoid Mistakes
@@ -95,4 +95,4 @@ By consciously designing with error prevention in mind, you contribute to a more
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/error-prevention|Error Prevention]]
+- [[error-prevention|Error Prevention]]

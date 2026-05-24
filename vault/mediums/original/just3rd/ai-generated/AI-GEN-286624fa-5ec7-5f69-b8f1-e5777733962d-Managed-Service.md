@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/microskills/managed-service|managed-service]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/managed-service|managed-service]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Managed Services in Cloud-Native Architectures
@@ -57,4 +57,4 @@ Consider a microservice that needs to process uploaded images. It requires objec
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/microskills/managed-service|Managed Service]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/managed-service|Managed Service]]

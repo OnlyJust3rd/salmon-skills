@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/operational-expenditure-opex|operational-expenditure-opex]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/operational-expenditure-opex|operational-expenditure-opex]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Operational Expenditure (OPEX) in Cloud Computing
@@ -55,4 +55,4 @@ Identify three different cloud services (e.g., a virtual machine, a managed data
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/operational-expenditure-opex|Operational Expenditure (OPEX)]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/operational-expenditure-opex|Operational Expenditure (OPEX)]]

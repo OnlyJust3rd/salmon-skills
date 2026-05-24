@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/rest-api-definition|rest-api-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/rest-api-definition|rest-api-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding RESTful APIs
@@ -54,4 +54,4 @@ RESTful APIs provide a standardized way for various IoT devices and cloud servic
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/rest-api-definition|REST API Definition]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/rest-api-definition|REST API Definition]]

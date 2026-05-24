@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Heuristic Evaluation: A Core Usability Method"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/heuristic-evaluation|heuristic-evaluation]]"
+outcome: "[[skills/digital-media/ux-ui-design/usability-evaluation/microskills/heuristic-evaluation|heuristic-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Heuristic Evaluation: A Core Usability Method
@@ -80,5 +80,5 @@ Heuristic evaluation is a powerful tool for identifying and prioritizing usabili
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/heuristic-evaluation|Heuristic Evaluation]]
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/heuristic-evaluation|Heuristic Evaluation]]
+- [[skills/digital-media/ux-ui-design/usability-evaluation/microskills/heuristic-evaluation|Heuristic Evaluation]]
+- [[skills/digital-media/ux-ui-design/user-experience/microskills/heuristic-evaluation|Heuristic Evaluation]]

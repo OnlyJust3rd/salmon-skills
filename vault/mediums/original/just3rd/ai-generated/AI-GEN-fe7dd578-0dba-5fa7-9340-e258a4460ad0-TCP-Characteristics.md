@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/transport-layer/microskills/tcp-characteristics|tcp-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/tcp-characteristics|tcp-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding TCP Characteristics
@@ -57,4 +57,4 @@ Understanding these characteristics is the first step in analyzing why and when 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/transport-layer/microskills/tcp-characteristics|TCP Characteristics]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/tcp-characteristics|TCP Characteristics]]

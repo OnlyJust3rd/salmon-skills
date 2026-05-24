@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-lifecycle-independence|container-lifecycle-independence]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-lifecycle-independence|container-lifecycle-independence]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Container Lifecycle Independence with Docker Volumes
@@ -103,4 +103,4 @@ Docker volumes are a fundamental tool for managing stateful applications in Dock
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-lifecycle-independence|Container Lifecycle Independence]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-lifecycle-independence|Container Lifecycle Independence]]

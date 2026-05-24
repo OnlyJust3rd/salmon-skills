@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-sharing-mechanisms|memory-sharing-mechanisms]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-sharing-mechanisms|memory-sharing-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Memory Sharing Mechanisms in Operating Systems
@@ -99,4 +99,4 @@ Operating systems manage memory sharing to improve efficiency and enable robust 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/memory-sharing-mechanisms|Memory Sharing Mechanisms]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-sharing-mechanisms|Memory Sharing Mechanisms]]

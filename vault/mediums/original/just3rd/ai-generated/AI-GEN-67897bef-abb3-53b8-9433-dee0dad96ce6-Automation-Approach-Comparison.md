@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/automation-approach-comparison|automation-approach-comparison]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-approach-comparison|automation-approach-comparison]]"
 learning-time-in-minutes: 6
 ---
 # Automation Approach Comparison: Declarative vs. Imperative
@@ -97,4 +97,4 @@ By understanding the trade-offs, you can select the most appropriate automation 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/automation-approach-comparison|Automation Approach Comparison]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-approach-comparison|Automation Approach Comparison]]

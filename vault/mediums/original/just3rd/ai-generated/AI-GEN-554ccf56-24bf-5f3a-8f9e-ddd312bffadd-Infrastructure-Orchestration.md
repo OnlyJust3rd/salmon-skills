@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-orchestration|infrastructure-orchestration]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-orchestration|infrastructure-orchestration]]"
 learning-time-in-minutes: 4
 ---
 # Orchestrating Kubernetes with Terraform
@@ -174,4 +174,4 @@ By defining your Kubernetes resources in Terraform configuration files, you gain
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-orchestration|Infrastructure Orchestration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-orchestration|Infrastructure Orchestration]]

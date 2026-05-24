@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/modular-program-design/microskills/function-return-values|function-return-values]]"
+outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/function-return-values|function-return-values]]"
 learning-time-in-minutes: 3
 ---
 # Using Function Return Values in C
@@ -146,4 +146,4 @@ int isEven(int num) {
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/modular-program-design/microskills/function-return-values|Function return values]]
+- [[skills/computing/programming/programming-principles/modular-program-design/microskills/function-return-values|Function return values]]

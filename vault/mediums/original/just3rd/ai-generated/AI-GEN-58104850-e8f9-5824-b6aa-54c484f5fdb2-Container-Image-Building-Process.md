@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/container-image-building-process|container-image-building-process]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/container-image-building-process|container-image-building-process]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Container Image Building Process
@@ -147,4 +147,4 @@ By understanding the instructions within a Dockerfile and how Docker processes t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/container-image-building-process|Container Image Building Process]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/container-image-building-process|Container Image Building Process]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/secrets-management/microskills/source-code-separation|source-code-separation]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/source-code-separation|source-code-separation]]"
 learning-time-in-minutes: 4
 ---
 # Keeping Secrets Out of Source Code
@@ -63,4 +63,4 @@ By understanding the risks of committing secrets and adopting secure practices, 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/secrets-management/microskills/source-code-separation|Source Code Separation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/source-code-separation|Source Code Separation]]

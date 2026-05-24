@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/failure-distinction|failure-distinction]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/failure-distinction|failure-distinction]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Software Failures: Faults, Errors, and Failures
@@ -89,4 +89,4 @@ By understanding these concepts, you're building a solid foundation for identify
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/failure-distinction|Failure Distinction]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/failure-distinction|Failure Distinction]]

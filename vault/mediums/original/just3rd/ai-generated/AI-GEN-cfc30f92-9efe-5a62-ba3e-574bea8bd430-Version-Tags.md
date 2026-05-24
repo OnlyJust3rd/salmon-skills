@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/artifact-management/microskills/version-tags|version-tags]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/version-tags|version-tags]]"
 learning-time-in-minutes: 3
 ---
 # Version Tags in Artifact Management
@@ -57,4 +57,4 @@ What would be a sensible version tag to assign to this image if this is the very
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/artifact-management/microskills/version-tags|Version Tags]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/version-tags|Version Tags]]

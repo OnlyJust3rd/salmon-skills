@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|contiguous-memory-allocation-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|contiguous-memory-allocation-techniques]]"
 learning-time-in-minutes: 6
 ---
 # Contiguous Memory Allocation Techniques
@@ -136,4 +136,4 @@ Understanding these contiguous memory allocation techniques is fundamental to gr
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|Contiguous Memory Allocation Techniques]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|Contiguous Memory Allocation Techniques]]

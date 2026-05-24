@@ -26,5 +26,5 @@ Fundamental concepts of programming including data types, conditional execution,
 
 - [[skills/computing/computer-science/algorithms/algorithm-representation/algorithm-representation|Algorithm Representation]]
 - [[c-programming|C Programming]]
-- [[skills/computing/software-engineering/software-practices/modular-program-design/modular-program-design|Modular Program Design]]
-- [[skills/computing/software-engineering/software-practices/program-testing/program-testing|Program Testing]]
+- [[skills/computing/programming/programming-principles/modular-program-design/modular-program-design|Modular Program Design]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/program-testing|Program Testing]]

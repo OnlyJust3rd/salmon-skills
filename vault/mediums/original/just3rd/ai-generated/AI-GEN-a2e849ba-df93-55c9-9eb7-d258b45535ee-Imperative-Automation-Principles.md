@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/imperative-automation-principles|imperative-automation-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation-principles|imperative-automation-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Imperative Automation Principles
@@ -114,4 +114,4 @@ Understanding imperative principles is a fundamental step in learning Infrastruc
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/imperative-automation-principles|Imperative Automation Principles]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation-principles|Imperative Automation Principles]]

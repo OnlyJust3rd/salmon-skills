@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/declarative-infrastructure-definition|declarative-infrastructure-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-infrastructure-definition|declarative-infrastructure-definition]]"
 learning-time-in-minutes: 4
 ---
 # Declarative Infrastructure Definition
@@ -93,4 +93,4 @@ By focusing on defining the desired state, you leverage the power of IaC tools t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/declarative-infrastructure-definition|Declarative Infrastructure Definition]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-infrastructure-definition|Declarative Infrastructure Definition]]

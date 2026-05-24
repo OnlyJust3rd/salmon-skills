@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding the Purpose of Solution Interviews and Usability Testing"
+type: medium
+title: Understanding the Purpose of Solution Interviews and Usability Testing
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-feedback-gathering|user-feedback-gathering]]"
+outcome: "[[user-feedback-gathering|user-feedback-gathering]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Purpose of Solution Interviews and Usability Testing
@@ -82,4 +82,4 @@ By strategically employing both solution interviews and usability testing, you s
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-feedback-gathering|User Feedback Gathering]]
+- [[user-feedback-gathering|User Feedback Gathering]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/seek-time-metrics|seek-time-metrics]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/seek-time-metrics|seek-time-metrics]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Seek Time in Disk Scheduling
@@ -122,4 +122,4 @@ Analyzing seek time is a fundamental skill for understanding disk scheduling. By
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/seek-time-metrics|Seek Time Metrics]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/seek-time-metrics|Seek Time Metrics]]

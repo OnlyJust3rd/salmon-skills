@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "User Interface Paradigms: A Historical Overview"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/user-interface-paradigms|user-interface-paradigms]]"
+outcome: "[[user-interface-paradigms|user-interface-paradigms]]"
 learning-time-in-minutes: 4
 ---
 # User Interface Paradigms: A Historical Overview
@@ -94,4 +94,4 @@ By recognizing these core characteristics, you can effectively identify and cate
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/user-interface-paradigms|User Interface Paradigms]]
+- [[user-interface-paradigms|User Interface Paradigms]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/separation-of-concerns-explanation|separation-of-concerns-explanation]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/separation-of-concerns-explanation|separation-of-concerns-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Separation of Concerns in OOP
@@ -86,4 +86,4 @@ This leads to software that is easier to understand, debug, test, and maintain o
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/separation-of-concerns-explanation|Separation of Concerns Explanation]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/separation-of-concerns-explanation|Separation of Concerns Explanation]]

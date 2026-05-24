@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|pcb-role-in-process-management]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|pcb-role-in-process-management]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the PCB's Role in Process Management
@@ -101,4 +101,4 @@ This entire cycle, known as context switching, relies heavily on the PCB to stor
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|PCB Role in Process Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|PCB Role in Process Management]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/encapsulation-application|encapsulation-application]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-application|encapsulation-application]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Encapsulation in Code
@@ -127,4 +127,4 @@ By consistently applying encapsulation, you build more robust, maintainable, and
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/encapsulation-application|Encapsulation Application]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-application|Encapsulation Application]]

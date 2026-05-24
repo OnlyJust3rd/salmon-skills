@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Basic Code Implementation for Arduino Prototypes"
+type: medium
+title: Basic Code Implementation for Arduino Prototypes
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/basic-code-implementation|basic-code-implementation]]"
+outcome: "[[basic-code-implementation|basic-code-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Basic Code Implementation for Arduino Prototypes
@@ -169,4 +169,4 @@ By mastering these basic coding concepts, you're well on your way to building mo
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/basic-code-implementation|Basic Code Implementation]]
+- [[basic-code-implementation|Basic Code Implementation]]

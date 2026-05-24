@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-stop-operations|container-stop-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-stop-operations|container-stop-operations]]"
 learning-time-in-minutes: 4
 ---
 # Halting Docker Containers: A Practical Guide
@@ -139,4 +139,4 @@ Forcefully killing a container can lead to data corruption or an inconsistent ap
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-stop-operations|Container Stop Operations]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-stop-operations|Container Stop Operations]]

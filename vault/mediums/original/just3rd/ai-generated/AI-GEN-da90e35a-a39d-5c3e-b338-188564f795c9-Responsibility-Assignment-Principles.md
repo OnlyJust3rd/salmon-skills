@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/responsibility-assignment-principles|responsibility-assignment-principles]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-principles|responsibility-assignment-principles]]"
 learning-time-in-minutes: 5
 ---
 # Responsibility Assignment Principles in Object-Oriented Design
@@ -164,4 +164,4 @@ By applying these principles, you'll build more robust and manageable object-ori
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/responsibility-assignment-principles|Responsibility Assignment Principles]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-principles|Responsibility Assignment Principles]]

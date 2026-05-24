@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Frames in Figma"
+type: medium
+title: Understanding Frames in Figma
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/figma/microskills/frame|frame]]"
+outcome: "[[frame|frame]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Frames in Figma
@@ -82,4 +82,4 @@ By consistently using Frames for each screen and naming them appropriately, you 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/figma/microskills/frame|Frame]]
+- [[frame|Frame]]

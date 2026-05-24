@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/application-protocol-operations|application-protocol-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/application-protocol-operations|application-protocol-operations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Application Protocol Operations: HTTP and DNS
@@ -89,4 +89,4 @@ Think about a time you visited a website. Identify the steps involving DNS resol
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/application-protocol-operations|Application Protocol Operations]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/application-protocol-operations|Application Protocol Operations]]

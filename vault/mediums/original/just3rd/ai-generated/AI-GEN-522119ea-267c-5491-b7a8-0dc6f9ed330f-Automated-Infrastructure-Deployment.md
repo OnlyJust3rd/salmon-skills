@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/automated-infrastructure-deployment|automated-infrastructure-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automated-infrastructure-deployment|automated-infrastructure-deployment]]"
 learning-time-in-minutes: 4
 ---
 # Automated Infrastructure Deployment
@@ -133,4 +133,4 @@ By adopting automated infrastructure deployment, you move towards a more robust,
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/automated-infrastructure-deployment|Automated Infrastructure Deployment]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automated-infrastructure-deployment|Automated Infrastructure Deployment]]

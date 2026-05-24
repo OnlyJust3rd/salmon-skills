@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/microskills/operational-burden|operational-burden]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/operational-burden|operational-burden]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Operational Burden in Cloud Services
@@ -83,4 +83,4 @@ For a hypothetical new microservice that requires persistent storage:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-native-application-architecture/microskills/operational-burden|Operational Burden]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/operational-burden|Operational Burden]]

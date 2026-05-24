@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Documenting Design System Patterns"
+type: medium
+title: Documenting Design System Patterns
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/design-systems/microskills/pattern-documentation|pattern-documentation]]"
+outcome: "[[pattern-documentation|pattern-documentation]]"
 learning-time-in-minutes: 5
 ---
 # Documenting Design System Patterns
@@ -150,4 +150,4 @@ By investing time in clear, comprehensive pattern documentation, you create a mo
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/design-systems/microskills/pattern-documentation|Pattern Documentation]]
+- [[pattern-documentation|Pattern Documentation]]

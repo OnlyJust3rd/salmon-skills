@@ -1,0 +1,24 @@
+---
+type: "microskill"
+title: "Desired State Definition"
+tags:
+  - "cpe"
+  - "microskill"
+parent-skill: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/infrastructure-as-code|infrastructure-as-code]]"
+requires-in-competencies:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-explain-declarative-automation|L1-explain-declarative-automation]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# Desired State Definition
+
+Parent macro: [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/infrastructure-as-code|Infrastructure as Code]]
+
+Parent competency:
+
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-explain-declarative-automation|L2- Explain Declarative Automation]]
+
+## Description
+
+Understanding of specifying the end goal without outlining steps.

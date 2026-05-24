@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Interface Element Organization: The Foundation of Visual Layout"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/interface-element-organization|interface-element-organization]]"
+outcome: "[[interface-element-organization|interface-element-organization]]"
 learning-time-in-minutes: 3
 ---
 # Interface Element Organization: The Foundation of Visual Layout
@@ -46,4 +46,4 @@ Understanding these fundamental principles of organization is the first step in 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/interface-element-organization|Interface Element Organization]]
+- [[interface-element-organization|Interface Element Organization]]

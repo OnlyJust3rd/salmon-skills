@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Human-Computer Social Dynamics"
+type: medium
+title: Human-Computer Social Dynamics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/human-computer-social-dynamics|human-computer-social-dynamics]]"
+outcome: "[[human-computer-social-dynamics|human-computer-social-dynamics]]"
 learning-time-in-minutes: 5
 ---
 # Human-Computer Social Dynamics
@@ -80,4 +80,4 @@ For example:
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/human-computer-social-dynamics|Human-Computer Social Dynamics]]
+- [[human-computer-social-dynamics|Human-Computer Social Dynamics]]

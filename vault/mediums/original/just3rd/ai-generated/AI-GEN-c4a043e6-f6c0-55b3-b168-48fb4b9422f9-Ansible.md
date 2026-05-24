@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/ansible|ansible]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/ansible|ansible]]"
 learning-time-in-minutes: 4
 ---
 # Ansible: A Key Player in Infrastructure as Code
@@ -77,4 +77,4 @@ If you encounter YAML files describing such desired states and understand that a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/ansible|Ansible]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/ansible|Ansible]]

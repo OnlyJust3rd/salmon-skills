@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Visual Hierarchy Principles"
+type: medium
+title: Understanding Visual Hierarchy Principles
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/visual-hierarchy-principles|visual-hierarchy-principles]]"
+outcome: "[[visual-hierarchy-principles|visual-hierarchy-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Visual Hierarchy Principles
@@ -81,4 +81,4 @@ By practicing identification, you'll build an intuitive understanding of how the
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/visual-hierarchy-principles|Visual Hierarchy Principles]]
+- [[visual-hierarchy-principles|Visual Hierarchy Principles]]

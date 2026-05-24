@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|scalability-law-assumptions]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|scalability-law-assumptions]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Assumptions of Scalability Laws
@@ -70,4 +70,4 @@ Understanding the assumptions of scalability laws is not about dismissing their 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|Scalability Law Assumptions]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|Scalability Law Assumptions]]

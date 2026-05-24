@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/resource-identification|resource-identification]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/resource-identification|resource-identification]]"
 learning-time-in-minutes: 3
 ---
 # Resource Identification with Tags
@@ -69,4 +69,4 @@ For each application, identify at least three key-value tags you would use to ca
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/resource-identification|Resource Identification]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/resource-identification|Resource Identification]]

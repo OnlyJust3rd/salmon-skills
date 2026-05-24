@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/spanning-tree-protocol|spanning-tree-protocol]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/spanning-tree-protocol|spanning-tree-protocol]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Spanning Tree Protocol (STP)
@@ -70,4 +70,4 @@ Based on the principles of STP, describe which ports would likely be in a blocki
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/spanning-tree-protocol|Spanning Tree Protocol]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/spanning-tree-protocol|Spanning Tree Protocol]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/serverless-execution-model|serverless-execution-model]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-execution-model|serverless-execution-model]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Serverless Execution Model
@@ -71,4 +71,4 @@ In essence, the serverless execution model empowers developers to build and depl
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/serverless-execution-model|Serverless Execution Model]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-execution-model|Serverless Execution Model]]

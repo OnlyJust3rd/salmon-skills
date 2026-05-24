@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/integration-test-implementation|integration-test-implementation]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/integration-test-implementation|integration-test-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Integration Tests with JUnit
@@ -181,4 +181,4 @@ By applying these principles, you can effectively implement integration tests us
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/integration-test-implementation|Integration Test Implementation]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/integration-test-implementation|Integration Test Implementation]]

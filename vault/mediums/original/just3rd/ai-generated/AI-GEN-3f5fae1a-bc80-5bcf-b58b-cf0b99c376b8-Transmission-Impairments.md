@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/transmission-impairments|transmission-impairments]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/transmission-impairments|transmission-impairments]]"
 learning-time-in-minutes: 4
 ---
 # Transmission Impairments: Understanding Signal Degradation
@@ -70,4 +70,4 @@ Understanding transmission impairments is crucial for designing and troubleshoot
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/transmission-impairments|Transmission Impairments]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/transmission-impairments|Transmission Impairments]]

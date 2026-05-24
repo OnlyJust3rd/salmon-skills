@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/distributed-memory-system-elements|distributed-memory-system-elements]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/distributed-memory-system-elements|distributed-memory-system-elements]]"
 learning-time-in-minutes: 4
 ---
 # Distributed-Memory System Elements
@@ -76,4 +76,4 @@ Understanding these distinct but interconnected components is the first step in 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/distributed-memory-system-elements|Distributed-Memory System Elements]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/distributed-memory-system-elements|Distributed-Memory System Elements]]

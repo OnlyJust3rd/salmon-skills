@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/inter-protocol-dependencies|inter-protocol-dependencies]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/inter-protocol-dependencies|inter-protocol-dependencies]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Inter-Protocol Dependencies: HTTP and DNS
@@ -59,4 +59,4 @@ Using your web browser's developer tools (usually accessible by pressing F12), n
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/inter-protocol-dependencies|Inter-Protocol Dependencies]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/inter-protocol-dependencies|Inter-Protocol Dependencies]]

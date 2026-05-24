@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/transition-rationale|transition-rationale]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/transition-rationale|transition-rationale]]"
 learning-time-in-minutes: 4
 ---
 # Why Move from Monoliths to Microservices? Understanding the Rationale
@@ -68,4 +68,4 @@ Understanding these rationales is the first step in appreciating the value and c
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/transition-rationale|Transition Rationale]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/transition-rationale|Transition Rationale]]

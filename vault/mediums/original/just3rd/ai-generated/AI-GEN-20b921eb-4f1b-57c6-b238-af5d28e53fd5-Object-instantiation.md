@@ -5,7 +5,7 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming-languages/c-sharp-programming/microskills/object-instantiation|object-instantiation]]"
+outcome: "[[skills/computing/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|object-instantiation]]"
 learning-time-in-minutes: 3
 ---
 # Creating Objects: Instantiation in Object-Oriented Programming
@@ -99,5 +99,5 @@ Understanding object instantiation is fundamental to working with OOP. It's how 
 
 ## Supports
 
-- [[skills/computing/programming-languages/c-sharp-programming/microskills/object-instantiation|Object Instantiation]]
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/object-instantiation|Object instantiation]]
+- [[skills/computing/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|Object Instantiation]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-instantiation|Object instantiation]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/shared-storage-volumes|shared-storage-volumes]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/shared-storage-volumes|shared-storage-volumes]]"
 learning-time-in-minutes: 5
 ---
 # Shared Storage Volumes in Kubernetes Pods
@@ -105,4 +105,4 @@ Shared storage volumes are a critical feature for enabling inter-container commu
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/shared-storage-volumes|Shared Storage Volumes]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/shared-storage-volumes|Shared Storage Volumes]]

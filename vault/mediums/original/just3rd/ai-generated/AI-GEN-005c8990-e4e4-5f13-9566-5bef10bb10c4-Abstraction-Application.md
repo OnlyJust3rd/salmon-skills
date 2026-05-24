@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/abstraction-application|abstraction-application]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-application|abstraction-application]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Abstraction in Code
@@ -152,4 +152,4 @@ By mastering abstraction, you can write cleaner, more robust, and easier-to-unde
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/abstraction-application|Abstraction Application]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-application|Abstraction Application]]

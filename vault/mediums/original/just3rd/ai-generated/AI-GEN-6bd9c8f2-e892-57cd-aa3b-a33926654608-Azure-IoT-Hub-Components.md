@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/azure-iot-hub-components|azure-iot-hub-components]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/azure-iot-hub-components|azure-iot-hub-components]]"
 learning-time-in-minutes: 5
 ---
 # Azure IoT Hub Components
@@ -75,4 +75,4 @@ By understanding these core components – the Device Identity Registry, Device 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/azure-iot-hub-components|Azure IoT Hub Components]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/azure-iot-hub-components|Azure IoT Hub Components]]

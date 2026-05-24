@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/socket-communication-flow|socket-communication-flow]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/socket-communication-flow|socket-communication-flow]]"
 learning-time-in-minutes: 5
 ---
 # Socket Communication Flow: The Heartbeat of Networked Applications
@@ -79,4 +79,4 @@ This cycle of sending and receiving, facilitated by the established socket conne
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/socket-communication-flow|Socket Communication Flow]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/socket-communication-flow|Socket Communication Flow]]

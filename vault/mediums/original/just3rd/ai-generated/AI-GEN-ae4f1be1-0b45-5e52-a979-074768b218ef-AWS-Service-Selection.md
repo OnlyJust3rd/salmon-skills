@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-service-selection|aws-service-selection]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-service-selection|aws-service-selection]]"
 learning-time-in-minutes: 3
 ---
 # AWS Service Selection: Matching Needs to Solutions
@@ -60,4 +60,4 @@ Based on the service categories discussed, which categories would you choose for
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-service-selection|AWS Service Selection]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-service-selection|AWS Service Selection]]

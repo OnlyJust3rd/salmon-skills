@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/application-database-integration/microskills/application-database-interaction|application-database-interaction]]"
+outcome: "[[skills/computing/software-engineering/backend-development/application-database-integration/microskills/application-database-interaction|application-database-interaction]]"
 learning-time-in-minutes: 2
 ---
 # Managing Data Flow: Application-Database Interaction
@@ -65,4 +65,4 @@ The database would return a set of rows, each representing an incomplete to-do i
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/application-database-integration/microskills/application-database-interaction|Application-Database Interaction]]
+- [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/application-database-interaction|Application-Database Interaction]]

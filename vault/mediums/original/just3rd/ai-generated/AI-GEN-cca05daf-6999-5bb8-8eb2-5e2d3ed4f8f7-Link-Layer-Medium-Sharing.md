@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/link-layer-medium-sharing|link-layer-medium-sharing]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/link-layer-medium-sharing|link-layer-medium-sharing]]"
 learning-time-in-minutes: 4
 ---
 # Sharing the Airwaves: Understanding Link Layer Medium Sharing
@@ -49,4 +49,4 @@ Imagine you have three devices (Device A, Device B, Device C) that need to send 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/link-layer-medium-sharing|Link Layer Medium Sharing]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/link-layer-medium-sharing|Link Layer Medium Sharing]]

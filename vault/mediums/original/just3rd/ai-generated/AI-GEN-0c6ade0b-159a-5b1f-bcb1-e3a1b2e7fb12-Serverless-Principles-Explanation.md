@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/serverless-principles-explanation|serverless-principles-explanation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-principles-explanation|serverless-principles-explanation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Serverless Principles
@@ -59,4 +59,4 @@ Understanding these core principles is the first step to effectively leveraging 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/serverless-principles-explanation|Serverless Principles Explanation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-principles-explanation|Serverless Principles Explanation]]

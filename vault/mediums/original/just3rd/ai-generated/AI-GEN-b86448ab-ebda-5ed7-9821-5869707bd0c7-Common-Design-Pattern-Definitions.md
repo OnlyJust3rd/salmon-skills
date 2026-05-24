@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/common-design-pattern-definitions|common-design-pattern-definitions]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/common-design-pattern-definitions|common-design-pattern-definitions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Common Software Design Patterns
@@ -68,4 +68,4 @@ For each of the design patterns defined above (Singleton, Factory Method, Observ
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/common-design-pattern-definitions|Common Design Pattern Definitions]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/common-design-pattern-definitions|Common Design Pattern Definitions]]

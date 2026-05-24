@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/flutter/microskills/navigation-route|navigation-route]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/flutter/microskills/navigation-route|navigation-route]]"
 learning-time-in-minutes: 3
 ---
 # Navigation Routes in Flutter
@@ -166,4 +166,4 @@ class DetailsScreen extends StatelessWidget {
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/flutter/microskills/navigation-route|Navigation Route]]
+- [[skills/computing/software-engineering/mobile-development/flutter/microskills/navigation-route|Navigation Route]]

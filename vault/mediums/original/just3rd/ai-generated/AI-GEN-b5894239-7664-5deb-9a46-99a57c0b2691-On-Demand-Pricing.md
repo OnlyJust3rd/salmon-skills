@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/on-demand-pricing|on-demand-pricing]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/on-demand-pricing|on-demand-pricing]]"
 learning-time-in-minutes: 3
 ---
 # Understanding On-Demand Cloud Pricing
@@ -56,4 +56,4 @@ Think about a personal project you might undertake, like building a simple blog 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/on-demand-pricing|On-Demand Pricing]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/on-demand-pricing|On-Demand Pricing]]

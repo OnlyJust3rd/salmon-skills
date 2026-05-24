@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-deployment-configuration|kubernetes-deployment-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-deployment-configuration|kubernetes-deployment-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Kubernetes Deployment Configuration
@@ -194,4 +194,4 @@ Experiment with updating the `replicas` count, changing the `image` to a differe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-deployment-configuration|Kubernetes Deployment Configuration]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-deployment-configuration|Kubernetes Deployment Configuration]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-testing/microskills/system-test-implementation|system-test-implementation]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/system-test-implementation|system-test-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing System Tests with Automated Frameworks
@@ -144,4 +144,4 @@ By effectively implementing system tests, you gain a high level of confidence th
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/software-testing/microskills/system-test-implementation|System Test Implementation]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/microskills/system-test-implementation|System Test Implementation]]

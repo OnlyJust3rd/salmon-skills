@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding VR and AR within the Virtuality Continuum"
+type: medium
+title: Understanding VR and AR within the Virtuality Continuum
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/vr-and-ar-positioning|vr-and-ar-positioning]]"
+outcome: "[[vr-and-ar-positioning|vr-and-ar-positioning]]"
 learning-time-in-minutes: 5
 ---
 # Understanding VR and AR within the Virtuality Continuum
@@ -89,4 +89,4 @@ For each of the following, decide if it's primarily:
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/vr-and-ar-positioning|VR and AR Positioning]]
+- [[vr-and-ar-positioning|VR and AR Positioning]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/continuous-integration/microskills/source-triggers|source-triggers]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/source-triggers|source-triggers]]"
 learning-time-in-minutes: 4
 ---
 # Source Triggers: Kicking Off Your CI Pipeline
@@ -91,4 +91,4 @@ In this example:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/continuous-integration/microskills/source-triggers|Source Triggers]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/source-triggers|Source Triggers]]

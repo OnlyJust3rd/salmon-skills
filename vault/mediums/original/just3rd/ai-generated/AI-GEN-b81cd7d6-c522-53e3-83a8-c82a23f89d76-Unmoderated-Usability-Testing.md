@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Unmoderated Usability Testing"
+type: medium
+title: Unmoderated Usability Testing
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/unmoderated-usability-testing|unmoderated-usability-testing]]"
+outcome: "[[unmoderated-usability-testing|unmoderated-usability-testing]]"
 learning-time-in-minutes: 5
 ---
 # Unmoderated Usability Testing
@@ -86,4 +86,4 @@ Unmoderated usability testing is a valuable tool for gathering quantitative and 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/unmoderated-usability-testing|Unmoderated Usability Testing]]
+- [[unmoderated-usability-testing|Unmoderated Usability Testing]]

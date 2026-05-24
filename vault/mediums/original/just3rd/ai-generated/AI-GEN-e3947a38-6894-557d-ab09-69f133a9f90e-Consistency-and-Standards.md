@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Consistency and Standards in User Experience Design"
+type: medium
+title: Consistency and Standards in User Experience Design
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/consistency-and-standards|consistency-and-standards]]"
+outcome: "[[consistency-and-standards|consistency-and-standards]]"
 learning-time-in-minutes: 5
 ---
 # Consistency and Standards in User Experience Design
@@ -80,4 +80,4 @@ By diligently applying the principle of Consistency and Standards, you build a m
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/consistency-and-standards|Consistency and Standards]]
+- [[consistency-and-standards|Consistency and Standards]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|virtual-memory-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|virtual-memory-functionality]]"
 learning-time-in-minutes: 6
 ---
 # Virtual Memory Functionality
@@ -77,4 +77,4 @@ Virtual memory is a fundamental OS concept that:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|Virtual Memory Functionality]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|Virtual Memory Functionality]]

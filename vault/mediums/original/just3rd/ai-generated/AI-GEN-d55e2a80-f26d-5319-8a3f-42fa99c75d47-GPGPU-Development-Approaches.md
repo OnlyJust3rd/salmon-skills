@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/gpgpu-development-approaches|gpgpu-development-approaches]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-development-approaches|gpgpu-development-approaches]]"
 learning-time-in-minutes: 4
 ---
 # GPGPU Development Approaches
@@ -132,4 +132,4 @@ In summary, GPGPU programming revolves around the host-device model. Developers 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/gpgpu-development-approaches|GPGPU Development Approaches]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-development-approaches|GPGPU Development Approaches]]

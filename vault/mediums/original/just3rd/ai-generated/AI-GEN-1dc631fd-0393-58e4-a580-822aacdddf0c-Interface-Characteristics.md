@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Interface Characteristics"
+type: medium
+title: Understanding Interface Characteristics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/interface-characteristics|interface-characteristics]]"
+outcome: "[[interface-characteristics|interface-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Interface Characteristics
@@ -94,4 +94,4 @@ By understanding these distinct characteristics, you can more easily identify an
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/interface-characteristics|Interface Characteristics]]
+- [[interface-characteristics|Interface Characteristics]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Information Conveyance with Data Visualization"
+type: medium
+title: Understanding Information Conveyance with Data Visualization
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/information-conveyance|information-conveyance]]"
+outcome: "[[information-conveyance|information-conveyance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Information Conveyance with Data Visualization
@@ -80,4 +80,4 @@ Data visualization is not just about making data look pretty; it's a fundamental
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/information-conveyance|Information Conveyance]]
+- [[information-conveyance|Information Conveyance]]

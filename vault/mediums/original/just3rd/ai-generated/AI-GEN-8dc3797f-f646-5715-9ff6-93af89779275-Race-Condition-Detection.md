@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/race-condition-detection|race-condition-detection]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/race-condition-detection|race-condition-detection]]"
 learning-time-in-minutes: 2
 ---
 # Identifying Race Conditions Using Critical Sections
@@ -100,4 +100,4 @@ function add_item(item_data):
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/race-condition-detection|Race Condition Detection]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/race-condition-detection|Race Condition Detection]]

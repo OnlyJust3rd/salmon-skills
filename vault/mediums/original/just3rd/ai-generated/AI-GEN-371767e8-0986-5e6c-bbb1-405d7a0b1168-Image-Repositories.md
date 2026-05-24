@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/artifact-management/microskills/image-repositories|image-repositories]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/image-repositories|image-repositories]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Image Repositories
@@ -55,4 +55,4 @@ This process ensures that everyone in the team is using the exact same applicati
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/artifact-management/microskills/image-repositories|Image Repositories]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/image-repositories|Image Repositories]]

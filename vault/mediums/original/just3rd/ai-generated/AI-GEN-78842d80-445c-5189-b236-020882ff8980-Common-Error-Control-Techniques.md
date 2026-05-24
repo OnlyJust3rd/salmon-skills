@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/common-error-control-techniques|common-error-control-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/common-error-control-techniques|common-error-control-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Common Error Control Techniques
@@ -85,4 +85,4 @@ Consider the 8-bit binary data: `10110010`.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/common-error-control-techniques|Common Error Control Techniques]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/common-error-control-techniques|Common Error Control Techniques]]

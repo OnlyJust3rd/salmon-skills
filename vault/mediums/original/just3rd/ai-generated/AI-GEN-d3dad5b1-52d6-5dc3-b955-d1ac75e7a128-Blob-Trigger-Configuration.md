@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/blob-trigger-configuration|blob-trigger-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/blob-trigger-configuration|blob-trigger-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Blob Trigger Configuration for Serverless Functions
@@ -160,4 +160,4 @@ By mastering blob trigger configuration, you can build powerful, event-driven se
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/blob-trigger-configuration|Blob Trigger Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/blob-trigger-configuration|Blob Trigger Configuration]]

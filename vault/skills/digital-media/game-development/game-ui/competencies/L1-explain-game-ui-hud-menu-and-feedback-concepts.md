@@ -1,13 +1,13 @@
 ---
-type: "competency"
-title: "L2- Explain Game UI HUD Menu and Feedback Concepts"
+type: competency
+title: L2- Explain Game UI HUD Menu and Feedback Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/digital-media/game-development/game-design/competencies/L1-explain-game-elements-and-functions|L1-explain-game-elements-and-functions]]"
-  - "[[skills/professional-practice/human-centered-design/user-experience/competencies/L2-design-ux-flows|L2-design-ux-flows]]"
-  - "[[skills/professional-practice/human-centered-design/visual-interface-design/competencies/L1-understand-ui-design-factors|L1-understand-ui-design-factors]]"
+  - "[[L2-design-ux-flows|L2-design-ux-flows]]"
+  - "[[L1-understand-ui-design-factors|L1-understand-ui-design-factors]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/digital-media/game-development/game-ui/game-ui|game-ui]]"
@@ -29,8 +29,8 @@ Explain game UI, HUD, menu, and feedback concepts.
 
 ## Strict Prerequisites
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/competencies/L1-understand-ui-design-factors|L2- Understand UI Design Factors]]
-- [[skills/professional-practice/human-centered-design/user-experience/competencies/L2-design-ux-flows|L3- Design UX Flows]]
+- [[L1-understand-ui-design-factors|L2- Understand UI Design Factors]]
+- [[L2-design-ux-flows|L3- Design UX Flows]]
 - [[skills/digital-media/game-development/game-design/competencies/L1-explain-game-elements-and-functions|L2- Explain Game Elements and Functions]]
 
 ## Optional Prerequisites

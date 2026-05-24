@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Applying User Experience (UX) Principles to Interface Design"
+type: medium
+title: Applying User Experience (UX) Principles to Interface Design
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/user-experience-principles-application|user-experience-principles-application]]"
+outcome: "[[user-experience-principles-application|user-experience-principles-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying User Experience (UX) Principles to Interface Design
@@ -122,4 +122,4 @@ By actively applying these UX principles during the conceptualization and sketch
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/user-experience-principles-application|User Experience Principles Application]]
+- [[user-experience-principles-application|User Experience Principles Application]]

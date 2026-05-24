@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/computer-network-architecture/microskills/network-layered-models|network-layered-models]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/microskills/network-layered-models|network-layered-models]]"
 learning-time-in-minutes: 4
 ---
 # Network Layered Models
@@ -54,4 +54,4 @@ Identify which layer of the TCP/IP model is primarily responsible for:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/computer-network-architecture/microskills/network-layered-models|Network Layered Models]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/microskills/network-layered-models|Network Layered Models]]

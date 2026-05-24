@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/distributed-environment-utilization|distributed-environment-utilization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/distributed-environment-utilization|distributed-environment-utilization]]"
 learning-time-in-minutes: 4
 ---
 # Understanding GRID Computing's Role in Distributed Environments
@@ -71,4 +71,4 @@ GRID Computing is a powerful paradigm for harnessing the collective power of dis
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/distributed-environment-utilization|Distributed Environment Utilization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/distributed-environment-utilization|Distributed Environment Utilization]]

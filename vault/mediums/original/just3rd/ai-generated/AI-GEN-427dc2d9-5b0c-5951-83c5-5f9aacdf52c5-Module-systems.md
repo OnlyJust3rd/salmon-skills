@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/node-js/microskills/module-systems|module-systems]]"
+outcome: "[[skills/computing/software-engineering/backend-development/node-js/microskills/module-systems|module-systems]]"
 learning-time-in-minutes: 4
 ---
 # Module Systems in Node.js: `require` vs. `import`
@@ -163,4 +163,4 @@ By understanding these two module systems, you gain a fundamental skill for orga
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/node-js/microskills/module-systems|Module systems]]
+- [[skills/computing/software-engineering/backend-development/node-js/microskills/module-systems|Module systems]]

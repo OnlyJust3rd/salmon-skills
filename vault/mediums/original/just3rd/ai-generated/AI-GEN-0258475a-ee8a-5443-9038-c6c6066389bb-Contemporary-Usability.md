@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding the Ripple Effect: How Interface History Shapes Today's UX"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/contemporary-usability|contemporary-usability]]"
+outcome: "[[contemporary-usability|contemporary-usability]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Ripple Effect: How Interface History Shapes Today's UX
@@ -58,4 +58,4 @@ By understanding the journey from text-based commands to sophisticated touch and
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/contemporary-usability|Contemporary Usability]]
+- [[contemporary-usability|Contemporary Usability]]

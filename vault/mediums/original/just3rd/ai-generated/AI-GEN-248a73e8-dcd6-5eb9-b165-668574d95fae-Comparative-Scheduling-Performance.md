@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|comparative-scheduling-performance]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|comparative-scheduling-performance]]"
 learning-time-in-minutes: 3
 ---
 # Comparative Scheduling Performance
@@ -67,4 +67,4 @@ Consider the following set of processes arriving at the CPU:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|Comparative Scheduling Performance]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|Comparative Scheduling Performance]]

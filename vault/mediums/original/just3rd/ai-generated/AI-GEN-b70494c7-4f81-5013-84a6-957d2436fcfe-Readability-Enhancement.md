@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/readability-enhancement|readability-enhancement]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/readability-enhancement|readability-enhancement]]"
 learning-time-in-minutes: 3
 ---
 # Enhancing Code Readability Through Refactoring
@@ -144,4 +144,4 @@ In the long run, well-readable code significantly reduces the cost and effort as
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/readability-enhancement|Readability Enhancement]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/readability-enhancement|Readability Enhancement]]

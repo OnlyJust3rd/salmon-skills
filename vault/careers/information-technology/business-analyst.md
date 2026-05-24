@@ -1,17 +1,17 @@
 ---
-type: "career"
-title: "Business Analyst"
-level: "entry-level"
+type: career
+title: Business Analyst
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
+  - career
+  - information-technology
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-elicit-requirements-and-create-use-case-diagrams|L2-elicit-requirements-and-create-use-case-diagrams]]"
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L1-explain-business-process-modeling-concepts]]"
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L2-apply-bpmn-process-modeling]]"
-  - "[[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-discover-requirements|L2-discover-requirements]]"
-  - "[[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-define-user-requirements|L2-define-user-requirements]]"
+  - "[[L2-discover-requirements|L2-discover-requirements]]"
+  - "[[L2-define-user-requirements|L2-define-user-requirements]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L1-explain-data-model-principles-and-techniques]]"
   - "[[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/competencies/L1-visualization-communication-and-types|L1-visualization-communication-and-types]]"
@@ -31,8 +31,8 @@ A Business Analyst is an entry-level information technology role focused on appl
 - Apply [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-elicit-requirements-and-create-use-case-diagrams|L3- Elicit Requirements and Create Use Case Diagrams]] in day-to-day role work.
 - Apply [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L2- Explain Business Process Modeling Concepts]] in day-to-day role work.
 - Apply [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L3- Apply BPMN Process Modeling]] in day-to-day role work.
-- Apply [[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-discover-requirements|L3- Discover Requirements]] in day-to-day role work.
-- Apply [[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-define-user-requirements|L3- Define User Requirements]] in day-to-day role work.
+- Apply [[L2-discover-requirements|L3- Discover Requirements]] in day-to-day role work.
+- Apply [[L2-define-user-requirements|L3- Define User Requirements]] in day-to-day role work.
 - Apply [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]] in day-to-day role work.
 
 ## Requirements
@@ -40,8 +40,8 @@ A Business Analyst is an entry-level information technology role focused on appl
 - [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L2-elicit-requirements-and-create-use-case-diagrams|L3- Elicit Requirements and Create Use Case Diagrams]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L2- Explain Business Process Modeling Concepts]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L3- Apply BPMN Process Modeling]]
-- [[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-discover-requirements|L3- Discover Requirements]]
-- [[skills/professional-practice/human-centered-design/user-centered-design/competencies/L2-define-user-requirements|L3- Define User Requirements]]
+- [[L2-discover-requirements|L3- Discover Requirements]]
+- [[L2-define-user-requirements|L3- Define User Requirements]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]]
 - [[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/competencies/L1-visualization-communication-and-types|L2- Visualization Communication and Types]]

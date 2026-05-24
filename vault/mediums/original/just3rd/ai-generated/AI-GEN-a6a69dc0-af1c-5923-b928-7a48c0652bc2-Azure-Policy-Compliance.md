@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/azure-policy-compliance|azure-policy-compliance]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-compliance|azure-policy-compliance]]"
 learning-time-in-minutes: 4
 ---
 # Azure Policy Compliance: Auditing and Remediation
@@ -79,4 +79,4 @@ Azure will now create a remediation task. This task will provision an "Initiativ
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/azure-policy-compliance|Azure Policy Compliance]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-compliance|Azure Policy Compliance]]

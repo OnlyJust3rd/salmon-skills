@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cost-optimization-techniques|cost-optimization-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-techniques|cost-optimization-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cost Optimization Techniques
@@ -92,4 +92,4 @@ Review the cloud resources for a small project you are familiar with (or a hypot
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/cost-optimization-techniques|Cost Optimization Techniques]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-techniques|Cost Optimization Techniques]]

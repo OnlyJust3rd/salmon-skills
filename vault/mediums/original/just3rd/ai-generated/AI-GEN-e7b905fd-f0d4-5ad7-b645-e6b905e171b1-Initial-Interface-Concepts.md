@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Initial Interface Concepts"
+type: medium
+title: Initial Interface Concepts
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/initial-interface-concepts|initial-interface-concepts]]"
+outcome: "[[initial-interface-concepts|initial-interface-concepts]]"
 learning-time-in-minutes: 6
 ---
 # Initial Interface Concepts
@@ -115,4 +115,4 @@ By focusing on generating and refining these initial interface concepts, you lay
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/initial-interface-concepts|Initial Interface Concepts]]
+- [[initial-interface-concepts|Initial Interface Concepts]]

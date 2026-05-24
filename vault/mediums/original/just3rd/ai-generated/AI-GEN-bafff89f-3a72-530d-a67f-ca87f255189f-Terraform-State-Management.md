@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-state-management|terraform-state-management]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-state-management|terraform-state-management]]"
 learning-time-in-minutes: 4
 ---
 # Terraform State Management
@@ -139,4 +139,4 @@ Understanding and properly configuring Terraform's state management is a corners
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-state-management|Terraform State Management]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-state-management|Terraform State Management]]

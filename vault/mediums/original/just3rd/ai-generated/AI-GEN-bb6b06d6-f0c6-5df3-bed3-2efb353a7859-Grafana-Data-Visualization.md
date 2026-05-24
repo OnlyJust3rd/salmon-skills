@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/grafana-data-visualization|grafana-data-visualization]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-visualization|grafana-data-visualization]]"
 learning-time-in-minutes: 4
 ---
 # Grafana: Visualizing Your System's Story
@@ -80,4 +80,4 @@ Grafana's strength lies in its ability to take the numerical output from tools l
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/grafana-data-visualization|Grafana Data Visualization]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-visualization|Grafana Data Visualization]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/flutter/microskills/state-update|state-update]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/flutter/microskills/state-update|state-update]]"
 learning-time-in-minutes: 3
 ---
 # State Update in Flutter: Making Your UI Dynamic
@@ -137,4 +137,4 @@ By mastering `setState()`, you gain the power to create interactive and responsi
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/flutter/microskills/state-update|State Update]]
+- [[skills/computing/software-engineering/mobile-development/flutter/microskills/state-update|State Update]]

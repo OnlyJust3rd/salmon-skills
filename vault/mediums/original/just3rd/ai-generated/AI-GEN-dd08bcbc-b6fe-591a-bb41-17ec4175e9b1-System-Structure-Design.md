@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/system-structure-design|system-structure-design]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/system-structure-design|system-structure-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing Software Modules with Clear Responsibilities
@@ -116,4 +116,4 @@ By consciously thinking about assigning clear responsibilities to your software 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/system-structure-design|System Structure Design]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/system-structure-design|System Structure Design]]

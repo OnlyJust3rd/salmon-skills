@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/azure-bicep-syntax|azure-bicep-syntax]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/azure-bicep-syntax|azure-bicep-syntax]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Azure Bicep Syntax
@@ -173,4 +173,4 @@ By understanding and applying these core Bicep syntax elements, you are well on 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/azure-bicep-syntax|Azure Bicep Syntax]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/azure-bicep-syntax|Azure Bicep Syntax]]

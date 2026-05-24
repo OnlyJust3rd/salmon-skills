@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/escalation-path|escalation-path]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/escalation-path|escalation-path]]"
 learning-time-in-minutes: 6
 ---
 # Understanding and Applying Escalation Paths in Incident Management
@@ -101,4 +101,4 @@ By mastering the art of routing issues through the correct escalation paths, you
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/escalation-path|Escalation Path]]
+- [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/escalation-path|Escalation Path]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/communication-flow|communication-flow]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/communication-flow|communication-flow]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Communication Flow in HTTP and DNS
@@ -40,4 +40,4 @@ Think about ordering a pizza online. How would the communication flow work betwe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/communication-flow|Communication Flow]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/communication-flow|Communication Flow]]

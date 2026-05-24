@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/blob-trigger-functionality|blob-trigger-functionality]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/blob-trigger-functionality|blob-trigger-functionality]]"
 learning-time-in-minutes: 5
 ---
 # Blob Triggers: Reacting to Storage Changes
@@ -94,4 +94,4 @@ By understanding and utilizing blob triggers, you can build powerful, event-driv
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/blob-trigger-functionality|Blob Trigger Functionality]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/blob-trigger-functionality|Blob Trigger Functionality]]

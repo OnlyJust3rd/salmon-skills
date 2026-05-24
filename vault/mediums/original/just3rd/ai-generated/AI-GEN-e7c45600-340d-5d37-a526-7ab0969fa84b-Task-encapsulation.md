@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/modular-program-design/microskills/task-encapsulation|task-encapsulation]]"
+outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/task-encapsulation|task-encapsulation]]"
 learning-time-in-minutes: 4
 ---
 # Encapsulating Tasks with Functions in C
@@ -111,4 +111,4 @@ By mastering task encapsulation with functions, you're building a strong foundat
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/modular-program-design/microskills/task-encapsulation|Task encapsulation]]
+- [[skills/computing/programming/programming-principles/modular-program-design/microskills/task-encapsulation|Task encapsulation]]

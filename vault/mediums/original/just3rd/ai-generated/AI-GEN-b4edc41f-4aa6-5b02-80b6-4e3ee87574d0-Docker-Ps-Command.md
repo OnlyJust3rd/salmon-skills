@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-ps-command|docker-ps-command]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-ps-command|docker-ps-command]]"
 learning-time-in-minutes: 3
 ---
 # Listing Running Docker Containers with `docker ps`
@@ -81,4 +81,4 @@ Mastering `docker ps` is a foundational step in effectively managing your Docker
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-ps-command|Docker Ps Command]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-ps-command|Docker Ps Command]]

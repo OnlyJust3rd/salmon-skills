@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding Reusable Components: The Building Blocks of Design Systems"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/design-systems/microskills/reusable-component|reusable-component]]"
+outcome: "[[reusable-component|reusable-component]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Reusable Components: The Building Blocks of Design Systems
@@ -92,4 +92,4 @@ By understanding and effectively utilizing reusable components, you lay the grou
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/design-systems/microskills/reusable-component|Reusable Component]]
+- [[reusable-component|Reusable Component]]

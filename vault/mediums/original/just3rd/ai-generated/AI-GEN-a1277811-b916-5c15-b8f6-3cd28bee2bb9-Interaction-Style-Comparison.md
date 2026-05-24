@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Different Interaction Styles"
+type: medium
+title: Understanding Different Interaction Styles
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/interaction-style-comparison|interaction-style-comparison]]"
+outcome: "[[interaction-style-comparison|interaction-style-comparison]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Different Interaction Styles
@@ -101,4 +101,4 @@ Both direct manipulation and command language have their place in interface desi
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/interaction-style-comparison|Interaction Style Comparison]]
+- [[interaction-style-comparison|Interaction Style Comparison]]

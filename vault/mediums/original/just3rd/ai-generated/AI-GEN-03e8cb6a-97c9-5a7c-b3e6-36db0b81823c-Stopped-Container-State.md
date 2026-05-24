@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/stopped-container-state|stopped-container-state]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/stopped-container-state|stopped-container-state]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Stopped Container State in Docker
@@ -87,4 +87,4 @@ Once a container is stopped, you have a few options:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/stopped-container-state|Stopped Container State]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/stopped-container-state|Stopped Container State]]

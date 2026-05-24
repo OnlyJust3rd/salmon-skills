@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/platform-engineering/microskills/project-planning-techniques|project-planning-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/project-planning-techniques|project-planning-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Project Planning Techniques for Platform Engineering
@@ -104,4 +104,4 @@ By applying these project planning techniques – defining scope, creating reali
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/platform-engineering/microskills/project-planning-techniques|Project Planning Techniques]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/project-planning-techniques|Project Planning Techniques]]

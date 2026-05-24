@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-networks/microskills/wlan-vs-pan-similarities|wlan-vs-pan-similarities]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wlan-vs-pan-similarities|wlan-vs-pan-similarities]]"
 learning-time-in-minutes: 4
 ---
 # WLAN vs. PAN Similarities
@@ -81,4 +81,4 @@ By recognizing these shared characteristics, we can build a more robust understa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-networks/microskills/wlan-vs-pan-similarities|WLAN vs. PAN Similarities]]
+- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wlan-vs-pan-similarities|WLAN vs. PAN Similarities]]

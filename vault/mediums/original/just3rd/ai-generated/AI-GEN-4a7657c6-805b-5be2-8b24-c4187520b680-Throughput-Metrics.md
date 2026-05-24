@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/throughput-metrics|throughput-metrics]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/throughput-metrics|throughput-metrics]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Disk Scheduling Throughput
@@ -104,4 +104,4 @@ When evaluating disk scheduling algorithms, throughput is a crucial metric. Anal
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/throughput-metrics|Throughput Metrics]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/throughput-metrics|Throughput Metrics]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/scalability-prediction|scalability-prediction]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-prediction|scalability-prediction]]"
 learning-time-in-minutes: 5
 ---
 # Predicting System Scalability
@@ -113,4 +113,4 @@ Predicting system scalability is about understanding how your program's performa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/scalability-prediction|Scalability Prediction]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-prediction|Scalability Prediction]]

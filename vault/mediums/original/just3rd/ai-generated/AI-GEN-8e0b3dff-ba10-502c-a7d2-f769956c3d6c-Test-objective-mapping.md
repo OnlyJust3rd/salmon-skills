@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/test-objective-mapping|test-objective-mapping]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-objective-mapping|test-objective-mapping]]"
 learning-time-in-minutes: 5
 ---
 # Mapping Testing Objectives to Program Behavior
@@ -112,4 +112,4 @@ By consciously mapping your testing objectives to specific, observable program b
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/test-objective-mapping|Test objective mapping]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-objective-mapping|Test objective mapping]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/serverless-deployment-differences|serverless-deployment-differences]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/serverless-deployment-differences|serverless-deployment-differences]]"
 learning-time-in-minutes: 5
 ---
 # Serverless Deployment: A New Way to Deploy
@@ -94,4 +94,4 @@ Understanding these deployment variations is key to leveraging the benefits of s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/serverless-deployment-differences|Serverless Deployment Differences]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/serverless-deployment-differences|Serverless Deployment Differences]]

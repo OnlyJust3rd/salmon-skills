@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Moderated Usability Testing: The Facilitator's Role"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/moderated-usability-testing|moderated-usability-testing]]"
+outcome: "[[moderated-usability-testing|moderated-usability-testing]]"
 learning-time-in-minutes: 4
 ---
 # Moderated Usability Testing: The Facilitator's Role
@@ -83,4 +83,4 @@ Moderated usability testing provides deep insights into user behavior. The facil
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/moderated-usability-testing|Moderated Usability Testing]]
+- [[moderated-usability-testing|Moderated Usability Testing]]

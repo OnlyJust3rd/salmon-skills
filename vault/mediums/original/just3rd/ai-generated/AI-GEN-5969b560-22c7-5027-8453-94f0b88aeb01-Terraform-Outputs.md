@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-outputs|terraform-outputs]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-outputs|terraform-outputs]]"
 learning-time-in-minutes: 4
 ---
 # Terraform Outputs: Revealing Your Infrastructure's Secrets
@@ -120,4 +120,4 @@ By mastering Terraform outputs, you gain a powerful mechanism to gain visibility
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-outputs|Terraform Outputs]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-outputs|Terraform Outputs]]

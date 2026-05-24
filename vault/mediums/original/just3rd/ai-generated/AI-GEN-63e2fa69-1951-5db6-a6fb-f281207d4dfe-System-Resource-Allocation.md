@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/system-resource-allocation|system-resource-allocation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/system-resource-allocation|system-resource-allocation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding System Resource Allocation
@@ -103,4 +103,4 @@ If the Head Chef doesn't manage this well, orders will be late, ingredients will
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/system-resource-allocation|System Resource Allocation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/system-resource-allocation|System Resource Allocation]]

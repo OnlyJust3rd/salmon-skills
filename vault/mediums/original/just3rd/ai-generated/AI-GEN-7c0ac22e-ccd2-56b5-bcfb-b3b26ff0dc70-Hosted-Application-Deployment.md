@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/hosted-application-deployment|hosted-application-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/hosted-application-deployment|hosted-application-deployment]]"
 learning-time-in-minutes: 5
 ---
 # Deploying Your Firebase Application with Firebase Hosting
@@ -112,4 +112,4 @@ By leveraging Firebase Hosting, you can focus more on building your application'
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/hosted-application-deployment|Hosted Application Deployment]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/hosted-application-deployment|Hosted Application Deployment]]

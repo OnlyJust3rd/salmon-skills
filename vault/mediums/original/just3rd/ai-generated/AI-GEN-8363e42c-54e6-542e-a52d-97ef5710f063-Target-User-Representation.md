@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Representing Your Target Users: Personas and Scenarios"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/target-user-representation|target-user-representation]]"
+outcome: "[[target-user-representation|target-user-representation]]"
 learning-time-in-minutes: 5
 ---
 # Representing Your Target Users: Personas and Scenarios
@@ -91,4 +91,4 @@ By using both personas and scenarios, you build a robust understanding of your t
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/target-user-representation|Target User Representation]]
+- [[target-user-representation|Target User Representation]]

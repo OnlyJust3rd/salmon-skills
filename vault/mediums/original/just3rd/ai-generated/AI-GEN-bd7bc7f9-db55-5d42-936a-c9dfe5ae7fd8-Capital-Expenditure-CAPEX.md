@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/capital-expenditure-capex|capital-expenditure-capex]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/capital-expenditure-capex|capital-expenditure-capex]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Capital Expenditure (CAPEX) in IT
@@ -56,4 +56,4 @@ For **Scenario A**, identify at least three specific IT components that would co
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/capital-expenditure-capex|Capital Expenditure (CAPEX)]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/capital-expenditure-capex|Capital Expenditure (CAPEX)]]

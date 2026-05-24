@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|heterogeneous-computing-architectures]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|heterogeneous-computing-architectures]]"
 learning-time-in-minutes: 3
 ---
 # Heterogeneous Computing Architectures
@@ -74,4 +74,4 @@ Understanding these distinct architectural components is the first step towards 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|Heterogeneous Computing Architectures]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|Heterogeneous Computing Architectures]]

@@ -31,6 +31,25 @@ Current top-level skill paths:
 - `mathematics/`
 - `professional-practice/`
 
+Current computing taxonomy paths include:
+
+- `computing/computer-science/`
+- `computing/programming/`
+- `computing/software-engineering/`
+- `computing/systems-infrastructure/`
+- `computing/data-ai/`
+- `computing/security-privacy/`
+- `computing/hardware-embedded/`
+
+Current systems infrastructure taxonomy paths include:
+
+- `computing/systems-infrastructure/compute-runtime/`
+- `computing/systems-infrastructure/networking/`
+- `computing/systems-infrastructure/cloud-platforms/`
+- `computing/systems-infrastructure/delivery-platforms/`
+- `computing/systems-infrastructure/operations-reliability/`
+- `computing/systems-infrastructure/system-administration/`
+
 Reserved future top-level skill paths:
 
 - `engineering/`

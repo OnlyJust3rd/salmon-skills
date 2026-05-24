@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/guided-media-characteristics|guided-media-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/guided-media-characteristics|guided-media-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Guided Media Characteristics
@@ -90,4 +90,4 @@ Understanding these characteristics is crucial for selecting the appropriate gui
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/guided-media-characteristics|Guided Media Characteristics]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/guided-media-characteristics|Guided Media Characteristics]]

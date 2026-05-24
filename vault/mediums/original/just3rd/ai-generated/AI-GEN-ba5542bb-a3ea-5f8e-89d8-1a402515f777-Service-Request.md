@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/service-request|service-request]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/service-request|service-request]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Service Requests in IT Service Management
@@ -75,4 +75,4 @@ By understanding and properly managing service requests, IT departments can crea
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/service-request|Service Request]]
+- [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/service-request|Service Request]]

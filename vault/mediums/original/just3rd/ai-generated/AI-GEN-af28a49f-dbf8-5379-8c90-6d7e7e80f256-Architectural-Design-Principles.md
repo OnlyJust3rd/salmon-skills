@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/architectural-design-principles|architectural-design-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/architectural-design-principles|architectural-design-principles]]"
 learning-time-in-minutes: 4
 ---
 # Architectural Design Principles for Microservices
@@ -75,5 +75,5 @@ When you're designing a system with microservices, keep these principles in mind
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/architectural-design-principles|Architectural Design Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/architectural-design-principles|Architectural Design Principles]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/architectural-design-principles|Architectural Design Principles]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Conceptual vs. Concrete Design in Prototyping"
+type: medium
+title: Conceptual vs. Concrete Design in Prototyping
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/conceptual-vs-concrete-design|conceptual-vs-concrete-design]]"
+outcome: "[[conceptual-vs-concrete-design|conceptual-vs-concrete-design]]"
 learning-time-in-minutes: 5
 ---
 # Conceptual vs. Concrete Design in Prototyping
@@ -79,4 +79,4 @@ By understanding and applying the distinct steps of conceptual and concrete desi
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/conceptual-vs-concrete-design|Conceptual vs. Concrete Design]]
+- [[conceptual-vs-concrete-design|Conceptual vs. Concrete Design]]

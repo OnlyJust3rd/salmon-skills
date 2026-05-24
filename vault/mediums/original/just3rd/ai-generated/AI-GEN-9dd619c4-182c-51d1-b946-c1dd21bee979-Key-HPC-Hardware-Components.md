@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/key-hpc-hardware-components|key-hpc-hardware-components]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/key-hpc-hardware-components|key-hpc-hardware-components]]"
 learning-time-in-minutes: 4
 ---
 # HPC System Components: Key Hardware Parts
@@ -85,4 +85,4 @@ By understanding these fundamental hardware components, you build a solid founda
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/key-hpc-hardware-components|Key HPC Hardware Components]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/key-hpc-hardware-components|Key HPC Hardware Components]]

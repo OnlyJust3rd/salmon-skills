@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/linux-kernel-role-in-containers|linux-kernel-role-in-containers]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/linux-kernel-role-in-containers|linux-kernel-role-in-containers]]"
 learning-time-in-minutes: 4
 ---
 # The Linux Kernel: The Engine Behind Containers
@@ -49,4 +49,4 @@ The result is an isolated, resource-controlled environment that behaves like a s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/linux-kernel-role-in-containers|Linux Kernel Role in Containers]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/linux-kernel-role-in-containers|Linux Kernel Role in Containers]]

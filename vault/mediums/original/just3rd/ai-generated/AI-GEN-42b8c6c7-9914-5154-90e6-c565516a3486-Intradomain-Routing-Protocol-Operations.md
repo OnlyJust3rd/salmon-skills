@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/intradomain-routing-protocol-operations|intradomain-routing-protocol-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing-protocol-operations|intradomain-routing-protocol-operations]]"
 learning-time-in-minutes: 5
 ---
 # Illustrating Intradomain Routing Protocol Flow
@@ -115,4 +115,4 @@ By walking through these steps and visualizing the information flow, you can eff
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/intradomain-routing-protocol-operations|Intradomain Routing Protocol Operations]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing-protocol-operations|Intradomain Routing Protocol Operations]]

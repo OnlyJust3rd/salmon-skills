@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|concurrency-coordination]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|concurrency-coordination]]"
 learning-time-in-minutes: 4
 ---
 # Concurrency Coordination: Working Together Safely
@@ -103,4 +103,4 @@ Imagine you are building a simple online voting system. Users can cast votes for
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|Concurrency Coordination]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|Concurrency Coordination]]

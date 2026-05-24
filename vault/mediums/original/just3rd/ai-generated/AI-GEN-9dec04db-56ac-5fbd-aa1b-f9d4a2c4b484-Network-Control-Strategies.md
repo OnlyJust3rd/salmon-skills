@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management/microskills/network-control-strategies|network-control-strategies]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/network-control-strategies|network-control-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Network Control Strategies
@@ -112,4 +112,4 @@ The best strategy or combination of strategies depends on your network's size, c
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management/microskills/network-control-strategies|Network Control Strategies]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/network-control-strategies|Network Control Strategies]]

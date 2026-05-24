@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-segmentation-with-vlans|network-segmentation-with-vlans]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-segmentation-with-vlans|network-segmentation-with-vlans]]"
 learning-time-in-minutes: 3
 ---
 # Network Segmentation with VLANs
@@ -63,4 +63,4 @@ Consider a school network with a single switch. You have computers in the "Libra
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-segmentation-with-vlans|Network Segmentation with VLANs]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-segmentation-with-vlans|Network Segmentation with VLANs]]

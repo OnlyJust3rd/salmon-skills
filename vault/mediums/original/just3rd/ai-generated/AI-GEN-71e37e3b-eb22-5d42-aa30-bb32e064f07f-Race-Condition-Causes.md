@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/race-condition-causes|race-condition-causes]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/race-condition-causes|race-condition-causes]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Race Condition Causes
@@ -87,4 +87,4 @@ Describe a sequence of interleaved operations for the `deposit` function (which 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/race-condition-causes|Race Condition Causes]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/race-condition-causes|Race Condition Causes]]

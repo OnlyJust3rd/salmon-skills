@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/restful-api/microskills/status-code-interpretation|status-code-interpretation]]"
+outcome: "[[skills/computing/software-engineering/backend-development/restful-api/microskills/status-code-interpretation|status-code-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding API Status Codes: A Quick Guide
@@ -66,4 +66,4 @@ By understanding these status code families, you can quickly diagnose issues wit
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/restful-api/microskills/status-code-interpretation|Status code interpretation]]
+- [[skills/computing/software-engineering/backend-development/restful-api/microskills/status-code-interpretation|Status code interpretation]]

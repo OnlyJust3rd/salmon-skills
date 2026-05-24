@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/data-durability-in-containers|data-durability-in-containers]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-durability-in-containers|data-durability-in-containers]]"
 learning-time-in-minutes: 4
 ---
 # Data Durability in Containers
@@ -81,4 +81,4 @@ Docker volumes are fundamental for ensuring that your containerized applications
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/data-durability-in-containers|Data Durability in Containers]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-durability-in-containers|Data Durability in Containers]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/inheritance-application|inheritance-application]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-application|inheritance-application]]"
 learning-time-in-minutes: 3
 ---
 # Inheritance Application
@@ -108,4 +108,4 @@ By mastering inheritance, you can build more organized, maintainable, and extens
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/inheritance-application|Inheritance Application]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-application|Inheritance Application]]

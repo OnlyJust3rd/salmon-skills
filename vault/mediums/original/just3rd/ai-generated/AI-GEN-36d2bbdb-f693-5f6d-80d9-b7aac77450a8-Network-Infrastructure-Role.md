@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-infrastructure-role|network-infrastructure-role]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-infrastructure-role|network-infrastructure-role]]"
 learning-time-in-minutes: 3
 ---
 # Ethernet's Role in the Network Infrastructure
@@ -58,4 +58,4 @@ Identify all the devices in your home or office that are currently connected usi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/network-infrastructure-role|Network Infrastructure Role]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/network-infrastructure-role|Network Infrastructure Role]]

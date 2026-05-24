@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-data-source-configuration|terraform-data-source-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-data-source-configuration|terraform-data-source-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Terraform Data Source Configuration
@@ -112,4 +112,4 @@ By mastering data sources, you can write more robust, adaptable, and maintainabl
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-data-source-configuration|Terraform Data Source Configuration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-data-source-configuration|Terraform Data Source Configuration]]

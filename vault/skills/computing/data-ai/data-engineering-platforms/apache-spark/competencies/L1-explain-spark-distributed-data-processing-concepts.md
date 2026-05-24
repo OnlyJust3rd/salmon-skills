@@ -7,7 +7,7 @@ tags:
 strict-prerequisites:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L1-explain-data-pipeline-concepts]]"
   - "[[L1-library-understanding|L1-library-understanding]]"
-  - "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/competencies/L1-define-parallel-programming-models|L1-define-parallel-programming-models]]"
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/competencies/L1-define-parallel-programming-models|L1-define-parallel-programming-models]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/apache-spark|apache-spark]]"
@@ -30,7 +30,7 @@ Explain Spark distributed data processing concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L2- Explain Data Pipeline Concepts]]
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/competencies/L1-define-parallel-programming-models|L1- Define Parallel Programming Models]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/competencies/L1-define-parallel-programming-models|L1- Define Parallel Programming Models]]
 - [[L1-library-understanding|L2- Library Understanding]]
 
 ## Optional Prerequisites

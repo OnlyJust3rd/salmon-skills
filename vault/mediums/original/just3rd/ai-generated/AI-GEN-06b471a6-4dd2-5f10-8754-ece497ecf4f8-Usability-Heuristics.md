@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Usability Heuristics: Guiding Principles for User-Friendly Design"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/usability-heuristics|usability-heuristics]]"
+outcome: "[[usability-heuristics|usability-heuristics]]"
 learning-time-in-minutes: 5
 ---
 # Usability Heuristics: Guiding Principles for User-Friendly Design
@@ -80,4 +80,4 @@ By consistently applying these principles, you can move towards creating interfa
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/usability-heuristics|Usability Heuristics]]
+- [[usability-heuristics|Usability Heuristics]]

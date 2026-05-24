@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-output-block|terraform-output-block]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-output-block|terraform-output-block]]"
 learning-time-in-minutes: 4
 ---
 # Terraform Output Blocks: Revealing Your Infrastructure's Secrets
@@ -147,4 +147,4 @@ By mastering Terraform output blocks, you gain a powerful tool for making your i
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-output-block|Terraform Output Block]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-output-block|Terraform Output Block]]

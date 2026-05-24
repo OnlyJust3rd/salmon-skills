@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Building Your First Arduino Prototype: Connecting, Coding, and Testing"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/arduino-prototype-construction|arduino-prototype-construction]]"
+outcome: "[[arduino-prototype-construction|arduino-prototype-construction]]"
 learning-time-in-minutes: 5
 ---
 # Building Your First Arduino Prototype: Connecting, Coding, and Testing
@@ -129,4 +129,4 @@ This basic setup provides a foundation for building more complex interactive pro
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/arduino-prototype-construction|Arduino Prototype Construction]]
+- [[arduino-prototype-construction|Arduino Prototype Construction]]

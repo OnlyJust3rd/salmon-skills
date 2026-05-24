@@ -5,8 +5,8 @@ tags:
   - "cpe"
   - "competency"
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
-  - "[[skills/computing/systems-infrastructure/operating-systems/operating-system/competencies/L1-define-os-terms|L1-define-os-terms]]"
+  - "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-define-os-terms|L1-define-os-terms]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/professional-practice/technical-troubleshooting/technical-troubleshooting|technical-troubleshooting]]"
@@ -28,8 +28,8 @@ Explain a structured technical troubleshooting methodology.
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/competencies/L1-define-os-terms|L1- Define OS Terms]]
-- [[skills/computing/systems-infrastructure/networking/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-define-os-terms|L1- Define OS Terms]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Optional Prerequisites
 

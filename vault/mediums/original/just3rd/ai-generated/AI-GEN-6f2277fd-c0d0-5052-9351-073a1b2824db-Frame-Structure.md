@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/frame-structure|frame-structure]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/frame-structure|frame-structure]]"
 learning-time-in-minutes: 3
 ---
 # Data Link Frame Structure
@@ -59,4 +59,4 @@ Consider a scenario where a frame is being sent on an Ethernet network. List the
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/frame-structure|Frame Structure]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/frame-structure|Frame Structure]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/thread-definitions|thread-definitions]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/thread-definitions|thread-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Threads in Operating Systems
@@ -63,4 +63,4 @@ This foundational understanding of threads is a critical step in mastering opera
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/thread-definitions|Thread Definitions]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/thread-definitions|Thread Definitions]]

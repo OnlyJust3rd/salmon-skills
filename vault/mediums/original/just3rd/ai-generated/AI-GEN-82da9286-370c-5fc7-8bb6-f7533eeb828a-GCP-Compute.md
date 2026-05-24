@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-compute|gcp-compute]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-compute|gcp-compute]]"
 learning-time-in-minutes: 5
 ---
 # Understanding GCP Compute Services
@@ -112,4 +112,4 @@ By understanding these core GCP compute services, you're building a solid founda
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-compute|GCP Compute]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-compute|GCP Compute]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/design-pattern-facilitation|design-pattern-facilitation]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-pattern-facilitation|design-pattern-facilitation]]"
 learning-time-in-minutes: 4
 ---
 # How OO Design Principles Pave the Way for Design Patterns
@@ -87,4 +87,4 @@ Object-oriented design principles like responsibility assignment, modularity, an
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/design-pattern-facilitation|Design Pattern Facilitation]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-pattern-facilitation|Design Pattern Facilitation]]

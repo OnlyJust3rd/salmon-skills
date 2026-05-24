@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/protocol-identification|protocol-identification]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/protocol-identification|protocol-identification]]"
 learning-time-in-minutes: 3
 ---
 # Protocol Identification: Knowing Your Application Layer Tools
@@ -57,4 +57,4 @@ For each of the following actions, identify the primary application layer protoc
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/protocol-identification|Protocol Identification]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/protocol-identification|Protocol Identification]]

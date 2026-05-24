@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-memory-mapping|virtual-memory-mapping]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-mapping|virtual-memory-mapping]]"
 learning-time-in-minutes: 5
 ---
 # Virtual Memory Mapping in Virtual Environments
@@ -65,4 +65,4 @@ By understanding how the Guest OS's memory management is translated and mapped b
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-memory-mapping|Virtual Memory Mapping]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-mapping|Virtual Memory Mapping]]

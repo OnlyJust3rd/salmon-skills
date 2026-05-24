@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding How Cognitive and Perceptual Factors Influence Experimental Design"
+type: medium
+title: Understanding How Cognitive and Perceptual Factors Influence Experimental Design
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/experimental-design-influence|experimental-design-influence]]"
+outcome: "[[experimental-design-influence|experimental-design-influence]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How Cognitive and Perceptual Factors Influence Experimental Design
@@ -77,4 +77,4 @@ By considering how users perceive and process information, we can design experim
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/experimental-design-influence|Experimental Design Influence]]
+- [[experimental-design-influence|Experimental Design Influence]]

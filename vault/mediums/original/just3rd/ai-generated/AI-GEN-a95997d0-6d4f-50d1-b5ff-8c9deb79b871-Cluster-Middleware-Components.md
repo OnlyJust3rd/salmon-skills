@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|cluster-middleware-components]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|cluster-middleware-components]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Cluster Middleware Components
@@ -77,4 +77,4 @@ These components work in concert to create a unified and manageable high-perform
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|Cluster Middleware Components]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|Cluster Middleware Components]]

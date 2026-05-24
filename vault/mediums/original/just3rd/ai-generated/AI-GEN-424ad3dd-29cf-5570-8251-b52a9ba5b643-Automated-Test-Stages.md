@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/continuous-integration/microskills/automated-test-stages|automated-test-stages]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/automated-test-stages|automated-test-stages]]"
 learning-time-in-minutes: 4
 ---
 # Automated Test Stages in CI Pipelines
@@ -58,4 +58,4 @@ Consider a simple scenario: You've just added a new feature to a Python applicat
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/continuous-integration/microskills/automated-test-stages|Automated Test Stages]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/automated-test-stages|Automated Test Stages]]

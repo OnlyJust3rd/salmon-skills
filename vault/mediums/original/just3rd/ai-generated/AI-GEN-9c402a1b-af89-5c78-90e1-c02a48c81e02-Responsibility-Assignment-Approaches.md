@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/responsibility-assignment-approaches|responsibility-assignment-approaches]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-approaches|responsibility-assignment-approaches]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing Responsibility Assignment Approaches
@@ -109,4 +109,4 @@ Analyzing responsibility assignment is an iterative process. As you design, you'
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/responsibility-assignment-approaches|Responsibility Assignment Approaches]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-approaches|Responsibility Assignment Approaches]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/encrypted-tunneling|encrypted-tunneling]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/encrypted-tunneling|encrypted-tunneling]]"
 learning-time-in-minutes: 4
 ---
 # Encrypted Tunneling: Building Secure Bridges
@@ -55,4 +55,4 @@ In essence, encrypted tunneling transforms the public internet into a secure con
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/encrypted-tunneling|Encrypted Tunneling]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/encrypted-tunneling|Encrypted Tunneling]]

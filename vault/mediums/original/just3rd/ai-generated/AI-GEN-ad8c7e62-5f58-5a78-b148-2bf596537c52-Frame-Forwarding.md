@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-and-switching/microskills/frame-forwarding|frame-forwarding]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/frame-forwarding|frame-forwarding]]"
 learning-time-in-minutes: 5
 ---
 # Frame Forwarding: How Switches Learn and Direct Traffic
@@ -83,4 +83,4 @@ There are special MAC addresses:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-and-switching/microskills/frame-forwarding|Frame Forwarding]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/frame-forwarding|Frame Forwarding]]

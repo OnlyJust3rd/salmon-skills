@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "The Purpose of Data Visualization in HCI"
+type: medium
+title: The Purpose of Data Visualization in HCI
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/data-visualization-function|data-visualization-function]]"
+outcome: "[[data-visualization-function|data-visualization-function]]"
 learning-time-in-minutes: 4
 ---
 # The Purpose of Data Visualization in HCI
@@ -71,4 +71,4 @@ In summary, data visualization is not an optional add-on in HCI; it's a fundamen
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/data-visualization-function|Data Visualization Function]]
+- [[data-visualization-function|Data Visualization Function]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Crafting Intuitive Interfaces: The Art of Interface Design"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/interface-design|interface-design]]"
+outcome: "[[interface-design|interface-design]]"
 learning-time-in-minutes: 5
 ---
 # Crafting Intuitive Interfaces: The Art of Interface Design
@@ -84,4 +84,4 @@ By consciously applying these principles and steps, you can move beyond simply c
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/interface-design|Interface Design]]
+- [[interface-design|Interface Design]]

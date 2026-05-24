@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/signal-degradation-factors|signal-degradation-factors]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/signal-degradation-factors|signal-degradation-factors]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Signal Degradation Factors
@@ -101,4 +101,4 @@ Understanding attenuation, distortion, and noise is fundamental to grasping how 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/signal-degradation-factors|Signal Degradation Factors]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/signal-degradation-factors|Signal Degradation Factors]]

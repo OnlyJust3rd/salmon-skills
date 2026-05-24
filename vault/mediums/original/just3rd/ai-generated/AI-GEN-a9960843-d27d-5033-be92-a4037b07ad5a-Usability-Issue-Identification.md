@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Identifying Usability Issues with Heuristics"
+type: medium
+title: Identifying Usability Issues with Heuristics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/usability-evaluation/microskills/usability-issue-identification|usability-issue-identification]]"
+outcome: "[[usability-issue-identification|usability-issue-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Usability Issues with Heuristics
@@ -85,4 +85,4 @@ By consistently applying these heuristics and keeping experimental design princi
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/usability-evaluation/microskills/usability-issue-identification|Usability Issue Identification]]
+- [[usability-issue-identification|Usability Issue Identification]]

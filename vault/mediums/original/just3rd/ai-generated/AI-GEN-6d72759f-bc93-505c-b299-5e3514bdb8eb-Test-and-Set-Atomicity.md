@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/test-and-set-atomicity|test-and-set-atomicity]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/test-and-set-atomicity|test-and-set-atomicity]]"
 learning-time-in-minutes: 3
 ---
 # Test-and-Set Atomicity: Ensuring Uninterruptible Operations
@@ -108,4 +108,4 @@ Imagine a scenario where you have a shared counter that multiple threads increme
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/test-and-set-atomicity|Test-and-Set Atomicity]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/test-and-set-atomicity|Test-and-Set Atomicity]]

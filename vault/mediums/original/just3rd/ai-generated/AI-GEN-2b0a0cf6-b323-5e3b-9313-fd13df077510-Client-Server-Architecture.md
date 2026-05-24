@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/client-server-architecture|client-server-architecture]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/client-server-architecture|client-server-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Client-Server Architecture in Socket Programming
@@ -74,4 +74,4 @@ Understanding the distinct roles of clients and servers is the first step to bui
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/client-server-architecture|Client-Server Architecture]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/client-server-architecture|Client-Server Architecture]]

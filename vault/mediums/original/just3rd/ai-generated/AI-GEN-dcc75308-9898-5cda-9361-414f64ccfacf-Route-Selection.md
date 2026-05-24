@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-and-switching/microskills/route-selection|route-selection]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/route-selection|route-selection]]"
 learning-time-in-minutes: 4
 ---
 # Route Selection: How Routers Choose the Best Path
@@ -76,4 +76,4 @@ By understanding the longest prefix match, you gain a fundamental insight into h
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-and-switching/microskills/route-selection|Route Selection]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/route-selection|Route Selection]]

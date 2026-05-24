@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/iaas-application-scenarios|iaas-application-scenarios]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/iaas-application-scenarios|iaas-application-scenarios]]"
 learning-time-in-minutes: 4
 ---
 # IaaS Application Scenarios
@@ -57,4 +57,4 @@ A startup is developing a new web application. They want to use a microservices 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/iaas-application-scenarios|IaaS Application Scenarios]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/iaas-application-scenarios|IaaS Application Scenarios]]

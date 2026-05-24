@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|system-call-process-interaction]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|system-call-process-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Understanding System Call Process Interaction
@@ -116,4 +116,4 @@ By examining the output of `fork()`, the distinct return values, and the subsequ
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|System Call Process Interaction]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|System Call Process Interaction]]

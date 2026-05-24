@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Visibility of System Status"
+type: medium
+title: Visibility of System Status
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/visibility-of-system-status|visibility-of-system-status]]"
+outcome: "[[visibility-of-system-status|visibility-of-system-status]]"
 learning-time-in-minutes: 5
 ---
 # Visibility of System Status
@@ -100,4 +100,4 @@ By consistently applying the principle of Visibility of System Status, you creat
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/visibility-of-system-status|Visibility of System Status]]
+- [[visibility-of-system-status|Visibility of System Status]]

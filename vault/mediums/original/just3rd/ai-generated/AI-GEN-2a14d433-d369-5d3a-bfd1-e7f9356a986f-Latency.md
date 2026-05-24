@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/latency|latency]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/latency|latency]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Latency in Multiplayer Games
@@ -78,5 +78,5 @@ Understanding latency is a crucial step in grasping how multiplayer games functi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/latency|Latency]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/latency|Latency]]
 - [[skills/digital-media/game-development/game-networking/microskills/latency|Latency]]

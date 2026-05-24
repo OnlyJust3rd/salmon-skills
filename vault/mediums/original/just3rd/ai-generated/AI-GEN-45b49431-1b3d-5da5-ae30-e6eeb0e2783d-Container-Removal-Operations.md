@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-removal-operations|container-removal-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-removal-operations|container-removal-operations]]"
 learning-time-in-minutes: 4
 ---
 # Removing Docker Containers
@@ -200,4 +200,4 @@ After these steps, your `docker ps -a` command will show only the containers tha
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-removal-operations|Container Removal Operations]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-removal-operations|Container Removal Operations]]

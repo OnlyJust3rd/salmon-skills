@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/cloud-network-benefits|cloud-network-benefits]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-benefits|cloud-network-benefits]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Benefits of Cloud Networks (VPCs)
@@ -63,4 +63,4 @@ Using a VPC is fundamental to building secure, scalable, and well-managed cloud 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/cloud-network-benefits|Cloud Network Benefits]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-benefits|Cloud Network Benefits]]

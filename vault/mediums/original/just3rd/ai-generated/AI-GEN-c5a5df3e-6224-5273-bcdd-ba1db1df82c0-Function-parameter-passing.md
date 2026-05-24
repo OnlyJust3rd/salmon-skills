@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/modular-program-design/microskills/function-parameter-passing|function-parameter-passing]]"
+outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/function-parameter-passing|function-parameter-passing]]"
 learning-time-in-minutes: 3
 ---
 # Function Parameter Passing in C
@@ -126,4 +126,4 @@ By mastering function parameter passing, you take a significant step towards wri
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/modular-program-design/microskills/function-parameter-passing|Function parameter passing]]
+- [[skills/computing/programming/programming-principles/modular-program-design/microskills/function-parameter-passing|Function parameter passing]]

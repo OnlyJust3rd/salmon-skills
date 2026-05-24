@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/ticket-classification|ticket-classification]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/ticket-classification|ticket-classification]]"
 learning-time-in-minutes: 6
 ---
 # Ticket Classification: The First Step in Incident Resolution
@@ -141,4 +141,4 @@ By mastering ticket classification, you lay the groundwork for efficient IT supp
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/ticket-classification|Ticket Classification]]
+- [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/ticket-classification|Ticket Classification]]

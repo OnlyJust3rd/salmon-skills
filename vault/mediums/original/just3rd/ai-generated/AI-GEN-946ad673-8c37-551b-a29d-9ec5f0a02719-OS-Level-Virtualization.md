@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/os-level-virtualization|os-level-virtualization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization|os-level-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # Understanding OS-Level Virtualization: Shared Kernels
@@ -61,4 +61,4 @@ The crucial point to remember about OS-level virtualization (containers) is the 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/os-level-virtualization|OS-Level Virtualization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization|OS-Level Virtualization]]

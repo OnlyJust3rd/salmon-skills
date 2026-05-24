@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-volume-creation|docker-volume-creation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-volume-creation|docker-volume-creation]]"
 learning-time-in-minutes: 3
 ---
 # Creating Docker Volumes: Persistent Storage for Your Containers
@@ -141,4 +141,4 @@ By mastering the creation of Docker volumes, you've taken a significant step tow
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/docker-volume-creation|Docker Volume Creation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-volume-creation|Docker Volume Creation]]

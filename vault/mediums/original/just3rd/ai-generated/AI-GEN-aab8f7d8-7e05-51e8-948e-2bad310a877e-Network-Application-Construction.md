@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/network-application-construction|network-application-construction]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/network-application-construction|network-application-construction]]"
 learning-time-in-minutes: 4
 ---
 # Network Application Construction
@@ -120,4 +120,4 @@ This simple echo application demonstrates the core process of constructing netwo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/network-application-construction|Network Application Construction]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/network-application-construction|Network Application Construction]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/transport-layer/microskills/reliability-in-networking|reliability-in-networking]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/reliability-in-networking|reliability-in-networking]]"
 learning-time-in-minutes: 6
 ---
 # Reliability in Networking: Ensuring Your Data Arrives Safely
@@ -94,4 +94,4 @@ These mechanisms, working in concert, allow transport layer protocols like TCP (
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/transport-layer/microskills/reliability-in-networking|Reliability in Networking]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/reliability-in-networking|Reliability in Networking]]

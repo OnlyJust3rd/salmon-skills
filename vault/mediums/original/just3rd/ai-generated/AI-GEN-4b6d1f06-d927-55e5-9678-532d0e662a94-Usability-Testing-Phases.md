@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Usability Testing Phases"
+type: medium
+title: Usability Testing Phases
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/usability-testing-phases|usability-testing-phases]]"
+outcome: "[[usability-testing-phases|usability-testing-phases]]"
 learning-time-in-minutes: 4
 ---
 # Usability Testing Phases
@@ -90,4 +90,4 @@ By understanding and remembering these distinct phases, you can better grasp the
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/usability-testing-phases|Usability Testing Phases]]
+- [[usability-testing-phases|Usability Testing Phases]]

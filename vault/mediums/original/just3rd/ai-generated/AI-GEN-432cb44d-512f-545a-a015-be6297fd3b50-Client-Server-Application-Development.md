@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/client-server-application-development|client-server-application-development]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/client-server-application-development|client-server-application-development]]"
 learning-time-in-minutes: 4
 ---
 # Developing Client-Server Applications
@@ -141,4 +141,4 @@ By understanding and implementing these fundamental steps, you can begin to deve
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/client-server-application-development|Client-Server Application Development]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/client-server-application-development|Client-Server Application Development]]

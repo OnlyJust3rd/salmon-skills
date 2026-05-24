@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/prometheus-server-configuration|prometheus-server-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-server-configuration|prometheus-server-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Prometheus Server Configuration
@@ -110,4 +110,4 @@ By mastering the configuration of the Prometheus server, you lay the foundation 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/prometheus-server-configuration|Prometheus Server Configuration]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-server-configuration|Prometheus Server Configuration]]

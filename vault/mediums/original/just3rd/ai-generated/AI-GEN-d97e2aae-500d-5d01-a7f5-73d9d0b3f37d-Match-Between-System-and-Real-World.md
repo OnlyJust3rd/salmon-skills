@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Match Between System and Real World"
+type: medium
+title: Match Between System and Real World
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/match-between-system-and-real-world|match-between-system-and-real-world]]"
+outcome: "[[match-between-system-and-real-world|match-between-system-and-real-world]]"
 learning-time-in-minutes: 5
 ---
 # Match Between System and Real World
@@ -83,4 +83,4 @@ By consistently applying the "Match Between System and Real World" heuristic, yo
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/match-between-system-and-real-world|Match Between System and Real World]]
+- [[match-between-system-and-real-world|Match Between System and Real World]]

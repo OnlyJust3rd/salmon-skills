@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/common-static-analysis-tools|common-static-analysis-tools]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/common-static-analysis-tools|common-static-analysis-tools]]"
 learning-time-in-minutes: 4
 ---
 # Common Static Analysis Tools
@@ -97,4 +97,4 @@ By familiarizing yourself with these common static analysis tools, you gain a pr
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/common-static-analysis-tools|Common Static Analysis Tools]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/common-static-analysis-tools|Common Static Analysis Tools]]

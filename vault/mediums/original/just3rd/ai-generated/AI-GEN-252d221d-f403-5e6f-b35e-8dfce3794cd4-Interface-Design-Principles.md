@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/interface-design-principles|interface-design-principles]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/interface-design-principles|interface-design-principles]]"
 learning-time-in-minutes: 5
 ---
 # Interface Design Principles
@@ -107,4 +107,4 @@ By applying these principles, you can design interfaces that make your software 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/interface-design-principles|Interface Design Principles]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/interface-design-principles|Interface Design Principles]]

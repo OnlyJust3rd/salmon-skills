@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/modular-program-design/microskills/modular-structure-recognition|modular-structure-recognition]]"
+outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/modular-structure-recognition|modular-structure-recognition]]"
 learning-time-in-minutes: 4
 ---
 # Recognizing Modular Structures in Code
@@ -219,4 +219,4 @@ By understanding these common structures, you'll be better equipped to recognize
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/modular-program-design/microskills/modular-structure-recognition|Modular structure recognition]]
+- [[skills/computing/programming/programming-principles/modular-program-design/microskills/modular-structure-recognition|Modular structure recognition]]

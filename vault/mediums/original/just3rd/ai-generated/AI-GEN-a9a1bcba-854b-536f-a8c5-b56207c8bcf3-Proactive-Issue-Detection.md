@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/proactive-issue-detection|proactive-issue-detection]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/proactive-issue-detection|proactive-issue-detection]]"
 learning-time-in-minutes: 5
 ---
 # Proactive Issue Detection: Catching Problems Early
@@ -73,4 +73,4 @@ Understanding the purpose of rule-based alerting goes beyond simply knowing *tha
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/proactive-issue-detection|Proactive Issue Detection]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/proactive-issue-detection|Proactive Issue Detection]]

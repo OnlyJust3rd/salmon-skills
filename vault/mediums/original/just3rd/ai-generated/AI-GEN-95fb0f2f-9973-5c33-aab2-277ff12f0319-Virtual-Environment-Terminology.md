@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-environment-terminology|virtual-environment-terminology]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-environment-terminology|virtual-environment-terminology]]"
 learning-time-in-minutes: 4
 ---
 # Virtual Environment Terminology
@@ -60,4 +60,4 @@ By understanding these fundamental terms, you'll be well-equipped to grasp how t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-environment-terminology|Virtual Environment Terminology]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-environment-terminology|Virtual Environment Terminology]]

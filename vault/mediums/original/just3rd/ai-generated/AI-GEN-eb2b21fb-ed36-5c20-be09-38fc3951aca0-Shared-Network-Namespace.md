@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/shared-network-namespace|shared-network-namespace]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/shared-network-namespace|shared-network-namespace]]"
 learning-time-in-minutes: 4
 ---
 # Shared Network Namespace: The Foundation of Pod Communication
@@ -89,4 +89,4 @@ The shared network namespace is a fundamental feature of Kubernetes Pods. It all
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/shared-network-namespace|Shared Network Namespace]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/shared-network-namespace|Shared Network Namespace]]

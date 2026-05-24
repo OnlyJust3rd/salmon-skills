@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/routing-algorithm-execution|routing-algorithm-execution]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-algorithm-execution|routing-algorithm-execution]]"
 learning-time-in-minutes: 5
 ---
 # Routing Algorithm Execution: Tracing a Packet's Journey
@@ -127,4 +127,4 @@ Assume a routing protocol that uses hop count as the metric.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/routing-algorithm-execution|Routing Algorithm Execution]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-algorithm-execution|Routing Algorithm Execution]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/class-design-patterns|class-design-patterns]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-design-patterns|class-design-patterns]]"
 learning-time-in-minutes: 4
 ---
 # Crafting Classes: Essential Design Patterns
@@ -225,4 +225,4 @@ By consciously applying these and other design patterns, you'll build more robus
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/class-design-patterns|Class design patterns]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-design-patterns|Class design patterns]]

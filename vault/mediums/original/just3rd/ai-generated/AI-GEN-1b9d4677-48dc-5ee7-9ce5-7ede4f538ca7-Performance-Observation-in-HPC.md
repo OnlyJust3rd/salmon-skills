@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|performance-observation-in-hpc]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|performance-observation-in-hpc]]"
 learning-time-in-minutes: 5
 ---
 # Observing HPC Cluster Performance
@@ -77,4 +77,4 @@ By actively observing and understanding the performance of an HPC cluster, we mo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|Performance Observation in HPC]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|Performance Observation in HPC]]

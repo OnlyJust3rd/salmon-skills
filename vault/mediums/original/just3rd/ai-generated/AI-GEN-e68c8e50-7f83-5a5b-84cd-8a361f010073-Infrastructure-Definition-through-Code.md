@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-definition-through-code|infrastructure-definition-through-code]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-definition-through-code|infrastructure-definition-through-code]]"
 learning-time-in-minutes: 3
 ---
 # Defining Infrastructure with Code
@@ -108,4 +108,4 @@ Understanding that your infrastructure is described in configuration files is th
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-definition-through-code|Infrastructure Definition through Code]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-definition-through-code|Infrastructure Definition through Code]]

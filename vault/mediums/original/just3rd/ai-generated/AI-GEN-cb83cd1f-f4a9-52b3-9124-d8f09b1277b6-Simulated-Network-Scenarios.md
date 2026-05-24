@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/simulated-network-scenarios|simulated-network-scenarios]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/simulated-network-scenarios|simulated-network-scenarios]]"
 learning-time-in-minutes: 4
 ---
 # Simulating Intradomain Routing Protocol Flow
@@ -121,4 +121,4 @@ By actively performing these simulations and observing the protocol's reaction, 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/simulated-network-scenarios|Simulated Network Scenarios]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/simulated-network-scenarios|Simulated Network Scenarios]]

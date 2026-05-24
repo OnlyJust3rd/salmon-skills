@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/web-accessibility/microskills/keyboard-accessibility|keyboard-accessibility]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/keyboard-accessibility|keyboard-accessibility]]"
 learning-time-in-minutes: 5
 ---
 # Keyboard Accessibility: Navigating the Web Without a Mouse
@@ -148,4 +148,4 @@ By paying attention to these principles, you make your websites usable for a muc
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/web-accessibility/microskills/keyboard-accessibility|Keyboard Accessibility]]
+- [[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/keyboard-accessibility|Keyboard Accessibility]]

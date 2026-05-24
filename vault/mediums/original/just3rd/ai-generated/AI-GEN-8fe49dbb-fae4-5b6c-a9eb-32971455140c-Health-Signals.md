@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/health-signals|health-signals]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/health-signals|health-signals]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Health Signals in System Monitoring
@@ -71,4 +71,4 @@ Common SHIs include:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/health-signals|Health Signals]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/health-signals|Health Signals]]

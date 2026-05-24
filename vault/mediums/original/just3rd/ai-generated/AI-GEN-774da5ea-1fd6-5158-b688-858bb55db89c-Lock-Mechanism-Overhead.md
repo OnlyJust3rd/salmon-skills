@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|lock-mechanism-overhead]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|lock-mechanism-overhead]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Lock Mechanism Overhead
@@ -131,4 +131,4 @@ Imagine a scenario where you have a linked list that needs to be accessed by mul
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|Lock Mechanism Overhead]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|Lock Mechanism Overhead]]

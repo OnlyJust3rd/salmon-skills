@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/hypervisor-performance-characteristics|hypervisor-performance-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hypervisor-performance-characteristics|hypervisor-performance-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Hypervisor Performance Characteristics: Analyzing the Differences
@@ -75,4 +75,4 @@ When analyzing hypervisor performance, Type-1 hypervisors generally offer superi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/hypervisor-performance-characteristics|Hypervisor Performance Characteristics]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hypervisor-performance-characteristics|Hypervisor Performance Characteristics]]

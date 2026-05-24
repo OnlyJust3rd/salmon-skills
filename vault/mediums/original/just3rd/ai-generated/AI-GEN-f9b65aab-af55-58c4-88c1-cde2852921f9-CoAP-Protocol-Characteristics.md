@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/iot-communication-and-networking/microskills/coap-protocol-characteristics|coap-protocol-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/coap-protocol-characteristics|coap-protocol-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # Understanding CoAP Protocol Characteristics
@@ -103,4 +103,4 @@ CoAP is a powerful protocol for IoT applications due to its low overhead, UDP-ba
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/iot-communication-and-networking/microskills/coap-protocol-characteristics|CoAP Protocol Characteristics]]
+- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/coap-protocol-characteristics|CoAP Protocol Characteristics]]

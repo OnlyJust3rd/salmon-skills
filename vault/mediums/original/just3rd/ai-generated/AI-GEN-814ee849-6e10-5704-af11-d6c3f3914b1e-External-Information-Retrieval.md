@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/external-information-retrieval|external-information-retrieval]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/external-information-retrieval|external-information-retrieval]]"
 learning-time-in-minutes: 4
 ---
 # Fetching External Data with Terraform Data Sources
@@ -122,4 +122,4 @@ By mastering data sources, you significantly increase Terraform's flexibility an
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/external-information-retrieval|External Information Retrieval]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/external-information-retrieval|External Information Retrieval]]

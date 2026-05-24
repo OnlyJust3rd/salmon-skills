@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-cluster-operations|kubernetes-cluster-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cluster-operations|kubernetes-cluster-operations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Kubernetes Cluster Operations for CronJobs
@@ -144,4 +144,4 @@ By mastering these operational aspects, you can effectively leverage Kubernetes 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-cluster-operations|Kubernetes Cluster Operations]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cluster-operations|Kubernetes Cluster Operations]]

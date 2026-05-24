@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/application-database-integration/microskills/data-persistence-mechanisms|data-persistence-mechanisms]]"
+outcome: "[[skills/computing/software-engineering/backend-development/application-database-integration/microskills/data-persistence-mechanisms|data-persistence-mechanisms]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Data Persistence Mechanisms
@@ -61,4 +61,4 @@ These retrieved tasks are then sent to the frontend to be displayed to the user.
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/application-database-integration/microskills/data-persistence-mechanisms|Data Persistence Mechanisms]]
+- [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/data-persistence-mechanisms|Data Persistence Mechanisms]]

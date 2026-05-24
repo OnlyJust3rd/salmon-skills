@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Visual Perception Principles"
+type: medium
+title: Visual Perception Principles
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/visual-perception-principles|visual-perception-principles]]"
+outcome: "[[visual-perception-principles|visual-perception-principles]]"
 learning-time-in-minutes: 4
 ---
 # Visual Perception Principles
@@ -111,4 +111,4 @@ Understanding these visual perception principles provides insight into how we pr
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/visual-perception-principles|Visual Perception Principles]]
+- [[visual-perception-principles|Visual Perception Principles]]

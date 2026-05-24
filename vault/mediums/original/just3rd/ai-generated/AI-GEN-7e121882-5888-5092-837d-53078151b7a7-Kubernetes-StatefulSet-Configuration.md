@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-statefulset-configuration|kubernetes-statefulset-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-statefulset-configuration|kubernetes-statefulset-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes StatefulSet Configuration
@@ -145,4 +145,4 @@ When you apply this Service, Kubernetes will not assign a Cluster IP. Instead, D
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-statefulset-configuration|Kubernetes StatefulSet Configuration]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-statefulset-configuration|Kubernetes StatefulSet Configuration]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/redundant-path-management|redundant-path-management]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/redundant-path-management|redundant-path-management]]"
 learning-time-in-minutes: 4
 ---
 # Managing Redundant Paths with Spanning Tree Protocol (STP)
@@ -72,4 +72,4 @@ If S1 is elected as the Root Bridge, which ports would likely be in a Blocking s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/redundant-path-management|Redundant Path Management]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/redundant-path-management|Redundant Path Management]]

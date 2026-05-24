@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/interaction-test-design|interaction-test-design]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/interaction-test-design|interaction-test-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing Interaction Tests for C Functions
@@ -148,4 +148,4 @@ By systematically designing tests that focus on how data moves and how control i
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/interaction-test-design|Interaction test design]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/interaction-test-design|Interaction test design]]

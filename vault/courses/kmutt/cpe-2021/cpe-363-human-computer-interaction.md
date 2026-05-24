@@ -36,10 +36,10 @@ This course introduces students to Human-Computer Interaction (HCI), an interdis
 
 ## Macro Skills
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/advanced-interaction-paradigms|Advanced Interaction Paradigms]]
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/human-cognitive-and-perception|Human Cognitive and Perception]]
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/human-computer-interaction|Human-Computer Interaction]]
-- [[skills/professional-practice/human-centered-design/interactive-system-development/interactive-system-development|Interactive System Development]]
-- [[skills/professional-practice/human-centered-design/usability-evaluation/usability-evaluation|Usability Evaluation]]
-- [[skills/professional-practice/human-centered-design/user-centered-design/user-centered-design|User-Centered Design]]
-- [[skills/professional-practice/human-centered-design/visual-interface-design/visual-interface-design|Visual Interface Design]]
+- [[advanced-interaction-paradigms|Advanced Interaction Paradigms]]
+- [[human-cognitive-and-perception|Human Cognitive and Perception]]
+- [[human-computer-interaction|Human-Computer Interaction]]
+- [[interactive-system-development|Interactive System Development]]
+- [[usability-evaluation|Usability Evaluation]]
+- [[user-centered-design|User-Centered Design]]
+- [[visual-interface-design|Visual Interface Design]]

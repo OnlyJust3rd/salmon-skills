@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Workspace Awareness Principles in Conversational Technologies"
+type: medium
+title: Workspace Awareness Principles in Conversational Technologies
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/workspace-awareness-principles|workspace-awareness-principles]]"
+outcome: "[[workspace-awareness-principles|workspace-awareness-principles]]"
 learning-time-in-minutes: 3
 ---
 # Workspace Awareness Principles in Conversational Technologies
@@ -54,4 +54,4 @@ Think about a messaging app you use regularly (e.g., Slack, Microsoft Teams, Dis
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/workspace-awareness-principles|Workspace Awareness Principles]]
+- [[workspace-awareness-principles|Workspace Awareness Principles]]

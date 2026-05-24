@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Cognitive Limitations in User Interaction"
+type: medium
+title: Understanding Cognitive Limitations in User Interaction
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/cognitive-process-influence|cognitive-process-influence]]"
+outcome: "[[cognitive-process-influence|cognitive-process-influence]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cognitive Limitations in User Interaction
@@ -81,4 +81,4 @@ When designing experiments to test user interfaces or features, understanding co
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/cognitive-process-influence|Cognitive Process Influence]]
+- [[cognitive-process-influence|Cognitive Process Influence]]

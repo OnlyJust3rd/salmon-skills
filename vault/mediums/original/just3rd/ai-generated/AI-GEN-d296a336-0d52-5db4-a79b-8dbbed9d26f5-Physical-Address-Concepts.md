@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/physical-address-concepts|physical-address-concepts]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/physical-address-concepts|physical-address-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Physical Addresses
@@ -63,4 +63,4 @@ By grasping the concept of a physical address as the direct, hardware-level loca
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/physical-address-concepts|Physical Address Concepts]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/physical-address-concepts|Physical Address Concepts]]

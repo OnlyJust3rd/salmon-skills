@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/data-link-layer-framing|data-link-layer-framing]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/data-link-layer-framing|data-link-layer-framing]]"
 learning-time-in-minutes: 3
 ---
 # Framing Data for Reliable Delivery
@@ -61,4 +61,4 @@ Your task is to conceptualize how the `Raw Data Payload` would be assembled into
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/data-link-layer-framing|Data Link Layer Framing]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/data-link-layer-framing|Data Link Layer Framing]]

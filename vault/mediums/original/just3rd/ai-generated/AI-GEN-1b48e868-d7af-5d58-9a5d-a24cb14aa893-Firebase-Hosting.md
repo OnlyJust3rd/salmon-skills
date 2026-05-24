@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/firebase-hosting|firebase-hosting]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-hosting|firebase-hosting]]"
 learning-time-in-minutes: 4
 ---
 # Firebase Hosting: Managed Web App Deployment
@@ -102,4 +102,4 @@ By abstracting away the complexities of server management and CDNs, Firebase Hos
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/firebase-hosting|Firebase Hosting]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-hosting|Firebase Hosting]]

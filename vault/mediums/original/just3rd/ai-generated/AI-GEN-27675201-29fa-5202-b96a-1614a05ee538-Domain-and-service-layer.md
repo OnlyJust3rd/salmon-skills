@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/backend-web-api-concept/microskills/domain-and-service-layer|domain-and-service-layer]]"
+outcome: "[[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/domain-and-service-layer|domain-and-service-layer]]"
 learning-time-in-minutes: 3
 ---
 # The Domain and Service Layers: Where Business Logic Lives
@@ -54,4 +54,4 @@ Describe the responsibilities of the HTTP adapter, the Service Layer, and the Do
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/backend-web-api-concept/microskills/domain-and-service-layer|Domain and service layer]]
+- [[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/domain-and-service-layer|Domain and service layer]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/load-balancer-configuration|load-balancer-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/load-balancer-configuration|load-balancer-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Configuring Cloud Load Balancers
@@ -117,4 +117,4 @@ While specific cloud provider interfaces vary, the core concepts for configuring
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/load-balancer-configuration|Load Balancer Configuration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/load-balancer-configuration|Load Balancer Configuration]]

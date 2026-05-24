@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management/microskills/network-monitoring-principles|network-monitoring-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/network-monitoring-principles|network-monitoring-principles]]"
 learning-time-in-minutes: 4
 ---
 # Network Monitoring Principles
@@ -63,4 +63,4 @@ By understanding these fundamental principles, you lay the groundwork for more a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management/microskills/network-monitoring-principles|Network Monitoring Principles]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/network-monitoring-principles|Network Monitoring Principles]]

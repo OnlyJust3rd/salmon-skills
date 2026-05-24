@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/test-and-set-lock-implementation|test-and-set-lock-implementation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/test-and-set-lock-implementation|test-and-set-lock-implementation]]"
 learning-time-in-minutes: 2
 ---
 # Implementing a Test-and-Set Lock
@@ -85,4 +85,4 @@ Implement the `acquire_lock` and `release_lock` functions using a hypothetical `
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/microskills/test-and-set-lock-implementation|Test-and-Set Lock Implementation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/test-and-set-lock-implementation|Test-and-Set Lock Implementation]]

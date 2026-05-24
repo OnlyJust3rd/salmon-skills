@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/ipv6-structure|ipv6-structure]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ipv6-structure|ipv6-structure]]"
 learning-time-in-minutes: 4
 ---
 # IPv6 Structure: Understanding the Blueprint
@@ -102,4 +102,4 @@ The IPv6 header is also different from IPv4. It's simplified in some ways to imp
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/ipv6-structure|IPv6 Structure]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ipv6-structure|IPv6 Structure]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/data-migration-with-volumes|data-migration-with-volumes]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-migration-with-volumes|data-migration-with-volumes]]"
 learning-time-in-minutes: 5
 ---
 # Data Migration with Docker Volumes
@@ -115,4 +115,4 @@ By understanding and utilizing Docker volumes effectively, you can confidently m
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/data-migration-with-volumes|Data Migration with Volumes]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-migration-with-volumes|Data Migration with Volumes]]

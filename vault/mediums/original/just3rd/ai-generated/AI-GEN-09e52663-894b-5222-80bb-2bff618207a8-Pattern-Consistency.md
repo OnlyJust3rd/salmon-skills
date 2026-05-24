@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Pattern Consistency: The Backbone of Predictable Interfaces"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/design-systems/microskills/pattern-consistency|pattern-consistency]]"
+outcome: "[[pattern-consistency|pattern-consistency]]"
 learning-time-in-minutes: 6
 ---
 # Pattern Consistency: The Backbone of Predictable Interfaces
@@ -100,4 +100,4 @@ By diligently applying and maintaining pattern consistency, you create interface
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/design-systems/microskills/pattern-consistency|Pattern Consistency]]
+- [[pattern-consistency|Pattern Consistency]]

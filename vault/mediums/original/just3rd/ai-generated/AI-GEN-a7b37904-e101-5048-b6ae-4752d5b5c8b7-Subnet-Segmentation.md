@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/subnet-segmentation|subnet-segmentation]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/subnet-segmentation|subnet-segmentation]]"
 learning-time-in-minutes: 3
 ---
 # Subnet Segmentation: Dividing Your Virtual Network
@@ -61,4 +61,4 @@ This segmentation ensures that even if a web server is compromised, the attacker
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/subnet-segmentation|Subnet Segmentation]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/subnet-segmentation|Subnet Segmentation]]

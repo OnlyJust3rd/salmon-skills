@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/process-execution-simulation|process-execution-simulation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/process-execution-simulation|process-execution-simulation]]"
 learning-time-in-minutes: 3
 ---
 # Simulating Process Execution with Scheduling Algorithms
@@ -75,4 +75,4 @@ Simulate their execution using the **Shortest Job First (SJF)** non-preemptive s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/process-execution-simulation|Process Execution Simulation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/process-execution-simulation|Process Execution Simulation]]

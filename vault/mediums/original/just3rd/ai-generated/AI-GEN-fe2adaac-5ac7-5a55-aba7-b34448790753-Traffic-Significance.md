@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/traffic-significance|traffic-significance]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-significance|traffic-significance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Traffic Significance in System Monitoring
@@ -87,4 +87,4 @@ Understanding traffic significance means recognizing that the volume of requests
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/traffic-significance|Traffic Significance]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-significance|Traffic Significance]]

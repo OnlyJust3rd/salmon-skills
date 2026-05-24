@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/socket-programming/microskills/network-communication-primitives|network-communication-primitives]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/network-communication-primitives|network-communication-primitives]]"
 learning-time-in-minutes: 4
 ---
 # Network Communication Primitives: The Building Blocks of Sockets
@@ -133,4 +133,4 @@ These seven functions – `socket()`, `bind()`, `listen()`, `accept()`, `connect
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/socket-programming/microskills/network-communication-primitives|Network Communication Primitives]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/microskills/network-communication-primitives|Network Communication Primitives]]

@@ -6,7 +6,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/competencies/L1-explain-event-streaming-and-kafka-concepts|L1-explain-event-streaming-and-kafka-concepts]]"
-  - "[[skills/computing/web-mobile/backend-api/json-format/competencies/L1-explain-json-in-http-message-bodies|L1-explain-json-in-http-message-bodies]]"
+  - "[[skills/computing/software-engineering/backend-development/json-format/competencies/L1-explain-json-in-http-message-bodies|L1-explain-json-in-http-message-bodies]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/apache-kafka|apache-kafka]]"
@@ -29,7 +29,7 @@ Apply Kafka producer, consumer, and topic concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/competencies/L1-explain-event-streaming-and-kafka-concepts|L2- Explain Event Streaming and Kafka Concepts]]
-- [[skills/computing/web-mobile/backend-api/json-format/competencies/L1-explain-json-in-http-message-bodies|L2- Explain JSON in HTTP Message Bodies]]
+- [[skills/computing/software-engineering/backend-development/json-format/competencies/L1-explain-json-in-http-message-bodies|L2- Explain JSON in HTTP Message Bodies]]
 
 ## Optional Prerequisites
 

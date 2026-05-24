@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/client-sdk-integration|client-sdk-integration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/client-sdk-integration|client-sdk-integration]]"
 learning-time-in-minutes: 4
 ---
 # Client SDK Integration with Firebase
@@ -246,4 +246,4 @@ By successfully integrating the Firebase client SDK, you've laid the groundwork 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/firebase/microskills/client-sdk-integration|Client SDK Integration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/client-sdk-integration|Client SDK Integration]]

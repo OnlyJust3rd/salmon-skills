@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|speedup-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|speedup-definition]]"
 learning-time-in-minutes: 4
 ---
 # Speedup Definition
@@ -75,4 +75,4 @@ Speedup quantifies the performance improvement gained by using multiple processo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|Speedup Definition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|Speedup Definition]]

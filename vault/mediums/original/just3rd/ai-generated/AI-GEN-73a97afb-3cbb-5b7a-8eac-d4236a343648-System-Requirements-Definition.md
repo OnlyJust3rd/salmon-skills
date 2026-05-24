@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Defining System Requirements: Functional vs. Non-Functional"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/system-requirements-definition|system-requirements-definition]]"
+outcome: "[[system-requirements-definition|system-requirements-definition]]"
 learning-time-in-minutes: 4
 ---
 # Defining System Requirements: Functional vs. Non-Functional
@@ -68,4 +68,4 @@ By clearly distinguishing and defining both functional and non-functional requir
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/system-requirements-definition|System Requirements Definition]]
+- [[system-requirements-definition|System Requirements Definition]]

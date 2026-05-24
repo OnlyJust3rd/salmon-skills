@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/web-application-concept/microskills/rendering-context|rendering-context]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/rendering-context|rendering-context]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Browser's Rendering Context
@@ -54,4 +54,4 @@ Imagine a simple to-do list application.
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/web-application-concept/microskills/rendering-context|Rendering context]]
+- [[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/rendering-context|Rendering context]]

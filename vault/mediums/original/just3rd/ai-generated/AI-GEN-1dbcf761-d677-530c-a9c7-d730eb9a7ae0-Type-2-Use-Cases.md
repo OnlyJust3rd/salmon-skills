@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/type-2-use-cases|type-2-use-cases]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-2-use-cases|type-2-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Type-2 Hypervisor Use Cases: When Simplicity Trumps Raw Performance
@@ -77,4 +77,4 @@ By understanding these use cases, you can effectively leverage the convenience a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/type-2-use-cases|Type-2 Use Cases]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-2-use-cases|Type-2 Use Cases]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/secrets-management/microskills/runtime-injection|runtime-injection]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/runtime-injection|runtime-injection]]"
 learning-time-in-minutes: 4
 ---
 # Runtime Injection of Secrets
@@ -121,4 +121,4 @@ By mastering runtime injection, you ensure that your sensitive credentials and c
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/secrets-management/microskills/runtime-injection|Runtime Injection]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/runtime-injection|Runtime Injection]]

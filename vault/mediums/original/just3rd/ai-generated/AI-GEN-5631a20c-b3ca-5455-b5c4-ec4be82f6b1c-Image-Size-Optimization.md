@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/image-size-optimization|image-size-optimization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/image-size-optimization|image-size-optimization]]"
 learning-time-in-minutes: 4
 ---
 # Image Size Optimization: Understanding Layering's Impact
@@ -77,4 +77,4 @@ By understanding that each `RUN` instruction creates a distinct layer and that f
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/image-size-optimization|Image Size Optimization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/image-size-optimization|Image Size Optimization]]

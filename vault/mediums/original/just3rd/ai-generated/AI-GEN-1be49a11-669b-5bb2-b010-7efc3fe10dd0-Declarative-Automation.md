@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/declarative-automation|declarative-automation]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation|declarative-automation]]"
 learning-time-in-minutes: 4
 ---
 # Declarative Automation in Infrastructure as Code
@@ -84,4 +84,4 @@ By focusing on the desired state, declarative automation allows you to treat you
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/declarative-automation|Declarative Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation|Declarative Automation]]

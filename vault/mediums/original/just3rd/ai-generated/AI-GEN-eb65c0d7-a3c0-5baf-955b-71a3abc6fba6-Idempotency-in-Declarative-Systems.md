@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/idempotency-in-declarative-systems|idempotency-in-declarative-systems]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-declarative-systems|idempotency-in-declarative-systems]]"
 learning-time-in-minutes: 5
 ---
 # Idempotency in Declarative Systems
@@ -103,4 +103,4 @@ Idempotency is a fundamental principle for successful Infrastructure as Code and
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/idempotency-in-declarative-systems|Idempotency in Declarative Systems]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-declarative-systems|Idempotency in Declarative Systems]]

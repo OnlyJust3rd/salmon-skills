@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding and Creating User Journey Maps"
+type: medium
+title: Understanding and Creating User Journey Maps
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-journey-mapping|user-journey-mapping]]"
+outcome: "[[user-journey-mapping|user-journey-mapping]]"
 learning-time-in-minutes: 6
 ---
 # Understanding and Creating User Journey Maps
@@ -106,4 +106,4 @@ By actively creating and using user journey maps, you can gain critical insights
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-journey-mapping|User Journey Mapping]]
+- [[user-journey-mapping|User Journey Mapping]]

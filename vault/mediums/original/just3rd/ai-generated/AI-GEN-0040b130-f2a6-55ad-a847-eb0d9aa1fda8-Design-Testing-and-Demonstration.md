@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Prototyping for Interactive System Testing and Demonstration"
+type: medium
+title: Prototyping for Interactive System Testing and Demonstration
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/design-testing-and-demonstration|design-testing-and-demonstration]]"
+outcome: "[[design-testing-and-demonstration|design-testing-and-demonstration]]"
 learning-time-in-minutes: 5
 ---
 # Prototyping for Interactive System Testing and Demonstration
@@ -114,4 +114,4 @@ By building and testing prototypes, you actively apply your design knowledge, va
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/design-testing-and-demonstration|Design Testing and Demonstration]]
+- [[design-testing-and-demonstration|Design Testing and Demonstration]]

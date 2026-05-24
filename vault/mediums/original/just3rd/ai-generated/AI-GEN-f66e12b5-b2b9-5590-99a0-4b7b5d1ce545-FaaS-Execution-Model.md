@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/faas-execution-model|faas-execution-model]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-execution-model|faas-execution-model]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the FaaS Execution Model
@@ -56,4 +56,4 @@ Consider another scenario: a user submits a form on your website.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/faas-execution-model|FaaS Execution Model]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-execution-model|FaaS Execution Model]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/azure-policy-definition|azure-policy-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-definition|azure-policy-definition]]"
 learning-time-in-minutes: 3
 ---
 # Azure Policy Definitions: Enforcing Governance
@@ -100,4 +100,4 @@ Hint: You will need to use `field: "tags.[Environment]"` and potentially an `in`
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/azure-policy-definition|Azure Policy Definition]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-definition|Azure Policy Definition]]

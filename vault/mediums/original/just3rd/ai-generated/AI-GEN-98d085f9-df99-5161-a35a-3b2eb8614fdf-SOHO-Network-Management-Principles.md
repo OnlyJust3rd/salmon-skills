@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management/microskills/soho-network-management-principles|soho-network-management-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/soho-network-management-principles|soho-network-management-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding SOHO Network Management Principles
@@ -113,4 +113,4 @@ Understanding these fundamental SOHO network management principles empowers you 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management/microskills/soho-network-management-principles|SOHO Network Management Principles]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/soho-network-management-principles|SOHO Network Management Principles]]

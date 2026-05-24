@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/iot-communication-and-networking/microskills/http-rest-protocol-characteristics|http-rest-protocol-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/http-rest-protocol-characteristics|http-rest-protocol-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # HTTP/REST Protocol Characteristics
@@ -80,4 +80,4 @@ Despite its constraints, HTTP/REST remains a viable choice for many IoT applicat
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/iot-communication-and-networking/microskills/http-rest-protocol-characteristics|HTTP/REST Protocol Characteristics]]
+- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/http-rest-protocol-characteristics|HTTP/REST Protocol Characteristics]]

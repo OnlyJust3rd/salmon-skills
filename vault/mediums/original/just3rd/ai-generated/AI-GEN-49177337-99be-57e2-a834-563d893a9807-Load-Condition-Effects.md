@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-performance/microskills/load-condition-effects|load-condition-effects]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/load-condition-effects|load-condition-effects]]"
 learning-time-in-minutes: 4
 ---
 # Load Condition Effects on Congestion Control
@@ -70,4 +70,4 @@ By systematically observing these metrics under varying load conditions, you can
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-performance/microskills/load-condition-effects|Load Condition Effects]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/load-condition-effects|Load Condition Effects]]

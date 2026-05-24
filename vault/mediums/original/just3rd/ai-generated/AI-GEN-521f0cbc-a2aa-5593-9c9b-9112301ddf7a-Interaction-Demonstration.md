@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Demonstrating XR Interactions in a Prototype"
+type: medium
+title: Demonstrating XR Interactions in a Prototype
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/interaction-demonstration|interaction-demonstration]]"
+outcome: "[[interaction-demonstration|interaction-demonstration]]"
 learning-time-in-minutes: 3
 ---
 # Demonstrating XR Interactions in a Prototype
@@ -62,4 +62,4 @@ Focus on making the grab, hold, rotate, and release sequence smooth and responsi
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/interaction-demonstration|Interaction Demonstration]]
+- [[interaction-demonstration|Interaction Demonstration]]

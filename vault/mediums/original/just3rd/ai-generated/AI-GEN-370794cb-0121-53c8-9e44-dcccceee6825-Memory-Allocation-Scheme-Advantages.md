@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-advantages|memory-allocation-scheme-advantages]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-advantages|memory-allocation-scheme-advantages]]"
 learning-time-in-minutes: 4
 ---
 # Advantages of Memory Allocation Schemes
@@ -48,4 +48,4 @@ By understanding these advantages, you can better analyze how different memory a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-advantages|Memory Allocation Scheme Advantages]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-advantages|Memory Allocation Scheme Advantages]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-diagnostics|network-diagnostics]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-diagnostics|network-diagnostics]]"
 learning-time-in-minutes: 5
 ---
 # ICMP: The Network's Diagnostic Tool
@@ -72,4 +72,4 @@ By understanding these core ICMP functions, you gain a powerful insight into how
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-diagnostics|Network Diagnostics]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-diagnostics|Network Diagnostics]]

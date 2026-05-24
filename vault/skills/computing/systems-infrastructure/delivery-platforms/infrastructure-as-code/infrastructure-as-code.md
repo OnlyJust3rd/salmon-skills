@@ -1,0 +1,172 @@
+---
+type: "skill"
+title: "Infrastructure as Code"
+tags:
+  - "cpe"
+  - "skill"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+competencies:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-define-iac|L1-define-iac]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-iac-concepts|L1-iac-concepts]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-list-iac-tools|L1-list-iac-tools]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-explain-declarative-automation|L1-explain-declarative-automation]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-explain-iac-principles|L1-explain-iac-principles]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-explain-terraform-blocks|L1-explain-terraform-blocks]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-terraform-state-and-idempotency|L1-terraform-state-and-idempotency]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-iac-principles|L2-apply-iac-principles]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L2-apply-terraform-building-blocks]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-yaml-for-kubernetes|L2-apply-yaml-for-kubernetes]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-provision-infrastructure-with-bicep|L2-provision-infrastructure-with-bicep]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-provision-kubernetes-resource-with-terraform|L2-provision-kubernetes-resource-with-terraform]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-terraform-provisioning|L2-terraform-provisioning]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-use-data-sources|L2-use-data-sources]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L3-contrast-automation-approaches|L3-contrast-automation-approaches]]"
+standard-competency:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-iac-principles|L2-apply-iac-principles]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L2-apply-terraform-building-blocks]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-yaml-for-kubernetes|L2-apply-yaml-for-kubernetes]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-provision-infrastructure-with-bicep|L2-provision-infrastructure-with-bicep]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-provision-kubernetes-resource-with-terraform|L2-provision-kubernetes-resource-with-terraform]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-terraform-provisioning|L2-terraform-provisioning]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-use-data-sources|L2-use-data-sources]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L3-contrast-automation-approaches|L3-contrast-automation-approaches]]"
+microskills:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/ansible|ansible]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automated-infrastructure-deployment|automated-infrastructure-deployment]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-and-orchestration|automation-and-orchestration]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-approach-comparison|automation-approach-comparison]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-logic|automation-logic]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/azure-bicep-syntax|azure-bicep-syntax]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/benefits-of-iac|benefits-of-iac]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-deployment-commands|bicep-deployment-commands]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-resource-definition|bicep-resource-definition]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/chef|chef]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/cloud-specific-iac-tools|cloud-specific-iac-tools]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/consistency-and-repeatability|consistency-and-repeatability]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation-principles|declarative-automation-principles]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation|declarative-automation]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-infrastructure-definition|declarative-infrastructure-definition]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/desired-state-definition|desired-state-definition]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/dynamic-configuration|dynamic-configuration]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/external-information-retrieval|external-information-retrieval]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/iac-benefits|iac-benefits]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-enforcement|idempotency-enforcement]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-declarative-systems|idempotency-in-declarative-systems]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-provisioning|idempotency-in-provisioning]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation-principles|imperative-automation-principles]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation|imperative-automation]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|infrastructure-as-code-best-practices]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-definition|infrastructure-as-code-definition]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-consistency|infrastructure-consistency]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-definition-through-code|infrastructure-definition-through-code]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-orchestration|infrastructure-orchestration]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-provisioning|infrastructure-provisioning]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-resource-provisioning|infrastructure-resource-provisioning]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-api-interaction|kubernetes-api-interaction]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-object-configuration|kubernetes-object-configuration]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|kubernetes-resource-definition-in-terraform]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-manifests|kubernetes-resource-manifests]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/puppet|puppet]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/state-management-techniques|state-management-techniques]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-apply-for-kubernetes|terraform-apply-for-kubernetes]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-commands|terraform-commands]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-data-source-configuration|terraform-data-source-configuration]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-kubernetes-provider|terraform-kubernetes-provider]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-output-block|terraform-output-block]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-outputs|terraform-outputs]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-provider-block|terraform-provider-block]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-providers|terraform-providers]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resource-block|terraform-resource-block]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resources|terraform-resources]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-state-file|terraform-state-file]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-state-management|terraform-state-management]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variable-block|terraform-variable-block]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variables|terraform-variables]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform|terraform]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-automation-approaches|use-cases-for-automation-approaches]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-declarative-automation|use-cases-for-declarative-automation]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/version-control-for-infrastructure|version-control-for-infrastructure]]"
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|yaml-structure-for-kubernetes]]"
+---
+
+# Infrastructure as Code
+
+Define infrastructure through code using Infrastructure as Code (IaC) principles. Contrast declarative and imperative automation approaches. Utilize Terraform for infrastructure provisioning, managing its state and ensuring idempotency. Apply Terraform's core building blocks, including providers, resources, variables, and outputs. Use Terraform data sources to retrieve information. Implement infrastructure provisioning using Azure Bicep.
+
+## Competencies
+
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-define-iac|L1- Define IaC]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L3-contrast-automation-approaches|L4- Contrast automation approaches]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-terraform-provisioning|L3- Terraform Provisioning]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L3- Apply Terraform Building Blocks]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-use-data-sources|L3- Use Data Sources]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-provision-infrastructure-with-bicep|L3- Provision Infrastructure with Bicep]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-iac-principles|L3- Apply IaC Principles]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-terraform-state-and-idempotency|L2- Terraform State and Idempotency]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-list-iac-tools|L1- List IaC Tools]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-explain-iac-principles|L2- Explain IaC Principles]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-explain-terraform-blocks|L2- Explain Terraform Blocks]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-provision-kubernetes-resource-with-terraform|L3- Provision Kubernetes Resource with Terraform]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-yaml-for-kubernetes|L3- Apply YAML for Kubernetes]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-explain-declarative-automation|L2- Explain Declarative Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L1-iac-concepts|L1- IaC Concepts]]
+
+## Microskills
+
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/ansible|Ansible]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automated-infrastructure-deployment|Automated Infrastructure Deployment]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-and-orchestration|Automation and Orchestration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-approach-comparison|Automation Approach Comparison]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-logic|Automation Logic]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/azure-bicep-syntax|Azure Bicep Syntax]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/benefits-of-iac|Benefits of IaC]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-deployment-commands|Bicep Deployment Commands]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-resource-definition|Bicep Resource Definition]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/chef|Chef]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/cloud-specific-iac-tools|Cloud-Specific IaC Tools]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/consistency-and-repeatability|Consistency and Repeatability]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation|Declarative Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation-principles|Declarative Automation Principles]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-infrastructure-definition|Declarative Infrastructure Definition]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/desired-state-definition|Desired State Definition]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/dynamic-configuration|Dynamic Configuration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/external-information-retrieval|External Information Retrieval]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/iac-benefits|IaC Benefits]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-enforcement|Idempotency Enforcement]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-declarative-systems|Idempotency in Declarative Systems]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-provisioning|Idempotency in Provisioning]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation|Imperative Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation-principles|Imperative Automation Principles]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|Infrastructure as Code Best Practices]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-definition|Infrastructure as Code Definition]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-consistency|Infrastructure Consistency]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-definition-through-code|Infrastructure Definition through Code]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-orchestration|Infrastructure Orchestration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-provisioning|Infrastructure Provisioning]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-resource-provisioning|Infrastructure Resource Provisioning]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-api-interaction|Kubernetes API Interaction]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-object-configuration|Kubernetes Object Configuration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|Kubernetes Resource Definition in Terraform]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-manifests|Kubernetes Resource Manifests]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/puppet|Puppet]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/state-management-techniques|State Management Techniques]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform|Terraform]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-apply-for-kubernetes|Terraform Apply for Kubernetes]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-commands|Terraform Commands]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-data-source-configuration|Terraform Data Source Configuration]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-kubernetes-provider|Terraform Kubernetes Provider]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-output-block|Terraform Output Block]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-outputs|Terraform Outputs]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-provider-block|Terraform Provider Block]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-providers|Terraform Providers]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resource-block|Terraform Resource Block]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resources|Terraform Resources]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-state-file|Terraform State File]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-state-management|Terraform State Management]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variable-block|Terraform Variable Block]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variables|Terraform Variables]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-automation-approaches|Use Cases for Automation Approaches]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-declarative-automation|Use Cases for Declarative Automation]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/version-control-for-infrastructure|Version Control for Infrastructure]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|YAML Structure for Kubernetes]]

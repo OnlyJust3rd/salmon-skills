@@ -115,4 +115,4 @@ Process management is a core responsibility of the operating system. It involves
 ## Supports
 
 - [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/process-management-concepts|Process Management Concepts]]
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/process-management-concepts|Process Management Concepts]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-management-concepts|Process Management Concepts]]

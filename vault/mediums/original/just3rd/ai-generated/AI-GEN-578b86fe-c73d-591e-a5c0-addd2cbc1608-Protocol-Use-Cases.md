@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/transport-layer/microskills/protocol-use-cases|protocol-use-cases]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/protocol-use-cases|protocol-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Protocol Use Cases: When to Choose TCP or UDP
@@ -77,4 +77,4 @@ By carefully analyzing these factors, you can make informed decisions about whic
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/transport-layer/microskills/protocol-use-cases|Protocol Use Cases]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/protocol-use-cases|Protocol Use Cases]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding User Interaction Methods"
+type: medium
+title: Understanding User Interaction Methods
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/user-interaction-methods|user-interaction-methods]]"
+outcome: "[[user-interaction-methods|user-interaction-methods]]"
 learning-time-in-minutes: 5
 ---
 # Understanding User Interaction Methods
@@ -114,4 +114,4 @@ Each interaction method has its place. In modern visual interfaces, you'll often
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/user-interaction-methods|User Interaction Methods]]
+- [[user-interaction-methods|User Interaction Methods]]

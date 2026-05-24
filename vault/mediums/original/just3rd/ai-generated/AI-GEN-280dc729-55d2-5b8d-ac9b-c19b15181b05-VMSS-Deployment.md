@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/vmss-deployment|vmss-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/vmss-deployment|vmss-deployment]]"
 learning-time-in-minutes: 3
 ---
 # Deploying Virtual Machine Scale Sets (VMSS)
@@ -114,4 +114,4 @@ Deploy a VMSS using your preferred cloud provider's CLI or portal. Configure it 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-scalability/microskills/vmss-deployment|VMSS Deployment]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/vmss-deployment|VMSS Deployment]]

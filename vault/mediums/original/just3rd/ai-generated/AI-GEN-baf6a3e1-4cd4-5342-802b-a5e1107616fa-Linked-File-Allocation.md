@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/linked-file-allocation|linked-file-allocation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/linked-file-allocation|linked-file-allocation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Linked File Allocation
@@ -75,4 +75,4 @@ Linked file allocation is a method where file blocks are scattered across the di
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/linked-file-allocation|Linked File Allocation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/linked-file-allocation|Linked File Allocation]]

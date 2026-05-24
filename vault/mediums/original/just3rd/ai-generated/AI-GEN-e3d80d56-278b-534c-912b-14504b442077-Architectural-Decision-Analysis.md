@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/architectural-decision-analysis|architectural-decision-analysis]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/architectural-decision-analysis|architectural-decision-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Architectural Decision Analysis for Cloud Infrastructure
@@ -85,4 +85,4 @@ For each of the four decision points (Region, Availability Zones, Compute Instan
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/architectural-decision-analysis|Architectural Decision Analysis]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/architectural-decision-analysis|Architectural Decision Analysis]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/restful-api/microskills/example-json-contracts|example-json-contracts]]"
+outcome: "[[skills/computing/software-engineering/backend-development/restful-api/microskills/example-json-contracts|example-json-contracts]]"
 learning-time-in-minutes: 4
 ---
 # Drafting Example JSON Contracts for REST Operations
@@ -184,4 +184,4 @@ By carefully drafting these example JSON contracts, you lay a solid foundation f
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/restful-api/microskills/example-json-contracts|Example JSON contracts]]
+- [[skills/computing/software-engineering/backend-development/restful-api/microskills/example-json-contracts|Example JSON contracts]]

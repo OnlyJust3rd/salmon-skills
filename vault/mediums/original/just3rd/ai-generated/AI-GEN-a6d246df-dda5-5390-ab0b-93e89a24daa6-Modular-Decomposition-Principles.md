@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/modular-decomposition-principles|modular-decomposition-principles]]"
+outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-principles|modular-decomposition-principles]]"
 learning-time-in-minutes: 5
 ---
 # Modular Decomposition Principles
@@ -105,4 +105,4 @@ By consistently applying these principles, you'll create a modular system that i
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-design/microskills/modular-decomposition-principles|Modular Decomposition Principles]]
+- [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-principles|Modular Decomposition Principles]]

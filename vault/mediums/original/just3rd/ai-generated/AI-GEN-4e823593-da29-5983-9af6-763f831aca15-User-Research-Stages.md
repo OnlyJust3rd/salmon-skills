@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding User Research Stages"
+type: medium
+title: Understanding User Research Stages
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-research-stages|user-research-stages]]"
+outcome: "[[user-research-stages|user-research-stages]]"
 learning-time-in-minutes: 4
 ---
 # Understanding User Research Stages
@@ -77,4 +77,4 @@ The final stage is about communicating your discoveries and suggesting how to us
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-research-stages|User Research Stages]]
+- [[user-research-stages|User Research Stages]]

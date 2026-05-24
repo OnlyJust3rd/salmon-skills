@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/basic-grafana-dashboard-setup|basic-grafana-dashboard-setup]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/basic-grafana-dashboard-setup|basic-grafana-dashboard-setup]]"
 learning-time-in-minutes: 5
 ---
 # Basic Grafana Dashboard Setup
@@ -103,4 +103,4 @@ You now have a basic Grafana dashboard displaying CPU usage. You can add more pa
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/basic-grafana-dashboard-setup|Basic Grafana Dashboard Setup]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/basic-grafana-dashboard-setup|Basic Grafana Dashboard Setup]]

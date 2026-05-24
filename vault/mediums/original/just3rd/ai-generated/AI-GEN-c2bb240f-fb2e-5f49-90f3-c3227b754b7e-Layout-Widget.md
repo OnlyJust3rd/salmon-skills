@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/flutter/microskills/layout-widget|layout-widget]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/flutter/microskills/layout-widget|layout-widget]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Flutter Layout Widgets
@@ -157,4 +157,4 @@ By understanding these fundamental layout widgets, you'll be well on your way to
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/flutter/microskills/layout-widget|Layout Widget]]
+- [[skills/computing/software-engineering/mobile-development/flutter/microskills/layout-widget|Layout Widget]]

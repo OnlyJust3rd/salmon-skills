@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/flutter/microskills/widget-tree|widget-tree]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/flutter/microskills/widget-tree|widget-tree]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Widget Tree in Flutter
@@ -115,4 +115,4 @@ By understanding the widget tree as a nested composition of widgets, you gain a 
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/flutter/microskills/widget-tree|Widget Tree]]
+- [[skills/computing/software-engineering/mobile-development/flutter/microskills/widget-tree|Widget Tree]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-selection|design-pattern-selection]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-selection|design-pattern-selection]]"
 learning-time-in-minutes: 4
 ---
 # Design Pattern Selection: Choosing the Right Tool
@@ -68,4 +68,4 @@ Consider a system that handles different types of payment processing (e.g., Cred
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-selection|Design Pattern Selection]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-selection|Design Pattern Selection]]

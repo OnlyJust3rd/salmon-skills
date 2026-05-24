@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/object-oriented-structuring|object-oriented-structuring]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-oriented-structuring|object-oriented-structuring]]"
 learning-time-in-minutes: 4
 ---
 # Object-Oriented Structuring: Organizing Your Code
@@ -134,4 +134,4 @@ By applying these simple structuring principles, you'll create code that is much
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/object-oriented-structuring|Object-oriented structuring]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-oriented-structuring|Object-oriented structuring]]

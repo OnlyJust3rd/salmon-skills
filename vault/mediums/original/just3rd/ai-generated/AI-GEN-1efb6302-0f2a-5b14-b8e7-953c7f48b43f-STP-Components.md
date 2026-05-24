@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/stp-components|stp-components]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/stp-components|stp-components]]"
 learning-time-in-minutes: 4
 ---
 # STP Components: The Building Blocks of Loop Prevention
@@ -59,4 +59,4 @@ Assume all links between switches have the same path cost.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/stp-components|STP Components]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/stp-components|STP Components]]

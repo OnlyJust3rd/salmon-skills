@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/signal-properties|signal-properties]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/signal-properties|signal-properties]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Signal Properties in Data Transmission
@@ -91,4 +91,4 @@ Understanding signal properties like amplitude, frequency, wavelength, phase, an
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/signal-properties|Signal Properties]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/signal-properties|Signal Properties]]

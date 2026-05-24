@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/helm-commands|helm-commands]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/helm-commands|helm-commands]]"
 learning-time-in-minutes: 4
 ---
 # Helm Commands: Your Toolkit for Kubernetes Application Management
@@ -210,4 +210,4 @@ Mastering these fundamental Helm commands is crucial for efficiently managing ap
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/helm-commands|Helm Commands]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/helm-commands|Helm Commands]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/process-management-strategies|process-management-strategies]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-management-strategies|process-management-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Process Management Strategies
@@ -77,4 +77,4 @@ By systematically examining these aspects, you can gain a deep understanding of 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/process-management-strategies|Process Management Strategies]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-management-strategies|Process Management Strategies]]

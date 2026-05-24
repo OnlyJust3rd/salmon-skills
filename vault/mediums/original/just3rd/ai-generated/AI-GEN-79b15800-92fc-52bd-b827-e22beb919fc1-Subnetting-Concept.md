@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/subnetting-concept|subnetting-concept]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/subnetting-concept|subnetting-concept]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Subnetting: Dividing the IP Address Space
@@ -99,4 +99,4 @@ By understanding subnetting, you gain the ability to segment your network logica
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/subnetting-concept|Subnetting Concept]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/subnetting-concept|Subnetting Concept]]

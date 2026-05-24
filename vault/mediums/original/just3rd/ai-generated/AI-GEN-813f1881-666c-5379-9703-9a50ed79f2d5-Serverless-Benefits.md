@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/serverless-benefits|serverless-benefits]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/serverless-benefits|serverless-benefits]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Serverless Benefits
@@ -62,4 +62,4 @@ Describe how you would implement this using a serverless FaaS approach. What wou
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/serverless-benefits|Serverless Benefits]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/serverless-benefits|Serverless Benefits]]

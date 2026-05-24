@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/scenario-based-model-selection|scenario-based-model-selection]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/scenario-based-model-selection|scenario-based-model-selection]]"
 learning-time-in-minutes: 4
 ---
 # Scenario-Based Cloud Service Model Selection
@@ -75,4 +75,4 @@ Read the following scenarios and identify the most appropriate cloud service mod
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/scenario-based-model-selection|Scenario-Based Model Selection]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/scenario-based-model-selection|Scenario-Based Model Selection]]

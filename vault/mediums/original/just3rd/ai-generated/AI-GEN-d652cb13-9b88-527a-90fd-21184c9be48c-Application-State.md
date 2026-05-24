@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/application-state|application-state]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/application-state|application-state]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Application State in Mobile Development
@@ -111,4 +111,4 @@ Understanding application state is a foundational step in mobile development. By
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/application-state|Application State]]
+- [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/application-state|Application State]]

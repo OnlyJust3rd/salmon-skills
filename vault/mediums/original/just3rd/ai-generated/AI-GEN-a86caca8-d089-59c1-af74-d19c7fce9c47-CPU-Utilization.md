@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/cpu-utilization|cpu-utilization]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/cpu-utilization|cpu-utilization]]"
 learning-time-in-minutes: 4
 ---
 # Understanding CPU Utilization: A Key Infrastructure Metric
@@ -67,4 +67,4 @@ Recognizing CPU utilization as a primary metric is the first step in understandi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/cpu-utilization|CPU Utilization]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/cpu-utilization|CPU Utilization]]

@@ -6,7 +6,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L1-explain-authorization-models]]"
-  - "[[skills/computing/systems-infrastructure/operating-systems/operating-system/competencies/L1-os-core-management-theory|L1-os-core-management-theory]]"
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-os-core-management-theory|L1-os-core-management-theory]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/endpoint-administration|endpoint-administration]]"
@@ -28,7 +28,7 @@ Explain endpoint configuration and user account administration.
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/competencies/L1-os-core-management-theory|L2- OS Core Management Theory]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-os-core-management-theory|L2- OS Core Management Theory]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L2- Explain Authorization Models]]
 
 ## Optional Prerequisites

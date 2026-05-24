@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/declarative-automation-principles|declarative-automation-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation-principles|declarative-automation-principles]]"
 learning-time-in-minutes: 4
 ---
 # Declarative Automation Principles
@@ -69,4 +69,4 @@ By focusing on the desired end state, declarative automation allows you to manag
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/declarative-automation-principles|Declarative Automation Principles]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation-principles|Declarative Automation Principles]]

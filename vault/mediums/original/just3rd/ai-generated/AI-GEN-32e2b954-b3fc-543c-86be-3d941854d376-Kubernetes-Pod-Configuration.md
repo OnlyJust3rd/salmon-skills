@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-pod-configuration|kubernetes-pod-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-pod-configuration|kubernetes-pod-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes Pod Configuration
@@ -161,4 +161,4 @@ Mastering Pod configuration is your first step towards effectively managing work
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-pod-configuration|Kubernetes Pod Configuration]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-pod-configuration|Kubernetes Pod Configuration]]

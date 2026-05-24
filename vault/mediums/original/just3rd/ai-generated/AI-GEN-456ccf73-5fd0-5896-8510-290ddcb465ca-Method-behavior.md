@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/method-behavior|method-behavior]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/method-behavior|method-behavior]]"
 learning-time-in-minutes: 3
 ---
 # Method Behavior: Attaching Operations to Types and Objects
@@ -103,4 +103,4 @@ In essence, methods are the "verbs" of your object-oriented programs, defining t
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/method-behavior|Method behavior]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/method-behavior|Method behavior]]

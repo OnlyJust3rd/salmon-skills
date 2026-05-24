@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/refactoring/microskills/code-area-identification-for-refactoring|code-area-identification-for-refactoring]]"
+outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-area-identification-for-refactoring|code-area-identification-for-refactoring]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Code Areas for Refactoring
@@ -127,4 +127,4 @@ By actively looking for these indicators, you develop the crucial skill of ident
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/refactoring/microskills/code-area-identification-for-refactoring|Code Area Identification for Refactoring]]
+- [[skills/computing/programming/code-quality/refactoring/microskills/code-area-identification-for-refactoring|Code Area Identification for Refactoring]]

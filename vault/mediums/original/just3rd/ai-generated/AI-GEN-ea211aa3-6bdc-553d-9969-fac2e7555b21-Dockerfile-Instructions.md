@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/dockerfile-instructions|dockerfile-instructions]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-instructions|dockerfile-instructions]]"
 learning-time-in-minutes: 4
 ---
 # Dockerfile Instructions: Your Blueprint for Container Images
@@ -177,4 +177,4 @@ By mastering these fundamental Dockerfile instructions, you gain the ability to 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/dockerfile-instructions|Dockerfile Instructions]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-instructions|Dockerfile Instructions]]

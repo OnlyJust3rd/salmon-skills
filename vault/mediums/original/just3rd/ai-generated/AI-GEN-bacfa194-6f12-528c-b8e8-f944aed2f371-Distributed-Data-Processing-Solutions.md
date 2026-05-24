@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|distributed-data-processing-solutions]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|distributed-data-processing-solutions]]"
 learning-time-in-minutes: 6
 ---
 # Distributed Data Processing with MPI Collectives
@@ -113,4 +113,4 @@ By understanding and applying these MPI collective functions, you can build more
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|Distributed Data Processing Solutions]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|Distributed Data Processing Solutions]]

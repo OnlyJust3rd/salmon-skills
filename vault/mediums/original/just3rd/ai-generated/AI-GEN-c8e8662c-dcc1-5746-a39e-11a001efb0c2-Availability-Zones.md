@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/availability-zones|availability-zones]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zones|availability-zones]]"
 learning-time-in-minutes: 3
 ---
 # Availability Zones: Building Resilient Cloud Applications
@@ -54,4 +54,4 @@ Identify a simple application you use regularly (e.g., a popular social media ap
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/availability-zones|Availability Zones]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zones|Availability Zones]]

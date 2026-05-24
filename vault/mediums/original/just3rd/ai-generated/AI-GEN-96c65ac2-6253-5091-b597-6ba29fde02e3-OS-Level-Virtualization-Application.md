@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/os-level-virtualization-application|os-level-virtualization-application]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization-application|os-level-virtualization-application]]"
 learning-time-in-minutes: 4
 ---
 # OS-Level Virtualization in Container Image Creation
@@ -93,4 +93,4 @@ Each of the `RUN`, `COPY`, and `ADD` commands (and sometimes `FROM` itself, depe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/os-level-virtualization-application|OS-Level Virtualization Application]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization-application|OS-Level Virtualization Application]]

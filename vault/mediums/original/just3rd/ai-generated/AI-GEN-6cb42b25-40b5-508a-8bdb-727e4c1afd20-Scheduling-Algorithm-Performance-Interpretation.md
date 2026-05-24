@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-performance-interpretation|scheduling-algorithm-performance-interpretation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-performance-interpretation|scheduling-algorithm-performance-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Interpreting Scheduling Algorithm Performance
@@ -113,4 +113,4 @@ Consider the following processes:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-performance-interpretation|Scheduling Algorithm Performance Interpretation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-performance-interpretation|Scheduling Algorithm Performance Interpretation]]

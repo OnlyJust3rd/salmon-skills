@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/integration-failure-analysis|integration-failure-analysis]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-failure-analysis|integration-failure-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Integration Test Failures in C Programs
@@ -148,4 +148,4 @@ Integration failure analysis is an iterative process of observation, hypothesis,
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/integration-failure-analysis|Integration failure analysis]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-failure-analysis|Integration failure analysis]]

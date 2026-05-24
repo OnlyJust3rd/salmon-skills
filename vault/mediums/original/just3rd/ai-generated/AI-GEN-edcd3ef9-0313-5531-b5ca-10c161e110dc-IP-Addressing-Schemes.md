@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-addressing-schemes|ip-addressing-schemes]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-addressing-schemes|ip-addressing-schemes]]"
 learning-time-in-minutes: 4
 ---
 # Understanding IP Addressing Schemes
@@ -126,4 +126,4 @@ As you delve deeper into network layer concepts, you'll see how these IP address
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-addressing-schemes|IP Addressing Schemes]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-addressing-schemes|IP Addressing Schemes]]

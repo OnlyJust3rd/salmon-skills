@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/idempotency-enforcement|idempotency-enforcement]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-enforcement|idempotency-enforcement]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Idempotency in Terraform
@@ -107,4 +107,4 @@ Idempotency in Terraform means that running `terraform apply` multiple times wil
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/idempotency-enforcement|Idempotency Enforcement]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-enforcement|Idempotency Enforcement]]

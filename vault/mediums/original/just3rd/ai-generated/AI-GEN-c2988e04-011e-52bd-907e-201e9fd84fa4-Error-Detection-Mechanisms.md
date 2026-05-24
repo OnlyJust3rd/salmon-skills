@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/error-detection-mechanisms|error-detection-mechanisms]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/error-detection-mechanisms|error-detection-mechanisms]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Error Detection Mechanisms
@@ -82,4 +82,4 @@ Consider the 7-bit ASCII code for the letter 'A', which is `01000001`.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/error-detection-mechanisms|Error Detection Mechanisms]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/error-detection-mechanisms|Error Detection Mechanisms]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Social Presence in Conversational AI"
+type: medium
+title: Understanding Social Presence in Conversational AI
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/social-presence-principles|social-presence-principles]]"
+outcome: "[[social-presence-principles|social-presence-principles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Social Presence in Conversational AI
@@ -58,4 +58,4 @@ Think of a recent interaction you had with a chatbot or virtual assistant. Ident
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/social-presence-principles|Social Presence Principles]]
+- [[social-presence-principles|Social Presence Principles]]

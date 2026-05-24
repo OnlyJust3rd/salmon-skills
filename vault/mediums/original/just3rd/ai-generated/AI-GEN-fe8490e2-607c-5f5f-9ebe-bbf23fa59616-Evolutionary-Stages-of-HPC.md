@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/evolutionary-stages-of-hpc|evolutionary-stages-of-hpc]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/evolutionary-stages-of-hpc|evolutionary-stages-of-hpc]]"
 learning-time-in-minutes: 3
 ---
 # Evolutionary Stages of HPC
@@ -57,4 +57,4 @@ By understanding these evolutionary stages, we can better grasp the context and 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/evolutionary-stages-of-hpc|Evolutionary Stages of HPC]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/evolutionary-stages-of-hpc|Evolutionary Stages of HPC]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/css/microskills/box-model-components|box-model-components]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/box-model-components|box-model-components]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Box Model Components
@@ -79,4 +79,4 @@ Observe how the total space the `div` occupies on the page changes, and how the 
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/css/microskills/box-model-components|Box model components]]
+- [[skills/computing/software-engineering/frontend-development/css/microskills/box-model-components|Box model components]]

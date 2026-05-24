@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/hybrid-cloud-deployment|hybrid-cloud-deployment]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/hybrid-cloud-deployment|hybrid-cloud-deployment]]"
 learning-time-in-minutes: 3
 ---
 # Hybrid Cloud: The Best of Both Worlds
@@ -54,4 +54,4 @@ Consider a healthcare provider that needs to store patient Electronic Health Rec
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/hybrid-cloud-deployment|Hybrid Cloud Deployment]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/hybrid-cloud-deployment|Hybrid Cloud Deployment]]

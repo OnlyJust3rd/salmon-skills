@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Documenting User Requirements"
+type: medium
+title: Documenting User Requirements
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/requirement-documentation|requirement-documentation]]"
+outcome: "[[requirement-documentation|requirement-documentation]]"
 learning-time-in-minutes: 4
 ---
 # Documenting User Requirements
@@ -105,4 +105,4 @@ By applying these principles to your requirement documentation, you lay a strong
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/requirement-documentation|Requirement Documentation]]
+- [[requirement-documentation|Requirement Documentation]]

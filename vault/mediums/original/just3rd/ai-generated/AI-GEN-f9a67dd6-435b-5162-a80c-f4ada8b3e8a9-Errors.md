@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/errors|errors]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/errors|errors]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Errors as a Golden Signal
@@ -83,4 +83,4 @@ By understanding and actively monitoring error rates, you gain critical insight 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/errors|Errors]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/errors|Errors]]

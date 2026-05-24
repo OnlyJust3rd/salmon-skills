@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/process-definition|process-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-definition|process-definition]]"
 learning-time-in-minutes: 3
 ---
 # Program vs. Process: The Fundamentals
@@ -69,4 +69,4 @@ In essence, a program is the blueprint, and a process is the living, breathing e
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/process-definition|Process Definition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-definition|Process Definition]]

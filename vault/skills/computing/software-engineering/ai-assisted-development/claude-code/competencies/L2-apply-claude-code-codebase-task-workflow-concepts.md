@@ -6,8 +6,8 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/competencies/L1-explain-claude-code-terminal-agent-concepts|L1-explain-claude-code-terminal-agent-concepts]]"
-  - "[[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
-  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/competencies/L1-explain-code-reviews|L1-explain-code-reviews]]"
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/software-engineering/ai-assisted-development/claude-code/claude-code|claude-code]]"
@@ -30,8 +30,8 @@ Apply Claude Code codebase task workflow concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/software-engineering/ai-assisted-development/claude-code/competencies/L1-explain-claude-code-terminal-agent-concepts|L2- Explain Claude Code Terminal Agent Concepts]]
-- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
-- [[skills/computing/software-engineering/software-practices/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/competencies/L1-explain-code-reviews|L2- Explain Code Reviews]]
 
 ## Optional Prerequisites
 

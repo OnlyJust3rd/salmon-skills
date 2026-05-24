@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/inheritance-definition|inheritance-definition]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-definition|inheritance-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Inheritance in Object-Oriented Programming
@@ -102,4 +102,4 @@ Inheritance is a fundamental OOP principle that allows classes to inherit proper
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/inheritance-definition|Inheritance Definition]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-definition|Inheritance Definition]]

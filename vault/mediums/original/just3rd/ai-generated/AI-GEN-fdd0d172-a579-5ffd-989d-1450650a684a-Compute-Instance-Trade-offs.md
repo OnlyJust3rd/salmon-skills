@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/compute-instance-trade-offs|compute-instance-trade-offs]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-trade-offs|compute-instance-trade-offs]]"
 learning-time-in-minutes: 4
 ---
 # Compute Instance Trade-offs: Performance, Cost, and Suitability
@@ -62,4 +62,4 @@ Your team is considering deploying a batch processing job that performs heavy ma
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-infrastructure/microskills/compute-instance-trade-offs|Compute Instance Trade-offs]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-trade-offs|Compute Instance Trade-offs]]

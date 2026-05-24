@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/intradomain-routing|intradomain-routing]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing|intradomain-routing]]"
 learning-time-in-minutes: 4
 ---
 # Intradomain Routing: Navigating Within Your Network
@@ -94,4 +94,4 @@ In essence, mastering intradomain routing means you can confidently manage and d
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-algorithms/microskills/intradomain-routing|Intradomain Routing]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing|Intradomain Routing]]

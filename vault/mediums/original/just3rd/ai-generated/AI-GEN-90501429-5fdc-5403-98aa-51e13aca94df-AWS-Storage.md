@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-storage|aws-storage]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-storage|aws-storage]]"
 learning-time-in-minutes: 3
 ---
 # AWS Storage Fundamentals
@@ -83,4 +83,4 @@ Consider the following data types. For each, identify which AWS storage category
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/amazon-web-services/microskills/aws-storage|AWS Storage]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-storage|AWS Storage]]

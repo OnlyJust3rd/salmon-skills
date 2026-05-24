@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/restful-api/microskills/resource-boundary-selection|resource-boundary-selection]]"
+outcome: "[[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-boundary-selection|resource-boundary-selection]]"
 learning-time-in-minutes: 4
 ---
 # Selecting Sensible Resources for Your API
@@ -113,4 +113,4 @@ By carefully considering your domain and applying these principles, you can defi
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/restful-api/microskills/resource-boundary-selection|Resource boundary selection]]
+- [[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-boundary-selection|Resource boundary selection]]

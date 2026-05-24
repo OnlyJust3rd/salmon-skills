@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/restful-service-interaction|restful-service-interaction]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/restful-service-interaction|restful-service-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Interacting with RESTful Services
@@ -141,4 +141,4 @@ By mastering these fundamental RESTful service interactions, you gain a crucial 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/restful-service-interaction|RESTful Service Interaction]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/restful-service-interaction|RESTful Service Interaction]]

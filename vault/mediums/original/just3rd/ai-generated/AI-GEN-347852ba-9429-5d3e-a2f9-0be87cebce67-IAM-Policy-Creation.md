@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/iam-policy-creation|iam-policy-creation]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/iam-policy-creation|iam-policy-creation]]"
 learning-time-in-minutes: 3
 ---
 # IAM Policy Creation: Defining Specific Permissions
@@ -84,4 +84,4 @@ This policy, when attached to the `data-analysts` group, ensures they can only v
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/iam-policy-creation|IAM Policy Creation]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/iam-policy-creation|IAM Policy Creation]]

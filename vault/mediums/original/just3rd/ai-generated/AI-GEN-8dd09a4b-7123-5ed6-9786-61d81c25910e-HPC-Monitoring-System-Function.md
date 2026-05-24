@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|hpc-monitoring-system-function]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|hpc-monitoring-system-function]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Function of HPC Monitoring Systems
@@ -70,4 +70,4 @@ In summary, HPC monitoring systems are not an optional add-on; they are an integ
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|HPC Monitoring System Function]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|HPC Monitoring System Function]]

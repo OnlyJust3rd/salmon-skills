@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|ai-processor-vs-cpu-architectures]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|ai-processor-vs-cpu-architectures]]"
 learning-time-in-minutes: 4
 ---
 # AI Processor vs. CPU Architectures
@@ -59,4 +59,4 @@ This distinction is fundamental to understanding why systems often employ a comb
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|AI Processor vs. CPU Architectures]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|AI Processor vs. CPU Architectures]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/i-o-management-theories|i-o-management-theories]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-management-theories|i-o-management-theories]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Operating System I/O Management Theories
@@ -84,4 +84,4 @@ Understanding these fundamental theories allows operating system designers to bu
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/i-o-management-theories|I/O Management Theories]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-management-theories|I/O Management Theories]]

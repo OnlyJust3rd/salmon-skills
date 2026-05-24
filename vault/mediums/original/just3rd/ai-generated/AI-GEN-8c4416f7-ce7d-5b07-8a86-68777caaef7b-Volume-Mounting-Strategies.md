@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/volume-mounting-strategies|volume-mounting-strategies]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-mounting-strategies|volume-mounting-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Volume Mounting Strategies in Docker
@@ -153,4 +153,4 @@ By understanding these volume mounting strategies, you can effectively manage pe
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/volume-mounting-strategies|Volume Mounting Strategies]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-mounting-strategies|Volume Mounting Strategies]]

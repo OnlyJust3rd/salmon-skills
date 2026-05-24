@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Augmented Reality Concepts"
+type: medium
+title: Augmented Reality Concepts
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/augmented-reality-concepts|augmented-reality-concepts]]"
+outcome: "[[augmented-reality-concepts|augmented-reality-concepts]]"
 learning-time-in-minutes: 2
 ---
 # Augmented Reality Concepts
@@ -52,4 +52,4 @@ Describe one specific AR application for one of these scenarios, highlighting ho
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/augmented-reality-concepts|Augmented Reality Concepts]]
+- [[augmented-reality-concepts|Augmented Reality Concepts]]

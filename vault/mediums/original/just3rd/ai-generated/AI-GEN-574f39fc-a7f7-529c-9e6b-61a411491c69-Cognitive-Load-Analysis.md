@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Analyzing Cognitive Load in Usability Studies"
+type: medium
+title: Analyzing Cognitive Load in Usability Studies
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/cognitive-load-analysis|cognitive-load-analysis]]"
+outcome: "[[cognitive-load-analysis|cognitive-load-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Cognitive Load in Usability Studies
@@ -91,4 +91,4 @@ By actively looking for these patterns and asking these questions, you can move 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/cognitive-load-analysis|Cognitive Load Analysis]]
+- [[cognitive-load-analysis|Cognitive Load Analysis]]

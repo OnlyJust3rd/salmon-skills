@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/component-based-web-ui/microskills/local-state|local-state]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/local-state|local-state]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Local State in Components
@@ -80,4 +80,4 @@ Think about a simple counter component that increments and decrements a number d
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/component-based-web-ui/microskills/local-state|Local state]]
+- [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/local-state|Local state]]

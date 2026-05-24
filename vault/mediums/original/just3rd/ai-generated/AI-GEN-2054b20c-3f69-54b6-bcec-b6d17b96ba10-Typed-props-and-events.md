@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/react/microskills/typed-props-and-events|typed-props-and-events]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/react/microskills/typed-props-and-events|typed-props-and-events]]"
 learning-time-in-minutes: 3
 ---
 # Typed Props and Events in React with TypeScript
@@ -250,4 +250,4 @@ By diligently typing your component boundaries, you create a self-documenting an
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/react/microskills/typed-props-and-events|Typed props and events]]
+- [[skills/computing/software-engineering/frontend-development/react/microskills/typed-props-and-events|Typed props and events]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/json-data-retrieval|json-data-retrieval]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-retrieval|json-data-retrieval]]"
 learning-time-in-minutes: 4
 ---
 # Retrieving JSON Data with REST APIs
@@ -104,4 +104,4 @@ By mastering the retrieval of JSON data via REST APIs, you build a crucial bridg
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/json-data-retrieval|JSON Data Retrieval]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-retrieval|JSON Data Retrieval]]

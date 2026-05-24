@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/spot-instance-pricing|spot-instance-pricing]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/spot-instance-pricing|spot-instance-pricing]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Spot Instance Pricing
@@ -63,4 +63,4 @@ Now, consider using spot instances for the same task. Spot instances are availab
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/spot-instance-pricing|Spot Instance Pricing]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/spot-instance-pricing|Spot Instance Pricing]]

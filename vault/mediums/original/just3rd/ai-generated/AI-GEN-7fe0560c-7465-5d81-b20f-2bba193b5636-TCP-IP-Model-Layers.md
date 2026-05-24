@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/computer-network-architecture/microskills/tcp-ip-model-layers|tcp-ip-model-layers]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/microskills/tcp-ip-model-layers|tcp-ip-model-layers]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the TCP/IP Model Layers
@@ -72,4 +72,4 @@ Imagine you are sending a file using FTP. For each of the following actions, ide
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/computer-network-architecture/microskills/tcp-ip-model-layers|TCP/IP Model Layers]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/microskills/tcp-ip-model-layers|TCP/IP Model Layers]]

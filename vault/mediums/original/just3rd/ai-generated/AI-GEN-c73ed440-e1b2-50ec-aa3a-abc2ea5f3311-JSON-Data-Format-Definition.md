@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/json-data-format-definition|json-data-format-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-format-definition|json-data-format-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding JSON Data Format
@@ -100,4 +100,4 @@ Understanding how to define and interpret JSON structures is a foundational skil
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/json-data-format-definition|JSON Data Format Definition]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-format-definition|JSON Data Format Definition]]

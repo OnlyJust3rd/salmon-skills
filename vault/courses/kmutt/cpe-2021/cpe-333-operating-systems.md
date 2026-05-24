@@ -38,10 +38,10 @@ CPE 333: Operating Systems covers the theoretical aspects of operating systems, 
 
 ## Macro Skills
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/cpu-scheduling|CPU Scheduling]]
-- [[skills/computing/systems-infrastructure/operating-systems/concurrency-and-synchronization/concurrency-and-synchronization|Concurrency and Synchronization]]
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/deadlock-management|Deadlock Management]]
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/i-o-and-file-systems|I/O and File Systems]]
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/memory-virtualization|Memory Virtualization]]
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/operating-system|Operating System]]
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/process-management-and-system-calls|Process Management and System Calls]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/cpu-scheduling|CPU Scheduling]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/concurrency-and-synchronization|Concurrency and Synchronization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/deadlock-management|Deadlock Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/i-o-and-file-systems|I/O and File Systems]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/memory-virtualization|Memory Virtualization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/operating-system|Operating System]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/process-management-and-system-calls|Process Management and System Calls]]

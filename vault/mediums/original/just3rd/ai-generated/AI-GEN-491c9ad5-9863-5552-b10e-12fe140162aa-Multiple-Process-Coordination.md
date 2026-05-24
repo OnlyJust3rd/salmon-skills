@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/multiple-process-coordination|multiple-process-coordination]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/multiple-process-coordination|multiple-process-coordination]]"
 learning-time-in-minutes: 4
 ---
 # Coordinating Multiple Processes in Python
@@ -164,4 +164,4 @@ By understanding and utilizing these coordination tools, you can build more robu
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/multiple-process-coordination|Multiple Process Coordination]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/multiple-process-coordination|Multiple Process Coordination]]

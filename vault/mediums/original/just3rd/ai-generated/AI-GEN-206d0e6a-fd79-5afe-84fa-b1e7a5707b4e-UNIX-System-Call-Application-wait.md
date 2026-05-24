@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|unix-system-call-application-wait]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|unix-system-call-application-wait]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Child Process Synchronization with `wait()`
@@ -128,4 +128,4 @@ By effectively using `wait()`, you gain control over the lifecycle of your child
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|UNIX System Call Application (wait)]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|UNIX System Call Application (wait)]]

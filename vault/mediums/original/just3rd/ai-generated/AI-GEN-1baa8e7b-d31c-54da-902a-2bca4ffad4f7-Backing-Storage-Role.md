@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/backing-storage-role|backing-storage-role]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/backing-storage-role|backing-storage-role]]"
 learning-time-in-minutes: 4
 ---
 # The Role of Backing Storage in Virtual Memory
@@ -50,4 +50,4 @@ In essence, backing storage is the unsung hero of virtual memory. It provides th
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/backing-storage-role|Backing Storage Role]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/backing-storage-role|Backing Storage Role]]

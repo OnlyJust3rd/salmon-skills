@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/continuous-delivery/microskills/progressive-deployment-strategies|progressive-deployment-strategies]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/progressive-deployment-strategies|progressive-deployment-strategies]]"
 learning-time-in-minutes: 4
 ---
 # Progressive Deployment Strategies: Blue-Green and Canary Releases
@@ -79,4 +79,4 @@ Imagine you are deploying an update to a critical backend service. Which strateg
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/continuous-delivery/microskills/progressive-deployment-strategies|Progressive Deployment Strategies]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/progressive-deployment-strategies|Progressive Deployment Strategies]]

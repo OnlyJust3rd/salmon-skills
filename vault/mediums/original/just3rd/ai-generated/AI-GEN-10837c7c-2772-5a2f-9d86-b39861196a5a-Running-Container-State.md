@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/running-container-state|running-container-state]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/running-container-state|running-container-state]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Running Container State in Docker
@@ -83,4 +83,4 @@ The **running** state is the active, operational phase of a Docker container. It
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/running-container-state|Running Container State]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/running-container-state|Running Container State]]

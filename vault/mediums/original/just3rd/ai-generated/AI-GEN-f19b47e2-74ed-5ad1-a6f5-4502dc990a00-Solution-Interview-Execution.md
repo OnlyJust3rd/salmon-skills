@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Executing Effective Solution Interviews"
+type: medium
+title: Executing Effective Solution Interviews
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/solution-interview-execution|solution-interview-execution]]"
+outcome: "[[solution-interview-execution|solution-interview-execution]]"
 learning-time-in-minutes: 5
 ---
 # Executing Effective Solution Interviews
@@ -98,4 +98,4 @@ Clearly document what you learned, supported by direct quotes from participants 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/solution-interview-execution|Solution Interview Execution]]
+- [[solution-interview-execution|Solution Interview Execution]]

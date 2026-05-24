@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/resource-ordering-strategy|resource-ordering-strategy]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-ordering-strategy|resource-ordering-strategy]]"
 learning-time-in-minutes: 4
 ---
 # Resource Ordering for Deadlock Prevention
@@ -75,4 +75,4 @@ Define the resource ordering rule that would prevent a deadlock between two proc
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/deadlock-management/microskills/resource-ordering-strategy|Resource Ordering Strategy]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-ordering-strategy|Resource Ordering Strategy]]

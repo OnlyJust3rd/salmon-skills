@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/recurring-design-problem-identification|recurring-design-problem-identification]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-identification|recurring-design-problem-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Recurring Design Problems
@@ -115,4 +115,4 @@ In the next steps, we will explore how design patterns provide elegant and prove
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/recurring-design-problem-identification|Recurring Design Problem Identification]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-identification|Recurring Design Problem Identification]]

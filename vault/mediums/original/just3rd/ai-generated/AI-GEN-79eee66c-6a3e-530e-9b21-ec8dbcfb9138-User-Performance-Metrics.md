@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Analyzing Cognitive Load's Impact on User Performance Metrics"
+type: medium
+title: Analyzing Cognitive Load's Impact on User Performance Metrics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/user-performance-metrics|user-performance-metrics]]"
+outcome: "[[user-performance-metrics|user-performance-metrics]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Cognitive Load's Impact on User Performance Metrics
@@ -79,4 +79,4 @@ By systematically analyzing task completion times and error rates, you can gain 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-cognitive-and-perception/microskills/user-performance-metrics|User Performance Metrics]]
+- [[user-performance-metrics|User Performance Metrics]]

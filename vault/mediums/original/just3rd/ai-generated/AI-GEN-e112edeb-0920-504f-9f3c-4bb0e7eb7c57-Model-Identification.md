@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/model-identification|model-identification]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/model-identification|model-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Parallel Programming Models
@@ -97,4 +97,4 @@ Keep in mind the primary method of data access and communication. This fundament
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/model-identification|Model Identification]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/model-identification|Model Identification]]

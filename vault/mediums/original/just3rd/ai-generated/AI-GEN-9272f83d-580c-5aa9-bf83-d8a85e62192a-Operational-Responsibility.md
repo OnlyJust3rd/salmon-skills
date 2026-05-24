@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/operational-responsibility|operational-responsibility]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/operational-responsibility|operational-responsibility]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Provider Responsibility in SaaS
@@ -95,4 +95,4 @@ Understanding these boundaries helps manage expectations and ensures you're doin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/operational-responsibility|Operational Responsibility]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/operational-responsibility|Operational Responsibility]]

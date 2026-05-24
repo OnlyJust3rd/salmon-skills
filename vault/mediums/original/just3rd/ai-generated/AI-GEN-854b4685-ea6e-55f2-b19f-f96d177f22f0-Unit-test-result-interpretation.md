@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/unit-test-result-interpretation|unit-test-result-interpretation]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-result-interpretation|unit-test-result-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Interpreting Unit Test Results
@@ -121,4 +121,4 @@ Interpreting unit test results is an essential skill. By carefully reading the f
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/unit-test-result-interpretation|Unit test result interpretation]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-result-interpretation|Unit test result interpretation]]

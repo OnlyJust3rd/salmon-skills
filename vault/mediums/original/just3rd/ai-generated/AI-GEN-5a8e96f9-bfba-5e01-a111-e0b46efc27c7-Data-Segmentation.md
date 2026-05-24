@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/data-segmentation|data-segmentation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/data-segmentation|data-segmentation]]"
 learning-time-in-minutes: 3
 ---
 # Data Segmentation: Breaking Down the Message
@@ -57,4 +57,4 @@ How many frames will be created to transmit the entire 1000 bytes of data?
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/data-segmentation|Data Segmentation]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/data-segmentation|Data Segmentation]]

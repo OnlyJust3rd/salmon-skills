@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/security-monitoring/microskills/alert-signals|alert-signals]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/alert-signals|alert-signals]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Alert Signals in Security Event Monitoring
@@ -79,4 +79,4 @@ Alert signals are the eyes and ears of your security monitoring system, constant
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/security-monitoring/microskills/alert-signals|Alert Signals]]
+- [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/alert-signals|Alert Signals]]

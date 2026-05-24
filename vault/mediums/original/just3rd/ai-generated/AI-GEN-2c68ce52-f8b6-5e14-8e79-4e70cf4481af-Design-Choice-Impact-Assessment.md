@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/design-choice-impact-assessment|design-choice-impact-assessment]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/design-choice-impact-assessment|design-choice-impact-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing the Impact of Object-Oriented Design Choices
@@ -247,4 +247,4 @@ By consistently asking these questions during design and review, you can anticip
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/design-choice-impact-assessment|Design Choice Impact Assessment]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/design-choice-impact-assessment|Design Choice Impact Assessment]]

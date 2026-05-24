@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/billing-model|billing-model]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/billing-model|billing-model]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing SaaS Billing Models
@@ -136,4 +136,4 @@ By dissecting these models and their inherent trade-offs, you can effectively an
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/software-as-a-service/microskills/billing-model|Billing Model]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/billing-model|Billing Model]]

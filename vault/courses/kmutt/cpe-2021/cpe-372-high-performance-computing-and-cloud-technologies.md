@@ -33,11 +33,11 @@ CPE 372: High Performance Computing and Cloud Technology describes the fundament
 
 ## Macro Skills
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/hpc-cluster-management|HPC Cluster Management]]
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/hpc-system|HPC System]]
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/multicore-processing|Multicore Processing]]
-- [[skills/computing/systems-infrastructure/high-performance-computing/neuromorphic-and-brain-inspired-computing/neuromorphic-and-brain-inspired-computing|Neuromorphic and Brain-Inspired Computing]]
-- [[skills/computing/systems-infrastructure/high-performance-computing/openmp/openmp|OpenMP]]
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-algorithm/parallel-algorithm|Parallel Algorithm]]
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-performance-analysis/parallel-performance-analysis|Parallel Performance Analysis]]
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/parallel-programming|Parallel Programming]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/hpc-cluster-management|HPC Cluster Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/hpc-system|HPC System]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/multicore-processing|Multicore Processing]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/neuromorphic-and-brain-inspired-computing|Neuromorphic and Brain-Inspired Computing]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/openmp|OpenMP]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/parallel-algorithm|Parallel Algorithm]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/parallel-performance-analysis|Parallel Performance Analysis]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/parallel-programming|Parallel Programming]]

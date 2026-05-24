@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/web-accessibility/microskills/semantic-accessibility|semantic-accessibility]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/semantic-accessibility|semantic-accessibility]]"
 learning-time-in-minutes: 5
 ---
 # Semantic Accessibility: The Foundation of Meaningful Markup
@@ -131,4 +131,4 @@ Semantic accessibility is not just about using the "right" tags; it's about usin
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/web-accessibility/microskills/semantic-accessibility|Semantic Accessibility]]
+- [[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/semantic-accessibility|Semantic Accessibility]]

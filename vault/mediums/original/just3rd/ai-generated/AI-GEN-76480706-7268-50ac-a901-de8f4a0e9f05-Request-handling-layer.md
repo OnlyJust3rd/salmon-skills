@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/backend-web-api-concept/microskills/request-handling-layer|request-handling-layer]]"
+outcome: "[[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/request-handling-layer|request-handling-layer]]"
 learning-time-in-minutes: 3
 ---
 # The Request Handling Layer: Your API's First Responder
@@ -69,4 +69,4 @@ Describe the actions performed by the request handling layer for this specific r
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/backend-web-api-concept/microskills/request-handling-layer|Request handling layer]]
+- [[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/request-handling-layer|Request handling layer]]

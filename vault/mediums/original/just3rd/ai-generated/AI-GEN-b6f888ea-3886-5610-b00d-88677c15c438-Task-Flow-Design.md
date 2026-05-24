@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Designing Effective Task Flows"
+type: medium
+title: Designing Effective Task Flows
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/task-flow-design|task-flow-design]]"
+outcome: "[[task-flow-design|task-flow-design]]"
 learning-time-in-minutes: 6
 ---
 # Designing Effective Task Flows
@@ -133,4 +133,4 @@ By mastering task flow design, you're taking a significant step towards creating
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/task-flow-design|Task Flow Design]]
+- [[task-flow-design|Task Flow Design]]

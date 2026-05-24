@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/encapsulation-principles|encapsulation-principles]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-principles|encapsulation-principles]]"
 learning-time-in-minutes: 3
 ---
 # Encapsulation: Keeping Your Data Safe
@@ -98,4 +98,4 @@ By understanding and applying encapsulation, you build more robust, secure, and 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/encapsulation-principles|Encapsulation principles]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-principles|Encapsulation principles]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/python-multiprocessing-module-usage|python-multiprocessing-module-usage]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/python-multiprocessing-module-usage|python-multiprocessing-module-usage]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Python's `multiprocessing` Module
@@ -99,4 +99,4 @@ By understanding these core concepts, you've taken a significant step towards im
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/parallel-programming/microskills/python-multiprocessing-module-usage|Python Multiprocessing Module Usage]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/python-multiprocessing-module-usage|Python Multiprocessing Module Usage]]

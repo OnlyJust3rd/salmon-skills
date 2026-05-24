@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Strengths and Weaknesses of Interaction Styles"
+type: medium
+title: Understanding Strengths and Weaknesses of Interaction Styles
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/visual-interface-design/microskills/strengths-and-weaknesses|strengths-and-weaknesses]]"
+outcome: "[[strengths-and-weaknesses|strengths-and-weaknesses]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Strengths and Weaknesses of Interaction Styles
@@ -69,4 +69,4 @@ Many modern interfaces cleverly combine elements of both. For example, a graphic
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/visual-interface-design/microskills/strengths-and-weaknesses|Strengths and Weaknesses]]
+- [[strengths-and-weaknesses|Strengths and Weaknesses]]

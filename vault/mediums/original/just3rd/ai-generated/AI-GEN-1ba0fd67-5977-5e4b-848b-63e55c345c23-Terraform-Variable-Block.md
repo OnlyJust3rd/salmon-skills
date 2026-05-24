@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-variable-block|terraform-variable-block]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variable-block|terraform-variable-block]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Terraform Variable Block
@@ -130,4 +130,4 @@ Variable blocks are essential for creating dynamic and manageable Terraform conf
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-variable-block|Terraform Variable Block]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variable-block|Terraform Variable Block]]

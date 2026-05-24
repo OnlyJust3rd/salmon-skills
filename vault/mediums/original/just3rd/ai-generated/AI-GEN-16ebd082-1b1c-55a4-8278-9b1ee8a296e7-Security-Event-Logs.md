@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/security-monitoring/microskills/security-event-logs|security-event-logs]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/security-event-logs|security-event-logs]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Security Event Logs
@@ -128,4 +128,4 @@ Understanding security event logs is the bedrock of effective security monitorin
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/security-monitoring/microskills/security-event-logs|Security Event Logs]]
+- [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/security-event-logs|Security Event Logs]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/data-exchange-in-distributed-systems|data-exchange-in-distributed-systems]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/data-exchange-in-distributed-systems|data-exchange-in-distributed-systems]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Data Exchange in Distributed Systems
@@ -76,4 +76,4 @@ Understanding these fundamental data exchange mechanisms is the first step towar
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/data-exchange-in-distributed-systems|Data Exchange in Distributed Systems]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/data-exchange-in-distributed-systems|Data Exchange in Distributed Systems]]

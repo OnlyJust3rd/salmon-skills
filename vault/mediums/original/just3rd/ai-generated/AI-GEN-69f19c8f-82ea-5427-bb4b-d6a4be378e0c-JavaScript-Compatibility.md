@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/frontend-development/cross-browser-testing/microskills/javascript-compatibility|javascript-compatibility]]"
+outcome: "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/javascript-compatibility|javascript-compatibility]]"
 learning-time-in-minutes: 3
 ---
 # Understanding JavaScript Compatibility Across Browsers
@@ -72,4 +72,4 @@ Imagine you are developing a web application that uses the `Promise` object for 
 
 ## Supports
 
-- [[skills/computing/web-mobile/frontend-development/cross-browser-testing/microskills/javascript-compatibility|JavaScript Compatibility]]
+- [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/javascript-compatibility|JavaScript Compatibility]]

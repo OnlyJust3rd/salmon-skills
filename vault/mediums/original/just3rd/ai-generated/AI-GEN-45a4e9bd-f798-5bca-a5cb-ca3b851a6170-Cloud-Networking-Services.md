@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/cloud-networking-services|cloud-networking-services]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/cloud-networking-services|cloud-networking-services]]"
 learning-time-in-minutes: 3
 ---
 # Configuring Cloud Network Components
@@ -106,4 +106,4 @@ In this example, we've defined the network boundaries, segmented traffic, and cr
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-networking/microskills/cloud-networking-services|Cloud Networking Services]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/cloud-networking-services|Cloud Networking Services]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/cpu-significance|cpu-significance]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/cpu-significance|cpu-significance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding CPU Load and Its Impact on System Performance
@@ -65,4 +65,4 @@ Monitoring CPU load is crucial for understanding your system's processing capaci
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/cpu-significance|CPU Significance]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/cpu-significance|CPU Significance]]

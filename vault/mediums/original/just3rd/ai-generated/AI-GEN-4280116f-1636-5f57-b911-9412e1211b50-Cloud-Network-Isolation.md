@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/cloud-network-isolation|cloud-network-isolation]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-isolation|cloud-network-isolation]]"
 learning-time-in-minutes: 5
 ---
 # Cloud Network Isolation with VPCs
@@ -63,4 +63,4 @@ In essence, VPCs abstract the complexity of the physical network and provide you
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/cloud-network-isolation|Cloud Network Isolation]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/cloud-network-isolation|Cloud Network Isolation]]

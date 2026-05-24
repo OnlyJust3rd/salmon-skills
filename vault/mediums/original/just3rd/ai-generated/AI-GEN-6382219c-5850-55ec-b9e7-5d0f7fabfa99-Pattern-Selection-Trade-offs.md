@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/pattern-selection-trade-offs|pattern-selection-trade-offs]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/pattern-selection-trade-offs|pattern-selection-trade-offs]]"
 learning-time-in-minutes: 4
 ---
 # Pattern Selection Trade-offs
@@ -69,4 +69,4 @@ Identify at least two different design patterns that could be used to manage the
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/pattern-selection-trade-offs|Pattern Selection Trade-offs]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/pattern-selection-trade-offs|Pattern Selection Trade-offs]]

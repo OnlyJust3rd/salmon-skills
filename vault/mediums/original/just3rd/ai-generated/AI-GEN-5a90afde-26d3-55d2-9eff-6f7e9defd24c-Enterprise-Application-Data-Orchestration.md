@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/enterprise-application-data-orchestration|enterprise-application-data-orchestration]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/enterprise-application-data-orchestration|enterprise-application-data-orchestration]]"
 learning-time-in-minutes: 5
 ---
 # Orchestrating Enterprise Data with REST APIs and JSON
@@ -159,4 +159,4 @@ By mastering the use of REST APIs and JSON for data orchestration, you gain the 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/enterprise-application-data-orchestration|Enterprise Application Data Orchestration]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/enterprise-application-data-orchestration|Enterprise Application Data Orchestration]]

@@ -6,7 +6,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/professional-practice/technical-troubleshooting/competencies/L1-explain-technical-troubleshooting-methodology|L1-explain-technical-troubleshooting-methodology]]"
-  - "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/competencies/L1-explain-observability-signals|L1-explain-observability-signals]]"
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/competencies/L1-explain-observability-signals|L1-explain-observability-signals]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/professional-practice/technical-troubleshooting/technical-troubleshooting|technical-troubleshooting]]"
@@ -29,7 +29,7 @@ Apply root cause analysis for technical issues.
 ## Strict Prerequisites
 
 - [[skills/professional-practice/technical-troubleshooting/competencies/L1-explain-technical-troubleshooting-methodology|L2- Explain Technical Troubleshooting Methodology]]
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/competencies/L1-explain-observability-signals|L2- Explain Observability Signals]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/competencies/L1-explain-observability-signals|L2- Explain Observability Signals]]
 
 ## Optional Prerequisites
 

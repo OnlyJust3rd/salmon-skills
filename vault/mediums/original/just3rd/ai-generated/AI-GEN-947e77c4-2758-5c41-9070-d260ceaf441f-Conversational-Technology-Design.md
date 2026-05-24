@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Conversational Technology Design: Applying Workspace Awareness and Social Presence"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/conversational-technology-design|conversational-technology-design]]"
+outcome: "[[conversational-technology-design|conversational-technology-design]]"
 learning-time-in-minutes: 3
 ---
 # Conversational Technology Design: Applying Workspace Awareness and Social Presence
@@ -50,4 +50,4 @@ Describe one way you could improve its design by incorporating social presence.
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/conversational-technology-design|Conversational Technology Design]]
+- [[conversational-technology-design|Conversational Technology Design]]

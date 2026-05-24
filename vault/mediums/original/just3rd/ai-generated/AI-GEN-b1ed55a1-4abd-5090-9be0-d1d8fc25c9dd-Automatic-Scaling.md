@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/automatic-scaling|automatic-scaling]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/automatic-scaling|automatic-scaling]]"
 learning-time-in-minutes: 4
 ---
 # Automatic Scaling in Serverless
@@ -61,4 +61,4 @@ In summary, automatic scaling is a foundational pillar of the serverless model. 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/automatic-scaling|Automatic Scaling]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/automatic-scaling|Automatic Scaling]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/cylinder-definition|cylinder-definition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/cylinder-definition|cylinder-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cylinders in Disk Geometry
@@ -63,4 +63,4 @@ By grouping tracks into cylinders, disk drive designers and the operating system
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/cylinder-definition|Cylinder Definition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/cylinder-definition|Cylinder Definition]]

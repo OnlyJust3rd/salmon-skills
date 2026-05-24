@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-resource-provisioning|infrastructure-resource-provisioning]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-resource-provisioning|infrastructure-resource-provisioning]]"
 learning-time-in-minutes: 4
 ---
 # Provisioning Infrastructure with Terraform
@@ -147,4 +147,4 @@ This lesson covered the basics of provisioning a single resource. In future less
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/infrastructure-resource-provisioning|Infrastructure Resource Provisioning]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-resource-provisioning|Infrastructure Resource Provisioning]]

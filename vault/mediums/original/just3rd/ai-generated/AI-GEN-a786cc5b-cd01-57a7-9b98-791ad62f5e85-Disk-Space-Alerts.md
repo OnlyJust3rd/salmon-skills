@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/disk-space-alerts|disk-space-alerts]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/disk-space-alerts|disk-space-alerts]]"
 learning-time-in-minutes: 4
 ---
 # Disk Space Alerts
@@ -72,4 +72,4 @@ By understanding what disk space alerts are and why they are triggered, you are 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/infrastructure-alert/microskills/disk-space-alerts|Disk Space Alerts]]
+- [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/disk-space-alerts|Disk Space Alerts]]

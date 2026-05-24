@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Sketching Design Alternatives: Bringing UX Principles to Life"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/sketching-design-alternatives|sketching-design-alternatives]]"
+outcome: "[[sketching-design-alternatives|sketching-design-alternatives]]"
 learning-time-in-minutes: 4
 ---
 # Sketching Design Alternatives: Bringing UX Principles to Life
@@ -157,4 +157,4 @@ By actively sketching design alternatives based on UX principles, you lay a stro
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/human-computer-interaction/microskills/sketching-design-alternatives|Sketching Design Alternatives]]
+- [[sketching-design-alternatives|Sketching Design Alternatives]]

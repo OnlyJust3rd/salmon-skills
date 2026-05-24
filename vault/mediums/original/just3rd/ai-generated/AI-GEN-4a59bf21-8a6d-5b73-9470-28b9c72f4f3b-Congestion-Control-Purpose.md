@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-performance/microskills/congestion-control-purpose|congestion-control-purpose]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/congestion-control-purpose|congestion-control-purpose]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Congestion Control: Keeping the Network Flowing
@@ -49,4 +49,4 @@ The fundamental purpose of congestion control is to **maintain a stable, fair, a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-performance/microskills/congestion-control-purpose|Congestion Control Purpose]]
+- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/congestion-control-purpose|Congestion Control Purpose]]

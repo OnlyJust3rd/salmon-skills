@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/data-access-implications-of-geometry|data-access-implications-of-geometry]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-implications-of-geometry|data-access-implications-of-geometry]]"
 learning-time-in-minutes: 4
 ---
 # Data Access Implications of Disk Geometry
@@ -58,4 +58,4 @@ The physical layout of an HDD – its platters, heads, and the way data is organ
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/i-o-and-file-systems/microskills/data-access-implications-of-geometry|Data Access Implications of Geometry]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-implications-of-geometry|Data Access Implications of Geometry]]

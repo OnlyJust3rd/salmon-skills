@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "The User-Centered Design Process: A Journey of Understanding"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-centered-design-process|user-centered-design-process]]"
+outcome: "[[user-centered-design-process|user-centered-design-process]]"
 learning-time-in-minutes: 5
 ---
 # The User-Centered Design Process: A Journey of Understanding
@@ -87,4 +87,4 @@ By diligently following and iterating through these stages, we move beyond assum
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-centered-design-process|User-Centered Design Process]]
+- [[user-centered-design-process|User-Centered Design Process]]

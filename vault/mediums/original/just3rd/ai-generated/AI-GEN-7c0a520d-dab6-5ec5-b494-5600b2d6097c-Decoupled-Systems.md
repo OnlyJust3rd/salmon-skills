@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/decoupled-systems|decoupled-systems]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/decoupled-systems|decoupled-systems]]"
 learning-time-in-minutes: 4
 ---
 # Decoupled Systems in Event-Driven Architectures
@@ -62,4 +62,4 @@ This is in stark contrast to a tightly coupled system where the `OrderService` m
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/serverless-computing/microskills/decoupled-systems|Decoupled Systems]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/decoupled-systems|Decoupled Systems]]

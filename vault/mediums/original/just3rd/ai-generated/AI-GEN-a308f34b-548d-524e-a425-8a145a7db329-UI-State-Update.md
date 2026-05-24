@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/ui-state-update|ui-state-update]]"
+outcome: "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/ui-state-update|ui-state-update]]"
 learning-time-in-minutes: 4
 ---
 # UI State Update in Mobile Applications
@@ -97,4 +97,4 @@ Mastering UI State Update is fundamental to building interactive and user-friend
 
 ## Supports
 
-- [[skills/computing/web-mobile/mobile-development/mobile-application-development/microskills/ui-state-update|UI State Update]]
+- [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/ui-state-update|UI State Update]]

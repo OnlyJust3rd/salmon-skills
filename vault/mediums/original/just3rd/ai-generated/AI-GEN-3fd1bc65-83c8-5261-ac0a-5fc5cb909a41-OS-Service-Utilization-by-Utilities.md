@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|os-service-utilization-by-utilities]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|os-service-utilization-by-utilities]]"
 learning-time-in-minutes: 4
 ---
 # Interacting with the Operating System: A Simple File Utility
@@ -77,4 +77,4 @@ This lesson highlights how seemingly simple actions performed by utilities are b
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|OS Service Utilization by Utilities]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|OS Service Utilization by Utilities]]

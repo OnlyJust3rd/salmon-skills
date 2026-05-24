@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/dockerfile-construction|dockerfile-construction]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-construction|dockerfile-construction]]"
 learning-time-in-minutes: 4
 ---
 # Dockerfile Construction: Building Your First Container Image
@@ -186,4 +186,4 @@ Now, if you open your web browser and go to `http://localhost:8080`, you should 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/dockerfile-construction|Dockerfile Construction]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-construction|Dockerfile Construction]]

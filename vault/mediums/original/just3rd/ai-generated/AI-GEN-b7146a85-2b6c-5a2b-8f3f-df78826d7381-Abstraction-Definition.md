@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/abstraction-definition|abstraction-definition]]"
+outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-definition|abstraction-definition]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Abstraction in Object-Oriented Programming
@@ -95,4 +95,4 @@ Abstraction is a foundational concept that, when applied effectively, leads to m
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/microskills/abstraction-definition|Abstraction Definition]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-definition|Abstraction Definition]]

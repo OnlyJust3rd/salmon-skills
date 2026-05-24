@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/logical-network-grouping|logical-network-grouping]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/logical-network-grouping|logical-network-grouping]]"
 learning-time-in-minutes: 3
 ---
 # Logical Network Grouping: Your First Step to VLANs
@@ -65,4 +65,4 @@ Describe how you would use logical network grouping to create independent broadc
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/logical-network-grouping|Logical Network Grouping]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/logical-network-grouping|Logical Network Grouping]]

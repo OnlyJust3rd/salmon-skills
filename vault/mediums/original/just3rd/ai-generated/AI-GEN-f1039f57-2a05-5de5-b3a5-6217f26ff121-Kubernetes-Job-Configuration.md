@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-job-configuration|kubernetes-job-configuration]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-job-configuration|kubernetes-job-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes Job Configuration
@@ -150,4 +150,4 @@ By understanding and applying these Job configurations, you can effectively mana
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/kubernetes/microskills/kubernetes-job-configuration|Kubernetes Job Configuration]]
+- [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-job-configuration|Kubernetes Job Configuration]]

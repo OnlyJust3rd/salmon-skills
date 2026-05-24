@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-problem-solution-mapping|design-pattern-problem-solution-mapping]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-problem-solution-mapping|design-pattern-problem-solution-mapping]]"
 learning-time-in-minutes: 6
 ---
 # Mapping Design Patterns to Problems
@@ -205,4 +205,4 @@ By understanding the recurring problems in software design, we can effectively c
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-problem-solution-mapping|Design Pattern Problem-Solution Mapping]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-problem-solution-mapping|Design Pattern Problem-Solution Mapping]]

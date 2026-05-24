@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/collaborative-cost-ownership|collaborative-cost-ownership]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/collaborative-cost-ownership|collaborative-cost-ownership]]"
 learning-time-in-minutes: 4
 ---
 # Collaborative Cost Ownership in Cloud FinOps
@@ -59,4 +59,4 @@ Identify a cloud resource or service you or your team currently uses. Consider t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-finops/microskills/collaborative-cost-ownership|Collaborative Cost Ownership]]
+- [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/collaborative-cost-ownership|Collaborative Cost Ownership]]

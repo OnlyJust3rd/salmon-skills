@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/express-js/microskills/error-handling-middleware|error-handling-middleware]]"
+outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/error-handling-middleware|error-handling-middleware]]"
 learning-time-in-minutes: 4
 ---
 # Error Handling Middleware in Express.js
@@ -206,4 +206,4 @@ By implementing this basic centralized error handling middleware, you take a sig
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/express-js/microskills/error-handling-middleware|Error handling middleware]]
+- [[skills/computing/software-engineering/backend-development/express-js/microskills/error-handling-middleware|Error handling middleware]]

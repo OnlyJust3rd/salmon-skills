@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/physical-layer-efficiency|physical-layer-efficiency]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/physical-layer-efficiency|physical-layer-efficiency]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Physical Layer Efficiency Through Multiplexing
@@ -70,4 +70,4 @@ Multiplexing is a fundamental concept for achieving **physical layer efficiency*
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/physical-layer-protocol/microskills/physical-layer-efficiency|Physical Layer Efficiency]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/microskills/physical-layer-efficiency|Physical Layer Efficiency]]

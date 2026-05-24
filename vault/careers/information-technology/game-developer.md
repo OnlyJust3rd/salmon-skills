@@ -18,7 +18,7 @@ required-competencies:
   - "[[skills/digital-media/game-development/game-audio/competencies/L2-apply-game-audio-trigger-and-mixing-concepts|L2-apply-game-audio-trigger-and-mixing-concepts]]"
   - "[[skills/digital-media/game-development/game-ui/competencies/L2-apply-game-ui-flow-and-hud-concepts|L2-apply-game-ui-flow-and-hud-concepts]]"
   - "[[skills/digital-media/game-development/game-performance-optimization/competencies/L2-apply-game-performance-profiling-concepts|L2-apply-game-performance-profiling-concepts]]"
-  - "[[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
   - "[[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
 ---
 
@@ -50,5 +50,5 @@ A Game Developer is an entry-level information technology role focused on applyi
 - [[skills/digital-media/game-development/game-audio/competencies/L2-apply-game-audio-trigger-and-mixing-concepts|L3- Apply Game Audio Trigger and Mixing Concepts]]
 - [[skills/digital-media/game-development/game-ui/competencies/L2-apply-game-ui-flow-and-hud-concepts|L3- Apply Game UI Flow and HUD Concepts]]
 - [[skills/digital-media/game-development/game-performance-optimization/competencies/L2-apply-game-performance-profiling-concepts|L3- Apply Game Performance Profiling Concepts]]
-- [[skills/computing/software-engineering/software-practices/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
+- [[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Simulating Core Functionality in Interactive Prototypes"
+type: medium
+title: Simulating Core Functionality in Interactive Prototypes
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/functionality-simulation|functionality-simulation]]"
+outcome: "[[functionality-simulation|functionality-simulation]]"
 learning-time-in-minutes: 4
 ---
 # Simulating Core Functionality in Interactive Prototypes
@@ -138,4 +138,4 @@ By focusing on simulating core functionality, you create tangible, testable repr
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/functionality-simulation|Functionality Simulation]]
+- [[functionality-simulation|Functionality Simulation]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/fundamental-hpc-components|fundamental-hpc-components]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/fundamental-hpc-components|fundamental-hpc-components]]"
 learning-time-in-minutes: 5
 ---
 # Fundamental HPC Components
@@ -93,4 +93,4 @@ Understanding these fundamental components provides the groundwork for appreciat
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-system/microskills/fundamental-hpc-components|Fundamental HPC Components]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/fundamental-hpc-components|Fundamental HPC Components]]

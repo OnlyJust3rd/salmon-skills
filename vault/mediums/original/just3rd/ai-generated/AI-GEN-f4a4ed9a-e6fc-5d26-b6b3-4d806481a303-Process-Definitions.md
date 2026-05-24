@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/process-definitions|process-definitions]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-definitions|process-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Processes in Operating Systems
@@ -65,4 +65,4 @@ A process is the fundamental unit of execution in an operating system. It repres
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/process-definitions|Process Definitions]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-definitions|Process Definitions]]

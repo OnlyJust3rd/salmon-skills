@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/volume-lifecycle|volume-lifecycle]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-lifecycle|volume-lifecycle]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Docker Volume Lifecycle
@@ -144,4 +144,4 @@ Understanding the Docker volume lifecycle is fundamental to managing persistent 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/volume-lifecycle|Volume Lifecycle]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-lifecycle|Volume Lifecycle]]

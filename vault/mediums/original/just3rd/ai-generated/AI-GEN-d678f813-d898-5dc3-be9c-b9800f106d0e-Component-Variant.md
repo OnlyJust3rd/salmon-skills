@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Figma: Mastering Component Variants for Interactive Prototypes"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/figma/microskills/component-variant|component-variant]]"
+outcome: "[[component-variant|component-variant]]"
 learning-time-in-minutes: 5
 ---
 # Figma: Mastering Component Variants for Interactive Prototypes
@@ -116,4 +116,4 @@ By mastering component variants, you significantly enhance your ability to creat
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/figma/microskills/component-variant|Component Variant]]
+- [[component-variant|Component Variant]]

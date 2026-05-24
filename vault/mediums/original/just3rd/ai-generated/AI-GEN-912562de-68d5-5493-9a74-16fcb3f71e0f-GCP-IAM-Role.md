@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-iam-role|gcp-iam-role]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-iam-role|gcp-iam-role]]"
 learning-time-in-minutes: 4
 ---
 # Applying GCP IAM Roles: A Practical Guide
@@ -80,4 +80,4 @@ By understanding and systematically applying GCP IAM roles, you build a robust s
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/google-cloud-platform/microskills/gcp-iam-role|GCP IAM Role]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-iam-role|GCP IAM Role]]

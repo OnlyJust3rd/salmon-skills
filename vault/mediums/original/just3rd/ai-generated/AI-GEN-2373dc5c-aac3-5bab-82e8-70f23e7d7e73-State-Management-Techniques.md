@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/state-management-techniques|state-management-techniques]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/state-management-techniques|state-management-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Terraform State Management: Remote Backends and Locking
@@ -109,4 +109,4 @@ Terraform is not able to acquire a state lock, which is necessary to prevent con
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/state-management-techniques|State Management Techniques]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/state-management-techniques|State Management Techniques]]

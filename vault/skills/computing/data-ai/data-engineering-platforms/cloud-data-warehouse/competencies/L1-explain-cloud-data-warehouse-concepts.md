@@ -5,7 +5,7 @@ tags:
   - "cpe"
   - "competency"
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L1-explain-data-warehouse-modeling-concepts]]"
 miller-level: 1
 optional-prerequisites: []
@@ -29,7 +29,7 @@ Explain cloud data warehouse concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]]
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
 
 ## Optional Prerequisites
 

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/quality-assurance/microskills/process-improvement-enhancement|process-improvement-enhancement]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/process-improvement-enhancement|process-improvement-enhancement]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How QA Metrics Drive Process Improvement
@@ -79,4 +79,4 @@ By consistently observing, analyzing, and acting upon QA metrics, we evolve our 
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/quality-assurance/microskills/process-improvement-enhancement|Process Improvement Enhancement]]
+- [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/process-improvement-enhancement|Process Improvement Enhancement]]

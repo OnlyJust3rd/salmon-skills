@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/build-cache-utilization|build-cache-utilization]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/build-cache-utilization|build-cache-utilization]]"
 learning-time-in-minutes: 4
 ---
 # Build Cache Utilization in Docker
@@ -104,4 +104,4 @@ By understanding and leveraging Docker's build cache, you can significantly opti
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/build-cache-utilization|Build Cache Utilization]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/build-cache-utilization|Build Cache Utilization]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/express-js/microskills/router-configuration|router-configuration]]"
+outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/router-configuration|router-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Express.js Router Configuration: Paths and HTTP Verbs
@@ -128,4 +128,4 @@ In this comprehensive example, we see how different HTTP verbs are used with the
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/express-js/microskills/router-configuration|Router configuration]]
+- [[skills/computing/software-engineering/backend-development/express-js/microskills/router-configuration|Router configuration]]

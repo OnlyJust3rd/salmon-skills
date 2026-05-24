@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/control-message-protocols|control-message-protocols]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/control-message-protocols|control-message-protocols]]"
 learning-time-in-minutes: 5
 ---
 # Understanding ICMP: The Network's Messenger
@@ -70,4 +70,4 @@ In summary, ICMP is a fundamental protocol within the Network Layer, acting as t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/control-message-protocols|Control Message Protocols]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/control-message-protocols|Control Message Protocols]]

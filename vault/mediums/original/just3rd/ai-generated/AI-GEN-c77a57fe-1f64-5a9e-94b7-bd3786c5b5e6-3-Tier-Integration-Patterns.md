@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/web-mobile/backend-api/application-database-integration/microskills/3-tier-integration-patterns|3-tier-integration-patterns]]"
+outcome: "[[skills/computing/software-engineering/backend-development/application-database-integration/microskills/3-tier-integration-patterns|3-tier-integration-patterns]]"
 learning-time-in-minutes: 3
 ---
 # 3-Tier Integration Patterns for Database Connectivity
@@ -99,4 +99,4 @@ Choose one of the patterns (Direct Connection or DAO) and outline the pseudocode
 
 ## Supports
 
-- [[skills/computing/web-mobile/backend-api/application-database-integration/microskills/3-tier-integration-patterns|3-Tier Integration Patterns]]
+- [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/3-tier-integration-patterns|3-Tier Integration Patterns]]

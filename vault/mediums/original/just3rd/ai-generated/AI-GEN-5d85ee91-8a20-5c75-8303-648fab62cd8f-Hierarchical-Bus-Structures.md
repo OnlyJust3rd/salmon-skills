@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/hierarchical-bus-structures|hierarchical-bus-structures]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/hierarchical-bus-structures|hierarchical-bus-structures]]"
 learning-time-in-minutes: 5
 ---
 # Hierarchical Bus Structures: Organizing I/O Integration
@@ -73,4 +73,4 @@ Hierarchical bus structures are fundamental to modern operating system design an
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/operating-system/microskills/hierarchical-bus-structures|Hierarchical Bus Structures]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/hierarchical-bus-structures|Hierarchical Bus Structures]]

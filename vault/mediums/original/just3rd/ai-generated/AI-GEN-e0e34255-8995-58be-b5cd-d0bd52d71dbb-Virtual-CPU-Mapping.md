@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-cpu-mapping|virtual-cpu-mapping]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-cpu-mapping|virtual-cpu-mapping]]"
 learning-time-in-minutes: 4
 ---
 # Virtual CPU Mapping: Understanding the Core of Virtual Processing
@@ -62,4 +62,4 @@ In summary, vCPUs are the virtualized representation of processing power for a v
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/system-virtualization/microskills/virtual-cpu-mapping|Virtual CPU Mapping]]
+- [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-cpu-mapping|Virtual CPU Mapping]]

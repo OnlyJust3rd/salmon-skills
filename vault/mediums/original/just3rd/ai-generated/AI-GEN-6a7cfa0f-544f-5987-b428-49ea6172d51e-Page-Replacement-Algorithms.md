@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/page-replacement-algorithms|page-replacement-algorithms]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/page-replacement-algorithms|page-replacement-algorithms]]"
 learning-time-in-minutes: 5
 ---
 # Page Replacement Algorithms: Keeping Memory Tidy
@@ -72,4 +72,4 @@ Understanding these algorithms is crucial for comprehending how virtual memory e
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/page-replacement-algorithms|Page Replacement Algorithms]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/page-replacement-algorithms|Page Replacement Algorithms]]

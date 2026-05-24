@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/gitops/microskills/continuous-deployment-workflows|continuous-deployment-workflows]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/continuous-deployment-workflows|continuous-deployment-workflows]]"
 learning-time-in-minutes: 4
 ---
 # Setting Up Automated Application Deployments with Git Commits
@@ -113,4 +113,4 @@ By mastering the setup of continuous deployment workflows, you significantly enh
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/gitops/microskills/continuous-deployment-workflows|Continuous Deployment Workflows]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/continuous-deployment-workflows|Continuous Deployment Workflows]]

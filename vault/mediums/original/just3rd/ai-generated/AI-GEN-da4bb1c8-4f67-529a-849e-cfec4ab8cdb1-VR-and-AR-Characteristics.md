@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "VR and AR Characteristics"
+type: medium
+title: VR and AR Characteristics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/vr-and-ar-characteristics|vr-and-ar-characteristics]]"
+outcome: "[[vr-and-ar-characteristics|vr-and-ar-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # VR and AR Characteristics
@@ -59,4 +59,4 @@ List three distinct features for VR and three distinct features for AR. Focus on
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/vr-and-ar-characteristics|VR and AR Characteristics]]
+- [[vr-and-ar-characteristics|VR and AR Characteristics]]

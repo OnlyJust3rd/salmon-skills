@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/volume-data-management|volume-data-management]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-data-management|volume-data-management]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Docker Volume Data Management
@@ -80,4 +80,4 @@ Docker volumes are fundamental for building stateful applications with Docker. B
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/volume-data-management|Volume Data Management]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-data-management|Volume Data Management]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/hybrid-scheme-principles|hybrid-scheme-principles]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/hybrid-scheme-principles|hybrid-scheme-principles]]"
 learning-time-in-minutes: 4
 ---
 # Hybrid Memory Allocation: Combining the Best of Both Worlds
@@ -88,4 +88,4 @@ The central idea behind hybrid memory allocation schemes is to combine the logic
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/memory-virtualization/microskills/hybrid-scheme-principles|Hybrid Scheme Principles]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/hybrid-scheme-principles|Hybrid Scheme Principles]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/turnaround-time-calculation|turnaround-time-calculation]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/turnaround-time-calculation|turnaround-time-calculation]]"
 learning-time-in-minutes: 2
 ---
 # Turnaround Time Calculation
@@ -63,4 +63,4 @@ First, determine the completion time for each process. Then, use the formula to 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/operating-systems/cpu-scheduling/microskills/turnaround-time-calculation|Turnaround Time Calculation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/turnaround-time-calculation|Turnaround Time Calculation]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/application-layer/microskills/web-browsing-scenario|web-browsing-scenario]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/web-browsing-scenario|web-browsing-scenario]]"
 learning-time-in-minutes: 3
 ---
 # Web Browsing Scenario: How HTTP and DNS Work Together
@@ -60,4 +60,4 @@ You can't send the letter (HTTP) if you don't know the address (DNS). Similarly,
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/application-layer/microskills/web-browsing-scenario|Web Browsing Scenario]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/microskills/web-browsing-scenario|Web Browsing Scenario]]

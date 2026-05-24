@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/ethernet-protocol-operations|ethernet-protocol-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/ethernet-protocol-operations|ethernet-protocol-operations]]"
 learning-time-in-minutes: 4
 ---
 # Ethernet Protocol Operations: How Devices Talk on Your Network
@@ -62,4 +62,4 @@ Describe the steps involved from the perspective of the Ethernet protocol, focus
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/data-link-layer/microskills/ethernet-protocol-operations|Ethernet Protocol Operations]]
+- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/microskills/ethernet-protocol-operations|Ethernet Protocol Operations]]

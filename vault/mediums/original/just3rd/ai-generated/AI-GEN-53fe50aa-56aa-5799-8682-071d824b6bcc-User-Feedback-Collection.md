@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Gathering User Feedback: The Heart of Iterative Design"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-feedback-collection|user-feedback-collection]]"
+outcome: "[[user-feedback-collection|user-feedback-collection]]"
 learning-time-in-minutes: 6
 ---
 # Gathering User Feedback: The Heart of Iterative Design
@@ -112,4 +112,4 @@ By consistently gathering and acting on user feedback, you ensure your MVP evolv
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-feedback-collection|User Feedback Collection]]
+- [[user-feedback-collection|User Feedback Collection]]

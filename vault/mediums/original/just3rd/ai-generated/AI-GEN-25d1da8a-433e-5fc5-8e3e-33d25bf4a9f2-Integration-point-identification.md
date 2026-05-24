@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/integration-point-identification|integration-point-identification]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-point-identification|integration-point-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Integration Points in C Programs
@@ -236,4 +236,4 @@ By systematically identifying these connection points, you lay the foundation fo
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/integration-point-identification|Integration point identification]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-point-identification|Integration point identification]]

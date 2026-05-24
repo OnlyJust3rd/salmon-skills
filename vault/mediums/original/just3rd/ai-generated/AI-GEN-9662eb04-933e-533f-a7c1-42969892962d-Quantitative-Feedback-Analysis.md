@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Analyzing Quantitative User Feedback"
+type: medium
+title: Analyzing Quantitative User Feedback
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/quantitative-feedback-analysis|quantitative-feedback-analysis]]"
+outcome: "[[quantitative-feedback-analysis|quantitative-feedback-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Quantitative User Feedback
@@ -124,4 +124,4 @@ By understanding and analyzing quantitative feedback, you gain a clearer, data-d
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/quantitative-feedback-analysis|Quantitative Feedback Analysis]]
+- [[quantitative-feedback-analysis|Quantitative Feedback Analysis]]

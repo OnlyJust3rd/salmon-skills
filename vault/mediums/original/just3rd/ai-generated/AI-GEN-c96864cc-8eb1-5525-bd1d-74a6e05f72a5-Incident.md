@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/incident|incident]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/incident|incident]]"
 learning-time-in-minutes: 3
 ---
 # Understanding IT Incidents
@@ -64,4 +64,4 @@ By understanding what constitutes an incident, IT professionals can begin to imp
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/service-management/it-service-management/microskills/incident|Incident]]
+- [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/incident|Incident]]

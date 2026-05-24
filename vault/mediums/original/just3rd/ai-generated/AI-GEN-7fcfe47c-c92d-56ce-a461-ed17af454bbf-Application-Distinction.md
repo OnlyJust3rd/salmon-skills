@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Application Distinction: VR vs. AR"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/application-distinction|application-distinction]]"
+outcome: "[[application-distinction|application-distinction]]"
 learning-time-in-minutes: 5
 ---
 # Application Distinction: VR vs. AR
@@ -80,4 +80,4 @@ Imagine you are a learning designer tasked with creating an application for a hi
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/advanced-interaction-paradigms/microskills/application-distinction|Application Distinction]]
+- [[application-distinction|Application Distinction]]

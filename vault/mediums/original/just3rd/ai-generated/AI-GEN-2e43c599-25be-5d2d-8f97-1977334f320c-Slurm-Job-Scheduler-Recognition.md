@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|slurm-job-scheduler-recognition]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|slurm-job-scheduler-recognition]]"
 learning-time-in-minutes: 3
 ---
 # Recognizing Slurm: Your HPC Job Scheduler
@@ -52,4 +52,4 @@ In essence, recognizing Slurm is like knowing the name of the person who manages
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|Slurm Job Scheduler Recognition]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|Slurm Job Scheduler Recognition]]

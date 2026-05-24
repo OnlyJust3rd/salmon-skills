@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Interactive Prototype Development: Building Working Models"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/interactive-system-development/microskills/interactive-prototype-development|interactive-prototype-development]]"
+outcome: "[[interactive-prototype-development|interactive-prototype-development]]"
 learning-time-in-minutes: 4
 ---
 # Interactive Prototype Development: Building Working Models
@@ -96,4 +96,4 @@ By mastering interactive prototype development, you gain a powerful way to valid
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/interactive-system-development/microskills/interactive-prototype-development|Interactive Prototype Development]]
+- [[interactive-prototype-development|Interactive Prototype Development]]

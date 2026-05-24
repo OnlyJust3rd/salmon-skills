@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Storyboarding and Use Cases: Modeling User Interactions"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/storyboard-and-use-case-application|storyboard-and-use-case-application]]"
+outcome: "[[storyboard-and-use-case-application|storyboard-and-use-case-application]]"
 learning-time-in-minutes: 5
 ---
 # Storyboarding and Use Cases: Modeling User Interactions
@@ -121,4 +121,4 @@ Often, these techniques are used together. A scenario might inspire a storyboard
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/storyboard-and-use-case-application|Storyboard and Use Case Application]]
+- [[storyboard-and-use-case-application|Storyboard and Use Case Application]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/visual-dashboard-design|visual-dashboard-design]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/visual-dashboard-design|visual-dashboard-design]]"
 learning-time-in-minutes: 4
 ---
 # Designing Your First IoT Visual Dashboard
@@ -125,4 +125,4 @@ By following these steps and considering the purpose and audience, you can desig
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/iot-cloud/microskills/visual-dashboard-design|Visual Dashboard Design]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/visual-dashboard-design|Visual Dashboard Design]]

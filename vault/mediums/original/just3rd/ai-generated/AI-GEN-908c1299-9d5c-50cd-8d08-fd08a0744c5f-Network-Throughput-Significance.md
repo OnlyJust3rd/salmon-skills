@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/network-throughput-significance|network-throughput-significance]]"
+outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/network-throughput-significance|network-throughput-significance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Network Throughput Significance
@@ -67,4 +67,4 @@ By understanding network throughput and how to monitor it, you gain a critical p
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/observability-operations/system-monitoring/microskills/network-throughput-significance|Network Throughput Significance]]
+- [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/network-throughput-significance|Network Throughput Significance]]

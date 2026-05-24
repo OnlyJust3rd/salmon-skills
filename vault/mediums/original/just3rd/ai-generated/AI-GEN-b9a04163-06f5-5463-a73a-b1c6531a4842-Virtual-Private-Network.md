@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/virtual-private-network|virtual-private-network]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/virtual-private-network|virtual-private-network]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Virtual Private Networks (VPNs)
@@ -62,4 +62,4 @@ Imagine you need to send a secret message to a friend across town.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/virtual-private-network|Virtual Private Network]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/virtual-private-network|Virtual Private Network]]

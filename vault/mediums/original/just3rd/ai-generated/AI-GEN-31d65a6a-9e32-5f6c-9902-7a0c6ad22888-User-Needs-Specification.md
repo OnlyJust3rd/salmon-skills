@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Documenting User Needs: A Practical Guide"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-needs-specification|user-needs-specification]]"
+outcome: "[[user-needs-specification|user-needs-specification]]"
 learning-time-in-minutes: 5
 ---
 # Documenting User Needs: A Practical Guide
@@ -123,4 +123,4 @@ By diligently applying these structured techniques, you can create a robust and 
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-centered-design/microskills/user-needs-specification|User Needs Specification]]
+- [[user-needs-specification|User Needs Specification]]

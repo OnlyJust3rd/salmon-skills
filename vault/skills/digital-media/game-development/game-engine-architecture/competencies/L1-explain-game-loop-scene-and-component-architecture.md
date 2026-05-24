@@ -6,8 +6,8 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/digital-media/game-development/game-development-lifecycle/competencies/L1-explain-game-development-phases|L1-explain-game-development-phases]]"
-  - "[[skills/computing/software-engineering/software-practices/design-patterns/competencies/L2-apply-design-patterns|L2-apply-design-patterns]]"
-  - "[[skills/computing/software-engineering/software-practices/object-oriented-programming/competencies/L2-apply-oop-principles|L2-apply-oop-principles]]"
+  - "[[skills/computing/software-engineering/software-design/design-patterns/competencies/L2-apply-design-patterns|L2-apply-design-patterns]]"
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/competencies/L2-apply-oop-principles|L2-apply-oop-principles]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/digital-media/game-development/game-engine-architecture/game-engine-architecture|game-engine-architecture]]"
@@ -30,8 +30,8 @@ Explain game loop, scene, and component architecture.
 ## Strict Prerequisites
 
 - [[skills/digital-media/game-development/game-development-lifecycle/competencies/L1-explain-game-development-phases|L2- Explain game development phases]]
-- [[skills/computing/software-engineering/software-practices/object-oriented-programming/competencies/L2-apply-oop-principles|L3- Apply OOP Principles]]
-- [[skills/computing/software-engineering/software-practices/design-patterns/competencies/L2-apply-design-patterns|L3- Apply Design Patterns]]
+- [[skills/computing/programming/programming-paradigms/object-oriented-programming/competencies/L2-apply-oop-principles|L3- Apply OOP Principles]]
+- [[skills/computing/software-engineering/software-design/design-patterns/competencies/L2-apply-design-patterns|L3- Apply Design Patterns]]
 
 ## Optional Prerequisites
 

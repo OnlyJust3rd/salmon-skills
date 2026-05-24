@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-security-through-nat|network-security-through-nat]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-security-through-nat|network-security-through-nat]]"
 learning-time-in-minutes: 5
 ---
 # Network Security through NAT
@@ -58,4 +58,4 @@ By understanding how NAT hides internal IP addresses and manages traffic through
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/network-security-through-nat|Network Security through NAT]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/network-security-through-nat|Network Security through NAT]]

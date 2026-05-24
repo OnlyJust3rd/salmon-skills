@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/program-testing/microskills/test-case-quality-review|test-case-quality-review]]"
+outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-case-quality-review|test-case-quality-review]]"
 learning-time-in-minutes: 4
 ---
 # Reviewing Test Cases for Quality
@@ -114,4 +114,4 @@ By following a structured review process, you can transform basic test case idea
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/program-testing/microskills/test-case-quality-review|Test case quality review]]
+- [[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-case-quality-review|Test case quality review]]

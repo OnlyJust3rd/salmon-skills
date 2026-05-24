@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Uncovering User Experience Insights from Feedback"
+type: medium
+title: Uncovering User Experience Insights from Feedback
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/human-centered-design/user-experience/microskills/user-experience-insights|user-experience-insights]]"
+outcome: "[[user-experience-insights|user-experience-insights]]"
 learning-time-in-minutes: 5
 ---
 # Uncovering User Experience Insights from Feedback
@@ -105,4 +105,4 @@ By systematically organizing, analyzing, and interpreting user feedback, you can
 
 ## Supports
 
-- [[skills/professional-practice/human-centered-design/user-experience/microskills/user-experience-insights|User Experience Insights]]
+- [[user-experience-insights|User Experience Insights]]

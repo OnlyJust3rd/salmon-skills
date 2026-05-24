@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/faas-characteristics|faas-characteristics]]"
+outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-characteristics|faas-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # Function as a Service (FaaS) Characteristics
@@ -55,4 +55,4 @@ Consider a scenario where you need to send a welcome email to new users who sign
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/cloud-computing/microskills/faas-characteristics|FaaS Characteristics]]
+- [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-characteristics|FaaS Characteristics]]

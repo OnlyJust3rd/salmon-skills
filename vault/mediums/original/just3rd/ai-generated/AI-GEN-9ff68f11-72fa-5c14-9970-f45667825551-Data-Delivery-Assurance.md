@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/transport-layer/microskills/data-delivery-assurance|data-delivery-assurance]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/data-delivery-assurance|data-delivery-assurance]]"
 learning-time-in-minutes: 5
 ---
 # Ensuring Data Arrives Safely: A Look at Data Delivery Assurance
@@ -83,4 +83,4 @@ This combination of mechanisms ensures that even in a chaotic network, your appl
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/transport-layer/microskills/data-delivery-assurance|Data Delivery Assurance]]
+- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/microskills/data-delivery-assurance|Data Delivery Assurance]]

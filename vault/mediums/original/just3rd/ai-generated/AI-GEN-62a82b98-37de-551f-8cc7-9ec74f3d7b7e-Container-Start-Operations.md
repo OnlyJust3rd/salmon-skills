@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-start-operations|container-start-operations]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-start-operations|container-start-operations]]"
 learning-time-in-minutes: 3
 ---
 # Starting Docker Containers: Bringing Your Applications to Life
@@ -105,4 +105,4 @@ By mastering the `docker run` command with its various options, you gain the ess
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/docker-container/microskills/container-start-operations|Container Start Operations]]
+- [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-start-operations|Container Start Operations]]

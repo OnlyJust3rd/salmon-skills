@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-identification|design-pattern-identification]]"
+outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-identification|design-pattern-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Software Design Patterns
@@ -117,4 +117,4 @@ class Milk(Coffee):
 
 ## Supports
 
-- [[skills/computing/software-engineering/software-practices/design-patterns/microskills/design-pattern-identification|Design Pattern Identification]]
+- [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-identification|Design Pattern Identification]]

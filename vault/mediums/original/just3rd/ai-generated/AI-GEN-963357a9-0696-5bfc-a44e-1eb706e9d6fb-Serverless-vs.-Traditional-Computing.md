@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/serverless-vs-traditional-computing|serverless-vs-traditional-computing]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/serverless-vs-traditional-computing|serverless-vs-traditional-computing]]"
 learning-time-in-minutes: 4
 ---
 # Serverless vs. Traditional Computing
@@ -76,4 +76,4 @@ By abstracting away server management and offering automatic scaling and a pay-p
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/high-performance-computing/multicore-processing/microskills/serverless-vs-traditional-computing|Serverless vs. Traditional Computing]]
+- [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/serverless-vs-traditional-computing|Serverless vs. Traditional Computing]]

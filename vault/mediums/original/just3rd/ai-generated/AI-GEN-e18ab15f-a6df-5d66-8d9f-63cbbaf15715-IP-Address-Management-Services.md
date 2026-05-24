@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-address-management-services|ip-address-management-services]]"
+outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-address-management-services|ip-address-management-services]]"
 learning-time-in-minutes: 4
 ---
 # IP Address Management Services: The Role of DHCP
@@ -45,4 +45,4 @@ DHCP is a fundamental service in almost all modern networks, from small home net
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-layer/microskills/ip-address-management-services|IP Address Management Services]]
+- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/microskills/ip-address-management-services|IP Address Management Services]]

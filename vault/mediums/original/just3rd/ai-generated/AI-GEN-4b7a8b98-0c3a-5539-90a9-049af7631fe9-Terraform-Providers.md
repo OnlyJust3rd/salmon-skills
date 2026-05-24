@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-providers|terraform-providers]]"
+outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-providers|terraform-providers]]"
 learning-time-in-minutes: 4
 ---
 # Terraform Providers: Connecting to Your Cloud
@@ -159,4 +159,4 @@ Now that you understand the role of providers, you can begin to:
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/platform-engineering/infrastructure-as-code/microskills/terraform-providers|Terraform Providers]]
+- [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-providers|Terraform Providers]]
