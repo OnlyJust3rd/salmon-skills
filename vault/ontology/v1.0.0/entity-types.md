@@ -113,8 +113,11 @@ Required properties:
 - `title`
 - `tags`
 - `parent-skill`
-- `requires-in-competencies`
 - `contributors`
+
+Optional relationship properties:
+
+- `requires-in-competencies`
 
 Expected body:
 

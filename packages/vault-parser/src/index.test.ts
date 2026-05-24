@@ -232,6 +232,61 @@ test('validateGraph reports required frontmatter and unknown types', () => {
   assert.ok(result.errors.some((issue) => issue.code === 'UNKNOWN_TYPE'))
 })
 
+test('validateGraph does not require inverse competency links on microskills', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'skills/programming/python/python.md',
+      content:
+        '---\ntype: "skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Python',
+    },
+    {
+      path: 'skills/programming/python/microskills/variables.md',
+      content:
+        '---\ntype: "microskill"\ntitle: "Variables"\ntags: []\nparent-skill: "[[skills/programming/python/python|python]]"\ncontributors: []\n---\n# Variables',
+    },
+  ])
+
+  const result = validateGraph(graph)
+
+  assert.equal(
+    result.errors.some(
+      (issue) =>
+        issue.code === 'MISSING_REQUIRED_PROPERTY' &&
+        issue.path === 'skills/programming/python/microskills/variables.md' &&
+        issue.message.includes('requires-in-competencies'),
+    ),
+    false,
+  )
+})
+
+test('validateGraph still validates existing inverse competency wikilinks on microskills', () => {
+  const graph = parseVaultEntries(
+    [
+      {
+        path: 'skills/programming/python/python.md',
+        content:
+          '---\ntype: "skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Python',
+      },
+      {
+        path: 'skills/programming/python/microskills/variables.md',
+        content:
+          '---\ntype: "microskill"\ntitle: "Variables"\ntags: []\nparent-skill: "[[skills/programming/python/python|python]]"\nrequires-in-competencies:\n  - "[[skills/programming/python/competencies/L1-variables|L1 Variables]]"\ncontributors: []\n---\n# Variables',
+      },
+    ],
+    { includeUnresolvedEdges: true },
+  )
+
+  const result = validateGraph(graph)
+
+  assert.ok(
+    result.errors.some(
+      (issue) =>
+        issue.code === 'UNRESOLVED_WIKILINK' &&
+        issue.nodeId === 'skills/programming/python/microskills/variables',
+    ),
+  )
+})
+
 test('validateGraph reports invalid skill folder structure', () => {
   const graph = parseVaultEntries([
     {

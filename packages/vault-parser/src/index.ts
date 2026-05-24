@@ -127,7 +127,6 @@ const ENTITY_REQUIRED_PROPERTIES = {
     "title",
     "tags",
     "parent-skill",
-    "requires-in-competencies",
     "contributors",
   ],
   medium: [

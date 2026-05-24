@@ -52,7 +52,8 @@ Relationship: `competency requires microskill`.
 Rules:
 
 - Competency notes list microskill links in `requires-microskills`.
-- Microskill notes list inverse competency links in `requires-in-competencies`.
+- Microskill notes may list inverse competency links in `requires-in-competencies`.
+- When `requires-in-competencies` exists, each item must be a valid wikilink to a competency note.
 
 ## Competency to Competency
 
