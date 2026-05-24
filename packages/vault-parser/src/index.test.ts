@@ -3,11 +3,13 @@ import { test } from 'node:test'
 import { parseVault, parseVaultEntries, validateGraph } from './index.js'
 
 test('parseVaultEntries returns path-keyed nodes and resolved wikilink edges', () => {
+  const javascriptContent =
+    '---\ntype: "skill"\ntags:\n  - programming\n  - javascript\ncount: 2\nempty-list: []\n---\nSee [[skills/programming/functions|Functions]] and [[loops#Basics]].'
+
   const graph = parseVaultEntries([
     {
       path: 'skills/programming/javascript.md',
-      content:
-        '---\ntype: "skill"\ntags:\n  - programming\n  - javascript\ncount: 2\nempty-list: []\n---\nSee [[skills/programming/functions|Functions]] and [[loops#Basics]].',
+      content: javascriptContent,
     },
     {
       path: 'skills/programming/functions.md',
@@ -24,6 +26,7 @@ test('parseVaultEntries returns path-keyed nodes and resolved wikilink edges', (
       id: 'skills/programming/javascript',
       path: 'skills/programming/javascript.md',
       absolutePath: undefined,
+      content: javascriptContent,
       frontmatter: {
         type: 'skill',
         tags: ['programming', 'javascript'],
@@ -35,12 +38,14 @@ test('parseVaultEntries returns path-keyed nodes and resolved wikilink edges', (
       id: 'skills/programming/functions',
       path: 'skills/programming/functions.md',
       absolutePath: undefined,
+      content: '# Functions',
       frontmatter: {},
     },
     {
       id: 'skills/programming/loops',
       path: 'skills/programming/loops.md',
       absolutePath: undefined,
+      content: '# Loops',
       frontmatter: {},
     },
   ])

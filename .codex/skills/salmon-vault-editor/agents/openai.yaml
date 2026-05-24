@@ -1,0 +1,4 @@
+interface:
+  display_name: "SALMON Vault Editor"
+  short_description: "Edit SALMON vault notes safely"
+  default_prompt: "Use $salmon-vault-editor to add or update SALMON vault content from the ontology."

@@ -29,6 +29,7 @@ export interface VaultNode {
   id: string;
   path: string;
   absolutePath?: string;
+  content: string;
   frontmatter: Frontmatter;
 }
 
@@ -189,6 +190,7 @@ export function parseVaultEntries(
         id: toNodeId(relativePath),
         path: relativePath,
         absolutePath: entry.absolutePath,
+        content: entry.content,
         frontmatter: parseFrontmatter(entry.content),
       };
     });
