@@ -190,7 +190,7 @@ export function parseVaultEntries(
         id: toNodeId(relativePath),
         path: relativePath,
         absolutePath: entry.absolutePath,
-        content: entry.content,
+        content: stripFrontmatter(entry.content),
         frontmatter: parseFrontmatter(entry.content),
       };
     });
@@ -349,6 +349,38 @@ function parseFrontmatter(content: string): Frontmatter {
   if (endIndex === -1) return {};
 
   return parseSimpleYaml(lines.slice(1, endIndex));
+}
+
+function stripFrontmatter(content: string): string {
+  const endOffset = getFrontmatterEndOffset(content);
+  return endOffset === undefined
+    ? content
+    : content.slice(endOffset).replace(/^(?:\r?\n)+/, "");
+}
+
+function getFrontmatterEndOffset(content: string): number | undefined {
+  const lineRegex = /.*(?:\r?\n|$)/g;
+  let match: RegExpExecArray | null;
+  let lineIndex = 0;
+
+  while ((match = lineRegex.exec(content)) !== null) {
+    const rawLine = match[0];
+    if (!rawLine) break;
+
+    const line = rawLine.replace(/\r?\n$/, "").trim();
+
+    if (lineIndex === 0 && line !== "---") {
+      return undefined;
+    }
+
+    if (lineIndex > 0 && line === "---") {
+      return match.index + rawLine.length;
+    }
+
+    lineIndex += 1;
+  }
+
+  return undefined;
 }
 
 function parseSimpleYaml(lines: string[]): Frontmatter {

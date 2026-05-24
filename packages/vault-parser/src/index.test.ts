@@ -26,7 +26,7 @@ test('parseVaultEntries returns path-keyed nodes and resolved wikilink edges', (
       id: 'skills/programming/javascript',
       path: 'skills/programming/javascript.md',
       absolutePath: undefined,
-      content: javascriptContent,
+      content: 'See [[skills/programming/functions|Functions]] and [[loops#Basics]].',
       frontmatter: {
         type: 'skill',
         tags: ['programming', 'javascript'],
@@ -64,6 +64,23 @@ test('parseVaultEntries returns path-keyed nodes and resolved wikilink edges', (
       resolved: true,
     },
   ])
+})
+
+test('parseVaultEntries stores markdown content without frontmatter', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'contributors/just3rd.md',
+      content:
+        '---\ntype: "contributor"\ntitle: "just3rd"\ntags:\n  - contributor\n---\n\n# just3rd\n\nContributor profile.',
+    },
+  ])
+
+  assert.equal(graph.nodes[0]?.content, '# just3rd\n\nContributor profile.')
+  assert.deepEqual(graph.nodes[0]?.frontmatter, {
+    type: 'contributor',
+    title: 'just3rd',
+    tags: ['contributor'],
+  })
 })
 
 test('parseVaultEntries skips unresolved wikilinks by default', () => {

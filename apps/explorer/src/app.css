@@ -2,21 +2,21 @@
   min-width: 0;
 }
 
-.milkdown-prose {
-  outline: 0;
-}
-
-.milkdown-prose .ProseMirror {
+.milkdown-prose,
+.milkdown-prose.ProseMirror {
   color: hsl(var(--foreground));
+  cursor: default;
   font-size: 14px;
   line-height: 1.7;
+  outline: 0;
+  white-space: normal;
 }
 
-.milkdown-prose .ProseMirror > *:first-child {
+.milkdown-prose > *:first-child {
   margin-top: 0;
 }
 
-.milkdown-prose .ProseMirror > *:last-child {
+.milkdown-prose > *:last-child {
   margin-bottom: 0;
 }
 
@@ -24,8 +24,28 @@
 .milkdown-prose h2,
 .milkdown-prose h3,
 .milkdown-prose h4 {
-  margin: 1.15em 0 0.45em;
+  color: hsl(var(--foreground));
+  font-weight: 800;
   line-height: 1.2;
+  margin: 1.25em 0 0.5em;
+}
+
+.milkdown-prose h1 {
+  font-size: 1.55rem;
+}
+
+.milkdown-prose h2 {
+  border-bottom: 1px solid hsl(var(--border));
+  font-size: 1.22rem;
+  padding-bottom: 0.25rem;
+}
+
+.milkdown-prose h3 {
+  font-size: 1.05rem;
+}
+
+.milkdown-prose h4 {
+  font-size: 0.95rem;
 }
 
 .milkdown-prose p,
@@ -37,8 +57,43 @@
   margin: 0.75em 0;
 }
 
+.milkdown-prose ul,
+.milkdown-prose ol {
+  padding-left: 1.35rem;
+}
+
+.milkdown-prose ul {
+  list-style: disc;
+}
+
+.milkdown-prose ol {
+  list-style: decimal;
+}
+
+.milkdown-prose li {
+  margin: 0.35em 0;
+  padding-left: 0.15rem;
+}
+
+.milkdown-prose li > p {
+  margin: 0.25em 0;
+}
+
+.milkdown-prose li::marker {
+  color: hsl(var(--primary));
+  font-weight: 800;
+}
+
 .milkdown-prose a {
   color: hsl(var(--primary));
+  text-decoration: underline;
+  text-decoration-color: hsl(var(--primary) / 0.45);
+  text-underline-offset: 0.18em;
+}
+
+.milkdown-prose strong {
+  color: hsl(var(--foreground));
+  font-weight: 800;
 }
 
 .milkdown-prose code {
@@ -73,6 +128,9 @@
 }
 
 .milkdown-prose table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
   width: 100%;
   border-collapse: collapse;
   font-size: 13px;
@@ -83,4 +141,16 @@
   border: 1px solid hsl(var(--border));
   padding: 8px 10px;
   text-align: left;
+}
+
+.milkdown-prose th {
+  background: hsl(var(--muted));
+  color: hsl(var(--foreground));
+  font-weight: 800;
+}
+
+.milkdown-prose hr {
+  border: 0;
+  border-top: 1px solid hsl(var(--border));
+  margin: 1.4rem 0;
 }
