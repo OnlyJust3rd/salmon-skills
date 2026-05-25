@@ -161,4 +161,4 @@ By mastering these basic commands, you can efficiently and safely install the so
 ## Supports
 
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/software-installation|Software Installation]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-installation|Software Installation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/software-installation|Software Installation]]

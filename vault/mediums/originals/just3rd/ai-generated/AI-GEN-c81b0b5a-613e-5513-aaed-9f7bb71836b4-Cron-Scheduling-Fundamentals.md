@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Cron Scheduling Fundamentals"
+type: medium
+title: Cron Scheduling Fundamentals
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/cron-scheduling-fundamentals|cron-scheduling-fundamentals]]"
+outcome: "[[cron-scheduling-fundamentals|cron-scheduling-fundamentals]]"
 learning-time-in-minutes: 4
 ---
 # Cron Scheduling Fundamentals
@@ -144,4 +144,4 @@ By mastering these fundamentals, you are well on your way to implementing effect
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/cron-scheduling-fundamentals|Cron Scheduling Fundamentals]]
+- [[cron-scheduling-fundamentals|Cron Scheduling Fundamentals]]

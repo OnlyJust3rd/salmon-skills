@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/mysql/microskills/table-creation-statements|table-creation-statements]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements|table-creation-statements]]"
 learning-time-in-minutes: 4
 ---
 # Creating Tables in MySQL with `CREATE TABLE`
@@ -103,4 +103,4 @@ By mastering the `CREATE TABLE` statement, you are effectively applying the foun
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/mysql/microskills/table-creation-statements|Table Creation Statements]]
+- [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements|Table Creation Statements]]

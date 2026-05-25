@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Ensuring System Availability: Proactive Strategies"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-availability-strategies|system-availability-strategies]]"
+outcome: "[[system-availability-strategies|system-availability-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Ensuring System Availability: Proactive Strategies
@@ -138,4 +138,4 @@ Ensuring system availability is an ongoing process of vigilance and proactive pl
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-availability-strategies|System Availability Strategies]]
+- [[system-availability-strategies|System Availability Strategies]]

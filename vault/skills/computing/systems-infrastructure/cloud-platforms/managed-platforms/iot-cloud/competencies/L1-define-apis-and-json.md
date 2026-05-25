@@ -1,12 +1,12 @@
 ---
-type: "competency"
-icon: "LiGoal"
-title: "L1- Define APIs and JSON"
+type: competency
+icon: LiGoal
+title: L1- Define APIs and JSON
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L3-analyze-iot-communication-technologies]]"
+  - "[[L3-analyze-iot-communication-technologies|L3-analyze-iot-communication-technologies]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/iot-cloud|iot-cloud]]"
@@ -27,7 +27,7 @@ Define REST APIs and JSON data formats.
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
+- [[L3-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
 
 ## Optional Prerequisites
 

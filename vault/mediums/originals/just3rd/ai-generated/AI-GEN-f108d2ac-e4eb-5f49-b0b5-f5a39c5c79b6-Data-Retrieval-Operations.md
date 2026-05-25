@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/sql/microskills/data-retrieval-operations|data-retrieval-operations]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-retrieval-operations|data-retrieval-operations]]"
 learning-time-in-minutes: 4
 ---
 # Retrieving Data with SELECT Statements
@@ -162,4 +162,4 @@ Experiment with these queries. The ability to precisely retrieve the data you ne
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/sql/microskills/data-retrieval-operations|Data Retrieval Operations]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-retrieval-operations|Data Retrieval Operations]]

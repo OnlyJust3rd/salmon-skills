@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Exit Codes in Shell Scripting"
+type: medium
+title: Understanding Exit Codes in Shell Scripting
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/exit-codes|exit-codes]]"
+outcome: "[[exit-codes|exit-codes]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Exit Codes in Shell Scripting
@@ -164,4 +164,4 @@ These operators are excellent for simple, inline conditional logic.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/exit-codes|Exit Codes]]
+- [[exit-codes|Exit Codes]]

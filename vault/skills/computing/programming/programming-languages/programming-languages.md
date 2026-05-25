@@ -212,6 +212,14 @@ icon: LiWaypoints
 		- [[python-data-visualization-libraries]]
 		- [[relationship-visualization]]
 		- [[visualization-techniques]]
+- **[[shell-scripting]]**
+	- **competencies**
+		- [[L2-apply-shell-scripting-for-automation]]
+	- **microskills**
+		- [[command-composition]]
+		- [[conditionals-and-loops]]
+		- [[exit-codes]]
+		- [[shell-variables-and-parameters]]
 - **[[typescript]]**
 	- **competencies**
 		- [[L1-explain-typescript-types-and-compilation-to-javascript]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Packet Path Determination in Routing Protocols"
+type: medium
+title: Packet Path Determination in Routing Protocols
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/packet-path-determination|packet-path-determination]]"
+outcome: "[[packet-path-determination|packet-path-determination]]"
 learning-time-in-minutes: 5
 ---
 # Packet Path Determination in Routing Protocols
@@ -78,4 +78,4 @@ By understanding these mechanics, you can effectively illustrate the operational
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/packet-path-determination|Packet Path Determination]]
+- [[packet-path-determination|Packet Path Determination]]

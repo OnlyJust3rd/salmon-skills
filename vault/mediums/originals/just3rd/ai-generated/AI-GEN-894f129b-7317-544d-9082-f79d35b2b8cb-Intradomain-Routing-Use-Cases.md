@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Intradomain Routing: Where It Shines"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing-use-cases|intradomain-routing-use-cases]]"
+outcome: "[[intradomain-routing-use-cases|intradomain-routing-use-cases]]"
 learning-time-in-minutes: 4
 ---
 # Intradomain Routing: Where It Shines
@@ -80,4 +80,4 @@ By understanding these use cases, you can better appreciate the role of intradom
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing-use-cases|Intradomain Routing Use Cases]]
+- [[intradomain-routing-use-cases|Intradomain Routing Use Cases]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Cron Job Syntax: Mastering the Art of Scheduled Tasks"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/cron-job-syntax|cron-job-syntax]]"
+outcome: "[[cron-job-syntax|cron-job-syntax]]"
 learning-time-in-minutes: 4
 ---
 # Cron Job Syntax: Mastering the Art of Scheduled Tasks
@@ -147,4 +147,4 @@ Mastering this syntax is key to unlocking the power of automation with cron. Pra
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/cron-job-syntax|Cron Job Syntax]]
+- [[cron-job-syntax|Cron Job Syntax]]

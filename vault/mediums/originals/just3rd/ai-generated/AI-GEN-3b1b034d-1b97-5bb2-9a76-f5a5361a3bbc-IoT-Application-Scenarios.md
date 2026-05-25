@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Matching IoT Communication Technologies to Application Scenarios"
+type: medium
+title: Matching IoT Communication Technologies to Application Scenarios
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-application-scenarios|iot-application-scenarios]]"
+outcome: "[[iot-application-scenarios|iot-application-scenarios]]"
 learning-time-in-minutes: 6
 ---
 # Matching IoT Communication Technologies to Application Scenarios
@@ -130,4 +130,4 @@ By carefully analyzing the specific needs of your IoT application, you can confi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-application-scenarios|IoT Application Scenarios]]
+- [[iot-application-scenarios|IoT Application Scenarios]]

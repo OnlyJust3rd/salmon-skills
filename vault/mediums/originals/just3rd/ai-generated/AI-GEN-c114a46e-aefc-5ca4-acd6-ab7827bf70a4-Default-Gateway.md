@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding the Default Gateway"
+type: medium
+title: Understanding the Default Gateway
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/default-gateway|default-gateway]]"
+outcome: "[[default-gateway|default-gateway]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Default Gateway
@@ -82,4 +82,4 @@ The default gateway is the essential mechanism that allows devices on a local ne
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/default-gateway|Default Gateway]]
+- [[default-gateway|Default Gateway]]

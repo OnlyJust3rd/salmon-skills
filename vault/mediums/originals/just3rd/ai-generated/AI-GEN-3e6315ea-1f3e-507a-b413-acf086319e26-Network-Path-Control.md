@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Network Path Control with Static Routing"
+type: medium
+title: Network Path Control with Static Routing
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/network-path-control|network-path-control]]"
+outcome: "[[network-path-control|network-path-control]]"
 learning-time-in-minutes: 5
 ---
 # Network Path Control with Static Routing
@@ -97,4 +97,4 @@ By understanding how static routes dictate the precise path a packet takes, you 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/network-path-control|Network Path Control]]
+- [[network-path-control|Network Path Control]]

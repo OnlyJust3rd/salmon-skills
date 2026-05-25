@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Data Integrity in Journaling File Systems"
+type: medium
+title: Data Integrity in Journaling File Systems
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-integrity-in-journaling|data-integrity-in-journaling]]"
+outcome: "[[data-integrity-in-journaling|data-integrity-in-journaling]]"
 learning-time-in-minutes: 6
 ---
 # Data Integrity in Journaling File Systems
@@ -82,4 +82,4 @@ By understanding how journaling records intended actions before applying them an
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-integrity-in-journaling|Data Integrity in Journaling]]
+- [[data-integrity-in-journaling|Data Integrity in Journaling]]

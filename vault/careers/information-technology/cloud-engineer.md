@@ -1,10 +1,10 @@
 ---
-type: "career"
-title: "Cloud Engineer"
-level: "entry-level"
+type: career
+title: Cloud Engineer
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
+  - career
+  - information-technology
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L3-differentiate-cloud-models|L3-differentiate-cloud-models]]"
@@ -16,7 +16,7 @@ required-competencies:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/competencies/L2-configure-cloud-network-components|L2-configure-cloud-network-components]]"
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/competencies/L2-implement-iam-policies|L2-implement-iam-policies]]"
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/competencies/L2-implement-vm-scale-sets|L2-implement-vm-scale-sets]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability|L2-system-thinking-for-availability-and-recoverability]]"
+  - "[[L2-system-thinking-for-availability-and-recoverability|L2-system-thinking-for-availability-and-recoverability]]"
   - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-terraform-provisioning|L2-terraform-provisioning]]"
   - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L2-apply-terraform-building-blocks]]"
   - "[[skills/computing/systems-infrastructure/compute-runtime/docker/competencies/L2-container-lifecycle-management|L2-container-lifecycle-management]]"
@@ -61,7 +61,7 @@ A Cloud Engineer is an entry-level information technology role focused on applyi
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/competencies/L2-configure-cloud-network-components|L3- Configure Cloud Network Components]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/competencies/L2-implement-iam-policies|L3- Implement IAM Policies]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/competencies/L2-implement-vm-scale-sets|L3- Implement VM Scale Sets]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability|L3- System Thinking for Availability and Recoverability]]
+- [[L2-system-thinking-for-availability-and-recoverability|L3- System Thinking for Availability and Recoverability]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-terraform-provisioning|L3- Terraform Provisioning]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/competencies/L2-apply-terraform-building-blocks|L3- Apply Terraform Building Blocks]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/competencies/L2-container-lifecycle-management|L3- Container Lifecycle Management]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-indexing/microskills/index-trade-offs|index-trade-offs]]"
+outcome: "[[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-trade-offs|index-trade-offs]]"
 learning-time-in-minutes: 5
 ---
 # Index Trade-offs: Balancing Speed and Cost
@@ -68,4 +68,4 @@ Consider a database table called `users` with columns: `user_id` (primary key), 
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-indexing/microskills/index-trade-offs|Index Trade-offs]]
+- [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-trade-offs|Index Trade-offs]]

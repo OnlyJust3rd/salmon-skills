@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Shell Variables and Parameters: Making Your Scripts Reusable"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/shell-variables-and-parameters|shell-variables-and-parameters]]"
+outcome: "[[shell-variables-and-parameters|shell-variables-and-parameters]]"
 learning-time-in-minutes: 4
 ---
 # Shell Variables and Parameters: Making Your Scripts Reusable
@@ -142,4 +142,4 @@ Mastering shell variables and parameters is a crucial step in writing effective 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/shell-variables-and-parameters|Shell Variables and Parameters]]
+- [[shell-variables-and-parameters|Shell Variables and Parameters]]

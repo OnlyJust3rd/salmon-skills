@@ -76,7 +76,7 @@ This course focuses on system virtualization and platform engineering concepts u
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/infrastructure-alert|Infrastructure Alert]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/infrastructure-as-code|Infrastructure as Code]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/kubernetes|Kubernetes]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/linux-system|Linux System]]
+- [[linux-system|Linux System]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/platform-engineering|Platform Engineering]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/serverless-ci-cd|Serverless CI/CD]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/serverless-computing|Serverless Computing]]

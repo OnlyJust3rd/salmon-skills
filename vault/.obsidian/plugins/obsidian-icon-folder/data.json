@@ -67,13 +67,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "skills/computing/systems-infrastructure/system-administration/shell-scripting/competencies": "LiGoal",
-  "skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/command-composition.md": "LiBoxes",
-  "skills/computing/systems-infrastructure/system-administration/shell-scripting/competencies/L2-apply-shell-scripting-for-automation.md": "LiGoal",
   "mediums": "LiBookOpen",
-  "skills/computing/systems-infrastructure/system-administration/shell-scripting/shell-scripting.md": {
-    "iconName": "LiZap"
-  },
   "contributors/just3rd.md": {
     "iconName": "LiUser2"
   },
@@ -2467,210 +2461,6 @@
   },
   "skills/computing/data-ai/data-science/data-science/microskills/stage-objectives.md": {
     "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-backup-and-recovery/competencies/L1-explain-database-backup-and-recovery-concepts.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/database-backup-and-recovery/database-backup-and-recovery.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/databases/database-backup-and-recovery/microskills/backup-types.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-backup-and-recovery/microskills/recovery-objectives.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-backup-and-recovery/microskills/restore-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-indexing/competencies/L1-explain-database-indexing-and-query-performance.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/database-indexing/database-indexing.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/databases/database-indexing/microskills/index-access-paths.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-indexing/microskills/index-trade-offs.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-indexing/microskills/query-predicate-support.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/competencies/L1-define-and-list-rdbms-concepts.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/database-system/competencies/L1-explain-database-transactions.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/database-system/competencies/L1-explain-relational-vs-nosql.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/database-system/competencies/L1-explain-web-db-architecture.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/database-system/database-system.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/3-tier-application-model.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/acid-properties.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/application-business-logic-layer.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/commit-and-rollback.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/data-access-layer.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/data-model-distinctions.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/data-relationships.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/database-structure-tables-columns-rows.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/inter-tier-communication-flow.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/nosql-database-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/presentation-layer-functionality.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/rdbms-key-components.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/relational-database-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/relational-database-fundamentals.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/structural-differences.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/transaction-boundaries.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/database-system/microskills/use-case-suitability.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/mysql/competencies/L2-implement-database-schema.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/mysql/microskills/column-definition-statements.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/mysql/microskills/constraint-implementation-e-g-primary-keys.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/mysql/microskills/schema-construction.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/mysql/microskills/sql-data-definition-language-ddl.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/mysql/microskills/table-creation-statements.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/mysql/mysql.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/databases/relational-database/competencies/L1-describe-and-compare-normalization-forms.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/relational-database/competencies/L1-identify-schema-components.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/column-identification.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/data-integrity-enhancement.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/first-normal-form-1nf.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/normalization-principles.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/primary-key-identification.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/redundancy-reduction-in-design.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/relational-schema-elements.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/second-normal-form-2nf.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/table-identification.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/microskills/third-normal-form-3nf.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/relational-database/relational-database.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/data-ai/databases/sql/competencies/L1-define-sql.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/sql/competencies/L1-explain-sql-clauses-and-syntax.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/sql/competencies/L2-use-sql-ddl.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/basic-sql-query-execution.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/data-manipulation-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/data-retrieval-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/schema-evolution-with-ddl.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/sql-clause-functions.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/sql-data-retrieval-basics-select-from-where.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/sql-ddl-commands.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/sql-syntax-rules.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/structured-query-language-sql-definition.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/microskills/table-and-column-definition-with-ddl.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/sql/sql.md": {
-    "iconName": "LiZap"
   },
   "skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/competencies/L1-explain-arithmetic-algorithms.md": {
     "iconName": "LiGoal"
@@ -9266,102 +9056,6 @@
   "skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/trade-offs-in-avoidance-algorithms.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/competencies/L1-disk-geometry-and-terminology.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/competencies/L1-file-allocation-methods-and-implications.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/competencies/L1-file-system-function-abstraction-and-access-methods.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/competencies/L1-journaling-file-systems.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/competencies/L2-file-operation-commands.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/competencies/L3-disk-scheduling-analysis-and-function.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/i-o-and-file-systems.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/basic-file-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/contiguous-file-allocation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/cylinder-definition.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-efficiency.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-implications-of-geometry.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-techniques.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-integrity-in-journaling.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-algorithm-efficiency.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-operational-mechanisms.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-creation-commands.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-reading-commands.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-abstraction-purpose.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-components.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-organization.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-writing-commands.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/hard-disk-drive-geometry.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/indexed-file-allocation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/journaling-file-system-principles.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/linked-file-allocation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/pre-application-recording.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/sector-definition.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/seek-time-metrics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/storage-efficiency.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/throughput-metrics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/track-definition.md": {
-    "iconName": "LiBoxes"
-  },
   "skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/competencies/L1-explain-address-types-and-differences.md": {
     "iconName": "LiGoal"
   },
@@ -10064,240 +9758,6 @@
   "skills/computing/systems-infrastructure/delivery-platforms/secrets-management/secrets-management.md": {
     "iconName": "LiZap"
   },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/competencies/L1-explain-soho-network-management-purpose-and-application.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/competencies/L1-identify-management-concepts-and-protocols.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/microskills/common-management-protocols.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/microskills/network-control-strategies.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/microskills/network-management-concepts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/microskills/network-monitoring-principles.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/microskills/practical-implementation-in-soho.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/microskills/purpose-of-network-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/microskills/soho-network-management-principles.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/microskills/soho-network-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management/network-management.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L1-explain-congestion-control.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L3-analyze-congestion-control-impact.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/congestion-control-mechanisms.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/congestion-control-purpose.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/load-condition-effects.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/mathematical-models.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/metric-definitions.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-flow-regulation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-latency-analysis.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-parameter-application.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-performance-metrics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-throughput-analysis.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/performance-measurement-techniques.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/performance-metric-relationships.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/tcp-congestion-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/network-performance.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/competencies/L1-define-and-differentiate-routing-types.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/competencies/L1-static-routing-principles-and-packet-forwarding.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/competencies/L2-illustrate-intradomain-protocol-flow.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/competencies/L3-differentiate-use-cases-and-limitations.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/autonomous-system-concepts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-routing-use-cases.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-routing.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-scalability-limitations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing-protocol-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing-use-cases.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-routing.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-scalability-limitations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/manual-route-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/network-path-control.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/packet-forwarding-with-static-routes.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/packet-path-determination.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-algorithm-execution.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-protocol-goals.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-protocol-suitability.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/simulated-network-scenarios.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/static-routing-configuration.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/routing-algorithms.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/competencies/L1-explain-routing-and-switching-concepts.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/competencies/L2-apply-vlan-and-ip-routing-configuration-concepts.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/default-gateway.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/frame-forwarding.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/network-segmentation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/packet-forwarding.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/route-selection.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/vlan-membership.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/routing-and-switching.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-application-layer-protocols.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/iot-communication-and-networking.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/coap-protocol-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/http-rest-protocol-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-application-protocol-suitability.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-application-scenarios.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-data-transmission-suitability.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-data-transport-use-cases.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/mqtt-protocol-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/wired-communication-technologies-uart-spi-i2c.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/wireless-communication-technologies-wi-fi-ble-zigbee.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/competencies/L1-differentiate-and-describe-wlan-pans.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/personal-area-network-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wireless-lan-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wireless-network-components.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wlan-vs-pan-differences.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wlan-vs-pan-similarities.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/wireless-networks.md": {
-    "iconName": "LiZap"
-  },
   "skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/competencies/L1-infrastructure-event-types.md": {
     "iconName": "LiGoal"
   },
@@ -10638,117 +10098,6 @@
     "iconName": "LiBoxes"
   },
   "skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/user-accounts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L1-understand-linux-file-system-and-permissions.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-implement-cron-jobs-for-automation.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-manage-linux-software-packages.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-monitor-system-performance-and-processes.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/linux-system.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/acyclic-graph-directory-structure.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/automated-task-implementation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/command-line-navigation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/cron-job-syntax.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/cron-scheduling-fundamentals.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/file-attributes-and-ownership.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/file-permissions-concepts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/fundamental-file-commands.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/job-scheduling-concepts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/linux-file-system-hierarchy.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/netplan-network-configuration.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/package-management-concepts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/package-management-tools.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/process-management-concepts.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/process-monitoring-tools.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/resource-consumption-analysis.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/scheduled-command-execution.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-installation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-removal.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-updates.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-availability-strategies.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-performance-metrics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-recoverability-planning.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/systemd-service-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/text-processing-commands.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/user-and-group-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/linux-system/microskills/vi-editor-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/conditionals-and-loops.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/exit-codes.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/shell-variables-and-parameters.md": {
     "iconName": "LiBoxes"
   },
   "skills/digital-media/computer-graphics/curve-modeling/competencies/L1-describe-parametric-representation-and-bezier-curves.md": {
@@ -15252,18 +14601,6 @@
   "skills/computing/systems-infrastructure/delivery-platforms/delivery-platforms.md": {
     "iconName": "LiWaypoints"
   },
-  "skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/systems-infrastructure/networking/networking.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/systems-infrastructure/networking/routing-switching/routing-switching.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-iot-networking.md": {
-    "iconName": "LiWaypoints"
-  },
   "skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/alerting-incident-response.md": {
     "iconName": "LiWaypoints"
   },
@@ -15485,471 +14822,6 @@
     "iconName": "LiBoxes"
   },
   "skills/computing/systems-infrastructure/system-design/microskills/vertical-scaling.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-foundations.md": {
-    "iconName": "LiWaypoints"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/computer-network-architecture/computer-network-architecture.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/data-link-layer.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/competencies/L1-error-detection-correction-principles.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/competencies/L1-ethernet-lan-functionality.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/competencies/L1-framing-concept.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/competencies/L1-lan-interconnection-description.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/competencies/L1-multiple-access-protocol-explanation.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/competencies/L1-stp-explanation.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/competencies/L1-vlan-concept-and-benefits.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/collision-avoidance-detection.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/common-error-control-techniques.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/data-integrity-assurance.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/data-link-layer-framing.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/data-segmentation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/error-correction-mechanisms.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/error-detection-mechanisms.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/ethernet-local-area-networks.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/ethernet-protocol-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/frame-structure.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/lan-components.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/lan-interconnection-methods.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/link-layer-data-encapsulation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/link-layer-error-handling.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/link-layer-medium-sharing.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/logical-network-grouping.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/multiple-access-protocols.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/network-connectivity.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/network-infrastructure-role.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/network-loop-prevention.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/network-segmentation-and-connection.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/network-segmentation-with-vlans.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/network-topology-for-interconnection.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/redundant-path-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/root-bridge-election.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/shared-channel-access.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/spanning-tree-protocol.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/stp-components.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/virtual-local-area-networks.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/data-link-layer/microskills/vlan-advantages.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/computer-network-architecture/microskills/network-layered-models.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/computer-network-architecture/microskills/protocol-stack-functions.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/computer-network-architecture/microskills/purpose-of-network-layers.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/computer-network-architecture/microskills/tcp-ip-model-layers.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/transport-layer.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/competencies/L1-explain-reliable-data-mechanisms.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/competencies/L3-tcp-vs-udp-for-performance.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/microskills/data-delivery-assurance.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/microskills/network-performance-impact.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/microskills/protocol-use-cases.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/microskills/reliability-in-networking.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/microskills/reliability-vs-speed-trade-offs.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/microskills/reliable-data-transfer-principles.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/microskills/tcp-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/transport-layer/microskills/udp-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/socket-programming.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/competencies/L1-describe-socket-model.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/competencies/L1-identify-socket-functions.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/competencies/L2-implement-socket-application.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/client-server-application-development.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/client-server-architecture.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/core-socket-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/network-application-construction.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/network-communication-primitives.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/network-interaction-patterns.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/protocol-integration.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/socket-communication-flow.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/socket-programming-implementation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/socket-programming/microskills/socket-programming-interfaces.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/physical-layer-protocol.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/competencies/L1-explain-multiplexing-efficiency.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/competencies/L1-guided-vs-unguided-media.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/competencies/L1-signal-characteristics-and-impairment-impact.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/guided-media-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/impact-on-signal-quality.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/media-comparison.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/media-use-cases.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/multiplexing-techniques.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/physical-layer-efficiency.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/signal-degradation-factors.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/signal-properties.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/transmission-impairments.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/transmission-media-capacity.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/physical-layer/microskills/unguided-media-characteristics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/application-layer.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/competencies/L1-explain-http-dns-message-formats-flow-and-states.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/competencies/L1-list-and-define-application-protocols.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/competencies/L2-demonstrate-http-dns-dependencies.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/competencies/L3-analyze-http-dns-details.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/application-layer-protocols.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/application-protocol-operations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/communication-flow.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/dns-message-analysis.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/dns-message-structure.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/http-and-dns-interaction.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/http-message-analysis.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/http-message-structure.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/inter-protocol-dependencies.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/network-communication-breakdown.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/protocol-identification.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/protocol-interdependence.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/protocol-purpose.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/protocol-state-analysis.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/state-transitions.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/application-layer/microskills/web-browsing-scenario.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/network-layer.md": {
-    "iconName": "LiZap"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-describe-ip-forwarding-process.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-dhcp-purpose-and-ip-assignment.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-explain-icmp-functions.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-ipv6-overview.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-nat-role-and-translation-process.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-summarize-subnetting.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-vpc-functionality.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/competencies/L1-vpn-concept-and-purpose.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/automatic-ip-address-allocation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/cloud-network-benefits.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/cloud-network-configuration.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/cloud-network-isolation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/control-message-protocols.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/data-packet-traversal.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/dynamic-host-configuration-protocol.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/efficiency-in-ip-allocation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/encrypted-tunneling.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/icmp-functions.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/internet-control-message-protocol.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ip-address-conservation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ip-address-management-services.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ip-address-management.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ip-address-utilization.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ip-addressing-schemes.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ip-forwarding-process.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ipv4-vs-ipv6-differences.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ipv6-addressing.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ipv6-advantages.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/ipv6-structure.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/network-address-translation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/network-configuration-automation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/network-diagnostics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/network-error-reporting.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/network-path-determination.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/network-security-through-nat.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/network-segmentation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/next-generation-ip-addressing.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/packet-routing-mechanics.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/public-to-private-ip-translation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/remote-access-security.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/routing-decision-components.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/secure-network-access.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/private-to-public-ip-translation.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/subnetting-concept.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/subnetting-principles.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/virtual-private-cloud.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/systems-infrastructure/networking/network-layers/network-layer/microskills/virtual-private-network.md": {
     "iconName": "LiBoxes"
   },
   "skills/computing/hardware-embedded/edge-computing/edge-computing.md": {
@@ -17116,67 +15988,1433 @@
   "skills/computing/data-ai/data-science/unstructured-data/text/text.md": {
     "iconName": "LiWaypoints"
   },
-  "skills/computing/data-ai/databases/nosql-database/nosql-database.md": {
+  "skills/computing/programming/programming-languages/shell-scripting/competencies": "LiGoal",
+  "skills/computing/programming/programming-languages/shell-scripting/shell-scripting.md": {
     "iconName": "LiZap"
   },
-  "skills/computing/data-ai/databases/nosql-database/competencies/L1-explain-nosql-use-cases.md": {
+  "skills/computing/programming/programming-languages/shell-scripting/competencies/L2-apply-shell-scripting-for-automation.md": {
     "iconName": "LiGoal"
   },
-  "skills/computing/data-ai/databases/nosql-database/competencies/L1-list-nosql-types.md": {
-    "iconName": "LiGoal"
-  },
-  "skills/computing/data-ai/databases/nosql-database/microskills/column-family-stores.md": {
+  "skills/computing/programming/programming-languages/shell-scripting/microskills/command-composition.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/nosql-database/microskills/document-databases.md": {
+  "skills/computing/programming/programming-languages/shell-scripting/microskills/conditionals-and-loops.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/nosql-database/microskills/flexibility-needs.md": {
+  "skills/computing/programming/programming-languages/shell-scripting/microskills/exit-codes.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/nosql-database/microskills/graph-databases.md": {
+  "skills/computing/programming/programming-languages/shell-scripting/microskills/shell-variables-and-parameters.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/nosql-database/microskills/key-value-stores.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/nosql-database/microskills/nosql-database-categories.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/nosql-database/microskills/performance-considerations.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/nosql-database/microskills/scalability-requirements.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/nosql-database/microskills/situational-applicability-of-nosql.md": {
-    "iconName": "LiBoxes"
-  },
-  "skills/computing/data-ai/databases/mongodb/mongodb.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/linux-system.md": {
     "iconName": "LiZap"
   },
-  "skills/computing/data-ai/databases/mongodb/competencies/L1-explain-mongodb-data-model.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/competencies/L1-understand-linux-file-system-and-permissions.md": {
     "iconName": "LiGoal"
   },
-  "skills/computing/data-ai/databases/mongodb/competencies/L2-apply-mongodb-crud-operations.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/competencies/L2-implement-cron-jobs-for-automation.md": {
     "iconName": "LiGoal"
   },
-  "skills/computing/data-ai/databases/mongodb/microskills/flexible-schema-concepts.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/competencies/L2-manage-linux-software-packages.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/competencies/L2-monitor-system-performance-and-processes.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/acyclic-graph-directory-structure.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/mongodb/microskills/mongodb-documents-and-collections.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/automated-task-implementation.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/mongodb/microskills/mongodb-insert-operations.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/command-line-navigation.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/mongodb/microskills/mongodb-query-operations.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/cron-job-syntax.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/mongodb/microskills/mongodb-update-delete-operations.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/cron-scheduling-fundamentals.md": {
     "iconName": "LiBoxes"
   },
-  "skills/computing/data-ai/databases/mongodb/microskills/relational-vs-document-data-model.md": {
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/file-permissions-concepts.md": {
     "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/file-attributes-and-ownership.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/linux-file-system-hierarchy.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/netplan-network-configuration.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/fundamental-file-commands.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/job-scheduling-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/package-management-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/package-management-tools.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/process-management-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/process-monitoring-tools.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/resource-consumption-analysis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/scheduled-command-execution.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/software-installation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/software-removal.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/software-updates.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/system-availability-strategies.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/system-performance-metrics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/system-recoverability-planning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/systemd-service-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/text-processing-commands.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/user-and-group-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/vi-editor-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/competencies/L1-disk-geometry-and-terminology.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/competencies/L1-file-allocation-methods-and-implications.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/competencies/L2-file-operation-commands.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/competencies/L1-journaling-file-systems.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/competencies/L1-file-system-function-abstraction-and-access-methods.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/competencies/L3-disk-scheduling-analysis-and-function.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/basic-file-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/cylinder-definition.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/data-access-efficiency.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/contiguous-file-allocation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/data-access-implications-of-geometry.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/data-access-techniques.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/data-integrity-in-journaling.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/disk-scheduling-algorithm-efficiency.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/file-creation-commands.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/disk-scheduling-operational-mechanisms.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/file-reading-commands.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/file-system-abstraction-purpose.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/file-system-components.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/file-writing-commands.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/indexed-file-allocation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/journaling-file-system-principles.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/hard-disk-drive-geometry.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/file-system-organization.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/linked-file-allocation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/pre-application-recording.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/seek-time-metrics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/storage-efficiency.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/throughput-metrics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/track-definition.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/microskills/sector-definition.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/networking.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/computer-network/wireless-networks/wireless-networks.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/wireless-networks/competencies/L1-differentiate-and-describe-wlan-pans.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/wireless-networks/microskills/personal-area-network-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/wireless-networks/microskills/wireless-lan-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/wireless-networks/microskills/wireless-network-components.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/wireless-networks/microskills/wlan-vs-pan-differences.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/wireless-networks/microskills/wlan-vs-pan-similarities.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/data-link-layer.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/competencies/L1-error-detection-correction-principles.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/competencies/L1-ethernet-lan-functionality.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/competencies/L1-framing-concept.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/competencies/L1-lan-interconnection-description.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/competencies/L1-multiple-access-protocol-explanation.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/competencies/L1-stp-explanation.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/competencies/L1-vlan-concept-and-benefits.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/collision-avoidance-detection.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/common-error-control-techniques.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/data-integrity-assurance.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/data-link-layer-framing.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/data-segmentation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/error-correction-mechanisms.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/error-detection-mechanisms.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/ethernet-local-area-networks.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/ethernet-protocol-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/frame-structure.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/lan-components.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/lan-interconnection-methods.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/link-layer-data-encapsulation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/link-layer-error-handling.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/link-layer-medium-sharing.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/logical-network-grouping.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/multiple-access-protocols.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/network-connectivity.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/network-infrastructure-role.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/network-loop-prevention.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/network-segmentation-and-connection.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/network-segmentation-with-vlans.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/network-topology-for-interconnection.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/redundant-path-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/root-bridge-election.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/shared-channel-access.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/spanning-tree-protocol.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/stp-components.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/virtual-local-area-networks.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/data-link-layer/microskills/vlan-advantages.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/competencies/L1-explain-multiplexing-efficiency.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/competencies/L1-guided-vs-unguided-media.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/competencies/L1-signal-characteristics-and-impairment-impact.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/guided-media-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/impact-on-signal-quality.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/media-comparison.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/media-use-cases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/multiplexing-techniques.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/physical-layer-efficiency.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/signal-degradation-factors.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/signal-properties.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/transmission-impairments.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/transmission-media-capacity.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/microskills/unguided-media-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/transport-layer.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/competencies/L1-explain-reliable-data-mechanisms.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/competencies/L3-tcp-vs-udp-for-performance.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/microskills/data-delivery-assurance.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/microskills/network-performance-impact.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/microskills/protocol-use-cases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/microskills/reliability-in-networking.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/microskills/reliability-vs-speed-trade-offs.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/microskills/reliable-data-transfer-principles.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/microskills/tcp-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/transport-layer/microskills/udp-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/computer-network-architecture/computer-network-architecture.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/computer-network-architecture/microskills/network-layered-models.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/computer-network-architecture/microskills/protocol-stack-functions.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/computer-network-architecture/microskills/purpose-of-network-layers.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/computer-network-architecture/microskills/tcp-ip-model-layers.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/competencies/L1-explain-http-dns-message-formats-flow-and-states.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/competencies/L1-list-and-define-application-protocols.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/competencies/L2-demonstrate-http-dns-dependencies.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/competencies/L3-analyze-http-dns-details.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/application-layer-protocols.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/application-protocol-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/communication-flow.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/dns-message-analysis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/dns-message-structure.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/http-and-dns-interaction.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/http-message-analysis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/http-message-structure.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/inter-protocol-dependencies.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/network-communication-breakdown.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/protocol-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/protocol-interdependence.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/protocol-purpose.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/protocol-state-analysis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/state-transitions.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/microskills/web-browsing-scenario.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layer/application-layer.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/socket-programming.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/competencies/L1-describe-socket-model.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/competencies/L1-identify-socket-functions.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/competencies/L2-implement-socket-application.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/client-server-application-development.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/client-server-architecture.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/core-socket-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/network-application-construction.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/network-communication-primitives.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/network-interaction-patterns.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/protocol-integration.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/socket-communication-flow.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/socket-programming-implementation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/socket-programming/microskills/socket-programming-interfaces.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/competencies/L3-analyze-iot-application-layer-protocols.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/competencies/L3-analyze-iot-communication-technologies.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/coap-protocol-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/http-rest-protocol-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/iot-application-protocol-suitability.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/iot-application-scenarios.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/iot-data-transmission-suitability.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/iot-data-transport-use-cases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/mqtt-protocol-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/wired-communication-technologies-uart-spi-i2c.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/microskills/wireless-communication-technologies-wi-fi-ble-zigbee.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/network-layer.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-describe-ip-forwarding-process.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-dhcp-purpose-and-ip-assignment.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-explain-icmp-functions.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-ipv6-overview.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-nat-role-and-translation-process.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-summarize-subnetting.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-vpc-functionality.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/competencies/L1-vpn-concept-and-purpose.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/automatic-ip-address-allocation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/cloud-network-benefits.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/cloud-network-configuration.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/cloud-network-isolation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/control-message-protocols.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/data-packet-traversal.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/dynamic-host-configuration-protocol.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/efficiency-in-ip-allocation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/encrypted-tunneling.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/icmp-functions.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/internet-control-message-protocol.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ip-address-conservation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ip-address-management-services.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ip-address-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ip-address-utilization.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ip-addressing-schemes.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ip-forwarding-process.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ipv4-vs-ipv6-differences.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ipv6-addressing.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ipv6-advantages.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/ipv6-structure.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-address-translation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-configuration-automation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-diagnostics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-error-reporting.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-path-determination.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-security-through-nat.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-segmentation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/next-generation-ip-addressing.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/packet-routing-mechanics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/public-to-private-ip-translation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/remote-access-security.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/routing-decision-components.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/secure-network-access.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/private-to-public-ip-translation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/subnetting-concept.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/subnetting-principles.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/virtual-private-cloud.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/virtual-private-network.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/network-management.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/competencies/L1-explain-soho-network-management-purpose-and-application.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/competencies/L1-identify-management-concepts-and-protocols.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/microskills/common-management-protocols.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/microskills/network-control-strategies.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/microskills/network-management-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/microskills/network-monitoring-principles.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/microskills/practical-implementation-in-soho.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/microskills/purpose-of-network-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/microskills/soho-network-management-principles.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-management/microskills/soho-network-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/network-performance.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/congestion-control-mechanisms.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/congestion-control-purpose.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/load-condition-effects.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/mathematical-models.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/metric-definitions.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/network-flow-regulation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/network-latency-analysis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/network-parameter-application.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/network-performance-metrics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/network-throughput-analysis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/performance-measurement-techniques.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/performance-metric-relationships.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/microskills/tcp-congestion-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/competencies/L1-explain-congestion-control.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-performance/competencies/L3-analyze-congestion-control-impact.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/routing-algorithms.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/competencies/L1-define-and-differentiate-routing-types.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/competencies/L1-static-routing-principles-and-packet-forwarding.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/competencies/L2-illustrate-intradomain-protocol-flow.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/competencies/L3-differentiate-use-cases-and-limitations.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/autonomous-system-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/interdomain-routing-use-cases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/interdomain-routing.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/interdomain-scalability-limitations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/intradomain-routing-protocol-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/intradomain-routing-use-cases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/intradomain-routing.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/intradomain-scalability-limitations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/manual-route-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/network-path-control.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/packet-forwarding-with-static-routes.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/packet-path-determination.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/routing-algorithm-execution.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/routing-protocol-goals.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/routing-protocol-suitability.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/simulated-network-scenarios.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-algorithms/microskills/static-routing-configuration.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/routing-and-switching.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/competencies/L1-explain-routing-and-switching-concepts.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/competencies/L2-apply-vlan-and-ip-routing-configuration-concepts.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/microskills/default-gateway.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/microskills/frame-forwarding.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/microskills/network-segmentation.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/microskills/packet-forwarding.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/microskills/route-selection.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/microskills/vlan-membership.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/network-layers/network-layers.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/computer-network/application-layers/application-layers.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/systems-infrastructure/computer-network/physical-layer/physical-layer.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/database-systems.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-define-and-list-rdbms-concepts.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-database-transactions.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-web-db-architecture.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/3-tier-application-model.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/acid-properties.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/application-business-logic-layer.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/commit-and-rollback.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-access-layer.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-model-distinctions.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-relationships.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/database-structure-tables-columns-rows.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/inter-tier-communication-flow.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/nosql-database-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/presentation-layer-functionality.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/rdbms-key-components.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/relational-database-characteristics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/relational-database-fundamentals.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/structural-differences.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/transaction-boundaries.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-systems/microskills/use-case-suitability.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/mysql/mysql.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/sql.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/relational-database.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/relational-databases/mysql/competencies/L2-implement-database-schema.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/mysql/microskills/column-definition-statements.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/mysql/microskills/constraint-implementation-e-g-primary-keys.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/mysql/microskills/schema-construction.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/mysql/microskills/sql-data-definition-language-ddl.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-define-sql.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-use-sql-ddl.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/basic-sql-query-execution.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/data-manipulation-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/data-retrieval-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/schema-evolution-with-ddl.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-clause-functions.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-retrieval-basics-select-from-where.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-ddl-commands.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-syntax-rules.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/structured-query-language-sql-definition.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/sql/microskills/table-and-column-definition-with-ddl.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/competencies/L1-describe-and-compare-normalization-forms.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/competencies/L1-identify-schema-components.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/column-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/data-integrity-enhancement.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/first-normal-form-1nf.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/normalization-principles.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/primary-key-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/redundancy-reduction-in-design.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/relational-schema-elements.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/second-normal-form-2nf.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/table-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-database/microskills/third-normal-form-3nf.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/mongodb.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/competencies/L1-explain-mongodb-data-model.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/microskills/mongodb-documents-and-collections.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/competencies/L2-apply-mongodb-crud-operations.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/microskills/flexible-schema-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/microskills/mongodb-insert-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/microskills/mongodb-query-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/microskills/mongodb-update-delete-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/mongodb/microskills/relational-vs-document-data-model.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-indexing/database-indexing.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-indexing/competencies/L1-explain-database-indexing-and-query-performance.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-trade-offs.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-access-paths.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-indexing/microskills/query-predicate-support.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/database-backup-and-recovery.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/competencies/L1-explain-database-backup-and-recovery-concepts.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/backup-types.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/recovery-objectives.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/restore-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-foundations.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-databases.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-databases.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/document-databases/document-databases.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-performance.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-operations.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/competencies/L1-list-nosql-types.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/column-family-stores.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/competencies/L1-explain-nosql-use-cases.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/document-databases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/flexibility-needs.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/graph-databases.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/nosql-database-categories.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/key-value-stores.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/performance-considerations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/situational-applicability-of-nosql.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/scalability-requirements.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/nosql-database-system/nosql-database-system.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/key-value-databases/key-value-databases.md": {
+    "iconName": "LiWaypoints"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/key-value-databases/redis/redis.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/key-value-databases/redis/microskills/cache-access-patterns.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/key-value-databases/redis/microskills/redis-data-structures.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/key-value-databases/redis/microskills/redis-key-expiration.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/key-value-databases/redis/competencies/L2-use-redis-key-value-data-structures.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-transactions/database-transactions.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-transactions/competencies/L2-manage-database-transactions.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-transactions/microskills/concurrency-anomalies.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-transactions/microskills/transaction-lifecycle.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-transactions/microskills/isolation-levels.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-modeling/database-modeling.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-modeling/competencies/L2-model-database-entities-and-relationships.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-modeling/microskills/constraint-modeling.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-modeling/microskills/entity-identification.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-modeling/microskills/relationship-cardinality.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-design/database-design.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-design/competencies/L2-design-database-schema-for-application-requirements.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-design/microskills/integrity-rule-design.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-design/microskills/schema-requirement-analysis.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-foundations/database-design/microskills/logical-to-physical-schema-mapping.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-model/relational-model.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-model/microskills/relation-and-tuple-concepts.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-model/microskills/relational-operations.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-model/competencies/L2-apply-relational-model-principles.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/relational-model/microskills/candidate-and-foreign-keys.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/postgresql/postgresql.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/relational-databases/postgresql/competencies/L2-use-postgresql-for-relational-data-storage.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/relational-databases/postgresql/microskills/postgresql-constraints.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/postgresql/microskills/postgresql-data-types.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/relational-databases/postgresql/microskills/postgresql-query-execution.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/graph-databases/graph-databases.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/graph-databases/microskills/graph-traversal-queries.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/graph-databases/competencies/L2-model-and-query-graph-data.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/graph-databases/microskills/node-edge-property-model.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/graph-databases/microskills/relationship-centric-modeling.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/column-family-databases/column-family-databases.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/column-family-databases/competencies/L2-design-column-family-data-models.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/column-family-databases/microskills/column-family-data-model.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/column-family-databases/microskills/partition-key-design.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/nosql-databases/column-family-databases/microskills/query-driven-denormalization.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/query-optimization/query-optimization.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-performance/query-optimization/microskills/execution-plan-reading.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/query-optimization/competencies/L2-optimize-database-query-performance.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-performance/query-optimization/microskills/query-rewrite-techniques.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/query-optimization/microskills/predicate-selectivity.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-partitioning/database-partitioning.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-partitioning/competencies/L2-design-database-partitioning-strategy.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-partitioning/microskills/hash-partitioning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-partitioning/microskills/range-partitioning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-partitioning/microskills/partition-pruning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-replication/database-replication.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-replication/competencies/L2-explain-database-replication-trade-offs.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-replication/microskills/failover-behavior.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-replication/microskills/primary-replica-topology.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-performance/database-replication/microskills/replication-lag.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-migration/database-migration.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-migration/competencies/L2-plan-and-apply-database-migrations.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-migration/microskills/migration-rollback-planning.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-migration/microskills/schema-migration-script.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-migration/microskills/backward-compatible-schema-change.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-security/database-security.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-security/competencies/L2-apply-database-security-controls.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-security/microskills/credential-management.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-security/microskills/data-encryption-controls.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-security/microskills/database-user-privileges.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-monitoring/database-monitoring.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-monitoring/competencies/L2-monitor-database-health-and-performance.md": {
+    "iconName": "LiGoal"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-monitoring/microskills/database-alert-thresholds.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-monitoring/microskills/database-health-metrics.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/data-ai/databases/database-operations/database-monitoring/microskills/slow-query-monitoring.md": {
+    "iconName": "LiBoxes"
+  },
+  "skills/computing/systems-infrastructure/computer-network/iot-network/iot-network.md": {
+    "iconName": "LiZap"
+  },
+  "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/io-and-file-systems.md": {
+    "iconName": "LiZap"
+  },
+  "mediums/originals/originals.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/originals/just3rd/just3rd.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/originals/just3rd/ai-generated/ai-generated.md": {
+    "iconName": "LiWaypoints"
   }
 }

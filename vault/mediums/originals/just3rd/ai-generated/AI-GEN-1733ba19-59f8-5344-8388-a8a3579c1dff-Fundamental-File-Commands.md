@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Fundamental File Commands in Linux"
+type: medium
+title: Fundamental File Commands in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/fundamental-file-commands|fundamental-file-commands]]"
+outcome: "[[fundamental-file-commands|fundamental-file-commands]]"
 learning-time-in-minutes: 3
 ---
 # Fundamental File Commands in Linux
@@ -273,4 +273,4 @@ Mastering these fundamental commands will significantly improve your ability to 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/fundamental-file-commands|Fundamental File Commands]]
+- [[fundamental-file-commands|Fundamental File Commands]]

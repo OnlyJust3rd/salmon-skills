@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/sql/microskills/table-and-column-definition-with-ddl|table-and-column-definition-with-ddl]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/table-and-column-definition-with-ddl|table-and-column-definition-with-ddl]]"
 learning-time-in-minutes: 4
 ---
 # Defining Tables and Columns with SQL DDL
@@ -136,4 +136,4 @@ Mastering these DDL commands is the first step in building robust and well-struc
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/sql/microskills/table-and-column-definition-with-ddl|Table and Column Definition with DDL]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/table-and-column-definition-with-ddl|Table and Column Definition with DDL]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Network Latency and Congestion"
+type: medium
+title: Understanding Network Latency and Congestion
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-latency-analysis|network-latency-analysis]]"
+outcome: "[[network-latency-analysis|network-latency-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Network Latency and Congestion
@@ -66,4 +66,4 @@ By systematically testing and observing these metrics under controlled load cond
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-latency-analysis|Network Latency Analysis]]
+- [[network-latency-analysis|Network Latency Analysis]]

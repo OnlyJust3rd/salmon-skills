@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding Linux Directory Structure: The Acyclic Graph"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/acyclic-graph-directory-structure|acyclic-graph-directory-structure]]"
+outcome: "[[acyclic-graph-directory-structure|acyclic-graph-directory-structure]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Linux Directory Structure: The Acyclic Graph
@@ -77,4 +77,4 @@ By grasping the concept of the acyclic graph directory structure, you gain a dee
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/acyclic-graph-directory-structure|Acyclic Graph Directory Structure]]
+- [[acyclic-graph-directory-structure|Acyclic Graph Directory Structure]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Analyzing Process Resource Utilization in Linux"
+type: medium
+title: Analyzing Process Resource Utilization in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/resource-consumption-analysis|resource-consumption-analysis]]"
+outcome: "[[resource-consumption-analysis|resource-consumption-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Process Resource Utilization in Linux
@@ -126,4 +126,4 @@ By regularly monitoring and analyzing process resource utilization using tools l
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/resource-consumption-analysis|Resource Consumption Analysis]]
+- [[resource-consumption-analysis|Resource Consumption Analysis]]

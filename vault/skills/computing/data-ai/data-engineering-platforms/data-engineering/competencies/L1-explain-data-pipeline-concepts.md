@@ -7,7 +7,7 @@ tags:
   - competency
 strict-prerequisites:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L1-explain-data-model-principles-and-techniques]]"
-  - "[[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
   - "[[L2-implement-data-cleansing-in-python|L2-implement-data-cleansing-in-python]]"
 miller-level: 1
 optional-prerequisites: []
@@ -31,7 +31,7 @@ Explain data pipeline concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]]
-- [[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
 - [[L2-implement-data-cleansing-in-python|L3- Implement Data Cleansing in Python]]
 
 ## Optional Prerequisites

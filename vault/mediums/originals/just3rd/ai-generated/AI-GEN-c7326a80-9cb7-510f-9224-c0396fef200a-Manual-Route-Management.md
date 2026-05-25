@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Manual Route Management: The Foundation of Static Routing"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/manual-route-management|manual-route-management]]"
+outcome: "[[manual-route-management|manual-route-management]]"
 learning-time-in-minutes: 5
 ---
 # Manual Route Management: The Foundation of Static Routing
@@ -98,4 +98,4 @@ Manual route management forms the bedrock of static routing. By understanding ho
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/manual-route-management|Manual Route Management]]
+- [[manual-route-management|Manual Route Management]]

@@ -1,13 +1,13 @@
 ---
-type: "competency"
-icon: "LiGoal"
-title: "L3- Apply Endpoint Maintenance and Software Installation"
+type: competency
+icon: LiGoal
+title: L3- Apply Endpoint Maintenance and Software Installation
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/competencies/L1-explain-endpoint-configuration-and-user-account-administration|L1-explain-endpoint-configuration-and-user-account-administration]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-manage-linux-software-packages|L2-manage-linux-software-packages]]"
+  - "[[L2-manage-linux-software-packages|L2-manage-linux-software-packages]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/endpoint-administration|endpoint-administration]]"
@@ -30,7 +30,7 @@ Apply endpoint maintenance and software installation practices.
 ## Strict Prerequisites
 
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/competencies/L1-explain-endpoint-configuration-and-user-account-administration|L2- Explain Endpoint Configuration and User Account Administration]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-manage-linux-software-packages|L3- Manage Linux Software Packages]]
+- [[L2-manage-linux-software-packages|L3- Manage Linux Software Packages]]
 
 ## Optional Prerequisites
 

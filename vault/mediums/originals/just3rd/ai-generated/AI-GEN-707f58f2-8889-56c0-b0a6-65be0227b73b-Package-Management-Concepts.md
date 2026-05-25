@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Package Management Concepts in Linux"
+type: medium
+title: Understanding Package Management Concepts in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/package-management-concepts|package-management-concepts]]"
+outcome: "[[package-management-concepts|package-management-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Package Management Concepts in Linux
@@ -65,4 +65,4 @@ Understanding these core concepts will pave the way for you to effectively *appl
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/package-management-concepts|Package Management Concepts]]
+- [[package-management-concepts|Package Management Concepts]]

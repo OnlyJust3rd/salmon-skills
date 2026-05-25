@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "System Performance Metrics in Linux"
+type: medium
+title: System Performance Metrics in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-performance-metrics|system-performance-metrics]]"
+outcome: "[[system-performance-metrics|system-performance-metrics]]"
 learning-time-in-minutes: 5
 ---
 # System Performance Metrics in Linux
@@ -134,4 +134,4 @@ By understanding and monitoring these fundamental system performance metrics, yo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-performance-metrics|System Performance Metrics]]
+- [[system-performance-metrics|System Performance Metrics]]

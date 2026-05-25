@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Data Access Efficiency in File Allocation"
+type: medium
+title: Understanding Data Access Efficiency in File Allocation
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-efficiency|data-access-efficiency]]"
+outcome: "[[data-access-efficiency|data-access-efficiency]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Data Access Efficiency in File Allocation
@@ -79,4 +79,4 @@ Understanding these differences helps explain why your system might feel slower 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/data-access-efficiency|Data Access Efficiency]]
+- [[data-access-efficiency|Data Access Efficiency]]

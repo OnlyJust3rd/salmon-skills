@@ -1,12 +1,12 @@
 ---
-type: "competency"
-icon: "LiGoal"
-title: "L2- Explain Workflow Orchestration Concepts"
+type: competency
+icon: LiGoal
+title: L2- Explain Workflow Orchestration Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-implement-cron-jobs-for-automation|L2-implement-cron-jobs-for-automation]]"
+  - "[[L2-implement-cron-jobs-for-automation|L2-implement-cron-jobs-for-automation]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L1-explain-data-pipeline-concepts]]"
 miller-level: 1
 optional-prerequisites: []
@@ -30,7 +30,7 @@ Explain workflow orchestration concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L2- Explain Data Pipeline Concepts]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-implement-cron-jobs-for-automation|L3- Implement Cron Jobs for Automation]]
+- [[L2-implement-cron-jobs-for-automation|L3- Implement Cron Jobs for Automation]]
 
 ## Optional Prerequisites
 

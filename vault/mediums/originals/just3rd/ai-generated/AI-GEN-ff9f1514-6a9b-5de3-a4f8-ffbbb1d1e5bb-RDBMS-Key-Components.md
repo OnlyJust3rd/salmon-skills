@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-system/microskills/rdbms-key-components|rdbms-key-components]]"
+outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/rdbms-key-components|rdbms-key-components]]"
 learning-time-in-minutes: 3
 ---
 # RDBMS Key Components
@@ -61,4 +61,4 @@ Think about:
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-system/microskills/rdbms-key-components|RDBMS Key Components]]
+- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/rdbms-key-components|RDBMS Key Components]]

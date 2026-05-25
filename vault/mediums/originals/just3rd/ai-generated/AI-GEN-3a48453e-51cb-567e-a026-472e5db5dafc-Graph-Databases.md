@@ -5,7 +5,7 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[graph-databases|graph-databases]]"
+outcome: "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/graph-databases|graph-databases]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Graph Databases
@@ -94,4 +94,4 @@ Graph databases are a specialized type of NoSQL database that uses nodes and rel
 
 ## Supports
 
-- [[graph-databases|Graph Databases]]
+- [[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/graph-databases|Graph Databases]]

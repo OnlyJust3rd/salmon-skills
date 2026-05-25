@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-database/microskills/data-integrity-enhancement|data-integrity-enhancement]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/data-integrity-enhancement|data-integrity-enhancement]]"
 learning-time-in-minutes: 4
 ---
 # Normalization: Enhancing Data Integrity in Databases
@@ -84,4 +84,4 @@ This example, simplified to illustrate the concept, shows how breaking down data
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-database/microskills/data-integrity-enhancement|Data Integrity Enhancement]]
+- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/data-integrity-enhancement|Data Integrity Enhancement]]

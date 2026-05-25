@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Text Processing Commands in Linux"
+type: medium
+title: Text Processing Commands in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/text-processing-commands|text-processing-commands]]"
+outcome: "[[text-processing-commands|text-processing-commands]]"
 learning-time-in-minutes: 4
 ---
 # Text Processing Commands in Linux
@@ -224,4 +224,4 @@ The best way to master these commands is to practice. Create some sample text fi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/text-processing-commands|Text Processing Commands]]
+- [[text-processing-commands|Text Processing Commands]]

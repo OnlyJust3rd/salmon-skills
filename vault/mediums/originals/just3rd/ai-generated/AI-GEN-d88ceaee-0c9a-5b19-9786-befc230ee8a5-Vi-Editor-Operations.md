@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Mastering Vi for Text File Editing in Linux"
+type: medium
+title: Mastering Vi for Text File Editing in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/vi-editor-operations|vi-editor-operations]]"
+outcome: "[[vi-editor-operations|vi-editor-operations]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Vi for Text File Editing in Linux
@@ -121,4 +121,4 @@ You have now successfully used Vi to create, edit, and manage text content. Prac
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/vi-editor-operations|Vi Editor Operations]]
+- [[vi-editor-operations|Vi Editor Operations]]

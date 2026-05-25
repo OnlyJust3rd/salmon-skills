@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Static Routing Configuration: Defining the Path"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/static-routing-configuration|static-routing-configuration]]"
+outcome: "[[static-routing-configuration|static-routing-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Static Routing Configuration: Defining the Path
@@ -109,4 +109,4 @@ In the output above, `192.168.2.0/24 [1/0] via 10.0.0.2` shows a static route to
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/static-routing-configuration|Static Routing Configuration]]
+- [[static-routing-configuration|Static Routing Configuration]]

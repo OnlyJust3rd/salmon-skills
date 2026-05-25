@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Contiguous File Allocation"
+type: medium
+title: Contiguous File Allocation
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/contiguous-file-allocation|contiguous-file-allocation]]"
+outcome: "[[contiguous-file-allocation|contiguous-file-allocation]]"
 learning-time-in-minutes: 4
 ---
 # Contiguous File Allocation
@@ -71,4 +71,4 @@ Contiguous file allocation is a simple method where an entire file is stored in 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/contiguous-file-allocation|Contiguous File Allocation]]
+- [[contiguous-file-allocation|Contiguous File Allocation]]

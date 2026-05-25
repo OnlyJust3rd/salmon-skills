@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "The Linux File System Hierarchy"
+type: medium
+title: The Linux File System Hierarchy
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/linux-file-system-hierarchy|linux-file-system-hierarchy]]"
+outcome: "[[linux-file-system-hierarchy|linux-file-system-hierarchy]]"
 learning-time-in-minutes: 4
 ---
 # The Linux File System Hierarchy
@@ -95,4 +95,4 @@ Understanding the FHS gives you a mental map of your Linux system. When you're l
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/linux-file-system-hierarchy|Linux File System Hierarchy]]
+- [[linux-file-system-hierarchy|Linux File System Hierarchy]]

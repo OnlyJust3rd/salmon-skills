@@ -8,7 +8,7 @@ tags:
 strict-prerequisites:
   - "[[L1-describe-emerging-iot-trends-and-technologies|L1-describe-emerging-iot-trends-and-technologies]]"
   - "[[L2-utilize-low-code-for-iot-workflows|L2-utilize-low-code-for-iot-workflows]]"
-  - "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-application-layer-protocols|L3-analyze-iot-application-layer-protocols]]"
+  - "[[L3-analyze-iot-application-layer-protocols|L3-analyze-iot-application-layer-protocols]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[edge-computing|edge-computing]]"
@@ -33,7 +33,7 @@ Implement basic distributed intelligence workflows, including AI tasks, using ed
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-application-layer-protocols|L4- Analyze IoT Application Layer Protocols]]
+- [[L3-analyze-iot-application-layer-protocols|L4- Analyze IoT Application Layer Protocols]]
 - [[L1-describe-emerging-iot-trends-and-technologies|L2- Describe Emerging IoT Trends and Technologies]]
 - [[L2-utilize-low-code-for-iot-workflows|L3- Utilize Low-Code for IoT Workflows]]
 

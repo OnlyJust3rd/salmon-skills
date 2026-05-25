@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Job Scheduling in Linux"
+type: medium
+title: Understanding Job Scheduling in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/job-scheduling-concepts|job-scheduling-concepts]]"
+outcome: "[[job-scheduling-concepts|job-scheduling-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Job Scheduling in Linux
@@ -176,4 +176,4 @@ Understanding and utilizing these job scheduling mechanisms will significantly e
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/job-scheduling-concepts|Job Scheduling Concepts]]
+- [[job-scheduling-concepts|Job Scheduling Concepts]]

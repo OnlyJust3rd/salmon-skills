@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "IoT Data Transmission Suitability: Choosing the Right Path"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-data-transmission-suitability|iot-data-transmission-suitability]]"
+outcome: "[[iot-data-transmission-suitability|iot-data-transmission-suitability]]"
 learning-time-in-minutes: 5
 ---
 # IoT Data Transmission Suitability: Choosing the Right Path
@@ -107,4 +107,4 @@ By carefully analyzing these characteristics against the specific requirements o
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-data-transmission-suitability|IoT Data Transmission Suitability]]
+- [[iot-data-transmission-suitability|IoT Data Transmission Suitability]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Managing System Services with Systemd"
+type: medium
+title: Managing System Services with Systemd
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/systemd-service-management|systemd-service-management]]"
+outcome: "[[systemd-service-management|systemd-service-management]]"
 learning-time-in-minutes: 4
 ---
 # Managing System Services with Systemd
@@ -143,4 +143,4 @@ By becoming proficient with `systemctl`, you gain a powerful tool for managing t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/systemd-service-management|Systemd Service Management]]
+- [[systemd-service-management|Systemd Service Management]]

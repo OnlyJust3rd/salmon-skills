@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Planning for System Recoverability"
+type: medium
+title: Planning for System Recoverability
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-recoverability-planning|system-recoverability-planning]]"
+outcome: "[[system-recoverability-planning|system-recoverability-planning]]"
 learning-time-in-minutes: 5
 ---
 # Planning for System Recoverability
@@ -107,4 +107,4 @@ System recoverability planning is an active process, not a one-time task. Regula
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/system-recoverability-planning|System Recoverability Planning]]
+- [[system-recoverability-planning|System Recoverability Planning]]

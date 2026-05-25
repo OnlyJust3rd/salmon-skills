@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Intradomain Scalability Limitations"
+type: medium
+title: Intradomain Scalability Limitations
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-scalability-limitations|intradomain-scalability-limitations]]"
+outcome: "[[intradomain-scalability-limitations|intradomain-scalability-limitations]]"
 learning-time-in-minutes: 4
 ---
 # Intradomain Scalability Limitations
@@ -64,4 +64,4 @@ Understanding these constraints is crucial for designing robust and scalable int
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/intradomain-scalability-limitations|Intradomain Scalability Limitations]]
+- [[intradomain-scalability-limitations|Intradomain Scalability Limitations]]

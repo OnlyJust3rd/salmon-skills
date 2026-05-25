@@ -7,7 +7,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L1-explain-data-warehouse-modeling-concepts]]"
-  - "[[skills/computing/data-ai/databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
   - "[[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
 miller-level: 1
 optional-prerequisites: []
@@ -31,7 +31,7 @@ Explain analytics engineering and SQL transformation concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/competencies/L1-explain-data-warehouse-modeling-concepts|L2- Explain Data Warehouse Modeling Concepts]]
-- [[skills/computing/data-ai/databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]
 
 ## Optional Prerequisites

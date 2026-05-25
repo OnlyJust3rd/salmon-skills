@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Scheduled Command Execution with Cron"
+type: medium
+title: Scheduled Command Execution with Cron
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/scheduled-command-execution|scheduled-command-execution]]"
+outcome: "[[scheduled-command-execution|scheduled-command-execution]]"
 learning-time-in-minutes: 4
 ---
 # Scheduled Command Execution with Cron
@@ -128,4 +128,4 @@ By mastering the `crontab` command and understanding the cron syntax, you can ef
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/scheduled-command-execution|Scheduled Command Execution]]
+- [[scheduled-command-execution|Scheduled Command Execution]]

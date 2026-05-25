@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Automating Tasks with Cron"
+type: medium
+title: Automating Tasks with Cron
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/automated-task-implementation|automated-task-implementation]]"
+outcome: "[[automated-task-implementation|automated-task-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Automating Tasks with Cron
@@ -135,4 +135,4 @@ By mastering the creation and scheduling of cron jobs, you can significantly enh
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/automated-task-implementation|Automated Task Implementation]]
+- [[automated-task-implementation|Automated Task Implementation]]

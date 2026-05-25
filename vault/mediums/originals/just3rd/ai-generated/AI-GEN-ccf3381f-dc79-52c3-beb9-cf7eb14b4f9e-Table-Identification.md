@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-database/microskills/table-identification|table-identification]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/table-identification|table-identification]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Tables in Database Schemas
@@ -71,4 +71,4 @@ Tables are the fundamental structures for storing data in a relational database.
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-database/microskills/table-identification|Table Identification]]
+- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/table-identification|Table Identification]]

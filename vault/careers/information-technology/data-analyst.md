@@ -8,8 +8,8 @@ tags:
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/computing/computer-science/data-structures/data-types/competencies/L1-identify-data-types|L1-identify-data-types]]"
-  - "[[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
-  - "[[skills/computing/data-ai/databases/relational-database/competencies/L1-identify-schema-components|L1-identify-schema-components]]"
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/competencies/L1-identify-schema-components|L1-identify-schema-components]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L2-apply-data-cleansing-techniques]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/competencies/L3-analyze-data-for-modeling|L3-analyze-data-for-modeling]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L2-apply-data-models]]"
@@ -33,8 +33,8 @@ A Data Analyst is an entry-level information technology role focused on applying
 ## Responsibilities
 
 - Apply [[skills/computing/computer-science/data-structures/data-types/competencies/L1-identify-data-types|L1- Identify Data Types]] in day-to-day role work.
-- Apply [[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]] in day-to-day role work.
-- Apply [[skills/computing/data-ai/databases/relational-database/competencies/L1-identify-schema-components|L1- Identify Schema Components]] in day-to-day role work.
+- Apply [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]] in day-to-day role work.
+- Apply [[skills/computing/data-ai/databases/relational-databases/relational-database/competencies/L1-identify-schema-components|L1- Identify Schema Components]] in day-to-day role work.
 - Apply [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L3- Apply Data Cleansing Techniques]] in day-to-day role work.
 - Apply [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/competencies/L3-analyze-data-for-modeling|L4- Analyze Data for Modeling]] in day-to-day role work.
 - Apply [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L3- Apply Data Models]] in day-to-day role work.
@@ -42,8 +42,8 @@ A Data Analyst is an entry-level information technology role focused on applying
 ## Requirements
 
 - [[skills/computing/computer-science/data-structures/data-types/competencies/L1-identify-data-types|L1- Identify Data Types]]
-- [[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
-- [[skills/computing/data-ai/databases/relational-database/competencies/L1-identify-schema-components|L1- Identify Schema Components]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
+- [[skills/computing/data-ai/databases/relational-databases/relational-database/competencies/L1-identify-schema-components|L1- Identify Schema Components]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/competencies/L2-apply-data-cleansing-techniques|L3- Apply Data Cleansing Techniques]]
 - [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/competencies/L3-analyze-data-for-modeling|L4- Analyze Data for Modeling]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L2-apply-data-models|L3- Apply Data Models]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Monitoring Processes with `top` and `htop`"
+type: medium
+title: Monitoring Processes with `top` and `htop`
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/process-monitoring-tools|process-monitoring-tools]]"
+outcome: "[[process-monitoring-tools|process-monitoring-tools]]"
 learning-time-in-minutes: 4
 ---
 # Monitoring Processes with `top` and `htop`
@@ -141,4 +141,4 @@ Mastering `top` and `htop` provides you with essential tools for understanding a
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/process-monitoring-tools|Process Monitoring Tools]]
+- [[process-monitoring-tools|Process Monitoring Tools]]

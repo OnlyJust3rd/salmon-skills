@@ -1,0 +1,131 @@
+---
+type: waypoint
+title: network-layers
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# network-layers
+
+%% Begin Waypoint %%
+- **[[network-layer]]**
+	- **competencies**
+		- [[L1-define-ip-addressing-and-forwarding-concepts]]
+		- [[L1-describe-ip-forwarding-process]]
+		- [[L1-dhcp-purpose-and-ip-assignment]]
+		- [[L1-explain-icmp-functions]]
+		- [[L1-ipv6-overview]]
+		- [[L1-nat-role-and-translation-process]]
+		- [[L1-summarize-subnetting]]
+		- [[L1-vpc-functionality]]
+		- [[L1-vpn-concept-and-purpose]]
+	- **microskills**
+		- [[automatic-ip-address-allocation]]
+		- [[cloud-network-benefits]]
+		- [[cloud-network-configuration]]
+		- [[cloud-network-isolation]]
+		- [[control-message-protocols]]
+		- [[data-packet-traversal]]
+		- [[dynamic-host-configuration-protocol]]
+		- [[efficiency-in-ip-allocation]]
+		- [[encrypted-tunneling]]
+		- [[icmp-functions]]
+		- [[internet-control-message-protocol]]
+		- [[ip-address-conservation]]
+		- [[ip-address-management-services]]
+		- [[ip-address-management]]
+		- [[ip-address-utilization]]
+		- [[ip-addressing-schemes]]
+		- [[ip-forwarding-process]]
+		- [[ipv4-vs-ipv6-differences]]
+		- [[ipv6-addressing]]
+		- [[ipv6-advantages]]
+		- [[ipv6-structure]]
+		- [[network-address-translation]]
+		- [[network-configuration-automation]]
+		- [[network-diagnostics]]
+		- [[network-error-reporting]]
+		- [[network-path-determination]]
+		- [[network-security-through-nat]]
+		- [[network-segmentation]]
+		- [[next-generation-ip-addressing]]
+		- [[packet-routing-mechanics]]
+		- [[private-to-public-ip-translation]]
+		- [[public-to-private-ip-translation]]
+		- [[remote-access-security]]
+		- [[routing-decision-components]]
+		- [[secure-network-access]]
+		- [[subnetting-concept]]
+		- [[subnetting-principles]]
+		- [[virtual-private-cloud]]
+		- [[virtual-private-network]]
+- **[[network-management]]**
+	- **competencies**
+		- [[L1-explain-soho-network-management-purpose-and-application]]
+		- [[L1-identify-management-concepts-and-protocols]]
+	- **microskills**
+		- [[common-management-protocols]]
+		- [[network-control-strategies]]
+		- [[network-management-concepts]]
+		- [[network-monitoring-principles]]
+		- [[practical-implementation-in-soho]]
+		- [[purpose-of-network-management]]
+		- [[soho-network-management-principles]]
+		- [[soho-network-operations]]
+- **[[network-performance]]**
+	- **competencies**
+		- [[L1-explain-congestion-control]]
+		- [[L2-identify-define-and-calculate-performance-metrics]]
+		- [[L3-analyze-congestion-control-impact]]
+	- **microskills**
+		- [[congestion-control-mechanisms]]
+		- [[congestion-control-purpose]]
+		- [[load-condition-effects]]
+		- [[mathematical-models]]
+		- [[metric-definitions]]
+		- [[network-flow-regulation]]
+		- [[network-latency-analysis]]
+		- [[network-parameter-application]]
+		- [[network-performance-metrics]]
+		- [[network-throughput-analysis]]
+		- [[performance-measurement-techniques]]
+		- [[performance-metric-relationships]]
+		- [[tcp-congestion-management]]
+- **[[routing-algorithms]]**
+	- **competencies**
+		- [[L1-define-and-differentiate-routing-types]]
+		- [[L1-static-routing-principles-and-packet-forwarding]]
+		- [[L2-illustrate-intradomain-protocol-flow]]
+		- [[L3-differentiate-use-cases-and-limitations]]
+	- **microskills**
+		- [[autonomous-system-concepts]]
+		- [[interdomain-routing-use-cases]]
+		- [[interdomain-routing]]
+		- [[interdomain-scalability-limitations]]
+		- [[intradomain-routing-protocol-operations]]
+		- [[intradomain-routing-use-cases]]
+		- [[intradomain-routing]]
+		- [[intradomain-scalability-limitations]]
+		- [[manual-route-management]]
+		- [[network-path-control]]
+		- [[packet-forwarding-with-static-routes]]
+		- [[packet-path-determination]]
+		- [[routing-algorithm-execution]]
+		- [[routing-protocol-goals]]
+		- [[routing-protocol-suitability]]
+		- [[simulated-network-scenarios]]
+		- [[static-routing-configuration]]
+- **[[routing-and-switching]]**
+	- **competencies**
+		- [[L1-explain-routing-and-switching-concepts]]
+		- [[L2-apply-vlan-and-ip-routing-configuration-concepts]]
+	- **microskills**
+		- [[default-gateway]]
+		- [[frame-forwarding]]
+		- [[network-segmentation]]
+		- [[packet-forwarding]]
+		- [[route-selection]]
+		- [[vlan-membership]]
+
+%% End Waypoint %%

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "MQTT Protocol Characteristics"
+type: medium
+title: MQTT Protocol Characteristics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/mqtt-protocol-characteristics|mqtt-protocol-characteristics]]"
+outcome: "[[mqtt-protocol-characteristics|mqtt-protocol-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # MQTT Protocol Characteristics
@@ -105,4 +105,4 @@ By understanding these technical characteristics and operational constraints, yo
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/mqtt-protocol-characteristics|MQTT Protocol Characteristics]]
+- [[mqtt-protocol-characteristics|MQTT Protocol Characteristics]]

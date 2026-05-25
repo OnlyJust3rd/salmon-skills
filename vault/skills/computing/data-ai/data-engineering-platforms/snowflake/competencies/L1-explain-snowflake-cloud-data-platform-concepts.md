@@ -7,7 +7,7 @@ tags:
   - "competency"
 strict-prerequisites:
   - "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/competencies/L1-explain-cloud-data-warehouse-concepts|L1-explain-cloud-data-warehouse-concepts]]"
-  - "[[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/snowflake/snowflake|snowflake]]"
@@ -30,7 +30,7 @@ Explain Snowflake cloud data platform concepts.
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/competencies/L1-explain-cloud-data-warehouse-concepts|L2- Explain Cloud Data Warehouse Concepts]]
-- [[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
 
 ## Optional Prerequisites
 

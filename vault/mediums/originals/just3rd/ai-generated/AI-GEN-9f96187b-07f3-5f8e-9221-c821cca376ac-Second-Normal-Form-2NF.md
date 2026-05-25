@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-database/microskills/second-normal-form-2nf|second-normal-form-2nf]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/second-normal-form-2nf|second-normal-form-2nf]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Second Normal Form (2NF)
@@ -104,4 +104,4 @@ Understanding and applying 2NF is a fundamental step in building well-structured
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-database/microskills/second-normal-form-2nf|Second Normal Form (2NF)]]
+- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/second-normal-form-2nf|Second Normal Form (2NF)]]

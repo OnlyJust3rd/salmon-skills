@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-system/microskills/3-tier-application-model|3-tier-application-model]]"
+outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/3-tier-application-model|3-tier-application-model]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the 3-Tier Application Model
@@ -60,4 +60,4 @@ Imagine you are designing a simple online forum. Describe how the 3-tier archite
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-system/microskills/3-tier-application-model|3-Tier Application Model]]
+- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/3-tier-application-model|3-Tier Application Model]]

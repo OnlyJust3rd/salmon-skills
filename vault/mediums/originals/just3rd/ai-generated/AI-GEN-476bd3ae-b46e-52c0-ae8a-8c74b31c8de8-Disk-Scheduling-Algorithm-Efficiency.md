@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Analyzing Disk Scheduling Algorithm Efficiency"
+type: medium
+title: Analyzing Disk Scheduling Algorithm Efficiency
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-algorithm-efficiency|disk-scheduling-algorithm-efficiency]]"
+outcome: "[[disk-scheduling-algorithm-efficiency|disk-scheduling-algorithm-efficiency]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Disk Scheduling Algorithm Efficiency
@@ -138,4 +138,4 @@ By analyzing the head movements and considering factors like starvation and fair
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/disk-scheduling-algorithm-efficiency|Disk Scheduling Algorithm Efficiency]]
+- [[disk-scheduling-algorithm-efficiency|Disk Scheduling Algorithm Efficiency]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding File System Components"
+type: medium
+title: Understanding File System Components
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-components|file-system-components]]"
+outcome: "[[file-system-components|file-system-components]]"
 learning-time-in-minutes: 5
 ---
 # Understanding File System Components
@@ -77,4 +77,4 @@ Understanding these core components – files, directories, inodes/MFT/FAT, and 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-system-components|File System Components]]
+- [[file-system-components|File System Components]]

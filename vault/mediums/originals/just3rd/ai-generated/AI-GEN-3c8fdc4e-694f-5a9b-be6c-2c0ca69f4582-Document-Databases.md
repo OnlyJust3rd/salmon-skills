@@ -5,7 +5,7 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[document-databases|document-databases]]"
+outcome: "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/document-databases|document-databases]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Document Databases
@@ -63,4 +63,4 @@ By understanding the core principles of document databases, you can better ident
 
 ## Supports
 
-- [[document-databases|Document Databases]]
+- [[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/document-databases|Document Databases]]

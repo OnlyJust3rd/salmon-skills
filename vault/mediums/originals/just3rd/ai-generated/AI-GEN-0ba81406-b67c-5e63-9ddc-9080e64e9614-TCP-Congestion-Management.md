@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding TCP Congestion Management"
+type: medium
+title: Understanding TCP Congestion Management
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/tcp-congestion-management|tcp-congestion-management]]"
+outcome: "[[tcp-congestion-management|tcp-congestion-management]]"
 learning-time-in-minutes: 4
 ---
 # Understanding TCP Congestion Management
@@ -90,4 +90,4 @@ AIMD is a foundational concept, but modern TCP implementations use more sophisti
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/tcp-congestion-management|TCP Congestion Management]]
+- [[tcp-congestion-management|TCP Congestion Management]]

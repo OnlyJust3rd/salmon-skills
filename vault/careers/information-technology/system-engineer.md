@@ -1,17 +1,17 @@
 ---
-type: "career"
-title: "System Engineer"
-level: "entry-level"
+type: career
+title: System Engineer
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
+  - career
+  - information-technology
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-os-core-management-theory|L1-os-core-management-theory]]"
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-os-resource-management|L1-os-resource-management]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L1-understand-linux-file-system-and-permissions|L1-understand-linux-file-system-and-permissions]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-monitor-system-performance-and-processes|L2-monitor-system-performance-and-processes]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability|L2-system-thinking-for-availability-and-recoverability]]"
+  - "[[L1-understand-linux-file-system-and-permissions|L1-understand-linux-file-system-and-permissions]]"
+  - "[[L2-monitor-system-performance-and-processes|L2-monitor-system-performance-and-processes]]"
+  - "[[L2-system-thinking-for-availability-and-recoverability|L2-system-thinking-for-availability-and-recoverability]]"
   - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-vm-vs-container-concepts|L1-vm-vs-container-concepts]]"
   - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L3-compare-hypervisor-use-cases|L3-compare-hypervisor-use-cases]]"
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/competencies/L1-understand-cloud-infrastructure-components|L1-understand-cloud-infrastructure-components]]"
@@ -31,18 +31,18 @@ A System Engineer is an entry-level information technology role focused on apply
 
 - Apply [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-os-core-management-theory|L2- OS Core Management Theory]] in day-to-day role work.
 - Apply [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-os-resource-management|L2- OS Resource Management]] in day-to-day role work.
-- Apply [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L1-understand-linux-file-system-and-permissions|L2- Understand Linux File System and Permissions]] in day-to-day role work.
-- Apply [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]] in day-to-day role work.
-- Apply [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability|L3- System Thinking for Availability and Recoverability]] in day-to-day role work.
+- Apply [[L1-understand-linux-file-system-and-permissions|L2- Understand Linux File System and Permissions]] in day-to-day role work.
+- Apply [[L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]] in day-to-day role work.
+- Apply [[L2-system-thinking-for-availability-and-recoverability|L3- System Thinking for Availability and Recoverability]] in day-to-day role work.
 - Apply [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-vm-vs-container-concepts|L2- VM vs. Container Concepts]] in day-to-day role work.
 
 ## Requirements
 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-os-core-management-theory|L2- OS Core Management Theory]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-os-resource-management|L2- OS Resource Management]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L1-understand-linux-file-system-and-permissions|L2- Understand Linux File System and Permissions]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-system-thinking-for-availability-and-recoverability|L3- System Thinking for Availability and Recoverability]]
+- [[L1-understand-linux-file-system-and-permissions|L2- Understand Linux File System and Permissions]]
+- [[L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]]
+- [[L2-system-thinking-for-availability-and-recoverability|L3- System Thinking for Availability and Recoverability]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L1-vm-vs-container-concepts|L2- VM vs. Container Concepts]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/competencies/L3-compare-hypervisor-use-cases|L4- Compare Hypervisor Use Cases]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/competencies/L1-understand-cloud-infrastructure-components|L2- Understand Cloud Infrastructure Components]]

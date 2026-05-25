@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Network Throughput Analysis: Understanding Congestion Control's Effect"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-throughput-analysis|network-throughput-analysis]]"
+outcome: "[[network-throughput-analysis|network-throughput-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Network Throughput Analysis: Understanding Congestion Control's Effect
@@ -77,4 +77,4 @@ By comparing these plots, you can visually analyze how each algorithm's congesti
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-throughput-analysis|Network Throughput Analysis]]
+- [[network-throughput-analysis|Network Throughput Analysis]]

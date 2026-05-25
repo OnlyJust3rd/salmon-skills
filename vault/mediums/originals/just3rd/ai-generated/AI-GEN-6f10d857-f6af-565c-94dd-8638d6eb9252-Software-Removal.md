@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Uninstalling Software Packages in Linux"
+type: medium
+title: Uninstalling Software Packages in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-removal|software-removal]]"
+outcome: "[[software-removal|software-removal]]"
 learning-time-in-minutes: 3
 ---
 # Uninstalling Software Packages in Linux
@@ -190,4 +190,4 @@ By mastering these commands, you gain significant control over your Linux enviro
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-removal|Software Removal]]
+- [[software-removal|Software Removal]]

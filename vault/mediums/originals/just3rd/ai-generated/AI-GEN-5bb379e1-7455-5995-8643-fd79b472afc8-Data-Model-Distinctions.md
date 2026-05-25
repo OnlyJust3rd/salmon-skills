@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-system/microskills/data-model-distinctions|data-model-distinctions]]"
+outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-model-distinctions|data-model-distinctions]]"
 learning-time-in-minutes: 4
 ---
 # Data Model Distinctions: Relational vs. NoSQL
@@ -82,4 +82,4 @@ Consider a system that needs to store information about customer orders.
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-system/microskills/data-model-distinctions|Data Model Distinctions]]
+- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-model-distinctions|Data Model Distinctions]]

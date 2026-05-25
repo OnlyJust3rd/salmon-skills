@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Wireless LAN (WLAN) Characteristics"
+type: medium
+title: Wireless LAN (WLAN) Characteristics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wireless-lan-characteristics|wireless-lan-characteristics]]"
+outcome: "[[wireless-lan-characteristics|wireless-lan-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Wireless LAN (WLAN) Characteristics
@@ -81,4 +81,4 @@ By understanding these characteristics, you can better appreciate why WLANs are 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/wireless-lan-characteristics|Wireless LAN Characteristics]]
+- [[wireless-lan-characteristics|Wireless LAN Characteristics]]

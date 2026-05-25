@@ -8,7 +8,7 @@ tags:
 strict-prerequisites:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L1-explain-data-pipeline-concepts]]"
-  - "[[skills/computing/data-ai/databases/database-system/competencies/L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]"
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql|L1-explain-relational-vs-nosql]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/data-engineering-platforms/data-lake/data-lake|data-lake]]"
@@ -32,7 +32,7 @@ Explain data lake storage concepts.
 
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/competencies/L1-explain-data-pipeline-concepts|L2- Explain Data Pipeline Concepts]]
-- [[skills/computing/data-ai/databases/database-system/competencies/L1-explain-relational-vs-nosql|L2- Explain Relational vs NoSQL]]
+- [[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-relational-vs-nosql|L2- Explain Relational vs NoSQL]]
 
 ## Optional Prerequisites
 

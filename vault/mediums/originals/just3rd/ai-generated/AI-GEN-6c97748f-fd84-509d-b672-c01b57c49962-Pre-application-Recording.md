@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Pre-application Recording: The First Step in Journaling"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/pre-application-recording|pre-application-recording]]"
+outcome: "[[pre-application-recording|pre-application-recording]]"
 learning-time-in-minutes: 4
 ---
 # Pre-application Recording: The First Step in Journaling
@@ -55,4 +55,4 @@ Pre-application recording is the fundamental mechanism that allows journaling fi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/pre-application-recording|Pre-application Recording]]
+- [[pre-application-recording|Pre-application Recording]]

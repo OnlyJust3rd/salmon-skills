@@ -14,7 +14,7 @@ required-competencies:
   - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/competencies/L1-explain-endpoint-configuration-and-user-account-administration|L1-explain-endpoint-configuration-and-user-account-administration]]"
   - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/competencies/L2-apply-endpoint-maintenance-and-software-installation|L2-apply-endpoint-maintenance-and-software-installation]]"
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-explain-system-software-interactions|L1-explain-system-software-interactions]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management|L2-utilize-linux-commands-and-vi-for-file-management]]"
+  - "[[L2-utilize-linux-commands-and-vi-for-file-management|L2-utilize-linux-commands-and-vi-for-file-management]]"
   - "[[L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
   - "[[L1-dhcp-purpose-and-ip-assignment|L1-dhcp-purpose-and-ip-assignment]]"
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authentication-mechanisms|L1-explain-authentication-mechanisms]]"
@@ -45,7 +45,7 @@ An IT Support Specialist is an entry-level information technology role focused o
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/competencies/L1-explain-endpoint-configuration-and-user-account-administration|L2- Explain Endpoint Configuration and User Account Administration]]
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/competencies/L2-apply-endpoint-maintenance-and-software-installation|L3- Apply Endpoint Maintenance and Software Installation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-explain-system-software-interactions|L2- Explain system software interactions]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-utilize-linux-commands-and-vi-for-file-management|L3- Utilize Linux Commands and Vi for File Management]]
+- [[L2-utilize-linux-commands-and-vi-for-file-management|L3- Utilize Linux Commands and Vi for File Management]]
 - [[L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 - [[L1-dhcp-purpose-and-ip-assignment|L2- DHCP Purpose and IP Assignment]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authentication-mechanisms|L2- Explain Authentication Mechanisms]]

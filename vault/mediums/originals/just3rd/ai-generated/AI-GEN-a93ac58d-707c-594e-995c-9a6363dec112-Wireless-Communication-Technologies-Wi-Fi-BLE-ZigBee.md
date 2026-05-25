@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Analyzing Wireless Communication Technologies for IoT"
+type: medium
+title: Analyzing Wireless Communication Technologies for IoT
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/wireless-communication-technologies-wi-fi-ble-zigbee|wireless-communication-technologies-wi-fi-ble-zigbee]]"
+outcome: "[[wireless-communication-technologies-wi-fi-ble-zigbee|wireless-communication-technologies-wi-fi-ble-zigbee]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Wireless Communication Technologies for IoT
@@ -101,4 +101,4 @@ By understanding the trade-offs in range, data rate, power consumption, and netw
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/wireless-communication-technologies-wi-fi-ble-zigbee|Wireless Communication Technologies (Wi-Fi, BLE, ZigBee)]]
+- [[wireless-communication-technologies-wi-fi-ble-zigbee|Wireless Communication Technologies (Wi-Fi, BLE, ZigBee)]]

@@ -15,6 +15,10 @@ source: Gaurav Sen
 
 [Gaurav Sen System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) is a video path for reasoning about system design concepts, architecture tradeoffs, and common interview-style systems.
 
+## Source
+
+https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
 ## Outcome
 
 - [[L2-explain-system-design-choice|L2-explain-system-design-choice]]

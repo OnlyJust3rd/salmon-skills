@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Analyzing Wired Communication Technologies for IoT: UART, SPI, and I²C"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/wired-communication-technologies-uart-spi-i2c|wired-communication-technologies-uart-spi-i2c]]"
+outcome: "[[wired-communication-technologies-uart-spi-i2c|wired-communication-technologies-uart-spi-i2c]]"
 learning-time-in-minutes: 7
 ---
 # Analyzing Wired Communication Technologies for IoT: UART, SPI, and I²C
@@ -164,4 +164,4 @@ By understanding the distinct characteristics and suitable applications of UART,
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/wired-communication-technologies-uart-spi-i2c|Wired Communication Technologies (UART, SPI, I²C)]]
+- [[wired-communication-technologies-uart-spi-i2c|Wired Communication Technologies (UART, SPI, I²C)]]

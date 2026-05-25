@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Routing Protocol Goals"
+type: medium
+title: Routing Protocol Goals
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-protocol-goals|routing-protocol-goals]]"
+outcome: "[[routing-protocol-goals|routing-protocol-goals]]"
 learning-time-in-minutes: 5
 ---
 # Routing Protocol Goals
@@ -63,4 +63,4 @@ In summary, while all routing protocols share the fundamental goal of delivering
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-protocol-goals|Routing Protocol Goals]]
+- [[routing-protocol-goals|Routing Protocol Goals]]

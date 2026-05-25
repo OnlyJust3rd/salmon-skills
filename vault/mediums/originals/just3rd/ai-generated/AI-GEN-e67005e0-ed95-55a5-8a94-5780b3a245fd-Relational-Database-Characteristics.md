@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-system/microskills/relational-database-characteristics|relational-database-characteristics]]"
+outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/relational-database-characteristics|relational-database-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Relational Database Characteristics
@@ -72,4 +72,4 @@ Consider a simple inventory system for a small shop.
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-system/microskills/relational-database-characteristics|Relational Database Characteristics]]
+- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/relational-database-characteristics|Relational Database Characteristics]]

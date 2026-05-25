@@ -15,7 +15,7 @@ required-competencies:
   - "[[skills/professional-practice/technical-troubleshooting/competencies/L1-explain-technical-troubleshooting-methodology|L1-explain-technical-troubleshooting-methodology]]"
   - "[[skills/professional-practice/technical-troubleshooting/competencies/L2-apply-root-cause-analysis-for-technical-issues|L2-apply-root-cause-analysis-for-technical-issues]]"
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L2-apply-cloud-service-models]]"
-  - "[[skills/computing/data-ai/databases/database-system/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
   - "[[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L2-develop-and-manage-basic-project-plan]]"
   - "[[L2-discover-requirements|L2-discover-requirements]]"
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L2-apply-managed-service-selection-for-cloud-solutions]]"
@@ -49,7 +49,7 @@ A Technical Consultant is an entry-level information technology role focused on 
 - [[skills/professional-practice/technical-troubleshooting/competencies/L1-explain-technical-troubleshooting-methodology|L2- Explain Technical Troubleshooting Methodology]]
 - [[skills/professional-practice/technical-troubleshooting/competencies/L2-apply-root-cause-analysis-for-technical-issues|L3- Apply Root Cause Analysis for Technical Issues]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/competencies/L2-apply-cloud-service-models|L3- Apply Cloud Service Models]]
-- [[skills/computing/data-ai/databases/database-system/competencies/L1-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
+- [[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
 - [[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L3- Develop and Manage Basic Project Plan]]
 - [[L2-discover-requirements|L3- Discover Requirements]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/competencies/L2-apply-managed-service-selection-for-cloud-solutions|L3- Apply Managed Service Selection for Cloud Solutions]]

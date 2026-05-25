@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Disk Tracks"
+type: medium
+title: Understanding Disk Tracks
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/track-definition|track-definition]]"
+outcome: "[[track-definition|track-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Disk Tracks
@@ -57,4 +57,4 @@ In the next section, we'll explore how tracks are organized into groups, leading
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/track-definition|Track Definition]]
+- [[track-definition|Track Definition]]

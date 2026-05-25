@@ -9,6 +9,6 @@ icon: LiWaypoints
 # Contributors
 
 %% Begin Waypoint %%
-- [[just3rd]]
+- [[contributors/just3rd]]
 
 %% End Waypoint %%

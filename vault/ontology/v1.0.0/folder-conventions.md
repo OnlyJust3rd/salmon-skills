@@ -77,6 +77,9 @@ vault/skills/<taxonomy-path>/<skill-name>/
 
 Rules:
 
+- Taxonomy folders with parsed Markdown content should have a direct Waypoint folder note.
+- A Waypoint folder note must contain a Waypoint marker comment.
+- Do not require Waypoint notes inside skill content folders: `<skill-name>/`, `<skill-name>/competencies/`, or `<skill-name>/microskills/`.
 - Skill classification is path-only. Do not add taxonomy-like frontmatter such as `domain`, `subdomain`, `capability-area`, `skill-kind`, `source-path`, or `migration-status`.
 - Current top-level skill folders are `business/`, `computing/`, `digital-media/`, `mathematics/`, and `professional-practice/`. Add future top-level domains only when real content exists.
 - Computing skills should live under one of `computing/computer-science/`, `computing/programming/`, `computing/software-engineering/`, `computing/systems-infrastructure/`, `computing/data-ai/`, `computing/security-privacy/`, or `computing/hardware-embedded/`.

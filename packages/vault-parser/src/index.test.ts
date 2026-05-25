@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
-import { parseVault, parseVaultEntries, validateGraph } from './index.js'
+import { parseVault, parseVaultEntries, validateGraph, validateVault } from './index.js'
 
 test('parseVaultEntries returns path-keyed nodes and resolved wikilink edges', () => {
   const javascriptContent =
@@ -174,6 +174,88 @@ test('parseVaultEntries does not emit edges from Waypoint navigation bodies', ()
   ], { includeUnresolvedEdges: true })
 
   assert.deepEqual(graph.edges, [])
+})
+
+test('validateVault warns when taxonomy folders are missing a direct Waypoint note', async () => {
+  const { mkdir, mkdtemp, rm, writeFile } = await import('node:fs/promises')
+  const { tmpdir } = await import('node:os')
+  const path = await import('node:path')
+
+  const vaultRoot = await mkdtemp(path.join(tmpdir(), 'vault-parser-'))
+
+  try {
+    await mkdir(path.join(vaultRoot, 'skills', 'programming', 'python'), { recursive: true })
+    await writeFile(
+      path.join(vaultRoot, 'skills', 'skills.md'),
+      '---\ntype: "waypoint"\ntitle: "Skills"\ntags: []\nicon: "LiWaypoints"\n---\n# Skills\n\n%% Waypoint %%\n',
+      'utf8',
+    )
+    await writeFile(
+      path.join(vaultRoot, 'skills', 'programming', 'python', 'python.md'),
+      '---\ntype: "skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Python',
+      'utf8',
+    )
+
+    const result = await validateVault(vaultRoot)
+
+    assert.equal(result.valid, true)
+    assert.ok(
+      result.warnings.some(
+        (issue) =>
+          issue.code === 'MISSING_FOLDER_WAYPOINT' &&
+          issue.path === 'skills/programming',
+      ),
+    )
+    assert.equal(
+      result.warnings.some(
+        (issue) =>
+          issue.code === 'MISSING_FOLDER_WAYPOINT' &&
+          issue.path === 'skills/programming/python',
+      ),
+      false,
+    )
+  } finally {
+    await rm(vaultRoot, { recursive: true, force: true })
+  }
+})
+
+test('validateVault does not require Waypoints inside skill content folders', async () => {
+  const { mkdir, mkdtemp, rm, writeFile } = await import('node:fs/promises')
+  const { tmpdir } = await import('node:os')
+  const path = await import('node:path')
+
+  const vaultRoot = await mkdtemp(path.join(tmpdir(), 'vault-parser-'))
+
+  try {
+    await mkdir(path.join(vaultRoot, 'skills', 'programming', 'python', 'competencies'), { recursive: true })
+    await mkdir(path.join(vaultRoot, 'skills', 'programming', 'python', 'microskills'), { recursive: true })
+    await writeFile(
+      path.join(vaultRoot, 'skills', 'programming', 'python', 'python.md'),
+      '---\ntype: "skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Python',
+      'utf8',
+    )
+    await writeFile(
+      path.join(vaultRoot, 'skills', 'programming', 'python', 'competencies', 'L1-python.md'),
+      '---\ntype: "competency"\ntitle: "L1 Python"\ntags: []\nstrict-prerequisites: []\nmiller-level: 1\noptional-prerequisites: []\nparent-skill: "[[skills/programming/python/python|python]]"\nrequires-microskills: []\ncontributors: []\n---\n# L1 Python',
+      'utf8',
+    )
+    await writeFile(
+      path.join(vaultRoot, 'skills', 'programming', 'python', 'microskills', 'syntax.md'),
+      '---\ntype: "microskill"\ntitle: "Syntax"\ntags: []\nparent-skill: "[[skills/programming/python/python|python]]"\ncontributors: []\n---\n# Syntax',
+      'utf8',
+    )
+
+    const result = await validateVault(vaultRoot)
+    const warnedFolders = result.warnings
+      .filter((issue) => issue.code === 'MISSING_FOLDER_WAYPOINT')
+      .map((issue) => issue.path)
+
+    assert.equal(warnedFolders.includes('skills/programming/python'), false)
+    assert.equal(warnedFolders.includes('skills/programming/python/competencies'), false)
+    assert.equal(warnedFolders.includes('skills/programming/python/microskills'), false)
+  } finally {
+    await rm(vaultRoot, { recursive: true, force: true })
+  }
 })
 
 test('parseVault only parses default target folders', async () => {

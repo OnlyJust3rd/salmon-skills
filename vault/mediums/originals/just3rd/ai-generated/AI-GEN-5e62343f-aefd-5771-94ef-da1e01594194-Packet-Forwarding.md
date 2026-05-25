@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding Packet Forwarding: How Routers Use IP Destinations"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/packet-forwarding|packet-forwarding]]"
+outcome: "[[packet-forwarding|packet-forwarding]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Packet Forwarding: How Routers Use IP Destinations
@@ -75,4 +75,4 @@ Understanding how routers interpret destination IP addresses and use their routi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/microskills/packet-forwarding|Packet Forwarding]]
+- [[packet-forwarding|Packet Forwarding]]

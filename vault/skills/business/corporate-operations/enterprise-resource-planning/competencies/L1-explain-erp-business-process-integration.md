@@ -6,7 +6,7 @@ tags:
   - "cpe"
   - "competency"
 strict-prerequisites:
-  - "[[skills/computing/data-ai/databases/database-system/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L1-explain-web-db-architecture]]"
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L1-explain-business-process-modeling-concepts]]"
 miller-level: 1
 optional-prerequisites: []
@@ -30,7 +30,7 @@ Explain ERP business process integration.
 ## Strict Prerequisites
 
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L1-explain-business-process-modeling-concepts|L2- Explain Business Process Modeling Concepts]]
-- [[skills/computing/data-ai/databases/database-system/competencies/L1-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
+- [[skills/computing/data-ai/databases/database-foundations/database-systems/competencies/L1-explain-web-db-architecture|L2- Explain Web-DB Architecture]]
 
 ## Optional Prerequisites
 

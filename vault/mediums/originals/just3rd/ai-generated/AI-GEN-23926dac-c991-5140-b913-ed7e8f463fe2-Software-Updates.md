@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Updating Linux Software Packages"
+type: medium
+title: Updating Linux Software Packages
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-updates|software-updates]]"
+outcome: "[[software-updates|software-updates]]"
 learning-time-in-minutes: 4
 ---
 # Updating Linux Software Packages
@@ -114,4 +114,4 @@ By regularly updating your software packages, you maintain a secure, stable, and
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-updates|Software Updates]]
+- [[software-updates|Software Updates]]

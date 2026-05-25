@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "File Permissions in Linux: Who Can Do What?"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/file-permissions-concepts|file-permissions-concepts]]"
+outcome: "[[file-permissions-concepts|file-permissions-concepts]]"
 learning-time-in-minutes: 3
 ---
 # File Permissions in Linux: Who Can Do What?
@@ -72,4 +72,4 @@ By understanding these fundamental permission concepts, you're building a strong
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/file-permissions-concepts|File Permissions Concepts]]
+- [[file-permissions-concepts|File Permissions Concepts]]

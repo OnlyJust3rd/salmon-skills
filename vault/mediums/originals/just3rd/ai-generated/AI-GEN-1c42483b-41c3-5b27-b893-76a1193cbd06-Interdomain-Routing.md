@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Interdomain Routing: Navigating the Internet's Highways"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-routing|interdomain-routing]]"
+outcome: "[[interdomain-routing|interdomain-routing]]"
 learning-time-in-minutes: 4
 ---
 # Interdomain Routing: Navigating the Internet's Highways
@@ -57,4 +57,4 @@ Interdomain routing, primarily handled by BGP, is the backbone of how data trave
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/interdomain-routing|Interdomain Routing]]
+- [[interdomain-routing|Interdomain Routing]]

@@ -83,7 +83,7 @@ icon: LiWaypoints
 		- [[resource-ordering-strategy]]
 		- [[scenario-based-prevention]]
 		- [[trade-offs-in-avoidance-algorithms]]
-- **[[i-o-and-file-systems]]**
+- **[[io-and-file-systems]]**
 	- **competencies**
 		- [[L1-disk-geometry-and-terminology]]
 		- [[L1-file-allocation-methods-and-implications]]
@@ -117,6 +117,42 @@ icon: LiWaypoints
 		- [[storage-efficiency]]
 		- [[throughput-metrics]]
 		- [[track-definition]]
+- **[[linux-system]]**
+	- **competencies**
+		- [[L1-understand-linux-file-system-and-permissions]]
+		- [[L2-implement-cron-jobs-for-automation]]
+		- [[L2-manage-linux-software-packages]]
+		- [[L2-monitor-system-performance-and-processes]]
+		- [[L2-system-thinking-for-availability-and-recoverability]]
+		- [[L2-utilize-linux-commands-and-vi-for-file-management]]
+	- **microskills**
+		- [[acyclic-graph-directory-structure]]
+		- [[automated-task-implementation]]
+		- [[command-line-navigation]]
+		- [[cron-job-syntax]]
+		- [[cron-scheduling-fundamentals]]
+		- [[file-attributes-and-ownership]]
+		- [[file-permissions-concepts]]
+		- [[fundamental-file-commands]]
+		- [[job-scheduling-concepts]]
+		- [[linux-file-system-hierarchy]]
+		- [[netplan-network-configuration]]
+		- [[package-management-concepts]]
+		- [[package-management-tools]]
+		- [[process-management-concepts]]
+		- [[process-monitoring-tools]]
+		- [[resource-consumption-analysis]]
+		- [[scheduled-command-execution]]
+		- [[software-installation]]
+		- [[software-removal]]
+		- [[software-updates]]
+		- [[system-availability-strategies]]
+		- [[system-performance-metrics]]
+		- [[system-recoverability-planning]]
+		- [[systemd-service-management]]
+		- [[text-processing-commands]]
+		- [[user-and-group-management]]
+		- [[vi-editor-operations]]
 - **[[memory-virtualization]]**
 	- **competencies**
 		- [[L1-explain-address-types-and-differences]]

@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/sql/microskills/sql-ddl-commands|sql-ddl-commands]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-ddl-commands|sql-ddl-commands]]"
 learning-time-in-minutes: 3
 ---
 # SQL DDL Commands: Building Your Database Blueprint
@@ -152,4 +152,4 @@ Understanding and applying these DDL commands is fundamental to building and man
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/sql/microskills/sql-ddl-commands|SQL DDL Commands]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-ddl-commands|SQL DDL Commands]]

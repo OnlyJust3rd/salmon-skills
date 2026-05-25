@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/mysql/microskills/schema-construction|schema-construction]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/schema-construction|schema-construction]]"
 learning-time-in-minutes: 4
 ---
 # Schema Construction: Building Your Database Foundation
@@ -162,4 +162,4 @@ Schema construction is the fundamental step in bringing your database design to 
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/mysql/microskills/schema-construction|Schema Construction]]
+- [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/schema-construction|Schema Construction]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Configuring Network Interfaces with Netplan"
+type: medium
+title: Configuring Network Interfaces with Netplan
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/netplan-network-configuration|netplan-network-configuration]]"
+outcome: "[[netplan-network-configuration|netplan-network-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Configuring Network Interfaces with Netplan
@@ -149,4 +149,4 @@ By mastering Netplan, you gain a fundamental skill for managing network availabi
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/netplan-network-configuration|Netplan Network Configuration]]
+- [[netplan-network-configuration|Netplan Network Configuration]]

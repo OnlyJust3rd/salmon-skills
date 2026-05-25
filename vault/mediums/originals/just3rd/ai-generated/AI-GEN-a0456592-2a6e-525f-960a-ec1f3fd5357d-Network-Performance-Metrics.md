@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Network Performance Metrics"
+type: medium
+title: Understanding Network Performance Metrics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-performance-metrics|network-performance-metrics]]"
+outcome: "[[network-performance-metrics|network-performance-metrics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Network Performance Metrics
@@ -99,4 +99,4 @@ Mastering these fundamental network performance metrics is a key step in effecti
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-performance-metrics|Network Performance Metrics]]
+- [[network-performance-metrics|Network Performance Metrics]]

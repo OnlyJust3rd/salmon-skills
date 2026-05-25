@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Navigating the Linux File System with Commands"
+type: medium
+title: Navigating the Linux File System with Commands
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/command-line-navigation|command-line-navigation]]"
+outcome: "[[command-line-navigation|command-line-navigation]]"
 learning-time-in-minutes: 4
 ---
 # Navigating the Linux File System with Commands
@@ -173,4 +173,4 @@ By consistently practicing these commands, you will build confidence in navigati
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/command-line-navigation|Command-Line Navigation]]
+- [[command-line-navigation|Command-Line Navigation]]

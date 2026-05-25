@@ -149,6 +149,15 @@ export async function parseVault(
   options: VaultParserOptions = {},
 ): Promise<VaultGraph> {
   const root = path.resolve(vaultRoot);
+  const entries = await readVaultEntries(root, options);
+
+  return parseVaultEntries(entries.filter((entry) => !isWaypointOnlyFolderNote(entry)), options);
+}
+
+async function readVaultEntries(
+  root: string,
+  options: VaultParserOptions = {},
+): Promise<VaultFileEntry[]> {
   const ignoredDirectories = new Set([
     ...DEFAULT_IGNORED_DIRECTORIES,
     ...(options.ignoredDirectories ?? []),
@@ -174,7 +183,7 @@ export async function parseVault(
       .map((file) => readVaultFile(root, normalizePath(file))),
   );
 
-  return parseVaultEntries(entries.filter((entry) => !isWaypointOnlyFolderNote(entry)), options);
+  return entries;
 }
 
 export function parseVaultEntries(
@@ -236,12 +245,14 @@ export async function validateVault(
   vaultRoot: string,
   options: VaultParserOptions = {},
 ): Promise<VaultValidationResult> {
-  const graph = await parseVault(vaultRoot, {
+  const root = path.resolve(vaultRoot);
+  const entries = await readVaultEntries(root, options);
+  const graph = parseVaultEntries(entries.filter((entry) => !isWaypointOnlyFolderNote(entry)), {
     ...options,
     includeUnresolvedEdges: true,
   });
 
-  return validateGraph(graph);
+  return mergeValidationIssues(validateGraph(graph), validateFolderWaypoints(entries));
 }
 
 export function validateGraph(graph: VaultGraph): VaultValidationResult {
@@ -306,6 +317,77 @@ export function validateGraph(graph: VaultGraph): VaultValidationResult {
       byType,
     },
   };
+}
+
+function mergeValidationIssues(
+  result: VaultValidationResult,
+  additionalIssues: VaultValidationIssue[],
+): VaultValidationResult {
+  const issues = [...result.errors, ...result.warnings, ...additionalIssues];
+  const errors = issues.filter((issue) => issue.severity === "error");
+  const warnings = issues.filter((issue) => issue.severity === "warning");
+
+  return {
+    ...result,
+    valid: errors.length === 0,
+    errors,
+    warnings,
+    counts: {
+      ...result.counts,
+      errors: errors.length,
+      warnings: warnings.length,
+    },
+  };
+}
+
+function validateFolderWaypoints(entries: VaultFileEntry[]): VaultValidationIssue[] {
+  const folders = new Set<string>();
+  const foldersWithWaypoint = new Set<string>();
+  const skillContentFolders = new Set<string>();
+
+  for (const entry of entries) {
+    if (!entry.path.toLowerCase().endsWith(".md")) continue;
+
+    const relativePath = normalizePath(entry.path);
+    const folder = path.posix.dirname(relativePath);
+    if (!folder || folder === ".") continue;
+
+    for (const ancestor of getAncestorFolders(folder)) {
+      folders.add(ancestor);
+    }
+
+    if (hasWaypointMarker(entry.content)) {
+      foldersWithWaypoint.add(folder);
+    }
+
+    if (parseFrontmatter(entry.content).type === "skill") {
+      skillContentFolders.add(folder);
+      skillContentFolders.add(path.posix.join(folder, "competencies"));
+      skillContentFolders.add(path.posix.join(folder, "microskills"));
+    }
+  }
+
+  return [...folders]
+    .filter((folder) => !foldersWithWaypoint.has(folder))
+    .filter((folder) => !skillContentFolders.has(folder))
+    .sort()
+    .map((folder) => ({
+      severity: "warning",
+      code: "MISSING_FOLDER_WAYPOINT",
+      path: folder,
+      message: `Folder \`${folder}\` is missing a direct Markdown note with a Waypoint marker.`,
+    }));
+}
+
+function getAncestorFolders(folder: string): string[] {
+  const parts = folder.split("/");
+  const ancestors: string[] = [];
+
+  for (let index = 1; index <= parts.length; index += 1) {
+    ancestors.push(parts.slice(0, index).join("/"));
+  }
+
+  return ancestors;
 }
 
 async function readVaultFile(

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Conditionals and Loops in Shell Scripting"
+type: medium
+title: Conditionals and Loops in Shell Scripting
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/conditionals-and-loops|conditionals-and-loops]]"
+outcome: "[[conditionals-and-loops|conditionals-and-loops]]"
 learning-time-in-minutes: 3
 ---
 # Conditionals and Loops in Shell Scripting
@@ -185,4 +185,4 @@ echo "Blast off!"
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/conditionals-and-loops|Conditionals and Loops]]
+- [[conditionals-and-loops|Conditionals and Loops]]

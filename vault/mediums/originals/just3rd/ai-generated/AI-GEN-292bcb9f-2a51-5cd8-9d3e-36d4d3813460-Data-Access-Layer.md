@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-system/microskills/data-access-layer|data-access-layer]]"
+outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-access-layer|data-access-layer]]"
 learning-time-in-minutes: 4
 ---
 # The Data Access Layer: Your Database Gateway
@@ -84,5 +84,5 @@ Consider a simple e-commerce scenario. You need to fetch a list of products for 
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-system/microskills/data-access-layer|Data Access Layer]]
+- [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-access-layer|Data Access Layer]]
 - [[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/data-access-layer|Data access layer]]

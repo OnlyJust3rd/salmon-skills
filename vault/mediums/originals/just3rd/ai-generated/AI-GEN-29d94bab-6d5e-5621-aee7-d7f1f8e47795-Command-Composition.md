@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Command Composition in Shell Scripting"
+type: medium
+title: Command Composition in Shell Scripting
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/command-composition|command-composition]]"
+outcome: "[[command-composition|command-composition]]"
 learning-time-in-minutes: 4
 ---
 # Command Composition in Shell Scripting
@@ -133,4 +133,4 @@ By mastering command composition, you take a significant step towards effectivel
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/command-composition|Command Composition]]
+- [[command-composition|Command Composition]]

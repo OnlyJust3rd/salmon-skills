@@ -19,7 +19,7 @@ required-competencies:
   - "[[skills/computing/software-engineering/backend-development/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L1-explain-node-js-runtime-and-modules-for-servers]]"
   - "[[skills/computing/software-engineering/backend-development/express-js/competencies/L2-implement-rest-json-api-with-express|L2-implement-rest-json-api-with-express]]"
   - "[[skills/computing/software-engineering/backend-development/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L2-integrate-app-with-database-in-3-tier-architecture]]"
-  - "[[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authentication-mechanisms|L1-explain-authentication-mechanisms]]"
   - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L1-explain-authorization-models]]"
   - "[[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L2-automated-testing-implementation]]"
@@ -57,7 +57,7 @@ A Full Stack Developer is an entry-level information technology role focused on 
 - [[skills/computing/software-engineering/backend-development/node-js/competencies/L1-explain-node-js-runtime-and-modules-for-servers|L2- Explain Node.js Runtime and Modules for Servers]]
 - [[skills/computing/software-engineering/backend-development/express-js/competencies/L2-implement-rest-json-api-with-express|L3- Implement REST JSON API with Express]]
 - [[skills/computing/software-engineering/backend-development/application-database-integration/competencies/L2-integrate-app-with-database-in-3-tier-architecture|L3- Integrate App with Database in 3-Tier Architecture]]
-- [[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authentication-mechanisms|L2- Explain Authentication Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/competencies/L1-explain-authorization-models|L2- Explain Authorization Models]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/competencies/L2-automated-testing-implementation|L3- Automated Testing Implementation]]

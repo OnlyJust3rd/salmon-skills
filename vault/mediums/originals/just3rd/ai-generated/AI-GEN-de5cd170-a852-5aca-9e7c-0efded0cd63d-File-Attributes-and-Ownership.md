@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "File Attributes and Ownership in Linux"
+type: medium
+title: File Attributes and Ownership in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/file-attributes-and-ownership|file-attributes-and-ownership]]"
+outcome: "[[file-attributes-and-ownership|file-attributes-and-ownership]]"
 learning-time-in-minutes: 4
 ---
 # File Attributes and Ownership in Linux
@@ -124,4 +124,4 @@ By mastering file attributes and ownership, you lay the groundwork for more adva
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/file-attributes-and-ownership|File Attributes and Ownership]]
+- [[file-attributes-and-ownership|File Attributes and Ownership]]

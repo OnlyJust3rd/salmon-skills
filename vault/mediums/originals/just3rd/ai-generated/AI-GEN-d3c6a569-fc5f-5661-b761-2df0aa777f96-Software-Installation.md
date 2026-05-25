@@ -124,4 +124,4 @@ By mastering these installation and update techniques, you'll be well-equipped t
 ## Supports
 
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/software-installation|Software Installation]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/software-installation|Software Installation]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/software-installation|Software Installation]]

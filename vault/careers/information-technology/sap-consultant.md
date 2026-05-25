@@ -13,7 +13,7 @@ required-competencies:
   - "[[skills/business/corporate-operations/enterprise-resource-planning/competencies/L3-analyze-erp-module-fit-for-business-processes|L3-analyze-erp-module-fit-for-business-processes]]"
   - "[[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L2-apply-bpmn-process-modeling]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L1-explain-data-model-principles-and-techniques]]"
-  - "[[skills/computing/data-ai/databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
   - "[[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L2-develop-and-manage-basic-project-plan]]"
   - "[[skills/professional-practice/engineering-practices/technical-communication/competencies/L3-present-functional-project|L3-present-functional-project]]"
 ---
@@ -41,6 +41,6 @@ A SAP Consultant is an entry-level information technology role focused on applyi
 - [[skills/business/corporate-operations/enterprise-resource-planning/competencies/L3-analyze-erp-module-fit-for-business-processes|L4- Analyze ERP Module Fit for Business Processes]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/competencies/L2-apply-bpmn-process-modeling|L3- Apply BPMN Process Modeling]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L1-explain-data-model-principles-and-techniques|L2- Explain Data Model Principles and Techniques]]
-- [[skills/computing/data-ai/databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/competencies/L1-explain-sql-clauses-and-syntax|L2- Explain SQL Clauses and Syntax]]
 - [[skills/computing/software-engineering/software-practices/project-management/competencies/L2-develop-and-manage-basic-project-plan|L3- Develop and Manage Basic Project Plan]]
 - [[skills/professional-practice/engineering-practices/technical-communication/competencies/L3-present-functional-project|L5- Present Functional Project]]

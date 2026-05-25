@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Personal Area Network Characteristics"
+type: medium
+title: Personal Area Network Characteristics
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/personal-area-network-characteristics|personal-area-network-characteristics]]"
+outcome: "[[personal-area-network-characteristics|personal-area-network-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Personal Area Network Characteristics
@@ -82,4 +82,4 @@ By understanding these characteristics, you can better identify and utilize PANs
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/microskills/personal-area-network-characteristics|Personal Area Network Characteristics]]
+- [[personal-area-network-characteristics|Personal Area Network Characteristics]]

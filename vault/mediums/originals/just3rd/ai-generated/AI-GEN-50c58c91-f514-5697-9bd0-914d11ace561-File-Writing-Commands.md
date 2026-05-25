@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Writing to Files: The `echo` and Redirection Operators"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-writing-commands|file-writing-commands]]"
+outcome: "[[file-writing-commands|file-writing-commands]]"
 learning-time-in-minutes: 4
 ---
 # Writing to Files: The `echo` and Redirection Operators
@@ -171,4 +171,4 @@ By mastering `echo` with `>` and `>>`, you gain a fundamental ability to create 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/i-o-and-file-systems/microskills/file-writing-commands|File Writing Commands]]
+- [[file-writing-commands|File Writing Commands]]

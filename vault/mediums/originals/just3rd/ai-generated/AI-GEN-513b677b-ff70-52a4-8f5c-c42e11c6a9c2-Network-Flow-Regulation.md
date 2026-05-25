@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Network Flow Regulation: Preventing the Internet's Traffic Jams"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-flow-regulation|network-flow-regulation]]"
+outcome: "[[network-flow-regulation|network-flow-regulation]]"
 learning-time-in-minutes: 4
 ---
 # Network Flow Regulation: Preventing the Internet's Traffic Jams
@@ -67,4 +67,4 @@ This reactive and adaptive approach is fundamental to maintaining a functioning 
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/network-flow-regulation|Network Flow Regulation]]
+- [[network-flow-regulation|Network Flow Regulation]]

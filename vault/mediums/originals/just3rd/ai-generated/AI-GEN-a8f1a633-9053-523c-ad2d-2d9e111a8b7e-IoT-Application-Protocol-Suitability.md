@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Choosing the Right IoT Application Protocol"
+type: medium
+title: Choosing the Right IoT Application Protocol
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-application-protocol-suitability|iot-application-protocol-suitability]]"
+outcome: "[[iot-application-protocol-suitability|iot-application-protocol-suitability]]"
 learning-time-in-minutes: 6
 ---
 # Choosing the Right IoT Application Protocol
@@ -96,4 +96,4 @@ By analyzing the specific needs of your IoT application – considering bandwidt
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-application-protocol-suitability|IoT Application Protocol Suitability]]
+- [[iot-application-protocol-suitability|IoT Application Protocol Suitability]]

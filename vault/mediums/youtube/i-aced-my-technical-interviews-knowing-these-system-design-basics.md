@@ -13,6 +13,11 @@ source: Kiki's Bytes
 # I ACED my Technical Interviews knowing these System Design Basics
 
 ![youtube](https://youtu.be/FxAom29OEKE?si=GEk4lJXx8fuahfIi)
+
+## Source
+
+https://youtu.be/FxAom29OEKE?si=GEk4lJXx8fuahfIi
+
 ## Outcome
 
 - [[L1-recognize-system-design-term|L1-recognize-system-design-term]]

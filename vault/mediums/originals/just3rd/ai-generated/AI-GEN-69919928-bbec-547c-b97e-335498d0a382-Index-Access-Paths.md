@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-indexing/microskills/index-access-paths|index-access-paths]]"
+outcome: "[[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-access-paths|index-access-paths]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Index Access Paths
@@ -68,4 +68,4 @@ The difference in speed can be dramatic, transforming a query that might take se
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-indexing/microskills/index-access-paths|Index Access Paths]]
+- [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-access-paths|Index Access Paths]]

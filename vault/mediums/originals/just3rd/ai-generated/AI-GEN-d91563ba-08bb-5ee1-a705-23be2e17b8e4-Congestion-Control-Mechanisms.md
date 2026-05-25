@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Congestion Control Mechanisms"
+type: medium
+title: Congestion Control Mechanisms
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/congestion-control-mechanisms|congestion-control-mechanisms]]"
+outcome: "[[congestion-control-mechanisms|congestion-control-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Congestion Control Mechanisms
@@ -120,4 +120,4 @@ By observing how throughput and latency change under different simulated load co
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/congestion-control-mechanisms|Congestion Control Mechanisms]]
+- [[congestion-control-mechanisms|Congestion Control Mechanisms]]

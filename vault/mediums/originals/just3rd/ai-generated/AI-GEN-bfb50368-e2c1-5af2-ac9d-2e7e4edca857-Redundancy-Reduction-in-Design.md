@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-database/microskills/redundancy-reduction-in-design|redundancy-reduction-in-design]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/redundancy-reduction-in-design|redundancy-reduction-in-design]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Redundancy Reduction through Normalization
@@ -200,4 +200,4 @@ Understanding how each normalization form targets specific types of redundancy i
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/relational-database/microskills/redundancy-reduction-in-design|Redundancy Reduction in Design]]
+- [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/redundancy-reduction-in-design|Redundancy Reduction in Design]]

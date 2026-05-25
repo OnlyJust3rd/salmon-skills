@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Managing Users and Groups in Linux for System Availability"
+type: medium
+title: Managing Users and Groups in Linux for System Availability
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/user-and-group-management|user-and-group-management]]"
+outcome: "[[user-and-group-management|user-and-group-management]]"
 learning-time-in-minutes: 4
 ---
 # Managing Users and Groups in Linux for System Availability
@@ -140,4 +140,4 @@ Effective user and group management is a cornerstone of a secure, available, and
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/user-and-group-management|User and Group Management]]
+- [[user-and-group-management|User and Group Management]]

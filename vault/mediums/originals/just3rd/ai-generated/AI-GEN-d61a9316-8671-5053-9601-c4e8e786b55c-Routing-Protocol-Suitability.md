@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Analyzing Routing Protocol Suitability for Network Scale"
+type: medium
+title: Analyzing Routing Protocol Suitability for Network Scale
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-protocol-suitability|routing-protocol-suitability]]"
+outcome: "[[routing-protocol-suitability|routing-protocol-suitability]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Routing Protocol Suitability for Network Scale
@@ -96,4 +96,4 @@ By analyzing these factors, you can begin to differentiate the suitability of va
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/routing-protocol-suitability|Routing Protocol Suitability]]
+- [[routing-protocol-suitability|Routing Protocol Suitability]]

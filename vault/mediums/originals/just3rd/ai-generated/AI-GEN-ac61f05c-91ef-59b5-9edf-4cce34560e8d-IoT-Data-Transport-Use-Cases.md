@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding IoT Data Transport Use Cases"
+type: medium
+title: Understanding IoT Data Transport Use Cases
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-data-transport-use-cases|iot-data-transport-use-cases]]"
+outcome: "[[iot-data-transport-use-cases|iot-data-transport-use-cases]]"
 learning-time-in-minutes: 6
 ---
 # Understanding IoT Data Transport Use Cases
@@ -116,4 +116,4 @@ By carefully analyzing the unique demands of your IoT application, you can selec
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/microskills/iot-data-transport-use-cases|IoT Data Transport Use Cases]]
+- [[iot-data-transport-use-cases|IoT Data Transport Use Cases]]

@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Package Management Tools in Linux"
+type: medium
+title: Understanding Package Management Tools in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/package-management-tools|package-management-tools]]"
+outcome: "[[package-management-tools|package-management-tools]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Package Management Tools in Linux
@@ -162,4 +162,4 @@ Now, imagine you later decide you don't need nano.
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/package-management-tools|Package Management Tools]]
+- [[package-management-tools|Package Management Tools]]

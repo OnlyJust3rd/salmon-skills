@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Packet Forwarding with Static Routes"
+type: medium
+title: Packet Forwarding with Static Routes
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/packet-forwarding-with-static-routes|packet-forwarding-with-static-routes]]"
+outcome: "[[packet-forwarding-with-static-routes|packet-forwarding-with-static-routes]]"
 learning-time-in-minutes: 4
 ---
 # Packet Forwarding with Static Routes
@@ -68,4 +68,4 @@ This step-by-step process, guided by the statically configured routes, ensures t
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/microskills/packet-forwarding-with-static-routes|Packet Forwarding with Static Routes]]
+- [[packet-forwarding-with-static-routes|Packet Forwarding with Static Routes]]

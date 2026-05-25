@@ -1,16 +1,16 @@
 ---
-type: "career"
-title: "DevOps Engineer"
-level: "entry-level"
+type: career
+title: DevOps Engineer
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
+  - career
+  - information-technology
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L2-utilize-git]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/competencies/L2-apply-shell-scripting-for-automation|L2-apply-shell-scripting-for-automation]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-monitor-system-performance-and-processes|L2-monitor-system-performance-and-processes]]"
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-manage-linux-software-packages|L2-manage-linux-software-packages]]"
+  - "[[L2-apply-shell-scripting-for-automation|L2-apply-shell-scripting-for-automation]]"
+  - "[[L2-monitor-system-performance-and-processes|L2-monitor-system-performance-and-processes]]"
+  - "[[L2-manage-linux-software-packages|L2-manage-linux-software-packages]]"
   - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/competencies/L1-explain-continuous-integration-pipelines|L1-explain-continuous-integration-pipelines]]"
   - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/competencies/L1-explain-continuous-delivery-and-deployment-strategies|L1-explain-continuous-delivery-and-deployment-strategies]]"
   - "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/competencies/L1-explain-build-artifact-and-image-repository-management|L1-explain-build-artifact-and-image-repository-management]]"
@@ -42,18 +42,18 @@ A DevOps Engineer is an entry-level information technology role focused on apply
 ## Responsibilities
 
 - Apply [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]] in day-to-day role work.
-- Apply [[skills/computing/systems-infrastructure/system-administration/shell-scripting/competencies/L2-apply-shell-scripting-for-automation|L3- Apply Shell Scripting for Automation]] in day-to-day role work.
-- Apply [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]] in day-to-day role work.
-- Apply [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-manage-linux-software-packages|L3- Manage Linux Software Packages]] in day-to-day role work.
+- Apply [[L2-apply-shell-scripting-for-automation|L3- Apply Shell Scripting for Automation]] in day-to-day role work.
+- Apply [[L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]] in day-to-day role work.
+- Apply [[L2-manage-linux-software-packages|L3- Manage Linux Software Packages]] in day-to-day role work.
 - Apply [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/competencies/L1-explain-continuous-integration-pipelines|L2- Explain Continuous Integration Pipelines]] in day-to-day role work.
 - Apply [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/competencies/L1-explain-continuous-delivery-and-deployment-strategies|L2- Explain Continuous Delivery and Deployment Strategies]] in day-to-day role work.
 
 ## Requirements
 
 - [[skills/computing/software-engineering/software-practices/software-version-control/competencies/L2-utilize-git|L3- Utilize Git]]
-- [[skills/computing/systems-infrastructure/system-administration/shell-scripting/competencies/L2-apply-shell-scripting-for-automation|L3- Apply Shell Scripting for Automation]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]]
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-manage-linux-software-packages|L3- Manage Linux Software Packages]]
+- [[L2-apply-shell-scripting-for-automation|L3- Apply Shell Scripting for Automation]]
+- [[L2-monitor-system-performance-and-processes|L3- Monitor System Performance and Processes]]
+- [[L2-manage-linux-software-packages|L3- Manage Linux Software Packages]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/competencies/L1-explain-continuous-integration-pipelines|L2- Explain Continuous Integration Pipelines]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/competencies/L1-explain-continuous-delivery-and-deployment-strategies|L2- Explain Continuous Delivery and Deployment Strategies]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/competencies/L1-explain-build-artifact-and-image-repository-management|L2- Explain Build Artifact and Image Repository Management]]

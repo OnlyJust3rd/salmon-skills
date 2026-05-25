@@ -1,11 +1,11 @@
 ---
-type: "medium"
+type: medium
 title: "Understanding Network Performance Metrics: Throughput, Latency, and Jitter"
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/metric-definitions|metric-definitions]]"
+outcome: "[[metric-definitions|metric-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Network Performance Metrics: Throughput, Latency, and Jitter
@@ -52,4 +52,4 @@ By understanding the precise meaning of each of these metrics, you are taking th
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/microskills/metric-definitions|Metric Definitions]]
+- [[metric-definitions|Metric Definitions]]

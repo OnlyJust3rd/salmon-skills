@@ -1,12 +1,12 @@
 ---
-type: "competency"
-icon: "LiGoal"
-title: "L2- Docker Volume Data Persistence"
+type: competency
+icon: LiGoal
+title: L2- Docker Volume Data Persistence
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L1-understand-linux-file-system-and-permissions|L1-understand-linux-file-system-and-permissions]]"
+  - "[[L1-understand-linux-file-system-and-permissions|L1-understand-linux-file-system-and-permissions]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/compute-runtime/docker/docker|docker]]"
@@ -29,7 +29,7 @@ Describe how Docker volumes enable data persistence for containerized applicatio
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L1-understand-linux-file-system-and-permissions|L2- Understand Linux File System and Permissions]]
+- [[L1-understand-linux-file-system-and-permissions|L2- Understand Linux File System and Permissions]]
 
 ## Optional Prerequisites
 

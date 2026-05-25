@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-indexing/microskills/query-predicate-support|query-predicate-support]]"
+outcome: "[[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/query-predicate-support|query-predicate-support]]"
 learning-time-in-minutes: 3
 ---
 # Understanding How Indexes Support Query Predicates
@@ -76,4 +76,4 @@ Write an SQL query to find all customers whose email address starts with 'a' and
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/database-indexing/microskills/query-predicate-support|Query Predicate Support]]
+- [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/query-predicate-support|Query Predicate Support]]

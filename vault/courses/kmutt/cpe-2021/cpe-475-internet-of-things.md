@@ -37,6 +37,6 @@ This course covers the fundamentals, technologies, and standards of the Internet
 - [[edge-computing|Edge Computing]]
 - [[internet-of-things|Internet of Things]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/iot-cloud|IoT Cloud]]
-- [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/iot-communication-and-networking|IoT Communication and Networking]]
+- [[iot-network|IoT Communication and Networking]]
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/iot-data-analytics|IoT Data Analytics]]
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/iot-security-and-privacy|IoT Security and Privacy]]

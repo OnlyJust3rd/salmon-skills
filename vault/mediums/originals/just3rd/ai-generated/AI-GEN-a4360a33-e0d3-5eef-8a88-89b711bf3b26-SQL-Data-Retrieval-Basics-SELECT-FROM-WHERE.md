@@ -5,7 +5,7 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/sql/microskills/sql-data-retrieval-basics-select-from-where|sql-data-retrieval-basics-select-from-where]]"
+outcome: "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-retrieval-basics-select-from-where|sql-data-retrieval-basics-select-from-where]]"
 learning-time-in-minutes: 3
 ---
 # SQL Data Retrieval Basics: SELECT, FROM, WHERE
@@ -167,4 +167,4 @@ By mastering `SELECT`, `FROM`, and `WHERE`, you gain the fundamental ability to 
 
 ## Supports
 
-- [[skills/computing/data-ai/databases/sql/microskills/sql-data-retrieval-basics-select-from-where|SQL Data Retrieval Basics (SELECT, FROM, WHERE)]]
+- [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-retrieval-basics-select-from-where|SQL Data Retrieval Basics (SELECT, FROM, WHERE)]]

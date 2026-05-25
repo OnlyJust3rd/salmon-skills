@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:skills",
   "showTags": false,
   "showAttachments": false,
@@ -39,6 +39,6 @@
   "repelStrength": 9.53993055555556,
   "linkStrength": 1,
   "linkDistance": 208,
-  "scale": 0.0624573503523208,
+  "scale": 0.16914362242354128,
   "close": false
 }

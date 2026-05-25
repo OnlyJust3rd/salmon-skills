@@ -1,11 +1,11 @@
 ---
-type: "medium"
-title: "Understanding Process Management Concepts in Linux"
+type: medium
+title: Understanding Process Management Concepts in Linux
 tags:
-  - "medium"
-  - "ai-generated"
+  - medium
+  - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/process-management-concepts|process-management-concepts]]"
+outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/process-management-concepts|process-management-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Process Management Concepts in Linux
@@ -59,5 +59,5 @@ By understanding these core concepts, you'll be well-equipped to use Linux comma
 
 ## Supports
 
-- [[skills/computing/systems-infrastructure/system-administration/linux-system/microskills/process-management-concepts|Process Management Concepts]]
+- [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/process-management-concepts|Process Management Concepts]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-management-concepts|Process Management Concepts]]
