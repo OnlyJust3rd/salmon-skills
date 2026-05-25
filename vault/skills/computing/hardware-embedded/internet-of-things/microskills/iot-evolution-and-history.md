@@ -1,0 +1,25 @@
+---
+type: microskill
+icon: LiBoxes
+title: IoT Evolution and History
+tags:
+  - cpe
+  - microskill
+parent-skill: "[[internet-of-things|internet-of-things]]"
+requires-in-competencies:
+  - "[[L1-explain-iot-foundations-and-components|L1-explain-iot-foundations-and-components]]"
+contributors:
+  - "[[contributors/just3rd|just3rd]]"
+---
+
+# IoT Evolution and History
+
+Parent macro: [[internet-of-things|Internet of Things]]
+
+Parent competency:
+
+- [[L1-explain-iot-foundations-and-components|L2- Explain IoT Foundations and Components]]
+
+## Description
+
+Knowledge of the historical development and evolution of the Internet of Things.

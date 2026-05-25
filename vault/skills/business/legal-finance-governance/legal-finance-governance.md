@@ -1,0 +1,103 @@
+---
+type: waypoint
+title: "Legal Finance Governance"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Legal Finance Governance
+
+%% Begin Waypoint %%
+- **[[business-ethics-principles]]**
+	- **competencies**
+		- [[L1-describe-unethical-behaviors]]
+		- [[L1-explain-ethical-principles]]
+	- **microskills**
+		- [[accounting-fraud-examples]]
+		- [[bribery-examples]]
+		- [[business-fairness]]
+		- [[business-honesty]]
+		- [[business-responsibility]]
+		- [[business-trust]]
+		- [[child-labor-examples]]
+		- [[ethical-principle-definitions]]
+		- [[ethical-principle-examples]]
+		- [[ethical-principle-importance]]
+		- [[false-advertising-examples]]
+		- [[plagiarism-examples]]
+		- [[unethical-behavior-rationale]]
+- **[[contractual-agreements]]**
+	- **competencies**
+		- [[L1-explain-contract-purposes-and-components]]
+		- [[L2-apply-contract-relevance]]
+		- [[L3-analyze-and-differentiate-agreements]]
+	- **microskills**
+		- [[agreement-differentiation]]
+		- [[confidentiality-clause-analysis]]
+		- [[confidentiality-clause-purpose]]
+		- [[confidentiality-clause-scenario-application]]
+		- [[contextual-applicability]]
+		- [[contract-general-content]]
+		- [[contract-key-components]]
+		- [[contractual-scenario-application]]
+		- [[employment-contract-analysis]]
+		- [[employment-contract-purpose]]
+		- [[hypothetical-employment-contexts]]
+		- [[legal-implication-identification]]
+		- [[nda-analysis]]
+		- [[nda-purpose]]
+		- [[nda-scenario-application]]
+		- [[non-competition-clause-analysis]]
+		- [[non-competition-clause-purpose]]
+		- [[non-competition-clause-scenario-application]]
+- **[[income-tax-fundamentals]]**
+	- **competencies**
+		- [[L1-define-taxable-income]]
+		- [[L1-describe-domestic-and-international-taxable-income]]
+		- [[L1-identify-taxpayers]]
+	- **microskills**
+		- [[domestic-taxable-income-criteria]]
+		- [[international-taxable-income-criteria]]
+		- [[tax-payment-obligation]]
+		- [[taxability-determination]]
+		- [[taxable-income-definition]]
+		- [[taxpayer-identification]]
+- **[[legal-and-organizational-foundations]]**
+	- **competencies**
+		- [[L1-understand-legal-and-ip-foundations]]
+		- [[L1-understand-organizational-behavior-principles]]
+		- [[L2-apply-team-dynamics-and-communication]]
+		- [[L3-analyze-leadership-culture-and-change]]
+	- **microskills**
+		- [[change-management-integration]]
+		- [[change-management-principles]]
+		- [[communication-problem-solving]]
+		- [[communication-strategies]]
+		- [[group-collaboration-techniques]]
+		- [[intellectual-property-importance]]
+		- [[interrelationship-analysis]]
+		- [[ip-strategic-implications]]
+		- [[leadership-impact]]
+		- [[leadership-style-impact]]
+		- [[organizational-culture-dynamics]]
+		- [[organizational-culture]]
+		- [[regulatory-compliance]]
+		- [[startup-legal-considerations]]
+		- [[team-dynamics]]
+		- [[team-performance-improvement]]
+- **[[sustainability-and-esg-frameworks]]**
+	- **competencies**
+		- [[L1-understand-esg-application]]
+		- [[L1-understand-sdgs]]
+	- **microskills**
+		- [[corporate-governance-criteria]]
+		- [[environmental-criteria]]
+		- [[esg-application-in-business]]
+		- [[esg-pillars-definition]]
+		- [[social-criteria]]
+		- [[sustainable-development-goals-core-principles]]
+		- [[sustainable-development-goals-purpose]]
+		- [[sustainable-development-goals-scope]]
+
+%% End Waypoint %%

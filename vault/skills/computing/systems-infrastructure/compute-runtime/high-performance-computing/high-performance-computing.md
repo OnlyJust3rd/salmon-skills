@@ -1,0 +1,159 @@
+---
+type: waypoint
+title: "High Performance Computing"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# High Performance Computing
+
+%% Begin Waypoint %%
+- **[[hpc-cluster-management]]**
+	- **competencies**
+		- [[L1-cluster-middleware-and-slurm-components]]
+		- [[L1-edge-computing-summary]]
+		- [[L1-grid-computing-role]]
+		- [[L1-hpc-monitoring-purpose]]
+		- [[L1-identify-serverless-applications]]
+		- [[L1-serverless-architecture-concepts-and-benefits]]
+	- **microskills**
+		- [[cluster-middleware-components]]
+		- [[distributed-environment-utilization]]
+		- [[distributed-resource-management]]
+		- [[edge-computing-applications]]
+		- [[edge-computing-concepts]]
+		- [[edge-computing-principles]]
+		- [[grid-computing-resource-aggregation]]
+		- [[hpc-cluster-health-monitoring]]
+		- [[hpc-cluster-management-tools]]
+		- [[hpc-monitoring-system-function]]
+		- [[performance-observation-in-hpc]]
+		- [[real-world-serverless-examples]]
+		- [[real-world-serverless-scenarios]]
+		- [[serverless-application-explanation]]
+		- [[serverless-architecture-benefits]]
+		- [[serverless-architecture-use-cases]]
+		- [[serverless-principles-explanation]]
+		- [[slurm-job-scheduler-recognition]]
+- **[[hpc-system]]**
+	- **competencies**
+		- [[L1-define-and-explain-serverless]]
+		- [[L1-define-and-list-hpc-milestones]]
+		- [[L1-distributed-memory-communication]]
+		- [[L1-explain-hpc-architecture-evolution-and-components]]
+		- [[L1-hpc-system-components]]
+	- **microskills**
+		- [[component-interrelationships]]
+		- [[core-serverless-principles]]
+		- [[data-exchange-in-distributed-systems]]
+		- [[distributed-memory-system-elements]]
+		- [[evolutionary-stages-of-hpc]]
+		- [[fundamental-hpc-components]]
+		- [[historical-hpc-milestones]]
+		- [[hpc-architectural-evolution]]
+		- [[hpc-definition-recall]]
+		- [[inter-process-communication-principles]]
+		- [[key-hpc-hardware-components]]
+		- [[process-communication-models]]
+		- [[serverless-architectural-concepts]]
+		- [[serverless-architecture-definition]]
+- **[[multicore-processing]]**
+	- **competencies**
+		- [[L1-explain-heterogeneous-processor-architectures-and-roles]]
+		- [[L1-identify-describe-heterogeneous-processor-components]]
+		- [[L1-summarize-gpgpu-programming-model]]
+		- [[L1-understand-serverless-architecture]]
+	- **microskills**
+		- [[ai-processor-architectural-components]]
+		- [[ai-processor-vs-cpu-architectures]]
+		- [[gpgpu-architectural-components]]
+		- [[gpgpu-development-approaches]]
+		- [[gpgpu-programming-models]]
+		- [[gpgpu-programming-paradigms]]
+		- [[gpgpu-vs-cpu-architectures]]
+		- [[heterogeneous-architecture-differences]]
+		- [[heterogeneous-computing-architectures]]
+		- [[key-serverless-characteristics]]
+		- [[serverless-deployment-differences]]
+		- [[serverless-vs-traditional-computing]]
+		- [[xeon-phi-processor-components]]
+		- [[xeon-phi-processor-role-in-hpc]]
+- **[[neuromorphic-and-brain-inspired-computing]]**
+	- **competencies**
+		- [[L1-define-brain-inspired-and-neuromorphic-concepts]]
+		- [[L1-explain-brain-inspired-principles-and-neuromorphic-characteristics]]
+		- [[L2-program-spiking-networks]]
+	- **microskills**
+		- [[basic-snn-programming]]
+		- [[brain-inspired-computing-principles]]
+		- [[brain-inspired-computing-terminology]]
+		- [[general-purpose-brain-inspired-systems-definition]]
+		- [[neuromorphic-architecture-characteristics]]
+		- [[neuromorphic-architecture-definition]]
+		- [[principles-of-neuromorphic-design]]
+		- [[snn-model-development]]
+		- [[spiking-neural-network-implementation]]
+- **[[openmp]]**
+	- **competencies**
+		- [[L1-explain-openmp-concepts-and-directives]]
+		- [[L2-implement-openmp-program]]
+	- **microskills**
+		- [[computational-problem-parallelization]]
+		- [[functional-parallel-program-development]]
+		- [[openmp-directive-application]]
+		- [[openmp-directive-semantics]]
+		- [[shared-memory-parallel-model]]
+- **[[parallel-algorithm]]**
+	- **competencies**
+		- [[L1-explain-foster-s-stages]]
+		- [[L2-apply-foster-s-methodology]]
+	- **microskills**
+		- [[foster-s-methodology-application]]
+		- [[foster-s-methodology-stages]]
+		- [[parallel-design-methodology-execution]]
+		- [[purpose-of-parallel-design-stages]]
+		- [[simple-parallel-application-development]]
+- **[[parallel-performance-analysis]]**
+	- **competencies**
+		- [[L1-define-performance-metrics]]
+		- [[L1-explain-performance-laws]]
+		- [[L2-apply-performance-laws]]
+	- **microskills**
+		- [[amdahl-s-law-application]]
+		- [[amdahl-s-law-principles]]
+		- [[efficiency-definition]]
+		- [[gustafson-s-law-application]]
+		- [[gustafson-s-law-principles]]
+		- [[parallel-performance-metrics]]
+		- [[parallel-system-performance-analysis]]
+		- [[scalability-law-assumptions]]
+		- [[scalability-prediction]]
+		- [[speedup-definition]]
+- **[[parallel-programming]]**
+	- **competencies**
+		- [[L1-apply-mpi-collective-functions]]
+		- [[L1-define-parallel-programming-models]]
+		- [[L1-implement-mpi-data-packing]]
+		- [[L1-implement-parallel-applications]]
+		- [[L1-mpi-point-to-point-implementation]]
+	- **microskills**
+		- [[basic-parallel-program-construction]]
+		- [[data-exchange-in-mpi]]
+		- [[derived-datatype-implementation]]
+		- [[distributed-data-processing-solutions]]
+		- [[efficient-data-exchange-strategies]]
+		- [[inter-process-communication-python]]
+		- [[message-size-optimization]]
+		- [[model-identification]]
+		- [[mpi-collective-function-implementation]]
+		- [[mpi-pack-function-usage]]
+		- [[mpi-receive-function-application]]
+		- [[mpi-send-function-application]]
+		- [[mpi-unpack-function-usage]]
+		- [[multiple-process-coordination]]
+		- [[parallel-model-terminology]]
+		- [[process-synchronization-python]]
+		- [[python-multiprocessing-module-usage]]
+
+%% End Waypoint %%

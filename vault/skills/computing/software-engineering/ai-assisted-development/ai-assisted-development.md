@@ -1,0 +1,119 @@
+---
+type: waypoint
+title: "Ai Assisted Development"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Ai Assisted Development
+
+%% Begin Waypoint %%
+- **[[agentic-coding-workflows]]**
+	- **competencies**
+		- [[L1-explain-agentic-coding-workflow-concepts]]
+		- [[L2-apply-agentic-coding-task-decomposition-and-review]]
+	- **microskills**
+		- [[approval-boundary]]
+		- [[change-review]]
+		- [[task-delegation]]
+		- [[task-scope]]
+		- [[tool-use]]
+		- [[verification-loop]]
+- **[[ai-assisted-software-development]]**
+	- **competencies**
+		- [[L1-explain-ai-assisted-coding-concepts]]
+		- [[L2-apply-ai-assisted-code-generation-and-refactoring]]
+	- **microskills**
+		- [[code-explanation]]
+		- [[code-generation]]
+		- [[developer-oversight]]
+		- [[human-in-the-loop-edit]]
+		- [[refactoring-request]]
+		- [[repository-context-prompting]]
+- **[[ai-code-review]]**
+	- **competencies**
+		- [[L1-explain-ai-assisted-code-review-concepts]]
+		- [[L2-apply-ai-assisted-code-review-and-test-suggestions]]
+	- **microskills**
+		- [[false-positive]]
+		- [[review-finding]]
+		- [[review-validation]]
+		- [[risk-prioritization]]
+		- [[suggested-test-case]]
+		- [[test-gap]]
+- **[[ai-coding-tool-evaluation]]**
+	- **competencies**
+		- [[L3-analyze-ai-coding-tool-output-quality-and-risk]]
+	- **microskills**
+		- [[correctness-risk]]
+		- [[security-risk]]
+		- [[workflow-fit]]
+- **[[claude-code]]**
+	- **competencies**
+		- [[L1-explain-claude-code-terminal-agent-concepts]]
+		- [[L2-apply-claude-code-codebase-task-workflow-concepts]]
+	- **microskills**
+		- [[codebase-awareness]]
+		- [[command-based-verification]]
+		- [[command-execution]]
+		- [[patch-iteration]]
+		- [[repository-inspection]]
+		- [[terminal-coding-agent]]
+- **[[claude-cowork]]**
+	- **competencies**
+		- [[L1-explain-claude-cowork-agentic-work-concepts]]
+		- [[L2-apply-claude-cowork-file-and-task-delegation-concepts]]
+	- **microskills**
+		- [[deliverable-review]]
+		- [[file-based-task]]
+		- [[file-organization-task]]
+		- [[human-oversight]]
+		- [[synthesis-task]]
+		- [[work-delegation]]
+- **[[cursor]]**
+	- **competencies**
+		- [[L1-explain-cursor-agent-mode-concepts]]
+		- [[L2-apply-cursor-codebase-editing-workflow-concepts]]
+	- **microskills**
+		- [[agent-mode]]
+		- [[ask-mode]]
+		- [[codebase-search]]
+		- [[diff-review]]
+		- [[manual-mode]]
+		- [[multi-file-edit]]
+- **[[github-copilot]]**
+	- **competencies**
+		- [[L1-explain-github-copilot-coding-assistance-concepts]]
+		- [[L2-apply-github-copilot-agent-and-pull-request-workflow-concepts]]
+	- **microskills**
+		- [[agent-mode-task]]
+		- [[copilot-chat]]
+		- [[inline-completion]]
+		- [[issue-to-change-workflow]]
+		- [[pull-request-review]]
+		- [[repository-context]]
+- **[[openai-codex]]**
+	- **competencies**
+		- [[L1-explain-openai-codex-agentic-coding-concepts]]
+		- [[L2-apply-openai-codex-task-delegation-workflow-concepts]]
+	- **microskills**
+		- [[delegated-task-prompt]]
+		- [[parallel-agent-workflow]]
+		- [[parallel-work-review]]
+		- [[quality-gate]]
+		- [[review-assistance]]
+		- [[task-oriented-coding-agent]]
+- **[[prompt-engineering]]**
+	- **competencies**
+		- [[L1-explain-prompt-engineering-principles]]
+		- [[L2-apply-prompt-patterns-for-task-instructions]]
+	- **microskills**
+		- [[constraint]]
+		- [[context]]
+		- [[few-shot-example]]
+		- [[instruction]]
+		- [[iterative-refinement]]
+		- [[structured-output-prompt]]
+
+%% End Waypoint %%

@@ -1,0 +1,167 @@
+---
+type: waypoint
+title: "Embedded Systems"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Embedded Systems
+
+%% Begin Waypoint %%
+- **[[avr-microcontroller-architecture]]**
+	- **competencies**
+		- [[L1-describe-avr-component-functions-and-interaction]]
+		- [[L1-identify-avr-components]]
+		- [[L3-avr-peripheral-differentiation]]
+	- **microskills**
+		- [[adc-resolution-and-speed]]
+		- [[component-interdependencies]]
+		- [[cpu-core-architecture]]
+		- [[cpu-core-functionality]]
+		- [[i-o-port-data-flow]]
+		- [[i-o-port-structures]]
+		- [[memory-access-mechanisms]]
+		- [[memory-organization]]
+		- [[peripheral-suitability-assessment]]
+		- [[register-operations]]
+		- [[register-set]]
+		- [[timer-counter-capabilities]]
+		- [[uart-communication-features]]
+- **[[embedded-programming]]**
+- **[[embedded-system-creation]]**
+	- **competencies**
+		- [[L4-complete-embedded-system-creation]]
+	- **microskills**
+		- [[application-requirement-fulfillment]]
+		- [[hardware-software-integration]]
+		- [[performance-optimization]]
+		- [[rtos-task-implementation]]
+		- [[system-level-debugging]]
+- **[[embedded-system-interfacing]]**
+	- **competencies**
+		- [[L1-define-communication-protocols]]
+		- [[L2-interface-microcontrollers-with-peripherals]]
+		- [[L3-protocol-justification]]
+	- **microskills**
+		- [[actuator-control-via-communication]]
+		- [[complexity-and-pin-count-considerations]]
+		- [[data-acquisition-from-sensors]]
+		- [[data-rate-requirement-analysis]]
+		- [[i2c-protocol-fundamentals]]
+		- [[i2c-sensor-interfacing]]
+		- [[noise-immunity-comparison]]
+		- [[power-consumption-trade-offs]]
+		- [[protocol-key-features]]
+		- [[spi-device-interfacing]]
+		- [[spi-protocol-fundamentals]]
+		- [[uart-device-interfacing]]
+		- [[uart-protocol-fundamentals]]
+- **[[embedded-systems]]**
+	- **competencies**
+		- [[L1-explain-sensor-actuator-functions]]
+		- [[L1-identify-microcontroller-components]]
+		- [[L1-understand-embedded-system-core-components]]
+		- [[L1-understand-iot-device-communication]]
+		- [[L2-apply-sensor-actuator-types]]
+		- [[L2-basic-embedded-system-implementation]]
+		- [[L2-develop-basic-embedded-systems-with-sensor-actuator-control]]
+		- [[L3-analyze-embedded-principles]]
+	- **microskills**
+		- [[actuator-application-in-iot-devices]]
+		- [[actuator-microcontroller-interaction]]
+		- [[actuator-operational-principles]]
+		- [[arduino-platform-components]]
+		- [[basic-embedded-system-programming]]
+		- [[button-input-reading-via-gpio]]
+		- [[data-transmission-processes]]
+		- [[embedded-iot-communication-hardware]]
+		- [[embedded-system-communication-interfaces]]
+		- [[embedded-system-input-output-devices]]
+		- [[functional-embedded-system-integration]]
+		- [[fundamental-input-output-control]]
+		- [[gpio-pin-functionality]]
+		- [[interaction-with-physical-environments]]
+		- [[led-control-via-gpio]]
+		- [[micro-bit-platform-components]]
+		- [[microcontroller-configuration]]
+		- [[microcontroller-hardware-components]]
+		- [[microcontroller-hardware-elements]]
+		- [[microcontroller-software-elements]]
+		- [[principles-of-actuators]]
+		- [[principles-of-sensors]]
+		- [[relevant-communication-protocols]]
+		- [[sbc-configuration]]
+		- [[sbc-hardware-components]]
+		- [[sensor-application-in-iot-devices]]
+		- [[sensor-microcontroller-interaction]]
+		- [[sensor-operational-principles]]
+		- [[signal-transduction-in-iot]]
+		- [[simple-iot-device-scenarios]]
+- **[[emulator-usage]]**
+	- **competencies**
+		- [[L2-emulator-execution-and-debugging]]
+	- **microskills**
+		- [[emulator-functionality-application]]
+		- [[error-identification-and-correction]]
+		- [[processor-design-execution]]
+- **[[input-output-interfacing]]**
+	- **competencies**
+		- [[L1-explain-i-o-interaction]]
+		- [[L1-explain-i-o-mechanisms]]
+		- [[L1-identify-i-o-devices]]
+		- [[L2-access-input-data]]
+		- [[L3-analyze-comm-interfaces]]
+		- [[L3-analyze-i-o-access-methods]]
+		- [[L3-analyze-specific-interfaces]]
+	- **microskills**
+		- [[basic-i-o-device-functions]]
+		- [[common-input-devices]]
+		- [[common-output-devices]]
+		- [[communication-interface-categorization]]
+		- [[data-transfer-mechanisms-i-o]]
+		- [[dma-concept]]
+		- [[embedded-serial-buses]]
+		- [[i-o-device-access-method-comparison]]
+		- [[i-o-device-interaction-principles]]
+		- [[industrial-automotive-interfaces]]
+		- [[input-data-access-techniques]]
+		- [[interrupt-driven-approach-analysis]]
+		- [[interru[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/memory-mapped-i-o-concept]]- [[memory-mapped-i-o-concept]]
+		- [[parallel-communication-characteristics]]
+		- [[peripheral-bus-interface-survey]]
+		- [[polling-method-analysis]]
+		- [[serial-communication-characteristics]]
+		- [[simulated-input-device-interaction]]
+		- [[standard-communication-interface-analysis]]
+- **[[microcontroller-interfacing]]**
+	- **competencies**
+		- [[L2-physical-device-interfacing]]
+	- **microskills**
+		- [[applied-interfacing-knowledge]]
+		- [[microcomputer-interfacing-with-physical-devices]]
+		- [[microprocessor-interfacing-with-physical-devices]]
+- **[[proteus-8-simulation]]**
+	- **competencies**
+		- [[L1-describe-proteus-simulation-process]]
+		- [[L1-identify-proteus-components]]
+		- [[L2-simulate-and-verify-circuits-in-proteus]]
+		- [[L3-analyze-proteus-simulation-results]]
+	- **microskills**
+		- [[accurate-operation-confirmation]]
+		- [[circuit-functionality-verification]]
+		- [[circuit-schematic-creation]]
+		- [[combinational-circuit-simulation]]
+		- [[component-addition-in-simulation]]
+		- [[digital-circuit-simulation-relevance]]
+		- [[discrepancy-identification]]
+		- [[proteus-8-element-identification]]
+		- [[proteus-8-tool-identification]]
+		- [[proteus-simulation-execution]]
+		- [[proteus-simulation-workflow]]
+		- [[sequential-circuit-simulation]]
+		- [[simulation-data-examination]]
+		- [[simulation-initiation]]
+		- [[simulation-result-interpretation]]
+
+%% End Waypoint %%

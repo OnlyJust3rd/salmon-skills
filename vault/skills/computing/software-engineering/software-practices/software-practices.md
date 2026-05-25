@@ -1,0 +1,139 @@
+---
+type: waypoint
+title: "Software Practices"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Software Practices
+
+%% Begin Waypoint %%
+- **[[action-planning]]**
+	- **competencies**
+		- [[L1-action-planning-foundations]]
+		- [[L2-develop-engineering-action-plan]]
+	- **microskills**
+		- [[action-planning-purpose]]
+		- [[iterative-plan-refinement]]
+		- [[milestone-scheduling]]
+		- [[responsibility-assignment-in-actions]]
+		- [[task-definition-for-action-plan]]
+		- [[task-to-milestone-mapping]]
+- **[[business-process-modeling]]**
+	- **competencies**
+		- [[L1-explain-business-process-modeling-concepts]]
+		- [[L2-apply-bpmn-process-modeling]]
+	- **microskills**
+		- [[activity]]
+		- [[bpmn-event]]
+		- [[decision-point]]
+		- [[gateway]]
+		- [[process-boundary]]
+		- [[swimlane]]
+- **[[iterative-prototyping-and-testing]]**
+	- **competencies**
+		- [[L1-describe-iterative-improvement]]
+		- [[L1-identify-prototyping-methods]]
+		- [[L2-prototype-test-and-analyze]]
+		- [[L3-evaluate-prototypes]]
+	- **microskills**
+		- [[feedback-driven-design-refinement]]
+		- [[iterative-improvement-implementation]]
+		- [[mathematical-analysis-of-test-data]]
+		- [[performance-testing]]
+		- [[physics-based-analysis-of-test-data]]
+		- [[prototype-development-execution]]
+		- [[prototype-performance-assessment]]
+		- [[prototyping-techniques]]
+		- [[recommendations-for-enhancement]]
+		- [[role-of-iteration-in-development]]
+		- [[testing-methodologies]]
+		- [[testing-result-interpretation]]
+- **[[project-management]]**
+	- **competencies**
+		- [[L2-develop-and-manage-basic-project-plan]]
+	- **microskills**
+		- [[basic-project-plan-creation]]
+		- [[iterative-progress-tracking]]
+		- [[role-allocation]]
+		- [[task-definition]]
+		- [[timeline-establishment]]
+- **[[software-engineering]]**
+	- **competencies**
+		- [[L1-explore-modern-architectural-styles]]
+		- [[L1-principles-and-importance-of-ci-cd]]
+		- [[L1-software-engineering-as-modeling-problem-solving-and-knowledge-acquisition]]
+		- [[L2-apply-design-principles-for-abstraction-and-coupling]]
+		- [[L2-apply-rationale-management]]
+		- [[L2-elicit-requirements-and-create-use-case-diagrams]]
+		- [[L2-utilize-uml-for-design-documentation]]
+		- [[L3-analyze-and-apply-process-models-and-frameworks]]
+		- [[L3-evaluate-and-improve-sprint-workflow]]
+	- **microskills**
+		- [[actor-identification]]
+		- [[agile-framework-analysis]]
+		- [[architectural-design-principles]]
+		- [[architectural-style-characteristics]]
+		- [[component-based-architecture]]
+		- [[continuous-deployment-principles]]
+		- [[continuous-improvement-reflection]]
+		- [[continuous-integration-principles]]
+		- [[decision-alternatives-documentation]]
+		- [[decision-justification]]
+		- [[dynamic-behavioral-diagrams]]
+		- [[frequent-software-release-benefits]]
+		- [[high-abstraction-design]]
+		- [[knowledge-acquisition-process]]
+		- [[low-coupling-design]]
+		- [[microservices-architecture]]
+		- [[model-view-controller-mvc]]
+		- [[modeling-activity]]
+		- [[plan-driven-process-model-analysis]]
+		- [[problem-solving-endeavor]]
+		- [[process-model-suitability-assessment]]
+		- [[scenario-elicitation]]
+		- [[sprint-performance-analysis]]
+		- [[static-structural-diagrams]]
+		- [[system-modeling-techniques]]
+		- [[team-decision-making-process]]
+		- [[uml-diagram-application]]
+		- [[use-case-diagram-creation]]
+		- [[workflow-adaptation]]
+- **[[software-engineering-frameworks]]**
+- **[[software-version-control]]**
+	- **competencies**
+		- [[L1-define-scm]]
+		- [[L1-explain-scm-concepts]]
+		- [[L2-utilize-git]]
+	- **microskills**
+		- [[baseline-concepts]]
+		- [[branching-concepts]]
+		- [[git-branch-creation]]
+		- [[git-change-tracking]]
+		- [[git-version-management]]
+		- [[scm-key-objectives]]
+		- [[software-configuration-management-definition]]
+		- [[version-identification-concepts]]
+- **[[uml-modeling]]**
+	- **competencies**
+		- [[L1-explain-uml-diagram-purposes-and-differences]]
+		- [[L1-identify-uml-diagram-types-and-symbols]]
+		- [[L2-apply-uml-for-system-modeling]]
+	- **microskills**
+		- [[dynamic-behavior-representation]]
+		- [[static-structure-representation]]
+		- [[system-architecture-representation]]
+		- [[system-functionality-representation]]
+		- [[uml-diagram-application-for-behavior]]
+		- [[uml-diagram-application-for-functionality]]
+		- [[uml-diagram-application-for-hardware-configuration]]
+		- [[uml-diagram-application-for-software-mapping]]
+		- [[uml-diagram-application-for-structure]]
+		- [[uml-diagram-identification]]
+		- [[uml-diagram-purpose-definition]]
+		- [[uml-diagram-usage-explanation]]
+		- [[uml-symbol-recognition]]
+		- [[user-interaction-representation]]
+
+%% End Waypoint %%

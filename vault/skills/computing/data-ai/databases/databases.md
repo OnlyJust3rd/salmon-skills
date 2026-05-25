@@ -1,0 +1,118 @@
+---
+type: waypoint
+title: "Databases"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Databases
+
+%% Begin Waypoint %%
+- **[[database-backup-and-recovery]]**
+	- **competencies**
+		- [[L1-explain-database-backup-and-recovery-concepts]]
+	- **microskills**
+		- [[backup-types]]
+		- [[recovery-objectives]]
+		- [[restore-operations]]
+- **[[database-indexing]]**
+	- **competencies**
+		- [[L1-explain-database-indexing-and-query-performance]]
+	- **microskills**
+		- [[index-access-paths]]
+		- [[index-trade-offs]]
+		- [[query-predicate-support]]
+- **[[database-system]]**
+	- **competencies**
+		- [[L1-define-and-list-rdbms-concepts]]
+		- [[L1-explain-database-transactions]]
+		- [[L1-explain-relational-vs-nosql]]
+		- [[L1-explain-web-db-architecture]]
+	- **microskills**
+		- [[3-tier-application-model]]
+		- [[acid-properties]]
+		- [[application-business-logic-layer]]
+		- [[commit-and-rollback]]
+		- [[data-access-layer]]
+		- [[data-model-distinctions]]
+		- [[data-relationships]]
+		- [[database-structure-tables-columns-rows]]
+		- [[inter-tier-communication-flow]]
+		- [[nosql-database-characteristics]]
+		- [[presentation-layer-functionality]]
+		- [[rdbms-key-components]]
+		- [[relational-database-characteristics]]
+		- [[relational-database-fundamentals]]
+		- [[structural-differences]]
+		- [[transaction-boundaries]]
+		- [[use-case-suitability]]
+- **[[mongodb]]**
+	- **competencies**
+		- [[L1-explain-mongodb-data-model]]
+		- [[L2-apply-mongodb-crud-operations]]
+	- **microskills**
+		- [[flexible-schema-concepts]]
+		- [[mongodb-documents-and-collections]]
+		- [[mongodb-insert-operations]]
+		- [[mongodb-query-operations]]
+		- [[mongodb-update-delete-operations]]
+		- [[relational-vs-document-data-model]]
+- **[[mysql]]**
+	- **competencies**
+		- [[L2-implement-database-schema]]
+	- **microskills**
+		- [[column-definition-statements]]
+		- [[constraint-implementation-e-g-primary-keys]]
+		- [[schema-construction]]
+		- [[sql-data-definition-language-ddl]]
+		- [[table-creation-statements]]
+- **[[nosql-database]]**
+	- **competencies**
+		- [[L1-explain-nosql-use-cases]]
+		- [[L1-list-nosql-types]]
+	- **microskills**
+		- [[column-family-stores]]
+		- [[document-databases]]
+		- [[flexibility-needs]]
+		- [[graph-databases]]
+		- [[key-value-stores]]
+		- [[nosql-database-categories]]
+		- [[performance-considerations]]
+		- [[scalability-requirements]]
+		- [[situational-applicability-of-nosql]]
+- **[[relational-database]]**
+	- **competencies**
+		- [[L1-describe-and-compare-normalization-forms]]
+		- [[L1-identify-schema-components]]
+	- **microskills**
+		- [[column-identification]]
+		- [[data-integrity-enhancement]]
+		- [[first-normal-form-1nf]]
+		- [[normalization-principles]]
+		- [[primary-key-identification]]
+		- [[redundancy-reduction-in-design]]
+		- [[relational-schema-elements]]
+		- [[second-normal-form-2nf]]
+		- [[table-identification]]
+		- [[third-normal-form-3nf]]
+- **[[sql]]**
+	- **competencies**
+		- [[L1-define-sql]]
+		- [[L1-explain-sql-clauses-and-syntax]]
+		- [[L2-execute-sql-queries]]
+		- [[L2-use-sql-ddl]]
+	- **microskills**
+		- [[basic-sql-query-execution]]
+		- [[data-manipulation-operations]]
+		- [[data-retrieval-operations]]
+		- [[schema-evolution-with-ddl]]
+		- [[sql-clause-functions]]
+		- [[sql-data-manipulation-basics-insert-update-delete]]
+		- [[sql-data-retrieval-basics-select-from-where]]
+		- [[sql-ddl-commands]]
+		- [[sql-syntax-rules]]
+		- [[structured-query-language-sql-definition]]
+		- [[table-and-column-definition-with-ddl]]
+
+%% End Waypoint %%

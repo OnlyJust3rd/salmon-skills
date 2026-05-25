@@ -1,0 +1,276 @@
+---
+type: waypoint
+title: "Data Engineering Platforms"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Data Engineering Platforms
+
+%% Begin Waypoint %%
+- **[[amazon-redshift]]**
+	- **competencies**
+		- [[L1-explain-redshift-warehouse-and-query-concepts]]
+		- [[L2-apply-redshift-table-design-and-query-concepts]]
+	- **microskills**
+		- [[distribution-style]]
+		- [[sort-key]]
+		- [[sort-strategy]]
+		- [[table-distribution]]
+		- [[warehouse-query-tuning]]
+		- [[workload-management]]
+- **[[apache-airflow]]**
+	- **competencies**
+		- [[L1-explain-workflow-orchestration-concepts]]
+		- [[L2-apply-dag-scheduling-and-task-dependency-concepts]]
+	- **microskills**
+		- [[backfill]]
+		- [[dag]]
+		- [[retry-policy]]
+		- [[schedule-interval]]
+		- [[task-dependency]]
+		- [[task-operator]]
+- **[[apache-hadoop]]**
+	- **competencies**
+		- [[L1-explain-hadoop-distributed-storage-and-mapreduce-concepts]]
+		- [[L2-apply-hadoop-batch-processing-concepts]]
+	- **microskills**
+		- [[distributed-storage]]
+		- [[input-split]]
+		- [[mapper-output]]
+		- [[mapreduce]]
+		- [[reducer-output]]
+		- [[replication]]
+- **[[apache-kafka]]**
+	- **competencies**
+		- [[L1-explain-event-streaming-and-kafka-concepts]]
+		- [[L2-apply-kafka-producer-consumer-and-topic-concepts]]
+	- **microskills**
+		- [[consumer]]
+		- [[message-key]]
+		- [[offset]]
+		- [[partition]]
+		- [[producer]]
+		- [[topic]]
+- **[[apache-spark]]**
+	- **competencies**
+		- [[L1-explain-spark-distributed-data-processing-concepts]]
+		- [[L2-apply-spark-dataframe-transformation-concepts]]
+	- **microskills**
+		- [[dataframe]]
+		- [[distributed-join]]
+		- [[lazy-evaluation]]
+		- [[partition]]
+		- [[spark-action]]
+		- [[spark-transformation]]
+- **[[cloud-data-warehouse]]**
+	- **competencies**
+		- [[L1-explain-cloud-data-warehouse-concepts]]
+		- [[L2-apply-cloud-warehouse-query-and-cost-concepts]]
+	- **microskills**
+		- [[columnar-storage]]
+		- [[compute-sizing]]
+		- [[compute-storage-separation]]
+		- [[elastic-scaling]]
+		- [[partition-pruning]]
+		- [[query-cost-driver]]
+- **[[data-cleansing]]**
+	- **competencies**
+		- [[L1-describe-data-quality-issues]]
+		- [[L2-apply-data-cleansing-techniques]]
+	- **microskills**
+		- [[data-quality-dimensions]]
+		- [[error-type-identification]]
+		- [[format-standardization]]
+		- [[missing-value-handling]]
+		- [[outlier-treatment]]
+- **[[data-engineering]]**
+	- **competencies**
+		- [[L1-explain-data-pipeline-concepts]]
+		- [[L2-apply-batch-data-pipeline-processing]]
+	- **microskills**
+		- [[batch-processing]]
+		- [[data-ingestion]]
+		- [[data-lineage]]
+		- [[data-validation]]
+		- [[pipeline-output]]
+		- [[transformation]]
+- **[[data-lake]]**
+	- **competencies**
+		- [[L1-explain-data-lake-storage-concepts]]
+		- [[L2-apply-data-lake-organization-concepts]]
+	- **microskills**
+		- [[curated-zone]]
+		- [[file-format-selection]]
+		- [[object-storage]]
+		- [[partitioned-dataset]]
+		- [[raw-zone]]
+		- [[schema-on-read]]
+- **[[data-mining]]**
+	- **competencies**
+		- [[L1-crisp-dm-phases-and-relationships]]
+	- **microskills**
+		- [[crisp-dm-framework]]
+		- [[logical-flow]]
+		- [[phase-interconnections]]
+- **[[data-modeling]]**
+	- **competencies**
+		- [[L1-explain-data-model-principles-and-techniques]]
+		- [[L2-apply-data-models]]
+		- [[L3-analyze-model-suitability]]
+	- **microskills**
+		- [[analytical-task-alignment]]
+		- [[contextual-analysis]]
+		- [[data-modeling-concepts]]
+		- [[data-structuring]]
+		- [[dimensional-model-concepts]]
+		- [[effectiveness-evaluation]]
+		- [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/model-comparison]]
+		- [[model-implementation]]
+		- [[nosql-model-characteristics]]
+		- [[real-world-dataset-representation]]
+		- [[relational-model-principles]]
+		- [[use-cases-for-data-models]]
+- **[[data-visualization]]**
+	- **competencies**
+		- [[L1-visualization-communication-and-types]]
+		- [[L2-problem-solving-visualization]]
+	- **microskills**
+		- [[chart-type-selection]]
+		- [[data-driven-question-answering]]
+		- [[data-insight-communication]]
+		- [[matplotlib-problem-solving]]
+		- [[python-visualization-application]]
+		- [[visualization-effectiveness]]
+		- [[visualization-implementation]]
+		- [[visualization-use-cases]]
+- **[[data-warehousing]]**
+	- **competencies**
+		- [[L1-explain-data-warehouse-modeling-concepts]]
+		- [[L2-apply-dimensional-modeling-concepts]]
+	- **microskills**
+		- [[dimension-attribute]]
+		- [[dimension-table]]
+		- [[fact-table]]
+		- [[grain]]
+		- [[measure]]
+		- [[star-schema]]
+- **[[databricks]]**
+	- **competencies**
+		- [[L1-explain-databricks-lakehouse-platform-concepts]]
+		- [[L2-apply-databricks-notebook-and-lakehouse-workflow-concepts]]
+	- **microskills**
+		- [[lakehouse-table]]
+		- [[managed-spark-cluster]]
+		- [[notebook-workflow]]
+		- [[notebook]]
+		- [[scheduled-job]]
+		- [[workspace]]
+- **[[dbt]]**
+	- **competencies**
+		- [[L1-explain-analytics-engineering-and-sql-transformation-concepts]]
+		- [[L2-apply-dbt-model-testing-and-lineage-concepts]]
+	- **microskills**
+		- [[data-test]]
+		- [[lineage-graph]]
+		- [[mart-model]]
+		- [[model-dependency]]
+		- [[sql-model]]
+		- [[staging-model]]
+- **[[experimental-data-evaluation]]**
+	- **competencies**
+		- [[L1-error-and-distortion-concepts]]
+		- [[L1-sources-of-error]]
+		- [[L2-compute-and-report-percentage-error]]
+		- [[L3-analyze-distortion-discrepancy-causes]]
+		- [[L3-discrepancy-justification]]
+	- **microskills**
+		- [[circuit-parameter-influence]]
+		- [[experimental-measurement-error]]
+		- [[experimental-result-justification]]
+		- [[instrument-limitation-error]]
+		- [[lab-report-error-reporting]]
+		- [[measured-vs-expected-diode-output]]
+		- [[measurement-accuracy]]
+		- [[measurement-discrepancy-analysis]]
+		- [[parallax-error]]
+		- [[percentage-error-calculation]]
+		- [[percentage-error-significance]]
+		- [[physical-constraint-impact]]
+		- [[rounding-error]]
+		- [[signal-distortion-analysis]]
+		- [[signal-distortion-impact]]
+		- [[theoretical-calculation-discrepancy]]
+		- [[theoretical-vs-measured-value-comparison]]
+- **[[exploratory-data-analysis]]**
+	- **competencies**
+		- [[L3-analyze-data-for-modeling]]
+	- **microskills**
+		- [[modeling-requirement-identification]]
+		- [[pattern-identification]]
+		- [[relationship-analysis]]
+		- [[structural-insight]]
+- **[[google-bigquery]]**
+	- **competencies**
+		- [[L1-explain-bigquery-warehouse-and-query-concepts]]
+		- [[L2-apply-bigquery-partitioning-and-sql-analytics-concepts]]
+	- **microskills**
+		- [[analytical-sql]]
+		- [[bigquery-dataset]]
+		- [[clustered-table]]
+		- [[data-scan-cost]]
+		- [[partitioned-table]]
+		- [[serverless-query-execution]]
+- **[[iot-data-analytics]]**
+	- **competencies**
+		- [[L1-define-and-explain-analysis-techniques]]
+		- [[L2-apply-time-series-analysis]]
+		- [[L3-differentiate-classification-vs-clustering]]
+	- **microskills**
+		- [[basic-time-series-analysis-methods]]
+		- [[classification-definition]]
+		- [[classification-insights-in-iot]]
+		- [[clustering-definition]]
+		- [[clustering-insights-in-iot]]
+		- [[iot-data-analysis-comparison]]
+		- [[iot-telemetry-data-analysis]]
+		- [[purpose-of-analysis-in-iot]]
+		- [[seasonality-identification-in-iot-data]]
+		- [[time-series-analysis-definition]]
+		- [[trend-identification-in-iot-data]]
+- **[[lakehouse-architecture]]**
+	- **competencies**
+		- [[L1-explain-lakehouse-architecture-concepts]]
+		- [[L3-analyze-lakehouse-and-warehouse-trade-offs]]
+	- **microskills**
+		- [[cost-trade-off]]
+		- [[governance-trade-off]]
+		- [[open-table-format]]
+		- [[unified-analytics]]
+		- [[warehouse-semantics]]
+		- [[workload-fit]]
+- **[[product-analytics]]**
+	- **competencies**
+		- [[L1-explain-product-metrics-and-experimentation]]
+		- [[L3-analyze-product-usage-metrics]]
+	- **microskills**
+		- [[cohort]]
+		- [[experiment-result]]
+		- [[experiment]]
+		- [[funnel-drop-off]]
+		- [[funnel-metric]]
+		- [[retention-pattern]]
+- **[[snowflake]]**
+	- **competencies**
+		- [[L1-explain-snowflake-cloud-data-platform-concepts]]
+		- [[L2-apply-snowflake-warehouse-and-sql-transformation-concepts]]
+	- **microskills**
+		- [[secure-sharing]]
+		- [[semi-structured-query]]
+		- [[stage]]
+		- [[transformation-model]]
+		- [[virtual-warehouse]]
+		- [[warehouse-sizing]]
+
+%% End Waypoint %%

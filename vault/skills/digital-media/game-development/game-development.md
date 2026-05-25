@@ -1,0 +1,247 @@
+---
+type: waypoint
+title: "Game Development"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Game Development
+
+%% Begin Waypoint %%
+- **[[3d-asset-pipeline]]**
+	- **competencies**
+		- [[L1-explain-3d-asset-pipeline-concepts]]
+		- [[L2-apply-real-time-asset-import-and-optimization-concepts]]
+	- **microskills**
+		- [[asset-scale]]
+		- [[import-setting]]
+		- [[mesh-topology]]
+		- [[polygon-budget]]
+		- [[texture-compression]]
+		- [[uv-mapping]]
+- **[[character-design]]**
+	- **competencies**
+		- [[L1-identify-character-archetypes]]
+		- [[L2-apply-visual-design-for-character-communication]]
+	- **microskills**
+		- [[archetype-characteristics]]
+		- [[character-appearance-conceptualization]]
+		- [[common-game-character-archetypes]]
+		- [[personality-and-role-communication]]
+		- [[visual-design-principles]]
+- **[[game-ai]]**
+	- **competencies**
+		- [[L1-explain-game-ai-behavior-and-pathfinding-concepts]]
+		- [[L2-apply-npc-behavior-state-and-pathfinding-concepts]]
+	- **microskills**
+		- [[finite-state-machine]]
+		- [[navigation-target]]
+		- [[pathfinding]]
+		- [[perception-check]]
+		- [[state-transition]]
+		- [[steering-behavior]]
+- **[[game-animation]]**
+	- **competencies**
+		- [[L1-explain-game-animation-state-and-rigging-concepts]]
+		- [[L2-apply-animation-state-machine-concepts]]
+	- **microskills**
+		- [[animation-clip]]
+		- [[animation-state]]
+		- [[blend-tree]]
+		- [[runtime-parameter]]
+		- [[skeleton-rig]]
+		- [[transition-condition]]
+- **[[game-audio]]**
+	- **competencies**
+		- [[L1-explain-interactive-game-audio-concepts]]
+		- [[L2-apply-game-audio-trigger-and-mixing-concepts]]
+	- **microskills**
+		- [[audio-cue]]
+		- [[audio-mixer]]
+		- [[audio-trigger]]
+		- [[looping-music]]
+		- [[mixer-group]]
+		- [[spatial-audio]]
+- **[[game-design]]**
+	- **competencies**
+		- [[L1-explain-game-elements-and-functions]]
+		- [[L1-explain-game-genres]]
+		- [[L1-explain-gameplay-mechanics-and-character-abilities]]
+		- [[L1-understand-level-design-elements]]
+		- [[L2-apply-game-design-principles]]
+		- [[L2-implement-basic-character-mechanics]]
+		- [[L2-implement-interactive-elements]]
+	- **microskills**
+		- [[action-to-mechanic-translation]]
+		- [[character-abilities-as-mechanics]]
+		- [[character-functionality-execution]]
+		- [[core-gameplay-mechanics]]
+		- [[engagement-enhancement-through-interaction]]
+		- [[fundamental-game-building-blocks]]
+		- [[gameplay-contribution-analysis]]
+		- [[gameplay-driven-genre-classification]]
+		- [[gameplay-mechanics-definition]]
+		- [[genre-categorization-criteria]]
+		- [[interactive-level-elements]]
+		- [[interactive-systems-explanation]]
+		- [[level-design-pacing-purpose]]
+		- [[player-engagement-impact]]
+		- [[player-experience-formulation]]
+		- [[player-progression-guidance]]
+		- [[principle-application-in-prototyping]]
+		- [[role-based-mechanic-implementation]]
+		- [[rule-content-and-mechanic-integration]]
+		- [[rules-objectives-and-mechanics]]
+		- [[simple-mechanic-creation]]
+		- [[strategic-element-placement]]
+- **[[game-development-lifecycle]]**
+	- **competencies**
+		- [[L1-explain-game-development-phases]]
+	- **microskills**
+		- [[game-development-lifecycle-stages]]
+		- [[game-development-process-interpretation]]
+		- [[inception-to-support-lifecycle]]
+		- [[phase-purpose-and-activities]]
+- **[[game-engine-architecture]]**
+	- **competencies**
+		- [[L1-explain-game-loop-scene-and-component-architecture]]
+		- [[L2-apply-scene-entity-and-component-architecture-concepts]]
+	- **microskills**
+		- [[asset-reference]]
+		- [[component]]
+		- [[entity-composition]]
+		- [[game-loop]]
+		- [[scene-graph]]
+		- [[update-method]]
+- **[[game-flow-and-difficulty-balancing]]**
+	- **competencies**
+		- [[L1-define-player-immersion]]
+		- [[L2-optimize-player-experience-through-difficulty-and-flow]]
+	- **microskills**
+		- [[adaptive-challenge-implementation]]
+		- [[difficulty-and-engagement-analysis]]
+		- [[factors-influencing-immersion]]
+		- [[flow-theory-application]]
+		- [[player-immersion-definition]]
+		- [[player-immersion-maintenance]]
+- **[[game-networking]]**
+	- **competencies**
+		- [[L1-explain-multiplayer-networking-concepts]]
+		- [[L2-apply-client-server-synchronization-concepts]]
+	- **microskills**
+		- [[interpolation]]
+		- [[skills/digital-media/game-development/game-networking/microskills/latency]]
+		- [[prediction]]
+		- [[reconciliation]]
+		- [[replication]]
+		- [[server-authority]]
+- **[[game-performance-optimization]]**
+	- **competencies**
+		- [[L1-explain-game-profiling-frame-budget-and-memory-concepts]]
+		- [[L2-apply-game-performance-profiling-concepts]]
+	- **microskills**
+		- [[cpu-bottleneck]]
+		- [[draw-call-reduction]]
+		- [[frame-budget]]
+		- [[gpu-bottleneck]]
+		- [[memory-allocation-review]]
+		- [[profiler-trace]]
+- **[[game-physics]]**
+	- **competencies**
+		- [[L1-explain-game-physics-simulation-concepts]]
+		- [[L2-apply-collision-detection-and-response-concepts]]
+		- [[L2-apply-rigid-body-movement-and-forces-concepts]]
+	- **microskills**
+		- [[collider]]
+		- [[collision-response]]
+		- [[constraint]]
+		- [[fixed-timestep]]
+		- [[force-application]]
+		- [[overlap-test]]
+		- [[raycast]]
+		- [[rigid-body]]
+		- [[velocity-control]]
+- **[[game-testing]]**
+	- **competencies**
+		- [[L1-explain-game-testing-and-playtesting-concepts]]
+		- [[L2-apply-game-bug-reproduction-and-balance-testing-concepts]]
+	- **microskills**
+		- [[balance-note]]
+		- [[balance-test]]
+		- [[bug-reproduction]]
+		- [[playtest]]
+		- [[regression-check]]
+		- [[reproduction-step]]
+- **[[game-ui]]**
+	- **competencies**
+		- [[L1-explain-game-ui-hud-menu-and-feedback-concepts]]
+		- [[L2-apply-game-ui-flow-and-hud-concepts]]
+	- **microskills**
+		- [[controller-navigation]]
+		- [[feedback-state]]
+		- [[hud-layout]]
+		- [[hud]]
+		- [[menu-flow]]
+		- [[ui-feedback-event]]
+- **[[level-design]]**
+	- **competencies**
+		- [[L1-identify-level-design-elements]]
+		- [[L2-apply-and-explain-spatial-layout-principles]]
+	- **microskills**
+		- [[basic-level-prototype-construction]]
+		- [[choke-points-cover-points-pathways]]
+		- [[fundamental-level-components]]
+		- [[navigation-and-pacing-influence]]
+		- [[spatial-arrangement-principles]]
+- **[[player-psychology]]**
+	- **competencies**
+		- [[L1-funativity-and-player-engagement]]
+		- [[L2-apply-character-psychology-principles]]
+		- [[L2-apply-maslow-to-game-motivation]]
+		- [[L2-apply-motivational-theories]]
+		- [[L2-implement-adaptive-difficulty]]
+		- [[L3-analyze-storytelling-strategies]]
+	- **microskills**
+		- [[backstory-development]]
+		- [[challenge-and-frustration-balance]]
+		- [[character-psychology-foundations]]
+		- [[desired-player-experience-design]]
+		- [[emotional-engagement-mechanisms]]
+		- [[game-storytelling-components]]
+		- [[maslow-s-hierarchy-framework]]
+		- [[mechanic-selection-for-player-response]]
+		- [[motivation-drivers]]
+		- [[motivational-theory-application]]
+		- [[narrative-strategy-effectiveness]]
+		- [[natural-funativity-theory]]
+		- [[player-motivation-analysis]]
+		- [[player-performance-data-utilization]]
+		- [[real-time-difficulty-modification]]
+		- [[reward-system-design]]
+		- [[theory-to-engagement-link]]
+		- [[trait-and-motivation-integration]]
+- **[[unity]]**
+	- **competencies**
+		- [[L1-explain-unity-scene-prefab-and-component-concepts]]
+		- [[L2-implement-unity-gameplay-scripts-and-scenes]]
+	- **microskills**
+		- [[gameobject]]
+		- [[monobehaviour-script]]
+		- [[prefab]]
+		- [[scene-setup]]
+		- [[serialized-field]]
+		- [[unity-event-method]]
+- **[[unreal-engine]]**
+	- **competencies**
+		- [[L1-explain-unreal-actors-blueprints-and-level-workflow]]
+		- [[L2-apply-unreal-blueprint-and-actor-concepts]]
+	- **microskills**
+		- [[actor-component]]
+		- [[actor]]
+		- [[blueprint-event-graph]]
+		- [[blueprint]]
+		- [[level-interaction]]
+		- [[level]]
+
+%% End Waypoint %%

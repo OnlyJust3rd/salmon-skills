@@ -1,0 +1,215 @@
+---
+type: waypoint
+title: "Computer Graphics"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Computer Graphics
+
+%% Begin Waypoint %%
+- **[[curve-modeling]]**
+	- **competencies**
+		- [[L1-describe-parametric-representation-and-bezier-curves]]
+		- [[L1-identify-curve-types-and-representations]]
+	- **microskills**
+		- [[bezier-curve-principles]]
+		- [[bezier-curves]]
+		- [[curve-representations]]
+		- [[parametric-curve-definition]]
+		- [[parametric-curves]]
+		- [[smooth-curve-modeling]]
+- **[[digital-image-processing]]**
+	- **competencies**
+		- [[L1-define-pixel]]
+		- [[L1-explain-pixel-grid-and-resolution]]
+		- [[L1-image-representations]]
+		- [[L1-understand-color-models]]
+		- [[L2-apply-basic-point-operations]]
+		- [[L2-apply-image-filtering]]
+		- [[L2-apply-neighborhood-processing]]
+		- [[L2-apply-spatial-transformations]]
+		- [[L2-import-and-display-image]]
+		- [[L3-analyze-frequency-domain]]
+	- **microskills**
+		- [[brightness-and-contrast-manipulation]]
+		- [[color-model-components-and-characteristics]]
+		- [[common-image-file-formats]]
+		- [[digital-image-components]]
+		- [[digital-image-formats]]
+		- [[edge-detection-methods]]
+		- [[fourier-transform-application]]
+		- [[frequency-spectrum-interpretation]]
+		- [[hsv-color-model]]
+		- [[image-blurring-techniques]]
+		- [[image-filter-application]]
+		- [[image-frequency-representation]]
+		- [[image-pixel-manipulation-for-watermarking]]
+		- [[image-rotation]]
+		- [[image-scaling]]
+		- [[image-sharpening-techniques]]
+		- [[image-translation]]
+		- [[matlab-image-import]]
+		- [[matlab-image-visualization]]
+		- [[neighborhood-kernels]]
+		- [[pixel-coordinate-alteration]]
+		- [[pixel-count-and-resolution-relationship]]
+		- [[pixel-definition]]
+		- [[pixel-grid-structure]]
+		- [[pixel-role-in-image-representation]]
+		- [[pixel-value-adjustment]]
+		- [[point-processing-techniques]]
+		- [[rgb-color-model]]
+- **[[geometric-representation]]**
+	- **competencies**
+		- [[L1-describe-mathematical-representation-of-geometric-primitives]]
+		- [[L1-list-and-define-geometric-primitives]]
+	- **microskills**
+		- [[2d-geometric-representation]]
+		- [[3d-geometric-representation]]
+		- [[basic-geometric-primitives]]
+		- [[mathematical-definitions]]
+		- [[mathematical-modeling-of-primitives]]
+		- [[points-and-lines]]
+		- [[polygons]]
+- **[[geometric-transformations]]**
+	- **competencies**
+		- [[L1-explain-transformation-purpose-effects-and-principles]]
+		- [[L1-identify-and-define-geometric-transformations]]
+		- [[L2-apply-2d-and-3d-transformations]]
+	- **microskills**
+		- [[2d-and-3d-transformations]]
+		- [[2d-transformation-application]]
+		- [[2d-transformation-principles]]
+		- [[3d-transformation-application]]
+		- [[3d-transformation-principles]]
+		- [[fundamental-transformations]]
+		- [[geometric-manipulation]]
+		- [[rotation]]
+		- [[scaling]]
+		- [[transformation-effects]]
+		- [[transformation-purpose]]
+		- [[translation]]
+		- [[underlying-mathematical-principles]]
+- **[[image-compression]]**
+	- **competencies**
+		- [[L1-compression-trade-offs-and-mpeg-efficiency]]
+		- [[L1-image-and-mpeg-compression-fundamentals]]
+		- [[L2-apply-compression-techniques]]
+	- **microskills**
+		- [[compression-ratio-vs-quality-trade-offs]]
+		- [[image-compression-principles]]
+		- [[image-file-size-reduction]]
+		- [[implementation-of-compression-algorithms]]
+		- [[inter-frame-compression-concepts]]
+		- [[inter-frame-efficiency]]
+		- [[intra-frame-compression-concepts]]
+		- [[intra-frame-efficiency]]
+		- [[motion-estimation-and-compensation]]
+		- [[motion-vectors]]
+		- [[mpeg-compression-efficiency]]
+		- [[mpeg-compression-fundamentals]]
+- **[[perspective-projection]]**
+	- **competencies**
+		- [[L1-explain-and-compare-projection-differences]]
+		- [[L1-explain-foreshortening]]
+		- [[L1-identify-and-define-projection-types]]
+		- [[L1-list-projection-components]]
+		- [[L2-apply-one-point-perspective]]
+		- [[L2-apply-parallel-projection]]
+		- [[L3-analyze-projection-characteristics-and-impact]]
+	- **microskills**
+		- [[2d-representation-of-3d-objects]]
+		- [[2d-representation-with-depth]]
+		- [[camera-parameter-impact]]
+		- [[depth-perception-in-projections]]
+		- [[distance-and-size-perception]]
+		- [[effect-on-object-appearance]]
+		- [[eye-point]]
+		- [[foreshortening-concept]]
+		- [[one-point-perspective-application]]
+		- [[parallel-projection-application]]
+		- [[parallel-projection]]
+		- [[perspective-projection]]
+		- [[projection-characteristics]]
+		- [[projection-differences]]
+		- [[projection-distortion-analysis]]
+		- [[projection-plane]]
+		- [[projection-principles-comparison]]
+		- [[projection-system-components]]
+		- [[projection-types]]
+		- [[vanishing-points]]
+		- [[visual-characteristics-of-projections]]
+- **[[rasterization-algorithms]]**
+	- **competencies**
+		- [[L1-define-rasterization]]
+		- [[L1-explain-bresenham-s-algorithm-steps-and-purpose]]
+		- [[L1-explain-line-drawing-and-scan-conversion-algorithms]]
+		- [[L2-implement-bresenham-s-algorithm]]
+	- **microskills**
+		- [[bresenham-s-algorithm-implementation]]
+		- [[bresenham-s-algorithm-purpose]]
+		- [[bresenham-s-algorithm-steps]]
+		- [[displaying-geometric-primitives]]
+		- [[line-rendering]]
+		- [[pixel-coordinate-generation]]
+		- [[purpose-of-line-drawing-algorithms]]
+		- [[rasterization-definition]]
+		- [[scan-conversion-process]]
+- **[[rendering-and-visual-realism]]**
+	- **competencies**
+		- [[L1-explain-shading-principles]]
+		- [[L1-identify-depth-cues]]
+		- [[L2-apply-realism-techniques]]
+		- [[L3-analyze-rendering-influence]]
+		- [[L3-evaluate-rendering-quality]]
+	- **microskills**
+		- [[depth-perception-cues]]
+		- [[effectiveness-of-realism-techniques]]
+		- [[enhancing-realism]]
+		- [[light-simulation]]
+		- [[light-surface-interaction]]
+		- [[perceived-three-dimensionality-analysis]]
+		- [[perception-of-form]]
+		- [[perception-of-volume]]
+		- [[projection-method-influence]]
+		- [[rendering-parameter-influence]]
+		- [[rendering-success-assessment]]
+		- [[shading-techniques]]
+		- [[simple-shading-algorithms]]
+		- [[three-dimensional-appearance-enhancement]]
+		- [[visual-cues-in-imagery]]
+		- [[visual-quality-analysis]]
+		- [[visual-quality-evaluation]]
+		- [[visual-realism-improvement]]
+- **[[shader-programming]]**
+	- **competencies**
+		- [[L1-explain-shader-pipeline-and-material-concepts]]
+		- [[L2-apply-shader-and-material-parameter-concepts]]
+	- **microskills**
+		- [[fragment-shader]]
+		- [[lighting-response]]
+		- [[material-parameter]]
+		- [[texture-sampling]]
+		- [[vertex-shader]]
+		- [[visual-effect-parameter]]
+- **[[viewing-and-clipping]]**
+	- **competencies**
+		- [[L1-define-coordinate-systems-and-viewport]]
+		- [[L1-explain-viewing-transformations-and-clipping]]
+		- [[L2-apply-windowing-and-line-clipping]]
+	- **microskills**
+		- [[clipping-concepts]]
+		- [[line-clipping-algorithm]]
+		- [[purpose-of-viewing-pipeline]]
+		- [[view-coordinates]]
+		- [[viewport-definition]]
+		- [[visible-segment-determination]]
+		- [[window-definition]]
+		- [[windowing-concepts]]
+		- [[windowing-transformation]]
+		- [[world-coordinates]]
+		- [[world-to-view-transformation]]
+
+%% End Waypoint %%

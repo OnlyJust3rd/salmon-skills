@@ -1,0 +1,181 @@
+---
+type: waypoint
+title: "Digital Logic"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Digital Logic
+
+%% Begin Waypoint %%
+- **[[bus-drivers-registers-and-tri-state]]**
+	- **competencies**
+		- [[L1-explain-bus-and-register-operation]]
+		- [[L1-identify-registers-drivers-and-tri-state-devices]]
+	- **microskills**
+		- [[bus-contention-prevention]]
+		- [[bus-driver-applications]]
+		- [[bus-driver-ic-identification]]
+		- [[shift-register-operation]]
+		- [[shift-register-types]]
+		- [[tri-state-buffer-identification]]
+		- [[tri-state-buffer-operation]]
+- **[[combinational-logic-design]]**
+	- **competencies**
+		- [[L1-explain-combinational-building-blocks]]
+		- [[L1-recall-combinational-logic-terms]]
+		- [[L2-apply-k-maps-for-minimization]]
+		- [[L2-translate-problem-to-circuit]]
+		- [[L3-analyze-and-design-modular-combinational-circuits]]
+	- **microskills**
+		- [[adder-function-explanation]]
+		- [[adder-operational-principles]]
+		- [[canonical-form-definitions]]
+		- [[circuit-correctness-verification]]
+		- [[combinational-circuit-minimization]]
+		- [[decoder-function-explanation]]
+		- [[decoder-operational-principles]]
+		- [[digital-circuit-conceptualization]]
+		- [[k-map-grouping-principles]]
+		- [[k-map-optimization-process]]
+		- [[karnaugh-map-construction]]
+		- [[karnaugh-map-structure]]
+		- [[logical-behavior-analysis]]
+		- [[minimal-product-of-sums]]
+		- [[minimal-sum-of-products]]
+		- [[minterm-and-maxterm-definitions]]
+		- [[modular-circuit-design]]
+		- [[multiplexer-function-explanation]]
+		- [[multiplexer-operational-principles]]
+		- [[problem-to-logic-translation]]
+		- [[proteus-8-implementation]]
+		- [[subtractor-function-explanation]]
+		- [[subtractor-operational-principles]]
+		- [[truth-function-derivation]]
+		- [[truth-table-definitions]]
+- **[[digital-circuit-construction]]**
+	- **competencies**
+		- [[L1-explain-ics-components-and-operations]]
+		- [[L1-identify-circuit-components-and-breadboard-layout]]
+		- [[L2-implement-logic-gates-on-breadboard]]
+	- **microskills**
+		- [[basic-logic-circuit-construction]]
+		- [[breadboard-circuit-wiring]]
+		- [[breadboard-implementation-proficiency]]
+		- [[breadboard-layout-conventions]]
+		- [[common-ic-identification]]
+		- [[component-placement]]
+		- [[datasheet-interpretation]]
+		- [[discrete-component-identification]]
+		- [[ic-package-identification]]
+		- [[logic-gate-ic-functional-operation]]
+		- [[logic-gate-ic-pin-configurations]]
+- **[[fpga-implementation]]**
+	- **competencies**
+		- [[L1-explain-fpga-architecture-and-workflow]]
+		- [[L1-identify-pld-types]]
+		- [[L2-deploy-design-on-fpga]]
+	- **microskills**
+		- [[bitstream-generation]]
+		- [[fpga-deployment-stages]]
+		- [[fpga-internal-architecture]]
+		- [[fpga-loading-and-configuration]]
+		- [[pin-assignment-and-constraints]]
+		- [[place-and-route-process]]
+		- [[pld-architectures]]
+		- [[pld-classifications]]
+		- [[pld-fundamental-characteristics]]
+		- [[programmable-logic-device-types]]
+		- [[simulation-to-hardware-bridging]]
+		- [[synthesis-process]]
+- **[[logic-families]]**
+	- **competencies**
+		- [[L1-explain-logic-family-trade-offs]]
+		- [[L1-recall-logic-family-parameters]]
+	- **microskills**
+		- [[cmos-family-identification]]
+		- [[fan-out-impact]]
+		- [[key-parameter-definitions]]
+		- [[logic-level-voltage-ranges]]
+		- [[noise-margin-calculation]]
+		- [[power-speed-trade-off]]
+		- [[ttl-cmos-interfacing]]
+		- [[ttl-family-identification]]
+- **[[logic-fundamentals]]**
+	- **competencies**
+		- [[L1-boolean-algebra-logic-gates-fundamentals]]
+		- [[L1-de-morgan-s-theorems]]
+		- [[L1-logic-gate-implementation]]
+		- [[L1-recall-logic-gate-basics]]
+	- **microskills**
+		- [[basic-logic-gate-definitions]]
+		- [[boolean-algebra-postulate-recall]]
+		- [[boolean-algebra-postulates]]
+		- [[boolean-expressions]]
+		- [[boolean-function-mapping]]
+		- [[de-morgan-s-theorem-statement]]
+		- [[implementation-principles]]
+		- [[logic-expression-simplification]]
+		- [[logic-gate-names-and-symbols]]
+		- [[logic-gate-symbols]]
+		- [[logic-gate-truth-tables]]
+		- [[theorem-application]]
+		- [[truth-functions]]
+- **[[sequential-logic-design]]**
+	- **competencies**
+		- [[L1-define-sequential-components]]
+		- [[L1-explain-flip-flop-operation]]
+		- [[L1-explain-memory-device-architecture]]
+		- [[L2-apply-flip-flops-to-counters]]
+		- [[L3-analyze-state-machine-behavior]]
+	- **microskills**
+		- [[counter-circuit-construction]]
+		- [[counter-definitions]]
+		- [[d-flip-flop-operation]]
+		- [[dram-architecture]]
+		- [[flip-flop-definitions]]
+		- [[flip-flop-functionality]]
+		- [[flip-flop-principles-application]]
+		- [[flip-flop-truth-tables]]
+		- [[input-clock-signal-relationship]]
+		- [[input-condition-response]]
+		- [[jk-flip-flop-operation]]
+		- [[memory-addressing-and-organization]]
+		- [[memory-device-definitions]]
+		- [[rom-family-differences]]
+		- [[sequential-circuit-component-characteristics]]
+		- [[sram-architecture]]
+		- [[state-machine-analysis]]
+		- [[state-machine-definitions]]
+		- [[state-transition-tracing]]
+		- [[t-flip-flop-operation]]
+		- [[volatile-vs-non-volatile-storage]]
+- **[[verilog-hdl-modeling]]**
+	- **competencies**
+		- [[L1-verilog-concepts-and-testbenches]]
+		- [[L1-verilog-hdl-fundamentals]]
+		- [[L2-verilog-design-and-verification]]
+		- [[L3-analyze-verilog-counter-model]]
+	- **microskills**
+		- [[behavioral-modeling-application]]
+		- [[clocking-mechanism-understanding]]
+		- [[dataflow-modeling-application]]
+		- [[gate-level-modeling-application]]
+		- [[modeling-level-differences]]
+		- [[state-transition-analysis]]
+		- [[testbench-development]]
+		- [[testbench-purpose]]
+		- [[verilog-counter-code-examination]]
+		- [[verilog-data-types]]
+		- [[verilog-hdl-building-blocks]]
+		- [[verilog-hdl-concepts]]
+		- [[verilog-hdl-keywords]]
+		- [[verilog-hdl-syntax]]
+		- [[verilog-model-interpretation]]
+		- [[verilog-modeling-levels]]
+		- [[verilog-module-implementation]]
+		- [[verilog-operators]]
+		- [[verilog-simulation-validation]]
+
+%% End Waypoint %%

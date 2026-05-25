@@ -1,0 +1,145 @@
+---
+type: waypoint
+title: text
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# text
+
+%% Begin Waypoint %%
+- **[[linguistic-text-processing]]**
+	- **competencies**
+		- [[L2-apply-and-explain-linguistic-preprocessing]]
+	- **microskills**
+		- [[lemmatization-process-execution]]
+		- [[linguistic-preprocessing-significance]]
+		- [[named-entity-recognition-ner-application]]
+		- [[part-of-speech-tagging-explanation]]
+		- [[tokenization-application]]
+- **[[text-classification]]**
+	- **competencies**
+		- [[L1-explain-text-classification-principles]]
+		- [[L2-implement-naive-bayes-and-deep-learning-classifier]]
+	- **microskills**
+		- [[bert-model-principles]]
+		- [[convolutional-neural-network-cnn-principles]]
+		- [[deep-learning-text-classifier-implementation]]
+		- [[long-short-term-memory-lstm-principles]]
+		- [[naive-bayes-algorithm-principles]]
+		- [[naive-bayes-classifier-implementation]]
+		- [[recurrent-neural-network-rnn-principles]]
+		- [[text-classification-algorithm-application]]
+- **[[text-cleaning-and-normalization]]**
+	- **competencies**
+		- [[L1-define-text-cleaning-concepts]]
+		- [[L1-explain-text-cleaning-processes]]
+		- [[L2-apply-data-cleaning-techniques]]
+	- **microskills**
+		- [[character-normalization-application]]
+		- [[character-normalization-definition]]
+		- [[character-normalization-process-explanation]]
+		- [[data-masking-definition]]
+		- [[html-tag-handling-concepts]]
+		- [[html-tag-removal-implementation]]
+		- [[html-tag-removal-process]]
+		- [[noise-removal-definition]]
+		- [[rationale-for-text-cleaning]]
+		- [[regular-expression-for-text-cleaning]]
+		- [[sensitive-data-masking-implementation]]
+		- [[text-cleaning-terminology]]
+		- [[textual-data-cleaning-execution]]
+		- [[textual-noise-elimination-rationale]]
+- **[[text-clustering]]**
+	- **competencies**
+		- [[L1-explain-text-clustering-concepts-and-distance-metrics]]
+		- [[L2-apply-k-means-clustering]]
+	- **microskills**
+		- [[clustering-text-data-concepts]]
+		- [[cosine-similarity-definition]]
+		- [[distance-function-utilization-in-clustering]]
+		- [[euclidean-distance-definition]]
+		- [[k-means-algorithm-implementation]]
+		- [[similarity-based-text-grouping]]
+		- [[text-data-clustering-execution]]
+		- [[text-document-similarity-calculation]]
+		- [[unsupervised-clustering-principles]]
+- **[[text-feature-engineering]]**
+	- **competencies**
+		- [[L1-define-and-identify-text-representations]]
+		- [[L1-explain-text-representation-principles]]
+		- [[L2-apply-text-feature-engineering-techniques]]
+	- **microskills**
+		- [[bag-of-words-bow-concept]]
+		- [[bag-of-words-implementation]]
+		- [[bag-of-words-principle]]
+		- [[co-occurrence-matrix-generation]]
+		- [[co-occurrence-matrix-identification]]
+		- [[discrete-text-representations]]
+		- [[distributed-text-representations]]
+		- [[document-term-matrix-construction]]
+		- [[glove-application]]
+		- [[glove-principle]]
+		- [[glove-representation-definition]]
+		- [[numerical-text-representation]]
+		- [[one-hot-encoding-application]]
+		- [[one-hot-encoding-definition]]
+		- [[similarity-calculation-via-text-representations]]
+		- [[tf-idf-application]]
+		- [[tf-idf-definition]]
+		- [[tf-idf-principle-explanation]]
+		- [[word2vec-application]]
+		- [[word2vec-cbow-skip-gram-concepts]]
+		- [[word2vec-principle]]
+- **[[text-mining]]**
+	- **competencies**
+		- [[L1-explain-http-request-response-and-core-concepts]]
+		- [[L2-apply-beautifulsoup-for-parsing]]
+	- **microskills**
+		- [[beautifulsoup-library-usage]]
+		- [[client-server-communication-flow]]
+		- [[html-parsing-definition]]
+		- [[html-structure-navigation]]
+		- [[http-request-response-cycle]]
+		- [[specific-data-element-extraction]]
+		- [[web-scraping-concepts]]
+- **[[text-summarization]]**
+	- **competencies**
+		- [[L1-explain-summarization-principles-and-approaches]]
+		- [[L2-implement-text-summarization]]
+	- **microskills**
+		- [[abstractive-summarization-implementation]]
+		- [[abstractive-summarization-principles]]
+		- [[extractive-summarization-principles]]
+		- [[lexrank-algorithm-explanation]]
+		- [[lexrank-summarization-implementation]]
+		- [[neural-encoder-decoder-models-for-summarization]]
+		- [[neural-summarization-model-application]]
+		- [[text-summary-generation]]
+		- [[transformer-models-for-summarization]]
+- **[[text-visualization-and-exploratory-analysis]]**
+	- **competencies**
+		- [[L1-explain-and-identify-visualization-types]]
+		- [[L2-generate-text-visualizations]]
+	- **microskills**
+		- [[bar-chart-for-text-data]]
+		- [[bar-chart-generation-for-text-data]]
+		- [[heatmap-creation-for-text-analysis]]
+		- [[heatmap-interpretation]]
+		- [[network-diagram-application]]
+		- [[network-diagram-construction]]
+		- [[text-data-visualization-implementation]]
+		- [[text-visualization-applications]]
+		- [[word-cloud-characteristics]]
+		- [[word-cloud-generation]]
+- **[[topic-modeling]]**
+	- **competencies**
+		- [[L2-apply-lsa-and-lda-for-theme-discovery]]
+	- **microskills**
+		- [[latent-dirichlet-allocation-lda-application]]
+		- [[latent-semantic-analysis-lsa-application]]
+		- [[theme-discovery-in-text-corpora]]
+		- [[topic-modeling-techniques-application]]
+
+%% End Waypoint %%

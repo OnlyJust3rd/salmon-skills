@@ -1,0 +1,121 @@
+---
+type: waypoint
+title: "Delivery Platforms"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Delivery Platforms
+
+%% Begin Waypoint %%
+- **[[artifact-management]]**
+	- **competencies**
+		- [[L1-explain-build-artifact-and-image-repository-management]]
+	- **microskills**
+		- [[artifact-promotion]]
+		- [[build-artifacts]]
+		- [[image-repositories]]
+		- [[version-tags]]
+- **[[continuous-integration-continuous-deployment]]**
+- **[[gitops]]**
+	- **competencies**
+		- [[L2-implement-and-manage-gitops-workflows]]
+	- **microskills**
+		- [[continuous-deployment-workflows]]
+		- [[declarative-configuration-management]]
+		- [[gitops-principles]]
+		- [[kubernetes-application-deployment-automation]]
+- **[[infrastructure-as-code]]**
+	- **competencies**
+		- [[L1-define-iac]]
+		- [[L1-explain-declarative-automation]]
+		- [[L1-explain-iac-principles]]
+		- [[L1-explain-terraform-blocks]]
+		- [[L1-iac-concepts]]
+		- [[L1-list-iac-tools]]
+		- [[L1-terraform-state-and-idempotency]]
+		- [[L2-apply-iac-principles]]
+		- [[L2-apply-terraform-building-blocks]]
+		- [[L2-apply-yaml-for-kubernetes]]
+		- [[L2-provision-infrastructure-with-bicep]]
+		- [[L2-provision-kubernetes-resource-with-terraform]]
+		- [[L2-terraform-provisioning]]
+		- [[L2-use-data-sources]]
+		- [[L3-contrast-automation-approaches]]
+	- **microskills**
+		- [[ansible]]
+		- [[automated-infrastructure-deployment]]
+		- [[automation-and-orchestration]]
+		- [[automation-approach-comparison]]
+		- [[automation-logic]]
+		- [[azure-bicep-syntax]]
+		- [[benefits-of-iac]]
+		- [[bicep-deployment-commands]]
+		- [[bicep-resource-definition]]
+		- [[chef]]
+		- [[cloud-specific-iac-tools]]
+		- [[consistency-and-repeatability]]
+		- [[declarative-automation-principles]]
+		- [[declarative-automation]]
+		- [[declarative-infrastructure-definition]]
+		- [[desired-state-definition]]
+		- [[dynamic-configuration]]
+		- [[external-information-retrieval]]
+		- [[iac-benefits]]
+		- [[idempotency-enforcement]]
+		- [[idempotency-in-declarative-systems]]
+		- [[idempotency-in-provisioning]]
+		- [[imperative-automation-principles]]
+		- [[imperative-automation]]
+		- [[infrastructure-as-code-best-practices]]
+		- [[infrastructure-as-code-definition]]
+		- [[infrastructure-consistency]]
+		- [[infrastructure-definition-through-code]]
+		- [[infrastructure-orchestration]]
+		- [[infrastructure-provisioning]]
+		- [[infrastructure-resource-provisioning]]
+		- [[kubernetes-api-interaction]]
+		- [[kubernetes-object-configuration]]
+		- [[kubernetes-resource-definition-in-terraform]]
+		- [[kubernetes-resource-manifests]]
+		- [[puppet]]
+		- [[state-management-techniques]]
+		- [[terraform-apply-for-kubernetes]]
+		- [[terraform-commands]]
+		- [[terraform-data-source-configuration]]
+		- [[terraform-kubernetes-provider]]
+		- [[terraform-output-block]]
+		- [[terraform-outputs]]
+		- [[terraform-provider-block]]
+		- [[terraform-providers]]
+		- [[terraform-resource-block]]
+		- [[terraform-resources]]
+		- [[terraform-state-file]]
+		- [[terraform-state-management]]
+		- [[terraform-variable-block]]
+		- [[terraform-variables]]
+		- [[terraform]]
+		- [[use-cases-for-automation-approaches]]
+		- [[use-cases-for-declarative-automation]]
+		- [[version-control-for-infrastructure]]
+		- [[yaml-structure-for-kubernetes]]
+- **[[platform-engineering]]**
+	- **competencies**
+		- [[L2-manage-platform-engineering-projects]]
+	- **microskills**
+		- [[deliverable-management]]
+		- [[it-project-lifecycle]]
+		- [[project-management-methodologies]]
+		- [[project-planning-techniques]]
+		- [[task-tracking-and-management]]
+- **[[secrets-management]]**
+	- **competencies**
+		- [[L1-explain-secrets-management]]
+	- **microskills**
+		- [[runtime-injection]]
+		- [[secret-rotation]]
+		- [[secret-storage]]
+		- [[source-code-separation]]
+
+%% End Waypoint %%

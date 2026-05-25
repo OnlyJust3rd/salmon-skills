@@ -1,0 +1,130 @@
+---
+type: waypoint
+title: "Network Foundations"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Network Foundations
+
+%% Begin Waypoint %%
+- **[[application-layer]]**
+	- **competencies**
+		- [[L1-explain-http-dns-message-formats-flow-and-states]]
+		- [[L1-list-and-define-application-protocols]]
+		- [[L2-demonstrate-http-dns-dependencies]]
+		- [[L3-analyze-http-dns-details]]
+	- **microskills**
+		- [[application-layer-protocols]]
+		- [[application-protocol-operations]]
+		- [[communication-flow]]
+		- [[dns-message-analysis]]
+		- [[dns-message-structure]]
+		- [[http-and-dns-interaction]]
+		- [[http-message-analysis]]
+		- [[http-message-structure]]
+		- [[inter-protocol-dependencies]]
+		- [[network-communication-breakdown]]
+		- [[protocol-identification]]
+		- [[protocol-interdependence]]
+		- [[protocol-purpose]]
+		- [[protocol-state-analysis]]
+		- [[state-transitions]]
+		- [[web-browsing-scenario]]
+- **[[computer-network-architecture]]**
+	- **competencies**
+		- [[L1-explain-network-architecture-and-tcp-ip-layers]]
+	- **microskills**
+		- [[network-layered-models]]
+		- [[protocol-stack-functions]]
+		- [[purpose-of-network-layers]]
+		- [[tcp-ip-model-layers]]
+- **[[data-link-layer]]**
+	- **competencies**
+		- [[L1-error-detection-correction-principles]]
+		- [[L1-ethernet-lan-functionality]]
+		- [[L1-framing-concept]]
+		- [[L1-lan-interconnection-description]]
+		- [[L1-multiple-access-protocol-explanation]]
+		- [[L1-stp-explanation]]
+		- [[L1-vlan-concept-and-benefits]]
+	- **microskills**
+		- [[collision-avoidance-detection]]
+		- [[common-error-control-techniques]]
+		- [[data-integrity-assurance]]
+		- [[data-link-layer-framing]]
+		- [[data-segmentation]]
+		- [[error-correction-mechanisms]]
+		- [[error-detection-mechanisms]]
+		- [[ethernet-local-area-networks]]
+		- [[ethernet-protocol-operations]]
+		- [[frame-structure]]
+		- [[lan-components]]
+		- [[lan-interconnection-methods]]
+		- [[link-layer-data-encapsulation]]
+		- [[link-layer-error-handling]]
+		- [[link-layer-medium-sharing]]
+		- [[logical-network-grouping]]
+		- [[multiple-access-protocols]]
+		- [[network-connectivity]]
+		- [[network-infrastructure-role]]
+		- [[network-loop-prevention]]
+		- [[network-segmentation-and-connection]]
+		- [[network-segmentation-with-vlans]]
+		- [[network-topology-for-interconnection]]
+		- [[redundant-path-management]]
+		- [[root-bridge-election]]
+		- [[shared-channel-access]]
+		- [[spanning-tree-protocol]]
+		- [[stp-components]]
+		- [[virtual-local-area-networks]]
+		- [[vlan-advantages]]
+- **[[physical-layer-protocol]]**
+	- **competencies**
+		- [[L1-explain-multiplexing-efficiency]]
+		- [[L1-guided-vs-unguided-media]]
+		- [[L1-signal-characteristics-and-impairment-impact]]
+	- **microskills**
+		- [[guided-media-characteristics]]
+		- [[impact-on-signal-quality]]
+		- [[media-comparison]]
+		- [[media-use-cases]]
+		- [[multiplexing-techniques]]
+		- [[physical-layer-efficiency]]
+		- [[signal-degradation-factors]]
+		- [[signal-properties]]
+		- [[transmission-impairments]]
+		- [[transmission-media-capacity]]
+		- [[unguided-media-characteristics]]
+- **[[socket-programming]]**
+	- **competencies**
+		- [[L1-describe-socket-model]]
+		- [[L1-identify-socket-functions]]
+		- [[L2-implement-socket-application]]
+	- **microskills**
+		- [[client-server-application-development]]
+		- [[client-server-architecture]]
+		- [[core-socket-operations]]
+		- [[network-application-construction]]
+		- [[network-communication-primitives]]
+		- [[network-interaction-patterns]]
+		- [[protocol-integration]]
+		- [[socket-communication-flow]]
+		- [[socket-programming-implementation]]
+		- [[socket-programming-interfaces]]
+- **[[transport-layer]]**
+	- **competencies**
+		- [[L1-explain-reliable-data-mechanisms]]
+		- [[L3-tcp-vs-udp-for-performance]]
+	- **microskills**
+		- [[data-delivery-assurance]]
+		- [[network-performance-impact]]
+		- [[protocol-use-cases]]
+		- [[reliability-in-networking]]
+		- [[reliability-vs-speed-trade-offs]]
+		- [[reliable-data-transfer-principles]]
+		- [[tcp-characteristics]]
+		- [[udp-characteristics]]
+
+%% End Waypoint %%

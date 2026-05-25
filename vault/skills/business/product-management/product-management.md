@@ -1,0 +1,103 @@
+---
+type: waypoint
+title: "Product Management"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Product Management
+
+%% Begin Waypoint %%
+- **[[competitor-analysis]]**
+	- **competencies**
+		- [[L1-competitive-analysis-purpose]]
+		- [[L1-competitor-types]]
+		- [[L1-describe-competitor-differentiation]]
+		- [[L1-list-competitor-methods]]
+		- [[L1-market-size-purpose]]
+		- [[L1-market-sizing-techniques]]
+		- [[L2-apply-market-sizing]]
+		- [[L3-analyze-competitors-and-alternatives]]
+	- **microskills**
+		- [[alternative-solution-identification]]
+		- [[bottom-up-market-sizing]]
+		- [[business-viability-indicator]]
+		- [[competitive-advantage-analysis]]
+		- [[competitive-landscape-analysis]]
+		- [[competitor-offering-breakdown]]
+		- [[direct-competitors]]
+		- [[indirect-competitors]]
+		- [[industry-analysis-tools]]
+		- [[market-data-estimation]]
+		- [[market-positioning-analysis]]
+		- [[market-research-techniques]]
+		- [[market-size-calculation]]
+		- [[market-understanding]]
+		- [[online-search-strategies]]
+		- [[opportunity-assessment]]
+		- [[opportunity-identification]]
+		- [[product-differentiation-strategies]]
+		- [[risk-assessment]]
+		- [[strategic-planning]]
+		- [[substitute-competitors]]
+		- [[top-down-market-sizing]]
+		- [[value-theory-market-sizing]]
+- **[[feasibility-analysis]]**
+	- **competencies**
+		- [[L1-define-and-explain-financial-metrics]]
+		- [[L1-market-feasibility-factors]]
+		- [[L1-market-size-and-viability]]
+		- [[L2-apply-profitability-and-break-even-analysis]]
+		- [[L3-analyze-risks-and-financial-returns]]
+	- **microskills**
+		- [[break-even-point-calculation]]
+		- [[competitive-intensity]]
+		- [[cost-definition]]
+		- [[financial-data-interpretation]]
+		- [[financial-risk-assessment]]
+		- [[internal-rate-of-return-irr-interpretation]]
+		- [[irr-calculation-and-analysis]]
+		- [[market-accessibility]]
+		- [[market-demand]]
+		- [[market-growth-potential]]
+		- [[market-risk-assessment]]
+		- [[market-size-impact-on-viability]]
+		- [[net-present-value-npv-interpretation]]
+		- [[npv-calculation-and-analysis]]
+		- [[operational-risk-assessment]]
+		- [[profitability-analysis]]
+		- [[revenue-definition]]
+		- [[scalability-assessment]]
+- **[[marketing-strategy]]**
+	- **competencies**
+		- [[L1-4ps-vs-4cs-comparison]]
+		- [[L1-describe-tech-adoption-lifecycle-influence]]
+		- [[L1-list-marketing-mix-elements]]
+		- [[L2-design-basic-marketing-strategy]]
+	- **microskills**
+		- [[4cs-framework]]
+		- [[4ps-framework]]
+		- [[customer-acquisition-strategies]]
+		- [[customer-retention-strategies]]
+		- [[customer-segment-characteristics]]
+		- [[marketing-mix-4cs]]
+		- [[marketing-mix-4ps]]
+		- [[marketing-mix-application]]
+		- [[marketing-mix-differences]]
+		- [[marketing-mix-similarities]]
+		- [[marketing-strategy-adaptation]]
+		- [[technology-adoption-lifecycle-stages]]
+- **[[product-strategy]]**
+	- **competencies**
+		- [[L1-explain-product-discovery-and-roadmapping-concepts]]
+		- [[L2-apply-product-prioritization-techniques]]
+	- **microskills**
+		- [[customer-problem]]
+		- [[opportunity-sizing]]
+		- [[prioritization-criteria]]
+		- [[roadmap-theme]]
+		- [[roadmap-trade-off]]
+		- [[value-proposition]]
+
+%% End Waypoint %%

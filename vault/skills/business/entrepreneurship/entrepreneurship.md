@@ -1,0 +1,118 @@
+---
+type: waypoint
+title: "Entrepreneurship"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Entrepreneurship
+
+%% Begin Waypoint %%
+- **[[business-model-design]]**
+	- **competencies**
+		- [[L1-define-canvas-components]]
+		- [[L1-explain-bm-relationships]]
+		- [[L2-apply-bmc-and-define-unfair-advantage]]
+		- [[L2-lean-canvas-application]]
+	- **microskills**
+		- [[business-component-mapping]]
+		- [[business-element-organization]]
+		- [[business-model-canvas-application]]
+		- [[business-model-canvas-elements]]
+		- [[business-model-communication]]
+		- [[business-model-component-interdependencies]]
+		- [[cost-structure-dependencies]]
+		- [[customer-segment-dynamics]]
+		- [[lean-canvas-construction]]
+		- [[lean-canvas-elements]]
+		- [[revenue-stream-interactions]]
+		- [[startup-hypothesis-articulation]]
+		- [[unfair-advantage-definition]]
+		- [[value-proposition-understanding]]
+- **[[lean-startup]]**
+	- **competencies**
+		- [[L1-adaptability-in-lean-startup]]
+		- [[L1-define-lean-startup-and-bml-principles]]
+		- [[L1-explain-bml-cycle-and-idea-validation]]
+		- [[L1-explain-customer-discovery-interviews]]
+		- [[L1-explain-early-adopters]]
+		- [[L1-explain-validation-contribution-of-solution-interviews-testing]]
+		- [[L1-identify-bml-stage-for-solution-validation]]
+		- [[L1-identify-bml-stages-and-components]]
+		- [[L2-apply-bml-to-poc-mvp-development]]
+		- [[L2-apply-build-measure-learn-cycle]]
+		- [[L2-conduct-problem-interviews]]
+	- **microskills**
+		- [[assumption-validation]]
+		- [[bml-cycle-components]]
+		- [[bml-cycle-significance]]
+		- [[bml-cycle-stages]]
+		- [[bml-for-feature-prioritization]]
+		- [[build-measure-learn-cycle]]
+		- [[business-idea-refinement]]
+		- [[customer-feedback-integration]]
+		- [[customer-insight-adaptation]]
+		- [[customer-interview-purpose]]
+		- [[customer-needs-understanding]]
+		- [[customer-pain-point-identification]]
+		- [[early-adopter-characteristics]]
+		- [[early-adopter-identification]]
+		- [[early-adopter-motivations]]
+		- [[hypothesis-testing-application]]
+		- [[idea-validation-principles]]
+		- [[iterative-strategy-adjustment]]
+		- [[iterative-validation-process]]
+		- [[lean-startup-hypothesis-validation]]
+		- [[lean-startup-principles]]
+		- [[mvp-feature-decision-making]]
+		- [[poc-development-guidance]]
+		- [[problem-interview-techniques]]
+		- [[problem-validation-process]]
+		- [[product-development-iteration]]
+		- [[solution-interview-validation-role]]
+		- [[solution-validation-stage]]
+		- [[startup-terminology]]
+		- [[usability-testing-validation-role]]
+- **[[mvp-design-and-prototyping]]**
+	- **competencies**
+		- [[L1-describe-mvp-iteration-from-feedback]]
+		- [[L1-explain-poc-and-feature-role-in-validation]]
+		- [[L1-identify-mvp-components-and-characteristics]]
+		- [[L2-design-and-implement-mvp-with-prioritized-features]]
+	- **microskills**
+		- [[essential-feature-rationale]]
+		- [[essential-mvp-features]]
+		- [[feature-prioritization-criteria]]
+		- [[feedback-driven-iteration]]
+		- [[minimum-viable-product-core]]
+		- [[mvp-construction]]
+		- [[mvp-definition]]
+		- [[mvp-design-principles]]
+		- [[mvp-improvement-cycle]]
+		- [[proof-of-concept-purpose]]
+		- [[solution-validation-mechanisms]]
+		- [[user-insight-integration]]
+		- [[user-value-assessment]]
+- **[[startup-communication]]**
+	- **competencies**
+		- [[L1-pitch-deck-components]]
+		- [[L1-tailored-communication]]
+		- [[L2-pitching-techniques]]
+	- **microskills**
+		- [[audience-engagement-strategies]]
+		- [[business-model]]
+		- [[concise-presentation-skills]]
+		- [[customer-communication]]
+		- [[investor-communication]]
+		- [[market-analysis]]
+		- [[messaging-adaptation]]
+		- [[problem-statement]]
+		- [[solution-overview]]
+		- [[stakeholder-audience-analysis]]
+		- [[storytelling-for-startups]]
+		- [[team-communication]]
+		- [[team-introduction]]
+		- [[value-proposition-articulation]]
+
+%% End Waypoint %%

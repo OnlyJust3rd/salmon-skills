@@ -1,0 +1,106 @@
+---
+type: waypoint
+title: "Robotics Iot"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Robotics Iot
+
+%% Begin Waypoint %%
+- **[[evolutional-robotics]]**
+	- **competencies**
+		- [[L1-explain-model-transition-and-anticipation]]
+		- [[L1-list-model-transition-factors]]
+		- [[L2-implement-adaptation-strategies-for-deployment]]
+	- **microskills**
+		- [[adaptation-of-simulated-models]]
+		- [[challenges-in-model-transition]]
+		- [[challenges-in-robot-model-transition]]
+		- [[considerations-for-real-world-deployment]]
+		- [[deployment-challenge-mitigation]]
+		- [[key-principles-of-evolutionary-robotics]]
+		- [[overcoming-deployment-discrepancies]]
+		- [[principles-of-evolutionary-robotics]]
+		- [[role-of-anticipation-in-model-transition]]
+		- [[simulation-to-physical-robot-transition-factors]]
+		- [[simulation-to-real-world-model-adaptation]]
+		- [[simulation-to-real-world-robot-transition]]
+- **[[mobile-robot-navigation]]**
+	- **competencies**
+		- [[L1-describe-path-planning-implementation]]
+		- [[L1-navigation-algorithms-hardware-definition]]
+		- [[L2-implement-simbot-navigation]]
+	- **microskills**
+		- [[basic-navigation-strategy-implementation]]
+		- [[environmental-navigation-definition]]
+		- [[hardware-component-role-in-path-planning]]
+		- [[mobile-robot-navigation-hardware-implementations]]
+		- [[mobile-robot-navigation-software-algorithms]]
+		- [[mobile-robot-navigation-strategy-explanation]]
+		- [[navigation-principle-application]]
+		- [[path-planning-process-for-mobile-robots]]
+		- [[purpose-of-path-planning]]
+		- [[robotic-movement-in-maze-environments]]
+		- [[simbot-maze-traversal-programming]]
+		- [[software-algorithm-role-in-path-planning]]
+- **[[robotic-system]]**
+	- **competencies**
+		- [[L1-describe-robot-locomotion-manipulation]]
+		- [[L1-list-robotic-components]]
+		- [[L2-assemble-program-and-implement-simple-robotic-system]]
+	- **microskills**
+		- [[hardware-software-integration-for-robotics]]
+		- [[locomotion-and-manipulation-concepts]]
+		- [[motor-components]]
+		- [[robot-interaction-principles]]
+		- [[robot-movement-principles]]
+		- [[robotic-system-assembly]]
+		- [[robotic-system-programming]]
+		- [[standard-robotic-components]]
+		- [[task-oriented-robotic-implementation]]
+		- [[wheeled-components]]
+- **[[robotics]]**
+	- **competencies**
+		- [[L1-define-fundamental-robotics-concepts]]
+		- [[L1-explain-ai-behavior-based-paradigms]]
+		- [[L1-explain-reactive-control-principles-and-trade-offs]]
+		- [[L1-identify-reactive-control-paradigms-and-examples]]
+		- [[L2-apply-reactive-control-principles]]
+		- [[L2-apply-subsumption-architecture]]
+		- [[L2-fuzzy-logic-maze-traversal]]
+		- [[L3-analyze-and-differentiate-ai-behavior-paradigms]]
+	- **microskills**
+		- [[ai-behavior-paradigm-comparison]]
+		- [[ai-paradigm-fundamentals]]
+		- [[applied-reactive-control-concepts]]
+		- [[autonomous-maze-traversal-simulation]]
+		- [[behavior-based-ai-principles]]
+		- [[brooks-ai-contributions]]
+		- [[core-robotics-terminology]]
+		- [[evolution-of-robotic-behaviors]]
+		- [[examples-of-reactive-control]]
+		- [[fundamental-principles-of-robotics]]
+		- [[fuzzy-logic-control-principles-application]]
+		- [[fuzzy-logic-controller-design]]
+		- [[intelligence-without-representation]]
+		- [[intelligent-robotic-behavior-generation]]
+		- [[internal-world-models-vs-brooks-approach]]
+		- [[introductory-robotics-themes]]
+		- [[methodologies-for-robotic-intelligence]]
+		- [[problem-solving-with-reactive-control]]
+		- [[reactive-control-advantages]]
+		- [[reactive-control-application-to-obstacle-avoidance]]
+		- [[reactive-control-characteristics]]
+		- [[reactive-control-disadvantages]]
+		- [[reactive-control-for-deployment-challenges]]
+		- [[reactive-control-logic]]
+		- [[reactive-control-paradigms]]
+		- [[robotic-control-structures-via-subsumption]]
+		- [[robotic-system-simulation-with-fuzzy-logic]]
+		- [[robotic-task-solutions-via-reactive-control]]
+		- [[strengths-and-weaknesses-of-ai-paradigms]]
+		- [[subsumption-architecture-implementation]]
+
+%% End Waypoint %%

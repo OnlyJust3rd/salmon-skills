@@ -1,0 +1,196 @@
+---
+type: waypoint
+title: "Computer Architecture"
+tags:
+  - waypoint
+icon: LiWaypoints
+---
+
+# Computer Architecture
+
+%% Begin Waypoint %%
+- **[[computer-arithmetic]]**
+	- **competencies**
+		- [[L1-explain-arithmetic-algorithms]]
+		- [[L2-apply-arithmetic-algorithms]]
+		- [[L3-analyze-arithmetic-trade-offs]]
+	- **microskills**
+		- [[adder-architectures-overview]]
+		- [[adder-trade-off-analysis]]
+		- [[algorithm-step-execution]]
+		- [[division-algorithms-overview]]
+		- [[multiplication-algorithms-overview]]
+		- [[multiplier-divider-trade-off-analysis]]
+		- [[overflow-detection]]
+- **[[control-unit-design]]**
+	- **competencies**
+		- [[L1-explain-control-unit-approaches]]
+		- [[L3-analyze-control-sequences]]
+		- [[L3-evaluate-control-trade-offs]]
+	- **microskills**
+		- [[control-signal-derivation]]
+		- [[control-unit-trade-off-reasoning]]
+		- [[hardwired-control-concept]]
+		- [[microinstruction-mapping]]
+		- [[microinstruction-sequencing]]
+		- [[microprogrammed-control-concept]]
+- **[[machine-instruction]]**
+	- **competencies**
+		- [[L1-instruction-execution-understanding]]
+		- [[L1-instruction-types]]
+		- [[L2-apply-and-evaluate-assembly-programs]]
+		- [[L2-control-logic-implementation]]
+		- [[L3-analyze-architectures]]
+	- **microskills**
+		- [[addressing-mode-differentiation]]
+		- [[addressing-modes-application]]
+		- [[assembly-language-program-assessment]]
+		- [[assembly-language-program-construction]]
+		- [[datapath-control]]
+		- [[instruction-control-logic]]
+		- [[instruction-execution-sequence]]
+		- [[instruction-execution-stages]]
+		- [[instruction-sequencing-application]]
+		- [[machine-instruction-categorization]]
+		- [[machine-instruction-sequencing-analysis]]
+		- [[operational-principles-of-instruction-execution]]
+		- [[register-transfer-notation-analysis]]
+		- [[register-transfer-notation-application]]
+		- [[risc-vs-cisc-architectures]]
+- **[[memory-hierarchy]]**
+	- **competencies**
+		- [[L1-memory-hierarchy-components]]
+		- [[L1-virtual-memory-principles]]
+		- [[L2-cache-performance-calculation]]
+		- [[L3-analyze-cache-organization]]
+		- [[L3-evaluate-memory-trade-offs]]
+	- **microskills**
+		- [[average-memory-access-time-calculation]]
+		- [[cache-hit-rate-calculation]]
+		- [[cache-mapping-and-associativity]]
+		- [[cache-memory-concepts]]
+		- [[cache-miss-rate-calculation]]
+		- [[cache-performance-metrics]]
+		- [[cache-replacement-policies]]
+		- [[cache-write-policies]]
+		- [[cost-performance-justification]]
+		- [[interleaved-memory]]
+		- [[main-memory-concepts]]
+		- [[memory-hierarchy-definitions]]
+		- [[page-table-functionality]]
+		- [[registers-in-memory-hierarchy]]
+		- [[secondary-storage-concepts]]
+		- [[translation-lookaside-buffer-tlb-functionality]]
+		- [[virtual-memory-mapping-principles]]
+		- [[workload-locality-reasoning]]
+- **[[number-representation]]**
+	- **competencies**
+		- [[L1-explain-number-representation-and-computer-arithmetic]]
+		- [[L2-apply-number-representation-in-arithmetic]]
+	- **microskills**
+		- [[application-of-number-formats]]
+		- [[binary-arithmetic-application]]
+		- [[binary-arithmetic-operations]]
+		- [[computer-arithmetic-principles]]
+		- [[execution-of-computer-arithmetic]]
+		- [[number-representation-formats]]
+		- [[sign-magnitude-representation]]
+		- [[two-s-complement-representation]]
+- **[[pipelined-architecture]]**
+	- **competencies**
+		- [[L1-pipelining-concept-and-stages]]
+		- [[L2-pipeline-execution-steps]]
+		- [[L3-evaluate-hazard-mitigation]]
+		- [[L3-pipeline-hazard-identification]]
+		- [[L3-pipelined-speed-impact]]
+	- **microskills**
+		- [[branch-prediction-basics]]
+		- [[comparison-with-non-pipelined-architectures]]
+		- [[control-hazard-identification]]
+		- [[cpi-impact-estimation]]
+		- [[data-hazard-identification]]
+		- [[instruction-sequence-pipelining]]
+		- [[operand-forwarding-reasoning]]
+		- [[pipeline-stall-reasoning]]
+		- [[pipelined-architecture-performance]]
+		- [[pipelined-execution-simulation]]
+		- [[pipelined-execution-stages]]
+		- [[pipelining-benefits-for-execution-speed]]
+		- [[pipelining-principles]]
+		- [[structural-hazard-identification]]
+- **[[processor-architecture]]**
+	- **competencies**
+		- [[L1-define-architectures]]
+		- [[L1-explain-uma-numa]]
+		- [[L2-identify-and-illustrate-architectures]]
+		- [[L3-analyze-mpp-cluster-vector]]
+		- [[L3-analyze-specialized-processors]]
+	- **microskills**
+		- [[cluster-computing-identification]]
+		- [[cluster-computing-operational-analysis]]
+		- [[cluster-computing-structural-analysis]]
+		- [[cpu-vs-gpu-workload-fit]]
+		- [[dsp-workload-fit]]
+		- [[heterogeneous-processor-architecture-definition]]
+		- [[homogeneous-processor-architecture-definition]]
+		- [[massively-parallel-processing-mpp-system-identification]]
+		- [[mpp-system-operational-analysis]]
+		- [[mpp-system-structural-analysis]]
+		- [[mpp-vs-cluster-vs-vector-processor-differentiation]]
+		- [[multi-core-processor-system-identification]]
+		- [[non-uniform-memory-access-numa-principles]]
+		- [[specialized-vector-processor-identification]]
+		- [[specialized-vector-processor-operational-analysis]]
+		- [[specialized-vector-processor-structural-analysis]]
+		- [[symmetric-multiprocessing-smp-identification]]
+		- [[uniform-memory-access-uma-principles]]
+		- [[vector-processor-workload-fit]]
+- **[[processor-datapath]]**
+	- **competencies**
+		- [[L1-datapath-components-definition]]
+		- [[L1-datapath-organization-and-data-flow]]
+		- [[L2-instruction-execution-tracing]]
+		- [[L3-compare-bus-protocols]]
+	- **microskills**
+		- [[alu-definition]]
+		- [[asynchronous-bus-protocol-analysis]]
+		- [[asynchronous-communication-principles]]
+		- [[bus-definition]]
+		- [[bus-protocol-advantages-and-disadvantages]]
+		- [[datapath-operation-tracing]]
+		- [[instruction-execution-step-tracing]]
+		- [[multi-bus-datapath-organization]]
+		- [[processor-datapath-components]]
+		- [[processor-datapath-data-flow]]
+		- [[register-definition]]
+		- [[single-bus-datapath-organization]]
+		- [[synchronous-bus-protocol-analysis]]
+		- [[synchronous-communication-principles]]
+- **[[processor-design]]**
+	- **competencies**
+		- [[L1-processor-components-definition]]
+		- [[L1-processor-operational-flow]]
+		- [[L2-emulator-processor-implementation]]
+		- [[L3-processor-design-performance-analysis]]
+		- [[L3-simple-processor-evaluation]]
+		- [[L4-novel-processor-and-interfacing-design]]
+	- **microskills**
+		- [[control-logic-design-impact-on-performance]]
+		- [[control-unit-definition]]
+		- [[datapath-design-impact-on-performance]]
+		- [[effectiveness-evaluation]]
+		- [[emulator-tool-utilization]]
+		- [[fundamental-processor-components]]
+		- [[instruction-decode-process]]
+		- [[instruction-execute-process]]
+		- [[instruction-fetch-process]]
+		- [[integrated-i-o-interfacing-design]]
+		- [[interfacing-capability-evaluation]]
+		- [[novel-processor-creation]]
+		- [[original-processor-architecture-design]]
+		- [[performance-metric-assessment]]
+		- [[processor-design-translation]]
+		- [[processor-performance-metric-evaluation]]
+		- [[processor-workflow-during-execution]]
+
+%% End Waypoint %%
