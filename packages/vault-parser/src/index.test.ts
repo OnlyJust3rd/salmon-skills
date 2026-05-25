@@ -543,7 +543,7 @@ test('validateGraph reports invalid skill folder structure', () => {
   assert.ok(result.errors.some((issue) => issue.code === 'INVALID_COMPETENCY_LOCATION'))
 })
 
-test('validateGraph reports invalid medium folder structure', () => {
+test('validateGraph accepts optional medium source folder structure', () => {
   const graph = parseVaultEntries([
     {
       path: 'mediums/youtube/example.md',
@@ -558,8 +558,7 @@ test('validateGraph reports invalid medium folder structure', () => {
 
   const result = validateGraph(graph)
 
-  assert.equal(result.valid, false)
-  assert.ok(result.errors.some((issue) => issue.code === 'INVALID_LOCATION'))
+  assert.equal(result.valid, true)
 })
 
 test('validateGraph reports unresolved wikilinks', () => {
