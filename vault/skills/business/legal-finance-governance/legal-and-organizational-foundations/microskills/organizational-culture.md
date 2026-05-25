@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Shared values and beliefs within an organization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

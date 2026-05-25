@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating poles, zeros, and ROC for transfer functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

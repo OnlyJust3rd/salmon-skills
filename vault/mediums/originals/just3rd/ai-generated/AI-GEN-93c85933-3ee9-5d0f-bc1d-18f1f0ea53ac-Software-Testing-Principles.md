@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-testing-principles|software-testing-principles]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-testing-principles|software-testing-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Software Testing Principles

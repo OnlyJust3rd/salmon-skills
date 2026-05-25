@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/component-placement-and-wiring|component-placement-and-wiring]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/component-placement-and-wiring|component-placement-and-wiring]]"
 learning-time-in-minutes: 5
 ---
 # Placing Components and Wiring in Tinkercad

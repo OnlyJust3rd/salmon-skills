@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of passive RL filter circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

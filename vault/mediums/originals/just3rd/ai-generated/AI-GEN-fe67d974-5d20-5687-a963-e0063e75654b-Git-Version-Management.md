@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-version-management|git-version-management]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-version-management|git-version-management]]"
 learning-time-in-minutes: 5
 ---
 # Git Version Management: Tracking Your Code's History

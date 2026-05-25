@@ -43,3 +43,6 @@ Explain how bitwise operations manipulate individual register bits and why the v
 - [[bit-masking-explanation|Bit Masking Explanation]]
 - [[volatile-semantics|Volatile Semantics]]
 - [[read-modify-write-pattern|Read-Modify-Write Pattern]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

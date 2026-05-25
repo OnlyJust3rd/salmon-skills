@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing appropriate algorithmic strategies for a problem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how operations affect FS/DTFS coefficients.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Implement linear and hierarchical data structures in Java with appropriate opera
 - [[skills/computing/programming/programming-languages/java-programming/microskills/java-linear-data-structures|Java Linear Data Structures]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/java-hierarchical-data-structures|Java Hierarchical Data Structures]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/algorithm-structure-integration|Algorithm-Structure Integration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

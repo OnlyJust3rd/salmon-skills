@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding grouped access responsibilities assigned to identities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

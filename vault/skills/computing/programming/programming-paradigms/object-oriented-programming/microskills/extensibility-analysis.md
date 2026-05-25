@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating how design choices affect system extensibility.
+## Related Mediums
+
+![[bases/related-mediums.base]]

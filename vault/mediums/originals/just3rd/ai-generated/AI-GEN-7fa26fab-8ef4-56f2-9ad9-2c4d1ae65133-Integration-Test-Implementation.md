@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/integration-test-implementation|integration-test-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/integration-test-implementation|integration-test-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Integration Tests with JUnit

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/model-comparison|model-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/model-comparison|model-comparison]]"
 learning-time-in-minutes: 5
 ---
 # Model Comparison: Choosing the Right Tool for the Job

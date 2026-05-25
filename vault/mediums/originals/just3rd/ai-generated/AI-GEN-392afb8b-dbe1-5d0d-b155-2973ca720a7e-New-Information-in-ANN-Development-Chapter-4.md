@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[new-information-in-ann-development-chapter-4|new-information-in-ann-development-chapter-4]]"
+learning-outcomes:
+  - "[[new-information-in-ann-development-chapter-4|new-information-in-ann-development-chapter-4]]"
 learning-time-in-minutes: 3
 ---
 # Understanding New Information in ANN Development (Chapter 4)

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[similarity-calculation-via-text-representations|similarity-calculation-via-text-representations]]"
+learning-outcomes:
+  - "[[similarity-calculation-via-text-representations|similarity-calculation-via-text-representations]]"
 learning-time-in-minutes: 5
 ---
 # Calculating Text Similarity Using Numerical Representations

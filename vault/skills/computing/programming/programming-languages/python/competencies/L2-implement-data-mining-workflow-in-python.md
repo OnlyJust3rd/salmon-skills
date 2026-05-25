@@ -43,3 +43,6 @@ Use Python to implement key steps of a CRISP-DM style data mining project, from 
 
 - [[skills/computing/programming/programming-languages/python/microskills/implement-data-mining-workflow-in-python-workflow-steps|Implement Data Mining Workflow in Python workflow steps]]
 - [[skills/computing/programming/programming-languages/python/microskills/implement-data-mining-workflow-in-python-code-implementation|Implement Data Mining Workflow in Python code implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

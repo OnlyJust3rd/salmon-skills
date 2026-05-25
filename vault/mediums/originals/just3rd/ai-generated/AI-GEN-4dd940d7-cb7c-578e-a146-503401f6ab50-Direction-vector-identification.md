@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/direction-vector-identification|direction-vector-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/direction-vector-identification|direction-vector-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Direction Vectors in 3D Geometric Equations

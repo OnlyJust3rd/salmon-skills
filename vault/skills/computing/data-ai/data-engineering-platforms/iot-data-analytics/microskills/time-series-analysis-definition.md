@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the definition of time-series analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/solution-identification|solution-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/solution-identification|solution-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Solutions in Linear Systems: The End Goal of Gaussian Elimination

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-machine-learning-in-python-workflow-steps|implement-machine-learning-in-python-workflow-steps]]"
+learning-outcomes:
+  - "[[implement-machine-learning-in-python-workflow-steps|implement-machine-learning-in-python-workflow-steps]]"
 learning-time-in-minutes: 3
 ---
 # Implementing a Python Machine Learning Workflow

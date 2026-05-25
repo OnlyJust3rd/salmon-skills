@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/virtual-machine-scale-sets-vmss|virtual-machine-scale-sets-vmss]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/virtual-machine-scale-sets-vmss|virtual-machine-scale-sets-vmss]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Virtual Machine Scale Sets (VMSS)

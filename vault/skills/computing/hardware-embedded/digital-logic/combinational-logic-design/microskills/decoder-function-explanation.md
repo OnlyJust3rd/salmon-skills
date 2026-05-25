@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how decoders map encoded inputs to outputs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

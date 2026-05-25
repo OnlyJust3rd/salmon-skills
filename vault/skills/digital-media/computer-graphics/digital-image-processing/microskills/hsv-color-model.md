@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the Hue, Saturation, Value color model.
+## Related Mediums
+
+![[bases/related-mediums.base]]

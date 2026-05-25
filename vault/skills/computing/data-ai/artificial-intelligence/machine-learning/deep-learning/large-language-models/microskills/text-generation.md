@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding probabilistic continuation of language.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Designing dashboards based on specific provided requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

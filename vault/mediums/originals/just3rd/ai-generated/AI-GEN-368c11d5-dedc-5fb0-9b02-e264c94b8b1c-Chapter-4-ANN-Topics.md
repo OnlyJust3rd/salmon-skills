@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[chapter-4-ann-topics|chapter-4-ann-topics]]"
+learning-outcomes:
+  - "[[chapter-4-ann-topics|chapter-4-ann-topics]]"
 learning-time-in-minutes: 2
 ---
 # Chapter 4 ANN Topics: Key Concepts

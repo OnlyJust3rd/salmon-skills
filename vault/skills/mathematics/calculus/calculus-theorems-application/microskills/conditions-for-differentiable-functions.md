@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the necessary criteria for a function to be considered differentiable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

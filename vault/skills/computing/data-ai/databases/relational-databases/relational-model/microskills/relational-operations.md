@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Reasoning about projection, selection, join, and set operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

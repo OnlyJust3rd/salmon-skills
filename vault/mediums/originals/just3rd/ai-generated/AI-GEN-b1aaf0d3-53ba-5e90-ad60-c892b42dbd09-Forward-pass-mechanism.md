@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[forward-pass-mechanism|forward-pass-mechanism]]"
+learning-outcomes:
+  - "[[forward-pass-mechanism|forward-pass-mechanism]]"
 learning-time-in-minutes: 4
 ---
 # The Forward Pass: How Neural Networks "See" Data

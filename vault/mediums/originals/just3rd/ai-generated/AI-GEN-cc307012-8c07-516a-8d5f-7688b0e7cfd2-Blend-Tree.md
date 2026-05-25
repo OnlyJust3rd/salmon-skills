@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-animation/microskills/blend-tree|blend-tree]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-animation/microskills/blend-tree|blend-tree]]"
 learning-time-in-minutes: 5
 ---
 # Blend Trees: Smoothly Merging Animations

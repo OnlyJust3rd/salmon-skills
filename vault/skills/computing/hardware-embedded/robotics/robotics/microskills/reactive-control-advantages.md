@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the benefits of using reactive control in robotics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

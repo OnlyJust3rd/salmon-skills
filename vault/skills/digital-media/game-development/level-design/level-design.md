@@ -36,3 +36,6 @@ Construct interactive game levels by designing spatial layouts, gameplay progres
 - [[skills/digital-media/game-development/level-design/microskills/fundamental-level-components|Fundamental Level Components]]
 - [[skills/digital-media/game-development/level-design/microskills/navigation-and-pacing-influence|Navigation and Pacing Influence]]
 - [[skills/digital-media/game-development/level-design/microskills/spatial-arrangement-principles|Spatial Arrangement Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

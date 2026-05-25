@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how various techniques contribute to efficient video compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

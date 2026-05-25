@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[file-permissions-concepts|file-permissions-concepts]]"
+learning-outcomes:
+  - "[[file-permissions-concepts|file-permissions-concepts]]"
 learning-time-in-minutes: 3
 ---
 # File Permissions in Linux: Who Can Do What?

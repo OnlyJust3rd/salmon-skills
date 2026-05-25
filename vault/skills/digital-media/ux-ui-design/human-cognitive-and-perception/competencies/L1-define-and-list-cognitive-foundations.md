@@ -45,3 +45,6 @@ Define and list key human cognitive processes and sensory inputs relevant to HCI
 - [[sensory-inputs|Sensory Inputs]]
 - [[memory-and-attention|Memory and Attention]]
 - [[sensory-processing|Sensory Processing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

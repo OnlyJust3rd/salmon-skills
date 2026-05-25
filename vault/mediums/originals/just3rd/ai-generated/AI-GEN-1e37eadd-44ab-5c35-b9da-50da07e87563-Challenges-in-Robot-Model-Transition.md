@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[challenges-in-robot-model-transition|challenges-in-robot-model-transition]]"
+learning-outcomes:
+  - "[[challenges-in-robot-model-transition|challenges-in-robot-model-transition]]"
 learning-time-in-minutes: 4
 ---
 # Challenges in Robot Model Transition

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying learned image compression methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

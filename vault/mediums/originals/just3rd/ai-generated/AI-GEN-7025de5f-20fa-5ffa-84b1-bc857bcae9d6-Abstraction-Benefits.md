@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-benefits|abstraction-benefits]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-benefits|abstraction-benefits]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Benefits of Abstraction in Software Design

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the number of rows and columns in a matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

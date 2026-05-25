@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/image-segment-transformation|image-segment-transformation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/image-segment-transformation|image-segment-transformation]]"
 learning-time-in-minutes: 4
 ---
 # Applying the Discrete Cosine Transform (DCT) to Image Segments

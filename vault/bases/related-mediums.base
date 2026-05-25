@@ -1,0 +1,47 @@
+filters:
+  and:
+    - 'type == "medium"'
+    - 'file.path.startsWith("mediums")'
+properties:
+  file.name:
+    displayName: Medium
+  title:
+    displayName: Title
+  contributor:
+    displayName: Contributor
+  learning-time-in-minutes:
+    displayName: Minutes
+  learning-outcomes:
+    displayName: Learning Outcomes
+  related-skills:
+    displayName: Related Skills
+views:
+  - type: cards
+    name: Related Mediums
+    filters:
+      or:
+        - 'learning-outcomes.contains(this)'
+        - 'related-skills.contains(this)'
+    order:
+      - title
+      - tags
+      - learning-time-in-minutes
+    sort:
+      - property: learning-time-in-minutes
+        direction: ASC
+    indentProperties: true
+    markers: bullet
+    cardSize: 240
+    imageAspectRatio: 0.8
+  - type: table
+    name: Global Mediums
+    order:
+      - file.name
+      - title
+      - learning-time-in-minutes
+      - contributor
+      - learning-outcomes
+      - related-skills
+    sort:
+      - property: learning-time-in-minutes
+        direction: ASC

@@ -43,3 +43,6 @@ Explain the geometric interpretation of orthogonal vectors and vector projection
 - [[orthogonal-vector-geometric-meaning|Orthogonal vector geometric meaning]]
 - [[vector-projection-interpretation|Vector projection interpretation]]
 - [[projection-onto-subspace-concept|Projection onto subspace concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

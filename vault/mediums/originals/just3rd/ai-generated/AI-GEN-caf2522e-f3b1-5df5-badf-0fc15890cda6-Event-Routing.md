@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/event-routing|event-routing]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/event-routing|event-routing]]"
 learning-time-in-minutes: 5
 ---
 # Event Routing in Event-Driven Architectures

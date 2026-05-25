@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Performing routine actions to keep endpoints usable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

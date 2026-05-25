@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of how data is transmitted between components in embedded IoT systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

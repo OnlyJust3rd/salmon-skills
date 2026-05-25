@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying SVD for feature reduction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

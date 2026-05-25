@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to calculate the a0 Fourier coefficient.
+## Related Mediums
+
+![[bases/related-mediums.base]]

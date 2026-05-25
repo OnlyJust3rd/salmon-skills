@@ -45,3 +45,6 @@ Describe how linearity and time-invariance affect system behavior.
 - [[time-invariance-impact-on-system-behavior|Time-Invariance Impact on System Behavior]]
 - [[impulse-response-significance-in-lti-systems|Impulse Response Significance in LTI Systems]]
 - [[simplified-system-analysis-with-lti-properties|Simplified System Analysis with LTI Properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

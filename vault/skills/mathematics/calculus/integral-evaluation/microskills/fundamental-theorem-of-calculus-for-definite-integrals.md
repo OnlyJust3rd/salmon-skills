@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how the FTC is used to calculate the values of definite integrals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

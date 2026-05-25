@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/semi-structured-query|semi-structured-query]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/semi-structured-query|semi-structured-query]]"
 learning-time-in-minutes: 3
 ---
 # Querying Semi-Structured Data in Snowflake

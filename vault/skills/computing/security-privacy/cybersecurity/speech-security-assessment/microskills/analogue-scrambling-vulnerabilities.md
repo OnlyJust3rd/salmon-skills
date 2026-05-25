@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of inherent vulnerabilities of analogue scrambling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

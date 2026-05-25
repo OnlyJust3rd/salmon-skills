@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-replacement-policies|cache-replacement-policies]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-replacement-policies|cache-replacement-policies]]"
 learning-time-in-minutes: 5
 ---
 # Cache Replacement Policies: Keeping Your Cache Smart

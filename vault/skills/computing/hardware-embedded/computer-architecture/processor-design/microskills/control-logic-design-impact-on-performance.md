@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how control logic choices affect processor efficiency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

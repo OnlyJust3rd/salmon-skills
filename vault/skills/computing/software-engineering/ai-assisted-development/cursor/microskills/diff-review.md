@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Inspecting editor-presented changes before accepting them.
+## Related Mediums
+
+![[bases/related-mediums.base]]

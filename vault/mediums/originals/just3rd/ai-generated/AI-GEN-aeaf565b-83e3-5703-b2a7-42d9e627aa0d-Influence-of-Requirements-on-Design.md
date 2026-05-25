@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/system-design/microskills/influence-of-requirements-on-design|influence-of-requirements-on-design]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/system-design/microskills/influence-of-requirements-on-design|influence-of-requirements-on-design]]"
 learning-time-in-minutes: 4
 ---
 # How Requirements Shape System Design

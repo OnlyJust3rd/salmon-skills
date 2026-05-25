@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/transformation|transformation]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/transformation|transformation]]"
 learning-time-in-minutes: 4
 ---
 # Data Transformation: Reshaping Your Data

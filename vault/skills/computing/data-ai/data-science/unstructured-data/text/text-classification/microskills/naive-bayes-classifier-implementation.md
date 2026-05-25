@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of the Naïve Bayes algorithm for text classification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

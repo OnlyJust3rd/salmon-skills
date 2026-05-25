@@ -47,3 +47,6 @@ Explain game loop, scene, and component architecture.
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/game-loop|Game Loop]]
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/scene-graph|Scene Graph]]
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/component|Component]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recalling specific attributes that define serverless functions and architectures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

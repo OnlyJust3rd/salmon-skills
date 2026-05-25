@@ -47,3 +47,6 @@ Explain routing and switching concepts.
 - [[frame-forwarding|Frame Forwarding]]
 - [[packet-forwarding|Packet Forwarding]]
 - [[skills/computing/systems-infrastructure/computer-network/network-layers/routing-and-switching/microskills/network-segmentation|Network Segmentation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

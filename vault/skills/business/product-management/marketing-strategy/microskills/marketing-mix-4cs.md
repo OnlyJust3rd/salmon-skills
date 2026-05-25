@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Components of Customer, Cost, Convenience, Communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

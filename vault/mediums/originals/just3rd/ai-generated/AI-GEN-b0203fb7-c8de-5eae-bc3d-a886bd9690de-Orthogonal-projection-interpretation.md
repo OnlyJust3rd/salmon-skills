@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/orthogonal-projection-interpretation|orthogonal-projection-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/orthogonal-projection-interpretation|orthogonal-projection-interpretation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Orthogonal Projections

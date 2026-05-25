@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[word2vec-application|word2vec-application]]"
+learning-outcomes:
+  - "[[word2vec-application|word2vec-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Word2Vec for Text Embeddings

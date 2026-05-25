@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Choosing keys, constraints, and validation rules that protect data quality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of methods like CRC and parity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[glove-principle|glove-principle]]"
+learning-outcomes:
+  - "[[glove-principle|glove-principle]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the GloVe Principle

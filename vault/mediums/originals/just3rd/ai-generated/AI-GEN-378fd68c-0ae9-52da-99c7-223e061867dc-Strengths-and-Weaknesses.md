@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[strengths-and-weaknesses|strengths-and-weaknesses]]"
+learning-outcomes:
+  - "[[strengths-and-weaknesses|strengths-and-weaknesses]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Strengths and Weaknesses of Interaction Styles

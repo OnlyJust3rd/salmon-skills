@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[functional-model-development|functional-model-development]]"
+learning-outcomes:
+  - "[[functional-model-development|functional-model-development]]"
 learning-time-in-minutes: 5
 ---
 # Developing Functional Models for Interactive Systems

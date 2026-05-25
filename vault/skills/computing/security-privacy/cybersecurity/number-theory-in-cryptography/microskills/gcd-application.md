@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of GCD to solve cryptographic problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

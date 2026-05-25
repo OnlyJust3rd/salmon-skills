@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing plans for keeping existing customers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

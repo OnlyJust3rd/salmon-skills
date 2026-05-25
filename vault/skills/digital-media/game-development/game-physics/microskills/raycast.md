@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Testing along a line for hits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Derivation of minimal sum-of-products forms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

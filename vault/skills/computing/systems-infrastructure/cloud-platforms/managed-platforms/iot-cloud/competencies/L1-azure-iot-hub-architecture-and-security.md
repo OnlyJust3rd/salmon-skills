@@ -49,3 +49,6 @@ Explain the architecture of IoT cloud platforms, including device provisioning a
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/device-provisioning-methods|Device Provisioning Methods]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/api-key-management|API Key Management]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/azure-iot-hub-components|Azure IoT Hub Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

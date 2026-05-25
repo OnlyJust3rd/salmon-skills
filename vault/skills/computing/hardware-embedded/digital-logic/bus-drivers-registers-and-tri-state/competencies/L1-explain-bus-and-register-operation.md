@@ -47,3 +47,6 @@ Explain the operation of shift registers, bus drivers, and tri-state buffers, an
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-operation|Tri-state Buffer Operation]]
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/bus-contention-prevention|Bus Contention Prevention]]
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/bus-driver-applications|Bus Driver Applications]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

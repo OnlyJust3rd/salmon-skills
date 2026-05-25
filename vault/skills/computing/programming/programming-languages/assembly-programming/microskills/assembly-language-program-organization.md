@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the fundamental structure of assembly programs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

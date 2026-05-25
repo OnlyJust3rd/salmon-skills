@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the balance between file size reduction and image fidelity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

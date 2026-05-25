@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how alerts signal declining performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

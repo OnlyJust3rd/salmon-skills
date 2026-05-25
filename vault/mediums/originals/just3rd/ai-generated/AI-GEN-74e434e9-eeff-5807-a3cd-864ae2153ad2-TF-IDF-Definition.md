@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[tf-idf-definition|tf-idf-definition]]"
+learning-outcomes:
+  - "[[tf-idf-definition|tf-idf-definition]]"
 learning-time-in-minutes: 4
 ---
 # TF-IDF: Understanding Term Frequency-Inverse Document Frequency

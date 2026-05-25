@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ai-behavior-paradigm-comparison|ai-behavior-paradigm-comparison]]"
+learning-outcomes:
+  - "[[ai-behavior-paradigm-comparison|ai-behavior-paradigm-comparison]]"
 learning-time-in-minutes: 4
 ---
 # AI Behavior Paradigms in Robotics: An Analytical Comparison

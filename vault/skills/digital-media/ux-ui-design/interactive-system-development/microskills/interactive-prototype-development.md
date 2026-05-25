@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building working models or simulations of device interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

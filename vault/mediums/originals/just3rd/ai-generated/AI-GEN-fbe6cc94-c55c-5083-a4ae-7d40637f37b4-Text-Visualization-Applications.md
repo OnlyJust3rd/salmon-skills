@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-visualization-applications|text-visualization-applications]]"
+learning-outcomes:
+  - "[[text-visualization-applications|text-visualization-applications]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Text Visualization Applications

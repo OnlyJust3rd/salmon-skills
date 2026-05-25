@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/transform-coding-vs-lzw-analysis|transform-coding-vs-lzw-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/transform-coding-vs-lzw-analysis|transform-coding-vs-lzw-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Compression Trade-offs: Transform Coding vs. LZW

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/purpose-of-line-drawing-algorithms|purpose-of-line-drawing-algorithms]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/purpose-of-line-drawing-algorithms|purpose-of-line-drawing-algorithms]]"
 learning-time-in-minutes: 3
 ---
 # The Need for Line Drawing Algorithms

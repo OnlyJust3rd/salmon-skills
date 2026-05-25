@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[lexrank-summarization-implementation|lexrank-summarization-implementation]]"
+learning-outcomes:
+  - "[[lexrank-summarization-implementation|lexrank-summarization-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing LexRank for Extractive Text Summarization

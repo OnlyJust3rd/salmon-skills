@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/series-convergence-determination-ratio-root|series-convergence-determination-ratio-root]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/series-convergence-determination-ratio-root|series-convergence-determination-ratio-root]]"
 learning-time-in-minutes: 4
 ---
 # Applying Ratio and Root Tests for Series Convergence

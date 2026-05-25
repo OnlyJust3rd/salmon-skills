@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying the underlying condition behind symptoms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain how scripts attach to documents and execution order.
+## Related Mediums
+
+![[bases/related-mediums.base]]

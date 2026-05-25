@@ -43,3 +43,6 @@ Implement data visualization techniques in Python to communicate insights from r
 
 - [[skills/computing/programming/programming-languages/python/microskills/implement-data-visualization-in-python-workflow-steps|Implement Data Visualization in Python workflow steps]]
 - [[skills/computing/programming/programming-languages/python/microskills/implement-data-visualization-in-python-code-implementation|Implement Data Visualization in Python code implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

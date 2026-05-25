@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing Java code for various graph traversal and manipulation algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

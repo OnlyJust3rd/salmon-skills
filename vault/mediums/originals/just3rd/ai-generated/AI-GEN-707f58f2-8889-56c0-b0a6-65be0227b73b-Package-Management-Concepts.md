@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[package-management-concepts|package-management-concepts]]"
+learning-outcomes:
+  - "[[package-management-concepts|package-management-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Package Management Concepts in Linux

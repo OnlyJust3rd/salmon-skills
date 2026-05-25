@@ -115,3 +115,7 @@ Single server + database
 - [[directory-based-partitioning|Directory Based Partitioning]]
 - [[hash-based-partitioning|Hash Based Partitioning]]
 - [[consistent-hashing|Consistent Hashing]]
+
+## Related Mediums
+
+![[bases/related-mediums.base]]

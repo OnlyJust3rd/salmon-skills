@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[model-based-rl-principles|model-based-rl-principles]]"
+learning-outcomes:
+  - "[[model-based-rl-principles|model-based-rl-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Model-Based Reinforcement Learning

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/pattern-selection-trade-offs|pattern-selection-trade-offs]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/pattern-selection-trade-offs|pattern-selection-trade-offs]]"
 learning-time-in-minutes: 4
 ---
 # Pattern Selection Trade-offs

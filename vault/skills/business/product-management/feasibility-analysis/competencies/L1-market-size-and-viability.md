@@ -43,3 +43,6 @@ Describe the relationship between market size and business viability.
 
 - [[skills/business/product-management/feasibility-analysis/microskills/market-size-impact-on-viability|Market Size Impact on Viability]]
 - [[skills/business/product-management/feasibility-analysis/microskills/scalability-assessment|Scalability Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

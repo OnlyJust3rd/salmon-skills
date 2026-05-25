@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cylinder-definition|cylinder-definition]]"
+learning-outcomes:
+  - "[[cylinder-definition|cylinder-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cylinders in Disk Geometry

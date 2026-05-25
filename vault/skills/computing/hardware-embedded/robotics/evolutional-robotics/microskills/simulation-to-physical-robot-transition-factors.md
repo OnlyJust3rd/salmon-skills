@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of key elements influencing the successful transfer of robot models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

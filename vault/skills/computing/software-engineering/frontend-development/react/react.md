@@ -38,3 +38,6 @@ Building web user interfaces with React: elements, components, hooks, and featur
 - [[skills/computing/software-engineering/frontend-development/react/microskills/lists-and-keys|Lists and keys]]
 - [[skills/computing/software-engineering/frontend-development/react/microskills/typed-props-and-events|Typed props and events]]
 - [[skills/computing/software-engineering/frontend-development/react/microskills/usestate-and-useeffect|useState and useEffect]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Define the fundamental principles, key terms (e.g., intra-frame, inter-frame, mo
 - [[skills/digital-media/computer-graphics/image-compression/microskills/intra-frame-compression-concepts|Intra-frame Compression Concepts]]
 - [[skills/digital-media/computer-graphics/image-compression/microskills/inter-frame-compression-concepts|Inter-frame Compression Concepts]]
 - [[skills/digital-media/computer-graphics/image-compression/microskills/motion-vectors|Motion Vectors]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Contrasting the execution speed of pipelined versus non-pipelined processors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

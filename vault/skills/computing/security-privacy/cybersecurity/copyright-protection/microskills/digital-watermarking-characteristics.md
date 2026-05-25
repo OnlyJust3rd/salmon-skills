@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinct characteristics of digital watermarking for copyright protection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

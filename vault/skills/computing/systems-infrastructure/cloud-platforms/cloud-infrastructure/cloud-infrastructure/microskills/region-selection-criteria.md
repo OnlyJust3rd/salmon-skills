@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to choose appropriate regions based on latency, compliance, or cost.
+## Related Mediums
+
+![[bases/related-mediums.base]]

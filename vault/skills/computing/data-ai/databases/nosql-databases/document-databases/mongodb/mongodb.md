@@ -38,3 +38,6 @@ Using MongoDB as a concrete NoSQL document database to model, store, and query d
 - [[mongodb-query-operations|MongoDB Query Operations]]
 - [[mongodb-update-delete-operations|MongoDB Update/Delete Operations]]
 - [[relational-vs-document-data-model|Relational vs Document Data Model]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

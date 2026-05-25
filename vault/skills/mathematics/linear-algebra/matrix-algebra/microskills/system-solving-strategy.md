@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying Gaussian elimination to find system solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

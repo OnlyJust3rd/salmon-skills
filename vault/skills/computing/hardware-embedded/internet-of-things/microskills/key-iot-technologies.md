@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with the significant technologies that underpin IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

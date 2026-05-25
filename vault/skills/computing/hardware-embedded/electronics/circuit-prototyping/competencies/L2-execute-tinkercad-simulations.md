@@ -47,3 +47,6 @@ Execute and perform circuit simulations using Tinkercad to verify circuit functi
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/simulation-parameter-configuration|Simulation Parameter Configuration]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/waveform-analysis|Waveform Analysis]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/embedded-system-simulation|Embedded System Simulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

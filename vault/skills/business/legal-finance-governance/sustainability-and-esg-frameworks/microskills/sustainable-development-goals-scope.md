@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the range of areas covered by the SDGs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

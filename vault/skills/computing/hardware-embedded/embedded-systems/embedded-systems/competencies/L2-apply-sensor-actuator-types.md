@@ -43,3 +43,6 @@ Demonstrate the application of different types of sensors and actuators in a sim
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sensor-application-in-iot-devices|Sensor Application in IoT Devices]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/actuator-application-in-iot-devices|Actuator Application in IoT Devices]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/simple-iot-device-scenarios|Simple IoT Device Scenarios]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

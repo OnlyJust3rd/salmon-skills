@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Compute differentials (dy, dx) and interpret them for small changes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

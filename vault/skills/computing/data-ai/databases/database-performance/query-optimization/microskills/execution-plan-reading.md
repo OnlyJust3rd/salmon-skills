@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Interpreting query plans to understand scan, join, and sort behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

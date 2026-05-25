@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the arrangement of pixels in a digital image.
+## Related Mediums
+
+![[bases/related-mediums.base]]

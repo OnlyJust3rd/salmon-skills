@@ -47,3 +47,6 @@ Describe how L'Hôpital's rule can be used to evaluate limits of indeterminate f
 - [[l-hopital-s-rule-purpose|L'Hôpital's rule purpose]]
 - [[indeterminate-form-limit-evaluation|Indeterminate form limit evaluation]]
 - [[general-l-hopital-s-rule-process|General L'Hôpital's rule process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

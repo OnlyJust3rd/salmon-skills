@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/customer-insight-adaptation|customer-insight-adaptation]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/customer-insight-adaptation|customer-insight-adaptation]]"
 learning-time-in-minutes: 5
 ---
 # Customer Insight Adaptation: Pivoting Your Lean Startup

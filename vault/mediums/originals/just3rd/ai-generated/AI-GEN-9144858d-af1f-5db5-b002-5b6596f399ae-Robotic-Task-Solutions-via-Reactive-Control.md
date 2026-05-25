@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[robotic-task-solutions-via-reactive-control|robotic-task-solutions-via-reactive-control]]"
+learning-outcomes:
+  - "[[robotic-task-solutions-via-reactive-control|robotic-task-solutions-via-reactive-control]]"
 learning-time-in-minutes: 4
 ---
 # Robotic Task Solutions via Reactive Control

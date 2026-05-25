@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-network-management|virtual-network-management]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-network-management|virtual-network-management]]"
 learning-time-in-minutes: 4
 ---
 # Virtual Network Management for Virtual Machines

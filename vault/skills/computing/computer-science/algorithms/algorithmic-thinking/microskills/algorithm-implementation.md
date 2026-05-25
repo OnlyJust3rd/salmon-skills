@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding computational solutions using number theory principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

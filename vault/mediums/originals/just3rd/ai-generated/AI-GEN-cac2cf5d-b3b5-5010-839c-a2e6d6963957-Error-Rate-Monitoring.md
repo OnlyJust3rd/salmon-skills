@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/error-rate-monitoring|error-rate-monitoring]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/error-rate-monitoring|error-rate-monitoring]]"
 learning-time-in-minutes: 5
 ---
 # Understanding and Applying Error Rate Monitoring

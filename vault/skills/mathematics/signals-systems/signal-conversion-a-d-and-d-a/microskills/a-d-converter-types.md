@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall common A/D converter architectures (flash, SAR, sigma-delta).
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding UI response to gameplay events.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role and function of Job Control Language in system software.
+## Related Mediums
+
+![[bases/related-mediums.base]]

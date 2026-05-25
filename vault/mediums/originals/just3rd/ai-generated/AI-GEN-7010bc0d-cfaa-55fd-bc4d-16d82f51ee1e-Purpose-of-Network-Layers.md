@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[purpose-of-network-layers|purpose-of-network-layers]]"
+learning-outcomes:
+  - "[[purpose-of-network-layers|purpose-of-network-layers]]"
 learning-time-in-minutes: 4
 ---
 # The Purpose of Network Layers

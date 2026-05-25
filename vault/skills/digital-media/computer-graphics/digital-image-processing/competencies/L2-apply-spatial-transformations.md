@@ -45,3 +45,6 @@ Perform spatial transformations on digital images, including scaling, translatio
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-translation|Image Translation]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-rotation|Image Rotation]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/pixel-coordinate-alteration|Pixel Coordinate Alteration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[robotic-control-structures-via-subsumption|robotic-control-structures-via-subsumption]]"
+learning-outcomes:
+  - "[[robotic-control-structures-via-subsumption|robotic-control-structures-via-subsumption]]"
 learning-time-in-minutes: 4
 ---
 # Robotic Control Structures via Subsumption

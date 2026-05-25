@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Fine-tuning the system for efficiency and responsiveness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

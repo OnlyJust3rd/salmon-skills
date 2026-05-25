@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[performance-metric-relationships|performance-metric-relationships]]"
+learning-outcomes:
+  - "[[performance-metric-relationships|performance-metric-relationships]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Performance Metric Relationships in Congestion Control

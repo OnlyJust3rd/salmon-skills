@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain the geometric interpretation of parameters in 3D parametric line equations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

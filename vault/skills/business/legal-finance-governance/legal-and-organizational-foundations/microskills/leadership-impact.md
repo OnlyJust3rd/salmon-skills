@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Influence of leadership styles on the organization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

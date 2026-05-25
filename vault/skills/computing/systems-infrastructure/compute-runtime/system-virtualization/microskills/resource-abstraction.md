@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how physical resources are hidden from virtual machines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of fundamental concepts like natural selection and adaptation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

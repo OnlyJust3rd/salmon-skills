@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of biometric characteristics and their use in identification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

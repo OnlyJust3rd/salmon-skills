@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[internal-world-models-vs-brooks-approach|internal-world-models-vs-brooks-approach]]"
+learning-outcomes:
+  - "[[internal-world-models-vs-brooks-approach|internal-world-models-vs-brooks-approach]]"
 learning-time-in-minutes: 4
 ---
 # Internal World Models vs. Brooks' Approach in Robotics

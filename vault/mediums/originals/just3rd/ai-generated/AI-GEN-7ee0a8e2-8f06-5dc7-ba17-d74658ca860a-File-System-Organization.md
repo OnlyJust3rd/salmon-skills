@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[file-system-organization|file-system-organization]]"
+learning-outcomes:
+  - "[[file-system-organization|file-system-organization]]"
 learning-time-in-minutes: 4
 ---
 # File System Organization: How Data Finds Its Place

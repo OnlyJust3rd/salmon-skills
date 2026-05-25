@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/secure-firmware-updates|secure-firmware-updates]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/secure-firmware-updates|secure-firmware-updates]]"
 learning-time-in-minutes: 5
 ---
 # Secure Firmware Updates for IoT Devices

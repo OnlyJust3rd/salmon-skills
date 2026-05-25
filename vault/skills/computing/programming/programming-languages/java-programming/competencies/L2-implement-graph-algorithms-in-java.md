@@ -61,3 +61,6 @@ Implement graph algorithms including Breadth-First Search (BFS), Depth-First Sea
 - [[skills/computing/programming/programming-languages/java-programming/microskills/topological-sort-java-implementation|Topological Sort Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/kosaraju-s-algorithm-java-implementation|Kosaraju's Algorithm Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/tarjan-s-algorithm-java-implementation|Tarjan's Algorithm Java Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

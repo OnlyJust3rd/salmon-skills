@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining boundaries for output format or behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/deliverable-management|deliverable-management]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/deliverable-management|deliverable-management]]"
 learning-time-in-minutes: 5
 ---
 # Deliverable Management in Platform Engineering

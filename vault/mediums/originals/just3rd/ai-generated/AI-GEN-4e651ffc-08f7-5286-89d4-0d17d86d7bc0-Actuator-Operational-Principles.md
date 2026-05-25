@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/actuator-operational-principles|actuator-operational-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/actuator-operational-principles|actuator-operational-principles]]"
 learning-time-in-minutes: 5
 ---
 # Actuator Operational Principles

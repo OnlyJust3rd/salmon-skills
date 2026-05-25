@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of sensors and actuators in basic IoT device contexts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

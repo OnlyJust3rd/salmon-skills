@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding reusable configured object templates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

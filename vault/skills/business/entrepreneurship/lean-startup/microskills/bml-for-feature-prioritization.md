@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using BML to guide the selection of essential features.
+## Related Mediums
+
+![[bases/related-mediums.base]]

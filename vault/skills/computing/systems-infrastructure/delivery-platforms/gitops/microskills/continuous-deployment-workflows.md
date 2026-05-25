@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to set up automated application deployments triggered by Git commits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

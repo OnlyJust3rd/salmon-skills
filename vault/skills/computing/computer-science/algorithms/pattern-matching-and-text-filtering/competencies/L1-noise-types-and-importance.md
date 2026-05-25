@@ -43,3 +43,6 @@ Explain the types of noise found in textual data and the importance of noise rem
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-noise-identification|Textual Data Noise Identification]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/data-quality-and-noise-significance|Data Quality and Noise Significance]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/irrelevant-textual-elements|Irrelevant Textual Elements]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

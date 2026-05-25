@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the operational principles of cluster computing systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

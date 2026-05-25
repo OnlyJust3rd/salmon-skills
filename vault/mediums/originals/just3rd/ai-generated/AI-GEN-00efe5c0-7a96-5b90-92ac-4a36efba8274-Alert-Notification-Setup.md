@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/alert-notification-setup|alert-notification-setup]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/alert-notification-setup|alert-notification-setup]]"
 learning-time-in-minutes: 4
 ---
 # Setting Up Alert Notifications

@@ -48,3 +48,6 @@ Analyzing and evaluating performance of parallel systems using quantitative metr
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|Scalability Law Assumptions]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-prediction|Scalability Prediction]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|Speedup Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

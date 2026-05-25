@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of De Morgan's theorems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

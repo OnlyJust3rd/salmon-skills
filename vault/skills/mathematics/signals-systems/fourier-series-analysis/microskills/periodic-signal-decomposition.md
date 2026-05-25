@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Decomposing periodic signals into sine and cosine terms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

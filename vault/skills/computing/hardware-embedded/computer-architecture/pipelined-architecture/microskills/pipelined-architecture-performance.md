@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how pipelining affects execution speed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -49,3 +49,6 @@ Analyze the message formats, state transitions, and dependencies of HTTP and DNS
 - [[protocol-state-analysis|Protocol State Analysis]]
 - [[inter-protocol-dependencies|Inter-Protocol Dependencies]]
 - [[network-communication-breakdown|Network Communication Breakdown]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

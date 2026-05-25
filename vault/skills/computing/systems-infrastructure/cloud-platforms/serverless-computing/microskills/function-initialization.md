@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the process of preparing a function to run.
+## Related Mediums
+
+![[bases/related-mediums.base]]

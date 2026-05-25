@@ -45,3 +45,6 @@ Use first and second derivatives to determine increasing/decreasing intervals, c
 - [[concavity-analysis-using-second-derivative|Concavity analysis using second derivative]]
 - [[inflection-point-identification|Inflection point identification]]
 - [[extrema-identification-using-derivatives|Extrema identification using derivatives]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

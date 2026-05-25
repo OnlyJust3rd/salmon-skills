@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in choosing appropriate computational methods and algorithms to solve a problem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

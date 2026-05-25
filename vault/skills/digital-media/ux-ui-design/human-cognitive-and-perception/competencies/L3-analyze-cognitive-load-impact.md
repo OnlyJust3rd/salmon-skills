@@ -43,3 +43,6 @@ Analyze how cognitive load might have influenced user performance metrics (e.g.,
 - [[cognitive-load-analysis|Cognitive Load Analysis]]
 - [[user-performance-metrics|User Performance Metrics]]
 - [[usability-study-interpretation|Usability Study Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -69,3 +69,6 @@ Evaluate business feasibility using financial modeling, profitability analysis, 
 - [[skills/business/product-management/feasibility-analysis/microskills/profitability-analysis|Profitability Analysis]]
 - [[skills/business/product-management/feasibility-analysis/microskills/revenue-definition|Revenue Definition]]
 - [[skills/business/product-management/feasibility-analysis/microskills/scalability-assessment|Scalability Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[adc-channel-selection|adc-channel-selection]]"
+learning-outcomes:
+  - "[[adc-channel-selection|adc-channel-selection]]"
 learning-time-in-minutes: 4
 ---
 # Selecting the ADC Channel on AVR Microcontrollers

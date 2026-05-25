@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the complex relationships between protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

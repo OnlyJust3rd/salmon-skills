@@ -41,3 +41,6 @@ Apply the Alternating Series Test to determine the convergence or divergence of 
 
 - [[alternating-series-test-application|Alternating Series Test application]]
 - [[alternating-series-convergence-determination|Alternating series convergence determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

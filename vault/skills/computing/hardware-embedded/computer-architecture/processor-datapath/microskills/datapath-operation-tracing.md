@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Tracing data flow through the datapath during instruction execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

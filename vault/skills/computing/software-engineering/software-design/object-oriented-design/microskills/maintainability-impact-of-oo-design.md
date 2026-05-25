@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the influence of OO design principles on maintainability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/error-type-identification|error-type-identification]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/error-type-identification|error-type-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Data Errors: Your First Step in Data Quality

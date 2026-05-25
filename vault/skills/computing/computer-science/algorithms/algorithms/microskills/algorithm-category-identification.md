@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing and recalling distinct classifications of algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[matplotlib-functionality|matplotlib-functionality]]"
+learning-outcomes:
+  - "[[matplotlib-functionality|matplotlib-functionality]]"
 learning-time-in-minutes: 3
 ---
 # Exploring Matplotlib Functionality

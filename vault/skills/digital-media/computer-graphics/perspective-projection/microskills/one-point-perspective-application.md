@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of one-point perspective principles on simple geometric shapes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

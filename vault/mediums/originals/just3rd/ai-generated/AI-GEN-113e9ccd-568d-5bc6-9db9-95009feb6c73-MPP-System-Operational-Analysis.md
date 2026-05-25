@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/mpp-system-operational-analysis|mpp-system-operational-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/mpp-system-operational-analysis|mpp-system-operational-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing MPP System Operational Principles

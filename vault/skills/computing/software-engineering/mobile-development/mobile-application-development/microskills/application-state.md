@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding data that affects mobile UI behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

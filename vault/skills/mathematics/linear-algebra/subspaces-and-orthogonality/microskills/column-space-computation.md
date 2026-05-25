@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating the column space of a matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

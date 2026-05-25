@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/iaas-application-scenarios|iaas-application-scenarios]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/iaas-application-scenarios|iaas-application-scenarios]]"
 learning-time-in-minutes: 4
 ---
 # IaaS Application Scenarios

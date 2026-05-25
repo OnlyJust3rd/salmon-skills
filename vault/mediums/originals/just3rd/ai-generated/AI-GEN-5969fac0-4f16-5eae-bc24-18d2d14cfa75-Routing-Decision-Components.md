@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[routing-decision-components|routing-decision-components]]"
+learning-outcomes:
+  - "[[routing-decision-components|routing-decision-components]]"
 learning-time-in-minutes: 4
 ---
 # Routing Decision Components

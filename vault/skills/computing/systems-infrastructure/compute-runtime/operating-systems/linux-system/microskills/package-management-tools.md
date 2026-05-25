@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency with tools like apt, yum, or dnf.
+## Related Mediums
+
+![[bases/related-mediums.base]]

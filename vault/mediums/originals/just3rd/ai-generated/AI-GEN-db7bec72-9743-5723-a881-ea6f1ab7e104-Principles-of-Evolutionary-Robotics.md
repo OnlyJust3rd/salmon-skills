@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[principles-of-evolutionary-robotics|principles-of-evolutionary-robotics]]"
+learning-outcomes:
+  - "[[principles-of-evolutionary-robotics|principles-of-evolutionary-robotics]]"
 learning-time-in-minutes: 5
 ---
 # Principles of Evolutionary Robotics

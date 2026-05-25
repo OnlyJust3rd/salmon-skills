@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding agent access to files, commands, and tests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

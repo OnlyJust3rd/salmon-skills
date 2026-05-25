@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/poc-development-guidance|poc-development-guidance]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/poc-development-guidance|poc-development-guidance]]"
 learning-time-in-minutes: 4
 ---
 # Guidance for Proof of Concept (PoC) Development using Build-Measure-Learn

@@ -45,3 +45,6 @@ Evaluate team performance after each Sprint to adapt and improve workflow, refle
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/sprint-performance-analysis|Sprint Performance Analysis]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/workflow-adaptation|Workflow Adaptation]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/continuous-improvement-reflection|Continuous Improvement Reflection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

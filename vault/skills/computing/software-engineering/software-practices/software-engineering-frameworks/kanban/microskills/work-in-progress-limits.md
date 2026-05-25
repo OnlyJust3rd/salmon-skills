@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Constraining active work to expose bottlenecks and improve focus.
+## Related Mediums
+
+![[bases/related-mediums.base]]

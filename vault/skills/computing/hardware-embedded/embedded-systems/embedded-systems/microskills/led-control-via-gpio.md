@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of controlling LEDs using GPIO programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

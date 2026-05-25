@@ -71,7 +71,8 @@ This note defines the frontmatter vocabulary for graph notes.
 | Property | Type | Rule |
 | --- | --- | --- |
 | `contributor` | Text | Wikilink to the contributor note for the medium. |
-| `outcome` | Text | Wikilink to one `competency` or `microskill` note that the medium teaches or supports. |
+| `learning-outcomes` | List | Wikilinks to one or more `competency` or `microskill` notes that the medium teaches or supports as assessable outcomes. |
+| `related-skills` | List | Optional wikilinks to broad `skill` notes covered by the medium for discovery and browsing. |
 | `learning-time-in-minutes` | Number | Positive integer estimate of expected learning time in minutes. |
 
 ## Taxonomy Rule

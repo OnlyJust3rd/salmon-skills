@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Overview of the core concepts of Edge Computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

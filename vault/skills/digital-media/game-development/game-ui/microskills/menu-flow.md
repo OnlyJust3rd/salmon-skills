@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding navigable game interface screens.
+## Related Mediums
+
+![[bases/related-mediums.base]]

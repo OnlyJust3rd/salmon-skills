@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/direct-competitors|direct-competitors]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/direct-competitors|direct-competitors]]"
 learning-time-in-minutes: 2
 ---
 # Direct Competitors

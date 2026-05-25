@@ -45,3 +45,6 @@ Apply NPC behavior state and pathfinding concepts.
 - [[skills/digital-media/game-development/game-ai/microskills/state-transition|State Transition]]
 - [[skills/digital-media/game-development/game-ai/microskills/navigation-target|Navigation Target]]
 - [[skills/digital-media/game-development/game-ai/microskills/perception-check|Perception Check]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

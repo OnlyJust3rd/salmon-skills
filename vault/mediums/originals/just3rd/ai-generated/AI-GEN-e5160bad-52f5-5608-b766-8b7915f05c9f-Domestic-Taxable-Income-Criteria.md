@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/domestic-taxable-income-criteria|domestic-taxable-income-criteria]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/domestic-taxable-income-criteria|domestic-taxable-income-criteria]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Domestic Taxable Income Criteria

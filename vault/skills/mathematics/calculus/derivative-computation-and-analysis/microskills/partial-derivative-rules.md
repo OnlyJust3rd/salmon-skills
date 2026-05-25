@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of rules for computing partial derivatives of multivariable functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

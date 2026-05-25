@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assigning specific responsibilities to team members within the plan.
+## Related Mediums
+
+![[bases/related-mediums.base]]

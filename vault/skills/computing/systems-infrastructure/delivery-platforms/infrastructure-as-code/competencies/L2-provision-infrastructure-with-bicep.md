@@ -47,3 +47,6 @@ Implement infrastructure provisioning using Azure Bicep.
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-resource-definition|Bicep Resource Definition]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-provisioning|Infrastructure Provisioning]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-deployment-commands|Bicep Deployment Commands]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

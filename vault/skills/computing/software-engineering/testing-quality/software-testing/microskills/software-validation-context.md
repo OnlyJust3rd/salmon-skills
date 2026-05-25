@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding if the system meets user needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

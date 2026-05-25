@@ -43,3 +43,6 @@ Explain how historical trends in user interface design have influenced current b
 - [[historical-ui-impact|Historical UI Impact]]
 - [[interface-evolution|Interface Evolution]]
 - [[contemporary-usability|Contemporary Usability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

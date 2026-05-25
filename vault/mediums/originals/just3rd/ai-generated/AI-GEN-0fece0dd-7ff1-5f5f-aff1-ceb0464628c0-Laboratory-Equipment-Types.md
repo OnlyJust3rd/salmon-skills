@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/laboratory-equipment-types|laboratory-equipment-types]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/laboratory-equipment-types|laboratory-equipment-types]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Common Lab Equipment: A First Look

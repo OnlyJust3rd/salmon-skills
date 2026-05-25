@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to identify causes of attenuation, distortion, and noise.
+## Related Mediums
+
+![[bases/related-mediums.base]]

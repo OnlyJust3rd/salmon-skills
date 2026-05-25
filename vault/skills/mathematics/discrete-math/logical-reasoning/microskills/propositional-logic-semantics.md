@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the meaning and truth value assignment of logical expressions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

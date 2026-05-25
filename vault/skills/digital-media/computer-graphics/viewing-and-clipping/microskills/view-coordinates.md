@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the view coordinate system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

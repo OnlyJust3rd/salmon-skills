@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[c-structs-and-pointers|c-structs-and-pointers]]"
+learning-outcomes:
+  - "[[c-structs-and-pointers|c-structs-and-pointers]]"
 learning-time-in-minutes: 2
 ---
 # C Structs and Pointers: Building Blocks for Linked Structures

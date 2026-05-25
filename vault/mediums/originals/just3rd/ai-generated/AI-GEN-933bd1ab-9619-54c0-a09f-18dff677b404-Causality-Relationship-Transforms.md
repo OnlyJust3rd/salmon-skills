@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/causality-relationship-transforms|causality-relationship-transforms]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/causality-relationship-transforms|causality-relationship-transforms]]"
 learning-time-in-minutes: 3
 ---
 # Causality and Transform Properties

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Facilitating future code modifications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

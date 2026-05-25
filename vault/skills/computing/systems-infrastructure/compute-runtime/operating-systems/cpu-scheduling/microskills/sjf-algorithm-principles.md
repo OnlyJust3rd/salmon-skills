@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of Shortest Job First (SJF) CPU scheduling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/authentication-flow|authentication-flow]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/authentication-flow|authentication-flow]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Firebase Authentication Flow

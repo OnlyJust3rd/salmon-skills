@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the sequence of interactions between network entities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

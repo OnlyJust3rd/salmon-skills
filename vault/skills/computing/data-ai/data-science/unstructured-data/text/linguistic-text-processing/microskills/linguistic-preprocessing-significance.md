@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the importance and use cases of core linguistic preprocessing techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

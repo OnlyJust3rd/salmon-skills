@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Setting up I/O ports for digital input.
+## Related Mediums
+
+![[bases/related-mediums.base]]

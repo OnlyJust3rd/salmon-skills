@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how datapath choices affect processor speed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

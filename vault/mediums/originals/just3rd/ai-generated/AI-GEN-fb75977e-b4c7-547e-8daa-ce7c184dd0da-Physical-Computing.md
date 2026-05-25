@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[physical-computing|physical-computing]]"
+learning-outcomes:
+  - "[[physical-computing|physical-computing]]"
 learning-time-in-minutes: 5
 ---
 # Physical Computing with Arduino: Bringing Ideas to Life

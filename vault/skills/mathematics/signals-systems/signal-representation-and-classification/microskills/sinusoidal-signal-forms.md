@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the structure and parameters of sinusoidal signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

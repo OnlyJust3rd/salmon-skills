@@ -49,3 +49,6 @@ Describe the role of specific C code structures and functions in configuring and
 - [[data-buffer-management|Data Buffer Management]]
 - [[interrupt-driven-communication|Interrupt-Driven Communication]]
 - [[function-calls-for-protocol-control|Function Calls for Protocol Control]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

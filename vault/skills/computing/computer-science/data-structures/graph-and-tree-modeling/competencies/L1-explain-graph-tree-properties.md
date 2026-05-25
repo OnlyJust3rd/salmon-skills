@@ -45,3 +45,6 @@ Explain the properties and differences between various graph and tree structures
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/graph-properties|Graph Properties]]
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/tree-structures|Tree Structures]]
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/rooted-vs-unrooted-trees|Rooted vs. Unrooted Trees]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

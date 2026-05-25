@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cognitive-load-analysis|cognitive-load-analysis]]"
+learning-outcomes:
+  - "[[cognitive-load-analysis|cognitive-load-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Cognitive Load in Usability Studies

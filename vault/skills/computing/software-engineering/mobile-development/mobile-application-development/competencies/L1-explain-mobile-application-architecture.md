@@ -47,3 +47,6 @@ Explain mobile application architecture.
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/screen|Screen]]
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-flow|Navigation Flow]]
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/application-state|Application State]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

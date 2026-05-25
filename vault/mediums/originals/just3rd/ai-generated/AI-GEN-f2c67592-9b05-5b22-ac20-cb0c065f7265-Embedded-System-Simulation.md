@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/embedded-system-simulation|embedded-system-simulation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/embedded-system-simulation|embedded-system-simulation]]"
 learning-time-in-minutes: 3
 ---
 # Simulating Embedded Systems in Tinkercad

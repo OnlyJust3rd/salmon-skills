@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/homogeneous-system-definition|homogeneous-system-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/homogeneous-system-definition|homogeneous-system-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Homogeneous Linear Systems

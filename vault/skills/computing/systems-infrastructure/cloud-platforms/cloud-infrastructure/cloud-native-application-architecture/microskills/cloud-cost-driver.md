@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Considering usage-based cost effects in service choices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

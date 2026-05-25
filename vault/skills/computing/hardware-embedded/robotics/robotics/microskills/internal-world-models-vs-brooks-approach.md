@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the distinctions between internal world models and Brooks' AI methodology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

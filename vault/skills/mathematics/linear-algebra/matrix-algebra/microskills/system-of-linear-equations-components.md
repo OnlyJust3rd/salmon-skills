@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of coefficients, variables, and constants.
+## Related Mediums
+
+![[bases/related-mediums.base]]

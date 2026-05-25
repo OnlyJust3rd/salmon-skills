@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of performance, durability, and cost of various storage types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

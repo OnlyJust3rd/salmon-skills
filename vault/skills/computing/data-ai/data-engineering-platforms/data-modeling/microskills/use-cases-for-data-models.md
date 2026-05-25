@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of appropriate scenarios for different data modeling techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

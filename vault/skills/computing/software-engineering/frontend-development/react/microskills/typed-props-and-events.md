@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Apply TypeScript to component boundaries and callbacks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

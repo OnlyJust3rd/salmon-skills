@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-performance-measurement|watermarking-performance-measurement]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-performance-measurement|watermarking-performance-measurement]]"
 learning-time-in-minutes: 5
 ---
 # Watermarking Performance Measurement

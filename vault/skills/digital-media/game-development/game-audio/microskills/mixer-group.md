@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Organizing related sounds for control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[virtual-private-network|virtual-private-network]]"
+learning-outcomes:
+  - "[[virtual-private-network|virtual-private-network]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Virtual Private Networks (VPNs)

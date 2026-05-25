@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing how congestion control performs under different network demands.
+## Related Mediums
+
+![[bases/related-mediums.base]]

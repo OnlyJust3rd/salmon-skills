@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/digital-law/thai-digital-law/microskills/personal-data-definition|personal-data-definition]]"
+learning-outcomes:
+  - "[[skills/professional-practice/digital-law/thai-digital-law/microskills/personal-data-definition|personal-data-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Personal Data under Thailand's PDPA

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/signal-distortion-impact|signal-distortion-impact]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/signal-distortion-impact|signal-distortion-impact]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Signal Distortion and Its Impact on Measurements

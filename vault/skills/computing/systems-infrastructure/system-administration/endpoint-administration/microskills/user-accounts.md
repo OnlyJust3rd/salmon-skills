@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding identity records used for endpoint access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

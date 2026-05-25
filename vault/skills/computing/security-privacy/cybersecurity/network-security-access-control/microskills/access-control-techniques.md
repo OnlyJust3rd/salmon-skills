@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing of common access control techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[protocol-identification|protocol-identification]]"
+learning-outcomes:
+  - "[[protocol-identification|protocol-identification]]"
 learning-time-in-minutes: 3
 ---
 # Protocol Identification: Knowing Your Application Layer Tools

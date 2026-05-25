@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cronjob-configuration|kubernetes-cronjob-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cronjob-configuration|kubernetes-cronjob-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes CronJob Configuration

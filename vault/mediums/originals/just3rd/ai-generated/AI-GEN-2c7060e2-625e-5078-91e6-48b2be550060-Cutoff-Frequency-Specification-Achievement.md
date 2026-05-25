@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/cutoff-frequency-specification-achievement|cutoff-frequency-specification-achievement]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/cutoff-frequency-specification-achievement|cutoff-frequency-specification-achievement]]"
 learning-time-in-minutes: 5
 ---
 # Achieving Specific Cutoff Frequencies in RC and RL Filters

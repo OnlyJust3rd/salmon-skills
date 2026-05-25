@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/basis-to-coordinate-system-relationship|basis-to-coordinate-system-relationship]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/basis-to-coordinate-system-relationship|basis-to-coordinate-system-relationship]]"
 learning-time-in-minutes: 4
 ---
 # Basis: The Foundation of Your Coordinate System

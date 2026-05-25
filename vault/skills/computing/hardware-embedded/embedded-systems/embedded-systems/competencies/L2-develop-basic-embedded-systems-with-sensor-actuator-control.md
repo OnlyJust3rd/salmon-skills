@@ -51,3 +51,6 @@ Implement simple control programs for a microcontroller to interface with sensor
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sensor-microcontroller-interaction|Sensor-Microcontroller Interaction]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/actuator-microcontroller-interaction|Actuator-Microcontroller Interaction]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/functional-embedded-system-integration|Functional Embedded System Integration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

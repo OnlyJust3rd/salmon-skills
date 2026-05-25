@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Inserting documents into MongoDB collections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/responsive-spacing|responsive-spacing]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/responsive-spacing|responsive-spacing]]"
 learning-time-in-minutes: 5
 ---
 # Responsive Spacing: Maintaining Readable Layouts Across Devices

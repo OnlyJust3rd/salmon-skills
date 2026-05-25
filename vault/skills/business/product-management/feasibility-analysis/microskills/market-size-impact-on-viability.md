@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Relationship between market potential and business success.
+## Related Mediums
+
+![[bases/related-mediums.base]]

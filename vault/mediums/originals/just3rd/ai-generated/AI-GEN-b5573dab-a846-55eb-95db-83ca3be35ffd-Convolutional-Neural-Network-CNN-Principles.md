@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[convolutional-neural-network-cnn-principles|convolutional-neural-network-cnn-principles]]"
+learning-outcomes:
+  - "[[convolutional-neural-network-cnn-principles|convolutional-neural-network-cnn-principles]]"
 learning-time-in-minutes: 6
 ---
 # Convolutional Neural Network (CNN) Principles in Text Classification

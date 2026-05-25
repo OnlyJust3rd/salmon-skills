@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of mathematical models for evaluating design alternatives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

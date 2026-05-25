@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[perceptual-capability-impact|perceptual-capability-impact]]"
+learning-outcomes:
+  - "[[perceptual-capability-impact|perceptual-capability-impact]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How Our Senses Shape Our Interaction with Technology

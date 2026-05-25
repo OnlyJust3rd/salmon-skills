@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[depth-first-search-dfs-java-implementation|depth-first-search-dfs-java-implementation]]"
+learning-outcomes:
+  - "[[depth-first-search-dfs-java-implementation|depth-first-search-dfs-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Depth-First Search (DFS) Java Implementation

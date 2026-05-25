@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examining distinct security objectives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

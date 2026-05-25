@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[resource-consumption-analysis|resource-consumption-analysis]]"
+learning-outcomes:
+  - "[[resource-consumption-analysis|resource-consumption-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Process Resource Utilization in Linux

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-noise-identification|textual-data-noise-identification]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-noise-identification|textual-data-noise-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Noise in Textual Data

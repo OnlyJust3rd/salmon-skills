@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/strategic-element-placement|strategic-element-placement]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/strategic-element-placement|strategic-element-placement]]"
 learning-time-in-minutes: 6
 ---
 # Strategic Element Placement: Guiding Players and Enhancing Engagement

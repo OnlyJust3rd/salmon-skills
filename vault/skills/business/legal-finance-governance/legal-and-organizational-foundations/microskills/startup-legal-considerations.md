@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Key legal aspects for new businesses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

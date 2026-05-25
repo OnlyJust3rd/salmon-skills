@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/software-installation|software-installation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/software-installation|software-installation]]"
 learning-time-in-minutes: 4
 ---
 # Installing and Updating Endpoint Applications

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-characteristics|faas-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-characteristics|faas-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # Function as a Service (FaaS) Characteristics

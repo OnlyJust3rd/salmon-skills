@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of strengths and weaknesses of declarative vs. imperative methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

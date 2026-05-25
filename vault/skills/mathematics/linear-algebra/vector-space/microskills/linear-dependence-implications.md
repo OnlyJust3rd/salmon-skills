@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the consequences of linear dependence within a set of vectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

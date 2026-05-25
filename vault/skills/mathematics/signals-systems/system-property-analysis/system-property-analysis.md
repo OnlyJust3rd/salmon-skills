@@ -93,3 +93,6 @@ Analyzing system characteristics based on input-output relationships, including 
 - [[time-invariance-impact-on-system-behavior|Time-Invariance Impact on System Behavior]]
 - [[time-invariance-system-verification|Time-Invariance System Verification]]
 - [[time-invariant-system-definition|Time-Invariant System Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

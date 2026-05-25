@@ -43,3 +43,6 @@ Implement string algorithms and apply learned algorithmic principles to specific
 
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/string-algorithm-implementation|String Algorithm Implementation]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/algorithmic-principle-application|Algorithmic Principle Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and definition of the GloVe word embedding model.
+## Related Mediums
+
+![[bases/related-mediums.base]]

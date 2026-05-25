@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[5g-for-iot|5g-for-iot]]"
+learning-outcomes:
+  - "[[5g-for-iot|5g-for-iot]]"
 learning-time-in-minutes: 4
 ---
 # Understanding 5G for IoT

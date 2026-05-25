@@ -47,3 +47,6 @@ Convert a given double integral in rectangular coordinates to its equivalent for
 - [[jacobian-for-polar-transformation|Jacobian for polar transformation]]
 - [[polar-limits-of-integration-determination|Polar limits of integration determination]]
 - [[double-integral-transformation-to-polar|Double integral transformation to polar]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

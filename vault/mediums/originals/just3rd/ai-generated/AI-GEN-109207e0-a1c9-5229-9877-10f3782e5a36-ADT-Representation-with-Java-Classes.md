@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[adt-representation-with-java-classes|adt-representation-with-java-classes]]"
+learning-outcomes:
+  - "[[adt-representation-with-java-classes|adt-representation-with-java-classes]]"
 learning-time-in-minutes: 4
 ---
 # Representing Abstract Data Types (ADTs) with Java Classes

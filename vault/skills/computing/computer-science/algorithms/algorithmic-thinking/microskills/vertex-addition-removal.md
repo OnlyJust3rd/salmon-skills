@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of algorithms to add or delete vertices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

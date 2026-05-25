@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/indefinite-characteristics|indefinite-characteristics]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/indefinite-characteristics|indefinite-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Indefinite Quadratic Forms: Spotting the Ambiguity

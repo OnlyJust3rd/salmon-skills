@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the algebraic definition of a quadratic form.
+## Related Mediums
+
+![[bases/related-mediums.base]]

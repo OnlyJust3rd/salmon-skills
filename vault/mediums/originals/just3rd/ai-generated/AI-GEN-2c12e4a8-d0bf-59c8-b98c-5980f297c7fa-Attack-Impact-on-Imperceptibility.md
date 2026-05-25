@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-imperceptibility|attack-impact-on-imperceptibility]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-imperceptibility|attack-impact-on-imperceptibility]]"
 learning-time-in-minutes: 5
 ---
 # Attack Impact on Imperceptibility

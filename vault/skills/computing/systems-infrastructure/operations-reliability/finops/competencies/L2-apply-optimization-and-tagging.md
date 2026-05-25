@@ -49,3 +49,6 @@ Apply basic cost optimization strategies in a cloud scenario and implement resou
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/resource-tagging-strategy|Resource Tagging Strategy]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-cost-allocation|Tagging for Cost Allocation]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-governance|Tagging for Governance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

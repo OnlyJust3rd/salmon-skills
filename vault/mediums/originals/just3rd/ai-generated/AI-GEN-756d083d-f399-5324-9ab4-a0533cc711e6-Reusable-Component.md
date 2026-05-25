@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reusable-component|reusable-component]]"
+learning-outcomes:
+  - "[[reusable-component|reusable-component]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Reusable Components: The Building Blocks of Design Systems

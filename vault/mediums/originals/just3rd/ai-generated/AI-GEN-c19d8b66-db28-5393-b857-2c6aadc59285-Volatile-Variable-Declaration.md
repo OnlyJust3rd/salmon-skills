@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[volatile-variable-declaration|volatile-variable-declaration]]"
+learning-outcomes:
+  - "[[volatile-variable-declaration|volatile-variable-declaration]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the `volatile` Keyword in Bare-metal C

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the general architecture of IoT cloud platforms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

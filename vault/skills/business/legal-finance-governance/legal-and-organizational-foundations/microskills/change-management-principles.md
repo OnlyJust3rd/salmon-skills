@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Strategies for managing organizational transitions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

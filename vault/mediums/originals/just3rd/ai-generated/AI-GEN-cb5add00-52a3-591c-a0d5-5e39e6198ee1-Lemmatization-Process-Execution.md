@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[lemmatization-process-execution|lemmatization-process-execution]]"
+learning-outcomes:
+  - "[[lemmatization-process-execution|lemmatization-process-execution]]"
 learning-time-in-minutes: 4
 ---
 # Lemmatization: Bringing Words to Their Dictionary Roots

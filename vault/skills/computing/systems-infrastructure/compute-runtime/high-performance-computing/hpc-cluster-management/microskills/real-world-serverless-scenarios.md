@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding practical contexts and applications of serverless computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

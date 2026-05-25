@@ -45,3 +45,6 @@ Calculate the cutoff frequency for a given passive RC or RL filter circuit confi
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/rc-filter-cutoff-frequency-calculation|RC Filter Cutoff Frequency Calculation]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/rl-filter-cutoff-frequency-calculation|RL Filter Cutoff Frequency Calculation]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/component-based-cutoff-frequency-determination|Component-Based Cutoff Frequency Determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

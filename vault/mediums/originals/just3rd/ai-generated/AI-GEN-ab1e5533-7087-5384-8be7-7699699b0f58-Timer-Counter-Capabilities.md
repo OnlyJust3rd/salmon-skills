@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/timer-counter-capabilities|timer-counter-capabilities]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/timer-counter-capabilities|timer-counter-capabilities]]"
 learning-time-in-minutes: 7
 ---
 # Analyzing AVR Timer/Counter Operational Modes and Applications

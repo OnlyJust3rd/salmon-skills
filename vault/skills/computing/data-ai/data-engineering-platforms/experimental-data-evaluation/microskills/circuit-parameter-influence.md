@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing how circuit parameters contribute to distortion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

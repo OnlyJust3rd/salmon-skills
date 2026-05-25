@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/scene-atmosphere-creation|scene-atmosphere-creation]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/scene-atmosphere-creation|scene-atmosphere-creation]]"
 learning-time-in-minutes: 5
 ---
 # Creating Atmosphere with Composition and Lighting

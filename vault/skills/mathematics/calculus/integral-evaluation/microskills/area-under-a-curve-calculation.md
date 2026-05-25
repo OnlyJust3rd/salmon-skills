@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of definite integrals to compute the area bounded by a curve and the x-axis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how LFSRs produce sequences of bits for cryptographic use.
+## Related Mediums
+
+![[bases/related-mediums.base]]

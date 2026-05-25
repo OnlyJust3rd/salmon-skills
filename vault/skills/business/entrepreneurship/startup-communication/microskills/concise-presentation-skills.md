@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Delivering information effectively and efficiently.
+## Related Mediums
+
+![[bases/related-mediums.base]]

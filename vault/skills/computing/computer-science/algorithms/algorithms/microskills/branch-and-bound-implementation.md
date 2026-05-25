@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding solutions for optimization problems using branch and bound in code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

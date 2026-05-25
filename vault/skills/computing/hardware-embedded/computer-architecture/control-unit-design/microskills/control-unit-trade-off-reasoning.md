@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reasoning about performance vs flexibility when choosing a control strategy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

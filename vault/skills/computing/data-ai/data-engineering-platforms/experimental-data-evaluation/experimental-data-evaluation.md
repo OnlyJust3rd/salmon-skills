@@ -68,3 +68,6 @@ The ability to systematically record experimental values, calculate expected the
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/signal-distortion-impact|Signal Distortion Impact]]
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/theoretical-calculation-discrepancy|Theoretical Calculation Discrepancy]]
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/theoretical-vs-measured-value-comparison|Theoretical vs. Measured Value Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

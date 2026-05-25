@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/master-data|master-data]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/master-data|master-data]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Master Data in ERP Systems

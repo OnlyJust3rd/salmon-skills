@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Directly controlling the state of output pins.
+## Related Mediums
+
+![[bases/related-mediums.base]]

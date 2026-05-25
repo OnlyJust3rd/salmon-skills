@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the overall goal of viewing transformations and clipping.
+## Related Mediums
+
+![[bases/related-mediums.base]]

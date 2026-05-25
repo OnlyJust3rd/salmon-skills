@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding if the system is built correctly.
+## Related Mediums
+
+![[bases/related-mediums.base]]

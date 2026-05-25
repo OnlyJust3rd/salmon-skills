@@ -41,3 +41,6 @@ Explain how a digital image is represented as a grid of pixels and its relations
 
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/pixel-grid-structure|Pixel Grid Structure]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/pixel-count-and-resolution-relationship|Pixel Count and Resolution Relationship]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

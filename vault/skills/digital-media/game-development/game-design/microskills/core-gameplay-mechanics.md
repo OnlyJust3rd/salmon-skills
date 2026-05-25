@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the fundamental mechanics that define different game genres.
+## Related Mediums
+
+![[bases/related-mediums.base]]

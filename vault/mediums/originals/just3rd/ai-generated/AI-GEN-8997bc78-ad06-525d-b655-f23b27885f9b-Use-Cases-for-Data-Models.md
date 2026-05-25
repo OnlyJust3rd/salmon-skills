@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/use-cases-for-data-models|use-cases-for-data-models]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/use-cases-for-data-models|use-cases-for-data-models]]"
 learning-time-in-minutes: 5
 ---
 # Choosing the Right Data Model for the Job

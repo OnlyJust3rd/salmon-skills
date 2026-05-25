@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the physical meaning of the magnitude component of FT/DTFT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

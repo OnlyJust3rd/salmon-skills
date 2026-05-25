@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/local-state|local-state]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/local-state|local-state]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Local State in Components

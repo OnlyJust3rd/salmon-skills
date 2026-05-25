@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of visual plots of continuous and discrete signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

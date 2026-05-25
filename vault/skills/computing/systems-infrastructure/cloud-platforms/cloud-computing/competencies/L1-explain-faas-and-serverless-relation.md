@@ -45,3 +45,6 @@ Explain how Function as a Service (FaaS) relates to the serverless execution mod
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/function-as-a-service-faas|Function as a Service (FaaS)]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/serverless-benefits|Serverless Benefits]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-execution-model|FaaS Execution Model]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

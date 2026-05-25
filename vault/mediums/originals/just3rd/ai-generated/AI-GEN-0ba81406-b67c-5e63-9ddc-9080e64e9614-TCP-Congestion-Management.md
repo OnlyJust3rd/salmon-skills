@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[tcp-congestion-management|tcp-congestion-management]]"
+learning-outcomes:
+  - "[[tcp-congestion-management|tcp-congestion-management]]"
 learning-time-in-minutes: 4
 ---
 # Understanding TCP Congestion Management

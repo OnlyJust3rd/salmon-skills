@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the theoretical behavior of ideal diodes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

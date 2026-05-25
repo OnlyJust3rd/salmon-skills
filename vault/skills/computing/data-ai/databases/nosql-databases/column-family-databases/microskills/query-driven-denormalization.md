@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Duplicating and shaping data around read patterns in column-family systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

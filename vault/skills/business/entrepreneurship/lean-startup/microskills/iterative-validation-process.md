@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The step-by-step approach to validating ideas.
+## Related Mediums
+
+![[bases/related-mediums.base]]

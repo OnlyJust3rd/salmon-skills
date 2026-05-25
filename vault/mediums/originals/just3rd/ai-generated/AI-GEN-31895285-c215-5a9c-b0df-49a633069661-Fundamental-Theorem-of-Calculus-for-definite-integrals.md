@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/fundamental-theorem-of-calculus-for-definite-integrals|fundamental-theorem-of-calculus-for-definite-integrals]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/fundamental-theorem-of-calculus-for-definite-integrals|fundamental-theorem-of-calculus-for-definite-integrals]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Fundamental Theorem of Calculus for Definite Integrals

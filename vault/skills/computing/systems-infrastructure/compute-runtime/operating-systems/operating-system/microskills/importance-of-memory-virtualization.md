@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the significance and role of memory virtualization for OS functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

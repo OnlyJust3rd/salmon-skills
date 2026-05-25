@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-usage-explanation|uml-diagram-usage-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-usage-explanation|uml-diagram-usage-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding UML Diagram Usage

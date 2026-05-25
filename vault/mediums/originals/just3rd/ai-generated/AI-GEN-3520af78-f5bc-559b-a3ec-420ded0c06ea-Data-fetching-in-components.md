@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/react/microskills/data-fetching-in-components|data-fetching-in-components]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/react/microskills/data-fetching-in-components|data-fetching-in-components]]"
 learning-time-in-minutes: 4
 ---
 # Data Fetching in React Components

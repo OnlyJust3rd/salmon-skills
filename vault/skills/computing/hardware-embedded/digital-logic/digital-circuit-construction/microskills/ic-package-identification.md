@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of standard logic IC packages (DIP) and their pin numbering convention.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of efficient and maintainable IaC patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

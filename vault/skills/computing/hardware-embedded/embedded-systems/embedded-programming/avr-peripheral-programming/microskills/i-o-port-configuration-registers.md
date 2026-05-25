@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of registers controlling I/O pin direction and state.
+## Related Mediums
+
+![[bases/related-mediums.base]]

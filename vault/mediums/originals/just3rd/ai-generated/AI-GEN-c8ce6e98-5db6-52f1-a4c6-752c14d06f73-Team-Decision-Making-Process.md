@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/team-decision-making-process|team-decision-making-process]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/team-decision-making-process|team-decision-making-process]]"
 learning-time-in-minutes: 6
 ---
 # Documenting Team Decisions: Applying the Rationale Management Process

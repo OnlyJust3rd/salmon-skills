@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation and articulation of defining features of neuromorphic architectures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

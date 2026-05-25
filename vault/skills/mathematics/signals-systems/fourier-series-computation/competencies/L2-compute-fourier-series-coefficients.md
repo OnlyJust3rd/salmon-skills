@@ -45,3 +45,6 @@ Compute the Fourier series representation of a given periodic function by calcul
 - [[fourier-coefficient-an-calculation|Fourier coefficient an calculation]]
 - [[fourier-coefficient-bn-calculation|Fourier coefficient bn calculation]]
 - [[fourier-series-representation-computation|Fourier series representation computation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

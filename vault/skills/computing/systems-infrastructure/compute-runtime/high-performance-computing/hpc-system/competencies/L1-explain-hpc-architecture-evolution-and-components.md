@@ -43,3 +43,6 @@ Explain the evolution and components of HPC architectures.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/hpc-architectural-evolution|HPC Architectural Evolution]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/fundamental-hpc-components|Fundamental HPC Components]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/component-interrelationships|Component Interrelationships]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

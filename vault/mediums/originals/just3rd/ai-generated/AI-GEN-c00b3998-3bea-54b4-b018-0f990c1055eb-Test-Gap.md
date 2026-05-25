@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/test-gap|test-gap]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/test-gap|test-gap]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Test Gaps with AI-Assisted Code Review

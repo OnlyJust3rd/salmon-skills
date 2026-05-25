@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/postcompression-encryption|postcompression-encryption]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/postcompression-encryption|postcompression-encryption]]"
 learning-time-in-minutes: 4
 ---
 # Postcompression Encryption

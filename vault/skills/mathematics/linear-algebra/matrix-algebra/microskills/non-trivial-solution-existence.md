@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the relationship between matrix properties and non-trivial solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

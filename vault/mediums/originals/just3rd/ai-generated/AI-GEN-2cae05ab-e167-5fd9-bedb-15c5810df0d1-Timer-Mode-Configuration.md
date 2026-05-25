@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[timer-mode-configuration|timer-mode-configuration]]"
+learning-outcomes:
+  - "[[timer-mode-configuration|timer-mode-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Timer Mode Configuration on AVR Microcontrollers

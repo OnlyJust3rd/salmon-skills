@@ -43,3 +43,6 @@ Explain the primary responsibilities of a data scientist and how different roles
 - [[skills/computing/data-ai/data-science/data-science/microskills/data-scientist-responsibilities|Data Scientist Responsibilities]]
 - [[skills/computing/data-ai/data-science/data-science/microskills/role-interdependencies|Role Interdependencies]]
 - [[skills/computing/data-ai/data-science/data-science/microskills/contribution-to-process|Contribution to Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -42,3 +42,6 @@ Implement CI/CD pipelines for serverless deployments.
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-integration-ci|Continuous Integration (CI)]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/infrastructure-as-code-integration|Infrastructure as Code Integration]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/serverless-deployment-automation|Serverless Deployment Automation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

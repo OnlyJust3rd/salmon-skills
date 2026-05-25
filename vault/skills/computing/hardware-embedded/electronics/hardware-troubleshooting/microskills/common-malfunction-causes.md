@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of common causes of physical hardware malfunctions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

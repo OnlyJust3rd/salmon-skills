@@ -43,3 +43,6 @@ Apply basic numerical integration techniques (e.g., trapezoidal rule and Simpson
 
 - [[trapezoidal-rule-approximation|Trapezoidal rule approximation]]
 - [[simpson-s-rule-approximation|Simpson's rule approximation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

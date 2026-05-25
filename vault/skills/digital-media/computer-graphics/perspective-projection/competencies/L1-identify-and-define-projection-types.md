@@ -43,3 +43,6 @@ Identify and define the two main types of projection: parallel and perspective.
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-types|Projection Types]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/parallel-projection|Parallel Projection]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/perspective-projection|Perspective Projection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

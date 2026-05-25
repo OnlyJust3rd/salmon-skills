@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How the link layer ensures reliable data transfer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

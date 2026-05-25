@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Essential elements of Relational Database Management Systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Securing a hypothetical speech signal using digital ciphering.
+## Related Mediums
+
+![[bases/related-mediums.base]]

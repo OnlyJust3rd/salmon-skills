@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Development of initial interface sketches based on UX principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

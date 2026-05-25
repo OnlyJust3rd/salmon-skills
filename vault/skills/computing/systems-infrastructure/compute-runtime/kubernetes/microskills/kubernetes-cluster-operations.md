@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of managing resources within a Kubernetes environment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

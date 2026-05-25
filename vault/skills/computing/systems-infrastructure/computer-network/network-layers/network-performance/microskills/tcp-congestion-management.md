@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how TCP handles network congestion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in dividing virtual networks into smaller subnets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinct characteristics of access control for copyright protection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

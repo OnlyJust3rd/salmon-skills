@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of combining simpler generators to create complex ones (e.g., Geffe).
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Key vocabulary within the Lean Startup framework.
+## Related Mediums
+
+![[bases/related-mediums.base]]

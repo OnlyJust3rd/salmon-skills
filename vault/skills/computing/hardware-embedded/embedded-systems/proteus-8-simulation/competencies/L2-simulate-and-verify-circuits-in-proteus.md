@@ -53,3 +53,6 @@ Utilize Proteus 8 to simulate and verify the logical behavior of designed digita
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/circuit-functionality-verification|Circuit Functionality Verification]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/combinational-circuit-simulation|Combinational Circuit Simulation]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/sequential-circuit-simulation|Sequential Circuit Simulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

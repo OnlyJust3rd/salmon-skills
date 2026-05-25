@@ -53,3 +53,6 @@ Describe and analyze the current state of research, emerging trends, and key cha
 - [[industry-4-0-and-iot|Industry 4.0 and IoT]]
 - [[iot-impact-analysis|IoT Impact Analysis]]
 - [[iot-sustainability-concerns|IoT Sustainability Concerns]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

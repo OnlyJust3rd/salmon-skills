@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/endpoint-behavior-analysis|endpoint-behavior-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/endpoint-behavior-analysis|endpoint-behavior-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Endpoint Behavior Analysis for Power Series

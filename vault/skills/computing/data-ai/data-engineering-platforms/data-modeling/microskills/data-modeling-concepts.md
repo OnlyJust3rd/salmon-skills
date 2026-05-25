@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of foundational data modeling concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

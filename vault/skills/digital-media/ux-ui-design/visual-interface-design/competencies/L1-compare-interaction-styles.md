@@ -43,3 +43,6 @@ Compare and contrast different interaction styles (e.g., direct manipulation, co
 - [[interaction-style-comparison|Interaction Style Comparison]]
 - [[strengths-and-weaknesses|Strengths and Weaknesses]]
 - [[user-interaction-methods|User Interaction Methods]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

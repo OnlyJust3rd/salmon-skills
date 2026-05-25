@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the structure of a multi-bus datapath.
+## Related Mediums
+
+![[bases/related-mediums.base]]

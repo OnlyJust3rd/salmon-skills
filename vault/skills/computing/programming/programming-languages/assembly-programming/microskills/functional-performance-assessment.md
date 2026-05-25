@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of assembly programs' effectiveness in completing assigned functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

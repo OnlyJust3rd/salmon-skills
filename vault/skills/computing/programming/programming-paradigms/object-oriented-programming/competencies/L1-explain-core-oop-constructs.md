@@ -51,3 +51,6 @@ Explain the core concepts of object-oriented programming, including classes, obj
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/method-behavior|Method behavior]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-principles|Encapsulation principles]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-concepts|Inheritance concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

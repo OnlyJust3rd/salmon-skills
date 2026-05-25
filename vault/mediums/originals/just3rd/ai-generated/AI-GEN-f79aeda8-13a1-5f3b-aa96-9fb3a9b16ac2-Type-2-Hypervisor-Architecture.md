@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-2-hypervisor-architecture|type-2-hypervisor-architecture]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-2-hypervisor-architecture|type-2-hypervisor-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Type-2 Hypervisor Architecture: The Hosted Approach

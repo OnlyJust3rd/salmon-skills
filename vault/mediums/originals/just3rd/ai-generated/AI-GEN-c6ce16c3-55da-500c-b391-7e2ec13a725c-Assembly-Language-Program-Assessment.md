@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/assembly-language-program-assessment|assembly-language-program-assessment]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/assembly-language-program-assessment|assembly-language-program-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing Assembly Language Programs

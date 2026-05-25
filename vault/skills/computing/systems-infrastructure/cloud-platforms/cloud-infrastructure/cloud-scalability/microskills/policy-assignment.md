@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in applying policies to specific scopes (subscriptions, resource groups).
+## Related Mediums
+
+![[bases/related-mediums.base]]

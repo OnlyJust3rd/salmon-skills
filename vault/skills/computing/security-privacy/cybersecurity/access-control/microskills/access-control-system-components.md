@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of fundamental elements within access control systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

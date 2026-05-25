@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/express-application-setup|express-application-setup]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/express-js/microskills/express-application-setup|express-application-setup]]"
 learning-time-in-minutes: 3
 ---
 # Express Application Setup

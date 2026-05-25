@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core concept of gameplay mechanics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

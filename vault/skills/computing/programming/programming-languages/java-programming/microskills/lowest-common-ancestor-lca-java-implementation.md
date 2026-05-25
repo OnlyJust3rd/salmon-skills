@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding algorithms to find the Lowest Common Ancestor in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

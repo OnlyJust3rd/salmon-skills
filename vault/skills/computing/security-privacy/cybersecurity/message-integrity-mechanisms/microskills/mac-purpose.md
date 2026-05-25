@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the purpose of MACs for data integrity and authentication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

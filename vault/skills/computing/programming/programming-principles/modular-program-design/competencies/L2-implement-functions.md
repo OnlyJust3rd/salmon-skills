@@ -49,3 +49,6 @@ Design and implement basic functions in C to encapsulate specific tasks, promoti
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/function-return-values|Function return values]]
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/task-encapsulation|Task encapsulation]]
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/code-reusability-through-functions|Code reusability through functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

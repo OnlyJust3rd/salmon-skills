@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-supply-problems|power-supply-problems]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-supply-problems|power-supply-problems]]"
 learning-time-in-minutes: 4
 ---
 # Power Supply Problems in Digital Circuit Design

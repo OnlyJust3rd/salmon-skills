@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of operations to reduce image detail.
+## Related Mediums
+
+![[bases/related-mediums.base]]

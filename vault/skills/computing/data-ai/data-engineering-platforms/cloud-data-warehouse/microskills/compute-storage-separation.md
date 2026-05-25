@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding independently managed query compute and stored data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

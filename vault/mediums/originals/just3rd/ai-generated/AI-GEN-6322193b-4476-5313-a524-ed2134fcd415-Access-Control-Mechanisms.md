@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-mechanisms|access-control-mechanisms]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-mechanisms|access-control-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Access Control Mechanisms

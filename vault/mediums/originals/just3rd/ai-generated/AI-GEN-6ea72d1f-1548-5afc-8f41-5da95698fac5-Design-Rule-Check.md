@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/design-rule-check|design-rule-check]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/design-rule-check|design-rule-check]]"
 learning-time-in-minutes: 5
 ---
 # Design Rule Check (DRC) in PCB Design

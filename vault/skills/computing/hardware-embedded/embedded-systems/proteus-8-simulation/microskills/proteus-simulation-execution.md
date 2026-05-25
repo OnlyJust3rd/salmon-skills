@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of Proteus 8 for running simulations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

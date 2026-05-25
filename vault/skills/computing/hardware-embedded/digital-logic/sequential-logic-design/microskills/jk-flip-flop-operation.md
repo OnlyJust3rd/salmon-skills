@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of JK flip-flop functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

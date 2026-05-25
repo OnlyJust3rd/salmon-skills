@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role of PoC in solution feasibility.
+## Related Mediums
+
+![[bases/related-mediums.base]]

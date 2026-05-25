@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/potential-deadlock-identification|potential-deadlock-identification]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/potential-deadlock-identification|potential-deadlock-identification]]"
 learning-time-in-minutes: 3
 ---
 # Identifying Potential Deadlocks with Resource Allocation Graphs

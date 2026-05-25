@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/mesh-nodal-analysis-application|mesh-nodal-analysis-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/mesh-nodal-analysis-application|mesh-nodal-analysis-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Mesh and Nodal Analysis

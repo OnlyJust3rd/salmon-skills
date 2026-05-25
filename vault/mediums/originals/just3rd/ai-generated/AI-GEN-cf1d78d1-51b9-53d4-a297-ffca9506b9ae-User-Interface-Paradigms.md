@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-interface-paradigms|user-interface-paradigms]]"
+learning-outcomes:
+  - "[[user-interface-paradigms|user-interface-paradigms]]"
 learning-time-in-minutes: 4
 ---
 # User Interface Paradigms: A Historical Overview

@@ -39,3 +39,6 @@ None.
 - [[skills/computing/data-ai/databases/database-performance/database-replication/microskills/primary-replica-topology|Primary Replica Topology]]
 - [[skills/computing/data-ai/databases/database-performance/database-replication/microskills/replication-lag|Replication Lag]]
 - [[skills/computing/data-ai/databases/database-performance/database-replication/microskills/failover-behavior|Failover Behavior]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

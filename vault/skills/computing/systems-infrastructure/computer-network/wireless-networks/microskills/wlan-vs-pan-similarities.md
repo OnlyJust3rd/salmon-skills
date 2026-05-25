@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying common features between WLANs and PANs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

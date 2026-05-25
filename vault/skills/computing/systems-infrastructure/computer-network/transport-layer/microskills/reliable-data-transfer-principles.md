@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core concepts of ensuring data arrives without errors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

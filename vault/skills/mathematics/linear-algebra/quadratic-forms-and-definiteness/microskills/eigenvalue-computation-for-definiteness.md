@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating eigenvalues of the associated symmetric matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

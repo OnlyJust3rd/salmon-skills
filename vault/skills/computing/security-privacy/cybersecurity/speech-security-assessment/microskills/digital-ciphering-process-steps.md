@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of steps for basic digital ciphering.
+## Related Mediums
+
+![[bases/related-mediums.base]]

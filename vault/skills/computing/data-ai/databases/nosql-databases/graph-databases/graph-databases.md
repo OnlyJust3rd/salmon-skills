@@ -30,3 +30,6 @@ Modeling and querying highly connected data using nodes, relationships, properti
 - [[skills/computing/data-ai/databases/nosql-databases/graph-databases/microskills/node-edge-property-model|Node Edge Property Model]]
 - [[skills/computing/data-ai/databases/nosql-databases/graph-databases/microskills/graph-traversal-queries|Graph Traversal Queries]]
 - [[skills/computing/data-ai/databases/nosql-databases/graph-databases/microskills/relationship-centric-modeling|Relationship-Centric Modeling]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

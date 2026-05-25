@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of safe procedures for using laboratory equipment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

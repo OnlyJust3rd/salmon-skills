@@ -43,3 +43,6 @@ Explain ethical considerations related to future human-computer interaction capa
 
 - [[ethical-implications-of-hci|Ethical Implications of HCI]]
 - [[future-technology-ethics|Future Technology Ethics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

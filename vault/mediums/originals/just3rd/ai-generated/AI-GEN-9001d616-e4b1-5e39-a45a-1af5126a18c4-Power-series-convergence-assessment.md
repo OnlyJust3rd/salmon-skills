@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/power-series-convergence-assessment|power-series-convergence-assessment]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/power-series-convergence-assessment|power-series-convergence-assessment]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Power Series Convergence

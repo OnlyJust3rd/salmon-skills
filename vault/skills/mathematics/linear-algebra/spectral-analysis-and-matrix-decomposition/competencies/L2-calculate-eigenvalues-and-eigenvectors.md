@@ -47,3 +47,6 @@ Calculate eigenvalues and their corresponding eigenvectors for a given matrix.
 - [[eigenvalue-computation|Eigenvalue computation]]
 - [[eigenvector-computation|Eigenvector computation]]
 - [[eigenpair-calculation|Eigenpair calculation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

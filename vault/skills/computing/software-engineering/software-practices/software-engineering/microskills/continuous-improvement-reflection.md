@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying agile principles for ongoing enhancement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/calculus-based-graph-sketching|calculus-based-graph-sketching]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/calculus-based-graph-sketching|calculus-based-graph-sketching]]"
 learning-time-in-minutes: 3
 ---
 # Sketching Curves with Derivatives

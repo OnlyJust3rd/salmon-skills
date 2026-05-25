@@ -49,3 +49,6 @@ Implement backtracking algorithms in Java for problems such as N-Queens Problem,
 - [[skills/computing/programming/programming-languages/java-programming/microskills/subset-generation-backtracking-java-implementation|Subset Generation Backtracking Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/permutation-generation-backtracking-java-implementation|Permutation Generation Backtracking Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/hamiltonian-path-cycle-backtracking-java-implementation|Hamiltonian Path/Cycle Backtracking Java Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

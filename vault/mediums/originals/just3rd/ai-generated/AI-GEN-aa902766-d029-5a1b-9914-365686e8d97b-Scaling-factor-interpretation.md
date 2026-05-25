@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/scaling-factor-interpretation|scaling-factor-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/scaling-factor-interpretation|scaling-factor-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Eigenvalues as Scaling Factors

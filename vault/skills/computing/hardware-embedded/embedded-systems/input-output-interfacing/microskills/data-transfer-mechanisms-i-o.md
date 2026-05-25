@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the processes of data transfer between I/O devices and the processor.
+## Related Mediums
+
+![[bases/related-mediums.base]]

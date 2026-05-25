@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/compute-storage-separation|compute-storage-separation]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/compute-storage-separation|compute-storage-separation]]"
 learning-time-in-minutes: 4
 ---
 # Compute-Storage Separation in Cloud Data Warehouses

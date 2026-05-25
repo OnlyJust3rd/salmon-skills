@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[job-scheduling-with-deadlines-greedy-java-implementation|job-scheduling-with-deadlines-greedy-java-implementation]]"
+learning-outcomes:
+  - "[[job-scheduling-with-deadlines-greedy-java-implementation|job-scheduling-with-deadlines-greedy-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Job Scheduling with Deadlines: Greedy Java Implementation

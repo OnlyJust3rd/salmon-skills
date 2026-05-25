@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[strengths-and-weaknesses-of-ai-paradigms|strengths-and-weaknesses-of-ai-paradigms]]"
+learning-outcomes:
+  - "[[strengths-and-weaknesses-of-ai-paradigms|strengths-and-weaknesses-of-ai-paradigms]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Strengths and Weaknesses of AI Behavior Paradigms for Robotics

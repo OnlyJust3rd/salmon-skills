@@ -61,3 +61,6 @@ Utilize Proteus 8 software for simulating and verifying the logical behavior of 
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/simulation-data-examination|Simulation Data Examination]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/simulation-initiation|Simulation Initiation]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/simulation-result-interpretation|Simulation Result Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

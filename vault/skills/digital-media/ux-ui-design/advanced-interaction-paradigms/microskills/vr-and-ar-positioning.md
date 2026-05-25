@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining where VR and AR fit within the virtuality continuum.
+## Related Mediums
+
+![[bases/related-mediums.base]]

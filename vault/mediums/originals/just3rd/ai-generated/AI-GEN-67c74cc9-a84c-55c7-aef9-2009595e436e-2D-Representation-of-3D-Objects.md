@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/perspective-projection/microskills/2d-representation-of-3d-objects|2d-representation-of-3d-objects]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/2d-representation-of-3d-objects|2d-representation-of-3d-objects]]"
 learning-time-in-minutes: 5
 ---
 # Creating 2D Representations of 3D Objects

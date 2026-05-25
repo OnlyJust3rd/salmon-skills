@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[exit-codes|exit-codes]]"
+learning-outcomes:
+  - "[[exit-codes|exit-codes]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Exit Codes in Shell Scripting

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying prevention strategies to given scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

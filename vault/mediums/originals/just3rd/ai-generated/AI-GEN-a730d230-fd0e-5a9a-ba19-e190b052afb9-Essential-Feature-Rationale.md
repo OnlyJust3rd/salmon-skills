@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/essential-feature-rationale|essential-feature-rationale]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/essential-feature-rationale|essential-feature-rationale]]"
 learning-time-in-minutes: 5
 ---
 # Justifying Your MVP's Essential Features

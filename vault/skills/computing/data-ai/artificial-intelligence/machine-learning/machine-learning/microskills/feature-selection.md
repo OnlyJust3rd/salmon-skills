@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Selecting relevant features.
+## Related Mediums
+
+![[bases/related-mediums.base]]

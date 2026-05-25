@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/systematic-troubleshooting-techniques|systematic-troubleshooting-techniques]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/systematic-troubleshooting-techniques|systematic-troubleshooting-techniques]]"
 learning-time-in-minutes: 6
 ---
 # Systematic Troubleshooting Techniques for Hardware

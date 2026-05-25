@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the procedure for finding P and D matrices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

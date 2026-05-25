@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding lists, dictionaries, and enumerable data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

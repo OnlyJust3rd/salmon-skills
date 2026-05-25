@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying formulas to compute the phase spectrum of DTFT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

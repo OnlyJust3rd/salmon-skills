@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of what the Intermediate Value Theorem signifies for function values across a given interval.
+## Related Mediums
+
+![[bases/related-mediums.base]]

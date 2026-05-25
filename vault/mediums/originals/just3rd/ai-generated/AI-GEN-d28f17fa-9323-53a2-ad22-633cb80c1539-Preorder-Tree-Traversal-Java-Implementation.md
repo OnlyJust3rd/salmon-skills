@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[preorder-tree-traversal-java-implementation|preorder-tree-traversal-java-implementation]]"
+learning-outcomes:
+  - "[[preorder-tree-traversal-java-implementation|preorder-tree-traversal-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Preorder Tree Traversal in Java

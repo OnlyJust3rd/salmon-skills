@@ -43,3 +43,6 @@ Explain the mechanics of Linear Feedback Shift Registers (LFSR) in generating ps
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/linear-feedback-shift-register-lfsr-mechanics|Linear Feedback Shift Register (LFSR) Mechanics]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/pseudorandom-keystream-generation|Pseudorandom Keystream Generation]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/lfsr-definition-recall|LFSR Definition Recall]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

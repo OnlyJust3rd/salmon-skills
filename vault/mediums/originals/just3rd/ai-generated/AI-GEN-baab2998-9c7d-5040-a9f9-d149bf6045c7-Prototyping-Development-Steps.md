@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[prototyping-development-steps|prototyping-development-steps]]"
+learning-outcomes:
+  - "[[prototyping-development-steps|prototyping-development-steps]]"
 learning-time-in-minutes: 6
 ---
 # Prototyping Development Steps: Conceptual vs. Concrete Design

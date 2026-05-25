@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of pin configurations for common logic gate ICs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

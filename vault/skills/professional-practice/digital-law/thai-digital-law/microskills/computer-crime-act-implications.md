@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of the Act's significance and consequences.
+## Related Mediums
+
+![[bases/related-mediums.base]]

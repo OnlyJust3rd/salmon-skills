@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/functional-embedded-system-integration|functional-embedded-system-integration]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/functional-embedded-system-integration|functional-embedded-system-integration]]"
 learning-time-in-minutes: 4
 ---
 # Functional Embedded System Integration

@@ -43,3 +43,6 @@ Evaluate memory hierarchy design trade-offs (latency, throughput, cost, power) f
 
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/workload-locality-reasoning|Workload Locality Reasoning]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cost-performance-justification|Cost/Performance Justification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

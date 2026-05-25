@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-pattern-facilitation|design-pattern-facilitation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-pattern-facilitation|design-pattern-facilitation]]"
 learning-time-in-minutes: 4
 ---
 # How OO Design Principles Pave the Way for Design Patterns

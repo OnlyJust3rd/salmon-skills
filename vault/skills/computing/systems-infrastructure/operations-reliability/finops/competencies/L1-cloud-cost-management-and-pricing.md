@@ -47,3 +47,6 @@ Explain the importance of cost management in cloud environments and the relation
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/impact-of-pricing-models-on-cost|Impact of Pricing Models on Cost]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-techniques|Cost Optimization Techniques]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-spend-visibility|Cloud Spend Visibility]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

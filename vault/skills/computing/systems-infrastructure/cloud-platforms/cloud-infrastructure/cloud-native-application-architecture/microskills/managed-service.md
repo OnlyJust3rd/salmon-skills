@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding services operated by a cloud provider.
+## Related Mediums
+
+![[bases/related-mediums.base]]

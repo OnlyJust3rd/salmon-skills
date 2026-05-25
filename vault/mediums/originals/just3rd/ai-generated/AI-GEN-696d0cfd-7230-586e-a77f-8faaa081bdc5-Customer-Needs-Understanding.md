@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/customer-needs-understanding|customer-needs-understanding]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/customer-needs-understanding|customer-needs-understanding]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Customer Needs Through Discovery Interviews

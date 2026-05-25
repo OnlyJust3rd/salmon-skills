@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of specific hash functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

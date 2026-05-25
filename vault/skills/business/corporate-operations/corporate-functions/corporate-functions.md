@@ -46,3 +46,6 @@ Detail the core functions and responsibilities of various corporate departments,
 - [[skills/business/corporate-operations/corporate-functions/microskills/operations-functions|Operations Functions]]
 - [[skills/business/corporate-operations/corporate-functions/microskills/research-and-development-functions|Research and Development Functions]]
 - [[skills/business/corporate-operations/corporate-functions/microskills/sales-functions|Sales Functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

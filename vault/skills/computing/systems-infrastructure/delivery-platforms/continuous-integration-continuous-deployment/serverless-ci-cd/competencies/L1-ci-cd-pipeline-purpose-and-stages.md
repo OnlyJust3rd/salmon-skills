@@ -49,3 +49,6 @@ Explain the purpose and key stages of a CI/CD pipeline for serverless deployment
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-pipeline-stages|CI/CD Pipeline Stages]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/automated-software-delivery|Automated Software Delivery]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/serverless-deployment-automation|Serverless Deployment Automation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

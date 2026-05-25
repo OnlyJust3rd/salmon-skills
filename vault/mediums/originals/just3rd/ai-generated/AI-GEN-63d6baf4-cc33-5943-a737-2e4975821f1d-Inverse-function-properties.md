@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/function-analysis/microskills/inverse-function-properties|inverse-function-properties]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/function-analysis/microskills/inverse-function-properties|inverse-function-properties]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Inverse Function Properties

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/encryption-integration-in-compression-pipeline|encryption-integration-in-compression-pipeline]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/encryption-integration-in-compression-pipeline|encryption-integration-in-compression-pipeline]]"
 learning-time-in-minutes: 5
 ---
 # Integrating Encryption with Multimedia Compression

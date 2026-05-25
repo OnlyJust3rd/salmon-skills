@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/saas-characteristics|saas-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/saas-characteristics|saas-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # SaaS Characteristics: Understanding Software as a Service

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing the expense of breadboarding versus soldering.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/pixel-coordinate-generation|pixel-coordinate-generation]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/pixel-coordinate-generation|pixel-coordinate-generation]]"
 learning-time-in-minutes: 5
 ---
 # Pixel Coordinate Generation in Bresenham's Algorithm

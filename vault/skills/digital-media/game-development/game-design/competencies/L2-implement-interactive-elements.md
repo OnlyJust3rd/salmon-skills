@@ -43,3 +43,6 @@ Implement interactive elements within a designed level to guide player progressi
 - [[skills/digital-media/game-development/game-design/microskills/strategic-element-placement|Strategic Element Placement]]
 - [[skills/digital-media/game-development/game-design/microskills/player-progression-guidance|Player Progression Guidance]]
 - [[skills/digital-media/game-development/game-design/microskills/engagement-enhancement-through-interaction|Engagement Enhancement through Interaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

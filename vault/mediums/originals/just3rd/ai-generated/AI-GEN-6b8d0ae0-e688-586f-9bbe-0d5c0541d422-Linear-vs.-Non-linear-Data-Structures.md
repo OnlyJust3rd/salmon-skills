@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/linear-vs-non-linear-data-structures|linear-vs-non-linear-data-structures]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/linear-vs-non-linear-data-structures|linear-vs-non-linear-data-structures]]"
 learning-time-in-minutes: 4
 ---
 # Linear vs. Non-linear Data Structures

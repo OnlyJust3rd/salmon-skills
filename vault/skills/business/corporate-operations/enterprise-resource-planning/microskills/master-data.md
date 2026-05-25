@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding shared business entities used across processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

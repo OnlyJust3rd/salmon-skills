@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of resizing operations on digital images.
+## Related Mediums
+
+![[bases/related-mediums.base]]

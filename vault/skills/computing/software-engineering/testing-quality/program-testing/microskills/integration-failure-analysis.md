@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capacity to analyze integration test failures and determine which unit caused the issue.
+## Related Mediums
+
+![[bases/related-mediums.base]]

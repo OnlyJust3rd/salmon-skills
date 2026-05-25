@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/invertibility-system-verification|invertibility-system-verification]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/invertibility-system-verification|invertibility-system-verification]]"
 learning-time-in-minutes: 5
 ---
 # Verifying System Invertibility

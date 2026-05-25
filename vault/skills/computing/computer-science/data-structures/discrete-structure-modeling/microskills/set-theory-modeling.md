@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing sets to represent collections of objects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

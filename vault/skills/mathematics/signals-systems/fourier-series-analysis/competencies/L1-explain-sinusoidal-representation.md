@@ -45,3 +45,6 @@ Explain the representation of periodic signals as a sum of sinusoids.
 - [[sine-and-cosine-component-identification|Sine and Cosine Component Identification]]
 - [[fourier-series-fs-definition|Fourier Series (FS) Definition]]
 - [[discrete-time-fourier-series-dtfs-definition|Discrete-Time Fourier Series (DTFS) Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

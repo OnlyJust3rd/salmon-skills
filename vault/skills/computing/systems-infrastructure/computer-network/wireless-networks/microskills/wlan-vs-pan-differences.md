@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between the designs and functions of WLANs and PANs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

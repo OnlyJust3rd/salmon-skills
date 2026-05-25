@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to define Azure resources using Bicep.
+## Related Mediums
+
+![[bases/related-mediums.base]]

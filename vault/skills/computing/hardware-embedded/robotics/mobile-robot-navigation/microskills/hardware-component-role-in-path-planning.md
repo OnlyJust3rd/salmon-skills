@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the function of hardware components in robotic path planning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

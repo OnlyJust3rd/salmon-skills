@@ -53,3 +53,6 @@ Assemble, program, and implement basic robotic system functionality by integrati
 - [[robotic-system-programming|Robotic System Programming]]
 - [[hardware-software-integration-for-robotics|Hardware-Software Integration for Robotics]]
 - [[task-oriented-robotic-implementation|Task-Oriented Robotic Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

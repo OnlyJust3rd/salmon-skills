@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interaction-style-comparison|interaction-style-comparison]]"
+learning-outcomes:
+  - "[[interaction-style-comparison|interaction-style-comparison]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Different Interaction Styles

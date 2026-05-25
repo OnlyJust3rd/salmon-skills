@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to identify appropriate applications for different transmission media.
+## Related Mediums
+
+![[bases/related-mediums.base]]

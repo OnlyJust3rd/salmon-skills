@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describe the functionality of Java objects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

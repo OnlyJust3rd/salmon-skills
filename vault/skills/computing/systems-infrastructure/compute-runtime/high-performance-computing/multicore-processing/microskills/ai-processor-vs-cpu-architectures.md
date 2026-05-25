@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of distinct structural designs of AI processors compared to CPUs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

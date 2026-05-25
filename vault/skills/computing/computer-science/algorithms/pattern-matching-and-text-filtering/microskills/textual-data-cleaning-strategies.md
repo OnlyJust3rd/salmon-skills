@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of specific methods for the removal of unwanted elements from text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

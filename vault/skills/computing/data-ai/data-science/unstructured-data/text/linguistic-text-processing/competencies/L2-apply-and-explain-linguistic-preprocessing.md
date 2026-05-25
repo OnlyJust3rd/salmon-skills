@@ -49,3 +49,6 @@ Apply tokenization, Part-of-Speech (POS) tagging, lemmatization, and Named-Entit
 - [[lemmatization-process-execution|Lemmatization Process Execution]]
 - [[named-entity-recognition-ner-application|Named-Entity Recognition (NER) Application]]
 - [[linguistic-preprocessing-significance|Linguistic Preprocessing Significance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

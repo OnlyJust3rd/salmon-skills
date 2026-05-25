@@ -47,3 +47,6 @@ Explain REST-oriented resource naming, common HTTP methods, status code families
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-identifiers|Resource identifiers]]
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/http-method-semantics|HTTP method semantics]]
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/status-code-interpretation|Status code interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

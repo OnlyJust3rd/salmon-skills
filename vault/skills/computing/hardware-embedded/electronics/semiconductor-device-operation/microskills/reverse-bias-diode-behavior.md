@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding diode operation under reverse bias.
+## Related Mediums
+
+![[bases/related-mediums.base]]

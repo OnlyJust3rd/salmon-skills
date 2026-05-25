@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the interaction between a client and a web server.
+## Related Mediums
+
+![[bases/related-mediums.base]]

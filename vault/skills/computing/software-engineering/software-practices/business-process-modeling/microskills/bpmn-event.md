@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing start, intermediate, or end points.
+## Related Mediums
+
+![[bases/related-mediums.base]]

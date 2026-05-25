@@ -51,3 +51,6 @@ Explain how object-oriented design principles, including responsibility assignme
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/separation-of-concerns-impact|Separation of Concerns Impact]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-pattern-facilitation|Design Pattern Facilitation]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/maintainability-impact-of-oo-design|Maintainability Impact of OO Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

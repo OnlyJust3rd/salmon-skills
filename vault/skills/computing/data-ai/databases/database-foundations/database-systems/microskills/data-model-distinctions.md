@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the diverse approaches to data representation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

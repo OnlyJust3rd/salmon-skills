@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reviewing Copilot-produced changes before merge.
+## Related Mediums
+
+![[bases/related-mediums.base]]

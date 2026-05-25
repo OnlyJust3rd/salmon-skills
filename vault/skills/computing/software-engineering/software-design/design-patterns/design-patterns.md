@@ -63,3 +63,6 @@ Applying established solutions (design patterns) to recurring software design pr
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-identification|Recurring Design Problem Identification]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-solutions|Recurring Design Problem Solutions]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/when-to-use-specific-patterns|When to Use Specific Patterns]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

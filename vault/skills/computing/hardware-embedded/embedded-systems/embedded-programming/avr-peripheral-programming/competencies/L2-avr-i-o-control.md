@@ -47,3 +47,6 @@ Implement bare-metal C code to configure and control AVR microcontroller I/O por
 - [[input-pin-configuration|Input Pin Configuration]]
 - [[digital-signal-manipulation|Digital Signal Manipulation]]
 - [[reading-digital-inputs|Reading Digital Inputs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

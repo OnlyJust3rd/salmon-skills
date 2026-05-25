@@ -47,3 +47,6 @@ Describe how time reversal and time shifting affect a signal and its representat
 - [[time-shifting-impact|Time Shifting Impact]]
 - [[signal-representation-changes|Signal Representation Changes]]
 - [[fourier-series-coefficient-impact|Fourier Series Coefficient Impact]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

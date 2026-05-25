@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[examples-of-reactive-control|examples-of-reactive-control]]"
+learning-outcomes:
+  - "[[examples-of-reactive-control|examples-of-reactive-control]]"
 learning-time-in-minutes: 5
 ---
 # Examples of Reactive Control in Robotics

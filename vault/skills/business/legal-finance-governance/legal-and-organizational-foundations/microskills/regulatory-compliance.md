@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding relevant rules and laws.
+## Related Mediums
+
+![[bases/related-mediums.base]]

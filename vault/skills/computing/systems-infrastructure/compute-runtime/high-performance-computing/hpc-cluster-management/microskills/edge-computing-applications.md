@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Overview of practical use cases for Edge Computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

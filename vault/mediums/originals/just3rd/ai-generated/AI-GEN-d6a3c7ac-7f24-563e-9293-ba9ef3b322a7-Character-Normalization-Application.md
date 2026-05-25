@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[character-normalization-application|character-normalization-application]]"
+learning-outcomes:
+  - "[[character-normalization-application|character-normalization-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying Character Normalization

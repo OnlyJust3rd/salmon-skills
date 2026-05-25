@@ -38,3 +38,6 @@ Understanding integrated enterprise systems that coordinate business processes, 
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/master-data|Master Data]]
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/module-boundary|Module Boundary]]
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/process-configuration|Process Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

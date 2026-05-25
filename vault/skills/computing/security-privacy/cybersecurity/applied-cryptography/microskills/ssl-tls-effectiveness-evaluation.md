@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of effectiveness and security trade-offs for SSL/TLS.
+## Related Mediums
+
+![[bases/related-mediums.base]]

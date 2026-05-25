@@ -47,3 +47,6 @@ Apply object-oriented programming principles to solve given programming problems
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-application|Inheritance Application]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-application|Polymorphism Application]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/oop-problem-solving|OOP Problem Solving]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

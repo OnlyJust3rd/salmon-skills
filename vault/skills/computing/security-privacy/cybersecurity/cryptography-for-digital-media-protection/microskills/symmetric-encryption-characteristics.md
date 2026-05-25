@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of key management, speed, and security of symmetric algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

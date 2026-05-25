@@ -49,3 +49,6 @@ Explain the purpose and process of removing unwanted characters, HTML tags, and 
 - [[html-tag-removal-process|HTML Tag Removal Process]]
 - [[character-normalization-process-explanation|Character Normalization Process Explanation]]
 - [[textual-noise-elimination-rationale|Textual Noise Elimination Rationale]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

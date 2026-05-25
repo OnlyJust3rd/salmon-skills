@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/producer-consumer-bounded-buffer-solution|producer-consumer-bounded-buffer-solution]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/producer-consumer-bounded-buffer-solution|producer-consumer-bounded-buffer-solution]]"
 learning-time-in-minutes: 3
 ---
 # Producer-Consumer Bounded-Buffer Solution with Condition Variables

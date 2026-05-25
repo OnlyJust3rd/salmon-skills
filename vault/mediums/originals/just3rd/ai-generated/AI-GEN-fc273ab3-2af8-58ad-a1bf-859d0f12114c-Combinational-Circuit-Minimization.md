@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/combinational-circuit-minimization|combinational-circuit-minimization]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/combinational-circuit-minimization|combinational-circuit-minimization]]"
 learning-time-in-minutes: 15
 ---
 # Combinational Circuit Minimization with K-maps

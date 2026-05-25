@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Documenting exact actions that expose a bug.
+## Related Mediums
+
+![[bases/related-mediums.base]]

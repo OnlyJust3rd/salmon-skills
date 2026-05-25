@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in choosing appropriate unit test approaches and inputs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

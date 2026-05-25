@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[spectrum-interpretation|spectrum-interpretation]]"
+learning-outcomes:
+  - "[[spectrum-interpretation|spectrum-interpretation]]"
 learning-time-in-minutes: 6
 ---
 # Understanding the Virtuality Continuum

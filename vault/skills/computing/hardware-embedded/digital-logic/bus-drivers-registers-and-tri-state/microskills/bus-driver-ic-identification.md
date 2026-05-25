@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of common bus driver ICs and their purpose.
+## Related Mediums
+
+![[bases/related-mediums.base]]

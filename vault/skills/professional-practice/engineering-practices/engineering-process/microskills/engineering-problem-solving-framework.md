@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehensive understanding of the systematic approach to resolving engineering challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

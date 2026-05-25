@@ -55,3 +55,6 @@ Implement and apply genetic programming techniques to evolve robotic behaviors a
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/evolution-of-robotic-behaviors-via-gp|Evolution of Robotic Behaviors via GP]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/evolution-of-subsumption-architectures|Evolution of Subsumption Architectures]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/gp-based-robotic-control-design|GP-Based Robotic Control Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

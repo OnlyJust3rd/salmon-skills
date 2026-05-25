@@ -49,3 +49,6 @@ Analyze the impact of game difficulty and flow on player engagement and apply pr
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/flow-theory-application|Flow Theory Application]]
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/adaptive-challenge-implementation|Adaptive Challenge Implementation]]
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-maintenance|Player Immersion Maintenance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain the concept of representing periodic functions as a sum of sines and cosines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

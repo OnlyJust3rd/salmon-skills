@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[output-pin-configuration|output-pin-configuration]]"
+learning-outcomes:
+  - "[[output-pin-configuration|output-pin-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Configuring AVR I/O Ports for Digital Output

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing software engineering's role in addressing and solving complex challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of various formats used to represent numbers in computers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

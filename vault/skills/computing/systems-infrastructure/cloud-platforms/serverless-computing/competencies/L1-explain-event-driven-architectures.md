@@ -49,3 +49,6 @@ Explain event-driven architectures and their function.
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/event-routing|Event Routing]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/asynchronous-communication|Asynchronous Communication]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/decoupled-systems|Decoupled Systems]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

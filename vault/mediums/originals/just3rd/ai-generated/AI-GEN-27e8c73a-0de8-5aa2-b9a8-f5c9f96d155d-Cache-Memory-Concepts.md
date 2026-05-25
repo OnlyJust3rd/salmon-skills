@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-memory-concepts|cache-memory-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-memory-concepts|cache-memory-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Cache Memory: The Speed Booster for Your Computer

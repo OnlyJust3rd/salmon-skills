@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/ctft-phase-calculation|ctft-phase-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/ctft-phase-calculation|ctft-phase-calculation]]"
 learning-time-in-minutes: 4
 ---
 # CTFT Phase Calculation

@@ -45,3 +45,6 @@ Apply shader and material parameter concepts.
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/texture-sampling|Texture Sampling]]
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/lighting-response|Lighting Response]]
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/visual-effect-parameter|Visual Effect Parameter]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

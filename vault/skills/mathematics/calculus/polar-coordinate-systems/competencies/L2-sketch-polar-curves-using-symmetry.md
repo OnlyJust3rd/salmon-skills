@@ -45,3 +45,6 @@ Sketch complex curves in the polar coordinate system by defining their character
 - [[polar-curve-characteristic-identification|Polar curve characteristic identification]]
 - [[polar-curve-symmetry-application|Polar curve symmetry application]]
 - [[complex-polar-curve-sketching|Complex polar curve sketching]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

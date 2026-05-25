@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to implement conditional statements and loops in C.
+## Related Mediums
+
+![[bases/related-mediums.base]]

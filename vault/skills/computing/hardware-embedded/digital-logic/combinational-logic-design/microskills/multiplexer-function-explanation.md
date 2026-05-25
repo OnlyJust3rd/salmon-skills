@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how multiplexers select and route data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and understanding of cosine similarity for comparing text vectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Making code easier to understand.
+## Related Mediums
+
+![[bases/related-mediums.base]]

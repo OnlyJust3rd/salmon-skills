@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in breaking down a computational solution into logical and sequential steps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-based-substring-extraction|regular-expression-based-substring-extraction]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-based-substring-extraction|regular-expression-based-substring-extraction]]"
 learning-time-in-minutes: 4
 ---
 # Extracting Specific Text Segments with Regular Expressions

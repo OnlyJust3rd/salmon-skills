@@ -45,3 +45,6 @@ Analyze lakehouse and warehouse trade-offs.
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/cost-trade-off|Cost Trade-off]]
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/governance-trade-off|Governance Trade-off]]
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/workload-fit|Workload Fit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-testing-objectives|usability-testing-objectives]]"
+learning-outcomes:
+  - "[[usability-testing-objectives|usability-testing-objectives]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Usability Testing Objectives

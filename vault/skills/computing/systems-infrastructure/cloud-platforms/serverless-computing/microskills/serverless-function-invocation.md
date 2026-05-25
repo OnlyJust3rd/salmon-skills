@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how different events initiate function execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

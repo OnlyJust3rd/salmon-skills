@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding advantages like consistency, repeatability, and version control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

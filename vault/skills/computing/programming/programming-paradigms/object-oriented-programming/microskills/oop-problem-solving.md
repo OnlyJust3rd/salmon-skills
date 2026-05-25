@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing OOP principles to construct code solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

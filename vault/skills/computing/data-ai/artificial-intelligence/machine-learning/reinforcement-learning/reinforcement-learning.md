@@ -52,3 +52,6 @@ Applying reinforcement learning techniques to model and solve sequential decisio
 - [[q-value-update-mechanism|Q-value update mechanism]]
 - [[reward-definition|Reward definition]]
 - [[state-definition|State definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

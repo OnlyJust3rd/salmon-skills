@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-material-safeguarding|copyright-material-safeguarding]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-material-safeguarding|copyright-material-safeguarding]]"
 learning-time-in-minutes: 3
 ---
 # Safeguarding Your Copyrighted Material

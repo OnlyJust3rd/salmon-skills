@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[internet-control-message-protocol|internet-control-message-protocol]]"
+learning-outcomes:
+  - "[[internet-control-message-protocol|internet-control-message-protocol]]"
 learning-time-in-minutes: 6
 ---
 # Internet Control Message Protocol (ICMP)

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to compare different data modeling techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

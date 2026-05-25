@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing compute size for workload needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

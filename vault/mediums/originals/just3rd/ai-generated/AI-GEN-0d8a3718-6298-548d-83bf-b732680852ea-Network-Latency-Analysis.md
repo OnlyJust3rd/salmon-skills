@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-latency-analysis|network-latency-analysis]]"
+learning-outcomes:
+  - "[[network-latency-analysis|network-latency-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Network Latency and Congestion

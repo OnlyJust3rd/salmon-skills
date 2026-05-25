@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-algebra-postulates|boolean-algebra-postulates]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-algebra-postulates|boolean-algebra-postulates]]"
 learning-time-in-minutes: 6
 ---
 # Boolean Algebra Postulates: The Foundation of Digital Logic

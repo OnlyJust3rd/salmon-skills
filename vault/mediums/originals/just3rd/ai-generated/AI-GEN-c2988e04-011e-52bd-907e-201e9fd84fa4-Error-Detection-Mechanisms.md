@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[error-detection-mechanisms|error-detection-mechanisms]]"
+learning-outcomes:
+  - "[[error-detection-mechanisms|error-detection-mechanisms]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Error Detection Mechanisms

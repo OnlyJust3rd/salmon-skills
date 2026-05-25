@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to evaluate triple integrals over solid regions in rectangular coordinates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

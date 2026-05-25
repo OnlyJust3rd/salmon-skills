@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/generalizing-diagonalization|generalizing-diagonalization]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/generalizing-diagonalization|generalizing-diagonalization]]"
 learning-time-in-minutes: 4
 ---
 # Jordan Canonical Form: Beyond Diagonalization

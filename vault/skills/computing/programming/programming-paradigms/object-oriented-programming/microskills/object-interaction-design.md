@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Structuring how instances collaborate.
+## Related Mediums
+
+![[bases/related-mediums.base]]

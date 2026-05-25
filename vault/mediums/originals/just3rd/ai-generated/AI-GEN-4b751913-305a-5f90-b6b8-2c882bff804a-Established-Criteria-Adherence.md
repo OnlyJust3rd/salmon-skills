@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/established-criteria-adherence|established-criteria-adherence]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/established-criteria-adherence|established-criteria-adherence]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating Your Problem-Solving Approach Against Project Criteria

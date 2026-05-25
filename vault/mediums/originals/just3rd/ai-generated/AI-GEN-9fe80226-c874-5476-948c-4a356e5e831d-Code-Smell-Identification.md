@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-smell-identification|code-smell-identification]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/code-smell-identification|code-smell-identification]]"
 learning-time-in-minutes: 4
 ---
 # Recognizing Code Smells

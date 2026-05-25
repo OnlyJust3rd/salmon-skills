@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Illustrating cryptographic principles in a simplified SSL/TLS model.
+## Related Mediums
+
+![[bases/related-mediums.base]]

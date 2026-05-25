@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the specific formula for 2x2 invertible matrices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

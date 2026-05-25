@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|gustafson-s-law-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|gustafson-s-law-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Gustafson's Law

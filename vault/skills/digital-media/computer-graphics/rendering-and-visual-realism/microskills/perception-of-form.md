@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how shading enhances the perception of an object's shape.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how operating systems manage system hardware and software resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/fundamental-signal-components|fundamental-signal-components]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/fundamental-signal-components|fundamental-signal-components]]"
 learning-time-in-minutes: 6
 ---
 # Fundamental Signal Components

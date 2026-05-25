@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of access control principles within a DRM context.
+## Related Mediums
+
+![[bases/related-mediums.base]]

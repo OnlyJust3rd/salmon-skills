@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonality-properties|orthogonality-properties]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonality-properties|orthogonality-properties]]"
 learning-time-in-minutes: 4
 ---
 # Orthogonality Properties

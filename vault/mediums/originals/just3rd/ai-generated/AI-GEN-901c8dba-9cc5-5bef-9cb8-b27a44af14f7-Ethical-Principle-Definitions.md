@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/ethical-principle-definitions|ethical-principle-definitions]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/ethical-principle-definitions|ethical-principle-definitions]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Ethical Principles in Business

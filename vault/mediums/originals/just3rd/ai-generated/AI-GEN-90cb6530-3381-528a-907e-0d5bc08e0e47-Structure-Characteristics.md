@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/organizational-structures/microskills/structure-characteristics|structure-characteristics]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/organizational-structures/microskills/structure-characteristics|structure-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Structure Characteristics

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to recall the definition of double integrals over plane regions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

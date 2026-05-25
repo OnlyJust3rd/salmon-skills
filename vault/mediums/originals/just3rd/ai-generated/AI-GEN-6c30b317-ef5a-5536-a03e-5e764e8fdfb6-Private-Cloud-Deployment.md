@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/private-cloud-deployment|private-cloud-deployment]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/private-cloud-deployment|private-cloud-deployment]]"
 learning-time-in-minutes: 3
 ---
 # Private Cloud Deployment

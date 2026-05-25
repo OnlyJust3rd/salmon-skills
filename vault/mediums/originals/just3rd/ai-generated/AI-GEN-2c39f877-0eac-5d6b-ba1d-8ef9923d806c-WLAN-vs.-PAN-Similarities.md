@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[wlan-vs-pan-similarities|wlan-vs-pan-similarities]]"
+learning-outcomes:
+  - "[[wlan-vs-pan-similarities|wlan-vs-pan-similarities]]"
 learning-time-in-minutes: 4
 ---
 # WLAN vs. PAN Similarities

@@ -63,3 +63,6 @@ Analyzing pipelined processor architectures, identifying and resolving performan
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelining-benefits-for-execution-speed|Pipelining Benefits for Execution Speed]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelining-principles|Pipelining Principles]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/structural-hazard-identification|Structural Hazard Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

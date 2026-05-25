@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the impact of storage access speed on performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role and purpose of testbenches in simulation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

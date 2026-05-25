@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/subscription-access|subscription-access]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/subscription-access|subscription-access]]"
 learning-time-in-minutes: 4
 ---
 # Subscription Access: Understanding Recurring Service Entitlement

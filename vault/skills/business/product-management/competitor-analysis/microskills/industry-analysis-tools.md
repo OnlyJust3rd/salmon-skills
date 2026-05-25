@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Leveraging resources for competitor identification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

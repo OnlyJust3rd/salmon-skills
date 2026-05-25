@@ -43,3 +43,6 @@ Analyze competitors and identify alternative solutions in the market.
 - [[skills/business/product-management/competitor-analysis/microskills/competitive-landscape-analysis|Competitive Landscape Analysis]]
 - [[skills/business/product-management/competitor-analysis/microskills/alternative-solution-identification|Alternative Solution Identification]]
 - [[skills/business/product-management/competitor-analysis/microskills/competitor-offering-breakdown|Competitor Offering Breakdown]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

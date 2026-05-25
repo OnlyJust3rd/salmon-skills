@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/discourse-influence|discourse-influence]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/discourse-influence|discourse-influence]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Discourse Influence on Social Media

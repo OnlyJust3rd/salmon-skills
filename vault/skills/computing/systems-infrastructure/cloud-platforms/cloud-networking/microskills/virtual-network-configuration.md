@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in setting up cloud virtual networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

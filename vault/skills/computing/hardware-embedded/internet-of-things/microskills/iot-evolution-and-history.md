@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the historical development and evolution of the Internet of Things.
+## Related Mediums
+
+![[bases/related-mediums.base]]

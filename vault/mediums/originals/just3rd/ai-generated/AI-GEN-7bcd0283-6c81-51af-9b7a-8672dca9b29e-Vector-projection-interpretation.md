@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/vector-projection-interpretation|vector-projection-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/vector-projection-interpretation|vector-projection-interpretation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Vector Projection: What it Means and Why We Use It

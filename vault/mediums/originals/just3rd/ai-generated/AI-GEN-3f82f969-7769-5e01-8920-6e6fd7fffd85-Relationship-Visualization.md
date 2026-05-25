@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[relationship-visualization|relationship-visualization]]"
+learning-outcomes:
+  - "[[relationship-visualization|relationship-visualization]]"
 learning-time-in-minutes: 4
 ---
 # Visualizing Relationships with Matplotlib

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of hybrid memory allocation schemes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

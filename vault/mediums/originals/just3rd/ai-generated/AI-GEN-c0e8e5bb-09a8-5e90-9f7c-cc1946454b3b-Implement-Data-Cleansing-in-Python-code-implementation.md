@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-data-cleansing-in-python-code-implementation|implement-data-cleansing-in-python-code-implementation]]"
+learning-outcomes:
+  - "[[implement-data-cleansing-in-python-code-implementation|implement-data-cleansing-in-python-code-implementation]]"
 learning-time-in-minutes: 2
 ---
 # Implementing Data Cleansing in Python

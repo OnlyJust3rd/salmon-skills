@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/division-algorithms-overview|division-algorithms-overview]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/division-algorithms-overview|division-algorithms-overview]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Division Algorithms: Restoring vs. Non-Restoring

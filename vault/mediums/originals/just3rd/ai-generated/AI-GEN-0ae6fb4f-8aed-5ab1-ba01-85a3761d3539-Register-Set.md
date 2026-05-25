@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/register-set|register-set]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/register-set|register-set]]"
 learning-time-in-minutes: 4
 ---
 # AVR Microcontroller: The Register Set

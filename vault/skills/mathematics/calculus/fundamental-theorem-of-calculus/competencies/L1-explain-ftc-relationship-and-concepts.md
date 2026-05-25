@@ -47,3 +47,6 @@ Explain the relationship between differentiation and integration as described by
 - [[differentiation-integration-connection-via-ftc|Differentiation-integration connection via FTC]]
 - [[ftc-role-in-defining-new-functions|FTC role in defining new functions]]
 - [[basic-concepts-of-integrals|Basic concepts of integrals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

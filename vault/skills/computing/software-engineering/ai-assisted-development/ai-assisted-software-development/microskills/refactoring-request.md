@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using AI to propose structure-preserving improvements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

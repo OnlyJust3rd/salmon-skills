@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bag-of-words-principle|bag-of-words-principle]]"
+learning-outcomes:
+  - "[[bag-of-words-principle|bag-of-words-principle]]"
 learning-time-in-minutes: 3
 ---
 # The Bag-of-Words Principle

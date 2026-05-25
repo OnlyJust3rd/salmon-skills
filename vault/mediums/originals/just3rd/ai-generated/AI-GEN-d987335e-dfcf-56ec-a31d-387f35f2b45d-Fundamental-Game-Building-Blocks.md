@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/fundamental-game-building-blocks|fundamental-game-building-blocks]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/fundamental-game-building-blocks|fundamental-game-building-blocks]]"
 learning-time-in-minutes: 4
 ---
 # Fundamental Game Building Blocks

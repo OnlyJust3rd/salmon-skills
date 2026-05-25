@@ -45,3 +45,6 @@ Explain the stages and sequence of operations for executing machine instructions
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-execution-stages|Instruction Execution Stages]]
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-execution-sequence|Instruction Execution Sequence]]
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/operational-principles-of-instruction-execution|Operational Principles of Instruction Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explore modern architectural styles, including Model-View-Controller (MVC), micr
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/microservices-architecture|Microservices Architecture]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/component-based-architecture|Component-Based Architecture]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/architectural-style-characteristics|Architectural Style Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how Terraform ensures operations are repeatable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

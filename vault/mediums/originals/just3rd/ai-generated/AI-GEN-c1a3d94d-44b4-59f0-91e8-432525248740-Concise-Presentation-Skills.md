@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/concise-presentation-skills|concise-presentation-skills]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/concise-presentation-skills|concise-presentation-skills]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Concise Presentation Skills for Your Startup Pitch

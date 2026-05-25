@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the criteria that define a differentiable function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

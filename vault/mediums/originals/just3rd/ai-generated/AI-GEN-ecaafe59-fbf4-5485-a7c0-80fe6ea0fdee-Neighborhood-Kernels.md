@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/neighborhood-kernels|neighborhood-kernels]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/neighborhood-kernels|neighborhood-kernels]]"
 learning-time-in-minutes: 5
 ---
 # Neighborhood Kernels in Image Processing

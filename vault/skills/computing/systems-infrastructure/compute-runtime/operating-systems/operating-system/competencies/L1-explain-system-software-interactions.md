@@ -45,3 +45,6 @@ Explain the interrelationships and functionalities of Job Control Language, Asse
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/assembler-operations|Assembler Operations]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/loader-and-linker-processes|Loader and Linker Processes]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/system-software-workflow|System Software Workflow]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

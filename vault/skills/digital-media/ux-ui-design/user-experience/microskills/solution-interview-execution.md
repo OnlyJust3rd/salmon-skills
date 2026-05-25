@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying techniques to conduct user interviews.
+## Related Mediums
+
+![[bases/related-mediums.base]]

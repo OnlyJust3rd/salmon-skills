@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the main roles and duties of the Legal department.
+## Related Mediums
+
+![[bases/related-mediums.base]]

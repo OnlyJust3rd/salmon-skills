@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Summarizing the connection A = PDP⁻¹ or D = P⁻¹AP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

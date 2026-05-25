@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-sustainability-concerns|iot-sustainability-concerns]]"
+learning-outcomes:
+  - "[[iot-sustainability-concerns|iot-sustainability-concerns]]"
 learning-time-in-minutes: 4
 ---
 # IoT Sustainability Concerns

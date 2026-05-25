@@ -30,3 +30,6 @@ Understanding the lifecycle for handling security incidents, from preparation an
 - [[skills/computing/security-privacy/cybersecurity/incident-response/microskills/containment-and-recovery|Containment and Recovery]]
 - [[skills/computing/security-privacy/cybersecurity/incident-response/microskills/detection-and-analysis|Detection and Analysis]]
 - [[skills/computing/security-privacy/cybersecurity/incident-response/microskills/lessons-learned|Lessons Learned]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[software-algorithm-role-in-path-planning|software-algorithm-role-in-path-planning]]"
+learning-outcomes:
+  - "[[software-algorithm-role-in-path-planning|software-algorithm-role-in-path-planning]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Software Algorithm's Role in Path Planning

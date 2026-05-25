@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variable-block|terraform-variable-block]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variable-block|terraform-variable-block]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Terraform Variable Block

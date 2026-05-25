@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/feasibility-analysis/microskills/market-accessibility|market-accessibility]]"
+learning-outcomes:
+  - "[[skills/business/product-management/feasibility-analysis/microskills/market-accessibility|market-accessibility]]"
 learning-time-in-minutes: 5
 ---
 # Market Accessibility: Reaching Your Customers

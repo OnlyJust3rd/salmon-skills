@@ -32,3 +32,6 @@ Discover latent semantic structures in text corpora using probabilistic and matr
 - [[latent-semantic-analysis-lsa-application|Latent Semantic Analysis (LSA) Application]]
 - [[theme-discovery-in-text-corpora|Theme Discovery in Text Corpora]]
 - [[topic-modeling-techniques-application|Topic Modeling Techniques Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

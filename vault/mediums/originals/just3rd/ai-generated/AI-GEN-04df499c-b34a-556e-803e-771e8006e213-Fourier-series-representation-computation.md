@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/fourier-series-representation-computation|fourier-series-representation-computation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/fourier-series-representation-computation|fourier-series-representation-computation]]"
 learning-time-in-minutes: 4
 ---
 # Computing Fourier Series Coefficients

@@ -49,3 +49,6 @@ Explain the message formats, communication flow, and state transitions of HTTP a
 - [[communication-flow|Communication Flow]]
 - [[state-transitions|State Transitions]]
 - [[application-protocol-operations|Application Protocol Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

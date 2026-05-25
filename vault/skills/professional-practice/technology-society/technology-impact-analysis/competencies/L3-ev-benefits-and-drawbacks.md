@@ -45,3 +45,6 @@ Differentiate between the potential environmental benefits and drawbacks of wide
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/electric-vehicle-environmental-drawbacks|Electric Vehicle Environmental Drawbacks]]
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/widespread-ev-adoption-analysis|Widespread EV Adoption Analysis]]
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/environmental-consequence-differentiation|Environmental Consequence Differentiation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

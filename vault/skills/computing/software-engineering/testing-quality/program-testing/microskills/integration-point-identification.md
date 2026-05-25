@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to identify where units interact and define integration test targets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

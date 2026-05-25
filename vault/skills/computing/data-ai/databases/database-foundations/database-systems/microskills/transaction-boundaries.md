@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing where a reliable unit of database work begins and ends.
+## Related Mediums
+
+![[bases/related-mediums.base]]

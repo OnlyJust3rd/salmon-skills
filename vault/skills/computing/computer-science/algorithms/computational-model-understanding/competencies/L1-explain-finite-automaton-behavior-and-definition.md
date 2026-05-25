@@ -45,3 +45,6 @@ Explain the operational behavior of a finite automaton, including its definition
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/input-string-processing|Input String Processing]]
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/state-transition-logic|State Transition Logic]]
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/acceptance-condition|Acceptance Condition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

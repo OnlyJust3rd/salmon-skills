@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Core understanding of what constitutes an algorithm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

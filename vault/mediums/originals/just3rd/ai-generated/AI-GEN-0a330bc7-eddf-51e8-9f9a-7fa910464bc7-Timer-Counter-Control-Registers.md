@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[timer-counter-control-registers|timer-counter-control-registers]]"
+learning-outcomes:
+  - "[[timer-counter-control-registers|timer-counter-control-registers]]"
 learning-time-in-minutes: 8
 ---
 # Timer/Counter Control Registers in AVR Microcontrollers

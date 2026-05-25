@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/gain-requirement-evaluation|gain-requirement-evaluation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/gain-requirement-evaluation|gain-requirement-evaluation]]"
 learning-time-in-minutes: 3
 ---
 # Evaluating Amplification Gain Requirements

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[beautifulsoup-library-usage|beautifulsoup-library-usage]]"
+learning-outcomes:
+  - "[[beautifulsoup-library-usage|beautifulsoup-library-usage]]"
 learning-time-in-minutes: 3
 ---
 # Using BeautifulSoup for HTML Parsing

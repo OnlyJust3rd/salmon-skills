@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding cloud services as ongoing operational costs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

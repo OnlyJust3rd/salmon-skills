@@ -47,3 +47,6 @@ Implement basic embedded systems by configuring microcontrollers or SBCs to cont
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/led-control-via-gpio|LED Control via GPIO]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/button-input-reading-via-gpio|Button Input Reading via GPIO]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/fundamental-input-output-control|Fundamental Input/Output Control]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

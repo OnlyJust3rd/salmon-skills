@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[red-black-tree-operations-java-implementation|red-black-tree-operations-java-implementation]]"
+learning-outcomes:
+  - "[[red-black-tree-operations-java-implementation|red-black-tree-operations-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Red-Black Tree Operations in Java

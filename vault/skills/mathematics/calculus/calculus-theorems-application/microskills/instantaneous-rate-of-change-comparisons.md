@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the Mean Value Theorem to problems that relate average and instantaneous rates of change.
+## Related Mediums
+
+![[bases/related-mediums.base]]

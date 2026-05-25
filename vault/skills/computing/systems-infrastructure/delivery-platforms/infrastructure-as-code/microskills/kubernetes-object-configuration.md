@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to configure various Kubernetes resources using YAML.
+## Related Mediums
+
+![[bases/related-mediums.base]]

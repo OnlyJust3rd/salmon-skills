@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/temporal-redundancy-removal|temporal-redundancy-removal]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/temporal-redundancy-removal|temporal-redundancy-removal]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Temporal Redundancy Removal in Video Compression

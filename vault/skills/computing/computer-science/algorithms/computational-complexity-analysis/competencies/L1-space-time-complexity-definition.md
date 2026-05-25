@@ -41,3 +41,6 @@ Define time complexity and space complexity, and interpret Big O notation.
 
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/time-complexity-basics|Time Complexity Basics]]
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/space-complexity-basics|Space Complexity Basics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

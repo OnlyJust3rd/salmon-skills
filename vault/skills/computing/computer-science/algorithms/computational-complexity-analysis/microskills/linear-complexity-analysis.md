@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying O(n) algorithms and justifying the classification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

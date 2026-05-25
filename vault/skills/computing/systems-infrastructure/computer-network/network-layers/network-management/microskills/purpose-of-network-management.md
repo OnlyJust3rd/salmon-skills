@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating why network management is important.
+## Related Mediums
+
+![[bases/related-mediums.base]]

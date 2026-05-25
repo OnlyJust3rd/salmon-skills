@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of emulator features for running and debugging.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-area-identification-for-refactoring|code-area-identification-for-refactoring]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/code-area-identification-for-refactoring|code-area-identification-for-refactoring]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Code Areas for Refactoring

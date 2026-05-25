@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the N-Queens problem using backtracking in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

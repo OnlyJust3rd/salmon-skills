@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/early-adopter-motivations|early-adopter-motivations]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/early-adopter-motivations|early-adopter-motivations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Early Adopter Motivations

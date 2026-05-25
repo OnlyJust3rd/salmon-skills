@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grasping user needs and motivations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

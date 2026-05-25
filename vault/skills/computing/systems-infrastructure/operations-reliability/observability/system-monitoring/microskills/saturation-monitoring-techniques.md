@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of methods to track resource utilization limits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

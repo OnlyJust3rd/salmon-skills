@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using given data to compute performance metrics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

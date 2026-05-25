@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/indefinite-integral-definition|indefinite-integral-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/indefinite-integral-definition|indefinite-integral-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Indefinite Integral Definition

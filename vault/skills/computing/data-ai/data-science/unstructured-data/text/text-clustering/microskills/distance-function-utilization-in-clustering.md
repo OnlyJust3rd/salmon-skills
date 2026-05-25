@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying appropriate distance functions within the K-means algorithm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

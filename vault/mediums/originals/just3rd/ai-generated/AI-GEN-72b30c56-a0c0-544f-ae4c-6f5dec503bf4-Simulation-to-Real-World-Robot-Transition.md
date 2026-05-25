@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[simulation-to-real-world-robot-transition|simulation-to-real-world-robot-transition]]"
+learning-outcomes:
+  - "[[simulation-to-real-world-robot-transition|simulation-to-real-world-robot-transition]]"
 learning-time-in-minutes: 5
 ---
 # Bridging the Gap: Simulation to Real-World Robot Transition

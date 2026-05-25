@@ -45,3 +45,6 @@ Explain the concept of foreshortening in perspective projection and its effect o
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/foreshortening-concept|Foreshortening Concept]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/effect-on-object-appearance|Effect on Object Appearance]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/distance-and-size-perception|Distance and Size Perception]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

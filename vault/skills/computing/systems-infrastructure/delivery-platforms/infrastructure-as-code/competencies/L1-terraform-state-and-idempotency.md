@@ -45,3 +45,6 @@ Explain the purpose and function of Terraform's state management and the concept
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/state-management-techniques|State Management Techniques]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-enforcement|Idempotency Enforcement]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-consistency|Infrastructure Consistency]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

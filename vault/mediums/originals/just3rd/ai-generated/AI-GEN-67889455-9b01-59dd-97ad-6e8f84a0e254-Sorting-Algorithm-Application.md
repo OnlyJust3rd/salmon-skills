@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/sorting-algorithm-application|sorting-algorithm-application]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/sorting-algorithm-application|sorting-algorithm-application]]"
 learning-time-in-minutes: 2
 ---
 # Applying Merge Sort in Practice

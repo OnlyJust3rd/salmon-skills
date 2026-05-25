@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-significance|traffic-significance]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-significance|traffic-significance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Traffic Significance in System Monitoring

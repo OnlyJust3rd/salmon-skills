@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/human-readable-algorithm-description|human-readable-algorithm-description]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/human-readable-algorithm-description|human-readable-algorithm-description]]"
 learning-time-in-minutes: 2
 ---
 # Human-Readable Algorithm Description with Pseudocode

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Tracing state transitions based on input sequences.
+## Related Mediums
+
+![[bases/related-mediums.base]]

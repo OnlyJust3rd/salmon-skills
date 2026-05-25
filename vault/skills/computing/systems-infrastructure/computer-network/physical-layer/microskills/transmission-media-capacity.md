@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how multiplexing maximizes the use of communication channels.
+## Related Mediums
+
+![[bases/related-mediums.base]]

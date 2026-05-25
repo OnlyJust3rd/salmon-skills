@@ -50,3 +50,6 @@ Articulating technical information, project progress, and outcomes through vario
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/technical-idea-communication|Technical Idea Communication]]
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/technical-presentation-objectives|Technical Presentation Objectives]]
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/visual-artifact-communication|Visual Artifact Communication]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

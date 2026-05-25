@@ -70,3 +70,6 @@ Apply user-centered design principles to identify user needs, define requirement
 - [[user-needs-specification|User Needs Specification]]
 - [[user-requirements-gathering|User Requirements Gathering]]
 - [[user-centered-design-process|User-Centered Design Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

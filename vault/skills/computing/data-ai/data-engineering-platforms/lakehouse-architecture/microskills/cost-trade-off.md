@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing storage and compute economics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

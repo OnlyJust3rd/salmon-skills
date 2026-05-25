@@ -43,3 +43,6 @@ Design a visual dashboard to display IoT data based on provided requirements.
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/visual-dashboard-design|Visual Dashboard Design]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-data-visualization|IoT Data Visualization]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/dashboard-requirements-implementation|Dashboard Requirements Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

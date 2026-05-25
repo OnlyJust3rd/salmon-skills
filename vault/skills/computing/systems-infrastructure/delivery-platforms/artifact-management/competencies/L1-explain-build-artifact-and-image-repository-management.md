@@ -47,3 +47,6 @@ Explain build artifact and image repository management for software delivery pip
 - [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/image-repositories|Image Repositories]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/version-tags|Version Tags]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/artifact-promotion|Artifact Promotion]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

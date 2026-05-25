@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Compute an integral estimate using Simpson's rule when applicable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

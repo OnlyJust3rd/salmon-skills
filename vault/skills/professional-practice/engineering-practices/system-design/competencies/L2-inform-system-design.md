@@ -43,3 +43,6 @@ Utilize fundamental mathematics and physics concepts to inform system design cho
 - [[skills/professional-practice/engineering-practices/system-design/microskills/mathematical-concepts-in-design|Mathematical Concepts in Design]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/physics-principles-in-design|Physics Principles in Design]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/design-evaluation-using-scientific-principles|Design Evaluation using Scientific Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

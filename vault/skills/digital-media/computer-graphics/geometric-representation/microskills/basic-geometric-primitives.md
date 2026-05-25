@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and definition of fundamental geometric shapes in computer graphics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

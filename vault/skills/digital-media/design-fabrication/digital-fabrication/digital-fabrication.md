@@ -38,3 +38,6 @@ Producing physical components from digital designs using additive manufacturing 
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/cad-model-export-procedures|CAD Model Export Procedures]]
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/digital-to-physical-prototyping|Digital-to-Physical Prototyping]]
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/physical-component-fabrication|Physical Component Fabrication]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[storage-efficiency|storage-efficiency]]"
+learning-outcomes:
+  - "[[storage-efficiency|storage-efficiency]]"
 learning-time-in-minutes: 5
 ---
 # Storage Efficiency in File Allocation

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[waveform-generation|waveform-generation]]"
+learning-outcomes:
+  - "[[waveform-generation|waveform-generation]]"
 learning-time-in-minutes: 5
 ---
 # Generating Waveforms with AVR Timers

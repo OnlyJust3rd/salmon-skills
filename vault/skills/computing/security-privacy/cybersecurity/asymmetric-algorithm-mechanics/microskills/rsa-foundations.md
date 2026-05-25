@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of underlying mathematical principles for RSA.
+## Related Mediums
+
+![[bases/related-mediums.base]]

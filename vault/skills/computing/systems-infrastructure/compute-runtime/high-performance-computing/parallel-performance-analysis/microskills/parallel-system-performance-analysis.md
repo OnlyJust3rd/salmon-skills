@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of performance and scalability of parallel systems using relevant laws.
+## Related Mediums
+
+![[bases/related-mediums.base]]

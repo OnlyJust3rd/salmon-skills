@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of high-impedance state and enable control for tri-state buffers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

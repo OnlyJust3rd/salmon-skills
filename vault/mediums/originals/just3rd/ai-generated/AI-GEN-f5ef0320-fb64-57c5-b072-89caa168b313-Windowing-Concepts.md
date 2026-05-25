@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/windowing-concepts|windowing-concepts]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/windowing-concepts|windowing-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Windowing Concepts

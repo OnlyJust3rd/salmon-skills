@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-diagnostics|network-diagnostics]]"
+learning-outcomes:
+  - "[[network-diagnostics|network-diagnostics]]"
 learning-time-in-minutes: 5
 ---
 # ICMP: The Network's Diagnostic Tool

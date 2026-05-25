@@ -91,9 +91,10 @@ Relationship: `medium has learning outcome`.
 
 Rules:
 
-- Medium notes should use `outcome` for the most specific supported note.
+- Medium notes should use `learning-outcomes` for supported competency and microskill notes.
 - Prefer linking to microskills when the content teaches a focused concept.
-- Link to competencies when the content supports an outcome.
+- Link to competencies when the content supports an assessable outcome.
+- Use `related-skills` when the content covers a broad skill rather than one specific competency or microskill.
 
 ## Base to Entity Type
 

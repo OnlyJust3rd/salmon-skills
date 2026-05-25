@@ -45,3 +45,6 @@ Explain the differences between software faults, errors, failures, and the funda
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/error-distinction|Error Distinction]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/failure-distinction|Failure Distinction]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-testing-principles|Software Testing Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

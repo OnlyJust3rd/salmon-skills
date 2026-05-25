@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how tags help categorize and find resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

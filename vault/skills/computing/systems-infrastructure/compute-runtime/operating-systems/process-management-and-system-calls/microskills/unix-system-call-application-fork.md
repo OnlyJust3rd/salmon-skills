@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the fork() system call for process creation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

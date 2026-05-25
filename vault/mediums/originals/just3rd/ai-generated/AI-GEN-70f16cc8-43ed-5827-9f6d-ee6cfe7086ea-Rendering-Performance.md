@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/web-performance/microskills/rendering-performance|rendering-performance]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/web-performance/microskills/rendering-performance|rendering-performance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Rendering Performance: How Your Web Page Visually Updates

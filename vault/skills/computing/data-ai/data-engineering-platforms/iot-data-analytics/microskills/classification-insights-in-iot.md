@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examining the types of insights gained from classification on IoT data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

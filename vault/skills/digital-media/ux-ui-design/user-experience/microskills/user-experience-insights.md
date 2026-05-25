@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deriving actionable information from feedback.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-data-science-workflow-in-python-code-implementation|implement-data-science-workflow-in-python-code-implementation]]"
+learning-outcomes:
+  - "[[implement-data-science-workflow-in-python-code-implementation|implement-data-science-workflow-in-python-code-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing the Data Science Workflow in Python: Code in Action

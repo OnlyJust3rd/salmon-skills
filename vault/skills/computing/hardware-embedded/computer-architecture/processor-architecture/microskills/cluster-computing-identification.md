@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of computing clusters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

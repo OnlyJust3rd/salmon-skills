@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the distinct characteristics between VR and AR applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

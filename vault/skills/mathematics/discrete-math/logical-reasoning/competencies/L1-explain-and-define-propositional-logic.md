@@ -46,3 +46,6 @@ Explain the syntax and semantics of propositional logic, including the construct
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/well-formed-formulas|Well-Formed Formulas]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/truth-assignments|Truth Assignments]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/basic-propositional-components|Basic Propositional Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

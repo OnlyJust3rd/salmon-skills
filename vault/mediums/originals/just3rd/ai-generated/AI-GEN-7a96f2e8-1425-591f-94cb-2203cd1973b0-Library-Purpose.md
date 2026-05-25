@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[library-purpose|library-purpose]]"
+learning-outcomes:
+  - "[[library-purpose|library-purpose]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Purpose of Python Libraries

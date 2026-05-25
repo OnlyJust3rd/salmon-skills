@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how competitors stand out.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -54,3 +54,6 @@ Understanding the fundamental architecture and hardware elements of AVR microcon
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/register-set|Register Set]]
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/timer-counter-capabilities|Timer/Counter Capabilities]]
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/uart-communication-features|UART Communication Features]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

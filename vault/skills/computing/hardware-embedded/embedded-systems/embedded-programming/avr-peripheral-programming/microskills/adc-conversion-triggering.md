@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Initiating the analog-to-digital conversion process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

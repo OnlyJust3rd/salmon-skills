@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/character-functionality-execution|character-functionality-execution]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/character-functionality-execution|character-functionality-execution]]"
 learning-time-in-minutes: 4
 ---
 # Character Functionality Execution

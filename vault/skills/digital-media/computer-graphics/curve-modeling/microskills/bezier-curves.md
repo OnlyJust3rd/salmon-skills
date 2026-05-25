@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of Bézier curves as a common representation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

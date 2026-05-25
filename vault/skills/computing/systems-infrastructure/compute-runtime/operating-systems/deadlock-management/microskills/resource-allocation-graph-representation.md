@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting resource allocation graphs to represent system states.
+## Related Mediums
+
+![[bases/related-mediums.base]]

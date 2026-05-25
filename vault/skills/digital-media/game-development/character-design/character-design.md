@@ -36,3 +36,6 @@ Design game characters by integrating visual design, behavioral traits, and game
 - [[skills/digital-media/game-development/character-design/microskills/common-game-character-archetypes|Common Game Character Archetypes]]
 - [[skills/digital-media/game-development/character-design/microskills/personality-and-role-communication|Personality and Role Communication]]
 - [[skills/digital-media/game-development/character-design/microskills/visual-design-principles|Visual Design Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

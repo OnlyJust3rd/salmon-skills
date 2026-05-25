@@ -45,3 +45,6 @@ Apply the principle of mathematical induction to construct rigorous proofs for g
 - [[induction-proofs-for-inequalities|Induction proofs for inequalities]]
 - [[induction-proofs-for-divisibility|Induction proofs for divisibility]]
 - [[rigorous-proof-construction|Rigorous proof construction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

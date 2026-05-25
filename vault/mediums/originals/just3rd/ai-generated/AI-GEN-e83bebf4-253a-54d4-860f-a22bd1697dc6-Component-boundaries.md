@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/component-boundaries|component-boundaries]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/component-boundaries|component-boundaries]]"
 learning-time-in-minutes: 4
 ---
 # Defining Component Boundaries

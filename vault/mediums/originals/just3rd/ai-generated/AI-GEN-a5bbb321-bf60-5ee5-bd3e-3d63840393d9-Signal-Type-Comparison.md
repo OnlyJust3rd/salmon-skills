@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/signal-type-comparison|signal-type-comparison]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/signal-type-comparison|signal-type-comparison]]"
 learning-time-in-minutes: 4
 ---
 # Differentiating Continuous and Discrete Signals

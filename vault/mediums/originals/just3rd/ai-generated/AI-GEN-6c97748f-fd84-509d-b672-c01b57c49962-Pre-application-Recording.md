@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[pre-application-recording|pre-application-recording]]"
+learning-outcomes:
+  - "[[pre-application-recording|pre-application-recording]]"
 learning-time-in-minutes: 4
 ---
 # Pre-application Recording: The First Step in Journaling

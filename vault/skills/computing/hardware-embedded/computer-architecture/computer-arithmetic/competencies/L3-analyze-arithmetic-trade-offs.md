@@ -41,3 +41,6 @@ Analyze performance and cost trade-offs between arithmetic algorithms and justif
 
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/adder-trade-off-analysis|Adder Trade-off Analysis]]
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/multiplier-divider-trade-off-analysis|Multiplier/Divider Trade-off Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

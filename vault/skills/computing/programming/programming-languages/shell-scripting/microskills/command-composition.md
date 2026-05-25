@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Combining command-line utilities into repeatable workflows.
+## Related Mediums
+
+![[bases/related-mediums.base]]

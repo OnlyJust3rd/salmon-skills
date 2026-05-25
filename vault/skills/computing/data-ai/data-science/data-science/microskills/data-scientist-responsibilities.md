@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the core duties and functions of a data scientist.
+## Related Mediums
+
+![[bases/related-mediums.base]]

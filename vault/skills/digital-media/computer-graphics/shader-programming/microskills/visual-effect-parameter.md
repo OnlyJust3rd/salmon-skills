@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adjusting shader values at runtime or design time.
+## Related Mediums
+
+![[bases/related-mediums.base]]

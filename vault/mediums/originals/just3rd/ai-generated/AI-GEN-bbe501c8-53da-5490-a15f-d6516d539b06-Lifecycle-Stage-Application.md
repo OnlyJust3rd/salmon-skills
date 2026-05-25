@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/lifecycle-stage-application|lifecycle-stage-application]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/lifecycle-stage-application|lifecycle-stage-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Validation & Verification Across the Software Development Lifecycle

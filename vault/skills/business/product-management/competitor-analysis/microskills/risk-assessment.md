@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding competitive threats.
+## Related Mediums
+
+![[bases/related-mediums.base]]

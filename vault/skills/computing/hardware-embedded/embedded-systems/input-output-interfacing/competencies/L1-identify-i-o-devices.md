@@ -43,3 +43,6 @@ Identify common input and output devices and their basic functions.
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/common-input-devices|Common Input Devices]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/common-output-devices|Common Output Devices]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/basic-i-o-device-functions|Basic I/O Device Functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

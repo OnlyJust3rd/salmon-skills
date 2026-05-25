@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/reduced-row-echelon-form-for-column-space-basis|reduced-row-echelon-form-for-column-space-basis]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/reduced-row-echelon-form-for-column-space-basis|reduced-row-echelon-form-for-column-space-basis]]"
 learning-time-in-minutes: 4
 ---
 # Finding a Basis for the Column Space using Reduced Row Echelon Form

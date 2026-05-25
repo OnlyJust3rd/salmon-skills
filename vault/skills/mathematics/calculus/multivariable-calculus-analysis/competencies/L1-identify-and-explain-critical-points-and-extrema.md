@@ -49,3 +49,6 @@ Identify critical points and describe their relationship to relative extrema (ma
 - [[multivariable-critical-point-identification|Multivariable critical point identification]]
 - [[relationship-between-critical-points-and-extrema|Relationship between critical points and extrema]]
 - [[classification-of-multivariable-extrema|Classification of multivariable extrema]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

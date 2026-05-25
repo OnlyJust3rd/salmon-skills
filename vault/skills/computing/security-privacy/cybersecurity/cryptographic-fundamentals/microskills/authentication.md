@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Verification of communicating party identity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

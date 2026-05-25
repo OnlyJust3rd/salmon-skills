@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing physical representations for components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

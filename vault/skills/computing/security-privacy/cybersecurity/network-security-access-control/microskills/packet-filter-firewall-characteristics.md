@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinct characteristics of packet-filter firewalls.
+## Related Mediums
+
+![[bases/related-mediums.base]]

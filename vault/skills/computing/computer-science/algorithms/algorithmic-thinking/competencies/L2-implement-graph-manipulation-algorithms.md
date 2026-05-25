@@ -43,3 +43,6 @@ Implement basic algorithms for manipulating graphs, such as adding or removing v
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/graph-data-structure-operations|Graph Data Structure Operations]]
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/vertex-addition-removal|Vertex Addition/Removal]]
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/edge-addition-removal|Edge Addition/Removal]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

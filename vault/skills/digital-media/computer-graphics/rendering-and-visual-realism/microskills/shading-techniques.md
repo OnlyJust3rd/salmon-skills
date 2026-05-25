@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of fundamental concepts behind shading.
+## Related Mediums
+
+![[bases/related-mediums.base]]

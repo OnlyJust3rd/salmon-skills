@@ -92,3 +92,6 @@ Analyze matrices using eigenvalues and eigenvectors, enabling diagonalization an
 - [[similarity-transformation|Similarity transformation]]
 - [[structure-of-jordan-block|Structure of Jordan block]]
 - [[sufficient-conditions-for-diagonalization|Sufficient conditions for diagonalization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

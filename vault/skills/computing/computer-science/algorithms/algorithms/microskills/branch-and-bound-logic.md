@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of state-space exploration in branch and bound.
+## Related Mediums
+
+![[bases/related-mediums.base]]

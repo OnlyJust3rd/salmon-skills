@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enhancing group effectiveness through collaboration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

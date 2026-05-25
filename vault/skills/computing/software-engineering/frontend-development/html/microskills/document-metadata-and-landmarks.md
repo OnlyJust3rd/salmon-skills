@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify html, head, body, and landmark regions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

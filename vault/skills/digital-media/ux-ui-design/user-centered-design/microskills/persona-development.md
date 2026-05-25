@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing personas to represent target users and their interaction patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

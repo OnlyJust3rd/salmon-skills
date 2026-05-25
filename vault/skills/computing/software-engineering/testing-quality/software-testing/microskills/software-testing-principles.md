@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the foundational concepts and goals of testing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

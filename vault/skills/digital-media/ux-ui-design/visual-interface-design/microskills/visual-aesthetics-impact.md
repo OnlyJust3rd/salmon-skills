@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the contribution of visual aesthetics to UI usability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

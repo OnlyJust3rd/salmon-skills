@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/business-model-communication|business-model-communication]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/business-model-communication|business-model-communication]]"
 learning-time-in-minutes: 3
 ---
 # Presenting Your Business Idea with the Lean Canvas

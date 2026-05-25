@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/packet-filtering-logic-application|packet-filtering-logic-application]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/packet-filtering-logic-application|packet-filtering-logic-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Packet Filtering Logic

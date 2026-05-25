@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to deploy applications packaged in containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

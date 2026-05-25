@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/readability-enhancement|readability-enhancement]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/readability-enhancement|readability-enhancement]]"
 learning-time-in-minutes: 3
 ---
 # Enhancing Code Readability Through Refactoring

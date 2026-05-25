@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/bus-contention-prevention|bus-contention-prevention]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/bus-contention-prevention|bus-contention-prevention]]"
 learning-time-in-minutes: 3
 ---
 # Preventing Bus Wars: Understanding Tri-State Buffers

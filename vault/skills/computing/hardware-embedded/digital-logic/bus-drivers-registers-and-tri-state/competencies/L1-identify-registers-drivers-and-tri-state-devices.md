@@ -43,3 +43,6 @@ Identify types of shift registers, bus driver ICs, and tri-state buffer devices 
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/shift-register-types|Shift Register Types]]
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/bus-driver-ic-identification|Bus Driver IC Identification]]
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-identification|Tri-state Buffer Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

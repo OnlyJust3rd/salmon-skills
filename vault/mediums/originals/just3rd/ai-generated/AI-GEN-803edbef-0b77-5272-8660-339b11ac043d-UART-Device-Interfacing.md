@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/uart-device-interfacing|uart-device-interfacing]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/uart-device-interfacing|uart-device-interfacing]]"
 learning-time-in-minutes: 4
 ---
 # UART Device Interfacing: Sending and Receiving Data

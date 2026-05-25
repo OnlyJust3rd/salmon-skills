@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the decision-making processes within CPU scheduling algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

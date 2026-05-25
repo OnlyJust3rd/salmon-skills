@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-purposes|design-pattern-purposes]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-purposes|design-pattern-purposes]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Purpose of Design Patterns

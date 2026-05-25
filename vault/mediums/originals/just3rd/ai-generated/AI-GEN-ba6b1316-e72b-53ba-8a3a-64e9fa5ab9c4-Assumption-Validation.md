@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/assumption-validation|assumption-validation]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/assumption-validation|assumption-validation]]"
 learning-time-in-minutes: 6
 ---
 # Validating Your Assumptions Through Problem Interviews

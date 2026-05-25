@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of the relationship between cognitive load and user performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

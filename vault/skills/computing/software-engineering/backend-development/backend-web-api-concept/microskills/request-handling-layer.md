@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain parsing, validation, and dispatch of HTTP requests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

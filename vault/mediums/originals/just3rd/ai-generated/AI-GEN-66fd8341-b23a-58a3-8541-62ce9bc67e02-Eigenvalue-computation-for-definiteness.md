@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/eigenvalue-computation-for-definiteness|eigenvalue-computation-for-definiteness]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/eigenvalue-computation-for-definiteness|eigenvalue-computation-for-definiteness]]"
 learning-time-in-minutes: 3
 ---
 # Computing Eigenvalues for Quadratic Forms

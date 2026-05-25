@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing and comparing the efficiency of various algorithmic approaches.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[edge-and-fog-computing-in-iot|edge-and-fog-computing-in-iot]]"
+learning-outcomes:
+  - "[[edge-and-fog-computing-in-iot|edge-and-fog-computing-in-iot]]"
 learning-time-in-minutes: 5
 ---
 # Edge and Fog Computing in IoT

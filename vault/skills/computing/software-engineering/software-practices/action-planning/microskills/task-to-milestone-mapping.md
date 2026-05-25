@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify how tasks relate to milestones and deliverables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

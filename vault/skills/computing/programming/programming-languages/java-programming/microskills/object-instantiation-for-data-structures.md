@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Instantiate Java objects to implement data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

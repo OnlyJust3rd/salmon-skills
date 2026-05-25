@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of derivative analysis to locate inflection points.
+## Related Mediums
+
+![[bases/related-mediums.base]]

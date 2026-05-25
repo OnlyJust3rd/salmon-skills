@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing existing ways customers solve problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

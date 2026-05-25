@@ -43,3 +43,6 @@ Explain the typical progression and responsibilities within various tech career 
 - [[skills/professional-practice/career-development/it-career-path/microskills/tech-career-path-overview|Tech Career Path Overview]]
 - [[skills/professional-practice/career-development/it-career-path/microskills/progression-stages|Progression Stages]]
 - [[skills/professional-practice/career-development/it-career-path/microskills/role-responsibilities|Role Responsibilities]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

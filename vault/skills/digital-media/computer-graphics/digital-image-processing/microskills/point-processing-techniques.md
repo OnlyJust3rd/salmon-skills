@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of methods to modify individual pixel values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

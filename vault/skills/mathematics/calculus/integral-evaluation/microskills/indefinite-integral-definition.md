@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the formal definition of an indefinite integral.
+## Related Mediums
+
+![[bases/related-mediums.base]]

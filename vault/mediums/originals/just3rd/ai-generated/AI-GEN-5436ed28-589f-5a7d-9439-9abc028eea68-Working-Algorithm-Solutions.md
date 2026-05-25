@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/working-algorithm-solutions|working-algorithm-solutions]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/working-algorithm-solutions|working-algorithm-solutions]]"
 learning-time-in-minutes: 2
 ---
 # Implementing a Simple Search Algorithm

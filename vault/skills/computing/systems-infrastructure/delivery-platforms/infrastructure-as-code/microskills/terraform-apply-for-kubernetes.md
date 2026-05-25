@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in applying Terraform configurations to a Kubernetes cluster.
+## Related Mediums
+
+![[bases/related-mediums.base]]

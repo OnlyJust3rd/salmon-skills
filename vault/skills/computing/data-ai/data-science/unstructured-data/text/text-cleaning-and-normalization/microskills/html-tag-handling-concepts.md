@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the definition and implications of handling HTML tags in text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

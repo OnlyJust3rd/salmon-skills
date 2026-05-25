@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/unit-vector-interpretation|unit-vector-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/unit-vector-interpretation|unit-vector-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Unit Vectors

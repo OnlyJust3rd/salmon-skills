@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of fundamental characteristics of symmetric key algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

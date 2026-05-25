@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating reliability, cost, and complexity implications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

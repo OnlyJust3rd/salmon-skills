@@ -45,3 +45,6 @@ Identify and explain foundational legal, regulatory, and intellectual property c
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/regulatory-compliance|Regulatory Compliance]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/intellectual-property-importance|Intellectual Property Importance]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/ip-strategic-implications|IP Strategic Implications]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

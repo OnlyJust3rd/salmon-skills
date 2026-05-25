@@ -51,3 +51,6 @@ Explain the purpose and behavior of core UNIX process API functions (fork(), wai
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait() Functionality]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/exec-functionality|exec() Functionality]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-process-management-apis|UNIX Process Management APIs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

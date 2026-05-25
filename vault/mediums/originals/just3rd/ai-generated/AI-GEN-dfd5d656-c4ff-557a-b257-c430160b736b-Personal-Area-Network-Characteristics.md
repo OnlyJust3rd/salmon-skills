@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[personal-area-network-characteristics|personal-area-network-characteristics]]"
+learning-outcomes:
+  - "[[personal-area-network-characteristics|personal-area-network-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Personal Area Network Characteristics

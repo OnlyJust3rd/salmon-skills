@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation and execution of fundamental control logic for microcontrollers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

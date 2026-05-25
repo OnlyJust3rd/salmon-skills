@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describe why action plans are needed in engineering delivery.
+## Related Mediums
+
+![[bases/related-mediums.base]]

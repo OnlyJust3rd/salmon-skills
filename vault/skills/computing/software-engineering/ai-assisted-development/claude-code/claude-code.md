@@ -38,3 +38,6 @@ Using Claude Code for terminal and IDE-based agentic coding workflows that inspe
 - [[patch-iteration|Patch Iteration]]
 - [[repository-inspection|Repository Inspection]]
 - [[terminal-coding-agent|Terminal Coding Agent]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

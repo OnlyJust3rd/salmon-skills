@@ -47,3 +47,6 @@ Explain the process of diagonalizing a matrix.
 - [[similarity-transformation|Similarity transformation]]
 - [[construction-of-diagonal-matrix-d|Construction of diagonal matrix D]]
 - [[construction-of-change-of-basis-matrix-p|Construction of change-of-basis matrix P]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

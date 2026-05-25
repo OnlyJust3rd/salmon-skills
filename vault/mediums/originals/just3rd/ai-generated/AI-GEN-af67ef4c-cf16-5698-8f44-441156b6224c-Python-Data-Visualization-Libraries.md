@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[python-data-visualization-libraries|python-data-visualization-libraries]]"
+learning-outcomes:
+  - "[[python-data-visualization-libraries|python-data-visualization-libraries]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Python Data Visualization Libraries

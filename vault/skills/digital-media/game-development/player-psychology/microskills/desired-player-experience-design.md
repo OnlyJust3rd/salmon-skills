@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Integrating mechanics informed by motivational theories to achieve a target player experience.
+## Related Mediums
+
+![[bases/related-mediums.base]]

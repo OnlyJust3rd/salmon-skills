@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing functional embedded systems with basic input and output control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

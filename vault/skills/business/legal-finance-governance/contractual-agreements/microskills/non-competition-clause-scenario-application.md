@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining the applicability of non-competition clauses in specific situations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

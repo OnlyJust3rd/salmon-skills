@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[sector-definition|sector-definition]]"
+learning-outcomes:
+  - "[[sector-definition|sector-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Disk Sectors: The Smallest Addressable Unit

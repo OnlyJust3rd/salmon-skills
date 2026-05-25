@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/model-dependency|model-dependency]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/model-dependency|model-dependency]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Model Dependency in dbt

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of unique features and use cases of VR and AR.
+## Related Mediums
+
+![[bases/related-mediums.base]]

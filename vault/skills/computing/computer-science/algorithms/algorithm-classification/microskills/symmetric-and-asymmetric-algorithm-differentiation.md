@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of differences in structure and operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

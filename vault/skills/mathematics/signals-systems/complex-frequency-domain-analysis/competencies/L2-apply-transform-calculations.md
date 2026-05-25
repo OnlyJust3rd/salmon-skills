@@ -57,3 +57,6 @@ Calculate and determine the poles, zeros, and Region of Convergence (ROC) for gi
 - [[z-transform-roc-determination|Z-transform ROC Determination]]
 - [[inverse-z-transform-via-long-division|Inverse Z-transform via Long Division]]
 - [[transfer-function-analysis|Transfer Function Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

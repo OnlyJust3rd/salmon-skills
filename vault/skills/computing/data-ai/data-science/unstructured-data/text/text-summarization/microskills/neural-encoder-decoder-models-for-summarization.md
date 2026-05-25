@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the architecture and operation of encoder-decoder models in abstractive summarization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

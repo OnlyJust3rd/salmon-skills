@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/conditions-for-differentiable-functions|conditions-for-differentiable-functions]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/conditions-for-differentiable-functions|conditions-for-differentiable-functions]]"
 learning-time-in-minutes: 3
 ---
 # Differentiability: The Foundation for Calculus Theorems

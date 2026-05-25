@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the benefits of not managing servers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

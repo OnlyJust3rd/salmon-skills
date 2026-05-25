@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Estimating relative value or impact.
+## Related Mediums
+
+![[bases/related-mediums.base]]

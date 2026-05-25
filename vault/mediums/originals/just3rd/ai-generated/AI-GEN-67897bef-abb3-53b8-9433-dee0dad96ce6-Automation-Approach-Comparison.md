@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-approach-comparison|automation-approach-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-approach-comparison|automation-approach-comparison]]"
 learning-time-in-minutes: 6
 ---
 # Automation Approach Comparison: Declarative vs. Imperative

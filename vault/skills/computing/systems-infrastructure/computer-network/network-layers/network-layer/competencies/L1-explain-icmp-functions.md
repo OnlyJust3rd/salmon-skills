@@ -47,3 +47,6 @@ Explain the purpose and functions of ICMP.
 - [[network-error-reporting|Network Error Reporting]]
 - [[network-diagnostics|Network Diagnostics]]
 - [[control-message-protocols|Control Message Protocols]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

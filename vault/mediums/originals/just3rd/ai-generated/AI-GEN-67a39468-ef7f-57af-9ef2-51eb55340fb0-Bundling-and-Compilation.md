@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/bundling-and-compilation|bundling-and-compilation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/bundling-and-compilation|bundling-and-compilation]]"
 learning-time-in-minutes: 3
 ---
 # Bundling and Compilation: Transforming Your Code for the Browser

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of control signals for instruction execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

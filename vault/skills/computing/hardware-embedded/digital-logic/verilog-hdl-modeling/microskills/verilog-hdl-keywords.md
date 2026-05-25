@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of fundamental Verilog HDL keywords.
+## Related Mediums
+
+![[bases/related-mediums.base]]

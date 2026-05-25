@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how reactive control functions in robotic systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

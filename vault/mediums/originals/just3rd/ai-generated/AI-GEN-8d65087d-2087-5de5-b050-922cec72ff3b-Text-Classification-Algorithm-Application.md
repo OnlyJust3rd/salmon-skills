@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-classification-algorithm-application|text-classification-algorithm-application]]"
+learning-outcomes:
+  - "[[text-classification-algorithm-application|text-classification-algorithm-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Text Classification Algorithms

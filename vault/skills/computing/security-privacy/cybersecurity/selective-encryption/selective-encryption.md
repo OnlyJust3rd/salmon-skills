@@ -63,3 +63,6 @@ Classifying and critiquing selective encryption algorithms based on when encrypt
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/trade-offs-in-evaluation-criteria|Trade-offs in Evaluation Criteria]]
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/tunability-criterion|Tunability Criterion]]
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/visual-degradation-criterion|Visual Degradation Criterion]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/rtos-task-implementation|rtos-task-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/rtos-task-implementation|rtos-task-implementation]]"
 learning-time-in-minutes: 5
 ---
 # RTOS Task Implementation: Concurrent Processing on AVR Microcontrollers

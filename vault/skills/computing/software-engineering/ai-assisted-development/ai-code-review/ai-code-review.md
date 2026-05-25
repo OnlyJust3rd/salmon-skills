@@ -38,3 +38,6 @@ Using AI systems to assist code review, risk discovery, test suggestion, style c
 - [[risk-prioritization|Risk Prioritization]]
 - [[suggested-test-case|Suggested Test Case]]
 - [[test-gap|Test Gap]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

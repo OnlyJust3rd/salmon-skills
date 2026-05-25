@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of gate-level modeling in Verilog.
+## Related Mediums
+
+![[bases/related-mediums.base]]

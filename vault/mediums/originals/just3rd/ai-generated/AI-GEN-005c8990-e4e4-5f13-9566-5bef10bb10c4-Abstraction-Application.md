@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-application|abstraction-application]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-application|abstraction-application]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Abstraction in Code

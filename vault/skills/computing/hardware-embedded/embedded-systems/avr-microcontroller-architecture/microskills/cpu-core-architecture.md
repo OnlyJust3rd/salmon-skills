@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the central processing unit's structure and function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

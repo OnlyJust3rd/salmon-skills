@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/propositional-logic-semantics|propositional-logic-semantics]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/propositional-logic-semantics|propositional-logic-semantics]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Propositional Logic Semantics

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/market-research-techniques|market-research-techniques]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/market-research-techniques|market-research-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Your Competitors: Essential Market Research Techniques

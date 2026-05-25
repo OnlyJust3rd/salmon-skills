@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/when-to-use-specific-patterns|when-to-use-specific-patterns]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/when-to-use-specific-patterns|when-to-use-specific-patterns]]"
 learning-time-in-minutes: 4
 ---
 # When to Use Specific Design Patterns

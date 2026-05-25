@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how containers ensure uniform execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

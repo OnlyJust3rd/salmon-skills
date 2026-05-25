@@ -38,3 +38,6 @@ Styling web documents with cascading style sheets: selectors, the box model, lay
 - [[skills/computing/software-engineering/frontend-development/css/microskills/responsive-rules|Responsive rules]]
 - [[skills/computing/software-engineering/frontend-development/css/microskills/selector-specificity|Selector specificity]]
 - [[skills/computing/software-engineering/frontend-development/css/microskills/typography-and-spacing-scale|Typography and spacing scale]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding request flow across services and components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

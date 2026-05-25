@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of advancements in Artificial Neural Networks from chapter four.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of Rodney A. Brooks' theories on AI and representation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

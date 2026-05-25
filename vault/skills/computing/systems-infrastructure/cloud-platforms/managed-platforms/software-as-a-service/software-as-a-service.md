@@ -38,3 +38,6 @@ Understanding SaaS as a cloud software delivery model involving tenancy, subscri
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/operational-trade-off|Operational Trade-off]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/subscription-access|Subscription Access]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/tenant-isolation|Tenant Isolation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

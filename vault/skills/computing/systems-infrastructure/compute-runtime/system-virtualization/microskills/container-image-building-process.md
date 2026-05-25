@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how Dockerfiles are used to create images.
+## Related Mediums
+
+![[bases/related-mediums.base]]

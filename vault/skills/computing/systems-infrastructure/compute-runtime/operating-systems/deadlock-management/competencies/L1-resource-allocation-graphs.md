@@ -47,3 +47,6 @@ Explain how resource allocation graphs can represent the state of resource alloc
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-allocation-graph-representation|Resource Allocation Graph Representation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/potential-deadlock-identification|Potential Deadlock Identification]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-allocation-state-analysis|Resource Allocation State Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

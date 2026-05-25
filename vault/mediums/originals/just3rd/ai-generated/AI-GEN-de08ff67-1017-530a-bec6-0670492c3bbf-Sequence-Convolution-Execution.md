@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/sequence-convolution-execution|sequence-convolution-execution]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/sequence-convolution-execution|sequence-convolution-execution]]"
 learning-time-in-minutes: 5
 ---
 # Computing Discrete-Time Convolution

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the steps involved in directing data packets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

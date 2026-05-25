@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and understanding of Euclidean distance as a similarity metric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

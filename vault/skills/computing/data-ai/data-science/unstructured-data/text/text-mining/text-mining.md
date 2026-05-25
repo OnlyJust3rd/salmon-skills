@@ -40,3 +40,6 @@ Collect textual data from external sources using web scraping, APIs, and automat
 - [[http-request-response-cycle|HTTP Request-Response Cycle]]
 - [[specific-data-element-extraction|Specific Data Element Extraction]]
 - [[web-scraping-concepts|Web Scraping Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

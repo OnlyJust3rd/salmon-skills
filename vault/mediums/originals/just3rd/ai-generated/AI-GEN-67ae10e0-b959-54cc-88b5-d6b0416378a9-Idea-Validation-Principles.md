@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/idea-validation-principles|idea-validation-principles]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/idea-validation-principles|idea-validation-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Idea Validation Principles

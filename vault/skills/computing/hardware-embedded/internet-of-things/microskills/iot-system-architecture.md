@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the distinct architectural layers of an IoT system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

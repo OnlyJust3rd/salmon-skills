@@ -41,3 +41,6 @@ Explain the principles of the engineering problem-solving process as applied to 
 
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-problem-solving-process-stages|Engineering Problem-Solving Process Stages]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/purpose-of-problem-solving-steps|Purpose of Problem-Solving Steps]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

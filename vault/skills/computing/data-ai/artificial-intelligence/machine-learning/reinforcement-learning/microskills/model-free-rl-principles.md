@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of learning policies directly from experience without an environment model.
+## Related Mediums
+
+![[bases/related-mediums.base]]

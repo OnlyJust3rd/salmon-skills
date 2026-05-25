@@ -34,3 +34,6 @@ Implementing a relational database schema and basic operations using MySQL as a 
 - [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/schema-construction|Schema Construction]]
 - [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/sql-data-definition-language-ddl|SQL Data Definition Language (DDL)]]
 - [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements|Table Creation Statements]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

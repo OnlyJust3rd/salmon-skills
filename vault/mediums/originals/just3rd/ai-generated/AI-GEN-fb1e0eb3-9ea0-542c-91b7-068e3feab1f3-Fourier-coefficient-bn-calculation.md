@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/fourier-coefficient-bn-calculation|fourier-coefficient-bn-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/fourier-coefficient-bn-calculation|fourier-coefficient-bn-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating the \(b_n\) Fourier Coefficients

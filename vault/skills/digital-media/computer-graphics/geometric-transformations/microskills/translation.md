@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and recognition of the translation transformation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

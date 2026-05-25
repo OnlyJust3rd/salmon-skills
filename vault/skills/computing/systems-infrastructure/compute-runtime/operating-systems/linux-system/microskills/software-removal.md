@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to uninstall software packages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

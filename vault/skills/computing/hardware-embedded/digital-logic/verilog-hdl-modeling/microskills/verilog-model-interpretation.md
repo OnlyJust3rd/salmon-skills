@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of the operational logic within Verilog models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

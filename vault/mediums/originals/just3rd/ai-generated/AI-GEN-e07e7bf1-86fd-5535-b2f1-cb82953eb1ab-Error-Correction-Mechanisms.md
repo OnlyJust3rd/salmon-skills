@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[error-correction-mechanisms|error-correction-mechanisms]]"
+learning-outcomes:
+  - "[[error-correction-mechanisms|error-correction-mechanisms]]"
 learning-time-in-minutes: 4
 ---
 # Error Correction Mechanisms

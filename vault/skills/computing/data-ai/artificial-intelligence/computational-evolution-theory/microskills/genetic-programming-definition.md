@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition and fundamental elements of genetic programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

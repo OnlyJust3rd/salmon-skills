@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the fundamental components comprising a distributed-memory HPC system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/pricing-model-use-cases|pricing-model-use-cases]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/pricing-model-use-cases|pricing-model-use-cases]]"
 learning-time-in-minutes: 4
 ---
 # Cloud Pricing Model Use Cases

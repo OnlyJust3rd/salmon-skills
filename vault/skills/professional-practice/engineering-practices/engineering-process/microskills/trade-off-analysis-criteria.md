@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of advantages and disadvantages in relation to project requirements and constraints.
+## Related Mediums
+
+![[bases/related-mediums.base]]

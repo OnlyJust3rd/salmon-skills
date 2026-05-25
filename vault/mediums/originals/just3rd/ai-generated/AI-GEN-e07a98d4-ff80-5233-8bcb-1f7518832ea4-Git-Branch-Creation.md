@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-branch-creation|git-branch-creation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-branch-creation|git-branch-creation]]"
 learning-time-in-minutes: 3
 ---
 # Git Branch Creation: Isolating Development

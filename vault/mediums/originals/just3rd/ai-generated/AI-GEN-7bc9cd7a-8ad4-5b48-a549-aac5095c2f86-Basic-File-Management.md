@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[basic-file-management|basic-file-management]]"
+learning-outcomes:
+  - "[[basic-file-management|basic-file-management]]"
 learning-time-in-minutes: 3
 ---
 # Basic File Management: Create, Read, and Write

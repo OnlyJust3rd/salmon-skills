@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of gate-level, dataflow, and behavioral modeling in Verilog.
+## Related Mediums
+
+![[bases/related-mediums.base]]

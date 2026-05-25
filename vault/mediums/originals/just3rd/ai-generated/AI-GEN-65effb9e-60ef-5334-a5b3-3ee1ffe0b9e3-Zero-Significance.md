@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/zero-significance|zero-significance]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/zero-significance|zero-significance]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Significance of Zeros in Transforms

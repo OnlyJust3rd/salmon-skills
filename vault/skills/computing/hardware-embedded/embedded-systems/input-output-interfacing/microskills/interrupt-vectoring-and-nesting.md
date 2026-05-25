@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding basic interrupt vectoring and nested interrupt handling concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

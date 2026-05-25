@@ -43,3 +43,6 @@ Explain authentication mechanisms used to verify the identity of users, services
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/credentials|Credentials]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/sessions|Sessions]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/tokens|Tokens]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

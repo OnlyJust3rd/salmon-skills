@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding solutions for problems using dynamic programming in code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

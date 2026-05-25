@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding direct-mapped, set-associative, and fully associative caching at a conceptual and address-breakdown level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

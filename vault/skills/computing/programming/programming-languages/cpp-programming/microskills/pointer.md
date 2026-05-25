@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding address-based references to memory.
+## Related Mediums
+
+![[bases/related-mediums.base]]

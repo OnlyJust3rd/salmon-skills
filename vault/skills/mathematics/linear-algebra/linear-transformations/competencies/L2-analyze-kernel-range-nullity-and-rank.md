@@ -49,3 +49,6 @@ Define, explain the relationship of, and compute the kernel, range, nullity, and
 - [[injectivity-determination|Injectivity determination]]
 - [[surjectivity-determination|Surjectivity determination]]
 - [[rank-nullity-theorem-application|Rank-Nullity theorem application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

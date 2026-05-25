@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of MPI collective functions for optimized inter-process data exchange.
+## Related Mediums
+
+![[bases/related-mediums.base]]

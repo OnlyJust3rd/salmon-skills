@@ -45,3 +45,6 @@ Explain the concept and significance of Big O notation in characterizing the tim
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/big-o-notation-significance|Big O Notation Significance]]
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/time-complexity-analysis|Time Complexity Analysis]]
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/space-complexity-analysis|Space Complexity Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

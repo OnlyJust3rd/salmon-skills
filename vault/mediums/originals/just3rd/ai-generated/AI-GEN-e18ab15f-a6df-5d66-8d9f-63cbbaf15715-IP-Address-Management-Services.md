@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ip-address-management-services|ip-address-management-services]]"
+learning-outcomes:
+  - "[[ip-address-management-services|ip-address-management-services]]"
 learning-time-in-minutes: 4
 ---
 # IP Address Management Services: The Role of DHCP

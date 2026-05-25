@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[control-flow|control-flow]]"
+learning-outcomes:
+  - "[[control-flow|control-flow]]"
 learning-time-in-minutes: 2
 ---
 # Control Flow: Conditionals and Loops in C#

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[kosaraju-s-algorithm-java-implementation|kosaraju-s-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[kosaraju-s-algorithm-java-implementation|kosaraju-s-algorithm-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Kosaraju's Algorithm: Java Implementation

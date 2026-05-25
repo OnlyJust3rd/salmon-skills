@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding factors that influence cloud spending.
+## Related Mediums
+
+![[bases/related-mediums.base]]

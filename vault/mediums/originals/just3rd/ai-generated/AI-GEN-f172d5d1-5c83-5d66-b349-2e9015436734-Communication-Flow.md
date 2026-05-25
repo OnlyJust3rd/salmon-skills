@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[communication-flow|communication-flow]]"
+learning-outcomes:
+  - "[[communication-flow|communication-flow]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Communication Flow in HTTP and DNS

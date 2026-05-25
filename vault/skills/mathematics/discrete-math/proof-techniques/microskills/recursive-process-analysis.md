@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the behavior and outcomes of recursive computational processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

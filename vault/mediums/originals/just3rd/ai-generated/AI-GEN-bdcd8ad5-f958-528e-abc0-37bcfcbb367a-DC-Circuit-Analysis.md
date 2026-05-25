@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/dc-circuit-analysis|dc-circuit-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/dc-circuit-analysis|dc-circuit-analysis]]"
 learning-time-in-minutes: 6
 ---
 # Applying Mesh and Nodal Analysis to DC Circuits

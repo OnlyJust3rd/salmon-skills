@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/line-rendering|line-rendering]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/line-rendering|line-rendering]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Bresenham's Line Algorithm

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/area-under-a-curve-calculation|area-under-a-curve-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/area-under-a-curve-calculation|area-under-a-curve-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Area Under a Curve Using Definite Integrals

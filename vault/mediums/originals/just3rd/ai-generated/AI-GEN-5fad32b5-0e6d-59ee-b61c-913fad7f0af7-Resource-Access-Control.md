@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/resource-access-control|resource-access-control]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/resource-access-control|resource-access-control]]"
 learning-time-in-minutes: 3
 ---
 # Resource Access Control: Granting Specific Permissions

@@ -45,3 +45,6 @@ Present a comprehensive and justified functional team project, showcasing its in
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/problem-solving-process-justification|Problem-Solving Process Justification]]
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/comprehensive-project-presentation|Comprehensive Project Presentation]]
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/functional-team-project-defense|Functional Team Project Defense]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to write code for network applications using sockets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

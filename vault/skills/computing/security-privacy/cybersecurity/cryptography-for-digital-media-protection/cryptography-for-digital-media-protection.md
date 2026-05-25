@@ -50,3 +50,6 @@ Apply cryptographic techniques to ensure confidentiality, integrity, and authent
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/media-protection-with-hybrid-encryption|Media Protection with Hybrid Encryption]]
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/symmetric-encryption-characteristics|Symmetric Encryption Characteristics]]
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/watermark-signal-generation|Watermark Signal Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

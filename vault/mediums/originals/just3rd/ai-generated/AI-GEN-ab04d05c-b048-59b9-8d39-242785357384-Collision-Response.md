@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-physics/microskills/collision-response|collision-response]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-physics/microskills/collision-response|collision-response]]"
 learning-time-in-minutes: 5
 ---
 # Collision Response: Making Objects React to Collisions

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/derivative-function-behavior-relationship|derivative-function-behavior-relationship]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/derivative-function-behavior-relationship|derivative-function-behavior-relationship]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Derivative's Story: Function Behavior

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of Regular Expressions to locate and retrieve specific segments of text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

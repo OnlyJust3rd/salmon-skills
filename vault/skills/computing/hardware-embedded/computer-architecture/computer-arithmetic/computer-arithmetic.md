@@ -43,3 +43,6 @@ Explaining, applying, and analyzing core computer arithmetic algorithms (adders,
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/multiplication-algorithms-overview|Multiplication Algorithms Overview]]
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/multiplier-divider-trade-off-analysis|Multiplier/Divider Trade-off Analysis]]
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/overflow-detection|Overflow Detection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

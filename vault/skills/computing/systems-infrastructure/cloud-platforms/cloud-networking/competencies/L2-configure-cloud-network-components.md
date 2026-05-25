@@ -51,3 +51,6 @@ Apply configuration settings for virtual networks, subnet segmentation, Network 
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/network-security-group-nsg-configuration|Network Security Group (NSG) Configuration]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/load-balancer-configuration|Load Balancer Configuration]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/cloud-networking-services|Cloud Networking Services]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

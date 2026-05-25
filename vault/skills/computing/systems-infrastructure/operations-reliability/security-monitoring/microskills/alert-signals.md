@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding notifications generated from suspicious or high-risk behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

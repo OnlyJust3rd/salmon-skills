@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding diagrams that depict the overall system structure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

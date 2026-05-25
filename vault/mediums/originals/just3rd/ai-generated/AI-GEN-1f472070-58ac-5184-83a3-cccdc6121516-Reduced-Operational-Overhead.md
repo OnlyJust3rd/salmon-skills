@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/reduced-operational-overhead|reduced-operational-overhead]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/reduced-operational-overhead|reduced-operational-overhead]]"
 learning-time-in-minutes: 5
 ---
 # Serverless: The Beauty of Reduced Operational Overhead

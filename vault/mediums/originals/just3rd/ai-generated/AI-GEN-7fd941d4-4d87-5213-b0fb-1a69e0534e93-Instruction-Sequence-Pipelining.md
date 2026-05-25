@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/instruction-sequence-pipelining|instruction-sequence-pipelining]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/instruction-sequence-pipelining|instruction-sequence-pipelining]]"
 learning-time-in-minutes: 3
 ---
 # Applying Pipeline Stages to Instruction Sequences

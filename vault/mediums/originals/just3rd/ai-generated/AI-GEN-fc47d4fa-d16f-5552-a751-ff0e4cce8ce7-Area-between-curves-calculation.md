@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/area-between-curves-calculation|area-between-curves-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/area-between-curves-calculation|area-between-curves-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating the Area Between Two Curves

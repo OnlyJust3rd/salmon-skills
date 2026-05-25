@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of resource ordering for deadlock prevention.
+## Related Mediums
+
+![[bases/related-mediums.base]]

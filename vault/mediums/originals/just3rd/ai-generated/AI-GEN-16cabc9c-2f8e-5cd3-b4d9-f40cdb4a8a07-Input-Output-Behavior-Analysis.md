@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/input-output-behavior-analysis|input-output-behavior-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/input-output-behavior-analysis|input-output-behavior-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing System Input-Output Behavior

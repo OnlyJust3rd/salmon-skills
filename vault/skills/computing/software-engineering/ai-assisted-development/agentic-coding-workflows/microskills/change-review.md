@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Inspecting generated diffs before integration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

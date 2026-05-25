@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/bml-for-feature-prioritization|bml-for-feature-prioritization]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/bml-for-feature-prioritization|bml-for-feature-prioritization]]"
 learning-time-in-minutes: 5
 ---
 # BML for Feature Prioritization

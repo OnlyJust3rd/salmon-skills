@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding predictive code suggestions in an editor.
+## Related Mediums
+
+![[bases/related-mediums.base]]

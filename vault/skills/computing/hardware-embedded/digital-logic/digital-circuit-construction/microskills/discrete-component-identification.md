@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Recognition of common discrete components (resistors, capacitors, LEDs) by appearance and markings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

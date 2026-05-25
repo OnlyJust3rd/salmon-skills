@@ -39,3 +39,6 @@ Run an Agile iteration by refining work, planning delivery, demonstrating increm
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/backlog-refinement|Backlog Refinement]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/sprint-planning|Sprint Planning]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/stakeholder-feedback-loop|Stakeholder Feedback Loop]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

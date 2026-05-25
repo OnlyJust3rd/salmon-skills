@@ -48,3 +48,6 @@ Converting geometric primitives into pixel representations using scan conversion
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/purpose-of-line-drawing-algorithms|Purpose of Line Drawing Algorithms]]
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/rasterization-definition|Rasterization Definition]]
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/scan-conversion-process|Scan Conversion Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

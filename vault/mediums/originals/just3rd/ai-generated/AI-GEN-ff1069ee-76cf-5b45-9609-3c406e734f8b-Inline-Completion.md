@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/inline-completion|inline-completion]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/inline-completion|inline-completion]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Inline Completion in GitHub Copilot

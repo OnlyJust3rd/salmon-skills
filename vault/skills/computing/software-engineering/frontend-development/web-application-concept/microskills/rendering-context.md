@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain document loading and dynamic updates at a high level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

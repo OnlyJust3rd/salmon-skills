@@ -43,3 +43,6 @@ Compare and contrast the core principles and efficiency characteristics of diffe
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/sorting-strategy-comparison|Sorting Strategy Comparison]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/searching-strategy-comparison|Searching Strategy Comparison]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/algorithmic-efficiency-differentiation|Algorithmic Efficiency Differentiation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

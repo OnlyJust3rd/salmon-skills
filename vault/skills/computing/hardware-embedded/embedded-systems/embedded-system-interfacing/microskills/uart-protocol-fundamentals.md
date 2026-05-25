@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of asynchronous serial communication principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

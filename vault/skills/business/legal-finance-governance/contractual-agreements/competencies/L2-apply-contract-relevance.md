@@ -51,3 +51,6 @@ Apply the understanding of employment contracts, NDAs, and confidentiality/non-c
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/confidentiality-clause-scenario-application|Confidentiality Clause Scenario Application]]
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/non-competition-clause-scenario-application|Non-Competition Clause Scenario Application]]
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/hypothetical-employment-contexts|Hypothetical Employment Contexts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

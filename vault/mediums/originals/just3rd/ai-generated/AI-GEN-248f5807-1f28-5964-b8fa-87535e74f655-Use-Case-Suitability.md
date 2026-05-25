@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/use-case-suitability|use-case-suitability]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/use-case-suitability|use-case-suitability]]"
 learning-time-in-minutes: 4
 ---
 # Matching Databases to the Job: Relational vs. NoSQL Use Cases

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[requirement-discovery-techniques|requirement-discovery-techniques]]"
+learning-outcomes:
+  - "[[requirement-discovery-techniques|requirement-discovery-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Requirement Discovery Techniques

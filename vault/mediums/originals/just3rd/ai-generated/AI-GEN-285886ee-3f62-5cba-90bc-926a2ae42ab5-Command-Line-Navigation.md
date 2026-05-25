@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[command-line-navigation|command-line-navigation]]"
+learning-outcomes:
+  - "[[command-line-navigation|command-line-navigation]]"
 learning-time-in-minutes: 4
 ---
 # Navigating the Linux File System with Commands

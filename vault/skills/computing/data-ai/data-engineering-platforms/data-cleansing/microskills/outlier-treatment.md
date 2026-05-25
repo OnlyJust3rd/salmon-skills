@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Detecting and addressing outliers in datasets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

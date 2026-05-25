@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-function-principles|diode-function-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-function-principles|diode-function-principles]]"
 learning-time-in-minutes: 4
 ---
 # Diode Function Principles

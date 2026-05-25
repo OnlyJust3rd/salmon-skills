@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deriving the matrix representation for a linear transformation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

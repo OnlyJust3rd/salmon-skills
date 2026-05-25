@@ -45,3 +45,6 @@ Analyze the trade-offs of using different design patterns to solve a particular 
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-advantage-analysis|Design Pattern Advantage Analysis]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-disadvantage-analysis|Design Pattern Disadvantage Analysis]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/pattern-selection-trade-offs|Pattern Selection Trade-offs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

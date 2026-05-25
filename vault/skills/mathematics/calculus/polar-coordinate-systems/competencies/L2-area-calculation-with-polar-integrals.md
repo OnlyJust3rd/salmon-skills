@@ -47,3 +47,6 @@ Formulate and calculate definite integrals to find the area of regions bounded b
 - [[polar-curve-area-formulation|Polar curve area formulation]]
 - [[single-polar-curve-area-calculation|Single polar curve area calculation]]
 - [[multiple-polar-curve-area-calculation|Multiple polar curve area calculation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

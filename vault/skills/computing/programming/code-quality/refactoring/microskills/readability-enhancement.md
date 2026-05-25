@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how refactoring improves code readability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

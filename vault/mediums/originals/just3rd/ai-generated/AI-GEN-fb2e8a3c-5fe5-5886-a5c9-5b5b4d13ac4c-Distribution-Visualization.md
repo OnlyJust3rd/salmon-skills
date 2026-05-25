@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[distribution-visualization|distribution-visualization]]"
+learning-outcomes:
+  - "[[distribution-visualization|distribution-visualization]]"
 learning-time-in-minutes: 4
 ---
 # Visualizing Data Distributions with Python

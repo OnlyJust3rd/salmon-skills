@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-path-determination|network-path-determination]]"
+learning-outcomes:
+  - "[[network-path-determination|network-path-determination]]"
 learning-time-in-minutes: 5
 ---
 # Navigating the Network: How Data Finds Its Way

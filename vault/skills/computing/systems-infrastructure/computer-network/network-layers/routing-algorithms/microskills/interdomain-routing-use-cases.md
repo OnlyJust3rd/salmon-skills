@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying scenarios where interdomain protocols are optimal.
+## Related Mediums
+
+![[bases/related-mediums.base]]

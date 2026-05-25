@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/business-component-mapping|business-component-mapping]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/business-component-mapping|business-component-mapping]]"
 learning-time-in-minutes: 3
 ---
 # Mapping Your Business Components with Lean Canvas

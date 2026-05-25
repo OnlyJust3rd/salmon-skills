@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[sensory-inputs|sensory-inputs]]"
+learning-outcomes:
+  - "[[sensory-inputs|sensory-inputs]]"
 learning-time-in-minutes: 3
 ---
 # Sensory Inputs: The Building Blocks of Human-Computer Interaction

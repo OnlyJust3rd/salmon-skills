@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/non-competition-clause-purpose|non-competition-clause-purpose]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/non-competition-clause-purpose|non-competition-clause-purpose]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Non-Competition Clauses

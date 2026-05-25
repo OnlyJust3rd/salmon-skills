@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[motor-components|motor-components]]"
+learning-outcomes:
+  - "[[motor-components|motor-components]]"
 learning-time-in-minutes: 4
 ---
 # Robotic System: Motors - The Engines of Movement

@@ -47,3 +47,6 @@ List common types of NoSQL databases (e.g., document, key-value, column-family, 
 - [[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/key-value-stores|Key-Value Stores]]
 - [[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/column-family-stores|Column-Family Stores]]
 - [[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/graph-databases|Graph Databases]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

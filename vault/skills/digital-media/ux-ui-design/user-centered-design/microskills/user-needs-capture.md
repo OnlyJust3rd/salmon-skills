@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how UCD captures user needs through personas and scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

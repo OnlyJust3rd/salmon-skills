@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/double-integral-interpretation-in-polar-coordinates|double-integral-interpretation-in-polar-coordinates]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/double-integral-interpretation-in-polar-coordinates|double-integral-interpretation-in-polar-coordinates]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Double Integrals in Polar Coordinates Geometrically

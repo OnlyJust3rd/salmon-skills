@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding capacity changes for analytical workloads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

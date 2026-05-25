@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-distortion-analysis|projection-distortion-analysis]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-distortion-analysis|projection-distortion-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Projection Distortion Analysis

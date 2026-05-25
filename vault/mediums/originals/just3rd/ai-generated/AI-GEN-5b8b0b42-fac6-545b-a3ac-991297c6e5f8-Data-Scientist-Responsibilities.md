@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-science/data-science/microskills/data-scientist-responsibilities|data-scientist-responsibilities]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-science/data-science/microskills/data-scientist-responsibilities|data-scientist-responsibilities]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Data Scientist Responsibilities

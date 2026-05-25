@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/resistor-color-code-interpretation|resistor-color-code-interpretation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/resistor-color-code-interpretation|resistor-color-code-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Resistor Color Codes

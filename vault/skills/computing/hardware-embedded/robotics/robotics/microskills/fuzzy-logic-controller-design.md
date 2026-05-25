@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of fuzzy logic principles for controller design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -49,3 +49,6 @@ Describe the different ways LANs can be interconnected.
 - [[network-connectivity|Network Connectivity]]
 - [[network-topology-for-interconnection|Network Topology for Interconnection]]
 - [[network-segmentation-and-connection|Network Segmentation and Connection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

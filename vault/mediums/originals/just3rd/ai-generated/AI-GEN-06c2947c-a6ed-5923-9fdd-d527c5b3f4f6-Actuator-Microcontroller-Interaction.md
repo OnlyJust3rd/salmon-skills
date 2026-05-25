@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/actuator-microcontroller-interaction|actuator-microcontroller-interaction]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/actuator-microcontroller-interaction|actuator-microcontroller-interaction]]"
 learning-time-in-minutes: 5
 ---
 # Actuator-Microcontroller Interaction

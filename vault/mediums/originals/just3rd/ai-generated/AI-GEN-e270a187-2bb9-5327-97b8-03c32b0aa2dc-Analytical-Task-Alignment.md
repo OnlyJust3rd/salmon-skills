@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/analytical-task-alignment|analytical-task-alignment]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/analytical-task-alignment|analytical-task-alignment]]"
 learning-time-in-minutes: 3
 ---
 # Analytical Task Alignment: Matching Models to Goals

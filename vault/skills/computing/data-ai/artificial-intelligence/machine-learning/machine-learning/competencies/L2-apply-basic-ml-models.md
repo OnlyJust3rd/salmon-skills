@@ -43,3 +43,6 @@ Train, evaluate, and compare basic machine learning models (linear regression, l
 - [[model-training|Model Training]]
 - [[model-evaluation|Model Evaluation]]
 - [[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/microskills/model-comparison|Model Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

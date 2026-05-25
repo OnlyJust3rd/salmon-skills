@@ -45,3 +45,6 @@ Explain the process of Gaussian elimination and its purpose in solving systems o
 - [[row-echelon-form|Row echelon form]]
 - [[reduced-row-echelon-form|Reduced row echelon form]]
 - [[purpose-of-gaussian-elimination|Purpose of Gaussian elimination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

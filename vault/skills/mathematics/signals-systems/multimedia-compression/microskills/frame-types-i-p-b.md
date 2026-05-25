@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing the roles of I, P, and B frames.
+## Related Mediums
+
+![[bases/related-mediums.base]]

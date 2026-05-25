@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and outlining of individual project activities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

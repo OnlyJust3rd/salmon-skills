@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how source files are transformed into browser-ready assets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

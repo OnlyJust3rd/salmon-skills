@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics-calculation|objective-watermarking-metrics-calculation]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics-calculation|objective-watermarking-metrics-calculation]]"
 learning-time-in-minutes: 5
 ---
 # Objective Watermarking Metrics Calculation

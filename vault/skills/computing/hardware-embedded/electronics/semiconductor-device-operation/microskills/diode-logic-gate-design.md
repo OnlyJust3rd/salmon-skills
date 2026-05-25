@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating logic gate circuits using diodes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

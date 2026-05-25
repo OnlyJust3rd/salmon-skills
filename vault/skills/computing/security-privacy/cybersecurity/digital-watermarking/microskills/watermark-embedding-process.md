@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the conceptual steps involved in embedding watermark data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

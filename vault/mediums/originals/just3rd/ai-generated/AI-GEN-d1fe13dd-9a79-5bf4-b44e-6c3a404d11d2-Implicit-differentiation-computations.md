@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/implicit-differentiation-computations|implicit-differentiation-computations]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/implicit-differentiation-computations|implicit-differentiation-computations]]"
 learning-time-in-minutes: 2
 ---
 # Implicit Differentiation Computations

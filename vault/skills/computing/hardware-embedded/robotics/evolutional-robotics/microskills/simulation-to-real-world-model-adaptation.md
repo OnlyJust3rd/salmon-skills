@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing methods for transitioning robotic models from simulated to physical environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

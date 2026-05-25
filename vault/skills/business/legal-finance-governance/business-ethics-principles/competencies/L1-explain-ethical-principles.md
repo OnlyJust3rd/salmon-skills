@@ -50,3 +50,6 @@ Explain the meaning, importance, and examples of core ethical principles in busi
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/business-trust|Business Trust]]
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/business-fairness|Business Fairness]]
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/business-responsibility|Business Responsibility]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

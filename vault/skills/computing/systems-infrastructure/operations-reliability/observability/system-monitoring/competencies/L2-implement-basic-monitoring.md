@@ -47,3 +47,6 @@ Implement basic system performance monitoring using command-line tools or dashbo
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/dashboard-monitoring|Dashboard Monitoring]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/key-infrastructure-metrics-tracking|Key Infrastructure Metrics Tracking]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/golden-signals-tracking|Golden Signals Tracking]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

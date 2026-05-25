@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Updating and removing documents from collections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|logical-to-physical-address-translation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|logical-to-physical-address-translation]]"
 learning-time-in-minutes: 5
 ---
 # Translating the Program's View to Reality: Logical to Physical Address Translation

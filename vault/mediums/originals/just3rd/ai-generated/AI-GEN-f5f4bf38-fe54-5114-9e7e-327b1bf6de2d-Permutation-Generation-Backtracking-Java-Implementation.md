@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[permutation-generation-backtracking-java-implementation|permutation-generation-backtracking-java-implementation]]"
+learning-outcomes:
+  - "[[permutation-generation-backtracking-java-implementation|permutation-generation-backtracking-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Permutation Generation Backtracking in Java

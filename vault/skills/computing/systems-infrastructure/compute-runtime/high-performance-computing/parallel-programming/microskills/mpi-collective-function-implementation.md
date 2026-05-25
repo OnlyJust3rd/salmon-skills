@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of collective communication functions within parallel programs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

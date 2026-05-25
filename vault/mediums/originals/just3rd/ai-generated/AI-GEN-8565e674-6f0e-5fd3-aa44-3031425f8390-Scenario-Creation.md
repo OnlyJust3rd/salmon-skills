@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[scenario-creation|scenario-creation]]"
+learning-outcomes:
+  - "[[scenario-creation|scenario-creation]]"
 learning-time-in-minutes: 5
 ---
 # Scenario Creation: Visualizing User Journeys

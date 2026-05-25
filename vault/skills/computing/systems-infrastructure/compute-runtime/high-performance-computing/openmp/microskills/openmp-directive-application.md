@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of OpenMP directives for parallel program creation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/impact-of-pricing-models-on-cost|impact-of-pricing-models-on-cost]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/impact-of-pricing-models-on-cost|impact-of-pricing-models-on-cost]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Cloud Pricing Models and Their Impact on Costs

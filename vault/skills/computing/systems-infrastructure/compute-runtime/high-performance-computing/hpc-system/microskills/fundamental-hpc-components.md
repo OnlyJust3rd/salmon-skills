@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and understanding of the essential parts that constitute HPC systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

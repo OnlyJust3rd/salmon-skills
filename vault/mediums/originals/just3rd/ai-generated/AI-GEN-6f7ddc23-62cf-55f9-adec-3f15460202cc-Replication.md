@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/replication|replication]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/replication|replication]]"
 learning-time-in-minutes: 5
 ---
 # Replication: Keeping Everyone on the Same Page in Games

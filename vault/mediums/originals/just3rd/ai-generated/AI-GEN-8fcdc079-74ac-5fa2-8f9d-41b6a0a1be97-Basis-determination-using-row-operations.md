@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/basis-determination-using-row-operations|basis-determination-using-row-operations]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/basis-determination-using-row-operations|basis-determination-using-row-operations]]"
 learning-time-in-minutes: 6
 ---
 # Finding Bases with Gaussian Elimination

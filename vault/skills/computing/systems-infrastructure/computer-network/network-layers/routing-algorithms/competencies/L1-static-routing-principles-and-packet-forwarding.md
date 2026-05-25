@@ -47,3 +47,6 @@ Describe static routing principles and explain the process of packet forwarding 
 - [[packet-forwarding-with-static-routes|Packet Forwarding with Static Routes]]
 - [[manual-route-management|Manual Route Management]]
 - [[network-path-control|Network Path Control]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

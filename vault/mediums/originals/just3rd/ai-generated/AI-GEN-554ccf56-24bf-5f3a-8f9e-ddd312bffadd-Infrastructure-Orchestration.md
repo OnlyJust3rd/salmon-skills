@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-orchestration|infrastructure-orchestration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-orchestration|infrastructure-orchestration]]"
 learning-time-in-minutes: 4
 ---
 # Orchestrating Kubernetes with Terraform

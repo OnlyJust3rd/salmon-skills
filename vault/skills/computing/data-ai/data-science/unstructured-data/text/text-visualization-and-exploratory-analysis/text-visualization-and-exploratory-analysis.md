@@ -46,3 +46,6 @@ Visualize and explore textual datasets to identify patterns, distributions, and 
 - [[text-visualization-applications|Text Visualization Applications]]
 - [[word-cloud-characteristics|Word Cloud Characteristics]]
 - [[word-cloud-generation|Word Cloud Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

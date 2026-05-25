@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recalling specific instances where serverless architecture is employed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

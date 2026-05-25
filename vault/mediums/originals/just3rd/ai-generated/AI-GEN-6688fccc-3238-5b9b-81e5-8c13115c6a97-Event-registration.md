@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[event-registration|event-registration]]"
+learning-outcomes:
+  - "[[event-registration|event-registration]]"
 learning-time-in-minutes: 3
 ---
 # Event Registration in JavaScript

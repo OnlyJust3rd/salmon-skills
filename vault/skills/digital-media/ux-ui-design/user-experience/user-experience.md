@@ -103,3 +103,6 @@ Design user experience (UX) workflows and validate solutions through usability t
 - [[user-research-stages|User Research Stages]]
 - [[visibility-of-system-status|Visibility of System Status]]
 - [[visual-design|Visual Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

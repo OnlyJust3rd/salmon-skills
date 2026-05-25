@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Maintaining predictable behavior across screens.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-yaml-manifests|kubernetes-yaml-manifests]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-yaml-manifests|kubernetes-yaml-manifests]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes YAML Manifests: The Language of Kubernetes

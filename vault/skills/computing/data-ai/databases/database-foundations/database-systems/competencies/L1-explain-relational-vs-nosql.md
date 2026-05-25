@@ -47,3 +47,6 @@ Explain the fundamental differences between relational and NoSQL databases.
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/structural-differences|Structural Differences]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-model-distinctions|Data Model Distinctions]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/use-case-suitability|Use Case Suitability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

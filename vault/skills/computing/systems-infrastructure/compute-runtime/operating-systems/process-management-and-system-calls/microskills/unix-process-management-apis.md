@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding core UNIX process API functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

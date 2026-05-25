@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of the substitution method to evaluate indefinite integrals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

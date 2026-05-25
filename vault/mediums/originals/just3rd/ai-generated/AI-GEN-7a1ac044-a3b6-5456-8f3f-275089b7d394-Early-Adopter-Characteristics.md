@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/early-adopter-characteristics|early-adopter-characteristics]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/early-adopter-characteristics|early-adopter-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Early Adopter Characteristics

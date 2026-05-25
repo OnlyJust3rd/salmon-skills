@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing learned principles of team project management in practice.
+## Related Mediums
+
+![[bases/related-mediums.base]]

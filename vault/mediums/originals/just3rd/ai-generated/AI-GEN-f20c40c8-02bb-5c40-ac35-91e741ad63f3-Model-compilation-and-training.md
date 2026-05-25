@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[model-compilation-and-training|model-compilation-and-training]]"
+learning-outcomes:
+  - "[[model-compilation-and-training|model-compilation-and-training]]"
 learning-time-in-minutes: 3
 ---
 # Model Compilation and Training in Deep Learning Frameworks

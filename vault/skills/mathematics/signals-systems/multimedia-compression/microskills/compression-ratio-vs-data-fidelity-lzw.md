@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of trade-offs for LZW.
+## Related Mediums
+
+![[bases/related-mediums.base]]

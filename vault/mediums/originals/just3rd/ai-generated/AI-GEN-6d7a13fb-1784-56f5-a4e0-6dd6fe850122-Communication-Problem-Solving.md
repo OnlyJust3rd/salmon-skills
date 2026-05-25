@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/communication-problem-solving|communication-problem-solving]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/communication-problem-solving|communication-problem-solving]]"
 learning-time-in-minutes: 5
 ---
 # Communication Problem Solving: Bridging Gaps for Better Teamwork

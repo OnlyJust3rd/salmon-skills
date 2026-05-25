@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the rule for calculating 2x2 determinants.
+## Related Mediums
+
+![[bases/related-mediums.base]]

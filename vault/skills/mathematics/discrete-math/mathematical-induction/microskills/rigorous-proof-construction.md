@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to construct rigorous mathematical proofs for statements about integers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

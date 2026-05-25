@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Operational differences between packet-filter and proxy firewalls.
+## Related Mediums
+
+![[bases/related-mediums.base]]

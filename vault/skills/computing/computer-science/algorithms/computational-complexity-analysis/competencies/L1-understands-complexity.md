@@ -41,3 +41,6 @@ Explain how to derive asymptotic complexity for simple algorithms.
 
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/loop-analysis|Loop Analysis]]
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/asymptotic-reasoning|Asymptotic Reasoning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

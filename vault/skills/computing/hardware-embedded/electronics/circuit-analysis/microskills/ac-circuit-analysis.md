@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of mesh/nodal analysis to AC circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Calculate objective watermarking performance metrics and simulate watermarking a
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-simulation|Watermarking Attack Simulation]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/stirmark-tool-usage|StirMark Tool Usage]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-performance-metric-application|Watermarking Performance Metric Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

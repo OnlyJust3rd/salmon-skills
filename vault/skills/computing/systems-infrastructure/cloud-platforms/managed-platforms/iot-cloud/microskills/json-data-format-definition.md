@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the definition of JSON data formats.
+## Related Mediums
+
+![[bases/related-mediums.base]]

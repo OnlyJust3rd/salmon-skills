@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of binary arithmetic principles for calculations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

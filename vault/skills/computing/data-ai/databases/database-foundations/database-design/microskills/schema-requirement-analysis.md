@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Translating application requirements into schema design decisions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/place-and-route-process|place-and-route-process]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/place-and-route-process|place-and-route-process]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Place-and-Route Process in FPGA Design

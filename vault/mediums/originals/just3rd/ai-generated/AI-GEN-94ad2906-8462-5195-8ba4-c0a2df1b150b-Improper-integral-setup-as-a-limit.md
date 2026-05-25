@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/improper-integral-setup-as-a-limit|improper-integral-setup-as-a-limit]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/improper-integral-setup-as-a-limit|improper-integral-setup-as-a-limit]]"
 learning-time-in-minutes: 5
 ---
 # Rewriting Improper Integrals as Limits

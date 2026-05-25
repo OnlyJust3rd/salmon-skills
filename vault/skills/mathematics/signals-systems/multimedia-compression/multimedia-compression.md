@@ -107,3 +107,6 @@ Describing the major steps of the JPEG image compression standard (DCT, Quantiza
 - [[transform-coding-identification|Transform Coding Identification]]
 - [[transform-coding-vs-lzw-analysis|Transform Coding vs. LZW Analysis]]
 - [[video-compression-primary-goals|Video Compression Primary Goals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

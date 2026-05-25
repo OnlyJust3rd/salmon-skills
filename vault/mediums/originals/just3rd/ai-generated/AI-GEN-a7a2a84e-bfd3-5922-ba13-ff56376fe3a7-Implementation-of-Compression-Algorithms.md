@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/image-compression/microskills/implementation-of-compression-algorithms|implementation-of-compression-algorithms]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/image-compression/microskills/implementation-of-compression-algorithms|implementation-of-compression-algorithms]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Compression Algorithms: A Practical Guide

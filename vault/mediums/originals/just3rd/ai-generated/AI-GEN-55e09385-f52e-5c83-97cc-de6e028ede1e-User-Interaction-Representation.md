@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/user-interaction-representation|user-interaction-representation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/user-interaction-representation|user-interaction-representation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding User Interaction Representation in UML

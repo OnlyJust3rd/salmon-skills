@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding why plaintext credential storage is unsafe.
+## Related Mediums
+
+![[bases/related-mediums.base]]

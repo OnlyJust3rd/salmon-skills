@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the advantages of encapsulation in software design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

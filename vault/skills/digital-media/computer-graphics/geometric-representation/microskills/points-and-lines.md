@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition and definition of points and lines as basic geometric entities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

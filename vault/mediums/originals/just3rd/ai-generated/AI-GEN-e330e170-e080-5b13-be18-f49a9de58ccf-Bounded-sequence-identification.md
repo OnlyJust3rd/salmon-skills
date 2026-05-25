@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/bounded-sequence-identification|bounded-sequence-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/bounded-sequence-identification|bounded-sequence-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Bounded Sequences

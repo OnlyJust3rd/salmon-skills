@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing significant current and anticipated trends in human-computer interaction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

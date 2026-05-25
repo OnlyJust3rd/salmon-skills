@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of methods to uncover user and system needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

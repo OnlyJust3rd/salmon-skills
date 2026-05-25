@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[task-flow-design|task-flow-design]]"
+learning-outcomes:
+  - "[[task-flow-design|task-flow-design]]"
 learning-time-in-minutes: 6
 ---
 # Designing Effective Task Flows

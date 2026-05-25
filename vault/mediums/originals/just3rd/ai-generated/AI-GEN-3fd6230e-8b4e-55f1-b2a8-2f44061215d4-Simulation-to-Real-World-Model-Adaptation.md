@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[simulation-to-real-world-model-adaptation|simulation-to-real-world-model-adaptation]]"
+learning-outcomes:
+  - "[[simulation-to-real-world-model-adaptation|simulation-to-real-world-model-adaptation]]"
 learning-time-in-minutes: 6
 ---
 # Adapting Robotic Models: Bridging the Simulation-Reality Gap

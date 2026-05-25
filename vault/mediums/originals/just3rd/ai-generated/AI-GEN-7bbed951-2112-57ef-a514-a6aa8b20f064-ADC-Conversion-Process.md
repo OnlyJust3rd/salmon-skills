@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[adc-conversion-process|adc-conversion-process]]"
+learning-outcomes:
+  - "[[adc-conversion-process|adc-conversion-process]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the ADC Conversion Process

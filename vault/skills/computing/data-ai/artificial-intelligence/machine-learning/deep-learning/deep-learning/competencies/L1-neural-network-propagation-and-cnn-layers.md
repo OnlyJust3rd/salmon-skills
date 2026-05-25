@@ -45,3 +45,6 @@ Explain the process of forward and backward propagation and the purpose and func
 - [[backward-pass-backpropagation-explanation|Backward pass (backpropagation) explanation]]
 - [[convolutional-layer-function|Convolutional layer function]]
 - [[pooling-layer-purpose|Pooling layer purpose]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

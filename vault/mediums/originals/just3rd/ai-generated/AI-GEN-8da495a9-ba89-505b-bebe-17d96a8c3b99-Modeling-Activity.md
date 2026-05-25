@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/modeling-activity|modeling-activity]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/modeling-activity|modeling-activity]]"
 learning-time-in-minutes: 4
 ---
 # Modeling in Software Engineering

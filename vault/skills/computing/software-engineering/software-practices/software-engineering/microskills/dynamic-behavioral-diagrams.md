@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representation through Sequence and Activity diagrams.
+## Related Mediums
+
+![[bases/related-mediums.base]]

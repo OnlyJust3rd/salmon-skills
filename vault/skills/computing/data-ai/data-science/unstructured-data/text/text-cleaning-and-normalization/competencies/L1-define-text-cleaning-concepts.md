@@ -46,3 +46,6 @@ Identify and define common text cleaning concepts including noise removal, HTML 
 - [[html-tag-handling-concepts|HTML Tag Handling Concepts]]
 - [[character-normalization-definition|Character Normalization Definition]]
 - [[data-masking-definition|Data Masking Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

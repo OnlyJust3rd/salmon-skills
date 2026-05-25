@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the format of Hypertext Transfer Protocol messages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

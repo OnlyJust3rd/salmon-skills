@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/searching-algorithm-characteristics|searching-algorithm-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/searching-algorithm-characteristics|searching-algorithm-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # Searching Algorithm Characteristics

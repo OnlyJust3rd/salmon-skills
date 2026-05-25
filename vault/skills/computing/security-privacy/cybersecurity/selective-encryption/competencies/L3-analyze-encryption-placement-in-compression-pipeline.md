@@ -45,3 +45,6 @@ Differentiate and analyze selective encryption algorithms based on their placeme
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-stage-analysis|Encryption Stage Analysis]]
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/placement-implications-analysis|Placement Implications Analysis]]
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-location-identification|Encryption Location Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

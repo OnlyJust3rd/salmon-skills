@@ -45,3 +45,6 @@ Explain prompt engineering principles.
 - [[instruction|Instruction]]
 - [[context|Context]]
 - [[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/constraint|Constraint]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

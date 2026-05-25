@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the 0/1 Knapsack problem using dynamic programming in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

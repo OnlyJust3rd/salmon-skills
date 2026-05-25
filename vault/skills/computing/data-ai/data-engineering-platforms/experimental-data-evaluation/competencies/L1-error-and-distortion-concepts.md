@@ -47,3 +47,6 @@ Explain the concept and significance of percentage error and the impact of signa
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/signal-distortion-impact|Signal Distortion Impact]]
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/measurement-accuracy|Measurement Accuracy]]
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/theoretical-calculation-discrepancy|Theoretical Calculation Discrepancy]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

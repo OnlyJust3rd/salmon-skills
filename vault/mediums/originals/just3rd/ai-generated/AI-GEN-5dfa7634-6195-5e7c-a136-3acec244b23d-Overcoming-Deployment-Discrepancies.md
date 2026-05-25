@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[overcoming-deployment-discrepancies|overcoming-deployment-discrepancies]]"
+learning-outcomes:
+  - "[[overcoming-deployment-discrepancies|overcoming-deployment-discrepancies]]"
 learning-time-in-minutes: 5
 ---
 # Overcoming Deployment Discrepancies

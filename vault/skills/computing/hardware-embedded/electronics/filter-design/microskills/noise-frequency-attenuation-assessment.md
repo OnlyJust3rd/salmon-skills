@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of a filter's ability to reduce unwanted frequencies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

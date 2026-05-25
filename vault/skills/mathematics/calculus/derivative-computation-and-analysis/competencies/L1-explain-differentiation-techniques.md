@@ -45,3 +45,6 @@ Explain the purpose and application of implicit differentiation and the chain ru
 - [[implicit-differentiation-purpose-and-application|Implicit differentiation purpose and application]]
 - [[chain-rule-application-single-variable|Chain rule application (single-variable)]]
 - [[chain-rule-application-multivariable|Chain rule application (multivariable)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

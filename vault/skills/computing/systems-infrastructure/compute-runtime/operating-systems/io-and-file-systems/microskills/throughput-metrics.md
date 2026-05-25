@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing disk scheduling based on throughput.
+## Related Mediums
+
+![[bases/related-mediums.base]]

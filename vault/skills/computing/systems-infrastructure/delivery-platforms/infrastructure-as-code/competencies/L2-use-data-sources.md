@@ -45,3 +45,6 @@ Use Terraform data sources to retrieve information from a specified source.
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-data-source-configuration|Terraform Data Source Configuration]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/external-information-retrieval|External Information Retrieval]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/dynamic-configuration|Dynamic Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Mathematical models for representing geometric primitives in two dimensions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

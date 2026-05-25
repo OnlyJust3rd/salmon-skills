@@ -45,3 +45,6 @@ Implement feature-level React components with TypeScript that fetch JSON data an
 - [[skills/computing/software-engineering/frontend-development/react/microskills/feature-folder-structure|Feature folder structure]]
 - [[skills/computing/software-engineering/frontend-development/react/microskills/typed-props-and-events|Typed props and events]]
 - [[skills/computing/software-engineering/frontend-development/react/microskills/data-fetching-in-components|Data fetching in components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Accurate computation of voltages, currents, and resistances.
+## Related Mediums
+
+![[bases/related-mediums.base]]

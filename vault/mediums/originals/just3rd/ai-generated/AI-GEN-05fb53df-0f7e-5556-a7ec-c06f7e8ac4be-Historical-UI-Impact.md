@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[historical-ui-impact|historical-ui-impact]]"
+learning-outcomes:
+  - "[[historical-ui-impact|historical-ui-impact]]"
 learning-time-in-minutes: 4
 ---
 # The Echoes of the Past: How Old Interfaces Shape Today's User Experience

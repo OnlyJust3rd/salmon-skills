@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/digital-watermarking-metrics|digital-watermarking-metrics]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/digital-watermarking-metrics|digital-watermarking-metrics]]"
 learning-time-in-minutes: 5
 ---
 # Digital Watermarking Metrics: Evaluating Performance

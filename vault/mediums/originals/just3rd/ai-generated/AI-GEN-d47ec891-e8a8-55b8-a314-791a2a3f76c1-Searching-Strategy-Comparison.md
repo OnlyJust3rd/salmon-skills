@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/searching-strategy-comparison|searching-strategy-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/searching-strategy-comparison|searching-strategy-comparison]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Searching Algorithm Strategies

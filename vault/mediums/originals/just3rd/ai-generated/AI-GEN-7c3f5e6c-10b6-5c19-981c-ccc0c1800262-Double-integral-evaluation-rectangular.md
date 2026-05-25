@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/double-integral-evaluation-rectangular|double-integral-evaluation-rectangular]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/double-integral-evaluation-rectangular|double-integral-evaluation-rectangular]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating Double Integrals in Rectangular Coordinates

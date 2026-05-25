@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/technical-communication/microskills/integrated-project-showcase|integrated-project-showcase]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/integrated-project-showcase|integrated-project-showcase]]"
 learning-time-in-minutes: 5
 ---
 # Integrated Project Showcase: Evaluating Your Team's Masterpiece

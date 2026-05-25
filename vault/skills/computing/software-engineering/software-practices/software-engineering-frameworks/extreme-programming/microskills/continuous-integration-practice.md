@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Integrating changes frequently with automated checks for fast feedback.
+## Related Mediums
+
+![[bases/related-mediums.base]]

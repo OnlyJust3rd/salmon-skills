@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding conversational coding assistance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

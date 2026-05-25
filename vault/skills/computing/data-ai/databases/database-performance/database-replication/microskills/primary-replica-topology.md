@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Understanding primary-replica roles and replication flow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of bare-metal hypervisor design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

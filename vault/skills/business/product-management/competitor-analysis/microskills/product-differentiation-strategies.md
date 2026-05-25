@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing how offerings differ.
+## Related Mediums
+
+![[bases/related-mediums.base]]

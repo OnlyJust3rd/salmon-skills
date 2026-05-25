@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How different LANs are linked together.
+## Related Mediums
+
+![[bases/related-mediums.base]]

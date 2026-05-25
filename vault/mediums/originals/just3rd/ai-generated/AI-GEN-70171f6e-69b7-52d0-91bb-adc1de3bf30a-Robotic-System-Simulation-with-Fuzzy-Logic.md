@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[robotic-system-simulation-with-fuzzy-logic|robotic-system-simulation-with-fuzzy-logic]]"
+learning-outcomes:
+  - "[[robotic-system-simulation-with-fuzzy-logic|robotic-system-simulation-with-fuzzy-logic]]"
 learning-time-in-minutes: 4
 ---
 # Simulating a Fuzzy Logic Robot for Maze Traversal

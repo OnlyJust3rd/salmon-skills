@@ -43,3 +43,6 @@ Describe how serverless architecture differs from traditional computing models, 
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/serverless-vs-traditional-computing|Serverless vs. Traditional Computing]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/key-serverless-characteristics|Key Serverless Characteristics]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/serverless-deployment-differences|Serverless Deployment Differences]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

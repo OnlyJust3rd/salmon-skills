@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining the Region of Convergence for Laplace transforms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Summarize the importance of tracking quality assurance metrics for process impro
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/quality-assurance-metrics-tracking|Quality Assurance Metrics Tracking]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/process-improvement-enhancement|Process Improvement Enhancement]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/key-quality-assurance-metrics|Key Quality Assurance Metrics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

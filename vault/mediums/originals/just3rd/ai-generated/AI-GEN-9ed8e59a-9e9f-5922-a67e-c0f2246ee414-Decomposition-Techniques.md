@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/decomposition-techniques|decomposition-techniques]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/decomposition-techniques|decomposition-techniques]]"
 learning-time-in-minutes: 3
 ---
 # Breaking Down Complex Problems: Decomposition Techniques

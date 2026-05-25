@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/branch-and-bound-logic|branch-and-bound-logic]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/branch-and-bound-logic|branch-and-bound-logic]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Branch and Bound Logic

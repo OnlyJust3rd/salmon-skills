@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/model-implementation|model-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/model-implementation|model-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Model Implementation: Bringing Your Data Model to Life

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply triple integrals to calculate volumes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

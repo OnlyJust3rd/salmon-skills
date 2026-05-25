@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[congestion-control-purpose|congestion-control-purpose]]"
+learning-outcomes:
+  - "[[congestion-control-purpose|congestion-control-purpose]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Congestion Control: Keeping the Network Flowing

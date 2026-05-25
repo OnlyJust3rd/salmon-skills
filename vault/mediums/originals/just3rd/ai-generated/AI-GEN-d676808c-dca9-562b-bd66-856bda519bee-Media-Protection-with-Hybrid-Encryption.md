@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/media-protection-with-hybrid-encryption|media-protection-with-hybrid-encryption]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/media-protection-with-hybrid-encryption|media-protection-with-hybrid-encryption]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Media Protection with Hybrid Encryption

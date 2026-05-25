@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of using the Terraform Kubernetes provider.
+## Related Mediums
+
+![[bases/related-mediums.base]]

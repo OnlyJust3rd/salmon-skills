@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing performance of different basic models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

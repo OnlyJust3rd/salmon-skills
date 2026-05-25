@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[augmented-reality-concepts|augmented-reality-concepts]]"
+learning-outcomes:
+  - "[[augmented-reality-concepts|augmented-reality-concepts]]"
 learning-time-in-minutes: 2
 ---
 # Augmented Reality Concepts

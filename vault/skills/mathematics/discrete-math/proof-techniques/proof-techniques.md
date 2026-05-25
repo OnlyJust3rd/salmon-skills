@@ -44,3 +44,6 @@ Ability to employ mathematical induction and recursion to formally prove stateme
 - [[recursive-problem-solving|Recursive Problem Solving]]
 - [[recursive-process-analysis|Recursive Process Analysis]]
 - [[time-complexity-analysis-recursion|Time Complexity Analysis (Recursion)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing and implementing game mechanics to evoke specific player reactions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representation of 3D objects in 2D using parallel projection techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

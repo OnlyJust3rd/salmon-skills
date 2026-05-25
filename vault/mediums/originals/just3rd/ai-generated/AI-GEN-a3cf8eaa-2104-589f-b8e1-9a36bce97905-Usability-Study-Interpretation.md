@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-study-interpretation|usability-study-interpretation]]"
+learning-outcomes:
+  - "[[usability-study-interpretation|usability-study-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Interpreting Cognitive Load in Usability Studies

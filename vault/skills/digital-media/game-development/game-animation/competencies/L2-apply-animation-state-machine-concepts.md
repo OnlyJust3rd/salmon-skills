@@ -45,3 +45,6 @@ Apply animation state machine concepts.
 - [[skills/digital-media/game-development/game-animation/microskills/animation-state|Animation State]]
 - [[skills/digital-media/game-development/game-animation/microskills/transition-condition|Transition Condition]]
 - [[skills/digital-media/game-development/game-animation/microskills/runtime-parameter|Runtime Parameter]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

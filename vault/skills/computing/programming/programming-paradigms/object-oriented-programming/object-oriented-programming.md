@@ -86,3 +86,6 @@ Designing and structuring programs using object-oriented principles such as clas
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-application|Polymorphism Application]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-definition|Polymorphism Definition]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/separation-of-concerns-explanation|Separation of Concerns Explanation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

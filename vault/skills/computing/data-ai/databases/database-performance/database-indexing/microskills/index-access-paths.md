@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how indexes help locate records without scanning every row.
+## Related Mediums
+
+![[bases/related-mediums.base]]

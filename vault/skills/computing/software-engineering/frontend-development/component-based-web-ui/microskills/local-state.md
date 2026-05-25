@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify state that should live inside versus outside a component.
+## Related Mediums
+
+![[bases/related-mediums.base]]

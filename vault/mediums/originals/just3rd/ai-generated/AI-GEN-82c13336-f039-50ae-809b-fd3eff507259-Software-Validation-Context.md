@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-validation-context|software-validation-context]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-validation-context|software-validation-context]]"
 learning-time-in-minutes: 4
 ---
 # Software Validation: Are We Building the Right Product?

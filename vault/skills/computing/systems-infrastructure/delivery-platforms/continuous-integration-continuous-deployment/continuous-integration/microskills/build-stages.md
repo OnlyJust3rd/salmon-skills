@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding automated compilation, packaging, or validation steps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

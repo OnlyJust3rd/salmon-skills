@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/role-of-iteration-in-development|role-of-iteration-in-development]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/role-of-iteration-in-development|role-of-iteration-in-development]]"
 learning-time-in-minutes: 4
 ---
 # The Role of Iteration in Development

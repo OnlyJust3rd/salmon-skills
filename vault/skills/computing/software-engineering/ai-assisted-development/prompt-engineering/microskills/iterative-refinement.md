@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Improving instructions based on observed outputs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

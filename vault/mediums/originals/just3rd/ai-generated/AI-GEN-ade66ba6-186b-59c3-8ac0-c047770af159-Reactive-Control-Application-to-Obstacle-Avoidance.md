@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reactive-control-application-to-obstacle-avoidance|reactive-control-application-to-obstacle-avoidance]]"
+learning-outcomes:
+  - "[[reactive-control-application-to-obstacle-avoidance|reactive-control-application-to-obstacle-avoidance]]"
 learning-time-in-minutes: 5
 ---
 # Reactive Control for Obstacle Avoidance in Robots

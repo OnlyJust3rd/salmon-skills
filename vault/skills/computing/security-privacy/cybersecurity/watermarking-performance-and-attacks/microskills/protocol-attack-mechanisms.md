@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how protocol attacks compromise watermarks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

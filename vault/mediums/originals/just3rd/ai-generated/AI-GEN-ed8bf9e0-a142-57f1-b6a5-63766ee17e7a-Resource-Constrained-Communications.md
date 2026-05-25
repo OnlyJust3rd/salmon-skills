@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/resource-constrained-communications|resource-constrained-communications]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/resource-constrained-communications|resource-constrained-communications]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Resource-Constrained Communications for Selective Encryption

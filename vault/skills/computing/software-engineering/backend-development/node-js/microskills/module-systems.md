@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Contrast require/import style modules for organizing code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

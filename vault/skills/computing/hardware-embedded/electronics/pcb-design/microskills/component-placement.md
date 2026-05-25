@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Arranging components on the board layout.
+## Related Mediums
+
+![[bases/related-mediums.base]]

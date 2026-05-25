@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How ICMP conveys network status and errors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

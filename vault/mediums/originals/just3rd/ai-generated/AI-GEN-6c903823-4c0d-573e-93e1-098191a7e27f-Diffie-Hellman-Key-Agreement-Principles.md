@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/diffie-hellman-key-agreement-principles|diffie-hellman-key-agreement-principles]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/diffie-hellman-key-agreement-principles|diffie-hellman-key-agreement-principles]]"
 learning-time-in-minutes: 3
 ---
 # Diffie-Hellman Key Agreement Principles

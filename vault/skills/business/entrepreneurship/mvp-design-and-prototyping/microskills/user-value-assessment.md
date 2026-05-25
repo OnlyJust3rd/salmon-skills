@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating features for their contribution to user needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

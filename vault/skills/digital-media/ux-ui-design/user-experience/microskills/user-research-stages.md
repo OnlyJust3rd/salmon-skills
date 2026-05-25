@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Phases in understanding user needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

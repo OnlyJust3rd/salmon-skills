@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[neural-network-definitions|neural-network-definitions]]"
+learning-outcomes:
+  - "[[neural-network-definitions|neural-network-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Neural Network Definitions

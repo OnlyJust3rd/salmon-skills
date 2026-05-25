@@ -45,3 +45,6 @@ Explain Claude Code terminal agent concepts.
 - [[terminal-coding-agent|Terminal Coding Agent]]
 - [[codebase-awareness|Codebase Awareness]]
 - [[command-execution|Command Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

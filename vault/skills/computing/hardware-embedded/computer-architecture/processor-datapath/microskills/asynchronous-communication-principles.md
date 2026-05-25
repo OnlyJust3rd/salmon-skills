@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the operational characteristics of asynchronous communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

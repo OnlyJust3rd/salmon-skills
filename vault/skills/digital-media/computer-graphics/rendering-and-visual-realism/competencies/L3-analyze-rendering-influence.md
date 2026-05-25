@@ -47,3 +47,6 @@ Analyze how different projection methods and rendering parameters influence the 
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/rendering-parameter-influence|Rendering Parameter Influence]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/perceived-three-dimensionality-analysis|Perceived Three-Dimensionality Analysis]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-quality-analysis|Visual Quality Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

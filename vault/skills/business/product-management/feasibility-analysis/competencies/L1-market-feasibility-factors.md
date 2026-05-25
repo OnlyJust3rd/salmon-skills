@@ -45,3 +45,6 @@ Identify key factors influencing market feasibility.
 - [[skills/business/product-management/feasibility-analysis/microskills/market-accessibility|Market Accessibility]]
 - [[skills/business/product-management/feasibility-analysis/microskills/competitive-intensity|Competitive Intensity]]
 - [[skills/business/product-management/feasibility-analysis/microskills/market-growth-potential|Market Growth Potential]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

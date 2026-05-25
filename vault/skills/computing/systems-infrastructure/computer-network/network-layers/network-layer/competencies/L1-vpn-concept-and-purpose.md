@@ -49,3 +49,6 @@ Define the acronym VPN and its basic concept, and explain its purpose for secure
 - [[secure-network-access|Secure Network Access]]
 - [[encrypted-tunneling|Encrypted Tunneling]]
 - [[remote-access-security|Remote Access Security]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

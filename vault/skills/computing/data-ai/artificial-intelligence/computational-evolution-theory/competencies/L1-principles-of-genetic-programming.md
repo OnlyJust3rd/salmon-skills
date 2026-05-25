@@ -53,3 +53,6 @@ Explain the principles of genetic programming and its relationship to evolutiona
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/genetic-programming-and-evolutionary-concepts|Genetic Programming and Evolutionary Concepts]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/application-of-genetic-programming|Application of Genetic Programming]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/core-tenets-of-genetic-programming|Core Tenets of Genetic Programming]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

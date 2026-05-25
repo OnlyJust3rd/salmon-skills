@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[encapsulation-for-controlled-access|encapsulation-for-controlled-access]]"
+learning-outcomes:
+  - "[[encapsulation-for-controlled-access|encapsulation-for-controlled-access]]"
 learning-time-in-minutes: 3
 ---
 # Encapsulation for Controlled Access in Java

@@ -47,3 +47,6 @@ Compare and contrast the primary functions and contributions of a coach, mentor,
 - [[skills/professional-practice/career-development/it-career-path/microskills/sponsor-functions|Sponsor Functions]]
 - [[skills/professional-practice/career-development/it-career-path/microskills/role-comparison|Role Comparison]]
 - [[skills/professional-practice/career-development/it-career-path/microskills/contribution-to-growth|Contribution to Growth]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

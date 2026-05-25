@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of the role and impact of 5G technology in IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

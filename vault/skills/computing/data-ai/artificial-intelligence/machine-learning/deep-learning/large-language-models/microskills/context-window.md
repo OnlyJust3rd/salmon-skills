@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the input span a model can consider.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -4,7 +4,8 @@ title: i-aced-my-technical-interviews-knowing-these-microservices-design-pattern
 tags:
   - medium
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[L2-apply-microservices-in-architecture-descriptions]]"
+learning-outcomes:
+  - "[[L2-apply-microservices-in-architecture-descriptions]]"
 learning-time-in-minutes: 11
 source: Kiki's Bytes
 ---

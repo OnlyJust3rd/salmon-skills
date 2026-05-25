@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[routing-protocol-suitability|routing-protocol-suitability]]"
+learning-outcomes:
+  - "[[routing-protocol-suitability|routing-protocol-suitability]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Routing Protocol Suitability for Network Scale

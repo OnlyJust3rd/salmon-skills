@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding user comments and observations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

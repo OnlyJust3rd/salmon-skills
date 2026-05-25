@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/format-compliance-criterion|format-compliance-criterion]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/format-compliance-criterion|format-compliance-criterion]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Format Compliance in Selective Encryption

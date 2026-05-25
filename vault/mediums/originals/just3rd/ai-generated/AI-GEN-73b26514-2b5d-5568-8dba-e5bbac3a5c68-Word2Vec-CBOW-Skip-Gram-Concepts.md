@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[word2vec-cbow-skip-gram-concepts|word2vec-cbow-skip-gram-concepts]]"
+learning-outcomes:
+  - "[[word2vec-cbow-skip-gram-concepts|word2vec-cbow-skip-gram-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Word2Vec: Concepts and Principles

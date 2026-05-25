@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-selection|design-pattern-selection]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-selection|design-pattern-selection]]"
 learning-time-in-minutes: 4
 ---
 # Design Pattern Selection: Choosing the Right Tool

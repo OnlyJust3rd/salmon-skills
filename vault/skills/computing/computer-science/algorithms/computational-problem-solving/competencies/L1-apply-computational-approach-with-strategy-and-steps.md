@@ -45,3 +45,6 @@ Solve a real-world problem by applying a computational approach, explaining the 
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/computational-strategy-selection|Computational strategy selection]]
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/step-by-step-solution-planning|Step-by-step solution planning]]
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/application-of-computational-logic|Application of computational logic]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

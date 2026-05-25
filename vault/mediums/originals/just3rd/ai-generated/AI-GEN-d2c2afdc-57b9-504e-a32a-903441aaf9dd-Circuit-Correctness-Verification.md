@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/circuit-correctness-verification|circuit-correctness-verification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/circuit-correctness-verification|circuit-correctness-verification]]"
 learning-time-in-minutes: 3
 ---
 # Circuit Correctness Verification

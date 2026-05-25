@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of techniques to reduce cloud spending.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how data is structured into frames.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[heap-sort-java-implementation|heap-sort-java-implementation]]"
+learning-outcomes:
+  - "[[heap-sort-java-implementation|heap-sort-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Heap Sort in Java

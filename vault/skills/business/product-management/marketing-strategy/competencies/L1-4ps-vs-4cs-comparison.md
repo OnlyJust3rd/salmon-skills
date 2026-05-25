@@ -45,3 +45,6 @@ Compare and contrast the Marketing Mix approaches of 4Ps and 4Cs.
 - [[skills/business/product-management/marketing-strategy/microskills/4cs-framework|4Cs Framework]]
 - [[skills/business/product-management/marketing-strategy/microskills/marketing-mix-similarities|Marketing Mix Similarities]]
 - [[skills/business/product-management/marketing-strategy/microskills/marketing-mix-differences|Marketing Mix Differences]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

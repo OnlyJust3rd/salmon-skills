@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/sequential-circuit-simulation|sequential-circuit-simulation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/sequential-circuit-simulation|sequential-circuit-simulation]]"
 learning-time-in-minutes: 5
 ---
 # Sequential Circuit Simulation in Proteus 8

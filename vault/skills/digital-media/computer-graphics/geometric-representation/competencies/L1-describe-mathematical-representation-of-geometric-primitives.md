@@ -43,3 +43,6 @@ Describe how geometric primitives are mathematically represented in 2D and 3D sp
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/2d-geometric-representation|2D Geometric Representation]]
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/3d-geometric-representation|3D Geometric Representation]]
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/mathematical-modeling-of-primitives|Mathematical Modeling of Primitives]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Functionality of El Gamal in signing and verification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/build-cache-utilization|build-cache-utilization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/build-cache-utilization|build-cache-utilization]]"
 learning-time-in-minutes: 4
 ---
 # Build Cache Utilization in Docker

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the output signal of a half-wave rectifier.
+## Related Mediums
+
+![[bases/related-mediums.base]]

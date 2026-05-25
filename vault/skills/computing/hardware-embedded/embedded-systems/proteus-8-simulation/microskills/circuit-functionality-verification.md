@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Confirmation of intended circuit functionality through simulation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

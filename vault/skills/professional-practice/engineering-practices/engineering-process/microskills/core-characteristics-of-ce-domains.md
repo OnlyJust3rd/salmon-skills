@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the fundamental aspects and goals of various Computer Engineering domains.
+## Related Mediums
+
+![[bases/related-mediums.base]]

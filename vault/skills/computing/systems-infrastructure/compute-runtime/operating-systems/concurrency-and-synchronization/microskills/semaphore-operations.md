@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the basic operation of semaphores.
+## Related Mediums
+
+![[bases/related-mediums.base]]

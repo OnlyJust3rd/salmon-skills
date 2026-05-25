@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding JCF as a canonical form for matrices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

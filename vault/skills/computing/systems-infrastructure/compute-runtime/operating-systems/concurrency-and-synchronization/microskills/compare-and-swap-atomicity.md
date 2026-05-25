@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the atomicity of Compare-and-Swap operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

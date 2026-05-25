@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of managing user identities and access permissions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

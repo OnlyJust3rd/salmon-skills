@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of formulas for cache performance evaluation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

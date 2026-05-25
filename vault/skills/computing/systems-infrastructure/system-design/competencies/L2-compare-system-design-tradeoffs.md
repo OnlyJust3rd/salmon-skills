@@ -42,3 +42,7 @@ This is hirable at mid level when a candidate can explain what improves and what
 - [[nosql-database-selection|NoSQL Database Selection]]
 - [[hash-based-partitioning|Hash Based Partitioning]]
 - [[consistent-hashing|Consistent Hashing]]
+
+## Related Mediums
+
+![[bases/related-mediums.base]]

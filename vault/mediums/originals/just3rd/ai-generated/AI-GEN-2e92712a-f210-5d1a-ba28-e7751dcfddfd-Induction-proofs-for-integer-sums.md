@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/mathematical-induction/microskills/induction-proofs-for-integer-sums|induction-proofs-for-integer-sums]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/mathematical-induction/microskills/induction-proofs-for-integer-sums|induction-proofs-for-integer-sums]]"
 learning-time-in-minutes: 3
 ---
 # Proofs of Integer Sums Using Mathematical Induction

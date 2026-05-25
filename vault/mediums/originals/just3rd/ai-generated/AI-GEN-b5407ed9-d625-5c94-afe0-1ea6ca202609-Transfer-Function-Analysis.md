@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/transfer-function-analysis|transfer-function-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/transfer-function-analysis|transfer-function-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Transfer Function Analysis: Poles, Zeros, and ROC

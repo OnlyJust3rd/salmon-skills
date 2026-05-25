@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interdomain-scalability-limitations|interdomain-scalability-limitations]]"
+learning-outcomes:
+  - "[[interdomain-scalability-limitations|interdomain-scalability-limitations]]"
 learning-time-in-minutes: 4
 ---
 # Interdomain Scalability Limitations

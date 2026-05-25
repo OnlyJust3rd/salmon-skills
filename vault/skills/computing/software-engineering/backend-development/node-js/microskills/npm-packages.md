@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain package manifests and dependency installation at a high level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Justify the selected engineering problem-solving approach for a project based on
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/selection-justification|Selection Justification]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/methodology-suitability|Methodology Suitability]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/established-criteria-adherence|Established Criteria Adherence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

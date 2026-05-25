@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using digital tools to identify competitors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

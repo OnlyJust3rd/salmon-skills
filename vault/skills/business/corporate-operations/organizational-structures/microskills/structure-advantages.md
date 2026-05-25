@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the benefits associated with different organizational structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

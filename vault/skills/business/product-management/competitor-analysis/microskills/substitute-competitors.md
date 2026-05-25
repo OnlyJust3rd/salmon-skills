@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Alternative solutions fulfilling the same need.
+## Related Mediums
+
+![[bases/related-mediums.base]]

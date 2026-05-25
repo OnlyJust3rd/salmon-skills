@@ -51,3 +51,6 @@ Apply Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA) to di
 - [[latent-dirichlet-allocation-lda-application|Latent Dirichlet Allocation (LDA) Application]]
 - [[topic-modeling-techniques-application|Topic Modeling Techniques Application]]
 - [[theme-discovery-in-text-corpora|Theme Discovery in Text Corpora]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

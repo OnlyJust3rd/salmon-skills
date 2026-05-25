@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technical-troubleshooting/microskills/hypothesis-testing|hypothesis-testing]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technical-troubleshooting/microskills/hypothesis-testing|hypothesis-testing]]"
 learning-time-in-minutes: 5
 ---
 # Hypothesis Testing in Technical Troubleshooting

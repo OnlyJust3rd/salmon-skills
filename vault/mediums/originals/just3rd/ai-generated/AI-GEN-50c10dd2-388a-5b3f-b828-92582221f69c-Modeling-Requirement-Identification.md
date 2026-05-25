@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/modeling-requirement-identification|modeling-requirement-identification]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/modeling-requirement-identification|modeling-requirement-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Modeling Requirements: Data Characteristics for Effective Modeling

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying permutations to count ordered arrangements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

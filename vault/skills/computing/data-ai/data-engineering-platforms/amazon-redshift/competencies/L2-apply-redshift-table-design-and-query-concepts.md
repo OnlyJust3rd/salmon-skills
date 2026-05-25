@@ -45,3 +45,6 @@ Apply Redshift table design and query concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/table-distribution|Table Distribution]]
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/sort-strategy|Sort Strategy]]
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/warehouse-query-tuning|Warehouse Query Tuning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

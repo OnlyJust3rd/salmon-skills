@@ -45,3 +45,6 @@ Describe the differences between single-bus and multi-bus datapath organizations
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/single-bus-datapath-organization|Single-Bus Datapath Organization]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/multi-bus-datapath-organization|Multi-Bus Datapath Organization]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/processor-datapath-data-flow|Processor Datapath Data Flow]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

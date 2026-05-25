@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the relationships and interactions between hardware elements during execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

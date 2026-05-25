@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Making decisions on filter effectiveness based on criteria.
+## Related Mediums
+
+![[bases/related-mediums.base]]

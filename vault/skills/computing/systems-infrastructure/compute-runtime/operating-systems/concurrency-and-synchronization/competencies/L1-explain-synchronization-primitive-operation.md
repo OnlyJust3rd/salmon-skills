@@ -47,3 +47,6 @@ Explain the purpose and basic operation of fundamental synchronization primitive
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/semaphore-operations|Semaphore Operations]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/condition-variable-operations|Condition Variable Operations]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|Concurrency Coordination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

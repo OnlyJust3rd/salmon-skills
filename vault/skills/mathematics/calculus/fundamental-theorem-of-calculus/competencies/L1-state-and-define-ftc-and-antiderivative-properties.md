@@ -42,3 +42,6 @@ State and define the Fundamental Theorem of Calculus, including its parts and pr
 - [[fundamental-theorem-of-calculus-statement|Fundamental Theorem of Calculus statement]]
 - [[fundamental-theorem-of-calculus-parts|Fundamental Theorem of Calculus parts]]
 - [[antiderivative-properties|Antiderivative properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

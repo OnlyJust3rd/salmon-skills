@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the objective of Non-Disclosure Agreements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Planning how to recover if a migration fails.
+## Related Mediums
+
+![[bases/related-mediums.base]]

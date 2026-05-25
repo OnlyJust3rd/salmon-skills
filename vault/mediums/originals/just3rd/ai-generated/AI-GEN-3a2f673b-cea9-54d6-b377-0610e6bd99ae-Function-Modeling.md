@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/function-modeling|function-modeling]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/function-modeling|function-modeling]]"
 learning-time-in-minutes: 5
 ---
 # Modeling Mappings with Functions

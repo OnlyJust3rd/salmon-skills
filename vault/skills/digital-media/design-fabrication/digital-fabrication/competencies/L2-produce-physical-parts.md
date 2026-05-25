@@ -45,3 +45,6 @@ Produce physical parts using 3D printing by successfully preparing and printing 
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/3d-printing-technology-utilization|3D Printing Technology Utilization]]
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/physical-component-fabrication|Physical Component Fabrication]]
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/digital-to-physical-prototyping|Digital-to-Physical Prototyping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

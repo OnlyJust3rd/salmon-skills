@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/gate-level-modeling-application|gate-level-modeling-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/gate-level-modeling-application|gate-level-modeling-application]]"
 learning-time-in-minutes: 4
 ---
 # Gate-Level Modeling Application in Verilog

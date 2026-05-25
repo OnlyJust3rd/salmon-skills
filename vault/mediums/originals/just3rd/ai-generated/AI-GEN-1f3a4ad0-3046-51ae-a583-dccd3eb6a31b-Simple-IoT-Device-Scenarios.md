@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/simple-iot-device-scenarios|simple-iot-device-scenarios]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/simple-iot-device-scenarios|simple-iot-device-scenarios]]"
 learning-time-in-minutes: 5
 ---
 # Applying Sensors and Actuators in Simple IoT Device Scenarios

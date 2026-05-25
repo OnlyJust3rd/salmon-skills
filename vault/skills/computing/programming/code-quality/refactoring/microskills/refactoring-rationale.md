@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the reasons for applying refactoring.
+## Related Mediums
+
+![[bases/related-mediums.base]]

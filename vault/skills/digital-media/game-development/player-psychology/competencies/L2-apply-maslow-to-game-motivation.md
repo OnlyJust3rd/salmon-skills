@@ -43,3 +43,6 @@ Apply Maslow's hierarchy of needs as a framework to understand player motivation
 - [[skills/digital-media/game-development/player-psychology/microskills/maslow-s-hierarchy-framework|Maslow's Hierarchy Framework]]
 - [[skills/digital-media/game-development/player-psychology/microskills/player-motivation-analysis|Player Motivation Analysis]]
 - [[skills/digital-media/game-development/player-psychology/microskills/reward-system-design|Reward System Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

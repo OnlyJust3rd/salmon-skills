@@ -30,3 +30,6 @@ Understanding reusable web user interface components with props, state, and one-
 - [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/component-boundaries|Component boundaries]]
 - [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/local-state|Local state]]
 - [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/props-as-contracts|Props as contracts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

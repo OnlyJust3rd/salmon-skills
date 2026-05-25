@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/data-structure-definitions|data-structure-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/data-structure-definitions|data-structure-definitions]]"
 learning-time-in-minutes: 4
 ---
 # Data Structure Definitions

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to determine the convergence or divergence of alternating series.
+## Related Mediums
+
+![[bases/related-mediums.base]]

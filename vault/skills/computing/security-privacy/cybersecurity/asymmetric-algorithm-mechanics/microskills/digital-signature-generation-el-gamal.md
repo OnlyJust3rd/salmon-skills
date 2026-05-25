@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how El Gamal generates digital signatures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

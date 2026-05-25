@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/level-design/microskills/spatial-arrangement-principles|spatial-arrangement-principles]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/level-design/microskills/spatial-arrangement-principles|spatial-arrangement-principles]]"
 learning-time-in-minutes: 6
 ---
 # Spatial Arrangement Principles for Level Design

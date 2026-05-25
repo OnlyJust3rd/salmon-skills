@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Thinking about systems as sets of loosely coupled services.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Differentiate between hardware virtualization (virtual machines) and OS-level vi
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hardware-virtualization|Hardware Virtualization]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization|OS-Level Virtualization]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/isolation-mechanisms|Isolation Mechanisms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

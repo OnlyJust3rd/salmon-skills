@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Types of problems algorithms are designed to solve.
+## Related Mediums
+
+![[bases/related-mediums.base]]

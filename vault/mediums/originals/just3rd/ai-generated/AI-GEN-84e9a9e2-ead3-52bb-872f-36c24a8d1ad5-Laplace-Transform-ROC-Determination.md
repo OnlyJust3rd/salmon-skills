@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/laplace-transform-roc-determination|laplace-transform-roc-determination]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/laplace-transform-roc-determination|laplace-transform-roc-determination]]"
 learning-time-in-minutes: 3
 ---
 # Laplace Transform ROC Determination

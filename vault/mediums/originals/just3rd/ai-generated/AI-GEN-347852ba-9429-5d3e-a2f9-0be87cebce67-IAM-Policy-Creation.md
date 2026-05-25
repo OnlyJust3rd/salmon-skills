@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/iam-policy-creation|iam-policy-creation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/iam-policy-creation|iam-policy-creation]]"
 learning-time-in-minutes: 3
 ---
 # IAM Policy Creation: Defining Specific Permissions

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/engineering-design-problem-solving|engineering-design-problem-solving]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/engineering-design-problem-solving|engineering-design-problem-solving]]"
 learning-time-in-minutes: 6
 ---
 # Resolving Engineering Design Challenges with Scientific Principles

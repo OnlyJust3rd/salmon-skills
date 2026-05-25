@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/process-configuration|process-configuration]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/process-configuration|process-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Process Configuration: Adapting ERP Behavior

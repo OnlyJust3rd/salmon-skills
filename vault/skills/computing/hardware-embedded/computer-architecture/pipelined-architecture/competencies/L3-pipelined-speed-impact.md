@@ -41,3 +41,6 @@ Analyze how pipelined architectures impact execution speed by comparing them to 
 
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelined-architecture-performance|Pipelined Architecture Performance]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/comparison-with-non-pipelined-architectures|Comparison with Non-Pipelined Architectures]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

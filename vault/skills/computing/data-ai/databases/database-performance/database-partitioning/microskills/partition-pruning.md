@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Reducing query work by scanning only relevant partitions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

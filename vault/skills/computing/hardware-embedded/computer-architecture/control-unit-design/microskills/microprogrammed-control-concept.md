@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how a control store and microinstructions generate control signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

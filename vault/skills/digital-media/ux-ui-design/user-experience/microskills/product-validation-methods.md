@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Techniques for confirming product effectiveness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

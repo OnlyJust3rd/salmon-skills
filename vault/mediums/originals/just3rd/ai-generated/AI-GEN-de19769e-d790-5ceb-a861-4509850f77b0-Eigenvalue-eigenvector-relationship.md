@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-eigenvector-relationship|eigenvalue-eigenvector-relationship]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/eigenvalue-eigenvector-relationship|eigenvalue-eigenvector-relationship]]"
 learning-time-in-minutes: 4
 ---
 # The Fundamental Eigenvalue-Eigenvector Equation: Ax = λx

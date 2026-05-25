@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognize strings, numbers, booleans, and null in JSON.
+## Related Mediums
+
+![[bases/related-mediums.base]]

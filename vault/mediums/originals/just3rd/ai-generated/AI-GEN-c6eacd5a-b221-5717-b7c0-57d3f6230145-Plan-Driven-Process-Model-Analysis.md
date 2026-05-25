@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/plan-driven-process-model-analysis|plan-driven-process-model-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/plan-driven-process-model-analysis|plan-driven-process-model-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Plan-Driven Process Models: Waterfall, Incremental, and Reuse-Oriented

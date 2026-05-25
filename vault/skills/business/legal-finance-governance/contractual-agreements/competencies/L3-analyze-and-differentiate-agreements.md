@@ -51,3 +51,6 @@ Analyze and differentiate between employment contracts, Non-Disclosure Agreement
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/agreement-differentiation|Agreement Differentiation]]
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/legal-implication-identification|Legal Implication Identification]]
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/contextual-applicability|Contextual Applicability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

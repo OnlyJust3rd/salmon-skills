@@ -51,3 +51,6 @@ Apply simple shading algorithms and basic techniques to simulate light interacti
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/light-simulation|Light Simulation]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/three-dimensional-appearance-enhancement|Three-Dimensional Appearance Enhancement]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-realism-improvement|Visual Realism Improvement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

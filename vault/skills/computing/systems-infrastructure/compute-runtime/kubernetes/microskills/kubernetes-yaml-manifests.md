@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in writing YAML for Kubernetes resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

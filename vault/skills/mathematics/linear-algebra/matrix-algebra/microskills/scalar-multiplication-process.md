@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the procedure for multiplying a matrix by a scalar.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in using command-line tools for text manipulation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

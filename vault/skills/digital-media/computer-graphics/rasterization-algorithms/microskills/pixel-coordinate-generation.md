@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how the algorithm determines optimal pixel placement for lines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

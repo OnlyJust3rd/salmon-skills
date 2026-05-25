@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/feedback-resistor-impact-on-input-impedance|feedback-resistor-impact-on-input-impedance]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/feedback-resistor-impact-on-input-impedance|feedback-resistor-impact-on-input-impedance]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Feedback Resistors: Impact on Input Impedance

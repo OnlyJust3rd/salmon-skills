@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Extracting structured facts from unstructured text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

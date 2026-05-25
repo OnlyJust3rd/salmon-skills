@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing tables/rows with collections/documents.
+## Related Mediums
+
+![[bases/related-mediums.base]]

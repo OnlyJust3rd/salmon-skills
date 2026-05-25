@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining bounded implementation work for an agent.
+## Related Mediums
+
+![[bases/related-mediums.base]]

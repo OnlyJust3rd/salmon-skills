@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of achieving intelligence without explicit internal world models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

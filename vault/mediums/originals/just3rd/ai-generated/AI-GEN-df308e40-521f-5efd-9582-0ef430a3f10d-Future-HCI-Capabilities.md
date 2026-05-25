@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[future-hci-capabilities|future-hci-capabilities]]"
+learning-outcomes:
+  - "[[future-hci-capabilities|future-hci-capabilities]]"
 learning-time-in-minutes: 4
 ---
 # Future HCI Capabilities: Anticipating Tomorrow's Interactions

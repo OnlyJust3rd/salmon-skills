@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[named-entity-recognition-ner-application|named-entity-recognition-ner-application]]"
+learning-outcomes:
+  - "[[named-entity-recognition-ner-application|named-entity-recognition-ner-application]]"
 learning-time-in-minutes: 4
 ---
 # Named-Entity Recognition (NER) Application

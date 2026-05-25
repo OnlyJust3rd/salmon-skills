@@ -41,3 +41,6 @@ List the primary principles of human visual perception.
 
 - [[visual-perception-principles|Visual Perception Principles]]
 - [[human-visual-processing|Human Visual Processing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

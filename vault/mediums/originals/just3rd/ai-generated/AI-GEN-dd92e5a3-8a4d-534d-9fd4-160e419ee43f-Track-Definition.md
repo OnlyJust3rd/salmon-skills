@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[track-definition|track-definition]]"
+learning-outcomes:
+  - "[[track-definition|track-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Disk Tracks

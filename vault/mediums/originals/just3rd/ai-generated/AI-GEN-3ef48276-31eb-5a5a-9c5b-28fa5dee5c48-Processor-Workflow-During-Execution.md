@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-workflow-during-execution|processor-workflow-during-execution]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-workflow-during-execution|processor-workflow-during-execution]]"
 learning-time-in-minutes: 5
 ---
 # Processor Workflow During Execution

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|sjf-algorithm-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/sjf-algorithm-principles|sjf-algorithm-principles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Shortest Job First (SJF) Algorithm

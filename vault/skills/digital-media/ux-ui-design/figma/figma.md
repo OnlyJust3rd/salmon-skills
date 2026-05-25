@@ -38,3 +38,6 @@ Using Figma for interface design workflows, component-based layouts, collaborati
 - [[frame|Frame]]
 - [[interactive-frame|Interactive Frame]]
 - [[prototype-link|Prototype Link]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

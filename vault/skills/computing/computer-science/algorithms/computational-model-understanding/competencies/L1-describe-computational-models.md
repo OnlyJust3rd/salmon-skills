@@ -43,3 +43,6 @@ Describe the purpose and significance of computational models in the field of co
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/role-of-computational-models|Role of Computational Models]]
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/significance-of-abstraction|Significance of Abstraction]]
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/model-characteristics|Model Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain practical applications of hash tables such as caching, indexing, and fast lookups.
+## Related Mediums
+
+![[bases/related-mediums.base]]

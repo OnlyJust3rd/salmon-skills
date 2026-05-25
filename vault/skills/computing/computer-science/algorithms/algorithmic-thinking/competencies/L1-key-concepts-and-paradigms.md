@@ -41,3 +41,6 @@ Define and list key concepts of number theory and common algorithmic paradigms.
 
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/number-theory-definitions|Number Theory Definitions]]
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/algorithmic-paradigm-identification|Algorithmic Paradigm Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

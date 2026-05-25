@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding where one ERP functional area hands off to another.
+## Related Mediums
+
+![[bases/related-mediums.base]]

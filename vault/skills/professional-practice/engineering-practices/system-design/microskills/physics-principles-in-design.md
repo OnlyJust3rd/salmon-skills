@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of physics concepts for component selection and architecture decisions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-software-mapping|uml-diagram-application-for-software-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-software-mapping|uml-diagram-application-for-software-mapping]]"
 learning-time-in-minutes: 4
 ---
 # Mapping Software to Hardware with UML

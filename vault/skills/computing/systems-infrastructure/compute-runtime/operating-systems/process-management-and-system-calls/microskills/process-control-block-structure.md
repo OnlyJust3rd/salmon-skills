@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the components that constitute a Process Control Block (PCB).
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of components in passive RL circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

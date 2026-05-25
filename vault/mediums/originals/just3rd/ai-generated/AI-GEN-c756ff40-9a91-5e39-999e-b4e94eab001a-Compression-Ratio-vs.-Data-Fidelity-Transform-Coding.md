@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-transform-coding|compression-ratio-vs-data-fidelity-transform-coding]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-transform-coding|compression-ratio-vs-data-fidelity-transform-coding]]"
 learning-time-in-minutes: 5
 ---
 # Compression Ratio vs. Data Fidelity (Transform Coding)

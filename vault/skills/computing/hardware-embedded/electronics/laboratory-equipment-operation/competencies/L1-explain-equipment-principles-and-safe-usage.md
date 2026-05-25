@@ -49,3 +49,6 @@ Explain the principles of operation and safe usage of standard laboratory equipm
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/measurement-of-electrical-properties|Measurement of Electrical Properties]]
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/safety-precautions-for-powered-circuits|Safety Precautions for Powered Circuits]]
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/diagnosing-hardware-challenges-safely|Diagnosing Hardware Challenges Safely]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

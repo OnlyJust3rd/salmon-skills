@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/multi-core-processor-system-identification|multi-core-processor-system-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/multi-core-processor-system-identification|multi-core-processor-system-identification]]"
 learning-time-in-minutes: 5
 ---
 # Recognizing Multi-core Processor Systems

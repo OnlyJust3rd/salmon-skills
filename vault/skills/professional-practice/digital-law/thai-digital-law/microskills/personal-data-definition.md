@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining personal data according to the PDPA.
+## Related Mediums
+
+![[bases/related-mediums.base]]

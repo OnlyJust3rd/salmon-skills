@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how the choice of basis affects matrix representations of transformations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

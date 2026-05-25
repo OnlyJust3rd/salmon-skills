@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding work performed in a process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

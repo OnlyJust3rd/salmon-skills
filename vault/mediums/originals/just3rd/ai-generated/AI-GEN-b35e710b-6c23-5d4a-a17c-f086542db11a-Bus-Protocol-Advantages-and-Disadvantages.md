@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/bus-protocol-advantages-and-disadvantages|bus-protocol-advantages-and-disadvantages]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/bus-protocol-advantages-and-disadvantages|bus-protocol-advantages-and-disadvantages]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Bus Protocol Advantages and Disadvantages

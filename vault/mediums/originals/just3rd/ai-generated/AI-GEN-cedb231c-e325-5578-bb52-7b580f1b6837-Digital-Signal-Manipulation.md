@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[digital-signal-manipulation|digital-signal-manipulation]]"
+learning-outcomes:
+  - "[[digital-signal-manipulation|digital-signal-manipulation]]"
 learning-time-in-minutes: 4
 ---
 # Setting and Clearing AVR Output Pins

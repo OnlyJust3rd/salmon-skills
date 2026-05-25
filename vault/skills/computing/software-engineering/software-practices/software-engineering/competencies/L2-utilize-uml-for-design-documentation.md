@@ -45,3 +45,6 @@ Utilize UML (Unified Modeling Language) to document design decisions, including 
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/uml-diagram-application|UML Diagram Application]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/static-structural-diagrams|Static Structural Diagrams]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/dynamic-behavioral-diagrams|Dynamic Behavioral Diagrams]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Utilize the Build-Measure-Learn cycle to guide the development of essential feat
 - [[skills/business/entrepreneurship/lean-startup/microskills/bml-for-feature-prioritization|BML for Feature Prioritization]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/poc-development-guidance|PoC Development Guidance]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/mvp-feature-decision-making|MVP Feature Decision Making]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

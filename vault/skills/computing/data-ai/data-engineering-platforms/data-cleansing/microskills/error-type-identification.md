@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing different kinds of data errors and anomalies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

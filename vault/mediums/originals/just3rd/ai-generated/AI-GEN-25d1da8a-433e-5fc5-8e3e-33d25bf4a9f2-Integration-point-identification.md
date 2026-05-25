@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-point-identification|integration-point-identification]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-point-identification|integration-point-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Integration Points in C Programs

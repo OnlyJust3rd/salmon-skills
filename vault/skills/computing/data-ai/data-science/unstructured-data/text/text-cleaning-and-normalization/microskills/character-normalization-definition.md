@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and understanding of character normalization in text processing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

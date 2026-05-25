@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to assemble a basic rectifier circuit.
+## Related Mediums
+
+![[bases/related-mediums.base]]

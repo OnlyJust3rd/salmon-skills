@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify headers, body, status, and JSON helpers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

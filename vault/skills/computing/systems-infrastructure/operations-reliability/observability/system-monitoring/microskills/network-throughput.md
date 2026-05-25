@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of data transfer rates across networks as a metric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -51,3 +51,6 @@ Implement and manage continuous deployment workflows using GitOps principles to 
 - [[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/continuous-deployment-workflows|Continuous Deployment Workflows]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/declarative-configuration-management|Declarative Configuration Management]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/kubernetes-application-deployment-automation|Kubernetes Application Deployment Automation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

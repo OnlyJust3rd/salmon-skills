@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the domain and range of single-variable functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

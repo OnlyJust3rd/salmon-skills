@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-return-on-investment-roi|iot-return-on-investment-roi]]"
+learning-outcomes:
+  - "[[iot-return-on-investment-roi|iot-return-on-investment-roi]]"
 learning-time-in-minutes: 4
 ---
 # Understanding IoT Return on Investment (ROI)

@@ -45,3 +45,6 @@ Assess the effectiveness of a designed RC or RL filter in attenuating specific n
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/noise-frequency-attenuation-assessment|Noise Frequency Attenuation Assessment]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/filter-performance-judgement|Filter Performance Judgement]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/signal-noise-reduction-evaluation|Signal Noise Reduction Evaluation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the idea of projecting a vector onto a subspace.
+## Related Mediums
+
+![[bases/related-mediums.base]]

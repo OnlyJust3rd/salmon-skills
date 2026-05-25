@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the purpose and benefits of package management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

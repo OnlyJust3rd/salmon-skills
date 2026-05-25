@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Triggering computation and output.
+## Related Mediums
+
+![[bases/related-mediums.base]]

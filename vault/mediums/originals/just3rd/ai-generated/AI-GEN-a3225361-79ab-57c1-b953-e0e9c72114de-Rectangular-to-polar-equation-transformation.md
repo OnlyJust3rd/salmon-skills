@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/rectangular-to-polar-equation-transformation|rectangular-to-polar-equation-transformation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/rectangular-to-polar-equation-transformation|rectangular-to-polar-equation-transformation]]"
 learning-time-in-minutes: 5
 ---
 # Transforming Rectangular Equations to Polar Form

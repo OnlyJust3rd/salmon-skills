@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in using command-line utilities to observe processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

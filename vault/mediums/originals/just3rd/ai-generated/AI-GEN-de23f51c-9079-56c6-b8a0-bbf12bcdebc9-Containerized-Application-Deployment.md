@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/containerized-application-deployment|containerized-application-deployment]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/containerized-application-deployment|containerized-application-deployment]]"
 learning-time-in-minutes: 4
 ---
 # Deploying Containerized Applications with Kubernetes Deployments

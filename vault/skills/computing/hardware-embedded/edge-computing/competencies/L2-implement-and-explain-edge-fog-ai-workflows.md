@@ -53,3 +53,6 @@ Implement basic distributed intelligence workflows, including AI tasks, using ed
 - [[iot-data-processing-at-the-edge|IoT Data Processing at the Edge]]
 - [[real-time-decision-making-in-iot|Real-time Decision-Making in IoT]]
 - [[benefits-of-edge-fog-computing|Benefits of Edge/Fog Computing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

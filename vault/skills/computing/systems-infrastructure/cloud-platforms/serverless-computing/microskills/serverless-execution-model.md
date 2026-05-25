@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of abstracting server management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

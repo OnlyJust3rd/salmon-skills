@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how a diode operates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

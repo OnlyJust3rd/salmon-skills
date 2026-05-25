@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/circuit-construction-and-testing|circuit-construction-and-testing]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/circuit-construction-and-testing|circuit-construction-and-testing]]"
 learning-time-in-minutes: 6
 ---
 # Building and Testing Diode Logic Gates

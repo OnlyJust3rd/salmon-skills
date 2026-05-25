@@ -132,3 +132,6 @@ Distinguishing between access control, use control, and digital watermarking as 
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-performance-measurement|Watermarking Performance Measurement]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-trade-off-interplay|Watermarking Trade-off Interplay]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-type-categorization|Watermarking Type Categorization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

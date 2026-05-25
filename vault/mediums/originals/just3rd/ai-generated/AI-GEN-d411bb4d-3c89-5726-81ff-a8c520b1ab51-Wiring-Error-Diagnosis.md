@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/wiring-error-diagnosis|wiring-error-diagnosis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/wiring-error-diagnosis|wiring-error-diagnosis]]"
 learning-time-in-minutes: 4
 ---
 # Diagnosing Wiring Errors in Breadboard Prototypes

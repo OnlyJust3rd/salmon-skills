@@ -45,3 +45,6 @@ List the key components of cluster middleware and identify Slurm as a job schedu
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|Cluster Middleware Components]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|Slurm Job Scheduler Recognition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-management-tools|HPC Cluster Management Tools]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

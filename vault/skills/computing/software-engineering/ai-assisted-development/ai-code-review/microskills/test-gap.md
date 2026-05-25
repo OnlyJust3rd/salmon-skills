@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying behavior that lacks verification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

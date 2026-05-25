@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Formalizing relationships between objects using predicate logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Physical wiring of simple logic circuits on a breadboard.
+## Related Mediums
+
+![[bases/related-mediums.base]]

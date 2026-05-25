@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating V&V based on development phase.
+## Related Mediums
+
+![[bases/related-mediums.base]]

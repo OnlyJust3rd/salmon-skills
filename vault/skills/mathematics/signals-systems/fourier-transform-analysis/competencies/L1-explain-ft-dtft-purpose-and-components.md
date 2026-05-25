@@ -49,3 +49,6 @@ Explain the purpose, application, and physical meaning of the Fourier Transform 
 - [[magnitude-spectrum-interpretation|Magnitude Spectrum Interpretation]]
 - [[phase-spectrum-interpretation|Phase Spectrum Interpretation]]
 - [[frequency-domain-signal-representation|Frequency Domain Signal Representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

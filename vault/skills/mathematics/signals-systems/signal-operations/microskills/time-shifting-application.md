@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Executing time shifting on discrete-time sequences.
+## Related Mediums
+
+![[bases/related-mediums.base]]

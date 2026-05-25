@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/time-reversal-identification|time-reversal-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/time-reversal-identification|time-reversal-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Time Reversal in Signals

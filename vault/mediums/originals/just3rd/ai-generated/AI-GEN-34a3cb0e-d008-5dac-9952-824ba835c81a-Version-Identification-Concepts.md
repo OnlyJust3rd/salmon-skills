@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/version-identification-concepts|version-identification-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/version-identification-concepts|version-identification-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Version Identification in Software Development

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation and articulation of the purpose of input devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

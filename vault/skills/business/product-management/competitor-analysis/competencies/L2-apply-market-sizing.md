@@ -41,3 +41,6 @@ Apply a chosen market sizing technique to estimate the size of a specific market
 
 - [[skills/business/product-management/competitor-analysis/microskills/market-size-calculation|Market Size Calculation]]
 - [[skills/business/product-management/competitor-analysis/microskills/market-data-estimation|Market Data Estimation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-data-visualization|iot-data-visualization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-data-visualization|iot-data-visualization]]"
 learning-time-in-minutes: 5
 ---
 # Understanding IoT Data Visualization Tools

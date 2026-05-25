@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying routing concepts in a controlled environment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

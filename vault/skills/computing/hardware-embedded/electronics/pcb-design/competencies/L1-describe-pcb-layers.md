@@ -49,3 +49,6 @@ Describe the purpose of different layers in a PCB design.
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/solder-mask-layer|Solder Mask Layer]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/silkscreen-layer|Silkscreen Layer]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/drill-layer|Drill Layer]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

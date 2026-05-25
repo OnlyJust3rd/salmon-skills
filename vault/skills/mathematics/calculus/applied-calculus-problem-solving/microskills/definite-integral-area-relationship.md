@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the connection between definite integrals and the calculation of area.
+## Related Mediums
+
+![[bases/related-mediums.base]]

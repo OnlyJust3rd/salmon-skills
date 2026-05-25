@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[conceptual-vs-concrete-design|conceptual-vs-concrete-design]]"
+learning-outcomes:
+  - "[[conceptual-vs-concrete-design|conceptual-vs-concrete-design]]"
 learning-time-in-minutes: 5
 ---
 # Conceptual vs. Concrete Design in Prototyping

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[basic-code-implementation|basic-code-implementation]]"
+learning-outcomes:
+  - "[[basic-code-implementation|basic-code-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Basic Code Implementation for Arduino Prototypes

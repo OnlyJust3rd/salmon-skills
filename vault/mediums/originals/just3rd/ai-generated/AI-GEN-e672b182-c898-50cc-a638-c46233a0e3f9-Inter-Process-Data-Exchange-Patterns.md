@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|inter-process-data-exchange-patterns]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|inter-process-data-exchange-patterns]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Inter-Process Data Exchange Patterns

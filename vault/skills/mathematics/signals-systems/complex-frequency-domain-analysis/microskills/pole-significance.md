@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting the importance of poles in Laplace and Z-transforms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

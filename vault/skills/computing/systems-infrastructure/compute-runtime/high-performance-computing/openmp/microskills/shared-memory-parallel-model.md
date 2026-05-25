@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding thread-based execution and shared address space behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

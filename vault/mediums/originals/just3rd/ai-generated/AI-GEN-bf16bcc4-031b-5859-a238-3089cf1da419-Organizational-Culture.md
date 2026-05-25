@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/organizational-culture|organizational-culture]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/organizational-culture|organizational-culture]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Organizational Culture

@@ -41,3 +41,6 @@ List common industrial applications where computing methodologies are utilized.
 
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/common-industrial-computing-uses|Common Industrial Computing Uses]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/industry-sectors-utilizing-computing|Industry Sectors Utilizing Computing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

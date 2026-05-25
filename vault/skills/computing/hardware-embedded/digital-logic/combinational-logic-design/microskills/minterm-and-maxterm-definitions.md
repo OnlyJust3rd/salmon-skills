@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall the definitions of minterms and maxterms in Boolean algebra.
+## Related Mediums
+
+![[bases/related-mediums.base]]

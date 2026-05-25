@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and listing of core concepts related to VR.
+## Related Mediums
+
+![[bases/related-mediums.base]]

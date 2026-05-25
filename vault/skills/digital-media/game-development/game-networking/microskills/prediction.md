@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Estimating local state before server confirmation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

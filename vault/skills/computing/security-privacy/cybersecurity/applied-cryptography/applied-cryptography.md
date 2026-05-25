@@ -92,3 +92,6 @@ Evaluating the effectiveness, security, and integration of cryptographic techniq
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-cryptography-role|SSL/TLS Cryptography Role]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-effectiveness-evaluation|SSL/TLS Effectiveness Evaluation]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-security-goals|SSL/TLS Security Goals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

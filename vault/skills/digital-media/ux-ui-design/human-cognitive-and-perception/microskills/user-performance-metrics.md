@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how cognitive load influences task completion time and error rates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

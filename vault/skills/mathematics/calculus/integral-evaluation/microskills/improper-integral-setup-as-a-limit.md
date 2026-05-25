@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Rewrite improper integrals (infinite intervals or discontinuities) as limits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

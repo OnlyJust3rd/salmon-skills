@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/derived-datatype-implementation|derived-datatype-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/derived-datatype-implementation|derived-datatype-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Derived Datatypes in MPI

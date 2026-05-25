@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/uart-protocol-fundamentals|uart-protocol-fundamentals]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/uart-protocol-fundamentals|uart-protocol-fundamentals]]"
 learning-time-in-minutes: 4
 ---
 # UART Protocol Fundamentals

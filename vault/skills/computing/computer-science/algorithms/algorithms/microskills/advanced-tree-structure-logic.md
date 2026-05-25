@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the operational flow of complex tree data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

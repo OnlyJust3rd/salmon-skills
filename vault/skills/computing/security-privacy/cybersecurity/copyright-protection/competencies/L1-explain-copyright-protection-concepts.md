@@ -53,3 +53,6 @@ Explain the purpose, fundamental differences, and types of copyright protection 
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/steganography-vs-digital-watermarking-distinction|Steganography vs. Digital Watermarking Distinction]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/digital-watermarking-categories-explanation|Digital Watermarking Categories Explanation]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-material-safeguarding|Copyright Material Safeguarding]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

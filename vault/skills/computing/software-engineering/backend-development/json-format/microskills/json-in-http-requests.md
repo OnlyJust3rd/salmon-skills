@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain client submissions using JSON bodies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

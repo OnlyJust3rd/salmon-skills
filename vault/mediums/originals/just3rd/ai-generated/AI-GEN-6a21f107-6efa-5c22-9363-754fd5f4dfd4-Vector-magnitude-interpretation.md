@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/vector-magnitude-interpretation|vector-magnitude-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/vector-magnitude-interpretation|vector-magnitude-interpretation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Vector Magnitude: The Length of a Vector

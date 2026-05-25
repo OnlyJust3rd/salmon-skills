@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[developments-in-artificial-neural-networks|developments-in-artificial-neural-networks]]"
+learning-outcomes:
+  - "[[developments-in-artificial-neural-networks|developments-in-artificial-neural-networks]]"
 learning-time-in-minutes: 3
 ---
 # Developments in Artificial Neural Networks

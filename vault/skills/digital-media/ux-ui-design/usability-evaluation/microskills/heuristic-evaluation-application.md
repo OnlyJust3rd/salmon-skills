@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing heuristic evaluation as a method for assessing interactive systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

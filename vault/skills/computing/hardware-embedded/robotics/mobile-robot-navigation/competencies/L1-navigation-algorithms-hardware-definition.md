@@ -45,3 +45,6 @@ Define environmental navigation and recall the purpose of path planning in mobil
 - [[purpose-of-path-planning|Purpose of Path Planning]]
 - [[mobile-robot-navigation-software-algorithms|Mobile Robot Navigation Software Algorithms]]
 - [[mobile-robot-navigation-hardware-implementations|Mobile Robot Navigation Hardware Implementations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

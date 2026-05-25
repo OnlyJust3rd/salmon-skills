@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how tri-state devices prevent multiple drivers from conflicting on a shared bus.
+## Related Mediums
+
+![[bases/related-mediums.base]]

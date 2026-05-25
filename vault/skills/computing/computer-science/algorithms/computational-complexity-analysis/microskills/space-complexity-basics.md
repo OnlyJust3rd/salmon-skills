@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing how memory usage grows with input size.
+## Related Mediums
+
+![[bases/related-mediums.base]]

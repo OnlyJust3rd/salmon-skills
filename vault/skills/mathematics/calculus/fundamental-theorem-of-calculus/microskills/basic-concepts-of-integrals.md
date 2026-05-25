@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the fundamental ideas and meanings associated with integrals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

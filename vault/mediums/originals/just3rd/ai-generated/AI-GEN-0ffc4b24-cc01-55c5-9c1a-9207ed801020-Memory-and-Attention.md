@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[memory-and-attention|memory-and-attention]]"
+learning-outcomes:
+  - "[[memory-and-attention|memory-and-attention]]"
 learning-time-in-minutes: 4
 ---
 # Memory and Attention: The Building Blocks of HCI

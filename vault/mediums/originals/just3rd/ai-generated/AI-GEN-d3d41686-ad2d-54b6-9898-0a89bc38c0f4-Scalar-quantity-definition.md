@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/scalar-quantity-definition|scalar-quantity-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/scalar-quantity-definition|scalar-quantity-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Scalar Quantities

@@ -70,3 +70,6 @@ Applying techniques to enhance visual realism in 3D graphics including depth per
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-quality-analysis|Visual Quality Analysis]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-quality-evaluation|Visual Quality Evaluation]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-realism-improvement|Visual Realism Improvement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-regulation-problem-effects|power-regulation-problem-effects]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-regulation-problem-effects|power-regulation-problem-effects]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Power Regulation Problem Effects

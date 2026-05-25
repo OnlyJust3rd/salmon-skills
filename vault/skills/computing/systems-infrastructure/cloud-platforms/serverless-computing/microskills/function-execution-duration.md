@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how long a function runs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

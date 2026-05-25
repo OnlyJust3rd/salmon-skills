@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Choosing PostgreSQL data types for relational schema fields.
+## Related Mediums
+
+![[bases/related-mediums.base]]

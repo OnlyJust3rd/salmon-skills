@@ -49,3 +49,6 @@ Implement CI/CD pipelines for serverless deployments using relevant tools and se
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/serverless-deployment-automation|Serverless Deployment Automation]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/infrastructure-as-code-integration|Infrastructure as Code Integration]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/automated-testing-for-serverless|Automated Testing for Serverless]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

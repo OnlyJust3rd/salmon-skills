@@ -46,3 +46,6 @@ Define key terms related to operating system concepts such as processes, threads
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/thread-definitions|Thread Definitions]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-terms|Memory Management Terms]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-management-terms|I/O Management Terms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

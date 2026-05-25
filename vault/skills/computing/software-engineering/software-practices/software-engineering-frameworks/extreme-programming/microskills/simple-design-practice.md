@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Choosing the simplest design that supports current requirements and remains easy to change.
+## Related Mediums
+
+![[bases/related-mediums.base]]

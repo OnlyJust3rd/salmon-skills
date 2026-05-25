@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/iterative-algorithms|iterative-algorithms]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/iterative-algorithms|iterative-algorithms]]"
 learning-time-in-minutes: 2
 ---
 # Iterative Algorithms: Repeating for Results

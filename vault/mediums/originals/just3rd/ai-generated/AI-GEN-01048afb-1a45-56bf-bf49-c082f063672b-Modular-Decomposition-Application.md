@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-application|modular-decomposition-application]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-application|modular-decomposition-application]]"
 learning-time-in-minutes: 4
 ---
 # Modular Decomposition: Breaking Down Your Code

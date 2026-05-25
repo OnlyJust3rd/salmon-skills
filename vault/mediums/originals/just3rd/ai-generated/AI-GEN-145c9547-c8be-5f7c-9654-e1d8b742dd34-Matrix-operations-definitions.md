@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-operations-definitions|matrix-operations-definitions]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-operations-definitions|matrix-operations-definitions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Matrix Operations: Addition and Scalar Multiplication

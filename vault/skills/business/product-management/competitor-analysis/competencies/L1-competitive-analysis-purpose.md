@@ -45,3 +45,6 @@ Explain the purpose and components of competitive analysis.
 - [[skills/business/product-management/competitor-analysis/microskills/opportunity-identification|Opportunity Identification]]
 - [[skills/business/product-management/competitor-analysis/microskills/strategic-planning|Strategic Planning]]
 - [[skills/business/product-management/competitor-analysis/microskills/risk-assessment|Risk Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

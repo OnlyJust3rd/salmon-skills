@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[scalability-requirements|scalability-requirements]]"
+learning-outcomes:
+  - "[[scalability-requirements|scalability-requirements]]"
 learning-time-in-minutes: 6
 ---
 # Understanding NoSQL Scalability Use Cases

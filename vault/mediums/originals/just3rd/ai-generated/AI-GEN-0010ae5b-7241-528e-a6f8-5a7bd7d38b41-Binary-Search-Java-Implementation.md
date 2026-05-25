@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[binary-search-java-implementation|binary-search-java-implementation]]"
+learning-outcomes:
+  - "[[binary-search-java-implementation|binary-search-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Binary Search Algorithm in Java

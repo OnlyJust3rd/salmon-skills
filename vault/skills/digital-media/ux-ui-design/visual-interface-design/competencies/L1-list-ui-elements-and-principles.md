@@ -43,3 +43,6 @@ Identify common visual elements and established usability heuristics and design 
 - [[user-interface-elements|User Interface Elements]]
 - [[usability-heuristics|Usability Heuristics]]
 - [[fundamental-design-principles|Fundamental Design Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

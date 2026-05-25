@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[numerical-text-representation|numerical-text-representation]]"
+learning-outcomes:
+  - "[[numerical-text-representation|numerical-text-representation]]"
 learning-time-in-minutes: 5
 ---
 # Numerical Text Representation

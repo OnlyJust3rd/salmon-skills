@@ -49,3 +49,6 @@ List the key principles, challenges, and considerations for transitioning robot 
 - [[challenges-in-robot-model-transition|Challenges in Robot Model Transition]]
 - [[considerations-for-real-world-deployment|Considerations for Real-World Deployment]]
 - [[simulation-to-physical-robot-transition-factors|Simulation to Physical Robot Transition Factors]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

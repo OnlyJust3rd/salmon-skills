@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain the defining characteristics of periodic functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

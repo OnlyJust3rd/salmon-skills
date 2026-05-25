@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of visible portions of line segments after clipping.
+## Related Mediums
+
+![[bases/related-mediums.base]]

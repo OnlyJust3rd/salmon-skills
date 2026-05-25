@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/interaction-with-physical-environments|interaction-with-physical-environments]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/interaction-with-physical-environments|interaction-with-physical-environments]]"
 learning-time-in-minutes: 5
 ---
 # Interaction with Physical Environments in IoT Devices

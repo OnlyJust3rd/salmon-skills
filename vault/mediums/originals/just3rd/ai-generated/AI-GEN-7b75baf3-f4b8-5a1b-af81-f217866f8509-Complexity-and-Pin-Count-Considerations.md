@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/complexity-and-pin-count-considerations|complexity-and-pin-count-considerations]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/complexity-and-pin-count-considerations|complexity-and-pin-count-considerations]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating Communication Protocols: Pin Count and Complexity

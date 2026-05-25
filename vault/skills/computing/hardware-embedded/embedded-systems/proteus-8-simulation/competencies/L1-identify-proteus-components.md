@@ -43,3 +43,6 @@ Identify the basic components and functionalities within Proteus 8 relevant to d
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-8-tool-identification|Proteus 8 Tool Identification]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-8-element-identification|Proteus 8 Element Identification]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/digital-circuit-simulation-relevance|Digital Circuit Simulation Relevance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

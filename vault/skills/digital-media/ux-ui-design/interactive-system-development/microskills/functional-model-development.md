@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of working models or simulations of interactive systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/linearization-tangent-line-approximation|linearization-tangent-line-approximation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/linearization-tangent-line-approximation|linearization-tangent-line-approximation]]"
 learning-time-in-minutes: 3
 ---
 # Linearization: Approximating with Tangent Lines

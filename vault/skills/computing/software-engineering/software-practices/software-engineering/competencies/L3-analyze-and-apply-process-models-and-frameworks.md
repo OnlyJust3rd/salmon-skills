@@ -43,3 +43,6 @@ Analyze the strengths and weaknesses of plan-driven process models (Waterfall, I
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/plan-driven-process-model-analysis|Plan-Driven Process Model Analysis]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/agile-framework-analysis|Agile Framework Analysis]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/process-model-suitability-assessment|Process Model Suitability Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -41,3 +41,6 @@ Explain how to decompose a real-world problem into smaller subproblems and ident
 
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/decomposition-techniques|Decomposition Techniques]]
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/pattern-matching|Pattern Matching]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

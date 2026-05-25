@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Achieving a specific, simple objective with a robotic system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

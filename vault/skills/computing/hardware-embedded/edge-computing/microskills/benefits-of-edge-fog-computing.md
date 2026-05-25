@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the advantages of processing data and intelligence near the source.
+## Related Mediums
+
+![[bases/related-mediums.base]]

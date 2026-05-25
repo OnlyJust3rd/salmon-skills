@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/dtfs-coefficient-calculation|dtfs-coefficient-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/dtfs-coefficient-calculation|dtfs-coefficient-calculation]]"
 learning-time-in-minutes: 5
 ---
 # Calculating Discrete-Time Fourier Series (DTFS) Coefficients

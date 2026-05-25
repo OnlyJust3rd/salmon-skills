@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/fpga-loading-and-configuration|fpga-loading-and-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/fpga-loading-and-configuration|fpga-loading-and-configuration]]"
 learning-time-in-minutes: 5
 ---
 # FPGA Loading and Configuration: Getting Your Design Onto the Board

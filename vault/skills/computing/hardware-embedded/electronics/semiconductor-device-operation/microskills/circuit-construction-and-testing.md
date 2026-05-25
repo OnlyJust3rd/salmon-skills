@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building and verifying the functionality of logic gates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

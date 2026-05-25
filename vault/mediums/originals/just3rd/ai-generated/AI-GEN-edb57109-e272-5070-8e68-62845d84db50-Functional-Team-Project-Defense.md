@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/technical-communication/microskills/functional-team-project-defense|functional-team-project-defense]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/functional-team-project-defense|functional-team-project-defense]]"
 learning-time-in-minutes: 4
 ---
 # Functional Team Project Defense: Evaluating Integration and Problem-Solving

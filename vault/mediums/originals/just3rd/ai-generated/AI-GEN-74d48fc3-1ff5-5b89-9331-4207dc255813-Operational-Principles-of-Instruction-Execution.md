@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/operational-principles-of-instruction-execution|operational-principles-of-instruction-execution]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/operational-principles-of-instruction-execution|operational-principles-of-instruction-execution]]"
 learning-time-in-minutes: 5
 ---
 # The Instruction Execution Cycle: A Journey Through the CPU

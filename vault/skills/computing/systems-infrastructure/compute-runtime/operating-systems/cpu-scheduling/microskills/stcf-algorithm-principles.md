@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of Shortest Time-to-Completion First (STCF) CPU scheduling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

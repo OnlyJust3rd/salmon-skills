@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying principles of breaking down systems into modules.
+## Related Mediums
+
+![[bases/related-mediums.base]]

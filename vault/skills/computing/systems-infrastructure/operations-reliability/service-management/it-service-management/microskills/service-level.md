@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding expected response and resolution commitments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

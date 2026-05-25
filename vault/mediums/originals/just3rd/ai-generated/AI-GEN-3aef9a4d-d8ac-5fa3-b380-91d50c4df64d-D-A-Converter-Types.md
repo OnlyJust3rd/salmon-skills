@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/d-a-converter-types|d-a-converter-types]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/d-a-converter-types|d-a-converter-types]]"
 learning-time-in-minutes: 6
 ---
 # D/A Converter Types: Weighted Resistor and R-2R Ladder

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Apply standard rules for derivatives of inverse functions (including inverse trigonometric functions).
+## Related Mediums
+
+![[bases/related-mediums.base]]

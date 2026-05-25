@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ethernet-protocol-operations|ethernet-protocol-operations]]"
+learning-outcomes:
+  - "[[ethernet-protocol-operations|ethernet-protocol-operations]]"
 learning-time-in-minutes: 4
 ---
 # Ethernet Protocol Operations: How Devices Talk on Your Network

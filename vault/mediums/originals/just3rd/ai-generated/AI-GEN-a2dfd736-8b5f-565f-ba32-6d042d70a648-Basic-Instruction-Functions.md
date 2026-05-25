@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[basic-instruction-functions|basic-instruction-functions]]"
+learning-outcomes:
+  - "[[basic-instruction-functions|basic-instruction-functions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Basic Assembly Instructions

@@ -45,3 +45,6 @@ Apply basic MongoDB CRUD operations to manage documents in a collection.
 - [[mongodb-insert-operations|MongoDB Insert Operations]]
 - [[mongodb-query-operations|MongoDB Query Operations]]
 - [[mongodb-update-delete-operations|MongoDB Update/Delete Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

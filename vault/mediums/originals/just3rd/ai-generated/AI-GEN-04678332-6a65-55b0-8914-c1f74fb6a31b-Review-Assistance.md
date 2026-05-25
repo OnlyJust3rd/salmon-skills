@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/review-assistance|review-assistance]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/review-assistance|review-assistance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding AI-Assisted Code Review

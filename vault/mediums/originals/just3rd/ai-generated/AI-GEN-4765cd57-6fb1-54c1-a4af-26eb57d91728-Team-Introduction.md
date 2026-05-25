@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/team-introduction|team-introduction]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/team-introduction|team-introduction]]"
 learning-time-in-minutes: 4
 ---
 # Team Introduction: Showcasing Your Startup's Superpowers

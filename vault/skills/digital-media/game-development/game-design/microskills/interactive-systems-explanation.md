@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating how various interactive systems contribute to the gameplay experience.
+## Related Mediums
+
+![[bases/related-mediums.base]]

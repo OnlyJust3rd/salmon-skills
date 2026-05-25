@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/dot-product-calculation|dot-product-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/dot-product-calculation|dot-product-calculation]]"
 learning-time-in-minutes: 3
 ---
 # Calculating the Dot Product of Vectors

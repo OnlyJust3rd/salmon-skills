@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Supplying relevant background information.
+## Related Mediums
+
+![[bases/related-mediums.base]]

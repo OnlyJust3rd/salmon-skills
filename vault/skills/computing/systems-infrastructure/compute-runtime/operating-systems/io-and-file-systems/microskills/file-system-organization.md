@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how file systems organize and manage data storage.
+## Related Mediums
+
+![[bases/related-mediums.base]]

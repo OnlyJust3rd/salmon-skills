@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examining lock suitability for various concurrency scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

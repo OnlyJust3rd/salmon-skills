@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of different neural network layer architectures (e.g., dense, convolutional).
+## Related Mediums
+
+![[bases/related-mediums.base]]

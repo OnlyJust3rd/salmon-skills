@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/tenant-isolation|tenant-isolation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/tenant-isolation|tenant-isolation]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Tenant Isolation in SaaS

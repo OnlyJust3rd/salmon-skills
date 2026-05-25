@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/single-bus-datapath-organization|single-bus-datapath-organization]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/single-bus-datapath-organization|single-bus-datapath-organization]]"
 learning-time-in-minutes: 4
 ---
 # Single-Bus Datapath Organization

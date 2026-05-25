@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/adaptive-challenge-implementation|adaptive-challenge-implementation]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/adaptive-challenge-implementation|adaptive-challenge-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Adaptive Challenges in Games

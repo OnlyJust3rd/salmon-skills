@@ -45,3 +45,6 @@ Implement a basic Prometheus server to scrape metrics from a target application 
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/target-application-scraping|Target Application Scraping]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-source-connection|Grafana Data Source Connection]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/dashboard-metric-visualization|Dashboard Metric Visualization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

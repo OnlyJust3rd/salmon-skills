@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilize access modifiers in Java class implementations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

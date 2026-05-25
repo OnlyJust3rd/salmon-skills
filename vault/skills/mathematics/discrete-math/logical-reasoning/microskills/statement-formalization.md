@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Translating complex statements into the formal language of predicate logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

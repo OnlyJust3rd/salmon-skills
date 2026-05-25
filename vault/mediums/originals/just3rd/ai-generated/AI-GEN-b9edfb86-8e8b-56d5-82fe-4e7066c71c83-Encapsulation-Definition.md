@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-definition|encapsulation-definition]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-definition|encapsulation-definition]]"
 learning-time-in-minutes: 4
 ---
 # Encapsulation in Object-Oriented Programming

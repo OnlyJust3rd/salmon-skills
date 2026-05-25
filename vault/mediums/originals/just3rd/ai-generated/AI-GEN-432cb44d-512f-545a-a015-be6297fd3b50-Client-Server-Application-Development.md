@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[client-server-application-development|client-server-application-development]]"
+learning-outcomes:
+  - "[[client-server-application-development|client-server-application-development]]"
 learning-time-in-minutes: 4
 ---
 # Developing Client-Server Applications

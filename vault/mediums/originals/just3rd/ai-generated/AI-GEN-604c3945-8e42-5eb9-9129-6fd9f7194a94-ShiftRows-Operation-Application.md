@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-operation-application|shiftrows-operation-application]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-operation-application|shiftrows-operation-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying the ShiftRows Operation

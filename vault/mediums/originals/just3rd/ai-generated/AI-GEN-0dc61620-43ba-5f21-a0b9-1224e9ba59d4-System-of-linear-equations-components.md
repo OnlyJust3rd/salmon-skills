@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/system-of-linear-equations-components|system-of-linear-equations-components]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/system-of-linear-equations-components|system-of-linear-equations-components]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Parts of a System of Linear Equations

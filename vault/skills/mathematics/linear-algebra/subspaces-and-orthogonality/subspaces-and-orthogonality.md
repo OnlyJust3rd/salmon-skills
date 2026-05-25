@@ -89,3 +89,6 @@ Analyze the internal structure of vector spaces through row space, column space,
 - [[row-space-geometric-interpretation|Row space geometric interpretation]]
 - [[subspace-spanning|Subspace spanning]]
 - [[vector-projection-interpretation|Vector projection interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

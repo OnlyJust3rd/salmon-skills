@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[socket-programming-interfaces|socket-programming-interfaces]]"
+learning-outcomes:
+  - "[[socket-programming-interfaces|socket-programming-interfaces]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Socket Programming Interfaces: Essential Functions

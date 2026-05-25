@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Categorization of watermarking types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

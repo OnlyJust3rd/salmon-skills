@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recalling the mathematical definition of the Discrete-Time Fourier Series.
+## Related Mediums
+
+![[bases/related-mediums.base]]

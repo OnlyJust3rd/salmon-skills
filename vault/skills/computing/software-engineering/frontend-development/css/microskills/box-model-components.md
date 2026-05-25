@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Relate content, padding, border, and margin to element size.
+## Related Mediums
+
+![[bases/related-mediums.base]]

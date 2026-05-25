@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing the earnings potential of a project.
+## Related Mediums
+
+![[bases/related-mediums.base]]

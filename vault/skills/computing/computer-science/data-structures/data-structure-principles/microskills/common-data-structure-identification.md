@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify common types of data structures such as stacks, queues, linked lists, graphs, arrays, binary trees, BSTs, AVL trees, hash tables, adjacency matrices, and adjacency lists.
+## Related Mediums
+
+![[bases/related-mediums.base]]

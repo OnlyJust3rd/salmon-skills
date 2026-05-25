@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and utilization of providers for cloud services or APIs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

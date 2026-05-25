@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonal-vector-identification|orthogonal-vector-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonal-vector-identification|orthogonal-vector-identification]]"
 learning-time-in-minutes: 3
 ---
 # Identifying Orthogonal Vectors

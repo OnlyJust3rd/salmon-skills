@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding assertions for transformed data quality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

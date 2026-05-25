@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Specifying the model task clearly.
+## Related Mediums
+
+![[bases/related-mediums.base]]

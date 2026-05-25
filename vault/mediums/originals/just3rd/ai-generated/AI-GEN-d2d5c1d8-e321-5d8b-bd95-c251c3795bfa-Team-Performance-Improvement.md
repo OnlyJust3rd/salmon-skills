@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/team-performance-improvement|team-performance-improvement]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/team-performance-improvement|team-performance-improvement]]"
 learning-time-in-minutes: 5
 ---
 # Enhancing Team Performance Through Collaboration

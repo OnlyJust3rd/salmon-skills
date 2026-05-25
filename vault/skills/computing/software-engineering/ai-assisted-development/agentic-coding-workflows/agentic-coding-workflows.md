@@ -38,3 +38,6 @@ Using coding agents to decompose tasks, inspect repositories, edit files, run co
 - [[task-scope|Task Scope]]
 - [[tool-use|Tool Use]]
 - [[verification-loop|Verification Loop]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

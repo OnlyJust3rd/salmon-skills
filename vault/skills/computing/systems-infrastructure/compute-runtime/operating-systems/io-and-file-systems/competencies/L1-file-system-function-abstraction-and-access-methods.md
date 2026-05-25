@@ -47,3 +47,6 @@ Describe the function and abstraction of a file system in an operating system, i
 - [[file-system-abstraction-purpose|File System Abstraction Purpose]]
 - [[file-system-components|File System Components]]
 - [[data-access-techniques|Data Access Techniques]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

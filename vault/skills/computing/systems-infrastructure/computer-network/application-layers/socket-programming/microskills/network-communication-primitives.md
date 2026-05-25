@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying the basic building blocks for socket-based applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

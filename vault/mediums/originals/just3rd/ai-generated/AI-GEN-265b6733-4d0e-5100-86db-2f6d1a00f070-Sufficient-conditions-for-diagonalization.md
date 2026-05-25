@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/sufficient-conditions-for-diagonalization|sufficient-conditions-for-diagonalization]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/sufficient-conditions-for-diagonalization|sufficient-conditions-for-diagonalization]]"
 learning-time-in-minutes: 5
 ---
 # Sufficient Conditions for Matrix Diagonalization

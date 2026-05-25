@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of prevalent character types in game design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

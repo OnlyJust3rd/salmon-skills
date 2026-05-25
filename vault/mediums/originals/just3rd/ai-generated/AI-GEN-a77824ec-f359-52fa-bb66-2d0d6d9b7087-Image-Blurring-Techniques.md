@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-blurring-techniques|image-blurring-techniques]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-blurring-techniques|image-blurring-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Image Blurring Techniques

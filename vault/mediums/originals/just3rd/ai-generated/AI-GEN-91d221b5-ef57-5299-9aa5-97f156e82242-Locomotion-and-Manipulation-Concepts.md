@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[locomotion-and-manipulation-concepts|locomotion-and-manipulation-concepts]]"
+learning-outcomes:
+  - "[[locomotion-and-manipulation-concepts|locomotion-and-manipulation-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Robot Locomotion and Manipulation Concepts

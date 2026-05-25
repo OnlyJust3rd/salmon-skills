@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fetch-requests|fetch-requests]]"
+learning-outcomes:
+  - "[[fetch-requests|fetch-requests]]"
 learning-time-in-minutes: 3
 ---
 # Fetch Requests: Getting Data with JavaScript

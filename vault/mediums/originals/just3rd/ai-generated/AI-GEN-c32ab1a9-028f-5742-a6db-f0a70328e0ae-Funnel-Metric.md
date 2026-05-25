@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/funnel-metric|funnel-metric]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/funnel-metric|funnel-metric]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Funnel Metrics

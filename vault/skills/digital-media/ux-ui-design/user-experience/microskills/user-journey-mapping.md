@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Visualizing the steps a user takes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

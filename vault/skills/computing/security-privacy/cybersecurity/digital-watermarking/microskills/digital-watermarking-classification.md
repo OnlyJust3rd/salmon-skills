@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating between various types of watermarking techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

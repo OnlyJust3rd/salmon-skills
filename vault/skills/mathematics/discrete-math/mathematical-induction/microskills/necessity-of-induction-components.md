@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain the necessity of each component for a valid induction proof.
+## Related Mediums
+
+![[bases/related-mediums.base]]

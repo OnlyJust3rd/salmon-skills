@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/convergence-test-outcome-analysis|convergence-test-outcome-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/convergence-test-outcome-analysis|convergence-test-outcome-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Convergence Test Outcomes

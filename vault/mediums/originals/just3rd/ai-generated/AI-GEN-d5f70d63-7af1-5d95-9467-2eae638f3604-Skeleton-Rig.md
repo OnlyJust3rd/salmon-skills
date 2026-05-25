@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-animation/microskills/skeleton-rig|skeleton-rig]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-animation/microskills/skeleton-rig|skeleton-rig]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Skeleton Rig in Game Animation

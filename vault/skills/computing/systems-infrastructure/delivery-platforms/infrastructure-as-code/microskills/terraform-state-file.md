@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the purpose and content of the Terraform state file.
+## Related Mediums
+
+![[bases/related-mediums.base]]

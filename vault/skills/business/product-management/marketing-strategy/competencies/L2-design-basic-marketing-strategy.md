@@ -45,3 +45,6 @@ Design a basic marketing strategy using the Marketing Mix for a new product.
 - [[skills/business/product-management/marketing-strategy/microskills/marketing-mix-application|Marketing Mix Application]]
 - [[skills/business/product-management/marketing-strategy/microskills/customer-acquisition-strategies|Customer Acquisition Strategies]]
 - [[skills/business/product-management/marketing-strategy/microskills/customer-retention-strategies|Customer Retention Strategies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

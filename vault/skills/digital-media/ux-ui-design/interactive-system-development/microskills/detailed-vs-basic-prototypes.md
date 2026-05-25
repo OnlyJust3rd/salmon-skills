@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding prototypes with varying levels of detail and functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

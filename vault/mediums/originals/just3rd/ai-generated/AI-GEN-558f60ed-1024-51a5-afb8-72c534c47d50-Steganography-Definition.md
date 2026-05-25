@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/steganography-definition|steganography-definition]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/steganography-definition|steganography-definition]]"
 learning-time-in-minutes: 3
 ---
 # Steganography: The Art of Hidden Messages

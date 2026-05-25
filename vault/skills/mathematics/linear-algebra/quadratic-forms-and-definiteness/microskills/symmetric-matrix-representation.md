@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how a quadratic form is associated with a symmetric matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

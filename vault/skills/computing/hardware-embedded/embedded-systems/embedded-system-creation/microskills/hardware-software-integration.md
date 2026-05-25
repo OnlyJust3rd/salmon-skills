@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Combining physical components and programmed logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

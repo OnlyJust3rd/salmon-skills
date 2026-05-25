@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-diagram-construction|network-diagram-construction]]"
+learning-outcomes:
+  - "[[network-diagram-construction|network-diagram-construction]]"
 learning-time-in-minutes: 4
 ---
 # Constructing Text Network Diagrams

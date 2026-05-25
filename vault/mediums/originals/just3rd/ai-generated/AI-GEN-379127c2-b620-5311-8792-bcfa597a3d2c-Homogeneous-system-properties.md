@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/homogeneous-system-properties|homogeneous-system-properties]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/homogeneous-system-properties|homogeneous-system-properties]]"
 learning-time-in-minutes: 3
 ---
 # Homogeneous Systems: The Trivial Solution

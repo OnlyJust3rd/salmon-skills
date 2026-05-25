@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Procedure for reading and interpreting resistor color bands.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -53,3 +53,6 @@ Formulating and executing queries using SQL to retrieve and manipulate data in r
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-syntax-rules|SQL Syntax Rules]]
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/structured-query-language-sql-definition|Structured Query Language (SQL) Definition]]
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/table-and-column-definition-with-ddl|Table and Column Definition with DDL]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

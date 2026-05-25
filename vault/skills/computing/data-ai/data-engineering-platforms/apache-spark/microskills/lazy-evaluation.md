@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding deferred execution of transformations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

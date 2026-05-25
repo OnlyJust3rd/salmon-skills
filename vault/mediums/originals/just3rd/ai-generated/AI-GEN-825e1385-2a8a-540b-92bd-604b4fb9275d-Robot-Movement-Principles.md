@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[robot-movement-principles|robot-movement-principles]]"
+learning-outcomes:
+  - "[[robot-movement-principles|robot-movement-principles]]"
 learning-time-in-minutes: 5
 ---
 # Robot Movement Principles

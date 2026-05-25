@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing code to execute when an interrupt occurs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

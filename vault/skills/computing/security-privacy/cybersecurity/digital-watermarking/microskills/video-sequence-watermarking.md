@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adaptation and application of watermarking principles to video content.
+## Related Mediums
+
+![[bases/related-mediums.base]]

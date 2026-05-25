@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the Python multiprocessing module for parallel program development.
+## Related Mediums
+
+![[bases/related-mediums.base]]

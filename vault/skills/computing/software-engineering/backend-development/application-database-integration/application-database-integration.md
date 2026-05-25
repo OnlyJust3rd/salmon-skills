@@ -32,3 +32,6 @@ Connecting and interacting with databases from application code, specifically wi
 - [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/application-database-interaction|Application-Database Interaction]]
 - [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/data-persistence-mechanisms|Data Persistence Mechanisms]]
 - [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/database-connectivity|Database Connectivity]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

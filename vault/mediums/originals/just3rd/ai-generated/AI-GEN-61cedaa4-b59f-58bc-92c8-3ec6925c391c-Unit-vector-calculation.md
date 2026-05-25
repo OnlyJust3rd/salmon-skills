@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/unit-vector-calculation|unit-vector-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/unit-vector-calculation|unit-vector-calculation]]"
 learning-time-in-minutes: 3
 ---
 # Calculating Unit Vectors

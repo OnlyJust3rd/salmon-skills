@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/secure-sharing|secure-sharing]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/secure-sharing|secure-sharing]]"
 learning-time-in-minutes: 4
 ---
 # Snowflake Secure Data Sharing: Controlled Access Without Copying

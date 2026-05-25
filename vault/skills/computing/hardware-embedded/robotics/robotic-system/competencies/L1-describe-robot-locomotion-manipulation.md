@@ -43,3 +43,6 @@ Describe the basic principles of robot locomotion and manipulation.
 - [[robot-movement-principles|Robot Movement Principles]]
 - [[robot-interaction-principles|Robot Interaction Principles]]
 - [[locomotion-and-manipulation-concepts|Locomotion and Manipulation Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

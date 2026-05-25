@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating potential for business growth.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ List and define basic geometric primitives used in computer graphics, such as po
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/points-and-lines|Points and Lines]]
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/polygons|Polygons]]
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/mathematical-definitions|Mathematical Definitions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

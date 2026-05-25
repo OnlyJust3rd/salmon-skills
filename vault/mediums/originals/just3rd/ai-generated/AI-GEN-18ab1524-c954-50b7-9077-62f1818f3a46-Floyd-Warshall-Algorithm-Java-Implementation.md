@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[floyd-warshall-algorithm-java-implementation|floyd-warshall-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[floyd-warshall-algorithm-java-implementation|floyd-warshall-algorithm-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing the Floyd-Warshall Algorithm in Java

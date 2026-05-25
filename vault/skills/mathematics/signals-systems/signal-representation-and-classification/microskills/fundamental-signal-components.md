@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of basic elements used to model signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

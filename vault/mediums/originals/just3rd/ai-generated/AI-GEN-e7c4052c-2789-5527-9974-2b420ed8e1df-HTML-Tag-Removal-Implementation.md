@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[html-tag-removal-implementation|html-tag-removal-implementation]]"
+learning-outcomes:
+  - "[[html-tag-removal-implementation|html-tag-removal-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing HTML Tag Removal

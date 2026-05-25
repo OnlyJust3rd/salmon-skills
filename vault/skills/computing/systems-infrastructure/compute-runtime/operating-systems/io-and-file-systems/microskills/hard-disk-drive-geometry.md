@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the physical structure of a hard disk drive.
+## Related Mediums
+
+![[bases/related-mediums.base]]

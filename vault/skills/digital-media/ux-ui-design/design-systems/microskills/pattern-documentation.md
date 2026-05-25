@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining expected component behavior and use.
+## Related Mediums
+
+![[bases/related-mediums.base]]

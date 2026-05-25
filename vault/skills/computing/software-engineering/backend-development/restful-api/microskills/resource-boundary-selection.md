@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choose sensible resources and sub-resources for a domain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

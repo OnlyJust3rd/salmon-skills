@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[inter-protocol-dependencies|inter-protocol-dependencies]]"
+learning-outcomes:
+  - "[[inter-protocol-dependencies|inter-protocol-dependencies]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Inter-Protocol Dependencies: HTTP and DNS

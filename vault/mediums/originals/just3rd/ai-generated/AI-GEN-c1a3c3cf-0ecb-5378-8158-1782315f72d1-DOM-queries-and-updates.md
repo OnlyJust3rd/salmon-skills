@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[dom-queries-and-updates|dom-queries-and-updates]]"
+learning-outcomes:
+  - "[[dom-queries-and-updates|dom-queries-and-updates]]"
 learning-time-in-minutes: 3
 ---
 # DOM Queries and Updates in JavaScript

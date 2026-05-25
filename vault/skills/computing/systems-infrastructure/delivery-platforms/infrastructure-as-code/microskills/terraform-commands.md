@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in using Terraform CLI commands (init, plan, apply, destroy).
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Designing circuits to meet specified performance standards.
+## Related Mediums
+
+![[bases/related-mediums.base]]

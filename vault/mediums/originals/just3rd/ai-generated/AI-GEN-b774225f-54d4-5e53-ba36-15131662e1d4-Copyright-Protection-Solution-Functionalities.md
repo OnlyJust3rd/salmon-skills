@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-protection-solution-functionalities|copyright-protection-solution-functionalities]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-protection-solution-functionalities|copyright-protection-solution-functionalities]]"
 learning-time-in-minutes: 3
 ---
 # Copyright Protection Solution Functionalities

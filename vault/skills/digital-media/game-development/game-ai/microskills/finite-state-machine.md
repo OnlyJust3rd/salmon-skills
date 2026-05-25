@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding state-based behavior control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

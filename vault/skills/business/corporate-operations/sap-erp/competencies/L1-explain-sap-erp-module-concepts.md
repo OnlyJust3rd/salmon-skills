@@ -43,3 +43,6 @@ Explain SAP ERP module concepts.
 - [[skills/business/corporate-operations/sap-erp/microskills/sap-module|SAP Module]]
 - [[skills/business/corporate-operations/sap-erp/microskills/organizational-structure|Organizational Structure]]
 - [[skills/business/corporate-operations/sap-erp/microskills/sap-transaction|SAP Transaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

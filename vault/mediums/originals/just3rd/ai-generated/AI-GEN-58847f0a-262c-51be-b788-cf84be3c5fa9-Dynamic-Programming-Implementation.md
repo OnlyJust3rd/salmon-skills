@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/dynamic-programming-implementation|dynamic-programming-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/dynamic-programming-implementation|dynamic-programming-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Dynamic Programming Implementation

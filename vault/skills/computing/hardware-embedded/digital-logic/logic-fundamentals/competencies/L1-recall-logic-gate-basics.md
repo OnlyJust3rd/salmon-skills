@@ -42,3 +42,6 @@ Recall the names, symbols, and truth tables of the basic logic gates (AND, OR, N
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-gate-names-and-symbols|Logic Gate Names and Symbols]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-gate-truth-tables|Logic Gate Truth Tables]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-algebra-postulate-recall|Boolean Algebra Postulate Recall]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

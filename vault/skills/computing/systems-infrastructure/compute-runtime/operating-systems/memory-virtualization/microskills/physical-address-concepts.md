@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the concept of physical addresses in memory management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

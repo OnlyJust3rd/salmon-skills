@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/lossy-compression-core-concept|lossy-compression-core-concept]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/lossy-compression-core-concept|lossy-compression-core-concept]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Lossy Compression

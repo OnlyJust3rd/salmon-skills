@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-data-transport-use-cases|iot-data-transport-use-cases]]"
+learning-outcomes:
+  - "[[iot-data-transport-use-cases|iot-data-transport-use-cases]]"
 learning-time-in-minutes: 6
 ---
 # Understanding IoT Data Transport Use Cases

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/frequency-spectrum-determination|frequency-spectrum-determination]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/frequency-spectrum-determination|frequency-spectrum-determination]]"
 learning-time-in-minutes: 4
 ---
 # Calculating the Frequency Spectrum of Aperiodic Signals

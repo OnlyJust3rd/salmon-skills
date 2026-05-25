@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the exec() system call for process management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

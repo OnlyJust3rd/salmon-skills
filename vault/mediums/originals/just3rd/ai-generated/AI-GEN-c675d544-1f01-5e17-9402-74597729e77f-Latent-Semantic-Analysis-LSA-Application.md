@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[latent-semantic-analysis-lsa-application|latent-semantic-analysis-lsa-application]]"
+learning-outcomes:
+  - "[[latent-semantic-analysis-lsa-application|latent-semantic-analysis-lsa-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Latent Semantic Analysis (LSA) for Theme Discovery

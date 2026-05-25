@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of primary sensory modalities (vision, hearing, touch) in HCI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

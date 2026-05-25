@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to calculate the area of regions bounded by multiple polar curves.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[dynamic-host-configuration-protocol|dynamic-host-configuration-protocol]]"
+learning-outcomes:
+  - "[[dynamic-host-configuration-protocol|dynamic-host-configuration-protocol]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Dynamic Host Configuration Protocol (DHCP)

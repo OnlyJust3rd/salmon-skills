@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing how running time grows with input size.
+## Related Mediums
+
+![[bases/related-mediums.base]]

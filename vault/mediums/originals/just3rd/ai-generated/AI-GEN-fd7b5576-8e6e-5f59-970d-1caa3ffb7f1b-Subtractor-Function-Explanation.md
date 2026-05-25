@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/subtractor-function-explanation|subtractor-function-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/subtractor-function-explanation|subtractor-function-explanation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Subtractor Circuits

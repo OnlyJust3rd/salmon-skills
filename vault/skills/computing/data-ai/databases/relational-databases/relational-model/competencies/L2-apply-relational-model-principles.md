@@ -39,3 +39,6 @@ None.
 - [[skills/computing/data-ai/databases/relational-databases/relational-model/microskills/relation-and-tuple-concepts|Relation and Tuple Concepts]]
 - [[skills/computing/data-ai/databases/relational-databases/relational-model/microskills/candidate-and-foreign-keys|Candidate and Foreign Keys]]
 - [[skills/computing/data-ai/databases/relational-databases/relational-model/microskills/relational-operations|Relational Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

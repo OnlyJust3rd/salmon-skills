@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying BML principles to Proof of Concept creation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

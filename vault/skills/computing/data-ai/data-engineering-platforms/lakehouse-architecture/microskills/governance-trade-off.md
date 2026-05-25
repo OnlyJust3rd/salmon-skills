@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing controls over data access and quality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

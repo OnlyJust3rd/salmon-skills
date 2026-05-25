@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating the efficiency and correctness of recursive functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

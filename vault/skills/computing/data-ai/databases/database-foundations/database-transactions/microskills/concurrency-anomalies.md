@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Common transaction anomalies such as dirty reads, non-repeatable reads, and phantom reads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the role of game elements in shaping the overall player experience.
+## Related Mediums
+
+![[bases/related-mediums.base]]

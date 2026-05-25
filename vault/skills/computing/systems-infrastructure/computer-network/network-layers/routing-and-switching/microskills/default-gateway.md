@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding where off-subnet traffic is sent.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/rank-nullity-theorem-application|rank-nullity-theorem-application]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/rank-nullity-theorem-application|rank-nullity-theorem-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying the Rank-Nullity Theorem

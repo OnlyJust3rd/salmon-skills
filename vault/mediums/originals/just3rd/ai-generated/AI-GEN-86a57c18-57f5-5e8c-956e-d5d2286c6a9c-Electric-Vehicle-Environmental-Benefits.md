@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/electric-vehicle-environmental-benefits|electric-vehicle-environmental-benefits]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/electric-vehicle-environmental-benefits|electric-vehicle-environmental-benefits]]"
 learning-time-in-minutes: 4
 ---
 # Electric Vehicle Environmental Benefits: A Closer Look

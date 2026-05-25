@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of a basic cryptographic function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

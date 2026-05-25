@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of how data is manipulated and stored in registers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

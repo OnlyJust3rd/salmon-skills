@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[http-request-response-cycle|http-request-response-cycle]]"
+learning-outcomes:
+  - "[[http-request-response-cycle|http-request-response-cycle]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the HTTP Request-Response Cycle

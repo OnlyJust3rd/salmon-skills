@@ -41,3 +41,6 @@ Summarize the purpose and role of memory virtualization within an operating syst
 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-virtualization-goals|Memory Virtualization Goals]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/importance-of-memory-virtualization|Importance of Memory Virtualization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

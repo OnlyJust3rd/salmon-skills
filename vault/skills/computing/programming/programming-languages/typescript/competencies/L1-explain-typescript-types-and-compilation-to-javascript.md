@@ -43,3 +43,6 @@ Explain TypeScript static types, interfaces, generics at an introductory level, 
 - [[skills/computing/programming/programming-languages/typescript/microskills/primitive-and-object-types|Primitive and object types]]
 - [[skills/computing/programming/programming-languages/typescript/microskills/structural-typing|Structural typing]]
 - [[skills/computing/programming/programming-languages/typescript/microskills/compile-targets|Compile targets]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

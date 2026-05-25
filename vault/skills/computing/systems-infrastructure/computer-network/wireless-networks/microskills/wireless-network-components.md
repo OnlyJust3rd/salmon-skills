@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the building blocks of wireless networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

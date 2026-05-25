@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Interpreting the Agile Manifesto values and principles in day-to-day software work.
+## Related Mediums
+
+![[bases/related-mediums.base]]

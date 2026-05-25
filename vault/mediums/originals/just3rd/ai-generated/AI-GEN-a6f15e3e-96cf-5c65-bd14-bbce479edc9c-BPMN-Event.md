@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/bpmn-event|bpmn-event]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/bpmn-event|bpmn-event]]"
 learning-time-in-minutes: 3
 ---
 # Understanding BPMN Events

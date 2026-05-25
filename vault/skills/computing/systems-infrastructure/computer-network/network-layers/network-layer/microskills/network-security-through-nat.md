@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The role of NAT in hiding internal network structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

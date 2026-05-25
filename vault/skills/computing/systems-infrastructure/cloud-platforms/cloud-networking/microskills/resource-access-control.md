@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in securing access to cloud resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

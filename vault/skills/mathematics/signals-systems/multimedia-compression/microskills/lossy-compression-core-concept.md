@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of intentionally discarding data for smaller file sizes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

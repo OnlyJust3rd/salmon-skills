@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Resolution of errors in non-functional circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

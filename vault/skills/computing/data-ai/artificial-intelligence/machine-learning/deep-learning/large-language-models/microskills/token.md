@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding text units processed by language models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

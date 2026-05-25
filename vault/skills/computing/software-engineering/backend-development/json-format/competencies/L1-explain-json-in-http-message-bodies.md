@@ -45,3 +45,6 @@ Explain how JSON is used as a message body format in HTTP requests and responses
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-responses|JSON in HTTP responses]]
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-requests|JSON in HTTP requests]]
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/human-readable-structured-data|Human-readable structured data]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -51,3 +51,6 @@ Implement strategies to address the practical challenges of deploying simulated 
 - [[simulation-to-real-world-robot-transition|Simulation to Real-World Robot Transition]]
 - [[adaptation-of-simulated-models|Adaptation of Simulated Models]]
 - [[overcoming-deployment-discrepancies|Overcoming Deployment Discrepancies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

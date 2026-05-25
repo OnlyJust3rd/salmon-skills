@@ -41,3 +41,6 @@ Identify real-life applications of serverless architecture.
 
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|Real-World Serverless Examples]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|Serverless Architecture Use Cases]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

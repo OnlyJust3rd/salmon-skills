@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing essential hardware components for mobile robot navigation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding targeted AI-assisted edits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

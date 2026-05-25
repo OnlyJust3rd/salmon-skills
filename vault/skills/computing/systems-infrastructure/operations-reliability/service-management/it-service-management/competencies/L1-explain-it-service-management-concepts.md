@@ -45,3 +45,6 @@ Explain IT service management concepts for organizing technology support and ser
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/service-request|Service Request]]
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/incident|Incident]]
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/service-level|Service Level]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

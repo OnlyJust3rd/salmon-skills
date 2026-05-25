@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[co-occurrence-matrix-identification|co-occurrence-matrix-identification]]"
+learning-outcomes:
+  - "[[co-occurrence-matrix-identification|co-occurrence-matrix-identification]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Co-Occurrence Matrices

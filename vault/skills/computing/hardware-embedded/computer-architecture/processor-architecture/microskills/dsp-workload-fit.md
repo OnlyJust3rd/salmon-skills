@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reasoning about DSP characteristics for signal-processing style workloads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

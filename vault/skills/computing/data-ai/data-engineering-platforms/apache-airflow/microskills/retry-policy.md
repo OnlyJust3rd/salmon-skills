@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Handling task failure through repeated attempts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

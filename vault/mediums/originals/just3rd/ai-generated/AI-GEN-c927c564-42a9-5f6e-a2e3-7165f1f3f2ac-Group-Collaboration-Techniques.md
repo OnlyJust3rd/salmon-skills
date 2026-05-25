@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/group-collaboration-techniques|group-collaboration-techniques]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/group-collaboration-techniques|group-collaboration-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Mastering Group Collaboration Techniques

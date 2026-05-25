@@ -45,3 +45,6 @@ Apply endpoint maintenance and software installation practices.
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/software-installation|Software Installation]]
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/configuration-review|Configuration Review]]
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/maintenance-task|Maintenance Task]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

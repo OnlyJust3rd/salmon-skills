@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabaseZap",
       "LiBoxes",
       "LiScrollText",
       "SiRoadmapdotsh",
@@ -29,8 +30,7 @@
       "LiUsers2",
       "LiUser",
       "LiBook",
-      "LiBookOpenText",
-      "LiGoal"
+      "LiBookOpenText"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [
@@ -17416,5 +17416,6 @@
   },
   "mediums/originals/just3rd/ai-generated/ai-generated.md": {
     "iconName": "LiWaypoints"
-  }
+  },
+  "bases": "LiDatabaseZap"
 }

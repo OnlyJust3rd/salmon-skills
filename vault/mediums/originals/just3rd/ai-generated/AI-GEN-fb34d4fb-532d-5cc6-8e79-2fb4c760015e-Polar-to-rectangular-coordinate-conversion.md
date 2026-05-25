@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-to-rectangular-coordinate-conversion|polar-to-rectangular-coordinate-conversion]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-to-rectangular-coordinate-conversion|polar-to-rectangular-coordinate-conversion]]"
 learning-time-in-minutes: 3
 ---
 # Converting Polar Coordinates to Rectangular Coordinates

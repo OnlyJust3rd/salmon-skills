@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding user-facing delay and responsiveness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/normal-vector-identification|normal-vector-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/normal-vector-identification|normal-vector-identification]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Normal Vector in 3D Geometry

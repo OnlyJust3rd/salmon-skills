@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Draft request and response JSON for core operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

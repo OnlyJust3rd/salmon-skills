@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding safe procedures for diagnosing hardware challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

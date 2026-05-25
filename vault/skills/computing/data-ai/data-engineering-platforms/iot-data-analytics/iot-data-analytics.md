@@ -51,3 +51,6 @@ Analyzing IoT-generated data using statistical and machine learning techniques f
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/seasonality-identification-in-iot-data|Seasonality Identification in IoT Data]]
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/time-series-analysis-definition|Time-Series Analysis Definition]]
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/trend-identification-in-iot-data|Trend Identification in IoT Data]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[target-user-representation|target-user-representation]]"
+learning-outcomes:
+  - "[[target-user-representation|target-user-representation]]"
 learning-time-in-minutes: 5
 ---
 # Representing Your Target Users: Personas and Scenarios

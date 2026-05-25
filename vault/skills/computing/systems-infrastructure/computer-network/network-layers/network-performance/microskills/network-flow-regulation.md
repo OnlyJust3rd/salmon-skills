@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grasping the principles behind preventing network collapse.
+## Related Mediums
+
+![[bases/related-mediums.base]]

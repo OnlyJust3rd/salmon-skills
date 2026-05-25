@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical diagnosis of hardware problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

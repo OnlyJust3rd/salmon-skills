@@ -45,3 +45,6 @@ Explain how abstraction, encapsulation, inheritance, and polymorphism contribute
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/separation-of-concerns-explanation|Separation of Concerns Explanation]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/abstraction-benefits|Abstraction Benefits]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-benefits|Encapsulation Benefits]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

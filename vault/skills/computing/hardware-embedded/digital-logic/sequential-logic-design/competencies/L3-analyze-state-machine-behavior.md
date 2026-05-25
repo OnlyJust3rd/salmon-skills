@@ -45,3 +45,6 @@ Analyze the behavior of a given state machine by tracing its state transitions b
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/state-machine-analysis|State Machine Analysis]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/state-transition-tracing|State Transition Tracing]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/input-condition-response|Input Condition Response]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

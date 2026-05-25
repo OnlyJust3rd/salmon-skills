@@ -43,3 +43,6 @@ Understand the role and communication protocols of embedded IoT devices.
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/embedded-iot-communication-hardware|Embedded IoT Communication Hardware]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/data-transmission-processes|Data Transmission Processes]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/relevant-communication-protocols|Relevant Communication Protocols]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

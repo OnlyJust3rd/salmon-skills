@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Detecting intersecting objects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

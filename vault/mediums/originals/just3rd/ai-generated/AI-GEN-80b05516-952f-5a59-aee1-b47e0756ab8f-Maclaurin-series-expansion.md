@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/maclaurin-series-expansion|maclaurin-series-expansion]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/maclaurin-series-expansion|maclaurin-series-expansion]]"
 learning-time-in-minutes: 4
 ---
 # Maclaurin Series Expansion

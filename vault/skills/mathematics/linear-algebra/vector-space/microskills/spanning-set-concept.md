@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role and purpose of a spanning set in vector spaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

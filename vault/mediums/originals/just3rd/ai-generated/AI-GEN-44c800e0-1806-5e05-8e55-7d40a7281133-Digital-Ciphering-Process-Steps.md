@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/digital-ciphering-process-steps|digital-ciphering-process-steps]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/digital-ciphering-process-steps|digital-ciphering-process-steps]]"
 learning-time-in-minutes: 4
 ---
 # Digital Ciphering Process Steps for Speech Signals

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-approaches|modular-decomposition-approaches]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-approaches|modular-decomposition-approaches]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Modular Decomposition Approaches

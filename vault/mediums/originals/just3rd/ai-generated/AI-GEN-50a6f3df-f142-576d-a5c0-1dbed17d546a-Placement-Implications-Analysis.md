@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/placement-implications-analysis|placement-implications-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/placement-implications-analysis|placement-implications-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Encryption Placement Implications in Compression Pipelines

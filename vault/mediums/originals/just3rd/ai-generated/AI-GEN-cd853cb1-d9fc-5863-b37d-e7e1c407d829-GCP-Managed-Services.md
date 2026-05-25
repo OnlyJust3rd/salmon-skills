@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-managed-services|gcp-managed-services]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-managed-services|gcp-managed-services]]"
 learning-time-in-minutes: 5
 ---
 # Understanding GCP Managed Services

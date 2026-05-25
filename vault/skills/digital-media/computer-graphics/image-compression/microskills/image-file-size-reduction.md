@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of compression techniques to decrease image file sizes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

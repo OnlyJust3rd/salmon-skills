@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing the time-shifting property for FS/DTFS coefficient calculation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

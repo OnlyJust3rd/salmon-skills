@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the no preemption condition for deadlock.
+## Related Mediums
+
+![[bases/related-mediums.base]]

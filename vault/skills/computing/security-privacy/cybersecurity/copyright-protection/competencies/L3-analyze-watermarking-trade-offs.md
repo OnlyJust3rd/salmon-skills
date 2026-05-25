@@ -45,3 +45,6 @@ Analyze the relationship between imperceptibility, robustness, and capacity in d
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/imperceptibility-vs-capacity-trade-off|Imperceptibility vs. Capacity Trade-off]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/robustness-vs-capacity-trade-off|Robustness vs. Capacity Trade-off]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-trade-off-interplay|Watermarking Trade-off Interplay]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

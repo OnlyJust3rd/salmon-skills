@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the goals and aims of each step in the data science process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

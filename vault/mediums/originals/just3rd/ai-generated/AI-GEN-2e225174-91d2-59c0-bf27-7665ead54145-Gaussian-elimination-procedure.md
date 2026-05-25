@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/gaussian-elimination-procedure|gaussian-elimination-procedure]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/gaussian-elimination-procedure|gaussian-elimination-procedure]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Gaussian Elimination: The Row Operations

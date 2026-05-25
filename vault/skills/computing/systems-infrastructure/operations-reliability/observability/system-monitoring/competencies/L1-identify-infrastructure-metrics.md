@@ -45,3 +45,6 @@ Identify the primary infrastructure metrics used for system performance monitori
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/memory-usage|Memory Usage]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/disk-i-o-operations|Disk I/O Operations]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/network-throughput|Network Throughput]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

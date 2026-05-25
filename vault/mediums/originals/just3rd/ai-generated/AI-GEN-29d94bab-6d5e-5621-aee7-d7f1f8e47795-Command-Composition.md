@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[command-composition|command-composition]]"
+learning-outcomes:
+  - "[[command-composition|command-composition]]"
 learning-time-in-minutes: 4
 ---
 # Command Composition in Shell Scripting

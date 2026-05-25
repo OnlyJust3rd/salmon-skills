@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[digital-twins-in-iot|digital-twins-in-iot]]"
+learning-outcomes:
+  - "[[digital-twins-in-iot|digital-twins-in-iot]]"
 learning-time-in-minutes: 4
 ---
 # Digital Twins in IoT: A Practical Introduction

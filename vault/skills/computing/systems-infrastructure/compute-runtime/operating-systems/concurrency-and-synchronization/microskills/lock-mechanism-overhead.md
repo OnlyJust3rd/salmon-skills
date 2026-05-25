@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the overhead associated with different lock mechanisms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

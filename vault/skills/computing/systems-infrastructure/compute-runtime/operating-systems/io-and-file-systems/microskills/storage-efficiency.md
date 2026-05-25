@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing implications of file allocation on storage efficiency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

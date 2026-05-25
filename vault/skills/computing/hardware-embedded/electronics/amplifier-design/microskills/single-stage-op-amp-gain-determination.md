@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculation of voltage gain for basic op-amp configurations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

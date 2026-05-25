@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Smoothing received state between updates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the mathematical definitions of geometric primitives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

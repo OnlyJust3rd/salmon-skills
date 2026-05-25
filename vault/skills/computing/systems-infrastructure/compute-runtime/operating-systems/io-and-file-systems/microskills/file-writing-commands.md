@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of commands for writing to files.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in applying Mesh and Nodal analysis techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

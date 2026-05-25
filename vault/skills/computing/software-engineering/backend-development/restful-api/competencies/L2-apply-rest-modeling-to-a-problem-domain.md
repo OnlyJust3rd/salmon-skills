@@ -43,3 +43,6 @@ Apply REST modeling to a small problem domain by defining resources, routes, and
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-boundary-selection|Resource boundary selection]]
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/example-json-contracts|Example JSON contracts]]
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/consistency-with-http-semantics|Consistency with HTTP semantics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

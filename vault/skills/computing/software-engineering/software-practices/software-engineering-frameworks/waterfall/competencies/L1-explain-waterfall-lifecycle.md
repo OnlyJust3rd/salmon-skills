@@ -38,3 +38,6 @@ Explain the sequential Waterfall lifecycle, including requirements, design, impl
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/waterfall-phase-sequence|Waterfall Phase Sequence]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/phase-gate-review|Phase Gate Review]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/documentation-handoff|Documentation Handoff]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

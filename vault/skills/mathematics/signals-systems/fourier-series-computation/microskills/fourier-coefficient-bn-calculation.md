@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to calculate the bn Fourier coefficients.
+## Related Mediums
+
+![[bases/related-mediums.base]]

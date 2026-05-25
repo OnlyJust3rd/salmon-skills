@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the evaluation criteria for watermarking systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

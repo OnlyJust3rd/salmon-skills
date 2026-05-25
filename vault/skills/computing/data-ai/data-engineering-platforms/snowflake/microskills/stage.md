@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding locations for loading and unloading data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

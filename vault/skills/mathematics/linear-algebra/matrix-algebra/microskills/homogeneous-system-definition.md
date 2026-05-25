@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of a homogeneous linear system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying methods to mask sensitive information within textual datasets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

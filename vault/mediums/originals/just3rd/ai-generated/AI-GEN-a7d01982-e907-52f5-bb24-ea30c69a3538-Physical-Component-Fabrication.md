@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/digital-fabrication/microskills/physical-component-fabrication|physical-component-fabrication]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/digital-fabrication/microskills/physical-component-fabrication|physical-component-fabrication]]"
 learning-time-in-minutes: 5
 ---
 # Physical Component Fabrication: Bringing Digital Designs to Life

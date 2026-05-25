@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the formal definition of continuity for functions with multiple input variables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

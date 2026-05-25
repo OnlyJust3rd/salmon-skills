@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of fundamental concepts related to effective teamwork in engineering.
+## Related Mediums
+
+![[bases/related-mediums.base]]

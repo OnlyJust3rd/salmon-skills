@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how attacks affect the resilience of watermarks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

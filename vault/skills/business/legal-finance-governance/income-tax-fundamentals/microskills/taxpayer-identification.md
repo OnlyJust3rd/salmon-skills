@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of individuals and entities obligated to pay income tax.
+## Related Mediums
+
+![[bases/related-mediums.base]]

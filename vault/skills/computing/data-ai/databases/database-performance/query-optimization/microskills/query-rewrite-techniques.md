@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Changing query structure to reduce unnecessary work.
+## Related Mediums
+
+![[bases/related-mediums.base]]

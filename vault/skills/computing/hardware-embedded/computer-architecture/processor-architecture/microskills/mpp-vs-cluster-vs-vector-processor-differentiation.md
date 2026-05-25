@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between MPP, cluster computing, and specialized vector processors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

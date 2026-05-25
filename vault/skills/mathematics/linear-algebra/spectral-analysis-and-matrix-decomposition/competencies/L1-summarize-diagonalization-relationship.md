@@ -45,3 +45,6 @@ Summarize the relationship between a matrix, its eigenvalues, and its eigenvecto
 - [[eigenvalues-in-diagonal-matrix-d|Eigenvalues in diagonal matrix D]]
 - [[eigenvectors-in-change-of-basis-matrix-p|Eigenvectors in change-of-basis matrix P]]
 - [[relationship-between-a-p-and-d|Relationship between A, P, and D]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

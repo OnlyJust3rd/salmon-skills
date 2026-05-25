@@ -64,3 +64,6 @@ Understanding foundational concepts of relational databases, SQL, database syste
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/structural-differences|Structural Differences]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/transaction-boundaries|Transaction Boundaries]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/use-case-suitability|Use Case Suitability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

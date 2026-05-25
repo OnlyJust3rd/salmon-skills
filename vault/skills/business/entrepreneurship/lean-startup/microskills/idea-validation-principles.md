@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Foundational concepts for validating business ideas.
+## Related Mediums
+
+![[bases/related-mediums.base]]

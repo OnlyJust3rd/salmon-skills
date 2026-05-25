@@ -39,3 +39,6 @@ Relate the MVC architectural style to user interface and web application structu
 ## Microskills
 
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/mvc-layer-identification|MVC Layer Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

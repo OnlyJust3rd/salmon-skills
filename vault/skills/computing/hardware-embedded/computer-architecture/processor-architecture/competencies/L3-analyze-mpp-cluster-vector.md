@@ -51,3 +51,6 @@ Analyze the structural and operational differences between Massively Parallel Pr
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-structural-analysis|Specialized Vector Processor Structural Analysis]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-operational-analysis|Specialized Vector Processor Operational Analysis]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/mpp-vs-cluster-vs-vector-processor-differentiation|MPP vs. Cluster vs. Vector Processor Differentiation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

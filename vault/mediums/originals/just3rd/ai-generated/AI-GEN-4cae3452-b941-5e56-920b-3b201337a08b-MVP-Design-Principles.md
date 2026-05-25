@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/mvp-design-principles|mvp-design-principles]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/mvp-design-principles|mvp-design-principles]]"
 learning-time-in-minutes: 4
 ---
 # MVP Design Principles: Focusing on Core Value

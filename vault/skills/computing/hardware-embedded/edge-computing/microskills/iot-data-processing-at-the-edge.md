@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing edge processing for real-time IoT applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

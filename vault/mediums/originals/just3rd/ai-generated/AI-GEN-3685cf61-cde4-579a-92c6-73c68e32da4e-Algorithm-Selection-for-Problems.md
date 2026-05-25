@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/algorithm-selection-for-problems|algorithm-selection-for-problems]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/algorithm-selection-for-problems|algorithm-selection-for-problems]]"
 learning-time-in-minutes: 4
 ---
 # Algorithm Selection for Graph/Tree Problems

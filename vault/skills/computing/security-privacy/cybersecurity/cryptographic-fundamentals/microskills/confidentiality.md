@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Importance of maintaining information secrecy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

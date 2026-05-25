@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/corporate-functions/microskills/corporate-department-names|corporate-department-names]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/corporate-functions/microskills/corporate-department-names|corporate-department-names]]"
 learning-time-in-minutes: 3
 ---
 # Corporate Department Names

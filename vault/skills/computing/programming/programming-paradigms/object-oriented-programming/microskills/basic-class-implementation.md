@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating small types with properties and operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

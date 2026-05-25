@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building prototypes based on established design specifications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

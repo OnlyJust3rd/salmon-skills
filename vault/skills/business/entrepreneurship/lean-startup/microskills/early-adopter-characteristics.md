@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Traits and behaviors of early adopting segments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

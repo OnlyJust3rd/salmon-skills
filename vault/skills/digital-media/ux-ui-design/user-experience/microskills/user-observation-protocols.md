@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Methods for observing user behavior during testing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

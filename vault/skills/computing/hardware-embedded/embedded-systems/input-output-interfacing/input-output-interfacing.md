@@ -79,3 +79,6 @@ Analyzing methods for accessing input/output devices, comparing synchronous and 
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/serial-communication-characteristics|Serial Communication Characteristics]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/simulated-input-device-interaction|Simulated Input Device Interaction]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/standard-communication-interface-analysis|Standard Communication Interface Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

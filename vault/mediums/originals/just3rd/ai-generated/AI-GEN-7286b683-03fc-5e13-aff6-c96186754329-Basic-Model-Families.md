@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[basic-model-families|basic-model-families]]"
+learning-outcomes:
+  - "[[basic-model-families|basic-model-families]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Basic Model Families in Machine Learning

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-deployment-commands|bicep-deployment-commands]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/bicep-deployment-commands|bicep-deployment-commands]]"
 learning-time-in-minutes: 3
 ---
 # Deploying Infrastructure with Bicep: Key Azure CLI Commands

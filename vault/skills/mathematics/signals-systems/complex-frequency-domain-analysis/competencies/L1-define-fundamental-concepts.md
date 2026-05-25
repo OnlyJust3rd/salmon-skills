@@ -47,3 +47,6 @@ Define the Region of Convergence (ROC), poles, zeros, Z-transform, and its inver
 - [[zeros-definition|Zeros Definition]]
 - [[z-transform-definition|Z-transform Definition]]
 - [[inverse-z-transform-definition|Inverse Z-transform Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

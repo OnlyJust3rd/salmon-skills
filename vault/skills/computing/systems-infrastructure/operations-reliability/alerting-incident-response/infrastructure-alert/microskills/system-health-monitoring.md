@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how alerts contribute to maintaining system stability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

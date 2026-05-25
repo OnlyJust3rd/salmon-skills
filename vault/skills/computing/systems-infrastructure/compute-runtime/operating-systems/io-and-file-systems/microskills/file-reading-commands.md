@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of commands for reading from files.
+## Related Mediums
+
+![[bases/related-mediums.base]]

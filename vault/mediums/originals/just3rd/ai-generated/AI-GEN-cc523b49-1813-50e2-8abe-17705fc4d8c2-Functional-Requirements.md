@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[functional-requirements|functional-requirements]]"
+learning-outcomes:
+  - "[[functional-requirements|functional-requirements]]"
 learning-time-in-minutes: 4
 ---
 # Defining Functional Requirements for Computer-Based Devices

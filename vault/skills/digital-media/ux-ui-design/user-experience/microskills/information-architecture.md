@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Structuring content and navigation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

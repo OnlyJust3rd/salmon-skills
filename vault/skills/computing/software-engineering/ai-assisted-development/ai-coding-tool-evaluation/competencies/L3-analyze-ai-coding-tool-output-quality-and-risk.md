@@ -49,3 +49,6 @@ Analyze AI coding tool output quality and risk.
 - [[correctness-risk|Correctness Risk]]
 - [[security-risk|Security Risk]]
 - [[workflow-fit|Workflow Fit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

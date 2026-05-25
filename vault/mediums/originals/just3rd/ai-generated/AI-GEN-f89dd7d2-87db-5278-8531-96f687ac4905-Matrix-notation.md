@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-notation|matrix-notation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-notation|matrix-notation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Matrix Notation

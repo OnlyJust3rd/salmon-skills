@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the essential elements within various legal agreements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

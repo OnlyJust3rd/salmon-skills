@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Assigning database permissions according to role and need.
+## Related Mediums
+
+![[bases/related-mediums.base]]

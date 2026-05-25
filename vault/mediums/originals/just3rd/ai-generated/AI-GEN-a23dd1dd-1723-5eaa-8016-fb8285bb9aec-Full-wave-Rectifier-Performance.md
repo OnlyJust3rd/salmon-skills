@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/full-wave-rectifier-performance|full-wave-rectifier-performance]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/full-wave-rectifier-performance|full-wave-rectifier-performance]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating Full-Wave Rectifier Performance

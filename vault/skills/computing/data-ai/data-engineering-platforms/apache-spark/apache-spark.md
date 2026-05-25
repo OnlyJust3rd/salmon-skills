@@ -38,3 +38,6 @@ Using Spark concepts for distributed data processing with DataFrames, transforma
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/partition|Partition]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/spark-action|Spark Action]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/spark-transformation|Spark Transformation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

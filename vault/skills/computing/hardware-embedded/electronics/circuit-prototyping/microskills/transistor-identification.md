@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of transistor symbols and basic function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

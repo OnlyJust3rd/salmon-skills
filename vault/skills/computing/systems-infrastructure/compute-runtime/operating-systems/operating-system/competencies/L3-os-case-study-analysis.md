@@ -45,3 +45,6 @@ Analyze the design choices in a given operating system case study related to pro
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-management-strategies|Process Management Strategies]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-strategies|Memory Management Strategies]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/case-study-evaluation|Case Study Evaluation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

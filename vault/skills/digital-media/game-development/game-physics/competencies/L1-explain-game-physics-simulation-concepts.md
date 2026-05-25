@@ -45,3 +45,6 @@ Explain game physics simulation concepts.
 - [[skills/digital-media/game-development/game-physics/microskills/fixed-timestep|Fixed Timestep]]
 - [[skills/digital-media/game-development/game-physics/microskills/rigid-body|Rigid Body]]
 - [[skills/digital-media/game-development/game-physics/microskills/collider|Collider]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

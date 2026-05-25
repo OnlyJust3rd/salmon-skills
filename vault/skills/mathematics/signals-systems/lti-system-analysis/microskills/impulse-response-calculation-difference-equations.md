@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying techniques to find the impulse response from difference equations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

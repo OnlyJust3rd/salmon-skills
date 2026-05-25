@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/test-and-set-atomicity|test-and-set-atomicity]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/test-and-set-atomicity|test-and-set-atomicity]]"
 learning-time-in-minutes: 3
 ---
 # Test-and-Set Atomicity: Ensuring Uninterruptible Operations

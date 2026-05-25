@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/normal-vector-plane-equations-in-3d|normal-vector-plane-equations-in-3d]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/normal-vector-plane-equations-in-3d|normal-vector-plane-equations-in-3d]]"
 learning-time-in-minutes: 5
 ---
 # Plane Equations Using Normal Vectors in 3D

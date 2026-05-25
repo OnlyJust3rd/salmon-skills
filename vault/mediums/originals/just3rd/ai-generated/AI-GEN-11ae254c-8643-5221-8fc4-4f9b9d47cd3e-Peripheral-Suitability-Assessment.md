@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/peripheral-suitability-assessment|peripheral-suitability-assessment]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/peripheral-suitability-assessment|peripheral-suitability-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Peripheral Suitability Assessment for AVR Microcontrollers

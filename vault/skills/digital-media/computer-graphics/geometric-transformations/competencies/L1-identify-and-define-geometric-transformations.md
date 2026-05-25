@@ -47,3 +47,6 @@ Identify and define fundamental 2D and 3D geometric transformations: translation
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/scaling|Scaling]]
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/rotation|Rotation]]
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/2d-and-3d-transformations|2D and 3D Transformations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

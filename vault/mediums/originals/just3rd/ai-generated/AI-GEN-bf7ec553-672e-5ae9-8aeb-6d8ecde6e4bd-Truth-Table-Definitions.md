@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/truth-table-definitions|truth-table-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/truth-table-definitions|truth-table-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Truth Tables in Combinational Logic

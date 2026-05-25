@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[glove-application|glove-application]]"
+learning-outcomes:
+  - "[[glove-application|glove-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying GloVe for Distributed Text Representations

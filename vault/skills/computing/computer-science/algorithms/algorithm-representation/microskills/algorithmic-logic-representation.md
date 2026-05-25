@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to express computational processes and control flow in a human-readable format.
+## Related Mediums
+
+![[bases/related-mediums.base]]

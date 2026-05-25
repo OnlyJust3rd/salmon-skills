@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical implementation of text classification techniques using specified algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

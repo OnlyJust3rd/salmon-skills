@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of how data visualization aids in information communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

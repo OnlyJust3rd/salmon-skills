@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in basic commands for file and directory operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

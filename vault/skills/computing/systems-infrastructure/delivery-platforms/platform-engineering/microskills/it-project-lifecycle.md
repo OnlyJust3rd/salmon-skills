@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the phases of an IT project from initiation to closure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

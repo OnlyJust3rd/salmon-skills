@@ -43,3 +43,6 @@ Demonstrate how artificial intelligence is currently being used in at least two 
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/artificial-intelligence-applications|Artificial Intelligence Applications]]
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/industry-specific-ai-usage|Industry-Specific AI Usage]]
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/cross-industry-ai-examples|Cross-Industry AI Examples]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

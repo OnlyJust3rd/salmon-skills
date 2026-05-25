@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of memory access where all processors have equal access time.
+## Related Mediums
+
+![[bases/related-mediums.base]]

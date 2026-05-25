@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how serverless platforms scale resources automatically.
+## Related Mediums
+
+![[bases/related-mediums.base]]

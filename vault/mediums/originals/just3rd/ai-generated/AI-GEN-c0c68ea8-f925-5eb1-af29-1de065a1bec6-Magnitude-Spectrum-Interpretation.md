@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/magnitude-spectrum-interpretation|magnitude-spectrum-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/magnitude-spectrum-interpretation|magnitude-spectrum-interpretation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Magnitude Spectrum: What's in a Signal's Strength?

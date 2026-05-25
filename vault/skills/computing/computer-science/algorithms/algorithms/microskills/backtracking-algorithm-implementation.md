@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing Java implementations for backtracking problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

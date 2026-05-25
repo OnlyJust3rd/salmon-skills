@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of primary obstacles when moving robot models from simulation to reality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

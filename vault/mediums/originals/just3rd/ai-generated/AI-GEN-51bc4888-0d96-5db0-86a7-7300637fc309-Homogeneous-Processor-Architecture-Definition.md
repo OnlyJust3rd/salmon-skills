@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/homogeneous-processor-architecture-definition|homogeneous-processor-architecture-definition]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/homogeneous-processor-architecture-definition|homogeneous-processor-architecture-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Homogeneous Processor Architectures

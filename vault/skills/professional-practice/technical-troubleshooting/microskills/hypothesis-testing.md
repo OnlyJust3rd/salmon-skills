@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Testing likely causes in a controlled order.
+## Related Mediums
+
+![[bases/related-mediums.base]]

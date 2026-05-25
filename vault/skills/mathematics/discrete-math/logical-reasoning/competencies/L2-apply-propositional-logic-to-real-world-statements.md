@@ -43,3 +43,6 @@ Apply propositional logic to represent simple real-world statements and determin
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/real-world-statement-translation|Real-World Statement Translation]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/truth-table-construction|Truth Table Construction]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/logical-statement-analysis|Logical Statement Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

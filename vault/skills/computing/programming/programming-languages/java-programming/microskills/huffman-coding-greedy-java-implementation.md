@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding Huffman Coding using a greedy approach in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

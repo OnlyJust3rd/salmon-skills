@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing competitor products and services.
+## Related Mediums
+
+![[bases/related-mediums.base]]

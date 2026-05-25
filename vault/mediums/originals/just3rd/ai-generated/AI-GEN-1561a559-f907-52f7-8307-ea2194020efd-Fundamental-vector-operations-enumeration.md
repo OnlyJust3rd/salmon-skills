@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/fundamental-vector-operations-enumeration|fundamental-vector-operations-enumeration]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/fundamental-vector-operations-enumeration|fundamental-vector-operations-enumeration]]"
 learning-time-in-minutes: 4
 ---
 # Fundamental Vector Operations: Enumeration

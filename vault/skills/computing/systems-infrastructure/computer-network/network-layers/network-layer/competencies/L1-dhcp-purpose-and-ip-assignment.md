@@ -47,3 +47,6 @@ Explain the primary purpose of DHCP and how it automatically assigns IP addresse
 - [[automatic-ip-address-allocation|Automatic IP Address Allocation]]
 - [[network-configuration-automation|Network Configuration Automation]]
 - [[ip-address-management-services|IP Address Management Services]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

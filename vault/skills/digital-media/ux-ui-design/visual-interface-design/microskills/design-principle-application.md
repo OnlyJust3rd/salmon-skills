@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Construction of visual designs incorporating usability and interaction principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

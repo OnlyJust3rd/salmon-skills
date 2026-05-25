@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/notebook-workflow|notebook-workflow]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/notebook-workflow|notebook-workflow]]"
 learning-time-in-minutes: 3
 ---
 # Mastering Databricks Notebook Workflows

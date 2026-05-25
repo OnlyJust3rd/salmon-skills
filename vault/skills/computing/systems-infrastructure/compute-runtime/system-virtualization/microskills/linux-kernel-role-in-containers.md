@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the Linux kernel's contribution to containerization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

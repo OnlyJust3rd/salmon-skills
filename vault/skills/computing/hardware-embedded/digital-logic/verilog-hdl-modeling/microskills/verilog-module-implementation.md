@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical design and construction of combinational and sequential modules in Verilog.
+## Related Mediums
+
+![[bases/related-mediums.base]]

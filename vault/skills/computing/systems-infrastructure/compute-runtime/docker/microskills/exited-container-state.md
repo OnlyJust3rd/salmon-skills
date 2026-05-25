@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of containers that have terminated with a status code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

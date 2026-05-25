@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recalling the necessary and sufficient conditions for a matrix to be diagonalizable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

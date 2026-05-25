@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/well-formed-formulas|well-formed-formulas]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/well-formed-formulas|well-formed-formulas]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Well-Formed Formulas in Propositional Logic

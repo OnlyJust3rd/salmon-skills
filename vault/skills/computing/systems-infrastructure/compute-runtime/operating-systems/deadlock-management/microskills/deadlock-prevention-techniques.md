@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of specific techniques to proactively prevent deadlocks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

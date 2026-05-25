@@ -43,3 +43,6 @@ Design, construct, and test a diode-based logic gate circuit to perform a specif
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-logic-gate-design|Diode Logic Gate Design]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/logic-function-implementation|Logic Function Implementation]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/circuit-construction-and-testing|Circuit Construction and Testing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

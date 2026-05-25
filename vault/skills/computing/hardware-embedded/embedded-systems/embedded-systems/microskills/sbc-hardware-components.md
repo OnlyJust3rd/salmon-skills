@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of core components within Single Board Computers (CPU, memory, peripherals).
+## Related Mediums
+
+![[bases/related-mediums.base]]

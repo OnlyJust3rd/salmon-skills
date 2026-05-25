@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[role-of-anticipation-in-model-transition|role-of-anticipation-in-model-transition]]"
+learning-outcomes:
+  - "[[role-of-anticipation-in-model-transition|role-of-anticipation-in-model-transition]]"
 learning-time-in-minutes: 5
 ---
 # The Role of Anticipation in Model Transition for Evolutionary Robotics

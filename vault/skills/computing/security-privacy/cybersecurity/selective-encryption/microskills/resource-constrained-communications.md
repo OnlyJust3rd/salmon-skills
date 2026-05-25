@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applicability to devices like mobile phones and real-time networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

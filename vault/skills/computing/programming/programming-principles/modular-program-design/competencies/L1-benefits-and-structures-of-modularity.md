@@ -43,3 +43,6 @@ Describe the benefits of modular and reusable code in software development, iden
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/modularity-benefits-understanding|Modularity benefits understanding]]
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/reusable-code-identification|Reusable code identification]]
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/modular-structure-recognition|Modular structure recognition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interaction-design|interaction-design]]"
+learning-outcomes:
+  - "[[interaction-design|interaction-design]]"
 learning-time-in-minutes: 5
 ---
 # Interaction Design: Understanding User Actions

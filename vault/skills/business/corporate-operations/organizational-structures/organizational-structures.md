@@ -32,3 +32,6 @@ Identify and explain different types of business and organizational structures, 
 - [[skills/business/corporate-operations/organizational-structures/microskills/structure-advantages|Structure Advantages]]
 - [[skills/business/corporate-operations/organizational-structures/microskills/structure-characteristics|Structure Characteristics]]
 - [[skills/business/corporate-operations/organizational-structures/microskills/structure-disadvantages|Structure Disadvantages]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

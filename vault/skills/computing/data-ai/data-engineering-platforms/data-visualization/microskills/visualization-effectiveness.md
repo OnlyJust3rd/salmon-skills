@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how different visualization types convey data insights.
+## Related Mediums
+
+![[bases/related-mediums.base]]

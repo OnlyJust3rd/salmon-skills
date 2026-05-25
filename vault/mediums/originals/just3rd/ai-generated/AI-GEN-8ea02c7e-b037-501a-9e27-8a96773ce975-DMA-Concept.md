@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/dma-concept|dma-concept]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/dma-concept|dma-concept]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Direct Memory Access (DMA)

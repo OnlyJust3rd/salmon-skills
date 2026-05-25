@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding support for BI and machine learning workloads over shared data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

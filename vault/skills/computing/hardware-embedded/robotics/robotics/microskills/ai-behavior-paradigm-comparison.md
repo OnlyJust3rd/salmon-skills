@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Critical examination of different AI behavior-based approaches.
+## Related Mediums
+
+![[bases/related-mediums.base]]

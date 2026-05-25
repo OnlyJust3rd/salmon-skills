@@ -45,3 +45,6 @@ Explain game AI behavior and pathfinding concepts.
 - [[skills/digital-media/game-development/game-ai/microskills/finite-state-machine|Finite State Machine]]
 - [[skills/digital-media/game-development/game-ai/microskills/pathfinding|Pathfinding]]
 - [[skills/digital-media/game-development/game-ai/microskills/steering-behavior|Steering Behavior]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

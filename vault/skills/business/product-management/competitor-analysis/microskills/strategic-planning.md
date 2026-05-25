@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Informing business strategy based on competitor insights.
+## Related Mediums
+
+![[bases/related-mediums.base]]

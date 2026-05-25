@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/combined-effect-of-block-cipher-operations|combined-effect-of-block-cipher-operations]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/combined-effect-of-block-cipher-operations|combined-effect-of-block-cipher-operations]]"
 learning-time-in-minutes: 5
 ---
 # The Cumulative Power of Block Cipher Rounds

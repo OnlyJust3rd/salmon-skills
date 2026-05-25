@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[deployment-challenge-mitigation|deployment-challenge-mitigation]]"
+learning-outcomes:
+  - "[[deployment-challenge-mitigation|deployment-challenge-mitigation]]"
 learning-time-in-minutes: 5
 ---
 # Deployment Challenge Mitigation

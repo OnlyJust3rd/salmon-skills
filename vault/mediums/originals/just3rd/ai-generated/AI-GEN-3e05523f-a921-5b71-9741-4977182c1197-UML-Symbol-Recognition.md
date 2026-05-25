@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-symbol-recognition|uml-symbol-recognition]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-symbol-recognition|uml-symbol-recognition]]"
 learning-time-in-minutes: 4
 ---
 # UML Symbol Recognition: The Building Blocks of Diagrams

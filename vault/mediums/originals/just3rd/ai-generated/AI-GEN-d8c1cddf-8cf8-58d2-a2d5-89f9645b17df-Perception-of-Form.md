@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/perception-of-form|perception-of-form]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/perception-of-form|perception-of-form]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Form Through Shading

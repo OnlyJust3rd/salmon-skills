@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/algebraic-interpretation-of-vector-products|algebraic-interpretation-of-vector-products]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/algebraic-interpretation-of-vector-products|algebraic-interpretation-of-vector-products]]"
 learning-time-in-minutes: 5
 ---
 # Algebraic Interpretation of Vector Products

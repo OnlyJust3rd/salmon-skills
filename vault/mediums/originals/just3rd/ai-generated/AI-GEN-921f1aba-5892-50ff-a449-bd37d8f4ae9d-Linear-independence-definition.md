@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/linear-independence-definition|linear-independence-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/linear-independence-definition|linear-independence-definition]]"
 learning-time-in-minutes: 4
 ---
 # Linear Independence of Vectors

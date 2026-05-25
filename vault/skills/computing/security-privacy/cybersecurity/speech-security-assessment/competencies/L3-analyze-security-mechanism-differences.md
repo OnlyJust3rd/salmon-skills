@@ -47,3 +47,6 @@ Analyze the differences in security mechanisms between digital ciphering and ana
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/digital-ciphering-security-mechanisms|Digital Ciphering Security Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-security-mechanisms|Analogue Scrambling Security Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/speech-security-mechanism-comparison|Speech Security Mechanism Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

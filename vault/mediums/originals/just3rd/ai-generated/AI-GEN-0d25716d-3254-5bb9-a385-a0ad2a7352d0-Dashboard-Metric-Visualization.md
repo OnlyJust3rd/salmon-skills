@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/dashboard-metric-visualization|dashboard-metric-visualization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/dashboard-metric-visualization|dashboard-metric-visualization]]"
 learning-time-in-minutes: 4
 ---
 # Visualizing Prometheus Metrics with Grafana Dashboards

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of Euler's Phi function's role in cryptography.
+## Related Mediums
+
+![[bases/related-mediums.base]]

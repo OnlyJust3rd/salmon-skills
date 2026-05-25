@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in applying tags for cost allocation and governance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

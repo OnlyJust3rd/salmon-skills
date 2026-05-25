@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and identification of the Bag-of-Words model for text representation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

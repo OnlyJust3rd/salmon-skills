@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding a Sudoku solver using backtracking in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

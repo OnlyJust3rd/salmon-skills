@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/unethical-behavior-rationale|unethical-behavior-rationale]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/unethical-behavior-rationale|unethical-behavior-rationale]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Why Business Actions Are Unethical

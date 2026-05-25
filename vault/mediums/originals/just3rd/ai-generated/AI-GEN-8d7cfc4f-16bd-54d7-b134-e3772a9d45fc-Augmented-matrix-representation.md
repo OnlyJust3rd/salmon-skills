@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/augmented-matrix-representation|augmented-matrix-representation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/augmented-matrix-representation|augmented-matrix-representation]]"
 learning-time-in-minutes: 4
 ---
 # Representing Systems of Equations as Augmented Matrices

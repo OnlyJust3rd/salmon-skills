@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding standard operations for Binary Search Trees in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

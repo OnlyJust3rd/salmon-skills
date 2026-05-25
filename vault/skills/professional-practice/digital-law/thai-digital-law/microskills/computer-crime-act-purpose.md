@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the main intent of Thailand's Computer-Related Crime Act.
+## Related Mediums
+
+![[bases/related-mediums.base]]

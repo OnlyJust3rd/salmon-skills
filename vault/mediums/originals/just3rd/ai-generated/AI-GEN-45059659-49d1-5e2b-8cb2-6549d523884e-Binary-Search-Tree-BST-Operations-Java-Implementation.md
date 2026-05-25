@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[binary-search-tree-bst-operations-java-implementation|binary-search-tree-bst-operations-java-implementation]]"
+learning-outcomes:
+  - "[[binary-search-tree-bst-operations-java-implementation|binary-search-tree-bst-operations-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Binary Search Tree (BST) Operations in Java

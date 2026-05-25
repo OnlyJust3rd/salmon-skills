@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding access rights on local or managed endpoints.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/evaluation-of-triple-integrals-in-spherical-coordinates|evaluation-of-triple-integrals-in-spherical-coordinates]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/evaluation-of-triple-integrals-in-spherical-coordinates|evaluation-of-triple-integrals-in-spherical-coordinates]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating Triple Integrals in Spherical Coordinates

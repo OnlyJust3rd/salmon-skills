@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[read-modify-write-pattern|read-modify-write-pattern]]"
+learning-outcomes:
+  - "[[read-modify-write-pattern|read-modify-write-pattern]]"
 learning-time-in-minutes: 3
 ---
 # The Read-Modify-Write Pattern for Register Manipulation

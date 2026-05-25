@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-state|navigation-state]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-state|navigation-state]]"
 learning-time-in-minutes: 4
 ---
 # Navigating Your Mobile App: Managing State and Transitions

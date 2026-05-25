@@ -49,3 +49,6 @@ Implement greedy algorithms for problems such as Activity Selection, Huffman Cod
 - [[skills/computing/programming/programming-languages/java-programming/microskills/fractional-knapsack-greedy-java-implementation|Fractional Knapsack Greedy Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/job-scheduling-with-deadlines-greedy-java-implementation|Job Scheduling with Deadlines Greedy Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/minimum-spanning-tree-prim-kruskal-greedy-java-implementation|Minimum Spanning Tree (Prim/Kruskal) Greedy Java Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-simulation|watermarking-attack-simulation]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-simulation|watermarking-attack-simulation]]"
 learning-time-in-minutes: 4
 ---
 # Simulating Watermarking Attacks with Benchmark Tools

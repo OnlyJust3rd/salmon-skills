@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the logical behavior of designed circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

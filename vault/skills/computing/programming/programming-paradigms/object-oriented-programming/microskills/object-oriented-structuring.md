@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Organizing code using OOP principles for small-scale programs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

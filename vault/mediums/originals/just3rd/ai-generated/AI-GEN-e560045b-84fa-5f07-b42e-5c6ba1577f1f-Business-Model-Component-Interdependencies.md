@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/business-model-component-interdependencies|business-model-component-interdependencies]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/business-model-component-interdependencies|business-model-component-interdependencies]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Business Model Component Interdependencies

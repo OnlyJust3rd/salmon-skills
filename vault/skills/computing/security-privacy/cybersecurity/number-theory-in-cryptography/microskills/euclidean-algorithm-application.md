@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the Euclidean algorithm to solve cryptographic problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

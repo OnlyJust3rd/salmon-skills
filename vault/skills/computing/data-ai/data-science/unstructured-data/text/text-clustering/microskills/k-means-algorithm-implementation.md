@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of the K-means clustering algorithm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

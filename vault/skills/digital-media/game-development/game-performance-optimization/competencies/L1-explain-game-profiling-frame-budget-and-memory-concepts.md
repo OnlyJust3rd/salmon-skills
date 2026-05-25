@@ -45,3 +45,6 @@ Explain game profiling, frame budget, and memory concepts.
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/frame-budget|Frame Budget]]
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/cpu-bottleneck|CPU Bottleneck]]
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/gpu-bottleneck|GPU Bottleneck]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

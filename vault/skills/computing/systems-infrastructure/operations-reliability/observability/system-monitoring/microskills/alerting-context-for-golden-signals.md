@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how Golden Signals inform alert configurations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

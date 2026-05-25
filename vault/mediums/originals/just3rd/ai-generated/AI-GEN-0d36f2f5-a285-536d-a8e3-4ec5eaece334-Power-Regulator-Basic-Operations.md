@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/power-regulator-basic-operations|power-regulator-basic-operations]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/power-regulator-basic-operations|power-regulator-basic-operations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Power Regulators: The Basics

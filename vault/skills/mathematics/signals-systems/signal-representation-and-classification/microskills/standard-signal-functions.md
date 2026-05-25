@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of mathematical functions representing signals (sinusoidal, exponential, unit impulse, unit step).
+## Related Mediums
+
+![[bases/related-mediums.base]]

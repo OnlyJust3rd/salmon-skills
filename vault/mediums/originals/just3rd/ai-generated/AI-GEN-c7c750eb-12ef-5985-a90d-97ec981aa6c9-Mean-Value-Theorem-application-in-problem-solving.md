@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/mean-value-theorem-application-in-problem-solving|mean-value-theorem-application-in-problem-solving]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/mean-value-theorem-application-in-problem-solving|mean-value-theorem-application-in-problem-solving]]"
 learning-time-in-minutes: 3
 ---
 # Mean Value Theorem Application in Problem-Solving

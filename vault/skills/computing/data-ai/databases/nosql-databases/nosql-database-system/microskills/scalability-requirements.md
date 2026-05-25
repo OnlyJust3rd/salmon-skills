@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Use cases benefiting from NoSQL's scaling capabilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

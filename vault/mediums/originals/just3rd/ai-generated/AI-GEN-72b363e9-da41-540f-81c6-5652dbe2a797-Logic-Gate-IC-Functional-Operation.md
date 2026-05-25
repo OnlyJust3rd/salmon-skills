@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/logic-gate-ic-functional-operation|logic-gate-ic-functional-operation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/logic-gate-ic-functional-operation|logic-gate-ic-functional-operation]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Logic Gate ICs: The Building Blocks of Digital Circuits

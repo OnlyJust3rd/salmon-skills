@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enumerating various methods for accessing data within a file system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

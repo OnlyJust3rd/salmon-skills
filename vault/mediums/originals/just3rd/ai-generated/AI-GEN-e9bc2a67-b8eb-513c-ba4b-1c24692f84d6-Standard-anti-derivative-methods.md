@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/standard-anti-derivative-methods|standard-anti-derivative-methods]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/standard-anti-derivative-methods|standard-anti-derivative-methods]]"
 learning-time-in-minutes: 4
 ---
 # Standard Anti-derivative Methods

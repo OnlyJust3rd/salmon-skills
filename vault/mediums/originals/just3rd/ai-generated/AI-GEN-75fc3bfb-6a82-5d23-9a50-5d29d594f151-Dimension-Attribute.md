@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/dimension-attribute|dimension-attribute]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/dimension-attribute|dimension-attribute]]"
 learning-time-in-minutes: 3
 ---
 # Dimension Attributes in Dimensional Modeling

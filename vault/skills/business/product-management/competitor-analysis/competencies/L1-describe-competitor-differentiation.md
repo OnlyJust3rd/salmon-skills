@@ -43,3 +43,6 @@ Describe the purpose of analyzing competitor differentiation strategies.
 - [[skills/business/product-management/competitor-analysis/microskills/competitive-advantage-analysis|Competitive Advantage Analysis]]
 - [[skills/business/product-management/competitor-analysis/microskills/product-differentiation-strategies|Product Differentiation Strategies]]
 - [[skills/business/product-management/competitor-analysis/microskills/market-positioning-analysis|Market Positioning Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

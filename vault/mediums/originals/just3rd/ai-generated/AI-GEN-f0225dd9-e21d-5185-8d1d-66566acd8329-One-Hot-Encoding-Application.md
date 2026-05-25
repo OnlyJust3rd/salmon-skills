@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[one-hot-encoding-application|one-hot-encoding-application]]"
+learning-outcomes:
+  - "[[one-hot-encoding-application|one-hot-encoding-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying One-Hot Encoding for Text Representation

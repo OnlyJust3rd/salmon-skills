@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify time-space trade-offs between different data structure operations and algorithm choices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding that infrastructure is described in configuration files.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the fundamental concepts of Bézier curves.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/matlab-image-import|matlab-image-import]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/matlab-image-import|matlab-image-import]]"
 learning-time-in-minutes: 5
 ---
 # MATLAB Image Import: Loading Your First Image

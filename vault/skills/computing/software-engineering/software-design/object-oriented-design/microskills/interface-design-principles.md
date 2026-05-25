@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining principles for designing interfaces between components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

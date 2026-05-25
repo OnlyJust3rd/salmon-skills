@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical implementation of identifying and classifying named entities in text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

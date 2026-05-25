@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/shader-programming/microskills/lighting-response|lighting-response]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/shader-programming/microskills/lighting-response|lighting-response]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Lighting Response in Shaders

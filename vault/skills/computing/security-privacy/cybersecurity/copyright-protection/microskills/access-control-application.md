@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying practical application of access control in scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-algorithm-implementation|backtracking-algorithm-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-algorithm-implementation|backtracking-algorithm-implementation]]"
 learning-time-in-minutes: 2
 ---
 # Implementing Backtracking Algorithms in Java

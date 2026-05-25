@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how alerts help identify problems before they impact users.
+## Related Mediums
+
+![[bases/related-mediums.base]]

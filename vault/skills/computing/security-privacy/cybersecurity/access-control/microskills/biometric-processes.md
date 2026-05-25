@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding enrollment, verification, and identification within biometric systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implement constructors for ADTs in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mobile-robot-navigation-software-algorithms|mobile-robot-navigation-software-algorithms]]"
+learning-outcomes:
+  - "[[mobile-robot-navigation-software-algorithms|mobile-robot-navigation-software-algorithms]]"
 learning-time-in-minutes: 4
 ---
 # Mobile Robot Navigation: Essential Software Algorithms

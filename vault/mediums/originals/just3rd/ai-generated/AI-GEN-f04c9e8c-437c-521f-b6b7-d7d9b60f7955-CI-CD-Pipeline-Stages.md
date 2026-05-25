@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-pipeline-stages|ci-cd-pipeline-stages]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-pipeline-stages|ci-cd-pipeline-stages]]"
 learning-time-in-minutes: 4
 ---
 # Understanding CI/CD Pipeline Stages for Serverless

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the role of monitoring systems in HPC clusters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

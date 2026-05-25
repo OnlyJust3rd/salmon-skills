@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[compilation-unit|compilation-unit]]"
+learning-outcomes:
+  - "[[compilation-unit|compilation-unit]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Compilation Units in C++

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the basic theoretical principles that support Artificial Neural Networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

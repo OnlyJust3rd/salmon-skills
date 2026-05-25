@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying the steps and concepts of Foster's methodology to a design problem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

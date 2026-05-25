@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Apply search/traversal operations with suitable data structures in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

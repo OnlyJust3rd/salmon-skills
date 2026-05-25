@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/offset|offset]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/offset|offset]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Kafka Offsets

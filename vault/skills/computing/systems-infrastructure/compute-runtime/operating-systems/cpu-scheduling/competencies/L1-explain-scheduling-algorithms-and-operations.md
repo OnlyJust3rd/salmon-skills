@@ -51,3 +51,6 @@ Explain the core principles, operational flow, and decision-making processes of 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/mlfq-algorithm-principles|MLFQ Algorithm Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/lottery-scheduling-principles|Lottery Scheduling Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/cpu-scheduling-decision-making|CPU Scheduling Decision-Making]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

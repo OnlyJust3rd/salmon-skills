@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reward-definition|reward-definition]]"
+learning-outcomes:
+  - "[[reward-definition|reward-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Reward Signal in Reinforcement Learning

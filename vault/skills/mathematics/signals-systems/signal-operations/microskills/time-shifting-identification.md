@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of the time shifting operation on signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

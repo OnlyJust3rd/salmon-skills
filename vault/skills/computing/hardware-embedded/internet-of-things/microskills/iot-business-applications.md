@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of common business applications of IoT technology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

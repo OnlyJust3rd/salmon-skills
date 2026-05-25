@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of behavioral modeling in Verilog.
+## Related Mediums
+
+![[bases/related-mediums.base]]

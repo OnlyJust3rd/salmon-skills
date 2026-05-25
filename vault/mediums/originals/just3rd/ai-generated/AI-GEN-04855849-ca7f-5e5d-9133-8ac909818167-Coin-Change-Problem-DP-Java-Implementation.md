@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[coin-change-problem-dp-java-implementation|coin-change-problem-dp-java-implementation]]"
+learning-outcomes:
+  - "[[coin-change-problem-dp-java-implementation|coin-change-problem-dp-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Coin Change Problem DP Java Implementation

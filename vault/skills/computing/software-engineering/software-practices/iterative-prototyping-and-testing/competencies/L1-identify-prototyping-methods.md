@@ -40,3 +40,6 @@ Identify common methods for prototyping and testing in Computer Engineering.
 
 - [[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/prototyping-techniques|Prototyping Techniques]]
 - [[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/testing-methodologies|Testing Methodologies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

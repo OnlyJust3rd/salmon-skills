@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/digital-ciphering-techniques|digital-ciphering-techniques]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/digital-ciphering-techniques|digital-ciphering-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Digital Ciphering Techniques for Speech Security

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/mathematical-induction/microskills/base-case-explanation|base-case-explanation]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/mathematical-induction/microskills/base-case-explanation|base-case-explanation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Base Case in Mathematical Induction

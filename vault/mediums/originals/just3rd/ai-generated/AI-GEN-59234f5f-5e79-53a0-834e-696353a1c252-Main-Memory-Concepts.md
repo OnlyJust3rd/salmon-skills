@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/main-memory-concepts|main-memory-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/main-memory-concepts|main-memory-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Main Memory: The Computer's Working Space

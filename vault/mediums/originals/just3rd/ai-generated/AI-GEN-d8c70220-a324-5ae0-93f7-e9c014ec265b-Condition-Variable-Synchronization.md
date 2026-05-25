@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/condition-variable-synchronization|condition-variable-synchronization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/condition-variable-synchronization|condition-variable-synchronization]]"
 learning-time-in-minutes: 3
 ---
 # Condition Variables: Signaling and Waiting

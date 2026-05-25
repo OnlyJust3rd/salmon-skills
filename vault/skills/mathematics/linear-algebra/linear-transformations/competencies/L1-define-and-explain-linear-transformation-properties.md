@@ -45,3 +45,6 @@ Define a linear transformation, explain its properties such as additivity and ho
 - [[additivity-property|Additivity property]]
 - [[homogeneity-property|Homogeneity property]]
 - [[preservation-of-arithmetic-operations|Preservation of arithmetic operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

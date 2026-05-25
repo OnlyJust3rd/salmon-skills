@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of data modeling technique suitability within specific contexts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

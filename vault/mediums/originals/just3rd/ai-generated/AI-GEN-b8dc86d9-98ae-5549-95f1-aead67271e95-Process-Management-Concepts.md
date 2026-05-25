@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/process-management-concepts|process-management-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/linux-system/microskills/process-management-concepts|process-management-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Process Management Concepts

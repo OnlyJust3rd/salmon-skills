@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in designing tests for data flow and control flow across functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

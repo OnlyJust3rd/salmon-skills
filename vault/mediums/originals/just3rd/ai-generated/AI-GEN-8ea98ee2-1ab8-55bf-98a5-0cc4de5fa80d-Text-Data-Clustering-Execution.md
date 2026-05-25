@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-data-clustering-execution|text-data-clustering-execution]]"
+learning-outcomes:
+  - "[[text-data-clustering-execution|text-data-clustering-execution]]"
 learning-time-in-minutes: 4
 ---
 # Executing K-Means Clustering on Text Data

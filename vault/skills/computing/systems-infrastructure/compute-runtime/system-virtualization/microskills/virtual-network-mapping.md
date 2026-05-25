@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how physical network interfaces are virtualized.
+## Related Mediums
+
+![[bases/related-mediums.base]]

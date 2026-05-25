@@ -36,3 +36,6 @@ Analyze functions of several variables, including sketching graphs of equations,
 - [[implications-of-multivariable-continuity|Implications of multivariable continuity]]
 - [[multivariable-critical-point-identification|Multivariable critical point identification]]
 - [[relationship-between-critical-points-and-extrema|Relationship between critical points and extrema]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

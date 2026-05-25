@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of the Region of Convergence.
+## Related Mediums
+
+![[bases/related-mediums.base]]

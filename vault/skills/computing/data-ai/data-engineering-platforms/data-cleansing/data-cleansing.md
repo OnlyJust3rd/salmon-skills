@@ -36,3 +36,6 @@ Cleaning and preparing data by handling missing values, correcting inconsistenci
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/format-standardization|Format Standardization]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/missing-value-handling|Missing Value Handling]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/outlier-treatment|Outlier Treatment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

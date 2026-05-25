@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of the consequences of the Personal Data Protection Act for data handling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

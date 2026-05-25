@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying SQL syntax to retrieve and modify data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

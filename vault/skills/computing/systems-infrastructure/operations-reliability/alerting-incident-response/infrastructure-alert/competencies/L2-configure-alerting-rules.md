@@ -47,3 +47,6 @@ Configure rule-based alerting for infrastructure events using a chosen tool or p
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/threshold-configuration|Threshold Configuration]]
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/alert-notification-setup|Alert Notification Setup]]
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/rule-based-alerting-implementation|Rule-Based Alerting Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

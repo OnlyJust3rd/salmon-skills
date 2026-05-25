@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-factors-explanation|usability-factors-explanation]]"
+learning-outcomes:
+  - "[[usability-factors-explanation|usability-factors-explanation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Usability Factors in UI Design

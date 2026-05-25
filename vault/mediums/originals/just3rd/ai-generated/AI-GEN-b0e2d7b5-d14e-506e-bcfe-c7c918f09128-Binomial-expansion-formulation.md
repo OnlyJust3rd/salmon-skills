@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/binomial-expansion-formulation|binomial-expansion-formulation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/binomial-expansion-formulation|binomial-expansion-formulation]]"
 learning-time-in-minutes: 3
 ---
 # Binomial Expansion Formulation

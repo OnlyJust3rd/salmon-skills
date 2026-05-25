@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The ability to develop rudimentary mechanics for game characters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

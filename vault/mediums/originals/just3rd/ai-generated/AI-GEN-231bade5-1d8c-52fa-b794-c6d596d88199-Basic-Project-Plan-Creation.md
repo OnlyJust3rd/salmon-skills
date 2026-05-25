@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/project-management/microskills/basic-project-plan-creation|basic-project-plan-creation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/project-management/microskills/basic-project-plan-creation|basic-project-plan-creation]]"
 learning-time-in-minutes: 5
 ---
 # Basic Project Plan Creation

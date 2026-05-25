@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/problem-to-logic-translation|problem-to-logic-translation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/problem-to-logic-translation|problem-to-logic-translation]]"
 learning-time-in-minutes: 3
 ---
 # Problem-to-Logic Translation: Bridging the Gap

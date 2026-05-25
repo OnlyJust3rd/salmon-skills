@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/minimal-product-of-sums|minimal-product-of-sums]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/minimal-product-of-sums|minimal-product-of-sums]]"
 learning-time-in-minutes: 5
 ---
 # Minimal Product-of-Sums (POS) Form Derivation

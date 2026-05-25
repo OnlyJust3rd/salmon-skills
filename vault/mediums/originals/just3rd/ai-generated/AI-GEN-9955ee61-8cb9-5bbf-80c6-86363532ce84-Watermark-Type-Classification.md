@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermark-type-classification|watermark-type-classification]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermark-type-classification|watermark-type-classification]]"
 learning-time-in-minutes: 4
 ---
 # Classifying Digital Watermark Types

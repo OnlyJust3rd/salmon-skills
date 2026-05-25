@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing solutions for common design challenges using patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

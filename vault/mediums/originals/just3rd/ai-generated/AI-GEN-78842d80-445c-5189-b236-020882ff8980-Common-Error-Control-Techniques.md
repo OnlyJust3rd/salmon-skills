@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[common-error-control-techniques|common-error-control-techniques]]"
+learning-outcomes:
+  - "[[common-error-control-techniques|common-error-control-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Common Error Control Techniques

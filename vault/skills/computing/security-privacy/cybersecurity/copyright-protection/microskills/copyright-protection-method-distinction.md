@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating various copyright protection methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

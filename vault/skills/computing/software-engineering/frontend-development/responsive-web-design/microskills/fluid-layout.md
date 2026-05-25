@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using flexible sizing so layouts adapt to available space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

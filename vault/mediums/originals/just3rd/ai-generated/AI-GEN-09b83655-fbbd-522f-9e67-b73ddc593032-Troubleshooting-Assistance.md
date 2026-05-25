@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/troubleshooting-assistance|troubleshooting-assistance]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/troubleshooting-assistance|troubleshooting-assistance]]"
 learning-time-in-minutes: 4
 ---
 # Simulating for Success: Finding Flaws Before Building

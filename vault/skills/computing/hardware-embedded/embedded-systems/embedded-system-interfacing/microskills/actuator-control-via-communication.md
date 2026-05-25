@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using communication protocols to control external actuators.
+## Related Mediums
+
+![[bases/related-mediums.base]]

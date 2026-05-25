@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing a current motion mode.
+## Related Mediums
+
+![[bases/related-mediums.base]]

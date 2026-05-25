@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/incremental-design-improvements|incremental-design-improvements]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/incremental-design-improvements|incremental-design-improvements]]"
 learning-time-in-minutes: 4
 ---
 # Incremental Design Improvements: Evolving Your Code Gracefully

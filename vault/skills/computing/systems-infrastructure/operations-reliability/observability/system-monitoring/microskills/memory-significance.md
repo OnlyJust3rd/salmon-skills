@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how memory utilization affects application responsiveness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

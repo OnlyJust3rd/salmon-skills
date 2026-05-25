@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ip-address-utilization|ip-address-utilization]]"
+learning-outcomes:
+  - "[[ip-address-utilization|ip-address-utilization]]"
 learning-time-in-minutes: 5
 ---
 # IP Address Utilization: Guiding the Journey of Data

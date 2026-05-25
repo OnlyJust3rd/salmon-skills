@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Condensing and conveying the general approaches and paradigms for GPGPU programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

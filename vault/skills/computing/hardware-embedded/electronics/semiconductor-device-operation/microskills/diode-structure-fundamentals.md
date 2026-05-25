@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the basic physical makeup of a diode.
+## Related Mediums
+
+![[bases/related-mediums.base]]

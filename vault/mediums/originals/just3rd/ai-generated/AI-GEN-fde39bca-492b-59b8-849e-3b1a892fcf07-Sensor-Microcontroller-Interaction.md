@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sensor-microcontroller-interaction|sensor-microcontroller-interaction]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sensor-microcontroller-interaction|sensor-microcontroller-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Sensor-Microcontroller Interaction: Bridging the Digital and Physical Worlds

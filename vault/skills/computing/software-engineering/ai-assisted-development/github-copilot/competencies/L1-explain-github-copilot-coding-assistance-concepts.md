@@ -45,3 +45,6 @@ Explain GitHub Copilot coding assistance concepts.
 - [[inline-completion|Inline Completion]]
 - [[copilot-chat|Copilot Chat]]
 - [[repository-context|Repository Context]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

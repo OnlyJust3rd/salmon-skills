@@ -45,3 +45,6 @@ Implement selected algorithms to solve representative real-world problems.
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-implementation|Algorithm Implementation]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/problem-specific-algorithm-application|Problem-Specific Algorithm Application]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/working-algorithm-solutions|Working Algorithm Solutions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -46,3 +46,6 @@ Explaining what a relational database is and designing normalized, efficient rel
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/second-normal-form-2nf|Second Normal Form (2NF)]]
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/table-identification|Table Identification]]
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/third-normal-form-3nf|Third Normal Form (3NF)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

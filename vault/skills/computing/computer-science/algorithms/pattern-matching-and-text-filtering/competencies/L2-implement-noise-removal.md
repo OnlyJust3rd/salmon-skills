@@ -43,3 +43,6 @@ Implement noise removal strategies on textual data to improve its usability.
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-cleaning-strategies|Textual Data Cleaning Strategies]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/noise-reduction-techniques|Noise Reduction Techniques]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/usability-enhancement-through-text-cleaning|Usability Enhancement through Text Cleaning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using logs to support or reject hypotheses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Apply GCP compute, storage, and IAM concepts.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-iam-role|GCP IAM Role]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-vpc-boundary|GCP VPC Boundary]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-service-selection|GCP Service Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the future standard for IP addressing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

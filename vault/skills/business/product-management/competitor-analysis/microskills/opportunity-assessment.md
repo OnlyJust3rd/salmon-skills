@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating the potential of a business idea.
+## Related Mediums
+
+![[bases/related-mediums.base]]

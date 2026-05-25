@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how encryption affects compression phases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

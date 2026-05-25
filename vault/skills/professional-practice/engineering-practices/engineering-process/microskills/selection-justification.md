@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Critique and defense of the chosen methodology for addressing engineering problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

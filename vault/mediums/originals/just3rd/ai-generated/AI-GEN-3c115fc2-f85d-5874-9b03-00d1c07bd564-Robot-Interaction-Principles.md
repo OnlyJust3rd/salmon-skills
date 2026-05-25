@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[robot-interaction-principles|robot-interaction-principles]]"
+learning-outcomes:
+  - "[[robot-interaction-principles|robot-interaction-principles]]"
 learning-time-in-minutes: 4
 ---
 # Robot Interaction Principles

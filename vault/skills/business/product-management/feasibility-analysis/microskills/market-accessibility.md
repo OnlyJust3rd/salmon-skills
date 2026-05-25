@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ease of reaching target customers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

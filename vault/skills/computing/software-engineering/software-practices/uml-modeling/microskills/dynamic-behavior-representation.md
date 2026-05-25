@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding diagrams that illustrate system processes over time.
+## Related Mediums
+
+![[bases/related-mediums.base]]

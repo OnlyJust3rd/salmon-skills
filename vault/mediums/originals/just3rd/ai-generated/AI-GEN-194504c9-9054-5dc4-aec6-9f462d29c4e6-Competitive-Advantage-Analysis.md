@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/competitive-advantage-analysis|competitive-advantage-analysis]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/competitive-advantage-analysis|competitive-advantage-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding How Competitors Stand Out

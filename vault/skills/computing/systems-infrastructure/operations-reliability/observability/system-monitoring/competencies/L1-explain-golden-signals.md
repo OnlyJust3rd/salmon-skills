@@ -47,3 +47,6 @@ Explain the meaning and significance of each 'Golden Signal' (Latency, Traffic, 
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/errors-significance|Errors Significance]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/saturation-significance|Saturation Significance]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/alerting-context-for-golden-signals|Alerting Context for Golden Signals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing diode characteristics in circuit design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

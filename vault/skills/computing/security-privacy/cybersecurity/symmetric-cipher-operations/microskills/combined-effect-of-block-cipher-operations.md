@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the cumulative impact on the encryption process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

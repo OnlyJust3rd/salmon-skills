@@ -45,3 +45,6 @@ Operate a digital multimeter to measure and record voltage and current values in
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/voltage-measurement|Voltage Measurement]]
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/current-measurement|Current Measurement]]
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/electrical-value-recording|Electrical Value Recording]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

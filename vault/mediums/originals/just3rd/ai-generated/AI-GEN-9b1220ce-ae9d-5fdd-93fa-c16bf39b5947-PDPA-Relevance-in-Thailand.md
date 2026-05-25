@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/digital-law/thai-digital-law/microskills/pdpa-relevance-in-thailand|pdpa-relevance-in-thailand]]"
+learning-outcomes:
+  - "[[skills/professional-practice/digital-law/thai-digital-law/microskills/pdpa-relevance-in-thailand|pdpa-relevance-in-thailand]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the PDPA's Reach in Thailand

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/iot-data-analysis-comparison|iot-data-analysis-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/iot-data-analysis-comparison|iot-data-analysis-comparison]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing IoT Data: Classification vs. Clustering Insights

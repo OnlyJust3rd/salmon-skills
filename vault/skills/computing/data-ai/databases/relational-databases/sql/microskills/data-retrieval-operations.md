@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Performing practical queries to extract information from a database.
+## Related Mediums
+
+![[bases/related-mediums.base]]

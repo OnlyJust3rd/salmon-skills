@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/translation-lookaside-buffer-tlb-functionality|translation-lookaside-buffer-tlb-functionality]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/translation-lookaside-buffer-tlb-functionality|translation-lookaside-buffer-tlb-functionality]]"
 learning-time-in-minutes: 4
 ---
 # Translation Lookaside Buffer (TLB) Functionality

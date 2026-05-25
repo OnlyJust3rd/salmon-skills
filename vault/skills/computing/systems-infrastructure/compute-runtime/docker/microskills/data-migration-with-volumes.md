@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how volumes facilitate data movement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

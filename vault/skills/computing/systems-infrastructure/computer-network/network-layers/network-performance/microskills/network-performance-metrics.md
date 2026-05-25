@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of key indicators for network efficiency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

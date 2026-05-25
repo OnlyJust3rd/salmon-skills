@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Selecting and planning iteration work around team capacity and goals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

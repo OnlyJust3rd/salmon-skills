@@ -47,3 +47,6 @@ Apply definitions to determine if a given sequence is monotonically increasing, 
 - [[monotonically-decreasing-sequence-identification|Monotonically decreasing sequence identification]]
 - [[bounded-sequence-identification|Bounded sequence identification]]
 - [[sequence-convergence-determination|Sequence convergence determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

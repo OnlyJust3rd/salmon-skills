@@ -43,3 +43,6 @@ Define and explain the core principles of serverless architecture.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/serverless-architecture-definition|Serverless Architecture Definition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/core-serverless-principles|Core Serverless Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/serverless-architectural-concepts|Serverless Architectural Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

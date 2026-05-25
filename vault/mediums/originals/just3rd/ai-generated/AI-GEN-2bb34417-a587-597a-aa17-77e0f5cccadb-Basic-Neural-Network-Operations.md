@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[basic-neural-network-operations|basic-neural-network-operations]]"
+learning-outcomes:
+  - "[[basic-neural-network-operations|basic-neural-network-operations]]"
 learning-time-in-minutes: 4
 ---
 # Basic Neural Network Operations

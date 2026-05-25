@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/iterative-refinement|iterative-refinement]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/iterative-refinement|iterative-refinement]]"
 learning-time-in-minutes: 4
 ---
 # Iterative Refinement: Honing Your Prompts

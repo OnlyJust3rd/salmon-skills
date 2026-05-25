@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining the computational cost of recursive algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

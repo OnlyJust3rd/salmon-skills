@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of project management principles to formulate a rudimentary plan.
+## Related Mediums
+
+![[bases/related-mediums.base]]

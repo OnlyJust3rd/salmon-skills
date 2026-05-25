@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization-application|os-level-virtualization-application]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization-application|os-level-virtualization-application]]"
 learning-time-in-minutes: 4
 ---
 # OS-Level Virtualization in Container Image Creation

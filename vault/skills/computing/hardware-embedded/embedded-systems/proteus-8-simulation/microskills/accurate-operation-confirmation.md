@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Confirmation of accurate operation of designed circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

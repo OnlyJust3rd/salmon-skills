@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[linear-search-java-implementation|linear-search-java-implementation]]"
+learning-outcomes:
+  - "[[linear-search-java-implementation|linear-search-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Linear Search in Java

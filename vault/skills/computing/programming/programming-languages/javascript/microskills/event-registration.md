@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Attach listeners and describe event propagation basics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

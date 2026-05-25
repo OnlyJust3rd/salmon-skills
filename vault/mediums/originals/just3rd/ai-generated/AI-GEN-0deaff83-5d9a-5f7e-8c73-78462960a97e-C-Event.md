@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[c-sharp-event|c-sharp-event]]"
+learning-outcomes:
+  - "[[c-sharp-event|c-sharp-event]]"
 learning-time-in-minutes: 2
 ---
 # C# Events: Understanding Event-Driven Code Flow

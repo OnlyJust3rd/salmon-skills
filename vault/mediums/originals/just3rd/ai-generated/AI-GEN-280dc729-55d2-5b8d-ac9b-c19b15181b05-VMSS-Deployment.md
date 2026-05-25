@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/vmss-deployment|vmss-deployment]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/vmss-deployment|vmss-deployment]]"
 learning-time-in-minutes: 3
 ---
 # Deploying Virtual Machine Scale Sets (VMSS)

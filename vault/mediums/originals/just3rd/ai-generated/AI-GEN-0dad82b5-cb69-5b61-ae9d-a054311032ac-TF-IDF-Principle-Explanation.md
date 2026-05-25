@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[tf-idf-principle-explanation|tf-idf-principle-explanation]]"
+learning-outcomes:
+  - "[[tf-idf-principle-explanation|tf-idf-principle-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding TF-IDF: A Measure of Word Importance

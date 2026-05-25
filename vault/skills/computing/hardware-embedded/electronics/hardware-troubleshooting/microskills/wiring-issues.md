@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of incorrect wiring as a malfunction cause.
+## Related Mediums
+
+![[bases/related-mediums.base]]

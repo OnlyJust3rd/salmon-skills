@@ -41,3 +41,6 @@ Analyze how variations in component values affect theoretical circuit outcomes.
 
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/component-tolerance-impact|Component Tolerance Impact]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/theoretical-outcome-deviation-analysis|Theoretical Outcome Deviation Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

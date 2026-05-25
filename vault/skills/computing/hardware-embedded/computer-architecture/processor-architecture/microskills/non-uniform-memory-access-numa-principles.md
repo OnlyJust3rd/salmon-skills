@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of memory access where access time varies for processors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

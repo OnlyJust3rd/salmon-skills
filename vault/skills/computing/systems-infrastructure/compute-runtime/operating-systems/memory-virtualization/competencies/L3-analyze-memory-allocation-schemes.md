@@ -47,3 +47,6 @@ Analyze and compare segmentation, paging, and hybrid memory allocation schemes, 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/hybrid-scheme-principles|Hybrid Scheme Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-advantages|Memory Allocation Scheme Advantages]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/memory-allocation-scheme-disadvantages|Memory Allocation Scheme Disadvantages]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

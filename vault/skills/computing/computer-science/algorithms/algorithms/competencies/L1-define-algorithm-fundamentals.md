@@ -45,3 +45,6 @@ Define an algorithm and identify its core properties, common classifications, an
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-properties|Algorithm Properties]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-classifications|Algorithm Classifications]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/problem-domains-for-algorithms|Problem Domains for Algorithms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

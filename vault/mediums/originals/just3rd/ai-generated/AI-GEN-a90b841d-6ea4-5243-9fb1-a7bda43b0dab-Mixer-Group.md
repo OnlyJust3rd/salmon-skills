@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-audio/microskills/mixer-group|mixer-group]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-audio/microskills/mixer-group|mixer-group]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Mixer Groups in Game Audio

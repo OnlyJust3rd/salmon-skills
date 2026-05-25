@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/edge-computing-concepts|edge-computing-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/edge-computing-concepts|edge-computing-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Edge Computing: Understanding the Core Concepts

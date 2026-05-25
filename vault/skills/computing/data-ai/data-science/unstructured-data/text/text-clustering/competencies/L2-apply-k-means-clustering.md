@@ -51,3 +51,6 @@ Apply the K-means clustering algorithm to group textual data based on calculated
 - [[similarity-based-text-grouping|Similarity-Based Text Grouping]]
 - [[distance-function-utilization-in-clustering|Distance Function Utilization in Clustering]]
 - [[text-data-clustering-execution|Text Data Clustering Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

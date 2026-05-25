@@ -49,3 +49,6 @@ Explain the basic operation and configuration registers for AVR microcontroller 
 - [[interrupt-controller-mechanisms|Interrupt Controller Mechanisms]]
 - [[timer-counter-control-registers|Timer/Counter Control Registers]]
 - [[adc-control-and-status-registers|ADC Control and Status Registers]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

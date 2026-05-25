@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/adder-trade-off-analysis|adder-trade-off-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/adder-trade-off-analysis|adder-trade-off-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Adder Trade-off Analysis

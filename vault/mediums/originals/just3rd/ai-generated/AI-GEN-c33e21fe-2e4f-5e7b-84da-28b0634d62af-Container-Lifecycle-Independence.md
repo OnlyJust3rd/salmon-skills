@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-lifecycle-independence|container-lifecycle-independence]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-lifecycle-independence|container-lifecycle-independence]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Container Lifecycle Independence with Docker Volumes

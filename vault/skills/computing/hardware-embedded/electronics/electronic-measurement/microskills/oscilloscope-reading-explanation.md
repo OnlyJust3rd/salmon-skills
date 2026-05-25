@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how to read measurements from an oscilloscope.
+## Related Mediums
+
+![[bases/related-mediums.base]]

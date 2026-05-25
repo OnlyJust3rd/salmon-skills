@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-needs-capture|user-needs-capture]]"
+learning-outcomes:
+  - "[[user-needs-capture|user-needs-capture]]"
 learning-time-in-minutes: 5
 ---
 # Understanding User Needs Capture in UCD: Personas and Scenarios

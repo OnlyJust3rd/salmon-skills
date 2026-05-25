@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of fundamental operating system concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -30,3 +30,6 @@ Concepts for understanding and improving frontend loading, rendering, responsive
 - [[skills/computing/software-engineering/frontend-development/web-performance/microskills/loading-performance|Loading Performance]]
 - [[skills/computing/software-engineering/frontend-development/web-performance/microskills/perceived-latency|Perceived Latency]]
 - [[skills/computing/software-engineering/frontend-development/web-performance/microskills/rendering-performance|Rendering Performance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

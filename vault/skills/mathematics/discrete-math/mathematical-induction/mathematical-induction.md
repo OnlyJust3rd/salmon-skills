@@ -42,3 +42,6 @@ Ability to construct rigorous mathematical proofs for given statements or formul
 - [[inductive-step-explanation|Inductive step explanation]]
 - [[necessity-of-induction-components|Necessity of induction components]]
 - [[rigorous-proof-construction|Rigorous proof construction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

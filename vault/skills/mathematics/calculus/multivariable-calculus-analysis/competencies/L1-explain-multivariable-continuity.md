@@ -43,3 +43,6 @@ Explain the meaning of continuity for functions of multiple variables.
 
 - [[definition-of-multivariable-continuity|Definition of multivariable continuity]]
 - [[implications-of-multivariable-continuity|Implications of multivariable continuity]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

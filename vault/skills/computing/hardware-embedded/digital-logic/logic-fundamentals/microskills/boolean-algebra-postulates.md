@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of fundamental postulates in Boolean algebra.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explain the concept of an indefinite integral and its relationship to anti-deriv
 
 - [[indefinite-integral-definition|Indefinite integral definition]]
 - [[indefinite-integral-and-anti-derivative-relationship|Indefinite integral and anti-derivative relationship]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

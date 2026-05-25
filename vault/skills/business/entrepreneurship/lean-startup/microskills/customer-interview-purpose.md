@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role of interviews in validating hypotheses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

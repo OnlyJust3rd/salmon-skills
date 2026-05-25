@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-result-interpretation|unit-test-result-interpretation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-result-interpretation|unit-test-result-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Interpreting Unit Test Results

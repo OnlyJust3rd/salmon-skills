@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating intuitive user interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

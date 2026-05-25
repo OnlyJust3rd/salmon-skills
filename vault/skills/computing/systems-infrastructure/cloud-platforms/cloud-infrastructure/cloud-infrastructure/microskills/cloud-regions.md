@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of geographically distinct data center locations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

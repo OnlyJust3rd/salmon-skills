@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-management-with-helm|application-management-with-helm]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-management-with-helm|application-management-with-helm]]"
 learning-time-in-minutes: 4
 ---
 # Managing Kubernetes Applications with Helm: Upgrades and Rollbacks

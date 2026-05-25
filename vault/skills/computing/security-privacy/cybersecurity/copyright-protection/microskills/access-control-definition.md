@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of access control for copyright protection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the distinction between capital and operational expenditures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

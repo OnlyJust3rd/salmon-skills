@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bit-set-and-clear-operations|bit-set-and-clear-operations]]"
+learning-outcomes:
+  - "[[bit-set-and-clear-operations|bit-set-and-clear-operations]]"
 learning-time-in-minutes: 3
 ---
 # Setting and Clearing Bits with Bitwise Operations

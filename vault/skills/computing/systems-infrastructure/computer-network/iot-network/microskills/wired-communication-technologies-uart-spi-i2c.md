@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of characteristics, suitability, and applications of UART, SPI, and I²C for IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

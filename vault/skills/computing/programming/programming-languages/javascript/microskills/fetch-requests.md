@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Issue HTTP requests and parse JSON responses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

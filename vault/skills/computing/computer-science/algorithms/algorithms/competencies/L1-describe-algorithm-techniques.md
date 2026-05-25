@@ -47,3 +47,6 @@ Describe the logic, use cases, and general approaches of advanced tree structure
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/greedy-algorithm-use-cases|Greedy Algorithm Use Cases]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-general-approaches|Backtracking General Approaches]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/branch-and-bound-logic|Branch and Bound Logic]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

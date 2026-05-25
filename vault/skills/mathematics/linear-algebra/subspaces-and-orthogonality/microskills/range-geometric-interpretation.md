@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the geometric formation of the range.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[stp-components|stp-components]]"
+learning-outcomes:
+  - "[[stp-components|stp-components]]"
 learning-time-in-minutes: 4
 ---
 # STP Components: The Building Blocks of Loop Prevention

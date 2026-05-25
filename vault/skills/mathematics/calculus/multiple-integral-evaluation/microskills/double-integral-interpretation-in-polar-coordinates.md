@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain the geometric interpretation of double integrals in polar coordinates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

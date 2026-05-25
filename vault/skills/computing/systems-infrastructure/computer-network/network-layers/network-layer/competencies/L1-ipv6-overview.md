@@ -51,3 +51,6 @@ State the key difference between IPv4 and IPv6 addressing, and outline the advan
 - [[ipv6-advantages|IPv6 Advantages]]
 - [[ipv6-structure|IPv6 Structure]]
 - [[next-generation-ip-addressing|Next Generation IP Addressing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[http-message-analysis|http-message-analysis]]"
+learning-outcomes:
+  - "[[http-message-analysis|http-message-analysis]]"
 learning-time-in-minutes: 3
 ---
 # HTTP Message Analysis: Decoding the Web's Language

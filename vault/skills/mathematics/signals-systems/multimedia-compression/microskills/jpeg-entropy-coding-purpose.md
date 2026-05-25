@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role of Entropy coding in JPEG compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

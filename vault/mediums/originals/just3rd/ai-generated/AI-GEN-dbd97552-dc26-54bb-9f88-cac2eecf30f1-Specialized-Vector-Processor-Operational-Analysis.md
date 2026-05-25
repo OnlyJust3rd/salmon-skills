@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-operational-analysis|specialized-vector-processor-operational-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-operational-analysis|specialized-vector-processor-operational-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Specialized Vector Processor Operations

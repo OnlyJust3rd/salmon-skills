@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to create and manage infrastructure using Terraform.
+## Related Mediums
+
+![[bases/related-mediums.base]]

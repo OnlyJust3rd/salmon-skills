@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the concept of inheritance in OOP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

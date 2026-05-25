@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how Prometheus gathers data via exporters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

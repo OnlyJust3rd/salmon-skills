@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the meaning of each essential employee attribute.
+## Related Mediums
+
+![[bases/related-mediums.base]]

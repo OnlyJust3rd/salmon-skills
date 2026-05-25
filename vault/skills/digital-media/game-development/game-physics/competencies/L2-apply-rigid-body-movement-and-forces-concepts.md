@@ -45,3 +45,6 @@ Apply rigid body movement and forces concepts.
 - [[skills/digital-media/game-development/game-physics/microskills/force-application|Force Application]]
 - [[skills/digital-media/game-development/game-physics/microskills/velocity-control|Velocity Control]]
 - [[skills/digital-media/game-development/game-physics/microskills/constraint|Constraint]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

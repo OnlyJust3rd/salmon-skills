@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the differences between graphical and textual algorithm representations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

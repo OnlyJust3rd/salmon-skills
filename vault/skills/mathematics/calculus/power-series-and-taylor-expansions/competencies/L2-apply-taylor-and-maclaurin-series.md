@@ -51,3 +51,6 @@ Expand standard functions into Taylor and Maclaurin series and utilize these app
 - [[maclaurin-series-expansion|Maclaurin series expansion]]
 - [[function-value-approximation-using-taylor-series|Function value approximation using Taylor series]]
 - [[function-value-approximation-using-maclaurin-series|Function value approximation using Maclaurin series]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating performance differences between various algorithmic methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

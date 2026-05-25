@@ -40,3 +40,6 @@ Recall and apply the standard rules for computing derivatives of algebraic, tran
 
 - [[standard-derivative-rules|Standard derivative rules]]
 - [[partial-derivative-rules|Partial derivative rules]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

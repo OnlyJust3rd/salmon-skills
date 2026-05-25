@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/product-strategy/microskills/customer-problem|customer-problem]]"
+learning-outcomes:
+  - "[[skills/business/product-management/product-strategy/microskills/customer-problem|customer-problem]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Customer Problem: The Foundation of Your Product

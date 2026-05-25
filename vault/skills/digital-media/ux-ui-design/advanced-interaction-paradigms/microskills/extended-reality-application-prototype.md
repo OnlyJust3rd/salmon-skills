@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Development of a basic XR application prototype.
+## Related Mediums
+
+![[bases/related-mediums.base]]

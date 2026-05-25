@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/agent-mode-task|agent-mode-task]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/agent-mode-task|agent-mode-task]]"
 learning-time-in-minutes: 4
 ---
 # Delegating Multi-Step Tasks with GitHub Copilot Agent Mode

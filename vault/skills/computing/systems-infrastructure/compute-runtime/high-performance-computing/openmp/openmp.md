@@ -36,3 +36,6 @@ Implementing shared-memory parallel programs using OpenMP directives, work-shari
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-application|OpenMP Directive Application]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-semantics|OpenMP Directive Semantics]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/shared-memory-parallel-model|Shared-Memory Parallel Model]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

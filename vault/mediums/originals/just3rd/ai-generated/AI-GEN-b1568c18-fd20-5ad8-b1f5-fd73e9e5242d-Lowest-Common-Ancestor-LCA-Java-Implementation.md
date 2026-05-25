@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[lowest-common-ancestor-lca-java-implementation|lowest-common-ancestor-lca-java-implementation]]"
+learning-outcomes:
+  - "[[lowest-common-ancestor-lca-java-implementation|lowest-common-ancestor-lca-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Finding the Lowest Common Ancestor (LCA) in Java

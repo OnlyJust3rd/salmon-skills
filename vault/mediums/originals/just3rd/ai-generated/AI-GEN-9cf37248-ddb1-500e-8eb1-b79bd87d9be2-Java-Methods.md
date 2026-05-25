@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[java-methods|java-methods]]"
+learning-outcomes:
+  - "[[java-methods|java-methods]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Java Methods

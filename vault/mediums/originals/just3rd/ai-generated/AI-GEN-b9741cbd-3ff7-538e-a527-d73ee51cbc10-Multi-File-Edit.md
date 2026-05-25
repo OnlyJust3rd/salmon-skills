@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/multi-file-edit|multi-file-edit]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/multi-file-edit|multi-file-edit]]"
 learning-time-in-minutes: 3
 ---
 # Multi-File Edits with Cursor

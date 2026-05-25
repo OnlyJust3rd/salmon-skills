@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how data travels based on pre-defined routes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

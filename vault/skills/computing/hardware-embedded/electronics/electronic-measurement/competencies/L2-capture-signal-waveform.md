@@ -43,3 +43,6 @@ Utilize an oscilloscope to capture and display a given signal waveform.
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-operation|Oscilloscope Operation]]
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/signal-waveform-acquisition|Signal Waveform Acquisition]]
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-setting-adjustment|Oscilloscope Setting Adjustment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

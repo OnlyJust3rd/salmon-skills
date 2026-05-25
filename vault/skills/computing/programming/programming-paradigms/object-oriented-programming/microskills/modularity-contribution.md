@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how OOP principles enhance modularity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

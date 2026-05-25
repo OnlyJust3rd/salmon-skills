@@ -45,3 +45,6 @@ Explain Databricks lakehouse platform concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/workspace|Workspace]]
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/notebook|Notebook]]
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/managed-spark-cluster|Managed Spark Cluster]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

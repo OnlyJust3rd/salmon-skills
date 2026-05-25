@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[program-logic-construction|program-logic-construction]]"
+learning-outcomes:
+  - "[[program-logic-construction|program-logic-construction]]"
 learning-time-in-minutes: 2
 ---
 # Program Logic Construction in C

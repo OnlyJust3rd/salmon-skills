@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the user or market need a product addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

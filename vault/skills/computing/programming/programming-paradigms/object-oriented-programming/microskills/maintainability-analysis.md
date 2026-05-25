@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating how design choices affect system maintainability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

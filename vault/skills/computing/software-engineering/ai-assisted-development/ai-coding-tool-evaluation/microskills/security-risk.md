@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Checking for unsafe access, secrets exposure, or vulnerable patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

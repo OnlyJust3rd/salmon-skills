@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building the foundational structure of a relational database.
+## Related Mediums
+
+![[bases/related-mediums.base]]

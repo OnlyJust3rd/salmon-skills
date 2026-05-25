@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using DDL to define tables, columns, and basic constraints.
+## Related Mediums
+
+![[bases/related-mediums.base]]

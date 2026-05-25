@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how the impulse response fully characterizes LTI systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

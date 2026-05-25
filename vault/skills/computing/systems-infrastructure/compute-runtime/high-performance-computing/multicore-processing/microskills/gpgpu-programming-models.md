@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Summarizing the typical model and methodologies used for GPGPU development.
+## Related Mediums
+
+![[bases/related-mediums.base]]

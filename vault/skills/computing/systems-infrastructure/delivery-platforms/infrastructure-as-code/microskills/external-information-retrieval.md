@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to fetch data from various sources for use in Terraform configurations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

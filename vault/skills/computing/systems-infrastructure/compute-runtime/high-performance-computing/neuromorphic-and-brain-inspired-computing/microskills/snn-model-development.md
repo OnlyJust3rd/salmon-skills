@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying programming skills to construct basic SNN models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

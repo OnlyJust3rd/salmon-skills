@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the impact of encryption placement on the compression pipeline.
+## Related Mediums
+
+![[bases/related-mediums.base]]

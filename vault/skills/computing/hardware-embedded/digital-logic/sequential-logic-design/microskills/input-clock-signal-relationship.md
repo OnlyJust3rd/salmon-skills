@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the relationship between flip-flop inputs and clock signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

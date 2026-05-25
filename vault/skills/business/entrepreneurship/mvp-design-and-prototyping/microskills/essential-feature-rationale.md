@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Justification for selecting specific MVP features.
+## Related Mediums
+
+![[bases/related-mediums.base]]

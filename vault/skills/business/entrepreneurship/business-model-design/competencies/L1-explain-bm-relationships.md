@@ -51,3 +51,6 @@ Explain the purpose, concept, and interrelationships of key business model compo
 - [[skills/business/entrepreneurship/business-model-design/microskills/revenue-stream-interactions|Revenue Stream Interactions]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/cost-structure-dependencies|Cost Structure Dependencies]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/business-model-component-interdependencies|Business Model Component Interdependencies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

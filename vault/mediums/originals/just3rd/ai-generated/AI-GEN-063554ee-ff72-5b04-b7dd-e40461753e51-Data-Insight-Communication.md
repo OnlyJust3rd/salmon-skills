@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/data-insight-communication|data-insight-communication]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/data-insight-communication|data-insight-communication]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Data Insight Communication Through Visualizations

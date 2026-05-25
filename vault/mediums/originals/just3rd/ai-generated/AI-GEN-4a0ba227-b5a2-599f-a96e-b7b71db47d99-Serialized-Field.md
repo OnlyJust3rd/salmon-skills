@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/unity/microskills/serialized-field|serialized-field]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/unity/microskills/serialized-field|serialized-field]]"
 learning-time-in-minutes: 4
 ---
 # Understanding `[SerializeField]` in Unity

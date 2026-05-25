@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/continuous-deployment-principles|continuous-deployment-principles]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/continuous-deployment-principles|continuous-deployment-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Continuous Deployment Principles

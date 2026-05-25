@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/operational-amplifier-function|operational-amplifier-function]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/operational-amplifier-function|operational-amplifier-function]]"
 learning-time-in-minutes: 3
 ---
 # Operational Amplifier Function

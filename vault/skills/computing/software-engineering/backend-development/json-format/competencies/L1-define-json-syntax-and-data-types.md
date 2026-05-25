@@ -43,3 +43,6 @@ Define JSON value types, object and array structure, and valid literal forms use
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/json-object-and-array-structure|JSON object and array structure]]
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/json-primitive-literals|JSON primitive literals]]
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/json-document-validity|JSON document validity]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/2d-and-3d-transformations|2d-and-3d-transformations]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/2d-and-3d-transformations|2d-and-3d-transformations]]"
 learning-time-in-minutes: 5
 ---
 # Understanding 2D and 3D Transformations

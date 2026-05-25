@@ -44,3 +44,6 @@ Explain how different visualization types effectively communicate specific data 
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/data-insight-communication|Data Insight Communication]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-use-cases|Visualization Use Cases]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/chart-type-selection|Chart Type Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

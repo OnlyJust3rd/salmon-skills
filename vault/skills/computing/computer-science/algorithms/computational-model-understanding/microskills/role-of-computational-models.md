@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding why theoretical models are used in computer science.
+## Related Mediums
+
+![[bases/related-mediums.base]]

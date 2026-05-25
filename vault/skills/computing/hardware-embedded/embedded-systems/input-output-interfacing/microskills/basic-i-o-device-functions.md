@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental purposes of input and output devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

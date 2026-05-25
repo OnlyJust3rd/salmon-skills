@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing suitable reusable interface parts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

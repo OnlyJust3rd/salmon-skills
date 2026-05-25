@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-api-interaction|kubernetes-api-interaction]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-api-interaction|kubernetes-api-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Interacting with the Kubernetes API using YAML

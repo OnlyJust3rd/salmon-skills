@@ -38,3 +38,6 @@ Ability to define the properties of periodic functions and compute their Fourier
 - [[fourier-series-representation-computation|Fourier series representation computation]]
 - [[fourier-series-representation-concept|Fourier series representation concept]]
 - [[periodic-function-properties|Periodic function properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

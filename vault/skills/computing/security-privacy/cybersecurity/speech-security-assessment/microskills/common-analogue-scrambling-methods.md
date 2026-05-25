@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of names of common analogue scrambling methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

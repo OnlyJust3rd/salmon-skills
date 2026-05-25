@@ -43,3 +43,6 @@ Explain how to identify early adopters, describing their characteristics and beh
 - [[skills/business/entrepreneurship/lean-startup/microskills/early-adopter-identification|Early Adopter Identification]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/early-adopter-characteristics|Early Adopter Characteristics]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/early-adopter-motivations|Early Adopter Motivations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

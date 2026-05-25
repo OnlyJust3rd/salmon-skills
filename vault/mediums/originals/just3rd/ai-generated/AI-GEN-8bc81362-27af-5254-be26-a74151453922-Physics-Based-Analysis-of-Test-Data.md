@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/physics-based-analysis-of-test-data|physics-based-analysis-of-test-data]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/physics-based-analysis-of-test-data|physics-based-analysis-of-test-data]]"
 learning-time-in-minutes: 5
 ---
 # Physics-Based Analysis of Test Data

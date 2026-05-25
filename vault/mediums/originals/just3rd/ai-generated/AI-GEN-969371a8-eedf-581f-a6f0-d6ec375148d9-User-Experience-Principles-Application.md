@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-experience-principles-application|user-experience-principles-application]]"
+learning-outcomes:
+  - "[[user-experience-principles-application|user-experience-principles-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying User Experience (UX) Principles to Interface Design

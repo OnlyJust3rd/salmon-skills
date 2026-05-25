@@ -77,3 +77,6 @@ Differentiating between symmetric key algorithms (classical/modern block ciphers
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-and-asymmetric-algorithm-differentiation|Symmetric and Asymmetric Algorithm Differentiation]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-key-algorithm-principles|Symmetric Key Algorithm Principles]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-vs-asymmetric-application|Symmetric vs. Asymmetric Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ensuring backstories inform character traits and motivations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

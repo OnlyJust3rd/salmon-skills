@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of translation, scaling, and rotation on 2D geometric entities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

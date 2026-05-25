@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[key-metric-calculation|key-metric-calculation]]"
+learning-outcomes:
+  - "[[key-metric-calculation|key-metric-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Key Usability Metrics

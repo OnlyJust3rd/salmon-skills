@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of a processor's ability to interface with physical devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

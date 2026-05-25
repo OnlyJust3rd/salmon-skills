@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Function of layers for electrical connections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

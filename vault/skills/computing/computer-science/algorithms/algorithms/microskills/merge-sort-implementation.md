@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical coding of the Merge Sort algorithm in code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

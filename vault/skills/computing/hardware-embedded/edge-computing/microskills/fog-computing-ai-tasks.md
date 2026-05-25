@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of AI tasks on fog nodes for IoT data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

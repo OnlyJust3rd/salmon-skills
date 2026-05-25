@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[tf-idf-application|tf-idf-application]]"
+learning-outcomes:
+  - "[[tf-idf-application|tf-idf-application]]"
 learning-time-in-minutes: 6
 ---
 # TF-IDF Application: Turning Words into Numbers

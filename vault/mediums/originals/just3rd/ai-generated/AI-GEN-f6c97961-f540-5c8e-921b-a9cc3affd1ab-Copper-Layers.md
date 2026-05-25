@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/copper-layers|copper-layers]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/copper-layers|copper-layers]]"
 learning-time-in-minutes: 4
 ---
 # Understanding PCB Copper Layers

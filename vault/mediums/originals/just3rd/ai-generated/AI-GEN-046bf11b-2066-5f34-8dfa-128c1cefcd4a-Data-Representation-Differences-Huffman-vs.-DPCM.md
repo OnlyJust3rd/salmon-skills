@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/data-representation-differences-huffman-vs-dpcm|data-representation-differences-huffman-vs-dpcm]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/data-representation-differences-huffman-vs-dpcm|data-representation-differences-huffman-vs-dpcm]]"
 learning-time-in-minutes: 3
 ---
 # Data Representation: Huffman vs. DPCM

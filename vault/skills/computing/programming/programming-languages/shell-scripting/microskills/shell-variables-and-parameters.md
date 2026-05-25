@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using variables and arguments to make scripts reusable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

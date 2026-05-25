@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/input-condition-response|input-condition-response]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/input-condition-response|input-condition-response]]"
 learning-time-in-minutes: 4
 ---
 # Understanding State Machine Response to Input Conditions

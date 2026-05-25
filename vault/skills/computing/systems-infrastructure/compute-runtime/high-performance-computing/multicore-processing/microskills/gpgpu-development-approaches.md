@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Conveying the general strategies for programming Graphics Processing Units.
+## Related Mediums
+
+![[bases/related-mediums.base]]

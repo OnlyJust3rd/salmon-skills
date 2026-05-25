@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/task-scope|task-scope]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/task-scope|task-scope]]"
 learning-time-in-minutes: 3
 ---
 # Defining Task Scope for Agentic Coding

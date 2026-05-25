@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/static-structural-diagrams|static-structural-diagrams]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/static-structural-diagrams|static-structural-diagrams]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Static Structural Diagrams in UML

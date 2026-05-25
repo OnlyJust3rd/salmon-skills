@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[n-queens-problem-backtracking-java-implementation|n-queens-problem-backtracking-java-implementation]]"
+learning-outcomes:
+  - "[[n-queens-problem-backtracking-java-implementation|n-queens-problem-backtracking-java-implementation]]"
 learning-time-in-minutes: 5
 ---
 # N-Queens Problem Backtracking Java Implementation

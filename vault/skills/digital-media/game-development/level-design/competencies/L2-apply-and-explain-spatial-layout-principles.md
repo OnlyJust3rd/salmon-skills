@@ -43,3 +43,6 @@ Apply principles of spatial layout to construct a basic game level prototype, in
 - [[skills/digital-media/game-development/level-design/microskills/spatial-arrangement-principles|Spatial Arrangement Principles]]
 - [[skills/digital-media/game-development/level-design/microskills/basic-level-prototype-construction|Basic Level Prototype Construction]]
 - [[skills/digital-media/game-development/level-design/microskills/navigation-and-pacing-influence|Navigation and Pacing Influence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

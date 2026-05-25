@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/breadboard-flexibility|breadboard-flexibility]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/breadboard-flexibility|breadboard-flexibility]]"
 learning-time-in-minutes: 3
 ---
 # Assessing Breadboard Flexibility

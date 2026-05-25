@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/cylindrical-to-rectangular-conversion-formulas|cylindrical-to-rectangular-conversion-formulas]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/cylindrical-to-rectangular-conversion-formulas|cylindrical-to-rectangular-conversion-formulas]]"
 learning-time-in-minutes: 3
 ---
 # Cylindrical to Rectangular Coordinate Conversion Formulas

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[core-data-structure-operations-in-c|core-data-structure-operations-in-c]]"
+learning-outcomes:
+  - "[[core-data-structure-operations-in-c|core-data-structure-operations-in-c]]"
 learning-time-in-minutes: 2
 ---
 # Core Data Structure Operations in C

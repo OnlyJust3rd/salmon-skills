@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Clearly stating the fundamental assumptions of a business idea.
+## Related Mediums
+
+![[bases/related-mediums.base]]

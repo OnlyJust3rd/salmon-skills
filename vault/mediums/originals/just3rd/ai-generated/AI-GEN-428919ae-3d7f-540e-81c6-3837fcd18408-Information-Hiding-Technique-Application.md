@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/information-hiding-technique-application|information-hiding-technique-application]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/information-hiding-technique-application|information-hiding-technique-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Information Hiding Techniques

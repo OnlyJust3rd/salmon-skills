@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing subsumption architecture to build functional robotic control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

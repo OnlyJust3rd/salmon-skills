@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/memory-mapped-i-o-concept|memory-mapped-i-o-concept]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/memory-mapped-i-o-concept|memory-mapped-i-o-concept]]"
 learning-time-in-minutes: 4
 ---
 # Memory-Mapped I/O: Accessing Devices Like Memory

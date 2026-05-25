@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/configuration-review|configuration-review]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/configuration-review|configuration-review]]"
 learning-time-in-minutes: 5
 ---
 # Configuration Review: Ensuring Endpoint Baseline Compliance

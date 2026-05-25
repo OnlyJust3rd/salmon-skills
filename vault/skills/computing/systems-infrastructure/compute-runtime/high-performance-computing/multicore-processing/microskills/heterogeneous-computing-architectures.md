@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental building blocks of diverse processing units.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -44,3 +44,6 @@ Apply calculus concepts to solve practical problems involving related rates, opt
 - [[real-world-optimization-problem-solving|Real-world optimization problem solving]]
 - [[real-world-related-rates-problem-solving|Real-world related rates problem solving]]
 - [[related-rates-problem-steps|Related rates problem steps]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

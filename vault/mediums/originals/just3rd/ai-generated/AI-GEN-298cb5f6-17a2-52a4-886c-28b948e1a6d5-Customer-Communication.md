@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/customer-communication|customer-communication]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/customer-communication|customer-communication]]"
 learning-time-in-minutes: 4
 ---
 # Adapting Messages for End-Users (Customer Communication)

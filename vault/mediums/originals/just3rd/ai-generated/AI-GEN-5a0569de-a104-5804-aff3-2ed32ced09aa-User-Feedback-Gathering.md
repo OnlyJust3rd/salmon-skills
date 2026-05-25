@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-feedback-gathering|user-feedback-gathering]]"
+learning-outcomes:
+  - "[[user-feedback-gathering|user-feedback-gathering]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Purpose of Solution Interviews and Usability Testing

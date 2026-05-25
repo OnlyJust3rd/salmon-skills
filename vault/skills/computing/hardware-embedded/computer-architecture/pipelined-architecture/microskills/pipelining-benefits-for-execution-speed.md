@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how pipelining enhances instruction throughput.
+## Related Mediums
+
+![[bases/related-mediums.base]]

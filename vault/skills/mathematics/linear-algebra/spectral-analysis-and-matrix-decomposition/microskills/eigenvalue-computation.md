@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Finding the numerical values of eigenvalues.
+## Related Mediums
+
+![[bases/related-mediums.base]]

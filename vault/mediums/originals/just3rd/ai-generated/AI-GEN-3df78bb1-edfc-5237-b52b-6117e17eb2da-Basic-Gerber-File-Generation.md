@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/basic-gerber-file-generation|basic-gerber-file-generation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/basic-gerber-file-generation|basic-gerber-file-generation]]"
 learning-time-in-minutes: 5
 ---
 # Basic Gerber File Generation for PCB Manufacturing

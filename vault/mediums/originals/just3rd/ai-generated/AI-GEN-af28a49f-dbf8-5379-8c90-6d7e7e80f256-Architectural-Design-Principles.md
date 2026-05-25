@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/architectural-design-principles|architectural-design-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/architectural-design-principles|architectural-design-principles]]"
 learning-time-in-minutes: 4
 ---
 # Architectural Design Principles for Microservices

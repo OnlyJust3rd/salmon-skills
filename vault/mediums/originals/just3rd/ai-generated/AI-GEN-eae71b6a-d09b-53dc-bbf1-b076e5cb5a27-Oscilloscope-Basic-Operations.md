@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/oscilloscope-basic-operations|oscilloscope-basic-operations]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/oscilloscope-basic-operations|oscilloscope-basic-operations]]"
 learning-time-in-minutes: 5
 ---
 # Oscilloscope: Visualizing Electrical Signals

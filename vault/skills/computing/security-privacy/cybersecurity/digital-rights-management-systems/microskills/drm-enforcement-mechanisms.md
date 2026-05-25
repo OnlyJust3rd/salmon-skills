@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enumeration of various methods used to enforce digital rights.
+## Related Mediums
+
+![[bases/related-mediums.base]]

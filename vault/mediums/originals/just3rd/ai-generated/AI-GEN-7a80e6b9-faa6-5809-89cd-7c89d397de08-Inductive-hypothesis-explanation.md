@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/mathematical-induction/microskills/inductive-hypothesis-explanation|inductive-hypothesis-explanation]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/mathematical-induction/microskills/inductive-hypothesis-explanation|inductive-hypothesis-explanation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Inductive Hypothesis

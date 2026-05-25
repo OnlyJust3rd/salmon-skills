@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/i-o-device-access-method-comparison|i-o-device-access-method-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/i-o-device-access-method-comparison|i-o-device-access-method-comparison]]"
 learning-time-in-minutes: 5
 ---
 # Comparing I/O Device Access Methods

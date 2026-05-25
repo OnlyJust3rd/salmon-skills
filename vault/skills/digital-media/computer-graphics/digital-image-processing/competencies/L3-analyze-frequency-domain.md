@@ -43,3 +43,6 @@ Analyze images in the frequency domain using the Fourier Transform, including ap
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/fourier-transform-application|Fourier Transform Application]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/frequency-spectrum-interpretation|Frequency Spectrum Interpretation]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-frequency-representation|Image Frequency Representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of data transfer between CPU and I/O ports.
+## Related Mediums
+
+![[bases/related-mediums.base]]

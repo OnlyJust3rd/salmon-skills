@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mongodb-update-delete-operations|mongodb-update-delete-operations]]"
+learning-outcomes:
+  - "[[mongodb-update-delete-operations|mongodb-update-delete-operations]]"
 learning-time-in-minutes: 3
 ---
 # Updating and Removing Documents in MongoDB

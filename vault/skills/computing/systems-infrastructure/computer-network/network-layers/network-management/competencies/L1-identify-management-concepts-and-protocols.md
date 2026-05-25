@@ -45,3 +45,6 @@ Identify key network management concepts and common protocols, such as SNMP.
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/common-management-protocols|Common Management Protocols]]
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/network-monitoring-principles|Network Monitoring Principles]]
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/network-control-strategies|Network Control Strategies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

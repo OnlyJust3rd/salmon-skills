@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Iterative optimization for training.
+## Related Mediums
+
+![[bases/related-mediums.base]]

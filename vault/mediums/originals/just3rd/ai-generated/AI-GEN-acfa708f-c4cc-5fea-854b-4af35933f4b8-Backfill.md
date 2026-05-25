@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/backfill|backfill]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/backfill|backfill]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Backfills in Apache Airflow

@@ -42,3 +42,6 @@ List common competitor identification methods.
 - [[skills/business/product-management/competitor-analysis/microskills/market-research-techniques|Market Research Techniques]]
 - [[skills/business/product-management/competitor-analysis/microskills/online-search-strategies|Online Search Strategies]]
 - [[skills/business/product-management/competitor-analysis/microskills/industry-analysis-tools|Industry Analysis Tools]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

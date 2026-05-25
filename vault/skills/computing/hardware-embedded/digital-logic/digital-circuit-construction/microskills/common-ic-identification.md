@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of standard integrated circuits used in logic circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

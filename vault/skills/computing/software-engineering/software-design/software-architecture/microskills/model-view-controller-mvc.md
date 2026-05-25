@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding principles of this architectural pattern.
+## Related Mediums
+
+![[bases/related-mediums.base]]

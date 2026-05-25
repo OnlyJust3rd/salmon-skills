@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying greedy strategies to solve problems through Java code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

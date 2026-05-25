@@ -38,3 +38,6 @@ Understanding keyframes, rigs, animation clips, blend trees, state machines, and
 - [[skills/digital-media/game-development/game-animation/microskills/runtime-parameter|Runtime Parameter]]
 - [[skills/digital-media/game-development/game-animation/microskills/skeleton-rig|Skeleton Rig]]
 - [[skills/digital-media/game-development/game-animation/microskills/transition-condition|Transition Condition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

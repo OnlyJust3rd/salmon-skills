@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying BML to refine product features.
+## Related Mediums
+
+![[bases/related-mediums.base]]

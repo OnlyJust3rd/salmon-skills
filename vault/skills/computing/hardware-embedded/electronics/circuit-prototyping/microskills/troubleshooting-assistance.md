@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing simulation's role in identifying design flaws.
+## Related Mediums
+
+![[bases/related-mediums.base]]

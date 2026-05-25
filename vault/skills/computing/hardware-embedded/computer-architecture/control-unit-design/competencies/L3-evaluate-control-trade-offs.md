@@ -39,3 +39,6 @@ Evaluate trade-offs between hardwired and microprogrammed control (speed, flexib
 ## Microskills
 
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/control-unit-trade-off-reasoning|Control Unit Trade-off Reasoning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

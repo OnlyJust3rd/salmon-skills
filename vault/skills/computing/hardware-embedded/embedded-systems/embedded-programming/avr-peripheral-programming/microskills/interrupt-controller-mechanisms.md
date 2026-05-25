@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of how interrupts are enabled, triggered, and handled.
+## Related Mediums
+
+![[bases/related-mediums.base]]

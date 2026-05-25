@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[task-specific-assembly-programming|task-specific-assembly-programming]]"
+learning-outcomes:
+  - "[[task-specific-assembly-programming|task-specific-assembly-programming]]"
 learning-time-in-minutes: 2
 ---
 # Task-Specific Assembly Programming

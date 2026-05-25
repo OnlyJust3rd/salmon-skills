@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of factors like latency, cost, and regulatory compliance across regions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

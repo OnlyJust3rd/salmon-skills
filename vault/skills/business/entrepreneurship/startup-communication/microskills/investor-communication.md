@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Tailoring pitches for financial backers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

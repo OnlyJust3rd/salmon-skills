@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/recommendations-for-enhancement|recommendations-for-enhancement]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/recommendations-for-enhancement|recommendations-for-enhancement]]"
 learning-time-in-minutes: 4
 ---
 # Crafting Effective Recommendations for Prototype Enhancement

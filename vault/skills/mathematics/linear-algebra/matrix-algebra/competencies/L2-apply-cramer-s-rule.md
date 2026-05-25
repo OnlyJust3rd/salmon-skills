@@ -43,3 +43,6 @@ Apply Cramer's Rule to solve systems of linear equations with a unique solution.
 - [[cramer-s-rule-steps|Cramer's Rule steps]]
 - [[unique-solution-application|Unique solution application]]
 - [[determinant-based-solving|Determinant-based solving]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the extent of data processing covered by the PDPA.
+## Related Mediums
+
+![[bases/related-mediums.base]]

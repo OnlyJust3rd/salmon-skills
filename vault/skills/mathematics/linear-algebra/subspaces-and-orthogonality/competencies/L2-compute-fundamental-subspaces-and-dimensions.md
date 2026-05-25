@@ -53,3 +53,6 @@ Compute the row space, column space, null space, kernel, and range of a given ma
 - [[range-computation|Range computation]]
 - [[rank-determination|Rank determination]]
 - [[nullity-determination|Nullity determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

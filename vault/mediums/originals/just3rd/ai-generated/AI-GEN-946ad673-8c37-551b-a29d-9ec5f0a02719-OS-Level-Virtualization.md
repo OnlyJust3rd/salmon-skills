@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization|os-level-virtualization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization|os-level-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # Understanding OS-Level Virtualization: Shared Kernels

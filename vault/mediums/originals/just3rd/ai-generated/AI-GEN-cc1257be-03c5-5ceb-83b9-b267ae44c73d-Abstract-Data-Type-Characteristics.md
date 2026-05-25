@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[abstract-data-type-characteristics|abstract-data-type-characteristics]]"
+learning-outcomes:
+  - "[[abstract-data-type-characteristics|abstract-data-type-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Abstract Data Type Characteristics

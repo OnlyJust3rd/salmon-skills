@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[assembly-code-implementation|assembly-code-implementation]]"
+learning-outcomes:
+  - "[[assembly-code-implementation|assembly-code-implementation]]"
 learning-time-in-minutes: 2
 ---
 # Implementing Basic Arithmetic in Assembly

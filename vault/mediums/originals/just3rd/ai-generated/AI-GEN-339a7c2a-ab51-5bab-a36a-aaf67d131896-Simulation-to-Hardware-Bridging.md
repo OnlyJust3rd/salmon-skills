@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/simulation-to-hardware-bridging|simulation-to-hardware-bridging]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/simulation-to-hardware-bridging|simulation-to-hardware-bridging]]"
 learning-time-in-minutes: 5
 ---
 # Simulation to Hardware Bridging: Bringing Your Verilog Design to Life on an FPGA

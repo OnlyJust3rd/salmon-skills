@@ -47,3 +47,6 @@ Summarize the concept and benefits of subnetting in IP addressing.
 - [[ip-address-management|IP Address Management]]
 - [[skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-segmentation|Network Segmentation]]
 - [[efficiency-in-ip-allocation|Efficiency in IP Allocation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

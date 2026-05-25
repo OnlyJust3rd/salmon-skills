@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/theorem-application|theorem-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/theorem-application|theorem-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying De Morgan's Theorems for Simplification

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Awareness of sustainability considerations within IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -79,3 +79,6 @@ Find antiderivatives and evaluate indefinite and definite integrals using standa
 - [[standard-anti-derivative-methods|Standard anti-derivative methods]]
 - [[transition-between-differentiation-and-integration|Transition between differentiation and integration]]
 - [[trapezoidal-rule-approximation|Trapezoidal rule approximation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

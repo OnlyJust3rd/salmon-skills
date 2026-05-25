@@ -124,3 +124,6 @@ Create Dockerfiles to build container images. Manage the container lifecycle, in
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-lifecycle|Volume Lifecycle]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-management-commands|Volume Management Commands]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-mounting-strategies|Volume Mounting Strategies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

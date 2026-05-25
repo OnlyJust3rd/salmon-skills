@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of specifying the end goal without outlining steps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

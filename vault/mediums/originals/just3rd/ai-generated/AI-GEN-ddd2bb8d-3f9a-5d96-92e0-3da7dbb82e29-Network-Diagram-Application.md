@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-diagram-application|network-diagram-application]]"
+learning-outcomes:
+  - "[[network-diagram-application|network-diagram-application]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Network Diagrams in Text Analysis

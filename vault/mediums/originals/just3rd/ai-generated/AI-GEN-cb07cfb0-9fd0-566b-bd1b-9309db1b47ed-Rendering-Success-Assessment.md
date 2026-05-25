@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/rendering-success-assessment|rendering-success-assessment]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/rendering-success-assessment|rendering-success-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing Rendering Success

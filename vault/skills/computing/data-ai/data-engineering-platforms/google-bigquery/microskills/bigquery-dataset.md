@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding containers for tables and views.
+## Related Mediums
+
+![[bases/related-mediums.base]]

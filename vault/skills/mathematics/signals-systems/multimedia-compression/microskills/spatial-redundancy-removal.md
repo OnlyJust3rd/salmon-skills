@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of reducing spatial redundancy in video frames.
+## Related Mediums
+
+![[bases/related-mediums.base]]

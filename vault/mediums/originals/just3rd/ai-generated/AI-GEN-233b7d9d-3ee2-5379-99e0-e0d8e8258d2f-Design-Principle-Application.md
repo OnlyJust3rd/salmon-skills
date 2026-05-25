@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[design-principle-application|design-principle-application]]"
+learning-outcomes:
+  - "[[design-principle-application|design-principle-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Design Principles for Effective UI Solutions

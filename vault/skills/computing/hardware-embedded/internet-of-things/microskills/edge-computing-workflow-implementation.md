@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of workflows leveraging edge computing principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

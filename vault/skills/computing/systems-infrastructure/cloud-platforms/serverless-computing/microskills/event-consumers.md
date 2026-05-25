@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of components that react to events.
+## Related Mediums
+
+![[bases/related-mediums.base]]

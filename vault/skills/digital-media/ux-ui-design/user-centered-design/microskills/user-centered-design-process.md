@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the stages of the UCD methodology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

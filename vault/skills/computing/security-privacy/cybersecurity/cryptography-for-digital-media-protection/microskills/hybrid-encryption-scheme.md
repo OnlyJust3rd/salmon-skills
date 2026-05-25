@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of a combined symmetric and asymmetric encryption approach.
+## Related Mediums
+
+![[bases/related-mediums.base]]

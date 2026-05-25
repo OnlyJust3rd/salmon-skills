@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Knowledge of defining step-by-step instructions for automation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

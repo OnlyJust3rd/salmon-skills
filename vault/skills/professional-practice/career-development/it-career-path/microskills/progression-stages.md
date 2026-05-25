@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the sequential steps in tech career development.
+## Related Mediums
+
+![[bases/related-mediums.base]]

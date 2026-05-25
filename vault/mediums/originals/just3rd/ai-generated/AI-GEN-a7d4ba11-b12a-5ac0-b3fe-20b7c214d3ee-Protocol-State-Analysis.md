@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[protocol-state-analysis|protocol-state-analysis]]"
+learning-outcomes:
+  - "[[protocol-state-analysis|protocol-state-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Protocol States: HTTP and DNS

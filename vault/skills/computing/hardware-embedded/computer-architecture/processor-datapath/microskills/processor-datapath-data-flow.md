@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how data moves through a processor datapath during instruction execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

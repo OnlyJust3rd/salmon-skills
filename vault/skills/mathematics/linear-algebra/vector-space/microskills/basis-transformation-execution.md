@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Performing the steps to change the basis of a vector space representation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[prototype-fidelity-levels|prototype-fidelity-levels]]"
+learning-outcomes:
+  - "[[prototype-fidelity-levels|prototype-fidelity-levels]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Prototype Fidelity Levels

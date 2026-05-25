@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to determine if lines are parallel using direction vectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

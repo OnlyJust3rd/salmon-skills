@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Determining the point of zero profit/loss.
+## Related Mediums
+
+![[bases/related-mediums.base]]

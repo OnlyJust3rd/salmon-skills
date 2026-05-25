@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/constraint-implementation-e-g-primary-keys|constraint-implementation-e-g-primary-keys]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/constraint-implementation-e-g-primary-keys|constraint-implementation-e-g-primary-keys]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Primary Keys in MySQL

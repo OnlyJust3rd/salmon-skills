@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/career-development/it-career-path/microskills/sponsor-functions|sponsor-functions]]"
+learning-outcomes:
+  - "[[skills/professional-practice/career-development/it-career-path/microskills/sponsor-functions|sponsor-functions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Sponsor's Role in Professional Development

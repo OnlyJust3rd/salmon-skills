@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing class declarations and methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

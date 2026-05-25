@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding reusable behavior attached to entities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

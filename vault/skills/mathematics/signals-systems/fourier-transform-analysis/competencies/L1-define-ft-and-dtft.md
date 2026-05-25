@@ -41,3 +41,6 @@ Define the Fourier Transform (FT) and Discrete-Time Fourier Transform (DTFT).
 
 - [[fourier-transform-ft-definition|Fourier Transform (FT) Definition]]
 - [[discrete-time-fourier-transform-dtft-definition|Discrete-Time Fourier Transform (DTFT) Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

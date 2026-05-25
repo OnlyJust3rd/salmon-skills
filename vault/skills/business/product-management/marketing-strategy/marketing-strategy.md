@@ -54,3 +54,6 @@ Design marketing strategies based on customer behavior and product adoption theo
 - [[skills/business/product-management/marketing-strategy/microskills/marketing-mix-similarities|Marketing Mix Similarities]]
 - [[skills/business/product-management/marketing-strategy/microskills/marketing-strategy-adaptation|Marketing Strategy Adaptation]]
 - [[skills/business/product-management/marketing-strategy/microskills/technology-adoption-lifecycle-stages|Technology Adoption Lifecycle Stages]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

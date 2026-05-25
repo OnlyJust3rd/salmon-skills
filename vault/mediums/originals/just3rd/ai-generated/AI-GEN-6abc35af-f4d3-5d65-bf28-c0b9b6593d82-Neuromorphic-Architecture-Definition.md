@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/neuromorphic-architecture-definition|neuromorphic-architecture-definition]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/neuromorphic-architecture-definition|neuromorphic-architecture-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Neuromorphic Architecture

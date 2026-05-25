@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding storage of files as addressable objects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

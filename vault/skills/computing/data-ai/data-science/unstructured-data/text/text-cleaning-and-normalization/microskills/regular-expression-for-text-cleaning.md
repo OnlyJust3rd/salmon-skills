@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing Regular Expressions as a tool for applying data cleaning techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

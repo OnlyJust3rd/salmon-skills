@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[html-tag-handling-concepts|html-tag-handling-concepts]]"
+learning-outcomes:
+  - "[[html-tag-handling-concepts|html-tag-handling-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding HTML Tag Handling in Text Cleaning

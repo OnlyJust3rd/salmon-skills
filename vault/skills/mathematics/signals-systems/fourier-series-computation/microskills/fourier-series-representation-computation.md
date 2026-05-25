@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to compute the Fourier series representation of a periodic function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

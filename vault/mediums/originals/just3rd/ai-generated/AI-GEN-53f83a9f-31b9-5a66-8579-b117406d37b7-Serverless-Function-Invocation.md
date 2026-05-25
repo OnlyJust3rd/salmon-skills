@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-function-invocation|serverless-function-invocation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-function-invocation|serverless-function-invocation]]"
 learning-time-in-minutes: 4
 ---
 # Serverless Function Invocation: Understanding Triggers

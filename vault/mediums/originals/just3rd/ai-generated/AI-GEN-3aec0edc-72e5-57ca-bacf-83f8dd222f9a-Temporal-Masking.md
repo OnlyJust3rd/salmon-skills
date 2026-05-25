@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/temporal-masking|temporal-masking]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/temporal-masking|temporal-masking]]"
 learning-time-in-minutes: 4
 ---
 # Temporal Masking in Audio Compression

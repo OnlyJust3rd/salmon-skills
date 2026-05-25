@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ensuring application data is stored reliably.
+## Related Mediums
+
+![[bases/related-mediums.base]]

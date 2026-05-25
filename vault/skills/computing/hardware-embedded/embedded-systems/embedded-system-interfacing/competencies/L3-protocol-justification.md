@@ -45,3 +45,6 @@ Justify the choice of communication protocol (UART, SPI, or I2C) for a given emb
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/complexity-and-pin-count-considerations|Complexity and Pin Count Considerations]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/noise-immunity-comparison|Noise Immunity Comparison]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/power-consumption-trade-offs|Power Consumption Trade-offs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the methodology for removing HTML tags from textual data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/domain-problem-contexts|domain-problem-contexts]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/domain-problem-contexts|domain-problem-contexts]]"
 learning-time-in-minutes: 5
 ---
 # Computer Engineering Domains: Problem Contexts

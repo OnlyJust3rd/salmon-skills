@@ -46,3 +46,6 @@ Client-side JavaScript for the web: syntax, the document object model, events, a
 - [[skills/computing/programming/programming-languages/javascript/microskills/functions-and-scope|Functions and scope]]
 - [[skills/computing/programming/programming-languages/javascript/microskills/language-primitives|Language primitives]]
 - [[skills/computing/programming/programming-languages/javascript/microskills/promises-and-async-functions|Promises and async functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

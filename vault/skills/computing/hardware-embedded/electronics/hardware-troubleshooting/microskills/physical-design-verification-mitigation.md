@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Mitigation of issues during physical design verification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

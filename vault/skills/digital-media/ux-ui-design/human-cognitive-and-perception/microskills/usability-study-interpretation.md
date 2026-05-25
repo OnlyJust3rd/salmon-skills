@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of cognitive influence on observed user behavior in studies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

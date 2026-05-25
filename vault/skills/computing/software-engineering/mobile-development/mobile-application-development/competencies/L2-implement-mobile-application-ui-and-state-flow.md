@@ -47,3 +47,6 @@ Implement mobile application UI and state flow.
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/mobile-screen-layout|Mobile Screen Layout]]
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-state|Navigation State]]
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/ui-state-update|UI State Update]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

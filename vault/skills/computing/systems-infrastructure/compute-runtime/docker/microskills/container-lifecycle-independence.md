@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how data persists beyond container termination.
+## Related Mediums
+
+![[bases/related-mediums.base]]

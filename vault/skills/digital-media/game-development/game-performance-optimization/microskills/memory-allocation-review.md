@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying allocation patterns that affect runtime performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

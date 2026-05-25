@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall and listing of prevalent security vulnerabilities in IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

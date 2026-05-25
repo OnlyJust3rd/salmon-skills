@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examining distinct cryptographic components and strategies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Statement of the essential role of path planning in mobile robotics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

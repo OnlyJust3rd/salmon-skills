@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/tax-payment-obligation|tax-payment-obligation]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/tax-payment-obligation|tax-payment-obligation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Who Pays Income Tax

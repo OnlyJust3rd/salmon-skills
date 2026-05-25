@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/message-size-optimization|message-size-optimization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/message-size-optimization|message-size-optimization]]"
 learning-time-in-minutes: 5
 ---
 # Optimizing Message Size with Data Packing in MPI

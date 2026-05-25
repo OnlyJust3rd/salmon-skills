@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Businesses offering similar products/services.
+## Related Mediums
+
+![[bases/related-mediums.base]]

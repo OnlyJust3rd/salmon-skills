@@ -40,3 +40,6 @@ Define Software Configuration Management (SCM) and identify its key objectives.
 
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/software-configuration-management-definition|Software Configuration Management Definition]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/scm-key-objectives|SCM Key Objectives]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of definite integrals to compute the area enclosed between two curves.
+## Related Mediums
+
+![[bases/related-mediums.base]]

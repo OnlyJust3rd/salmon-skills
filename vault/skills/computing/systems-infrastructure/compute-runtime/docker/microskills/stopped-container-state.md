@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of containers that have been halted.
+## Related Mediums
+
+![[bases/related-mediums.base]]

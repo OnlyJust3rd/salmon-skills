@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/instantaneous-rate-of-change-comparisons|instantaneous-rate-of-change-comparisons]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/instantaneous-rate-of-change-comparisons|instantaneous-rate-of-change-comparisons]]"
 learning-time-in-minutes: 4
 ---
 # Comparing Rates of Change with the Mean Value Theorem

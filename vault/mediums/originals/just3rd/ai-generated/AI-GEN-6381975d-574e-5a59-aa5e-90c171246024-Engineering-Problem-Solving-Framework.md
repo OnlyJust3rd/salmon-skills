@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-problem-solving-framework|engineering-problem-solving-framework]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-problem-solving-framework|engineering-problem-solving-framework]]"
 learning-time-in-minutes: 4
 ---
 # The Engineering Problem-Solving Framework

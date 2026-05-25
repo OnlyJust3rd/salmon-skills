@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/proof-techniques/microskills/time-complexity-analysis-recursion|time-complexity-analysis-recursion]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/proof-techniques/microskills/time-complexity-analysis-recursion|time-complexity-analysis-recursion]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing the Time Complexity of Recursive Algorithms

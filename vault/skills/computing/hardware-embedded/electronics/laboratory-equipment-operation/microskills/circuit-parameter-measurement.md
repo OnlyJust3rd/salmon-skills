@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical measurement of specific circuit parameters (voltage, current, signal integrity).
+## Related Mediums
+
+![[bases/related-mediums.base]]

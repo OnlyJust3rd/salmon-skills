@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of processor architectures with varied components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

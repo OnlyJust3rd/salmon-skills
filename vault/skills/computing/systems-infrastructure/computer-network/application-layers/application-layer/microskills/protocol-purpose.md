@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the primary function of application-specific protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

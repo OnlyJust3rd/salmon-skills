@@ -47,3 +47,6 @@ Explain analytics engineering and SQL transformation concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/sql-model|SQL Model]]
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/model-dependency|Model Dependency]]
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/data-test|Data Test]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

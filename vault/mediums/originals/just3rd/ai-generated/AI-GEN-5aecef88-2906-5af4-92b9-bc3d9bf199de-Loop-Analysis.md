@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/loop-analysis|loop-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/loop-analysis|loop-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Loop Analysis: Unpacking Algorithmic Speed

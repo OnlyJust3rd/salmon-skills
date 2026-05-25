@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between O(log n), O(n log n), and O(n^2) growth.
+## Related Mediums
+
+![[bases/related-mediums.base]]

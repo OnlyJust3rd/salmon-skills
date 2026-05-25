@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of efficient and secure Dockerfile practices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Explain Hadoop distributed storage and MapReduce concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/distributed-storage|Distributed Storage]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/mapreduce|MapReduce]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/replication|Replication]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

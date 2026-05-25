@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Evaluating and approving changes against scope, cost, schedule, and downstream impact.
+## Related Mediums
+
+![[bases/related-mediums.base]]

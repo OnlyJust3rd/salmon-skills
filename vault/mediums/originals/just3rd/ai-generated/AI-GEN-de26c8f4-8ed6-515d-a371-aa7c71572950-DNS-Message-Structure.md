@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[dns-message-structure|dns-message-structure]]"
+learning-outcomes:
+  - "[[dns-message-structure|dns-message-structure]]"
 learning-time-in-minutes: 3
 ---
 # DNS Message Structure

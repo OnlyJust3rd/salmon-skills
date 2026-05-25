@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the underlying concepts of creating three-dimensional objects in CAD.
+## Related Mediums
+
+![[bases/related-mediums.base]]

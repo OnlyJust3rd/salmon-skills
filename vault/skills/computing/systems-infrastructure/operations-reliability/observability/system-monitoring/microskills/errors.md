@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of failure rates as a performance metric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

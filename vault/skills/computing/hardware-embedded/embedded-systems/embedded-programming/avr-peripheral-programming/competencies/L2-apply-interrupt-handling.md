@@ -47,3 +47,6 @@ Apply C programming techniques to handle external interrupts on AVR microcontrol
 - [[interrupt-vector-table-management|Interrupt Vector Table Management]]
 - [[interrupt-enable-disable-control|Interrupt Enable/Disable Control]]
 - [[external-interrupt-configuration|External Interrupt Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

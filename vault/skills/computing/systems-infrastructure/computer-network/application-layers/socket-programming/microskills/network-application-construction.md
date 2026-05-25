@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building working network services using socket interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

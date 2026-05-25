@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/structural-similarity-index-ssim|structural-similarity-index-ssim]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/structural-similarity-index-ssim|structural-similarity-index-ssim]]"
 learning-time-in-minutes: 5
 ---
 # Structural Similarity Index (SSIM) for Watermarking Performance

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/career-development/it-career-path/microskills/mentor-functions|mentor-functions]]"
+learning-outcomes:
+  - "[[skills/professional-practice/career-development/it-career-path/microskills/mentor-functions|mentor-functions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Role of a Mentor

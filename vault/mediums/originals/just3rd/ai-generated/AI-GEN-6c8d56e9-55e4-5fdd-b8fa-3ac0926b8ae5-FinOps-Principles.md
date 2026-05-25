@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/finops-principles|finops-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/finops-principles|finops-principles]]"
 learning-time-in-minutes: 4
 ---
 # FinOps Principles: The Foundation of Cloud Financial Management

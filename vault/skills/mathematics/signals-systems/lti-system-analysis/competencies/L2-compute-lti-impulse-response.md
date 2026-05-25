@@ -47,3 +47,6 @@ Compute the impulse response of LTI systems given their system description (e.g.
 - [[impulse-response-calculation-differential-equations|Impulse Response Calculation (Differential Equations)]]
 - [[impulse-response-calculation-difference-equations|Impulse Response Calculation (Difference Equations)]]
 - [[lti-system-characterization-via-impulse-response|LTI System Characterization via Impulse Response]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

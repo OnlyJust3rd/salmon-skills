@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how biological evolutionary theory informs computational models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

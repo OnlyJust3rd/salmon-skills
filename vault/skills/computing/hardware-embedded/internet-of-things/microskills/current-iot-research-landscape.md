@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Awareness of the present state of research within the Internet of Things.
+## Related Mediums
+
+![[bases/related-mediums.base]]

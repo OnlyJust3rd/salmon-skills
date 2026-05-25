@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how On-Demand, Reserved, and Spot pricing affect expenses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

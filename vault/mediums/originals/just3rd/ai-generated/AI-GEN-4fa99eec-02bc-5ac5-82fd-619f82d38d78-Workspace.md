@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/workspace|workspace]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/workspace|workspace]]"
 learning-time-in-minutes: 4
 ---
 # Databricks Workspace: Your Collaborative Hub

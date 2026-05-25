@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bitwise-operator-identification|bitwise-operator-identification]]"
+learning-outcomes:
+  - "[[bitwise-operator-identification|bitwise-operator-identification]]"
 learning-time-in-minutes: 3
 ---
 # Bitwise Operator Identification in Bare-Metal C

@@ -43,3 +43,6 @@ Analyze the impact of different object-oriented design choices on system maintai
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/maintainability-analysis|Maintainability Analysis]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/extensibility-analysis|Extensibility Analysis]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/design-choice-impact-assessment|Design Choice Impact Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

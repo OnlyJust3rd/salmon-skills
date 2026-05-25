@@ -45,3 +45,6 @@ Explain the fundamental structure, function, and operating principles of a diode
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-function-principles|Diode Function Principles]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/forward-bias-diode-behavior|Forward Bias Diode Behavior]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/reverse-bias-diode-behavior|Reverse Bias Diode Behavior]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

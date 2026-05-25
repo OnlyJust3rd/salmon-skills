@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/column-space-computation|column-space-computation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/column-space-computation|column-space-computation]]"
 learning-time-in-minutes: 4
 ---
 # Computing the Column Space of a Matrix

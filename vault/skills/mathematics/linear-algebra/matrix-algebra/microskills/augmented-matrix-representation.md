@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Translating a system of linear equations into an augmented matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

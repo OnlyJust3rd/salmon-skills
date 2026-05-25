@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in creating pseudocode that clearly communicates the steps of an algorithm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

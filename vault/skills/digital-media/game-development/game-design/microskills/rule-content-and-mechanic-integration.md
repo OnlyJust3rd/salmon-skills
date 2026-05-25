@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of core game elements to construct a playable prototype.
+## Related Mediums
+
+![[bases/related-mediums.base]]

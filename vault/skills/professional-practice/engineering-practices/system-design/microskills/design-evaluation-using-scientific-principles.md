@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Informed decision-making based on quantitative analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

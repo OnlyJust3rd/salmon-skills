@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reactive-control-disadvantages|reactive-control-disadvantages]]"
+learning-outcomes:
+  - "[[reactive-control-disadvantages|reactive-control-disadvantages]]"
 learning-time-in-minutes: 4
 ---
 # Reactive Control: Understanding the Drawbacks

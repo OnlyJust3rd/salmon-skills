@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to determine the conditions for the validity of a Binomial expansion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

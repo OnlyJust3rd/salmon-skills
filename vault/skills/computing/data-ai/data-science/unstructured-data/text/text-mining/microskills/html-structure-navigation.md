@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in navigating and traversing the hierarchical structure of HTML documents using BeautifulSoup.
+## Related Mediums
+
+![[bases/related-mediums.base]]

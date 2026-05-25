@@ -41,3 +41,6 @@ Define core parallel programming models, including shared-memory, distributed-me
 
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|Parallel Model Terminology]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/model-identification|Model Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

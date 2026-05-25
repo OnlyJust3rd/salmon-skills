@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying elements that enhance or detract from a player's sense of being engrossed in the game.
+## Related Mediums
+
+![[bases/related-mediums.base]]

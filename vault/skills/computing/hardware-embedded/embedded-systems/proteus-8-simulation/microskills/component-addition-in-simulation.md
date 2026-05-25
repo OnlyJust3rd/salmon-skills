@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how to add components in Proteus 8 simulations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

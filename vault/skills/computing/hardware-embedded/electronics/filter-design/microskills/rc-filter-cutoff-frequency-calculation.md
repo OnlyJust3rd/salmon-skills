@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Computation of cutoff frequency for RC filters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/salt-values|salt-values]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/salt-values|salt-values]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Salt Values in Password Security

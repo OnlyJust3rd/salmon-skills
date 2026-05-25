@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Documenting functional, data, environmental, and user requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

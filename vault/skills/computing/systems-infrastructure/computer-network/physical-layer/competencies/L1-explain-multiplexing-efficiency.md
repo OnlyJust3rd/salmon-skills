@@ -47,3 +47,6 @@ Explain how different types of multiplexing techniques enable efficient use of t
 - [[multiplexing-techniques|Multiplexing Techniques]]
 - [[transmission-media-capacity|Transmission Media Capacity]]
 - [[physical-layer-efficiency|Physical Layer Efficiency]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

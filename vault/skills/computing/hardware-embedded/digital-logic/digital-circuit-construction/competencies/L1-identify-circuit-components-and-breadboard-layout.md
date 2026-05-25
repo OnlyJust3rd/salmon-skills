@@ -43,3 +43,6 @@ Identify common discrete components (resistors, capacitors, LEDs), standard logi
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/discrete-component-identification|Discrete Component Identification]]
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/ic-package-identification|IC Package Identification]]
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/breadboard-layout-conventions|Breadboard Layout Conventions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

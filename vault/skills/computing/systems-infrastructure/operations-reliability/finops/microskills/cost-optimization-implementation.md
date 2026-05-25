@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply strategies like rightsizing or shutting down idle resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

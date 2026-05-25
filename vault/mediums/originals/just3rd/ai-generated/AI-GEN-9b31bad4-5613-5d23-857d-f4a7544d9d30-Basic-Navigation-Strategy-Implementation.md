@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[basic-navigation-strategy-implementation|basic-navigation-strategy-implementation]]"
+learning-outcomes:
+  - "[[basic-navigation-strategy-implementation|basic-navigation-strategy-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Basic Navigation Strategies with SIMBot

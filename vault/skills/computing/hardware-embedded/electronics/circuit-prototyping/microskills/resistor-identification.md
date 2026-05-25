@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of resistor symbols and basic function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

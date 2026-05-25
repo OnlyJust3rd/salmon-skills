@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/esg-pillars-definition|esg-pillars-definition]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/esg-pillars-definition|esg-pillars-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the ESG Pillars: Environmental, Social, and Governance

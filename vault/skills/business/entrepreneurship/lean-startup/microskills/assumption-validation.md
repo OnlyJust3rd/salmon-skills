@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using interviews to confirm or refute initial assumptions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

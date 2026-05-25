@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/continuous-time-system-property-analysis|continuous-time-system-property-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/continuous-time-system-property-analysis|continuous-time-system-property-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Causality and Stability in Continuous-Time Systems

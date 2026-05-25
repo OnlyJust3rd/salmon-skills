@@ -47,3 +47,6 @@ Utilize Python and matplotlib to generate visualizations that represent data dis
 - [[skills/computing/programming/programming-languages/python/microskills/distribution-visualization|Distribution Visualization]]
 - [[skills/computing/programming/programming-languages/python/microskills/relationship-visualization|Relationship Visualization]]
 - [[skills/computing/programming/programming-languages/python/microskills/visualization-techniques|Visualization Techniques]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

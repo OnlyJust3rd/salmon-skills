@@ -60,3 +60,6 @@ Ability to design and execute tests to validate program behavior, including test
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/uat-scenario-preparation|UAT scenario preparation]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-planning|Unit test planning]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-result-interpretation|Unit test result interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

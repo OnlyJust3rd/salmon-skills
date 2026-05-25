@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Quantifying market potential using learned methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

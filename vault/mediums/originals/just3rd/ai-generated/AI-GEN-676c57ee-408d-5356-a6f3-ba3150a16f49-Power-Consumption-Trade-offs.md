@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/power-consumption-trade-offs|power-consumption-trade-offs]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/power-consumption-trade-offs|power-consumption-trade-offs]]"
 learning-time-in-minutes: 6
 ---
 # Evaluating Power Consumption for Embedded Communication Protocols

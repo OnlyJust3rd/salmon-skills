@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of various business and organizational structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

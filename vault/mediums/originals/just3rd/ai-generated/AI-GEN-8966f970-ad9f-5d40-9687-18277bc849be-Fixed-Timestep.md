@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-physics/microskills/fixed-timestep|fixed-timestep]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-physics/microskills/fixed-timestep|fixed-timestep]]"
 learning-time-in-minutes: 4
 ---
 # Fixed Timestep: Stable Physics Updates

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding capacity adjustment according to demand.
+## Related Mediums
+
+![[bases/related-mediums.base]]

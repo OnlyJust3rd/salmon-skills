@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using code to automate the setup of infrastructure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

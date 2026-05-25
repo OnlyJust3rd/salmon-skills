@@ -47,3 +47,6 @@ Formulate the equations of lines and planes in 3-dimensional space using paramet
 - [[parametric-line-equations-in-3d|Parametric line equations in 3D]]
 - [[normal-vector-plane-equations-in-3d|Normal vector plane equations in 3D]]
 - [[parametric-plane-equations-in-3d|Parametric plane equations in 3D]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

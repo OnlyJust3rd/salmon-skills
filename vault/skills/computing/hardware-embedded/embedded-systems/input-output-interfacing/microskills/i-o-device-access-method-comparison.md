@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between different methods for accessing I/O devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

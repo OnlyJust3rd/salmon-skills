@@ -47,3 +47,6 @@ Explain BigQuery warehouse and query concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/bigquery-dataset|BigQuery Dataset]]
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/serverless-query-execution|Serverless Query Execution]]
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/data-scan-cost|Data Scan Cost]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

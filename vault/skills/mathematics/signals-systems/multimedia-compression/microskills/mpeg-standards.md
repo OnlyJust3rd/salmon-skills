@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Focus on spatial and temporal redundancy removal in MPEG.
+## Related Mediums
+
+![[bases/related-mediums.base]]

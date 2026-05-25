@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Extension of image watermarking techniques to individual video frames.
+## Related Mediums
+
+![[bases/related-mediums.base]]

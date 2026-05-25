@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of encryption stage (precompression, in-compression, postcompression).
+## Related Mediums
+
+![[bases/related-mediums.base]]

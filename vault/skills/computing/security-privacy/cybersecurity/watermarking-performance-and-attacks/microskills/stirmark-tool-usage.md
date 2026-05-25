@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using StirMark for simulated attacks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

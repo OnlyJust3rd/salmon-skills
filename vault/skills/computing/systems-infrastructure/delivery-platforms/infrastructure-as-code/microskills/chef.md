@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of Chef as an IaC tool.
+## Related Mediums
+
+![[bases/related-mediums.base]]

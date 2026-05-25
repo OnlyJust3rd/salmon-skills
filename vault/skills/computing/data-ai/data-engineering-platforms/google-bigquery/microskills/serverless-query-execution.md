@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding managed query processing without server management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the cryptographic security evaluation criterion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

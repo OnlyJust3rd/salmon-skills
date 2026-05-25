@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ip-address-conservation|ip-address-conservation]]"
+learning-outcomes:
+  - "[[ip-address-conservation|ip-address-conservation]]"
 learning-time-in-minutes: 4
 ---
 # IP Address Conservation with NAT

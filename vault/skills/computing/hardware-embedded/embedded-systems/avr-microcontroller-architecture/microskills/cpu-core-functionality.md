@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the CPU's role in instruction execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

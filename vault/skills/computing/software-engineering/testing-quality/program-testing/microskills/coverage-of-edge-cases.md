@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to select edge and corner cases to improve test quality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

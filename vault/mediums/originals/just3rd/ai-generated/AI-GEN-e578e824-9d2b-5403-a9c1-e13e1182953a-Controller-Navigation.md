@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-ui/microskills/controller-navigation|controller-navigation]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-ui/microskills/controller-navigation|controller-navigation]]"
 learning-time-in-minutes: 4
 ---
 # Controller Navigation: Moving Beyond the Mouse

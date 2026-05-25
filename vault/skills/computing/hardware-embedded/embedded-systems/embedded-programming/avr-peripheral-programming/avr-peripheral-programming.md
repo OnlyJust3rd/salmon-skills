@@ -85,3 +85,6 @@ Programming AVR microcontroller peripherals in bare-metal C, including direct co
 - [[timer-counter-control-registers|Timer/Counter Control Registers]]
 - [[timer-counter-operations|Timer/Counter Operations]]
 - [[waveform-generation|Waveform Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

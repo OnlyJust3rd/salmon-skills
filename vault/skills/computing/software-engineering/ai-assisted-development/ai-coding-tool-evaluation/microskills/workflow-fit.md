@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing whether a tool matches team review and delivery practices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

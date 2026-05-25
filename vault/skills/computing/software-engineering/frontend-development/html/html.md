@@ -38,3 +38,6 @@ Structuring web content with semantic hypertext markup language, including docum
 - [[skills/computing/software-engineering/frontend-development/html/microskills/markup-validation-mindset|Markup validation mindset]]
 - [[skills/computing/software-engineering/frontend-development/html/microskills/page-scaffolding|Page scaffolding]]
 - [[skills/computing/software-engineering/frontend-development/html/microskills/semantic-text-and-lists|Semantic text and lists]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

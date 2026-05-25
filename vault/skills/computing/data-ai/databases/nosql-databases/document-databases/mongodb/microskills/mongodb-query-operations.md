@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using find queries to retrieve documents.
+## Related Mediums
+
+![[bases/related-mediums.base]]

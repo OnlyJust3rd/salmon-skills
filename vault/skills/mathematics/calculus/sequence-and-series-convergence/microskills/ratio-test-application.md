@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply the Ratio Test to determine series convergence.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of definitions for state machines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

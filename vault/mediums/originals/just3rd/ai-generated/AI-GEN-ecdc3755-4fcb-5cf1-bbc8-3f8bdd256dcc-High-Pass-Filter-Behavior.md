@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/high-pass-filter-behavior|high-pass-filter-behavior]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/high-pass-filter-behavior|high-pass-filter-behavior]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing High-Pass Filter Behavior in RC and RL Circuits

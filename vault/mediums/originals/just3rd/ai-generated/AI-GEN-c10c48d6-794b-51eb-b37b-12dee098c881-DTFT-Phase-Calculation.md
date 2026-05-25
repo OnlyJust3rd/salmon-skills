@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/dtft-phase-calculation|dtft-phase-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/dtft-phase-calculation|dtft-phase-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating the Phase of the Discrete-Time Fourier Transform (DTFT)

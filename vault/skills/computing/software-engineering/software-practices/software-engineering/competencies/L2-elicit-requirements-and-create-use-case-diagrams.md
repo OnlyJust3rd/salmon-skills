@@ -45,3 +45,6 @@ Apply techniques to identify actors and scenarios from a given system descriptio
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/actor-identification|Actor Identification]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/scenario-elicitation|Scenario Elicitation]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/use-case-diagram-creation|Use Case Diagram Creation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

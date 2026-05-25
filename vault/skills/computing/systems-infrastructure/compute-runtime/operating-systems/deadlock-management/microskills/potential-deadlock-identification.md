@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying potential deadlocks using resource allocation graphs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

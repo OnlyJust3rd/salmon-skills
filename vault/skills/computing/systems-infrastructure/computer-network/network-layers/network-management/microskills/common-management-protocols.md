@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of standard protocols like SNMP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

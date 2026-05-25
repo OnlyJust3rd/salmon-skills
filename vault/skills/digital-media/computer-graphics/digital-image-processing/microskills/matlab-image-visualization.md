@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Presentation of digital images using MATLAB.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in organizing resources within Kubernetes Namespaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

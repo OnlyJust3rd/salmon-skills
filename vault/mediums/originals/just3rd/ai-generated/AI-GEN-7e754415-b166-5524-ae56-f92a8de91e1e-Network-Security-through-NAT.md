@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-security-through-nat|network-security-through-nat]]"
+learning-outcomes:
+  - "[[network-security-through-nat|network-security-through-nat]]"
 learning-time-in-minutes: 5
 ---
 # Network Security through NAT

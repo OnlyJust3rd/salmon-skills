@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying communication skills to present project outcomes clearly.
+## Related Mediums
+
+![[bases/related-mediums.base]]

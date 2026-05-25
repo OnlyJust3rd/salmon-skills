@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the fundamental concepts underpinning serverless architectures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

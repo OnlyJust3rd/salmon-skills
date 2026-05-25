@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/diagnosing-hardware-challenges-safely|diagnosing-hardware-challenges-safely]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/diagnosing-hardware-challenges-safely|diagnosing-hardware-challenges-safely]]"
 learning-time-in-minutes: 5
 ---
 # Diagnosing Hardware Challenges Safely

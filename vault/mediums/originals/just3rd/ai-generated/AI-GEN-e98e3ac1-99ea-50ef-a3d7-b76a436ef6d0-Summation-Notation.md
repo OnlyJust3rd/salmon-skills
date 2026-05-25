@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/summation-notation|summation-notation]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/summation-notation|summation-notation]]"
 learning-time-in-minutes: 4
 ---
 # Summation Notation: Aggregating Discrete Values

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Outlining unique development steps for conceptual and concrete design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

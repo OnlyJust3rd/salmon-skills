@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/double-integral-transformation-to-polar|double-integral-transformation-to-polar]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/double-integral-transformation-to-polar|double-integral-transformation-to-polar]]"
 learning-time-in-minutes: 5
 ---
 # Converting Double Integrals to Polar Coordinates

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[solution-interview-objectives|solution-interview-objectives]]"
+learning-outcomes:
+  - "[[solution-interview-objectives|solution-interview-objectives]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Solution Interview Objectives

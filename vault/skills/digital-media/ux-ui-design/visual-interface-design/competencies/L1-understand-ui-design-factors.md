@@ -45,3 +45,6 @@ Explain the contribution of visual aesthetics and usability factors (learnabilit
 - [[visual-aesthetics-impact|Visual Aesthetics Impact]]
 - [[usability-factors-explanation|Usability Factors Explanation]]
 - [[user-experience-influence|User Experience Influence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

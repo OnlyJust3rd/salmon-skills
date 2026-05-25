@@ -51,3 +51,6 @@ Analyze the trade-offs between time complexity and space complexity for differen
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/space-complexity-analysis|Space Complexity Analysis]]
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/algorithmic-efficiency-trade-offs|Algorithmic Efficiency Trade-offs]]
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/performance-comparison|Performance Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -44,3 +44,6 @@ Define key terms related to team collaboration in engineering projects, such as 
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/role-assignment-principles|Role Assignment Principles]]
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/project-timeline-planning-concepts|Project Timeline Planning Concepts]]
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/key-collaboration-terminology|Key Collaboration Terminology]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

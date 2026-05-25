@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/hash-function-properties|hash-function-properties]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/hash-function-properties|hash-function-properties]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Hash Function Properties

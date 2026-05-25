@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Representing entities and relationships using graph nodes, edges, and properties.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of row operations to find a matrix inverse.
+## Related Mediums
+
+![[bases/related-mediums.base]]

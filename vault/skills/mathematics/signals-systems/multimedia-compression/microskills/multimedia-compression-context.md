@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding lossy compression within multimedia contexts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

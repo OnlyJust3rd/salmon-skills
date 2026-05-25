@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/state-transition-tracing|state-transition-tracing]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/state-transition-tracing|state-transition-tracing]]"
 learning-time-in-minutes: 4
 ---
 # State Transition Tracing

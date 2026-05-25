@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Informed choices on MVP features using BML insights.
+## Related Mediums
+
+![[bases/related-mediums.base]]

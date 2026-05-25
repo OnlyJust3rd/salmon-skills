@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding managed web application hosting.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Establishing links between application code and databases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

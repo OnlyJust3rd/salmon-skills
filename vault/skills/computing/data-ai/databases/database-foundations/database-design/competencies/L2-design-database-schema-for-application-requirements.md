@@ -39,3 +39,6 @@ None.
 - [[skills/computing/data-ai/databases/database-foundations/database-design/microskills/schema-requirement-analysis|Schema Requirement Analysis]]
 - [[skills/computing/data-ai/databases/database-foundations/database-design/microskills/logical-to-physical-schema-mapping|Logical to Physical Schema Mapping]]
 - [[skills/computing/data-ai/databases/database-foundations/database-design/microskills/integrity-rule-design|Integrity Rule Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

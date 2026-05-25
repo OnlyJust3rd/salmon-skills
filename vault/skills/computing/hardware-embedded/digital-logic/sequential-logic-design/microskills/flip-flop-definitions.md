@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of definitions for flip-flops.
+## Related Mediums
+
+![[bases/related-mediums.base]]

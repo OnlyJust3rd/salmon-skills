@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describe Big O notation for characterizing space complexity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of tools like AWS CloudFormation or Azure Resource Manager.
+## Related Mediums
+
+![[bases/related-mediums.base]]

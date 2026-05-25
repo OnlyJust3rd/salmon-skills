@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Planning user pathways within a product.
+## Related Mediums
+
+![[bases/related-mediums.base]]

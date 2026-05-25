@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the properties of PANs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

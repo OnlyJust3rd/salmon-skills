@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing the connections between key organizational factors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

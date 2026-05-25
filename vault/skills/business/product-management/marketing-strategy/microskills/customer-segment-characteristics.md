@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining traits of adopters at each lifecycle stage.
+## Related Mediums
+
+![[bases/related-mediums.base]]

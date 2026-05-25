@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interrupt-vector-table-management|interrupt-vector-table-management]]"
+learning-outcomes:
+  - "[[interrupt-vector-table-management|interrupt-vector-table-management]]"
 learning-time-in-minutes: 5
 ---
 # Managing the Interrupt Vector Table on AVR Microcontrollers

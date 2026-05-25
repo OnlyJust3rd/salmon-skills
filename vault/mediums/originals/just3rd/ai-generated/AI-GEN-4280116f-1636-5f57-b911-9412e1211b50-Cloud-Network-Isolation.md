@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cloud-network-isolation|cloud-network-isolation]]"
+learning-outcomes:
+  - "[[cloud-network-isolation|cloud-network-isolation]]"
 learning-time-in-minutes: 5
 ---
 # Cloud Network Isolation with VPCs

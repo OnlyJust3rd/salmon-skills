@@ -45,3 +45,6 @@ Define the core components and functionalities of Prometheus and list the key fe
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-functionality|Prometheus Functionality]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-key-features|Grafana Key Features]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-visualization|Grafana Data Visualization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

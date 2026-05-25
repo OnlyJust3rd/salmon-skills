@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/discrete-component-identification|discrete-component-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/discrete-component-identification|discrete-component-identification]]"
 learning-time-in-minutes: 5
 ---
 # Discrete Component Identification

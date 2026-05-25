@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/task-oriented-coding-agent|task-oriented-coding-agent]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/task-oriented-coding-agent|task-oriented-coding-agent]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Task-Oriented Coding Agents

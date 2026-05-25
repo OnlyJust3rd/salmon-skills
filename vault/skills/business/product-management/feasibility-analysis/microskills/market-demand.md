@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Level of customer interest and need.
+## Related Mediums
+
+![[bases/related-mediums.base]]

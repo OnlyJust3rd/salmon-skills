@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying the FS formula to calculate coefficients.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[real-time-decision-making-in-iot|real-time-decision-making-in-iot]]"
+learning-outcomes:
+  - "[[real-time-decision-making-in-iot|real-time-decision-making-in-iot]]"
 learning-time-in-minutes: 4
 ---
 # Real-time Decision-Making at the Edge

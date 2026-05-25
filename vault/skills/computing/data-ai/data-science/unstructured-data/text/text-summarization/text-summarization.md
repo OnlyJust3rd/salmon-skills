@@ -44,3 +44,6 @@ Generate concise summaries of textual data using extractive and abstractive appr
 - [[neural-summarization-model-application|Neural Summarization Model Application]]
 - [[text-summary-generation|Text Summary Generation]]
 - [[transformer-models-for-summarization|Transformer Models for Summarization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

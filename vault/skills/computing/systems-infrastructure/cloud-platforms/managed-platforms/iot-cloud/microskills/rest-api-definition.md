@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the definition of RESTful APIs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

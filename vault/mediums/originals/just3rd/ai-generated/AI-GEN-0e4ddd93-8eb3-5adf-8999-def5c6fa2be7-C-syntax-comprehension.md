@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[c-syntax-comprehension|c-syntax-comprehension]]"
+learning-outcomes:
+  - "[[c-syntax-comprehension|c-syntax-comprehension]]"
 learning-time-in-minutes: 2
 ---
 # C Syntax Comprehension

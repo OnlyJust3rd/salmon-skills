@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-security-goals|ipsec-security-goals]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-security-goals|ipsec-security-goals]]"
 learning-time-in-minutes: 3
 ---
 # Understanding IPSec Security Goals

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-coding-tool-evaluation/microskills/security-risk|security-risk]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-coding-tool-evaluation/microskills/security-risk|security-risk]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Security Risks in AI-Generated Code

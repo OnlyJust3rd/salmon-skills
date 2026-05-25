@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of the Intermediate Value Theorem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

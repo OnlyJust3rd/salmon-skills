@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of cloud services for exclusive use by an organization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of abstractive summarization using neural network models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

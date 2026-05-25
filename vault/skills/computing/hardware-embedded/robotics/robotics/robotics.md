@@ -101,3 +101,6 @@ Understanding fundamental concepts, principles, and historical context of roboti
 - [[robotic-task-solutions-via-reactive-control|Robotic Task Solutions via Reactive Control]]
 - [[strengths-and-weaknesses-of-ai-paradigms|Strengths and Weaknesses of AI Paradigms]]
 - [[subsumption-architecture-implementation|Subsumption Architecture Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

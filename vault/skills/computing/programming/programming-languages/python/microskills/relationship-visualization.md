@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of visualizations depicting data relationships.
+## Related Mediums
+
+![[bases/related-mediums.base]]

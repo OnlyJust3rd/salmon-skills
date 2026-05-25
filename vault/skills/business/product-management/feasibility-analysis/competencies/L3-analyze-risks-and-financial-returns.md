@@ -47,3 +47,6 @@ Analyze business risks (market, operational, financial) and evaluate the financi
 - [[skills/business/product-management/feasibility-analysis/microskills/financial-risk-assessment|Financial Risk Assessment]]
 - [[skills/business/product-management/feasibility-analysis/microskills/npv-calculation-and-analysis|NPV Calculation and Analysis]]
 - [[skills/business/product-management/feasibility-analysis/microskills/irr-calculation-and-analysis|IRR Calculation and Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Applying Extreme Programming practices that emphasize technical excellence, fast
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/refactoring-discipline|Refactoring Discipline]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/simple-design-practice|Simple Design Practice]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/test-driven-development-practice|Test Driven Development Practice]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

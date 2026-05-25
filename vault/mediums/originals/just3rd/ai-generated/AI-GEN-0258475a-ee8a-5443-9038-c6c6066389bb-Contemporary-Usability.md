@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[contemporary-usability|contemporary-usability]]"
+learning-outcomes:
+  - "[[contemporary-usability|contemporary-usability]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Ripple Effect: How Interface History Shapes Today's UX

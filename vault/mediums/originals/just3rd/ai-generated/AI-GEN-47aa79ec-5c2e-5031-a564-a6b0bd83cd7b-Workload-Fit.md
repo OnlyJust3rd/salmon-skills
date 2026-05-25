@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/workload-fit|workload-fit]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/workload-fit|workload-fit]]"
 learning-time-in-minutes: 5
 ---
 # Matching Workloads to Lakehouse or Warehouse

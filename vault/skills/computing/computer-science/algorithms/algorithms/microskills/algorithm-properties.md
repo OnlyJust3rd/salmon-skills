@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Key characteristics and attributes of algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

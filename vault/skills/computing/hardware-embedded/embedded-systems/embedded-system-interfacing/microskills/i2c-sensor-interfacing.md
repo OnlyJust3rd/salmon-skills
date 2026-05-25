@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting and communicating with sensors using I2C.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Apply the Integral Test, Comparison Test, and Limit Comparison Test to determine
 - [[comparison-test-application|Comparison Test application]]
 - [[limit-comparison-test-application|Limit Comparison Test application]]
 - [[series-convergence-determination-integral-comparison|Series convergence determination (Integral/Comparison)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

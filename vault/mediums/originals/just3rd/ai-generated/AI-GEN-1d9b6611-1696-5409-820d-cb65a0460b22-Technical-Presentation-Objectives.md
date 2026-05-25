@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/technical-communication/microskills/technical-presentation-objectives|technical-presentation-objectives]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/technical-presentation-objectives|technical-presentation-objectives]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Technical Presentation Objectives

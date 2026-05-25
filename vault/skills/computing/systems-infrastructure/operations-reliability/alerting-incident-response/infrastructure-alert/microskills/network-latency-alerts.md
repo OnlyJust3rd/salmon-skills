@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of alerts triggered by increased network delays.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing numeric analytical values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

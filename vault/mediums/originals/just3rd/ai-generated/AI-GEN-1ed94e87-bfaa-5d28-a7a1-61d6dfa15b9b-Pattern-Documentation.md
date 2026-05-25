@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[pattern-documentation|pattern-documentation]]"
+learning-outcomes:
+  - "[[pattern-documentation|pattern-documentation]]"
 learning-time-in-minutes: 5
 ---
 # Documenting Design System Patterns

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[java-objects-functionality|java-objects-functionality]]"
+learning-outcomes:
+  - "[[java-objects-functionality|java-objects-functionality]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Java Objects: The Building Blocks of Programs

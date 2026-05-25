@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-instructions|dockerfile-instructions]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-instructions|dockerfile-instructions]]"
 learning-time-in-minutes: 4
 ---
 # Dockerfile Instructions: Your Blueprint for Container Images

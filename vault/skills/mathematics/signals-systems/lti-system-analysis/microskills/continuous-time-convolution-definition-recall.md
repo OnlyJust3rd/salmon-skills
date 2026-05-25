@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recalling the mathematical definition of continuous-time convolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

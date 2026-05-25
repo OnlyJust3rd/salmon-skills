@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the technical characteristics and operational constraints of HTTP/REST.
+## Related Mediums
+
+![[bases/related-mediums.base]]

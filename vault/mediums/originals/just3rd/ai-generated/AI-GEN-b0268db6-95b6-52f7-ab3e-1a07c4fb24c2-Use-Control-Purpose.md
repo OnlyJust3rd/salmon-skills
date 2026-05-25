@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/use-control-purpose|use-control-purpose]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/use-control-purpose|use-control-purpose]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Use Control Goals in Copyright

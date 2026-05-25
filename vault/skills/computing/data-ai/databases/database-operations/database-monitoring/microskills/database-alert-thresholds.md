@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Setting alert thresholds for meaningful database incidents.
+## Related Mediums
+
+![[bases/related-mediums.base]]

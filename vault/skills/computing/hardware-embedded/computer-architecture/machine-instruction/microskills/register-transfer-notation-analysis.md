@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and interpretation of register transfer notations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/context|context]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/context|context]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Context in Prompt Engineering

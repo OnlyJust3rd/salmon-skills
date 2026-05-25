@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/narrative-strategy-effectiveness|narrative-strategy-effectiveness]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/narrative-strategy-effectiveness|narrative-strategy-effectiveness]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Narrative Strategy Effectiveness in Games

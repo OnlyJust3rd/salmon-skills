@@ -45,3 +45,6 @@ Use REST APIs to retrieve and submit JSON data for enterprise applications.
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-retrieval|JSON Data Retrieval]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-submission|JSON Data Submission]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/enterprise-application-data-orchestration|Enterprise Application Data Orchestration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

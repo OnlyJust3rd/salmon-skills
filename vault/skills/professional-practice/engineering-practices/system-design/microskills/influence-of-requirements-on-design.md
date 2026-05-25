@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of how defined needs and constraints impact system architecture creation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how static routes are defined.
+## Related Mediums
+
+![[bases/related-mediums.base]]

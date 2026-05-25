@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding different ways digital images are computationally represented.
+## Related Mediums
+
+![[bases/related-mediums.base]]

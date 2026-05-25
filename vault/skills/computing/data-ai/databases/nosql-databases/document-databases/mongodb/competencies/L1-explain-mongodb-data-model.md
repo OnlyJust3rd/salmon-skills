@@ -43,3 +43,6 @@ Explain how MongoDB stores data in documents and collections and how this differ
 - [[mongodb-documents-and-collections|MongoDB Documents and Collections]]
 - [[flexible-schema-concepts|Flexible Schema Concepts]]
 - [[relational-vs-document-data-model|Relational vs Document Data Model]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

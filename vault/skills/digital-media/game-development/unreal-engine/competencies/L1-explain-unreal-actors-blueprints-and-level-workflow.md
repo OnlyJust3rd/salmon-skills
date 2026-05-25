@@ -45,3 +45,6 @@ Explain Unreal Engine actors, Blueprints, and level workflow.
 - [[skills/digital-media/game-development/unreal-engine/microskills/actor|Actor]]
 - [[skills/digital-media/game-development/unreal-engine/microskills/blueprint|Blueprint]]
 - [[skills/digital-media/game-development/unreal-engine/microskills/level|Level]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

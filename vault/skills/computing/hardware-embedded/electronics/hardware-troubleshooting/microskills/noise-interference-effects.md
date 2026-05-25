@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the effects of noise interference on circuit functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

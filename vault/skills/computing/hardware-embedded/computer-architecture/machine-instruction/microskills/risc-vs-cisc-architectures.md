@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparison and contrast of Reduced Instruction Set Computing (RISC) and Complex Instruction Set Computing (CISC) architectures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

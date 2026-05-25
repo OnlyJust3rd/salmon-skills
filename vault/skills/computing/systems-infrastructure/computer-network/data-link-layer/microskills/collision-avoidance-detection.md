@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How protocols manage simultaneous transmissions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

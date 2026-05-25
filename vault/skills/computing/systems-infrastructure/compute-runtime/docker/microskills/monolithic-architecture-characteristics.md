@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the structure and drawbacks of monolithic applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

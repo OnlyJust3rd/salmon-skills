@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/3x3-determinant-calculation|3x3-determinant-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/3x3-determinant-calculation|3x3-determinant-calculation]]"
 learning-time-in-minutes: 3
 ---
 # Calculating 3x3 Determinants

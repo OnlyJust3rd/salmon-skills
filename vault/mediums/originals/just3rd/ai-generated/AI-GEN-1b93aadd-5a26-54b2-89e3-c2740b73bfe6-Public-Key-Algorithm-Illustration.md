@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/public-key-algorithm-illustration|public-key-algorithm-illustration]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/public-key-algorithm-illustration|public-key-algorithm-illustration]]"
 learning-time-in-minutes: 2
 ---
 # Illustrating Public Key Algorithm Operations

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-object-and-array-structure|json-object-and-array-structure]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-object-and-array-structure|json-object-and-array-structure]]"
 learning-time-in-minutes: 3
 ---
 # Understanding JSON Object and Array Structure

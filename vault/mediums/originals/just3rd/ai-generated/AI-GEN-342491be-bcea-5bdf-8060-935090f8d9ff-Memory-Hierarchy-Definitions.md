@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/memory-hierarchy-definitions|memory-hierarchy-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/memory-hierarchy-definitions|memory-hierarchy-definitions]]"
 learning-time-in-minutes: 4
 ---
 # Memory Hierarchy Definitions

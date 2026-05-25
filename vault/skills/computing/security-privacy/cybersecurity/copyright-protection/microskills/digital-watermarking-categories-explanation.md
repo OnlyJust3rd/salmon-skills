@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of different categories of digital watermarking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

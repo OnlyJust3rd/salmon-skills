@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing the analog input pin for conversion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

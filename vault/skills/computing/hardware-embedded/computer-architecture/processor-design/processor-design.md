@@ -71,3 +71,6 @@ Designing, implementing, and evaluating a simple processor on an emulator, and a
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-design-translation|Processor Design Translation]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-performance-metric-evaluation|Processor Performance Metric Evaluation]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-workflow-during-execution|Processor Workflow During Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

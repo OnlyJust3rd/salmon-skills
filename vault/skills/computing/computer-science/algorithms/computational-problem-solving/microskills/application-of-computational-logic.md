@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capacity to translate a problem and its strategy into a workable computational process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recreating the issue to confirm understanding.
+## Related Mediums
+
+![[bases/related-mediums.base]]

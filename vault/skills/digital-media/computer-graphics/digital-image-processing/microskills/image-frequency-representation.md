@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the transformation of images into the frequency domain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

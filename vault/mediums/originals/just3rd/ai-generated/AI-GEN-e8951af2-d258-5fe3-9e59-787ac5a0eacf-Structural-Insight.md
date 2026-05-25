@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/structural-insight|structural-insight]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/structural-insight|structural-insight]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Data Structure for Effective Analysis

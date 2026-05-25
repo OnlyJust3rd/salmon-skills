@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Geometric evaluation of pole-zero plots to assess system stability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of learnability, flexibility, and robustness in UI design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

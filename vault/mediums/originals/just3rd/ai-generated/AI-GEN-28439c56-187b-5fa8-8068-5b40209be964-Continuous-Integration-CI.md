@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-integration-ci|continuous-integration-ci]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-integration-ci|continuous-integration-ci]]"
 learning-time-in-minutes: 5
 ---
 # Continuous Integration (CI) for Serverless Deployments

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[distributed-text-representations|distributed-text-representations]]"
+learning-outcomes:
+  - "[[distributed-text-representations|distributed-text-representations]]"
 learning-time-in-minutes: 4
 ---
 # Distributed Text Representations

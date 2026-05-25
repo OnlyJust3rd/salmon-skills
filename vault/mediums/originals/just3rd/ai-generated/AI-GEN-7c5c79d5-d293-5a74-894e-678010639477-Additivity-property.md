@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/additivity-property|additivity-property]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/additivity-property|additivity-property]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Additivity Property of Linear Transformations

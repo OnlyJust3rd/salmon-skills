@@ -50,3 +50,6 @@ Transforming world coordinates into view coordinates and applying clipping algor
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/windowing-transformation|Windowing Transformation]]
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/world-coordinates|World Coordinates]]
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/world-to-view-transformation|World to View Transformation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

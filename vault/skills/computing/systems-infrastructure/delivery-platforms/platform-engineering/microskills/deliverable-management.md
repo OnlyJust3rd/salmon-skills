@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to ensure project outputs meet requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

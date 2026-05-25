@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Organizing cleaned data for analytical access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

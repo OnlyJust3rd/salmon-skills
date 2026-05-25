@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of fundamental mathematical concepts for El Gamal.
+## Related Mediums
+
+![[bases/related-mediums.base]]

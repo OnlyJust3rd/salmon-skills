@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[z-algorithm-java-implementation|z-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[z-algorithm-java-implementation|z-algorithm-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Z-Algorithm: Java Implementation for Efficient String Matching

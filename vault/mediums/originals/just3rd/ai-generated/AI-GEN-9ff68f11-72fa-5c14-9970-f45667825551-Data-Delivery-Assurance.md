@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-delivery-assurance|data-delivery-assurance]]"
+learning-outcomes:
+  - "[[data-delivery-assurance|data-delivery-assurance]]"
 learning-time-in-minutes: 5
 ---
 # Ensuring Data Arrives Safely: A Look at Data Delivery Assurance

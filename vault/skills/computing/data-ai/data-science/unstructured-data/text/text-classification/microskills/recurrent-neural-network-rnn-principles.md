@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core concepts and sequential processing of RNNs for text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

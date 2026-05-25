@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing how network management is applied in home and small office settings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

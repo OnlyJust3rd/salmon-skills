@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of various approaches used in algorithm development.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Methods for conducting effective problem interviews.
+## Related Mediums
+
+![[bases/related-mediums.base]]

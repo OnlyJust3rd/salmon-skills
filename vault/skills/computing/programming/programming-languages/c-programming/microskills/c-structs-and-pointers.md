@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Apply struct and pointer-based design to build linked data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

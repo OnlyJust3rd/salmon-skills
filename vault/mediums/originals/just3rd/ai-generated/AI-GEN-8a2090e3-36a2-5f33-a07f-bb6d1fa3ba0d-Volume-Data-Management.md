@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-data-management|volume-data-management]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-data-management|volume-data-management]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Docker Volume Data Management

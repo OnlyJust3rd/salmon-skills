@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the intended applications of design patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

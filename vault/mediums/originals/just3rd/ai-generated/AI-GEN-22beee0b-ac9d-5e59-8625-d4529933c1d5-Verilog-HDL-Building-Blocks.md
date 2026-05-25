@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-hdl-building-blocks|verilog-hdl-building-blocks]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-hdl-building-blocks|verilog-hdl-building-blocks]]"
 learning-time-in-minutes: 4
 ---
 # Verilog HDL Building Blocks

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Appreciation for the critical role and impact of each stage in the engineering problem-solving methodology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/principles-of-neuromorphic-design|principles-of-neuromorphic-design]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/principles-of-neuromorphic-design|principles-of-neuromorphic-design]]"
 learning-time-in-minutes: 4
 ---
 # Principles of Neuromorphic Design

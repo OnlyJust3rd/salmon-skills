@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of basic elements constituting a digital image.
+## Related Mediums
+
+![[bases/related-mediums.base]]

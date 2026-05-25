@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how encryption integrates with compression phases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

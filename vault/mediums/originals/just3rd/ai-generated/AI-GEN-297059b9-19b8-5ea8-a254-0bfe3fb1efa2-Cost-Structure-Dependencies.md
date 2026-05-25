@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/cost-structure-dependencies|cost-structure-dependencies]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/cost-structure-dependencies|cost-structure-dependencies]]"
 learning-time-in-minutes: 4
 ---
 # Cost Structure Dependencies

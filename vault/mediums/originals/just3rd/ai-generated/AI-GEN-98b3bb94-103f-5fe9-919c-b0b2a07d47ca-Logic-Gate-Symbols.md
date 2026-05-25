@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-gate-symbols|logic-gate-symbols]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-gate-symbols|logic-gate-symbols]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Logic Gate Symbols

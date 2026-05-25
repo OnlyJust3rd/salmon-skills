@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Core knowledge of the rules and structure governing the formation of Regular Expressions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

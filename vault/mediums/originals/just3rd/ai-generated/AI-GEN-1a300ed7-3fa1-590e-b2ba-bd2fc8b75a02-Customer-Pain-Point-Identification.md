@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/customer-pain-point-identification|customer-pain-point-identification]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/customer-pain-point-identification|customer-pain-point-identification]]"
 learning-time-in-minutes: 5
 ---
 # Uncovering Customer Pain Points

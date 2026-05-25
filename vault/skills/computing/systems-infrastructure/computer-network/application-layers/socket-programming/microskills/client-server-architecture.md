@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the roles of clients and servers in network communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

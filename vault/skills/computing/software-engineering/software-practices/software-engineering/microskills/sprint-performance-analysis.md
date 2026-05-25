@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reviewing team progress and output after each iteration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of alerts triggered by services becoming unreachable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

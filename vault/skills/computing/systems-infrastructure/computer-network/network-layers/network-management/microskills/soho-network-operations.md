@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grasping the specific needs of small network environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

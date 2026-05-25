@@ -43,3 +43,6 @@ Apply the principles of packet filtering to a given network scenario to identify
 - [[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/packet-filtering-logic-application|Packet Filtering Logic Application]]
 - [[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/access-rule-creation|Access Rule Creation]]
 - [[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/access-rule-interpretation|Access Rule Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grasping the essential concepts of behavior-based AI approaches.
+## Related Mediums
+
+![[bases/related-mediums.base]]

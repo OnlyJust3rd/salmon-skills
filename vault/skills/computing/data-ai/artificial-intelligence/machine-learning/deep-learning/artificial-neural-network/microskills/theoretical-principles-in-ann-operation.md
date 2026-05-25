@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the theoretical basis for how ANNs function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

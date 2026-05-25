@@ -42,3 +42,6 @@ Understand the fundamental principles of interfacing digital systems with the re
 - [[d-a-conversion-process|D/A Conversion Process]]
 - [[d-a-converter-types|D/A Converter Types]]
 - [[quantization-error|Quantization Error]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

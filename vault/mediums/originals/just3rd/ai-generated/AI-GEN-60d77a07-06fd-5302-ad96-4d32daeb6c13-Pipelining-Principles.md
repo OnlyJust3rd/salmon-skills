@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelining-principles|pipelining-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelining-principles|pipelining-principles]]"
 learning-time-in-minutes: 4
 ---
 # Pipelining Principles

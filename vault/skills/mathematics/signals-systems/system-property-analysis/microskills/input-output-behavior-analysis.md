@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing system responses to different inputs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

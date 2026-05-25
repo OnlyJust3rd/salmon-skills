@@ -41,3 +41,6 @@ Describe the purpose of market size estimation in opportunity identification.
 
 - [[skills/business/product-management/competitor-analysis/microskills/opportunity-assessment|Opportunity Assessment]]
 - [[skills/business/product-management/competitor-analysis/microskills/business-viability-indicator|Business Viability Indicator]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

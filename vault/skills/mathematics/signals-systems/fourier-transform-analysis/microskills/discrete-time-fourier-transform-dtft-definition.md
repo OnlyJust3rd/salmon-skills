@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the mathematical definition of the Discrete-Time Fourier Transform.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating the pros and cons of different infrastructure choices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

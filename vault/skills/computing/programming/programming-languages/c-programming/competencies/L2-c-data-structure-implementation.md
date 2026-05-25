@@ -45,3 +45,6 @@ Implement data structures in C using structs, pointers, and dynamic memory manag
 - [[skills/computing/programming/programming-languages/c-programming/microskills/c-structs-and-pointers|C Structs and Pointers]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/dynamic-memory-management-in-c|Dynamic Memory Management in C]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/core-data-structure-operations-in-c|Core Data Structure Operations in C]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

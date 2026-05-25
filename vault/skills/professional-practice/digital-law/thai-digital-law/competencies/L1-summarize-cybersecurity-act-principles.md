@@ -43,3 +43,6 @@ Summarize the primary objectives, core principles, and responsibilities mandated
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/cybersecurity-act-objectives|Cybersecurity Act Objectives]]
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/cybersecurity-act-core-principles|Cybersecurity Act Core Principles]]
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/cybersecurity-act-mandated-responsibilities|Cybersecurity Act Mandated Responsibilities]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

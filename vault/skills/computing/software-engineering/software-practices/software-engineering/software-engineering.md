@@ -103,3 +103,6 @@ Explaining and applying the core objectives, activities, and practices of softwa
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/uml-diagram-application|UML Diagram Application]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/use-case-diagram-creation|Use Case Diagram Creation]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/workflow-adaptation|Workflow Adaptation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

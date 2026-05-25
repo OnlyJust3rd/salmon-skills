@@ -43,3 +43,6 @@ Explain the difference between model-free and model-based reinforcement learning
 - [[model-free-rl-principles|Model-free RL principles]]
 - [[model-based-rl-principles|Model-based RL principles]]
 - [[approach-comparison|Approach comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

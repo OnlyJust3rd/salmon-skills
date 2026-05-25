@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the rules governing movement between states.
+## Related Mediums
+
+![[bases/related-mediums.base]]

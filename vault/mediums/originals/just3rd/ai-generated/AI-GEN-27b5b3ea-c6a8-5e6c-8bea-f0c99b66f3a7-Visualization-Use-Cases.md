@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-use-cases|visualization-use-cases]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-use-cases|visualization-use-cases]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Visualization Use Cases

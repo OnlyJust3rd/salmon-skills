@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the effect of shifting a signal in time.
+## Related Mediums
+
+![[bases/related-mediums.base]]

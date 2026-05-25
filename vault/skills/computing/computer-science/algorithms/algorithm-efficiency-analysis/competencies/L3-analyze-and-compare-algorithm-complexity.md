@@ -43,3 +43,6 @@ Analyze and compare the time and space complexity of algorithms and data structu
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/derive-algorithm-complexity|Derive Algorithm Complexity]]
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/compare-algorithm-efficiency|Compare Algorithm Efficiency]]
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/identify-efficiency-trade-offs|Identify Efficiency Trade-offs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -63,3 +63,6 @@ The ability to understand the fundamental operating principles and characteristi
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/rectifier-circuit-construction|Rectifier Circuit Construction]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/rectifier-output-characteristics|Rectifier Output Characteristics]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/reverse-bias-diode-behavior|Reverse Bias Diode Behavior]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

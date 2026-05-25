@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding storage optimized for analytical scans.
+## Related Mediums
+
+![[bases/related-mediums.base]]

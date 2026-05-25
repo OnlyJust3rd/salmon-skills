@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the primary specialization areas within Computer Engineering.
+## Related Mediums
+
+![[bases/related-mediums.base]]

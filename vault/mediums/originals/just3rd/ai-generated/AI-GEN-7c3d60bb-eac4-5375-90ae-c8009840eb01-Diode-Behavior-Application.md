@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-behavior-application|diode-behavior-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-behavior-application|diode-behavior-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Diode Behavior in Rectifier Circuits

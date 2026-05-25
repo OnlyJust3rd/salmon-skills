@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/computational-strategy-selection|computational-strategy-selection]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/computational-strategy-selection|computational-strategy-selection]]"
 learning-time-in-minutes: 4
 ---
 # Choosing the Right Computational Strategy

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/symmetric-encryption-characteristics|symmetric-encryption-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/symmetric-encryption-characteristics|symmetric-encryption-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # Symmetric Encryption: The Speedy Secret Keeper

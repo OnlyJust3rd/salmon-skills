@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/homogeneity-property|homogeneity-property]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/homogeneity-property|homogeneity-property]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Homogeneity Property of Linear Transformations

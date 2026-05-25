@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the concept of environmental navigation for robots.
+## Related Mediums
+
+![[bases/related-mediums.base]]

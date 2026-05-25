@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-function-mapping|boolean-function-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-function-mapping|boolean-function-mapping]]"
 learning-time-in-minutes: 2
 ---
 # Boolean Function Mapping to Logic Gates

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-ps-command|docker-ps-command]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-ps-command|docker-ps-command]]"
 learning-time-in-minutes: 3
 ---
 # Listing Running Docker Containers with `docker ps`

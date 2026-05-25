@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply polar coordinate transformations to set up double integrals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

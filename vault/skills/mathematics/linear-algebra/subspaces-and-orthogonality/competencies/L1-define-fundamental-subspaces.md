@@ -47,3 +47,6 @@ Define the row space, column space, null space, kernel, and range of a matrix or
 - [[null-space-definition|Null space definition]]
 - [[kernel-definition|Kernel definition]]
 - [[range-definition|Range definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

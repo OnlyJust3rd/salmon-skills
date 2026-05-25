@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-experience-enhancement|user-experience-enhancement]]"
+learning-outcomes:
+  - "[[user-experience-enhancement|user-experience-enhancement]]"
 learning-time-in-minutes: 4
 ---
 # Enhancing User Experience with Conversational Agents

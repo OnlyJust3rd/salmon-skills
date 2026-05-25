@@ -45,3 +45,6 @@ Apply fundamental Linux commands and the Vi editor to manage files, directories,
 - [[text-processing-commands|Text Processing Commands]]
 - [[vi-editor-operations|Vi Editor Operations]]
 - [[command-line-navigation|Command-Line Navigation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

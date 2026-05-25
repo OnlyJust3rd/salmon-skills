@@ -45,3 +45,6 @@ Interpret user feedback from usability testing.
 - [[qualitative-feedback-analysis|Qualitative Feedback Analysis]]
 - [[quantitative-feedback-analysis|Quantitative Feedback Analysis]]
 - [[user-experience-insights|User Experience Insights]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -38,3 +38,6 @@ Planning concrete engineering actions by defining tasks, responsibilities, miles
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/responsibility-assignment-in-actions|Responsibility assignment in actions]]
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/task-definition-for-action-plan|Task definition for action plan]]
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/task-to-milestone-mapping|Task-to-milestone mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

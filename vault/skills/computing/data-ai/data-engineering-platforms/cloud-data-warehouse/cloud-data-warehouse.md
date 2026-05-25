@@ -38,3 +38,6 @@ Understanding managed cloud data warehouse architecture for analytical SQL workl
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/elastic-scaling|Elastic Scaling]]
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/partition-pruning|Partition Pruning]]
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/query-cost-driver|Query Cost Driver]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

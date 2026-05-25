@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the Analog-to-Digital Converter's role and operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

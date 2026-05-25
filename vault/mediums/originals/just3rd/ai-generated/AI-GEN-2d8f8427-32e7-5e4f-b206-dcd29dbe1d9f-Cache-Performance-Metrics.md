@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-performance-metrics|cache-performance-metrics]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-performance-metrics|cache-performance-metrics]]"
 learning-time-in-minutes: 3
 ---
 # Calculating Cache Performance Metrics

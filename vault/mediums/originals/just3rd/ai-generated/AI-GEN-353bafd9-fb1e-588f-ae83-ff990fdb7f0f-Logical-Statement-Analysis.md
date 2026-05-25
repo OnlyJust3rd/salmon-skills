@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/logical-statement-analysis|logical-statement-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/logical-statement-analysis|logical-statement-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating Truthfulness of Translated Real-World Statements

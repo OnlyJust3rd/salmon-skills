@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/unity/microskills/scene-setup|scene-setup]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/unity/microskills/scene-setup|scene-setup]]"
 learning-time-in-minutes: 5
 ---
 # Scene Setup: Arranging Your Game World in Unity

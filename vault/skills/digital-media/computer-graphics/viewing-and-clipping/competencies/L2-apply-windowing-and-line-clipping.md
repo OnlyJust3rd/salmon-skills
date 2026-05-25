@@ -45,3 +45,6 @@ Apply windowing transformations to map world coordinates to view space and imple
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/windowing-transformation|Windowing Transformation]]
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/line-clipping-algorithm|Line Clipping Algorithm]]
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/visible-segment-determination|Visible Segment Determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

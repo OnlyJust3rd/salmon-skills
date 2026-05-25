@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of using Git as the source of truth for infrastructure and applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

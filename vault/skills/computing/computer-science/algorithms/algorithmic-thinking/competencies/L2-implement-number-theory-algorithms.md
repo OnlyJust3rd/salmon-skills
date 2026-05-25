@@ -43,3 +43,6 @@ Implement algorithms that utilize number theory concepts to solve specific compu
 
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/algorithm-implementation|Algorithm Implementation]]
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/number-theory-problem-solving|Number Theory Problem Solving]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

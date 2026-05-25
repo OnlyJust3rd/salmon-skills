@@ -45,3 +45,6 @@ Apply responsive web design principles to create layouts that adapt across commo
 - [[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/fluid-layout|Fluid Layout]]
 - [[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/media-queries|Media Queries]]
 - [[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/responsive-spacing|Responsive Spacing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating the kernel of a linear transformation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

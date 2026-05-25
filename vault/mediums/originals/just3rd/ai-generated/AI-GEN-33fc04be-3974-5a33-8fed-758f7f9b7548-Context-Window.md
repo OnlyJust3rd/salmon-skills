@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[context-window|context-window]]"
+learning-outcomes:
+  - "[[context-window|context-window]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Context Window in Large Language Models

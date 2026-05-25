@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the foundational concepts and transformer architecture of BERT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

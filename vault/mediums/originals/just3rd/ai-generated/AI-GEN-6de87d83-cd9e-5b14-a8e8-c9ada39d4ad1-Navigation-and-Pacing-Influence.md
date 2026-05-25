@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/level-design/microskills/navigation-and-pacing-influence|navigation-and-pacing-influence]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/level-design/microskills/navigation-and-pacing-influence|navigation-and-pacing-influence]]"
 learning-time-in-minutes: 5
 ---
 # Level Layout: Guiding Player Movement and Pace

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between maxima, minima, and saddle points using calculus methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

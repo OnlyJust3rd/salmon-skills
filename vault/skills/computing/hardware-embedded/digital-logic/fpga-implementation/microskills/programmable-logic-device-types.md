@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of different types of programmable logic devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

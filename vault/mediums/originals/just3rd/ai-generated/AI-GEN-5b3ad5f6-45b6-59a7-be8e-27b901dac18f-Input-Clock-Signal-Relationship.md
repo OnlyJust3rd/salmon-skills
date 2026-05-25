@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/input-clock-signal-relationship|input-clock-signal-relationship]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/input-clock-signal-relationship|input-clock-signal-relationship]]"
 learning-time-in-minutes: 5
 ---
 # The Flip-Flop's Pulse: Understanding Input-Clock Signal Relationships

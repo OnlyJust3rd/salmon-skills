@@ -52,3 +52,6 @@ Design and evaluate image compression techniques to reduce storage and transmiss
 - [[skills/digital-media/computer-graphics/image-compression/microskills/motion-vectors|Motion Vectors]]
 - [[skills/digital-media/computer-graphics/image-compression/microskills/mpeg-compression-efficiency|MPEG Compression Efficiency]]
 - [[skills/digital-media/computer-graphics/image-compression/microskills/mpeg-compression-fundamentals|MPEG Compression Fundamentals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

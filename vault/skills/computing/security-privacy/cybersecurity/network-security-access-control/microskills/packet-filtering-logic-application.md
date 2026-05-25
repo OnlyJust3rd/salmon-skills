@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstrating the use of packet filtering logic for access rules.
+## Related Mediums
+
+![[bases/related-mediums.base]]

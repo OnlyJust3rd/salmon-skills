@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of simple gameplay mechanics tailored to a character's designated role.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of high-pass filtering characteristics in RC/RL circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

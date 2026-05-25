@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Fitting models to training data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

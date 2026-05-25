@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[storyboard-and-use-case-application|storyboard-and-use-case-application]]"
+learning-outcomes:
+  - "[[storyboard-and-use-case-application|storyboard-and-use-case-application]]"
 learning-time-in-minutes: 5
 ---
 # Storyboarding and Use Cases: Modeling User Interactions

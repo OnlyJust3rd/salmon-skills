@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the state of resource allocation through graphs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

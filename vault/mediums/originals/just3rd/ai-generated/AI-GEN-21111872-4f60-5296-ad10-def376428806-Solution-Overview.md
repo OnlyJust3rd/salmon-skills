@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/solution-overview|solution-overview]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/solution-overview|solution-overview]]"
 learning-time-in-minutes: 4
 ---
 # Startup Pitch Decks: The Solution Overview

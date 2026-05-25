@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Finding stages where work accumulates or flow slows down.
+## Related Mediums
+
+![[bases/related-mediums.base]]

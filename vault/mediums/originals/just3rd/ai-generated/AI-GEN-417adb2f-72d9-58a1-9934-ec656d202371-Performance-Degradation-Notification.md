@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/performance-degradation-notification|performance-degradation-notification]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/performance-degradation-notification|performance-degradation-notification]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Performance Degradation Notifications

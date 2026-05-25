@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/time-shifting-property-application-fs-dtfs|time-shifting-property-application-fs-dtfs]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/time-shifting-property-application-fs-dtfs|time-shifting-property-application-fs-dtfs]]"
 learning-time-in-minutes: 5
 ---
 # Applying the Time-Shifting Property for FS/DTFS Coefficient Calculation

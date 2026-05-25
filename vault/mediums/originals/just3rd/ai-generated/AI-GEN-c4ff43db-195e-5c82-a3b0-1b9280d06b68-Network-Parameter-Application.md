@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-parameter-application|network-parameter-application]]"
+learning-outcomes:
+  - "[[network-parameter-application|network-parameter-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Network Parameters to Calculate Performance Metrics

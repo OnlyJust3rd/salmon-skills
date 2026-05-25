@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mathematical-models|mathematical-models]]"
+learning-outcomes:
+  - "[[mathematical-models|mathematical-models]]"
 learning-time-in-minutes: 4
 ---
 # Applying Formulas for Network Performance Metrics

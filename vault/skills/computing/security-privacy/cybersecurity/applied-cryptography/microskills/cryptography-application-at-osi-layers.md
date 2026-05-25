@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of cryptographic integration at different OSI model layers within protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -42,3 +42,6 @@ Define the components of a system of linear equations and represent it in matrix
 - [[system-of-linear-equations-components|System of linear equations components]]
 - [[augmented-matrix-representation|Augmented matrix representation]]
 - [[skills/mathematics/linear-algebra/matrix-algebra/microskills/linear-system-definition|Linear system definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

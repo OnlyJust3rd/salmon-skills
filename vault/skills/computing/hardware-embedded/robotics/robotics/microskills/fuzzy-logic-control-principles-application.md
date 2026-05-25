@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying learned fuzzy logic concepts to a practical robotic task.
+## Related Mediums
+
+![[bases/related-mediums.base]]

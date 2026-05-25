@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the required structure (apiVersion, kind, metadata, spec).
+## Related Mediums
+
+![[bases/related-mediums.base]]

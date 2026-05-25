@@ -45,3 +45,6 @@ Describe the process of setting up and running simulations for digital logic cir
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/component-addition-in-simulation|Component Addition in Simulation]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/simulation-initiation|Simulation Initiation]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-simulation-workflow|Proteus Simulation Workflow]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

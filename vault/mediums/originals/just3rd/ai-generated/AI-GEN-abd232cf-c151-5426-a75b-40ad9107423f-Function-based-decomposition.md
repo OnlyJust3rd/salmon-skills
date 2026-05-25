@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[function-based-decomposition|function-based-decomposition]]"
+learning-outcomes:
+  - "[[function-based-decomposition|function-based-decomposition]]"
 learning-time-in-minutes: 2
 ---
 # Function-Based Decomposition in C

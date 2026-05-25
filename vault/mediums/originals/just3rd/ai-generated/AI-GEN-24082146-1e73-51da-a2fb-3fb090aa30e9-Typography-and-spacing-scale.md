@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/typography-and-spacing-scale|typography-and-spacing-scale]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/css/microskills/typography-and-spacing-scale|typography-and-spacing-scale]]"
 learning-time-in-minutes: 2
 ---
 # Typography and Spacing Scale for Styled Layouts

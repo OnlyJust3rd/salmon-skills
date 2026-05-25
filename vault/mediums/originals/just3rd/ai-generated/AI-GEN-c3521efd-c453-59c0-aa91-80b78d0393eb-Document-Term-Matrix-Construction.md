@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[document-term-matrix-construction|document-term-matrix-construction]]"
+learning-outcomes:
+  - "[[document-term-matrix-construction|document-term-matrix-construction]]"
 learning-time-in-minutes: 4
 ---
 # Document-Term Matrix Construction

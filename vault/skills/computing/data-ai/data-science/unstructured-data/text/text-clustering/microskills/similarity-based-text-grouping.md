@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Partitioning textual data into clusters based on calculated similarity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

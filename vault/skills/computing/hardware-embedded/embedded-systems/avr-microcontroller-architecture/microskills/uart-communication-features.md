@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparison of UART settings for serial data transmission.
+## Related Mediums
+
+![[bases/related-mediums.base]]

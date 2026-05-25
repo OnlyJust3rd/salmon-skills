@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attacks|removal-attacks]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attacks|removal-attacks]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Removal Attacks in Digital Watermarking

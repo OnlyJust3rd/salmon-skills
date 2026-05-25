@@ -38,3 +38,6 @@ Understanding transformer-based language models and applying them to text unders
 - [[summarization|Summarization]]
 - [[text-generation|Text Generation]]
 - [[token|Token]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and explanation of distinct states within a process's lifecycle.
+## Related Mediums
+
+![[bases/related-mediums.base]]

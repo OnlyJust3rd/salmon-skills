@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-integrity-in-journaling|data-integrity-in-journaling]]"
+learning-outcomes:
+  - "[[data-integrity-in-journaling|data-integrity-in-journaling]]"
 learning-time-in-minutes: 6
 ---
 # Data Integrity in Journaling File Systems

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the rationale and calculation behind TF-IDF values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

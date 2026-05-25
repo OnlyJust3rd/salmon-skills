@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding transactions that affect multiple business functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

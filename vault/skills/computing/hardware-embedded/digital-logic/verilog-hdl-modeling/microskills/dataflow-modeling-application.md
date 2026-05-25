@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of dataflow modeling in Verilog.
+## Related Mediums
+
+![[bases/related-mediums.base]]

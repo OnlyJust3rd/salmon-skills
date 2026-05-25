@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of key indicators for system health.
+## Related Mediums
+
+![[bases/related-mediums.base]]

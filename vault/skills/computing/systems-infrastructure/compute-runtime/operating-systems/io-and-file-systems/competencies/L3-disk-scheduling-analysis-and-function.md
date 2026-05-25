@@ -45,3 +45,6 @@ Analyze the performance implications of different disk scheduling algorithms by 
 - [[disk-scheduling-operational-mechanisms|Disk Scheduling Operational Mechanisms]]
 - [[seek-time-metrics|Seek Time Metrics]]
 - [[throughput-metrics|Throughput Metrics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

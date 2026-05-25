@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Making informed judgments about the quality of rendered 3D graphics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

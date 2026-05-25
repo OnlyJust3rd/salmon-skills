@@ -40,3 +40,6 @@ Identify and list the major domains in Computer Engineering and their typical pr
 
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/major-computer-engineering-domains|Major Computer Engineering Domains]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/domain-problem-contexts|Domain Problem Contexts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

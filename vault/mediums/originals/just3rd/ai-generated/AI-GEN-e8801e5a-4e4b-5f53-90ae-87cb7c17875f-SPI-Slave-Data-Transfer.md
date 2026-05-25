@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[spi-slave-data-transfer|spi-slave-data-transfer]]"
+learning-outcomes:
+  - "[[spi-slave-data-transfer|spi-slave-data-transfer]]"
 learning-time-in-minutes: 6
 ---
 # SPI Slave Data Transfer with AVR Microcontrollers

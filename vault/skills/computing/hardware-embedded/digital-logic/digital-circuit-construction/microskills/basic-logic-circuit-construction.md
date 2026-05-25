@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building simple logic circuits (e.g., AND, OR, NOT gates, half-adders).
+## Related Mediums
+
+![[bases/related-mediums.base]]

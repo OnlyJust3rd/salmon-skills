@@ -56,3 +56,6 @@ Design and implement Proof of Concepts (PoC) and Minimum Viable Products (MVPs) 
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/solution-validation-mechanisms|Solution Validation Mechanisms]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/user-insight-integration|User Insight Integration]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/user-value-assessment|User Value Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

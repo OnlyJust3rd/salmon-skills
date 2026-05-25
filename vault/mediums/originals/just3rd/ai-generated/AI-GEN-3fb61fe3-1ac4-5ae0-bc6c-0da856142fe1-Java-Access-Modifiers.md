@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[java-access-modifiers|java-access-modifiers]]"
+learning-outcomes:
+  - "[[java-access-modifiers|java-access-modifiers]]"
 learning-time-in-minutes: 3
 ---
 # Java Access Modifiers

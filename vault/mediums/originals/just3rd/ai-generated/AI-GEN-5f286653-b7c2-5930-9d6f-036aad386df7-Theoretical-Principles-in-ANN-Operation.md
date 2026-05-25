@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[theoretical-principles-in-ann-operation|theoretical-principles-in-ann-operation]]"
+learning-outcomes:
+  - "[[theoretical-principles-in-ann-operation|theoretical-principles-in-ann-operation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Theoretical Principles in ANN Operation

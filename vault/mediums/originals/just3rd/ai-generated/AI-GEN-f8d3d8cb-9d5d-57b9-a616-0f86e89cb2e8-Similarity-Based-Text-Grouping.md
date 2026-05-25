@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[similarity-based-text-grouping|similarity-based-text-grouping]]"
+learning-outcomes:
+  - "[[similarity-based-text-grouping|similarity-based-text-grouping]]"
 learning-time-in-minutes: 5
 ---
 # Similarity-Based Text Grouping

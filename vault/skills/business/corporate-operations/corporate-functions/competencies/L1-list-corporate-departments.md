@@ -38,3 +38,6 @@ List the primary departments within a typical corporation.
 ## Microskills
 
 - [[skills/business/corporate-operations/corporate-functions/microskills/corporate-department-names|Corporate Department Names]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

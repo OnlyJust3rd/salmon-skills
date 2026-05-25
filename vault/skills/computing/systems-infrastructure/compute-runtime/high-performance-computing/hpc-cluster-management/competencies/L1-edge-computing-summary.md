@@ -43,3 +43,6 @@ Summarize the concept of Edge Computing Technology.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/edge-computing-principles|Edge Computing Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/edge-computing-applications|Edge Computing Applications]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/edge-computing-concepts|Edge Computing Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

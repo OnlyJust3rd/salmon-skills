@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of classical and modern block ciphers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the properties of wireless transmission media.
+## Related Mediums
+
+![[bases/related-mediums.base]]

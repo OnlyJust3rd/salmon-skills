@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/breadboard-layout-conventions|breadboard-layout-conventions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/breadboard-layout-conventions|breadboard-layout-conventions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Breadboard Layout Conventions

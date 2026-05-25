@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how IoT devices interact with their physical surroundings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

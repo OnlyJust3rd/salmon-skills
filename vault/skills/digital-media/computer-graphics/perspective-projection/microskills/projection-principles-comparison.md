@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparison of the underlying principles governing parallel and perspective projection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

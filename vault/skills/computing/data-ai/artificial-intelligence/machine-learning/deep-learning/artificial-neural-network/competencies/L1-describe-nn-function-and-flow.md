@@ -45,3 +45,6 @@ Describe the function of each component and summarize the information flow withi
 - [[information-flow-in-neural-networks|Information Flow in Neural Networks]]
 - [[basic-neural-network-operations|Basic Neural Network Operations]]
 - [[data-processing-in-neural-networks|Data Processing in Neural Networks]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

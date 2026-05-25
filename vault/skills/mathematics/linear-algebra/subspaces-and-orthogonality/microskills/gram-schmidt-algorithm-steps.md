@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of the steps to construct an orthogonal basis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

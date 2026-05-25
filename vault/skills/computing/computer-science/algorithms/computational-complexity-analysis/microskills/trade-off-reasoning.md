@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing algorithms with different time and space requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microinstruction-mapping|microinstruction-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microinstruction-mapping|microinstruction-mapping]]"
 learning-time-in-minutes: 4
 ---
 # Mapping Control Steps to Microinstructions

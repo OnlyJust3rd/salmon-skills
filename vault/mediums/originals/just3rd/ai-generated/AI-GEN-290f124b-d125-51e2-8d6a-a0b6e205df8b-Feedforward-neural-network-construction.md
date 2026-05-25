@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[feedforward-neural-network-construction|feedforward-neural-network-construction]]"
+learning-outcomes:
+  - "[[feedforward-neural-network-construction|feedforward-neural-network-construction]]"
 learning-time-in-minutes: 3
 ---
 # Building Your First Feedforward Neural Network

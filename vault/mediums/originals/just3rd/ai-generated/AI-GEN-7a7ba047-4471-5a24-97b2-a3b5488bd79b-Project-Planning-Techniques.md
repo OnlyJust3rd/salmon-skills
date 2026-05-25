@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/project-planning-techniques|project-planning-techniques]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/project-planning-techniques|project-planning-techniques]]"
 learning-time-in-minutes: 4
 ---
 # Project Planning Techniques for Platform Engineering

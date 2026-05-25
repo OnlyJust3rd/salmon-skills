@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-audio/microskills/audio-mixer|audio-mixer]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-audio/microskills/audio-mixer|audio-mixer]]"
 learning-time-in-minutes: 6
 ---
 # Understanding the Audio Mixer: Routing and Balancing Sound Groups

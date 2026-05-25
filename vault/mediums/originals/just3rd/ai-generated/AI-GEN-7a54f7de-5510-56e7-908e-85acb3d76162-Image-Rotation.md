@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-rotation|image-rotation]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-rotation|image-rotation]]"
 learning-time-in-minutes: 4
 ---
 # Image Rotation

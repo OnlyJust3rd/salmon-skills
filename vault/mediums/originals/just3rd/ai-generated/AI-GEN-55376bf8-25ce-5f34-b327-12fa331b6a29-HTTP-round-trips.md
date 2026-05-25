@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/http-round-trips|http-round-trips]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/http-round-trips|http-round-trips]]"
 learning-time-in-minutes: 4
 ---
 # Understanding HTTP Round Trips

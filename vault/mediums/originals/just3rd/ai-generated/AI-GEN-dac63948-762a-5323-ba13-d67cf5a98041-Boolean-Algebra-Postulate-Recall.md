@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-algebra-postulate-recall|boolean-algebra-postulate-recall]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-algebra-postulate-recall|boolean-algebra-postulate-recall]]"
 learning-time-in-minutes: 5
 ---
 # Boolean Algebra Postulates: The Foundation of Logic

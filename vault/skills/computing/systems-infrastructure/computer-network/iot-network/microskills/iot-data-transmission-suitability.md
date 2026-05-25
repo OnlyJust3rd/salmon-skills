@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating communication technologies based on performance, complexity, power, and range for IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

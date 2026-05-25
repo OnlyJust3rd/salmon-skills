@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing how well a filter removes noise from a signal.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/fourier-series-formula-application|fourier-series-formula-application]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/fourier-series-formula-application|fourier-series-formula-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying the Fourier Series Formula to Calculate Coefficients

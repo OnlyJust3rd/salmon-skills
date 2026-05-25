@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the need for JCF when diagonalization is not possible.
+## Related Mediums
+
+![[bases/related-mediums.base]]

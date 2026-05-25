@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Finding gaps and advantages in the market.
+## Related Mediums
+
+![[bases/related-mediums.base]]

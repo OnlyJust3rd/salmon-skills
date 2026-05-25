@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-ordering-strategy|resource-ordering-strategy]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-ordering-strategy|resource-ordering-strategy]]"
 learning-time-in-minutes: 4
 ---
 # Resource Ordering for Deadlock Prevention

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of line clipping algorithms against a defined window.
+## Related Mediums
+
+![[bases/related-mediums.base]]

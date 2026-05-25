@@ -49,3 +49,6 @@ Apply techniques such as personas, scenarios, storyboards, and use cases to mode
 - [[persona-development|Persona Development]]
 - [[scenario-creation|Scenario Creation]]
 - [[storyboard-and-use-case-application|Storyboard and Use Case Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

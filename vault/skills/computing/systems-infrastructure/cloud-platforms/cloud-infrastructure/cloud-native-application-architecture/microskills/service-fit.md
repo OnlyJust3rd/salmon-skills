@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Matching managed service capabilities to application needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

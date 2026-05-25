@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Integrate the resulting partial fraction terms, including log and arctan patterns when applicable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

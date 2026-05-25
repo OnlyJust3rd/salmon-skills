@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/electronics-measurement-instruments|electronics-measurement-instruments]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/electronics-measurement-instruments|electronics-measurement-instruments]]"
 learning-time-in-minutes: 3
 ---
 # Recognizing Electronics Measurement Instruments

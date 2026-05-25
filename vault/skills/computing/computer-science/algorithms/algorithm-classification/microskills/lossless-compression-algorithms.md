@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of Huffman coding, Adaptive Huffman, and LZW.
+## Related Mediums
+
+![[bases/related-mediums.base]]

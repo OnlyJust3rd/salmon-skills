@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/multiple-polar-curve-area-calculation|multiple-polar-curve-area-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/multiple-polar-curve-area-calculation|multiple-polar-curve-area-calculation]]"
 learning-time-in-minutes: 6
 ---
 # Calculating Area Between Multiple Polar Curves

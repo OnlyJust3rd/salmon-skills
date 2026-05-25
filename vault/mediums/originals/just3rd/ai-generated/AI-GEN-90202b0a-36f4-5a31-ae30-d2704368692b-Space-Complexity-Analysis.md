@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/space-complexity-analysis|space-complexity-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/space-complexity-analysis|space-complexity-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Space Complexity with Big O

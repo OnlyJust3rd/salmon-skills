@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/cryptographic-problem-solving-with-number-theory|cryptographic-problem-solving-with-number-theory]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/cryptographic-problem-solving-with-number-theory|cryptographic-problem-solving-with-number-theory]]"
 learning-time-in-minutes: 5
 ---
 # Cryptographic Problem Solving with Number Theory

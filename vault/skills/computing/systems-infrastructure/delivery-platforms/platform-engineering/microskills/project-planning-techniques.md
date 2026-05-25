@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in defining project scope, timelines, and resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

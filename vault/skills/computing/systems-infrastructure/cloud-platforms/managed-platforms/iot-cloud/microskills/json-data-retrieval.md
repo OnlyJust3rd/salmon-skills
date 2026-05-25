@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of retrieving data in JSON format using REST APIs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

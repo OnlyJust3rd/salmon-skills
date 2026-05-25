@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding automated checks that gate integration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/file-format-selection|file-format-selection]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/file-format-selection|file-format-selection]]"
 learning-time-in-minutes: 4
 ---
 # File Format Selection for Data Lakes

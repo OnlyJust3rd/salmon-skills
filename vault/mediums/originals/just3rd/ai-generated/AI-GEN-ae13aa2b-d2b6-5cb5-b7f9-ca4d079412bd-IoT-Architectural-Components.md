@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-architectural-components|iot-architectural-components]]"
+learning-outcomes:
+  - "[[iot-architectural-components|iot-architectural-components]]"
 learning-time-in-minutes: 5
 ---
 # Understanding IoT Architectural Components

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of key phases like build, test, deploy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

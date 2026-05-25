@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-key-features|one-time-pad-key-features]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-key-features|one-time-pad-key-features]]"
 learning-time-in-minutes: 4
 ---
 # One-time Pad: The Unbreakable Cipher's Core Features

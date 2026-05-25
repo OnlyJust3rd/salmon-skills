@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[state-transitions|state-transitions]]"
+learning-outcomes:
+  - "[[state-transitions|state-transitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding State Transitions in Network Protocols

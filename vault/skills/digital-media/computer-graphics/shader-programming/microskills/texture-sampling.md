@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reading image data for surface appearance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

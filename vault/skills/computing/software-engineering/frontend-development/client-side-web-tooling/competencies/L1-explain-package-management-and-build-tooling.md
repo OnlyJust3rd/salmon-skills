@@ -47,3 +47,6 @@ Explain package management and build tooling for modern client-side web developm
 - [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/package-manifests|Package Manifests]]
 - [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/build-scripts|Build Scripts]]
 - [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/bundling-and-compilation|Bundling and Compilation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

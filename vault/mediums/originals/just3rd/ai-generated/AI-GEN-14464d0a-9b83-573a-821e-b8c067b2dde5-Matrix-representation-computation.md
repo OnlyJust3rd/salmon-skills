@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/matrix-representation-computation|matrix-representation-computation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/matrix-representation-computation|matrix-representation-computation]]"
 learning-time-in-minutes: 4
 ---
 # Computing the Matrix Representation of a Linear Transformation

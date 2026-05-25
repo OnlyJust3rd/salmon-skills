@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Pinpointing sections of code that require refactoring.
+## Related Mediums
+
+![[bases/related-mediums.base]]

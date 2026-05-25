@@ -45,3 +45,6 @@ Explain the process of sending HTTP requests to a web server and receiving an HT
 - [[html-parsing-definition|HTML Parsing Definition]]
 - [[web-scraping-concepts|Web Scraping Concepts]]
 - [[client-server-communication-flow|Client-Server Communication Flow]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

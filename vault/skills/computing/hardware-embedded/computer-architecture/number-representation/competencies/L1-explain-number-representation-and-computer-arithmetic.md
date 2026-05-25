@@ -46,3 +46,6 @@ Explain various number representation formats and the principles of computer ari
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/binary-arithmetic-operations|Binary Arithmetic Operations]]
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/two-s-complement-representation|Two's Complement Representation]]
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/sign-magnitude-representation|Sign-Magnitude Representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

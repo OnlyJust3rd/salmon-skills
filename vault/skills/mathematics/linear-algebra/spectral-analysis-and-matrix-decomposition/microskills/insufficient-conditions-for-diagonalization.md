@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing conditions that do not guarantee diagonalizability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

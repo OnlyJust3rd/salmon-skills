@@ -45,3 +45,6 @@ Explain security event monitoring using logs, alerts, and observability signals.
 - [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/security-event-logs|Security Event Logs]]
 - [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/alert-signals|Alert Signals]]
 - [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/event-correlation|Event Correlation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

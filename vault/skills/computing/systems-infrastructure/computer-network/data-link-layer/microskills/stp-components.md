@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying key elements of the Spanning Tree Protocol.
+## Related Mediums
+
+![[bases/related-mediums.base]]

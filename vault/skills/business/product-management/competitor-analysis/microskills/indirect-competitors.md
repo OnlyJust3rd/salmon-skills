@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Businesses addressing the same customer need differently.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparison of how symmetric key algorithms function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

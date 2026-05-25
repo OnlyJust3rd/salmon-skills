@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/opportunity-assessment|opportunity-assessment]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/opportunity-assessment|opportunity-assessment]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Market Size in Opportunity Assessment

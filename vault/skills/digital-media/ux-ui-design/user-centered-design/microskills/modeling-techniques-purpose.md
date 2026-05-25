@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how modeling techniques aid in understanding user needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

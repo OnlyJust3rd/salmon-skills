@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing energy usage associated with each protocol.
+## Related Mediums
+
+![[bases/related-mediums.base]]

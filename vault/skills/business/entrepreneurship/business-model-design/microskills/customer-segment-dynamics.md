@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interplay between value proposition and customer groups.
+## Related Mediums
+
+![[bases/related-mediums.base]]

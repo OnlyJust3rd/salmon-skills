@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-lzw|compression-ratio-vs-data-fidelity-lzw]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/compression-ratio-vs-data-fidelity-lzw|compression-ratio-vs-data-fidelity-lzw]]"
 learning-time-in-minutes: 4
 ---
 # Compression Ratio vs. Data Fidelity (LZW)

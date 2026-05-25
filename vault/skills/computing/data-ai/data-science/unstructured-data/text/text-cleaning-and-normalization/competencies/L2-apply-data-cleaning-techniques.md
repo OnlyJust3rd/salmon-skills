@@ -53,3 +53,6 @@ Implement techniques, including Regular Expressions, to remove HTML tags, normal
 - [[sensitive-data-masking-implementation|Sensitive Data Masking Implementation]]
 - [[textual-data-cleaning-execution|Textual Data Cleaning Execution]]
 - [[regular-expression-for-text-cleaning|Regular Expression for Text Cleaning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

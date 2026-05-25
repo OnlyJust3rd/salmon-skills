@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing scenarios suitable for combinatorial analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

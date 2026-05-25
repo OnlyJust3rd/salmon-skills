@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/process-boundary|process-boundary]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/process-boundary|process-boundary]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Process Boundaries

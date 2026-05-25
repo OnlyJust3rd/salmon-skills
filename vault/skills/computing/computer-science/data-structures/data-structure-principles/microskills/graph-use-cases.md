@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain practical applications of graphs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

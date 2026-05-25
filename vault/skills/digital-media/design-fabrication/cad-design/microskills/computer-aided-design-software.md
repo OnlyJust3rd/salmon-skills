@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of various CAD software applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

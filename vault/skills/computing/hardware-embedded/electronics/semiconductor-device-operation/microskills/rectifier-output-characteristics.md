@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the properties of the rectified output.
+## Related Mediums
+
+![[bases/related-mediums.base]]

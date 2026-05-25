@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain 2xx, 4xx, and 5xx families for API outcomes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

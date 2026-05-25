@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/state-management-techniques|state-management-techniques]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/state-management-techniques|state-management-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Terraform State Management: Remote Backends and Locking

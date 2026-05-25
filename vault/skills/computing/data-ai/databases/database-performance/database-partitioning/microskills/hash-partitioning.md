@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Distributing rows by hashing a partition key.
+## Related Mediums
+
+![[bases/related-mediums.base]]

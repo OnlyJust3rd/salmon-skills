@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying potential race conditions based on critical sections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

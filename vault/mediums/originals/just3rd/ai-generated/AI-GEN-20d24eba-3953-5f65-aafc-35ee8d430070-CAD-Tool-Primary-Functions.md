@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/cad-design/microskills/cad-tool-primary-functions|cad-tool-primary-functions]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/cad-design/microskills/cad-tool-primary-functions|cad-tool-primary-functions]]"
 learning-time-in-minutes: 4
 ---
 # CAD Tool Primary Functions

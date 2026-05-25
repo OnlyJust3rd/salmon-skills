@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Setting up and solving the characteristic equation det(A - λI) = 0.
+## Related Mediums
+
+![[bases/related-mediums.base]]

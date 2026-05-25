@@ -51,3 +51,6 @@ Explain the geometric and algebraic interpretations of vector products, and the 
 - [[angle-between-vectors-interpretation|Angle between vectors interpretation]]
 - [[orthogonal-projection-interpretation|Orthogonal projection interpretation]]
 - [[direction-vectors-and-line-orientation|Direction vectors and line orientation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

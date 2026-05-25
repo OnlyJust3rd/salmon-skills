@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying principles for better teamwork.
+## Related Mediums
+
+![[bases/related-mediums.base]]

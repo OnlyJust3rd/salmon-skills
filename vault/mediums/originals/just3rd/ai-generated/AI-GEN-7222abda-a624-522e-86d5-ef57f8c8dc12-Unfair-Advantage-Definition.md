@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/unfair-advantage-definition|unfair-advantage-definition]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/unfair-advantage-definition|unfair-advantage-definition]]"
 learning-time-in-minutes: 3
 ---
 # Defining Your Unfair Advantage

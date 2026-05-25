@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/linked-list-use-cases|linked-list-use-cases]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/linked-list-use-cases|linked-list-use-cases]]"
 learning-time-in-minutes: 4
 ---
 # Linked List Use Cases

@@ -51,3 +51,6 @@ Apply Karnaugh Maps to optimize and minimize multi-level combinational logic cir
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/minimal-sum-of-products|Minimal Sum-of-Products]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/minimal-product-of-sums|Minimal Product-of-Sums]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/combinational-circuit-minimization|Combinational Circuit Minimization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

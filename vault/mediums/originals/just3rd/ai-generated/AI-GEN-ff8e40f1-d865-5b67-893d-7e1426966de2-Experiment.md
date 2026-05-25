@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/experiment|experiment]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/experiment|experiment]]"
 learning-time-in-minutes: 5
 ---
 # Experimentation: Comparing Variants for Product Impact

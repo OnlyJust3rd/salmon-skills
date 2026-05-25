@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[process-monitoring-tools|process-monitoring-tools]]"
+learning-outcomes:
+  - "[[process-monitoring-tools|process-monitoring-tools]]"
 learning-time-in-minutes: 4
 ---
 # Monitoring Processes with `top` and `htop`

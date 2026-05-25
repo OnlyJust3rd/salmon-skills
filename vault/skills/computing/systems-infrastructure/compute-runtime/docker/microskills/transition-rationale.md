@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the reasons for moving from monoliths to microservices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

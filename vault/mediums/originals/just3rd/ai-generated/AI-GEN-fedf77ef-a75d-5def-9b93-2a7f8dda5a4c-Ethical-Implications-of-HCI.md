@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ethical-implications-of-hci|ethical-implications-of-hci]]"
+learning-outcomes:
+  - "[[ethical-implications-of-hci|ethical-implications-of-hci]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Ethical Implications of Future Human-Computer Interaction

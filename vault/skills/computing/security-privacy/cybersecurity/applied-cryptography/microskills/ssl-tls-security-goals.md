@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of security goals for SSL/TLS.
+## Related Mediums
+
+![[bases/related-mediums.base]]

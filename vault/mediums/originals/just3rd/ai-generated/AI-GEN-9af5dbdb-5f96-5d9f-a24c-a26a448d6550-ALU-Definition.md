@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/alu-definition|alu-definition]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/alu-definition|alu-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the ALU: The Calculator of the Processor

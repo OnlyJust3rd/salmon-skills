@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Executing the calculation of Fourier Series coefficients.
+## Related Mediums
+
+![[bases/related-mediums.base]]

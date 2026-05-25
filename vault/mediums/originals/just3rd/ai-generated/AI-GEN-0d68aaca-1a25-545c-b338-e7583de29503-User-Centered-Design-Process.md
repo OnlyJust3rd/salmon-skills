@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-centered-design-process|user-centered-design-process]]"
+learning-outcomes:
+  - "[[user-centered-design-process|user-centered-design-process]]"
 learning-time-in-minutes: 5
 ---
 # The User-Centered Design Process: A Journey of Understanding

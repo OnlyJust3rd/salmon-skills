@@ -89,3 +89,6 @@ Deploy and manage containerized applications at scale using Kubernetes. Configur
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/resource-requests-and-limits|Resource Requests and Limits]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/scheduled-task-deployment|Scheduled Task Deployment]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/yaml-syntax-for-kubernetes|YAML Syntax for Kubernetes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

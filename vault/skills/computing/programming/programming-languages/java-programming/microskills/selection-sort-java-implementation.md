@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Selection Sort algorithm in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

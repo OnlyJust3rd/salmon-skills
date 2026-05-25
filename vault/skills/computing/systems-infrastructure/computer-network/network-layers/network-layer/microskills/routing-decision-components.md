@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying key elements that influence packet path selection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

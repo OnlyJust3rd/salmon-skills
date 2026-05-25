@@ -47,3 +47,6 @@ Define and explain the steps involved in a proof by mathematical induction and t
 - [[proof-by-induction-structure|Proof by Induction Structure]]
 - [[recursive-definition-components|Recursive Definition Components]]
 - [[induction-and-recursion-relationship|Induction and Recursion Relationship]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

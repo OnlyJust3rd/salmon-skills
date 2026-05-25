@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the role of convolutional layers in feature extraction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

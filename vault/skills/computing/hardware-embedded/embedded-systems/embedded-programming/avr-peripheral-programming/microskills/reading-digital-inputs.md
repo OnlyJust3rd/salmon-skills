@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Acquiring state information from input pins.
+## Related Mediums
+
+![[bases/related-mediums.base]]

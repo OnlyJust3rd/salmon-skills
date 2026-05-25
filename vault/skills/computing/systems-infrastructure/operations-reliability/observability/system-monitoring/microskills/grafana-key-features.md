@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of Grafana's capabilities for data visualization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

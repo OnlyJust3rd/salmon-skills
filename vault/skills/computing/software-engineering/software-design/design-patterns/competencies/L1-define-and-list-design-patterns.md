@@ -43,3 +43,6 @@ Define what a software design pattern is and list common design patterns.
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/common-design-pattern-definitions|Common Design Pattern Definitions]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-identification|Design Pattern Identification]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-purposes|Design Pattern Purposes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

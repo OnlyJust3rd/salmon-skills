@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/image-size-optimization|image-size-optimization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/image-size-optimization|image-size-optimization]]"
 learning-time-in-minutes: 4
 ---
 # Image Size Optimization: Understanding Layering's Impact

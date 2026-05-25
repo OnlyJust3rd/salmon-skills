@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-performance-optimization/microskills/profiler-trace|profiler-trace]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-performance-optimization/microskills/profiler-trace|profiler-trace]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Profiler Traces

@@ -44,3 +44,6 @@ Analyze algorithm efficiency using Big O notation to understand performance char
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/identify-efficiency-trade-offs|Identify Efficiency Trade-offs]]
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/space-complexity-analysis|Space Complexity Analysis]]
 - [[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/time-complexity-analysis|Time Complexity Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/application-database-integration/microskills/database-connectivity|database-connectivity]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/application-database-integration/microskills/database-connectivity|database-connectivity]]"
 learning-time-in-minutes: 3
 ---
 # Database Connectivity: Bridging Your Application and Data

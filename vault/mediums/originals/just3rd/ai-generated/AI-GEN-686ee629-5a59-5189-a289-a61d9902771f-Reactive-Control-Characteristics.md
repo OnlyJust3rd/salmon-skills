@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reactive-control-characteristics|reactive-control-characteristics]]"
+learning-outcomes:
+  - "[[reactive-control-characteristics|reactive-control-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Reactive Control Characteristics

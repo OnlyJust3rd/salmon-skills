@@ -42,3 +42,6 @@ List common robotic components such as motors and wheels.
 - [[standard-robotic-components|Standard Robotic Components]]
 - [[motor-components|Motor Components]]
 - [[wheeled-components|Wheeled Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

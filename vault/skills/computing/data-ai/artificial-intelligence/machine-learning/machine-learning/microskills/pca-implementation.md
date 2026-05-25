@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying PCA for dimensionality reduction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

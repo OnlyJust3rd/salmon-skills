@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the basic organizational units of relational data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

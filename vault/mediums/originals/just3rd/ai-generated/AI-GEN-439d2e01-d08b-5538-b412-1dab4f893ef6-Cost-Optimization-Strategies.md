@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-strategies|cost-optimization-strategies]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-strategies|cost-optimization-strategies]]"
 learning-time-in-minutes: 4
 ---
 # Cost Optimization Strategies in Cloud FinOps

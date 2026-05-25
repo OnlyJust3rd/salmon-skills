@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonal-vector-geometric-meaning|orthogonal-vector-geometric-meaning]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonal-vector-geometric-meaning|orthogonal-vector-geometric-meaning]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Orthogonal Vectors Geometrically

@@ -49,3 +49,6 @@ Describe how to tailor communication for different stakeholder audiences in a st
 - [[skills/business/entrepreneurship/startup-communication/microskills/investor-communication|Investor Communication]]
 - [[skills/business/entrepreneurship/startup-communication/microskills/customer-communication|Customer Communication]]
 - [[skills/business/entrepreneurship/startup-communication/microskills/team-communication|Team Communication]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

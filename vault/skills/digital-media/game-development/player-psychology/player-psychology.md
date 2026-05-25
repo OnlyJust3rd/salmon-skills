@@ -74,3 +74,6 @@ Apply psychological and behavioral theories to design engaging player experience
 - [[skills/digital-media/game-development/player-psychology/microskills/reward-system-design|Reward System Design]]
 - [[skills/digital-media/game-development/player-psychology/microskills/theory-to-engagement-link|Theory-to-Engagement Link]]
 - [[skills/digital-media/game-development/player-psychology/microskills/trait-and-motivation-integration|Trait and Motivation Integration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[vr-and-ar-positioning|vr-and-ar-positioning]]"
+learning-outcomes:
+  - "[[vr-and-ar-positioning|vr-and-ar-positioning]]"
 learning-time-in-minutes: 5
 ---
 # Understanding VR and AR within the Virtuality Continuum

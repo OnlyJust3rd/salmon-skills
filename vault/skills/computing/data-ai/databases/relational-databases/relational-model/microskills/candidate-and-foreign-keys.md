@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Using candidate, primary, and foreign keys to model identity and relationships.
+## Related Mediums
+
+![[bases/related-mediums.base]]

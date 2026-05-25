@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[i2c-master-read-write|i2c-master-read-write]]"
+learning-outcomes:
+  - "[[i2c-master-read-write|i2c-master-read-write]]"
 learning-time-in-minutes: 5
 ---
 # Implementing I2C Master Read/Write Operations

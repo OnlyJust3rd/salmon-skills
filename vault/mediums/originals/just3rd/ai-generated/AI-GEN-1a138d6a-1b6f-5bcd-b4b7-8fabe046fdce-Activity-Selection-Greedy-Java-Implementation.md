@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[activity-selection-greedy-java-implementation|activity-selection-greedy-java-implementation]]"
+learning-outcomes:
+  - "[[activity-selection-greedy-java-implementation|activity-selection-greedy-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Activity Selection Problem: Greedy Approach in Java

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/core-concepts-for-el-gamal|core-concepts-for-el-gamal]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/core-concepts-for-el-gamal|core-concepts-for-el-gamal]]"
 learning-time-in-minutes: 3
 ---
 # Core Concepts of El Gamal Encryption

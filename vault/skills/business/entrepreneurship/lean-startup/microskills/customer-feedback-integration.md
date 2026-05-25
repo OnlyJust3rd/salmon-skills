@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Incorporating feedback into the BML process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[sudoku-solver-backtracking-java-implementation|sudoku-solver-backtracking-java-implementation]]"
+learning-outcomes:
+  - "[[sudoku-solver-backtracking-java-implementation|sudoku-solver-backtracking-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Solving Sudoku with Backtracking in Java

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|scalability-law-assumptions]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|scalability-law-assumptions]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Assumptions of Scalability Laws

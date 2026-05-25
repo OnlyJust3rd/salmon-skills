@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-location-identification|encryption-location-identification]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-location-identification|encryption-location-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Encryption Location in Compression Pipelines

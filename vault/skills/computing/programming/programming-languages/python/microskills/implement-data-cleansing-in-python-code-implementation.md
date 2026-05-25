@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing and running Python code to carry out the task.
+## Related Mediums
+
+![[bases/related-mediums.base]]

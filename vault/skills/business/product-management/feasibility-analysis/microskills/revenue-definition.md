@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding income generated from sales.
+## Related Mediums
+
+![[bases/related-mediums.base]]

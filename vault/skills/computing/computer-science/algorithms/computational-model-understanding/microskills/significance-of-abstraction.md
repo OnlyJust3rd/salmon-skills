@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Appreciating how models simplify complex computational concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

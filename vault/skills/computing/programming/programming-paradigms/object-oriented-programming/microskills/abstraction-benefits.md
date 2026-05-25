@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the advantages of abstraction in software design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

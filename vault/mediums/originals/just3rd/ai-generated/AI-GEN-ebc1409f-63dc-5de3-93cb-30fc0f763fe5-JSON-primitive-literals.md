@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-primitive-literals|json-primitive-literals]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-primitive-literals|json-primitive-literals]]"
 learning-time-in-minutes: 3
 ---
 # JSON Primitive Literals: Understanding the Building Blocks

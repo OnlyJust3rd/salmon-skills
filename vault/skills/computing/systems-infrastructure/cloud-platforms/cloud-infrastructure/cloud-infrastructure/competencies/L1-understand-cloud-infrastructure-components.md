@@ -49,3 +49,6 @@ Explain the purpose, characteristics, and deployment considerations of cloud inf
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-families|Compute Instance Families]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-provisioning-types|Storage Provisioning Types]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/cloud-infrastructure-architecture|Cloud Infrastructure Architecture]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

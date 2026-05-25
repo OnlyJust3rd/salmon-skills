@@ -45,3 +45,6 @@ Implement neighborhood processing techniques for effects like blurring, sharpeni
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-blurring-techniques|Image Blurring Techniques]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-sharpening-techniques|Image Sharpening Techniques]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/edge-detection-methods|Edge Detection Methods]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/preservation-of-arithmetic-operations|preservation-of-arithmetic-operations]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/preservation-of-arithmetic-operations|preservation-of-arithmetic-operations]]"
 learning-time-in-minutes: 5
 ---
 # How Linear Transformations Preserve Arithmetic Operations

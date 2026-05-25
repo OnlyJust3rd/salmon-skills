@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of read, write, and execute permissions for users, groups, and others.
+## Related Mediums
+
+![[bases/related-mediums.base]]

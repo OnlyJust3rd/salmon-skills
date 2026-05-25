@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding delegated software engineering tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

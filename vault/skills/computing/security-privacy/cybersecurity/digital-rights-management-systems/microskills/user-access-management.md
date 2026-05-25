@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing mechanisms to control user access to protected digital assets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

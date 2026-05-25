@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to describe the significance of unit impulse and unit step functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

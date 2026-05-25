@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/unreal-engine/microskills/blueprint-event-graph|blueprint-event-graph]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/unreal-engine/microskills/blueprint-event-graph|blueprint-event-graph]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Blueprint Event Graph in Unreal Engine

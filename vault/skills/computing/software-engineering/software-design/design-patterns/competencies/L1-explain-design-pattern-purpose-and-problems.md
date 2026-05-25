@@ -45,3 +45,6 @@ Explain why software design patterns are needed, the kinds of recurring problems
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-identification|Recurring Design Problem Identification]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-benefits-explanation|Design Pattern Benefits Explanation]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-problem-solution-mapping|Design Pattern Problem-Solution Mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

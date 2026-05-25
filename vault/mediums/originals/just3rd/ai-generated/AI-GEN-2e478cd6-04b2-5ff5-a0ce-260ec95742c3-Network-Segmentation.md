@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-segmentation|network-segmentation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/computer-network/network-layers/network-layer/microskills/network-segmentation|network-segmentation]]"
 learning-time-in-minutes: 4
 ---
 # Network Segmentation: The Power of Subnetting

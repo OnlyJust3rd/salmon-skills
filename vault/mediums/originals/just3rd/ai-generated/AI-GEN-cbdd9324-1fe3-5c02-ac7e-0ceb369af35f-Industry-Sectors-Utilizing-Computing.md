@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/industry-sectors-utilizing-computing|industry-sectors-utilizing-computing]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/industry-sectors-utilizing-computing|industry-sectors-utilizing-computing]]"
 learning-time-in-minutes: 4
 ---
 # Industry Sectors Utilizing Computing

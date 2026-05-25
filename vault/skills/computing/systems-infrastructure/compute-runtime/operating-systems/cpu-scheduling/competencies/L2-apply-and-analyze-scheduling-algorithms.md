@@ -51,3 +51,6 @@ Apply CPU scheduling algorithms including FIFO, SJF, STCF, MLFQ, and Lottery Sch
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/turnaround-time-calculation|Turnaround Time Calculation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|Waiting Time Calculation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-performance-interpretation|Scheduling Algorithm Performance Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of zeros in transfer functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

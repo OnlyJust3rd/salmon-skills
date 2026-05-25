@@ -45,3 +45,6 @@ Apply product prioritization techniques.
 - [[skills/business/product-management/product-strategy/microskills/prioritization-criteria|Prioritization Criteria]]
 - [[skills/business/product-management/product-strategy/microskills/opportunity-sizing|Opportunity Sizing]]
 - [[skills/business/product-management/product-strategy/microskills/roadmap-trade-off|Roadmap Trade-off]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

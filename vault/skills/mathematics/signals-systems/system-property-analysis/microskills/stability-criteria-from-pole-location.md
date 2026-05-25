@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing how pole placements determine system stability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

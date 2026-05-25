@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding various methods for verifying identity in IoT ecosystems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

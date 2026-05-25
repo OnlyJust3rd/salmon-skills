@@ -47,3 +47,6 @@ Apply knowledge of Dockerfile instructions to construct a Dockerfile for a simpl
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/application-environment-setup|Application Environment Setup]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-image-creation|Container Image Creation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/best-practices-in-dockerfiles|Best Practices in Dockerfiles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Relationship between psychoacoustic masking and audio data reduction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

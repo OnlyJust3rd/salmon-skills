@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-communication-primitives|network-communication-primitives]]"
+learning-outcomes:
+  - "[[network-communication-primitives|network-communication-primitives]]"
 learning-time-in-minutes: 4
 ---
 # Network Communication Primitives: The Building Blocks of Sockets

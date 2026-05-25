@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[c-control-flow-statement-application|c-control-flow-statement-application]]"
+learning-outcomes:
+  - "[[c-control-flow-statement-application|c-control-flow-statement-application]]"
 learning-time-in-minutes: 2
 ---
 # Applying C Control Flow Statements

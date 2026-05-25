@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[edge-computing-workflow-implementation|edge-computing-workflow-implementation]]"
+learning-outcomes:
+  - "[[edge-computing-workflow-implementation|edge-computing-workflow-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Edge Computing Workflows with Low-Code Tools

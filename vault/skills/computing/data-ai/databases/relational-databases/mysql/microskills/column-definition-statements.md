@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing DDL to define table attributes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

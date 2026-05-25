@@ -45,3 +45,6 @@ Explain Snowflake cloud data platform concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/virtual-warehouse|Virtual Warehouse]]
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/stage|Stage]]
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/secure-sharing|Secure Sharing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

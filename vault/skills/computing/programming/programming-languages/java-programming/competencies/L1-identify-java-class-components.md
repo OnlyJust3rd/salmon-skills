@@ -43,3 +43,6 @@ Identify the components of a Java class, including fields, methods, and construc
 - [[skills/computing/programming/programming-languages/java-programming/microskills/java-fields|Java Fields]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/java-methods|Java Methods]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/java-constructors|Java Constructors]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

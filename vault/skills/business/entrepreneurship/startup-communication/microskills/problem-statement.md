@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining the customer need.
+## Related Mediums
+
+![[bases/related-mediums.base]]

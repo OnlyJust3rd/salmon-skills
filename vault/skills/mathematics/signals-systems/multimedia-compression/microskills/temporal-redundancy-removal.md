@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of minimizing temporal redundancy in video compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

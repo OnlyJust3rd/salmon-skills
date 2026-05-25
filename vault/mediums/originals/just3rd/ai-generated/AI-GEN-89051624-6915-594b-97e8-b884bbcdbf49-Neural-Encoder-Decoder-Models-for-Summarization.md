@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[neural-encoder-decoder-models-for-summarization|neural-encoder-decoder-models-for-summarization]]"
+learning-outcomes:
+  - "[[neural-encoder-decoder-models-for-summarization|neural-encoder-decoder-models-for-summarization]]"
 learning-time-in-minutes: 5
 ---
 # Neural Encoder-Decoder Models for Summarization

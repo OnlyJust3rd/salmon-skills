@@ -42,3 +42,6 @@ List the names of theorems that apply to continuous functions, including the int
 - [[theorems-for-continuous-functions|Theorems for continuous functions]]
 - [[intermediate-value-theorem|Intermediate Value Theorem]]
 - [[extreme-value-theorem|Extreme Value Theorem]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

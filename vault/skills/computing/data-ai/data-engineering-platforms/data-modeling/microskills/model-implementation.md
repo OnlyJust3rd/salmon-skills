@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of data modeling techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

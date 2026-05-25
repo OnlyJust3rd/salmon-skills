@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating how row operations simplify systems of equations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

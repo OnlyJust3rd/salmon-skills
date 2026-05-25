@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of different types of virtual machines optimized for various workloads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

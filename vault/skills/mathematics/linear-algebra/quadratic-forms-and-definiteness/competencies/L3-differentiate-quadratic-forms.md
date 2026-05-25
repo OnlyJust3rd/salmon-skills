@@ -45,3 +45,6 @@ Differentiate between positive definite, negative definite, and indefinite quadr
 - [[negative-definite-characteristics|Negative definite characteristics]]
 - [[indefinite-characteristics|Indefinite characteristics]]
 - [[classification-based-on-properties|Classification based on properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

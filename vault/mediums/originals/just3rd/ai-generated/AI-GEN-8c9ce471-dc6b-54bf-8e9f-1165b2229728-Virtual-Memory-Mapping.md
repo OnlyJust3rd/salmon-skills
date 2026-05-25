@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-mapping|virtual-memory-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-mapping|virtual-memory-mapping]]"
 learning-time-in-minutes: 5
 ---
 # Virtual Memory Mapping in Virtual Environments

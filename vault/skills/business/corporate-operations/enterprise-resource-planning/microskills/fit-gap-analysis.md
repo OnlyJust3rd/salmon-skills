@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing current needs with standard ERP capabilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

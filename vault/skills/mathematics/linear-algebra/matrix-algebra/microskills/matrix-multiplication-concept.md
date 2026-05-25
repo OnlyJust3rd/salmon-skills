@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of the meaning and process of matrix multiplication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of knowledge to identify encryption locations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

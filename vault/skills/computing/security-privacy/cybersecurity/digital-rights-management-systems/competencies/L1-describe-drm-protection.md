@@ -43,3 +43,6 @@ Describe how DRM systems protect digital content.
 
 - [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/drm-system-functionality|DRM System Functionality]]
 - [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/digital-content-safeguarding|Digital Content Safeguarding]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

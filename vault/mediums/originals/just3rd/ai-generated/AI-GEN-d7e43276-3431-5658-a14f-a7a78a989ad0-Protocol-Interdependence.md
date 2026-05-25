@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[protocol-interdependence|protocol-interdependence]]"
+learning-outcomes:
+  - "[[protocol-interdependence|protocol-interdependence]]"
 learning-time-in-minutes: 3
 ---
 # Protocol Interdependence: How HTTP and DNS Work Together

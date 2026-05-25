@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the impact of amplitude changes on phasor representation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

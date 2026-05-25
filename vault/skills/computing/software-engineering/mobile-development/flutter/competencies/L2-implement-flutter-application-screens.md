@@ -45,3 +45,6 @@ Implement Flutter application screens.
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/screen-widget|Screen Widget]]
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/navigation-route|Navigation Route]]
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/state-update|State Update]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

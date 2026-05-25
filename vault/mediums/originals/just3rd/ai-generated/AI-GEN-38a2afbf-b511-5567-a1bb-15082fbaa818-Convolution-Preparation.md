@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/convolution-preparation|convolution-preparation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/convolution-preparation|convolution-preparation]]"
 learning-time-in-minutes: 4
 ---
 # Convolution Preparation: Shifting and Flipping Signals

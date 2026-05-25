@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Recognizing the ordered phases of Waterfall delivery and how work flows between them.
+## Related Mediums
+
+![[bases/related-mediums.base]]

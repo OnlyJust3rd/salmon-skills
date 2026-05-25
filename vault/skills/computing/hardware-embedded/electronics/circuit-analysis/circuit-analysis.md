@@ -79,3 +79,6 @@ The ability to apply fundamental laws, theorems (Mesh/Nodal analysis, Superposit
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/superposition-theorem-application|Superposition Theorem Application]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/theoretical-outcome-deviation-analysis|Theoretical Outcome Deviation Analysis]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/thevenin-theorem-application|Thévenin Theorem Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

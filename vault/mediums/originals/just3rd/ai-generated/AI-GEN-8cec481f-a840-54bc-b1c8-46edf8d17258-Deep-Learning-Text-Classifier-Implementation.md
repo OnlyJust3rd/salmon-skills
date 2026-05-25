@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[deep-learning-text-classifier-implementation|deep-learning-text-classifier-implementation]]"
+learning-outcomes:
+  - "[[deep-learning-text-classifier-implementation|deep-learning-text-classifier-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing a Deep Learning Text Classifier

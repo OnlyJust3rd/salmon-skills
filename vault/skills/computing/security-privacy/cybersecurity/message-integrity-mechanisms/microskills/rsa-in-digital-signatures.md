@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Functionality of RSA in signing and verification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-physics/microskills/force-application|force-application]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-physics/microskills/force-application|force-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Forces to Change Motion

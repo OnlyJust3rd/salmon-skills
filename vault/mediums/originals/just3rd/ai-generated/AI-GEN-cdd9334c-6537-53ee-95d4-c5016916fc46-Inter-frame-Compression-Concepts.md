@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/image-compression/microskills/inter-frame-compression-concepts|inter-frame-compression-concepts]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/image-compression/microskills/inter-frame-compression-concepts|inter-frame-compression-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Inter-frame Compression Concepts

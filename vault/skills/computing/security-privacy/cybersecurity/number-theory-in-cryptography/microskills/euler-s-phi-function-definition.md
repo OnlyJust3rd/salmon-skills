@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of Euler's Phi function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

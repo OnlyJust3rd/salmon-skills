@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/truth-table-construction|truth-table-construction]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/truth-table-construction|truth-table-construction]]"
 learning-time-in-minutes: 5
 ---
 # Constructing Truth Tables

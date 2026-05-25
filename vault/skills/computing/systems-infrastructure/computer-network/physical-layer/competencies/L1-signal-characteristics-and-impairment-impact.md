@@ -45,3 +45,6 @@ Explain the characteristics of different signals used in data transmission and d
 - [[transmission-impairments|Transmission Impairments]]
 - [[signal-degradation-factors|Signal Degradation Factors]]
 - [[impact-on-signal-quality|Impact on Signal Quality]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

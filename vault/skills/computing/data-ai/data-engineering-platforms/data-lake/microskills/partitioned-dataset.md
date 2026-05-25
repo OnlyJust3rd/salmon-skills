@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Structuring files by values such as date or region.
+## Related Mediums
+
+![[bases/related-mediums.base]]

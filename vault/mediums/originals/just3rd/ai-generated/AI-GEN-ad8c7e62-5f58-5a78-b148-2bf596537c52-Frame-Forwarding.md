@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[frame-forwarding|frame-forwarding]]"
+learning-outcomes:
+  - "[[frame-forwarding|frame-forwarding]]"
 learning-time-in-minutes: 5
 ---
 # Frame Forwarding: How Switches Learn and Direct Traffic

@@ -32,3 +32,6 @@ Principles for keeping software releasable through automated delivery pipelines,
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/progressive-deployment-strategies|Progressive Deployment Strategies]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/release-stages|Release Stages]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/rollback-concepts|Rollback Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

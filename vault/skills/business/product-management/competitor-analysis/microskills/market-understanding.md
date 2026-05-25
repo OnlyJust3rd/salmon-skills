@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Gaining insights into the competitive environment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

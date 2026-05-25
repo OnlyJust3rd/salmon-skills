@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[vlan-advantages|vlan-advantages]]"
+learning-outcomes:
+  - "[[vlan-advantages|vlan-advantages]]"
 learning-time-in-minutes: 4
 ---
 # VLAN Advantages

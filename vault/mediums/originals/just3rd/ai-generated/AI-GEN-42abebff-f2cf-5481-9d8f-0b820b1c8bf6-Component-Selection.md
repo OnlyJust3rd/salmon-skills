@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[component-selection|component-selection]]"
+learning-outcomes:
+  - "[[component-selection|component-selection]]"
 learning-time-in-minutes: 5
 ---
 # Component Selection: Building Blocks for Your Interfaces

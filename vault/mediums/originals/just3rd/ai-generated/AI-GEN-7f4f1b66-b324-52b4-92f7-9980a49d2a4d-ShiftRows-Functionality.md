@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-functionality|shiftrows-functionality]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-functionality|shiftrows-functionality]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the ShiftRows Function in Block Ciphers

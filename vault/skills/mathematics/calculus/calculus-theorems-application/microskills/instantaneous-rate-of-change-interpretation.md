@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of how the Mean Value Theorem relates to the derivative of a function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

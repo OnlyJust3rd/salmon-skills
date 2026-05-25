@@ -49,3 +49,6 @@ Define and explain the basic principles, components, and operational flow of sim
 - [[converter-components|Converter Components]]
 - [[analog-digital-signal-relationship|Analog-Digital Signal Relationship]]
 - [[quantization-error|Quantization Error]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

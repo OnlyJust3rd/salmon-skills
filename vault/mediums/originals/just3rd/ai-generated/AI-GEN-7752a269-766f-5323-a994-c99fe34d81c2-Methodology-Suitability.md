@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/methodology-suitability|methodology-suitability]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/methodology-suitability|methodology-suitability]]"
 learning-time-in-minutes: 6
 ---
 # Evaluating Methodology Suitability

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of serial-in/parallel-out and parallel-in/serial-out data movement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

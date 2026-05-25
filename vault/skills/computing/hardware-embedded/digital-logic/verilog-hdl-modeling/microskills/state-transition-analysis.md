@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of state transitions in Verilog counter models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

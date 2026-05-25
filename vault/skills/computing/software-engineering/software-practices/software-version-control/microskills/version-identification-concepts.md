@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding methods for tracking code changes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

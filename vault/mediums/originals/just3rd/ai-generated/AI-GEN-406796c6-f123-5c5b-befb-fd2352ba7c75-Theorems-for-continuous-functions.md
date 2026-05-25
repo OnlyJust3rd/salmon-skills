@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/theorems-for-continuous-functions|theorems-for-continuous-functions]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/theorems-for-continuous-functions|theorems-for-continuous-functions]]"
 learning-time-in-minutes: 3
 ---
 # Theorems for Continuous Functions

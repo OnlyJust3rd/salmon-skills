@@ -49,3 +49,6 @@ Explain the Spanning Tree Protocol's functions, components, and role in preventi
 - [[root-bridge-election|Root Bridge Election]]
 - [[stp-components|STP Components]]
 - [[redundant-path-management|Redundant Path Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

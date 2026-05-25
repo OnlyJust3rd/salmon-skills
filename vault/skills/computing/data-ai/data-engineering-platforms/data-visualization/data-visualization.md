@@ -42,3 +42,6 @@ Creating meaningful visualizations using Python and essential libraries like mat
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-effectiveness|Visualization Effectiveness]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-implementation|Visualization Implementation]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-use-cases|Visualization Use Cases]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

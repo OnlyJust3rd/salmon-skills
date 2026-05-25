@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of techniques for gathering and defining user requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

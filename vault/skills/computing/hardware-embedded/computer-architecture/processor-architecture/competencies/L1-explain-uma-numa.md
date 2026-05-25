@@ -41,3 +41,6 @@ Explain the concepts of Uniform Memory Access (UMA) and Non-Uniform Memory Acces
 
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/uniform-memory-access-uma-principles|Uniform Memory Access (UMA) Principles]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/non-uniform-memory-access-numa-principles|Non-Uniform Memory Access (NUMA) Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

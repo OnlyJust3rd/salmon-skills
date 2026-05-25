@@ -58,3 +58,6 @@ Understand the evolution, scope, and interdisciplinary nature of HCI, including 
 - [[user-experience-enhancement|User Experience Enhancement]]
 - [[user-experience-principles-application|User Experience Principles Application]]
 - [[user-interface-paradigms|User Interface Paradigms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

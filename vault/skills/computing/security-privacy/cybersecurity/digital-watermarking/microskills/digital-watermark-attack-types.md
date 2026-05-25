@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and classification of various attacks against watermarks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

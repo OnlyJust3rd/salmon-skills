@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the suitability of scheduling algorithms for different workloads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

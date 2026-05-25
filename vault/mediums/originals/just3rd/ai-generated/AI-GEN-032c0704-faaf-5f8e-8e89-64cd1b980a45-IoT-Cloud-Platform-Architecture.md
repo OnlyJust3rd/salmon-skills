@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-cloud-platform-architecture|iot-cloud-platform-architecture]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/iot-cloud-platform-architecture|iot-cloud-platform-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Understanding IoT Cloud Platform Architecture

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the criteria for a static system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

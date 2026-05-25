@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the relationship between Industry 4.0 and IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

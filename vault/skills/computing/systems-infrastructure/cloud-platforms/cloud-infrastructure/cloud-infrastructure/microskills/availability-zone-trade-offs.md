@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of redundancy versus complexity in using multiple zones.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/processor-datapath-data-flow|processor-datapath-data-flow]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/processor-datapath-data-flow|processor-datapath-data-flow]]"
 learning-time-in-minutes: 5
 ---
 # Processor Datapath Data Flow

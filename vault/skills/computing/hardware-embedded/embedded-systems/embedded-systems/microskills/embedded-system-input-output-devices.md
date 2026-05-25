@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role of sensors and actuators in embedded systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

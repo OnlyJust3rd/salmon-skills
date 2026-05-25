@@ -45,3 +45,6 @@ Explain the differences between linear and non-linear data structures, the conce
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/static-vs-dynamic-memory-management|Static vs. Dynamic Memory Management]]
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/data-structure-properties|Data Structure Properties]]
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/data-structure-use-cases|Data Structure Use Cases]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

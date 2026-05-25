@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interface-characteristics|interface-characteristics]]"
+learning-outcomes:
+  - "[[interface-characteristics|interface-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Interface Characteristics

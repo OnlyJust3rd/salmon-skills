@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of methods to track system failures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

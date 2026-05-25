@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/operational-amplifier-configuration|operational-amplifier-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/operational-amplifier-configuration|operational-amplifier-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Operational Amplifier Configurations

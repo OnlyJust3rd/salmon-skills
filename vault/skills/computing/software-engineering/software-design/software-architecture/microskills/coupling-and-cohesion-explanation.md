@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the impact of coupling and cohesion on system design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

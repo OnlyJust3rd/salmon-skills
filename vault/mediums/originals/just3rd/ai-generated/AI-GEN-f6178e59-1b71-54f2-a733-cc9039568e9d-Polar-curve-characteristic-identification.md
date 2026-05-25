@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-curve-characteristic-identification|polar-curve-characteristic-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-curve-characteristic-identification|polar-curve-characteristic-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Characteristics of Polar Curves

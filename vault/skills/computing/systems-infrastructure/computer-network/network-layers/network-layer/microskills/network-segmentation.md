@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How subnetting creates smaller network divisions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

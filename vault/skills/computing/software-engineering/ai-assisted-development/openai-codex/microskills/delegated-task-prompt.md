@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing a clear implementation request for a coding agent.
+## Related Mediums
+
+![[bases/related-mediums.base]]

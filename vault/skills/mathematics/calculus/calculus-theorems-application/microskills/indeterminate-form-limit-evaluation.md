@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how L'Hôpital's rule is applied to limits that yield indeterminate forms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

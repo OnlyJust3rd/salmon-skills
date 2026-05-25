@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/pole-location-significance-s-plane|pole-location-significance-s-plane]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/pole-location-significance-s-plane|pole-location-significance-s-plane]]"
 learning-time-in-minutes: 4
 ---
 # Pole Location Significance (s-plane)

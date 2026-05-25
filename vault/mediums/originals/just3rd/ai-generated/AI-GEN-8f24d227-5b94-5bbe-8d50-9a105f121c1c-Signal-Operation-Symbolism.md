@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/signal-operation-symbolism|signal-operation-symbolism]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/signal-operation-symbolism|signal-operation-symbolism]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Signal Operation Symbolism

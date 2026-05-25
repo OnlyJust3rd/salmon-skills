@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the process of mapping world coordinates to view coordinates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

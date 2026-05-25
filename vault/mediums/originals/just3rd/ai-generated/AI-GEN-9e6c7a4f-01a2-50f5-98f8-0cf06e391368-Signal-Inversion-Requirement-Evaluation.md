@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-evaluation|signal-inversion-requirement-evaluation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-evaluation|signal-inversion-requirement-evaluation]]"
 learning-time-in-minutes: 3
 ---
 # Evaluating Op-Amp Configurations for Signal Inversion

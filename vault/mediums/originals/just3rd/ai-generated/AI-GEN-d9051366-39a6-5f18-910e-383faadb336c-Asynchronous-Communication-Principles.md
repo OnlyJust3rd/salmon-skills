@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/asynchronous-communication-principles|asynchronous-communication-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/asynchronous-communication-principles|asynchronous-communication-principles]]"
 learning-time-in-minutes: 5
 ---
 # Asynchronous Communication Principles

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the connection between problem definition and system blueprint.
+## Related Mediums
+
+![[bases/related-mediums.base]]

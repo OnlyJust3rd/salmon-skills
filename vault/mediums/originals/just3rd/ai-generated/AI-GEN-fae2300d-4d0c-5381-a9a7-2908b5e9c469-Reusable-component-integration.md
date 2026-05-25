@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reusable-component-integration|reusable-component-integration]]"
+learning-outcomes:
+  - "[[reusable-component-integration|reusable-component-integration]]"
 learning-time-in-minutes: 3
 ---
 # Integrating Reusable Components in C

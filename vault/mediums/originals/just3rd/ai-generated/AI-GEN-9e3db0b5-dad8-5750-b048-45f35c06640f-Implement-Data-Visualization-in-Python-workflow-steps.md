@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-data-visualization-in-python-workflow-steps|implement-data-visualization-in-python-workflow-steps]]"
+learning-outcomes:
+  - "[[implement-data-visualization-in-python-workflow-steps|implement-data-visualization-in-python-workflow-steps]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Data Visualization in Python: A Workflow

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Testing whether an agent can detect relevant game objects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

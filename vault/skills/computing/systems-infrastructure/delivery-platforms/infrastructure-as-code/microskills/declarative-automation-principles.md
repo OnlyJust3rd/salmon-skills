@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Knowledge of defining desired states rather than sequences of commands.
+## Related Mediums
+
+![[bases/related-mediums.base]]

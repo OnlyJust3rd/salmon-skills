@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying scientific principles to resolve analytical challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

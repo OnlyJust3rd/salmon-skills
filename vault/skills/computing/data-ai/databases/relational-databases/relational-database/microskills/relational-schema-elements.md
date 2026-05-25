@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Fundamental building blocks of a database schema.
+## Related Mediums
+
+![[bases/related-mediums.base]]

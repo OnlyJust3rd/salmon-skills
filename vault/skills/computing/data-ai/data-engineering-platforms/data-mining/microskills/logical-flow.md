@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of the sequential and iterative nature of CRISP-DM.
+## Related Mediums
+
+![[bases/related-mediums.base]]

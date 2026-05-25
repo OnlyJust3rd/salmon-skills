@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Relate navigation and API calls to browser-server interaction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

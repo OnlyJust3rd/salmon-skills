@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain the geometric meaning of normal vectors in plane equations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Utilize low-code tools to design and deploy simple workflow automations for IoT 
 - [[iot-workflow-design|IoT Workflow Design]]
 - [[edge-computing-workflow-implementation|Edge Computing Workflow Implementation]]
 - [[iot-data-automation|IoT Data Automation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

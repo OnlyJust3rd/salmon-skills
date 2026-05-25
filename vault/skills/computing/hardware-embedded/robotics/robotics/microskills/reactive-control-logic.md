@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the underlying operational principles of reactive control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

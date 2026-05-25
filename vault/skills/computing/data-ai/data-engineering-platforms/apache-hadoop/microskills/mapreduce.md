@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding map and reduce stages for batch computation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

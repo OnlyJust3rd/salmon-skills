@@ -30,3 +30,6 @@ Design visual scenes and environments using composition, lighting, and spatial a
 - [[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/lighting-design-for-mood|Lighting Design for Mood]]
 - [[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/scene-atmosphere-creation|Scene Atmosphere Creation]]
 - [[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/visual-composition-principles|Visual Composition Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

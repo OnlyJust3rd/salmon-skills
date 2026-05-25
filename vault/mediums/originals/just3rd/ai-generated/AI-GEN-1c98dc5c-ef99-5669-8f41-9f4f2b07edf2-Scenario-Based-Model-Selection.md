@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/scenario-based-model-selection|scenario-based-model-selection]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/scenario-based-model-selection|scenario-based-model-selection]]"
 learning-time-in-minutes: 4
 ---
 # Scenario-Based Cloud Service Model Selection

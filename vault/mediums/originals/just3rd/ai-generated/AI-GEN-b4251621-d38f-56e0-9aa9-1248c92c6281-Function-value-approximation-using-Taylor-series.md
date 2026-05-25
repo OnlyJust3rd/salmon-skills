@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/function-value-approximation-using-taylor-series|function-value-approximation-using-taylor-series]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/function-value-approximation-using-taylor-series|function-value-approximation-using-taylor-series]]"
 learning-time-in-minutes: 4
 ---
 # Approximating Function Values with Taylor Series

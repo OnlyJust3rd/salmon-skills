@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Create reusable HTML skeletons for multiple views.
+## Related Mediums
+
+![[bases/related-mediums.base]]

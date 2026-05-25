@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[word-cloud-characteristics|word-cloud-characteristics]]"
+learning-outcomes:
+  - "[[word-cloud-characteristics|word-cloud-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Word Clouds: Visualizing Text Frequency

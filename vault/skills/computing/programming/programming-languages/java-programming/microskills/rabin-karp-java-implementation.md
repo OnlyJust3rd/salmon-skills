@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Rabin-Karp string searching algorithm in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

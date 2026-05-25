@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/modular-structure-recognition|modular-structure-recognition]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-principles/modular-program-design/microskills/modular-structure-recognition|modular-structure-recognition]]"
 learning-time-in-minutes: 4
 ---
 # Recognizing Modular Structures in Code

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of why certain business actions are considered unethical.
+## Related Mediums
+
+![[bases/related-mediums.base]]

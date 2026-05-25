@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of communication protocols used for data transmission in embedded IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

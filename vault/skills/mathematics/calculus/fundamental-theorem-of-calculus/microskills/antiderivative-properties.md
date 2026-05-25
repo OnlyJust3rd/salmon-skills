@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall and enumeration of the fundamental properties of antiderivatives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

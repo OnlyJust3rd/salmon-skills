@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to set up an oscilloscope for waveform capture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

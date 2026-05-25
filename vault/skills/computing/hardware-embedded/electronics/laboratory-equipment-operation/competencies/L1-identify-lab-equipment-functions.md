@@ -50,3 +50,6 @@ Identify the types, functions, and basic operations of standard laboratory equip
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/oscillator-basic-operations|Oscillator Basic Operations]]
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/power-regulator-basic-operations|Power Regulator Basic Operations]]
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/electronics-measurement-instruments|Electronics Measurement Instruments]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

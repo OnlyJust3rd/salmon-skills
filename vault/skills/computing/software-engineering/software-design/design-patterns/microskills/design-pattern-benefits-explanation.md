@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the advantages of using specific design patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

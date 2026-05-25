@@ -43,3 +43,6 @@ Explain De Morgan's theorems and their application in simplifying logic expressi
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/de-morgan-s-theorem-statement|De Morgan's Theorem Statement]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/theorem-application|Theorem Application]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-expression-simplification|Logic Expression Simplification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

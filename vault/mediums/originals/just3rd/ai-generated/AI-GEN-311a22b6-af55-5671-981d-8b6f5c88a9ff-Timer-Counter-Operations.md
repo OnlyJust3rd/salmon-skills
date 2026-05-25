@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[timer-counter-operations|timer-counter-operations]]"
+learning-outcomes:
+  - "[[timer-counter-operations|timer-counter-operations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding AVR Timer/Counter Operations

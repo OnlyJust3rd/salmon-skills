@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/core-gameplay-mechanics|core-gameplay-mechanics]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/core-gameplay-mechanics|core-gameplay-mechanics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Core Gameplay Mechanics in Game Genres

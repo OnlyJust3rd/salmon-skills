@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in applying nodal analysis to solve circuit problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

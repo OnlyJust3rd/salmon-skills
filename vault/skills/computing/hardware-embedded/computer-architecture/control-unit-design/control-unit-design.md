@@ -41,3 +41,6 @@ Explaining and evaluating control-unit implementation approaches (hardwired vs m
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microinstruction-mapping|Microinstruction Mapping]]
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microinstruction-sequencing|Microinstruction Sequencing]]
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microprogrammed-control-concept|Microprogrammed Control Concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

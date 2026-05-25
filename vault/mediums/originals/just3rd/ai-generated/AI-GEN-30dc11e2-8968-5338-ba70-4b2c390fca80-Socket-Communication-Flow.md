@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[socket-communication-flow|socket-communication-flow]]"
+learning-outcomes:
+  - "[[socket-communication-flow|socket-communication-flow]]"
 learning-time-in-minutes: 5
 ---
 # Socket Communication Flow: The Heartbeat of Networked Applications

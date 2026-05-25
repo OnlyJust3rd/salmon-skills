@@ -45,3 +45,6 @@ Identify biological inspirations for computational evolution discussed in the co
 
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/biological-inspirations-for-computational-models|Biological Inspirations for Computational Models]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/evolutionary-concepts-in-computing|Evolutionary Concepts in Computing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

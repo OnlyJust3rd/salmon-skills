@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the common keywords and organizational patterns in pseudocode.
+## Related Mediums
+
+![[bases/related-mediums.base]]

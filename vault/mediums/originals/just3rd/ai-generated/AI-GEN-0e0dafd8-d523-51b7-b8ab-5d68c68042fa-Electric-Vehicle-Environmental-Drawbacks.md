@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/electric-vehicle-environmental-drawbacks|electric-vehicle-environmental-drawbacks]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/electric-vehicle-environmental-drawbacks|electric-vehicle-environmental-drawbacks]]"
 learning-time-in-minutes: 4
 ---
 # Electric Vehicle Environmental Drawbacks

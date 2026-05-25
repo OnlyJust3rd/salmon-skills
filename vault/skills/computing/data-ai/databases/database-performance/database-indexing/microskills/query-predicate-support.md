@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how filters, joins, and ordering can benefit from indexes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

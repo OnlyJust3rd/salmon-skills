@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/message-authentication-code-mac-construction|message-authentication-code-mac-construction]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/message-authentication-code-mac-construction|message-authentication-code-mac-construction]]"
 learning-time-in-minutes: 3
 ---
 # Message Authentication Code (MAC) Construction

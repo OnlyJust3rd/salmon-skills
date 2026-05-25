@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing descriptive analysis context.
+## Related Mediums
+
+![[bases/related-mediums.base]]

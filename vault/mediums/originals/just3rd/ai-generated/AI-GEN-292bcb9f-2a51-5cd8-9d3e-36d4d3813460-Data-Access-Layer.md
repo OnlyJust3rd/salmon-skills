@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-access-layer|data-access-layer]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-access-layer|data-access-layer]]"
 learning-time-in-minutes: 4
 ---
 # The Data Access Layer: Your Database Gateway

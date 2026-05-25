@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the pattern of accessing hardware through fixed memory addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

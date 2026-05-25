@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Collaborating at one workstation or shared environment to design, code, and review continuously.
+## Related Mediums
+
+![[bases/related-mediums.base]]

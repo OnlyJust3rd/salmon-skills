@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall the layout and variable ordering of Karnaugh Maps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

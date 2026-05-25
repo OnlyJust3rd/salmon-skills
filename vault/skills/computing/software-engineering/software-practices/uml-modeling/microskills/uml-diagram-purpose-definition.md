@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the primary function of each diagram type.
+## Related Mediums
+
+![[bases/related-mediums.base]]

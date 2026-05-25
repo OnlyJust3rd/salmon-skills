@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[i-o-port-configuration-registers|i-o-port-configuration-registers]]"
+learning-outcomes:
+  - "[[i-o-port-configuration-registers|i-o-port-configuration-registers]]"
 learning-time-in-minutes: 5
 ---
 # I/O Port Configuration Registers: Controlling Your AVR's Pins

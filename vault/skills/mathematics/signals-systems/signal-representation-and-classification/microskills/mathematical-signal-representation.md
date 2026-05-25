@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how mathematical models translate to signal descriptions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

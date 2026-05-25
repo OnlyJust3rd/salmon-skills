@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[intelligent-robotic-behavior-generation|intelligent-robotic-behavior-generation]]"
+learning-outcomes:
+  - "[[intelligent-robotic-behavior-generation|intelligent-robotic-behavior-generation]]"
 learning-time-in-minutes: 4
 ---
 # Intelligent Robotic Behavior Generation with Subsumption Architecture

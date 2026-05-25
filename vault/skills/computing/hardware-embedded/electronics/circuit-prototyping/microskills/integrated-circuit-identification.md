@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of IC package types and pinouts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

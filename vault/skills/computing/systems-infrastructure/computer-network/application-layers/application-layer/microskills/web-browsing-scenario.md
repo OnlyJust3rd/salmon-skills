@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role of HTTP and DNS in user requests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

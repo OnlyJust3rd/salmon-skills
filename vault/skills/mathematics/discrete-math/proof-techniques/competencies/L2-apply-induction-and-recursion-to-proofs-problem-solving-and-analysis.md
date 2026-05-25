@@ -53,3 +53,6 @@ Apply mathematical induction to prove statements and analyze recursive algorithm
 - [[recursive-problem-solving|Recursive Problem Solving]]
 - [[recursive-process-analysis|Recursive Process Analysis]]
 - [[time-complexity-analysis-recursion|Time Complexity Analysis (Recursion)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

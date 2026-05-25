@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-primitive-utilization|cryptographic-primitive-utilization]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-primitive-utilization|cryptographic-primitive-utilization]]"
 learning-time-in-minutes: 3
 ---
 # Cryptographic Primitive Utilization: Hashing for Digital Signatures

@@ -43,3 +43,6 @@ Explain the relationship between the coefficient matrix and the existence of non
 - [[coefficient-matrix-influence|Coefficient matrix influence]]
 - [[geometric-interpretation-of-solutions|Geometric interpretation of solutions]]
 - [[non-trivial-solution-existence|Non-trivial solution existence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

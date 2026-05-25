@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and understanding of the features and structure of word clouds.
+## Related Mediums
+
+![[bases/related-mediums.base]]

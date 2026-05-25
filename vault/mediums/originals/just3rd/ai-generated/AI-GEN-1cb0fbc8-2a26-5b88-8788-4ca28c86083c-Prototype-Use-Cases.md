@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[prototype-use-cases|prototype-use-cases]]"
+learning-outcomes:
+  - "[[prototype-use-cases|prototype-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Prototype Use Cases

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of the process to create physical prototypes from digital models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

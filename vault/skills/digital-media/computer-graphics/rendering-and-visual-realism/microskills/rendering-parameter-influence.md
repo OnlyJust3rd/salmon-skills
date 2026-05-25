@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how rendering settings impact visual quality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

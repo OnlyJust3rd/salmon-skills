@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Partitioning data by ordered ranges such as dates or numeric intervals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

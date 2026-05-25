@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of fundamental number theory concepts relevant to cryptography.
+## Related Mediums
+
+![[bases/related-mediums.base]]

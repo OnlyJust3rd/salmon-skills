@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/application-business-logic-layer|application-business-logic-layer]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/application-business-logic-layer|application-business-logic-layer]]"
 learning-time-in-minutes: 4
 ---
 # The Application/Business Logic Layer: The Brains of the Operation

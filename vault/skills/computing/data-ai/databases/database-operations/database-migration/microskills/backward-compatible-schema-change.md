@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Designing migrations that keep old and new application versions working.
+## Related Mediums
+
+![[bases/related-mediums.base]]

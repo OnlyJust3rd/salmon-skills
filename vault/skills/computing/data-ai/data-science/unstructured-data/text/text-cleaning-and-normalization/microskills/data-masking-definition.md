@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the concept and definition of data masking for privacy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

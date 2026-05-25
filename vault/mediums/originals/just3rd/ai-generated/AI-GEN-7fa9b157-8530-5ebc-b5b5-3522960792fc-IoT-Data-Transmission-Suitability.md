@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-data-transmission-suitability|iot-data-transmission-suitability]]"
+learning-outcomes:
+  - "[[iot-data-transmission-suitability|iot-data-transmission-suitability]]"
 learning-time-in-minutes: 5
 ---
 # IoT Data Transmission Suitability: Choosing the Right Path

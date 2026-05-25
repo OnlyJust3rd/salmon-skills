@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding graphics-side performance limits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

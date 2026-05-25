@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of Foster's design principles to construct parallel applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

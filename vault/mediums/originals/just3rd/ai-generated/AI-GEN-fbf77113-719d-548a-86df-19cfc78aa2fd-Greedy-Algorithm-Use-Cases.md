@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/greedy-algorithm-use-cases|greedy-algorithm-use-cases]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/greedy-algorithm-use-cases|greedy-algorithm-use-cases]]"
 learning-time-in-minutes: 4
 ---
 # Greedy Algorithm Use Cases

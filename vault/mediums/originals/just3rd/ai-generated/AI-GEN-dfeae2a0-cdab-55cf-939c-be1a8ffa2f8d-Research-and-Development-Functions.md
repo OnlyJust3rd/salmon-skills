@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/corporate-functions/microskills/research-and-development-functions|research-and-development-functions]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/corporate-functions/microskills/research-and-development-functions|research-and-development-functions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Research and Development (R&D) Functions

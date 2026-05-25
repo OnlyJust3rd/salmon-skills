@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to group related code into functional units.
+## Related Mediums
+
+![[bases/related-mediums.base]]

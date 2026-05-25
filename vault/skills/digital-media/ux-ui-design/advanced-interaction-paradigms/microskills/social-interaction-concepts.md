@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing key concepts related to social interactions in HCI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

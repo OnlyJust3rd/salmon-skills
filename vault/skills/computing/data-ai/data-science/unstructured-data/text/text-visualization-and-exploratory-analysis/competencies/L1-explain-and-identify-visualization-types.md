@@ -46,3 +46,6 @@ Explain the purpose and identify common types of text visualizations, such as wo
 - [[heatmap-interpretation|Heatmap Interpretation]]
 - [[bar-chart-for-text-data|Bar Chart for Text Data]]
 - [[network-diagram-application|Network Diagram Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

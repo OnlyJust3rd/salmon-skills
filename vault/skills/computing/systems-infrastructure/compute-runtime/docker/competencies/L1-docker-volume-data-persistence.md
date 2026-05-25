@@ -45,3 +45,6 @@ Describe how Docker volumes enable data persistence for containerized applicatio
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-durability-in-containers|Data Durability in Containers]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-mounting-strategies|Volume Mounting Strategies]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-migration-with-volumes|Data Migration with Volumes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

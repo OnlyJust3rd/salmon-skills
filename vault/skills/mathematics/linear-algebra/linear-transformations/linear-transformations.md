@@ -53,3 +53,6 @@ Understand linear transformations as mappings between vector spaces, including t
 - [[rank-nullity-theorem-application|Rank-Nullity theorem application]]
 - [[surjectivity-determination|Surjectivity determination]]
 - [[transformation-to-matrix-mapping|Transformation-to-matrix mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Scenarios where greedy algorithms are beneficial.
+## Related Mediums
+
+![[bases/related-mediums.base]]

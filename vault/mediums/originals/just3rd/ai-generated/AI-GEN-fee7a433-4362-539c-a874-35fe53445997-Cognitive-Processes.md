@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cognitive-processes|cognitive-processes]]"
+learning-outcomes:
+  - "[[cognitive-processes|cognitive-processes]]"
 learning-time-in-minutes: 4
 ---
 # Cognitive Processes: The Building Blocks of Human Interaction

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying approaches for managing network devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

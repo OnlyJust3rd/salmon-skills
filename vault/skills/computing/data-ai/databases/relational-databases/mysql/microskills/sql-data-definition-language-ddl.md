@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Commands for defining database structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

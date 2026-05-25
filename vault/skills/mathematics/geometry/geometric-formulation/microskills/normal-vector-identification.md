@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to identify normal vectors in geometric equations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

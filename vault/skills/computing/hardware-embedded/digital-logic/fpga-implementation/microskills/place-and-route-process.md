@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how logic elements are mapped and routed on the FPGA fabric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

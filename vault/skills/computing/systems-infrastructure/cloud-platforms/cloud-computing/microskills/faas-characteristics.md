@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of Function as a Service.
+## Related Mediums
+
+![[bases/related-mediums.base]]

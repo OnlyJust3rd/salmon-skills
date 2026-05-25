@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/kernel-definition|kernel-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/kernel-definition|kernel-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Kernel of a Linear Transformation

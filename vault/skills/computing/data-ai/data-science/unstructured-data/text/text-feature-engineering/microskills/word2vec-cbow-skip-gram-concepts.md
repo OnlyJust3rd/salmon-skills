@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and identification of the underlying principles of Word2Vec models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

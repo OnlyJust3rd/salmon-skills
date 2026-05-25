@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/big-o-notation-significance|big-o-notation-significance]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/big-o-notation-significance|big-o-notation-significance]]"
 learning-time-in-minutes: 3
 ---
 # The Significance of Big O Notation

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reasoning about deployment through managed hosting.
+## Related Mediums
+
+![[bases/related-mediums.base]]

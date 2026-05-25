@@ -47,3 +47,6 @@ Program the AVR microcontroller's Analog-to-Digital Converter (ADC) in C to read
 - [[adc-conversion-triggering|ADC Conversion Triggering]]
 - [[adc-result-reading|ADC Result Reading]]
 - [[adc-reference-voltage-configuration|ADC Reference Voltage Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

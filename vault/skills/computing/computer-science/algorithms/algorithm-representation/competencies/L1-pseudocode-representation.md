@@ -43,3 +43,6 @@ Describe how pseudocode represents algorithmic logic and control flow using comm
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/pseudocode-structure-comprehension|Pseudocode structure comprehension]]
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/algorithmic-logic-representation|Algorithmic logic representation]]
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/human-readable-algorithm-description|Human-readable algorithm description]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

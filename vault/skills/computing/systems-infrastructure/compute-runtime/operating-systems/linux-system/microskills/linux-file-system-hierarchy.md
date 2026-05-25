@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the layered structure of the Linux file system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

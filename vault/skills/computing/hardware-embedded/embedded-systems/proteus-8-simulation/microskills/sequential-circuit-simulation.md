@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Simulation of sequential logic circuits in Proteus 8.
+## Related Mediums
+
+![[bases/related-mediums.base]]

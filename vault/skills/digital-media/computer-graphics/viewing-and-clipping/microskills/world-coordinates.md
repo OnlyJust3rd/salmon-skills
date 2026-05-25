@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the world coordinate system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

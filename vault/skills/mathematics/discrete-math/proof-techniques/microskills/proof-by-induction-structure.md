@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the sequential steps required for an inductive proof.
+## Related Mediums
+
+![[bases/related-mediums.base]]

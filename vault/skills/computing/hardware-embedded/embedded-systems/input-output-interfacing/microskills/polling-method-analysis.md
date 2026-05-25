@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of the polling technique for I/O access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

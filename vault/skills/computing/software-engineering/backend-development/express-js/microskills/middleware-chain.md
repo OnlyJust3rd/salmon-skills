@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain ordering of parsing, logging, and error middleware.
+## Related Mediums
+
+![[bases/related-mediums.base]]

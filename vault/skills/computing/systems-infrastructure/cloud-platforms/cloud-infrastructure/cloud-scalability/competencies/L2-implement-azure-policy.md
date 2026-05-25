@@ -45,3 +45,6 @@ Implement Azure Policy to enforce governance rules for cloud resources.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/governance-rule-enforcement|Governance Rule Enforcement]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/policy-assignment|Policy Assignment]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-compliance|Azure Policy Compliance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

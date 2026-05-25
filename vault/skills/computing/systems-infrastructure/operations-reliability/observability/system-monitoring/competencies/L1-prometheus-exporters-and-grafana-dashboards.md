@@ -45,3 +45,6 @@ Explain the role of Prometheus exporters in collecting metrics and summarize the
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/metric-collection-process|Metric Collection Process]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/basic-grafana-dashboard-setup|Basic Grafana Dashboard Setup]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/data-source-configuration|Data Source Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

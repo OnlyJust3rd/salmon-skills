@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/layout-with-flexbox-or-grid|layout-with-flexbox-or-grid]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/css/microskills/layout-with-flexbox-or-grid|layout-with-flexbox-or-grid]]"
 learning-time-in-minutes: 2
 ---
 # Layout with Flexbox or Grid

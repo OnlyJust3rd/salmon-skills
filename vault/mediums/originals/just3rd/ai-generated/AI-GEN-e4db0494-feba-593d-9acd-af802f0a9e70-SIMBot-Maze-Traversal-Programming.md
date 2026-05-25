@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[simbot-maze-traversal-programming|simbot-maze-traversal-programming]]"
+learning-outcomes:
+  - "[[simbot-maze-traversal-programming|simbot-maze-traversal-programming]]"
 learning-time-in-minutes: 4
 ---
 # SIMBot Maze Traversal Programming

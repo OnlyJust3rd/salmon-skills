@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall common D/A converter architectures (weighted resistor, R-2R ladder).
+## Related Mediums
+
+![[bases/related-mediums.base]]

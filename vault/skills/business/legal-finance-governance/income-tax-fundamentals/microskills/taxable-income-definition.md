@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of income subject to taxation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

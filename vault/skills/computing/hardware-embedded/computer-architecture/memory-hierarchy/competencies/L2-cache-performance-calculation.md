@@ -47,3 +47,6 @@ Apply formulas to calculate hit rates, miss rates, and average memory access tim
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-miss-rate-calculation|Cache Miss Rate Calculation]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/average-memory-access-time-calculation|Average Memory Access Time Calculation]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-performance-metrics|Cache Performance Metrics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

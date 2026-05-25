@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[constructor-implementation-for-adts|constructor-implementation-for-adts]]"
+learning-outcomes:
+  - "[[constructor-implementation-for-adts|constructor-implementation-for-adts]]"
 learning-time-in-minutes: 3
 ---
 # Constructor Implementation for ADTs in Java

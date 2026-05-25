@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/logic-function-implementation|logic-function-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/logic-function-implementation|logic-function-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Logic Functions with Diode Circuits

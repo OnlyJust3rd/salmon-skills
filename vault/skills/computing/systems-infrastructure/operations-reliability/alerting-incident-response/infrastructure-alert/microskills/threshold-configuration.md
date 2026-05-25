@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in defining acceptable limits for metrics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

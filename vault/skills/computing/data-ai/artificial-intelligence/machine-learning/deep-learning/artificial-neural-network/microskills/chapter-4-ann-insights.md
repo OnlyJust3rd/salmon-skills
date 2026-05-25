@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the key insights provided in chapter four regarding ANNs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

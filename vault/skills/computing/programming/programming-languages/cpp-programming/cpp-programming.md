@@ -38,3 +38,6 @@ Using C++ syntax, object-oriented constructs, memory concepts, and compiled prog
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/memory-ownership|Memory Ownership]]
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/pointer|Pointer]]
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/standard-container|Standard Container]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

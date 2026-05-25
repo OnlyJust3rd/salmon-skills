@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how Transformer architectures are applied to text summarization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

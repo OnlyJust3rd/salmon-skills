@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonality-definition|orthogonality-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonality-definition|orthogonality-definition]]"
 learning-time-in-minutes: 3
 ---
 # Orthogonality Definition

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining the term sector in disk geometry.
+## Related Mediums
+
+![[bases/related-mediums.base]]

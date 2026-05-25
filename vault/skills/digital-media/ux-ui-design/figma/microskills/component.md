@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding reusable design elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

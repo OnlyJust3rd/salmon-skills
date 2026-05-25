@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/open-loop-gain-concepts|open-loop-gain-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/open-loop-gain-concepts|open-loop-gain-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Op-Amp Open-Loop Gain: The Unamplified Power

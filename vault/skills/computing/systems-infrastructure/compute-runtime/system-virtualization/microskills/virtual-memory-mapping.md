@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how physical RAM is utilized in virtual environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-experience-insights|user-experience-insights]]"
+learning-outcomes:
+  - "[[user-experience-insights|user-experience-insights]]"
 learning-time-in-minutes: 5
 ---
 # Uncovering User Experience Insights from Feedback

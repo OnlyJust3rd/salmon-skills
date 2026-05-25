@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of typical real-world challenges and issues associated with each Computer Engineering domain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

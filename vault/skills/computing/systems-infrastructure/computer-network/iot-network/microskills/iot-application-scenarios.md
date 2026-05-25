@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Matching communication technologies to specific IoT use cases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

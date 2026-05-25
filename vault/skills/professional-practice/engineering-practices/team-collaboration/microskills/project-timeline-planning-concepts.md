@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of establishing schedules and deadlines for project tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

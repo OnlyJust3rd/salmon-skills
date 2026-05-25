@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of definitions for memory devices (RAM/ROM).
+## Related Mediums
+
+![[bases/related-mediums.base]]

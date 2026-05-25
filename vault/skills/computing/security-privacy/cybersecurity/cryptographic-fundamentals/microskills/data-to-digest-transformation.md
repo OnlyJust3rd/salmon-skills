@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how variable-length input maps to fixed-length output.
+## Related Mediums
+
+![[bases/related-mediums.base]]

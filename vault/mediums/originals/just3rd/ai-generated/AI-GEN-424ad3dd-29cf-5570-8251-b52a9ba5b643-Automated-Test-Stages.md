@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/automated-test-stages|automated-test-stages]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/automated-test-stages|automated-test-stages]]"
 learning-time-in-minutes: 4
 ---
 # Automated Test Stages in CI Pipelines

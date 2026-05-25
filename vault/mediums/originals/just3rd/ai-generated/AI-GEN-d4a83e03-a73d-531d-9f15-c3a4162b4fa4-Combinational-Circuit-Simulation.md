@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/combinational-circuit-simulation|combinational-circuit-simulation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/combinational-circuit-simulation|combinational-circuit-simulation]]"
 learning-time-in-minutes: 5
 ---
 # Simulating Combinational Circuits in Proteus 8

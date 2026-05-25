@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of fundamental reasons and objectives for video compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

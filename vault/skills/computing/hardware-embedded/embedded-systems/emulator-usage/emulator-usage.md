@@ -30,3 +30,6 @@ Utilizing emulators for processor design and experimentation.
 - [[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/emulator-functionality-application|Emulator Functionality Application]]
 - [[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/error-identification-and-correction|Error Identification and Correction]]
 - [[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/processor-design-execution|Processor Design Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

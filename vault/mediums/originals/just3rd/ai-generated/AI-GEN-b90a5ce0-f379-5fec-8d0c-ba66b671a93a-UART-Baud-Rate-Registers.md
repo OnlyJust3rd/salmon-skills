@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[uart-baud-rate-registers|uart-baud-rate-registers]]"
+learning-outcomes:
+  - "[[uart-baud-rate-registers|uart-baud-rate-registers]]"
 learning-time-in-minutes: 4
 ---
 # UART Baud Rate Registers

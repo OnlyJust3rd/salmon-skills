@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using relevant tools to build a functional XR prototype.
+## Related Mediums
+
+![[bases/related-mediums.base]]

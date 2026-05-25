@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-cpu-mapping|virtual-cpu-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-cpu-mapping|virtual-cpu-mapping]]"
 learning-time-in-minutes: 4
 ---
 # Virtual CPU Mapping: Understanding the Core of Virtual Processing

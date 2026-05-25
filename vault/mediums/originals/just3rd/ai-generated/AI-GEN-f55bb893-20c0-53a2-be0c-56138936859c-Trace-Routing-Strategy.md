@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/trace-routing-strategy|trace-routing-strategy]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/trace-routing-strategy|trace-routing-strategy]]"
 learning-time-in-minutes: 6
 ---
 # Trace Routing Strategy for Basic PCB Layout

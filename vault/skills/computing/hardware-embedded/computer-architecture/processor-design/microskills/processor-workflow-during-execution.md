@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the overall flow of operations within a processor.
+## Related Mediums
+
+![[bases/related-mediums.base]]

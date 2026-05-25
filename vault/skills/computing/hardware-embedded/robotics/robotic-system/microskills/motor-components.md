@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of essential parts for robotic movement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

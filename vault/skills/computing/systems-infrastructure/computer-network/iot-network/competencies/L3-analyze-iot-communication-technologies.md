@@ -45,3 +45,6 @@ Analyze and differentiate the characteristics, suitability, and application scen
 - [[wireless-communication-technologies-wi-fi-ble-zigbee|Wireless Communication Technologies (Wi-Fi, BLE, ZigBee)]]
 - [[iot-data-transmission-suitability|IoT Data Transmission Suitability]]
 - [[iot-application-scenarios|IoT Application Scenarios]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

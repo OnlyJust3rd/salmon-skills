@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/spark-action|spark-action]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/spark-action|spark-action]]"
 learning-time-in-minutes: 2
 ---
 # Spark Actions: Triggering Computation

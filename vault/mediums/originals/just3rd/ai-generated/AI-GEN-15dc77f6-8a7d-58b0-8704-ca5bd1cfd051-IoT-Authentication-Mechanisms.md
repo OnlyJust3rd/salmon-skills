@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-authentication-mechanisms|iot-authentication-mechanisms]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-authentication-mechanisms|iot-authentication-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # IoT Authentication Mechanisms: Verifying Identity in Connected Devices

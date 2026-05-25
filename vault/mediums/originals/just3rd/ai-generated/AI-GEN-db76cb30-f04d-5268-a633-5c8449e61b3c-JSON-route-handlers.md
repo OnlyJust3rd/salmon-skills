@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/json-route-handlers|json-route-handlers]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/express-js/microskills/json-route-handlers|json-route-handlers]]"
 learning-time-in-minutes: 3
 ---
 # JSON Route Handlers in Express.js

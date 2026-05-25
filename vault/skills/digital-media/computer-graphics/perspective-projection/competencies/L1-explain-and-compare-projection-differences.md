@@ -45,3 +45,6 @@ Explain and compare the fundamental differences between parallel and perspective
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-differences|Projection Differences]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-characteristics|Projection Characteristics]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-principles-comparison|Projection Principles Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

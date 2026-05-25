@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding Hamiltonian Path/Cycle problems using backtracking in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Combining hardware and software to achieve a basic operational system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

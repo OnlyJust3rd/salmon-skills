@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using VPNs for secure connections to private networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

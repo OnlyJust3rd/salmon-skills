@@ -38,3 +38,6 @@ Designing and operating data pipelines that collect, clean, transform, and load 
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-validation|Data Validation]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/pipeline-output|Pipeline Output]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/transformation|Transformation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

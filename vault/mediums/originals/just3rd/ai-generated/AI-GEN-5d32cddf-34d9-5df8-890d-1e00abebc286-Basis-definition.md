@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/basis-definition|basis-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/basis-definition|basis-definition]]"
 learning-time-in-minutes: 4
 ---
 # Basis Definition

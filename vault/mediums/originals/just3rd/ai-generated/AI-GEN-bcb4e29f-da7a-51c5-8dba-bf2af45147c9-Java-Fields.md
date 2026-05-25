@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[java-fields|java-fields]]"
+learning-outcomes:
+  - "[[java-fields|java-fields]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Java Fields

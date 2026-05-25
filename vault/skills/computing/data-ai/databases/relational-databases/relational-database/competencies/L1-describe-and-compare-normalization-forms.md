@@ -51,3 +51,6 @@ Describe and compare different normalization forms (e.g., 1NF, 2NF, 3NF) and the
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/third-normal-form-3nf|Third Normal Form (3NF)]]
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/redundancy-reduction-in-design|Redundancy Reduction in Design]]
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/data-integrity-enhancement|Data Integrity Enhancement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -41,3 +41,6 @@ List key concepts related to social interactions in HCI.
 
 - [[social-interaction-concepts|Social Interaction Concepts]]
 - [[human-computer-social-dynamics|Human-Computer Social Dynamics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

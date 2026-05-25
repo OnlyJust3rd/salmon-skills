@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-role-in-hpc|xeon-phi-processor-role-in-hpc]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-role-in-hpc|xeon-phi-processor-role-in-hpc]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Role of Xeon Phi Processors in High-Performance Computing

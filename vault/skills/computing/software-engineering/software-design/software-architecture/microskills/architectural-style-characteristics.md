@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of defining attributes and properties.
+## Related Mediums
+
+![[bases/related-mediums.base]]

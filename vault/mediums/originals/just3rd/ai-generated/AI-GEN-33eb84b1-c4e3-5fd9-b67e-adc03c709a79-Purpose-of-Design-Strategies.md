@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/purpose-of-design-strategies|purpose-of-design-strategies]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/purpose-of-design-strategies|purpose-of-design-strategies]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Purpose of Algorithm Design Strategies

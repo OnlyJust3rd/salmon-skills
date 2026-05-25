@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of techniques to reduce unwanted noise signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

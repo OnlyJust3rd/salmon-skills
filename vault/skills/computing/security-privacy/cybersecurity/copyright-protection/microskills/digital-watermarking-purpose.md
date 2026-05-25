@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation and articulation of digital watermarking goals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/data-quality-dimensions|data-quality-dimensions]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/data-quality-dimensions|data-quality-dimensions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Data Quality Dimensions

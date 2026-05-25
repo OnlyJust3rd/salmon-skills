@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding lineage between transformation steps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

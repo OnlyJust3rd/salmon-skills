@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/simulation-vs-physical-comparison|simulation-vs-physical-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/simulation-vs-physical-comparison|simulation-vs-physical-comparison]]"
 learning-time-in-minutes: 3
 ---
 # Simulation vs. Physical Comparison in Circuit Prototyping

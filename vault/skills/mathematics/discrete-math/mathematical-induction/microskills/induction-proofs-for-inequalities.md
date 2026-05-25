@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to construct proofs for inequalities using mathematical induction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

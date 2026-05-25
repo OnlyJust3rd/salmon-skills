@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Manufacturing tangible items from digital designs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

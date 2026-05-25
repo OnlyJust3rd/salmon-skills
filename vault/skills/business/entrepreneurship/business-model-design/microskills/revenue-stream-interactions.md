@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How revenue models connect with other components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Align operations with appropriate methods and status codes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

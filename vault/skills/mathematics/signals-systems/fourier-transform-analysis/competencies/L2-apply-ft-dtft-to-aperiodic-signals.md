@@ -43,3 +43,6 @@ Apply the Fourier Transform (FT) and Discrete-Time Fourier Transform (DTFT) to a
 - [[aperiodic-signal-ft-analysis|Aperiodic Signal FT Analysis]]
 - [[aperiodic-signal-dtft-analysis|Aperiodic Signal DTFT Analysis]]
 - [[frequency-spectrum-determination|Frequency Spectrum Determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

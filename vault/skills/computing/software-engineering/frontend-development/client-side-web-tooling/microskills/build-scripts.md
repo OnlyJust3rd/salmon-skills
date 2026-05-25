@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding scripted tasks for development and production builds.
+## Related Mediums
+
+![[bases/related-mediums.base]]

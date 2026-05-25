@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the steps and rationale involved in standardizing characters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how repeated declarations yield the same result.
+## Related Mediums
+
+![[bases/related-mediums.base]]

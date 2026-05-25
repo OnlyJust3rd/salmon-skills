@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/karnaugh-map-structure|karnaugh-map-structure]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/karnaugh-map-structure|karnaugh-map-structure]]"
 learning-time-in-minutes: 4
 ---
 # Karnaugh Map Structure

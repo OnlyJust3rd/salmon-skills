@@ -47,3 +47,6 @@ Apply knowledge of datapath components to trace the execution steps of a simple 
 
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/instruction-execution-step-tracing|Instruction Execution Step Tracing]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/datapath-operation-tracing|Datapath Operation Tracing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

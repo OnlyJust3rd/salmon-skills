@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-ingestion|data-ingestion]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-ingestion|data-ingestion]]"
 learning-time-in-minutes: 3
 ---
 # Data Ingestion: The Entry Point of Your Data Pipeline

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/aperiodic-signal-ft-analysis|aperiodic-signal-ft-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/aperiodic-signal-ft-analysis|aperiodic-signal-ft-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Aperiodic Signal Fourier Transform Analysis

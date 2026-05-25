@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Recognizing delays between primary writes and replica visibility.
+## Related Mediums
+
+![[bases/related-mediums.base]]

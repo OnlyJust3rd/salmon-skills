@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of how bus drivers amplify and buffer signals for data transfer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to differentiate series that diverge.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -22,8 +22,9 @@ graph TD
   Competency -->|Requires| Micro["Microskill"]
   Career -..->|Requires| Skill
   Career["Career"] -->|Requires| Competency
-  Medium -->|Outcome| Competency
-  Medium -->|Outcome| Micro
+  Medium -->|Learning Outcome| Competency
+  Medium -->|Learning Outcome| Micro
+  Medium -..->|Related Skill| Skill
 ```
 
 ## Modules

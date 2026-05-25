@@ -43,3 +43,6 @@ Explain the geometric interpretation of double integrals as volumes and triple i
 
 - [[double-integral-geometric-interpretation-volume|Double integral geometric interpretation (volume)]]
 - [[triple-integral-geometric-interpretation-hypervolume|Triple integral geometric interpretation (hypervolume)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

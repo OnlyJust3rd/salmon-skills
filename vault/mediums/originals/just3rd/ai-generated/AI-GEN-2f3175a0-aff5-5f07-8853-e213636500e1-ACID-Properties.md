@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/acid-properties|acid-properties]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/acid-properties|acid-properties]]"
 learning-time-in-minutes: 4
 ---
 # ACID Properties: Ensuring Database Reliability

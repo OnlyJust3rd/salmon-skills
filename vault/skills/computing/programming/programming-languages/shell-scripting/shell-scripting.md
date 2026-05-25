@@ -32,3 +32,6 @@ Using shell scripts to automate command-line tasks, compose operating-system uti
 - [[conditionals-and-loops|Conditionals and Loops]]
 - [[exit-codes|Exit Codes]]
 - [[shell-variables-and-parameters|Shell Variables and Parameters]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Describe how the Technology Adoption Lifecycle influences marketing approaches f
 - [[skills/business/product-management/marketing-strategy/microskills/technology-adoption-lifecycle-stages|Technology Adoption Lifecycle Stages]]
 - [[skills/business/product-management/marketing-strategy/microskills/marketing-strategy-adaptation|Marketing Strategy Adaptation]]
 - [[skills/business/product-management/marketing-strategy/microskills/customer-segment-characteristics|Customer Segment Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

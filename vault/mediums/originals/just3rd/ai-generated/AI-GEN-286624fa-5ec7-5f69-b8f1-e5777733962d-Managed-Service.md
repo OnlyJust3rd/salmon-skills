@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/managed-service|managed-service]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/managed-service|managed-service]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Managed Services in Cloud-Native Architectures

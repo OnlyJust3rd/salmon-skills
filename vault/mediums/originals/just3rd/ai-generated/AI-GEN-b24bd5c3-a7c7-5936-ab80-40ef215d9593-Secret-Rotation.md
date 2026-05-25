@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-rotation|secret-rotation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-rotation|secret-rotation]]"
 learning-time-in-minutes: 4
 ---
 # Secret Rotation: Keeping Your Secrets Fresh

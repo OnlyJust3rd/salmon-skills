@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the function and purpose of buses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

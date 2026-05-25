@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/time-invariance-system-verification|time-invariance-system-verification]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/time-invariance-system-verification|time-invariance-system-verification]]"
 learning-time-in-minutes: 4
 ---
 # Verifying Time-Invariance in Systems

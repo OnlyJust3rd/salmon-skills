@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core concept of embedding information into digital media.
+## Related Mediums
+
+![[bases/related-mediums.base]]

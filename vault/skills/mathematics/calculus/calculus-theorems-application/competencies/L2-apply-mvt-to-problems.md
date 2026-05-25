@@ -47,3 +47,6 @@ Apply the Mean Value Theorem to solve problems involving the average rate of cha
 - [[mean-value-theorem-application-in-problem-solving|Mean Value Theorem application in problem-solving]]
 - [[average-rate-of-change-calculations|Average rate of change calculations]]
 - [[instantaneous-rate-of-change-comparisons|Instantaneous rate of change comparisons]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

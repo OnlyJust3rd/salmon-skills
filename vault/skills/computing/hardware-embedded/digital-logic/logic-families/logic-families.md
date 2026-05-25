@@ -42,3 +42,6 @@ Understand the characteristics, parameters, and trade-offs of common digital log
 - [[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/power-speed-trade-off|Power-Speed Trade-off]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/ttl-family-identification|TTL Family Identification]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/ttl-cmos-interfacing|TTL-CMOS Interfacing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the visual representation of homogeneous system solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

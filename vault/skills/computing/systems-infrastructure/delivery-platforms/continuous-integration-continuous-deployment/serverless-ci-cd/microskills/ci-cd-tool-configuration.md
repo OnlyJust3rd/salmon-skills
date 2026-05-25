@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in setting up CI/CD pipelines with relevant tools (e.g., GitHub Actions, Azure DevOps).
+## Related Mediums
+
+![[bases/related-mediums.base]]

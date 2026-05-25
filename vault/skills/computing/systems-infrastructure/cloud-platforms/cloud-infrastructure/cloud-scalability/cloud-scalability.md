@@ -43,3 +43,6 @@ Implement VM Scale Sets for horizontal scaling of virtual machines. Enforce gove
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/policy-assignment|Policy Assignment]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/virtual-machine-scale-sets-vmss|Virtual Machine Scale Sets (VMSS)]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/vmss-deployment|VMSS Deployment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

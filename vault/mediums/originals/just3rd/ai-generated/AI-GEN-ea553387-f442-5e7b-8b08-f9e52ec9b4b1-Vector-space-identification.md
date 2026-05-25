@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/vector-space-identification|vector-space-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/vector-space-identification|vector-space-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Mathematical Structures as Vector Spaces

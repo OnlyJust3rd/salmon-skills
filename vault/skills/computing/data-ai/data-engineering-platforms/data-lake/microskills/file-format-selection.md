@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing storage formats for analytical workloads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[autonomous-maze-traversal-simulation|autonomous-maze-traversal-simulation]]"
+learning-outcomes:
+  - "[[autonomous-maze-traversal-simulation|autonomous-maze-traversal-simulation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Autonomous Maze Traversal with Fuzzy Logic Simulation

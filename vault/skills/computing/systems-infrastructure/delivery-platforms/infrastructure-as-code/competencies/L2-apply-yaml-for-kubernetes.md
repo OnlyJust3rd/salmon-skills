@@ -45,3 +45,6 @@ Apply YAML configuration rules for Kubernetes resources.
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|YAML Structure for Kubernetes]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-object-configuration|Kubernetes Object Configuration]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-api-interaction|Kubernetes API Interaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

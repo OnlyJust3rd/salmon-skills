@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the structure of IPv6 addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

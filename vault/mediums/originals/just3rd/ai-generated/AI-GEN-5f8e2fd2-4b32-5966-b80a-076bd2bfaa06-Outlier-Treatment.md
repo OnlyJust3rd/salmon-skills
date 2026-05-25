@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/outlier-treatment|outlier-treatment]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/outlier-treatment|outlier-treatment]]"
 learning-time-in-minutes: 4
 ---
 # Outlier Treatment: Handling Extreme Values

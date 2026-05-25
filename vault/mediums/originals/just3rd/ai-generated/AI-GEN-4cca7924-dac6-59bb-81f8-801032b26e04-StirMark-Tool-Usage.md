@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/stirmark-tool-usage|stirmark-tool-usage]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/stirmark-tool-usage|stirmark-tool-usage]]"
 learning-time-in-minutes: 4
 ---
 # Using StirMark for Simulated Watermarking Attacks

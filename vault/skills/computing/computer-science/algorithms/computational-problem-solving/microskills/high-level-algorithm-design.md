@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Outlining solution steps independent of any particular programming language.
+## Related Mediums
+
+![[bases/related-mediums.base]]

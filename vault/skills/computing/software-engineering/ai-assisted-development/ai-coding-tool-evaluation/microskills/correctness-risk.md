@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating whether generated code satisfies intended behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

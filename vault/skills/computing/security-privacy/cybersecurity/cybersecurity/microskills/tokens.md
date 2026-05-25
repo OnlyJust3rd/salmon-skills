@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding signed or opaque artifacts used to represent authenticated identity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

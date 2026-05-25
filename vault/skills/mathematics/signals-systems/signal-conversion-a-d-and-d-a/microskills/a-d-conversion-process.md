@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the sampling, quantization, and encoding steps in analog-to-digital conversion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

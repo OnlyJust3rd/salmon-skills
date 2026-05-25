@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting and controlling physical devices using microcomputers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

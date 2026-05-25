@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Translating review concerns into tests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

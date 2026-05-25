@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-attachment-to-containers|volume-attachment-to-containers]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-attachment-to-containers|volume-attachment-to-containers]]"
 learning-time-in-minutes: 4
 ---
 # Attaching Docker Volumes to Containers

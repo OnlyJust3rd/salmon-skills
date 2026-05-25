@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to evaluate double integrals over plane regions in rectangular coordinates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

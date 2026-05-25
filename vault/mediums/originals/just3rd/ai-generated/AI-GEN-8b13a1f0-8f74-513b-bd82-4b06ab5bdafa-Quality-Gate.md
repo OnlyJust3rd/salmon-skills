@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/quality-gate|quality-gate]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/quality-gate|quality-gate]]"
 learning-time-in-minutes: 4
 ---
 # Quality Gates in OpenAI Codex Workflow

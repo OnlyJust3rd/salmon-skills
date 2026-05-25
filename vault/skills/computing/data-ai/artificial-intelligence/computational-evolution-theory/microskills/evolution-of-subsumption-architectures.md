@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Specific examination of evolving subsumption architectures using genetic programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

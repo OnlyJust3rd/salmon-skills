@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/vector-space-definition|vector-space-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/vector-space-definition|vector-space-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Axioms of a Vector Space

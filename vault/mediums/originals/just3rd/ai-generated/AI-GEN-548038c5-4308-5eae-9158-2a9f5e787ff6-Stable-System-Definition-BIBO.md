@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/stable-system-definition-bibo|stable-system-definition-bibo]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/stable-system-definition-bibo|stable-system-definition-bibo]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Bounded-Input, Bounded-Output (BIBO) Stability

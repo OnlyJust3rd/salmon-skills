@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[distributed-intelligence-workflows|distributed-intelligence-workflows]]"
+learning-outcomes:
+  - "[[distributed-intelligence-workflows|distributed-intelligence-workflows]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Distributed Intelligence Workflows

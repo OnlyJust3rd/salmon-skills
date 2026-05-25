@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of valid row operations on augmented matrices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

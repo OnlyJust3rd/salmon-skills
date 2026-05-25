@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/application-error-rate-alerts|application-error-rate-alerts]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/application-error-rate-alerts|application-error-rate-alerts]]"
 learning-time-in-minutes: 4
 ---
 # Application Error Rate Alerts

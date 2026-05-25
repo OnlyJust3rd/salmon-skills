@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[foundational-neural-network-concepts|foundational-neural-network-concepts]]"
+learning-outcomes:
+  - "[[foundational-neural-network-concepts|foundational-neural-network-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Foundational Neural Network Concepts

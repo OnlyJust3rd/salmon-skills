@@ -51,3 +51,6 @@ Demonstrate the application of cryptographic principles within a simplified mode
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-application|IPSec Tunnel Mode Application]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-application-demonstration|SSL/TLS Application Demonstration]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/network-security-protocol-application|Network Security Protocol Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

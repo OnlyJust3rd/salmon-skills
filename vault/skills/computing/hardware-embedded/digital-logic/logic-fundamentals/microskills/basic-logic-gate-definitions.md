@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of AND, OR, NOT, NAND, NOR, XOR, XNOR gates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

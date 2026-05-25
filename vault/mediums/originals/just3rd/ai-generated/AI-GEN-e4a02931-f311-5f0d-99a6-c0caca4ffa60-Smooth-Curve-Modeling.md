@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/curve-modeling/microskills/smooth-curve-modeling|smooth-curve-modeling]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/curve-modeling/microskills/smooth-curve-modeling|smooth-curve-modeling]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Bézier Curves for Smooth Shapes

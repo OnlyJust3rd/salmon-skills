@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating and using preprocessor macros for readable register manipulation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

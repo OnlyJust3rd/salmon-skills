@@ -47,3 +47,6 @@ Describe the geometry of a hard disk drive and its implications for data access,
 - [[track-definition|Track Definition]]
 - [[sector-definition|Sector Definition]]
 - [[data-access-implications-of-geometry|Data Access Implications of Geometry]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

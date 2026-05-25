@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between various addressing modes used in instruction sets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

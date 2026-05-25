@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mongodb-query-operations|mongodb-query-operations]]"
+learning-outcomes:
+  - "[[mongodb-query-operations|mongodb-query-operations]]"
 learning-time-in-minutes: 3
 ---
 # MongoDB Query Operations: Retrieving Documents with `find()`

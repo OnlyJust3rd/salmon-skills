@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/application-dependency-packaging|application-dependency-packaging]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/application-dependency-packaging|application-dependency-packaging]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Application Dependency Packaging in Containers

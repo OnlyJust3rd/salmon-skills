@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify the fundamental properties of Abstract Data Types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

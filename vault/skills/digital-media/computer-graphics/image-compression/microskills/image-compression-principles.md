@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding core concepts of reducing image file sizes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

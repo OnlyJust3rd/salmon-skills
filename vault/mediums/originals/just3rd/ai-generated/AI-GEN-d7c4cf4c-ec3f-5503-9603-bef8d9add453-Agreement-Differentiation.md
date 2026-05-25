@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/agreement-differentiation|agreement-differentiation]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/agreement-differentiation|agreement-differentiation]]"
 learning-time-in-minutes: 4
 ---
 # Differentiating Contractual Agreements

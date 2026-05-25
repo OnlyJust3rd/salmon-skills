@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-storage|secret-storage]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-storage|secret-storage]]"
 learning-time-in-minutes: 5
 ---
 # Secret Storage: Keeping Your Sensitive Data Safe

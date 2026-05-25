@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/suitability-analysis|suitability-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/suitability-analysis|suitability-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Choosing the Right Algorithm Blueprint: Flowcharts vs. Pseudocode

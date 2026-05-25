@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of fundamental techniques for finding anti-derivatives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

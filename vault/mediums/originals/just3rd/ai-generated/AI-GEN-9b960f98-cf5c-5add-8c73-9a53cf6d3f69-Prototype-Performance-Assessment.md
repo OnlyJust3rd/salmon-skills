@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/prototype-performance-assessment|prototype-performance-assessment]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/prototype-performance-assessment|prototype-performance-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Prototype Performance Assessment: Evaluating Effectiveness

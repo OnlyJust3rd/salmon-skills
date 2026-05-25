@@ -45,3 +45,6 @@ Explain process-based parallelism abstractions using Python multiprocessing conc
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/multiple-process-coordination|Multiple Process Coordination]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/inter-process-communication-python|Inter-Process Communication (Python)]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/process-synchronization-python|Process Synchronization (Python)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-data-automation|iot-data-automation]]"
+learning-outcomes:
+  - "[[iot-data-automation|iot-data-automation]]"
 learning-time-in-minutes: 5
 ---
 # Automating IoT Data at the Edge with Low-Code

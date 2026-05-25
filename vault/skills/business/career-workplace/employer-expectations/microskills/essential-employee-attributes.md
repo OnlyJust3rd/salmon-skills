@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the ten core attributes employers seek.
+## Related Mediums
+
+![[bases/related-mediums.base]]

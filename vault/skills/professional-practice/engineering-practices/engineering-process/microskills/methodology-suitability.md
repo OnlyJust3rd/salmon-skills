@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of the effectiveness and appropriateness of the selected problem-solving approach.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ml-task-types|ml-task-types]]"
+learning-outcomes:
+  - "[[ml-task-types|ml-task-types]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Machine Learning Task Types

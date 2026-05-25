@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/null-space-definition|null-space-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/null-space-definition|null-space-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Null Space of a Matrix

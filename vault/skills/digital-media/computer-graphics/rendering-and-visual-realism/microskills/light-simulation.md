@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of techniques to simulate light interaction with surfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

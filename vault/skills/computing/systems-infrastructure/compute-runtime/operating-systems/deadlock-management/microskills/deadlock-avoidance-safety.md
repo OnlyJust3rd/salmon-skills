@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examining the safety aspect of deadlock avoidance algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

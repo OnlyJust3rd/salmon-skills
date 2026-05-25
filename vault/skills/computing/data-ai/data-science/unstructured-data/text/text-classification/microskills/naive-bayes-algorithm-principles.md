@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the core concepts and probabilistic approach of Naïve Bayes for classification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

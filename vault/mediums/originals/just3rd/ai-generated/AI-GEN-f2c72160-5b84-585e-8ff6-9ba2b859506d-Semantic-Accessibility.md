@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/semantic-accessibility|semantic-accessibility]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/semantic-accessibility|semantic-accessibility]]"
 learning-time-in-minutes: 5
 ---
 # Semantic Accessibility: The Foundation of Meaningful Markup

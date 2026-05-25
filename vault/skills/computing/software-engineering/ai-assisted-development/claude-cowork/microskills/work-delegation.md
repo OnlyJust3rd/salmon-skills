@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assigning an outcome rather than a single prompt.
+## Related Mediums
+
+![[bases/related-mediums.base]]

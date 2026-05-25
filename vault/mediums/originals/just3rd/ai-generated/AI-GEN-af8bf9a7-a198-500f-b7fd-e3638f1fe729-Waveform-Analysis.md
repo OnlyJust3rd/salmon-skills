@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/waveform-analysis|waveform-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/waveform-analysis|waveform-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Waveform Analysis in Tinkercad Simulations

@@ -49,3 +49,6 @@ Explain the purpose and use cases of various serverless function triggers (HTTP,
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/queue-trigger-functionality|Queue Trigger Functionality]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/blob-trigger-functionality|Blob Trigger Functionality]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-function-invocation|Serverless Function Invocation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

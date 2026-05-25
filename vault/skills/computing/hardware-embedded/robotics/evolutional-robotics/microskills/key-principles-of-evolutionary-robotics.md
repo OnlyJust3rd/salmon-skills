@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enumeration of the fundamental principles governing evolutionary robotics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

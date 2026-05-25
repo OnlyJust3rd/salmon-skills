@@ -49,3 +49,6 @@ Integrate a web application with a relational database to perform data storage a
 - [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/data-persistence-mechanisms|Data Persistence Mechanisms]]
 - [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/3-tier-integration-patterns|3-Tier Integration Patterns]]
 - [[skills/computing/software-engineering/backend-development/application-database-integration/microskills/application-database-interaction|Application-Database Interaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

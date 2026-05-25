@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of tools and methods for tracking cloud costs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

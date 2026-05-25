@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how gradients are computed and used to update weights.
+## Related Mediums
+
+![[bases/related-mediums.base]]

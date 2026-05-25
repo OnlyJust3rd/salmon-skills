@@ -45,3 +45,6 @@ Apply Infrastructure as Code (IaC) principles to define infrastructure.
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/version-control-for-infrastructure|Version Control for Infrastructure]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automated-infrastructure-deployment|Automated Infrastructure Deployment]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-as-code-best-practices|Infrastructure as Code Best Practices]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

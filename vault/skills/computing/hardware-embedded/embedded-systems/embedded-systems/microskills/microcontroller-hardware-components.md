@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of core components within microcontrollers (CPU, memory, peripherals).
+## Related Mediums
+
+![[bases/related-mediums.base]]

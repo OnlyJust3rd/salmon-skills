@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[industry-4-0-and-iot|industry-4-0-and-iot]]"
+learning-outcomes:
+  - "[[industry-4-0-and-iot|industry-4-0-and-iot]]"
 learning-time-in-minutes: 4
 ---
 # Industry 4.0 and the Internet of Things

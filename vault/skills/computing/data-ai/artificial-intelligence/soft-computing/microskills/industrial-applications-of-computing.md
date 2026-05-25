@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how computing methodologies are used in industrial contexts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

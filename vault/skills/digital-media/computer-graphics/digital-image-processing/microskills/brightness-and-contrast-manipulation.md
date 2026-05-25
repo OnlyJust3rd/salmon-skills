@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adjusting image brightness and contrast through pixel operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/digital-multimeter-functions|digital-multimeter-functions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/digital-multimeter-functions|digital-multimeter-functions]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Digital Multimeter: Your Go-To Measurement Tool

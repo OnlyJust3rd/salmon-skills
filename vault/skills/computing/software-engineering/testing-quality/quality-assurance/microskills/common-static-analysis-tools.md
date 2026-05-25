@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of frequently used tools.
+## Related Mediums
+
+![[bases/related-mediums.base]]

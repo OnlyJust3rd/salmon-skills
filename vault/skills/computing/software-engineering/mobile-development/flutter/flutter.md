@@ -38,3 +38,6 @@ Using Flutter widget architecture, layout, state, and screens to build cross-pla
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/state-update|State Update]]
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/stateful-widget|Stateful Widget]]
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/widget-tree|Widget Tree]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

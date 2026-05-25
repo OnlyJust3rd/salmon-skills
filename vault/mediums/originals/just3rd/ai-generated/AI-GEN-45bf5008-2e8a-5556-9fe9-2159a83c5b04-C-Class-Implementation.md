@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cpp-class-implementation|cpp-class-implementation]]"
+learning-outcomes:
+  - "[[cpp-class-implementation|cpp-class-implementation]]"
 learning-time-in-minutes: 2
 ---
 # C++ Class Implementation: Declarations and Methods

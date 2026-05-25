@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/data-to-digest-transformation|data-to-digest-transformation]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/data-to-digest-transformation|data-to-digest-transformation]]"
 learning-time-in-minutes: 3
 ---
 # Data to Digest Transformation: The Magic of Hash Functions

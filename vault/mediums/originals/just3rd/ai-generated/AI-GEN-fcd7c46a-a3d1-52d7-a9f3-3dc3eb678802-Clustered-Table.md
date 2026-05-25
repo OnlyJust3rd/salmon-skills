@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/clustered-table|clustered-table]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/clustered-table|clustered-table]]"
 learning-time-in-minutes: 5
 ---
 # Clustered Tables in BigQuery: Optimizing Query Performance

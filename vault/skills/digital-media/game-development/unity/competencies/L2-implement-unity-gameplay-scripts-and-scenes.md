@@ -47,3 +47,6 @@ Implement Unity gameplay scripts and scenes.
 - [[skills/digital-media/game-development/unity/microskills/monobehaviour-script|MonoBehaviour Script]]
 - [[skills/digital-media/game-development/unity/microskills/scene-setup|Scene Setup]]
 - [[skills/digital-media/game-development/unity/microskills/unity-event-method|Unity Event Method]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

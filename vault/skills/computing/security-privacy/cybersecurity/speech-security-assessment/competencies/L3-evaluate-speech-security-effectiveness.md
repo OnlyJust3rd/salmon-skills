@@ -47,3 +47,6 @@ Evaluate the effectiveness of digital ciphering against analogue scrambling tech
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-advantages|Analogue Scrambling Advantages]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-vulnerabilities|Analogue Scrambling Vulnerabilities]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/speech-security-method-comparison|Speech Security Method Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

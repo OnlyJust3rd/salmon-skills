@@ -46,3 +46,6 @@ Differentiate between symmetrical and asymmetrical encryption algorithms based o
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-key-management|Encryption Algorithm Key Management]]
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-speed-comparison|Encryption Algorithm Speed Comparison]]
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-security-comparison|Encryption Algorithm Security Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

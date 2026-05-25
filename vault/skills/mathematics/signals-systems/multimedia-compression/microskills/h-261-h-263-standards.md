@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Focus on spatial and temporal redundancy removal in H.261/H.263.
+## Related Mediums
+
+![[bases/related-mediums.base]]

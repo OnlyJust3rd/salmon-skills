@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of essential sections and elements of a well-organized technical report.
+## Related Mediums
+
+![[bases/related-mediums.base]]

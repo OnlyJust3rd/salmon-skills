@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing unique identifiers for records.
+## Related Mediums
+
+![[bases/related-mediums.base]]

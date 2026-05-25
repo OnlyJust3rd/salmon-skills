@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying whether a scenario aligns with shared-memory, distributed-memory, or process-based models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

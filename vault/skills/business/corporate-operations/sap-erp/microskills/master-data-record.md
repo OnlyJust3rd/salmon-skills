@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing stable business entities in SAP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

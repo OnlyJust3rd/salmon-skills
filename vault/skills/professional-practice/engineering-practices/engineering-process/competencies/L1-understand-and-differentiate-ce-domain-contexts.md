@@ -43,3 +43,6 @@ Explain, describe, summarize, interpret, classify, outline, and differentiate th
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/core-characteristics-of-ce-domains|Core Characteristics of CE Domains]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/differentiated-domain-problem-areas|Differentiated Domain Problem Areas]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/summarization-of-ce-domain-functions|Summarization of CE Domain Functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

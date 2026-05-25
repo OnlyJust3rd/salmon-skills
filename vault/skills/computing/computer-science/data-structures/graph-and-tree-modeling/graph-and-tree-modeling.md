@@ -48,3 +48,6 @@ Ability to model and solve problems using the properties and algorithms associat
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/tree-structures|Tree Structures]]
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/tree-terminology|Tree Terminology]]
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/tree-traversal-application|Tree Traversal Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

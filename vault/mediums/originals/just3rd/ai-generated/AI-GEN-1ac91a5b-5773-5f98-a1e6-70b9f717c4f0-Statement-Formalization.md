@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/statement-formalization|statement-formalization]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/statement-formalization|statement-formalization]]"
 learning-time-in-minutes: 5
 ---
 # Formalizing Statements with Predicate Logic

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Steps for transferring designs from CAD software.
+## Related Mediums
+
+![[bases/related-mediums.base]]

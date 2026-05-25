@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of consistent output size regardless of input size.
+## Related Mediums
+
+![[bases/related-mediums.base]]

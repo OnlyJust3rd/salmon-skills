@@ -51,3 +51,6 @@ Explain the principles and mechanisms of security and privacy in IoT systems, in
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-authentication-mechanisms|IoT Authentication Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/secure-firmware-updates|Secure Firmware Updates]]
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-device-integrity-maintenance|IoT Device Integrity Maintenance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

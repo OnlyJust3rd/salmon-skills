@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to define firewall rules for network traffic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

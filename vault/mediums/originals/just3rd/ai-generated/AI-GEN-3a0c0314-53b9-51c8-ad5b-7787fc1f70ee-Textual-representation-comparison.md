@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/textual-representation-comparison|textual-representation-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/textual-representation-comparison|textual-representation-comparison]]"
 learning-time-in-minutes: 3
 ---
 # Pseudocode vs. Flowcharts: Choosing the Right Algorithm Representation

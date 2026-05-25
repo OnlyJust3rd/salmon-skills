@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/linear-transformation-definition|linear-transformation-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/linear-transformation-definition|linear-transformation-definition]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Definition of a Linear Transformation

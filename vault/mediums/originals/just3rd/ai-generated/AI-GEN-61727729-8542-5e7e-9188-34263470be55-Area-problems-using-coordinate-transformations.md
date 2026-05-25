@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/area-problems-using-coordinate-transformations|area-problems-using-coordinate-transformations]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/area-problems-using-coordinate-transformations|area-problems-using-coordinate-transformations]]"
 learning-time-in-minutes: 4
 ---
 # Area Problems with Polar Coordinates

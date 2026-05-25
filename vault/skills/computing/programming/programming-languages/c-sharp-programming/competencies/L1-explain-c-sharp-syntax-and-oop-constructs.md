@@ -43,3 +43,6 @@ Explain C# syntax and object-oriented programming constructs.
 - [[skills/computing/programming/programming-languages/c-sharp-programming/microskills/c-sharp-class|C# Class]]
 - [[skills/computing/programming/programming-languages/c-sharp-programming/microskills/c-sharp-collection|C# Collection]]
 - [[skills/computing/programming/programming-languages/c-sharp-programming/microskills/c-sharp-event|C# Event]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

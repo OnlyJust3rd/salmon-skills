@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/line-plane-parallelism-analysis|line-plane-parallelism-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/line-plane-parallelism-analysis|line-plane-parallelism-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Line-Plane Parallelism

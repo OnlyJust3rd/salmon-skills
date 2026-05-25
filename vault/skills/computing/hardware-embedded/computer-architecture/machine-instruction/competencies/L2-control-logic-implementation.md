@@ -43,3 +43,6 @@ Implement the control logic for a simple instruction using a provided datapath.
 
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-control-logic|Instruction Control Logic]]
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/datapath-control|Datapath Control]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

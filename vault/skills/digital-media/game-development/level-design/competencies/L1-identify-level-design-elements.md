@@ -40,3 +40,6 @@ Identify common level design elements such as choke points, cover points, and pa
 
 - [[skills/digital-media/game-development/level-design/microskills/fundamental-level-components|Fundamental Level Components]]
 - [[skills/digital-media/game-development/level-design/microskills/choke-points-cover-points-pathways|Choke Points, Cover Points, Pathways]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

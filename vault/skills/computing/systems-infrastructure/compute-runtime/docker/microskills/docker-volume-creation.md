@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to create persistent storage volumes for containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

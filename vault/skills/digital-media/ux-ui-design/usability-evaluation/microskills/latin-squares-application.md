@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using methods like Latin squares to arrange experimental conditions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

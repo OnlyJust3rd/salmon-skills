@@ -43,3 +43,6 @@ Explain the principles of reliable data delivery mechanisms in computer networks
 - [[reliable-data-transfer-principles|Reliable Data Transfer Principles]]
 - [[data-delivery-assurance|Data Delivery Assurance]]
 - [[reliability-in-networking|Reliability in Networking]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

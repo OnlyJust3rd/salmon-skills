@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing which method facilitates faster iteration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

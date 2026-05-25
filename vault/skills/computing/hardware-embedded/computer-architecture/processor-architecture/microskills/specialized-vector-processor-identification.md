@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of processors designed for vector operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

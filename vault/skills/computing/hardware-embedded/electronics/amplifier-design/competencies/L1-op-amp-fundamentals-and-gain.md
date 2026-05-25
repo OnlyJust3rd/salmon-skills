@@ -45,3 +45,6 @@ Explain the basic configuration, function, and gain concepts (open-loop and clos
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/operational-amplifier-function|Operational Amplifier Function]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/open-loop-gain-concepts|Open-Loop Gain Concepts]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/closed-loop-gain-concepts|Closed-Loop Gain Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

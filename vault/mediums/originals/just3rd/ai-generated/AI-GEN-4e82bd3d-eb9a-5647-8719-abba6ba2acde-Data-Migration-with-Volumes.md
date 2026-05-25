@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-migration-with-volumes|data-migration-with-volumes]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-migration-with-volumes|data-migration-with-volumes]]"
 learning-time-in-minutes: 5
 ---
 # Data Migration with Docker Volumes

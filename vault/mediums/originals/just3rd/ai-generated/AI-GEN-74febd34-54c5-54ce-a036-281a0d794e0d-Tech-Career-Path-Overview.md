@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/career-development/it-career-path/microskills/tech-career-path-overview|tech-career-path-overview]]"
+learning-outcomes:
+  - "[[skills/professional-practice/career-development/it-career-path/microskills/tech-career-path-overview|tech-career-path-overview]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Tech Career Paths: A General Overview

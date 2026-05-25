@@ -45,3 +45,6 @@ Explain ERP business process integration.
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/erp-module|ERP Module]]
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/master-data|Master Data]]
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/integrated-transaction|Integrated Transaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

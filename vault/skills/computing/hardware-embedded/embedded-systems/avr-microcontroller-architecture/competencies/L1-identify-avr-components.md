@@ -45,3 +45,6 @@ Identify and define the key hardware components of an AVR microcontroller, inclu
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/register-set|Register Set]]
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/memory-organization|Memory Organization]]
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/i-o-port-structures|I/O Port Structures]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

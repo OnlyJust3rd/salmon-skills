@@ -45,3 +45,6 @@ Apply game performance profiling concepts.
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/profiler-trace|Profiler Trace]]
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/draw-call-reduction|Draw Call Reduction]]
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/memory-allocation-review|Memory Allocation Review]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

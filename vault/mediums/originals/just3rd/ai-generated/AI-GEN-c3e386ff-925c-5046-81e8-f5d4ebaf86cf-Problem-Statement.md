@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/problem-statement|problem-statement]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/problem-statement|problem-statement]]"
 learning-time-in-minutes: 5
 ---
 # The Problem Statement: Uncovering the Customer's Need

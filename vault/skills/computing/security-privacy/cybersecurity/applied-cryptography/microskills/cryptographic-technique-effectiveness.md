@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Informed judgments on strengths and weaknesses of cryptographic techniques in protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

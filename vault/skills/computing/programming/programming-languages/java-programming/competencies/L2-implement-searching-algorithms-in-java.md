@@ -47,3 +47,6 @@ Implement searching algorithms including Linear Search, Binary Search, Jump Sear
 - [[skills/computing/programming/programming-languages/java-programming/microskills/jump-search-java-implementation|Jump Search Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/interpolation-search-java-implementation|Interpolation Search Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/exponential-search-java-implementation|Exponential Search Java Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

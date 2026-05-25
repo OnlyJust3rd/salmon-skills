@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-problem-solving-process-stages|engineering-problem-solving-process-stages]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-problem-solving-process-stages|engineering-problem-solving-process-stages]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Engineering Problem-Solving Process Stages

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[initial-interface-concepts|initial-interface-concepts]]"
+learning-outcomes:
+  - "[[initial-interface-concepts|initial-interface-concepts]]"
 learning-time-in-minutes: 6
 ---
 # Initial Interface Concepts

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/relationship-between-critical-points-and-extrema|relationship-between-critical-points-and-extrema]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/relationship-between-critical-points-and-extrema|relationship-between-critical-points-and-extrema]]"
 learning-time-in-minutes: 4
 ---
 # Critical Points and Their Connection to Extrema

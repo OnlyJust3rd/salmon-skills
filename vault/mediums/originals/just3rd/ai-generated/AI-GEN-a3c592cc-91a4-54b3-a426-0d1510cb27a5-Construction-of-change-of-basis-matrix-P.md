@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/construction-of-change-of-basis-matrix-p|construction-of-change-of-basis-matrix-p]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/construction-of-change-of-basis-matrix-p|construction-of-change-of-basis-matrix-p]]"
 learning-time-in-minutes: 5
 ---
 # Constructing the Change-of-Basis Matrix $P$

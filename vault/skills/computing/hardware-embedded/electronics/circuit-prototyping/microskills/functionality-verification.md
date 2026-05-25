@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how simulation confirms circuit operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

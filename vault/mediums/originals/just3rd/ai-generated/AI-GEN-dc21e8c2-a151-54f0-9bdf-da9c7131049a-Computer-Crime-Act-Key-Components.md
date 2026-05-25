@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/digital-law/thai-digital-law/microskills/computer-crime-act-key-components|computer-crime-act-key-components]]"
+learning-outcomes:
+  - "[[skills/professional-practice/digital-law/thai-digital-law/microskills/computer-crime-act-key-components|computer-crime-act-key-components]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Key Components of Thailand's Computer Crime Act

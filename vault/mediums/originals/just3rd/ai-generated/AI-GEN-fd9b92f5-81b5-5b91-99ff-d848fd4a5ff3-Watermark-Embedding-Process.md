@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-embedding-process|watermark-embedding-process]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-embedding-process|watermark-embedding-process]]"
 learning-time-in-minutes: 4
 ---
 # Watermark Embedding Process

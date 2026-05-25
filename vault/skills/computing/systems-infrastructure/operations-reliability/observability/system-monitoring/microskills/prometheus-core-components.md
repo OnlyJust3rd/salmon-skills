@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of Prometheus's architecture and key elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

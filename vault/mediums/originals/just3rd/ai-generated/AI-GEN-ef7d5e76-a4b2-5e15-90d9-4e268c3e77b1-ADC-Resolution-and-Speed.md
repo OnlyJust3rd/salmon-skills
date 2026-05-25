@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/adc-resolution-and-speed|adc-resolution-and-speed]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/adc-resolution-and-speed|adc-resolution-and-speed]]"
 learning-time-in-minutes: 5
 ---
 # ADC Resolution and Speed: Analyzing Performance for Data Acquisition

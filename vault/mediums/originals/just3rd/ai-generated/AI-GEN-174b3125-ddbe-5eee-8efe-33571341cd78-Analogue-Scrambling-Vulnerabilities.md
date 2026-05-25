@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-vulnerabilities|analogue-scrambling-vulnerabilities]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-vulnerabilities|analogue-scrambling-vulnerabilities]]"
 learning-time-in-minutes: 4
 ---
 # Analogue Scrambling Vulnerabilities

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-tool-configuration|ci-cd-tool-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/ci-cd-tool-configuration|ci-cd-tool-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Configuring CI/CD Tools for Serverless Deployments

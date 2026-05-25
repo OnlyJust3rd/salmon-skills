@@ -45,3 +45,6 @@ Explain the noise margin, power-speed trade-offs, and interfacing considerations
 - [[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/power-speed-trade-off|Power-Speed Trade-off]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/ttl-cmos-interfacing|TTL-CMOS Interfacing]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/fan-out-impact|Fan-out Impact]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determination of data characteristics relevant for modeling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

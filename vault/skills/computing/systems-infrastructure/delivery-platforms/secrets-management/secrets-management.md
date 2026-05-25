@@ -32,3 +32,6 @@ Principles for storing, rotating, and injecting sensitive configuration such as 
 - [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-rotation|Secret Rotation]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-storage|Secret Storage]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/source-code-separation|Source Code Separation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

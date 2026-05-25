@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating the electrical diagram of the circuit.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/nda-analysis|nda-analysis]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/nda-analysis|nda-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Deconstructing Non-Disclosure Agreements (NDAs)

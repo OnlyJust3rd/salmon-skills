@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[navigation-principle-application|navigation-principle-application]]"
+learning-outcomes:
+  - "[[navigation-principle-application|navigation-principle-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying Navigation Principles with SIMBot

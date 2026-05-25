@@ -52,3 +52,6 @@ Understanding principles of evolutionary robotics, including model transition fr
 - [[simulation-to-physical-robot-transition-factors|Simulation to Physical Robot Transition Factors]]
 - [[simulation-to-real-world-model-adaptation|Simulation to Real-World Model Adaptation]]
 - [[simulation-to-real-world-robot-transition|Simulation to Real-World Robot Transition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

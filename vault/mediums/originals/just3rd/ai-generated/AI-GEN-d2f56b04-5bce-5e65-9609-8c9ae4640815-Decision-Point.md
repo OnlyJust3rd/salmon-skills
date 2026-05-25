@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/decision-point|decision-point]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/decision-point|decision-point]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Decision Points in Business Processes

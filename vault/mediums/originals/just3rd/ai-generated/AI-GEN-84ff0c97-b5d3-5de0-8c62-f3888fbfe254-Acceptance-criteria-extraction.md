@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/acceptance-criteria-extraction|acceptance-criteria-extraction]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/acceptance-criteria-extraction|acceptance-criteria-extraction]]"
 learning-time-in-minutes: 5
 ---
 # Extracting Acceptance Criteria: Your Blueprint for User Satisfaction

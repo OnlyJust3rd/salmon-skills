@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Resolve common structural errors and nesting issues.
+## Related Mediums
+
+![[bases/related-mediums.base]]

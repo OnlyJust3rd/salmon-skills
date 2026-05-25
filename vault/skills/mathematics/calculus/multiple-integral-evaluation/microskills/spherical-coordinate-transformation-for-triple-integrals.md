@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply spherical coordinate transformations to set up triple integrals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

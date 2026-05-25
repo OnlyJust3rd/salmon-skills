@@ -53,3 +53,6 @@ Apply UART, SPI, and I2C protocols to interface AVR microcontrollers with provid
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/i2c-sensor-interfacing|I2C Sensor Interfacing]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/actuator-control-via-communication|Actuator Control via Communication]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/data-acquisition-from-sensors|Data Acquisition from Sensors]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding recovery from failed releases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

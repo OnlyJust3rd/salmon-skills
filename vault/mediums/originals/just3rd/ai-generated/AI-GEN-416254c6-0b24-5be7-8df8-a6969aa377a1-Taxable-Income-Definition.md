@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxable-income-definition|taxable-income-definition]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxable-income-definition|taxable-income-definition]]"
 learning-time-in-minutes: 4
 ---
 # Defining Taxable Income

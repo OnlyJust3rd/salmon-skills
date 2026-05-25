@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/document-databases|document-databases]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/document-databases|document-databases]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Document Databases

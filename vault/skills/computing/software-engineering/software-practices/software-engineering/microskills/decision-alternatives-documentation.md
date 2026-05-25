@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recording various options considered during decision-making.
+## Related Mediums
+
+![[bases/related-mediums.base]]

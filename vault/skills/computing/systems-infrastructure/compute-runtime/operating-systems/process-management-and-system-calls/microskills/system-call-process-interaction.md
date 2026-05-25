@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing process interaction resulting from system calls.
+## Related Mediums
+
+![[bases/related-mediums.base]]

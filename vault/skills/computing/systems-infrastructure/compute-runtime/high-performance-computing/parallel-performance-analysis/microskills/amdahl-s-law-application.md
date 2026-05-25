@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of Amdahl's Law to predict maximum speedup.
+## Related Mediums
+
+![[bases/related-mediums.base]]

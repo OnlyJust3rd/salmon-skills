@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculation of turnaround time for scheduled processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

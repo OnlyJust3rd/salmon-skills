@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Improving the maintainability of existing code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

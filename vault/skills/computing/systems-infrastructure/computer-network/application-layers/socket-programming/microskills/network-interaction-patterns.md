@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grasping the fundamental design of distributed applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

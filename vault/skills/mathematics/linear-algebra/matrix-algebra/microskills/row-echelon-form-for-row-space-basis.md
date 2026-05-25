@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying basis vectors for the row space from row echelon form.
+## Related Mediums
+
+![[bases/related-mediums.base]]

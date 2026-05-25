@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating investment return using IRR.
+## Related Mediums
+
+![[bases/related-mediums.base]]

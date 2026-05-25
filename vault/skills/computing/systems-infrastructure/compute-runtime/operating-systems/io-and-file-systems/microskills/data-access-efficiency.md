@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing implications of file allocation on data access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

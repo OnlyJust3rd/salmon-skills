@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/performance-optimization|performance-optimization]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/performance-optimization|performance-optimization]]"
 learning-time-in-minutes: 5
 ---
 # Performance Optimization for Embedded Systems

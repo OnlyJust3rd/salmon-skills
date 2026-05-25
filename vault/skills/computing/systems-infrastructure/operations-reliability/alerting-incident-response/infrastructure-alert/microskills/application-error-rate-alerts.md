@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of alerts triggered by an increase in application errors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

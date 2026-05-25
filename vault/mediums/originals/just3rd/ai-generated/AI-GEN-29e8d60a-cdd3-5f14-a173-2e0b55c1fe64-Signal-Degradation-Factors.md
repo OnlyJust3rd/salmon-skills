@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[signal-degradation-factors|signal-degradation-factors]]"
+learning-outcomes:
+  - "[[signal-degradation-factors|signal-degradation-factors]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Signal Degradation Factors

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding position tracking in an event log.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain how gameplay mechanics are the basis for genre classification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

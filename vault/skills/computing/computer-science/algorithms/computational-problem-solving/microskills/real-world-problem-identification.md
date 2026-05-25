@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to recognize and define a problem that can be addressed using a computational approach.
+## Related Mediums
+
+![[bases/related-mediums.base]]

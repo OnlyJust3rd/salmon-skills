@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/minimal-sum-of-products|minimal-sum-of-products]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/minimal-sum-of-products|minimal-sum-of-products]]"
 learning-time-in-minutes: 3
 ---
 # Deriving Minimal Sum-of-Products using K-maps

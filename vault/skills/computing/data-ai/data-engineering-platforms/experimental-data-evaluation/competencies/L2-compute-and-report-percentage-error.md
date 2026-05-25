@@ -45,3 +45,6 @@ Apply appropriate methods to compute and report the percentage error between the
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/percentage-error-calculation|Percentage Error Calculation]]
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/theoretical-vs-measured-value-comparison|Theoretical vs. Measured Value Comparison]]
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/lab-report-error-reporting|Lab Report Error Reporting]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

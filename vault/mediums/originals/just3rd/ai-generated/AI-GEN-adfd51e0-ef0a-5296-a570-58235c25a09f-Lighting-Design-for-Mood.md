@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/lighting-design-for-mood|lighting-design-for-mood]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/lighting-design-for-mood|lighting-design-for-mood]]"
 learning-time-in-minutes: 6
 ---
 # Lighting Design for Mood: Guiding Player Emotions

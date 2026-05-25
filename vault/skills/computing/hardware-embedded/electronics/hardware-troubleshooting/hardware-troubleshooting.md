@@ -68,3 +68,6 @@ Identify and mitigate physical hardware challenges, such as noise interference a
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-supply-verification|Power Supply Verification]]
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/systematic-troubleshooting-techniques|Systematic Troubleshooting Techniques]]
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/wiring-issues|Wiring Issues]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

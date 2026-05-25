@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of performance characteristics and core principles of searching algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

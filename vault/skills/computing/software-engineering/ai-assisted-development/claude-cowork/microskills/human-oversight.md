@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Keeping consequential decisions with the user.
+## Related Mediums
+
+![[bases/related-mediums.base]]

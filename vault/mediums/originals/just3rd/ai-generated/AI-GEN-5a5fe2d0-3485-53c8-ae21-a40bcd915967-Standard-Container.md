@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[standard-container|standard-container]]"
+learning-outcomes:
+  - "[[standard-container|standard-container]]"
 learning-time-in-minutes: 2
 ---
 # Using Standard Containers in C++

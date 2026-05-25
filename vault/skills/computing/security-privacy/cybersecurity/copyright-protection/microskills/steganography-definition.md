@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of steganography.
+## Related Mediums
+
+![[bases/related-mediums.base]]

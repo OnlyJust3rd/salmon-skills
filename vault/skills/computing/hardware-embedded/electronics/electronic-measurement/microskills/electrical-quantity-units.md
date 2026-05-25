@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of units for voltage, current, and resistance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

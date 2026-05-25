@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of potential solutions against defined project needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

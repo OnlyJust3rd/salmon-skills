@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Driving implementation through failing tests, minimal code, and refactoring cycles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

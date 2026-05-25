@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements|table-creation-statements]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements|table-creation-statements]]"
 learning-time-in-minutes: 4
 ---
 # Creating Tables in MySQL with `CREATE TABLE`

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-apply-for-kubernetes|terraform-apply-for-kubernetes]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-apply-for-kubernetes|terraform-apply-for-kubernetes]]"
 learning-time-in-minutes: 3
 ---
 # Applying Terraform Configurations to Kubernetes

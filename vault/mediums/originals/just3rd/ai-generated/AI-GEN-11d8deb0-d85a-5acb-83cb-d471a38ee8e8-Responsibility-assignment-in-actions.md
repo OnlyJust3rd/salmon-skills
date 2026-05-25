@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/action-planning/microskills/responsibility-assignment-in-actions|responsibility-assignment-in-actions]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/action-planning/microskills/responsibility-assignment-in-actions|responsibility-assignment-in-actions]]"
 learning-time-in-minutes: 5
 ---
 # Assigning Responsibilities in Engineering Actions

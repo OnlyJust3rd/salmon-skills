@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of the practical application of the subsumption architecture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

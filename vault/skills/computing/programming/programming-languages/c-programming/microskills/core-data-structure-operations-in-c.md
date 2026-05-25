@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implement traverse, insert, search, and delete operations in C.
+## Related Mediums
+
+![[bases/related-mediums.base]]

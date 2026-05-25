@@ -30,3 +30,6 @@ Using the Node.js runtime for server-side JavaScript: modules, packages, and the
 - [[skills/computing/software-engineering/backend-development/node-js/microskills/module-systems|Module systems]]
 - [[skills/computing/software-engineering/backend-development/node-js/microskills/node-js-process-model|Node.js process model]]
 - [[skills/computing/software-engineering/backend-development/node-js/microskills/npm-packages|npm packages]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

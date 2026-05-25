@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/data-structure-classifications|data-structure-classifications]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/data-structure-classifications|data-structure-classifications]]"
 learning-time-in-minutes: 3
 ---
 # Data Structure Classifications: Linear vs. Non-Linear

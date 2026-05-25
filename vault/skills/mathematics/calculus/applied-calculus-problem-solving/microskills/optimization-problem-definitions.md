@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the fundamental definitions related to optimization problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

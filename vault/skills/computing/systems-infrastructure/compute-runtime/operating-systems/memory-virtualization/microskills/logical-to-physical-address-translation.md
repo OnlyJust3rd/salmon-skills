@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the conversion of logical addresses to physical addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

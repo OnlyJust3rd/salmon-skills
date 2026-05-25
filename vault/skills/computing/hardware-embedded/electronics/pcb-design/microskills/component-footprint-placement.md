@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Positioning physical component representations on the board.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/theoretical-outcome-deviation-analysis|theoretical-outcome-deviation-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/theoretical-outcome-deviation-analysis|theoretical-outcome-deviation-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Theoretical Outcome Deviation Analysis

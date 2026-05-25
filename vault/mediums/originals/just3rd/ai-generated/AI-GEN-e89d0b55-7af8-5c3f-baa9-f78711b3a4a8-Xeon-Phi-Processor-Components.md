@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|xeon-phi-processor-components]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|xeon-phi-processor-components]]"
 learning-time-in-minutes: 3
 ---
 # Xeon Phi Processor Components

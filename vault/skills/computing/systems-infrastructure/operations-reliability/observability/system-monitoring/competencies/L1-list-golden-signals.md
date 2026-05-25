@@ -45,3 +45,6 @@ List the 'Golden Signals' of system performance: Latency, Traffic, Errors, and S
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic|Traffic]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/errors|Errors]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/saturation|Saturation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-terminology|brain-inspired-computing-terminology]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-terminology|brain-inspired-computing-terminology]]"
 learning-time-in-minutes: 4
 ---
 # Brain-Inspired Computing: Key Terminology

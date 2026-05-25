@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how multiple devices share a communication medium.
+## Related Mediums
+
+![[bases/related-mediums.base]]

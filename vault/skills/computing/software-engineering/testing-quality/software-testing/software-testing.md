@@ -51,3 +51,6 @@ Differentiating between software faults, errors, and failures, and applying soft
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-verification-context|Software Verification Context]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/system-test-implementation|System Test Implementation]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/unit-test-implementation|Unit Test Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

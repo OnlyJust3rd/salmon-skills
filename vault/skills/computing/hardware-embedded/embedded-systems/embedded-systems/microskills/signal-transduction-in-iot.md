@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of signal transduction processes within IoT devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining when workflows run.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Explain the core principles of Infrastructure as Code (IaC).
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-and-orchestration|Automation and Orchestration]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/version-control-for-infrastructure|Version Control for Infrastructure]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/consistency-and-repeatability|Consistency and Repeatability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

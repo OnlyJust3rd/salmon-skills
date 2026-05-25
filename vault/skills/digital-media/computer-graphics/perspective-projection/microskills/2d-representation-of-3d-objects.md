@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of a two-dimensional view of a three-dimensional geometric object.
+## Related Mediums
+
+![[bases/related-mediums.base]]

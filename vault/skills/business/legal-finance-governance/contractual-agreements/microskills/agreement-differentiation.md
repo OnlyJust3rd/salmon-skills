@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between employment contracts, NDAs, and confidentiality/non-competition clauses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

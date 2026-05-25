@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/standard-communication-interface-analysis|standard-communication-interface-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/standard-communication-interface-analysis|standard-communication-interface-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Standard Communication Interface Analysis: Serial vs. Parallel

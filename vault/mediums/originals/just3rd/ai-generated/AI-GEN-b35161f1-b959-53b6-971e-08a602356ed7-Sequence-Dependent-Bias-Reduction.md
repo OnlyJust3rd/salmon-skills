@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[sequence-dependent-bias-reduction|sequence-dependent-bias-reduction]]"
+learning-outcomes:
+  - "[[sequence-dependent-bias-reduction|sequence-dependent-bias-reduction]]"
 learning-time-in-minutes: 6
 ---
 # Reducing Sequence-Dependent Bias in Usability Studies

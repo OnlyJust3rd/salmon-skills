@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/pattern-matching-for-textual-extraction|pattern-matching-for-textual-extraction]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/pattern-matching-for-textual-extraction|pattern-matching-for-textual-extraction]]"
 learning-time-in-minutes: 4
 ---
 # Extracting Substrings with Regular Expressions

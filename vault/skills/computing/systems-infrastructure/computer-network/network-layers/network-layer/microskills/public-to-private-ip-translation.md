@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The mechanism for converting external to internal IP addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

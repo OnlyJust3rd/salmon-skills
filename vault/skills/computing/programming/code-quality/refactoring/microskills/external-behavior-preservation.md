@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Refactoring without altering the observable functionality of code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -93,3 +93,6 @@ Ability to set up and evaluate double integrals over plane regions and triple in
 - [[triple-integral-setup-rectangular|Triple integral setup (rectangular)]]
 - [[volume-calculation-using-triple-integrals|Volume calculation using triple integrals]]
 - [[volume-problems-using-coordinate-transformations|Volume problems using coordinate transformations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

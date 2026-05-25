@@ -43,3 +43,6 @@ Use Python to implement and orchestrate stages of the data science workflow on r
 
 - [[skills/computing/programming/programming-languages/python/microskills/implement-data-science-workflow-in-python-workflow-steps|Implement Data Science Workflow in Python workflow steps]]
 - [[skills/computing/programming/programming-languages/python/microskills/implement-data-science-workflow-in-python-code-implementation|Implement Data Science Workflow in Python code implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

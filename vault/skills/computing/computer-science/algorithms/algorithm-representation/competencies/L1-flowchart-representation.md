@@ -43,3 +43,6 @@ Explain the purpose, function, and components of flowchart symbols in representi
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/flowchart-symbol-recognition|Flowchart symbol recognition]]
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/flowchart-logic-interpretation|Flowchart logic interpretation]]
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/algorithmic-step-visualization|Algorithmic step visualization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

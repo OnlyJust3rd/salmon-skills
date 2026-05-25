@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing of significant user interface paradigms throughout HCI history.
+## Related Mediums
+
+![[bases/related-mediums.base]]

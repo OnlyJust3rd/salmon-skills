@@ -42,3 +42,6 @@ Describe and apply the Fundamental Theorem of Calculus to evaluate integrals and
 - [[ftc-role-in-defining-new-functions|FTC role in defining new functions]]
 - [[fundamental-theorem-of-calculus-parts|Fundamental Theorem of Calculus parts]]
 - [[fundamental-theorem-of-calculus-statement|Fundamental Theorem of Calculus statement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

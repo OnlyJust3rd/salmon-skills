@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of LexRank to generate extractive text summaries.
+## Related Mediums
+
+![[bases/related-mediums.base]]

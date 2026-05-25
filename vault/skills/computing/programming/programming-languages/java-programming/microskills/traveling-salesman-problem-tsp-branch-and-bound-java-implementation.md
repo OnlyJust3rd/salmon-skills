@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the TSP using branch and bound in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

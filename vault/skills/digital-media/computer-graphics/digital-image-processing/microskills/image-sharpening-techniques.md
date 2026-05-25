@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of operations to enhance image edges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -49,3 +49,6 @@ Apply AI-assisted code generation and refactoring.
 - [[repository-context-prompting|Repository Context Prompting]]
 - [[refactoring-request|Refactoring Request]]
 - [[human-in-the-loop-edit|Human-in-the-Loop Edit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of invoking a function that is already initialized.
+## Related Mediums
+
+![[bases/related-mediums.base]]

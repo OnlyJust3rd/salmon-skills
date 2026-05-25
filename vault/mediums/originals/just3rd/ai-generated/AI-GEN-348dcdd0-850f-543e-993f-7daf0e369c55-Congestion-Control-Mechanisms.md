@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[congestion-control-mechanisms|congestion-control-mechanisms]]"
+learning-outcomes:
+  - "[[congestion-control-mechanisms|congestion-control-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Congestion Control Mechanisms: AIMD

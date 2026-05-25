@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/linearity-system-verification|linearity-system-verification]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/linearity-system-verification|linearity-system-verification]]"
 learning-time-in-minutes: 4
 ---
 # Linearity System Verification

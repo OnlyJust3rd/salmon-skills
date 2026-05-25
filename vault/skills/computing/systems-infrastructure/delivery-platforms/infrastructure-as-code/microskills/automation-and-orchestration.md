@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how IaC facilitates automated setup and management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding factors that degrade signal quality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[inorder-tree-traversal-java-implementation|inorder-tree-traversal-java-implementation]]"
+learning-outcomes:
+  - "[[inorder-tree-traversal-java-implementation|inorder-tree-traversal-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Inorder Tree Traversal in Java

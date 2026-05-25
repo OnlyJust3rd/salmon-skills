@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/real-world-related-rates-problem-solving|real-world-related-rates-problem-solving]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/real-world-related-rates-problem-solving|real-world-related-rates-problem-solving]]"
 learning-time-in-minutes: 3
 ---
 # Solving Real-World Related Rates Problems

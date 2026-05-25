@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing the consequences of different OO design decisions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Compressing a sample dataset using Huffman coding.
+## Related Mediums
+
+![[bases/related-mediums.base]]

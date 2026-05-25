@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating models that meet specified limitations and requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

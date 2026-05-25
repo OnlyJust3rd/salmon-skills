@@ -38,3 +38,6 @@ Understanding frame budgets, profiling, memory usage, draw calls, asset optimiza
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/gpu-bottleneck|GPU Bottleneck]]
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/memory-allocation-review|Memory Allocation Review]]
 - [[skills/digital-media/game-development/game-performance-optimization/microskills/profiler-trace|Profiler Trace]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

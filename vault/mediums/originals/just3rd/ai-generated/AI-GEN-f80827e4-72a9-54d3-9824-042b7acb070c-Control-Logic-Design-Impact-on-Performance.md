@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/control-logic-design-impact-on-performance|control-logic-design-impact-on-performance]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/control-logic-design-impact-on-performance|control-logic-design-impact-on-performance]]"
 learning-time-in-minutes: 5
 ---
 # Control Logic Design Impact on Processor Performance

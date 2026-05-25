@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/command-line-monitoring-tools|command-line-monitoring-tools]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/command-line-monitoring-tools|command-line-monitoring-tools]]"
 learning-time-in-minutes: 5
 ---
 # Using Command-Line Tools for Basic System Monitoring

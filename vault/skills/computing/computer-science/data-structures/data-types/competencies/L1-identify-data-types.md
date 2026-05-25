@@ -42,3 +42,6 @@ Identify structured, semi-structured, and unstructured data types.
 - [[skills/computing/computer-science/data-structures/data-types/microskills/structured-data-recognition|Structured Data Recognition]]
 - [[skills/computing/computer-science/data-structures/data-types/microskills/semi-structured-data-recognition|Semi-structured Data Recognition]]
 - [[skills/computing/computer-science/data-structures/data-types/microskills/unstructured-data-recognition|Unstructured Data Recognition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

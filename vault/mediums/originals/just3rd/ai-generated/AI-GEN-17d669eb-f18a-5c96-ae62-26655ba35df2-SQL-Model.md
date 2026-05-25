@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/sql-model|sql-model]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/sql-model|sql-model]]"
 learning-time-in-minutes: 4
 ---
 # SQL Models: Query-Defined Datasets in dbt

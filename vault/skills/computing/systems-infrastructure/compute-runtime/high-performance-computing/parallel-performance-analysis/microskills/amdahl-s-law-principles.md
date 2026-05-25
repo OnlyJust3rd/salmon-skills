@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the fundamental concepts and assumptions of Amdahl's Law.
+## Related Mediums
+
+![[bases/related-mediums.base]]

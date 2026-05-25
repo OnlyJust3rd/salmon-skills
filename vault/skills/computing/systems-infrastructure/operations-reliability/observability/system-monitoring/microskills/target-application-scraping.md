@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to configure Prometheus to collect metrics from specific applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

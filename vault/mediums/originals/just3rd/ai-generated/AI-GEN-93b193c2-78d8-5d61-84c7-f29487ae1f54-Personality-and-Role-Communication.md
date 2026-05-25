@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/character-design/microskills/personality-and-role-communication|personality-and-role-communication]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/character-design/microskills/personality-and-role-communication|personality-and-role-communication]]"
 learning-time-in-minutes: 3
 ---
 # Communicating Personality and Role Through Visual Design

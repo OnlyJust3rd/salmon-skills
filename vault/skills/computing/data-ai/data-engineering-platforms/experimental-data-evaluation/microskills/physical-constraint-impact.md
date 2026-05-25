@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role of real-world limitations on outcomes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

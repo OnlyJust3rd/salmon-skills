@@ -30,3 +30,6 @@ Protecting database access, credentials, privileges, and sensitive data.
 - [[skills/computing/data-ai/databases/database-operations/database-security/microskills/database-user-privileges|Database User Privileges]]
 - [[skills/computing/data-ai/databases/database-operations/database-security/microskills/credential-management|Credential Management]]
 - [[skills/computing/data-ai/databases/database-operations/database-security/microskills/data-encryption-controls|Data Encryption Controls]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

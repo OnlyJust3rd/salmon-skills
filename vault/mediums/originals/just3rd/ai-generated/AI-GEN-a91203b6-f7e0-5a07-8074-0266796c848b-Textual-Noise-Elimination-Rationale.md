@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[textual-noise-elimination-rationale|textual-noise-elimination-rationale]]"
+learning-outcomes:
+  - "[[textual-noise-elimination-rationale|textual-noise-elimination-rationale]]"
 learning-time-in-minutes: 4
 ---
 # Why Textual Noise Elimination Matters

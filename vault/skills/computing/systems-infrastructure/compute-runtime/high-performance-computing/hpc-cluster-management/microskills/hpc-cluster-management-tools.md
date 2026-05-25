@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying key components used in managing HPC cluster resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

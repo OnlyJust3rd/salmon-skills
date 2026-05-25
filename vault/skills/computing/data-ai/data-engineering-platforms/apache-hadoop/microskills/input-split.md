@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Dividing source data for parallel processing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

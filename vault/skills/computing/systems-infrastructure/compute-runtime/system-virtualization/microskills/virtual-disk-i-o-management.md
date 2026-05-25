@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how storage access is managed in virtual environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

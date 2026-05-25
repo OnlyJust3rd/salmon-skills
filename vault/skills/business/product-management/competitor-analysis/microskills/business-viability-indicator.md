@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How market size impacts potential success.
+## Related Mediums
+
+![[bases/related-mediums.base]]

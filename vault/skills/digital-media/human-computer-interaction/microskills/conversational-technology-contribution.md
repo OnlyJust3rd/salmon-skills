@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how conversational technologies shape user experience.
+## Related Mediums
+
+![[bases/related-mediums.base]]

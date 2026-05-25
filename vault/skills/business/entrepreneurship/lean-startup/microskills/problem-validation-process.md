@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How interviews contribute to confirming customer problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

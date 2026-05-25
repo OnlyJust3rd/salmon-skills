@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/architectural-decision-analysis|architectural-decision-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/architectural-decision-analysis|architectural-decision-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Architectural Decision Analysis for Cloud Infrastructure

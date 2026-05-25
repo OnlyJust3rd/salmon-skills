@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[contiguous-file-allocation|contiguous-file-allocation]]"
+learning-outcomes:
+  - "[[contiguous-file-allocation|contiguous-file-allocation]]"
 learning-time-in-minutes: 4
 ---
 # Contiguous File Allocation

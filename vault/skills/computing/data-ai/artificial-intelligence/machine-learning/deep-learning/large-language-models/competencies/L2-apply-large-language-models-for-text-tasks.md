@@ -45,3 +45,6 @@ Apply large language models for text tasks.
 - [[summarization|Summarization]]
 - [[classification|Classification]]
 - [[information-extraction|Information Extraction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

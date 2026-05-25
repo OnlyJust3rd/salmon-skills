@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of directing traffic without dynamic protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

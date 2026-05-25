@@ -45,3 +45,6 @@ Create a prototype for an interactive system based on design alternatives.
 - [[interactive-prototype-creation|Interactive Prototype Creation]]
 - [[design-testing-and-demonstration|Design Testing and Demonstration]]
 - [[functional-model-development|Functional Model Development]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

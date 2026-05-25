@@ -59,3 +59,6 @@ Explaining and evaluating the internal organization and control logic of a proce
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/single-bus-datapath-organization|Single-Bus Datapath Organization]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/synchronous-bus-protocol-analysis|Synchronous Bus Protocol Analysis]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/synchronous-communication-principles|Synchronous Communication Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

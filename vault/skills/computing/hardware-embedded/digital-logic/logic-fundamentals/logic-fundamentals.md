@@ -56,3 +56,6 @@ Explain and apply Boolean algebra, De Morgan's theorems, and basic logic gates t
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-gate-truth-tables|Logic Gate Truth Tables]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/theorem-application|Theorem Application]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/truth-functions|Truth Functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

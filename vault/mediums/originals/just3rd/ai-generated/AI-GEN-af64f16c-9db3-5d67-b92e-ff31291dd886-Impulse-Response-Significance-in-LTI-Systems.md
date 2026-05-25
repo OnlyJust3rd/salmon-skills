@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/impulse-response-significance-in-lti-systems|impulse-response-significance-in-lti-systems]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/impulse-response-significance-in-lti-systems|impulse-response-significance-in-lti-systems]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Impulse Response in LTI Systems

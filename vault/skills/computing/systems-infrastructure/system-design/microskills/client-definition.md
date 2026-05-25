@@ -14,3 +14,6 @@ contributors:
 # client-definition
 
 Learner can define a **client** as the part of a system that sends requests to another component, usually a server, to access data, services, or functionality. The client may be a web browser, mobile application, desktop application, command-line tool, or another software service.
+## Related Mediums
+
+![[bases/related-mediums.base]]

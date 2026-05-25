@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[latin-squares-application|latin-squares-application]]"
+learning-outcomes:
+  - "[[latin-squares-application|latin-squares-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Latin Squares to Mitigate Experimental Effects

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between ideal and non-ideal diode performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

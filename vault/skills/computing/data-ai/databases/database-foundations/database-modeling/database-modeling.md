@@ -30,3 +30,6 @@ Representing domain concepts, relationships, and constraints as database models.
 - [[skills/computing/data-ai/databases/database-foundations/database-modeling/microskills/entity-identification|Entity Identification]]
 - [[skills/computing/data-ai/databases/database-foundations/database-modeling/microskills/relationship-cardinality|Relationship Cardinality]]
 - [[skills/computing/data-ai/databases/database-foundations/database-modeling/microskills/constraint-modeling|Constraint Modeling]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

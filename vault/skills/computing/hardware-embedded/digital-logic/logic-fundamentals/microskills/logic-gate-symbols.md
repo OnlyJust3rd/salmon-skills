@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of symbols for basic logic gates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

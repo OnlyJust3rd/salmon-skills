@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/principle-of-least-privilege|principle-of-least-privilege]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/principle-of-least-privilege|principle-of-least-privilege]]"
 learning-time-in-minutes: 3
 ---
 # Applying the Principle of Least Privilege in IAM

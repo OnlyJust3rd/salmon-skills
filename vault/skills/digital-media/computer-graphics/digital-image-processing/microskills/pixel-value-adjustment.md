@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Modification of pixel intensity for image enhancement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[assembly-program-efficiency-analysis|assembly-program-efficiency-analysis]]"
+learning-outcomes:
+  - "[[assembly-program-efficiency-analysis|assembly-program-efficiency-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Assembly Program Efficiency

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical execution of defining engineering problems based on given scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

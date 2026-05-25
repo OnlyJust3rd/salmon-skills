@@ -45,3 +45,6 @@ Apply prompt patterns for task instructions.
 - [[few-shot-example|Few-Shot Example]]
 - [[structured-output-prompt|Structured Output Prompt]]
 - [[iterative-refinement|Iterative Refinement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

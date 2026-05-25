@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/causality-analysis-pole-zero-plot|causality-analysis-pole-zero-plot]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/causality-analysis-pole-zero-plot|causality-analysis-pole-zero-plot]]"
 learning-time-in-minutes: 3
 ---
 # Causality Analysis Using Pole-Zero Plots

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|yaml-structure-for-kubernetes]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|yaml-structure-for-kubernetes]]"
 learning-time-in-minutes: 3
 ---
 # YAML Structure for Kubernetes

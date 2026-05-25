@@ -38,3 +38,6 @@ Designing applications around managed services, containers, scalability, resilie
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/managed-service|Managed Service]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/operational-burden|Operational Burden]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/service-fit|Service Fit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

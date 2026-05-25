@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pld-fundamental-characteristics|pld-fundamental-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pld-fundamental-characteristics|pld-fundamental-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # PLD Fundamental Characteristics

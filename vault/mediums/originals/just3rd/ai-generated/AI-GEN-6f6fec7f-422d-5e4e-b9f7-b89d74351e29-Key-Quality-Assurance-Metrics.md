@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/key-quality-assurance-metrics|key-quality-assurance-metrics]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/key-quality-assurance-metrics|key-quality-assurance-metrics]]"
 learning-time-in-minutes: 6
 ---
 # Key Quality Assurance Metrics

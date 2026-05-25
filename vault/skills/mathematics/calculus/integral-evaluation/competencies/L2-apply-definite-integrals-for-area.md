@@ -45,3 +45,6 @@ Apply definite integrals to calculate the area under a curve and the area betwee
 
 - [[area-under-a-curve-calculation|Area under a curve calculation]]
 - [[area-between-curves-calculation|Area between curves calculation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

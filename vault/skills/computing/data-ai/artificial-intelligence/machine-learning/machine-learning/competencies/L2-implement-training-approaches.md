@@ -43,3 +43,6 @@ Implement model training using direct (OLS) and iterative (gradient descent) app
 - [[ols-implementation|OLS implementation]]
 - [[gradient-descent-implementation|Gradient descent implementation]]
 - [[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/microskills/parameter-optimization|Parameter optimization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

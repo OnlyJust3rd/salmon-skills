@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of various activation functions and their roles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

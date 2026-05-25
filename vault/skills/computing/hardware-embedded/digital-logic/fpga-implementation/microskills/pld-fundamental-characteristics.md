@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of fundamental characteristics of PLDs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

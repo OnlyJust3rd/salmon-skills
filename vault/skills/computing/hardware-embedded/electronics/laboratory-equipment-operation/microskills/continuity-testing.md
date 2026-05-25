@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ensuring continuity using laboratory equipment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

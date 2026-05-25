@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-algorithm-operational-paradigms|symmetric-algorithm-operational-paradigms]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-algorithm-operational-paradigms|symmetric-algorithm-operational-paradigms]]"
 learning-time-in-minutes: 3
 ---
 # How Symmetric Algorithms Work: A Look at Their Operational Paradigms

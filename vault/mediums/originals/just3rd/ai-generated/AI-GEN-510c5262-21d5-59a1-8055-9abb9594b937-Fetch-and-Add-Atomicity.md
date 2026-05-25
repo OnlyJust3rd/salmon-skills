@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|fetch-and-add-atomicity]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|fetch-and-add-atomicity]]"
 learning-time-in-minutes: 3
 ---
 # Fetch-and-Add Atomicity

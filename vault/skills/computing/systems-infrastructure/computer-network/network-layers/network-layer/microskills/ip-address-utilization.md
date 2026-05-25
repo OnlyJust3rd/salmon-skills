@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How IP addresses guide forwarding decisions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

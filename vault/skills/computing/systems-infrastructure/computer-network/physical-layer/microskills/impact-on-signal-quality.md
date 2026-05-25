@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating how impairments affect the integrity of transmitted signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

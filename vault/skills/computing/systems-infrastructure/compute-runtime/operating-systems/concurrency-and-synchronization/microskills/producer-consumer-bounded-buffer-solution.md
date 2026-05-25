@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Solving the Producer-Consumer problem using condition variables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

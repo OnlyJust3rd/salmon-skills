@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how tags support compliance and security.
+## Related Mediums
+
+![[bases/related-mediums.base]]

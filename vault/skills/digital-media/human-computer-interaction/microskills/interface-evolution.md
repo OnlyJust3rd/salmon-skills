@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the progression of user interfaces over time.
+## Related Mediums
+
+![[bases/related-mediums.base]]

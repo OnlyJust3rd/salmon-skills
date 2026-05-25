@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/instrument-limitation-error|instrument-limitation-error]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/instrument-limitation-error|instrument-limitation-error]]"
 learning-time-in-minutes: 4
 ---
 # Instrument Limitation Error

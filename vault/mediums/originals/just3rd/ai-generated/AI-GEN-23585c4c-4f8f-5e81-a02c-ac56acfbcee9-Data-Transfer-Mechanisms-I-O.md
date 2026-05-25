@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/data-transfer-mechanisms-i-o|data-transfer-mechanisms-i-o]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/data-transfer-mechanisms-i-o|data-transfer-mechanisms-i-o]]"
 learning-time-in-minutes: 5
 ---
 # Data Transfer Mechanisms in I/O Interaction

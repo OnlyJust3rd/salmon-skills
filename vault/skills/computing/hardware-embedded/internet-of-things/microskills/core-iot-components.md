@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and understanding of the fundamental building blocks of IoT systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

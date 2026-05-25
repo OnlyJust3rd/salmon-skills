@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/gameplay-mechanics-definition|gameplay-mechanics-definition]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/gameplay-mechanics-definition|gameplay-mechanics-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Gameplay Mechanics: The Heartbeat of Your Game

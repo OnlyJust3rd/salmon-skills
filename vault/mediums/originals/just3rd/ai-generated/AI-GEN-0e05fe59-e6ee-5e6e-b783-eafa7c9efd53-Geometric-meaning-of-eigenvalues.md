@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvalues|geometric-meaning-of-eigenvalues]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvalues|geometric-meaning-of-eigenvalues]]"
 learning-time-in-minutes: 4
 ---
 # The Geometric Meaning of Eigenvalues

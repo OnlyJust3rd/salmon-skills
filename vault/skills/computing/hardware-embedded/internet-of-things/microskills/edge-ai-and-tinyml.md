@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with Edge Artificial Intelligence and Tiny Machine Learning in IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[error-prevention|error-prevention]]"
+learning-outcomes:
+  - "[[error-prevention|error-prevention]]"
 learning-time-in-minutes: 4
 ---
 # Error Prevention: Design to Avoid Mistakes

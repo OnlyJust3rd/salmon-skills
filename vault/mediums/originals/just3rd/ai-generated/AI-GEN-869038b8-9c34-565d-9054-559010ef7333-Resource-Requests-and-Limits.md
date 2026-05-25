@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/resource-requests-and-limits|resource-requests-and-limits]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/resource-requests-and-limits|resource-requests-and-limits]]"
 learning-time-in-minutes: 4
 ---
 # Kubernetes Resource Requests and Limits

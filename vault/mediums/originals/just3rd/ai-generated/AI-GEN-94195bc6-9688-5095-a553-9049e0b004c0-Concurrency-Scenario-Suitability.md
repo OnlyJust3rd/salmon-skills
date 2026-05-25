@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-scenario-suitability|concurrency-scenario-suitability]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-scenario-suitability|concurrency-scenario-suitability]]"
 learning-time-in-minutes: 5
 ---
 # Concurrency Scenario Suitability

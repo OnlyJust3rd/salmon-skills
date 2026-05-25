@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in leveraging functions to avoid redundant code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

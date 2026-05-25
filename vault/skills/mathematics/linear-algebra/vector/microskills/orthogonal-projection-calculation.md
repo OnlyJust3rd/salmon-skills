@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to compute orthogonal projections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

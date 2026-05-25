@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technical-troubleshooting/microskills/resolution-verification|resolution-verification]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technical-troubleshooting/microskills/resolution-verification|resolution-verification]]"
 learning-time-in-minutes: 4
 ---
 # Resolution Verification: Did We Really Fix It?

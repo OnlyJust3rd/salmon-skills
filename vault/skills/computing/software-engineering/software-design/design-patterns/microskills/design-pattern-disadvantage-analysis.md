@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating the drawbacks of different design patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

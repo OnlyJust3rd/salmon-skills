@@ -45,3 +45,6 @@ Apply YAML configuration rules to define basic Kubernetes Pod specifications.
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-pod-definition|Kubernetes Pod Definition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/apiversion-kind-metadata-spec|apiVersion, kind, metadata, spec]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/pod-specification-construction|Pod Specification Construction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

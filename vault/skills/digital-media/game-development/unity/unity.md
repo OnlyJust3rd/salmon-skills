@@ -38,3 +38,6 @@ Using Unity editor workflows, scenes, prefabs, components, C# scripts, physics, 
 - [[skills/digital-media/game-development/unity/microskills/scene-setup|Scene Setup]]
 - [[skills/digital-media/game-development/unity/microskills/serialized-field|Serialized Field]]
 - [[skills/digital-media/game-development/unity/microskills/unity-event-method|Unity Event Method]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

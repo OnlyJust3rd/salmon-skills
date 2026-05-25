@@ -47,3 +47,6 @@ Summarize the characteristics of periodic and non-periodic signals, and compare 
 - [[exponential-signal-forms|Exponential Signal Forms]]
 - [[sinusoidal-signal-forms|Sinusoidal Signal Forms]]
 - [[signal-type-comparison|Signal Type Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

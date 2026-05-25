@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/tunability-criterion|tunability-criterion]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/tunability-criterion|tunability-criterion]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing the Tunability Criterion in Selective Encryption

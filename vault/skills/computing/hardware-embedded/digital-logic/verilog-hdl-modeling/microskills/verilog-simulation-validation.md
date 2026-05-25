@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Validation of module behavior through testbenches.
+## Related Mediums
+
+![[bases/related-mediums.base]]

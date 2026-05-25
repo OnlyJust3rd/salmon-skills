@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interface-element-organization|interface-element-organization]]"
+learning-outcomes:
+  - "[[interface-element-organization|interface-element-organization]]"
 learning-time-in-minutes: 3
 ---
 # Interface Element Organization: The Foundation of Visual Layout

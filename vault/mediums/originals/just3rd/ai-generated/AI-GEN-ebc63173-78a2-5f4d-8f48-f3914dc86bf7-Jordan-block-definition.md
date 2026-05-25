@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/jordan-block-definition|jordan-block-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/jordan-block-definition|jordan-block-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Jordan Blocks: The Building Blocks of Jordan Normal Forms

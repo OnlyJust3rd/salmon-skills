@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capacity to ensure each test case aligns with stated requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

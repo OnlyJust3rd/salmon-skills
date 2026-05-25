@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Benefits of subnetting for network organization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

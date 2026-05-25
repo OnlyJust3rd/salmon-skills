@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of common visual components in UIs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

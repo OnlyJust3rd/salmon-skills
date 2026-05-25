@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[0-1-knapsack-dp-java-implementation|0-1-knapsack-dp-java-implementation]]"
+learning-outcomes:
+  - "[[0-1-knapsack-dp-java-implementation|0-1-knapsack-dp-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # 0/1 Knapsack DP Java Implementation

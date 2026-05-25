@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of formulas and software tools for metric computation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

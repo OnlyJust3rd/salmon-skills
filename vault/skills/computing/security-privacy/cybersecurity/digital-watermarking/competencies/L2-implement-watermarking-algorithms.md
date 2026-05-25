@@ -47,3 +47,6 @@ Implement watermark embedding and extraction algorithms for digital images using
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-embedding-algorithms|Watermark Embedding Algorithms]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-extraction-algorithms|Watermark Extraction Algorithms]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/image-watermarking-implementation|Image Watermarking Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

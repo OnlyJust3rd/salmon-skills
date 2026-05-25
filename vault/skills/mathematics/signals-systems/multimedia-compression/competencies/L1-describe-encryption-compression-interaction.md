@@ -57,3 +57,6 @@ Describe how encryption can interact with different stages of the multimedia com
 - [[precompression-encryption|Precompression Encryption]]
 - [[in-compression-encryption|In-compression Encryption]]
 - [[postcompression-encryption|Postcompression Encryption]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

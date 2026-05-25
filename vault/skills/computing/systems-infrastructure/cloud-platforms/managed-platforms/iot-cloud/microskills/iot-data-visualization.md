@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing appropriate tools for displaying IoT data visually.
+## Related Mediums
+
+![[bases/related-mediums.base]]

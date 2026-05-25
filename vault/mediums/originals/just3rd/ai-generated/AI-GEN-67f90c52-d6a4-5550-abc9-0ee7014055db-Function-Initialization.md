@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/function-initialization|function-initialization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/function-initialization|function-initialization]]"
 learning-time-in-minutes: 4
 ---
 # Function Initialization: The Warm-Up Act for Serverless Functions

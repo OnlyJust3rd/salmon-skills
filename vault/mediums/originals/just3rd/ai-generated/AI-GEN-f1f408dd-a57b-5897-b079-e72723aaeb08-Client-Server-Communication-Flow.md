@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[client-server-communication-flow|client-server-communication-flow]]"
+learning-outcomes:
+  - "[[client-server-communication-flow|client-server-communication-flow]]"
 learning-time-in-minutes: 4
 ---
 # Client-Server Communication Flow

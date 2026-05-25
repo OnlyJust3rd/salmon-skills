@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-science/data-science/microskills/stage-objectives|stage-objectives]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-science/data-science/microskills/stage-objectives|stage-objectives]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Objectives of Data Science Stages

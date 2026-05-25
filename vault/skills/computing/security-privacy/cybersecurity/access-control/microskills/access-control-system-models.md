@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of various established models for managing access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

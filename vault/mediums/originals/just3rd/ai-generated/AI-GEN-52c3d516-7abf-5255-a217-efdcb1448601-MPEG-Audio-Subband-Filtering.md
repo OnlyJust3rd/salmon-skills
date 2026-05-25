@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/mpeg-audio-subband-filtering|mpeg-audio-subband-filtering]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/mpeg-audio-subband-filtering|mpeg-audio-subband-filtering]]"
 learning-time-in-minutes: 4
 ---
 # MPEG Audio Subband Filtering: Breaking Down Sound

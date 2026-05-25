@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-interaction-methods|user-interaction-methods]]"
+learning-outcomes:
+  - "[[user-interaction-methods|user-interaction-methods]]"
 learning-time-in-minutes: 5
 ---
 # Understanding User Interaction Methods

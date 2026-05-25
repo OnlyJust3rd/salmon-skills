@@ -49,3 +49,6 @@ Illustrate real-world use cases for stacks, queues, linked lists, and graphs.
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/linked-list-use-cases|Linked List Use Cases]]
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/graph-use-cases|Graph Use Cases]]
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/hash-table-use-cases|Hash Table Use Cases]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

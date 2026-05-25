@@ -45,3 +45,6 @@ Evaluate and justify the choice of breadboard prototyping versus soldered circui
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/soldered-circuit-reliability|Soldered Circuit Reliability]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/cost-analysis-of-prototyping-methods|Cost Analysis of Prototyping Methods]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/development-speed-comparison|Development Speed Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

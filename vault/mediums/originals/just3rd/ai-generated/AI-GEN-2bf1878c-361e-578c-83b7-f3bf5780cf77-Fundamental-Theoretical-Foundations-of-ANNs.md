@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fundamental-theoretical-foundations-of-anns|fundamental-theoretical-foundations-of-anns]]"
+learning-outcomes:
+  - "[[fundamental-theoretical-foundations-of-anns|fundamental-theoretical-foundations-of-anns]]"
 learning-time-in-minutes: 3
 ---
 # Fundamental Theoretical Foundations of ANNs

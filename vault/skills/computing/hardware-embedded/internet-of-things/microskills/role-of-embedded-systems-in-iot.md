@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of the function and responsibilities of embedded systems as IoT nodes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The fundamental meaning and purpose of SQL.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of different options for data storage (e.g., block, file, object).
+## Related Mediums
+
+![[bases/related-mediums.base]]

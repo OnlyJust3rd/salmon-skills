@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/feasibility-analysis/microskills/profitability-analysis|profitability-analysis]]"
+learning-outcomes:
+  - "[[skills/business/product-management/feasibility-analysis/microskills/profitability-analysis|profitability-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Profitability Analysis: Is Your Project Worth It?

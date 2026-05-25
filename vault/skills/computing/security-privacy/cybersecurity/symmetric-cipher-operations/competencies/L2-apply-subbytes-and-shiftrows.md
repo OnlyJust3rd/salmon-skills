@@ -43,3 +43,6 @@ Apply the steps of SubBytes and ShiftRows to a sample input block for a given bl
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/subbytes-operation-application|SubBytes Operation Application]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-operation-application|ShiftRows Operation Application]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/simplified-block-cipher-operation|Simplified Block Cipher Operation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Fibonacci sequence using dynamic programming in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

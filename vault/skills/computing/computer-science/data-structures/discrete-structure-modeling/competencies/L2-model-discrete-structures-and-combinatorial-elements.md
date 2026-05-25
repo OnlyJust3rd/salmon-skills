@@ -51,3 +51,6 @@ Use sets, functions, sequences, sums, matrices, and relations to model discrete 
 - [[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/summation-notation|Summation Notation]]
 - [[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/matrix-representation|Matrix Representation]]
 - [[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/relation-modeling|Relation Modeling]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

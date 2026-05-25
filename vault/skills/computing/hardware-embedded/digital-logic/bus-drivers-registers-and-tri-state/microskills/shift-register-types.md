@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of SISO, SIPO, PISO, and PIPO shift register types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

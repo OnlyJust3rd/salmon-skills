@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/i-o-device-interaction-principles|i-o-device-interaction-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/i-o-device-interaction-principles|i-o-device-interaction-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How Input/Output Devices Interact with Your Computer

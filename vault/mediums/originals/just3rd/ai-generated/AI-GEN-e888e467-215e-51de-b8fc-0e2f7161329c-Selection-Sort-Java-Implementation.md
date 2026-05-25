@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[selection-sort-java-implementation|selection-sort-java-implementation]]"
+learning-outcomes:
+  - "[[selection-sort-java-implementation|selection-sort-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Selection Sort in Java

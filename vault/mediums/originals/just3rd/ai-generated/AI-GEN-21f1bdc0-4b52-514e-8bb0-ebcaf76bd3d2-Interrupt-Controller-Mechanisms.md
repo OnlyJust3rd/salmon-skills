@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interrupt-controller-mechanisms|interrupt-controller-mechanisms]]"
+learning-outcomes:
+  - "[[interrupt-controller-mechanisms|interrupt-controller-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding AVR Interrupt Controller Mechanisms

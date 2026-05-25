@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adjusting processes based on performance evaluation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

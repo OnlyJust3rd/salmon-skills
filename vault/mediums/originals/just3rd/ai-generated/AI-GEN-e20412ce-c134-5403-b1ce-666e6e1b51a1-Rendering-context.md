@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/rendering-context|rendering-context]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/rendering-context|rendering-context]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Browser's Rendering Context

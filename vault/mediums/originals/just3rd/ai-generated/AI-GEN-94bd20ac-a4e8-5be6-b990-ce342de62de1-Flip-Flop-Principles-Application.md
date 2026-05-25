@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-principles-application|flip-flop-principles-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-principles-application|flip-flop-principles-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Flip-Flop Principles to Build a Counter

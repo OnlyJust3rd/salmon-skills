@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/substring-identification-via-regular-expressions|substring-identification-via-regular-expressions]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/substring-identification-via-regular-expressions|substring-identification-via-regular-expressions]]"
 learning-time-in-minutes: 4
 ---
 # Substring Identification via Regular Expressions

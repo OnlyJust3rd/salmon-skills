@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How STP avoids redundant paths.
+## Related Mediums
+
+![[bases/related-mediums.base]]

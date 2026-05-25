@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/digital-signature-generation-rsa|digital-signature-generation-rsa]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/digital-signature-generation-rsa|digital-signature-generation-rsa]]"
 learning-time-in-minutes: 3
 ---
 # Digital Signatures with RSA: Generation

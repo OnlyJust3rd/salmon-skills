@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing TF-IDF to generate numerical representations of text documents.
+## Related Mediums
+
+![[bases/related-mediums.base]]

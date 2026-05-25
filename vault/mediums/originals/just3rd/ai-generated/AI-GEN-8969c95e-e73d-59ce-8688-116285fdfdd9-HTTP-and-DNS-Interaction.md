@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[http-and-dns-interaction|http-and-dns-interaction]]"
+learning-outcomes:
+  - "[[http-and-dns-interaction|http-and-dns-interaction]]"
 learning-time-in-minutes: 3
 ---
 # HTTP and DNS: A Web Browsing Partnership

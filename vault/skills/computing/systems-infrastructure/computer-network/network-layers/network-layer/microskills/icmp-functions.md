@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the Internet Control Message Protocol's role.
+## Related Mediums
+
+![[bases/related-mediums.base]]

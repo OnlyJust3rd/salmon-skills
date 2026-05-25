@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the goals of compression techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

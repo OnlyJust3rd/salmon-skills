@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/instruction-decode-process|instruction-decode-process]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/instruction-decode-process|instruction-decode-process]]"
 learning-time-in-minutes: 4
 ---
 # The Instruction Decode Process: Making Sense of Processor Commands

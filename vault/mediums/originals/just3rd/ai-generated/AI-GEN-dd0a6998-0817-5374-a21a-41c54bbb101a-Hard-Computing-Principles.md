@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/hard-computing-principles|hard-computing-principles]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/hard-computing-principles|hard-computing-principles]]"
 learning-time-in-minutes: 3
 ---
 # Hard Computing: The Foundation of Traditional Computing

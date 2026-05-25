@@ -51,3 +51,6 @@ Analyze and differentiate between various types of digital watermarks based on t
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/spatial-domain-watermark-characteristics|Spatial Domain Watermark Characteristics]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/frequency-domain-watermark-characteristics|Frequency Domain Watermark Characteristics]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermark-type-classification|Watermark Type Classification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

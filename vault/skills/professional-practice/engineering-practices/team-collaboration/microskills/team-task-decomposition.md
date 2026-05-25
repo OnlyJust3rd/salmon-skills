@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of breaking down project work into smaller, manageable units.
+## Related Mediums
+
+![[bases/related-mediums.base]]

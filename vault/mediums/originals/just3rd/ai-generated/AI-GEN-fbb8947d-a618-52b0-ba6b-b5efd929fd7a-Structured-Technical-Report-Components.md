@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/technical-communication/microskills/structured-technical-report-components|structured-technical-report-components]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/structured-technical-report-components|structured-technical-report-components]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Core Components of a Technical Report

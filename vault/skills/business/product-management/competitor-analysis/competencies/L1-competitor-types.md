@@ -43,3 +43,6 @@ Identify common types of competitors in a market.
 - [[skills/business/product-management/competitor-analysis/microskills/direct-competitors|Direct Competitors]]
 - [[skills/business/product-management/competitor-analysis/microskills/indirect-competitors|Indirect Competitors]]
 - [[skills/business/product-management/competitor-analysis/microskills/substitute-competitors|Substitute Competitors]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

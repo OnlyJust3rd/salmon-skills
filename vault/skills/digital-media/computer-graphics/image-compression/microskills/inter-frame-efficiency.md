@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding compression benefits across multiple frames.
+## Related Mediums
+
+![[bases/related-mediums.base]]

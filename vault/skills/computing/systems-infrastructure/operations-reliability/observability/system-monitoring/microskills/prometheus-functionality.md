@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of Prometheus's role in metric collection and querying.
+## Related Mediums
+
+![[bases/related-mediums.base]]

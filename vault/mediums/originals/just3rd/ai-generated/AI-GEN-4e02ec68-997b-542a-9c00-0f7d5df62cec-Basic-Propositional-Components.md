@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/basic-propositional-components|basic-propositional-components]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/basic-propositional-components|basic-propositional-components]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Building Blocks of Logic: Propositions and Connectives

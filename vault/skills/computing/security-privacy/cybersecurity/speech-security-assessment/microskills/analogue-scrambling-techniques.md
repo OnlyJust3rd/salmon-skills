@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of various analogue methods for speech security.
+## Related Mediums
+
+![[bases/related-mediums.base]]

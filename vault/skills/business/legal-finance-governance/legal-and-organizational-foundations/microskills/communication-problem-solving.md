@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Addressing issues through effective dialogue.
+## Related Mediums
+
+![[bases/related-mediums.base]]

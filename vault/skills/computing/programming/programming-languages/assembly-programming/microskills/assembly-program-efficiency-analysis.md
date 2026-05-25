@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of the performance and resource utilization of assembly programs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

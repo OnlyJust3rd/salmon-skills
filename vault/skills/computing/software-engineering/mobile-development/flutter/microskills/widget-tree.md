@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding nested UI composition.
+## Related Mediums
+
+![[bases/related-mediums.base]]

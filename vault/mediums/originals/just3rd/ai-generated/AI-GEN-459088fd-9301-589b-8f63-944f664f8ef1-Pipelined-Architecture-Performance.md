@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelined-architecture-performance|pipelined-architecture-performance]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelined-architecture-performance|pipelined-architecture-performance]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Pipelined Architecture Performance

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[avl-tree-rotation-java-implementation|avl-tree-rotation-java-implementation]]"
+learning-outcomes:
+  - "[[avl-tree-rotation-java-implementation|avl-tree-rotation-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # AVL Tree Rotation: Java Implementation

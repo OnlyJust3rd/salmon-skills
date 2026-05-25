@@ -38,3 +38,6 @@ Understanding the overarching data science workflow and the responsibilities of 
 - [[skills/computing/data-ai/data-science/data-science/microskills/process-contribution|Process Contribution]]
 - [[skills/computing/data-ai/data-science/data-science/microskills/role-interdependencies|Role Interdependencies]]
 - [[skills/computing/data-ai/data-science/data-science/microskills/stage-objectives|Stage Objectives]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

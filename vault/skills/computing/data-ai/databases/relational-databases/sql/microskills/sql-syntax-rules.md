@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the grammatical structure of SQL commands.
+## Related Mediums
+
+![[bases/related-mediums.base]]

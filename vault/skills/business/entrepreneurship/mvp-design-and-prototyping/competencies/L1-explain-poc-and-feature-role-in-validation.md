@@ -45,3 +45,6 @@ Explain the role of a Proof of Concept (PoC) and the purpose and functionality o
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/proof-of-concept-purpose|Proof of Concept Purpose]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/essential-feature-rationale|Essential Feature Rationale]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/solution-validation-mechanisms|Solution Validation Mechanisms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

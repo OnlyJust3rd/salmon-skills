@@ -47,3 +47,6 @@ Apply graph and tree algorithms to solve problems, such as finding shortest path
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/graph-traversal-application|Graph Traversal Application]]
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/tree-traversal-application|Tree Traversal Application]]
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/algorithm-selection-for-problems|Algorithm Selection for Problems]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

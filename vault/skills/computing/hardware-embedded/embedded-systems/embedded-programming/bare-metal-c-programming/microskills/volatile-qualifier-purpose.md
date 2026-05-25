@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of why volatile prevents compiler optimization of hardware register accesses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

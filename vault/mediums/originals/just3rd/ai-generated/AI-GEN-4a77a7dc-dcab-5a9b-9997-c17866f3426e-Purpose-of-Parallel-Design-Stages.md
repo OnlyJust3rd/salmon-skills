@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/purpose-of-parallel-design-stages|purpose-of-parallel-design-stages]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/purpose-of-parallel-design-stages|purpose-of-parallel-design-stages]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Foster's Parallel Design Stages

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/simple-parallel-application-development|simple-parallel-application-development]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/simple-parallel-application-development|simple-parallel-application-development]]"
 learning-time-in-minutes: 4
 ---
 # Developing a Simple Parallel Application Using Foster's Methodology

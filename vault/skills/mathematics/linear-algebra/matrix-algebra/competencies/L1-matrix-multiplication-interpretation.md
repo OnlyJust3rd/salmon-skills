@@ -45,3 +45,6 @@ Interpret the result of matrix multiplication in terms of dimensions and element
 - [[resulting-matrix-dimensions|Resulting matrix dimensions]]
 - [[element-calculation-in-matrix-multiplication|Element calculation in matrix multiplication]]
 - [[matrix-multiplication-concept|Matrix multiplication concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

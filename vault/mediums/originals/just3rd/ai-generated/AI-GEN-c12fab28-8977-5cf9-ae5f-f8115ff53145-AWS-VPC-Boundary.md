@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-vpc-boundary|aws-vpc-boundary]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-vpc-boundary|aws-vpc-boundary]]"
 learning-time-in-minutes: 3
 ---
 # Understanding AWS VPC Boundaries for Cloud Deployment

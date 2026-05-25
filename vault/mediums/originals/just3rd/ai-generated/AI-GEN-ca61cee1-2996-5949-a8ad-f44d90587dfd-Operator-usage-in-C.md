@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[operator-usage-in-c|operator-usage-in-c]]"
+learning-outcomes:
+  - "[[operator-usage-in-c|operator-usage-in-c]]"
 learning-time-in-minutes: 2
 ---
 # Operator Usage in C

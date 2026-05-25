@@ -51,3 +51,6 @@ Apply pitching techniques to effectively communicate a startup idea and its valu
 - [[skills/business/entrepreneurship/startup-communication/microskills/storytelling-for-startups|Storytelling for Startups]]
 - [[skills/business/entrepreneurship/startup-communication/microskills/audience-engagement-strategies|Audience Engagement Strategies]]
 - [[skills/business/entrepreneurship/startup-communication/microskills/concise-presentation-skills|Concise Presentation Skills]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

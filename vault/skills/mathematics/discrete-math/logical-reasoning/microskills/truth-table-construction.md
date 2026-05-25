@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Generation of truth tables to evaluate the validity of propositional statements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

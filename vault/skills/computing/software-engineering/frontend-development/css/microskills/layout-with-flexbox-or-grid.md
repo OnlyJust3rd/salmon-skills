@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Use modern layout modules for component alignment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in deploying and managing VMSS.
+## Related Mediums
+
+![[bases/related-mediums.base]]

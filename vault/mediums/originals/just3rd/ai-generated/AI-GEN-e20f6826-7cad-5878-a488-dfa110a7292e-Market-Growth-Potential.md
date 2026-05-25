@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/feasibility-analysis/microskills/market-growth-potential|market-growth-potential]]"
+learning-outcomes:
+  - "[[skills/business/product-management/feasibility-analysis/microskills/market-growth-potential|market-growth-potential]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Market Growth Potential

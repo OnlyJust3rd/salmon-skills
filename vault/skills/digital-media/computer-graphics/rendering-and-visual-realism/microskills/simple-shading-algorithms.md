@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of basic shading algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Fundamental concepts of backtracking algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

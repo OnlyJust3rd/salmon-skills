@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/standard-line-equation-definition|standard-line-equation-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/standard-line-equation-definition|standard-line-equation-definition]]"
 learning-time-in-minutes: 3
 ---
 # Standard Line Equation in 3D Space

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to implement fuzzy logic control principles in practice.
+## Related Mediums
+
+![[bases/related-mediums.base]]

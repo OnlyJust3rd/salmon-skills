@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Data exchange and request handling across application layers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

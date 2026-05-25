@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/related-rates-problem-steps|related-rates-problem-steps]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/related-rates-problem-steps|related-rates-problem-steps]]"
 learning-time-in-minutes: 3
 ---
 # Related Rates Problem Steps

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/dimension-calculation-procedure|dimension-calculation-procedure]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/dimension-calculation-procedure|dimension-calculation-procedure]]"
 learning-time-in-minutes: 4
 ---
 # Calculating the Dimension of a Vector Space

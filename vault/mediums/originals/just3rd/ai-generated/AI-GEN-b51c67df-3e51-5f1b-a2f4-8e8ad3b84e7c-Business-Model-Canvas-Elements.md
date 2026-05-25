@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/business-model-canvas-elements|business-model-canvas-elements]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/business-model-canvas-elements|business-model-canvas-elements]]"
 learning-time-in-minutes: 3
 ---
 # Business Model Canvas Elements

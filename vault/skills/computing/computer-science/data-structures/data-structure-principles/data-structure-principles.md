@@ -58,3 +58,6 @@ Explain the properties and applications of various data structures, including me
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/queue-use-cases|Queue Use Cases]]
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/stack-use-cases|Stack Use Cases]]
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/static-vs-dynamic-memory-management|Static vs. Dynamic Memory Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

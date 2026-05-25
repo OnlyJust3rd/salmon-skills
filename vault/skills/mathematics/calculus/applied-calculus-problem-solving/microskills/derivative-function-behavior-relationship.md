@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how derivatives relate to intervals of increase/decrease, concavity, and inflection points.
+## Related Mediums
+
+![[bases/related-mediums.base]]

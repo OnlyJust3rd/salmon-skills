@@ -54,3 +54,6 @@ Applying basic machine learning models such as linear regression, logistic regre
 - [[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/microskills/parameter-optimization|Parameter optimization]]
 - [[pca-implementation|PCA implementation]]
 - [[svd-implementation|SVD implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

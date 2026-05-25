@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/periodic-signal-attributes|periodic-signal-attributes]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/periodic-signal-attributes|periodic-signal-attributes]]"
 learning-time-in-minutes: 4
 ---
 # Periodic Signal Attributes

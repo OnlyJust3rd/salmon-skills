@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in controlling and managing system services with systemd.
+## Related Mediums
+
+![[bases/related-mediums.base]]

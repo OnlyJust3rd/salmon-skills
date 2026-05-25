@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how volumes retain data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

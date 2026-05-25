@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to break a program into functions that represent distinct tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

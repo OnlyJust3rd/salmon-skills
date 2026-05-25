@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to map testing objectives to specific program behaviors and scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how the linearity property influences system responses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

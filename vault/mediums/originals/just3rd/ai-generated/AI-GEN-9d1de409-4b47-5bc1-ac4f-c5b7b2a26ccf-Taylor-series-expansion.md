@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/taylor-series-expansion|taylor-series-expansion]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/taylor-series-expansion|taylor-series-expansion]]"
 learning-time-in-minutes: 4
 ---
 # Taylor Series Expansion

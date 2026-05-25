@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing scenarios to illustrate user interactions with a system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

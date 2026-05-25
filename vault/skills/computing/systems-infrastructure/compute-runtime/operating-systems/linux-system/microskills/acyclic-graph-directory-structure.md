@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of the non-linear nature of Linux directory organization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

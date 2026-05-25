@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[java-classes-purpose|java-classes-purpose]]"
+learning-outcomes:
+  - "[[java-classes-purpose|java-classes-purpose]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Purpose of Java Classes

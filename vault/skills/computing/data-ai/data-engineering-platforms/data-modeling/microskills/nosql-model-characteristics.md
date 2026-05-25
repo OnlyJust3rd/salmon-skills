@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with the distinct characteristics of NoSQL data models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

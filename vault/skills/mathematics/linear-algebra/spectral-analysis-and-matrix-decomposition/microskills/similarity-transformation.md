@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the relationship P⁻¹AP = D.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Explain the advancements in Artificial Neural Networks presented in chapter four
 - [[new-information-in-ann-development-chapter-4|New Information in ANN Development (Chapter 4)]]
 - [[developments-in-artificial-neural-networks|Developments in Artificial Neural Networks]]
 - [[chapter-4-ann-insights|Chapter 4 ANN Insights]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

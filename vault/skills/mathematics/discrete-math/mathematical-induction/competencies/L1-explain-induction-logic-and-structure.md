@@ -45,3 +45,6 @@ Explain the logical structure and necessary components of a proof by mathematica
 - [[inductive-hypothesis-explanation|Inductive hypothesis explanation]]
 - [[inductive-step-explanation|Inductive step explanation]]
 - [[necessity-of-induction-components|Necessity of induction components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

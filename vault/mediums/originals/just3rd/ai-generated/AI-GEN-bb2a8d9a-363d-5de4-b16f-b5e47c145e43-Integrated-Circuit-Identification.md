@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/integrated-circuit-identification|integrated-circuit-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/integrated-circuit-identification|integrated-circuit-identification]]"
 learning-time-in-minutes: 4
 ---
 # Integrated Circuit (IC) Identification

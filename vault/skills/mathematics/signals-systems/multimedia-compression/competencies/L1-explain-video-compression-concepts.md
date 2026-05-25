@@ -51,3 +51,6 @@ Explain the primary goals of video compression and describe the concepts of spat
 - [[motion-vectors-in-temporal-redundancy|Motion Vectors in Temporal Redundancy]]
 - [[mpeg-standards|MPEG Standards]]
 - [[h-261-h-263-standards|H.261/H.263 Standards]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

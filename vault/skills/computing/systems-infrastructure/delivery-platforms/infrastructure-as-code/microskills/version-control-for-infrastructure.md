@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Applying Git or other version control systems to infrastructure code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

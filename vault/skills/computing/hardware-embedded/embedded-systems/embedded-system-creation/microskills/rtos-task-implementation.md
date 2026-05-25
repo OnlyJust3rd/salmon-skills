@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing and managing concurrent processes within an RTOS.
+## Related Mediums
+
+![[bases/related-mediums.base]]

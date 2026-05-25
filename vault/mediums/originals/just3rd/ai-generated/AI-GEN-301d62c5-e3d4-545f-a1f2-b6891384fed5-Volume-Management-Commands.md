@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-management-commands|volume-management-commands]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-management-commands|volume-management-commands]]"
 learning-time-in-minutes: 3
 ---
 # Managing Docker Volumes with Commands

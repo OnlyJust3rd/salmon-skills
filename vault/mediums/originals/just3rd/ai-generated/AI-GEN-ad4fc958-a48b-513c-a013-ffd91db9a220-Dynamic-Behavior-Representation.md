@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/dynamic-behavior-representation|dynamic-behavior-representation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/dynamic-behavior-representation|dynamic-behavior-representation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Dynamic Behavior in UML

@@ -45,3 +45,6 @@ Explain the concept of framing in the data link layer and its role in data trans
 - [[frame-structure|Frame Structure]]
 - [[data-segmentation|Data Segmentation]]
 - [[link-layer-data-encapsulation|Link Layer Data Encapsulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

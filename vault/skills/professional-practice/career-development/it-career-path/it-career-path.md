@@ -42,3 +42,6 @@ Describe potential career paths for tech professionals and differentiate between
 - [[skills/professional-practice/career-development/it-career-path/microskills/role-responsibilities|Role Responsibilities]]
 - [[skills/professional-practice/career-development/it-career-path/microskills/sponsor-functions|Sponsor Functions]]
 - [[skills/professional-practice/career-development/it-career-path/microskills/tech-career-path-overview|Tech Career Path Overview]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

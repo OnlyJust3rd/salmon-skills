@@ -43,3 +43,6 @@ Differentiate between ideal and non-ideal diode behavior when analyzing circuit 
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/ideal-diode-characteristics|Ideal Diode Characteristics]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/non-ideal-diode-characteristics|Non-ideal Diode Characteristics]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/diode-behavior-comparison|Diode Behavior Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

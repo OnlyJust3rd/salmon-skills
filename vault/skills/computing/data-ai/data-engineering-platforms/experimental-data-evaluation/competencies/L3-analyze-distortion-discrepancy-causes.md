@@ -51,3 +51,6 @@ Analyze the relationship between circuit parameters and the occurrence of signal
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/measurement-discrepancy-analysis|Measurement Discrepancy Analysis]]
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/circuit-parameter-influence|Circuit Parameter Influence]]
 - [[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/physical-constraint-impact|Physical Constraint Impact]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

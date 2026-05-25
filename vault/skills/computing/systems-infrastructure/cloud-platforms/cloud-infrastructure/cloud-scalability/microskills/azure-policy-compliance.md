@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of using policies for auditing and remediation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How operations are attached to types or objects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding core tenets of financial operations for cloud.
+## Related Mediums
+
+![[bases/related-mediums.base]]

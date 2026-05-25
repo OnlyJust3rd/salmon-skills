@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using GitOps to automate the deployment and management of applications on Kubernetes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

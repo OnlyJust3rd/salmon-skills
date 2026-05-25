@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the circumstances leading to race conditions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-server-configuration|prometheus-server-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/prometheus-server-configuration|prometheus-server-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Prometheus Server Configuration

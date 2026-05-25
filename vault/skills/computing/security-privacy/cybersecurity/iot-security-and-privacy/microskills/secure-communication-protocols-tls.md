@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding principles and mechanisms of Transport Layer Security (TLS) for IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

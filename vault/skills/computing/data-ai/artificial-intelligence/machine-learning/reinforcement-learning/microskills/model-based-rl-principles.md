@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of learning a model of the environment and using it for planning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

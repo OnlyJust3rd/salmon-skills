@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Concepts related to connecting networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

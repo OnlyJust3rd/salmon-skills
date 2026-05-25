@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of processes in operating systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

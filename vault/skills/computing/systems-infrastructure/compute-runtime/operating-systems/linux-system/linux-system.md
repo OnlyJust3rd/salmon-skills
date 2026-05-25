@@ -92,3 +92,6 @@ Apply core Linux operating system concepts including file systems, permissions, 
 - [[text-processing-commands|Text Processing Commands]]
 - [[user-and-group-management|User and Group Management]]
 - [[vi-editor-operations|Vi Editor Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

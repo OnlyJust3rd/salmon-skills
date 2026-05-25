@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[software-removal|software-removal]]"
+learning-outcomes:
+  - "[[software-removal|software-removal]]"
 learning-time-in-minutes: 3
 ---
 # Uninstalling Software Packages in Linux

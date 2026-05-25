@@ -47,3 +47,6 @@ Apply fundamental number theory concepts, including modular arithmetic, gcd, Euc
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-application|Euclidean Algorithm Application]]
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-application|Euler's Phi Function Application]]
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/cryptographic-problem-solving-with-number-theory|Cryptographic Problem Solving with Number Theory]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|cpu-scheduling-algorithm-application]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/cpu-scheduling-algorithm-application|cpu-scheduling-algorithm-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying CPU Scheduling Algorithms

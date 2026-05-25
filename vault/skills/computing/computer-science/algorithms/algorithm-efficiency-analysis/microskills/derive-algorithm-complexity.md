@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyze code or pseudocode to determine its Big O time and space complexity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

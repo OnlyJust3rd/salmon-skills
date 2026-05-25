@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding repeatable steps to trigger a defect.
+## Related Mediums
+
+![[bases/related-mediums.base]]

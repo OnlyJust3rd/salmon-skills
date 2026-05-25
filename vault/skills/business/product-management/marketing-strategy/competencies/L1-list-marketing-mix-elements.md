@@ -41,3 +41,6 @@ List and identify the elements of the Marketing Mix (4Ps/4Cs).
 
 - [[skills/business/product-management/marketing-strategy/microskills/marketing-mix-4ps|Marketing Mix (4Ps)]]
 - [[skills/business/product-management/marketing-strategy/microskills/marketing-mix-4cs|Marketing Mix (4Cs)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

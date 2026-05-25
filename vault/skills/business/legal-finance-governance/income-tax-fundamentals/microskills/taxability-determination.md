@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining criteria that determine if income is taxable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

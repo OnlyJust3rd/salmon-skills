@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the operational principles of multiplexers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

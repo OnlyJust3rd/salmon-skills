@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining the rank of a matrix or linear transformation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

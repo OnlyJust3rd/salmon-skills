@@ -45,3 +45,6 @@ Explain React rendering, function components, hooks for state and side effects, 
 - [[skills/computing/software-engineering/frontend-development/react/microskills/function-components|Function components]]
 - [[skills/computing/software-engineering/frontend-development/react/microskills/usestate-and-useeffect|useState and useEffect]]
 - [[skills/computing/software-engineering/frontend-development/react/microskills/lists-and-keys|Lists and keys]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -49,3 +49,6 @@ Explain how standard combinational building blocks (adders, subtractors, multipl
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/multiplexer-function-explanation|Multiplexer Function Explanation]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/decoder-function-explanation|Decoder Function Explanation]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/k-map-optimization-process|K-map Optimization Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

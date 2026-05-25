@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding controlled storage of sensitive values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

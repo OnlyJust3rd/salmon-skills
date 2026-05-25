@@ -39,3 +39,6 @@ Create a Waterfall delivery plan by baselining requirements, sequencing phase mi
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/requirements-baseline|Requirements Baseline]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/sequential-phase-planning|Sequential Phase Planning]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/change-control-in-waterfall|Change Control In Waterfall]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

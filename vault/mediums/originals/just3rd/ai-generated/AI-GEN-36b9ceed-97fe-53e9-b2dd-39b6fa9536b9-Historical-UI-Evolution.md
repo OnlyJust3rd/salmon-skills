@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[historical-ui-evolution|historical-ui-evolution]]"
+learning-outcomes:
+  - "[[historical-ui-evolution|historical-ui-evolution]]"
 learning-time-in-minutes: 3
 ---
 # Historical UI Evolution

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/static-dynamic-system-verification|static-dynamic-system-verification]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/static-dynamic-system-verification|static-dynamic-system-verification]]"
 learning-time-in-minutes: 6
 ---
 # Static vs. Dynamic System Verification

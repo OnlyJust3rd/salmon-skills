@@ -45,3 +45,6 @@ Apply the Build-Measure-Learn cycle to iteratively validate business ideas, conc
 - [[skills/business/entrepreneurship/lean-startup/microskills/customer-feedback-integration|Customer Feedback Integration]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/business-idea-refinement|Business Idea Refinement]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/product-development-iteration|Product Development Iteration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

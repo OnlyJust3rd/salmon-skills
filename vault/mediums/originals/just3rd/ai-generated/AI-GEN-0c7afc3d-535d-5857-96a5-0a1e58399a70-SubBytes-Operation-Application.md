@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/subbytes-operation-application|subbytes-operation-application]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/subbytes-operation-application|subbytes-operation-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying the SubBytes Operation

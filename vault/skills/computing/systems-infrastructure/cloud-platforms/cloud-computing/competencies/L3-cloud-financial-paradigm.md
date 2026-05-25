@@ -45,3 +45,6 @@ Analyze the financial and operational paradigm shifts of cloud computing, includ
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/cloud-financial-shifts|Cloud Financial Shifts]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/operational-expenditure-opex|Operational Expenditure (OPEX)]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/capital-expenditure-capex|Capital Expenditure (CAPEX)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

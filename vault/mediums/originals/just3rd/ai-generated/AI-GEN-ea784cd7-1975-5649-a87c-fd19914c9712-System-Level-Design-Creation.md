@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/system-design/microskills/system-level-design-creation|system-level-design-creation]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/system-design/microskills/system-level-design-creation|system-level-design-creation]]"
 learning-time-in-minutes: 5
 ---
 # Creating Foundational System-Level Designs

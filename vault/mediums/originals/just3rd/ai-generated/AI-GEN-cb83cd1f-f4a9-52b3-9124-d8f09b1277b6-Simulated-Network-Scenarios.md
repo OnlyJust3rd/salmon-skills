@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[simulated-network-scenarios|simulated-network-scenarios]]"
+learning-outcomes:
+  - "[[simulated-network-scenarios|simulated-network-scenarios]]"
 learning-time-in-minutes: 4
 ---
 # Simulating Intradomain Routing Protocol Flow

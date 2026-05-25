@@ -45,3 +45,6 @@ Explain interactive game audio concepts.
 - [[skills/digital-media/game-development/game-audio/microskills/audio-cue|Audio Cue]]
 - [[skills/digital-media/game-development/game-audio/microskills/spatial-audio|Spatial Audio]]
 - [[skills/digital-media/game-development/game-audio/microskills/audio-mixer|Audio Mixer]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

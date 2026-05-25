@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[python-data-analysis-libraries|python-data-analysis-libraries]]"
+learning-outcomes:
+  - "[[python-data-analysis-libraries|python-data-analysis-libraries]]"
 learning-time-in-minutes: 3
 ---
 # Python Data Analysis Libraries: The Essential Toolkit

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/two-s-complement-representation|two-s-complement-representation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/two-s-complement-representation|two-s-complement-representation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Two's Complement Representation

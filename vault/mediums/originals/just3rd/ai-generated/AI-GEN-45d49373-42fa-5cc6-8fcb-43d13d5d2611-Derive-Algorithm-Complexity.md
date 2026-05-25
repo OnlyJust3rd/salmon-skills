@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/derive-algorithm-complexity|derive-algorithm-complexity]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/derive-algorithm-complexity|derive-algorithm-complexity]]"
 learning-time-in-minutes: 3
 ---
 # Deriving Algorithm Complexity

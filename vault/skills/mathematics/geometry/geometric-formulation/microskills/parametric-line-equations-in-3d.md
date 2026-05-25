@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to formulate parametric equations for lines in three-dimensional space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

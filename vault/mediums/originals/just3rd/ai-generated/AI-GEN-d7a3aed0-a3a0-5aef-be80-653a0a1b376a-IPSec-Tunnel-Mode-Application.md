@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-application|ipsec-tunnel-mode-application]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-tunnel-mode-application|ipsec-tunnel-mode-application]]"
 learning-time-in-minutes: 3
 ---
 # IPSec Tunnel Mode Application

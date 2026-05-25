@@ -45,3 +45,6 @@ Apply game bug reproduction and balance testing concepts.
 - [[skills/digital-media/game-development/game-testing/microskills/reproduction-step|Reproduction Step]]
 - [[skills/digital-media/game-development/game-testing/microskills/regression-check|Regression Check]]
 - [[skills/digital-media/game-development/game-testing/microskills/balance-note|Balance Note]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the relationship between imperceptibility and robustness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

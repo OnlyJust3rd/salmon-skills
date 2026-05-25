@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/hold-and-wait-condition|hold-and-wait-condition]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/hold-and-wait-condition|hold-and-wait-condition]]"
 learning-time-in-minutes: 2
 ---
 # Hold and Wait Condition

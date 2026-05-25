@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/startup-terminology|startup-terminology]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/startup-terminology|startup-terminology]]"
 learning-time-in-minutes: 5
 ---
 # Startup Terminology in Lean Startup

@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Making workflow rules visible so the team can apply and improve them.
+## Related Mediums
+
+![[bases/related-mediums.base]]

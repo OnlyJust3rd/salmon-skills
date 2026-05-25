@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the fundamental reasons for employing synchronization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/feasibility-analysis/microskills/market-demand|market-demand]]"
+learning-outcomes:
+  - "[[skills/business/product-management/feasibility-analysis/microskills/market-demand|market-demand]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Market Demand

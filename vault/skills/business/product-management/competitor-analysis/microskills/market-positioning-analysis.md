@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing competitor placement in the market.
+## Related Mediums
+
+![[bases/related-mediums.base]]

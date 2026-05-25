@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/confidentiality-clause-scenario-application|confidentiality-clause-scenario-application]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/confidentiality-clause-scenario-application|confidentiality-clause-scenario-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Confidentiality Clauses in Employment Scenarios

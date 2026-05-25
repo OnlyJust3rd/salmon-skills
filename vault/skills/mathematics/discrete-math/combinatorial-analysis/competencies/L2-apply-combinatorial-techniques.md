@@ -49,3 +49,6 @@ Apply counting principles, permutations, and combinations to solve basic combina
 - [[combination-application|Combination Application]]
 - [[combinatorial-problem-identification|Combinatorial Problem Identification]]
 - [[technique-selection|Technique Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

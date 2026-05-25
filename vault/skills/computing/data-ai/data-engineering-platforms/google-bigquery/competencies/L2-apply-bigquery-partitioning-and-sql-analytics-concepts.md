@@ -45,3 +45,6 @@ Apply BigQuery partitioning and SQL analytics concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/partitioned-table|Partitioned Table]]
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/clustered-table|Clustered Table]]
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/analytical-sql|Analytical SQL]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

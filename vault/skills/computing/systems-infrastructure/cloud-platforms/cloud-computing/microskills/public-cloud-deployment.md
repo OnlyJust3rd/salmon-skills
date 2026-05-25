@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of cloud services offered over the public internet.
+## Related Mediums
+
+![[bases/related-mediums.base]]

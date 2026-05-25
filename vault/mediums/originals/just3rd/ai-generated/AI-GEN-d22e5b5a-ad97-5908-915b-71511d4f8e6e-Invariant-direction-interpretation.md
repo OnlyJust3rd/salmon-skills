@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/invariant-direction-interpretation|invariant-direction-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/invariant-direction-interpretation|invariant-direction-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Eigenvectors: The Unchanging Directions of a Transformation

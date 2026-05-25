@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automated-infrastructure-deployment|automated-infrastructure-deployment]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automated-infrastructure-deployment|automated-infrastructure-deployment]]"
 learning-time-in-minutes: 4
 ---
 # Automated Infrastructure Deployment

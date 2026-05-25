@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zone-trade-offs|availability-zone-trade-offs]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/availability-zone-trade-offs|availability-zone-trade-offs]]"
 learning-time-in-minutes: 3
 ---
 # Availability Zone Trade-offs: Redundancy vs. Complexity

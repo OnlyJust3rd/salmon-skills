@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in applying mesh analysis to solve circuit problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

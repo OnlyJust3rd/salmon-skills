@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/software-architecture/microskills/model-view-controller-mvc|model-view-controller-mvc]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/model-view-controller-mvc|model-view-controller-mvc]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Model-View-Controller (MVC) Architectural Pattern

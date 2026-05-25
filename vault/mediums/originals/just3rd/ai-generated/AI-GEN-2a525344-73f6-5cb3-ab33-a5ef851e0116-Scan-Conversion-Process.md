@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/scan-conversion-process|scan-conversion-process]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/scan-conversion-process|scan-conversion-process]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Scan Conversion Process

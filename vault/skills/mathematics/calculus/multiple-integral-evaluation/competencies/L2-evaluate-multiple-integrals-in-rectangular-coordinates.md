@@ -51,3 +51,6 @@ Set up and evaluate double and triple integrals over plane and solid regions usi
 - [[triple-integral-evaluation-rectangular|Triple integral evaluation (rectangular)]]
 - [[area-calculation-using-double-integrals|Area calculation using double integrals]]
 - [[volume-calculation-using-triple-integrals|Volume calculation using triple integrals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

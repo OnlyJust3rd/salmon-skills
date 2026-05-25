@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of data compression with intentional information loss.
+## Related Mediums
+
+![[bases/related-mediums.base]]

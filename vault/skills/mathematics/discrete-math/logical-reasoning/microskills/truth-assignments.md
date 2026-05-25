@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining the truth value of propositions based on truth assignments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

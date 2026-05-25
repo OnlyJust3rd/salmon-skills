@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/online-search-strategies|online-search-strategies]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/online-search-strategies|online-search-strategies]]"
 learning-time-in-minutes: 4
 ---
 # Online Search Strategies for Identifying Competitors

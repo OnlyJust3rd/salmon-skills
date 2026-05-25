@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using component states or alternatives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

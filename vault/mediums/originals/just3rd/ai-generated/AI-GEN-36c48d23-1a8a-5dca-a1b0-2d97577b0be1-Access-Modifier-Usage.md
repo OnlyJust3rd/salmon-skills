@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[access-modifier-usage|access-modifier-usage]]"
+learning-outcomes:
+  - "[[access-modifier-usage|access-modifier-usage]]"
 learning-time-in-minutes: 4
 ---
 # Access Modifier Usage in Java

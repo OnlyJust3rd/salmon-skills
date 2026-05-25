@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of different types of biometric measurements (e.g., fingerprint, facial recognition).
+## Related Mediums
+
+![[bases/related-mediums.base]]

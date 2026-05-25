@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reason about why linear approximation improves near the expansion point and worsens farther away.
+## Related Mediums
+
+![[bases/related-mediums.base]]

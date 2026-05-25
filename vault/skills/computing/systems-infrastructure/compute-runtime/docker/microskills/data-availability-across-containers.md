@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how volumes can be shared.
+## Related Mediums
+
+![[bases/related-mediums.base]]

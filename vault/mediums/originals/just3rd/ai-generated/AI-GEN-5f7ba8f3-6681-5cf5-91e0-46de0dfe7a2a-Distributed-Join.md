@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/distributed-join|distributed-join]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/distributed-join|distributed-join]]"
 learning-time-in-minutes: 2
 ---
 # Distributed Join in Spark DataFrames

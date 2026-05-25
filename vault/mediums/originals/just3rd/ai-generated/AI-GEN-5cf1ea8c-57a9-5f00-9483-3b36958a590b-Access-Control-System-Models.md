@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-system-models|access-control-system-models]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-system-models|access-control-system-models]]"
 learning-time-in-minutes: 5
 ---
 # Access Control System Models

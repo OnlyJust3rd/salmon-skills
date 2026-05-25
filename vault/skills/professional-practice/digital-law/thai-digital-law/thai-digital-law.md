@@ -48,3 +48,6 @@ Provide an overview of digital laws in Thailand, focusing on the Computer-Relate
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/pdpa-data-processing-implications|PDPA Data Processing Implications]]
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/pdpa-relevance-in-thailand|PDPA Relevance in Thailand]]
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/personal-data-definition|Personal Data Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

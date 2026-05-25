@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete|sql-data-manipulation-basics-insert-update-delete]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete|sql-data-manipulation-basics-insert-update-delete]]"
 learning-time-in-minutes: 3
 ---
 # SQL Data Manipulation: INSERT, UPDATE, DELETE

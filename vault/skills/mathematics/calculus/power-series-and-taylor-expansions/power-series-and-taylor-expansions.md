@@ -52,3 +52,6 @@ Ability to analyze power series by determining their radius and interval of conv
 - [[power-series-convergence-assessment|Power series convergence assessment]]
 - [[radius-of-convergence-calculation|Radius of convergence calculation]]
 - [[taylor-series-expansion|Taylor series expansion]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

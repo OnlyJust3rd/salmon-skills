@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of systems with multiple processor cores.
+## Related Mediums
+
+![[bases/related-mediums.base]]

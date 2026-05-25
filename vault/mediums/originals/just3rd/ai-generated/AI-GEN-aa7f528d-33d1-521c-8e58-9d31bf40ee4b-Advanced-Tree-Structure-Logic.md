@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/advanced-tree-structure-logic|advanced-tree-structure-logic]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/advanced-tree-structure-logic|advanced-tree-structure-logic]]"
 learning-time-in-minutes: 3
 ---
 # Advanced Tree Structure Logic

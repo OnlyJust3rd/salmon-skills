@@ -47,3 +47,6 @@ Describe the general principle of combining bit-stream generators, using Geffe a
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/geffe-generator-mechanics|Geffe Generator Mechanics]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-operation|One-time Pad Operation]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/one-time-pad-key-features|One-time Pad Key Features]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

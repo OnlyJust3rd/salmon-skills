@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[product-validation-methods|product-validation-methods]]"
+learning-outcomes:
+  - "[[product-validation-methods|product-validation-methods]]"
 learning-time-in-minutes: 4
 ---
 # Product Validation Methods: Solution Interviews & Usability Testing

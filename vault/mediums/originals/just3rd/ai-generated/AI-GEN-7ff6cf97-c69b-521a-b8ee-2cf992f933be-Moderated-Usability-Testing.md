@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[moderated-usability-testing|moderated-usability-testing]]"
+learning-outcomes:
+  - "[[moderated-usability-testing|moderated-usability-testing]]"
 learning-time-in-minutes: 4
 ---
 # Moderated Usability Testing: The Facilitator's Role

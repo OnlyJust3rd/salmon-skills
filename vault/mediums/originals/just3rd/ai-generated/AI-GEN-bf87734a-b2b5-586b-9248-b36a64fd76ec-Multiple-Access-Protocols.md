@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[multiple-access-protocols|multiple-access-protocols]]"
+learning-outcomes:
+  - "[[multiple-access-protocols|multiple-access-protocols]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Multiple Access Protocols

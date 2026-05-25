@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pin-assignment-and-constraints|pin-assignment-and-constraints]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pin-assignment-and-constraints|pin-assignment-and-constraints]]"
 learning-time-in-minutes: 5
 ---
 # Pin Assignment and Constraints for FPGA Deployment

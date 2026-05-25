@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/perspective-projection/microskills/effect-on-object-appearance|effect-on-object-appearance]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/effect-on-object-appearance|effect-on-object-appearance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Foreshortening: How Objects Appear Shorter in Perspective

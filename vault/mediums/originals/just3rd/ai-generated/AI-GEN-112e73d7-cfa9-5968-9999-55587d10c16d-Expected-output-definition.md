@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/expected-output-definition|expected-output-definition]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/expected-output-definition|expected-output-definition]]"
 learning-time-in-minutes: 4
 ---
 # Defining Expected Outputs for Test Cases

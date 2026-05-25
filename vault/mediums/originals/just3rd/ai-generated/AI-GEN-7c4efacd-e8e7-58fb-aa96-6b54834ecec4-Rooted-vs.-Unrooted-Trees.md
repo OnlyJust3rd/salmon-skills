@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/rooted-vs-unrooted-trees|rooted-vs-unrooted-trees]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/rooted-vs-unrooted-trees|rooted-vs-unrooted-trees]]"
 learning-time-in-minutes: 4
 ---
 # Rooted vs. Unrooted Trees

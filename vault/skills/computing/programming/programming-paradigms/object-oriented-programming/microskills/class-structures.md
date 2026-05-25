@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the definition and role of classes in OOP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

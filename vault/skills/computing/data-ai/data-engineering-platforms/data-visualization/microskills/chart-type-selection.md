@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of appropriate chart types for specific data insights.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-access-implications-of-geometry|data-access-implications-of-geometry]]"
+learning-outcomes:
+  - "[[data-access-implications-of-geometry|data-access-implications-of-geometry]]"
 learning-time-in-minutes: 4
 ---
 # Data Access Implications of Disk Geometry

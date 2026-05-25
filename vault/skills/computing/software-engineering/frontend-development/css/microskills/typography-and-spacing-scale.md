@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Apply consistent font and spacing tokens.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -32,3 +32,6 @@ Managing versioned build outputs, packages, and container images in repositories
 - [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/build-artifacts|Build Artifacts]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/image-repositories|Image Repositories]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/version-tags|Version Tags]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

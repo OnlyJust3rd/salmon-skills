@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grasping the intricacies of HTTP and DNS functioning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

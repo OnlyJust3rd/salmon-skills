@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain how properties propagate and override.
+## Related Mediums
+
+![[bases/related-mediums.base]]

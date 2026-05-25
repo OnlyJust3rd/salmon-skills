@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[pca-implementation|pca-implementation]]"
+learning-outcomes:
+  - "[[pca-implementation|pca-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing PCA for Dimensionality Reduction

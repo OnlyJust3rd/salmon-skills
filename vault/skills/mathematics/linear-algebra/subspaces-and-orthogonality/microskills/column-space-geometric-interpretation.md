@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the geometric formation of the column space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

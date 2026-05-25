@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating the objectives of various routing approaches.
+## Related Mediums
+
+![[bases/related-mediums.base]]

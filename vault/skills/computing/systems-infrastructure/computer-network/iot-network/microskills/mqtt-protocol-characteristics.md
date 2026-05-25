@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the technical characteristics and operational constraints of MQTT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

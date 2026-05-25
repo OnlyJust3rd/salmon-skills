@@ -73,3 +73,6 @@ Analyzing the step-by-step operations of modern block ciphers like DES, IDEA, an
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/simplified-block-cipher-operation|Simplified Block Cipher Operation]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/subbytes-functionality|SubBytes Functionality]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/subbytes-operation-application|SubBytes Operation Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

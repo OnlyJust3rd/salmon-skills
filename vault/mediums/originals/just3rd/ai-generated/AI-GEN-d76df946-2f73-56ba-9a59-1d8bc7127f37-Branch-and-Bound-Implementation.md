@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/branch-and-bound-implementation|branch-and-bound-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/branch-and-bound-implementation|branch-and-bound-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Branch and Bound: Implementing Optimization Solutions

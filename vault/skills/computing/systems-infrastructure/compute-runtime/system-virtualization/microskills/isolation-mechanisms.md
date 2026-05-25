@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the differences in isolation between VMs and containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

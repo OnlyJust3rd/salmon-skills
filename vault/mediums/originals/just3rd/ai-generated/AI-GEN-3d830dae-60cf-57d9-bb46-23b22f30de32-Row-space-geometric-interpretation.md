@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/row-space-geometric-interpretation|row-space-geometric-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/row-space-geometric-interpretation|row-space-geometric-interpretation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Geometric Formation of the Row Space

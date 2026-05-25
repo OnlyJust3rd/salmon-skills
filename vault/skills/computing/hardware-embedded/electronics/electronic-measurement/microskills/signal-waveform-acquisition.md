@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in capturing and displaying electrical signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

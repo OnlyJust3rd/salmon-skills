@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/invisible-watermarking-definition|invisible-watermarking-definition]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/invisible-watermarking-definition|invisible-watermarking-definition]]"
 learning-time-in-minutes: 3
 ---
 # Invisible Watermarking: A Definition

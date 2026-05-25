@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The process by which DHCP assigns IP addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explain the role of an operating system in managing system resources, program ex
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/program-execution-facilitation|Program Execution Facilitation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-sharing-mechanisms|Memory Sharing Mechanisms]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/device-communication-principles|Device Communication Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

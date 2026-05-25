@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of common types of parametric curves.
+## Related Mediums
+
+![[bases/related-mediums.base]]

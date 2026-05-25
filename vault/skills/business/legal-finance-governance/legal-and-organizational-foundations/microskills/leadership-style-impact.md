@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Influence of leadership on organizational dynamics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

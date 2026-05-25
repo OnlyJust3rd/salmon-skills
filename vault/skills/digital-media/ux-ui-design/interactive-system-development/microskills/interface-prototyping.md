@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating tangible representations of interactive system designs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

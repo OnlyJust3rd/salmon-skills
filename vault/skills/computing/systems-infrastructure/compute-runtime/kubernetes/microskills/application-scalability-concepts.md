@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how Deployments manage application scaling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

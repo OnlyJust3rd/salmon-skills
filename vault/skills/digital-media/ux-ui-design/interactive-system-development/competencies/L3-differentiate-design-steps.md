@@ -41,3 +41,6 @@ Differentiate between conceptual design and concrete design in prototyping by ex
 
 - [[conceptual-vs-concrete-design|Conceptual vs. Concrete Design]]
 - [[prototyping-development-steps|Prototyping Development Steps]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

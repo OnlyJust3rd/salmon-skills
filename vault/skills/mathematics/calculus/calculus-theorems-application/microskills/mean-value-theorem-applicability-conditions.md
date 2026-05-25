@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the conditions under which the Mean Value Theorem can be applied.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding typical roles of SPI/I2C/one-wire in embedded device communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

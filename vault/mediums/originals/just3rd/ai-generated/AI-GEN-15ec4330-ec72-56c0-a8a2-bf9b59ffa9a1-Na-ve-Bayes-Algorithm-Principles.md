@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[naive-bayes-algorithm-principles|naive-bayes-algorithm-principles]]"
+learning-outcomes:
+  - "[[naive-bayes-algorithm-principles|naive-bayes-algorithm-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Naïve Bayes Algorithm Principles

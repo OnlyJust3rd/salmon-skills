@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the advanced architecture and capabilities of LSTMs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

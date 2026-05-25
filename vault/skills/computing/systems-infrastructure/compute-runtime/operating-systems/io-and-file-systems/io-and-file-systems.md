@@ -85,3 +85,6 @@ Designing and analyzing input/output systems and file storage mechanisms. Covers
 - [[storage-efficiency|Storage Efficiency]]
 - [[throughput-metrics|Throughput Metrics]]
 - [[track-definition|Track Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

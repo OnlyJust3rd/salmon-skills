@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how each Dockerfile instruction creates a layer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

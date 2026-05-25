@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding visual scripting assets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

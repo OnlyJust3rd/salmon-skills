@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/grain|grain]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/grain|grain]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Data Warehouse Grain

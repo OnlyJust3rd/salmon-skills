@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/radius-of-convergence-calculation|radius-of-convergence-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/power-series-and-taylor-expansions/microskills/radius-of-convergence-calculation|radius-of-convergence-calculation]]"
 learning-time-in-minutes: 5
 ---
 # Calculating the Radius of Convergence

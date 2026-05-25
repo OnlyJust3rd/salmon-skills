@@ -49,3 +49,6 @@ Identify common elements of a user experience (UX) workflow.
 - [[interaction-design|Interaction Design]]
 - [[visual-design|Visual Design]]
 - [[usability-testing-phases|Usability Testing Phases]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

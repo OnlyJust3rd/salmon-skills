@@ -43,3 +43,6 @@ Analyze how specific storytelling strategies in computer games foster or hinder 
 - [[skills/digital-media/game-development/player-psychology/microskills/game-storytelling-components|Game Storytelling Components]]
 - [[skills/digital-media/game-development/player-psychology/microskills/emotional-engagement-mechanisms|Emotional Engagement Mechanisms]]
 - [[skills/digital-media/game-development/player-psychology/microskills/narrative-strategy-effectiveness|Narrative Strategy Effectiveness]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

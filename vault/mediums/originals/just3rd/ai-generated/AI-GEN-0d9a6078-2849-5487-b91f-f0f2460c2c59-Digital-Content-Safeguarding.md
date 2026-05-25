@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/digital-content-safeguarding|digital-content-safeguarding]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/digital-content-safeguarding|digital-content-safeguarding]]"
 learning-time-in-minutes: 5
 ---
 # Digital Content Safeguarding: How DRM Protects Your Media

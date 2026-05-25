@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding issue-focused feedback on code changes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

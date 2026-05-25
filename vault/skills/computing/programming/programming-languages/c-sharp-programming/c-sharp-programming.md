@@ -38,3 +38,6 @@ Using C# syntax, object-oriented constructs, collections, and event-driven scrip
 - [[skills/computing/programming/programming-languages/c-sharp-programming/microskills/c-sharp-method|C# Method]]
 - [[skills/computing/programming/programming-languages/c-sharp-programming/microskills/control-flow|Control Flow]]
 - [[skills/computing/programming/programming-languages/c-sharp-programming/microskills/object-instantiation|Object Instantiation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

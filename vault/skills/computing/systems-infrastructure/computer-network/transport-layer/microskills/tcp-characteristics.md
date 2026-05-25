@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the features of Transmission Control Protocol.
+## Related Mediums
+
+![[bases/related-mediums.base]]

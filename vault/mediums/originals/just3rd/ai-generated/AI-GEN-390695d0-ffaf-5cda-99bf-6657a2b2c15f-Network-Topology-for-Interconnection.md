@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-topology-for-interconnection|network-topology-for-interconnection]]"
+learning-outcomes:
+  - "[[network-topology-for-interconnection|network-topology-for-interconnection]]"
 learning-time-in-minutes: 4
 ---
 # Network Topology for Interconnection

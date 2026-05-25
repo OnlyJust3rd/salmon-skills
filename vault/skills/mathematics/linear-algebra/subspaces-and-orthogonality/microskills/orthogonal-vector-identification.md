@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of orthogonal vectors within a given set.
+## Related Mediums
+
+![[bases/related-mediums.base]]

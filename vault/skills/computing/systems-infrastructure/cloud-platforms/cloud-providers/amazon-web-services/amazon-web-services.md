@@ -38,3 +38,6 @@ Using AWS as a cloud platform for compute, storage, identity, networking, manage
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-service-selection|AWS Service Selection]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-storage|AWS Storage]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-vpc-boundary|AWS VPC Boundary]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

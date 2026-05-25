@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/multi-stage-op-amp-circuit-design|multi-stage-op-amp-circuit-design]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/multi-stage-op-amp-circuit-design|multi-stage-op-amp-circuit-design]]"
 learning-time-in-minutes: 4
 ---
 # Designing Multi-Stage Op-Amp Circuits

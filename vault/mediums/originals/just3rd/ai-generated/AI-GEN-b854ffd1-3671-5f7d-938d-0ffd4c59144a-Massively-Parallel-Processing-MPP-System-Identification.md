@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/massively-parallel-processing-mpp-system-identification|massively-parallel-processing-mpp-system-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/massively-parallel-processing-mpp-system-identification|massively-parallel-processing-mpp-system-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Massively Parallel Processing (MPP) Systems

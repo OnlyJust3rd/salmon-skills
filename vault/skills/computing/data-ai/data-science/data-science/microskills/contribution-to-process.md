@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of how various roles impact the overall data science workflow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

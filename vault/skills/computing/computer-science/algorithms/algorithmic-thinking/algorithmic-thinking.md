@@ -53,3 +53,6 @@ Ability to apply algorithmic thinking and number theory, including integer repre
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/number-theory-problem-solving|Number Theory Problem Solving]]
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/recursive-algorithms|Recursive Algorithms]]
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/vertex-addition-removal|Vertex Addition/Removal]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

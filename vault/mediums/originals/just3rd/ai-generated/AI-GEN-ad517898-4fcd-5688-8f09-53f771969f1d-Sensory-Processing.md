@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[sensory-processing|sensory-processing]]"
+learning-outcomes:
+  - "[[sensory-processing|sensory-processing]]"
 learning-time-in-minutes: 4
 ---
 # Sensory Processing: The Building Blocks of Human Perception

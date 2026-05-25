@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing the pros and cons of choosing one pattern over another.
+## Related Mediums
+
+![[bases/related-mediums.base]]

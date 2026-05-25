@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/data-types/microskills/unstructured-data-recognition|unstructured-data-recognition]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/data-types/microskills/unstructured-data-recognition|unstructured-data-recognition]]"
 learning-time-in-minutes: 3
 ---
 # Recognizing Unstructured Data

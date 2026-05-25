@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles and process of creating document-term matrices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

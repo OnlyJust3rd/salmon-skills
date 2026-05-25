@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/digital-law/thai-digital-law/microskills/cybersecurity-act-core-principles|cybersecurity-act-core-principles]]"
+learning-outcomes:
+  - "[[skills/professional-practice/digital-law/thai-digital-law/microskills/cybersecurity-act-core-principles|cybersecurity-act-core-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Core Principles of Thailand's Cybersecurity Act

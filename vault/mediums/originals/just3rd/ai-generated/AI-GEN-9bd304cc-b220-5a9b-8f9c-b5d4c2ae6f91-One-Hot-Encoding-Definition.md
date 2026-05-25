@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[one-hot-encoding-definition|one-hot-encoding-definition]]"
+learning-outcomes:
+  - "[[one-hot-encoding-definition|one-hot-encoding-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding One-Hot Encoding

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How static routing dictates data flow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

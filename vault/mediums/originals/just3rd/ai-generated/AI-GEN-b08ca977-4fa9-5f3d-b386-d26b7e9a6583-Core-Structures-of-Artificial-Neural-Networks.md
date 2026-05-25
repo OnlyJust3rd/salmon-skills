@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[core-structures-of-artificial-neural-networks|core-structures-of-artificial-neural-networks]]"
+learning-outcomes:
+  - "[[core-structures-of-artificial-neural-networks|core-structures-of-artificial-neural-networks]]"
 learning-time-in-minutes: 3
 ---
 # Core Structures of Artificial Neural Networks

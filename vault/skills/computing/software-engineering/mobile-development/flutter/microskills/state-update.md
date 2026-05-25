@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Updating widget output from data or user action.
+## Related Mediums
+
+![[bases/related-mediums.base]]

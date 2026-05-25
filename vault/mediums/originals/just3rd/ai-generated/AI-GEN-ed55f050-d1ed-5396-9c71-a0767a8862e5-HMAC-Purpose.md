@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hmac-purpose|hmac-purpose]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hmac-purpose|hmac-purpose]]"
 learning-time-in-minutes: 4
 ---
 # Understanding HMAC Purpose

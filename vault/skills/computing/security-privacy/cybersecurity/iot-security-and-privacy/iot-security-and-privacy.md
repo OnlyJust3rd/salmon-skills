@@ -38,3 +38,6 @@ Identifying vulnerabilities and applying security mechanisms to protect IoT syst
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-device-integrity-maintenance|IoT Device Integrity Maintenance]]
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/secure-communication-protocols-tls|Secure Communication Protocols (TLS)]]
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/secure-firmware-updates|Secure Firmware Updates]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

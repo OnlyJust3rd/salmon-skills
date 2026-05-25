@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing layout and style differences across browsers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

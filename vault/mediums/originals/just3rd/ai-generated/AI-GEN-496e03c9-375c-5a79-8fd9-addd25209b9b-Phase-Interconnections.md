@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-mining/microskills/phase-interconnections|phase-interconnections]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-mining/microskills/phase-interconnections|phase-interconnections]]"
 learning-time-in-minutes: 4
 ---
 # CRISP-DM Phase Interconnections

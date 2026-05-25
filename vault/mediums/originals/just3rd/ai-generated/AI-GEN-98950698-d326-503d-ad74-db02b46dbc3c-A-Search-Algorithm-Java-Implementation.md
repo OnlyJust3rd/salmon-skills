@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[a-search-algorithm-java-implementation|a-search-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[a-search-algorithm-java-implementation|a-search-algorithm-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # A* Search Algorithm: Java Implementation

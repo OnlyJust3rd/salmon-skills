@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the journey of a packet through network devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of protocol attacks, including copy attacks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

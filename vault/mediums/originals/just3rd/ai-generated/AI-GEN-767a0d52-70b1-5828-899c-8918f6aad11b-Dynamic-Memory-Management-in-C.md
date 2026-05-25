@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[dynamic-memory-management-in-c|dynamic-memory-management-in-c]]"
+learning-outcomes:
+  - "[[dynamic-memory-management-in-c|dynamic-memory-management-in-c]]"
 learning-time-in-minutes: 2
 ---
 # Dynamic Memory Management in C: `malloc` and `free`

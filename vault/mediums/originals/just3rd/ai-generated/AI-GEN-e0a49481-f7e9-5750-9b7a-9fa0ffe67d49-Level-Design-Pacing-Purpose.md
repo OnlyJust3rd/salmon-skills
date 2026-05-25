@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/level-design-pacing-purpose|level-design-pacing-purpose]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/level-design-pacing-purpose|level-design-pacing-purpose]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Level Design Pacing: Controlling the Game's Rhythm

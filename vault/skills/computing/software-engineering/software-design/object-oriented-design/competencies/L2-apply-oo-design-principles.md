@@ -49,3 +49,6 @@ Apply principles of object-oriented design, including responsibility assignment 
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-application|Modular Decomposition Application]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/system-structure-design|System Structure Design]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/software-component-structuring|Software Component Structuring]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

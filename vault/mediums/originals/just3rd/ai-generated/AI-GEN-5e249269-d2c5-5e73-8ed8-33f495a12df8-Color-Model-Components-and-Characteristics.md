@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/color-model-components-and-characteristics|color-model-components-and-characteristics]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/color-model-components-and-characteristics|color-model-components-and-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Color Model Components and Characteristics

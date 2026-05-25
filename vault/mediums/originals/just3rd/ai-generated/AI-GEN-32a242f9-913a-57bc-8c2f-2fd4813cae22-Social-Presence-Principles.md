@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[social-presence-principles|social-presence-principles]]"
+learning-outcomes:
+  - "[[social-presence-principles|social-presence-principles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Social Presence in Conversational AI

@@ -45,3 +45,6 @@ Explain game animation state and rigging concepts.
 - [[skills/digital-media/game-development/game-animation/microskills/skeleton-rig|Skeleton Rig]]
 - [[skills/digital-media/game-development/game-animation/microskills/animation-clip|Animation Clip]]
 - [[skills/digital-media/game-development/game-animation/microskills/blend-tree|Blend Tree]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

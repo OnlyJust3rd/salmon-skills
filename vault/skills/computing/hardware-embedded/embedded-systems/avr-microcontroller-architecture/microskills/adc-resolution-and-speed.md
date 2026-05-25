@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiation of ADC performance characteristics for analog data acquisition.
+## Related Mediums
+
+![[bases/related-mediums.base]]

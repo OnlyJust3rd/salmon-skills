@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-core-principles|sustainable-development-goals-core-principles]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-core-principles|sustainable-development-goals-core-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Core Principles of the Sustainable Development Goals (SDGs)

@@ -106,3 +106,6 @@ Apply Lean Startup methodology to identify, validate, and iterate on real-world 
 - [[skills/business/entrepreneurship/lean-startup/microskills/solution-validation-stage|Solution Validation Stage]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/startup-terminology|Startup Terminology]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/usability-testing-validation-role|Usability Testing Validation Role]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

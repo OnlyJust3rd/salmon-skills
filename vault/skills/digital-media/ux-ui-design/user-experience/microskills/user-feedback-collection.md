@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Gathering insights from direct user interaction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

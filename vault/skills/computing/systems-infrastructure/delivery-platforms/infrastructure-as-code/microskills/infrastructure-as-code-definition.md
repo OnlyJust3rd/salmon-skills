@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Understanding of IaC as managing infrastructure through code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

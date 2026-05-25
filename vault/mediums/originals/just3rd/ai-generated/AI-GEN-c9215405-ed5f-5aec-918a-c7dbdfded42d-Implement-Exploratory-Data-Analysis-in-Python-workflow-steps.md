@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-exploratory-data-analysis-in-python-workflow-steps|implement-exploratory-data-analysis-in-python-workflow-steps]]"
+learning-outcomes:
+  - "[[implement-exploratory-data-analysis-in-python-workflow-steps|implement-exploratory-data-analysis-in-python-workflow-steps]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Exploratory Data Analysis (EDA) in Python: Workflow Steps

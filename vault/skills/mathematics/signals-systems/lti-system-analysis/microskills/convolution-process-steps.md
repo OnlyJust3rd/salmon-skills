@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the individual operations (flipping, shifting, multiplying, summing) in DT convolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/asymptotic-reasoning|asymptotic-reasoning]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/asymptotic-reasoning|asymptotic-reasoning]]"
 learning-time-in-minutes: 4
 ---
 # Asymptotic Reasoning: Focusing on the Big Picture

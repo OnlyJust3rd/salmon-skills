@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Critical evaluation of prototype effectiveness through testing and analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

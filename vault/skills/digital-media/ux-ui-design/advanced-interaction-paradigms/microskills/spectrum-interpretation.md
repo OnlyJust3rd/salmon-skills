@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting the virtuality continuum and its relationship to XR technologies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

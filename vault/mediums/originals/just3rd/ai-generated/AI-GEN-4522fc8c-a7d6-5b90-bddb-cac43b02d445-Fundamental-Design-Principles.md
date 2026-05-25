@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fundamental-design-principles|fundamental-design-principles]]"
+learning-outcomes:
+  - "[[fundamental-design-principles|fundamental-design-principles]]"
 learning-time-in-minutes: 4
 ---
 # Fundamental Design Principles

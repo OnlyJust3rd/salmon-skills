@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding registries that store and distribute container images.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[essential-characteristics-of-iot-nodes|essential-characteristics-of-iot-nodes]]"
+learning-outcomes:
+  - "[[essential-characteristics-of-iot-nodes|essential-characteristics-of-iot-nodes]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Essential Characteristics of IoT Nodes

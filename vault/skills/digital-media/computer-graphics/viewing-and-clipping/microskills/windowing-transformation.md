@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of windowing transformations to map world coordinates to view space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

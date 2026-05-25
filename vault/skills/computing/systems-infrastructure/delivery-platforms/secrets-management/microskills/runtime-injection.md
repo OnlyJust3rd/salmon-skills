@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding delivery of secrets to running applications or jobs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

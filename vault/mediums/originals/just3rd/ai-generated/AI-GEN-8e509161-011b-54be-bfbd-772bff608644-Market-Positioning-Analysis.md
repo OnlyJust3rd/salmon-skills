@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/market-positioning-analysis|market-positioning-analysis]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/market-positioning-analysis|market-positioning-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Market Positioning

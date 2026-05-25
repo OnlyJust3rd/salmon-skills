@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using criteria to analyze hypothetical or provided systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

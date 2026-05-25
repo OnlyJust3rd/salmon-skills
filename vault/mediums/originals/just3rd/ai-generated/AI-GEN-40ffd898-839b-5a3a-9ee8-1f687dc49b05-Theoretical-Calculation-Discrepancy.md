@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/theoretical-calculation-discrepancy|theoretical-calculation-discrepancy]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/theoretical-calculation-discrepancy|theoretical-calculation-discrepancy]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Theoretical Calculation Discrepancy Due to Distortion

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of turning operations on digital images.
+## Related Mediums
+
+![[bases/related-mediums.base]]

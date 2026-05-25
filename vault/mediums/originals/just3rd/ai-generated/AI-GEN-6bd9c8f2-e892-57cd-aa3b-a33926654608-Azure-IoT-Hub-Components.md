@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/azure-iot-hub-components|azure-iot-hub-components]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/azure-iot-hub-components|azure-iot-hub-components]]"
 learning-time-in-minutes: 5
 ---
 # Azure IoT Hub Components

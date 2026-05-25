@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-invertibility|matrix-invertibility]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-invertibility|matrix-invertibility]]"
 learning-time-in-minutes: 4
 ---
 # Matrix Invertibility: Does the Inverse Exist?

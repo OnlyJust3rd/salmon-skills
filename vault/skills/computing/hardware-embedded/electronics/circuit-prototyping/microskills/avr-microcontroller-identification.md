@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of AVR microcontroller packages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

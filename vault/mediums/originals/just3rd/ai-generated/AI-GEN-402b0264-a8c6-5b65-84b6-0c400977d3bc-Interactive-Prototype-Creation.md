@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interactive-prototype-creation|interactive-prototype-creation]]"
+learning-outcomes:
+  - "[[interactive-prototype-creation|interactive-prototype-creation]]"
 learning-time-in-minutes: 5
 ---
 # Interactive Prototype Creation

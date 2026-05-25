@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[specific-data-element-extraction|specific-data-element-extraction]]"
+learning-outcomes:
+  - "[[specific-data-element-extraction|specific-data-element-extraction]]"
 learning-time-in-minutes: 2
 ---
 # Extracting Specific Data Elements with BeautifulSoup

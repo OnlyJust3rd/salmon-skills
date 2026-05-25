@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the distinct structural designs of various processors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

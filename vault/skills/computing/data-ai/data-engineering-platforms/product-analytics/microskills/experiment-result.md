@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting differences between product variants.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Judgment of how well realism principles have been applied.
+## Related Mediums
+
+![[bases/related-mediums.base]]

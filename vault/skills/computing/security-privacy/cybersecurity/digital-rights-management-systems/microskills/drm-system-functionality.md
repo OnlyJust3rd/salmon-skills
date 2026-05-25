@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how Digital Rights Management systems protect digital content.
+## Related Mediums
+
+![[bases/related-mediums.base]]

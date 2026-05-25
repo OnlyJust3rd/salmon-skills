@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/project-management/microskills/iterative-progress-tracking|iterative-progress-tracking]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/project-management/microskills/iterative-progress-tracking|iterative-progress-tracking]]"
 learning-time-in-minutes: 5
 ---
 # Iterative Progress Tracking in Project Management

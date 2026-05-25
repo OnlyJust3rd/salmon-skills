@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in applying Deployment configurations to a cluster.
+## Related Mediums
+
+![[bases/related-mediums.base]]

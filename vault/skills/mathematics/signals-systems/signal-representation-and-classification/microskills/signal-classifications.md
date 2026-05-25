@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of different types of signals (continuous, discrete, periodic, aperiodic).
+## Related Mediums
+
+![[bases/related-mediums.base]]

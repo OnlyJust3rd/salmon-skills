@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in applying Norton's theorem for circuit analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

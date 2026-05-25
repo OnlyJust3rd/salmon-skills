@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-governance|tagging-for-governance]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-governance|tagging-for-governance]]"
 learning-time-in-minutes: 3
 ---
 # Tagging for Governance

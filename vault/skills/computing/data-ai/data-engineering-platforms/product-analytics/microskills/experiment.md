@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing variants to learn about product impact.
+## Related Mediums
+
+![[bases/related-mediums.base]]

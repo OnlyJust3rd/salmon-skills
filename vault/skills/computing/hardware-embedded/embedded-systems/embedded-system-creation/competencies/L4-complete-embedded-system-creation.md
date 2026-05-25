@@ -53,3 +53,6 @@ Formulate and construct a complete embedded system, integrating bare-bone RTOS f
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/system-level-debugging|System-Level Debugging]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/application-requirement-fulfillment|Application Requirement Fulfillment]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/performance-optimization|Performance Optimization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

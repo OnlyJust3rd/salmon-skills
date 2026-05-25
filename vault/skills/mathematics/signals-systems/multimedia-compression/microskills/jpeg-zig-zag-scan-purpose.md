@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role of Zig-zag scan in JPEG compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

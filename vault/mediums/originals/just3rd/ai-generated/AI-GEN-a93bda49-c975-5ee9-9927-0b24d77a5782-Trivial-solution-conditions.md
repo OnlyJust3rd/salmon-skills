@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/trivial-solution-conditions|trivial-solution-conditions]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/trivial-solution-conditions|trivial-solution-conditions]]"
 learning-time-in-minutes: 6
 ---
 # Trivial Solution Conditions in Homogeneous Systems

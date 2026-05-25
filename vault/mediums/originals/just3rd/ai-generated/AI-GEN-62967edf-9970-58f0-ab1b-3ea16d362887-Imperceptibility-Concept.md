@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/imperceptibility-concept|imperceptibility-concept]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/imperceptibility-concept|imperceptibility-concept]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Imperceptibility in Digital Watermarking

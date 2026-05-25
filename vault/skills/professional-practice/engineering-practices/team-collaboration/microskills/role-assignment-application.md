@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distributing specific responsibilities to individual team members.
+## Related Mediums
+
+![[bases/related-mediums.base]]

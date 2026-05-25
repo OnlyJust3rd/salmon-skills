@@ -45,3 +45,6 @@ Explain the relationship between derivatives and function behavior (increasing/d
 
 - [[derivative-function-behavior-relationship|Derivative-function behavior relationship]]
 - [[definite-integral-area-relationship|Definite integral-area relationship]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

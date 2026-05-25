@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/tree-based-algorithm-definitions|tree-based-algorithm-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/tree-based-algorithm-definitions|tree-based-algorithm-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Tree-Based Algorithm Definitions

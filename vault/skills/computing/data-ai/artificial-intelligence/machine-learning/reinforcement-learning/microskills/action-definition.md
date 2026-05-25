@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the choices available to the agent.
+## Related Mediums
+
+![[bases/related-mediums.base]]

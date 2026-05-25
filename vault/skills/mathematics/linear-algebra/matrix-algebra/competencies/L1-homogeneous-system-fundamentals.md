@@ -43,3 +43,6 @@ Define and identify conditions for trivial solutions in homogeneous linear syste
 - [[homogeneous-system-definition|Homogeneous system definition]]
 - [[trivial-solution-conditions|Trivial solution conditions]]
 - [[homogeneous-system-properties|Homogeneous system properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

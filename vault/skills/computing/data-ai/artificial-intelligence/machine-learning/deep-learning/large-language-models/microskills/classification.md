@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assigning labels to text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

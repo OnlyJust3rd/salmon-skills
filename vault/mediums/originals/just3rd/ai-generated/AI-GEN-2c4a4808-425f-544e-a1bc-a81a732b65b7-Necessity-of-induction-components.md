@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/mathematical-induction/microskills/necessity-of-induction-components|necessity-of-induction-components]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/mathematical-induction/microskills/necessity-of-induction-components|necessity-of-induction-components]]"
 learning-time-in-minutes: 4
 ---
 # Why Every Piece of Induction Matters

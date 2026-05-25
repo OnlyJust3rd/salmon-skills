@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-address-translation|network-address-translation]]"
+learning-outcomes:
+  - "[[network-address-translation|network-address-translation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Network Address Translation (NAT)

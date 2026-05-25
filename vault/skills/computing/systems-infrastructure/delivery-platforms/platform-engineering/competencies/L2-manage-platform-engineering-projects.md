@@ -47,3 +47,6 @@ Implement project management tools and techniques to plan, track, and manage pla
 - [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/task-tracking-and-management|Task Tracking and Management]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/deliverable-management|Deliverable Management]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/it-project-lifecycle|IT Project Lifecycle]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/high-abstraction-design|high-abstraction-design]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/high-abstraction-design|high-abstraction-design]]"
 learning-time-in-minutes: 4
 ---
 # High Abstraction Design: Simplifying Your Software

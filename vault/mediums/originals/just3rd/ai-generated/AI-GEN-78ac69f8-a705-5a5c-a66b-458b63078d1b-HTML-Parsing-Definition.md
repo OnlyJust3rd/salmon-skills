@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[html-parsing-definition|html-parsing-definition]]"
+learning-outcomes:
+  - "[[html-parsing-definition|html-parsing-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding HTML Parsing

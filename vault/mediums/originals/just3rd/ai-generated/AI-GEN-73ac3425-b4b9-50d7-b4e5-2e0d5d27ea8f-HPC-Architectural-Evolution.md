@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/hpc-architectural-evolution|hpc-architectural-evolution]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/hpc-architectural-evolution|hpc-architectural-evolution]]"
 learning-time-in-minutes: 4
 ---
 # The Journey of HPC Architectures: From Simple to Super

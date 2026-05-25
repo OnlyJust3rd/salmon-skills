@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Stating the meaning of player immersion in a gaming context.
+## Related Mediums
+
+![[bases/related-mediums.base]]

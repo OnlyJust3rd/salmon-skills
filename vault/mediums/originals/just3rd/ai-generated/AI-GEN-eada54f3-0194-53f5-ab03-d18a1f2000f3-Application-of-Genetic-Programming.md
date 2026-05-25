@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/application-of-genetic-programming|application-of-genetic-programming]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/application-of-genetic-programming|application-of-genetic-programming]]"
 learning-time-in-minutes: 4
 ---
 # Applying Genetic Programming

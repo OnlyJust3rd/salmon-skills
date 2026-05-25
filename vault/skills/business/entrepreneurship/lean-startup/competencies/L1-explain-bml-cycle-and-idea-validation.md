@@ -43,3 +43,6 @@ Explain the Build-Measure-Learn cycle and its importance in validating business 
 - [[skills/business/entrepreneurship/lean-startup/microskills/bml-cycle-significance|BML Cycle Significance]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/idea-validation-principles|Idea Validation Principles]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/iterative-validation-process|Iterative Validation Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Use Python to perform practical data cleansing operations such as handling missi
 
 - [[skills/computing/programming/programming-languages/python/microskills/implement-data-cleansing-in-python-workflow-steps|Implement Data Cleansing in Python workflow steps]]
 - [[skills/computing/programming/programming-languages/python/microskills/implement-data-cleansing-in-python-code-implementation|Implement Data Cleansing in Python code implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Apply the Business Model Canvas framework to map out a proposed business venture
 - [[skills/business/entrepreneurship/business-model-design/microskills/business-model-canvas-application|Business Model Canvas Application]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/business-element-organization|Business Element Organization]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/unfair-advantage-definition|Unfair Advantage Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

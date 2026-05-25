@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing suitable GCP service categories for application needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

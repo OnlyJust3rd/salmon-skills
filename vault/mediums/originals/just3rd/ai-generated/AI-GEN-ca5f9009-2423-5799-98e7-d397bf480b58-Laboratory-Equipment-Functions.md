@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/laboratory-equipment-functions|laboratory-equipment-functions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/laboratory-equipment-functions|laboratory-equipment-functions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Functions of Essential Lab Equipment

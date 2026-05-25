@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of the foundational structural elements of ANNs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

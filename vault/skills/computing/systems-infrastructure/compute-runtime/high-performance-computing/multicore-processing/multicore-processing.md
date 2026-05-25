@@ -58,3 +58,6 @@ Applying parallel programming techniques to heterogeneous systems including GPUs
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/serverless-vs-traditional-computing|Serverless vs. Traditional Computing]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|Xeon Phi Processor Components]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-role-in-hpc|Xeon Phi Processor Role in HPC]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

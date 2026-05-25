@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/resource-identification|resource-identification]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/resource-identification|resource-identification]]"
 learning-time-in-minutes: 3
 ---
 # Resource Identification with Tags

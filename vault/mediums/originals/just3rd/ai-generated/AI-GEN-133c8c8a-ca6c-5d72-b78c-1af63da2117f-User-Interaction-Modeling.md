@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-interaction-modeling|user-interaction-modeling]]"
+learning-outcomes:
+  - "[[user-interaction-modeling|user-interaction-modeling]]"
 learning-time-in-minutes: 6
 ---
 # User Interaction Modeling: Bringing Designs to Life

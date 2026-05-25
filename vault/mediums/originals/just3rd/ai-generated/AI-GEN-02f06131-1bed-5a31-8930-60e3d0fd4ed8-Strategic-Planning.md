@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/strategic-planning|strategic-planning]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/strategic-planning|strategic-planning]]"
 learning-time-in-minutes: 4
 ---
 # Informing Strategy with Competitive Insights

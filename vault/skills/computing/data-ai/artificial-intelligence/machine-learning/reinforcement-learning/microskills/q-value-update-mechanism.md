@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to code the iterative update rule for Q-values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

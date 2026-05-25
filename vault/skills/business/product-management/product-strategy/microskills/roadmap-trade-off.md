@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Balancing value, effort, dependency, and risk.
+## Related Mediums
+
+![[bases/related-mediums.base]]

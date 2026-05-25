@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/purpose-of-analysis-in-iot|purpose-of-analysis-in-iot]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/purpose-of-analysis-in-iot|purpose-of-analysis-in-iot]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Purpose of Analysis in IoT

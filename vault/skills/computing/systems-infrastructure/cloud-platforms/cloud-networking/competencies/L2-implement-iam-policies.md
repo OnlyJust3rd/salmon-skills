@@ -45,3 +45,6 @@ Implement IAM policies to grant specific permissions for managing cloud resource
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/iam-policy-creation|IAM Policy Creation]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/principle-of-least-privilege|Principle of Least Privilege]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/resource-access-control|Resource Access Control]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

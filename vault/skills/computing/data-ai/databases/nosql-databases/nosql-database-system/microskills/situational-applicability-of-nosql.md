@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Scenarios where NoSQL databases are advantageous.
+## Related Mediums
+
+![[bases/related-mediums.base]]

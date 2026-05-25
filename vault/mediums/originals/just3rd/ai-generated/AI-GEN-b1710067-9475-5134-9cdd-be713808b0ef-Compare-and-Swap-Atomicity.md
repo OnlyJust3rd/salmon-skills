@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-atomicity|compare-and-swap-atomicity]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-atomicity|compare-and-swap-atomicity]]"
 learning-time-in-minutes: 4
 ---
 # Analyze Compare-and-Swap Atomicity

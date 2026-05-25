@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-structure-improvement|code-structure-improvement]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/code-structure-improvement|code-structure-improvement]]"
 learning-time-in-minutes: 4
 ---
 # Improving Code Structure with Refactoring

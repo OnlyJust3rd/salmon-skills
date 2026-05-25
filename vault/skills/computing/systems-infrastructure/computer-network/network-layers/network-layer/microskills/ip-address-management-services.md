@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The role of DHCP in managing IP addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

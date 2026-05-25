@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to design automated data processing or control logic for IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

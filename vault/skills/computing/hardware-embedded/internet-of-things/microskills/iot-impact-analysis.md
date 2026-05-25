@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to interpret the impact of emerging IoT technologies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

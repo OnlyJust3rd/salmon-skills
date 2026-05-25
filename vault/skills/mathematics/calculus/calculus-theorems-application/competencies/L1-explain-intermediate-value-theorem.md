@@ -45,3 +45,6 @@ Explain the fundamental concept of the Intermediate Value Theorem and its implic
 
 - [[intermediate-value-theorem-core-concept|Intermediate Value Theorem core concept]]
 - [[function-value-implications-within-an-interval|Function value implications within an interval]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

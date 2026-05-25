@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/coordinate-systems-for-volume-calculation|coordinate-systems-for-volume-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/coordinate-systems-for-volume-calculation|coordinate-systems-for-volume-calculation]]"
 learning-time-in-minutes: 5
 ---
 # Coordinate Systems for Volume Calculation

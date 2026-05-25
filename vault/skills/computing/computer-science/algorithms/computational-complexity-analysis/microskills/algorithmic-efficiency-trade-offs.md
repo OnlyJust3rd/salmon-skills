@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the balance between time and space requirements for different algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

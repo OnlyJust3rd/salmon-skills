@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining variations in deployment methods compared to traditional models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

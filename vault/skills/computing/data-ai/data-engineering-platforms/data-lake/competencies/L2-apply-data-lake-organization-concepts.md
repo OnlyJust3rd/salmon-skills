@@ -45,3 +45,6 @@ Apply data lake organization concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/curated-zone|Curated Zone]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/partitioned-dataset|Partitioned Dataset]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/file-format-selection|File Format Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

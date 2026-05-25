@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-case-quality-review|test-case-quality-review]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-case-quality-review|test-case-quality-review]]"
 learning-time-in-minutes: 4
 ---
 # Reviewing Test Cases for Quality

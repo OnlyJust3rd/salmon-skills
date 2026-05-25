@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/periodic-function-properties|periodic-function-properties]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/periodic-function-properties|periodic-function-properties]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Periodic Functions

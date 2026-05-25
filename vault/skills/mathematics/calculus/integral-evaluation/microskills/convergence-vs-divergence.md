@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determine whether an improper integral converges and compute its value when it does.
+## Related Mediums
+
+![[bases/related-mediums.base]]

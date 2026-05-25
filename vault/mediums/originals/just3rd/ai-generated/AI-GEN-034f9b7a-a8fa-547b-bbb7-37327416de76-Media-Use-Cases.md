@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[media-use-cases|media-use-cases]]"
+learning-outcomes:
+  - "[[media-use-cases|media-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Choosing the Right Path: Media Use Cases

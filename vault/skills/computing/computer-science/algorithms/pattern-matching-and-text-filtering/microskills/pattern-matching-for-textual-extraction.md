@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of defined patterns to isolate and extract desired substrings from a given text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

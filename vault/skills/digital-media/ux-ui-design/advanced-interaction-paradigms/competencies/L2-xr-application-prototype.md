@@ -45,3 +45,6 @@ Develop a basic XR application prototype that demonstrates a specific interactio
 - [[extended-reality-application-prototype|Extended Reality Application Prototype]]
 - [[interaction-demonstration|Interaction Demonstration]]
 - [[xr-development-tools|XR Development Tools]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

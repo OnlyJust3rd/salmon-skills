@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[packet-path-determination|packet-path-determination]]"
+learning-outcomes:
+  - "[[packet-path-determination|packet-path-determination]]"
 learning-time-in-minutes: 5
 ---
 # Packet Path Determination in Routing Protocols

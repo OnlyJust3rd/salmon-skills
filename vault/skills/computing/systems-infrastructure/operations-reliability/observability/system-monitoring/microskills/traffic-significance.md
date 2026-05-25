@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the implications of request volume on system load.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding ordering constraints between tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

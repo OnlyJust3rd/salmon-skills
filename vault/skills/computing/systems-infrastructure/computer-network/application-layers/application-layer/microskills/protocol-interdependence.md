@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Showing how one protocol relies on another for functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

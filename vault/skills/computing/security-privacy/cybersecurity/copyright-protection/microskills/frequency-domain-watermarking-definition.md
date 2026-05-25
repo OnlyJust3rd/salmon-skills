@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of frequency domain watermarking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

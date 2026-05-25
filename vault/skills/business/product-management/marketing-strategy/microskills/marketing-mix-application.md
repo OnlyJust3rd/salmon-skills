@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using the 4Ps/4Cs for strategic planning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

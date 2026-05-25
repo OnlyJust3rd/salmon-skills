@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[c-operator-application|c-operator-application]]"
+learning-outcomes:
+  - "[[c-operator-application|c-operator-application]]"
 learning-time-in-minutes: 2
 ---
 # C Operator Application

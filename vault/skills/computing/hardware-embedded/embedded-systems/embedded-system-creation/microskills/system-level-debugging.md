@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying and resolving issues across hardware and software.
+## Related Mediums
+
+![[bases/related-mediums.base]]

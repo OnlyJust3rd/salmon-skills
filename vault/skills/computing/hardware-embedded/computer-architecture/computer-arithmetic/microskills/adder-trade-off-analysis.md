@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing ripple-carry and carry-lookahead adders by delay/complexity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

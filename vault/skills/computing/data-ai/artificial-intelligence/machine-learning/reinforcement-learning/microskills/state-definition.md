@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of the current situation or configuration of the environment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

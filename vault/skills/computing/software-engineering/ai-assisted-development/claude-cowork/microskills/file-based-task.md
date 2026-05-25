@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Working over local files or folders.
+## Related Mediums
+
+![[bases/related-mediums.base]]

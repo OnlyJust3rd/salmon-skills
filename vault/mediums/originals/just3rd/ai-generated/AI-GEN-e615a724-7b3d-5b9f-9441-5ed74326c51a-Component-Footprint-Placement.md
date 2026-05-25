@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/component-footprint-placement|component-footprint-placement]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/component-footprint-placement|component-footprint-placement]]"
 learning-time-in-minutes: 4
 ---
 # Component Footprint Placement in PCB Layout

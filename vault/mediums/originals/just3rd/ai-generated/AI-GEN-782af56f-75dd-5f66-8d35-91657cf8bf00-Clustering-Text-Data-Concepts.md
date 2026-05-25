@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[clustering-text-data-concepts|clustering-text-data-concepts]]"
+learning-outcomes:
+  - "[[clustering-text-data-concepts|clustering-text-data-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Text Clustering Concepts

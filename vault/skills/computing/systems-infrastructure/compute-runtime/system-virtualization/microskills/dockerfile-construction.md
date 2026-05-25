@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to create Dockerfiles for specific applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

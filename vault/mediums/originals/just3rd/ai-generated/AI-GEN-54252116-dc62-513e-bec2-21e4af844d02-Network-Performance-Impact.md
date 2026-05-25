@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-performance-impact|network-performance-impact]]"
+learning-outcomes:
+  - "[[network-performance-impact|network-performance-impact]]"
 learning-time-in-minutes: 7
 ---
 # Network Performance Impact: Throughput and Latency

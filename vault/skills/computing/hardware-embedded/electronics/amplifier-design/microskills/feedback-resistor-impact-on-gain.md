@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how feedback resistors affect op-amp gain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

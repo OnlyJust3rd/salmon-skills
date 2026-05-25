@@ -49,3 +49,6 @@ Use Helm commands to install and manage Kubernetes applications.
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/helm-chart-installation|Helm Chart Installation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-management-with-helm|Application Management with Helm]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-application-deployment|Kubernetes Application Deployment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

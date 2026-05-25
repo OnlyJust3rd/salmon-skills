@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/product-strategy/microskills/roadmap-theme|roadmap-theme]]"
+learning-outcomes:
+  - "[[skills/business/product-management/product-strategy/microskills/roadmap-theme|roadmap-theme]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Roadmap Themes

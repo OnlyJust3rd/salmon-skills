@@ -39,3 +39,6 @@ Analyze the time complexity of algorithms with linear behavior.
 ## Microskills
 
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/linear-complexity-analysis|Linear Complexity Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

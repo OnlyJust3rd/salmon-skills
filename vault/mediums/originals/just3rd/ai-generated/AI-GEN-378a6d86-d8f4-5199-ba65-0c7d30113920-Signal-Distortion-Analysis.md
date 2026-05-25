@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/signal-distortion-analysis|signal-distortion-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/signal-distortion-analysis|signal-distortion-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Signal Distortion Analysis: Unpacking the Causes of Signal Imperfections

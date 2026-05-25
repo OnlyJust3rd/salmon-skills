@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/rule-based-alerting-implementation|rule-based-alerting-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/rule-based-alerting-implementation|rule-based-alerting-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Rule-Based Alerting

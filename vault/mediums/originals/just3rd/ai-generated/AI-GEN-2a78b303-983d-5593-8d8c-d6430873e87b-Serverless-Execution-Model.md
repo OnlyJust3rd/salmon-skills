@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-execution-model|serverless-execution-model]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/serverless-execution-model|serverless-execution-model]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Serverless Execution Model

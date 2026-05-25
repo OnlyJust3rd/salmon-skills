@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating and using objects from classes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

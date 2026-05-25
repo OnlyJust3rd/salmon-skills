@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Representing schema changes as repeatable migration scripts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

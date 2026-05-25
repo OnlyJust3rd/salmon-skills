@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/javascript-compatibility|javascript-compatibility]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/javascript-compatibility|javascript-compatibility]]"
 learning-time-in-minutes: 3
 ---
 # Understanding JavaScript Compatibility Across Browsers

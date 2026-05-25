@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing of fundamental principles governing visual information processing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

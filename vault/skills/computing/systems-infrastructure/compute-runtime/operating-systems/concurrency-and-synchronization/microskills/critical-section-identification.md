@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical identification of critical sections in concurrent code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

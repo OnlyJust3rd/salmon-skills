@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/data-quality-and-noise-significance|data-quality-and-noise-significance]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/data-quality-and-noise-significance|data-quality-and-noise-significance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Data Quality and Noise Significance in Text

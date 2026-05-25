@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the theoretical underpinnings of operating system I/O management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

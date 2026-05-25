@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/data-integrity-enhancement|data-integrity-enhancement]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/data-integrity-enhancement|data-integrity-enhancement]]"
 learning-time-in-minutes: 4
 ---
 # Normalization: Enhancing Data Integrity in Databases

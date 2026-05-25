@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hmac-properties|hmac-properties]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hmac-properties|hmac-properties]]"
 learning-time-in-minutes: 5
 ---
 # HMAC Properties: Ensuring Trust in Your Messages

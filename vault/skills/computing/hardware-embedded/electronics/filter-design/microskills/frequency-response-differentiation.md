@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between low-pass and high-pass filter responses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

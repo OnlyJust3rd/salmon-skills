@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparison of how keys are handled in symmetric and asymmetric encryption.
+## Related Mediums
+
+![[bases/related-mediums.base]]

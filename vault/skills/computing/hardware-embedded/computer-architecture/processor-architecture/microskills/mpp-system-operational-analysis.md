@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the operational principles of Massively Parallel Processing systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

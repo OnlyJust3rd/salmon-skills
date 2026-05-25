@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstrating the step-by-step process of internal routing protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

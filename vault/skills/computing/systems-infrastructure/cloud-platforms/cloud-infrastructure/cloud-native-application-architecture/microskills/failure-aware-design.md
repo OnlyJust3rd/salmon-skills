@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding design for partial failures and recovery.
+## Related Mediums
+
+![[bases/related-mediums.base]]

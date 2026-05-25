@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[dns-message-analysis|dns-message-analysis]]"
+learning-outcomes:
+  - "[[dns-message-analysis|dns-message-analysis]]"
 learning-time-in-minutes: 4
 ---
 # DNS Message Analysis

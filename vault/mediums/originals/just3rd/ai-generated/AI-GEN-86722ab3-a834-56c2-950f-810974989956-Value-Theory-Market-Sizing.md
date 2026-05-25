@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/value-theory-market-sizing|value-theory-market-sizing]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/value-theory-market-sizing|value-theory-market-sizing]]"
 learning-time-in-minutes: 4
 ---
 # Value Theory Market Sizing

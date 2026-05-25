@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of the inverse Z-transform.
+## Related Mediums
+
+![[bases/related-mediums.base]]

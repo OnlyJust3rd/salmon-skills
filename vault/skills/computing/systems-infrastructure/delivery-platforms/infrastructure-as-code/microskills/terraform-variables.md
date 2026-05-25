@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in using variables for parameterization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

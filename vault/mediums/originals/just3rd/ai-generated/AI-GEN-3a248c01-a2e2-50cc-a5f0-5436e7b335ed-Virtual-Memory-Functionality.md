@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|virtual-memory-functionality]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|virtual-memory-functionality]]"
 learning-time-in-minutes: 6
 ---
 # Virtual Memory Functionality

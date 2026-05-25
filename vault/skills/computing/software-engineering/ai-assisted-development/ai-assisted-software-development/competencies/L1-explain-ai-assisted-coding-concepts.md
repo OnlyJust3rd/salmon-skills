@@ -45,3 +45,6 @@ Explain AI-assisted coding concepts.
 - [[code-generation|Code Generation]]
 - [[code-explanation|Code Explanation]]
 - [[developer-oversight|Developer Oversight]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

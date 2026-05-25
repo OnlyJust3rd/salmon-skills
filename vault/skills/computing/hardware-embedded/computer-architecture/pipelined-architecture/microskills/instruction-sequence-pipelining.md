@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying pipeline stages to a sequence of instructions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

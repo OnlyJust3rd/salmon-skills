@@ -70,3 +70,6 @@ Evaluating performance and cost trade-offs within memory hierarchies, explaining
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/translation-lookaside-buffer-tlb-functionality|Translation Lookaside Buffer (TLB) Functionality]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/virtual-memory-mapping-principles|Virtual Memory Mapping Principles]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/workload-locality-reasoning|Workload Locality Reasoning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

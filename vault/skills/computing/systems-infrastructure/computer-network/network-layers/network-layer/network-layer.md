@@ -118,3 +118,6 @@ Explaining IP addressing, forwarding, subnetting, Internet Control Message Proto
 - [[subnetting-principles|Subnetting Principles]]
 - [[virtual-private-cloud|Virtual Private Cloud]]
 - [[virtual-private-network|Virtual Private Network]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

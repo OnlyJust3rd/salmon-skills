@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-ui/microskills/ui-feedback-event|ui-feedback-event]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-ui/microskills/ui-feedback-event|ui-feedback-event]]"
 learning-time-in-minutes: 4
 ---
 # UI Feedback Events in Game Interfaces

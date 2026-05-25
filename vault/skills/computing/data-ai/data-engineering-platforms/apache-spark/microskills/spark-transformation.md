@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying operations that define new distributed datasets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

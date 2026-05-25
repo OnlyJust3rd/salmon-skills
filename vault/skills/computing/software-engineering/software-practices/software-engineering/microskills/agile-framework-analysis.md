@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of Scrum, Kanban, and eXtreme Programming frameworks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

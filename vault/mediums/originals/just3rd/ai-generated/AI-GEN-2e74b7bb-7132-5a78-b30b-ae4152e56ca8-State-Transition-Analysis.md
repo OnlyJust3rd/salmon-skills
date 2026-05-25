@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/state-transition-analysis|state-transition-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/state-transition-analysis|state-transition-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing State Transitions in Verilog Counters

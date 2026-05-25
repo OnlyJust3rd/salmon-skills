@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mongodb-documents-and-collections|mongodb-documents-and-collections]]"
+learning-outcomes:
+  - "[[mongodb-documents-and-collections|mongodb-documents-and-collections]]"
 learning-time-in-minutes: 4
 ---
 # Understanding MongoDB Documents and Collections

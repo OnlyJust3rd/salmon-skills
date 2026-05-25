@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-physics/microskills/overlap-test|overlap-test]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-physics/microskills/overlap-test|overlap-test]]"
 learning-time-in-minutes: 4
 ---
 # Overlap Test: Detecting Collisions

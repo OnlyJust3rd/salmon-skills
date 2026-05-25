@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of Agile, Scrum, or Kanban frameworks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

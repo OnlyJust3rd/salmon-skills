@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the cron daemon and its configuration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

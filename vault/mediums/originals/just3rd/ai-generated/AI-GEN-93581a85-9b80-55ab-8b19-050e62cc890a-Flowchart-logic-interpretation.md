@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/flowchart-logic-interpretation|flowchart-logic-interpretation]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-representation/microskills/flowchart-logic-interpretation|flowchart-logic-interpretation]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Flowchart Logic

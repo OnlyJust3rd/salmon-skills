@@ -56,3 +56,6 @@ Analyze human cognitive processes and perceptual capabilities to inform the desi
 - [[user-performance-metrics|User Performance Metrics]]
 - [[visual-hierarchy-and-perception|Visual Hierarchy and Perception]]
 - [[visual-perception-principles|Visual Perception Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

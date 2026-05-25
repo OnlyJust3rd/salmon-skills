@@ -43,3 +43,6 @@ Identify the key C language constructs used in bare-metal embedded programming, 
 - [[bitwise-operator-identification|Bitwise Operator Identification]]
 - [[volatile-qualifier-purpose|Volatile Qualifier Purpose]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-programming/bare-metal-c-programming/microskills/memory-mapped-i-o-concept|Memory-Mapped I/O Concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

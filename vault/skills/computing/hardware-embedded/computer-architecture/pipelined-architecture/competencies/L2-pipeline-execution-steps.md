@@ -45,3 +45,6 @@ Apply pipeline stages to a sequence of instructions to determine execution steps
 
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/instruction-sequence-pipelining|Instruction Sequence Pipelining]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelined-execution-simulation|Pipelined Execution Simulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

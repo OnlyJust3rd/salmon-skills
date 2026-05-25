@@ -41,3 +41,6 @@ Identify and list the key stages and components of the Build-Measure-Learn cycle
 
 - [[skills/business/entrepreneurship/lean-startup/microskills/bml-cycle-stages|BML Cycle Stages]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/bml-cycle-components|BML Cycle Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

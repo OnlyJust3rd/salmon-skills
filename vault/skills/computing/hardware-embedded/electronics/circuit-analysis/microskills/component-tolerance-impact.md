@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how component variations affect circuit performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

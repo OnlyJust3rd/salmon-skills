@@ -66,3 +66,6 @@ Operate standard laboratory equipment-such as multimeters, oscilloscopes, oscill
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/safe-and-accurate-equipment-use|Safe and Accurate Equipment Use]]
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/safe-usage-of-lab-equipment|Safe Usage of Lab Equipment]]
 - [[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/safety-precautions-for-powered-circuits|Safety Precautions for Powered Circuits]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

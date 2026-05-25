@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstrating how utility programs utilize OS services for task completion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

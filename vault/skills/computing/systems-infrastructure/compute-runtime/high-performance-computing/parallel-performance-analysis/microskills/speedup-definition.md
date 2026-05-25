@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the definition of speedup in parallel computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

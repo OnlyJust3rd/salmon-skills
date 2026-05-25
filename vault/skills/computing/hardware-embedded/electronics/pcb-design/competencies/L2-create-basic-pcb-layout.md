@@ -51,3 +51,6 @@ Create a basic Printed Circuit Board (PCB) layout using design software for an e
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/trace-routing-strategy|Trace Routing Strategy]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/via-usage|Via Usage]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/basic-gerber-file-generation|Basic Gerber File Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

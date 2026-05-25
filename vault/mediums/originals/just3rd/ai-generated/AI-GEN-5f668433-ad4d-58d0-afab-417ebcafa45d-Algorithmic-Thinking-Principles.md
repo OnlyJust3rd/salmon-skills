@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/algorithmic-thinking-principles|algorithmic-thinking-principles]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/algorithmic-thinking-principles|algorithmic-thinking-principles]]"
 learning-time-in-minutes: 2
 ---
 # Algorithmic Thinking Principles

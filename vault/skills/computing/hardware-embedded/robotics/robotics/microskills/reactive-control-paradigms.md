@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of distinct types of reactive control approaches.
+## Related Mediums
+
+![[bases/related-mediums.base]]

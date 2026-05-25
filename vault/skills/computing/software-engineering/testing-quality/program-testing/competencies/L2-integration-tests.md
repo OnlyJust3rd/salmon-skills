@@ -43,3 +43,6 @@ Apply integration testing to validate correct interaction between multiple units
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-point-identification|Integration point identification]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/interaction-test-design|Interaction test design]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/integration-failure-analysis|Integration failure analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

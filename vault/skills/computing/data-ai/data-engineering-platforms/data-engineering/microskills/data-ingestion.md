@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Bringing data from source systems into a pipeline.
+## Related Mediums
+
+![[bases/related-mediums.base]]

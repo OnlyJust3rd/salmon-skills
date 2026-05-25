@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/bml-cycle-significance|bml-cycle-significance]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/bml-cycle-significance|bml-cycle-significance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Significance of the Build-Measure-Learn (BML) Cycle

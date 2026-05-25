@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reliable-data-transfer-principles|reliable-data-transfer-principles]]"
+learning-outcomes:
+  - "[[reliable-data-transfer-principles|reliable-data-transfer-principles]]"
 learning-time-in-minutes: 5
 ---
 # Reliable Data Transfer Principles

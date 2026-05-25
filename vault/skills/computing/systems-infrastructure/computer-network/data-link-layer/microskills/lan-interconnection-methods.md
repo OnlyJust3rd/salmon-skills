@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding various ways to connect multiple Local Area Networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

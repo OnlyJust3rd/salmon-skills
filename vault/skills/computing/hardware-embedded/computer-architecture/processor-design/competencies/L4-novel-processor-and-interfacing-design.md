@@ -47,3 +47,6 @@ Design and create a novel simple processor architecture with integrated input/ou
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/original-processor-architecture-design|Original Processor Architecture Design]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/integrated-i-o-interfacing-design|Integrated I/O Interfacing Design]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/novel-processor-creation|Novel Processor Creation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

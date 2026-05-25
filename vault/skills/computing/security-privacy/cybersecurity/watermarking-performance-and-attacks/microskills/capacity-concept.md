@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the concept of capacity in watermarking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

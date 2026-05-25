@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the pattern used to change specific register bits without affecting others.
+## Related Mediums
+
+![[bases/related-mediums.base]]

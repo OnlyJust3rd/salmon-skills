@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how packets are directed through networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

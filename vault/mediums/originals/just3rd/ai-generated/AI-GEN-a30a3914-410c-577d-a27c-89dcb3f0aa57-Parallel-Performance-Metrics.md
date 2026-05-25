@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/parallel-performance-metrics|parallel-performance-metrics]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/parallel-performance-metrics|parallel-performance-metrics]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Parallel Performance Metrics

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the reasons and applications for digital watermarking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role of cryptography in IPSec tunnel mode.
+## Related Mediums
+
+![[bases/related-mediums.base]]

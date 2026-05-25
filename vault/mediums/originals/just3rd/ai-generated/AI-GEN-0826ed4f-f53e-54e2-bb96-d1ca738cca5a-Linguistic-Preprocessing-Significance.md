@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[linguistic-preprocessing-significance|linguistic-preprocessing-significance]]"
+learning-outcomes:
+  - "[[linguistic-preprocessing-significance|linguistic-preprocessing-significance]]"
 learning-time-in-minutes: 4
 ---
 # Why Linguistic Preprocessing Matters in Text Analysis

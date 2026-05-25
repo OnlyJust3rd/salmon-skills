@@ -43,3 +43,6 @@ Apply Gaussian elimination to solve systems of linear equations with unique, inf
 - [[row-operations-application|Row operations application]]
 - [[solution-identification|Solution identification]]
 - [[system-solving-strategy|System solving strategy]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

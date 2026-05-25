@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of different types or categories of machine instructions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

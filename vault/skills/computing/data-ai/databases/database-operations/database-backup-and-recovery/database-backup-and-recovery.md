@@ -30,3 +30,6 @@ Understanding database backup strategies, restore operations, recovery points, a
 - [[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/backup-types|Backup Types]]
 - [[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/recovery-objectives|Recovery Objectives]]
 - [[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/restore-operations|Restore Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

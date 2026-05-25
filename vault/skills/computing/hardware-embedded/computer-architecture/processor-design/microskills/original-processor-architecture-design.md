@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of a novel processor architecture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

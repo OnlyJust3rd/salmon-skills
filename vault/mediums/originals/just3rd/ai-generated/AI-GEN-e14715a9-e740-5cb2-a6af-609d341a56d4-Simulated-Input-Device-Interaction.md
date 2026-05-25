@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/simulated-input-device-interaction|simulated-input-device-interaction]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/simulated-input-device-interaction|simulated-input-device-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Interacting with Simulated Input Devices

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how the FTC can be used to define and analyze new functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

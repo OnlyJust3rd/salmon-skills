@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/testing-result-interpretation|testing-result-interpretation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/testing-result-interpretation|testing-result-interpretation]]"
 learning-time-in-minutes: 5
 ---
 # Interpreting Testing Results for Prototype Efficacy

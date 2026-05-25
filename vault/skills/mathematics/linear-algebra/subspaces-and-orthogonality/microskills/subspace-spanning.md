@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ensuring the generated basis spans the same subspace.
+## Related Mediums
+
+![[bases/related-mediums.base]]

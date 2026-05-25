@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of an embedded signal using a cryptographic function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

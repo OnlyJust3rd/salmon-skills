@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/matrix-representation-derivation|matrix-representation-derivation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/matrix-representation-derivation|matrix-representation-derivation]]"
 learning-time-in-minutes: 5
 ---
 # Deriving the Matrix Representation of a Linear Transformation

@@ -47,3 +47,6 @@ Implement Virtual Machine Scale Sets to automatically scale virtual machines bas
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/horizontal-scaling-implementation|Horizontal Scaling Implementation]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/autoscaling-configuration|Autoscaling Configuration]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/vmss-deployment|VMSS Deployment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in configuring network interfaces using Netplan.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/greedy-algorithm-definitions|greedy-algorithm-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/greedy-algorithm-definitions|greedy-algorithm-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Greedy Algorithms: Making the Best Local Choice

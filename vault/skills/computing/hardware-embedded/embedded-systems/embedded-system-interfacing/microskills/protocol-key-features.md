@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding master/slave roles, clocking, and data transfer mechanisms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

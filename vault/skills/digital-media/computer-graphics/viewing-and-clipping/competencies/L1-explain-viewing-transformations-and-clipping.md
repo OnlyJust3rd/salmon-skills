@@ -47,3 +47,6 @@ Explain the process and purpose of transforming world coordinates into view coor
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/windowing-concepts|Windowing Concepts]]
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/clipping-concepts|Clipping Concepts]]
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/purpose-of-viewing-pipeline|Purpose of Viewing Pipeline]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

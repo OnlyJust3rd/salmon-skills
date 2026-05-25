@@ -45,3 +45,6 @@ Apply real-time asset import and optimization concepts.
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/polygon-budget|Polygon Budget]]
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/texture-compression|Texture Compression]]
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/asset-scale|Asset Scale]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining specific functional needs of a computer-based device.
+## Related Mediums
+
+![[bases/related-mediums.base]]

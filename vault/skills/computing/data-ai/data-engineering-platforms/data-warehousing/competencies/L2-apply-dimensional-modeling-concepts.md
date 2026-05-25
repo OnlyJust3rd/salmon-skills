@@ -45,3 +45,6 @@ Apply dimensional modeling concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/star-schema|Star Schema]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/measure|Measure]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/dimension-attribute|Dimension Attribute]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

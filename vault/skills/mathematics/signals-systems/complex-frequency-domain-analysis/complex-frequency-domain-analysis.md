@@ -81,3 +81,6 @@ Applying Laplace Transform and Z-Transform to analyze systems in the complex fre
 - [[z-transform-zero-calculation|Z-transform Zero Calculation]]
 - [[zero-significance|Zero Significance]]
 - [[zeros-definition|Zeros Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

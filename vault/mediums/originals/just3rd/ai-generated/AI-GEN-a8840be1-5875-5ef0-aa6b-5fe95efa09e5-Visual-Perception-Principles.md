@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[visual-perception-principles|visual-perception-principles]]"
+learning-outcomes:
+  - "[[visual-perception-principles|visual-perception-principles]]"
 learning-time-in-minutes: 4
 ---
 # Visual Perception Principles

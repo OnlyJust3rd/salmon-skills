@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the essential structural elements of basic neural networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

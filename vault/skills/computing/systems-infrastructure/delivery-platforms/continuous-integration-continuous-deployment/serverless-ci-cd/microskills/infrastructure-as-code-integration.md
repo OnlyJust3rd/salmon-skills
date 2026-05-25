@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Integrating IaC tools into CI/CD pipelines for serverless deployments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Tracing related business transactions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/signal-model-to-graph-mapping|signal-model-to-graph-mapping]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/signal-model-to-graph-mapping|signal-model-to-graph-mapping]]"
 learning-time-in-minutes: 4
 ---
 # Mapping Signal Models to Graphs

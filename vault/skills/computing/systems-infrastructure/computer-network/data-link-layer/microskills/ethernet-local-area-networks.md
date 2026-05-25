@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the operation of Ethernet LANs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

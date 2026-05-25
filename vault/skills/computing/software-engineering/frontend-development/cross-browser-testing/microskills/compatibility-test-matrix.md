@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how browser and device combinations are selected for testing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

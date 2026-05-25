@@ -58,3 +58,6 @@ Designing and analyzing memory virtualization mechanisms. Covers logical and phy
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/physical-address-concepts|Physical Address Concepts]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/segmentation-scheme-principles|Segmentation Scheme Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/virtual-memory-functionality|Virtual Memory Functionality]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

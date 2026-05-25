@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the external system the agent interacts with.
+## Related Mediums
+
+![[bases/related-mediums.base]]

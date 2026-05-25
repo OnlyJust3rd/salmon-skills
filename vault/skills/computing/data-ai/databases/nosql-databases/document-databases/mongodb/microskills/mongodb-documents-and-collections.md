@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how MongoDB groups data into documents and collections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

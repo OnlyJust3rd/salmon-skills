@@ -45,3 +45,6 @@ Explain component-based architecture for web user interfaces, including props, s
 - [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/component-boundaries|Component boundaries]]
 - [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/props-as-contracts|Props as contracts]]
 - [[skills/computing/software-engineering/frontend-development/component-based-web-ui/microskills/local-state|Local state]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

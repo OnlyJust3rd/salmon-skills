@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/system-output-calculation-ct-convolution|system-output-calculation-ct-convolution]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/system-output-calculation-ct-convolution|system-output-calculation-ct-convolution]]"
 learning-time-in-minutes: 6
 ---
 # Calculating System Output with CT Convolution

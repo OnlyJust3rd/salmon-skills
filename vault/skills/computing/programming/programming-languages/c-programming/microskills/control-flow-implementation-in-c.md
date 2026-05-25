@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in using if-else statements, switch cases, for loops, and while loops.
+## Related Mediums
+
+![[bases/related-mediums.base]]

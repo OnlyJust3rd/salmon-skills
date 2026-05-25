@@ -39,3 +39,6 @@ Relate component-based architectural style to modular design and reuse in high-l
 ## Microskills
 
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/component-boundary-identification|Component Boundary Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

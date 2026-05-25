@@ -55,3 +55,6 @@ Analyze and apply the evaluation criteria for selective encryption systems, incl
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/interrelationships-of-evaluation-criteria|Interrelationships of Evaluation Criteria]]
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/trade-offs-in-evaluation-criteria|Trade-offs in Evaluation Criteria]]
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/selective-encryption-system-analysis|Selective Encryption System Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

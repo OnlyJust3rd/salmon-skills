@@ -47,3 +47,6 @@ Differentiate the use cases and performance characteristics of Type-1 versus Typ
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-1-use-cases|Type-1 Use Cases]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/type-2-use-cases|Type-2 Use Cases]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hypervisor-performance-characteristics|Hypervisor Performance Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

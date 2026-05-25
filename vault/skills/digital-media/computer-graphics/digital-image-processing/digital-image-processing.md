@@ -103,3 +103,6 @@ Analyze and process digital images using pixel-based representations, color mode
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/pixel-value-adjustment|Pixel Value Adjustment]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/point-processing-techniques|Point Processing Techniques]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/rgb-color-model|RGB Color Model]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

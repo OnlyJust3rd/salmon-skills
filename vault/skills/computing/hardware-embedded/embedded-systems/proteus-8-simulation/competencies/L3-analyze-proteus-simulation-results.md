@@ -51,3 +51,6 @@ Analyze simulation results from Proteus 8 to assess the correctness and identify
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/discrepancy-identification|Discrepancy Identification]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/accurate-operation-confirmation|Accurate Operation Confirmation]]
 - [[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/simulation-result-interpretation|Simulation Result Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

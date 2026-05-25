@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of different methods used to enforce access policies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

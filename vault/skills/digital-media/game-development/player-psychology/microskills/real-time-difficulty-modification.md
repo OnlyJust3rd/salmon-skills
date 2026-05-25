@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Actively changing difficulty settings dynamically based on player progress.
+## Related Mediums
+
+![[bases/related-mediums.base]]

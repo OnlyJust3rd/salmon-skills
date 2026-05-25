@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to recognize code segments suitable for modular design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

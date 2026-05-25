@@ -43,3 +43,6 @@ Explain the purpose and process of conducting code reviews.
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-purpose|Code Review Purpose]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-process|Code Review Process]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-as-qa-activity|Code Review as QA Activity]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

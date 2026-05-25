@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvectors|geometric-meaning-of-eigenvectors]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/geometric-meaning-of-eigenvectors|geometric-meaning-of-eigenvectors]]"
 learning-time-in-minutes: 5
 ---
 # The Unchanging Direction: Geometric Meaning of Eigenvectors

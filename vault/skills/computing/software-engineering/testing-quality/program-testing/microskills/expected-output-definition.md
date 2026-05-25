@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in defining expected outputs for chosen test cases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

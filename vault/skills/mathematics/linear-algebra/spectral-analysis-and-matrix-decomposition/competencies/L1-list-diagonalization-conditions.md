@@ -43,3 +43,6 @@ List the conditions for a matrix to be diagonalizable.
 - [[diagonalizability-criteria|Diagonalizability criteria]]
 - [[sufficient-conditions-for-diagonalization|Sufficient conditions for diagonalization]]
 - [[insufficient-conditions-for-diagonalization|Insufficient conditions for diagonalization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

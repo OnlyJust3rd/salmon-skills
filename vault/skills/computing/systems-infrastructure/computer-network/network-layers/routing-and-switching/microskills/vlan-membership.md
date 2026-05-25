@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assigning endpoints to logical network segments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of fundamental building blocks in Verilog HDL.
+## Related Mediums
+
+![[bases/related-mediums.base]]

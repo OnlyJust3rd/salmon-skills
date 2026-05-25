@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/electrical-quantity-units|electrical-quantity-units]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/electrical-quantity-units|electrical-quantity-units]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Electrical Quantity Units

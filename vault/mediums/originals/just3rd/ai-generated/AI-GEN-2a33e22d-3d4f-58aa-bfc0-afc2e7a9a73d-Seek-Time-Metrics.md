@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[seek-time-metrics|seek-time-metrics]]"
+learning-outcomes:
+  - "[[seek-time-metrics|seek-time-metrics]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Seek Time in Disk Scheduling

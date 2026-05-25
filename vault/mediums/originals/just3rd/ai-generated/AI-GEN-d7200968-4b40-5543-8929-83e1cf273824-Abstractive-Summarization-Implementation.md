@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[abstractive-summarization-implementation|abstractive-summarization-implementation]]"
+learning-outcomes:
+  - "[[abstractive-summarization-implementation|abstractive-summarization-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Abstractive Summarization with Neural Networks

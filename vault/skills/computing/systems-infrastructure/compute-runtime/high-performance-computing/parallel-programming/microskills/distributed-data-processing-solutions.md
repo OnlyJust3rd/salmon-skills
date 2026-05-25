@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Solving problems involving distributed data through parallel program implementation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

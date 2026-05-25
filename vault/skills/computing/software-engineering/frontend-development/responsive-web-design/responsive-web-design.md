@@ -30,3 +30,6 @@ Designing web layouts that adapt across viewport sizes, device capabilities, and
 - [[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/fluid-layout|Fluid Layout]]
 - [[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/media-queries|Media Queries]]
 - [[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/responsive-spacing|Responsive Spacing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

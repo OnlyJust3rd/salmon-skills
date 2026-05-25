@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Summarization of the sequence of operations and data movement within a neural network.
+## Related Mediums
+
+![[bases/related-mediums.base]]

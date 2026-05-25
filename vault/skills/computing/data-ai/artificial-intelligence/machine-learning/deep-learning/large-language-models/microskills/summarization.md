@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Condensing text while preserving key meaning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

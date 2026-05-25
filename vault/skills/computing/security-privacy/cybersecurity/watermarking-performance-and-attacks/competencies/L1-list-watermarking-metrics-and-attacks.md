@@ -53,3 +53,6 @@ List the key performance metrics and common types of attacks for digital waterma
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attacks|Geometric Attacks]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attacks|Cryptography Attacks]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attacks-copy-attacks|Protocol Attacks (Copy Attacks)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

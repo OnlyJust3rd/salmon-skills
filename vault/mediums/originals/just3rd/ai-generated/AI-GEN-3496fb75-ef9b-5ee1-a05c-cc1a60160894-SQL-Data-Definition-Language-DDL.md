@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/sql-data-definition-language-ddl|sql-data-definition-language-ddl]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/sql-data-definition-language-ddl|sql-data-definition-language-ddl]]"
 learning-time-in-minutes: 3
 ---
 # Understanding SQL Data Definition Language (DDL)

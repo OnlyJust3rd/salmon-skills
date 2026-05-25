@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-smell-definitions|code-smell-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/code-smell-definitions|code-smell-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Code Smells: A Foundation for Refactoring

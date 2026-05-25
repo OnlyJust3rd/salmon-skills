@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the advantages and disadvantages of various interaction methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

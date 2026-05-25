@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the procedural steps involved in solving related rates problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

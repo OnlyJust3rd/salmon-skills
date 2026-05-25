@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Mapping control steps to a plausible microinstruction sequence.
+## Related Mediums
+
+![[bases/related-mediums.base]]

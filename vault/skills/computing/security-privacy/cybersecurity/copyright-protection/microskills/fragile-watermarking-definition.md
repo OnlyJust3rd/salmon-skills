@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of fragile watermarking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

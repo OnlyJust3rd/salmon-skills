@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|pcb-role-in-process-management]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|pcb-role-in-process-management]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the PCB's Role in Process Management

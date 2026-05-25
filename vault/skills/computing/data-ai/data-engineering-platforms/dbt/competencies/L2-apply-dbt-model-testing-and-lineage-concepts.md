@@ -45,3 +45,6 @@ Apply dbt model testing and lineage concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/staging-model|Staging Model]]
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/mart-model|Mart Model]]
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/lineage-graph|Lineage Graph]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

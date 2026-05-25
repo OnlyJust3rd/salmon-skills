@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Producing specific signal patterns using timer outputs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

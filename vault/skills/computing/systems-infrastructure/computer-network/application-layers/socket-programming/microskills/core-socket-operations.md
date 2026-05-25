@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of key functions for establishing and managing connections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

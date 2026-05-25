@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-centered-design-principles|user-centered-design-principles]]"
+learning-outcomes:
+  - "[[user-centered-design-principles|user-centered-design-principles]]"
 learning-time-in-minutes: 4
 ---
 # User-Centered Design Principles: Putting the User First

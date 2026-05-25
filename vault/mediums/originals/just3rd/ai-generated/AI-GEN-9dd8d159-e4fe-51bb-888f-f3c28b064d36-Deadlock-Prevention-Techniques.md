@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|deadlock-prevention-techniques]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|deadlock-prevention-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Deadlock Prevention Techniques: Proactive Measures

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how memory resources are managed for virtual machines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

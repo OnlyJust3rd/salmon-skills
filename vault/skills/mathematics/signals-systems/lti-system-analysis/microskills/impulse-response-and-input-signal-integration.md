@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying the integration of signal products for CT convolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

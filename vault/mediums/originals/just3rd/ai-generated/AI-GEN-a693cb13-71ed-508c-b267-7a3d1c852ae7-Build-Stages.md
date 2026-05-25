@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/build-stages|build-stages]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/build-stages|build-stages]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Build Stages in CI Pipelines

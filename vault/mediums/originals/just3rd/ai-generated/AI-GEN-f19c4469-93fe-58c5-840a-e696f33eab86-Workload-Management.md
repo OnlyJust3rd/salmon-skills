@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/workload-management|workload-management]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/workload-management|workload-management]]"
 learning-time-in-minutes: 3
 ---
 # Redshift Workload Management: Query Resource Allocation

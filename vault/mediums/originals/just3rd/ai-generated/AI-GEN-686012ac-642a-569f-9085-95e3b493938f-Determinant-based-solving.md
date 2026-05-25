@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/determinant-based-solving|determinant-based-solving]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/determinant-based-solving|determinant-based-solving]]"
 learning-time-in-minutes: 4
 ---
 # Determinant-based Solving for Linear Systems

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/mpeg-standards|mpeg-standards]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/mpeg-standards|mpeg-standards]]"
 learning-time-in-minutes: 4
 ---
 # Understanding MPEG Standards for Video Compression

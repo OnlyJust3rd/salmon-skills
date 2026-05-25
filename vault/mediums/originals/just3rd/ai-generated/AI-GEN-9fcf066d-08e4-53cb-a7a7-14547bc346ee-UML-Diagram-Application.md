@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/uml-diagram-application|uml-diagram-application]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/uml-diagram-application|uml-diagram-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying UML Diagrams for Design Representation

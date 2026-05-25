@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the reasons and justifications behind text cleaning operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

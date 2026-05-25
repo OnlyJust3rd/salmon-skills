@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/digital-watermarking-characteristics|digital-watermarking-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/digital-watermarking-characteristics|digital-watermarking-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # Digital Watermarking: Unseen Identifiers

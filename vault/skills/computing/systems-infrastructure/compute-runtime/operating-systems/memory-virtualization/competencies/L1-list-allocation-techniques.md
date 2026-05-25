@@ -39,3 +39,6 @@ List common contiguous memory allocation techniques.
 ## Microskills
 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/contiguous-memory-allocation-techniques|Contiguous Memory Allocation Techniques]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

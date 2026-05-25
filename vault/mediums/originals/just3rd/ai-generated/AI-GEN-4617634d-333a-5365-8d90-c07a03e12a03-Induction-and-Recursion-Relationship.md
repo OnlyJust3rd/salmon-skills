@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/proof-techniques/microskills/induction-and-recursion-relationship|induction-and-recursion-relationship]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/proof-techniques/microskills/induction-and-recursion-relationship|induction-and-recursion-relationship]]"
 learning-time-in-minutes: 4
 ---
 # The Deep Connection: Induction and Recursion

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/graph-terminology|graph-terminology]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/graph-terminology|graph-terminology]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Graph Terminology

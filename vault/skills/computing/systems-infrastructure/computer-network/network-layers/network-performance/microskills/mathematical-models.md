@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply formulas for calculating performance indicators.
+## Related Mediums
+
+![[bases/related-mediums.base]]

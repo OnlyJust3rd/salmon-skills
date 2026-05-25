@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/selective-encryption-algorithm-components|selective-encryption-algorithm-components]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/selective-encryption-algorithm-components|selective-encryption-algorithm-components]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Building Blocks of Selective Encryption Algorithms

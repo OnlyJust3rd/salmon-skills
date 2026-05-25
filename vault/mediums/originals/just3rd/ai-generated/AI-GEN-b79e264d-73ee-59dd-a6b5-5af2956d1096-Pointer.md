@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[pointer|pointer]]"
+learning-outcomes:
+  - "[[pointer|pointer]]"
 learning-time-in-minutes: 2
 ---
 # Understanding C++ Pointers

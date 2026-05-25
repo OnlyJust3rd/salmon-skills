@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall and identification of typical parts used in building robots.
+## Related Mediums
+
+![[bases/related-mediums.base]]

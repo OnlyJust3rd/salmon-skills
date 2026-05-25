@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/shader-programming/microskills/vertex-shader|vertex-shader]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/shader-programming/microskills/vertex-shader|vertex-shader]]"
 learning-time-in-minutes: 4
 ---
 # Vertex Shader: The Foundation of Geometry Processing

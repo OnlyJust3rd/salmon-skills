@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing appropriate graph or tree algorithms to solve specific problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

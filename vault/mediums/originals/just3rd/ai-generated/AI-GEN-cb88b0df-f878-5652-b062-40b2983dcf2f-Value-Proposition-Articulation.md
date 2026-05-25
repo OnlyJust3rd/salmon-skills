@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/value-proposition-articulation|value-proposition-articulation]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/value-proposition-articulation|value-proposition-articulation]]"
 learning-time-in-minutes: 4
 ---
 # Articulating Your Value Proposition

@@ -65,3 +65,6 @@ Describing static routing and forwarding principles, and comparing and contrasti
 - [[routing-protocol-suitability|Routing Protocol Suitability]]
 - [[simulated-network-scenarios|Simulated Network Scenarios]]
 - [[static-routing-configuration|Static Routing Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

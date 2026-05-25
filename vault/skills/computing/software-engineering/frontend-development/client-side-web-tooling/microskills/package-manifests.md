@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding dependency and script metadata for web projects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

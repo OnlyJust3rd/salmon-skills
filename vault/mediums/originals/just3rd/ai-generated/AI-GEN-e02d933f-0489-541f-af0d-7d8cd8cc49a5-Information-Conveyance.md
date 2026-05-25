@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[information-conveyance|information-conveyance]]"
+learning-outcomes:
+  - "[[information-conveyance|information-conveyance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Information Conveyance with Data Visualization

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Step-by-step explanation of public key algorithm operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

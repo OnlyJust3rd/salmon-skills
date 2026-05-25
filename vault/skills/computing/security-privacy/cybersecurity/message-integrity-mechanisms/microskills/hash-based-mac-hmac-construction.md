@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how HMACs are built.
+## Related Mediums
+
+![[bases/related-mediums.base]]

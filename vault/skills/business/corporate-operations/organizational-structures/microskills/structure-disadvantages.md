@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the drawbacks associated with different organizational structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

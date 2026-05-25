@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining its role in quality assurance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

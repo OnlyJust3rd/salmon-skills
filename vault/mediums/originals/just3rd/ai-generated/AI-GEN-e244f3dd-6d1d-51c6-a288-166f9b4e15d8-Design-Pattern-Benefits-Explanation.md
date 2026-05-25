@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-benefits-explanation|design-pattern-benefits-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-benefits-explanation|design-pattern-benefits-explanation]]"
 learning-time-in-minutes: 4
 ---
 # Benefits of Design Patterns

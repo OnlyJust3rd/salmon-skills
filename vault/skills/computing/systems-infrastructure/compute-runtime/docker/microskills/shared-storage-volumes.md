@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how containers in a Pod can share storage.
+## Related Mediums
+
+![[bases/related-mediums.base]]

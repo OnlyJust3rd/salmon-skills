@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-geometric-interpretation-hypervolume|triple-integral-geometric-interpretation-hypervolume]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-geometric-interpretation-hypervolume|triple-integral-geometric-interpretation-hypervolume]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Triple Integrals as Hypervolumes

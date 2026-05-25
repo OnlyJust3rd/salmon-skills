@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/lfsr-definition-recall|lfsr-definition-recall]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/lfsr-definition-recall|lfsr-definition-recall]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Linear Feedback Shift Registers (LFSRs)

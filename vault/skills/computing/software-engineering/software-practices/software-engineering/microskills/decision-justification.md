@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Providing reasons and evidence for chosen solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

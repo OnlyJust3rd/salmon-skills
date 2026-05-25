@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to detect and reason about overflow in fixed-width signed arithmetic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

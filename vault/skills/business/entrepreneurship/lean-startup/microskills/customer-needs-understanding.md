@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Gaining insights into customer issues through interviews.
+## Related Mediums
+
+![[bases/related-mediums.base]]

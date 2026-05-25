@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mobile-robot-navigation-hardware-implementations|mobile-robot-navigation-hardware-implementations]]"
+learning-outcomes:
+  - "[[mobile-robot-navigation-hardware-implementations|mobile-robot-navigation-hardware-implementations]]"
 learning-time-in-minutes: 5
 ---
 # Mobile Robot Navigation: Essential Hardware Implementations

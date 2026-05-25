@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Clear explanation of how the One-time Pad operates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

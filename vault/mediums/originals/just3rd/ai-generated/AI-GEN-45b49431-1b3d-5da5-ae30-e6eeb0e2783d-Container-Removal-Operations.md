@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-removal-operations|container-removal-operations]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-removal-operations|container-removal-operations]]"
 learning-time-in-minutes: 4
 ---
 # Removing Docker Containers

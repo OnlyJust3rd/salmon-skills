@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in deploying and managing cloud infrastructure with Bicep.
+## Related Mediums
+
+![[bases/related-mediums.base]]

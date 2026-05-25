@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reasoning about SIMD/vector processing benefits for data-parallel workloads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

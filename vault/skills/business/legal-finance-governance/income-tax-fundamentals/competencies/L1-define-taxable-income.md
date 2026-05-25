@@ -39,3 +39,6 @@ Define 'taxable income'.
 ## Microskills
 
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxable-income-definition|Taxable Income Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the fundamental principles of GloVe embeddings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain variables, operators, and control structures in JavaScript.
+## Related Mediums
+
+![[bases/related-mediums.base]]

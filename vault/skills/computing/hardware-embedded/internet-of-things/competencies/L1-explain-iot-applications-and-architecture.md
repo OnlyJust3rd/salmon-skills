@@ -47,3 +47,6 @@ Explain the application domains and architectural components of IoT systems, inc
 - [[iot-architectural-components|IoT Architectural Components]]
 - [[distributed-intelligence-in-iot|Distributed Intelligence in IoT]]
 - [[edge-and-fog-computing-in-iot|Edge and Fog Computing in IoT]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

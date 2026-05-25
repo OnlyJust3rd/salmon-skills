@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/cad-design/microskills/computer-aided-design-software|computer-aided-design-software]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/cad-design/microskills/computer-aided-design-software|computer-aided-design-software]]"
 learning-time-in-minutes: 3
 ---
 # Exploring Computer-Aided Design (CAD) Software

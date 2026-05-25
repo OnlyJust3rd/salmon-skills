@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Making small, progressive changes to code design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

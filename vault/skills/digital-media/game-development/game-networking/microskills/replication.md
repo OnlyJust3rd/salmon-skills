@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding distribution of state updates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

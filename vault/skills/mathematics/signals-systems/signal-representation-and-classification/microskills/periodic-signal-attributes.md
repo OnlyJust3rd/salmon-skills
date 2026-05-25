@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the defining characteristics of periodic signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

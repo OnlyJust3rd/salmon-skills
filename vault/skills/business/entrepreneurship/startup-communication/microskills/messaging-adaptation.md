@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Customizing communication for specific recipients.
+## Related Mediums
+
+![[bases/related-mediums.base]]

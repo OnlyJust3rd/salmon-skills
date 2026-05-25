@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating the long-term stability of soldered connections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of reading button inputs using GPIO programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

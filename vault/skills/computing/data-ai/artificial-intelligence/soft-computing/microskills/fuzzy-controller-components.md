@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the essential parts of fuzzy controllers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

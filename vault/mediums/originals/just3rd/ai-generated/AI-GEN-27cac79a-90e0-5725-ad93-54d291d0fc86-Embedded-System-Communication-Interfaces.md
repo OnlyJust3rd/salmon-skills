@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/embedded-system-communication-interfaces|embedded-system-communication-interfaces]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/embedded-system-communication-interfaces|embedded-system-communication-interfaces]]"
 learning-time-in-minutes: 5
 ---
 # Embedded System Communication Interfaces

@@ -45,3 +45,6 @@ Describe the characteristics and use cases for On-Demand, Reserved, and Spot clo
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/reserved-instance-pricing|Reserved Instance Pricing]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/spot-instance-pricing|Spot Instance Pricing]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/pricing-model-use-cases|Pricing Model Use Cases]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

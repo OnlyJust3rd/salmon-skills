@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the purpose of integrating cryptographic elements into watermarking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

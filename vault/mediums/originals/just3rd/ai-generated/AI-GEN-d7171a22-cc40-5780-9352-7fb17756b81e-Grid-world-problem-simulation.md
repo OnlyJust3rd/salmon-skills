@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[grid-world-problem-simulation|grid-world-problem-simulation]]"
+learning-outcomes:
+  - "[[grid-world-problem-simulation|grid-world-problem-simulation]]"
 learning-time-in-minutes: 3
 ---
 # Simulating a Grid-World Problem

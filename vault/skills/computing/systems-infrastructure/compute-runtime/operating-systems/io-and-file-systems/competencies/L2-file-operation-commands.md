@@ -47,3 +47,6 @@ Use basic commands to perform file operations (e.g., create, read, write).
 - [[file-reading-commands|File Reading Commands]]
 - [[file-writing-commands|File Writing Commands]]
 - [[basic-file-management|Basic File Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

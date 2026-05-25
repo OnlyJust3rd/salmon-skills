@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/task-encapsulation|task-encapsulation]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-principles/modular-program-design/microskills/task-encapsulation|task-encapsulation]]"
 learning-time-in-minutes: 4
 ---
 # Encapsulating Tasks with Functions in C

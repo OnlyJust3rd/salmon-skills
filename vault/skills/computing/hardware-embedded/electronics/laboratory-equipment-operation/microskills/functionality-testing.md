@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical testing of circuit functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

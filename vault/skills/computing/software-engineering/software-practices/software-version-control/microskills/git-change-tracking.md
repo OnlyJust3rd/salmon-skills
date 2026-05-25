@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Employing Git to record modifications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and understanding of the function of each component within an IoT architecture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

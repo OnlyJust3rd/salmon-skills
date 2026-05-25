@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding routing within a single autonomous system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/visible-segment-determination|visible-segment-determination]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/visible-segment-determination|visible-segment-determination]]"
 learning-time-in-minutes: 5
 ---
 # Determining Visible Segments After Clipping

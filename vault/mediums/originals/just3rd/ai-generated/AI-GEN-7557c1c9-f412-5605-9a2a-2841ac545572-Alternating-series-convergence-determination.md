@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/alternating-series-convergence-determination|alternating-series-convergence-determination]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/alternating-series-convergence-determination|alternating-series-convergence-determination]]"
 learning-time-in-minutes: 4
 ---
 # Applying the Alternating Series Test

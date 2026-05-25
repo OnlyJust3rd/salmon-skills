@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how CI/CD streamlines the release process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

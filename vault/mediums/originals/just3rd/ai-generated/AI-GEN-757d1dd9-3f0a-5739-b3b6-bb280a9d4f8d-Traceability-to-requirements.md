@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/traceability-to-requirements|traceability-to-requirements]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/traceability-to-requirements|traceability-to-requirements]]"
 learning-time-in-minutes: 5
 ---
 # Linking Test Cases to Program Requirements

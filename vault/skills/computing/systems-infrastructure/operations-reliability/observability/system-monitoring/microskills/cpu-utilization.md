@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of central processing unit usage as a metric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hardware-virtualization|hardware-virtualization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hardware-virtualization|hardware-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # Hardware Virtualization: The Foundation of Virtual Machines

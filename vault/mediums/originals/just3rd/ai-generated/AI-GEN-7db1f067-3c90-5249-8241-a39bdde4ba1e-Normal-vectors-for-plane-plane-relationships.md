@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/normal-vectors-for-plane-plane-relationships|normal-vectors-for-plane-plane-relationships]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/normal-vectors-for-plane-plane-relationships|normal-vectors-for-plane-plane-relationships]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Plane Relationships with Normal Vectors

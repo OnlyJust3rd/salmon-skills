@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adjusting the clock source frequency for timers/counters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

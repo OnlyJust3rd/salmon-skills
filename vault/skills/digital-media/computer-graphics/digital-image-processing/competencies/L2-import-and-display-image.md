@@ -43,3 +43,6 @@ Import and display a specified digital image file using MATLAB.
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/matlab-image-import|MATLAB Image Import]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/matlab-image-visualization|MATLAB Image Visualization]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/common-image-file-formats|Common Image File Formats]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Analyze the relationship between the location of poles in the s-plane and the st
 - [[pole-location-significance-s-plane|Pole Location Significance (s-plane)]]
 - [[stability-criteria-from-pole-location|Stability Criteria from Pole Location]]
 - [[pole-zero-plot-interpretation-for-stability|Pole-Zero Plot Interpretation for Stability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

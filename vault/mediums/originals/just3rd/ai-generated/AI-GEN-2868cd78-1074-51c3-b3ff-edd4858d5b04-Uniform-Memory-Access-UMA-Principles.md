@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/uniform-memory-access-uma-principles|uniform-memory-access-uma-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/uniform-memory-access-uma-principles|uniform-memory-access-uma-principles]]"
 learning-time-in-minutes: 3
 ---
 # Uniform Memory Access (UMA) Principles

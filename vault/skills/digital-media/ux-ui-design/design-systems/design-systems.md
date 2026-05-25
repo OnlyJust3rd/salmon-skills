@@ -38,3 +38,6 @@ Using reusable components, visual tokens, interaction patterns, and documentatio
 - [[pattern-documentation|Pattern Documentation]]
 - [[reusable-component|Reusable Component]]
 - [[token-application|Token Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

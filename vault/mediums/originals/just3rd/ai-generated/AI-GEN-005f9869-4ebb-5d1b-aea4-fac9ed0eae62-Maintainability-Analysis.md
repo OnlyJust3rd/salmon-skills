@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/maintainability-analysis|maintainability-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/maintainability-analysis|maintainability-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Maintainability in Object-Oriented Design

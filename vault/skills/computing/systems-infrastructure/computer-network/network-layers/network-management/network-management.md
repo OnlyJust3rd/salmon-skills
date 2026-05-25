@@ -42,3 +42,6 @@ Understanding network management concepts and their application in small office/
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/purpose-of-network-management|Purpose of Network Management]]
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/soho-network-management-principles|SOHO Network Management Principles]]
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/soho-network-operations|SOHO Network Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

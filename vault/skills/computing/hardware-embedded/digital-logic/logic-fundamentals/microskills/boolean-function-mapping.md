@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how logic gates form Boolean functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

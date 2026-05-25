@@ -43,3 +43,6 @@ Implement structured HTML pages that use semantic elements and valid document ou
 - [[skills/computing/software-engineering/frontend-development/html/microskills/page-scaffolding|Page scaffolding]]
 - [[skills/computing/software-engineering/frontend-development/html/microskills/accessible-structure|Accessible structure]]
 - [[skills/computing/software-engineering/frontend-development/html/microskills/markup-validation-mindset|Markup validation mindset]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

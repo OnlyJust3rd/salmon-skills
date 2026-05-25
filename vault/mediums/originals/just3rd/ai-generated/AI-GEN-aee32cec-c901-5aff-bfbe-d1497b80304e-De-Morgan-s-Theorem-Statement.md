@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/de-morgan-s-theorem-statement|de-morgan-s-theorem-statement]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/de-morgan-s-theorem-statement|de-morgan-s-theorem-statement]]"
 learning-time-in-minutes: 4
 ---
 # De Morgan's Theorem Statement

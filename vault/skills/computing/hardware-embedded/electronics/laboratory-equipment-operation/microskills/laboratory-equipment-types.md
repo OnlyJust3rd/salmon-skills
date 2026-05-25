@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of types of standard laboratory equipment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

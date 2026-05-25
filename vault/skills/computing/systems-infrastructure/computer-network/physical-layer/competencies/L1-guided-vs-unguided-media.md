@@ -47,3 +47,6 @@ Compare and contrast the characteristics and use cases of different types of gui
 - [[unguided-media-characteristics|Unguided Media Characteristics]]
 - [[media-use-cases|Media Use Cases]]
 - [[media-comparison|Media Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

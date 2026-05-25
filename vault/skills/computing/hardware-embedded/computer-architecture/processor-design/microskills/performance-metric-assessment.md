@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of a processor's performance against specified metrics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

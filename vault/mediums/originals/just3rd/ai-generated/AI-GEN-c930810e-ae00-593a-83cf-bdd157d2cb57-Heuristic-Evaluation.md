@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/ux-ui-design/usability-evaluation/microskills/heuristic-evaluation|heuristic-evaluation]]"
+learning-outcomes:
+  - "[[skills/digital-media/ux-ui-design/usability-evaluation/microskills/heuristic-evaluation|heuristic-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Heuristic Evaluation: A Core Usability Method

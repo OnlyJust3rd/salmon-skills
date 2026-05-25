@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in upgrading and rolling back applications using Helm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

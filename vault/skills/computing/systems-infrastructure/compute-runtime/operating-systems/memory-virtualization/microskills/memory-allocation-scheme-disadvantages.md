@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying the disadvantages of different memory allocation schemes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

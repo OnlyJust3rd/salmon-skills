@@ -47,3 +47,6 @@ Explain the functionality and purpose of Ethernet LANs.
 - [[lan-components|LAN Components]]
 - [[network-infrastructure-role|Network Infrastructure Role]]
 - [[ethernet-protocol-operations|Ethernet Protocol Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

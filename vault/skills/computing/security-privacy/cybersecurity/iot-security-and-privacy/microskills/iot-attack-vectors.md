@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall and listing of common attack vectors in IoT environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

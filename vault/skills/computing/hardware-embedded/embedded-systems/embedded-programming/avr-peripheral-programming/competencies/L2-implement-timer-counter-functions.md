@@ -47,3 +47,6 @@ Utilize AVR microcontroller timers/counters in C to implement time-based functio
 - [[prescaler-setting|Prescaler Setting]]
 - [[delay-generation|Delay Generation]]
 - [[waveform-generation|Waveform Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

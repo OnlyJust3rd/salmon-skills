@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting components with conductive paths.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -39,3 +39,6 @@ Explain the basic principles of Big O notation for algorithm efficiency.
 ## Microskills
 
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/big-o-notation-principles|Big O Notation Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

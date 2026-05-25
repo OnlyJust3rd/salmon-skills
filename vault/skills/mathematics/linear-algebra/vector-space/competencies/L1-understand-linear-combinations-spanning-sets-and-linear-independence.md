@@ -49,3 +49,6 @@ Explain and interpret linear combinations, spanning sets, linear independence, a
 - [[spanning-set-concept|Spanning set concept]]
 - [[linear-independence-definition|Linear independence definition]]
 - [[linear-dependence-implications|Linear dependence implications]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

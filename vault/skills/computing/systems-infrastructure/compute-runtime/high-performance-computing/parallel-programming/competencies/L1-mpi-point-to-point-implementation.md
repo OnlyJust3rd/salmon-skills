@@ -45,3 +45,6 @@ Explain point-to-point communication abstractions in MPI-based parallel programm
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-receive-function-application|MPI Receive Function Application]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/basic-parallel-program-construction|Basic Parallel Program Construction]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/data-exchange-in-mpi|Data Exchange in MPI]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

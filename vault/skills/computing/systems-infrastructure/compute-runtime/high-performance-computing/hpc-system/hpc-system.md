@@ -60,3 +60,6 @@ Analyzing high-performance computing architectures including shared-memory syste
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/process-communication-models|Process Communication Models]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/serverless-architectural-concepts|Serverless Architectural Concepts]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/serverless-architecture-definition|Serverless Architecture Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the first derivative to identify where a function is increasing or decreasing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

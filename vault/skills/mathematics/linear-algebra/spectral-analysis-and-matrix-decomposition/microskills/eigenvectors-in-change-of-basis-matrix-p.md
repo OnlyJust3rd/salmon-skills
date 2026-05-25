@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating how eigenvectors form the change-of-basis matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

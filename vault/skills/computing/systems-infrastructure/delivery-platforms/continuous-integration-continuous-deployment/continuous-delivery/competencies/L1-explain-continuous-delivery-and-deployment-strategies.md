@@ -49,3 +49,6 @@ Explain continuous delivery and deployment strategies, including staged releases
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/automated-promotion|Automated Promotion]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/rollback-concepts|Rollback Concepts]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/progressive-deployment-strategies|Progressive Deployment Strategies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

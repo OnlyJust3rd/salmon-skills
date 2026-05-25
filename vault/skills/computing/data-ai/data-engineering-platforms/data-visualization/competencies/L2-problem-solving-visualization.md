@@ -47,3 +47,6 @@ Construct meaningful visualizations using Python and matplotlib to address defin
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/python-visualization-application|Python Visualization Application]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/matplotlib-problem-solving|Matplotlib Problem Solving]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/data-driven-question-answering|Data-Driven Question Answering]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

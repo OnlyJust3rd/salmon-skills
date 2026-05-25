@@ -41,3 +41,6 @@ Describe how basic logic gates are used to implement Boolean functions.
 
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-function-mapping|Boolean Function Mapping]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/implementation-principles|Implementation Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

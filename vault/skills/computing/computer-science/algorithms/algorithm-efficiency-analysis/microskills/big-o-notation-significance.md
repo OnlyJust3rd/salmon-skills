@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulate the significance of Big O notation in algorithm analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Producing concise summaries from input documents using learned techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of relational database modeling principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

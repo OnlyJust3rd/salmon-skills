@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of plagiarism as an unethical business behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[http-message-structure|http-message-structure]]"
+learning-outcomes:
+  - "[[http-message-structure|http-message-structure]]"
 learning-time-in-minutes: 3
 ---
 # Understanding HTTP Message Structure

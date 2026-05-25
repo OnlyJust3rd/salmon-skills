@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how tags enable accurate cost distribution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

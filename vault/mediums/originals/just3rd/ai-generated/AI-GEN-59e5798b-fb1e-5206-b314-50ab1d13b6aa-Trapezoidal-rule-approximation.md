@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/trapezoidal-rule-approximation|trapezoidal-rule-approximation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/trapezoidal-rule-approximation|trapezoidal-rule-approximation]]"
 learning-time-in-minutes: 4
 ---
 # Trapezoidal Rule Approximation

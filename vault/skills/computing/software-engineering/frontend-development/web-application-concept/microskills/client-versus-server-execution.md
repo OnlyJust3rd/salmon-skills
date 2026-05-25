@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify where markup, scripts, and data transformation run.
+## Related Mediums
+
+![[bases/related-mediums.base]]

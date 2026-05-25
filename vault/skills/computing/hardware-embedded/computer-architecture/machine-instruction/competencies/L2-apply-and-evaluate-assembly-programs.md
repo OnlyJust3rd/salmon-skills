@@ -51,3 +51,6 @@ Explain and apply knowledge of machine instruction sequencing, register transfer
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-sequencing-application|Instruction Sequencing Application]]
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/register-transfer-notation-application|Register Transfer Notation Application]]
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/addressing-modes-application|Addressing Modes Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

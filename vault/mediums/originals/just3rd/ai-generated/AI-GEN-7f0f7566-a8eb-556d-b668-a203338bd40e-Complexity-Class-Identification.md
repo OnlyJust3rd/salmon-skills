@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/complexity-class-identification|complexity-class-identification]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/complexity-class-identification|complexity-class-identification]]"
 learning-time-in-minutes: 2
 ---
 # Complexity Class Identification

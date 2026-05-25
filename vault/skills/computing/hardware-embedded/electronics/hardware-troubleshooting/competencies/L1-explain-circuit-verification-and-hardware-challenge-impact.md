@@ -53,3 +53,6 @@ Explain the methods for verifying circuit integrity and the causes and effects o
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-supply-verification|Power Supply Verification]]
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/noise-interference-effects|Noise Interference Effects]]
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-regulation-problem-effects|Power Regulation Problem Effects]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

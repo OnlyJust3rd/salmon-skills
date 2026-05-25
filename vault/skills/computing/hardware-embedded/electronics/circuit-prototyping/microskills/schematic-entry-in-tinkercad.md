@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building electronic circuit diagrams using Tinkercad's tools.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Improving code structure continuously while preserving observable behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

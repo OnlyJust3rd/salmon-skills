@@ -45,3 +45,6 @@ Apply SQL Data Definition Language (DDL) to create and modify relational databas
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-ddl-commands|SQL DDL Commands]]
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/table-and-column-definition-with-ddl|Table and Column Definition with DDL]]
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/schema-evolution-with-ddl|Schema Evolution with DDL]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

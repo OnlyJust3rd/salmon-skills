@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Relating encryption at the in-compression stage.
+## Related Mediums
+
+![[bases/related-mediums.base]]

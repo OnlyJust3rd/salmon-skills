@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Maintaining frequent feedback with customers or representatives to guide implementation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

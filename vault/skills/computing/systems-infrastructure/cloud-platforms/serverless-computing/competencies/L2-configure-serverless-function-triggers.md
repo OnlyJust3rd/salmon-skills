@@ -47,3 +47,6 @@ Implement serverless functions by configuring HTTP, Timer, Queue, and Blob trigg
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/queue-trigger-configuration|Queue Trigger Configuration]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/blob-trigger-configuration|Blob Trigger Configuration]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/output-binding-configuration|Output Binding Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

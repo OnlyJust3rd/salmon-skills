@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/impulse-response-definition-recall|impulse-response-definition-recall]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/impulse-response-definition-recall|impulse-response-definition-recall]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Impulse Response: The System's Fingerprint

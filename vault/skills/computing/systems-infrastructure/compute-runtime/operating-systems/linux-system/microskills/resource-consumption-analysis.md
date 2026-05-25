@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to analyze process resource utilization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

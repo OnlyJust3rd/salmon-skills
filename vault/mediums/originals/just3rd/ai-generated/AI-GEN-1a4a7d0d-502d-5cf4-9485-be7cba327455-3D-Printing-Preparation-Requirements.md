@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/digital-fabrication/microskills/3d-printing-preparation-requirements|3d-printing-preparation-requirements]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/digital-fabrication/microskills/3d-printing-preparation-requirements|3d-printing-preparation-requirements]]"
 learning-time-in-minutes: 5
 ---
 # 3D Printing Preparation Requirements

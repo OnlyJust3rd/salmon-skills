@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding event records emitted by systems and applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

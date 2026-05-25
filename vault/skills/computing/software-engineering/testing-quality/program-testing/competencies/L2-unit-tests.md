@@ -43,3 +43,6 @@ Apply unit testing to verify individual units (functions/modules) of a C program
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-planning|Unit test planning]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-automation-selection|Test automation selection]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-result-interpretation|Unit test result interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

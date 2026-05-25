@@ -47,3 +47,6 @@ Apply formulas to calculate the voltage gain of basic inverting and non-invertin
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/inverting-op-amp-gain-calculation|Inverting Op-Amp Gain Calculation]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/non-inverting-op-amp-gain-calculation|Non-inverting Op-Amp Gain Calculation]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/single-stage-op-amp-gain-determination|Single-Stage Op-Amp Gain Determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

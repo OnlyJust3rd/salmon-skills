@@ -32,3 +32,6 @@ Structure and manage the game development process across all phases, including c
 - [[skills/digital-media/game-development/game-development-lifecycle/microskills/game-development-process-interpretation|Game Development Process Interpretation]]
 - [[skills/digital-media/game-development/game-development-lifecycle/microskills/inception-to-support-lifecycle|Inception to Support Lifecycle]]
 - [[skills/digital-media/game-development/game-development-lifecycle/microskills/phase-purpose-and-activities|Phase Purpose and Activities]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

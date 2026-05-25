@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Managing interrupt sources programmatically.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of stream ciphers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

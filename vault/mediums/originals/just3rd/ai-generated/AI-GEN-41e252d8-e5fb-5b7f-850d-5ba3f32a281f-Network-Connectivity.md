@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-connectivity|network-connectivity]]"
+learning-outcomes:
+  - "[[network-connectivity|network-connectivity]]"
 learning-time-in-minutes: 5
 ---
 # Network Connectivity: Linking Your Local Networks

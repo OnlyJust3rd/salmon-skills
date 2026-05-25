@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding directed acyclic task graphs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

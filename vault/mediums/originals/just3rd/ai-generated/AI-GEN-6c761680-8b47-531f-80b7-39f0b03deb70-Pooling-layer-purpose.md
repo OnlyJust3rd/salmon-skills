@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[pooling-layer-purpose|pooling-layer-purpose]]"
+learning-outcomes:
+  - "[[pooling-layer-purpose|pooling-layer-purpose]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Pooling Layers in CNNs

@@ -120,7 +120,8 @@ Rules:
 
 - Medium notes should use `type: "medium"`.
 - Medium notes should set `contributor` to one contributor wikilink.
-- Medium notes should set `outcome` to the most specific graph node they teach or support, usually a `microskill` or `competency`.
+- Medium notes should set `learning-outcomes` to the `microskill` or `competency` notes they teach or support.
+- Medium notes may set `related-skills` to broad `skill` notes for discovery and browsing.
 - Medium notes should estimate `learning-time-in-minutes` as a positive integer.
 
 ## Bases

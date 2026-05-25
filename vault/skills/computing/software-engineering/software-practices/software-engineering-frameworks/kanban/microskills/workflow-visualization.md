@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Representing work states and queues on a visible board.
+## Related Mediums
+
+![[bases/related-mediums.base]]

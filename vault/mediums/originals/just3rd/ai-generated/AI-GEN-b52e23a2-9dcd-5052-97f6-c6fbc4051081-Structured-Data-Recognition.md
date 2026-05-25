@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/data-types/microskills/structured-data-recognition|structured-data-recognition]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/data-types/microskills/structured-data-recognition|structured-data-recognition]]"
 learning-time-in-minutes: 3
 ---
 # Structured Data: The Organized World

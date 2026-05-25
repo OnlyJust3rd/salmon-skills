@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding banked/interleaved memory and why it improves throughput.
+## Related Mediums
+
+![[bases/related-mediums.base]]

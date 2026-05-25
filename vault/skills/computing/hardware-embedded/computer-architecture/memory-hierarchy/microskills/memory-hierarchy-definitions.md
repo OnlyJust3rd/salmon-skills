@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the fundamental components of a memory hierarchy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

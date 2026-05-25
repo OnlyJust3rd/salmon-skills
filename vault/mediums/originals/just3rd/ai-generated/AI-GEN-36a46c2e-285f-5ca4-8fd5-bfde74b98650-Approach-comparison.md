@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[approach-comparison|approach-comparison]]"
+learning-outcomes:
+  - "[[approach-comparison|approach-comparison]]"
 learning-time-in-minutes: 4
 ---
 # Model-Free vs. Model-Based Reinforcement Learning

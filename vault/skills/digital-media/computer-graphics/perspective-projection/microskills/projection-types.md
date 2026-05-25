@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and definition of primary projection methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

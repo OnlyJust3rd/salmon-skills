@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-control-and-freedom|user-control-and-freedom]]"
+learning-outcomes:
+  - "[[user-control-and-freedom|user-control-and-freedom]]"
 learning-time-in-minutes: 4
 ---
 # User Control and Freedom: Empowering Your Users

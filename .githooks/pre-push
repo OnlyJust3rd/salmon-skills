@@ -1,0 +1,19 @@
+#!/bin/sh
+
+set -eu
+
+run_pnpm() {
+  if command -v corepack >/dev/null 2>&1; then
+    corepack pnpm "$@"
+  else
+    pnpm "$@"
+  fi
+}
+
+echo "pre-push: running pnpm validate"
+run_pnpm validate
+
+echo "pre-push: running pnpm build"
+run_pnpm build
+
+echo "pre-push: checks passed"

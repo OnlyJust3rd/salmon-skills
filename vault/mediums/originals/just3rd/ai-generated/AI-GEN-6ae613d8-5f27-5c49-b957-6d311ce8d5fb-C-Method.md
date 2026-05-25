@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[c-sharp-method|c-sharp-method]]"
+learning-outcomes:
+  - "[[c-sharp-method|c-sharp-method]]"
 learning-time-in-minutes: 2
 ---
 # C# Methods: Reusable Behavior Units

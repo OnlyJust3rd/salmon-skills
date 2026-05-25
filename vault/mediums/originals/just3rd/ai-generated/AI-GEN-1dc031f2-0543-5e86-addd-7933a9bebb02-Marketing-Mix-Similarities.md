@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/marketing-strategy/microskills/marketing-mix-similarities|marketing-mix-similarities]]"
+learning-outcomes:
+  - "[[skills/business/product-management/marketing-strategy/microskills/marketing-mix-similarities|marketing-mix-similarities]]"
 learning-time-in-minutes: 5
 ---
 # Marketing Mix Similarities: Bridging the 4Ps and 4Cs

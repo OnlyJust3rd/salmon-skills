@@ -45,3 +45,6 @@ Define the purpose and function of each internal AVR microcontroller peripheral,
 - [[interrupt-vector-purpose|Interrupt Vector Purpose]]
 - [[timer-counter-operations|Timer/Counter Operations]]
 - [[adc-conversion-process|ADC Conversion Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

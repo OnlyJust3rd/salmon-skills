@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-document-similarity-calculation|text-document-similarity-calculation]]"
+learning-outcomes:
+  - "[[text-document-similarity-calculation|text-document-similarity-calculation]]"
 learning-time-in-minutes: 5
 ---
 # Measuring How Alike Text Documents Are: Distance Metrics

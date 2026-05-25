@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/organizational-culture-dynamics|organizational-culture-dynamics]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/organizational-culture-dynamics|organizational-culture-dynamics]]"
 learning-time-in-minutes: 5
 ---
 # The Interplay of Leadership and Culture: A Foundation for Change

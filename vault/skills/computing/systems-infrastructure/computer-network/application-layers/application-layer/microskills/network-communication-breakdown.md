@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing the mechanics of application layer communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

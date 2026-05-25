@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Designing circuits to perform specific logical operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

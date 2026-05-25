@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[naive-bayes-classifier-implementation|naive-bayes-classifier-implementation]]"
+learning-outcomes:
+  - "[[naive-bayes-classifier-implementation|naive-bayes-classifier-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Naïve Bayes for Text Classification

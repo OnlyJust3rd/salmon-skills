@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reactive-control-logic|reactive-control-logic]]"
+learning-outcomes:
+  - "[[reactive-control-logic|reactive-control-logic]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Reactive Control Logic in Robotics

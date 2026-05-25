@@ -47,3 +47,6 @@ Implement string algorithms including Knuth-Morris-Pratt (KMP), Rabin-Karp, Z-Al
 - [[skills/computing/programming/programming-languages/java-programming/microskills/z-algorithm-java-implementation|Z-Algorithm Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/boyer-moore-java-implementation|Boyer-Moore Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/trie-prefix-tree-java-implementation|Trie (Prefix Tree) Java Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

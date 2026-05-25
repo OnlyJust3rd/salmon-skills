@@ -45,3 +45,6 @@ Apply the dot product to determine if two vectors are orthogonal and use vector 
 - [[dot-product-for-vector-orthogonality|Dot product for vector orthogonality]]
 - [[vector-projections-for-point-line-distance|Vector projections for point-line distance]]
 - [[vector-projections-for-point-plane-distance|Vector projections for point-plane distance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

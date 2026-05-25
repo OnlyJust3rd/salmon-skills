@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Performing practical operations to insert, update, or delete data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

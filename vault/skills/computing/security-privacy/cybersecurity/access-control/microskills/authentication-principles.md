@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the process of verifying user identity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

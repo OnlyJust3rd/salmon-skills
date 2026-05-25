@@ -45,3 +45,6 @@ Differentiate between low-pass and high-pass filter behaviors in RC and RL circu
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/low-pass-filter-behavior|Low-Pass Filter Behavior]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/high-pass-filter-behavior|High-Pass Filter Behavior]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/frequency-response-differentiation|Frequency Response Differentiation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

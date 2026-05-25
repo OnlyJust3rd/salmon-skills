@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of ethical considerations related to future HCI capabilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

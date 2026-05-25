@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The advantages of using subnetting.
+## Related Mediums
+
+![[bases/related-mediums.base]]

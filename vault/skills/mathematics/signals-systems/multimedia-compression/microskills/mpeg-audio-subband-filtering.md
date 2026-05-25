@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Specifics of subband filtering in MPEG Audio.
+## Related Mediums
+
+![[bases/related-mediums.base]]

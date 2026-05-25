@@ -45,3 +45,6 @@ Define and explain the fundamental concepts of biometrics and biometric access c
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometric-access-control-systems|Biometric Access Control Systems]]
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometric-modalities|Biometric Modalities]]
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometric-processes|Biometric Processes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

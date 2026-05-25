@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/conditional-convergence-identification|conditional-convergence-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/conditional-convergence-identification|conditional-convergence-identification]]"
 learning-time-in-minutes: 3
 ---
 # Differentiating Conditional Convergence

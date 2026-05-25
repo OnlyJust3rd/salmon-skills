@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Predict which declarations win for a given element.
+## Related Mediums
+
+![[bases/related-mediums.base]]

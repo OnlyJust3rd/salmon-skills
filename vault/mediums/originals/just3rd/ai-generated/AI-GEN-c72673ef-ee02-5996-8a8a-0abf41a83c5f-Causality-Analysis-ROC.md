@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/causality-analysis-roc|causality-analysis-roc]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/causality-analysis-roc|causality-analysis-roc]]"
 learning-time-in-minutes: 4
 ---
 # Causality Analysis from the Region of Convergence (ROC)

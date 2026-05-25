@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[packet-forwarding-with-static-routes|packet-forwarding-with-static-routes]]"
+learning-outcomes:
+  - "[[packet-forwarding-with-static-routes|packet-forwarding-with-static-routes]]"
 learning-time-in-minutes: 4
 ---
 # Packet Forwarding with Static Routes

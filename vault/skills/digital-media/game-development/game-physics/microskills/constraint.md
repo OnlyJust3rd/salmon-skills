@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Limiting simulated motion or rotation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

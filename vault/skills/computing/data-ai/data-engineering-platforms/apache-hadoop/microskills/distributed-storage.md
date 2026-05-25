@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding data partitioned across cluster nodes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

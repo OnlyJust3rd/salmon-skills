@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of granting only necessary permissions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

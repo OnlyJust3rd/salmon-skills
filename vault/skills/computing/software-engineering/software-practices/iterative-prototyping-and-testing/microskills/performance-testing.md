@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Gathering data on prototype functionality and adherence to requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

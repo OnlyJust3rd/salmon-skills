@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[core-socket-operations|core-socket-operations]]"
+learning-outcomes:
+  - "[[core-socket-operations|core-socket-operations]]"
 learning-time-in-minutes: 4
 ---
 # Core Socket Operations

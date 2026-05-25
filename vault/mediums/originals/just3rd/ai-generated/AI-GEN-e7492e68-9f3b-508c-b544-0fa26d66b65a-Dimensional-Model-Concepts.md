@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/dimensional-model-concepts|dimensional-model-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/dimensional-model-concepts|dimensional-model-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Dimensional Model Concepts

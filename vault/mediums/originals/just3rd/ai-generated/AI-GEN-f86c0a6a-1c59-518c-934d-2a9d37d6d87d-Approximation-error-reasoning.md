@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/approximation-error-reasoning|approximation-error-reasoning]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/approximation-error-reasoning|approximation-error-reasoning]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Approximation Error with Linearization

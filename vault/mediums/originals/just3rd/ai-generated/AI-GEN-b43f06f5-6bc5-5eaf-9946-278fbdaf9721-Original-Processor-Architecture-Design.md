@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/original-processor-architecture-design|original-processor-architecture-design]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/original-processor-architecture-design|original-processor-architecture-design]]"
 learning-time-in-minutes: 5
 ---
 # Original Processor Architecture Design

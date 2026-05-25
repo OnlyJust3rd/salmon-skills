@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Setting start and end dates for project tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

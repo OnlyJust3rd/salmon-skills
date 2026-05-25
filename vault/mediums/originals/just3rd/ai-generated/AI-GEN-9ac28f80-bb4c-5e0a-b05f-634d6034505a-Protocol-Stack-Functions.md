@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[protocol-stack-functions|protocol-stack-functions]]"
+learning-outcomes:
+  - "[[protocol-stack-functions|protocol-stack-functions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Protocol Stack Functions

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/seasonality-identification-in-iot-data|seasonality-identification-in-iot-data]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/seasonality-identification-in-iot-data|seasonality-identification-in-iot-data]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Seasonality in IoT Data

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the processes of loaders and linkers in program preparation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

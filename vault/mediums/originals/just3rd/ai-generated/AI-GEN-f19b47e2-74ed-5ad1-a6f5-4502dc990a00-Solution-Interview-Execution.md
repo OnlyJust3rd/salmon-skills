@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[solution-interview-execution|solution-interview-execution]]"
+learning-outcomes:
+  - "[[solution-interview-execution|solution-interview-execution]]"
 learning-time-in-minutes: 5
 ---
 # Executing Effective Solution Interviews

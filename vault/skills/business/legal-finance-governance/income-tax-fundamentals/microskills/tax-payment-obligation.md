@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding who is legally required to remit income tax.
+## Related Mediums
+
+![[bases/related-mediums.base]]

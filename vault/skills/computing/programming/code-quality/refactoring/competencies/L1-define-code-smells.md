@@ -41,3 +41,6 @@ Define common code smells that indicate areas for refactoring.
 
 - [[skills/computing/programming/code-quality/refactoring/microskills/code-smell-definitions|Code Smell Definitions]]
 - [[skills/computing/programming/code-quality/refactoring/microskills/code-smell-identification|Code Smell Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

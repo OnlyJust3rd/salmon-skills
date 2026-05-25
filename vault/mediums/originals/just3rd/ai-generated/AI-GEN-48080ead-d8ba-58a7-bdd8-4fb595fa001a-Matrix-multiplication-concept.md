@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-multiplication-concept|matrix-multiplication-concept]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-multiplication-concept|matrix-multiplication-concept]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Matrix Multiplication: The "Dot Product Dance"

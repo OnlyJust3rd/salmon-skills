@@ -47,3 +47,6 @@ Implement simple C programs that utilize variables, operators, and control flow 
 - [[skills/computing/programming/programming-languages/c-programming/microskills/operator-usage-in-c|Operator usage in C]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/control-flow-implementation-in-c|Control flow implementation in C]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/basic-task-execution|Basic task execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in combining C elements to create functional program logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

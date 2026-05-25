@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/compare-algorithm-efficiency|compare-algorithm-efficiency]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/compare-algorithm-efficiency|compare-algorithm-efficiency]]"
 learning-time-in-minutes: 3
 ---
 # Comparing Algorithm Efficiency

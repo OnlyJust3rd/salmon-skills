@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of data containers within a schema.
+## Related Mediums
+
+![[bases/related-mediums.base]]

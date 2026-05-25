@@ -47,3 +47,6 @@ Evaluate the effectiveness of a full-wave rectifier in converting AC to DC by co
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/full-wave-rectifier-performance|Full-wave Rectifier Performance]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/ac-to-dc-conversion-effectiveness|AC to DC Conversion Effectiveness]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/output-comparison-to-expectations|Output Comparison to Expectations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

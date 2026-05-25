@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of calculus techniques to solve practical problems involving optimization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

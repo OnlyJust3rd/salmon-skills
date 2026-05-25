@@ -45,3 +45,6 @@ Apply the conversion formulas to transform equations from rectangular to polar f
 
 - [[rectangular-to-polar-equation-transformation|Rectangular to polar equation transformation]]
 - [[polar-to-rectangular-equation-transformation|Polar to rectangular equation transformation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

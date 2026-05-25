@@ -47,3 +47,6 @@ Explain the geometric interpretation of eigenvalues and eigenvectors.
 - [[invariant-direction-interpretation|Invariant direction interpretation]]
 - [[geometric-meaning-of-eigenvalues|Geometric meaning of eigenvalues]]
 - [[geometric-meaning-of-eigenvectors|Geometric meaning of eigenvectors]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

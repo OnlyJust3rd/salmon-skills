@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of breadboard power rail and terminal strip layout.
+## Related Mediums
+
+![[bases/related-mediums.base]]

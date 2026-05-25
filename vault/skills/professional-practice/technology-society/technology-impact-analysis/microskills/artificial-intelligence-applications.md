@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of AI use in different industries.
+## Related Mediums
+
+![[bases/related-mediums.base]]

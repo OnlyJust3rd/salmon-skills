@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-limits-of-integration-determination|polar-limits-of-integration-determination]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-limits-of-integration-determination|polar-limits-of-integration-determination]]"
 learning-time-in-minutes: 5
 ---
 # Determining Polar Limits of Integration

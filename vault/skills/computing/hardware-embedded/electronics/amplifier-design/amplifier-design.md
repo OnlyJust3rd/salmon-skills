@@ -69,3 +69,6 @@ The ability to design multi-stage amplifier circuits, particularly those using o
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-evaluation|Signal Inversion Requirement Evaluation]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-implementation|Signal Inversion Requirement Implementation]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/single-stage-op-amp-gain-determination|Single-Stage Op-Amp Gain Determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

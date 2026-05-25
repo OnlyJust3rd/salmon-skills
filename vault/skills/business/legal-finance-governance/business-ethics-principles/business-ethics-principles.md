@@ -52,3 +52,6 @@ Discuss core ethical principles in business, including honesty, trust, fairness,
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/false-advertising-examples|False Advertising Examples]]
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/plagiarism-examples|Plagiarism Examples]]
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/unethical-behavior-rationale|Unethical Behavior Rationale]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding packaged outputs from build processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

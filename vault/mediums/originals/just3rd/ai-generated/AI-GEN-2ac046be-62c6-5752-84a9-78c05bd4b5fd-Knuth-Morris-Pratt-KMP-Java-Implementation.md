@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[knuth-morris-pratt-kmp-java-implementation|knuth-morris-pratt-kmp-java-implementation]]"
+learning-outcomes:
+  - "[[knuth-morris-pratt-kmp-java-implementation|knuth-morris-pratt-kmp-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Knuth-Morris-Pratt (KMP) Java Implementation

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/spark-transformation|spark-transformation]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/spark-transformation|spark-transformation]]"
 learning-time-in-minutes: 2
 ---
 # Spark Transformations: Shaping Your Data

@@ -53,3 +53,6 @@ Analyze the relative positions of lines and planes in 3D space by examining thei
 - [[line-plane-parallelism-analysis|Line-plane parallelism analysis]]
 - [[line-plane-orthogonality-analysis|Line-plane orthogonality analysis]]
 - [[line-plane-intersection-analysis|Line-plane intersection analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

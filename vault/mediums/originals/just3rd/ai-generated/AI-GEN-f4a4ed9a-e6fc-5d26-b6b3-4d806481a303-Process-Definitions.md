@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-definitions|process-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-definitions|process-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Processes in Operating Systems

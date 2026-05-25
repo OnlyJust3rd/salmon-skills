@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of watermarking techniques using programming tools.
+## Related Mediums
+
+![[bases/related-mediums.base]]

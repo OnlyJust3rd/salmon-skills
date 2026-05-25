@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the distinction and relationship between propositional and predicate logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Explain Express.js routing, middleware ordering, request and response objects, a
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/router-configuration|Router configuration]]
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/middleware-chain|Middleware chain]]
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/request-and-response-objects|Request and response objects]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

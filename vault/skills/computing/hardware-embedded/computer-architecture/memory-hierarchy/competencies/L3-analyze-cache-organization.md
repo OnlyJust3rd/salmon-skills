@@ -45,3 +45,6 @@ Analyze cache organizations (direct-mapped, set-associative, fully associative),
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-replacement-policies|Cache Replacement Policies]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-write-policies|Cache Write Policies]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/interleaved-memory|Interleaved Memory]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

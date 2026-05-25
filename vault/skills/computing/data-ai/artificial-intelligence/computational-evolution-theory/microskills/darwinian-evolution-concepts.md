@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of Darwinian evolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

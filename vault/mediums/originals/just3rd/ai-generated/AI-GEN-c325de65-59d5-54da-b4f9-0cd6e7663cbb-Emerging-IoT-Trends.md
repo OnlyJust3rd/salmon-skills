@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[emerging-iot-trends|emerging-iot-trends]]"
+learning-outcomes:
+  - "[[emerging-iot-trends|emerging-iot-trends]]"
 learning-time-in-minutes: 5
 ---
 # Emerging IoT Trends

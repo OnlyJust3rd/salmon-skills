@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|heterogeneous-computing-architectures]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|heterogeneous-computing-architectures]]"
 learning-time-in-minutes: 3
 ---
 # Heterogeneous Computing Architectures

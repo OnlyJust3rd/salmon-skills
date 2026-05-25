@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/filter-performance-judgement|filter-performance-judgement]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/filter-performance-judgement|filter-performance-judgement]]"
 learning-time-in-minutes: 5
 ---
 # Judging Your RC/RL Filter's Performance

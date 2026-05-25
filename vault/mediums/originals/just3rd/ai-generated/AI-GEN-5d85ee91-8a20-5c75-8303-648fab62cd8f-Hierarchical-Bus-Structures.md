@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/hierarchical-bus-structures|hierarchical-bus-structures]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/hierarchical-bus-structures|hierarchical-bus-structures]]"
 learning-time-in-minutes: 5
 ---
 # Hierarchical Bus Structures: Organizing I/O Integration

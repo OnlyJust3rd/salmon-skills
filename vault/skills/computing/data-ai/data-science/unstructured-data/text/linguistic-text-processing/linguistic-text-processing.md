@@ -34,3 +34,6 @@ Process text using linguistic techniques to extract structured information, incl
 - [[named-entity-recognition-ner-application|Named-Entity Recognition (NER) Application]]
 - [[part-of-speech-tagging-explanation|Part-of-Speech Tagging Explanation]]
 - [[tokenization-application|Tokenization Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

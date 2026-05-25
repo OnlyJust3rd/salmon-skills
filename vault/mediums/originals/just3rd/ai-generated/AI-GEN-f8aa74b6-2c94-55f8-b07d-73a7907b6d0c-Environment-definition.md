@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[environment-definition|environment-definition]]"
+learning-outcomes:
+  - "[[environment-definition|environment-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Reinforcement Learning Environment

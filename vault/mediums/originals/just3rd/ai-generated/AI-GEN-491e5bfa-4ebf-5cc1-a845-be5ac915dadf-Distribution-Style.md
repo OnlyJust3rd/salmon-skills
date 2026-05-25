@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/distribution-style|distribution-style]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/distribution-style|distribution-style]]"
 learning-time-in-minutes: 3
 ---
 # Redshift Distribution Styles: Understanding Data Placement

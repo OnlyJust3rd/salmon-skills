@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the role of interrupts in microcontroller operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

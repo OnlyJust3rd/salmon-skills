@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Structuring BigQuery tables by partition keys.
+## Related Mediums
+
+![[bases/related-mediums.base]]

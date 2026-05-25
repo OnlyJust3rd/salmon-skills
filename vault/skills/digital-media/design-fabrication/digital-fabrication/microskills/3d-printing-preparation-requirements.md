@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the necessary steps and settings for successful printing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

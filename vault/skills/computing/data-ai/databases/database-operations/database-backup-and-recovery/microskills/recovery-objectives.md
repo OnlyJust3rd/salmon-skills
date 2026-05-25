@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding recovery point objective and recovery time objective.
+## Related Mediums
+
+![[bases/related-mediums.base]]

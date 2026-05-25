@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/time-shifting-identification|time-shifting-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/time-shifting-identification|time-shifting-identification]]"
 learning-time-in-minutes: 4
 ---
 # Time Shifting Signals: Recognizing the Shift

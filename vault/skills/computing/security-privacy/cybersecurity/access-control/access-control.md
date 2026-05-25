@@ -46,3 +46,6 @@ Design access control systems using authentication and authorization mechanisms,
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometric-modalities|Biometric Modalities]]
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometric-processes|Biometric Processes]]
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometrics-fundamentals|Biometrics Fundamentals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Boyer-Moore string searching algorithm in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

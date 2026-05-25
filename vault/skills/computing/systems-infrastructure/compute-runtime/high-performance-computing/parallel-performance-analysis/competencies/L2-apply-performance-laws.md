@@ -45,3 +45,6 @@ Apply Amdahl's Law and Gustafson's Law to analyze the performance and scalabilit
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-application|Gustafson's Law Application]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/parallel-system-performance-analysis|Parallel System Performance Analysis]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-prediction|Scalability Prediction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

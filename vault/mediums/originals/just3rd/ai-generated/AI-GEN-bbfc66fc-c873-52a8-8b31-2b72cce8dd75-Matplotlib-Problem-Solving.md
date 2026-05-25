@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/matplotlib-problem-solving|matplotlib-problem-solving]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/matplotlib-problem-solving|matplotlib-problem-solving]]"
 learning-time-in-minutes: 3
 ---
 # Matplotlib Problem Solving: Visualizing Trends to Find Anomalies

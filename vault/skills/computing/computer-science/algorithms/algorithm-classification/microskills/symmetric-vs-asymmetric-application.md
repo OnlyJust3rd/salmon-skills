@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying defining characteristics for algorithm classification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

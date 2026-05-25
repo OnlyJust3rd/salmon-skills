@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[neural-network-component-functionality|neural-network-component-functionality]]"
+learning-outcomes:
+  - "[[neural-network-component-functionality|neural-network-component-functionality]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Neural Network Components

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/adder-operational-principles|adder-operational-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/adder-operational-principles|adder-operational-principles]]"
 learning-time-in-minutes: 3
 ---
 # Adder Operational Principles

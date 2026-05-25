@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/principles-of-actuators|principles-of-actuators]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/principles-of-actuators|principles-of-actuators]]"
 learning-time-in-minutes: 6
 ---
 # Principles of Actuators

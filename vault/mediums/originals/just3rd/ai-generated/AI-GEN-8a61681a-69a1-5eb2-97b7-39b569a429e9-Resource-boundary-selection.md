@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-boundary-selection|resource-boundary-selection]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-boundary-selection|resource-boundary-selection]]"
 learning-time-in-minutes: 4
 ---
 # Selecting Sensible Resources for Your API

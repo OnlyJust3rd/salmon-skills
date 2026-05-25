@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/external-behavior-preservation|external-behavior-preservation]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/external-behavior-preservation|external-behavior-preservation]]"
 learning-time-in-minutes: 5
 ---
 # Preserving External Behavior During Refactoring

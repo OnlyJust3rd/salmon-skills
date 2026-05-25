@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/evolution-of-subsumption-architectures|evolution-of-subsumption-architectures]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/evolution-of-subsumption-architectures|evolution-of-subsumption-architectures]]"
 learning-time-in-minutes: 4
 ---
 # Evolving Subsumption Architectures with Genetic Programming

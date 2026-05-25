@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-needs-elicitation|user-needs-elicitation]]"
+learning-outcomes:
+  - "[[user-needs-elicitation|user-needs-elicitation]]"
 learning-time-in-minutes: 6
 ---
 # Eliciting User Needs: Uncovering What Users Truly Want

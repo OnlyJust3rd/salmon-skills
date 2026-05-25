@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing how a finite automaton transitions through states based on an input string.
+## Related Mediums
+
+![[bases/related-mediums.base]]

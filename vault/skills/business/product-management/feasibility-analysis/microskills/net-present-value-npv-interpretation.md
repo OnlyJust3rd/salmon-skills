@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the present value of future cash flows.
+## Related Mediums
+
+![[bases/related-mediums.base]]

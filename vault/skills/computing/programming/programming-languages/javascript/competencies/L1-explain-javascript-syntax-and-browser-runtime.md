@@ -43,3 +43,6 @@ Explain JavaScript syntax, types, control flow, functions, and how scripts execu
 - [[skills/computing/programming/programming-languages/javascript/microskills/language-primitives|Language primitives]]
 - [[skills/computing/programming/programming-languages/javascript/microskills/functions-and-scope|Functions and scope]]
 - [[skills/computing/programming/programming-languages/javascript/microskills/browser-script-loading|Browser script loading]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

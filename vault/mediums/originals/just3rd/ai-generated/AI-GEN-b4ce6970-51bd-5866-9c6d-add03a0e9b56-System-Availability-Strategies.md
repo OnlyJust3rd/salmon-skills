@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[system-availability-strategies|system-availability-strategies]]"
+learning-outcomes:
+  - "[[system-availability-strategies|system-availability-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Ensuring System Availability: Proactive Strategies

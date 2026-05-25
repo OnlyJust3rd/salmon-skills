@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[package-management-tools|package-management-tools]]"
+learning-outcomes:
+  - "[[package-management-tools|package-management-tools]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Package Management Tools in Linux

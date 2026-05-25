@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/system-design/microskills/design-evaluation-using-scientific-principles|design-evaluation-using-scientific-principles]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/system-design/microskills/design-evaluation-using-scientific-principles|design-evaluation-using-scientific-principles]]"
 learning-time-in-minutes: 5
 ---
 # Design Evaluation Using Scientific Principles

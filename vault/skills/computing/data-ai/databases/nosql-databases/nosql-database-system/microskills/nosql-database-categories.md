@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Classification of various NoSQL database systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

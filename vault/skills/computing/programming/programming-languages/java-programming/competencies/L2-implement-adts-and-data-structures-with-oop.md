@@ -47,3 +47,6 @@ Implement Java classes and objects with appropriate constructors, access modifie
 - [[skills/computing/programming/programming-languages/java-programming/microskills/encapsulation-for-controlled-access|Encapsulation for Controlled Access]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/constructor-implementation-for-adts|Constructor Implementation for ADTs]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/access-modifier-usage|Access Modifier Usage]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

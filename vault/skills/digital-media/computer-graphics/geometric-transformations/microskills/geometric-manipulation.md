@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of transformations to modify geometric shapes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

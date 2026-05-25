@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/processor-design-execution|processor-design-execution]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/processor-design-execution|processor-design-execution]]"
 learning-time-in-minutes: 4
 ---
 # Executing Your Processor Design with an Emulator

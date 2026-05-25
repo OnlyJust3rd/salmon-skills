@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating the frequency spectrum of aperiodic signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

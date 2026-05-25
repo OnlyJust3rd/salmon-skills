@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the significance of core ethical principles in business.
+## Related Mediums
+
+![[bases/related-mediums.base]]

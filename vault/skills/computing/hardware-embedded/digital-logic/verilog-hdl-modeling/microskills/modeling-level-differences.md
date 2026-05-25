@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of differences between Verilog modeling levels.
+## Related Mediums
+
+![[bases/related-mediums.base]]

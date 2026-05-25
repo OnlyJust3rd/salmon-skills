@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/faster-development-cycles|faster-development-cycles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/faster-development-cycles|faster-development-cycles]]"
 learning-time-in-minutes: 4
 ---
 # Accelerating Development with Serverless

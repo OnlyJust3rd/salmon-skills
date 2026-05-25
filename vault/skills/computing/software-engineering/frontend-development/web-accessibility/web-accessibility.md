@@ -30,3 +30,6 @@ Principles for making web content and interfaces perceivable, operable, understa
 - [[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/accessible-presentation|Accessible Presentation]]
 - [[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/keyboard-accessibility|Keyboard Accessibility]]
 - [[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/semantic-accessibility|Semantic Accessibility]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

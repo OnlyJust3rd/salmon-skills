@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting the integral and operations involved in CT convolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing the FT to analyze aperiodic continuous-time signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

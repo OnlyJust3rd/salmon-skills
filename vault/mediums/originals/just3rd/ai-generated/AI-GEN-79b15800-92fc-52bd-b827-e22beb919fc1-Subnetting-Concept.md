@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[subnetting-concept|subnetting-concept]]"
+learning-outcomes:
+  - "[[subnetting-concept|subnetting-concept]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Subnetting: Dividing the IP Address Space

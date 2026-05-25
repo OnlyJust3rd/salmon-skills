@@ -30,3 +30,6 @@ Evaluating AI coding tools and generated code for correctness, maintainability, 
 - [[correctness-risk|Correctness Risk]]
 - [[security-risk|Security Risk]]
 - [[workflow-fit|Workflow Fit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-protection-method-distinction|copyright-protection-method-distinction]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-protection-method-distinction|copyright-protection-method-distinction]]"
 learning-time-in-minutes: 4
 ---
 # Copyright Protection Method Distinction

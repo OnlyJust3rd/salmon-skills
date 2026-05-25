@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/risk-prioritization|risk-prioritization]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/risk-prioritization|risk-prioritization]]"
 learning-time-in-minutes: 6
 ---
 # Prioritizing Code Review Findings: Separating Severity

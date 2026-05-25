@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing financial information for decision-making.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of scenarios best suited for each automation style.
+## Related Mediums
+
+![[bases/related-mediums.base]]

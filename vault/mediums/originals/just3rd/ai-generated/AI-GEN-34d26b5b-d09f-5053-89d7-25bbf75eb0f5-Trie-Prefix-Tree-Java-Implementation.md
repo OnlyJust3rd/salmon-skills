@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[trie-prefix-tree-java-implementation|trie-prefix-tree-java-implementation]]"
+learning-outcomes:
+  - "[[trie-prefix-tree-java-implementation|trie-prefix-tree-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Trie (Prefix Tree) Java Implementation

@@ -34,3 +34,6 @@ Describing wireless Local Area Networks (WLANs) and Personal Area Networks (PANs
 - [[wireless-network-components|Wireless Network Components]]
 - [[wlan-vs-pan-differences|WLAN vs. PAN Differences]]
 - [[wlan-vs-pan-similarities|WLAN vs. PAN Similarities]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

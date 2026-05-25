@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to formulate definite integrals for areas bounded by polar curves.
+## Related Mediums
+
+![[bases/related-mediums.base]]

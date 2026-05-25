@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/asymmetric-algorithm-structural-components|asymmetric-algorithm-structural-components]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/asymmetric-algorithm-structural-components|asymmetric-algorithm-structural-components]]"
 learning-time-in-minutes: 3
 ---
 # Asymmetric Algorithm Structural Components

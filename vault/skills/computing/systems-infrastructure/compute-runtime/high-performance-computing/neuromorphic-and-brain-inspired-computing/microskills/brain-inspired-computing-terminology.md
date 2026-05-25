@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Stating fundamental definitions in brain-inspired computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

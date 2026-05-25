@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[genetic-algorithm-implementation|genetic-algorithm-implementation]]"
+learning-outcomes:
+  - "[[genetic-algorithm-implementation|genetic-algorithm-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Genetic Algorithm Implementation in Java

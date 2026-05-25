@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-visualization|grafana-data-visualization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-visualization|grafana-data-visualization]]"
 learning-time-in-minutes: 4
 ---
 # Grafana: Visualizing Your System's Story

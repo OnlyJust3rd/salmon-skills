@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying identity and access policy concepts to AWS resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

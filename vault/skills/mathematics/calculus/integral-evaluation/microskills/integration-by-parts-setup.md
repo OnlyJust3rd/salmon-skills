@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choose u and dv appropriately and set up the integration by parts formula.
+## Related Mediums
+
+![[bases/related-mediums.base]]

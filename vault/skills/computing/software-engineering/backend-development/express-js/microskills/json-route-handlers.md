@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implement handlers that parse and emit JSON bodies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

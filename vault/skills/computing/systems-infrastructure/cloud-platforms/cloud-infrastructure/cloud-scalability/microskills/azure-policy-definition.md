@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of creating and assigning policies in Azure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

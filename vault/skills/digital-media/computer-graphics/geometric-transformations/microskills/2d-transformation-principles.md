@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of mathematical principles for 2D transformations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

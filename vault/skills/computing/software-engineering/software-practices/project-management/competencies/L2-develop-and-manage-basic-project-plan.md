@@ -49,3 +49,6 @@ Develop and manage a basic project plan, including defining tasks, assigning rol
 - [[skills/computing/software-engineering/software-practices/project-management/microskills/timeline-establishment|Timeline Establishment]]
 - [[skills/computing/software-engineering/software-practices/project-management/microskills/iterative-progress-tracking|Iterative Progress Tracking]]
 - [[skills/computing/software-engineering/software-practices/project-management/microskills/basic-project-plan-creation|Basic Project Plan Creation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

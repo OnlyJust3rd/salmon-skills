@@ -46,3 +46,6 @@ Ability to express computational steps and logic using visual aids and structure
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/suitability-analysis|Suitability analysis]]
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/textual-representation-comparison|Textual representation comparison]]
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/visual-representation-comparison|Visual representation comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

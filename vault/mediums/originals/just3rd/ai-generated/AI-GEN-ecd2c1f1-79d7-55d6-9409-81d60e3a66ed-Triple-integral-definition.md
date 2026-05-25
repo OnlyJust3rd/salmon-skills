@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-definition|triple-integral-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-definition|triple-integral-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Triple Integrals: The Definition

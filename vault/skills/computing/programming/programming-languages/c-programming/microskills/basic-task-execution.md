@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capacity to write C programs that perform simple computational tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

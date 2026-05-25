@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of MPI_Unpack for reconstructing packed data upon reception.
+## Related Mediums
+
+![[bases/related-mediums.base]]

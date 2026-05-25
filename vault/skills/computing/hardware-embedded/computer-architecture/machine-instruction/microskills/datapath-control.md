@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of control logic within a provided datapath.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-vs-asymmetric-application|symmetric-vs-asymmetric-application]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-vs-asymmetric-application|symmetric-vs-asymmetric-application]]"
 learning-time-in-minutes: 3
 ---
 # Symmetric vs. Asymmetric Application

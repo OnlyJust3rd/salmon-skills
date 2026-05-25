@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/physical-constraint-impact|physical-constraint-impact]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/physical-constraint-impact|physical-constraint-impact]]"
 learning-time-in-minutes: 5
 ---
 # Physical Constraints: The Real World's Influence on Your Circuits

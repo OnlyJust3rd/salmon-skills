@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/html/microskills/accessible-structure|accessible-structure]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/html/microskills/accessible-structure|accessible-structure]]"
 learning-time-in-minutes: 5
 ---
 # Accessible Structure with HTML Landmarks and Labels

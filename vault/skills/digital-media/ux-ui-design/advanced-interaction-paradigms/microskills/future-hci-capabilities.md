@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of upcoming advancements in HCI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

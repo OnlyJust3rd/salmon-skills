@@ -45,3 +45,6 @@ Apply game UI flow and HUD concepts.
 - [[skills/digital-media/game-development/game-ui/microskills/hud-layout|HUD Layout]]
 - [[skills/digital-media/game-development/game-ui/microskills/controller-navigation|Controller Navigation]]
 - [[skills/digital-media/game-development/game-ui/microskills/ui-feedback-event|UI Feedback Event]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

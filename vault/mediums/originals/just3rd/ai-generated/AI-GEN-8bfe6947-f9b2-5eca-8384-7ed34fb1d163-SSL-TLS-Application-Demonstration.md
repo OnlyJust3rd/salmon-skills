@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-application-demonstration|ssl-tls-application-demonstration]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-application-demonstration|ssl-tls-application-demonstration]]"
 learning-time-in-minutes: 4
 ---
 # SSL/TLS Application Demonstration

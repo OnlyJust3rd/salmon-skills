@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting the arrangement of eigenvalues and ones on the superdiagonal.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/command-based-verification|command-based-verification]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/command-based-verification|command-based-verification]]"
 learning-time-in-minutes: 3
 ---
 # Command-Based Verification in Claude Code

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sensor-application-in-iot-devices|sensor-application-in-iot-devices]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sensor-application-in-iot-devices|sensor-application-in-iot-devices]]"
 learning-time-in-minutes: 5
 ---
 # Applying Sensors in IoT Devices

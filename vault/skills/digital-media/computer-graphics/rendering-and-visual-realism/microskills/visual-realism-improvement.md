@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of fundamental methods to enhance scene realism.
+## Related Mediums
+
+![[bases/related-mediums.base]]

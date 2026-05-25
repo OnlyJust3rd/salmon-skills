@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/unique-solution-application|unique-solution-application]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/unique-solution-application|unique-solution-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Cramer's Rule to Systems with a Unique Solution

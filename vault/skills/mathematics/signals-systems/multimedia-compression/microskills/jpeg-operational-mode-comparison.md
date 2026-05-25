@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation and articulation of similarities and differences between JPEG modes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

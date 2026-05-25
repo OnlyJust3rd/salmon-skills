@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/character-psychology-foundations|character-psychology-foundations]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/character-psychology-foundations|character-psychology-foundations]]"
 learning-time-in-minutes: 5
 ---
 # Character Psychology Foundations

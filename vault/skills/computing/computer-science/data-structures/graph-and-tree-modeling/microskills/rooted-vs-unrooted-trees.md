@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing trees based on the presence of a designated root node.
+## Related Mediums
+
+![[bases/related-mediums.base]]

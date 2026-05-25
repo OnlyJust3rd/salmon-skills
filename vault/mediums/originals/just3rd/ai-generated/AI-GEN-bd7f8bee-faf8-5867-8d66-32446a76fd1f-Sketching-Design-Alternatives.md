@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[sketching-design-alternatives|sketching-design-alternatives]]"
+learning-outcomes:
+  - "[[sketching-design-alternatives|sketching-design-alternatives]]"
 learning-time-in-minutes: 4
 ---
 # Sketching Design Alternatives: Bringing UX Principles to Life

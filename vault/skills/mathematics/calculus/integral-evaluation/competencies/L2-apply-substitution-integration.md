@@ -45,3 +45,6 @@ Apply integration by substitution to evaluate indefinite and definite integrals.
 
 - [[integration-by-substitution-indefinite-integrals|Integration by substitution (indefinite integrals)]]
 - [[integration-by-substitution-definite-integrals|Integration by substitution (definite integrals)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

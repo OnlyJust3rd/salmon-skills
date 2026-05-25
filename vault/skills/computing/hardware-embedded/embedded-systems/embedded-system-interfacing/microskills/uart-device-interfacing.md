@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting and communicating with devices using UART.
+## Related Mediums
+
+![[bases/related-mediums.base]]

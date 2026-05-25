@@ -30,3 +30,6 @@ Understanding how security-relevant events, logs, alerts, and signals are monito
 - [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/alert-signals|Alert Signals]]
 - [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/event-correlation|Event Correlation]]
 - [[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/security-event-logs|Security Event Logs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

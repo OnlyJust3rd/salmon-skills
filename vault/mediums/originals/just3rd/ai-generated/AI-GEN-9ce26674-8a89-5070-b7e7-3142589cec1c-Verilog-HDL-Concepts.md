@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-hdl-concepts|verilog-hdl-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-hdl-concepts|verilog-hdl-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Verilog HDL: The Building Blocks of Digital Design

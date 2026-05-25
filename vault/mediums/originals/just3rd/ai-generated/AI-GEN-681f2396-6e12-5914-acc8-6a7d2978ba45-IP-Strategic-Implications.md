@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/ip-strategic-implications|ip-strategic-implications]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/ip-strategic-implications|ip-strategic-implications]]"
 learning-time-in-minutes: 6
 ---
 # IP Strategic Implications: How Intellectual Property Shapes Business Strategy

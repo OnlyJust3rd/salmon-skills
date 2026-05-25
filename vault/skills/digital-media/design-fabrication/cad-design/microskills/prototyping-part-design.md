@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Conceptualizing and modeling simple engineering components for early versions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/instruction|instruction]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/instruction|instruction]]"
 learning-time-in-minutes: 3
 ---
 # Specifying the Model Task Clearly in Prompt Engineering

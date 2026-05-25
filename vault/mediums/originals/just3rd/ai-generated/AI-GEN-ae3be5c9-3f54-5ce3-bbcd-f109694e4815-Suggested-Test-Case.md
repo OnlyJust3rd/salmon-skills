@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/suggested-test-case|suggested-test-case]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/suggested-test-case|suggested-test-case]]"
 learning-time-in-minutes: 5
 ---
 # Translating Review Concerns into Suggested Test Cases

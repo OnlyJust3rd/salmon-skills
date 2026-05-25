@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/contract-general-content|contract-general-content]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/contract-general-content|contract-general-content]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the General Content of Employment Contracts

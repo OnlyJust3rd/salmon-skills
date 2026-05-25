@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of how data models align with specific analytical goals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

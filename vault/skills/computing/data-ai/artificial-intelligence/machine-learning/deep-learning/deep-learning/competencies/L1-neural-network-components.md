@@ -44,3 +44,6 @@ Identify the key components and layers of neural networks, including those used 
 - [[activation-function-identification|Activation function identification]]
 - [[layer-types|Layer types]]
 - [[convolutional-kernel-understanding|Convolutional kernel understanding]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

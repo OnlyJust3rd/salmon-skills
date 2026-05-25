@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting why specific elements are important for effective technical delivery.
+## Related Mediums
+
+![[bases/related-mediums.base]]

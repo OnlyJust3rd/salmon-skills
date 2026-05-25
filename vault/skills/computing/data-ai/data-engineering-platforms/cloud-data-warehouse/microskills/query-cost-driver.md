@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding data scanned or compute time as cost factors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explain AWS core cloud services.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-compute|AWS Compute]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-storage|AWS Storage]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-managed-services|AWS Managed Services]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

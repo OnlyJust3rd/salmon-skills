@@ -45,3 +45,6 @@ Apply game audio trigger and mixing concepts.
 - [[skills/digital-media/game-development/game-audio/microskills/audio-trigger|Audio Trigger]]
 - [[skills/digital-media/game-development/game-audio/microskills/looping-music|Looping Music]]
 - [[skills/digital-media/game-development/game-audio/microskills/mixer-group|Mixer Group]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

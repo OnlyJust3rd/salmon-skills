@@ -45,3 +45,6 @@ Explain shader pipeline and material concepts.
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/vertex-shader|Vertex Shader]]
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/fragment-shader|Fragment Shader]]
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/material-parameter|Material Parameter]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/steganography-vs-digital-watermarking-distinction|steganography-vs-digital-watermarking-distinction]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/steganography-vs-digital-watermarking-distinction|steganography-vs-digital-watermarking-distinction]]"
 learning-time-in-minutes: 3
 ---
 # Steganography vs. Digital Watermarking: Hiding in Plain Sight

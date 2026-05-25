@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interdomain-routing|interdomain-routing]]"
+learning-outcomes:
+  - "[[interdomain-routing|interdomain-routing]]"
 learning-time-in-minutes: 4
 ---
 # Interdomain Routing: Navigating the Internet's Highways

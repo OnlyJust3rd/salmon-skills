@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Validation of the chosen approach against defined project parameters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

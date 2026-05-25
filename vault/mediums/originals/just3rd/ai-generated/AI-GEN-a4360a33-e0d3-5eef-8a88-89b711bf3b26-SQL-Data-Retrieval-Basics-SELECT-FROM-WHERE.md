@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-retrieval-basics-select-from-where|sql-data-retrieval-basics-select-from-where]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-retrieval-basics-select-from-where|sql-data-retrieval-basics-select-from-where]]"
 learning-time-in-minutes: 3
 ---
 # SQL Data Retrieval Basics: SELECT, FROM, WHERE

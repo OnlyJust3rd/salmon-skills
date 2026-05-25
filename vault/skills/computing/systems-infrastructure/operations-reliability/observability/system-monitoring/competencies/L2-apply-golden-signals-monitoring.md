@@ -45,3 +45,6 @@ Apply techniques to monitor system Latency, Traffic, Errors, and Saturation usin
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-monitoring-techniques|Traffic Monitoring Techniques]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/error-rate-monitoring|Error Rate Monitoring]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/saturation-monitoring-techniques|Saturation Monitoring Techniques]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

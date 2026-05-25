@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/passive-rc-filter-design|passive-rc-filter-design]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/passive-rc-filter-design|passive-rc-filter-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing Passive RC Filters

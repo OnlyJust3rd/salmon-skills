@@ -45,3 +45,6 @@ Illustrate the operational flow of a given intradomain routing protocol.
 - [[packet-path-determination|Packet Path Determination]]
 - [[simulated-network-scenarios|Simulated Network Scenarios]]
 - [[routing-algorithm-execution|Routing Algorithm Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

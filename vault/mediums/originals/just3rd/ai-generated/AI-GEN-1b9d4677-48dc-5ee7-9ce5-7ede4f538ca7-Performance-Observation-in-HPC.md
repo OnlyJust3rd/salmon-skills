@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|performance-observation-in-hpc]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|performance-observation-in-hpc]]"
 learning-time-in-minutes: 5
 ---
 # Observing HPC Cluster Performance

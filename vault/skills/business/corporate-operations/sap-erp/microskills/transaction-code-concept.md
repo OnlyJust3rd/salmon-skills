@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding task-oriented access to SAP functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

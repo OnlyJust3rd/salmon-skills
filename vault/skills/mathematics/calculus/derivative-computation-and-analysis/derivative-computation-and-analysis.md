@@ -64,3 +64,6 @@ Compute derivatives of algebraic and transcendental functions using standard rul
 - [[linearization-tangent-line-approximation|Linearization (tangent line approximation)]]
 - [[partial-derivative-rules|Partial derivative rules]]
 - [[standard-derivative-rules|Standard derivative rules]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

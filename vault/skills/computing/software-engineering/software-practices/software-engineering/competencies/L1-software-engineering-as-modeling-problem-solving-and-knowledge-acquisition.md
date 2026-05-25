@@ -43,3 +43,6 @@ Explain software engineering as a modeling, problem-solving, and knowledge acqui
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/modeling-activity|Modeling Activity]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/problem-solving-endeavor|Problem-Solving Endeavor]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/knowledge-acquisition-process|Knowledge Acquisition Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[longest-common-subsequence-lcs-dp-java-implementation|longest-common-subsequence-lcs-dp-java-implementation]]"
+learning-outcomes:
+  - "[[longest-common-subsequence-lcs-dp-java-implementation|longest-common-subsequence-lcs-dp-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Longest Common Subsequence (LCS) DP Java Implementation

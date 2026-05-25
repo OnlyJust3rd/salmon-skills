@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying the Builder pattern to construct complex objects step by step.
+## Related Mediums
+
+![[bases/related-mediums.base]]

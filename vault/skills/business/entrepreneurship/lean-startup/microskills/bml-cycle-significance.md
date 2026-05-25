@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Importance of the iterative cycle for validation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

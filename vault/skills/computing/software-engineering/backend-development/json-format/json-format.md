@@ -38,3 +38,6 @@ Understanding JavaScript Object Notation (JSON) syntax, data types, and how JSON
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-responses|JSON in HTTP responses]]
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/json-object-and-array-structure|JSON object and array structure]]
 - [[skills/computing/software-engineering/backend-development/json-format/microskills/json-primitive-literals|JSON primitive literals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

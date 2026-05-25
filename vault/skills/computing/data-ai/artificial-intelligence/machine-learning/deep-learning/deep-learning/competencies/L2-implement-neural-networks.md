@@ -45,3 +45,6 @@ Implement a simple feedforward neural network and a basic convolutional neural n
 - [[feedforward-neural-network-construction|Feedforward neural network construction]]
 - [[convolutional-neural-network-cnn-construction|Convolutional Neural Network (CNN) construction]]
 - [[model-compilation-and-training|Model compilation and training]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

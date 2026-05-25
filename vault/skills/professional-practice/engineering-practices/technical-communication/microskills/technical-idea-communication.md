@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying communication skills to present technical concepts clearly.
+## Related Mediums
+
+![[bases/related-mediums.base]]

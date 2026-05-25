@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Capturing integrity rules and business constraints in a data model.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and definition of the individual parts of the Fundamental Theorem of Calculus.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the underlying mechanism of the Bag-of-Words model.
+## Related Mediums
+
+![[bases/related-mediums.base]]

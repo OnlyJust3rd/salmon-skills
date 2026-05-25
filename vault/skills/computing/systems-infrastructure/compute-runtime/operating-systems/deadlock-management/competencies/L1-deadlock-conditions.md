@@ -45,3 +45,6 @@ Define the four necessary conditions for deadlock: mutual exclusion, hold and wa
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/hold-and-wait-condition|Hold and Wait Condition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/no-preemption-condition|No Preemption Condition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/circular-wait-condition|Circular Wait Condition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

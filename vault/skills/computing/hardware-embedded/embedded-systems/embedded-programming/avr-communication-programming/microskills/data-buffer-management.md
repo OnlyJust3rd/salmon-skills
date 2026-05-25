@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how data is placed into and retrieved from transmit/receive buffers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

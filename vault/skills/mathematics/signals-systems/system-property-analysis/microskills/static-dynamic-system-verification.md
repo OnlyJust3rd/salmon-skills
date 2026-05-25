@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of mathematical tests to determine static or dynamic system behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

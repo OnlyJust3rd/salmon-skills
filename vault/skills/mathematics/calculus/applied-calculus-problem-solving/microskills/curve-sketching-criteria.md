@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enumeration of the criteria used for sketching curves.
+## Related Mediums
+
+![[bases/related-mediums.base]]

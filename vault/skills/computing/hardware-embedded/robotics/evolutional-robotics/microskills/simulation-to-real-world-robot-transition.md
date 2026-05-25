@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using learned principles to ensure successful real-world operation of deployed intelligence.
+## Related Mediums
+
+![[bases/related-mediums.base]]

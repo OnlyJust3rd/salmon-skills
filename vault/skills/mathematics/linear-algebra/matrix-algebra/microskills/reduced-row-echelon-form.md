@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the characteristics of a matrix in reduced row echelon form.
+## Related Mediums
+
+![[bases/related-mediums.base]]

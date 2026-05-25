@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Designing and testing filters to meet specific cutoff frequencies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

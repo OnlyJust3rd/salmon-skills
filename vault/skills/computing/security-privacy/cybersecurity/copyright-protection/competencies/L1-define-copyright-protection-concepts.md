@@ -62,3 +62,6 @@ Define and differentiate copyright protection methods, information hiding techni
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-protection-method-distinction|Copyright Protection Method Distinction]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/information-hiding-technique-classification|Information Hiding Technique Classification]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-type-categorization|Watermarking Type Categorization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

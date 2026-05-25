@@ -47,3 +47,6 @@ Define IP addressing, forwarding, subnetting, ICMP, and identify their key compo
 - [[subnetting-principles|Subnetting Principles]]
 - [[icmp-functions|ICMP Functions]]
 - [[routing-decision-components|Routing Decision Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the meaning of pole positions on the complex s-plane.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -49,3 +49,6 @@ Demonstrate microcomputer and microprocessor interfacing with physical devices.
 - [[skills/computing/hardware-embedded/embedded-systems/microcontroller-interfacing/microskills/microprocessor-interfacing-with-physical-devices|Microprocessor Interfacing with Physical Devices]]
 - [[skills/computing/hardware-embedded/embedded-systems/microcontroller-interfacing/microskills/microcomputer-interfacing-with-physical-devices|Microcomputer Interfacing with Physical Devices]]
 - [[skills/computing/hardware-embedded/embedded-systems/microcontroller-interfacing/microskills/applied-interfacing-knowledge|Applied Interfacing Knowledge]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

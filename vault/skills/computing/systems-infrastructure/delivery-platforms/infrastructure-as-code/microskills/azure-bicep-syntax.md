@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in writing Bicep files.
+## Related Mediums
+
+![[bases/related-mediums.base]]

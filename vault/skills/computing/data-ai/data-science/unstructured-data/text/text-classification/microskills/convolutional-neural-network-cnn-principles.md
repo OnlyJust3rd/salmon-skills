@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the fundamental mechanisms of CNNs in text classification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recalling basic terminology for components, interfaces, and connections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

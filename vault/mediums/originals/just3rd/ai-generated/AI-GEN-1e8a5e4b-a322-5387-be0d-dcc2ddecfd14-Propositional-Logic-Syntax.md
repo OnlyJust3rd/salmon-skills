@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/propositional-logic-syntax|propositional-logic-syntax]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/propositional-logic-syntax|propositional-logic-syntax]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Propositional Logic Syntax

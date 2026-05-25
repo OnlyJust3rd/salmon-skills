@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/verification-loop|verification-loop]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/verification-loop|verification-loop]]"
 learning-time-in-minutes: 3
 ---
 # The Verification Loop: Ensuring Agentic Code Quality

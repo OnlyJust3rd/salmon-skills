@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding checkpoints where human confirmation is required.
+## Related Mediums
+
+![[bases/related-mediums.base]]

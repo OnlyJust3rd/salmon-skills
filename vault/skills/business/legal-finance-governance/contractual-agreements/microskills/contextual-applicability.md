@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining the specific situations for which each agreement is suited.
+## Related Mediums
+
+![[bases/related-mediums.base]]

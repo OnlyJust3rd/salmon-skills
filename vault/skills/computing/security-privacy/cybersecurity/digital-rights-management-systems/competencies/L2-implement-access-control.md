@@ -43,3 +43,6 @@ Implement a simple access control mechanism within a DRM context.
 
 - [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/access-control-for-drm|Access Control for DRM]]
 - [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/user-access-management|User Access Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describe the purpose of Java classes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

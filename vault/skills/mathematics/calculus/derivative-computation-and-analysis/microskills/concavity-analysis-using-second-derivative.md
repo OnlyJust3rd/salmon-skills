@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the second derivative to determine the concavity of a function's graph.
+## Related Mediums
+
+![[bases/related-mediums.base]]

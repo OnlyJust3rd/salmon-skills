@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Compute an integral estimate using the trapezoidal rule on a partition.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Develop an engineering action plan linked to the project plan.
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/task-definition-for-action-plan|Task definition for action plan]]
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/responsibility-assignment-in-actions|Responsibility assignment in actions]]
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/milestone-scheduling|Milestone scheduling]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/pgp-effectiveness-evaluation|pgp-effectiveness-evaluation]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/pgp-effectiveness-evaluation|pgp-effectiveness-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating PGP Effectiveness

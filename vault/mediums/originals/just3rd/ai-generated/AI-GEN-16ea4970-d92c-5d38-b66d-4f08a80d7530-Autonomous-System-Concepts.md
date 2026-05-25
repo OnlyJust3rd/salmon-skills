@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[autonomous-system-concepts|autonomous-system-concepts]]"
+learning-outcomes:
+  - "[[autonomous-system-concepts|autonomous-system-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Autonomous Systems in Routing

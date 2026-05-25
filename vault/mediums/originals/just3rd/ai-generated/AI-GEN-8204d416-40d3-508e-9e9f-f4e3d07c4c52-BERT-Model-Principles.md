@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bert-model-principles|bert-model-principles]]"
+learning-outcomes:
+  - "[[bert-model-principles|bert-model-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding BERT Model Principles

@@ -36,3 +36,6 @@ Ability to utilize sets, functions, sequences, sums, matrices, and relations as 
 - [[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/sequence-modeling|Sequence Modeling]]
 - [[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/set-theory-modeling|Set Theory Modeling]]
 - [[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/summation-notation|Summation Notation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

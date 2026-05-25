@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of request volume as a performance metric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

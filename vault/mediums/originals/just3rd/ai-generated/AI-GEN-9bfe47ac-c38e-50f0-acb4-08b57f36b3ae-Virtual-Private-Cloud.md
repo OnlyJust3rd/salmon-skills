@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[virtual-private-cloud|virtual-private-cloud]]"
+learning-outcomes:
+  - "[[virtual-private-cloud|virtual-private-cloud]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Virtual Private Cloud (VPC) Purpose

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/non-uniform-memory-access-numa-principles|non-uniform-memory-access-numa-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/non-uniform-memory-access-numa-principles|non-uniform-memory-access-numa-principles]]"
 learning-time-in-minutes: 5
 ---
 # Non-Uniform Memory Access (NUMA) Principles

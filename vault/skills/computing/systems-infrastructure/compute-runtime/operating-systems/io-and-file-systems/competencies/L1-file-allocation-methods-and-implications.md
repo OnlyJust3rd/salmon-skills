@@ -49,3 +49,6 @@ Describe and differentiate various file allocation methods, including contiguous
 - [[indexed-file-allocation|Indexed File Allocation]]
 - [[data-access-efficiency|Data Access Efficiency]]
 - [[storage-efficiency|Storage Efficiency]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

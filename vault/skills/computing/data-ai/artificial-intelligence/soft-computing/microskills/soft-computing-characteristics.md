@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the defining features of soft computing methodologies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

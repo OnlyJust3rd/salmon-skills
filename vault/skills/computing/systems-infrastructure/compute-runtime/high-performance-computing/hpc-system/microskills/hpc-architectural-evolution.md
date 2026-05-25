@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of the historical progression and changes in HPC system designs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

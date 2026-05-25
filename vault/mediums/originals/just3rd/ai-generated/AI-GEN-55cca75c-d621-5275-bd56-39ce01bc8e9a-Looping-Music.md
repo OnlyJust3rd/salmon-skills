@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-audio/microskills/looping-music|looping-music]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-audio/microskills/looping-music|looping-music]]"
 learning-time-in-minutes: 4
 ---
 # Looping Music: Seamless Background Audio in Games

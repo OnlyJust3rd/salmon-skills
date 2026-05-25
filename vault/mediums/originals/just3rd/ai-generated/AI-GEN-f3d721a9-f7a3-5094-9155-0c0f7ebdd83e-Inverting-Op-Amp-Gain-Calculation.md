@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/inverting-op-amp-gain-calculation|inverting-op-amp-gain-calculation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/inverting-op-amp-gain-calculation|inverting-op-amp-gain-calculation]]"
 learning-time-in-minutes: 3
 ---
 # Inverting Op-Amp Gain Calculation

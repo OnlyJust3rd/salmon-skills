@@ -43,3 +43,6 @@ Recall the types, key parameters (resolution, sampling rate), and basic componen
 - [[a-d-converter-types|A/D Converter Types]]
 - [[d-a-converter-types|D/A Converter Types]]
 - [[converter-key-parameters|Converter Key Parameters]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

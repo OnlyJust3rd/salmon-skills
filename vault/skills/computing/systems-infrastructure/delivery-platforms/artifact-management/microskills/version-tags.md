@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding labels used to identify artifact versions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

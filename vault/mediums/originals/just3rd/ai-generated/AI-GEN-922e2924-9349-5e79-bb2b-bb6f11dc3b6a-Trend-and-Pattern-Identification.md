@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[trend-and-pattern-identification|trend-and-pattern-identification]]"
+learning-outcomes:
+  - "[[trend-and-pattern-identification|trend-and-pattern-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Trends and Patterns in Usability Data

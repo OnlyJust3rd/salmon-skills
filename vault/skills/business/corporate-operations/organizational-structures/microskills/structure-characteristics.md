@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of defining features for each organizational structure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

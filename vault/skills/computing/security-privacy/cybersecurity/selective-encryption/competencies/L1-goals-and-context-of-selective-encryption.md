@@ -44,3 +44,6 @@ Define the goals and context of selective encryption for resource-constrained mu
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/resource-constrained-communications|Resource-Constrained Communications]]
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/multimedia-communication-context|Multimedia Communication Context]]
 - [[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/resource-constraints|Resource Constraints]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

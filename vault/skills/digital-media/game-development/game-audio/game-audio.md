@@ -38,3 +38,6 @@ Understanding interactive sound design, audio assets, mixers, spatial audio, fee
 - [[skills/digital-media/game-development/game-audio/microskills/looping-music|Looping Music]]
 - [[skills/digital-media/game-development/game-audio/microskills/mixer-group|Mixer Group]]
 - [[skills/digital-media/game-development/game-audio/microskills/spatial-audio|Spatial Audio]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

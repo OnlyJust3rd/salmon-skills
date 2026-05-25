@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/fit-gap-analysis|fit-gap-analysis]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/fit-gap-analysis|fit-gap-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Fit-Gap Analysis: Bridging Your Business Needs with ERP Capabilities

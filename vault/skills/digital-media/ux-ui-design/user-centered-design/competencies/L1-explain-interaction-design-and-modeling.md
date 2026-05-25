@@ -47,3 +47,6 @@ Explain the interaction design process and the purpose of key modeling technique
 - [[modeling-techniques-purpose|Modeling Techniques Purpose]]
 - [[persona-and-scenario-contribution|Persona and Scenario Contribution]]
 - [[use-case-and-storyboard-function|Use Case and Storyboard Function]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

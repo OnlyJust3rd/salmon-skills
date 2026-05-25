@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/divergence-identification|divergence-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/divergence-identification|divergence-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Divergence in Series

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microprogrammed-control-concept|microprogrammed-control-concept]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microprogrammed-control-concept|microprogrammed-control-concept]]"
 learning-time-in-minutes: 4
 ---
 # Microprogrammed Control: The Brain's Instruction Manual

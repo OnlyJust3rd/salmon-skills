@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[regular-expression-for-text-cleaning|regular-expression-for-text-cleaning]]"
+learning-outcomes:
+  - "[[regular-expression-for-text-cleaning|regular-expression-for-text-cleaning]]"
 learning-time-in-minutes: 5
 ---
 # Regular Expressions for Text Cleaning

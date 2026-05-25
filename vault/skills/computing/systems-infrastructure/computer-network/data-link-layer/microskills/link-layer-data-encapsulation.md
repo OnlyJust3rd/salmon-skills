@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The process of adding frame headers and trailers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Analyze code to identify areas that would benefit from refactoring and determine
 - [[skills/computing/programming/code-quality/refactoring/microskills/code-area-identification-for-refactoring|Code Area Identification for Refactoring]]
 - [[skills/computing/programming/code-quality/refactoring/microskills/appropriate-refactoring-technique-selection|Appropriate Refactoring Technique Selection]]
 - [[skills/computing/programming/code-quality/refactoring/microskills/code-quality-assessment|Code Quality Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

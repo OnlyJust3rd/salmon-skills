@@ -45,3 +45,6 @@ Analyze the performance characteristics of CPU scheduling algorithms (FIFO, SJF,
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|Scheduling Algorithm Fairness Analysis]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|Workload Scenario Suitability]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|Comparative Scheduling Performance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

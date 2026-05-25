@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of SRAM cell structure using cross-coupled inverters and its read/write operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

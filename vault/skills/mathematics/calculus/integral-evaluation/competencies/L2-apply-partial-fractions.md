@@ -43,3 +43,6 @@ Apply partial fraction decomposition to integrate rational functions.
 
 - [[partial-fraction-decomposition|Partial fraction decomposition]]
 - [[integrate-decomposed-rational-terms|Integrate decomposed rational terms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

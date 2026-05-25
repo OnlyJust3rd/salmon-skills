@@ -43,3 +43,6 @@ Outline the properties of the unit impulse and unit step functions.
 - [[unit-impulse-function-properties|Unit Impulse Function Properties]]
 - [[unit-step-function-properties|Unit Step Function Properties]]
 - [[unit-function-interpretation|Unit Function Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing the constituent sine and cosine terms in signal decomposition.
+## Related Mediums
+
+![[bases/related-mediums.base]]

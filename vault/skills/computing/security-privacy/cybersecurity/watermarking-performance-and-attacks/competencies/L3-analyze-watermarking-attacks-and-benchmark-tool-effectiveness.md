@@ -55,3 +55,6 @@ Analyze potential attacks on digital watermarking systems, their impact on perfo
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-capacity|Attack Impact on Capacity]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/benchmark-tool-effectiveness-analysis|Benchmark Tool Effectiveness Analysis]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/robustness-assessment|Robustness Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

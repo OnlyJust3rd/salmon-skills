@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[persona-and-scenario-contribution|persona-and-scenario-contribution]]"
+learning-outcomes:
+  - "[[persona-and-scenario-contribution|persona-and-scenario-contribution]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Personas and Scenarios for Requirements

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/double-integral-definition|double-integral-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/double-integral-definition|double-integral-definition]]"
 learning-time-in-minutes: 3
 ---
 # Recalling the Definition of Double Integrals

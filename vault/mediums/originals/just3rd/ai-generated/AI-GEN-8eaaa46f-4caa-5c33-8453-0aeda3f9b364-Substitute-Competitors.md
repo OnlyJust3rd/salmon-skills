@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/substitute-competitors|substitute-competitors]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/substitute-competitors|substitute-competitors]]"
 learning-time-in-minutes: 3
 ---
 # Substitute Competitors: Finding Alternatives

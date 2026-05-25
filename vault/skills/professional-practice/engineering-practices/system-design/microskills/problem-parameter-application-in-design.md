@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Integration of defined problem characteristics into the design process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

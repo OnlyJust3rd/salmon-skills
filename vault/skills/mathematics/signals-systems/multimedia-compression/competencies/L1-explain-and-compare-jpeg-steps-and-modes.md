@@ -57,3 +57,6 @@ Explain the purpose and compare the characteristics of each major step and opera
 - [[jpeg-progressive-mode-operation|JPEG Progressive Mode Operation]]
 - [[jpeg-hierarchical-mode-operation|JPEG Hierarchical Mode Operation]]
 - [[jpeg-operational-mode-comparison|JPEG Operational Mode Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

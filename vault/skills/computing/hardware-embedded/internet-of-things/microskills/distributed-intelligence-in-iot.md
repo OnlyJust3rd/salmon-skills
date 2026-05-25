@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of how distributed intelligence enhances IoT system capabilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

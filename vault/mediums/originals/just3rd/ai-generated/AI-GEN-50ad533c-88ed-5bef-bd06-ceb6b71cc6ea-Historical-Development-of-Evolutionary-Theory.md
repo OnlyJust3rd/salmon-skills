@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/historical-development-of-evolutionary-theory|historical-development-of-evolutionary-theory]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/historical-development-of-evolutionary-theory|historical-development-of-evolutionary-theory]]"
 learning-time-in-minutes: 4
 ---
 # The Journey of Evolutionary Ideas

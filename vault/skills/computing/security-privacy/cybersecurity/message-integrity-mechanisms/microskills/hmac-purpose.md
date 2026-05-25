@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the purpose of HMACs for data integrity and authentication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

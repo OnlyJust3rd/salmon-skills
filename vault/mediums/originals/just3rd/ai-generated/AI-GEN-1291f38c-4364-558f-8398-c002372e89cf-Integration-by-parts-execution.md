@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/integration-by-parts-execution|integration-by-parts-execution]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/integration-by-parts-execution|integration-by-parts-execution]]"
 learning-time-in-minutes: 4
 ---
 # Executing Integration by Parts

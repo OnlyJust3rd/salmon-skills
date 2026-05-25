@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of established guidelines for evaluating usability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

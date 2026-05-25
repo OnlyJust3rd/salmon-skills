@@ -45,3 +45,6 @@ Apply client-server synchronization concepts.
 - [[skills/digital-media/game-development/game-networking/microskills/interpolation|Interpolation]]
 - [[skills/digital-media/game-development/game-networking/microskills/prediction|Prediction]]
 - [[skills/digital-media/game-development/game-networking/microskills/reconciliation|Reconciliation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

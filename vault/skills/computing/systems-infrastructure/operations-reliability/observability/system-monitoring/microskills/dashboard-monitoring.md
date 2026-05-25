@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in utilizing monitoring dashboards for visualization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

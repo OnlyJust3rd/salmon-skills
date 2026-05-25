@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/discrete-cosine-transform-dct-step|discrete-cosine-transform-dct-step]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/discrete-cosine-transform-dct-step|discrete-cosine-transform-dct-step]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Discrete Cosine Transform (DCT) Step

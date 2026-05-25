@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[vr-and-ar-characteristics|vr-and-ar-characteristics]]"
+learning-outcomes:
+  - "[[vr-and-ar-characteristics|vr-and-ar-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # VR and AR Characteristics

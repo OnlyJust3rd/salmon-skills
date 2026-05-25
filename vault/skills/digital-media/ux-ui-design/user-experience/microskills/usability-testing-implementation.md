@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Setting up and running user tests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

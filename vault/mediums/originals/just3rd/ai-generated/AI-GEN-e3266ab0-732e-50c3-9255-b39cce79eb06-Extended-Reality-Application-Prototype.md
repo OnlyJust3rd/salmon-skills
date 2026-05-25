@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[extended-reality-application-prototype|extended-reality-application-prototype]]"
+learning-outcomes:
+  - "[[extended-reality-application-prototype|extended-reality-application-prototype]]"
 learning-time-in-minutes: 3
 ---
 # Building Your First XR Application Prototype

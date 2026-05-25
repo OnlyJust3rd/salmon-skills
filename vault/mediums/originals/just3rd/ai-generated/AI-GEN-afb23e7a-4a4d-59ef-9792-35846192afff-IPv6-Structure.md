@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ipv6-structure|ipv6-structure]]"
+learning-outcomes:
+  - "[[ipv6-structure|ipv6-structure]]"
 learning-time-in-minutes: 4
 ---
 # IPv6 Structure: Understanding the Blueprint

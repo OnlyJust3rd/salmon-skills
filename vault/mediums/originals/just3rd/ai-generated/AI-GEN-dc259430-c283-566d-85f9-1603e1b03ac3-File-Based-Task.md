@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/claude-cowork/microskills/file-based-task|file-based-task]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-cowork/microskills/file-based-task|file-based-task]]"
 learning-time-in-minutes: 3
 ---
 # Working with Files in Claude Cowork

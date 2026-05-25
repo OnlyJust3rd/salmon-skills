@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how network resources are managed for virtual machines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

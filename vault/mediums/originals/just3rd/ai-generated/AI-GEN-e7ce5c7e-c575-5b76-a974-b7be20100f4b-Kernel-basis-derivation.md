@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/kernel-basis-derivation|kernel-basis-derivation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/kernel-basis-derivation|kernel-basis-derivation]]"
 learning-time-in-minutes: 5
 ---
 # Deriving a Basis for the Kernel of a Matrix

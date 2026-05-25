@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/range-geometric-interpretation|range-geometric-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/range-geometric-interpretation|range-geometric-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # The Geometric Formation of the Range

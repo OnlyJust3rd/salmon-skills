@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-structures|class-structures]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-structures|class-structures]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Class Structures in Object-Oriented Programming

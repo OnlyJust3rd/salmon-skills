@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Fractional Knapsack problem using a greedy approach in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

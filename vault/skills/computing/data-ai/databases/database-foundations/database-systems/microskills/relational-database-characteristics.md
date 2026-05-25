@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Key features and operational aspects of relational databases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

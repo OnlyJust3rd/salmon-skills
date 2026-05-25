@@ -47,3 +47,6 @@ Explain the principles of resource management (CPU, memory, disk I/O, network) w
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-disk-i-o-management|Virtual Disk I/O Management]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-network-management|Virtual Network Management]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/resource-abstraction|Resource Abstraction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

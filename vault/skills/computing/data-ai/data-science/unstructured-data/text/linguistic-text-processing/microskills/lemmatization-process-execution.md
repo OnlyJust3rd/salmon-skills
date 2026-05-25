@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying the process of reducing words to their base or dictionary form.
+## Related Mediums
+
+![[bases/related-mediums.base]]

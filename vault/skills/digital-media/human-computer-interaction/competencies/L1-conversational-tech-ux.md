@@ -41,3 +41,6 @@ Describe the role of conversational technologies in modern user experience.
 
 - [[conversational-technology-contribution|Conversational Technology Contribution]]
 - [[user-experience-enhancement|User Experience Enhancement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Clearly stating the unique benefits offered.
+## Related Mediums
+
+![[bases/related-mediums.base]]

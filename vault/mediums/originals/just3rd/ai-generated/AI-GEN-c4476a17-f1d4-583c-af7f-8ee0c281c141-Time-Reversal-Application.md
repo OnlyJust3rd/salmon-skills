@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/time-reversal-application|time-reversal-application]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/time-reversal-application|time-reversal-application]]"
 learning-time-in-minutes: 4
 ---
 # Executing Time Reversal on Discrete-Time Sequences

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating ethical issues arising from advancements in HCI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

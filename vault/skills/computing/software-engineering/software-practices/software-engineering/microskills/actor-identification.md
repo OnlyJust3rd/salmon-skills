@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Techniques for identifying system users or external entities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

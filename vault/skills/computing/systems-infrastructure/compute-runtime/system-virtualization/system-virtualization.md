@@ -92,3 +92,6 @@ Describe how traditional OS concepts (CPU, memory, disk, network) are mapped to 
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-mapping|Virtual Memory Mapping]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-network-management|Virtual Network Management]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-network-mapping|Virtual Network Mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

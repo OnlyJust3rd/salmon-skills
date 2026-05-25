@@ -57,3 +57,6 @@ Explain the principles behind shading techniques used to enhance realism and the
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/perception-of-form|Perception of Form]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/perception-of-volume|Perception of Volume]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/enhancing-realism|Enhancing Realism]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

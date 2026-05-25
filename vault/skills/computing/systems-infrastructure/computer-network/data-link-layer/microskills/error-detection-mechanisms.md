@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding techniques to identify transmission errors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

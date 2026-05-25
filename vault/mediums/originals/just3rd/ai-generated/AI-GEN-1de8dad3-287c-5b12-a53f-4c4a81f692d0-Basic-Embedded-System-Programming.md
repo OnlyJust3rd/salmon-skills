@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/basic-embedded-system-programming|basic-embedded-system-programming]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/basic-embedded-system-programming|basic-embedded-system-programming]]"
 learning-time-in-minutes: 5
 ---
 # Basic Embedded System Programming

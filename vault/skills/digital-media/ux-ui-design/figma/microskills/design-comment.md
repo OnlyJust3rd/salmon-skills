@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capturing collaboration feedback on interface designs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

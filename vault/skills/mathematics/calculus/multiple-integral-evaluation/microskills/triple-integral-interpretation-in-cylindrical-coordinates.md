@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain the geometric interpretation of triple integrals in cylindrical coordinates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-change-tracking|git-change-tracking]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-change-tracking|git-change-tracking]]"
 learning-time-in-minutes: 4
 ---
 # Tracking Changes with Git

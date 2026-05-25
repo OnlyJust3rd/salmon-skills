@@ -46,3 +46,6 @@ Analyze the fundamental properties of single-variable functions, including domai
 - [[continuity-of-single-variable-functions|Continuity of single-variable functions]]
 - [[inverse-function-properties|Inverse function properties]]
 - [[differentiable-function-conditions|Differentiable function conditions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

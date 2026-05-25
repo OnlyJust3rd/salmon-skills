@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mongodb-insert-operations|mongodb-insert-operations]]"
+learning-outcomes:
+  - "[[mongodb-insert-operations|mongodb-insert-operations]]"
 learning-time-in-minutes: 3
 ---
 # MongoDB Insert Operations

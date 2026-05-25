@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing and applying appropriate algorithms to solve defined computational scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

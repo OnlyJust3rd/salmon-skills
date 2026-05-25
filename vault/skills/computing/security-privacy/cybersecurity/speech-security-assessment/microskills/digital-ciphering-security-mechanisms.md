@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of distinct security mechanisms in digital ciphering.
+## Related Mediums
+
+![[bases/related-mediums.base]]

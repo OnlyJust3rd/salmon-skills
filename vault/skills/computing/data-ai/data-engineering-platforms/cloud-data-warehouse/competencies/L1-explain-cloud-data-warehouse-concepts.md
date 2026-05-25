@@ -45,3 +45,6 @@ Explain cloud data warehouse concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/columnar-storage|Columnar Storage]]
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/compute-storage-separation|Compute-Storage Separation]]
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/elastic-scaling|Elastic Scaling]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

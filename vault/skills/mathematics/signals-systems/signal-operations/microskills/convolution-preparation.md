@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying operations to prepare signals for convolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

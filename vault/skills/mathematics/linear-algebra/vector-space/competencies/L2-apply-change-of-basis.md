@@ -45,3 +45,6 @@ Apply the change of basis formula to find the coordinate vector of a given vecto
 - [[change-of-basis-formula|Change of basis formula]]
 - [[coordinate-vector-transformation|Coordinate vector transformation]]
 - [[basis-transformation-execution|Basis transformation execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to automatically increase or decrease VM instances.
+## Related Mediums
+
+![[bases/related-mediums.base]]

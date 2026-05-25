@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the primary goal of using L'Hôpital's rule.
+## Related Mediums
+
+![[bases/related-mediums.base]]

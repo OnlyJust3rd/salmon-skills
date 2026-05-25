@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/security-provided-by-cryptography|security-provided-by-cryptography]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/security-provided-by-cryptography|security-provided-by-cryptography]]"
 learning-time-in-minutes: 3
 ---
 # Evaluating the Security Provided by Cryptography in Protocols

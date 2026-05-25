@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-application-protocol-suitability|iot-application-protocol-suitability]]"
+learning-outcomes:
+  - "[[iot-application-protocol-suitability|iot-application-protocol-suitability]]"
 learning-time-in-minutes: 6
 ---
 # Choosing the Right IoT Application Protocol

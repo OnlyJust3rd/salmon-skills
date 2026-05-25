@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of established standards and protocols used in IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

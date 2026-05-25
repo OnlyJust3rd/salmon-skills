@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ensuring the final system meets specified functional goals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

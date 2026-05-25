@@ -38,3 +38,6 @@ Using product metrics, event data, experiments, funnels, and retention analysis 
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/funnel-drop-off|Funnel Drop-off]]
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/funnel-metric|Funnel Metric]]
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/retention-pattern|Retention Pattern]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

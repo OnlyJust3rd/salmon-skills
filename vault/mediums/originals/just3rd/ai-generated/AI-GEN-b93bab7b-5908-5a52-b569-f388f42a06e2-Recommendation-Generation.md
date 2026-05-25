@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[recommendation-generation|recommendation-generation]]"
+learning-outcomes:
+  - "[[recommendation-generation|recommendation-generation]]"
 learning-time-in-minutes: 4
 ---
 # Generating Actionable Recommendations: Turning Findings into Improvements

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and explaining the property of homogeneity (scalar multiplication).
+## Related Mediums
+
+![[bases/related-mediums.base]]

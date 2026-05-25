@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in using various operators for computation and logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

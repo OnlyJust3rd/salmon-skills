@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[future-technology-ethics|future-technology-ethics]]"
+learning-outcomes:
+  - "[[future-technology-ethics|future-technology-ethics]]"
 learning-time-in-minutes: 4
 ---
 # Future Technology Ethics in Human-Computer Interaction

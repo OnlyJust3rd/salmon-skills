@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Methods for captivating investors or stakeholders.
+## Related Mediums
+
+![[bases/related-mediums.base]]

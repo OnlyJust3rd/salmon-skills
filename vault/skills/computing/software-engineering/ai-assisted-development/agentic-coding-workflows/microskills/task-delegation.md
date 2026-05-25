@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Giving a coding agent a bounded software task.
+## Related Mediums
+
+![[bases/related-mediums.base]]

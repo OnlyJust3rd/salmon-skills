@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/software-architecture/microskills/architecture-as-high-level-organization|architecture-as-high-level-organization]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/architecture-as-high-level-organization|architecture-as-high-level-organization]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Software Architecture as High-Level Organization

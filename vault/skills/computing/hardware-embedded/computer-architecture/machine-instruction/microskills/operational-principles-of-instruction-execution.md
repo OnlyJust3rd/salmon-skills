@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of the underlying mechanisms driving instruction execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

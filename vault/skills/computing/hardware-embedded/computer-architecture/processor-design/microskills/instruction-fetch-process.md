@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how a processor retrieves instructions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

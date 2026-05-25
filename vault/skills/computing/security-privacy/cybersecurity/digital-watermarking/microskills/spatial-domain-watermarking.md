@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding watermarking techniques applied directly to pixel values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

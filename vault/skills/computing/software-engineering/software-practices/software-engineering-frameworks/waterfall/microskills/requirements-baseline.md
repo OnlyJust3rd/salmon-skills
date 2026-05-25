@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Capturing and stabilizing agreed requirements before detailed design and implementation proceed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

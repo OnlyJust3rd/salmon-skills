@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how an indefinite integral represents a family of anti-derivatives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/memory-addressing-and-organization|memory-addressing-and-organization]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/memory-addressing-and-organization|memory-addressing-and-organization]]"
 learning-time-in-minutes: 5
 ---
 # Memory Addressing and Organization

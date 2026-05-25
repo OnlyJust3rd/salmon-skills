@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/importance-of-problem-solving-steps|importance-of-problem-solving-steps]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/importance-of-problem-solving-steps|importance-of-problem-solving-steps]]"
 learning-time-in-minutes: 5
 ---
 # The Power of Each Step: Why Every Stage Matters in Engineering Problem-Solving

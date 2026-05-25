@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Detecting stray capacitance, resistance, or inductance in physical circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

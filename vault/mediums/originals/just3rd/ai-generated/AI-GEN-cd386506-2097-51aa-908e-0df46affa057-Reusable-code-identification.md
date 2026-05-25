@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/reusable-code-identification|reusable-code-identification]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-principles/modular-program-design/microskills/reusable-code-identification|reusable-code-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Reusable Code Segments

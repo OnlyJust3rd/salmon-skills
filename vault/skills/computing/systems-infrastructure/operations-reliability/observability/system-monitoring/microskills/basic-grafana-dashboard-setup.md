@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the steps to configure a simple Grafana dashboard.
+## Related Mediums
+
+![[bases/related-mediums.base]]

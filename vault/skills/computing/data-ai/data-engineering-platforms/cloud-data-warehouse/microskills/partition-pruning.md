@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reducing scanned data through partition filters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

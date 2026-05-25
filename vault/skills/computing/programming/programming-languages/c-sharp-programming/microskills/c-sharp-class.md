@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding classes as reusable type definitions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

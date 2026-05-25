@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/filter-performance-testing|filter-performance-testing]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/filter-performance-testing|filter-performance-testing]]"
 learning-time-in-minutes: 5
 ---
 # Filter Performance Testing: Verifying Your Noise Reduction

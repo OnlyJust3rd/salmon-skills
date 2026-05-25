@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Addressing specific computational tasks through parallel program implementation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

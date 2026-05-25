@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating between the attributes of guided and unguided communication channels.
+## Related Mediums
+
+![[bases/related-mediums.base]]

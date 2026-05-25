@@ -43,3 +43,6 @@ Calculate determinants of 2x2 and 3x3 matrices using appropriate formulas.
 - [[2x2-determinant-formula|2x2 determinant formula]]
 - [[3x3-determinant-calculation|3x3 determinant calculation]]
 - [[determinant-computation|Determinant computation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

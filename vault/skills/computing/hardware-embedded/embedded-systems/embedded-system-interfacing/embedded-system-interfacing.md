@@ -55,3 +55,6 @@ Interfacing AVR microcontrollers with external sensors, actuators, and communica
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/spi-protocol-fundamentals|SPI Protocol Fundamentals]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/uart-device-interfacing|UART Device Interfacing]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/uart-protocol-fundamentals|UART Protocol Fundamentals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

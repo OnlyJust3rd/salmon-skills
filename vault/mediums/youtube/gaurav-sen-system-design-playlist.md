@@ -6,7 +6,8 @@ tags:
   - youtube
   - system-design
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[L2-explain-system-design-choice|L2-explain-system-design-choice]]"
+learning-outcomes:
+  - "[[L2-explain-system-design-choice|L2-explain-system-design-choice]]"
 learning-time-in-minutes: 900
 source: Gaurav Sen
 ---
@@ -19,8 +20,7 @@ source: Gaurav Sen
 
 https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 
-## Outcome
-
+## Learning Outcomes
 - [[L2-explain-system-design-choice|L2-explain-system-design-choice]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/conceptual-architecture-development|conceptual-architecture-development]]
 

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Outlining the method for determining the dimension of a vector space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

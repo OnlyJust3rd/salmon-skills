@@ -42,3 +42,6 @@ Identify common CAD tools and their primary functions for 2D/3D design.
 - [[skills/digital-media/design-fabrication/cad-design/microskills/computer-aided-design-software|Computer-Aided Design Software]]
 - [[skills/digital-media/design-fabrication/cad-design/microskills/cad-tool-primary-functions|CAD Tool Primary Functions]]
 - [[skills/digital-media/design-fabrication/cad-design/microskills/engineering-design-software-identification|Engineering Design Software Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

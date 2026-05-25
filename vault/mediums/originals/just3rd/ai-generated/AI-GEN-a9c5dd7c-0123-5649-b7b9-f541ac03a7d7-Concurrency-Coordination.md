@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|concurrency-coordination]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-coordination|concurrency-coordination]]"
 learning-time-in-minutes: 4
 ---
 # Concurrency Coordination: Working Together Safely

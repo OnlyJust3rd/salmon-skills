@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Decompose a rational function into simpler fractional components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

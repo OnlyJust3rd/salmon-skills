@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/nodal-analysis-application|nodal-analysis-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/nodal-analysis-application|nodal-analysis-application]]"
 learning-time-in-minutes: 6
 ---
 # Nodal Analysis Application

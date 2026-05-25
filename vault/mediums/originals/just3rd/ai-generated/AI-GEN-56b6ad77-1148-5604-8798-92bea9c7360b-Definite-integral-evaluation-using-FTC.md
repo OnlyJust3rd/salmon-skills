@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/definite-integral-evaluation-using-ftc|definite-integral-evaluation-using-ftc]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/definite-integral-evaluation-using-ftc|definite-integral-evaluation-using-ftc]]"
 learning-time-in-minutes: 3
 ---
 # Evaluating Definite Integrals with the Fundamental Theorem of Calculus

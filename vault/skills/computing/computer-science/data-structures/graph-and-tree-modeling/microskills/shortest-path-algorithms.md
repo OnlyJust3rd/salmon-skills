@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of algorithms like Dijkstra's or BFS for finding shortest paths.
+## Related Mediums
+
+![[bases/related-mediums.base]]

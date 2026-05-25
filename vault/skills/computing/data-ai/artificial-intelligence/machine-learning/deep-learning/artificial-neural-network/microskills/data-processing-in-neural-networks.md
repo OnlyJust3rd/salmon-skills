@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating how information is processed and transmitted within a neural network.
+## Related Mediums
+
+![[bases/related-mediums.base]]

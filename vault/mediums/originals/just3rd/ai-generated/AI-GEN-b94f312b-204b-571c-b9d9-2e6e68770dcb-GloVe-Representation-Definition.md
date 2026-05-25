@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[glove-representation-definition|glove-representation-definition]]"
+learning-outcomes:
+  - "[[glove-representation-definition|glove-representation-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding GloVe Representation

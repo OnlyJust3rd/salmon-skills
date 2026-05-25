@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Performing discrete-time convolution on given input sequences.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Simulation of process execution using scheduling algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

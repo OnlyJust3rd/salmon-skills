@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/code-generation|code-generation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/code-generation|code-generation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Code Generation with AI Assistants

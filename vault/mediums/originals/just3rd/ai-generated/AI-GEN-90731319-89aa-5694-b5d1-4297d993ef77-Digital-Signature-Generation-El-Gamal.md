@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/digital-signature-generation-el-gamal|digital-signature-generation-el-gamal]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/digital-signature-generation-el-gamal|digital-signature-generation-el-gamal]]"
 learning-time-in-minutes: 3
 ---
 # El Gamal Digital Signature Generation

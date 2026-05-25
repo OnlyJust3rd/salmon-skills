@@ -38,3 +38,6 @@ Managing user endpoints, accounts, configuration, software installation, permiss
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/permission-assignment|Permission Assignment]]
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/software-installation|Software Installation]]
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/user-accounts|User Accounts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

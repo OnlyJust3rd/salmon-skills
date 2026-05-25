@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/periodic-signal-decomposition-principle|periodic-signal-decomposition-principle]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/periodic-signal-decomposition-principle|periodic-signal-decomposition-principle]]"
 learning-time-in-minutes: 5
 ---
 # Decomposing Periodic Signals into Sinusoids

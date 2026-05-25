@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the purpose of data visualization in HCI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

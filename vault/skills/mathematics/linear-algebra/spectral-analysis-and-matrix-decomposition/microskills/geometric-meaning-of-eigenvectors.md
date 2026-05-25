@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the geometric significance of eigenvector directions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

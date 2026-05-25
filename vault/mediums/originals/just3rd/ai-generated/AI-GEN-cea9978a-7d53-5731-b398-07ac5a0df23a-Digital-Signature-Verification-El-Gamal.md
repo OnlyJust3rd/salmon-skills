@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/digital-signature-verification-el-gamal|digital-signature-verification-el-gamal]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/digital-signature-verification-el-gamal|digital-signature-verification-el-gamal]]"
 learning-time-in-minutes: 3
 ---
 # Verifying El Gamal Digital Signatures

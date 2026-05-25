@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/reward-system-design|reward-system-design]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/reward-system-design|reward-system-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing Game Reward Systems with Maslow's Hierarchy

@@ -62,3 +62,6 @@ Design effective user interfaces by applying interaction styles, usability princ
 - [[user-interface-elements|User Interface Elements]]
 - [[visual-aesthetics-impact|Visual Aesthetics Impact]]
 - [[visual-hierarchy-principles|Visual Hierarchy Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

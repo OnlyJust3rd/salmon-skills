@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the importance and implementation of secure firmware updates for IoT devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

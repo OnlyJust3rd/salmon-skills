@@ -45,3 +45,6 @@ Apply Terraform's core building blocks, including providers, resources, variable
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resources|Terraform Resources]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variables|Terraform Variables]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-outputs|Terraform Outputs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

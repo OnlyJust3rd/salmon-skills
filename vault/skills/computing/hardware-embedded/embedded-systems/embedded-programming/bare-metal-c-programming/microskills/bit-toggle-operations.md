@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing code to toggle register bits using XOR.
+## Related Mediums
+
+![[bases/related-mediums.base]]

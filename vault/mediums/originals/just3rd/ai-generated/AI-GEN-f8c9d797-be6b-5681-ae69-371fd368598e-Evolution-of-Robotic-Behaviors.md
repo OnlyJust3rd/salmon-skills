@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[evolution-of-robotic-behaviors|evolution-of-robotic-behaviors]]"
+learning-outcomes:
+  - "[[evolution-of-robotic-behaviors|evolution-of-robotic-behaviors]]"
 learning-time-in-minutes: 5
 ---
 # Evolution of Robotic Behaviors: Subsumption Architecture in Action

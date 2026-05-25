@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/parallel-agent-workflow|parallel-agent-workflow]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/parallel-agent-workflow|parallel-agent-workflow]]"
 learning-time-in-minutes: 4
 ---
 # Parallel Agent Workflow

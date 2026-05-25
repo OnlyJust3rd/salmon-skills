@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in understanding the flow of control and decision-making represented in a flowchart.
+## Related Mediums
+
+![[bases/related-mediums.base]]

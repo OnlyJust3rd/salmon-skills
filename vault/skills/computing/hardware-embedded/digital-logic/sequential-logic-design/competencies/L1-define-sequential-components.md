@@ -47,3 +47,6 @@ Define flip-flops, counters, memory devices (RAM/ROM), and state machines.
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/memory-device-definitions|Memory Device Definitions]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/state-machine-definitions|State Machine Definitions]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/sequential-circuit-component-characteristics|Sequential Circuit Component Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

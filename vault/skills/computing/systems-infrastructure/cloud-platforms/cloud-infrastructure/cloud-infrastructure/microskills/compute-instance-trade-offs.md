@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of performance, cost, and suitability of different VM families.
+## Related Mediums
+
+![[bases/related-mediums.base]]

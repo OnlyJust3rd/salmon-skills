@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/trade-off-analysis-criteria|trade-off-analysis-criteria]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/trade-off-analysis-criteria|trade-off-analysis-criteria]]"
 learning-time-in-minutes: 5
 ---
 # Defining Trade-off Analysis Criteria

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how input/output devices interact with a computer system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

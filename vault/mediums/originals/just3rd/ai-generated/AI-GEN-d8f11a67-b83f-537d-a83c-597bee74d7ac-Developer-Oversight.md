@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/developer-oversight|developer-oversight]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/developer-oversight|developer-oversight]]"
 learning-time-in-minutes: 4
 ---
 # Developer Oversight in AI-Assisted Coding

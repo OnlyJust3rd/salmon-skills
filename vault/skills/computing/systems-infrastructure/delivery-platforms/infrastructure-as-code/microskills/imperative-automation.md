@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of defining step-by-step execution sequences.
+## Related Mediums
+
+![[bases/related-mediums.base]]

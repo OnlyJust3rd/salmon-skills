@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-esp-cryptography-role|ipsec-esp-cryptography-role]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-esp-cryptography-role|ipsec-esp-cryptography-role]]"
 learning-time-in-minutes: 4
 ---
 # Understanding IPSec ESP's Role in Cryptography

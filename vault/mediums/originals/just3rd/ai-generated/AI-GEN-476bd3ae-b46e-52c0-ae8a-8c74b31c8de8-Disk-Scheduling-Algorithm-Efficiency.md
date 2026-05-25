@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[disk-scheduling-algorithm-efficiency|disk-scheduling-algorithm-efficiency]]"
+learning-outcomes:
+  - "[[disk-scheduling-algorithm-efficiency|disk-scheduling-algorithm-efficiency]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Disk Scheduling Algorithm Efficiency

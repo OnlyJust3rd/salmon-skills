@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical creation of word clouds to visualize word frequencies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

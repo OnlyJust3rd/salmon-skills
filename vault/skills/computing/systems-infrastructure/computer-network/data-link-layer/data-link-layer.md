@@ -96,3 +96,6 @@ Explaining framing, error detection and correction techniques, multiple access p
 - [[stp-components|STP Components]]
 - [[virtual-local-area-networks|Virtual Local Area Networks]]
 - [[vlan-advantages|VLAN Advantages]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

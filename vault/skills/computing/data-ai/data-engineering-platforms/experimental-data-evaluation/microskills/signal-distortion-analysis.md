@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing the reasons for signal distortion in circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/arduino-platform-components|arduino-platform-components]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/arduino-platform-components|arduino-platform-components]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Arduino Platform Components

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hash-based-mac-hmac-construction|hash-based-mac-hmac-construction]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hash-based-mac-hmac-construction|hash-based-mac-hmac-construction]]"
 learning-time-in-minutes: 3
 ---
 # Understanding HMAC Construction

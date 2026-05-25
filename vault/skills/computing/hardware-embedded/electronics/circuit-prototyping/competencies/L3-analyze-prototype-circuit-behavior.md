@@ -45,3 +45,6 @@ Analyze discrepancies between simulated and physical circuit behavior to identif
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/wiring-error-diagnosis|Wiring Error Diagnosis]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/component-tolerance-analysis|Component Tolerance Analysis]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/parasitic-effect-identification|Parasitic Effect Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

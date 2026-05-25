@@ -49,3 +49,6 @@ Explain the purpose, types, and embedding process of digital watermarking, diffe
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-embedding-process|Watermark Embedding Process]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/spatial-domain-watermarking|Spatial Domain Watermarking]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/transform-domain-watermarking|Transform Domain Watermarking]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

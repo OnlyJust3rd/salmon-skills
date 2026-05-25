@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of connecting physical devices using developed processors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

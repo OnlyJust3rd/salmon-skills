@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of classifications of programmable logic devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

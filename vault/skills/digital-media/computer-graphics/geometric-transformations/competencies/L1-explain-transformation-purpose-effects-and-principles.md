@@ -49,3 +49,6 @@ Explain the purpose and effects of translation, scaling, and rotation transforma
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/underlying-mathematical-principles|Underlying Mathematical Principles]]
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/2d-transformation-principles|2D Transformation Principles]]
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/3d-transformation-principles|3D Transformation Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

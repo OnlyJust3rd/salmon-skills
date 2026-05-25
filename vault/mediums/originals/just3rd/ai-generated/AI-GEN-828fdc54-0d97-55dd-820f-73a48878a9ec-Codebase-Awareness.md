@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/codebase-awareness|codebase-awareness]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/codebase-awareness|codebase-awareness]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Codebase Awareness in Claude Code

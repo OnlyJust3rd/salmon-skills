@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Collecting observable error messages, logs, and user impact.
+## Related Mediums
+
+![[bases/related-mediums.base]]

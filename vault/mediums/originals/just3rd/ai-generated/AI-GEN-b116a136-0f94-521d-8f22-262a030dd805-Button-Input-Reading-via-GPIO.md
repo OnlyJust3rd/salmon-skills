@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/button-input-reading-via-gpio|button-input-reading-via-gpio]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/button-input-reading-via-gpio|button-input-reading-via-gpio]]"
 learning-time-in-minutes: 4
 ---
 # Reading Button Input with GPIO

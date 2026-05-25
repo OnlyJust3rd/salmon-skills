@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interactions and relationships within teams.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying Cramer's Rule to systems with a single solution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

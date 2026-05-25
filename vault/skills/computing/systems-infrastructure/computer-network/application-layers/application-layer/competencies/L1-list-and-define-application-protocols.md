@@ -43,3 +43,6 @@ List common application layer protocols such as HTTP, DNS, and FTP, and define t
 - [[application-layer-protocols|Application Layer Protocols]]
 - [[protocol-purpose|Protocol Purpose]]
 - [[protocol-identification|Protocol Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

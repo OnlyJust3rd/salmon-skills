@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of the benefits and drawbacks of different bus protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

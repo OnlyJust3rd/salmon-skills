@@ -21,3 +21,6 @@ Used for financial records, compliance-heavy data, reporting, relational domain 
 ## Skill Connection
 
 This microskill supports [[skills/computing/systems-infrastructure/system-design/system-design|system-design]] by giving learners one concrete concept they can use in architecture discussions, interview prompts, and production design reviews.
+## Related Mediums
+
+![[bases/related-mediums.base]]

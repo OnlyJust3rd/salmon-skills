@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[file-creation-commands|file-creation-commands]]"
+learning-outcomes:
+  - "[[file-creation-commands|file-creation-commands]]"
 learning-time-in-minutes: 4
 ---
 # Creating Files with Commands

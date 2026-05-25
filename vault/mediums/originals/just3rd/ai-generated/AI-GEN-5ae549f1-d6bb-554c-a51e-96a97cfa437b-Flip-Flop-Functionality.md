@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-functionality|flip-flop-functionality]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-functionality|flip-flop-functionality]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Flip-Flop Functionality

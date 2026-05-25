@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-format-definition|json-data-format-definition]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-format-definition|json-data-format-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding JSON Data Format

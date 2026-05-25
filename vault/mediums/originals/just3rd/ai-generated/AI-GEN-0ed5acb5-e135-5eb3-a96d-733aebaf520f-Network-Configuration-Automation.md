@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-configuration-automation|network-configuration-automation]]"
+learning-outcomes:
+  - "[[network-configuration-automation|network-configuration-automation]]"
 learning-time-in-minutes: 4
 ---
 # DHCP: Your Network's Automatic Address Book

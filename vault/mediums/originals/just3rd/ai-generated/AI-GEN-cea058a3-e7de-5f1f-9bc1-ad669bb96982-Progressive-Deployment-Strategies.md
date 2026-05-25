@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/progressive-deployment-strategies|progressive-deployment-strategies]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-delivery/microskills/progressive-deployment-strategies|progressive-deployment-strategies]]"
 learning-time-in-minutes: 4
 ---
 # Progressive Deployment Strategies: Blue-Green and Canary Releases

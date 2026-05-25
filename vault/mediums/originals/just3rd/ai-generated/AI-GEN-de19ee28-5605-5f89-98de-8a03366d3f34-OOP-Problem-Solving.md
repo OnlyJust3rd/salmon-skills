@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/oop-problem-solving|oop-problem-solving]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/oop-problem-solving|oop-problem-solving]]"
 learning-time-in-minutes: 3
 ---
 # OOP Problem Solving: Modeling a Library System

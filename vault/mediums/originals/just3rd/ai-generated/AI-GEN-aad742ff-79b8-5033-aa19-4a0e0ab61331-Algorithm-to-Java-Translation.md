@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[algorithm-to-java-translation|algorithm-to-java-translation]]"
+learning-outcomes:
+  - "[[algorithm-to-java-translation|algorithm-to-java-translation]]"
 learning-time-in-minutes: 3
 ---
 # Translating Algorithms to Java

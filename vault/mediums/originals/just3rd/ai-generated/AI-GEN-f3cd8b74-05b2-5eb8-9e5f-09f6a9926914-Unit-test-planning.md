@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-planning|unit-test-planning]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/unit-test-planning|unit-test-planning]]"
 learning-time-in-minutes: 5
 ---
 # Planning Your C Unit Tests: From Function to Verification

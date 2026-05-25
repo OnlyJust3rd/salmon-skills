@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/structural-hazard-identification|structural-hazard-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/structural-hazard-identification|structural-hazard-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Structural Hazards in Pipelined Architectures

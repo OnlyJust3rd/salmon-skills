@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of secondary storage's role in the hierarchy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/synchronous-communication-principles|synchronous-communication-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/synchronous-communication-principles|synchronous-communication-principles]]"
 learning-time-in-minutes: 4
 ---
 # Synchronous Communication Principles

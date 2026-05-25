@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/basic-i-o-device-functions|basic-i-o-device-functions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/basic-i-o-device-functions|basic-i-o-device-functions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Basic I/O Device Functions

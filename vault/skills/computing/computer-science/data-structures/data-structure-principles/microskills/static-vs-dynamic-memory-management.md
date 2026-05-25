@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain the concepts of static and dynamic memory management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

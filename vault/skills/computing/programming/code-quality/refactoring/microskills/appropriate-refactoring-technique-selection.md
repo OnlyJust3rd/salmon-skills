@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining the best refactoring methods for specific code issues.
+## Related Mediums
+
+![[bases/related-mediums.base]]

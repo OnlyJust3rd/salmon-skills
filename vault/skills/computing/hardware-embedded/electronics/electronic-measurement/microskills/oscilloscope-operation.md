@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in operating an oscilloscope.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -53,3 +53,6 @@ Selecting and applying appropriate data modeling approaches to analyze and inter
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/real-world-dataset-representation|Real-World Dataset Representation]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/relational-model-principles|Relational Model Principles]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/use-cases-for-data-models|Use Cases for Data Models]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

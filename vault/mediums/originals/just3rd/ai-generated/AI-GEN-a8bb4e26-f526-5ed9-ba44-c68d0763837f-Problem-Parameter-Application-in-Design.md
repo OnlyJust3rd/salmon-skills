@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/system-design/microskills/problem-parameter-application-in-design|problem-parameter-application-in-design]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/system-design/microskills/problem-parameter-application-in-design|problem-parameter-application-in-design]]"
 learning-time-in-minutes: 5
 ---
 # Applying Problem Parameters in System Design

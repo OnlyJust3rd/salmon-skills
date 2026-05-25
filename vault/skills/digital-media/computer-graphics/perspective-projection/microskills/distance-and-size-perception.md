@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the relationship between distance, foreshortening, and perceived size.
+## Related Mediums
+
+![[bases/related-mediums.base]]

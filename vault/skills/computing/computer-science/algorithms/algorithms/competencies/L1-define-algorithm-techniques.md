@@ -49,3 +49,6 @@ Define various graph algorithms, tree-based algorithms, dynamic programming tech
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/greedy-algorithm-definitions|Greedy Algorithm Definitions]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-technique-definitions|Backtracking Technique Definitions]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/branch-and-bound-definitions|Branch and Bound Definitions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

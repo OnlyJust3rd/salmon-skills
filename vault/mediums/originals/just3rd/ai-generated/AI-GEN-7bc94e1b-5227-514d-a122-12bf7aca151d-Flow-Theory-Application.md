@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/flow-theory-application|flow-theory-application]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/flow-theory-application|flow-theory-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Flow Theory to Game Design

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of resource utilization limits as a performance metric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

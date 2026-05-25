@@ -47,3 +47,6 @@ Use differentials and linear approximation (linearization) to estimate function 
 - [[compute-differentials|Compute differentials]]
 - [[linearization-tangent-line-approximation|Linearization (tangent line approximation)]]
 - [[approximation-error-reasoning|Approximation error reasoning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

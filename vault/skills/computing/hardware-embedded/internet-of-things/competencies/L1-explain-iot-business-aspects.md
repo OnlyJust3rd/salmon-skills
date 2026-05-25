@@ -43,3 +43,6 @@ Explain the business aspects of IoT, including key drivers for adoption and pote
 - [[drivers-of-iot-adoption|Drivers of IoT Adoption]]
 - [[iot-business-applications|IoT Business Applications]]
 - [[iot-return-on-investment-roi|IoT Return on Investment (ROI)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

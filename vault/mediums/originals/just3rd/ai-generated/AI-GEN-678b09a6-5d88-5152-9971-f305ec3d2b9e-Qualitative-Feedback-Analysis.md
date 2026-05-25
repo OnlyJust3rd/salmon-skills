@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[qualitative-feedback-analysis|qualitative-feedback-analysis]]"
+learning-outcomes:
+  - "[[qualitative-feedback-analysis|qualitative-feedback-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Qualitative Feedback Analysis

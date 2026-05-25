@@ -45,3 +45,6 @@ Apply motivational theories to select and integrate game mechanics for a desired
 - [[skills/digital-media/game-development/player-psychology/microskills/motivational-theory-application|Motivational Theory Application]]
 - [[skills/digital-media/game-development/player-psychology/microskills/mechanic-selection-for-player-response|Mechanic Selection for Player Response]]
 - [[skills/digital-media/game-development/player-psychology/microskills/desired-player-experience-design|Desired Player Experience Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

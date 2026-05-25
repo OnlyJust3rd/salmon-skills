@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing queries for reporting and exploration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

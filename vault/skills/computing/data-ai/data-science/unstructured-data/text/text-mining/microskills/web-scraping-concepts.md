@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core principles and terminology associated with web scraping.
+## Related Mediums
+
+![[bases/related-mediums.base]]

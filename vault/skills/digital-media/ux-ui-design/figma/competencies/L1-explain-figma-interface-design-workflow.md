@@ -45,3 +45,6 @@ Explain Figma interface design workflow.
 - [[frame|Frame]]
 - [[skills/digital-media/ux-ui-design/figma/microskills/component|Component]]
 - [[prototype-link|Prototype Link]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

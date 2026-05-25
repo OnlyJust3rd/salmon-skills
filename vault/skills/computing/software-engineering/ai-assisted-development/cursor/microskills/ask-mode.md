@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding read-only codebase exploration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

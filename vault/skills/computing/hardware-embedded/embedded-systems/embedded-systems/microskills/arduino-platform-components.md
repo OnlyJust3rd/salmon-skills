@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of the key hardware and software elements of the Arduino.
+## Related Mediums
+
+![[bases/related-mediums.base]]

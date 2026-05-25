@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/real-time-difficulty-modification|real-time-difficulty-modification]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/real-time-difficulty-modification|real-time-difficulty-modification]]"
 learning-time-in-minutes: 4
 ---
 # Real-time Difficulty Modification

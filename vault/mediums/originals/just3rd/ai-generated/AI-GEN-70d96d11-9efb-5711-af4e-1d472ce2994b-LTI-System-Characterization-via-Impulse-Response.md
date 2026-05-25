@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/lti-system-characterization-via-impulse-response|lti-system-characterization-via-impulse-response]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/lti-system-characterization-via-impulse-response|lti-system-characterization-via-impulse-response]]"
 learning-time-in-minutes: 5
 ---
 # Understanding LTI Systems Through Their Impulse Response

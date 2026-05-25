@@ -49,3 +49,6 @@ Apply the process of discovering requirements for an interactive system.
 - [[requirement-discovery-techniques|Requirement Discovery Techniques]]
 - [[user-needs-elicitation|User Needs Elicitation]]
 - [[system-requirements-definition|System Requirements Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Tracing relationships among sources and models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

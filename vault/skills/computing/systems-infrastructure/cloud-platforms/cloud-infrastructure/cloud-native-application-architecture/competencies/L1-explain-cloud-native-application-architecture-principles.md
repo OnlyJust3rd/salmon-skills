@@ -47,3 +47,6 @@ Explain cloud-native application architecture principles.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/managed-service|Managed Service]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/elasticity|Elasticity]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/failure-aware-design|Failure-Aware Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

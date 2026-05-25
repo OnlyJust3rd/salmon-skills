@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding process execution through SAP transactions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

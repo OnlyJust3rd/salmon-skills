@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the basic building blocks of a processor.
+## Related Mediums
+
+![[bases/related-mediums.base]]

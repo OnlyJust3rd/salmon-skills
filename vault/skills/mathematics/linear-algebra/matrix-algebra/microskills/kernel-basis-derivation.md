@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Constructing a basis from the solution set of Ax=0.
+## Related Mediums
+
+![[bases/related-mediums.base]]

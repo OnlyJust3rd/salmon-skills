@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-entropy-coding-purpose|jpeg-entropy-coding-purpose]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-entropy-coding-purpose|jpeg-entropy-coding-purpose]]"
 learning-time-in-minutes: 5
 ---
 # Understanding JPEG Entropy Coding

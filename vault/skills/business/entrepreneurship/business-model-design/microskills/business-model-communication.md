@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Presenting a business idea using the Lean Canvas.
+## Related Mediums
+
+![[bases/related-mediums.base]]

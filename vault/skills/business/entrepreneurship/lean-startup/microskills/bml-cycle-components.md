@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The individual elements comprising the BML cycle.
+## Related Mediums
+
+![[bases/related-mediums.base]]

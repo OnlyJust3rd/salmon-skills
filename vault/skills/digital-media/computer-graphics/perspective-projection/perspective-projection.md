@@ -80,3 +80,6 @@ Transforming 3D objects into 2D representations using parallel and perspective p
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-types|Projection Types]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/vanishing-points|Vanishing Points]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/visual-characteristics-of-projections|Visual Characteristics of Projections]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

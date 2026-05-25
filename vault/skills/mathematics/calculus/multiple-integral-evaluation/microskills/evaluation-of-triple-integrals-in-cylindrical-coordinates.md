@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to evaluate triple integrals using cylindrical coordinate transformations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

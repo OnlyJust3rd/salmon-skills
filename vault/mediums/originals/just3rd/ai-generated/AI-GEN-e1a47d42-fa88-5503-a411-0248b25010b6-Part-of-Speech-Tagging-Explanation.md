@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[part-of-speech-tagging-explanation|part-of-speech-tagging-explanation]]"
+learning-outcomes:
+  - "[[part-of-speech-tagging-explanation|part-of-speech-tagging-explanation]]"
 learning-time-in-minutes: 3
 ---
 # Part-of-Speech (POS) Tagging: Understanding Word Roles

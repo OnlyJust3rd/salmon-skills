@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-flow-regulation|network-flow-regulation]]"
+learning-outcomes:
+  - "[[network-flow-regulation|network-flow-regulation]]"
 learning-time-in-minutes: 4
 ---
 # Network Flow Regulation: Preventing the Internet's Traffic Jams

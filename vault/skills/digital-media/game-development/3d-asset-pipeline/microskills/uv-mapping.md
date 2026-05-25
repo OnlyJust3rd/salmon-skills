@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding texture coordinates on 3D surfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Define the fundamental components of a simple processor architecture.
 
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/fundamental-processor-components|Fundamental Processor Components]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/control-unit-definition|Control Unit Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

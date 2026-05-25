@@ -45,3 +45,6 @@ Apply scene, entity, and component architecture concepts.
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/entity-composition|Entity Composition]]
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/update-method|Update Method]]
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/asset-reference|Asset Reference]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

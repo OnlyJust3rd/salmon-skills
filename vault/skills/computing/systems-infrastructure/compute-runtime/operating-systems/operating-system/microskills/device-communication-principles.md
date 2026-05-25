@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the OS role in enabling interaction with hardware devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -41,3 +41,6 @@ Explain the role of data visualization in conveying information in HCI.
 
 - [[data-visualization-function|Data Visualization Function]]
 - [[information-conveyance|Information Conveyance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

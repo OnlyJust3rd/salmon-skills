@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/comparison-with-non-pipelined-architectures|comparison-with-non-pipelined-architectures]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/comparison-with-non-pipelined-architectures|comparison-with-non-pipelined-architectures]]"
 learning-time-in-minutes: 4
 ---
 # Contrasting Execution Speed: Pipelined vs. Non-Pipelined Architectures

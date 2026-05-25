@@ -47,3 +47,6 @@ Evaluate hazard mitigation techniques (stalling, forwarding, and branch predicti
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipeline-stall-reasoning|Pipeline Stall Reasoning]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/branch-prediction-basics|Branch Prediction Basics]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/cpi-impact-estimation|CPI Impact Estimation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

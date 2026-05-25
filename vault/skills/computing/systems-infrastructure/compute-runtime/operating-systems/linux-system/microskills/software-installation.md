@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to install new software packages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

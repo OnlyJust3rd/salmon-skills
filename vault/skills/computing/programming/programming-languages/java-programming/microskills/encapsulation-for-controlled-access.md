@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Apply encapsulation for controlled data access in Java implementations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

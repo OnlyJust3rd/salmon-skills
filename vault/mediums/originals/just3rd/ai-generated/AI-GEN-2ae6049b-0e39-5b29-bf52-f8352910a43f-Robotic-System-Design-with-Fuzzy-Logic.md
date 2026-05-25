@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/robotic-system-design-with-fuzzy-logic|robotic-system-design-with-fuzzy-logic]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/robotic-system-design-with-fuzzy-logic|robotic-system-design-with-fuzzy-logic]]"
 learning-time-in-minutes: 5
 ---
 # Designing Robotic Systems with Fuzzy Logic

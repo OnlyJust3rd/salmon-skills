@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the significance of monitoring quality indicators.
+## Related Mediums
+
+![[bases/related-mediums.base]]

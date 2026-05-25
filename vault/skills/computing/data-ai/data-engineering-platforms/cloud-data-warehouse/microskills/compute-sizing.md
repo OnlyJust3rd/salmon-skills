@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Selecting query capacity for workload needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

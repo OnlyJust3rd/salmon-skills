@@ -43,3 +43,6 @@ Apply selected image compression techniques to reduce the file size of given dig
 
 - [[skills/digital-media/computer-graphics/image-compression/microskills/image-file-size-reduction|Image File Size Reduction]]
 - [[skills/digital-media/computer-graphics/image-compression/microskills/implementation-of-compression-algorithms|Implementation of Compression Algorithms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capacity to interpret unit test outcomes and diagnose failing units.
+## Related Mediums
+
+![[bases/related-mediums.base]]

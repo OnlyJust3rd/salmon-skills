@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[detailed-vs-basic-prototypes|detailed-vs-basic-prototypes]]"
+learning-outcomes:
+  - "[[detailed-vs-basic-prototypes|detailed-vs-basic-prototypes]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Prototype Fidelity: Detailed vs. Basic Prototypes

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[control-message-protocols|control-message-protocols]]"
+learning-outcomes:
+  - "[[control-message-protocols|control-message-protocols]]"
 learning-time-in-minutes: 5
 ---
 # Understanding ICMP: The Network's Messenger

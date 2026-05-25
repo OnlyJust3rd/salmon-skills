@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/parasitic-effect-identification|parasitic-effect-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/parasitic-effect-identification|parasitic-effect-identification]]"
 learning-time-in-minutes: 4
 ---
 # Parasitic Effect Identification in Breadboard Prototypes

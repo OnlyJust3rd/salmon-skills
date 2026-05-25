@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of scenarios where Type-2 hypervisors are suitable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how tags can be used to trigger automated actions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

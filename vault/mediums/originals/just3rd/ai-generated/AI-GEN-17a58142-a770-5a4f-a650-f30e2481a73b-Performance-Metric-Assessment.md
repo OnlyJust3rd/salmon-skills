@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/performance-metric-assessment|performance-metric-assessment]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/performance-metric-assessment|performance-metric-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing Processor Performance Metrics

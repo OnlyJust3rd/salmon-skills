@@ -45,3 +45,6 @@ Utilize Git commands to manage versions, track changes, and create branches for 
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-version-management|Git Version Management]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-change-tracking|Git Change Tracking]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/git-branch-creation|Git Branch Creation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

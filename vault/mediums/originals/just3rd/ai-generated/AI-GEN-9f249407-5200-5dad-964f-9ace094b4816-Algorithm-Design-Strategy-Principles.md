@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-design-strategy-principles|algorithm-design-strategy-principles]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-design-strategy-principles|algorithm-design-strategy-principles]]"
 learning-time-in-minutes: 3
 ---
 # Algorithm Design Strategy Principles

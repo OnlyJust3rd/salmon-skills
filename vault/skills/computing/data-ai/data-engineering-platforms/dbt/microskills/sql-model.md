@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding query-defined analytical datasets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

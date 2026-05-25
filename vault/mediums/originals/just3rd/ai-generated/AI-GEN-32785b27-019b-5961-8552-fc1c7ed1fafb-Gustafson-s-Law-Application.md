@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-application|gustafson-s-law-application]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-application|gustafson-s-law-application]]"
 learning-time-in-minutes: 8
 ---
 # Applying Gustafson's Law for Scalability Analysis

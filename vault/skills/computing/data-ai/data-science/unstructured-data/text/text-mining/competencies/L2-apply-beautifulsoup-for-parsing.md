@@ -43,3 +43,6 @@ Use the BeautifulSoup library to parse HTML content and extract specific data el
 - [[html-structure-navigation|HTML Structure Navigation]]
 - [[specific-data-element-extraction|Specific Data Element Extraction]]
 - [[beautifulsoup-library-usage|BeautifulSoup Library Usage]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

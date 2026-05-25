@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of why algorithms are necessary for displaying geometric shapes on pixel displays.
+## Related Mediums
+
+![[bases/related-mediums.base]]

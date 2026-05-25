@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recalling the main concepts presented in chapter four of the text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

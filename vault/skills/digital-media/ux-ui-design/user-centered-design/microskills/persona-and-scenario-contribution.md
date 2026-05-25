@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role of personas and scenarios in requirement definition.
+## Related Mediums
+
+![[bases/related-mediums.base]]

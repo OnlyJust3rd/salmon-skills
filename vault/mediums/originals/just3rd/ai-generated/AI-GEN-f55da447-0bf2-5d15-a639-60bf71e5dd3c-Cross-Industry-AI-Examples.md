@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/cross-industry-ai-examples|cross-industry-ai-examples]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/cross-industry-ai-examples|cross-industry-ai-examples]]"
 learning-time-in-minutes: 4
 ---
 # Cross-Industry AI Examples

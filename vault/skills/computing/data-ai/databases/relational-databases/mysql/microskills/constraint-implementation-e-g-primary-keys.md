@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying rules and restrictions to database elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

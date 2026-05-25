@@ -30,3 +30,6 @@ Understanding how database indexes support query performance by organizing acces
 - [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-access-paths|Index Access Paths]]
 - [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-trade-offs|Index Trade-offs]]
 - [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/query-predicate-support|Query Predicate Support]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

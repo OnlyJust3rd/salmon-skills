@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adapting messages for end-users.
+## Related Mediums
+
+![[bases/related-mediums.base]]

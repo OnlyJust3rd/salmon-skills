@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/product-development-iteration|product-development-iteration]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/product-development-iteration|product-development-iteration]]"
 learning-time-in-minutes: 5
 ---
 # Iterating Product Features with the Build-Measure-Learn Cycle

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of file properties and their association with users and groups.
+## Related Mediums
+
+![[bases/related-mediums.base]]

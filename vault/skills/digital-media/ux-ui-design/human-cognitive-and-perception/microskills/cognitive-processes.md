@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and listing of key human cognitive processes relevant to HCI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

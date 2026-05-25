@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/spatial-redundancy-removal|spatial-redundancy-removal]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/spatial-redundancy-removal|spatial-redundancy-removal]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Spatial Redundancy Removal in Video Compression

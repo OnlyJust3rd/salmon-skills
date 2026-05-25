@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implement arrays, linked lists, stacks, and queues using Java classes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

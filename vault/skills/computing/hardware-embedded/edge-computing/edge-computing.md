@@ -36,3 +36,6 @@ Applying edge and fog computing concepts to enable low-latency processing and di
 - [[fog-computing-ai-tasks|Fog Computing AI Tasks]]
 - [[iot-data-processing-at-the-edge|IoT Data Processing at the Edge]]
 - [[real-time-decision-making-in-iot|Real-time Decision-Making in IoT]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

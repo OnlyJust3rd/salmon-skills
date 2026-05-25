@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding different ways to attach volumes to containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

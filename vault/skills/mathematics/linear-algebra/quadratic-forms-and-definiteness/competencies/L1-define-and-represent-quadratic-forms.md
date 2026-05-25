@@ -45,3 +45,6 @@ Define quadratic forms and explain their matrix representation.
 - [[quadratic-form-definition|Quadratic form definition]]
 - [[symmetric-matrix-representation|Symmetric matrix representation]]
 - [[definiteness-properties|Definiteness properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

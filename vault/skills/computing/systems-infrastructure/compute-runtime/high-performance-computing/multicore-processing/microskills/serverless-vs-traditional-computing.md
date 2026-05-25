@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of distinctions between serverless and conventional computing models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

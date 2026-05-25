@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in deploying automated tasks within a Kubernetes cluster.
+## Related Mediums
+
+![[bases/related-mediums.base]]

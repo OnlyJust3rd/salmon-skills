@@ -45,3 +45,6 @@ Apply Foster's design methodology to develop a simple parallel application.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-application|Foster's Methodology Application]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/simple-parallel-application-development|Simple Parallel Application Development]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/parallel-design-methodology-execution|Parallel Design Methodology Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

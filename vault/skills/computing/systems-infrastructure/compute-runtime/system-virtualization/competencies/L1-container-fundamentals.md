@@ -47,3 +47,6 @@ Explain the concept of containers for packaging applications and their dependenc
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/consistent-environment-behavior|Consistent Environment Behavior]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/linux-kernel-role-in-containers|Linux Kernel Role in Containers]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/container-image-structure|Container Image Structure]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

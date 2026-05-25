@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the typical traits and roles associated with various archetypes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

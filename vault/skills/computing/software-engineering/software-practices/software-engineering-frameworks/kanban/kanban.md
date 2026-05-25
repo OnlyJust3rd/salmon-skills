@@ -41,3 +41,6 @@ Managing software work as a visible flow system by limiting work in progress, cl
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/kanban/microskills/pull-based-flow|Pull Based Flow]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/kanban/microskills/work-in-progress-limits|Work In Progress Limits]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/kanban/microskills/workflow-visualization|Workflow Visualization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

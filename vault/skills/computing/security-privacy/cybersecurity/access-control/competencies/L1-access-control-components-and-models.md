@@ -41,3 +41,6 @@ Identify and list the key components and common models of access control systems
 
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-system-components|Access Control System Components]]
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-system-models|Access Control System Models]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

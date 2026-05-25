@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how FT/DTFT represents signals in the frequency domain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

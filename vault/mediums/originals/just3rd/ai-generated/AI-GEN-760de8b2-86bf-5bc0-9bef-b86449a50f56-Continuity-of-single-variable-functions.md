@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/function-analysis/microskills/continuity-of-single-variable-functions|continuity-of-single-variable-functions]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/function-analysis/microskills/continuity-of-single-variable-functions|continuity-of-single-variable-functions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Continuity of Single-Variable Functions

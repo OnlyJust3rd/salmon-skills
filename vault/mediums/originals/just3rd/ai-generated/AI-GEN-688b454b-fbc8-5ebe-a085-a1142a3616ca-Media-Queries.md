@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/media-queries|media-queries]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/responsive-web-design/microskills/media-queries|media-queries]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Media Queries for Responsive Layouts

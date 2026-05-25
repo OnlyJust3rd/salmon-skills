@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to interpret datasheets for ICs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the function and significance of Xeon Phi processors in HPC environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

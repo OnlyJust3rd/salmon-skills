@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding compute clusters for query execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/transform-coding-identification|transform-coding-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/transform-coding-identification|transform-coding-identification]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Transform Coding in Lossy Compression

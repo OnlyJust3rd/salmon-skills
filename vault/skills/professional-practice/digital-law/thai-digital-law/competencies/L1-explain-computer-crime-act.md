@@ -42,3 +42,6 @@ Explain the purpose, key components, and implications of the Computer-Related Cr
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/computer-crime-act-purpose|Computer Crime Act Purpose]]
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/computer-crime-act-key-components|Computer Crime Act Key Components]]
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/computer-crime-act-implications|Computer Crime Act Implications]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

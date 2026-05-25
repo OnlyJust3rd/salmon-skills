@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/frequency-domain-watermark-characteristics|frequency-domain-watermark-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/frequency-domain-watermark-characteristics|frequency-domain-watermark-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Frequency Domain Watermark Characteristics

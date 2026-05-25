@@ -56,3 +56,6 @@ Design and deliver effective startup pitches by communicating value propositions
 - [[skills/business/entrepreneurship/startup-communication/microskills/team-communication|Team Communication]]
 - [[skills/business/entrepreneurship/startup-communication/microskills/team-introduction|Team Introduction]]
 - [[skills/business/entrepreneurship/startup-communication/microskills/value-proposition-articulation|Value Proposition Articulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

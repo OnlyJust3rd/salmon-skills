@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how containers bundle dependencies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

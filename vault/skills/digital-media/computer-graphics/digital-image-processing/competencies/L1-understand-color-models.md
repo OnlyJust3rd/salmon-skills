@@ -43,3 +43,6 @@ Understand and process different color models, including RGB and HSV.
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/rgb-color-model|RGB Color Model]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/hsv-color-model|HSV Color Model]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/color-model-components-and-characteristics|Color Model Components and Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

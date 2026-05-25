@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to set up specific criteria for triggering alerts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding processor-side performance limits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

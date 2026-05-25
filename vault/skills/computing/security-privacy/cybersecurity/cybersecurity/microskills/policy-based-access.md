@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding rules that determine whether access is allowed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

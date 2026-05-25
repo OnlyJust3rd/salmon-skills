@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-definitions|flip-flop-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-definitions|flip-flop-definitions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Flip-Flops: The Building Blocks of Memory

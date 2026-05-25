@@ -41,3 +41,6 @@ None.
 - [[skills/computing/data-ai/databases/relational-databases/postgresql/microskills/postgresql-data-types|PostgreSQL Data Types]]
 - [[skills/computing/data-ai/databases/relational-databases/postgresql/microskills/postgresql-constraints|PostgreSQL Constraints]]
 - [[skills/computing/data-ai/databases/relational-databases/postgresql/microskills/postgresql-query-execution|PostgreSQL Query Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

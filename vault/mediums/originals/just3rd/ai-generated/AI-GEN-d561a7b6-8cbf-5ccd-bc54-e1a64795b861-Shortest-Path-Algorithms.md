@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/shortest-path-algorithms|shortest-path-algorithms]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/shortest-path-algorithms|shortest-path-algorithms]]"
 learning-time-in-minutes: 5
 ---
 # Finding the Shortest Path: Dijkstra's Algorithm

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of discrepancies in circuit behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

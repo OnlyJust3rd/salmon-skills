@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the Euclidean algorithm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

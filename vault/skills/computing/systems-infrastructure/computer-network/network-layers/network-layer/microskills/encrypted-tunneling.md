@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The mechanism for creating secure connections over public networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

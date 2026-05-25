@@ -49,3 +49,6 @@ Describe the process of IP forwarding within a network and how IP addresses are 
 - [[ip-address-utilization|IP Address Utilization]]
 - [[network-path-determination|Network Path Determination]]
 - [[data-packet-traversal|Data Packet Traversal]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/prototype-development-execution|prototype-development-execution]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/prototype-development-execution|prototype-development-execution]]"
 learning-time-in-minutes: 5
 ---
 # Prototype Development Execution

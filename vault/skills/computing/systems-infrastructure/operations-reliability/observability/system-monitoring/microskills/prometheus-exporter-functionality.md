@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how exporters collect metrics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

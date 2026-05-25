@@ -38,3 +38,6 @@ Understanding representational state transfer (REST) style for web application p
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-boundary-selection|Resource boundary selection]]
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-identifiers|Resource identifiers]]
 - [[skills/computing/software-engineering/backend-development/restful-api/microskills/status-code-interpretation|Status code interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

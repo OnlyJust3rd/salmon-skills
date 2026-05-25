@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-science/data-science/microskills/data-science-workflow|data-science-workflow]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-science/data-science/microskills/data-science-workflow|data-science-workflow]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Data Science Workflow: A Step-by-Step Journey

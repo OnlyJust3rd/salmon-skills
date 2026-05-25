@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding distributed chunks of data processed in parallel.
+## Related Mediums
+
+![[bases/related-mediums.base]]

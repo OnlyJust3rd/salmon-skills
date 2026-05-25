@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/geometric-representation/microskills/points-and-lines|points-and-lines]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/geometric-representation/microskills/points-and-lines|points-and-lines]]"
 learning-time-in-minutes: 3
 ---
 # Points and Lines: The Building Blocks of Graphics

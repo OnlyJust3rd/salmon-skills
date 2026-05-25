@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the purpose of input/output ports.
+## Related Mediums
+
+![[bases/related-mediums.base]]

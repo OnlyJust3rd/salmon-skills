@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing communication patterns between related processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

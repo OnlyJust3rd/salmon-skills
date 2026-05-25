@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-fork|unix-system-call-application-fork]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-fork|unix-system-call-application-fork]]"
 learning-time-in-minutes: 3
 ---
 # Applying the `fork()` System Call for Process Creation

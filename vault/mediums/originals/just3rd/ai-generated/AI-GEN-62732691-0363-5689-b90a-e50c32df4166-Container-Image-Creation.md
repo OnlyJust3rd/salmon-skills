@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-image-creation|container-image-creation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-image-creation|container-image-creation]]"
 learning-time-in-minutes: 3
 ---
 # Building Your First Docker Image: From Dockerfile to Image

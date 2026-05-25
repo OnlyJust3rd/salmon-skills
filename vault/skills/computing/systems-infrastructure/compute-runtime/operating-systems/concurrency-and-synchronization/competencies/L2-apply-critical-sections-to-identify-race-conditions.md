@@ -43,3 +43,6 @@ Apply the concept of critical sections to identify potential race conditions in 
 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/critical-section-identification|Critical Section Identification]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/race-condition-detection|Race Condition Detection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

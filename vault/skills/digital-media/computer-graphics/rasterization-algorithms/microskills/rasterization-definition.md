@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of converting geometric primitives to a pixel grid.
+## Related Mediums
+
+![[bases/related-mediums.base]]

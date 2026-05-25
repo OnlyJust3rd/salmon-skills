@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the role and objective of the AddRoundKey operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

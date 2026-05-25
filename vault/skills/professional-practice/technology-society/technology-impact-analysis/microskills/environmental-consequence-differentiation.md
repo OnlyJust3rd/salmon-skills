@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between positive and negative environmental outcomes of EVs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

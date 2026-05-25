@@ -38,3 +38,6 @@ Understanding SAP ERP module concepts, transaction flows, master data, and confi
 - [[skills/business/corporate-operations/sap-erp/microskills/sap-module|SAP Module]]
 - [[skills/business/corporate-operations/sap-erp/microskills/sap-transaction|SAP Transaction]]
 - [[skills/business/corporate-operations/sap-erp/microskills/transaction-code-concept|Transaction Code Concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

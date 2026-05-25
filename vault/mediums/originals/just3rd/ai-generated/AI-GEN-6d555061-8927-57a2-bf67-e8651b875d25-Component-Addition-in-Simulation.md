@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/component-addition-in-simulation|component-addition-in-simulation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/component-addition-in-simulation|component-addition-in-simulation]]"
 learning-time-in-minutes: 5
 ---
 # Adding Components in Proteus 8 Simulations

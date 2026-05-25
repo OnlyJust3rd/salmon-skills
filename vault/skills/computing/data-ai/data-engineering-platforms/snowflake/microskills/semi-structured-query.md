@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Working with nested or variant-like data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

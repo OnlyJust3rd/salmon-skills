@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the fundamental activities in interaction design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

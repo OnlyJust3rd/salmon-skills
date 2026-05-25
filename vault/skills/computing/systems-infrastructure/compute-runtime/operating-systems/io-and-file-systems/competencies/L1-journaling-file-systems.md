@@ -47,3 +47,6 @@ Explain the principles of journaling file systems and their role in data integri
 - [[journaling-file-system-principles|Journaling File System Principles]]
 - [[data-integrity-in-journaling|Data Integrity in Journaling]]
 - [[pre-application-recording|Pre-application Recording]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

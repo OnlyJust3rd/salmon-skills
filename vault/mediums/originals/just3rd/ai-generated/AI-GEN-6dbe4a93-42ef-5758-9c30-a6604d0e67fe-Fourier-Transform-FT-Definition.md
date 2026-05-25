@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/fourier-transform-ft-definition|fourier-transform-ft-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/fourier-transform-ft-definition|fourier-transform-ft-definition]]"
 learning-time-in-minutes: 3
 ---
 # Fourier Transform (FT) Definition

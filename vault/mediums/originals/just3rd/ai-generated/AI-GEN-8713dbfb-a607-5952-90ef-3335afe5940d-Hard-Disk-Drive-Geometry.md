@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[hard-disk-drive-geometry|hard-disk-drive-geometry]]"
+learning-outcomes:
+  - "[[hard-disk-drive-geometry|hard-disk-drive-geometry]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Hard Disk Drive Geometry

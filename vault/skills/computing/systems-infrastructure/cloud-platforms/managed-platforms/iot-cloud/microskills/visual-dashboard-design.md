@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to construct functional visual dashboards.
+## Related Mediums
+
+![[bases/related-mediums.base]]

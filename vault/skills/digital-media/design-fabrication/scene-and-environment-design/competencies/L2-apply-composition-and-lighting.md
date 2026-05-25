@@ -43,3 +43,6 @@ Apply principles of visual composition and lighting to design a game scene that 
 - [[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/visual-composition-principles|Visual Composition Principles]]
 - [[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/lighting-design-for-mood|Lighting Design for Mood]]
 - [[skills/digital-media/design-fabrication/scene-and-environment-design/microskills/scene-atmosphere-creation|Scene Atmosphere Creation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

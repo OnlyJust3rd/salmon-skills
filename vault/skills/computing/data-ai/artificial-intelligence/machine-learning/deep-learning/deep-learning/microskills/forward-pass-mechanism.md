@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of data flow from input to output in a neural network.
+## Related Mediums
+
+![[bases/related-mediums.base]]

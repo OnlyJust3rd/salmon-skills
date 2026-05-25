@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of fundamental methods for exploring graph structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

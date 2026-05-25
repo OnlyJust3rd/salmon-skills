@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how the choice of basis affects vector components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

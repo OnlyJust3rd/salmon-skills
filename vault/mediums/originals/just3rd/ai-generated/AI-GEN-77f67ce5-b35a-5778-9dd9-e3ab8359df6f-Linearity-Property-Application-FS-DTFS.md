@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/linearity-property-application-fs-dtfs|linearity-property-application-fs-dtfs]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/linearity-property-application-fs-dtfs|linearity-property-application-fs-dtfs]]"
 learning-time-in-minutes: 6
 ---
 # Applying the Linearity Property for Simplified Fourier Series Calculations

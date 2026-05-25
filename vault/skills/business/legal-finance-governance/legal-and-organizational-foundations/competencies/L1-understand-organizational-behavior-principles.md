@@ -49,3 +49,6 @@ Explain the fundamental principles and impact of organizational behavior concept
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/communication-strategies|Communication Strategies]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/leadership-impact|Leadership Impact]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/change-management-principles|Change Management Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

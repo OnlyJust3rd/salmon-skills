@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing and executing tests for combined components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

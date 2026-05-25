@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Edit Distance problem using dynamic programming in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

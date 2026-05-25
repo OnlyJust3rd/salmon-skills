@@ -40,3 +40,6 @@ Explain the fundamentals of income tax, including who is required to pay and wha
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxability-determination|Taxability Determination]]
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxable-income-definition|Taxable Income Definition]]
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxpayer-identification|Taxpayer Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

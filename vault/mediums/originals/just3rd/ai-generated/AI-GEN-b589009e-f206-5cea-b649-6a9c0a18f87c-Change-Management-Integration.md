@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/change-management-integration|change-management-integration]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/change-management-integration|change-management-integration]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How Leadership and Culture Impact Change Initiatives

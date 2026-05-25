@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the importance and meaning of percentage error.
+## Related Mediums
+
+![[bases/related-mediums.base]]

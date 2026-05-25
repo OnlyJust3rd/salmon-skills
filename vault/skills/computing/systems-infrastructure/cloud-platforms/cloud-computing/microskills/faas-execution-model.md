@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how FaaS functions are triggered and run.
+## Related Mediums
+
+![[bases/related-mediums.base]]

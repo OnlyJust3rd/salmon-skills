@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-machine-learning-in-python-code-implementation|implement-machine-learning-in-python-code-implementation]]"
+learning-outcomes:
+  - "[[implement-machine-learning-in-python-code-implementation|implement-machine-learning-in-python-code-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing a Basic Machine Learning Model in Python

@@ -47,3 +47,6 @@ Compute discrete-time convolution for a given pair of input sequences using the 
 - [[convolution-process-steps|Convolution Process Steps]]
 - [[sequence-convolution-execution|Sequence Convolution Execution]]
 - [[output-sequence-determination|Output Sequence Determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing how protocol choices affect throughput and latency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

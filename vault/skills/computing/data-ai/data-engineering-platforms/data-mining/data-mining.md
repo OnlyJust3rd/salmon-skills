@@ -30,3 +30,6 @@ Applying the Cross-Industry Standard Process for Data Mining (CRISP-DM) framewor
 - [[skills/computing/data-ai/data-engineering-platforms/data-mining/microskills/crisp-dm-framework|CRISP-DM Framework]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-mining/microskills/logical-flow|Logical Flow]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-mining/microskills/phase-interconnections|Phase Interconnections]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of methods for designing complex systems at a high level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

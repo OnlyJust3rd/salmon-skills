@@ -45,3 +45,6 @@ Apply root cause analysis for technical issues.
 - [[skills/professional-practice/technical-troubleshooting/microskills/root-cause|Root Cause]]
 - [[skills/professional-practice/technical-troubleshooting/microskills/log-evidence|Log Evidence]]
 - [[skills/professional-practice/technical-troubleshooting/microskills/reproduction-steps|Reproduction Steps]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

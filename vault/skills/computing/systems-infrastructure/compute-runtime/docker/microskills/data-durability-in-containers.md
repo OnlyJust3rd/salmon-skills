@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how volumes ensure data is not lost.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/event-correlation|event-correlation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/security-monitoring/microskills/event-correlation|event-correlation]]"
 learning-time-in-minutes: 5
 ---
 # Event Correlation: Connecting the Dots in Security Monitoring

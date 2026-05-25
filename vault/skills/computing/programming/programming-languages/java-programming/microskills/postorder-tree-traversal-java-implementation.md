@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Postorder traversal for trees in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

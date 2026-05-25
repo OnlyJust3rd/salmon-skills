@@ -38,3 +38,6 @@ Explain Agile values, principles, and the difference between iterative delivery 
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/agile-values|Agile Values]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/iterative-incremental-delivery|Iterative Incremental Delivery]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/stakeholder-feedback-loop|Stakeholder Feedback Loop]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

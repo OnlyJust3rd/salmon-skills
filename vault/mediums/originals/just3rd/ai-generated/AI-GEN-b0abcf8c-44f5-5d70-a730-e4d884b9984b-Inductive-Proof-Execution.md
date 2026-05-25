@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/proof-techniques/microskills/inductive-proof-execution|inductive-proof-execution]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/proof-techniques/microskills/inductive-proof-execution|inductive-proof-execution]]"
 learning-time-in-minutes: 4
 ---
 # Inductive Proof Execution

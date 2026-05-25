@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Investigating the impact of congestion on delay.
+## Related Mediums
+
+![[bases/related-mediums.base]]

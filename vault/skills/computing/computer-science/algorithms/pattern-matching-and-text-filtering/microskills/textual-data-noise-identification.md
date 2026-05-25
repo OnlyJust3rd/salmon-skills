@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition and categorization of various forms of irrelevant or unwanted information present in text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

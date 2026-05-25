@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in defining clear function interfaces and parameter usage.
+## Related Mediums
+
+![[bases/related-mediums.base]]

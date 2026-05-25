@@ -43,3 +43,6 @@ Explain gameplay mechanics, including how character abilities function as gamepl
 - [[skills/digital-media/game-development/game-design/microskills/gameplay-mechanics-definition|Gameplay Mechanics Definition]]
 - [[skills/digital-media/game-development/game-design/microskills/character-abilities-as-mechanics|Character Abilities as Mechanics]]
 - [[skills/digital-media/game-development/game-design/microskills/action-to-mechanic-translation|Action-to-Mechanic Translation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/k-map-optimization-process|k-map-optimization-process]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/k-map-optimization-process|k-map-optimization-process]]"
 learning-time-in-minutes: 4
 ---
 # K-map Optimization Process: Simplifying Logic

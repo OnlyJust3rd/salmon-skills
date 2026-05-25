@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[shell-variables-and-parameters|shell-variables-and-parameters]]"
+learning-outcomes:
+  - "[[shell-variables-and-parameters|shell-variables-and-parameters]]"
 learning-time-in-minutes: 4
 ---
 # Shell Variables and Parameters: Making Your Scripts Reusable

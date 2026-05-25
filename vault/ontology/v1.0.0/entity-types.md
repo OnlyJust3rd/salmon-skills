@@ -78,6 +78,7 @@ Expected body:
 - Description.
 - `## Competencies`
 - `## Microskills`
+- `## Related Mediums`
 
 ## `competency`
 
@@ -104,6 +105,7 @@ Expected body:
 - `## Strict Prerequisites`
 - `## Optional Prerequisites`
 - `## Microskills`
+- `## Related Mediums`
 
 ## `microskill`
 
@@ -128,6 +130,7 @@ Expected body:
 - Parent skill link.
 - Competency links when available.
 - `## Description`
+- `## Related Mediums`
 
 ## `medium`
 
@@ -140,8 +143,12 @@ Required properties:
 - `title`
 - `tags`
 - `contributor`
-- `outcome`
+- `learning-outcomes`
 - `learning-time-in-minutes`
+
+Optional relationship properties:
+
+- `related-skills`
 
 ## `contributor`
 

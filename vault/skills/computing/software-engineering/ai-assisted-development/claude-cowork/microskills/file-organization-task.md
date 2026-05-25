@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Delegating sorting, naming, or extraction work over files.
+## Related Mediums
+
+![[bases/related-mediums.base]]

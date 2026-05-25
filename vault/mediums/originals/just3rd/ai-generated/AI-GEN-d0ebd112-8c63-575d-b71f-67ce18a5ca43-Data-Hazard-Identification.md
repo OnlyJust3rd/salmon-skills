@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/data-hazard-identification|data-hazard-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/data-hazard-identification|data-hazard-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Data Hazards: RAW, WAR, and WAW Dependencies

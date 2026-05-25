@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-construction|dockerfile-construction]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-construction|dockerfile-construction]]"
 learning-time-in-minutes: 4
 ---
 # Dockerfile Construction: Building Your First Container Image

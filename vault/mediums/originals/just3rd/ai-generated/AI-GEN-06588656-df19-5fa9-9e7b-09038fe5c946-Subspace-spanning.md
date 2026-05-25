@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/subspace-spanning|subspace-spanning]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/subspace-spanning|subspace-spanning]]"
 learning-time-in-minutes: 5
 ---
 # Ensuring Your Basis Spans the Same Subspace

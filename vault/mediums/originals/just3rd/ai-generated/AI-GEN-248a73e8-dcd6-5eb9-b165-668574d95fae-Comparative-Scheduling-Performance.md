@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|comparative-scheduling-performance]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/comparative-scheduling-performance|comparative-scheduling-performance]]"
 learning-time-in-minutes: 3
 ---
 # Comparative Scheduling Performance

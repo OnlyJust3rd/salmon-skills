@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of instruction sequencing in assembly programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

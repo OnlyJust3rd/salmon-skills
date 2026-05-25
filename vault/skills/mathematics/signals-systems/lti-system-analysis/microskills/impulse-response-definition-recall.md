@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recalling the fundamental definition of the impulse response.
+## Related Mediums
+
+![[bases/related-mediums.base]]

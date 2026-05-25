@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-setup-rectangular|triple-integral-setup-rectangular]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-setup-rectangular|triple-integral-setup-rectangular]]"
 learning-time-in-minutes: 5
 ---
 # Setting Up Triple Integrals in Rectangular Coordinates

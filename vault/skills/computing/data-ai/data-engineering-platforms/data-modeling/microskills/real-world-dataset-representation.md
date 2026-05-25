@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capability to represent real-world data using chosen modeling techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

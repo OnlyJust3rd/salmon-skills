@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding common difficulties encountered when deploying models onto physical robots.
+## Related Mediums
+
+![[bases/related-mediums.base]]

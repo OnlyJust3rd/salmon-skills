@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the purpose of file system abstraction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding why secrets should not be committed to source control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

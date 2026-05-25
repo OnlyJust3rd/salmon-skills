@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|mutual-exclusion-condition]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/mutual-exclusion-condition|mutual-exclusion-condition]]"
 learning-time-in-minutes: 3
 ---
 # The Mutual Exclusion Condition

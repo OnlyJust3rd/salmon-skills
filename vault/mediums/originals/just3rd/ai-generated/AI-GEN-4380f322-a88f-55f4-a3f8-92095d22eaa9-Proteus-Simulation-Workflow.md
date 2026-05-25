@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-simulation-workflow|proteus-simulation-workflow]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-simulation-workflow|proteus-simulation-workflow]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Proteus Simulation Workflow

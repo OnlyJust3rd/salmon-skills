@@ -51,3 +51,6 @@ Apply continuous code refactoring techniques to improve the structure and qualit
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/software-design-improvement|Software Design Improvement]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-readability-enhancement|Code Readability Enhancement]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/maintainability-improvement|Maintainability Improvement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

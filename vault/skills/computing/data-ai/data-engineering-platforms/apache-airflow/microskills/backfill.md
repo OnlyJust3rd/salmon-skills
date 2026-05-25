@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding historical reprocessing of scheduled work.
+## Related Mediums
+
+![[bases/related-mediums.base]]

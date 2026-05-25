@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/measurement-discrepancy-analysis|measurement-discrepancy-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/measurement-discrepancy-analysis|measurement-discrepancy-analysis]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing Measurement Discrepancies

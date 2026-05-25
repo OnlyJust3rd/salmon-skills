@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reactive-control-advantages|reactive-control-advantages]]"
+learning-outcomes:
+  - "[[reactive-control-advantages|reactive-control-advantages]]"
 learning-time-in-minutes: 4
 ---
 # Reactive Control: The Speed and Simplicity Advantage

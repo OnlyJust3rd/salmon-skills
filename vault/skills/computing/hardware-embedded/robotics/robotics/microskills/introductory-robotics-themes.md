@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of key themes from 'The Robot at First Sight'.
+## Related Mediums
+
+![[bases/related-mediums.base]]

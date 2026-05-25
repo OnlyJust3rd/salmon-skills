@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[system-recoverability-planning|system-recoverability-planning]]"
+learning-outcomes:
+  - "[[system-recoverability-planning|system-recoverability-planning]]"
 learning-time-in-minutes: 5
 ---
 # Planning for System Recoverability

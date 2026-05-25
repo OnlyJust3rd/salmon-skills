@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing of foundational concepts in human sensory processing for HCI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

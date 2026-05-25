@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role of normalization in maintaining data accuracy and consistency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the Mean Value Theorem to problems requiring the calculation of average rates of change.
+## Related Mediums
+
+![[bases/related-mediums.base]]

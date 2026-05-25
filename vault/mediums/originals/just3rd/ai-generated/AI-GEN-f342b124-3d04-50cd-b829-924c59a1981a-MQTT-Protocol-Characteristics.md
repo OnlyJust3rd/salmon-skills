@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mqtt-protocol-characteristics|mqtt-protocol-characteristics]]"
+learning-outcomes:
+  - "[[mqtt-protocol-characteristics|mqtt-protocol-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # MQTT Protocol Characteristics

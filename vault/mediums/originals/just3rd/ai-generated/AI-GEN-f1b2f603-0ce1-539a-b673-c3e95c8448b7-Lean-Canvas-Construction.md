@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/lean-canvas-construction|lean-canvas-construction]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/lean-canvas-construction|lean-canvas-construction]]"
 learning-time-in-minutes: 3
 ---
 # Constructing Your Lean Canvas

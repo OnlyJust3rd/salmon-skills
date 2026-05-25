@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|gpgpu-programming-models]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|gpgpu-programming-models]]"
 learning-time-in-minutes: 4
 ---
 # GPGPU Programming Models: A Summary

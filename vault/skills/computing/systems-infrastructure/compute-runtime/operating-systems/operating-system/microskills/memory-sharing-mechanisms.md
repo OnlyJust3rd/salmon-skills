@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how operating systems facilitate memory sharing among processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[problem-type-algorithm-implementation|problem-type-algorithm-implementation]]"
+learning-outcomes:
+  - "[[problem-type-algorithm-implementation|problem-type-algorithm-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing the Binary Search Algorithm in Java

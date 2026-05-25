@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of low-fidelity and high-fidelity prototypes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

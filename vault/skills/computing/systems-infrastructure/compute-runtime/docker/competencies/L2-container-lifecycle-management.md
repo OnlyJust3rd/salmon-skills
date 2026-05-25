@@ -47,3 +47,6 @@ Demonstrate the process of starting, stopping, and removing Docker containers in
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-stop-operations|Container Stop Operations]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-removal-operations|Container Removal Operations]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-state-transitions|Container State Transitions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

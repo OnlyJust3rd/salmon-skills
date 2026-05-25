@@ -6,7 +6,8 @@ tags:
   - roadmap
   - system-design
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[L1-recognize-system-design-term|L1-recognize-system-design-term]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]"
 learning-time-in-minutes: 60
 source: roadmap.sh
 ---
@@ -15,8 +16,7 @@ source: roadmap.sh
 
 [System Design Roadmap](https://roadmap.sh/system-design/) is a visual map of large-scale system design topics, useful as an orientation layer before deeper practice.
 
-## Outcome
-
-- [[L1-recognize-system-design-term|L1-recognize-system-design-term]]
+## Learning Outcomes
+- [[skills/computing/systems-infrastructure/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]
 - [[skills/professional-practice/engineering-practices/system-design/competencies/L1-list-system-design-approaches|L1-list-system-design-approaches]]
 

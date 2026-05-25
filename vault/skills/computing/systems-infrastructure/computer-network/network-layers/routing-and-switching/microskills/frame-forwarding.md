@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how switches use MAC addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

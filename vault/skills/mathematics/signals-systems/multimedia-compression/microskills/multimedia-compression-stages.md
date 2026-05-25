@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall and statement of sequential steps in multimedia compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

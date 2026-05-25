@@ -43,3 +43,6 @@ Describe the purpose of pacing in game level design and its impact on player eng
 - [[skills/digital-media/game-development/game-design/microskills/level-design-pacing-purpose|Level Design Pacing Purpose]]
 - [[skills/digital-media/game-development/game-design/microskills/player-engagement-impact|Player Engagement Impact]]
 - [[skills/digital-media/game-development/game-design/microskills/interactive-level-elements|Interactive Level Elements]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

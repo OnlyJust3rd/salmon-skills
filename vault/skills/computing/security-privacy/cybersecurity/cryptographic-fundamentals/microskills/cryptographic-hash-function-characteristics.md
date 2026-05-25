@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating fundamental defining features of hash functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

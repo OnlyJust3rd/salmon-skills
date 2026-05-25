@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/process-execution-simulation|process-execution-simulation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/process-execution-simulation|process-execution-simulation]]"
 learning-time-in-minutes: 3
 ---
 # Simulating Process Execution with Scheduling Algorithms

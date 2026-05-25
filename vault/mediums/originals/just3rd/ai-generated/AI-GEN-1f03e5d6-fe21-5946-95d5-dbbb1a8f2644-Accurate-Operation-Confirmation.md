@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/accurate-operation-confirmation|accurate-operation-confirmation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/accurate-operation-confirmation|accurate-operation-confirmation]]"
 learning-time-in-minutes: 6
 ---
 # Confirming Accurate Operation in Proteus Simulations

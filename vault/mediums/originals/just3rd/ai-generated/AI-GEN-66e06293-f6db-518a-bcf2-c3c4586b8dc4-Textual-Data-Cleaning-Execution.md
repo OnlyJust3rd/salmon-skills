@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[textual-data-cleaning-execution|textual-data-cleaning-execution]]"
+learning-outcomes:
+  - "[[textual-data-cleaning-execution|textual-data-cleaning-execution]]"
 learning-time-in-minutes: 3
 ---
 # Textual Data Cleaning Execution

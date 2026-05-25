@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/natural-funativity-theory|natural-funativity-theory]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/natural-funativity-theory|natural-funativity-theory]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Natural Funativity Theory

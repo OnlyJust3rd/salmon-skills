@@ -47,3 +47,6 @@ Manage software packages using Linux package management tools.
 - [[software-updates|Software Updates]]
 - [[software-removal|Software Removal]]
 - [[package-management-concepts|Package Management Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

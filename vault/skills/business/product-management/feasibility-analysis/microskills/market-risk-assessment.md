@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying potential threats from the market.
+## Related Mediums
+
+![[bases/related-mediums.base]]

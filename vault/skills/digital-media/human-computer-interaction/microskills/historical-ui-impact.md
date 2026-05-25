@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how past interface designs influence current practices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

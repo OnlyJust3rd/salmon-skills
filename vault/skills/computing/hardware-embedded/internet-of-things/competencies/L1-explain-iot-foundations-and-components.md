@@ -46,3 +46,6 @@ Explain the foundational concepts, evolution, and core principles of the Interne
 - [[key-iot-technologies|Key IoT Technologies]]
 - [[iot-standards-and-protocols|IoT Standards and Protocols]]
 - [[core-iot-components|Core IoT Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

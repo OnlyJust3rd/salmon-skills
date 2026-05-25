@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/market-understanding|market-understanding]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/market-understanding|market-understanding]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Your Market: The Purpose of Competitive Analysis

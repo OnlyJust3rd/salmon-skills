@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of new information and developments related to ANNs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

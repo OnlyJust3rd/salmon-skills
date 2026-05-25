@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the fundamental definition of High-Performance Computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

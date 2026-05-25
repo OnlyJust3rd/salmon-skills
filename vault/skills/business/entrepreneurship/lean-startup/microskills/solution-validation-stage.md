@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The BML cycle phase for testing solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

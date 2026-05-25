@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Conceptual understanding of matrix addition and scalar multiplication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

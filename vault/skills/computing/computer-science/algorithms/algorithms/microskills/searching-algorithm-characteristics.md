@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining features of searching algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

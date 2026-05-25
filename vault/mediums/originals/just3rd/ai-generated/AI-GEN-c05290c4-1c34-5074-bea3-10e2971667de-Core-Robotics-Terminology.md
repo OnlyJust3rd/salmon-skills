@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[core-robotics-terminology|core-robotics-terminology]]"
+learning-outcomes:
+  - "[[core-robotics-terminology|core-robotics-terminology]]"
 learning-time-in-minutes: 5
 ---
 # Core Robotics Terminology

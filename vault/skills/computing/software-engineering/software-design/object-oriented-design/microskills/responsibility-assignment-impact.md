@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the impact of responsibility assignment on system design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

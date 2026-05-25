@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assembling virtual circuits with correct connections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

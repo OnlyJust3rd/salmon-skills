@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[subsumption-architecture-implementation|subsumption-architecture-implementation]]"
+learning-outcomes:
+  - "[[subsumption-architecture-implementation|subsumption-architecture-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Subsumption Architecture in Robotics

@@ -43,3 +43,6 @@ Explain the underlying principles and assumptions of Amdahl's Law and Gustafson'
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/amdahl-s-law-principles|Amdahl's Law Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/gustafson-s-law-principles|Gustafson's Law Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/scalability-law-assumptions|Scalability Law Assumptions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

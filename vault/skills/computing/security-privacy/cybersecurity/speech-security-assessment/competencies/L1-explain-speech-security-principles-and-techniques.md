@@ -51,3 +51,6 @@ Explain the fundamental principles and identify the various techniques of digita
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/digital-ciphering-techniques|Digital Ciphering Techniques]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/analogue-scrambling-techniques|Analogue Scrambling Techniques]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/common-analogue-scrambling-methods|Common Analogue Scrambling Methods]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

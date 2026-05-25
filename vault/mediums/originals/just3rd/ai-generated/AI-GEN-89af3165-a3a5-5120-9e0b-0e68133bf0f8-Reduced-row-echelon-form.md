@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/reduced-row-echelon-form|reduced-row-echelon-form]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/reduced-row-echelon-form|reduced-row-echelon-form]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Reduced Row Echelon Form (RREF)

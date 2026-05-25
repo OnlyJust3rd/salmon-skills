@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Use media queries for basic viewport adaptation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

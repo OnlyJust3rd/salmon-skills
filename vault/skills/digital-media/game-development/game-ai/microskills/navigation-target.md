@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Selecting a movement destination.
+## Related Mediums
+
+![[bases/related-mediums.base]]

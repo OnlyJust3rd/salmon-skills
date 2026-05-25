@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-link-layer-framing|data-link-layer-framing]]"
+learning-outcomes:
+  - "[[data-link-layer-framing|data-link-layer-framing]]"
 learning-time-in-minutes: 3
 ---
 # Framing Data for Reliable Delivery

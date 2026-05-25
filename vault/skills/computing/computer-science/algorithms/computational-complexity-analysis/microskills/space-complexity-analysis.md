@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating the memory usage of algorithms using notation like Big O.
+## Related Mediums
+
+![[bases/related-mediums.base]]

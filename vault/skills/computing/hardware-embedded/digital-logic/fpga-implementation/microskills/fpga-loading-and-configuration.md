@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to load and configure digital designs on an FPGA.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Demonstrate the dependencies of HTTP and DNS within a typical web browsing scena
 - [[http-and-dns-interaction|HTTP and DNS Interaction]]
 - [[web-browsing-scenario|Web Browsing Scenario]]
 - [[protocol-interdependence|Protocol Interdependence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

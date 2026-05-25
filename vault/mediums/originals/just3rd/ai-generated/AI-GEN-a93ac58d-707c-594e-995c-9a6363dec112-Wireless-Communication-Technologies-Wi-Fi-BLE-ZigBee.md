@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[wireless-communication-technologies-wi-fi-ble-zigbee|wireless-communication-technologies-wi-fi-ble-zigbee]]"
+learning-outcomes:
+  - "[[wireless-communication-technologies-wi-fi-ble-zigbee|wireless-communication-technologies-wi-fi-ble-zigbee]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Wireless Communication Technologies for IoT

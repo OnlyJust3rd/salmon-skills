@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-disadvantage-analysis|design-pattern-disadvantage-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-disadvantage-analysis|design-pattern-disadvantage-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Design Pattern Disadvantages

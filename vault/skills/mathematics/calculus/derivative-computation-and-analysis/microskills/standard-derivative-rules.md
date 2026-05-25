@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of fundamental rules for computing derivatives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-esp-application-demonstration|ipsec-esp-application-demonstration]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-esp-application-demonstration|ipsec-esp-application-demonstration]]"
 learning-time-in-minutes: 3
 ---
 # IPSec ESP Application Demonstration

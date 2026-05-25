@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain local state updates and effect lifecycles at a basic level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

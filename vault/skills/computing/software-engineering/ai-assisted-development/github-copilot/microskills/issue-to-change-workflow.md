@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting implementation work to tracked issues.
+## Related Mediums
+
+![[bases/related-mediums.base]]

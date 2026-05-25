@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition and definition of vanishing points.
+## Related Mediums
+
+![[bases/related-mediums.base]]

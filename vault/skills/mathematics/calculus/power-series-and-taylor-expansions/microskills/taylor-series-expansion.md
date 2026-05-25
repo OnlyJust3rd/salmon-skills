@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to expand standard functions into Taylor series.
+## Related Mediums
+
+![[bases/related-mediums.base]]

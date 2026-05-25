@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Programming a SIMBot robot to navigate a simple maze.
+## Related Mediums
+
+![[bases/related-mediums.base]]

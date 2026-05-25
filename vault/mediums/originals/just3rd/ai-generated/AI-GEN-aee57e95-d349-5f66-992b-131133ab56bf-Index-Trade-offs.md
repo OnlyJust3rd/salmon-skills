@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-trade-offs|index-trade-offs]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-trade-offs|index-trade-offs]]"
 learning-time-in-minutes: 5
 ---
 # Index Trade-offs: Balancing Speed and Cost

@@ -43,3 +43,6 @@ Identify the basic signal operations of flipping and time-shifting.
 - [[time-reversal-identification|Time Reversal Identification]]
 - [[time-shifting-identification|Time Shifting Identification]]
 - [[signal-operation-symbolism|Signal Operation Symbolism]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

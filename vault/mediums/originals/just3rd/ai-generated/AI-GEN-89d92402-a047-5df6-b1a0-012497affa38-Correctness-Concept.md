@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/correctness-concept|correctness-concept]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/correctness-concept|correctness-concept]]"
 learning-time-in-minutes: 4
 ---
 # Ensuring Correctness in Problem Solving

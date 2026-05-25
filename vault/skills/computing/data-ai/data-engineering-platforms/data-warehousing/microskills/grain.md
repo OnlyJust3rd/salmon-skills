@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining the level of detail in a fact table.
+## Related Mediums
+
+![[bases/related-mediums.base]]

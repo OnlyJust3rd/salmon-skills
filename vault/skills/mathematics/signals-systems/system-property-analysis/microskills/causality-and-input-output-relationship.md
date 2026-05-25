@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing how causality influences the system's output based on present and past inputs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

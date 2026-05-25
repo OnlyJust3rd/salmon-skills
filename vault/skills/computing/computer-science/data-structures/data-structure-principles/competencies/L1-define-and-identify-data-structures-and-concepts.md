@@ -45,3 +45,6 @@ Define and identify fundamental data structures, including static and dynamic me
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/memory-management-concepts|Memory Management Concepts]]
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/data-structure-classifications|Data Structure Classifications]]
 - [[skills/computing/computer-science/data-structures/data-structure-principles/microskills/common-data-structure-identification|Common Data Structure Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using UML to model static system components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

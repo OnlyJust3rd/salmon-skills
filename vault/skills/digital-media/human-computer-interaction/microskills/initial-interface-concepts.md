@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of preliminary design ideas for computer-based devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

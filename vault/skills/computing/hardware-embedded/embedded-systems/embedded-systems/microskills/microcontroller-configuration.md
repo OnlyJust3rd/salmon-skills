@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in configuring microcontrollers for embedded systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

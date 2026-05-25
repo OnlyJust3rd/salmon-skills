@@ -49,3 +49,6 @@ Explain the purpose of rule-based alerting in system monitoring.
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/system-health-monitoring|System Health Monitoring]]
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/incident-response-trigger|Incident Response Trigger]]
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/performance-degradation-notification|Performance Degradation Notification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

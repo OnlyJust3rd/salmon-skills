@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Reading cycle time to understand how long work takes from start to finish.
+## Related Mediums
+
+![[bases/related-mediums.base]]

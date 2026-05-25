@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[modular-interfaces-design|modular-interfaces-design]]"
+learning-outcomes:
+  - "[[modular-interfaces-design|modular-interfaces-design]]"
 learning-time-in-minutes: 3
 ---
 # Designing Modular C Function Interfaces

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in implementing circuit designs in Proteus 8.
+## Related Mediums
+
+![[bases/related-mediums.base]]

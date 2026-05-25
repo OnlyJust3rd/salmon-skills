@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Selecting appropriate timer/counter operating modes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The process of selecting a primary switch.
+## Related Mediums
+
+![[bases/related-mediums.base]]

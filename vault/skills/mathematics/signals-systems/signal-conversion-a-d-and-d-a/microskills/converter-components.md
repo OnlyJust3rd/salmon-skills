@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of constituent parts of basic A/D and D/A converters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

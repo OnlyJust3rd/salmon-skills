@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/simplified-system-analysis-with-lti-properties|simplified-system-analysis-with-lti-properties]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/simplified-system-analysis-with-lti-properties|simplified-system-analysis-with-lti-properties]]"
 learning-time-in-minutes: 5
 ---
 # Simplifying System Analysis with LTI Properties

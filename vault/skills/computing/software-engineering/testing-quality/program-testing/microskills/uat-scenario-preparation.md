@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in preparing realistic UAT scenarios using program inputs and expected outcomes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

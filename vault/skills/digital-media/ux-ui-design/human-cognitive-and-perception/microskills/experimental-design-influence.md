@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how cognitive and perceptual factors affect experimental design and results.
+## Related Mediums
+
+![[bases/related-mediums.base]]

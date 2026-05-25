@@ -51,3 +51,6 @@ Apply criteria to select appropriate regions, availability zones, compute instan
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-family-selection|Compute Instance Family Selection]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-type-selection|Storage Type Selection]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/architectural-decision-making|Architectural Decision Making]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

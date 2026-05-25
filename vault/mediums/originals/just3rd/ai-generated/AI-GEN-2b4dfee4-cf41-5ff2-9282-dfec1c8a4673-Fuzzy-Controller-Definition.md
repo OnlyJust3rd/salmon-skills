@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-controller-definition|fuzzy-controller-definition]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-controller-definition|fuzzy-controller-definition]]"
 learning-time-in-minutes: 3
 ---
 # Defining Fuzzy Controllers

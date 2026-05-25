@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/positive-definite-characteristics|positive-definite-characteristics]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/positive-definite-characteristics|positive-definite-characteristics]]"
 learning-time-in-minutes: 6
 ---
 # Positive Definite Quadratic Forms: Key Characteristics

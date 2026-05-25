@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and explanation of inverse functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

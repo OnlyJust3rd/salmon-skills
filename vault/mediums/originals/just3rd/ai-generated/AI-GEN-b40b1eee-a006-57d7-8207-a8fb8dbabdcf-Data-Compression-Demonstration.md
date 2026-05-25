@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/data-compression-demonstration|data-compression-demonstration]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/data-compression-demonstration|data-compression-demonstration]]"
 learning-time-in-minutes: 3
 ---
 # Demonstrating Huffman Coding for Data Compression

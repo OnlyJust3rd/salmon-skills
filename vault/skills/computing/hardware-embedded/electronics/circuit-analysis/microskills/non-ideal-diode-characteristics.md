@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the practical behavior of real diodes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

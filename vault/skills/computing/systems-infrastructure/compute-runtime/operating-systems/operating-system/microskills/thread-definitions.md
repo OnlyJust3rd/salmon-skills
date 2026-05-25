@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of threads in operating systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

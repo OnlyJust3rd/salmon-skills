@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/product-strategy/microskills/opportunity-sizing|opportunity-sizing]]"
+learning-outcomes:
+  - "[[skills/business/product-management/product-strategy/microskills/opportunity-sizing|opportunity-sizing]]"
 learning-time-in-minutes: 6
 ---
 # Opportunity Sizing: Estimating Relative Value or Impact

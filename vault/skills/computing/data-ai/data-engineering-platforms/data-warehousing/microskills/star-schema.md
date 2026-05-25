@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Organizing facts around related dimensions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

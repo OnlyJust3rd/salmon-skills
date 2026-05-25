@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[root-bridge-election|root-bridge-election]]"
+learning-outcomes:
+  - "[[root-bridge-election|root-bridge-election]]"
 learning-time-in-minutes: 4
 ---
 # Root Bridge Election: The First Step in STP

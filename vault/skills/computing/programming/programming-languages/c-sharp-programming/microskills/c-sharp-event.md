@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding event-driven code flow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

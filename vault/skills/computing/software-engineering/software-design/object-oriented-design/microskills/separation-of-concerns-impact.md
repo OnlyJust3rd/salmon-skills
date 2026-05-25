@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the impact of separation of concerns on system design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Evaluate rendering results based on visual quality and the effective use of real
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-quality-evaluation|Visual Quality Evaluation]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/effectiveness-of-realism-techniques|Effectiveness of Realism Techniques]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/rendering-success-assessment|Rendering Success Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

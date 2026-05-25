@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adding behavior or data to actors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

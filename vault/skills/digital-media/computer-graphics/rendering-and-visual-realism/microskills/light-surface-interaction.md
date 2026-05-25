@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how light interacts with surfaces in 3D scenes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

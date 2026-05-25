@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the relationship between distortion and accuracy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

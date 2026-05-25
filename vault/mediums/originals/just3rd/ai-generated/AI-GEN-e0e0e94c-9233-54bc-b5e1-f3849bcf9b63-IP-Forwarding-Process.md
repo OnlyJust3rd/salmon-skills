@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ip-forwarding-process|ip-forwarding-process]]"
+learning-outcomes:
+  - "[[ip-forwarding-process|ip-forwarding-process]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the IP Forwarding Process

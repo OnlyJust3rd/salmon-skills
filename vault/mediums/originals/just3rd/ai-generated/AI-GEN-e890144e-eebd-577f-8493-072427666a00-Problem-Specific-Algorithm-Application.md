@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/problem-specific-algorithm-application|problem-specific-algorithm-application]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/problem-specific-algorithm-application|problem-specific-algorithm-application]]"
 learning-time-in-minutes: 3
 ---
 # Problem-Specific Algorithm Application

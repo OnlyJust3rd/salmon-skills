@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[macro-definitions-for-register-access|macro-definitions-for-register-access]]"
+learning-outcomes:
+  - "[[macro-definitions-for-register-access|macro-definitions-for-register-access]]"
 learning-time-in-minutes: 2
 ---
 # Macro Definitions for Readable Register Access

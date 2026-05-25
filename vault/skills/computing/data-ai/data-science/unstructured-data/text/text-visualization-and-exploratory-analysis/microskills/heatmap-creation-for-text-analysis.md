@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Generation of heatmaps to visually represent relationships within text data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

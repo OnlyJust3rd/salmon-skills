@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|serverless-architecture-use-cases]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|serverless-architecture-use-cases]]"
 learning-time-in-minutes: 6
 ---
 # Serverless Architecture Use Cases

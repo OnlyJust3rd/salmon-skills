@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reasoning about query behavior in Redshift.
+## Related Mediums
+
+![[bases/related-mediums.base]]

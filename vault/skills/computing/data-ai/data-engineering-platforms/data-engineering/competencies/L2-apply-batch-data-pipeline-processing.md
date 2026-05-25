@@ -47,3 +47,6 @@ Apply batch data pipeline processing.
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/batch-processing|Batch Processing]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-validation|Data Validation]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/pipeline-output|Pipeline Output]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/column-family-stores|column-family-stores]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/column-family-stores|column-family-stores]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Column-Family Stores

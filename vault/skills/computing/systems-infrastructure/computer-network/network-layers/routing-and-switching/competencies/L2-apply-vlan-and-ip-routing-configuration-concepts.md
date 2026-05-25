@@ -47,3 +47,6 @@ Apply VLAN and IP routing configuration concepts.
 - [[vlan-membership|VLAN Membership]]
 - [[default-gateway|Default Gateway]]
 - [[route-selection|Route Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Outlining the concept of the virtuality continuum.
+## Related Mediums
+
+![[bases/related-mediums.base]]

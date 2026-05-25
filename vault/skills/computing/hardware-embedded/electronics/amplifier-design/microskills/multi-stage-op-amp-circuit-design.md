@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of complex op-amp circuits with specific gains.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the fundamental principles of hard computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

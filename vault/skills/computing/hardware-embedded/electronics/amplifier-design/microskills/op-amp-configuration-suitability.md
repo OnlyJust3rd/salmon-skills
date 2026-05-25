@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of different op-amp setups for target gains.
+## Related Mediums
+
+![[bases/related-mediums.base]]

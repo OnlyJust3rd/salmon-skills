@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of various models and approaches in user interface design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

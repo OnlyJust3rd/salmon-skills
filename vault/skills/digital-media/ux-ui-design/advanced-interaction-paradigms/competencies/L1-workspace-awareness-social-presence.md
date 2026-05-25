@@ -45,3 +45,6 @@ Explain the principles of workspace awareness and social presence in conversatio
 - [[workspace-awareness-principles|Workspace Awareness Principles]]
 - [[social-presence-principles|Social Presence Principles]]
 - [[conversational-technology-design|Conversational Technology Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

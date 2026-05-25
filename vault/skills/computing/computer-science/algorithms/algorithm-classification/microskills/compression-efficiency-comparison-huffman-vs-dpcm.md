@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of differing outcomes in compression efficiency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

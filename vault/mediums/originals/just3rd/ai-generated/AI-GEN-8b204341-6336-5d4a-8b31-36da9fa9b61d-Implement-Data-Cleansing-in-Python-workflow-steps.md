@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-data-cleansing-in-python-workflow-steps|implement-data-cleansing-in-python-workflow-steps]]"
+learning-outcomes:
+  - "[[implement-data-cleansing-in-python-workflow-steps|implement-data-cleansing-in-python-workflow-steps]]"
 learning-time-in-minutes: 3
 ---
 # Implementing a Data Cleansing Workflow in Python

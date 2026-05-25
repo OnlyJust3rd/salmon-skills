@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Routing issues to the responsible resolver group.
+## Related Mediums
+
+![[bases/related-mediums.base]]

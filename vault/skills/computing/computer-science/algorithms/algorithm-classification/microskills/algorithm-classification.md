@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Categorization of cryptographic algorithms as symmetric or asymmetric based on defining characteristics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

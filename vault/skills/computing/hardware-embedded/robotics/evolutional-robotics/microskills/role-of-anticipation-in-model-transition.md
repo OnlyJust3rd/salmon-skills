@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how anticipation aids in adapting models from simulation to the real world.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of visualization libraries to create graphical representations of text data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

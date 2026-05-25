@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[software-updates|software-updates]]"
+learning-outcomes:
+  - "[[software-updates|software-updates]]"
 learning-time-in-minutes: 4
 ---
 # Updating Linux Software Packages

@@ -47,3 +47,6 @@ Explain secrets management for credentials, keys, tokens, certificates, and runt
 - [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/secret-rotation|Secret Rotation]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/runtime-injection|Runtime Injection]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/source-code-separation|Source Code Separation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

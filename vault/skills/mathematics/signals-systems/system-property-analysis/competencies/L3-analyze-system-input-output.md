@@ -49,3 +49,6 @@ Analyze the relationships between input-output behavior and the properties of li
 - [[time-invariance-and-input-output-relationship|Time-Invariance and Input-Output Relationship]]
 - [[causality-and-input-output-relationship|Causality and Input-Output Relationship]]
 - [[stability-and-input-output-relationship|Stability and Input-Output Relationship]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

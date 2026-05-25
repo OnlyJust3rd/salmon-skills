@@ -49,3 +49,6 @@ Describe how mobile robots use software algorithms and hardware implementations 
 - [[software-algorithm-role-in-path-planning|Software Algorithm Role in Path Planning]]
 - [[hardware-component-role-in-path-planning|Hardware Component Role in Path Planning]]
 - [[mobile-robot-navigation-strategy-explanation|Mobile Robot Navigation Strategy Explanation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

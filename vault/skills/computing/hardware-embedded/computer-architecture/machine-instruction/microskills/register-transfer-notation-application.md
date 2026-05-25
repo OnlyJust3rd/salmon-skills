@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of register transfer notations in assembly code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

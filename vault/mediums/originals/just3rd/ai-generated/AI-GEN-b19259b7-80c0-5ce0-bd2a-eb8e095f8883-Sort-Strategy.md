@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/sort-strategy|sort-strategy]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/sort-strategy|sort-strategy]]"
 learning-time-in-minutes: 3
 ---
 # Redshift Sort Keys: Speeding Up Your Queries

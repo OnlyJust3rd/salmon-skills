@@ -42,3 +42,6 @@ This is hirable at mid to senior backend/full-stack level when a candidate can d
 - [[data-partitioning|Data Partitioning]]
 - [[consistent-hashing|Consistent Hashing]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/conceptual-architecture-development|conceptual-architecture-development]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

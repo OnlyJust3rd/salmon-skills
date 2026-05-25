@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Protection of critical sections using Test-and-Set locks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

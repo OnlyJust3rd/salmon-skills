@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/video-sequence-watermarking|video-sequence-watermarking]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/video-sequence-watermarking|video-sequence-watermarking]]"
 learning-time-in-minutes: 5
 ---
 # Video Sequence Watermarking

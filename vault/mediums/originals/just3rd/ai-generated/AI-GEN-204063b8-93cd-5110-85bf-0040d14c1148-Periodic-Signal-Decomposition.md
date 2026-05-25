@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/periodic-signal-decomposition|periodic-signal-decomposition]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/periodic-signal-decomposition|periodic-signal-decomposition]]"
 learning-time-in-minutes: 3
 ---
 # Decomposing Periodic Signals into Sine and Cosine Terms

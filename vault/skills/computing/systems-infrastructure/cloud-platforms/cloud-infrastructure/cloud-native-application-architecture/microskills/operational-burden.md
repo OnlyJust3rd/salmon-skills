@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing self-managed and provider-managed responsibilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

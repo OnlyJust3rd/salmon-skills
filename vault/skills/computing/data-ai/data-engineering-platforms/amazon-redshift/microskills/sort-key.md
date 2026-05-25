@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding ordering choices for query performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

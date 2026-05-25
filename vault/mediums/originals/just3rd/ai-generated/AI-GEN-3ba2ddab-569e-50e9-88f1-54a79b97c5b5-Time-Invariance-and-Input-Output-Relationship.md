@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/time-invariance-and-input-output-relationship|time-invariance-and-input-output-relationship]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/time-invariance-and-input-output-relationship|time-invariance-and-input-output-relationship]]"
 learning-time-in-minutes: 5
 ---
 # Time-Invariance: How the System Responds to Shifts in Time

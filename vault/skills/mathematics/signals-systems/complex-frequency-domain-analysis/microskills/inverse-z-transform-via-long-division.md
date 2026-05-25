@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Computing inverse Z-transforms using the long division method.
+## Related Mediums
+
+![[bases/related-mediums.base]]

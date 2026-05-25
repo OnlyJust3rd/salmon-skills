@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing the appropriate combinatorial method for a given problem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/machine-instruction-categorization|machine-instruction-categorization]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/machine-instruction-categorization|machine-instruction-categorization]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Machine Instruction Categories

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/distributed-storage|distributed-storage]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/distributed-storage|distributed-storage]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Hadoop Distributed Storage: Data Across the Cluster

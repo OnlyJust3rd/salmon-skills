@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the distinct properties and uses of different color models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how multiple customers can share a software platform.
+## Related Mediums
+
+![[bases/related-mediums.base]]

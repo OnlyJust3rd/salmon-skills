@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-evaluation-rectangular|triple-integral-evaluation-rectangular]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/triple-integral-evaluation-rectangular|triple-integral-evaluation-rectangular]]"
 learning-time-in-minutes: 4
 ---
 # Triple Integral Evaluation in Rectangular Coordinates

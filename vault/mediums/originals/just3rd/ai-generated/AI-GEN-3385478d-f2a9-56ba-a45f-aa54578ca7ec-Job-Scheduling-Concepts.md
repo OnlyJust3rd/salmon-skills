@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[job-scheduling-concepts|job-scheduling-concepts]]"
+learning-outcomes:
+  - "[[job-scheduling-concepts|job-scheduling-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Job Scheduling in Linux

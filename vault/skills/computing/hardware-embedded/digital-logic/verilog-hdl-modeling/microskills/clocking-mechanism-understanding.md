@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deciphering the clocking mechanism in Verilog counter models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

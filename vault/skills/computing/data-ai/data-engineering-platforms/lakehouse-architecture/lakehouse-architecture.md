@@ -38,3 +38,6 @@ Understanding lakehouse architecture that combines data lake storage with wareho
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/unified-analytics|Unified Analytics]]
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/warehouse-semantics|Warehouse Semantics]]
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/workload-fit|Workload Fit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

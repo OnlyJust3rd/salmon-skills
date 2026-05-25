@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[statistical-data-analysis|statistical-data-analysis]]"
+learning-outcomes:
+  - "[[statistical-data-analysis|statistical-data-analysis]]"
 learning-time-in-minutes: 6
 ---
 # Statistical Data Analysis for Usability Evaluations

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|cluster-middleware-components]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/cluster-middleware-components|cluster-middleware-components]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Cluster Middleware Components

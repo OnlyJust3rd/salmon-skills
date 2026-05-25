@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of MPI_Pack for preparing data for efficient message transmission.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interaction-design-process|interaction-design-process]]"
+learning-outcomes:
+  - "[[interaction-design-process|interaction-design-process]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Interaction Design Process

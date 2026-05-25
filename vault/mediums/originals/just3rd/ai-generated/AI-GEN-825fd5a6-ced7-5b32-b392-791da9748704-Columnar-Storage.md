@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/columnar-storage|columnar-storage]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/columnar-storage|columnar-storage]]"
 learning-time-in-minutes: 3
 ---
 # Columnar Storage for Cloud Data Warehouses

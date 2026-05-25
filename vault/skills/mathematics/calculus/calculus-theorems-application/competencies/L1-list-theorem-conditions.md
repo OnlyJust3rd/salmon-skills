@@ -43,3 +43,6 @@ List the conditions under which Rolle's Theorem and the Mean Value Theorem can b
 - [[rolle-s-theorem-applicability-conditions|Rolle's Theorem applicability conditions]]
 - [[mean-value-theorem-applicability-conditions|Mean Value Theorem applicability conditions]]
 - [[conditions-for-differentiable-functions|Conditions for differentiable functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

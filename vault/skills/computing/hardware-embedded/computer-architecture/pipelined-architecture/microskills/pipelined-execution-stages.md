@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the distinct stages within a pipelined processor.
+## Related Mediums
+
+![[bases/related-mediums.base]]

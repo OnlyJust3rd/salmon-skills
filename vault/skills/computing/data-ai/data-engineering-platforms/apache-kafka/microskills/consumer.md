@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reading events from a topic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

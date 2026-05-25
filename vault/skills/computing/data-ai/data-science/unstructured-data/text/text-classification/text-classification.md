@@ -42,3 +42,6 @@ Build and evaluate supervised machine learning models for categorizing text into
 - [[naive-bayes-classifier-implementation|Naïve Bayes Classifier Implementation]]
 - [[recurrent-neural-network-rnn-principles|Recurrent Neural Network (RNN) Principles]]
 - [[text-classification-algorithm-application|Text Classification Algorithm Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

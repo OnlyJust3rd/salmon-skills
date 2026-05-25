@@ -45,3 +45,6 @@ Identify and define the fundamental components, types, and mathematical function
 - [[signal-classifications|Signal Classifications]]
 - [[standard-signal-functions|Standard Signal Functions]]
 - [[mathematical-signal-models|Mathematical Signal Models]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

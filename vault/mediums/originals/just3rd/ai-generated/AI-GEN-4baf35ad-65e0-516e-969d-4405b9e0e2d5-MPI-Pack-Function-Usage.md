@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-pack-function-usage|mpi-pack-function-usage]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-pack-function-usage|mpi-pack-function-usage]]"
 learning-time-in-minutes: 4
 ---
 # Understanding MPI_Pack for Efficient Data Transmission

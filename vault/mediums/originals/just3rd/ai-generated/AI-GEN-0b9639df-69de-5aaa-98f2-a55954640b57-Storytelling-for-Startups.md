@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/storytelling-for-startups|storytelling-for-startups]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/storytelling-for-startups|storytelling-for-startups]]"
 learning-time-in-minutes: 4
 ---
 # Storytelling for Startups: Weaving Your Startup's Narrative

@@ -47,3 +47,6 @@ Explain the concept and benefits of VLANs.
 - [[vlan-advantages|VLAN Advantages]]
 - [[network-segmentation-with-vlans|Network Segmentation with VLANs]]
 - [[logical-network-grouping|Logical Network Grouping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[virtual-reality-concepts|virtual-reality-concepts]]"
+learning-outcomes:
+  - "[[virtual-reality-concepts|virtual-reality-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Virtual Reality (VR) Concepts

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-spend-visibility|cloud-spend-visibility]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-spend-visibility|cloud-spend-visibility]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cloud Spend Visibility

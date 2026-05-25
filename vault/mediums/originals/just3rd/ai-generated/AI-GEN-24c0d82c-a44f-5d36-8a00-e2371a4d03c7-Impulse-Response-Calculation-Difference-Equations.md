@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/impulse-response-calculation-difference-equations|impulse-response-calculation-difference-equations]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/impulse-response-calculation-difference-equations|impulse-response-calculation-difference-equations]]"
 learning-time-in-minutes: 4
 ---
 # Calculating the Impulse Response from Difference Equations

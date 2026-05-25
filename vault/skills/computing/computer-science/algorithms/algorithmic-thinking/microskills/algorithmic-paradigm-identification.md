@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of common approaches to algorithm design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of essential tools within Proteus 8.
+## Related Mediums
+
+![[bases/related-mediums.base]]

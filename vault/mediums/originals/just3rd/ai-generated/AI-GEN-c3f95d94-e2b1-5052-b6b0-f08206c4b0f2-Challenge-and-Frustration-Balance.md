@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/challenge-and-frustration-balance|challenge-and-frustration-balance]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/challenge-and-frustration-balance|challenge-and-frustration-balance]]"
 learning-time-in-minutes: 5
 ---
 # Balancing Challenge and Frustration in Games

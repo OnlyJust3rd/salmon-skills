@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding geometry structure for real-time models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

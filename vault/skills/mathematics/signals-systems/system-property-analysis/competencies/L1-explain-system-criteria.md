@@ -51,3 +51,6 @@ Explain the criteria for determining if a system is static/dynamic, causal, stab
 - [[invertible-system-definition|Invertible System Definition]]
 - [[skills/mathematics/signals-systems/system-property-analysis/microskills/linear-system-definition|Linear System Definition]]
 - [[time-invariant-system-definition|Time-Invariant System Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

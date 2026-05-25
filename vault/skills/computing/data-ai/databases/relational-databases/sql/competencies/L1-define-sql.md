@@ -39,3 +39,6 @@ Define SQL (Structured Query Language).
 ## Microskills
 
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/structured-query-language-sql-definition|Structured Query Language (SQL) Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

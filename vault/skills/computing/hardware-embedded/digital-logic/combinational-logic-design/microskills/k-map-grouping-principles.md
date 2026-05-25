@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of grouping principles in K-maps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

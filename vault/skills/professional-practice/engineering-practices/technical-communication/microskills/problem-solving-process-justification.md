@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the efficacy and application of the chosen problem-solving approach.
+## Related Mediums
+
+![[bases/related-mediums.base]]

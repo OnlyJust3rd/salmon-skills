@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to provide concise overviews of the purpose and scope of Computer Engineering domains.
+## Related Mediums
+
+![[bases/related-mediums.base]]

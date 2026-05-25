@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding algorithms for specific problem categories like searching, sorting, or graph traversal in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

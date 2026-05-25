@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Designing and executing a fuzzy logic-controlled robotic system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

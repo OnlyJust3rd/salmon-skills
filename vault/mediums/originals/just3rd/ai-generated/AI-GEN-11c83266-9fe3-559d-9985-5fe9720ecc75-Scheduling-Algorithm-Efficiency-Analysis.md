@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|scheduling-algorithm-efficiency-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-efficiency-analysis|scheduling-algorithm-efficiency-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Scheduling Algorithm Efficiency Analysis

@@ -49,3 +49,6 @@ Explain the theoretical concepts of memory, process, and I/O management in opera
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/process-management-concepts|Process Management Concepts]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-management-theories|I/O Management Theories]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-resource-concepts|Operating System Resource Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

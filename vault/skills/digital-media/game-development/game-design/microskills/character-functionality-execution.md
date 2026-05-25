@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of mechanics that align with a character's intended purpose in the game.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recording symptoms, steps taken, and resolution notes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

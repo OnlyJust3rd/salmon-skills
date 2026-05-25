@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/digest-size-consistency|digest-size-consistency]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/digest-size-consistency|digest-size-consistency]]"
 learning-time-in-minutes: 3
 ---
 # Digest Size Consistency in Hash Functions

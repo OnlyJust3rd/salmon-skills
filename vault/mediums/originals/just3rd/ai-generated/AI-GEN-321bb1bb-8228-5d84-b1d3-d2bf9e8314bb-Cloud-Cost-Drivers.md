@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-cost-drivers|cloud-cost-drivers]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-cost-drivers|cloud-cost-drivers]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cloud Cost Drivers

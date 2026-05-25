@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-truth-tables|flip-flop-truth-tables]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-truth-tables|flip-flop-truth-tables]]"
 learning-time-in-minutes: 4
 ---
 # Flip-Flop Truth Tables

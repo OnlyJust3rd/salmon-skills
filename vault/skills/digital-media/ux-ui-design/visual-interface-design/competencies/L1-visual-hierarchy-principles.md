@@ -41,3 +41,6 @@ Identify key principles of visual hierarchy in user interface design.
 
 - [[visual-hierarchy-principles|Visual Hierarchy Principles]]
 - [[interface-element-organization|Interface Element Organization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

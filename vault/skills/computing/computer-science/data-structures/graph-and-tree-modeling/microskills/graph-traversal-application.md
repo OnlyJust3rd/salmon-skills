@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using algorithms like DFS or BFS to explore graph nodes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

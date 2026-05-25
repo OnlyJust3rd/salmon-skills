@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of documenting collaborative choices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

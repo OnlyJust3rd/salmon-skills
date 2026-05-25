@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Incorporation of various interaction styles into interface designs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

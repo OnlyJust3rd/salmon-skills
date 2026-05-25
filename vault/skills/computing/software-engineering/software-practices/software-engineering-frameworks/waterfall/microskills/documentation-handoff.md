@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Preparing documentation that allows downstream phases or teams to continue work predictably.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/loader-and-linker-processes|loader-and-linker-processes]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/loader-and-linker-processes|loader-and-linker-processes]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Loader and Linker Processes

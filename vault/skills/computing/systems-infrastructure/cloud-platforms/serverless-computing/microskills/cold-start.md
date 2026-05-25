@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the delay when a function is invoked after a period of inactivity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

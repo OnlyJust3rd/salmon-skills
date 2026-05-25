@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-solution-evaluation|engineering-solution-evaluation]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-solution-evaluation|engineering-solution-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating Engineering Solutions: Finding the Best Fit

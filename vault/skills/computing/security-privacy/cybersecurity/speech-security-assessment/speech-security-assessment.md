@@ -62,3 +62,6 @@ Assessing the advantages and vulnerabilities of speech security systems, compari
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/hypothetical-speech-signal-ciphering|Hypothetical Speech Signal Ciphering]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/speech-security-mechanism-comparison|Speech Security Mechanism Comparison]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/speech-security-method-comparison|Speech Security Method Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/use-case-diagram-creation|use-case-diagram-creation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/use-case-diagram-creation|use-case-diagram-creation]]"
 learning-time-in-minutes: 5
 ---
 # Creating Use Case Diagrams: Visualizing System Functionality

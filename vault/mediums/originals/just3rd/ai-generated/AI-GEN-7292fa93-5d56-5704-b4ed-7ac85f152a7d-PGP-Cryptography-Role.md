@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/pgp-cryptography-role|pgp-cryptography-role]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/pgp-cryptography-role|pgp-cryptography-role]]"
 learning-time-in-minutes: 3
 ---
 # Understanding PGP's Role in Applied Cryptography

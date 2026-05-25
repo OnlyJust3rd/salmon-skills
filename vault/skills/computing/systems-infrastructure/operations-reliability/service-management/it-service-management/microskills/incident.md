@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding disruptions to normal service operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

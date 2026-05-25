@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[linked-file-allocation|linked-file-allocation]]"
+learning-outcomes:
+  - "[[linked-file-allocation|linked-file-allocation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Linked File Allocation

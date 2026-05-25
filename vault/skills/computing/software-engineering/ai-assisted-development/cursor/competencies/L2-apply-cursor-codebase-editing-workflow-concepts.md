@@ -47,3 +47,6 @@ Apply Cursor codebase editing workflow concepts.
 - [[codebase-search|Codebase Search]]
 - [[multi-file-edit|Multi-File Edit]]
 - [[diff-review|Diff Review]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

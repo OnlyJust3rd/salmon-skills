@@ -47,3 +47,6 @@ Analyze different approaches to modular system decomposition and responsibility 
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-approaches|Modular Decomposition Approaches]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-approaches|Responsibility Assignment Approaches]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-approach-comparison|Design Approach Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting simulation output graphs and data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

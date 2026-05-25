@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the benefits of using VLANs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

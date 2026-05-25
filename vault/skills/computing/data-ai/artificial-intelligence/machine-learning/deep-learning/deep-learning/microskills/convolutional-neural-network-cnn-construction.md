@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to implement basic CNN architectures for image tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

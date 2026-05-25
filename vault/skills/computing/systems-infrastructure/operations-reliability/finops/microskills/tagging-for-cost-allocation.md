@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using tags to attribute costs to specific projects or teams.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -41,3 +41,6 @@ Identify the key components of a distributed-memory HPC system.
 
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/distributed-memory-system-elements|Distributed-Memory System Elements]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/key-hpc-hardware-components|Key HPC Hardware Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

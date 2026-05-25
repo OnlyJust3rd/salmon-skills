@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Methods for identifying target early customers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

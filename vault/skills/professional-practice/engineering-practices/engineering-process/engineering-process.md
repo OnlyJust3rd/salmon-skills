@@ -74,3 +74,6 @@ Understanding and articulating the scope, problem contexts, and interrelationshi
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/selection-justification|Selection Justification]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/summarization-of-ce-domain-functions|Summarization of CE Domain Functions]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/trade-off-analysis-criteria|Trade-off Analysis Criteria]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the objectives of digital signatures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

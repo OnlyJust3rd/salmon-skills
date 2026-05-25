@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/real-world-statement-translation|real-world-statement-translation]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/real-world-statement-translation|real-world-statement-translation]]"
 learning-time-in-minutes: 5
 ---
 # Translating Real-World Statements into Propositional Logic

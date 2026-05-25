@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/measurement-accuracy|measurement-accuracy]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/measurement-accuracy|measurement-accuracy]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Measurement Accuracy and Distortion

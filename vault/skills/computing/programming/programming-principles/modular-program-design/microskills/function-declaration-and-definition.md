@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to create and define C functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

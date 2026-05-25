@@ -56,3 +56,6 @@ Explaining professional Quality Assurance (QA) topics, including conducting code
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/software-design-improvement|Software Design Improvement]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-contribution|Static Analysis Contribution]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-tool-impact|Static Analysis Tool Impact]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Create Java classes to represent Abstract Data Types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain typical server responses carrying JSON payloads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

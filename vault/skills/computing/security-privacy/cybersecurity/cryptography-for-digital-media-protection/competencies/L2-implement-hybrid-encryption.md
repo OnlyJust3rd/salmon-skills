@@ -41,3 +41,6 @@ Implement a hybrid encryption scheme for media protection.
 
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/hybrid-encryption-scheme|Hybrid Encryption Scheme]]
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/media-protection-with-hybrid-encryption|Media Protection with Hybrid Encryption]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

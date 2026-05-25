@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of an eigenvalue.
+## Related Mediums
+
+![[bases/related-mediums.base]]

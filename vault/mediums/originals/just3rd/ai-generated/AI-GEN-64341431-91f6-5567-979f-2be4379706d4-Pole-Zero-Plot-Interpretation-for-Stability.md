@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/pole-zero-plot-interpretation-for-stability|pole-zero-plot-interpretation-for-stability]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/pole-zero-plot-interpretation-for-stability|pole-zero-plot-interpretation-for-stability]]"
 learning-time-in-minutes: 4
 ---
 # Pole-Zero Plot Interpretation for Stability

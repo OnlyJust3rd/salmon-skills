@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how projection types affect perceived three-dimensionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

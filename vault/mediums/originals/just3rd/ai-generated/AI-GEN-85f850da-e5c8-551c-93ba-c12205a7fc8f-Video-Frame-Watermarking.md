@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/video-frame-watermarking|video-frame-watermarking]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/video-frame-watermarking|video-frame-watermarking]]"
 learning-time-in-minutes: 5
 ---
 # Video Frame Watermarking: Applying Image Techniques to Moving Pictures

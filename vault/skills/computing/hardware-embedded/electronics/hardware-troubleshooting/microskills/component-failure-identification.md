@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of component failures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

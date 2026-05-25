@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the components of a Jordan block matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

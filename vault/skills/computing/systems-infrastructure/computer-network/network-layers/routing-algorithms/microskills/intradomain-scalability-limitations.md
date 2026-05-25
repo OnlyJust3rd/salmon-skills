@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding constraints on intradomain routing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

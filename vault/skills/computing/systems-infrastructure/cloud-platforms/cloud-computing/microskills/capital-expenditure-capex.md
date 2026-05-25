@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding traditional IT spending on hardware and licenses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

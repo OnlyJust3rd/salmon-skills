@@ -49,3 +49,6 @@ Explain continuous integration pipelines, including source triggers, build stage
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/build-stages|Build Stages]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/automated-test-stages|Automated Test Stages]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/pipeline-feedback|Pipeline Feedback]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -49,3 +49,6 @@ Explain the pin configurations and functional operation of common logic gate ICs
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/common-ic-identification|Common IC Identification]]
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/discrete-component-identification|Discrete Component Identification]]
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/datasheet-interpretation|Datasheet Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[primitive-and-object-types|primitive-and-object-types]]"
+learning-outcomes:
+  - "[[primitive-and-object-types|primitive-and-object-types]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Primitive and Object Types in TypeScript

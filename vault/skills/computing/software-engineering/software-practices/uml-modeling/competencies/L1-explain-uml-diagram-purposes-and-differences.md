@@ -49,3 +49,6 @@ Explain the purpose, usage, and differences between various UML diagram types in
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/static-structure-representation|Static Structure Representation]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/dynamic-behavior-representation|Dynamic Behavior Representation]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/system-architecture-representation|System Architecture Representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

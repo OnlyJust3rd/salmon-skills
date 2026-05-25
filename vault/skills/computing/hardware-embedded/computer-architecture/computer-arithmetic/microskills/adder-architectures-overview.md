@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding ripple-carry and carry-lookahead adder concepts and why they differ in speed/complexity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

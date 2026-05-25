@@ -49,3 +49,6 @@ Explain algorithmic thinking principles and describe basic graph traversal algor
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/iterative-algorithms|Iterative Algorithms]]
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/recursive-algorithms|Recursive Algorithms]]
 - [[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/graph-traversal-algorithms|Graph Traversal Algorithms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in quantifying network efficiency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

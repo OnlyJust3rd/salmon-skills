@@ -47,3 +47,6 @@ Differentiate between TCP and UDP protocols and their use cases based on network
 - [[protocol-use-cases|Protocol Use Cases]]
 - [[network-performance-impact|Network Performance Impact]]
 - [[reliability-vs-speed-trade-offs|Reliability vs. Speed Trade-offs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

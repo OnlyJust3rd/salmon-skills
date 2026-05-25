@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[human-computer-social-dynamics|human-computer-social-dynamics]]"
+learning-outcomes:
+  - "[[human-computer-social-dynamics|human-computer-social-dynamics]]"
 learning-time-in-minutes: 5
 ---
 # Human-Computer Social Dynamics

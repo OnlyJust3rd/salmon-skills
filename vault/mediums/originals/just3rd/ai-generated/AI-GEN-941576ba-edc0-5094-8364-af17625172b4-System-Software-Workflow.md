@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/system-software-workflow|system-software-workflow]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/system-software-workflow|system-software-workflow]]"
 learning-time-in-minutes: 5
 ---
 # System Software Workflow

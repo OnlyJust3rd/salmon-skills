@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/grid-computing-resource-aggregation|grid-computing-resource-aggregation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/grid-computing-resource-aggregation|grid-computing-resource-aggregation]]"
 learning-time-in-minutes: 4
 ---
 # GRID Computing: Aggregating Distributed Resources

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/symmetric-matrix-representation|symmetric-matrix-representation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/symmetric-matrix-representation|symmetric-matrix-representation]]"
 learning-time-in-minutes: 5
 ---
 # Symmetric Matrix Representation of Quadratic Forms

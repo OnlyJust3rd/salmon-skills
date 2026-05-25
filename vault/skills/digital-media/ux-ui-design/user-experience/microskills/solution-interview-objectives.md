@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Goals of validating proposed solutions with users.
+## Related Mediums
+
+![[bases/related-mediums.base]]

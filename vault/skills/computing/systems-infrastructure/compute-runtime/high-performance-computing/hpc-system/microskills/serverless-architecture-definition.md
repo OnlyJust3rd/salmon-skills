@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the core definition of serverless computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

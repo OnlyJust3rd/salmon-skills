@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sbc-hardware-components|sbc-hardware-components]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sbc-hardware-components|sbc-hardware-components]]"
 learning-time-in-minutes: 5
 ---
 # Single Board Computer (SBC) Hardware Components

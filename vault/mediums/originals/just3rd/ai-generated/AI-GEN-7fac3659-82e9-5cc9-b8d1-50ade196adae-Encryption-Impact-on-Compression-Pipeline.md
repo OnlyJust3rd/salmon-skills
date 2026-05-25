@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/encryption-impact-on-compression-pipeline|encryption-impact-on-compression-pipeline]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/encryption-impact-on-compression-pipeline|encryption-impact-on-compression-pipeline]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Encryption's Impact on the Multimedia Compression Pipeline

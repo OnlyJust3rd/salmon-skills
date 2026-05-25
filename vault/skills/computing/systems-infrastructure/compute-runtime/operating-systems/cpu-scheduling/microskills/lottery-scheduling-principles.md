@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of Lottery Scheduling CPU scheduling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

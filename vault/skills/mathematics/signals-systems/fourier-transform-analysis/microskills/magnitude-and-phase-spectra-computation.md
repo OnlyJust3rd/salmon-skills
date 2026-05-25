@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Executing the procedures for computing both magnitude and phase.
+## Related Mediums
+
+![[bases/related-mediums.base]]

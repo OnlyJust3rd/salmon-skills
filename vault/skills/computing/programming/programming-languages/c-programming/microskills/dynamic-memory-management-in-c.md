@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Use malloc and free safely while implementing data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

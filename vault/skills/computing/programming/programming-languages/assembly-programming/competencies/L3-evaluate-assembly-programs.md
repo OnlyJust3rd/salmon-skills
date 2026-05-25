@@ -43,3 +43,6 @@ Evaluate assembly language programs for efficiency and correctness in executing 
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/assembly-program-efficiency-analysis|Assembly Program Efficiency Analysis]]
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/assembly-program-correctness-verification|Assembly Program Correctness Verification]]
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/functional-performance-assessment|Functional Performance Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

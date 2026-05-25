@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Judgment of configurations against signal inversion needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

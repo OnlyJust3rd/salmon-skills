@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-trade-off-interplay|watermarking-trade-off-interplay]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-trade-off-interplay|watermarking-trade-off-interplay]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Watermarking Trade-off Interplay

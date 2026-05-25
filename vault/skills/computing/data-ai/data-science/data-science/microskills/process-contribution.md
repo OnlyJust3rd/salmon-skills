@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how each stage contributes to the overall data science outcome.
+## Related Mediums
+
+![[bases/related-mediums.base]]

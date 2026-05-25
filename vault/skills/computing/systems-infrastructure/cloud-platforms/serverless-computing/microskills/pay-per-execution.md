@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of paying only for compute time consumed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -126,3 +126,6 @@ Track key infrastructure metrics, including CPU, memory, disk I/O, and network t
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic|Traffic]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-monitoring-techniques|Traffic Monitoring Techniques]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/traffic-significance|Traffic Significance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

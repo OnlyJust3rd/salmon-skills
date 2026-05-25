@@ -38,3 +38,6 @@ Using AI systems to support code understanding, generation, refactoring, documen
 - [[human-in-the-loop-edit|Human-in-the-Loop Edit]]
 - [[refactoring-request|Refactoring Request]]
 - [[repository-context-prompting|Repository Context Prompting]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

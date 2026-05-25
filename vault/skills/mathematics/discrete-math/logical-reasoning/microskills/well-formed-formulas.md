@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and construction of syntactically correct propositional statements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

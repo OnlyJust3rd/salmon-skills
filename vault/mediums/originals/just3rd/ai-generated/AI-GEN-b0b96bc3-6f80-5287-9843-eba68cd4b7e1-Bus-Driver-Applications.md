@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/bus-driver-applications|bus-driver-applications]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/bus-driver-applications|bus-driver-applications]]"
 learning-time-in-minutes: 3
 ---
 # Bus Driver Applications

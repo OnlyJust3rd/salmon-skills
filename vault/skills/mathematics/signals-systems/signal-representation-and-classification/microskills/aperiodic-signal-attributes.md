@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the defining characteristics of aperiodic signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

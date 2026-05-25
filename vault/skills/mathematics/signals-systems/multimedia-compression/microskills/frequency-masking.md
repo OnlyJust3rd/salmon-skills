@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding frequency masking in audio compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

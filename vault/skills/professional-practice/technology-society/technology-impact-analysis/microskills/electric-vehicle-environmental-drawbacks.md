@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of negative environmental impacts of EVs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

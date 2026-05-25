@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical generation of network diagrams to illustrate textual relationships.
+## Related Mediums
+
+![[bases/related-mediums.base]]

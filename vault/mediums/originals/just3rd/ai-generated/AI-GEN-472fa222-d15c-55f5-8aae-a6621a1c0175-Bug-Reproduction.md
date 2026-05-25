@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-testing/microskills/bug-reproduction|bug-reproduction]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-testing/microskills/bug-reproduction|bug-reproduction]]"
 learning-time-in-minutes: 4
 ---
 # Bug Reproduction: Making Bugs Happen Again and Again

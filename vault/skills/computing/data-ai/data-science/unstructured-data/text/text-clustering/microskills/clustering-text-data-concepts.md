@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of grouping similar text documents without labels.
+## Related Mediums
+
+![[bases/related-mediums.base]]

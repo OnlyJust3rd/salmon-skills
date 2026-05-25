@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding genetic algorithms for optimization problems in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

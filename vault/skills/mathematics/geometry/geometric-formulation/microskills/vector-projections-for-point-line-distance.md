@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to use vector projections to find the shortest distance from a point to a line.
+## Related Mediums
+
+![[bases/related-mediums.base]]

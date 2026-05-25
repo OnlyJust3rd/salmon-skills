@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[input-pin-configuration|input-pin-configuration]]"
+learning-outcomes:
+  - "[[input-pin-configuration|input-pin-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Configuring AVR Microcontroller Input Pins

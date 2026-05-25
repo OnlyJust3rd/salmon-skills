@@ -51,3 +51,6 @@ Identify common causes of physical hardware malfunctions and challenges in digit
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/component-failure-identification|Component Failure Identification]]
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/noise-interference-recognition|Noise Interference Recognition]]
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-regulation-issues|Power Regulation Issues]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

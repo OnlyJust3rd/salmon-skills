@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding interpretation of structure when data is read.
+## Related Mediums
+
+![[bases/related-mediums.base]]

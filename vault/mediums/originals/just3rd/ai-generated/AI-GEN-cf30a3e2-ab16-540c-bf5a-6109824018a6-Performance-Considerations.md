@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[performance-considerations|performance-considerations]]"
+learning-outcomes:
+  - "[[performance-considerations|performance-considerations]]"
 learning-time-in-minutes: 5
 ---
 # Performance Considerations for NoSQL Databases: Where Speed Shines

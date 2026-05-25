@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how physical storage is presented to virtual machines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

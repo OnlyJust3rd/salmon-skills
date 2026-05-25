@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the decision-making entity in RL.
+## Related Mediums
+
+![[bases/related-mediums.base]]

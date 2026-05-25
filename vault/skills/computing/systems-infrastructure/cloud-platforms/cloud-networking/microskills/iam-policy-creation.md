@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to define specific permissions for cloud resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

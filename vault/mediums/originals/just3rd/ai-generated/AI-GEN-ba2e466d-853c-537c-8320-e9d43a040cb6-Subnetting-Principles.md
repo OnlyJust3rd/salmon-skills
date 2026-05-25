@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[subnetting-principles|subnetting-principles]]"
+learning-outcomes:
+  - "[[subnetting-principles|subnetting-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Subnetting Principles

@@ -43,3 +43,6 @@ Identify and define the purpose of key UML diagrams, including their basic symbo
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-identification|UML Diagram Identification]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-symbol-recognition|UML Symbol Recognition]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-purpose-definition|UML Diagram Purpose Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Understanding and applying wired and wireless communication technologies and pro
 - [[mqtt-protocol-characteristics|MQTT Protocol Characteristics]]
 - [[wired-communication-technologies-uart-spi-i2c|Wired Communication Technologies (UART, SPI, I²C)]]
 - [[wireless-communication-technologies-wi-fi-ble-zigbee|Wireless Communication Technologies (Wi-Fi, BLE, ZigBee)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -50,3 +50,6 @@ Explaining physical-layer communication principles including signals, impairment
 - [[transmission-impairments|Transmission Impairments]]
 - [[transmission-media-capacity|Transmission Media Capacity]]
 - [[unguided-media-characteristics|Unguided Media Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

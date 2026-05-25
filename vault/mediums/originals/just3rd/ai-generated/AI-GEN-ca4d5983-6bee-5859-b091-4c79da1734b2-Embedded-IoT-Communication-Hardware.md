@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/embedded-iot-communication-hardware|embedded-iot-communication-hardware]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/embedded-iot-communication-hardware|embedded-iot-communication-hardware]]"
 learning-time-in-minutes: 5
 ---
 # Embedded IoT Communication Hardware

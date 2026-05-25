@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/societal-behavior-influence|societal-behavior-influence]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/societal-behavior-influence|societal-behavior-influence]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Societal Behavior Influence Through Social Media

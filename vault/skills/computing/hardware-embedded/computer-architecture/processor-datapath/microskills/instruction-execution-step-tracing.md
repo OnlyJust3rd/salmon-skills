@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to follow and document the step-by-step process of instruction execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

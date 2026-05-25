@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Mechanisms for database interaction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

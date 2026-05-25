@@ -133,3 +133,6 @@ Perform matrix operations and solve systems of linear equations, forming the com
 - [[system-solving-strategy|System solving strategy]]
 - [[trivial-solution-conditions|Trivial solution conditions]]
 - [[unique-solution-application|Unique solution application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

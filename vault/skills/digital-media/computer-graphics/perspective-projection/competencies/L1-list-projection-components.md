@@ -45,3 +45,6 @@ List the key components of a perspective projection system, including the eye po
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/eye-point|Eye Point]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-plane|Projection Plane]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/vanishing-points|Vanishing Points]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

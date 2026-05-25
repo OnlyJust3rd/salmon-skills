@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the fundamental concepts of unsupervised learning for grouping data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

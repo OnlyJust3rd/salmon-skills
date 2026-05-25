@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/precompression-encryption|precompression-encryption]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/precompression-encryption|precompression-encryption]]"
 learning-time-in-minutes: 4
 ---
 # Precompression Encryption: Securing Your Data Before the Zip

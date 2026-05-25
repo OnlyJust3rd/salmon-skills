@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to configure dependencies and settings within a Dockerfile.
+## Related Mediums
+
+![[bases/related-mediums.base]]

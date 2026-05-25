@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how truth functions are derived from real-life problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

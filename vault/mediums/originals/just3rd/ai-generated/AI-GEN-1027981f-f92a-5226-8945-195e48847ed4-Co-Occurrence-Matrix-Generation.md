@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[co-occurrence-matrix-generation|co-occurrence-matrix-generation]]"
+learning-outcomes:
+  - "[[co-occurrence-matrix-generation|co-occurrence-matrix-generation]]"
 learning-time-in-minutes: 6
 ---
 # Generating Co-Occurrence Matrices

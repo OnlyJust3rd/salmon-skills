@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Function of component designators and labels.
+## Related Mediums
+
+![[bases/related-mediums.base]]

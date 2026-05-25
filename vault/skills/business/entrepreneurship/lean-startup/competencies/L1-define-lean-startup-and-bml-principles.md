@@ -42,3 +42,6 @@ Define the core principles of the Lean Startup methodology and the Build-Measure
 - [[skills/business/entrepreneurship/lean-startup/microskills/lean-startup-principles|Lean Startup Principles]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/build-measure-learn-cycle|Build-Measure-Learn Cycle]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/startup-terminology|Startup Terminology]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how equipment measures electrical properties.
+## Related Mediums
+
+![[bases/related-mediums.base]]

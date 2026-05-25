@@ -51,3 +51,6 @@ Explain the fundamental differences and similarities between Wireless LANs (WLAN
 - [[wlan-vs-pan-similarities|WLAN vs. PAN Similarities]]
 - [[wlan-vs-pan-differences|WLAN vs. PAN Differences]]
 - [[wireless-network-components|Wireless Network Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

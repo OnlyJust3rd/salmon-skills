@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/desired-player-experience-design|desired-player-experience-design]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/desired-player-experience-design|desired-player-experience-design]]"
 learning-time-in-minutes: 6
 ---
 # Designing for Desired Player Experiences with Motivational Theories

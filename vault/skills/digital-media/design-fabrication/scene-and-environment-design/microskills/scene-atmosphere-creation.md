@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Constructing game scenes that evoke a desired mood through composition and lighting.
+## Related Mediums
+
+![[bases/related-mediums.base]]

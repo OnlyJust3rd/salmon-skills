@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-analysis|watermarking-attack-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-attack-analysis|watermarking-attack-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Watermarking Attacks

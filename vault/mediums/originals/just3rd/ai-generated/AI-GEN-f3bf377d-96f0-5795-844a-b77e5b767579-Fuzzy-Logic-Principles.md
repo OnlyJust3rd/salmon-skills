@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-logic-principles|fuzzy-logic-principles]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-logic-principles|fuzzy-logic-principles]]"
 learning-time-in-minutes: 4
 ---
 # Fuzzy Logic Principles: Remembering the Core Ideas

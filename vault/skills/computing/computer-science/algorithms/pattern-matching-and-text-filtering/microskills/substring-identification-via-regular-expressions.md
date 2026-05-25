@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of Regular Expressions for the precise identification and extraction of textual components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

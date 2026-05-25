@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/combinatorial-analysis/microskills/technique-selection|technique-selection]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/combinatorial-analysis/microskills/technique-selection|technique-selection]]"
 learning-time-in-minutes: 3
 ---
 # Selecting the Right Combinatorial Technique

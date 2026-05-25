@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/solution-validation-stage|solution-validation-stage]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/solution-validation-stage|solution-validation-stage]]"
 learning-time-in-minutes: 4
 ---
 # Solution Validation Stage in the Build-Measure-Learn Cycle

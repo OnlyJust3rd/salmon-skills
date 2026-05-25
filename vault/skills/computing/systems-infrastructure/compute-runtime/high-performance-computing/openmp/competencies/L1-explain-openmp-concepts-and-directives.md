@@ -41,3 +41,6 @@ Explain OpenMP programming model concepts, directive syntax, and shared-memory e
 
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-semantics|OpenMP Directive Semantics]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/shared-memory-parallel-model|Shared-Memory Parallel Model]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

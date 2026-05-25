@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of protocols used for network control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

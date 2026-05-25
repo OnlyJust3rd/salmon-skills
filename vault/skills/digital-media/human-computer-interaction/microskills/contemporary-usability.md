@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of the historical development's effect on modern user experience.
+## Related Mediums
+
+![[bases/related-mediums.base]]

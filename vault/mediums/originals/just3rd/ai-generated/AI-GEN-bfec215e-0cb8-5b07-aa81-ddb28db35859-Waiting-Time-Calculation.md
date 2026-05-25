@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|waiting-time-calculation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|waiting-time-calculation]]"
 learning-time-in-minutes: 3
 ---
 # Calculating Waiting Time in CPU Scheduling

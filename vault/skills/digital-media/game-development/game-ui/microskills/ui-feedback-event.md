@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Showing state changes from gameplay actions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

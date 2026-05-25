@@ -45,3 +45,6 @@ Explain the concept of declarative automation as applied in Infrastructure as Co
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-logic|Automation Logic]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-declarative-systems|Idempotency in Declarative Systems]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-declarative-automation|Use Cases for Declarative Automation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

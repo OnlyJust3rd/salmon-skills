@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental mechanisms and principles of neuromorphic systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-observation-protocols|user-observation-protocols]]"
+learning-outcomes:
+  - "[[user-observation-protocols|user-observation-protocols]]"
 learning-time-in-minutes: 5
 ---
 # User Observation Protocols: Watching Users in Action

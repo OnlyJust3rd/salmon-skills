@@ -64,3 +64,6 @@ Comprehending foundational concepts, structures, and theoretical underpinnings o
 - [[neural-network-terminology|Neural Network Terminology]]
 - [[new-information-in-ann-development-chapter-4|New Information in ANN Development (Chapter 4)]]
 - [[theoretical-principles-in-ann-operation|Theoretical Principles in ANN Operation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying relations to describe connections between elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

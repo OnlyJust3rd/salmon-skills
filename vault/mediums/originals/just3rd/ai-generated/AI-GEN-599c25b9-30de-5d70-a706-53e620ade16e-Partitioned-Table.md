@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/partitioned-table|partitioned-table]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/partitioned-table|partitioned-table]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Partitioned Tables in BigQuery

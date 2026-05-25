@@ -47,3 +47,6 @@ Identify common usability heuristics used in user experience design.
 - [[user-control-and-freedom|User Control and Freedom]]
 - [[consistency-and-standards|Consistency and Standards]]
 - [[error-prevention|Error Prevention]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

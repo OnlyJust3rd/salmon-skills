@@ -47,3 +47,6 @@ Differentiate the primary use cases and scalability limitations of intradomain v
 - [[intradomain-scalability-limitations|Intradomain Scalability Limitations]]
 - [[interdomain-scalability-limitations|Interdomain Scalability Limitations]]
 - [[routing-protocol-suitability|Routing Protocol Suitability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

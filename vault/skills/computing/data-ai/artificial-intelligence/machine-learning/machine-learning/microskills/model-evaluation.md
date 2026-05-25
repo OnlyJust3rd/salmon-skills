@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing model performance using appropriate metrics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

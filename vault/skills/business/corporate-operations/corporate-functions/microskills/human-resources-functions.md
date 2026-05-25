@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the main roles and duties of the HR department.
+## Related Mediums
+
+![[bases/related-mediums.base]]

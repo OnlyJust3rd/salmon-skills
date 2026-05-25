@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of using bitwise operators to configure communication registers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

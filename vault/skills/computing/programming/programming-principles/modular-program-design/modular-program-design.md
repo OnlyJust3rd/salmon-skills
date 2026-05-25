@@ -42,3 +42,6 @@ Ability to structure programs into independent, reusable components for improved
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/modularity-benefits-understanding|Modularity benefits understanding]]
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/reusable-code-identification|Reusable code identification]]
 - [[skills/computing/programming/programming-principles/modular-program-design/microskills/task-encapsulation|Task encapsulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Apply refactoring techniques to improve the structure and maintainability of imp
 - [[skills/computing/programming/code-quality/refactoring/microskills/maintainability-enhancement|Maintainability Enhancement]]
 - [[skills/computing/programming/code-quality/refactoring/microskills/incremental-design-improvements|Incremental Design Improvements]]
 - [[skills/computing/programming/code-quality/refactoring/microskills/external-behavior-preservation|External Behavior Preservation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

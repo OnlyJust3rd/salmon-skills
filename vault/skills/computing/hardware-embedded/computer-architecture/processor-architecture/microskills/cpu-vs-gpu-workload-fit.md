@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reasoning about throughput-oriented GPUs vs latency-oriented CPUs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

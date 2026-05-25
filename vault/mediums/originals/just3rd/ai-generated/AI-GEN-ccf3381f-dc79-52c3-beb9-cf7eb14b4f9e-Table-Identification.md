@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/table-identification|table-identification]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/table-identification|table-identification]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Tables in Database Schemas

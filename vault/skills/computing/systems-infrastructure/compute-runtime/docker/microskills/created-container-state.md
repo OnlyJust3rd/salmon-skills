@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of containers that have been created but not started.
+## Related Mediums
+
+![[bases/related-mediums.base]]

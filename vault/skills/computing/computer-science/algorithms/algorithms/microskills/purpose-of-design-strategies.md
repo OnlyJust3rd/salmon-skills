@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The objectives and benefits of employing specific design paradigms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

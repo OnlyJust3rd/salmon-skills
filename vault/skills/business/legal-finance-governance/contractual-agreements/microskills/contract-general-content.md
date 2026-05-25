@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of typical information included in employment-related contracts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

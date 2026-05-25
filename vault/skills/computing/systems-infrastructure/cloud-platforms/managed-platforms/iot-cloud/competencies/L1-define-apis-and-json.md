@@ -41,3 +41,6 @@ Define REST APIs and JSON data formats.
 
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/rest-api-definition|REST API Definition]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/json-data-format-definition|JSON Data Format Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

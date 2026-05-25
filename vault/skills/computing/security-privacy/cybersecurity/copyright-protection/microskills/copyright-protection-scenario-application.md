@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using knowledge to identify practical application in scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

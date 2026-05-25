@@ -47,3 +47,6 @@ Explain the architecture of a 3-tier web application with a database interface.
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/application-business-logic-layer|Application/Business Logic Layer]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-access-layer|Data Access Layer]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/inter-tier-communication-flow|Inter-Tier Communication Flow]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

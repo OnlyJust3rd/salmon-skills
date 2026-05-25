@@ -47,3 +47,6 @@ Analyze SaaS tenancy, billing, and operational trade-offs.
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/tenant-isolation|Tenant Isolation]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/billing-model|Billing Model]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/operational-trade-off|Operational Trade-off]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -49,3 +49,6 @@ Apply automated testing frameworks (such as JUnit for Java) to implement unit, i
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/unit-test-implementation|Unit Test Implementation]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/integration-test-implementation|Integration Test Implementation]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/system-test-implementation|System Test Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of biological evolutionary ideas applied in computational contexts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

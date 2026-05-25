@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bellman-ford-algorithm-java-implementation|bellman-ford-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[bellman-ford-algorithm-java-implementation|bellman-ford-algorithm-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing the Bellman-Ford Algorithm in Java

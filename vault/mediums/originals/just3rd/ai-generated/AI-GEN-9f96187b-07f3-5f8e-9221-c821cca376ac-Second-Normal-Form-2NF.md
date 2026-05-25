@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/second-normal-form-2nf|second-normal-form-2nf]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/second-normal-form-2nf|second-normal-form-2nf]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Second Normal Form (2NF)

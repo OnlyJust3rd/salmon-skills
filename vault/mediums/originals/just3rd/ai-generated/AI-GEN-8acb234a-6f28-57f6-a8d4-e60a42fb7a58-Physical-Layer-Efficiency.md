@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[physical-layer-efficiency|physical-layer-efficiency]]"
+learning-outcomes:
+  - "[[physical-layer-efficiency|physical-layer-efficiency]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Physical Layer Efficiency Through Multiplexing

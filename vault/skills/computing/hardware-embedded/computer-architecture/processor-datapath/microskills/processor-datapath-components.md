@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of key elements within a processor's datapath.
+## Related Mediums
+
+![[bases/related-mediums.base]]

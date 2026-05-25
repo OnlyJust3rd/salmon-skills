@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Development of a simple parallel application demonstrating point-to-point communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

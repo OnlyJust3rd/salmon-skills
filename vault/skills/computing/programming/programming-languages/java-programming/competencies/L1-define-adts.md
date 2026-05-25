@@ -41,3 +41,6 @@ Define Abstract Data Types (ADTs) and identify their characteristics.
 
 - [[skills/computing/programming/programming-languages/java-programming/microskills/abstract-data-type-definition|Abstract Data Type Definition]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/abstract-data-type-characteristics|Abstract Data Type Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

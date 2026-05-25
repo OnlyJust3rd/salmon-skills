@@ -38,3 +38,6 @@ Using Redshift concepts for AWS cloud data warehousing, SQL analytics, distribut
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/table-distribution|Table Distribution]]
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/warehouse-query-tuning|Warehouse Query Tuning]]
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/workload-management|Workload Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

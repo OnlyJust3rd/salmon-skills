@@ -43,3 +43,6 @@ Use Python to train, evaluate, and compare basic machine learning models on tabu
 
 - [[skills/computing/programming/programming-languages/python/microskills/implement-machine-learning-in-python-workflow-steps|Implement Machine Learning in Python workflow steps]]
 - [[skills/computing/programming/programming-languages/python/microskills/implement-machine-learning-in-python-code-implementation|Implement Machine Learning in Python code implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

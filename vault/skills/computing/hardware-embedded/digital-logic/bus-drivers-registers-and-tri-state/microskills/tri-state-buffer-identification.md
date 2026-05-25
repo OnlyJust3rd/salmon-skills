@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of tri-state buffers and their enable/disable behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

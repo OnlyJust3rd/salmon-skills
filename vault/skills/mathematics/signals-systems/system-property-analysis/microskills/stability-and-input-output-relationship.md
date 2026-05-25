@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing how stability relates to the boundedness of the output for bounded inputs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

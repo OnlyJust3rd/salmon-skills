@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing a prototype to showcase a specific interaction in XR.
+## Related Mediums
+
+![[bases/related-mediums.base]]

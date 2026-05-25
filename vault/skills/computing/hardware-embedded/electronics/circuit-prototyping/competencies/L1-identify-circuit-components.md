@@ -47,3 +47,6 @@ Identify the basic components used in circuit simulation and breadboarding.
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/transistor-identification|Transistor Identification]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/integrated-circuit-identification|Integrated Circuit Identification]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/avr-microcontroller-identification|AVR Microcontroller Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

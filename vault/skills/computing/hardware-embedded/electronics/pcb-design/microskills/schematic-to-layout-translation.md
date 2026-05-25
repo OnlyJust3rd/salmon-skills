@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Transferring circuit connections to the PCB layout.
+## Related Mediums
+
+![[bases/related-mediums.base]]

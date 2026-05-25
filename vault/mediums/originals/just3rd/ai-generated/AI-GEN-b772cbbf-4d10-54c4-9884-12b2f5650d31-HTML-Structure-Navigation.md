@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[html-structure-navigation|html-structure-navigation]]"
+learning-outcomes:
+  - "[[html-structure-navigation|html-structure-navigation]]"
 learning-time-in-minutes: 4
 ---
 # Navigating HTML with BeautifulSoup: Understanding Structure

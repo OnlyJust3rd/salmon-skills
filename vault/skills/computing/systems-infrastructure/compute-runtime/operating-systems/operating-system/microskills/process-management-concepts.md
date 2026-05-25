@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core concepts related to operating system process management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

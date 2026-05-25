@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how physical CPUs are represented in virtual environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

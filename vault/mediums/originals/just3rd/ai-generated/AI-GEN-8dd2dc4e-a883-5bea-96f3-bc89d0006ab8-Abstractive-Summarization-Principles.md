@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[abstractive-summarization-principles|abstractive-summarization-principles]]"
+learning-outcomes:
+  - "[[abstractive-summarization-principles|abstractive-summarization-principles]]"
 learning-time-in-minutes: 4
 ---
 # Abstractive Summarization: Understanding the Core Concepts

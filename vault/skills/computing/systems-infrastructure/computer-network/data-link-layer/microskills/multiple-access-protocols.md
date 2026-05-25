@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of different methods for managing shared access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

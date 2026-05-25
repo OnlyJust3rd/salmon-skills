@@ -51,3 +51,6 @@ Identify the role of NAT in managing IP addresses and describe how it translates
 - [[public-to-private-ip-translation|Public to Private IP Translation]]
 - [[ip-address-conservation|IP Address Conservation]]
 - [[network-security-through-nat|Network Security through NAT]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

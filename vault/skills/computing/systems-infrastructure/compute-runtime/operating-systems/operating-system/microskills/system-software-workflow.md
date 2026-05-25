@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the sequential operations and interdependencies of system software components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

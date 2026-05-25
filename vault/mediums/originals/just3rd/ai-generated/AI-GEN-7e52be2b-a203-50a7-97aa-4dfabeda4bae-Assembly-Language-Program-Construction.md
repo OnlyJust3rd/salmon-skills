@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/assembly-language-program-construction|assembly-language-program-construction]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/assembly-language-program-construction|assembly-language-program-construction]]"
 learning-time-in-minutes: 3
 ---
 # Building Your First Assembly Programs

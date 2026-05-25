@@ -65,3 +65,6 @@ Examine and differentiate between employment contracts, Non-Disclosure Agreement
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/non-competition-clause-analysis|Non-Competition Clause Analysis]]
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/non-competition-clause-purpose|Non-Competition Clause Purpose]]
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/non-competition-clause-scenario-application|Non-Competition Clause Scenario Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

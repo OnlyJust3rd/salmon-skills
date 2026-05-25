@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-execution-model|faas-execution-model]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-execution-model|faas-execution-model]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the FaaS Execution Model

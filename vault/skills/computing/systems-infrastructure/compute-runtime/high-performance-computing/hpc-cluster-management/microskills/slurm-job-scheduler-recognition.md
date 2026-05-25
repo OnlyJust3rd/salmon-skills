@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of Slurm as a job scheduler for HPC clusters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

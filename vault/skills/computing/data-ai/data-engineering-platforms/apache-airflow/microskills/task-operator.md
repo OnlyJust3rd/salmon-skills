@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing executable units in a workflow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

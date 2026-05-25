@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adjusting model parameters during training.
+## Related Mediums
+
+![[bases/related-mediums.base]]

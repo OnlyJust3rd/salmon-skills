@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how IaC ensures identical environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

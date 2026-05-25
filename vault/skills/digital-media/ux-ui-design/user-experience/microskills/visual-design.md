@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Aesthetics and layout of the interface.
+## Related Mediums
+
+![[bases/related-mediums.base]]

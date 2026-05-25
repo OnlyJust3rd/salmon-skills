@@ -45,3 +45,6 @@ Execute basic SQL queries to retrieve and manipulate data within a sample relati
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/basic-sql-query-execution|Basic SQL Query Execution]]
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-retrieval-operations|Data Retrieval Operations]]
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-manipulation-operations|Data Manipulation Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

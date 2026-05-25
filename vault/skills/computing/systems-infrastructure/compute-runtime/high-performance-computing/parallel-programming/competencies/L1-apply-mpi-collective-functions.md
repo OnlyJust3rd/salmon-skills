@@ -43,3 +43,6 @@ Explain collective communication abstractions in MPI and when they are appropria
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-collective-function-implementation|MPI Collective Function Implementation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|Distributed Data Processing Solutions]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/efficient-data-exchange-strategies|Efficient Data Exchange Strategies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

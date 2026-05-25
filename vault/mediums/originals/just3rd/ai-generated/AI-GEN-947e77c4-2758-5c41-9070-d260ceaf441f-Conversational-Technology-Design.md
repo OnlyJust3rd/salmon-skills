@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[conversational-technology-design|conversational-technology-design]]"
+learning-outcomes:
+  - "[[conversational-technology-design|conversational-technology-design]]"
 learning-time-in-minutes: 3
 ---
 # Conversational Technology Design: Applying Workspace Awareness and Social Presence

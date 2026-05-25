@@ -47,3 +47,6 @@ Explain Spark distributed data processing concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/dataframe|DataFrame]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/lazy-evaluation|Lazy Evaluation]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/partition|Partition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

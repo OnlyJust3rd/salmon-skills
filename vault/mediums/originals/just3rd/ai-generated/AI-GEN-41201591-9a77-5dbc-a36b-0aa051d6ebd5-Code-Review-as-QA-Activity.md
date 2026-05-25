@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-as-qa-activity|code-review-as-qa-activity]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-as-qa-activity|code-review-as-qa-activity]]"
 learning-time-in-minutes: 5
 ---
 # Code Reviews: Your First Line of Defense in Quality Assurance

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using knowledge of motivational theories to select game mechanics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/d-a-conversion-process|d-a-conversion-process]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-conversion-a-d-and-d-a/microskills/d-a-conversion-process|d-a-conversion-process]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the D/A Conversion Process

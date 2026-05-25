@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of fundamental functions used in network programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

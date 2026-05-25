@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to analyze the orthogonality between lines and planes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-performance-optimization/microskills/draw-call-reduction|draw-call-reduction]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-performance-optimization/microskills/draw-call-reduction|draw-call-reduction]]"
 learning-time-in-minutes: 6
 ---
 # Draw Call Reduction: Minimizing Rendering Overhead

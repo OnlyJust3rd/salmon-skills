@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/impact-of-attacks-on-robustness|impact-of-attacks-on-robustness]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/impact-of-attacks-on-robustness|impact-of-attacks-on-robustness]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing the Impact of Attacks on Watermark Robustness

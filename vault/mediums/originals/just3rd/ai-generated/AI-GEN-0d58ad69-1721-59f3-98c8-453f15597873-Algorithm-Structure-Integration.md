@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[algorithm-structure-integration|algorithm-structure-integration]]"
+learning-outcomes:
+  - "[[algorithm-structure-integration|algorithm-structure-integration]]"
 learning-time-in-minutes: 4
 ---
 # Integrating Algorithms with Data Structures in Java

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/gcd-application-in-cryptography|gcd-application-in-cryptography]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/gcd-application-in-cryptography|gcd-application-in-cryptography]]"
 learning-time-in-minutes: 5
 ---
 # GCD: The Unsung Hero in Cryptography

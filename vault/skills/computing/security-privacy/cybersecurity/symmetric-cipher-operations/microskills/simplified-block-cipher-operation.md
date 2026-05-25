@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of operations using a simplified block cipher structure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

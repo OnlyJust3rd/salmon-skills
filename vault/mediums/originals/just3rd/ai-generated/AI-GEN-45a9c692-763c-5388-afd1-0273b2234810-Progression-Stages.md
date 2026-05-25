@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/career-development/it-career-path/microskills/progression-stages|progression-stages]]"
+learning-outcomes:
+  - "[[skills/professional-practice/career-development/it-career-path/microskills/progression-stages|progression-stages]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Progression Stages in Tech Careers

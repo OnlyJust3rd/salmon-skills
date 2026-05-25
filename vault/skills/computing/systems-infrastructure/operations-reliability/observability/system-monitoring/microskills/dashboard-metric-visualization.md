@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to display collected metrics on a Grafana dashboard.
+## Related Mediums
+
+![[bases/related-mediums.base]]

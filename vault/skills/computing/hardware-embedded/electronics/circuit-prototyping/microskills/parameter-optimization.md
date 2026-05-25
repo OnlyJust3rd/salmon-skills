@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Appreciating how simulation aids in tuning component values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

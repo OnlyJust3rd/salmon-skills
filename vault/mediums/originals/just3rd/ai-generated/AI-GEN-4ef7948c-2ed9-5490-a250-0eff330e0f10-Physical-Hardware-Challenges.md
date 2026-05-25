@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/physical-hardware-challenges|physical-hardware-challenges]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/physical-hardware-challenges|physical-hardware-challenges]]"
 learning-time-in-minutes: 4
 ---
 # Physical Hardware Challenges in Digital Circuits

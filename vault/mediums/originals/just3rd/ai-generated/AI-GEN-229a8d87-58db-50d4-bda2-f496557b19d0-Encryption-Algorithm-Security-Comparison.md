@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-security-comparison|encryption-algorithm-security-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/encryption-algorithm-security-comparison|encryption-algorithm-security-comparison]]"
 learning-time-in-minutes: 4
 ---
 # Encryption Algorithm Security Comparison

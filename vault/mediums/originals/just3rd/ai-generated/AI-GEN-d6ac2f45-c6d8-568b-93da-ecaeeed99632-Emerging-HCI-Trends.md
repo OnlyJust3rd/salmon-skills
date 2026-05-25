@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[emerging-hci-trends|emerging-hci-trends]]"
+learning-outcomes:
+  - "[[emerging-hci-trends|emerging-hci-trends]]"
 learning-time-in-minutes: 4
 ---
 # Emerging HCI Trends

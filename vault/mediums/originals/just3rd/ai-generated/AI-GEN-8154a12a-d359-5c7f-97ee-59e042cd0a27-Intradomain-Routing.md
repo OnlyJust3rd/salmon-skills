@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[intradomain-routing|intradomain-routing]]"
+learning-outcomes:
+  - "[[intradomain-routing|intradomain-routing]]"
 learning-time-in-minutes: 4
 ---
 # Intradomain Routing: Navigating Within Your Network

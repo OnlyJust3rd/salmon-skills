@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Accurate calculation of time constants for RC and RL circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

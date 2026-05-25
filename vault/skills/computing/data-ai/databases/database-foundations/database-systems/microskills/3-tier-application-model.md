@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the layered structure of web applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-definition|azure-policy-definition]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-definition|azure-policy-definition]]"
 learning-time-in-minutes: 3
 ---
 # Azure Policy Definitions: Enforcing Governance

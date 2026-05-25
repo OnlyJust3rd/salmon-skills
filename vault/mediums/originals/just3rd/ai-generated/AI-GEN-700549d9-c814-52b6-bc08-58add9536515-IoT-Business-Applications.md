@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-business-applications|iot-business-applications]]"
+learning-outcomes:
+  - "[[iot-business-applications|iot-business-applications]]"
 learning-time-in-minutes: 5
 ---
 # Understanding IoT Business Applications

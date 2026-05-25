@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-packet-traversal|data-packet-traversal]]"
+learning-outcomes:
+  - "[[data-packet-traversal|data-packet-traversal]]"
 learning-time-in-minutes: 5
 ---
 # Data Packet Traversal: A Packet's Journey Through the Network

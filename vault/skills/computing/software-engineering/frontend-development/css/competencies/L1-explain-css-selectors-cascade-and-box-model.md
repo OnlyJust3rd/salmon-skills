@@ -43,3 +43,6 @@ Explain CSS selectors, specificity, the cascade, and the box model for layout an
 - [[skills/computing/software-engineering/frontend-development/css/microskills/selector-specificity|Selector specificity]]
 - [[skills/computing/software-engineering/frontend-development/css/microskills/box-model-components|Box model components]]
 - [[skills/computing/software-engineering/frontend-development/css/microskills/cascade-and-inheritance|Cascade and inheritance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of isolated locations within a region for high availability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

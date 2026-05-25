@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to list and name key application layer protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

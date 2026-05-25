@@ -45,3 +45,6 @@ Apply profitability analysis and calculate project profitability and break-even 
 - [[skills/business/product-management/feasibility-analysis/microskills/profitability-analysis|Profitability Analysis]]
 - [[skills/business/product-management/feasibility-analysis/microskills/break-even-point-calculation|Break-Even Point Calculation]]
 - [[skills/business/product-management/feasibility-analysis/microskills/financial-data-interpretation|Financial Data Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

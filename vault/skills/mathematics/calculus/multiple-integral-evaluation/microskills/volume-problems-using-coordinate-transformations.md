@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to solve volume problems using appropriate coordinate transformations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

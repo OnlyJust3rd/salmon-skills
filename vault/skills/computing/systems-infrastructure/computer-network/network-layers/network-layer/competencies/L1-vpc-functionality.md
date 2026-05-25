@@ -49,3 +49,6 @@ Identify the primary function of a VPC and describe its core functionality and b
 - [[cloud-network-isolation|Cloud Network Isolation]]
 - [[cloud-network-configuration|Cloud Network Configuration]]
 - [[cloud-network-benefits|Cloud Network Benefits]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

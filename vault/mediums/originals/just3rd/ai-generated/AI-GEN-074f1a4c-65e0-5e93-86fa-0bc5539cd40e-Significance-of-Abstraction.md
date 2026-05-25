@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/significance-of-abstraction|significance-of-abstraction]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/significance-of-abstraction|significance-of-abstraction]]"
 learning-time-in-minutes: 3
 ---
 # The Power of Abstraction in Computational Models

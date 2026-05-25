@@ -43,3 +43,6 @@ Demonstrate the use of basic techniques to access data from a simulated input de
 
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/input-data-access-techniques|Input Data Access Techniques]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/simulated-input-device-interaction|Simulated Input Device Interaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

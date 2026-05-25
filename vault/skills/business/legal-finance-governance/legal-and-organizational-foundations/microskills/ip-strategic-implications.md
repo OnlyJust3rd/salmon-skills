@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How IP affects business strategy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

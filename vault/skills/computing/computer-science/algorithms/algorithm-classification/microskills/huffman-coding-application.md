@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of Huffman coding for data compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

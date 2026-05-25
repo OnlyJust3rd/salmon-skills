@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enhancing the internal architecture of code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/sine-and-cosine-component-identification|sine-and-cosine-component-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/sine-and-cosine-component-identification|sine-and-cosine-component-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Sine and Cosine Components in Signal Decomposition

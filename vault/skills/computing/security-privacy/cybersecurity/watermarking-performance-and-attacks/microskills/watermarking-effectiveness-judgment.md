@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Informed judgments on watermarking technique effectiveness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

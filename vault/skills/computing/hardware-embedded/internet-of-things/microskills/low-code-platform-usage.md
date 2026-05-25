@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in using low-code tools for IoT applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

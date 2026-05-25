@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the format of Domain Name System messages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

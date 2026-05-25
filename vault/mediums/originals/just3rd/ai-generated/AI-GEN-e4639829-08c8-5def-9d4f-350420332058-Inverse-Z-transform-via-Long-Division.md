@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/inverse-z-transform-via-long-division|inverse-z-transform-via-long-division]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/inverse-z-transform-via-long-division|inverse-z-transform-via-long-division]]"
 learning-time-in-minutes: 3
 ---
 # Inverse Z-transform via Long Division

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding agent work inside a command-line workflow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

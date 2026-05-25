@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/product-differentiation-strategies|product-differentiation-strategies]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/product-differentiation-strategies|product-differentiation-strategies]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Product Differentiation Strategies

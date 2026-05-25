@@ -43,3 +43,6 @@ Explain the purpose and process of customer discovery interviews for validating 
 - [[skills/business/entrepreneurship/lean-startup/microskills/customer-interview-purpose|Customer Interview Purpose]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/problem-validation-process|Problem Validation Process]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/customer-needs-understanding|Customer Needs Understanding]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

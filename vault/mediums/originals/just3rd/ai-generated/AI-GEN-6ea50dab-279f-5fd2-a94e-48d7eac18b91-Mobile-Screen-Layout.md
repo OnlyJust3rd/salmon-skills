@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/mobile-screen-layout|mobile-screen-layout]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/mobile-screen-layout|mobile-screen-layout]]"
 learning-time-in-minutes: 4
 ---
 # Mobile Screen Layout: Arranging for Mobile

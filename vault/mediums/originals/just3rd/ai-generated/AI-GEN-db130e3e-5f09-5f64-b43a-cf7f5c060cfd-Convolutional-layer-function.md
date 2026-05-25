@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[convolutional-layer-function|convolutional-layer-function]]"
+learning-outcomes:
+  - "[[convolutional-layer-function|convolutional-layer-function]]"
 learning-time-in-minutes: 3
 ---
 # The Role of the Convolutional Layer in Feature Extraction

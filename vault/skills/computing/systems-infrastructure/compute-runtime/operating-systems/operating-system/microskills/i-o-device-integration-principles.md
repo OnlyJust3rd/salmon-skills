@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how hierarchical bus structures facilitate I/O device integration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to design modular combinational logic circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

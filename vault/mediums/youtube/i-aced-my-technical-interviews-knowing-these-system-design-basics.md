@@ -5,7 +5,8 @@ tags:
   - medium
   - youtube
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[L1-recognize-system-design-term|L1-recognize-system-design-term]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]"
 learning-time-in-minutes: 10
 source: Kiki's Bytes
 ---
@@ -18,9 +19,8 @@ source: Kiki's Bytes
 
 https://youtu.be/FxAom29OEKE?si=GEk4lJXx8fuahfIi
 
-## Outcome
-
-- [[L1-recognize-system-design-term|L1-recognize-system-design-term]]
+## Learning Outcomes
+- [[skills/computing/systems-infrastructure/system-design/competencies/L1-recognize-system-design-term|L1-recognize-system-design-term]]
 
 ## Concepts Covered
 

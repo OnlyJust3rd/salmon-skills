@@ -101,3 +101,6 @@ Constructing and integrating embedded systems using microcontrollers and related
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sensor-microcontroller-interaction|Sensor-Microcontroller Interaction]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/signal-transduction-in-iot|Signal Transduction in IoT]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/simple-iot-device-scenarios|Simple IoT Device Scenarios]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

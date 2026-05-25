@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing different methods for system decomposition.
+## Related Mediums
+
+![[bases/related-mediums.base]]

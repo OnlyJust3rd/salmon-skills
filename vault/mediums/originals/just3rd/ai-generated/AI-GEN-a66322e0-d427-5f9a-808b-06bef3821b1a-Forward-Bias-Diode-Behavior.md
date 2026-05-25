@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/forward-bias-diode-behavior|forward-bias-diode-behavior]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/forward-bias-diode-behavior|forward-bias-diode-behavior]]"
 learning-time-in-minutes: 4
 ---
 # Forward Bias Diode Behavior

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using event keys for partitioning and ordering behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

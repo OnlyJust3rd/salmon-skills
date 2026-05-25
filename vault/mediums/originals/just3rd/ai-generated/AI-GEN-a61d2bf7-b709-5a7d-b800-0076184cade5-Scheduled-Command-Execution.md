@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[scheduled-command-execution|scheduled-command-execution]]"
+learning-outcomes:
+  - "[[scheduled-command-execution|scheduled-command-execution]]"
 learning-time-in-minutes: 4
 ---
 # Scheduled Command Execution with Cron

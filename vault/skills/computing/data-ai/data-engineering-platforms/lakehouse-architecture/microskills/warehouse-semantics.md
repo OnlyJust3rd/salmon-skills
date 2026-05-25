@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding query and governance behavior over lake data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding software engineering as a process of creating and utilizing models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

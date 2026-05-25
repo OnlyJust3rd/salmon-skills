@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[key-iot-technologies|key-iot-technologies]]"
+learning-outcomes:
+  - "[[key-iot-technologies|key-iot-technologies]]"
 learning-time-in-minutes: 4
 ---
 # Key IoT Technologies

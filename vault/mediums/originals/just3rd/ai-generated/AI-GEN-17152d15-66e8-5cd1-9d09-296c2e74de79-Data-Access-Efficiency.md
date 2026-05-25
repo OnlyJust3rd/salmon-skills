@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-access-efficiency|data-access-efficiency]]"
+learning-outcomes:
+  - "[[data-access-efficiency|data-access-efficiency]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Data Access Efficiency in File Allocation

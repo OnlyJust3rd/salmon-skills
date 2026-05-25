@@ -43,3 +43,6 @@ Analyze how specialized processors (GPU, DSP, and vector processors) differ from
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/cpu-vs-gpu-workload-fit|CPU vs GPU Workload Fit]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/dsp-workload-fit|DSP Workload Fit]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/vector-processor-workload-fit|Vector Processor Workload Fit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

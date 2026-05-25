@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating system needs for data throughput.
+## Related Mediums
+
+![[bases/related-mediums.base]]

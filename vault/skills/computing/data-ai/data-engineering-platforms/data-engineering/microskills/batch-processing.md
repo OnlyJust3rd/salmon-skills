@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Processing data in scheduled groups.
+## Related Mediums
+
+![[bases/related-mediums.base]]

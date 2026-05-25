@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying the base cases and recursive steps in definitions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

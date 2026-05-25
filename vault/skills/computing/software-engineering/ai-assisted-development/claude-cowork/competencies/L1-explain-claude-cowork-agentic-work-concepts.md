@@ -45,3 +45,6 @@ Explain Claude Cowork agentic work concepts.
 - [[work-delegation|Work Delegation]]
 - [[file-based-task|File-Based Task]]
 - [[human-oversight|Human Oversight]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

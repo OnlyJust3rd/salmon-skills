@@ -43,3 +43,6 @@ Describe how static analysis tools contribute to software quality.
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-contribution|Static Analysis Contribution]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-tool-impact|Static Analysis Tool Impact]]
 - [[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/common-static-analysis-tools|Common Static Analysis Tools]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

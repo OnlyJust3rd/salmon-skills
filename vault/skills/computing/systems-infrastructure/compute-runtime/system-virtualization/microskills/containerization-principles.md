@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the core concepts of packaging applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

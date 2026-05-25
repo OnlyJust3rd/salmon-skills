@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/spi-device-interfacing|spi-device-interfacing]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/spi-device-interfacing|spi-device-interfacing]]"
 learning-time-in-minutes: 4
 ---
 # SPI Device Interfacing with AVR Microcontrollers

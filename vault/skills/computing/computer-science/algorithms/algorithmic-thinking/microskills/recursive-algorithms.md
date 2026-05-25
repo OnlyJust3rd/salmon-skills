@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of problem-solving through self-referential functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

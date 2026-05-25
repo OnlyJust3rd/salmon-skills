@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding shift-add, Booth multiplication, and carry-save approaches at a conceptual level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

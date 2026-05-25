@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of the names and standard symbols for AND, OR, NOT, NAND, NOR, XOR, and XNOR gates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

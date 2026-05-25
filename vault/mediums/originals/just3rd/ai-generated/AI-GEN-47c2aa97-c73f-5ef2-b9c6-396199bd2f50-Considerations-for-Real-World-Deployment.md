@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[considerations-for-real-world-deployment|considerations-for-real-world-deployment]]"
+learning-outcomes:
+  - "[[considerations-for-real-world-deployment|considerations-for-real-world-deployment]]"
 learning-time-in-minutes: 4
 ---
 # Considerations for Real-World Deployment in Evolutionary Robotics

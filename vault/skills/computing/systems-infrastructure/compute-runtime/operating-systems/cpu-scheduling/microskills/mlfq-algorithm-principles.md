@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of Multi-Level Feedback Queue (MLFQ) CPU scheduling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

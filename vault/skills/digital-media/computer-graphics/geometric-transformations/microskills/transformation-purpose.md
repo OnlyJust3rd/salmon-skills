@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the reasons for using geometric transformations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

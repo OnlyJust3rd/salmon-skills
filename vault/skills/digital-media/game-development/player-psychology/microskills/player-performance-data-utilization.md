@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using player performance metrics to adjust game difficulty.
+## Related Mediums
+
+![[bases/related-mediums.base]]

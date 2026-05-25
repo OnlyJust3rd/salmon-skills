@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding CREATE, ALTER, and DROP statements for schema definition.
+## Related Mediums
+
+![[bases/related-mediums.base]]

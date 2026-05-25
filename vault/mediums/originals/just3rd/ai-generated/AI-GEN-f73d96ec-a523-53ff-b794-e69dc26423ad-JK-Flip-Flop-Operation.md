@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/jk-flip-flop-operation|jk-flip-flop-operation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/jk-flip-flop-operation|jk-flip-flop-operation]]"
 learning-time-in-minutes: 5
 ---
 # JK Flip-Flop Operation

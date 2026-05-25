@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/bit-stream-generator-combination|bit-stream-generator-combination]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/bit-stream-generator-combination|bit-stream-generator-combination]]"
 learning-time-in-minutes: 4
 ---
 # Combining Bit-Stream Generators for Enhanced Security

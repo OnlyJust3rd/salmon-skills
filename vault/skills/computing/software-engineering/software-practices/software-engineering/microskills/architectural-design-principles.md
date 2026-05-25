@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of best practices for system structure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

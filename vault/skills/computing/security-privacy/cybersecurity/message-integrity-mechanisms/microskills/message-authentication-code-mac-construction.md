@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how MACs are built.
+## Related Mediums
+
+![[bases/related-mediums.base]]

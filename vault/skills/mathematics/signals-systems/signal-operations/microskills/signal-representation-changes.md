@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing how transformations alter discrete-time signal representations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Apply GitHub Copilot agent and pull request workflow concepts.
 - [[agent-mode-task|Agent Mode Task]]
 - [[pull-request-review|Pull Request Review]]
 - [[issue-to-change-workflow|Issue-to-Change Workflow]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

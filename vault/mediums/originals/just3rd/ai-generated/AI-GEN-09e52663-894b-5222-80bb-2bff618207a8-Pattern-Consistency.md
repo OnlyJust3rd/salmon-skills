@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[pattern-consistency|pattern-consistency]]"
+learning-outcomes:
+  - "[[pattern-consistency|pattern-consistency]]"
 learning-time-in-minutes: 6
 ---
 # Pattern Consistency: The Backbone of Predictable Interfaces

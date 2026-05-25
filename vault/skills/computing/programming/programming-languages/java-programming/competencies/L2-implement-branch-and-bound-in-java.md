@@ -43,3 +43,6 @@ Implement branch and bound techniques in Java for problems such as Traveling Sal
 
 - [[skills/computing/programming/programming-languages/java-programming/microskills/traveling-salesman-problem-tsp-branch-and-bound-java-implementation|Traveling Salesman Problem (TSP) Branch and Bound Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/knapsack-branch-and-bound-java-implementation|Knapsack Branch and Bound Java Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -38,3 +38,6 @@ Using Unreal Engine actors, levels, Blueprints, components, materials, and C++ i
 - [[skills/digital-media/game-development/unreal-engine/microskills/blueprint-event-graph|Blueprint Event Graph]]
 - [[skills/digital-media/game-development/unreal-engine/microskills/level|Level]]
 - [[skills/digital-media/game-development/unreal-engine/microskills/level-interaction|Level Interaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

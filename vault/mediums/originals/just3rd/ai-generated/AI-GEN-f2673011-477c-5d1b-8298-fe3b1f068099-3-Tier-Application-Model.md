@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/3-tier-application-model|3-tier-application-model]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/3-tier-application-model|3-tier-application-model]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the 3-Tier Application Model

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of bar charts to represent patterns and distributions in text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

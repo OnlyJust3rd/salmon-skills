@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in defining and using data sources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

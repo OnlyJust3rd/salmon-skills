@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of positive environmental impacts of EVs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

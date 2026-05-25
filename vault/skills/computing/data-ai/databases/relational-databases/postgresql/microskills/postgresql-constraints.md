@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Applying primary keys, foreign keys, uniqueness, checks, and not-null constraints.
+## Related Mediums
+
+![[bases/related-mediums.base]]

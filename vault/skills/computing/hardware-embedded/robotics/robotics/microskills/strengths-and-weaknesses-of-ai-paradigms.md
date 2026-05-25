@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of the advantages and disadvantages of various AI paradigms for robotic intelligence.
+## Related Mediums
+
+![[bases/related-mediums.base]]

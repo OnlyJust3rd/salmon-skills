@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role of backing storage in virtual memory.
+## Related Mediums
+
+![[bases/related-mediums.base]]

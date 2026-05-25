@@ -45,3 +45,6 @@ Explain endpoint configuration and user account administration.
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/user-accounts|User Accounts]]
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/endpoint-configuration|Endpoint Configuration]]
 - [[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/permission-assignment|Permission Assignment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

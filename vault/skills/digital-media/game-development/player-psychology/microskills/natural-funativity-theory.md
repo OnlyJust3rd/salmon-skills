@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of natural funativity theory.
+## Related Mediums
+
+![[bases/related-mediums.base]]

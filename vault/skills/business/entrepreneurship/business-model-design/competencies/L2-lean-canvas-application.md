@@ -47,3 +47,6 @@ Apply the Lean Canvas framework to construct and map a business venture's core c
 - [[skills/business/entrepreneurship/business-model-design/microskills/business-component-mapping|Business Component Mapping]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/startup-hypothesis-articulation|Startup Hypothesis Articulation]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/business-model-communication|Business Model Communication]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

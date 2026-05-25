@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing algorithm choices (e.g., Booth vs shift-add; restoring vs non-restoring) under practical constraints.
+## Related Mediums
+
+![[bases/related-mediums.base]]

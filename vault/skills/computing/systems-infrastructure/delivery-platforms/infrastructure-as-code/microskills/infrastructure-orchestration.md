@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how Terraform can manage Kubernetes infrastructure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

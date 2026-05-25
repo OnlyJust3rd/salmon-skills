@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[euclidean-distance-definition|euclidean-distance-definition]]"
+learning-outcomes:
+  - "[[euclidean-distance-definition|euclidean-distance-definition]]"
 learning-time-in-minutes: 4
 ---
 # Euclidean Distance: Measuring Similarity

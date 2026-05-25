@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/marketing-strategy/microskills/customer-segment-characteristics|customer-segment-characteristics]]"
+learning-outcomes:
+  - "[[skills/business/product-management/marketing-strategy/microskills/customer-segment-characteristics|customer-segment-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Customer Segment Characteristics in the Technology Adoption Lifecycle

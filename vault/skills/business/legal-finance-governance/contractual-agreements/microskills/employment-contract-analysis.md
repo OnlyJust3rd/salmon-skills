@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstruction of employment contracts to identify features and purposes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of a coordinate vector with respect to a basis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

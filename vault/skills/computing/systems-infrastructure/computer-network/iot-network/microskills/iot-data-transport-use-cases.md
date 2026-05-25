@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core functionality, message exchange patterns, and application of protocols in IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Representing one-to-one, one-to-many, and many-to-many relationships.
+## Related Mediums
+
+![[bases/related-mediums.base]]

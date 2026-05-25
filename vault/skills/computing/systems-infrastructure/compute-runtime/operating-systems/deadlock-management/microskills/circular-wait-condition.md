@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the circular wait condition for deadlock.
+## Related Mediums
+
+![[bases/related-mediums.base]]

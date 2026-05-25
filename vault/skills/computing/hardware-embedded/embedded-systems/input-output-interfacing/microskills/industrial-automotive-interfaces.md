@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding typical roles of CAN and RS-232/422 in device communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

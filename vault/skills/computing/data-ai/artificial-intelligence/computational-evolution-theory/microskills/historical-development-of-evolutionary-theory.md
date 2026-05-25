@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the progression and key milestones in the history of evolutionary thought.
+## Related Mediums
+
+![[bases/related-mediums.base]]

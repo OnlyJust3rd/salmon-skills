@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/spherical-coordinate-transformation-for-triple-integrals|spherical-coordinate-transformation-for-triple-integrals]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/spherical-coordinate-transformation-for-triple-integrals|spherical-coordinate-transformation-for-triple-integrals]]"
 learning-time-in-minutes: 5
 ---
 # Setting Up Triple Integrals with Spherical Coordinates

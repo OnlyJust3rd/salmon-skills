@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/transformation-to-matrix-mapping|transformation-to-matrix-mapping]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/transformation-to-matrix-mapping|transformation-to-matrix-mapping]]"
 learning-time-in-minutes: 5
 ---
 # Mapping Linear Transformations to Matrices

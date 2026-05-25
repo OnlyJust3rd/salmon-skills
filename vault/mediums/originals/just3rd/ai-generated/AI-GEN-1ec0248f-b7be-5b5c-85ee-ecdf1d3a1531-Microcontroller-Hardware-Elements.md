@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/microcontroller-hardware-elements|microcontroller-hardware-elements]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/microcontroller-hardware-elements|microcontroller-hardware-elements]]"
 learning-time-in-minutes: 5
 ---
 # Microcontroller Hardware Elements

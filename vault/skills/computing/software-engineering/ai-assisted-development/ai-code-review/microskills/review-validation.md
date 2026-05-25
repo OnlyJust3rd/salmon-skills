@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Checking whether AI review findings are true and relevant.
+## Related Mediums
+
+![[bases/related-mediums.base]]

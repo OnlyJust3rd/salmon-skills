@@ -49,3 +49,6 @@ Describe the principles behind error detection and correction mechanisms in the 
 - [[data-integrity-assurance|Data Integrity Assurance]]
 - [[link-layer-error-handling|Link Layer Error Handling]]
 - [[common-error-control-techniques|Common Error Control Techniques]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

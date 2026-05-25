@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how embedded systems communicate with external hardware.
+## Related Mediums
+
+![[bases/related-mediums.base]]

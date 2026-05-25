@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of recursive and iterative DP methodologies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

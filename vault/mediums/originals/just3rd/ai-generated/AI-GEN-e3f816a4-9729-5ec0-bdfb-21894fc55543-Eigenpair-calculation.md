@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/eigenpair-calculation|eigenpair-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/eigenpair-calculation|eigenpair-calculation]]"
 learning-time-in-minutes: 5
 ---
 # Calculating Eigenpairs: Eigenvalues and Eigenvectors

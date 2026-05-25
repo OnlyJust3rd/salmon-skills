@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-feedback-collection|user-feedback-collection]]"
+learning-outcomes:
+  - "[[user-feedback-collection|user-feedback-collection]]"
 learning-time-in-minutes: 6
 ---
 # Gathering User Feedback: The Heart of Iterative Design

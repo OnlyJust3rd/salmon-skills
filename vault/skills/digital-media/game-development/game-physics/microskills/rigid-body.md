@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding simulated physical bodies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

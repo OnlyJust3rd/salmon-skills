@@ -41,3 +41,6 @@ Apply image processing techniques, such as filtering, to modify image pixels for
 
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-filter-application|Image Filter Application]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-pixel-manipulation-for-watermarking|Image Pixel Manipulation for Watermarking]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

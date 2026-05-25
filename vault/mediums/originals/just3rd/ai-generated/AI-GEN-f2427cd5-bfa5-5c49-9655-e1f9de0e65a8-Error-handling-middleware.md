@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/error-handling-middleware|error-handling-middleware]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/express-js/microskills/error-handling-middleware|error-handling-middleware]]"
 learning-time-in-minutes: 4
 ---
 # Error Handling Middleware in Express.js

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/cryptography-application-at-osi-layers|cryptography-application-at-osi-layers]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/cryptography-application-at-osi-layers|cryptography-application-at-osi-layers]]"
 learning-time-in-minutes: 3
 ---
 # Cryptography's Place in the OSI Model

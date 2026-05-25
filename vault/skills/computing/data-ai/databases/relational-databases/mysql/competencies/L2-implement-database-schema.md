@@ -49,3 +49,6 @@ Implement a relational database schema based on a given design using SQL Data De
 - [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/table-creation-statements|Table Creation Statements]]
 - [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/column-definition-statements|Column Definition Statements]]
 - [[skills/computing/data-ai/databases/relational-databases/mysql/microskills/constraint-implementation-e-g-primary-keys|Constraint Implementation (e.g., Primary Keys)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

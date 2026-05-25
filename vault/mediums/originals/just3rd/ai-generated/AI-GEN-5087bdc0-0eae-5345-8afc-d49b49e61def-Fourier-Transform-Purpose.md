@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/fourier-transform-purpose|fourier-transform-purpose]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/fourier-transform-purpose|fourier-transform-purpose]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the "Why" Behind the Fourier Transform

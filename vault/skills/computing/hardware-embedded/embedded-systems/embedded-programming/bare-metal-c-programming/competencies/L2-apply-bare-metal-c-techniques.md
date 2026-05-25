@@ -45,3 +45,6 @@ Write C code using bitwise operations to set, clear, and toggle hardware registe
 - [[bit-toggle-operations|Bit Toggle Operations]]
 - [[volatile-variable-declaration|Volatile Variable Declaration]]
 - [[macro-definitions-for-register-access|Macro Definitions for Register Access]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

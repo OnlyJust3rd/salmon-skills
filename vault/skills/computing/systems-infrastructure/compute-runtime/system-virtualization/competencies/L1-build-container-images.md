@@ -45,3 +45,6 @@ Create Dockerfiles to build container images, understanding OS-level virtualizat
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/dockerfile-construction|Dockerfile Construction]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/container-image-building-process|Container Image Building Process]]
 - [[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/os-level-virtualization-application|OS-Level Virtualization Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

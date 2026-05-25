@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/ctft-magnitude-calculation|ctft-magnitude-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-transform-analysis/microskills/ctft-magnitude-calculation|ctft-magnitude-calculation]]"
 learning-time-in-minutes: 3
 ---
 # CTFT Magnitude Calculation: Unveiling Signal Frequencies

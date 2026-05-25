@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-plane|projection-plane]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-plane|projection-plane]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Projection Plane in Perspective Projection

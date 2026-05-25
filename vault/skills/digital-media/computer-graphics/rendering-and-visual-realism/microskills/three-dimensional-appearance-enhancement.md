@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of methods to improve the perception of depth and form.
+## Related Mediums
+
+![[bases/related-mediums.base]]

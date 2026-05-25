@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing whether users continue using a product.
+## Related Mediums
+
+![[bases/related-mediums.base]]

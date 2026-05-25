@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[manual-route-management|manual-route-management]]"
+learning-outcomes:
+  - "[[manual-route-management|manual-route-management]]"
 learning-time-in-minutes: 5
 ---
 # Manual Route Management: The Foundation of Static Routing

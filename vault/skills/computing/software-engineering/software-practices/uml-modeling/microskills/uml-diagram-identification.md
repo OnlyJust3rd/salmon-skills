@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of various UML diagram types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

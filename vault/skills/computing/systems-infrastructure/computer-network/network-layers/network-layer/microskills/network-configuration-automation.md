@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How DHCP simplifies network setup.
+## Related Mediums
+
+![[bases/related-mediums.base]]

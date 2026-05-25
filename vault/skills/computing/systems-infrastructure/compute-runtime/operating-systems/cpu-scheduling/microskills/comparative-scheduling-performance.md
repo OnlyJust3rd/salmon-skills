@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparative analysis of CPU scheduling algorithm performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

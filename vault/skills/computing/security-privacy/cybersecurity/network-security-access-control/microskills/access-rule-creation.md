@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating access control rules based on packet filtering principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

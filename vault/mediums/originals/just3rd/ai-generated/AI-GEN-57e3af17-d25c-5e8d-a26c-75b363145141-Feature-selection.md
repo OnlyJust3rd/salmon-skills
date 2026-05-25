@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[feature-selection|feature-selection]]"
+learning-outcomes:
+  - "[[feature-selection|feature-selection]]"
 learning-time-in-minutes: 3
 ---
 # Applying Feature Selection for Dimensionality Reduction

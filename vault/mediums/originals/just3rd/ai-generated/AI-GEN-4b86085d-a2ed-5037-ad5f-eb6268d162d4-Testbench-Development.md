@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/testbench-development|testbench-development]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/testbench-development|testbench-development]]"
 learning-time-in-minutes: 4
 ---
 # Constructing Functional Testbenches in Verilog

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/artifact-promotion|artifact-promotion]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/artifact-management/microskills/artifact-promotion|artifact-promotion]]"
 learning-time-in-minutes: 3
 ---
 # Artifact Promotion

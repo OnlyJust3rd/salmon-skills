@@ -47,3 +47,6 @@ Explain and define time-series analysis, classification, and clustering and thei
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/classification-definition|Classification Definition]]
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/clustering-definition|Clustering Definition]]
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/purpose-of-analysis-in-iot|Purpose of Analysis in IoT]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

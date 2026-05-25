@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Aims of evaluating product ease-of-use.
+## Related Mediums
+
+![[bases/related-mediums.base]]

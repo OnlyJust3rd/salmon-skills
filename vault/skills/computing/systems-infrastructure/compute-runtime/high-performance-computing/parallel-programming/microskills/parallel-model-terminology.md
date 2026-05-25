@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of core terms used across parallel programming paradigms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

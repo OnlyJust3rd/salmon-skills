@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to execute key steps of adder/multiplier/divider algorithms on sample inputs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

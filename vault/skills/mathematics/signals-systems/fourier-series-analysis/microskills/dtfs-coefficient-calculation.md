@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Executing the calculation of Discrete-Time Fourier Series coefficients.
+## Related Mediums
+
+![[bases/related-mediums.base]]

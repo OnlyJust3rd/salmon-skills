@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-heuristics|usability-heuristics]]"
+learning-outcomes:
+  - "[[usability-heuristics|usability-heuristics]]"
 learning-time-in-minutes: 5
 ---
 # Usability Heuristics: Guiding Principles for User-Friendly Design

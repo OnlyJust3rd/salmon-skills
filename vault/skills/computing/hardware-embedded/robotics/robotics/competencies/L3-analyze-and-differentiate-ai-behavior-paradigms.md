@@ -45,3 +45,6 @@ Analyze the trade-offs and differentiate between various AI behavior-based parad
 - [[internal-world-models-vs-brooks-approach|Internal World Models vs. Brooks' Approach]]
 - [[strengths-and-weaknesses-of-ai-paradigms|Strengths and Weaknesses of AI Paradigms]]
 - [[methodologies-for-robotic-intelligence|Methodologies for Robotic Intelligence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

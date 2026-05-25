@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Illustration of practical AI applications within specific sectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

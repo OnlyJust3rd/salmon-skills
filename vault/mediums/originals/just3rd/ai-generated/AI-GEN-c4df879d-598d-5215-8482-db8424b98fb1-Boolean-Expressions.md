@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-expressions|boolean-expressions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-expressions|boolean-expressions]]"
 learning-time-in-minutes: 5
 ---
 # Boolean Expressions and Logic Gates

@@ -38,3 +38,6 @@ Understanding IT service delivery, support workflows, incident handling, request
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/service-request|Service Request]]
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/support-documentation|Support Documentation]]
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/ticket-classification|Ticket Classification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

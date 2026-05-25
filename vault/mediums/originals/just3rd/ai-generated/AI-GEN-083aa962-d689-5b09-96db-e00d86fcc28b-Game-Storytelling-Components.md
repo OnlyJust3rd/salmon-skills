@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/game-storytelling-components|game-storytelling-components]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/game-storytelling-components|game-storytelling-components]]"
 learning-time-in-minutes: 5
 ---
 # Game Storytelling Components: Deconstructing Narrative Elements

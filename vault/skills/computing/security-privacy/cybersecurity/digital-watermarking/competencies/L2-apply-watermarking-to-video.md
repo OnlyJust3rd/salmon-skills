@@ -43,3 +43,6 @@ Extend image watermarking principles and algorithms to video sequences.
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/video-frame-watermarking|Video Frame Watermarking]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/video-sequence-watermarking|Video Sequence Watermarking]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/challenges-in-video-watermarking|Challenges in Video Watermarking]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

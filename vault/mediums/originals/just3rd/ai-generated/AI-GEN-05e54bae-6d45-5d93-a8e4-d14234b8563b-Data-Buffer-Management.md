@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-buffer-management|data-buffer-management]]"
+learning-outcomes:
+  - "[[data-buffer-management|data-buffer-management]]"
 learning-time-in-minutes: 5
 ---
 # Data Buffer Management in AVR Communication

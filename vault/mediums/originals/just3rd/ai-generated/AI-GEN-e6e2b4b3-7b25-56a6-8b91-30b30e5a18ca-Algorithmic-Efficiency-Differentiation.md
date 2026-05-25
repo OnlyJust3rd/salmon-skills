@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/algorithmic-efficiency-differentiation|algorithmic-efficiency-differentiation]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/algorithmic-efficiency-differentiation|algorithmic-efficiency-differentiation]]"
 learning-time-in-minutes: 3
 ---
 # Algorithmic Efficiency Differentiation

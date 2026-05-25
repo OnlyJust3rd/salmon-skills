@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of AND, OR, XOR, NOT, and shift operators used for register manipulation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

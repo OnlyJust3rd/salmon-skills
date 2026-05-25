@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing C code for SPI slave communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of Waterfall, Incremental, and Reuse-oriented models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

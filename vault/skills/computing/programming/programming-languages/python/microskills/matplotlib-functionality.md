@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the capabilities and usage of the matplotlib library.
+## Related Mediums
+
+![[bases/related-mediums.base]]

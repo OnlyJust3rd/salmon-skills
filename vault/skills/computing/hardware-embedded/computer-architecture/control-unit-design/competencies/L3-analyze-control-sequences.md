@@ -45,3 +45,6 @@ Analyze the control-signal sequence required to execute a simple instruction and
 
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/control-signal-derivation|Control Signal Derivation]]
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microinstruction-mapping|Microinstruction Mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

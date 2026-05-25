@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Tracking where data came from and how it changed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

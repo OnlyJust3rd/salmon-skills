@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Components of Product, Price, Place, Promotion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

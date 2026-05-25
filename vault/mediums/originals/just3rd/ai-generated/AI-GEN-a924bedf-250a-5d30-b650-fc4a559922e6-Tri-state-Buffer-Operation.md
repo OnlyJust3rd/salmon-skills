@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-operation|tri-state-buffer-operation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-operation|tri-state-buffer-operation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Tri-state Buffers

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[information-architecture|information-architecture]]"
+learning-outcomes:
+  - "[[information-architecture|information-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Information Architecture: Structuring Content and Navigation

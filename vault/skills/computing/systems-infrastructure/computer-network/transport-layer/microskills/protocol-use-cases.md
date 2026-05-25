@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying scenarios where TCP or UDP is more suitable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

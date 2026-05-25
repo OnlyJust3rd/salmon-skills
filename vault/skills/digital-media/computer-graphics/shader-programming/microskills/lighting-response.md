@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Controlling how surfaces react to light.
+## Related Mediums
+
+![[bases/related-mediums.base]]

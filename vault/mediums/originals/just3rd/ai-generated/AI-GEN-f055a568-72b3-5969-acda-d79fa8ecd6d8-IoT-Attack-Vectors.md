@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-attack-vectors|iot-attack-vectors]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-attack-vectors|iot-attack-vectors]]"
 learning-time-in-minutes: 4
 ---
 # IoT Attack Vectors

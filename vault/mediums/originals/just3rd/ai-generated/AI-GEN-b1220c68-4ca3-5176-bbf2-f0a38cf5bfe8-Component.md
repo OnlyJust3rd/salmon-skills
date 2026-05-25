@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-engine-architecture/microskills/component|component]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-engine-architecture/microskills/component|component]]"
 learning-time-in-minutes: 4
 ---
 # Figma Components: Reusable Design Elements

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-definition-through-code|infrastructure-definition-through-code]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-definition-through-code|infrastructure-definition-through-code]]"
 learning-time-in-minutes: 3
 ---
 # Defining Infrastructure with Code

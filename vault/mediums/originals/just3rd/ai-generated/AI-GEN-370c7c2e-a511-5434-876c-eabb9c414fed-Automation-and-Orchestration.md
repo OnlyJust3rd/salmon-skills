@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-and-orchestration|automation-and-orchestration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-and-orchestration|automation-and-orchestration]]"
 learning-time-in-minutes: 5
 ---
 # Automation and Orchestration in Infrastructure as Code

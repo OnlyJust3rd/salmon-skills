@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[route-selection|route-selection]]"
+learning-outcomes:
+  - "[[route-selection|route-selection]]"
 learning-time-in-minutes: 4
 ---
 # Route Selection: How Routers Choose the Best Path

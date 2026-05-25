@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical use of fundamental commands for file operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

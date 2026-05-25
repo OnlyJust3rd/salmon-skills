@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in performing addition, subtraction, multiplication, and division operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

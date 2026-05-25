@@ -41,3 +41,6 @@ Implement Bresenham's line drawing algorithm to render lines on a display.
 
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/bresenham-s-algorithm-implementation|Bresenham's Algorithm Implementation]]
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/line-rendering|Line Rendering]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

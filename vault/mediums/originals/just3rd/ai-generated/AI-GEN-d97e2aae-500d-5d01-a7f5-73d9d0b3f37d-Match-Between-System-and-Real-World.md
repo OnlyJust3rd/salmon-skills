@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[match-between-system-and-real-world|match-between-system-and-real-world]]"
+learning-outcomes:
+  - "[[match-between-system-and-real-world|match-between-system-and-real-world]]"
 learning-time-in-minutes: 5
 ---
 # Match Between System and Real World

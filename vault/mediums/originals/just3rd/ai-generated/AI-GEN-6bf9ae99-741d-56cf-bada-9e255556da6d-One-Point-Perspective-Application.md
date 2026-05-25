@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/perspective-projection/microskills/one-point-perspective-application|one-point-perspective-application]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/one-point-perspective-application|one-point-perspective-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying One-Point Perspective to Simple Shapes

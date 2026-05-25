@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/injectivity-determination|injectivity-determination]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/injectivity-determination|injectivity-determination]]"
 learning-time-in-minutes: 4
 ---
 # Injectivity: Knowing When a Transformation is One-to-One

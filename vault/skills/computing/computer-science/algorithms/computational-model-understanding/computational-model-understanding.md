@@ -40,3 +40,6 @@ Ability to understand and describe theoretical models of computation, such as fi
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/role-of-computational-models|Role of Computational Models]]
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/significance-of-abstraction|Significance of Abstraction]]
 - [[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/state-transition-logic|State Transition Logic]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

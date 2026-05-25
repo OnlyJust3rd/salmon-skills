@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying resource conflicts that cause pipeline stalls.
+## Related Mediums
+
+![[bases/related-mediums.base]]

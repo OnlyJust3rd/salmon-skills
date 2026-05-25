@@ -51,3 +51,6 @@ Conceptualizing and structuring integrated hardware and software systems, consid
 - [[skills/professional-practice/engineering-practices/system-design/microskills/system-design-considerations|System Design Considerations]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/system-level-design-creation|System-Level Design Creation]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/system-level-design-methods|System-Level Design Methods]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

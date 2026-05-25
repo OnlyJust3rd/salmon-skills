@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the process of a function completing its execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

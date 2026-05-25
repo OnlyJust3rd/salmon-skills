@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how attacks affect capacity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

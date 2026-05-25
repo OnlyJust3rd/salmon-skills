@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/technical-communication/microskills/comprehensive-project-presentation|comprehensive-project-presentation]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/comprehensive-project-presentation|comprehensive-project-presentation]]"
 learning-time-in-minutes: 4
 ---
 # Crafting a Comprehensive Project Presentation

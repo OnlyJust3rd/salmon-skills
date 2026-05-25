@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of the Mean Value Theorem to solve problems involving rates of change.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of cryptographic implementation in IPSec AH.
+## Related Mediums
+
+![[bases/related-mediums.base]]

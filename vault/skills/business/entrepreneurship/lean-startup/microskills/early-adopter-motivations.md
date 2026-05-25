@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the drivers behind early adoption.
+## Related Mediums
+
+![[bases/related-mediums.base]]

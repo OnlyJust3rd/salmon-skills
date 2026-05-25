@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in setting up commands to run at specific intervals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

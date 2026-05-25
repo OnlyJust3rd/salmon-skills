@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/schematic-entry-in-tinkercad|schematic-entry-in-tinkercad]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/schematic-entry-in-tinkercad|schematic-entry-in-tinkercad]]"
 learning-time-in-minutes: 3
 ---
 # Schematic Entry in Tinkercad

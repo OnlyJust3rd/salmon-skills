@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of which peripheral best fits specific task requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

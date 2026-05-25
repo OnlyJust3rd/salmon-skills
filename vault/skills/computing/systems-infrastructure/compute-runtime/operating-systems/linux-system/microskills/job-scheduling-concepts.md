@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of mechanisms for scheduling tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

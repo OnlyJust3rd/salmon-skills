@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-issue-identification|usability-issue-identification]]"
+learning-outcomes:
+  - "[[usability-issue-identification|usability-issue-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Usability Issues with Heuristics

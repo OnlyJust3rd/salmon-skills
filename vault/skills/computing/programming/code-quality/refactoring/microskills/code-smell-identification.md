@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing indicators for code refactoring.
+## Related Mediums
+
+![[bases/related-mediums.base]]

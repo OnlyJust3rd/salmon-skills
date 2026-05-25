@@ -49,3 +49,6 @@ Utilize Terraform for infrastructure provisioning, managing its state and ensuri
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/idempotency-in-provisioning|Idempotency in Provisioning]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-commands|Terraform Commands]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-resource-provisioning|Infrastructure Resource Provisioning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

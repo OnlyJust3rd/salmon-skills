@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/lean-startup-hypothesis-validation|lean-startup-hypothesis-validation]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/lean-startup-hypothesis-validation|lean-startup-hypothesis-validation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Hypothesis Validation Through Solution Interviews and Testing

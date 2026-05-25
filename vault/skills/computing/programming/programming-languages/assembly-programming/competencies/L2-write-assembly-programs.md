@@ -45,3 +45,6 @@ Write assembly language programs to execute specific tasks.
 
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/assembly-code-implementation|Assembly Code Implementation]]
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/task-specific-assembly-programming|Task-Specific Assembly Programming]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

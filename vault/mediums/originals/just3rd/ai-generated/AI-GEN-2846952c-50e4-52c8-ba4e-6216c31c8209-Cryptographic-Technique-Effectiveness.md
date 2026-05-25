@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/cryptographic-technique-effectiveness|cryptographic-technique-effectiveness]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/cryptographic-technique-effectiveness|cryptographic-technique-effectiveness]]"
 learning-time-in-minutes: 2
 ---
 # Evaluating Cryptographic Technique Effectiveness

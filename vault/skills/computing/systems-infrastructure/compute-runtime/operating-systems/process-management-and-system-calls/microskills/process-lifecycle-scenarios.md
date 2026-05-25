@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Illustration of process lifecycles through practical examples.
+## Related Mediums
+
+![[bases/related-mediums.base]]

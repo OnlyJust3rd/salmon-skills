@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[brooks-ai-contributions|brooks-ai-contributions]]"
+learning-outcomes:
+  - "[[brooks-ai-contributions|brooks-ai-contributions]]"
 learning-time-in-minutes: 4
 ---
 # Brooks' AI Contributions

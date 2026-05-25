@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/high-level-algorithm-design|high-level-algorithm-design]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/high-level-algorithm-design|high-level-algorithm-design]]"
 learning-time-in-minutes: 3
 ---
 # High-Level Algorithm Design: The Blueprint for Solutions

@@ -47,3 +47,6 @@ Explain the principles and approaches of extractive summarization (e.g., LexRank
 - [[abstractive-summarization-principles|Abstractive Summarization Principles]]
 - [[neural-encoder-decoder-models-for-summarization|Neural Encoder-Decoder Models for Summarization]]
 - [[transformer-models-for-summarization|Transformer Models for Summarization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/kernel-definition-for-transformation|kernel-definition-for-transformation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/kernel-definition-for-transformation|kernel-definition-for-transformation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Kernel of a Linear Transformation

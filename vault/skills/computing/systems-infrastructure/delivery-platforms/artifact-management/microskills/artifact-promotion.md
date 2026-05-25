@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding movement of artifacts between release stages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how meaningful markup supports assistive technologies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

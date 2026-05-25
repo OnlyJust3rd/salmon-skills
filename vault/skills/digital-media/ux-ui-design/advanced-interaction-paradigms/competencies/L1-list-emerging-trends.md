@@ -41,3 +41,6 @@ List emerging trends in human-computer interaction.
 
 - [[emerging-hci-trends|Emerging HCI Trends]]
 - [[future-hci-capabilities|Future HCI Capabilities]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

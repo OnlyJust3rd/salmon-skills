@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing the interplay between congestion and network performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the essential elements of a file system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

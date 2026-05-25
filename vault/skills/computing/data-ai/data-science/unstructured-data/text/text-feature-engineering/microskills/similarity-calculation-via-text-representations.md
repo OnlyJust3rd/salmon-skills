@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how numerical text representations enable similarity computations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

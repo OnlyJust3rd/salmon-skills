@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/binary-arithmetic-operations|binary-arithmetic-operations]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/binary-arithmetic-operations|binary-arithmetic-operations]]"
 learning-time-in-minutes: 6
 ---
 # Binary Arithmetic Operations

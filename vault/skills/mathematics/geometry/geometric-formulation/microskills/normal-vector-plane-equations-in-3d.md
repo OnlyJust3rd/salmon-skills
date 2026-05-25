@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to formulate plane equations using normal vectors in three-dimensional space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

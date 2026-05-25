@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[file-writing-commands|file-writing-commands]]"
+learning-outcomes:
+  - "[[file-writing-commands|file-writing-commands]]"
 learning-time-in-minutes: 4
 ---
 # Writing to Files: The `echo` and Redirection Operators

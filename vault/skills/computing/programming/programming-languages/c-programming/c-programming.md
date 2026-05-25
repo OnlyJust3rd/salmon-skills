@@ -64,3 +64,6 @@ Ability to implement solutions using the C programming language, applying modula
 - [[skills/computing/programming/programming-languages/c-programming/microskills/program-logic-construction|Program logic construction]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/reusable-component-integration|Reusable component integration]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/variable-implementation|Variable implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

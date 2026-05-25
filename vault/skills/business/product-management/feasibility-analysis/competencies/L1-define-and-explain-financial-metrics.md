@@ -47,3 +47,6 @@ Define and explain key financial terms and profitability metrics, including reve
 - [[skills/business/product-management/feasibility-analysis/microskills/break-even-point-calculation|Break-Even Point Calculation]]
 - [[skills/business/product-management/feasibility-analysis/microskills/net-present-value-npv-interpretation|Net Present Value (NPV) Interpretation]]
 - [[skills/business/product-management/feasibility-analysis/microskills/internal-rate-of-return-irr-interpretation|Internal Rate of Return (IRR) Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

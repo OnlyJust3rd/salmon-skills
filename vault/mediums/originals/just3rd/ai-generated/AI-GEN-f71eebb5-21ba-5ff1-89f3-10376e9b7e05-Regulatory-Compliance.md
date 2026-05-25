@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/regulatory-compliance|regulatory-compliance]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/regulatory-compliance|regulatory-compliance]]"
 learning-time-in-minutes: 4
 ---
 # Regulatory Compliance: Understanding the Rules of Business

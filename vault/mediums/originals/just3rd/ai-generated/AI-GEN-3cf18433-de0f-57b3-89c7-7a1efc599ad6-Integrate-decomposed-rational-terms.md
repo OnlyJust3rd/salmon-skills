@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/integrate-decomposed-rational-terms|integrate-decomposed-rational-terms]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/integrate-decomposed-rational-terms|integrate-decomposed-rational-terms]]"
 learning-time-in-minutes: 4
 ---
 # Integrating Decomposed Rational Terms

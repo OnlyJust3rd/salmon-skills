@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of active and executing containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

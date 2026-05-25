@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/circuit-parameter-measurement|circuit-parameter-measurement]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/circuit-parameter-measurement|circuit-parameter-measurement]]"
 learning-time-in-minutes: 6
 ---
 # Measuring Circuit Parameters: Voltage, Current, and Signal Integrity

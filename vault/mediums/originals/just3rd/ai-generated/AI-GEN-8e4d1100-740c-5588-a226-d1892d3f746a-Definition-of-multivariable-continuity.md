@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/definition-of-multivariable-continuity|definition-of-multivariable-continuity]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/definition-of-multivariable-continuity|definition-of-multivariable-continuity]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Definition of Multivariable Continuity

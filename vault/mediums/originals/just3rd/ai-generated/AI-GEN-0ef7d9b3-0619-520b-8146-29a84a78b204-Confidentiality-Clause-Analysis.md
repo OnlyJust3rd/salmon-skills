@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/confidentiality-clause-analysis|confidentiality-clause-analysis]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/confidentiality-clause-analysis|confidentiality-clause-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Deconstructing Confidentiality Clauses

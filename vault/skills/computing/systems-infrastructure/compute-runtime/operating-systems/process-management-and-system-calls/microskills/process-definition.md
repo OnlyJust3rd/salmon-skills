@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating between a program and a process.
+## Related Mediums
+
+![[bases/related-mediums.base]]

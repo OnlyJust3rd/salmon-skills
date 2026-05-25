@@ -47,3 +47,6 @@ Apply the Binomial expansion to functions, including determining the conditions 
 - [[binomial-expansion-formulation|Binomial expansion formulation]]
 - [[binomial-expansion-validity-conditions|Binomial expansion validity conditions]]
 - [[binomial-expansion-interval-of-convergence|Binomial expansion interval of convergence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

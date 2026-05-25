@@ -43,3 +43,6 @@ Apply methods to mitigate order and learning effects in experiments.
 - [[experimental-effects-mitigation|Experimental Effects Mitigation]]
 - [[latin-squares-application|Latin Squares Application]]
 - [[sequence-dependent-bias-reduction|Sequence-Dependent Bias Reduction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

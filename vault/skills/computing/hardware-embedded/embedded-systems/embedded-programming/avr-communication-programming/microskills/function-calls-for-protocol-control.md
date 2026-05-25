@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of library functions or custom functions for managing communication protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

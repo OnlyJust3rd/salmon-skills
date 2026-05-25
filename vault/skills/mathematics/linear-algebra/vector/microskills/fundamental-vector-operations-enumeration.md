@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to list the basic operations performed on vectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[xr-development-tools|xr-development-tools]]"
+learning-outcomes:
+  - "[[xr-development-tools|xr-development-tools]]"
 learning-time-in-minutes: 3
 ---
 # XR Development Tools for Prototyping

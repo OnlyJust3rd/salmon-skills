@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to navigate the file system using shell commands.
+## Related Mediums
+
+![[bases/related-mediums.base]]

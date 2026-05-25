@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/algorithmic-efficiency-trade-offs|algorithmic-efficiency-trade-offs]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/algorithmic-efficiency-trade-offs|algorithmic-efficiency-trade-offs]]"
 learning-time-in-minutes: 5
 ---
 # Algorithmic Efficiency Trade-offs

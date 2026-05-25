@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding responsibility for object lifetime.
+## Related Mediums
+
+![[bases/related-mediums.base]]

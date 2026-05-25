@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/safe-usage-of-lab-equipment|safe-usage-of-lab-equipment]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/safe-usage-of-lab-equipment|safe-usage-of-lab-equipment]]"
 learning-time-in-minutes: 6
 ---
 # Safe Usage of Lab Equipment

@@ -45,3 +45,6 @@ Apply BPMN process modeling to represent business workflows.
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/bpmn-event|BPMN Event]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/gateway|Gateway]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/swimlane|Swimlane]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

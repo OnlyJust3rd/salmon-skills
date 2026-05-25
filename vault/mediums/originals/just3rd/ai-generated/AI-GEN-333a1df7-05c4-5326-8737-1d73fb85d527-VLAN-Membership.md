@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[vlan-membership|vlan-membership]]"
+learning-outcomes:
+  - "[[vlan-membership|vlan-membership]]"
 learning-time-in-minutes: 5
 ---
 # Understanding VLAN Membership: Segmenting Your Network

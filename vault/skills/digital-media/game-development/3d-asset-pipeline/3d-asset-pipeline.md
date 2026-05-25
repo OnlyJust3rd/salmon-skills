@@ -38,3 +38,6 @@ Understanding 3D model, material, texture, rig, import, optimization, and naming
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/polygon-budget|Polygon Budget]]
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/texture-compression|Texture Compression]]
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/uv-mapping|UV Mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

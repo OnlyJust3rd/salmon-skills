@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to utilize different number representation formats in arithmetic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

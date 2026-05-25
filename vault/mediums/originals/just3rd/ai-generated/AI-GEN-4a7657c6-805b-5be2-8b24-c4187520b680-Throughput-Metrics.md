@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[throughput-metrics|throughput-metrics]]"
+learning-outcomes:
+  - "[[throughput-metrics|throughput-metrics]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Disk Scheduling Throughput

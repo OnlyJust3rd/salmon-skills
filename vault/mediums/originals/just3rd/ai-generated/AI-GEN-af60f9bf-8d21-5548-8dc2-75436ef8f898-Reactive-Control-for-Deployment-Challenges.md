@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reactive-control-for-deployment-challenges|reactive-control-for-deployment-challenges]]"
+learning-outcomes:
+  - "[[reactive-control-for-deployment-challenges|reactive-control-for-deployment-challenges]]"
 learning-time-in-minutes: 5
 ---
 # Reactive Control for Robotic Deployment

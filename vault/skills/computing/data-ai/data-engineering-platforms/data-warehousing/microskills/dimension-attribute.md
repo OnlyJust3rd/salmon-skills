@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing descriptive fields used for filtering or grouping.
+## Related Mediums
+
+![[bases/related-mediums.base]]

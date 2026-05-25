@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[current-iot-research-landscape|current-iot-research-landscape]]"
+learning-outcomes:
+  - "[[current-iot-research-landscape|current-iot-research-landscape]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Current IoT Research Landscape

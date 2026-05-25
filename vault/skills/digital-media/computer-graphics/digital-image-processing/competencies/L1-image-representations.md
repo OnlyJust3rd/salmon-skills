@@ -41,3 +41,6 @@ Identify common components and representations of digital images.
 
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/digital-image-components|Digital Image Components]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/digital-image-formats|Digital Image Formats]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

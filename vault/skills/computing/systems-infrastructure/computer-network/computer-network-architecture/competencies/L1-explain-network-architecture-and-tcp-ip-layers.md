@@ -45,3 +45,6 @@ Explain the fundamental concepts of computer network architectures, including th
 - [[protocol-stack-functions|Protocol Stack Functions]]
 - [[tcp-ip-model-layers|TCP/IP Model Layers]]
 - [[purpose-of-network-layers|Purpose of Network Layers]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

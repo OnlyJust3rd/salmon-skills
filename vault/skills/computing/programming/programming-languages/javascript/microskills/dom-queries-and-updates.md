@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Select elements and change content or attributes safely.
+## Related Mediums
+
+![[bases/related-mediums.base]]

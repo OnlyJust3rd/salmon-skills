@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the names of theorems applicable to continuous functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

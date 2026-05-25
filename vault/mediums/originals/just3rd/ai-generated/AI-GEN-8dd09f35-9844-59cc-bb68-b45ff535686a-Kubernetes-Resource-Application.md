@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-resource-application|kubernetes-resource-application]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-resource-application|kubernetes-resource-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying Kubernetes Deployment Configurations

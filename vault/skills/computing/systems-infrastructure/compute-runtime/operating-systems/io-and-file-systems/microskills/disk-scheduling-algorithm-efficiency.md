@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the comparative efficiency of disk scheduling algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -59,3 +59,6 @@ Designing and evaluating CPU scheduling strategies for efficient process executi
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/turnaround-time-calculation|Turnaround Time Calculation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/waiting-time-calculation|Waiting Time Calculation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|Workload Scenario Suitability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

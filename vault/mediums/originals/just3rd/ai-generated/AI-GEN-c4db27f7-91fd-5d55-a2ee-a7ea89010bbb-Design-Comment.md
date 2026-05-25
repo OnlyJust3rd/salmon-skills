@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[design-comment|design-comment]]"
+learning-outcomes:
+  - "[[design-comment|design-comment]]"
 learning-time-in-minutes: 4
 ---
 # Capturing Collaboration Feedback: Figma's Design Comment Feature

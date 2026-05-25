@@ -48,3 +48,6 @@ Creating and manipulating digital 2D and 3D models for engineering applications 
 - [[skills/digital-media/design-fabrication/cad-design/microskills/computer-aided-design-software|Computer-Aided Design Software]]
 - [[skills/digital-media/design-fabrication/cad-design/microskills/engineering-design-software-identification|Engineering Design Software Identification]]
 - [[skills/digital-media/design-fabrication/cad-design/microskills/prototyping-part-design|Prototyping Part Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

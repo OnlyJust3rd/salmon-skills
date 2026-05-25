@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how HDL code is synthesized into a gate-level netlist.
+## Related Mediums
+
+![[bases/related-mediums.base]]

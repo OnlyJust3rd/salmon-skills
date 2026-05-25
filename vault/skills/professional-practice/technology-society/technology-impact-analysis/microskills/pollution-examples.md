@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of specific instances of pollution caused by technology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

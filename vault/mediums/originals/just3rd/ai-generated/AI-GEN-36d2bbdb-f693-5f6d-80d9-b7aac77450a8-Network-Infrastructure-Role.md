@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-infrastructure-role|network-infrastructure-role]]"
+learning-outcomes:
+  - "[[network-infrastructure-role|network-infrastructure-role]]"
 learning-time-in-minutes: 3
 ---
 # Ethernet's Role in the Network Infrastructure

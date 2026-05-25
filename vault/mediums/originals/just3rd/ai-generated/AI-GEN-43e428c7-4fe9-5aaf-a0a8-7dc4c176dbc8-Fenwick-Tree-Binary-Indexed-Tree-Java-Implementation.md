@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fenwick-tree-binary-indexed-tree-java-implementation|fenwick-tree-binary-indexed-tree-java-implementation]]"
+learning-outcomes:
+  - "[[fenwick-tree-binary-indexed-tree-java-implementation|fenwick-tree-binary-indexed-tree-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Fenwick Tree (Binary Indexed Tree) Java Implementation

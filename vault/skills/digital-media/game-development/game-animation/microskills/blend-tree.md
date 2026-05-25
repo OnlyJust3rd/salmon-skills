@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding smooth transitions between animations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

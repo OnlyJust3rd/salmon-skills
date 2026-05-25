@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[situational-applicability-of-nosql|situational-applicability-of-nosql]]"
+learning-outcomes:
+  - "[[situational-applicability-of-nosql|situational-applicability-of-nosql]]"
 learning-time-in-minutes: 5
 ---
 # When NoSQL Shines: Situational Applicability

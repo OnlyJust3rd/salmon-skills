@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstructing real-world operating system case studies for design insights.
+## Related Mediums
+
+![[bases/related-mediums.base]]

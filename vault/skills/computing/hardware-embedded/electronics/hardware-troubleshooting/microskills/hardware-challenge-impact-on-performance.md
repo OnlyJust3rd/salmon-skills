@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of how hardware challenges affect circuit performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

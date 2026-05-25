@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of typical areas within industry employing computing techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

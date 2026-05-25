@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Basic knowledge of the filters used in convolutional layers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

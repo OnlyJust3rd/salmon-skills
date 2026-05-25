@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reading data from sensors using appropriate protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

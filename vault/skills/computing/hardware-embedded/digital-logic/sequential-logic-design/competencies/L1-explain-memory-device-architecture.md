@@ -49,3 +49,6 @@ Explain the architecture, operation, and differences between RAM (SRAM, DRAM) an
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/rom-family-differences|ROM Family Differences]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/memory-addressing-and-organization|Memory Addressing and Organization]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/volatile-vs-non-volatile-storage|Volatile vs Non-volatile Storage]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

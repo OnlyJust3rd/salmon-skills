@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how resource capacity affects performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

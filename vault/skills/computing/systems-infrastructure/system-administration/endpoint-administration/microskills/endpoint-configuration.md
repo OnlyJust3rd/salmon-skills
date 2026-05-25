@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding operating system and application settings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

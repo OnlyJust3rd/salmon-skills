@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the basics of observing network status.
+## Related Mediums
+
+![[bases/related-mediums.base]]

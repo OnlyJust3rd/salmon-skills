@@ -38,3 +38,6 @@ Understanding behavior selection, finite state machines, pathfinding, steering, 
 - [[skills/digital-media/game-development/game-ai/microskills/perception-check|Perception Check]]
 - [[skills/digital-media/game-development/game-ai/microskills/state-transition|State Transition]]
 - [[skills/digital-media/game-development/game-ai/microskills/steering-behavior|Steering Behavior]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

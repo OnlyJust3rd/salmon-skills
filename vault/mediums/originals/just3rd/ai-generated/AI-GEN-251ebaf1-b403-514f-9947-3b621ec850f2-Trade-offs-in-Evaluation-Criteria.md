@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/trade-offs-in-evaluation-criteria|trade-offs-in-evaluation-criteria]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/trade-offs-in-evaluation-criteria|trade-offs-in-evaluation-criteria]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Trade-offs in Selective Encryption Evaluation Criteria

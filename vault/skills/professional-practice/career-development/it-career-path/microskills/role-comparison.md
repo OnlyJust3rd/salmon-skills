@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of similarities and differences between coaching, mentoring, and sponsorship.
+## Related Mediums
+
+![[bases/related-mediums.base]]

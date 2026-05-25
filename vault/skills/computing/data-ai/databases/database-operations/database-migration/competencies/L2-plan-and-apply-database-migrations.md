@@ -39,3 +39,6 @@ None.
 - [[skills/computing/data-ai/databases/database-operations/database-migration/microskills/schema-migration-script|Schema Migration Script]]
 - [[skills/computing/data-ai/databases/database-operations/database-migration/microskills/backward-compatible-schema-change|Backward-Compatible Schema Change]]
 - [[skills/computing/data-ai/databases/database-operations/database-migration/microskills/migration-rollback-planning|Migration Rollback Planning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

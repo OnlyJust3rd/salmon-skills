@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding information used to prove identity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

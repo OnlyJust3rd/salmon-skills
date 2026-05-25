@@ -38,3 +38,6 @@ Using Airflow concepts for workflow orchestration, DAG scheduling, task dependen
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/schedule-interval|Schedule Interval]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/task-dependency|Task Dependency]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/task-operator|Task Operator]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

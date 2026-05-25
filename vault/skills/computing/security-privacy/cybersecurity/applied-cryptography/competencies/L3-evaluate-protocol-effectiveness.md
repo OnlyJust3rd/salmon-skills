@@ -55,3 +55,6 @@ Evaluate the effectiveness and security trade-offs of applied cryptography in ne
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/kerberos-effectiveness-evaluation|Kerberos Effectiveness Evaluation]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/cryptographic-technique-effectiveness|Cryptographic Technique Effectiveness]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/security-provided-by-cryptography|Security Provided by Cryptography]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[dijkstra-s-algorithm-java-implementation|dijkstra-s-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[dijkstra-s-algorithm-java-implementation|dijkstra-s-algorithm-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Dijkstra's Algorithm: Finding the Shortest Path in Java

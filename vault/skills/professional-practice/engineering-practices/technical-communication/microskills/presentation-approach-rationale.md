@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the reasoning behind chosen methods for technical presentations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

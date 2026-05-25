@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[routing-algorithm-execution|routing-algorithm-execution]]"
+learning-outcomes:
+  - "[[routing-algorithm-execution|routing-algorithm-execution]]"
 learning-time-in-minutes: 5
 ---
 # Routing Algorithm Execution: Tracing a Packet's Journey

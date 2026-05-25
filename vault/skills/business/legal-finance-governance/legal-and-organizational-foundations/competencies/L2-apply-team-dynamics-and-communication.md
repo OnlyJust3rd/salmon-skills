@@ -45,3 +45,6 @@ Apply principles of team dynamics and communication to improve group performance
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/team-performance-improvement|Team Performance Improvement]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/communication-problem-solving|Communication Problem Solving]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/group-collaboration-techniques|Group Collaboration Techniques]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

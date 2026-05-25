@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/serial-communication-characteristics|serial-communication-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/serial-communication-characteristics|serial-communication-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Serial Communication Characteristics

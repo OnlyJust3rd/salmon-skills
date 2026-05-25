@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/decoder-function-explanation|decoder-function-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/decoder-function-explanation|decoder-function-explanation]]"
 learning-time-in-minutes: 3
 ---
 # Decoder Function Explanation

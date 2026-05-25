@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-data-visualization-in-python-code-implementation|implement-data-visualization-in-python-code-implementation]]"
+learning-outcomes:
+  - "[[implement-data-visualization-in-python-code-implementation|implement-data-visualization-in-python-code-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Data Visualization in Python

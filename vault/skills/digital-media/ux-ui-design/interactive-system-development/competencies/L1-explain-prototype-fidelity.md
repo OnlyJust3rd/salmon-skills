@@ -43,3 +43,6 @@ Explain the difference between low-fidelity and high-fidelity prototypes and the
 - [[prototype-fidelity-levels|Prototype Fidelity Levels]]
 - [[prototype-use-cases|Prototype Use Cases]]
 - [[detailed-vs-basic-prototypes|Detailed vs. Basic Prototypes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

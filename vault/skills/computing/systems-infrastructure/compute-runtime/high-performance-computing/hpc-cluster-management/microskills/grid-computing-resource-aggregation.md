@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how GRID Computing aggregates distributed computational resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

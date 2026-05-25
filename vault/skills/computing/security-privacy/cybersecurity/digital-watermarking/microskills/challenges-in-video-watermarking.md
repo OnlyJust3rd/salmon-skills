@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Consideration of unique issues associated with watermarking video.
+## Related Mediums
+
+![[bases/related-mediums.base]]

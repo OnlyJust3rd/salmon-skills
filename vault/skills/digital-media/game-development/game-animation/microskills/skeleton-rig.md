@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding joint structures for character animation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

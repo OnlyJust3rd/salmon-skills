@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Methods for defining user interactions and system responses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

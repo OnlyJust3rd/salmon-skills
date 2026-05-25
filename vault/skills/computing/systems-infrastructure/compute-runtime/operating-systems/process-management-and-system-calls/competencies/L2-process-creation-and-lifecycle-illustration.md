@@ -49,3 +49,6 @@ Use basic UNIX system calls (e.g., fork, exec) to create and manage processes, a
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-exec|UNIX System Call Application (exec)]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|UNIX System Call Application (wait)]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-scenarios|Process Lifecycle Scenarios]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

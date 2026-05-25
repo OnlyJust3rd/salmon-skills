@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ensuring character design effectively communicates their inner qualities and function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

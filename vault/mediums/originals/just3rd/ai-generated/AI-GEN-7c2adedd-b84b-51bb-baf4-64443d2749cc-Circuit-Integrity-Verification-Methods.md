@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/circuit-integrity-verification-methods|circuit-integrity-verification-methods]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/circuit-integrity-verification-methods|circuit-integrity-verification-methods]]"
 learning-time-in-minutes: 5
 ---
 # Verifying Circuit Integrity: Keeping Your Hardware Running Smoothly

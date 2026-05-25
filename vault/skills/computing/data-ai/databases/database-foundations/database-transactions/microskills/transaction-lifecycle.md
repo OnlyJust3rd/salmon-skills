@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 The stages of a transaction from begin through commit or rollback.
+## Related Mediums
+
+![[bases/related-mediums.base]]

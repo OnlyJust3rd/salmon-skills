@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Function and interactions of the middle tier.
+## Related Mediums
+
+![[bases/related-mediums.base]]

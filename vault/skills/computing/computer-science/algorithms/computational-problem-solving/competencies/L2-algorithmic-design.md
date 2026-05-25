@@ -41,3 +41,6 @@ Design algorithmic solutions for given computational problems using appropriate 
 
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/strategy-selection|Strategy Selection]]
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/high-level-algorithm-design|High-Level Algorithm Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

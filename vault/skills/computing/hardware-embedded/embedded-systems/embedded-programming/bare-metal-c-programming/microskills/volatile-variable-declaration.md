@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Correctly declaring hardware registers and ISR-shared variables as volatile.
+## Related Mediums
+
+![[bases/related-mediums.base]]

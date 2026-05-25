@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using UML to illustrate software placement on hardware.
+## Related Mediums
+
+![[bases/related-mediums.base]]

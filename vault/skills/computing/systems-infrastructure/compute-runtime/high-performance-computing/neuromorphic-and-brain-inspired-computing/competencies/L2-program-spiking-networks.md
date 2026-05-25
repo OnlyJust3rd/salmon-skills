@@ -43,3 +43,6 @@ Program basic Spiking Neural Network models.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/spiking-neural-network-implementation|Spiking Neural Network Implementation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/basic-snn-programming|Basic SNN Programming]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/snn-model-development|SNN Model Development]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

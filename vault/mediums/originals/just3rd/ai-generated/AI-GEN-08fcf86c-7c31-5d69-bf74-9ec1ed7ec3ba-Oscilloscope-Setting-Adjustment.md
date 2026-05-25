@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-setting-adjustment|oscilloscope-setting-adjustment]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-setting-adjustment|oscilloscope-setting-adjustment]]"
 learning-time-in-minutes: 7
 ---
 # Oscilloscope Setting Adjustment for Waveform Capture

@@ -38,3 +38,6 @@ Representing organizational workflows, roles, decisions, and system interactions
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/gateway|Gateway]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/process-boundary|Process Boundary]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/swimlane|Swimlane]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

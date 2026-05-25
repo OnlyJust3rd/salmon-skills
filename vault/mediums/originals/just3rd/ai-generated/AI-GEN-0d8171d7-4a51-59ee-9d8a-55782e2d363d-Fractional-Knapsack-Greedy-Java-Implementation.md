@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fractional-knapsack-greedy-java-implementation|fractional-knapsack-greedy-java-implementation]]"
+learning-outcomes:
+  - "[[fractional-knapsack-greedy-java-implementation|fractional-knapsack-greedy-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Fractional Knapsack Greedy Java Implementation

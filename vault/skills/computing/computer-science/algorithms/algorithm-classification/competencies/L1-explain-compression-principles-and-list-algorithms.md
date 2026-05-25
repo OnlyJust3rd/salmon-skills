@@ -45,3 +45,6 @@ Explain the fundamental principles of lossless and lossy compression and list th
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/lossy-compression-principles|Lossy Compression Principles]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/lossless-compression-algorithms|Lossless Compression Algorithms]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/data-compression-objectives|Data Compression Objectives]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to translate a processor design into a functional implementation using an emulator.
+## Related Mediums
+
+![[bases/related-mediums.base]]

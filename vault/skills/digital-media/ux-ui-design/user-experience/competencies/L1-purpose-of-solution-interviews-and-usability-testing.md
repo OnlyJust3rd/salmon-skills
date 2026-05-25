@@ -47,3 +47,6 @@ Describe the purpose of solution interviews and usability testing.
 - [[usability-testing-objectives|Usability Testing Objectives]]
 - [[user-feedback-gathering|User Feedback Gathering]]
 - [[product-validation-methods|Product Validation Methods]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -34,3 +34,6 @@ Organizing and overseeing engineering projects through planning, progress tracki
 - [[skills/computing/software-engineering/software-practices/project-management/microskills/role-allocation|Role Allocation]]
 - [[skills/computing/software-engineering/software-practices/project-management/microskills/task-definition|Task Definition]]
 - [[skills/computing/software-engineering/software-practices/project-management/microskills/timeline-establishment|Timeline Establishment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

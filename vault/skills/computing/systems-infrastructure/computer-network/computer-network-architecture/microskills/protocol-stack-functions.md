@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the role and operations of each layer in a protocol suite.
+## Related Mediums
+
+![[bases/related-mediums.base]]

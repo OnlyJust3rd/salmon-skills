@@ -43,3 +43,6 @@ Implement basic gameplay mechanics for a character based on their role.
 - [[skills/digital-media/game-development/game-design/microskills/role-based-mechanic-implementation|Role-Based Mechanic Implementation]]
 - [[skills/digital-media/game-development/game-design/microskills/character-functionality-execution|Character Functionality Execution]]
 - [[skills/digital-media/game-development/game-design/microskills/simple-mechanic-creation|Simple Mechanic Creation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

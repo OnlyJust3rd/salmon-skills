@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/product-strategy/microskills/value-proposition|value-proposition]]"
+learning-outcomes:
+  - "[[skills/business/product-management/product-strategy/microskills/value-proposition|value-proposition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Your Value Proposition

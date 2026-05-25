@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Specific multimedia communications where selective encryption is applicable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

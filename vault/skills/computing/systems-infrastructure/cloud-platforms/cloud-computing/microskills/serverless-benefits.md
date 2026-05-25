@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding advantages like automatic scaling and pay-per-execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

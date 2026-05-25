@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of Python and matplotlib for generating visualizations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

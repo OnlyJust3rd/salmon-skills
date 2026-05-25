@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/matrix-simplification|matrix-simplification]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/matrix-simplification|matrix-simplification]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Jordan Canonical Form's Purpose

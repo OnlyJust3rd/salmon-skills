@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating performance based on feedback component variations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

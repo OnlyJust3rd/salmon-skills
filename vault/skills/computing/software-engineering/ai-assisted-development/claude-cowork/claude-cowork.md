@@ -38,3 +38,6 @@ Using Claude Cowork for agentic work delegation over local files, applications, 
 - [[human-oversight|Human Oversight]]
 - [[synthesis-task|Synthesis Task]]
 - [[work-delegation|Work Delegation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

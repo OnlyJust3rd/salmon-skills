@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[functionality-simulation|functionality-simulation]]"
+learning-outcomes:
+  - "[[functionality-simulation|functionality-simulation]]"
 learning-time-in-minutes: 4
 ---
 # Simulating Core Functionality in Interactive Prototypes

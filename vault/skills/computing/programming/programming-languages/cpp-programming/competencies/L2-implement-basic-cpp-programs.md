@@ -45,3 +45,6 @@ Implement basic C++ programs.
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/cpp-class-implementation|C++ Class Implementation]]
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/standard-container|Standard Container]]
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/compilation-unit|Compilation Unit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

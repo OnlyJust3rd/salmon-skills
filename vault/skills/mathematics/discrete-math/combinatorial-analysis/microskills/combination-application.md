@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying combinations to count unordered selections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

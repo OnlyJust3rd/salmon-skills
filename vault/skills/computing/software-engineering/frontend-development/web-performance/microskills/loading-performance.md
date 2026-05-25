@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding factors that influence how quickly pages become usable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

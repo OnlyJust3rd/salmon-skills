@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/cad-design/microskills/cad-software-application|cad-software-application]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/cad-design/microskills/cad-software-application|cad-software-application]]"
 learning-time-in-minutes: 3
 ---
 # CAD Software Application: Basic Sketching

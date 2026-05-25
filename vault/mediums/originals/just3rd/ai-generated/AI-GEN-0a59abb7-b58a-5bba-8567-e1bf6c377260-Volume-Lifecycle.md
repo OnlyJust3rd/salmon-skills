@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-lifecycle|volume-lifecycle]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-lifecycle|volume-lifecycle]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Docker Volume Lifecycle

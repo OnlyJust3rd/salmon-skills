@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/indeterminate-form-limit-evaluation|indeterminate-form-limit-evaluation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/indeterminate-form-limit-evaluation|indeterminate-form-limit-evaluation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Indeterminate Forms and L'Hôpital's Rule

@@ -52,3 +52,6 @@ Understanding software algorithms and hardware implementations essential for mob
 - [[robotic-movement-in-maze-environments|Robotic Movement in Maze Environments]]
 - [[simbot-maze-traversal-programming|SIMBot Maze Traversal Programming]]
 - [[software-algorithm-role-in-path-planning|Software Algorithm Role in Path Planning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Apply basic point processing operations to modify individual pixels, such as bri
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/point-processing-techniques|Point Processing Techniques]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/pixel-value-adjustment|Pixel Value Adjustment]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/brightness-and-contrast-manipulation|Brightness and Contrast Manipulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

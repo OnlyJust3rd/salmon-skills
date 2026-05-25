@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/system-level-debugging|system-level-debugging]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/system-level-debugging|system-level-debugging]]"
 learning-time-in-minutes: 5
 ---
 # System-Level Debugging for Embedded Systems

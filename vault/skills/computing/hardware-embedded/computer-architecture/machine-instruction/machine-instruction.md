@@ -64,3 +64,6 @@ Analyzing machine instruction sequencing, register transfer notations, and vario
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/register-transfer-notation-analysis|Register Transfer Notation Analysis]]
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/register-transfer-notation-application|Register Transfer Notation Application]]
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/risc-vs-cisc-architectures|RISC vs. CISC Architectures]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of how the chain rule is used for single-variable composite functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-semantics|openmp-directive-semantics]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-semantics|openmp-directive-semantics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding OpenMP Directive Semantics

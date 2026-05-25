@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the distinct components of Environmental, Social, and Corporate Governance criteria.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ List common Infrastructure as Code (IaC) tools.
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/chef|Chef]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/puppet|Puppet]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/cloud-specific-iac-tools|Cloud-Specific IaC Tools]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

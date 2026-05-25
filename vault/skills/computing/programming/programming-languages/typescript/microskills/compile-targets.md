@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Relate compiler options to runnable JavaScript output.
+## Related Mediums
+
+![[bases/related-mediums.base]]

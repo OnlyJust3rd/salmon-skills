@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply Thévenin's theorem for circuit simplification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

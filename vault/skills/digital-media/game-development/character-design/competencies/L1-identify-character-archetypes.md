@@ -40,3 +40,6 @@ Identify common archetypes used in game character design.
 
 - [[skills/digital-media/game-development/character-design/microskills/common-game-character-archetypes|Common Game Character Archetypes]]
 - [[skills/digital-media/game-development/character-design/microskills/archetype-characteristics|Archetype Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -30,3 +30,6 @@ Dividing database data into partitions to improve manageability, scalability, an
 - [[skills/computing/data-ai/databases/database-performance/database-partitioning/microskills/range-partitioning|Range Partitioning]]
 - [[skills/computing/data-ai/databases/database-performance/database-partitioning/microskills/hash-partitioning|Hash Partitioning]]
 - [[skills/computing/data-ai/databases/database-performance/database-partitioning/microskills/partition-pruning|Partition Pruning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

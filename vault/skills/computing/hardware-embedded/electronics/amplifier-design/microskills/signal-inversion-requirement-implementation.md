@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Design of circuits to achieve precise signal inversion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

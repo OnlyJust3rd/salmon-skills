@@ -45,3 +45,6 @@ Explain the purpose of circuit simulation in the hardware design process.
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/parameter-optimization|Parameter Optimization]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/troubleshooting-assistance|Troubleshooting Assistance]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/cost-and-time-reduction|Cost and Time Reduction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Explain password hashing and salting for secure credential storage.
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/one-way-password-hashing|One-Way Password Hashing]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/salt-values|Salt Values]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/plaintext-password-risk|Plaintext Password Risk]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

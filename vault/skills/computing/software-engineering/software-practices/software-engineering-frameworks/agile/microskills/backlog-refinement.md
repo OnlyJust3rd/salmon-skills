@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Clarifying, splitting, and ordering backlog items for upcoming delivery.
+## Related Mediums
+
+![[bases/related-mediums.base]]

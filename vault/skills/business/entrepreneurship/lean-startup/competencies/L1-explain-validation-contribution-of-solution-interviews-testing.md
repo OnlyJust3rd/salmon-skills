@@ -43,3 +43,6 @@ Explain how solution interviews and usability testing contribute to validating a
 - [[skills/business/entrepreneurship/lean-startup/microskills/solution-interview-validation-role|Solution Interview Validation Role]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/usability-testing-validation-role|Usability Testing Validation Role]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/lean-startup-hypothesis-validation|Lean Startup Hypothesis Validation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

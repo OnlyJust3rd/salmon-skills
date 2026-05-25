@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/career-workplace/employer-expectations/microskills/employer-attribute-significance|employer-attribute-significance]]"
+learning-outcomes:
+  - "[[skills/business/career-workplace/employer-expectations/microskills/employer-attribute-significance|employer-attribute-significance]]"
 learning-time-in-minutes: 6
 ---
 # Understanding the Significance of Key Employer Attributes

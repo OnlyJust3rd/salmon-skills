@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/digital-image-formats|digital-image-formats]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/digital-image-formats|digital-image-formats]]"
 learning-time-in-minutes: 4
 ---
 # Digital Image Formats: How Computers See Pictures

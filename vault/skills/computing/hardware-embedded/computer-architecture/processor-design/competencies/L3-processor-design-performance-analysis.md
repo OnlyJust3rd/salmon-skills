@@ -49,3 +49,6 @@ Analyze the performance impact of different design choices on a simple processor
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/datapath-design-impact-on-performance|Datapath Design Impact on Performance]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/control-logic-design-impact-on-performance|Control Logic Design Impact on Performance]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-performance-metric-evaluation|Processor Performance Metric Evaluation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

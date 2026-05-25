@@ -57,3 +57,6 @@ Apply polar, cylindrical, or spherical coordinate transformations to set up and 
 - [[evaluation-of-triple-integrals-in-spherical-coordinates|Evaluation of triple integrals in spherical coordinates]]
 - [[area-problems-using-coordinate-transformations|Area problems using coordinate transformations]]
 - [[volume-problems-using-coordinate-transformations|Volume problems using coordinate transformations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

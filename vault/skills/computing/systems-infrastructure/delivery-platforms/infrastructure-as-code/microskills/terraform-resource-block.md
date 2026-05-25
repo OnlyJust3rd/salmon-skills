@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the function of resource blocks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

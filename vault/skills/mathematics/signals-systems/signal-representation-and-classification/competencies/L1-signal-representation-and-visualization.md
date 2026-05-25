@@ -47,3 +47,6 @@ Describe how mathematical models and functions represent continuous-time and dis
 - [[mathematical-signal-representation|Mathematical Signal Representation]]
 - [[time-domain-signal-visualization|Time Domain Signal Visualization]]
 - [[signal-model-to-graph-mapping|Signal Model-to-Graph Mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

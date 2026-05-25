@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding Innovators, Early Adopters, Majority, Laggards.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Structuring key aspects of a business venture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

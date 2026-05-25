@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the grammatical rules and conventions in assembly programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

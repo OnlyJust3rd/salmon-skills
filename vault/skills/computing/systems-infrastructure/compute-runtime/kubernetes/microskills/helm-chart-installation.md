@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to install applications using Helm charts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

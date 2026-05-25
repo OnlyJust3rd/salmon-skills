@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[q-value-update-mechanism|q-value-update-mechanism]]"
+learning-outcomes:
+  - "[[q-value-update-mechanism|q-value-update-mechanism]]"
 learning-time-in-minutes: 4
 ---
 # Implementing the Q-value Update Mechanism

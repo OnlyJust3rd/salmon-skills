@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the definition of efficiency in parallel computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[rationale-for-text-cleaning|rationale-for-text-cleaning]]"
+learning-outcomes:
+  - "[[rationale-for-text-cleaning|rationale-for-text-cleaning]]"
 learning-time-in-minutes: 4
 ---
 # Why Clean Your Text Data?

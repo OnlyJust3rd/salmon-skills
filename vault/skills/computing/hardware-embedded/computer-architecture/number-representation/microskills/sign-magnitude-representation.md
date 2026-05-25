@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with the sign-magnitude method for representing signed numbers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

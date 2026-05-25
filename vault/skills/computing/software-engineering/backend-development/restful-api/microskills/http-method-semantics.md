@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Relate GET, POST, PUT, PATCH, DELETE to common CRUD patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

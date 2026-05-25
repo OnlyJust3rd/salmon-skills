@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/avr-microcontroller-identification|avr-microcontroller-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/avr-microcontroller-identification|avr-microcontroller-identification]]"
 learning-time-in-minutes: 4
 ---
 # Recognizing AVR Microcontroller Packages

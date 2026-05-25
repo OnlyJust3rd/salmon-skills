@@ -47,3 +47,6 @@ Explain the purpose and operation of internal processes within modern block ciph
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/shiftrows-functionality|ShiftRows Functionality]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/mixcolumns-functionality|MixColumns Functionality]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/addroundkey-functionality|AddRoundKey Functionality]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

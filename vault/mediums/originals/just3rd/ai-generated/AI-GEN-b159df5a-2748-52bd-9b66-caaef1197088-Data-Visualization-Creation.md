@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-visualization-creation|data-visualization-creation]]"
+learning-outcomes:
+  - "[[data-visualization-creation|data-visualization-creation]]"
 learning-time-in-minutes: 4
 ---
 # Creating Basic Plots with Matplotlib

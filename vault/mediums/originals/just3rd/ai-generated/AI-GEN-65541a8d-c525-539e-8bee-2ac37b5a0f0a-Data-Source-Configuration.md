@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/data-source-configuration|data-source-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/data-source-configuration|data-source-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Connecting Grafana to Prometheus: Data Source Configuration

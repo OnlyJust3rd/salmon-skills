@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how storytelling techniques impact player emotional connection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

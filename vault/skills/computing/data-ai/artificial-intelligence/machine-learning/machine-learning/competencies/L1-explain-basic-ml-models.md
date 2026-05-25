@@ -41,3 +41,6 @@ Explain basic machine learning tasks (classification, regression, clustering) an
 
 - [[ml-task-types|ML Task Types]]
 - [[basic-model-families|Basic Model Families]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

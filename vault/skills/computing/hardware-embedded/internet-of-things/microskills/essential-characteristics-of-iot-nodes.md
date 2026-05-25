@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the defining attributes of embedded systems functioning as IoT nodes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

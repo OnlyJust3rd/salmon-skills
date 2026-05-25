@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/development-speed-comparison|development-speed-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/development-speed-comparison|development-speed-comparison]]"
 learning-time-in-minutes: 5
 ---
 # Development Speed Comparison: Breadboard vs. Soldering

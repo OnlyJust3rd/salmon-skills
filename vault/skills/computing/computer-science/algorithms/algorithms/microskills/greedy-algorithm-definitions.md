@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Fundamental concepts of greedy algorithmic approaches.
+## Related Mediums
+
+![[bases/related-mediums.base]]

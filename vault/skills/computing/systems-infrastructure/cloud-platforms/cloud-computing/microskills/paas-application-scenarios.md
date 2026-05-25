@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying use cases for Platform as a Service.
+## Related Mediums
+
+![[bases/related-mediums.base]]

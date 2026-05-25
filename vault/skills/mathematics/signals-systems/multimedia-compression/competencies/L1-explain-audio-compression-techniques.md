@@ -47,3 +47,6 @@ Explain how psychoacoustic principles (frequency and temporal masking) and the s
 - [[temporal-masking|Temporal Masking]]
 - [[subband-filtering-process|Subband Filtering Process]]
 - [[mpeg-audio-subband-filtering|MPEG Audio Subband Filtering]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

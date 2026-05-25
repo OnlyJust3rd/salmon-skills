@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describe function declarations, expressions, and lexical scope basics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

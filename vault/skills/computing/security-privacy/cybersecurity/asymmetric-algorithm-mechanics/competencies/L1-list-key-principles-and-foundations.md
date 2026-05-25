@@ -47,3 +47,6 @@ List the key mathematical principles and foundations underlying Diffie-Hellman K
 - [[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/rsa-principles|RSA Principles]]
 - [[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/core-concepts-for-el-gamal|Core Concepts for El Gamal]]
 - [[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/core-concepts-for-rsa|Core Concepts for RSA]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

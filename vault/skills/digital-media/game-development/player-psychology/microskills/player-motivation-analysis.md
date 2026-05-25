@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying Maslow's hierarchy to understand player motivations within game contexts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

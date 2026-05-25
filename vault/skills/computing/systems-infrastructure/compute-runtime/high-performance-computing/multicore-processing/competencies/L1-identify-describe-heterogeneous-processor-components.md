@@ -45,3 +45,6 @@ Identify and describe the key architectural components and characteristics of GP
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-components|Xeon Phi Processor Components]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/ai-processor-architectural-components|AI Processor Architectural Components]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/heterogeneous-computing-architectures|Heterogeneous Computing Architectures]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

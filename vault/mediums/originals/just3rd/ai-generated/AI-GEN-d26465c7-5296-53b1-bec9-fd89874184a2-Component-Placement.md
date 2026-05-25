@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/component-placement|component-placement]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/component-placement|component-placement]]"
 learning-time-in-minutes: 5
 ---
 # Component Placement on a Breadboard

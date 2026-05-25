@@ -49,3 +49,6 @@ Implement text classification using Naïve Bayes and one deep learning model (e.
 - [[naive-bayes-classifier-implementation|Naïve Bayes Classifier Implementation]]
 - [[deep-learning-text-classifier-implementation|Deep Learning Text Classifier Implementation]]
 - [[text-classification-algorithm-application|Text Classification Algorithm Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

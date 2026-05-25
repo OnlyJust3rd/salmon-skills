@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding steps for verifying power supply.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[load-condition-effects|load-condition-effects]]"
+learning-outcomes:
+  - "[[load-condition-effects|load-condition-effects]]"
 learning-time-in-minutes: 4
 ---
 # Load Condition Effects on Congestion Control

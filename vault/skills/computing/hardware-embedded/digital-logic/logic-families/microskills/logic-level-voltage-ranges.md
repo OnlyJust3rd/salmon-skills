@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall the typical voltage ranges for logic HIGH and LOW in TTL and CMOS.
+## Related Mediums
+
+![[bases/related-mediums.base]]

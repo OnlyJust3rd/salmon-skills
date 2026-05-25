@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/iterative-validation-process|iterative-validation-process]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/iterative-validation-process|iterative-validation-process]]"
 learning-time-in-minutes: 5
 ---
 # The Iterative Validation Process: A Lean Startup Journey

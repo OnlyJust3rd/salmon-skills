@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstruction of confidentiality clauses to identify features and purposes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating and supporting the project's successful integration and performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

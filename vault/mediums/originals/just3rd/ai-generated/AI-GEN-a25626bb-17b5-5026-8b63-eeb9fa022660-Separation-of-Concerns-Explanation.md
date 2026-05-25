@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/separation-of-concerns-explanation|separation-of-concerns-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/separation-of-concerns-explanation|separation-of-concerns-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Separation of Concerns in OOP

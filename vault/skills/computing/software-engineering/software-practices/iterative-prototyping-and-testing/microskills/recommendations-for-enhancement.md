@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Provision of well-reasoned suggestions for prototype improvement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

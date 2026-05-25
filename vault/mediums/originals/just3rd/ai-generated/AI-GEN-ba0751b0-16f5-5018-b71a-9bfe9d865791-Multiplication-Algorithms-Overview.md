@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/multiplication-algorithms-overview|multiplication-algorithms-overview]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/multiplication-algorithms-overview|multiplication-algorithms-overview]]"
 learning-time-in-minutes: 4
 ---
 # Multiplication Algorithms Overview

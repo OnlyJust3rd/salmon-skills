@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bit-masking-explanation|bit-masking-explanation]]"
+learning-outcomes:
+  - "[[bit-masking-explanation|bit-masking-explanation]]"
 learning-time-in-minutes: 2
 ---
 # Bit Masking: Controlling Individual Bits

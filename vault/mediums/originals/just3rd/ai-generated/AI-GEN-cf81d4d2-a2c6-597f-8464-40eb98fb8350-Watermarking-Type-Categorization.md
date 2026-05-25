@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-type-categorization|watermarking-type-categorization]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-type-categorization|watermarking-type-categorization]]"
 learning-time-in-minutes: 4
 ---
 # Categorizing Watermarking Types

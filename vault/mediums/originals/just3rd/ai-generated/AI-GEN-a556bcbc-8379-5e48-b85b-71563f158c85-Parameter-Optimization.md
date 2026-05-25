@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/microskills/parameter-optimization|parameter-optimization]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/microskills/parameter-optimization|parameter-optimization]]"
 learning-time-in-minutes: 4
 ---
 # Optimizing Your Circuits with Simulation

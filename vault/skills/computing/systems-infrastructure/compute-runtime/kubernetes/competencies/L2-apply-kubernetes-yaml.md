@@ -36,3 +36,6 @@ Apply YAML configuration rules to deploy Kubernetes resources.
 - None
 
 ## Microskills
+## Related Mediums
+
+![[bases/related-mediums.base]]

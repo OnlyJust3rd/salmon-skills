@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/connection-verification|connection-verification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/connection-verification|connection-verification]]"
 learning-time-in-minutes: 6
 ---
 # Connection Verification: A Key Step in Hardware Troubleshooting

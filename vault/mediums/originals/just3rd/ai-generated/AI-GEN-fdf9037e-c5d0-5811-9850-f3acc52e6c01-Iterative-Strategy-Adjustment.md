@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/iterative-strategy-adjustment|iterative-strategy-adjustment]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/iterative-strategy-adjustment|iterative-strategy-adjustment]]"
 learning-time-in-minutes: 5
 ---
 # Iterative Strategy Adjustment: Adapting Your Plan in Lean Startup

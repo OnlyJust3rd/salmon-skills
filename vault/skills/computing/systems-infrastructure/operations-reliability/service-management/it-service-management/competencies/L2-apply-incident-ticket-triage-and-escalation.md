@@ -45,3 +45,6 @@ Apply incident ticket triage and escalation practices to IT support cases.
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/ticket-classification|Ticket Classification]]
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/escalation-path|Escalation Path]]
 - [[skills/computing/systems-infrastructure/operations-reliability/service-management/it-service-management/microskills/support-documentation|Support Documentation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

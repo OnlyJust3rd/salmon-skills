@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/metric-collection-process|metric-collection-process]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/metric-collection-process|metric-collection-process]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Metric Collection Process in Prometheus

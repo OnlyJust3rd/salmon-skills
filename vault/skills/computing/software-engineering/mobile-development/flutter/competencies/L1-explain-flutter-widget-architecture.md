@@ -45,3 +45,6 @@ Explain Flutter widget architecture.
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/widget-tree|Widget Tree]]
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/stateful-widget|Stateful Widget]]
 - [[skills/computing/software-engineering/mobile-development/flutter/microskills/layout-widget|Layout Widget]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

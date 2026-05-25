@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the definition of 'General Purpose Brain-Inspired Computing Systems'.
+## Related Mediums
+
+![[bases/related-mediums.base]]

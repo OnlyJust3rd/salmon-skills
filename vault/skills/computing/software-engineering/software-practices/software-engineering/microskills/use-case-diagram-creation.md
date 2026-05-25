@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Visual representation of system functionality and user interactions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

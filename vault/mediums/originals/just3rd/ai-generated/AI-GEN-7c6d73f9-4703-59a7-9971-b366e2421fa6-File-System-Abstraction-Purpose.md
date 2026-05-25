@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[file-system-abstraction-purpose|file-system-abstraction-purpose]]"
+learning-outcomes:
+  - "[[file-system-abstraction-purpose|file-system-abstraction-purpose]]"
 learning-time-in-minutes: 5
 ---
 # File System Abstraction: Why We Need It

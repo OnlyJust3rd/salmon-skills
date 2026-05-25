@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[low-code-platform-usage|low-code-platform-usage]]"
+learning-outcomes:
+  - "[[low-code-platform-usage|low-code-platform-usage]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Low-Code for IoT Workflows

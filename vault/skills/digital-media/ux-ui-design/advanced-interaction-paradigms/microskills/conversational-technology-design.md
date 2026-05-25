@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting how awareness and presence are applied in conversational tech.
+## Related Mediums
+
+![[bases/related-mediums.base]]

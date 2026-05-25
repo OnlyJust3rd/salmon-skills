@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing reusable values for color, spacing, or typography.
+## Related Mediums
+
+![[bases/related-mediums.base]]

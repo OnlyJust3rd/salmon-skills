@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the precise meaning of throughput, latency, and jitter.
+## Related Mediums
+
+![[bases/related-mediums.base]]

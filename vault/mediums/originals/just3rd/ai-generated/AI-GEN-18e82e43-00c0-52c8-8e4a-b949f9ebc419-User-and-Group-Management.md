@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-and-group-management|user-and-group-management]]"
+learning-outcomes:
+  - "[[user-and-group-management|user-and-group-management]]"
 learning-time-in-minutes: 4
 ---
 # Managing Users and Groups in Linux for System Availability

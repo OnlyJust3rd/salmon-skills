@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing functional Java code for specific string searching algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

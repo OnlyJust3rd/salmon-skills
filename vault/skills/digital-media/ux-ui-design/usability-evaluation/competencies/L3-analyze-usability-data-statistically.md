@@ -49,3 +49,6 @@ Analyze usability evaluation data using statistical methods to identify trends, 
 - [[trend-and-pattern-identification|Trend and Pattern Identification]]
 - [[result-interpretation|Result Interpretation]]
 - [[key-metric-calculation|Key Metric Calculation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

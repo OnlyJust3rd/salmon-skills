@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-automation-selection|test-automation-selection]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-automation-selection|test-automation-selection]]"
 learning-time-in-minutes: 4
 ---
 # Selecting Unit Test Approaches and Inputs in C

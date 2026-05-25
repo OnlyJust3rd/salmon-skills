@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and application of core cloud networking functionalities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-verification-context|software-verification-context]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-verification-context|software-verification-context]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Software Verification: Are We Building the System Correctly?

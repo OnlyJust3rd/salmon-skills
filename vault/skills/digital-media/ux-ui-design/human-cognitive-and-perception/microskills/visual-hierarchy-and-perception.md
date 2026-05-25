@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role of visual hierarchy in user perception and attention.
+## Related Mediums
+
+![[bases/related-mediums.base]]

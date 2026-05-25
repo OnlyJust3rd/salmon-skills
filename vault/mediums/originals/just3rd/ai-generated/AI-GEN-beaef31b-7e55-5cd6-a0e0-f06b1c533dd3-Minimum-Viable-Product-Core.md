@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/minimum-viable-product-core|minimum-viable-product-core]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/minimum-viable-product-core|minimum-viable-product-core]]"
 learning-time-in-minutes: 3
 ---
 # Minimum Viable Product Core Functionalities

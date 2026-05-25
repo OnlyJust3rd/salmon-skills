@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[system-performance-metrics|system-performance-metrics]]"
+learning-outcomes:
+  - "[[system-performance-metrics|system-performance-metrics]]"
 learning-time-in-minutes: 5
 ---
 # System Performance Metrics in Linux

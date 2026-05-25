@@ -41,3 +41,6 @@ Apply the Huffman coding algorithm to compress a given set of data.
 
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/huffman-coding-application|Huffman Coding Application]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/data-compression-demonstration|Data Compression Demonstration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying selected design patterns in software development.
+## Related Mediums
+
+![[bases/related-mediums.base]]

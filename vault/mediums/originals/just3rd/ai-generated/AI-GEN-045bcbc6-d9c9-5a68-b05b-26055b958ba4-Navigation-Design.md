@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[navigation-design|navigation-design]]"
+learning-outcomes:
+  - "[[navigation-design|navigation-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing Effective Navigation

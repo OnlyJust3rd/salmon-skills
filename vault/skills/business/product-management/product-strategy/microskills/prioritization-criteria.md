@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using explicit factors to compare product work.
+## Related Mediums
+
+![[bases/related-mediums.base]]

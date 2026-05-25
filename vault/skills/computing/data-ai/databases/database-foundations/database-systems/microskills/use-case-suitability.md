@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying appropriate scenarios for each database type.
+## Related Mediums
+
+![[bases/related-mediums.base]]

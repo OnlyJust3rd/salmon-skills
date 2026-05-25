@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/decision-alternatives-documentation|decision-alternatives-documentation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/decision-alternatives-documentation|decision-alternatives-documentation]]"
 learning-time-in-minutes: 4
 ---
 # Documenting Decision Alternatives

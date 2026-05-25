@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of discounted pricing for long-term commitments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

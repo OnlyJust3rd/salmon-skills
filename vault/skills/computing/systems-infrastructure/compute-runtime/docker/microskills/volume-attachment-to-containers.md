@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in mounting volumes to specific containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

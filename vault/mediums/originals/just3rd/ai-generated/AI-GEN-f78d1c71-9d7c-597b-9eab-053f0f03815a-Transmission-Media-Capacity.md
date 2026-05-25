@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[transmission-media-capacity|transmission-media-capacity]]"
+learning-outcomes:
+  - "[[transmission-media-capacity|transmission-media-capacity]]"
 learning-time-in-minutes: 6
 ---
 # Transmission Media Capacity and Multiplexing

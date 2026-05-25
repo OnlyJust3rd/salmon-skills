@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the purpose and operation of the TLB.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -41,3 +41,6 @@ List common approaches and considerations for system-level design in Computer En
 
 - [[skills/professional-practice/engineering-practices/system-design/microskills/system-level-design-methods|System-Level Design Methods]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/system-design-considerations|System Design Considerations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

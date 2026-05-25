@@ -44,3 +44,6 @@ Analyze the interrelationships between leadership styles, organizational culture
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/organizational-culture-dynamics|Organizational Culture Dynamics]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/change-management-integration|Change Management Integration]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/interrelationship-analysis|Interrelationship Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

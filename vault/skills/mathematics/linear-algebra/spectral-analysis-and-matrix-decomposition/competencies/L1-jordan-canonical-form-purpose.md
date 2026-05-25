@@ -43,3 +43,6 @@ Explain the purpose of the Jordan Canonical Form.
 - [[non-diagonalizable-matrices|Non-diagonalizable matrices]]
 - [[matrix-simplification|Matrix simplification]]
 - [[generalizing-diagonalization|Generalizing diagonalization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How VLANs divide a physical network logically.
+## Related Mediums
+
+![[bases/related-mediums.base]]

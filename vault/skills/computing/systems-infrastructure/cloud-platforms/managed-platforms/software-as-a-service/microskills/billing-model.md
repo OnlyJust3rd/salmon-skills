@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing pricing and usage models for SaaS products.
+## Related Mediums
+
+![[bases/related-mediums.base]]

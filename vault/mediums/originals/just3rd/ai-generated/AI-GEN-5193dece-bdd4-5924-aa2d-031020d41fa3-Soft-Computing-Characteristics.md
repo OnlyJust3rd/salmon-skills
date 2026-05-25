@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/soft-computing-characteristics|soft-computing-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/soft-computing-characteristics|soft-computing-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Characteristics of Soft Computing

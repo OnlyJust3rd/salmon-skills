@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/identify-efficiency-trade-offs|identify-efficiency-trade-offs]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-efficiency-analysis/microskills/identify-efficiency-trade-offs|identify-efficiency-trade-offs]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Efficiency Trade-offs

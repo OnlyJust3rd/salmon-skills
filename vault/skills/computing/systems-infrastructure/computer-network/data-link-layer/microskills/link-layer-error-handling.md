@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Principles of managing errors at the data link layer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

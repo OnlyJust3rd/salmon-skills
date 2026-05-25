@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ols-implementation|ols-implementation]]"
+learning-outcomes:
+  - "[[ols-implementation|ols-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Ordinary Least Squares (OLS) for Model Training

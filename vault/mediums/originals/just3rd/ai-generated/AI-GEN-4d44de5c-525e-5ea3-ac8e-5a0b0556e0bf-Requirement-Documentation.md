@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[requirement-documentation|requirement-documentation]]"
+learning-outcomes:
+  - "[[requirement-documentation|requirement-documentation]]"
 learning-time-in-minutes: 4
 ---
 # Documenting User Requirements

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-development-lifecycle/microskills/inception-to-support-lifecycle|inception-to-support-lifecycle]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-development-lifecycle/microskills/inception-to-support-lifecycle|inception-to-support-lifecycle]]"
 learning-time-in-minutes: 4
 ---
 # The Game Development Lifecycle: From Idea to Ongoing Success

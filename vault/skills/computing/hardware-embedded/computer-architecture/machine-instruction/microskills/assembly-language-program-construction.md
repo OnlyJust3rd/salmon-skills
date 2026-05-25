@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in writing assembly language programs for specific tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

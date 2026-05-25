@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[basic-task-execution|basic-task-execution]]"
+learning-outcomes:
+  - "[[basic-task-execution|basic-task-execution]]"
 learning-time-in-minutes: 2
 ---
 # Executing Simple Computational Tasks in C

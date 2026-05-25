@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/environmental-criteria|environmental-criteria]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/environmental-criteria|environmental-criteria]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Environmental Criteria in ESG

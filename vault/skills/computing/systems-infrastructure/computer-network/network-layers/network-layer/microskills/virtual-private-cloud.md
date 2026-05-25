@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the purpose of a VPC.
+## Related Mediums
+
+![[bases/related-mediums.base]]

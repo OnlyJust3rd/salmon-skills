@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the limitations and drawbacks of reactive control.
+## Related Mediums
+
+![[bases/related-mediums.base]]

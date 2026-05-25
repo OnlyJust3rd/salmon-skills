@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of VMSS for managing groups of identical VMs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

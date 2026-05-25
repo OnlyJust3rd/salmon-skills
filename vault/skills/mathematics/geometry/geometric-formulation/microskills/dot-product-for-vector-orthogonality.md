@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to use the dot product to determine if vectors are orthogonal.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Analyze vector components and operations to determine if lines are parallel or o
 - [[direction-vectors-and-line-parallelism|Direction vectors and line parallelism]]
 - [[direction-vectors-and-line-orthogonality|Direction vectors and line orthogonality]]
 - [[vector-operations-for-line-relationship-assessment|Vector operations for line relationship assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

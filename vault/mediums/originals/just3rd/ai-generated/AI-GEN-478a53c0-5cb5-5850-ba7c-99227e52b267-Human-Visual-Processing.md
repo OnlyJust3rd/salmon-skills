@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[human-visual-processing|human-visual-processing]]"
+learning-outcomes:
+  - "[[human-visual-processing|human-visual-processing]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Human Visual Processing

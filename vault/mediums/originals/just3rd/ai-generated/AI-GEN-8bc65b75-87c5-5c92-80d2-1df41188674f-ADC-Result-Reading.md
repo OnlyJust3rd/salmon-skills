@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[adc-result-reading|adc-result-reading]]"
+learning-outcomes:
+  - "[[adc-result-reading|adc-result-reading]]"
 learning-time-in-minutes: 4
 ---
 # Reading ADC Conversion Results

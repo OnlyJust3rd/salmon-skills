@@ -43,3 +43,6 @@ Identify the basic functions of socket programming interfaces (e.g., socket(), b
 - [[socket-programming-interfaces|Socket Programming Interfaces]]
 - [[core-socket-operations|Core Socket Operations]]
 - [[network-communication-primitives|Network Communication Primitives]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

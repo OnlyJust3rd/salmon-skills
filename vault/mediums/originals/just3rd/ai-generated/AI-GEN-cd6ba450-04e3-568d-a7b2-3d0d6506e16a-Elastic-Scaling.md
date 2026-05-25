@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/elastic-scaling|elastic-scaling]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/elastic-scaling|elastic-scaling]]"
 learning-time-in-minutes: 4
 ---
 # Elastic Scaling in Cloud Data Warehouses

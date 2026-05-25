@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to determine convergence or divergence of infinite series using Ratio and Root Tests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

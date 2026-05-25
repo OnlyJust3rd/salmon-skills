@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/sequence-modeling|sequence-modeling]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/sequence-modeling|sequence-modeling]]"
 learning-time-in-minutes: 4
 ---
 # Sequence Modeling with Ordered Lists

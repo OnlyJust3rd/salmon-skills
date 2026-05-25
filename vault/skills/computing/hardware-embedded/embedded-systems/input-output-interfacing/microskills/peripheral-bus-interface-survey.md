@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with typical use cases of PCI/USB for peripherals and host communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

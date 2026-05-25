@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the primary departments within a corporation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

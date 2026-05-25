@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding VLAN-based separation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

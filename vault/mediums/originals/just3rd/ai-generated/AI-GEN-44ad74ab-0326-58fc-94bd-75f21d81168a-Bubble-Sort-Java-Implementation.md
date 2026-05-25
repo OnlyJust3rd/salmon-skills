@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bubble-sort-java-implementation|bubble-sort-java-implementation]]"
+learning-outcomes:
+  - "[[bubble-sort-java-implementation|bubble-sort-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Bubble Sort Java Implementation

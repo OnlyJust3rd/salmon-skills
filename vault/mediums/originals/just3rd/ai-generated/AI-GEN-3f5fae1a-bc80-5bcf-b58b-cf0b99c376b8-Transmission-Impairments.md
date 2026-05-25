@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[transmission-impairments|transmission-impairments]]"
+learning-outcomes:
+  - "[[transmission-impairments|transmission-impairments]]"
 learning-time-in-minutes: 4
 ---
 # Transmission Impairments: Understanding Signal Degradation

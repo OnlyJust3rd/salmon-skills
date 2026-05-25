@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-benefits|serverless-architecture-benefits]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-benefits|serverless-architecture-benefits]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Benefits of Serverless Architecture

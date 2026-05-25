@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/partial-derivative-rules|partial-derivative-rules]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/partial-derivative-rules|partial-derivative-rules]]"
 learning-time-in-minutes: 4
 ---
 # Recalling Partial Derivative Rules

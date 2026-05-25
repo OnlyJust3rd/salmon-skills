@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Focus on the operational principles of the Geffe generator.
+## Related Mediums
+
+![[bases/related-mediums.base]]

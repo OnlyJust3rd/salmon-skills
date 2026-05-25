@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing the ease of modifying circuits on a breadboard.
+## Related Mediums
+
+![[bases/related-mediums.base]]

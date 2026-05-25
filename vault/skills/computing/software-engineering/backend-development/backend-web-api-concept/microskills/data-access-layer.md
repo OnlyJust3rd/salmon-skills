@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain persistence boundaries behind the API surface.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing of common subjective metrics for watermarking evaluation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

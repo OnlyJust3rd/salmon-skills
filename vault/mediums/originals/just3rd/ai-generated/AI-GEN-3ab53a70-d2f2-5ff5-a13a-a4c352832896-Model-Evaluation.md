@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[model-evaluation|model-evaluation]]"
+learning-outcomes:
+  - "[[model-evaluation|model-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Model Evaluation: Assessing Performance

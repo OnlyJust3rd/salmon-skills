@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Mapping the different operational phases of a protocol.
+## Related Mediums
+
+![[bases/related-mediums.base]]

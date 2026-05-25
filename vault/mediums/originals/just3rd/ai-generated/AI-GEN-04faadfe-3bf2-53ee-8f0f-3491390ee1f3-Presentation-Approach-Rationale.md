@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/technical-communication/microskills/presentation-approach-rationale|presentation-approach-rationale]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/presentation-approach-rationale|presentation-approach-rationale]]"
 learning-time-in-minutes: 5
 ---
 # Rationale for Your Technical Presentation Approach

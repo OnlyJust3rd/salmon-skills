@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Compute derivatives when variables are related implicitly.
+## Related Mediums
+
+![[bases/related-mediums.base]]

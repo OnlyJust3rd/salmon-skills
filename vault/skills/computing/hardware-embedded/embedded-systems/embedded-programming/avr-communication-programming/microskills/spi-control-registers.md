@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing registers for configuring SPI mode and data transfer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

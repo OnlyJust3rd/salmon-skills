@@ -45,3 +45,6 @@ Explain OpenAI Codex agentic coding concepts.
 - [[task-oriented-coding-agent|Task-Oriented Coding Agent]]
 - [[parallel-agent-workflow|Parallel Agent Workflow]]
 - [[review-assistance|Review Assistance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

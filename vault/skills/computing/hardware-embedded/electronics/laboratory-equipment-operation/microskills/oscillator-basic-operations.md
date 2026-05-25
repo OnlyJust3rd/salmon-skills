@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of basic operations of oscillators.
+## Related Mediums
+
+![[bases/related-mediums.base]]

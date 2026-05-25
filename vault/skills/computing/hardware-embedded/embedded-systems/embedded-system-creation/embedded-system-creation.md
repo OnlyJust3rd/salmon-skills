@@ -34,3 +34,6 @@ Creating and constructing complete embedded systems, incorporating bare-bone Rea
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/performance-optimization|Performance Optimization]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/rtos-task-implementation|RTOS Task Implementation]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/microskills/system-level-debugging|System-Level Debugging]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

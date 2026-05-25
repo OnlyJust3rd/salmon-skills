@@ -47,3 +47,6 @@ List the fundamental postulates of Boolean algebra and the basic logic gates (AN
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-gate-symbols|Logic Gate Symbols]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/boolean-expressions|Boolean Expressions]]
 - [[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/truth-functions|Truth Functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

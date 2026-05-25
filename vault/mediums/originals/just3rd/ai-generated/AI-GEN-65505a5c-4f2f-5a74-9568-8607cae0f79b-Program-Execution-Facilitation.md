@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/program-execution-facilitation|program-execution-facilitation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/program-execution-facilitation|program-execution-facilitation]]"
 learning-time-in-minutes: 4
 ---
 # Program Execution Facilitation by the Operating System

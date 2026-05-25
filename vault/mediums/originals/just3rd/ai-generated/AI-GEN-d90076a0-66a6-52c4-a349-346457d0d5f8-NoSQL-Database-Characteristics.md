@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/nosql-database-characteristics|nosql-database-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/nosql-database-characteristics|nosql-database-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding NoSQL Database Characteristics

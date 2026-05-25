@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[journaling-file-system-principles|journaling-file-system-principles]]"
+learning-outcomes:
+  - "[[journaling-file-system-principles|journaling-file-system-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Journaling File System Principles

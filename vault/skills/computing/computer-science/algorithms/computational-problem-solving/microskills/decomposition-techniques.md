@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Breaking a problem into subproblems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

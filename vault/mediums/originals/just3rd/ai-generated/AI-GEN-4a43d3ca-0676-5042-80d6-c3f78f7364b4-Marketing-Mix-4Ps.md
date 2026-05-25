@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/marketing-strategy/microskills/marketing-mix-4ps|marketing-mix-4ps]]"
+learning-outcomes:
+  - "[[skills/business/product-management/marketing-strategy/microskills/marketing-mix-4ps|marketing-mix-4ps]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Marketing Mix (4Ps)

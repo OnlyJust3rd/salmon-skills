@@ -41,3 +41,6 @@ Define the concept of player immersion and identify factors that contribute to o
 
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-definition|Player Immersion Definition]]
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/factors-influencing-immersion|Factors Influencing Immersion]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

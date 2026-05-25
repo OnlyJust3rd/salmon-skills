@@ -45,3 +45,6 @@ Describe the key properties of cryptographic one-way hash functions, such as pre
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/data-to-digest-transformation|Data to Digest Transformation]]
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-characteristics|Cryptographic Hash Function Characteristics]]
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/digest-size-consistency|Digest Size Consistency]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -21,3 +21,6 @@ Used when slow queries scan too many rows and need faster point lookup, range lo
 ## Skill Connection
 
 This microskill supports [[skills/computing/systems-infrastructure/system-design/system-design|system-design]] by giving learners one concrete concept they can use in architecture discussions, interview prompts, and production design reviews.
+## Related Mediums
+
+![[bases/related-mediums.base]]

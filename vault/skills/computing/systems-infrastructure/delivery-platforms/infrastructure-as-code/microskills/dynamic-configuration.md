@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using data sources to make Terraform configurations more flexible.
+## Related Mediums
+
+![[bases/related-mediums.base]]

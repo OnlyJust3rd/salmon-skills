@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding primary goals and functions for safeguarding copyrighted material.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Apply design system patterns to interfaces.
 - [[component-selection|Component Selection]]
 - [[token-application|Token Application]]
 - [[pattern-consistency|Pattern Consistency]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

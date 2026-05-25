@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the algorithm's objective in generating pixel coordinates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

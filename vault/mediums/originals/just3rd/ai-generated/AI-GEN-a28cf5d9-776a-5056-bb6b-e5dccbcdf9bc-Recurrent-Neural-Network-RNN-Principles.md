@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[recurrent-neural-network-rnn-principles|recurrent-neural-network-rnn-principles]]"
+learning-outcomes:
+  - "[[recurrent-neural-network-rnn-principles|recurrent-neural-network-rnn-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Recurrent Neural Network (RNN) Principles

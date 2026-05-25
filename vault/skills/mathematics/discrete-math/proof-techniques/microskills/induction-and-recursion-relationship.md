@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the conceptual link between inductive reasoning and recursive definitions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

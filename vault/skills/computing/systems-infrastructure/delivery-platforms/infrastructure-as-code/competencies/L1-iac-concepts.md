@@ -45,3 +45,6 @@ Define the core concepts of Infrastructure as Code (IaC) and the difference betw
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/declarative-automation|Declarative Automation]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation|Imperative Automation]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/benefits-of-iac|Benefits of IaC]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/linearity-impact-on-system-behavior|linearity-impact-on-system-behavior]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/linearity-impact-on-system-behavior|linearity-impact-on-system-behavior]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Linearity's Impact on System Behavior

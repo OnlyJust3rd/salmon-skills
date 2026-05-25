@@ -51,3 +51,6 @@ Explain the principles of evolutionary robotics and the role of anticipation in 
 - [[role-of-anticipation-in-model-transition|Role of Anticipation in Model Transition]]
 - [[simulation-to-real-world-model-adaptation|Simulation to Real-World Model Adaptation]]
 - [[challenges-in-model-transition|Challenges in Model Transition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

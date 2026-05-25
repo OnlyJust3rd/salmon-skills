@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Handling database credentials securely across environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

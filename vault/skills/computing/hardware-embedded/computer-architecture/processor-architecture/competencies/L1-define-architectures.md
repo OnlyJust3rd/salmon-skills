@@ -40,3 +40,6 @@ Define homogeneous and heterogeneous processor architectures.
 
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/homogeneous-processor-architecture-definition|Homogeneous Processor Architecture Definition]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/heterogeneous-processor-architecture-definition|Heterogeneous Processor Architecture Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

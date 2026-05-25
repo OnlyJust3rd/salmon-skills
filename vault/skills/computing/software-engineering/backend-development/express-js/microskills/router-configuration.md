@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain route paths and HTTP verb binding in Express.
+## Related Mediums
+
+![[bases/related-mediums.base]]

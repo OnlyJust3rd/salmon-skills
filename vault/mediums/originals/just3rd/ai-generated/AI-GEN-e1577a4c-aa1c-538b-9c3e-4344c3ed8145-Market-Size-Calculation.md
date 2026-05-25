@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/market-size-calculation|market-size-calculation]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/market-size-calculation|market-size-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Market Size Calculation

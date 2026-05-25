@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/erp-module|erp-module]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/enterprise-resource-planning/microskills/erp-module|erp-module]]"
 learning-time-in-minutes: 4
 ---
 # Understanding ERP Modules

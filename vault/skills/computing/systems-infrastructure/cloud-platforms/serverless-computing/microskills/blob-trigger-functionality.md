@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of triggers initiated by changes to storage blobs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

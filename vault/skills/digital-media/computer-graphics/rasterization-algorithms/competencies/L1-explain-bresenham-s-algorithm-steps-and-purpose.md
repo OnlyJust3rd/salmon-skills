@@ -43,3 +43,6 @@ Identify the fundamental steps and explain the purpose of Bresenham's line drawi
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/bresenham-s-algorithm-steps|Bresenham's Algorithm Steps]]
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/bresenham-s-algorithm-purpose|Bresenham's Algorithm Purpose]]
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/pixel-coordinate-generation|Pixel Coordinate Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

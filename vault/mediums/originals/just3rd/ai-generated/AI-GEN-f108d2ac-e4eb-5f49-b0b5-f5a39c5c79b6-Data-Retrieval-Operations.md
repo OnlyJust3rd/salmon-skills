@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-retrieval-operations|data-retrieval-operations]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/data-retrieval-operations|data-retrieval-operations]]"
 learning-time-in-minutes: 4
 ---
 # Retrieving Data with SELECT Statements

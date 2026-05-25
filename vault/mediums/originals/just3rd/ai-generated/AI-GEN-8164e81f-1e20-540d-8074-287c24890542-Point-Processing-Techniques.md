@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/point-processing-techniques|point-processing-techniques]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/point-processing-techniques|point-processing-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Point Processing Techniques in Digital Image Manipulation

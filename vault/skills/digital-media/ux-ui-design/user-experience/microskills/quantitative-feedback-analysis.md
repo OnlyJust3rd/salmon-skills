@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting numerical data from testing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

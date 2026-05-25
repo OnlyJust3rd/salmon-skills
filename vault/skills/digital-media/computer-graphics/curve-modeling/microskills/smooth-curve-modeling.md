@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the use of Bézier curves for creating smooth shapes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

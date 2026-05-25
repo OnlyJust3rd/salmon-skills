@@ -353,6 +353,20 @@ test('parseVaultEntries ignores wikilinks inside fenced and inline code', () => 
   ])
 })
 
+test('parseVaultEntries ignores Obsidian Base embeds', () => {
+  const graph = parseVaultEntries(
+    [
+      {
+        path: 'skills/programming/python/competencies/L1-python.md',
+        content: '---\ntype: "competency"\ntitle: "L1 Python"\ntags: []\nstrict-prerequisites: []\nmiller-level: 1\noptional-prerequisites: []\nparent-skill: ""\nrequires-microskills: []\ncontributors: []\n---\n# L1 Python\n\n![[bases/related-mediums.base]]',
+      },
+    ],
+    { includeUnresolvedEdges: true },
+  )
+
+  assert.deepEqual(graph.edges, [])
+})
+
 test('validateGraph reports required frontmatter and unknown types', () => {
   const graph = parseVaultEntries([
     {
@@ -425,6 +439,87 @@ test('validateGraph still validates existing inverse competency wikilinks on mic
         issue.nodeId === 'skills/programming/python/microskills/variables',
     ),
   )
+})
+
+test('validateGraph rejects skill links in medium learning outcomes', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'mediums/youtube/example.md',
+      content:
+        '---\ntype: "medium"\ntitle: "Example"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes:\n  - "[[skills/programming/python/python|python]]"\nlearning-time-in-minutes: 5\n---\n# Example',
+    },
+    {
+      path: 'contributors/just3rd.md',
+      content: '---\ntype: "contributor"\ntitle: "just3rd"\ntags: []\n---\n# just3rd',
+    },
+    {
+      path: 'skills/programming/python/python.md',
+      content:
+        '---\ntype: "skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Python',
+    },
+  ])
+
+  const result = validateGraph(graph)
+
+  assert.equal(result.valid, false)
+  assert.ok(result.errors.some((issue) => issue.code === 'INVALID_LEARNING_OUTCOME_TYPE'))
+})
+
+test('validateGraph accepts skill links in medium related skills', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'mediums/youtube/example.md',
+      content:
+        '---\ntype: "medium"\ntitle: "Example"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes:\n  - "[[skills/programming/python/competencies/L1-python|L1-python]]"\nrelated-skills:\n  - "[[skills/programming/python/python|python]]"\nlearning-time-in-minutes: 5\n---\n# Example',
+    },
+    {
+      path: 'contributors/just3rd.md',
+      content: '---\ntype: "contributor"\ntitle: "just3rd"\ntags: []\n---\n# just3rd',
+    },
+    {
+      path: 'skills/programming/python/python.md',
+      content:
+        '---\ntype: "skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Python',
+    },
+    {
+      path: 'skills/programming/python/competencies/L1-python.md',
+      content:
+        '---\ntype: "competency"\ntitle: "L1 Python"\ntags: []\nstrict-prerequisites: []\nmiller-level: 1\noptional-prerequisites: []\nparent-skill: "[[skills/programming/python/python|python]]"\nrequires-microskills: []\ncontributors: []\n---\n# L1 Python',
+    },
+  ])
+
+  const result = validateGraph(graph)
+
+  assert.equal(result.valid, true)
+})
+
+test('validateGraph rejects non-skill links in medium related skills', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'mediums/youtube/example.md',
+      content:
+        '---\ntype: "medium"\ntitle: "Example"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes:\n  - "[[skills/programming/python/competencies/L1-python|L1-python]]"\nrelated-skills:\n  - "[[skills/programming/python/competencies/L1-python|L1-python]]"\nlearning-time-in-minutes: 5\n---\n# Example',
+    },
+    {
+      path: 'contributors/just3rd.md',
+      content: '---\ntype: "contributor"\ntitle: "just3rd"\ntags: []\n---\n# just3rd',
+    },
+    {
+      path: 'skills/programming/python/python.md',
+      content:
+        '---\ntype: "skill"\ntitle: "Python"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Python',
+    },
+    {
+      path: 'skills/programming/python/competencies/L1-python.md',
+      content:
+        '---\ntype: "competency"\ntitle: "L1 Python"\ntags: []\nstrict-prerequisites: []\nmiller-level: 1\noptional-prerequisites: []\nparent-skill: "[[skills/programming/python/python|python]]"\nrequires-microskills: []\ncontributors: []\n---\n# L1 Python',
+    },
+  ])
+
+  const result = validateGraph(graph)
+
+  assert.equal(result.valid, false)
+  assert.ok(result.errors.some((issue) => issue.code === 'INVALID_RELATED_SKILL_TYPE'))
 })
 
 test('validateGraph reports invalid skill folder structure', () => {

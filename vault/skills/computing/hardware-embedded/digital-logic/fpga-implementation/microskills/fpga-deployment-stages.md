@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of FPGA deployment stages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

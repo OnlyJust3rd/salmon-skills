@@ -43,3 +43,6 @@ Explain the core concept of 'lossy' compression and identify Transform coding as
 - [[lossy-compression-core-concept|Lossy Compression Core Concept]]
 - [[transform-coding-identification|Transform Coding Identification]]
 - [[multimedia-compression-context|Multimedia Compression Context]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

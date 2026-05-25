@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Judgment of configurations against desired amplification levels.
+## Related Mediums
+
+![[bases/related-mediums.base]]

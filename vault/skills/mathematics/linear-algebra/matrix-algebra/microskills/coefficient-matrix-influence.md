@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how the coefficient matrix affects non-trivial solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

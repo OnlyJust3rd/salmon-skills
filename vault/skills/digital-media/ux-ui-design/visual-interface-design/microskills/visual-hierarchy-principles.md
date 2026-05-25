@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of key principles for visual organization in UIs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

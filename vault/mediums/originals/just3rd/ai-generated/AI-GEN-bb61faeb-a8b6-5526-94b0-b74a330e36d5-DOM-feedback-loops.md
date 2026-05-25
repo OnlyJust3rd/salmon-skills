@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[dom-feedback-loops|dom-feedback-loops]]"
+learning-outcomes:
+  - "[[dom-feedback-loops|dom-feedback-loops]]"
 learning-time-in-minutes: 3
 ---
 # Displaying Fetch States: Loading, Success, and Error

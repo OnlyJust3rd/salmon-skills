@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capacity to execute UAT sessions and record user feedback and results.
+## Related Mediums
+
+![[bases/related-mediums.base]]

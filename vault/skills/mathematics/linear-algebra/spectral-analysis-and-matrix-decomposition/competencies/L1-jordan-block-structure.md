@@ -43,3 +43,6 @@ Describe the structure of a Jordan block.
 - [[jordan-block-definition|Jordan block definition]]
 - [[structure-of-jordan-block|Structure of Jordan block]]
 - [[jordan-block-properties|Jordan block properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

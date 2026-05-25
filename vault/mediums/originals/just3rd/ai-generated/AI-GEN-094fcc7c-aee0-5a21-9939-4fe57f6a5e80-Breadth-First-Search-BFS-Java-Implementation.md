@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[breadth-first-search-bfs-java-implementation|breadth-first-search-bfs-java-implementation]]"
+learning-outcomes:
+  - "[[breadth-first-search-bfs-java-implementation|breadth-first-search-bfs-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Breadth-First Search (BFS) Java Implementation

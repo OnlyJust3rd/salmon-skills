@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-implementation|visualization-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/visualization-implementation|visualization-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Visualization Implementation with Matplotlib

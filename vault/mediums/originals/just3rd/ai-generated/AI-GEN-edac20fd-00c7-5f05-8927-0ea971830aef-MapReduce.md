@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/mapreduce|mapreduce]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/mapreduce|mapreduce]]"
 learning-time-in-minutes: 3
 ---
 # Understanding MapReduce: The Heart of Hadoop Batch Processing

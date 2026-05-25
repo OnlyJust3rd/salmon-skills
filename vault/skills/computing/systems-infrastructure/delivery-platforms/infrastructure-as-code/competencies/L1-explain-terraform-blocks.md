@@ -45,3 +45,6 @@ Explain the function of Terraform providers, resources, variables, and outputs i
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-resource-block|Terraform Resource Block]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-variable-block|Terraform Variable Block]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-output-block|Terraform Output Block]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

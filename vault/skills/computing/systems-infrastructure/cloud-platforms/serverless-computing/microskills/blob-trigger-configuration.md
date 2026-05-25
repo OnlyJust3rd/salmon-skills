@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to set up functions to react to blob storage changes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

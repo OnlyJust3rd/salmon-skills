@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[social-interaction-concepts|social-interaction-concepts]]"
+learning-outcomes:
+  - "[[social-interaction-concepts|social-interaction-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Social Interaction Concepts in HCI

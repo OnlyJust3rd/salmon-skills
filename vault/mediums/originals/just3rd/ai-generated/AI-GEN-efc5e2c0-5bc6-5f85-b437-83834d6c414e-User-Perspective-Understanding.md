@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-perspective-understanding|user-perspective-understanding]]"
+learning-outcomes:
+  - "[[user-perspective-understanding|user-perspective-understanding]]"
 learning-time-in-minutes: 6
 ---
 # Understanding the User Perspective

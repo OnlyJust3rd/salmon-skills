@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Define actionable tasks that support project objectives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

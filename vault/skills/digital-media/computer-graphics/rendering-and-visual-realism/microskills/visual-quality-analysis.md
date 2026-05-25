@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of how rendering choices affect the overall appearance of a scene.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain the inductive hypothesis in mathematical induction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

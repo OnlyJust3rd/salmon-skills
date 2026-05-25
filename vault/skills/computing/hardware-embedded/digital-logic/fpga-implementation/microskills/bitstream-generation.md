@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how the programming bitstream is generated and loaded.
+## Related Mediums
+
+![[bases/related-mediums.base]]

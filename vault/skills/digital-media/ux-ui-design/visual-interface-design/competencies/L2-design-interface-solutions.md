@@ -49,3 +49,6 @@ Develop and apply design alternatives and principles for user interfaces, consid
 - [[design-principle-application|Design Principle Application]]
 - [[interaction-style-consideration|Interaction Style Consideration]]
 - [[usability-focused-design|Usability-Focused Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

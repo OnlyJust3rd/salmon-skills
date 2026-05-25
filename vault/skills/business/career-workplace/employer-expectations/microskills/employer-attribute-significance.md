@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the importance of key employer-desired attributes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

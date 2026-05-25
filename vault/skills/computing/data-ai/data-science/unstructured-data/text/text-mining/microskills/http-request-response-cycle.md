@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental process of client-server communication via HTTP requests and responses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

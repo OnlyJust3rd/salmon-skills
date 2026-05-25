@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the basic concepts governing robotics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

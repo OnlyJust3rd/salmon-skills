@@ -68,3 +68,6 @@ Representing and classifying continuous-time and discrete-time signals using mat
 - [[unit-function-interpretation|Unit Function Interpretation]]
 - [[unit-impulse-function-properties|Unit Impulse Function Properties]]
 - [[unit-step-function-properties|Unit Step Function Properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How features contribute to validating proposed solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

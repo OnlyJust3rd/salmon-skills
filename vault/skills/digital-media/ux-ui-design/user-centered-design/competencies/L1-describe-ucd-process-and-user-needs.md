@@ -45,3 +45,6 @@ Describe the user-centered design (UCD) process and its relationship to capturin
 - [[user-centered-design-process|User-Centered Design Process]]
 - [[user-needs-capture|User Needs Capture]]
 - [[target-user-representation|Target User Representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

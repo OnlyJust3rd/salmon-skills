@@ -45,3 +45,6 @@ Implement a parallel program using OpenMP to solve a given computational problem
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-application|OpenMP Directive Application]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/computational-problem-parallelization|Computational Problem Parallelization]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/functional-parallel-program-development|Functional Parallel Program Development]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

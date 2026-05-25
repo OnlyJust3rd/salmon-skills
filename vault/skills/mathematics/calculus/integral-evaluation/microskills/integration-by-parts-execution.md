@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Carry out integration by parts to completion, including repeated applications when needed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

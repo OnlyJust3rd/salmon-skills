@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Visualizing the workings of routing protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

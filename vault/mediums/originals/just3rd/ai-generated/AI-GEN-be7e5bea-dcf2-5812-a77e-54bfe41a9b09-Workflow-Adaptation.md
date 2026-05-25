@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/workflow-adaptation|workflow-adaptation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/workflow-adaptation|workflow-adaptation]]"
 learning-time-in-minutes: 5
 ---
 # Workflow Adaptation: Fine-Tuning Your Sprint Process

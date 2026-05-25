@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/datapath-design-impact-on-performance|datapath-design-impact-on-performance]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/datapath-design-impact-on-performance|datapath-design-impact-on-performance]]"
 learning-time-in-minutes: 5
 ---
 # Datapath Design Impact on Processor Speed

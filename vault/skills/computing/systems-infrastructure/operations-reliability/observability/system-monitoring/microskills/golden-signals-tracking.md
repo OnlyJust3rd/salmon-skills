@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in monitoring Latency, Traffic, Errors, and Saturation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

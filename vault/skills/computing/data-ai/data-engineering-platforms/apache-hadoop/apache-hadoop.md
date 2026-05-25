@@ -38,3 +38,6 @@ Using Hadoop concepts for distributed storage and batch processing over large da
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/mapreduce|MapReduce]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/reducer-output|Reducer Output]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/replication|Replication]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the goals of peer code examination.
+## Related Mediums
+
+![[bases/related-mediums.base]]

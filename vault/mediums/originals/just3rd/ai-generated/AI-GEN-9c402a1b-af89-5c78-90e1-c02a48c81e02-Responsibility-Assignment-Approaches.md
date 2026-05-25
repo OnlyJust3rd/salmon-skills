@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-approaches|responsibility-assignment-approaches]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/responsibility-assignment-approaches|responsibility-assignment-approaches]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing Responsibility Assignment Approaches

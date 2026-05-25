@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with the specific components of Azure IoT Hub.
+## Related Mediums
+
+![[bases/related-mediums.base]]

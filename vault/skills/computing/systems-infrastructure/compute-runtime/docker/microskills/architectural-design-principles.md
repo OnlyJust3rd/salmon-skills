@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the design considerations for microservices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

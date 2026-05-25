@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Contrast JSON with other interchange formats at a high level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

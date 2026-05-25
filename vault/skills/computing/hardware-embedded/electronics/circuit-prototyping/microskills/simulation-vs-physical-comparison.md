@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing expected simulation outputs with actual breadboard measurements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

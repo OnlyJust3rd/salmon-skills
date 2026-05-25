@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/dynamic-behavioral-diagrams|dynamic-behavioral-diagrams]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/dynamic-behavioral-diagrams|dynamic-behavioral-diagrams]]"
 learning-time-in-minutes: 4
 ---
 # Modeling Dynamic Behavior with UML Diagrams

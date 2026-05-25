@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/rectangular-to-spherical-conversion-formulas|rectangular-to-spherical-conversion-formulas]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/rectangular-to-spherical-conversion-formulas|rectangular-to-spherical-conversion-formulas]]"
 learning-time-in-minutes: 3
 ---
 # Rectangular to Spherical Coordinate Conversion Formulas

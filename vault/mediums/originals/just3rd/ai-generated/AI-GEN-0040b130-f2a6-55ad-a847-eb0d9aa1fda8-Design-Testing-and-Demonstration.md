@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[design-testing-and-demonstration|design-testing-and-demonstration]]"
+learning-outcomes:
+  - "[[design-testing-and-demonstration|design-testing-and-demonstration]]"
 learning-time-in-minutes: 5
 ---
 # Prototyping for Interactive System Testing and Demonstration

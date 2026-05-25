@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of typical applications for various visualization types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

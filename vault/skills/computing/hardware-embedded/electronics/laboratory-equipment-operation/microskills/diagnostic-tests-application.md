@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of diagnostic tests on electronic circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

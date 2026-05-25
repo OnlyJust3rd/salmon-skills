@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[link-layer-error-handling|link-layer-error-handling]]"
+learning-outcomes:
+  - "[[link-layer-error-handling|link-layer-error-handling]]"
 learning-time-in-minutes: 5
 ---
 # Link Layer Error Handling: Keeping Data Clean

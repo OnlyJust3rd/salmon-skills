@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/patch-iteration|patch-iteration]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/patch-iteration|patch-iteration]]"
 learning-time-in-minutes: 3
 ---
 # Patch Iteration in Claude Code

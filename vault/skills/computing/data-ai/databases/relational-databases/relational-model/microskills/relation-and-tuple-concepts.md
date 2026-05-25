@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Understanding relations, tuples, attributes, and domains.
+## Related Mediums
+
+![[bases/related-mediums.base]]

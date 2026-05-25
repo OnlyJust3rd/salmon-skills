@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/http-trigger-configuration|http-trigger-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/http-trigger-configuration|http-trigger-configuration]]"
 learning-time-in-minutes: 3
 ---
 # HTTP Trigger Configuration for Serverless Functions

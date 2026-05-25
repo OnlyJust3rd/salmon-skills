@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how fan-out limits affect circuit design and signal integrity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

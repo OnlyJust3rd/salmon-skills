@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[simulation-to-physical-robot-transition-factors|simulation-to-physical-robot-transition-factors]]"
+learning-outcomes:
+  - "[[simulation-to-physical-robot-transition-factors|simulation-to-physical-robot-transition-factors]]"
 learning-time-in-minutes: 5
 ---
 # Simulation to Physical Robot Transition Factors

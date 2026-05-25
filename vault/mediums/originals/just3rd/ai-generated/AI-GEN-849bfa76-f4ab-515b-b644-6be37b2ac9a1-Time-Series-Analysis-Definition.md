@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/time-series-analysis-definition|time-series-analysis-definition]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/time-series-analysis-definition|time-series-analysis-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Time-Series Analysis

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Executing CT convolution to find the output of an LTI system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

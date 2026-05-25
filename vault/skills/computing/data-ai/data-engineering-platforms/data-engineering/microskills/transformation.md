@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Changing data shape, format, or meaning for use.
+## Related Mediums
+
+![[bases/related-mediums.base]]

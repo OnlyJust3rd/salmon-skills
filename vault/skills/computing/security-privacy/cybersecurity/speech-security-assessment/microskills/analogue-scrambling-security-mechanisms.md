@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of distinct security mechanisms in analogue scrambling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

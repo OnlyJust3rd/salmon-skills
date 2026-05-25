@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing the DTFT to analyze aperiodic discrete-time signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

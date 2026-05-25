@@ -41,3 +41,6 @@ Explain the role of hierarchical bus structures in I/O integration.
 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/hierarchical-bus-structures|Hierarchical Bus Structures]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-device-integration-principles|I/O Device Integration Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

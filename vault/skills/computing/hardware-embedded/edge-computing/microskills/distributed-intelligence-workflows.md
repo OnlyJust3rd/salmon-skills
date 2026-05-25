@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of distributed computational tasks and decision-making.
+## Related Mediums
+
+![[bases/related-mediums.base]]

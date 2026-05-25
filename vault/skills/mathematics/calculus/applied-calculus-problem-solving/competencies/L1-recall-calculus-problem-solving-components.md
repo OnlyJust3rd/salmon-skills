@@ -43,3 +43,6 @@ Recall and enumerate the definitions and steps involved in solving optimization 
 - [[optimization-problem-definitions|Optimization problem definitions]]
 - [[related-rates-problem-steps|Related rates problem steps]]
 - [[curve-sketching-criteria|Curve sketching criteria]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

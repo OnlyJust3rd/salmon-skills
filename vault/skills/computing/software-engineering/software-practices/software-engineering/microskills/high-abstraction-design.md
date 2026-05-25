@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating system components with simplified interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

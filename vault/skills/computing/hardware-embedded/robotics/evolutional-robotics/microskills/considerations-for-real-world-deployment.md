@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing essential factors to account for when transitioning robotic control models to physical robots.
+## Related Mediums
+
+![[bases/related-mediums.base]]

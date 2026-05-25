@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the basic computational unit of a neural network.
+## Related Mediums
+
+![[bases/related-mediums.base]]

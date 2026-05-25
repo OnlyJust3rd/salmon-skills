@@ -47,3 +47,6 @@ Analyze the impact of different feedback resistor values on the gain and input/o
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/feedback-resistor-impact-on-input-impedance|Feedback Resistor Impact on Input Impedance]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/feedback-resistor-impact-on-output-impedance|Feedback Resistor Impact on Output Impedance]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/op-amp-circuit-performance-analysis|Op-Amp Circuit Performance Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

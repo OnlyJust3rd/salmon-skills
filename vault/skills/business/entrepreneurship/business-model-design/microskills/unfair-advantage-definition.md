@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying and articulating unique competitive strengths.
+## Related Mediums
+
+![[bases/related-mediums.base]]

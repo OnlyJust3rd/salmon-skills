@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Highlighting the key features and defining property of the One-time Pad.
+## Related Mediums
+
+![[bases/related-mediums.base]]

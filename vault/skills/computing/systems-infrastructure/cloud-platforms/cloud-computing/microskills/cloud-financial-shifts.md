@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how cloud computing alters IT spending models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

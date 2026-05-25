@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and definition of the One-Hot encoding representation method.
+## Related Mediums
+
+![[bases/related-mediums.base]]

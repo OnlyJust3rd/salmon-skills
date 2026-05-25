@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the method for computing each element of a product matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

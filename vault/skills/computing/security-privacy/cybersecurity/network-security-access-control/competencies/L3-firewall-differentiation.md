@@ -46,3 +46,6 @@ Analyze access control techniques and network defense mechanisms, differentiatin
 - [[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/packet-filtering-vs-proxy-firewall-operations|Packet Filtering vs. Proxy Firewall Operations]]
 - [[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/network-defense-mechanisms|Network Defense Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/access-control-techniques|Access Control Techniques]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

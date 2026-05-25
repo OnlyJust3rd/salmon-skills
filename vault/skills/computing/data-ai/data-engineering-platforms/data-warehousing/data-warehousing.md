@@ -38,3 +38,6 @@ Modeling analytical data stores using facts, dimensions, grain, and warehouse st
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/grain|Grain]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/measure|Measure]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/star-schema|Star Schema]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

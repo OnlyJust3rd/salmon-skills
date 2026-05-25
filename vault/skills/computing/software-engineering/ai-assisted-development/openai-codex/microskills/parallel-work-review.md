@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reviewing independent agent outputs for consistency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

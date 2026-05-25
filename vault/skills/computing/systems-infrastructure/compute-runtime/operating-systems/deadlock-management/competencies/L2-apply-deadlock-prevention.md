@@ -47,3 +47,6 @@ Apply deadlock prevention strategies (e.g., resource ordering) to prevent the oc
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-ordering-strategy|Resource Ordering Strategy]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-prevention-techniques|Deadlock Prevention Techniques]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/scenario-based-prevention|Scenario-Based Prevention]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

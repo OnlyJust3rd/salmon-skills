@@ -45,3 +45,6 @@ Explain the layered architecture of Docker images and how Dockerfiles contribute
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/layered-architecture|Layered Architecture]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/image-size-optimization|Image Size Optimization]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/build-cache-utilization|Build Cache Utilization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

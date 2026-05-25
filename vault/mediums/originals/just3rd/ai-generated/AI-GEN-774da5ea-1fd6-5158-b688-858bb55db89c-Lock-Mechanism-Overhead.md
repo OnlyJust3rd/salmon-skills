@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|lock-mechanism-overhead]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|lock-mechanism-overhead]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Lock Mechanism Overhead

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying functions to represent mappings between discrete elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

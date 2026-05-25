@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of scheduling algorithms to process sets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

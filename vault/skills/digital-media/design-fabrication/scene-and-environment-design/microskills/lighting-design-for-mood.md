@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing lighting techniques to establish a specific emotional tone within a scene.
+## Related Mediums
+
+![[bases/related-mediums.base]]

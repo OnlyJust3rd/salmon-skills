@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[theme-discovery-in-text-corpora|theme-discovery-in-text-corpora]]"
+learning-outcomes:
+  - "[[theme-discovery-in-text-corpora|theme-discovery-in-text-corpora]]"
 learning-time-in-minutes: 5
 ---
 # Uncovering Hidden Stories: Theme Discovery in Text Corpora

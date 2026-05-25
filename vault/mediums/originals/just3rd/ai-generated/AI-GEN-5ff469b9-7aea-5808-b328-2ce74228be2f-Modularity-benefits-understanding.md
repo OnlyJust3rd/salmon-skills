@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/modularity-benefits-understanding|modularity-benefits-understanding]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-principles/modular-program-design/microskills/modularity-benefits-understanding|modularity-benefits-understanding]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Benefits of Modularity

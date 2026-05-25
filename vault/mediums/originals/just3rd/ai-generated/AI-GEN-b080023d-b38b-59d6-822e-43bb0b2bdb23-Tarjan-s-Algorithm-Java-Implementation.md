@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[tarjan-s-algorithm-java-implementation|tarjan-s-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[tarjan-s-algorithm-java-implementation|tarjan-s-algorithm-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Tarjan's Algorithm in Java for Strongly Connected Components

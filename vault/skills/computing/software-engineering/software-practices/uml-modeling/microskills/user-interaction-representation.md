@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding diagrams that illustrate how users interact.
+## Related Mediums
+
+![[bases/related-mediums.base]]

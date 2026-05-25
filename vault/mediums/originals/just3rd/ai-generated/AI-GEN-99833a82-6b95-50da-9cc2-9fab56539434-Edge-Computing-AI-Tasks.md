@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[edge-computing-ai-tasks|edge-computing-ai-tasks]]"
+learning-outcomes:
+  - "[[edge-computing-ai-tasks|edge-computing-ai-tasks]]"
 learning-time-in-minutes: 4
 ---
 # Executing AI Tasks at the Edge

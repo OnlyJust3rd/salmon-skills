@@ -58,3 +58,6 @@ Understanding foundational software architecture concepts and comparing common m
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/modularity-explanation|Modularity Explanation]]
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/mvc-layer-identification|MVC Layer Identification]]
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/service-decomposition-thinking|Service Decomposition Thinking]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

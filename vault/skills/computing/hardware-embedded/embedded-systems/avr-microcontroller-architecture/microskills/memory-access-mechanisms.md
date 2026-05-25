@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how the CPU interacts with different memory types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

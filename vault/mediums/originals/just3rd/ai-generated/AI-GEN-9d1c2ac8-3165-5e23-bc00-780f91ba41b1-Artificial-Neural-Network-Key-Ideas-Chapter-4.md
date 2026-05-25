@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[artificial-neural-network-key-ideas-chapter-4|artificial-neural-network-key-ideas-chapter-4]]"
+learning-outcomes:
+  - "[[artificial-neural-network-key-ideas-chapter-4|artificial-neural-network-key-ideas-chapter-4]]"
 learning-time-in-minutes: 3
 ---
 # Artificial Neural Network Key Ideas (Chapter 4)

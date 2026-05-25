@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core mechanisms of extractive summarization techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

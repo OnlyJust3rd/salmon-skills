@@ -41,3 +41,6 @@ Describe common data quality issues and the role of data cleansing in the data s
 
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/data-quality-dimensions|Data Quality Dimensions]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/error-type-identification|Error Type Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

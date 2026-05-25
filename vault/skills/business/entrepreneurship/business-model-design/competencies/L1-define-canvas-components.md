@@ -41,3 +41,6 @@ Identify and define the core components of the Business Model Canvas and Lean Ca
 
 - [[skills/business/entrepreneurship/business-model-design/microskills/business-model-canvas-elements|Business Model Canvas Elements]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/lean-canvas-elements|Lean Canvas Elements]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

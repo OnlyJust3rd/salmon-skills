@@ -45,3 +45,6 @@ Recall the definitions of truth tables, minterms, maxterms, sum-of-products (SOP
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/minterm-and-maxterm-definitions|Minterm and Maxterm Definitions]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/canonical-form-definitions|Canonical Form Definitions]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/karnaugh-map-structure|Karnaugh Map Structure]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

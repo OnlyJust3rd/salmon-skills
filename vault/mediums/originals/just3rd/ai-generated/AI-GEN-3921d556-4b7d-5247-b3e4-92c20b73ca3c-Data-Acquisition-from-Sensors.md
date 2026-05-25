@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/data-acquisition-from-sensors|data-acquisition-from-sensors]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/data-acquisition-from-sensors|data-acquisition-from-sensors]]"
 learning-time-in-minutes: 5
 ---
 # Reading Sensor Data with Microcontrollers: A Practical Guide

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cognitive-process-influence|cognitive-process-influence]]"
+learning-outcomes:
+  - "[[cognitive-process-influence|cognitive-process-influence]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cognitive Limitations in User Interaction

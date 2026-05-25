@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reducing texture memory use.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain chaining asynchronous results in user interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

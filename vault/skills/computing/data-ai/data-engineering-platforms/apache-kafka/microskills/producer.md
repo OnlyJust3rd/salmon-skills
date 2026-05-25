@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Publishing events to a topic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

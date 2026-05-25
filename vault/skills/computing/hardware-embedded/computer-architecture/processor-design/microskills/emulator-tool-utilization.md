@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in using emulators for processor design implementation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

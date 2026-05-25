@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to analyze the conditions for intersection between lines and planes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

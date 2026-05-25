@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hypervisor-performance-characteristics|hypervisor-performance-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/hypervisor-performance-characteristics|hypervisor-performance-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Hypervisor Performance Characteristics: Analyzing the Differences

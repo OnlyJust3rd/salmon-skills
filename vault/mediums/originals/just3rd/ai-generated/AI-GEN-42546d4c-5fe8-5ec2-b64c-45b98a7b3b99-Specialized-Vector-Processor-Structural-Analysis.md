@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-structural-analysis|specialized-vector-processor-structural-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-structural-analysis|specialized-vector-processor-structural-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Specialized Vector Processor Structural Analysis

@@ -30,3 +30,6 @@ Conceptual understanding of layered server architecture and responsibilities for
 - [[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/data-access-layer|Data access layer]]
 - [[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/domain-and-service-layer|Domain and service layer]]
 - [[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/request-handling-layer|Request handling layer]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

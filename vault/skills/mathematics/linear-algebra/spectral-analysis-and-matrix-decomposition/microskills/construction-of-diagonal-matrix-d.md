@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how eigenvalues form the diagonal matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

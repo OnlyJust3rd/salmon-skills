@@ -38,3 +38,6 @@ List the standard techniques for finding anti-derivatives.
 ## Microskills
 
 - [[standard-anti-derivative-methods|Standard anti-derivative methods]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

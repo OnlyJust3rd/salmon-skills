@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating zeros for given Z-transform functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

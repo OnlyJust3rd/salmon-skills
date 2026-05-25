@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/negative-definite-characteristics|negative-definite-characteristics]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/negative-definite-characteristics|negative-definite-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Negative Definite Characteristics

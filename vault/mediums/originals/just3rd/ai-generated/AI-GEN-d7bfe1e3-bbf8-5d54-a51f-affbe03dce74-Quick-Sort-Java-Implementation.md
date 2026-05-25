@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[quick-sort-java-implementation|quick-sort-java-implementation]]"
+learning-outcomes:
+  - "[[quick-sort-java-implementation|quick-sort-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Quick Sort Java Implementation

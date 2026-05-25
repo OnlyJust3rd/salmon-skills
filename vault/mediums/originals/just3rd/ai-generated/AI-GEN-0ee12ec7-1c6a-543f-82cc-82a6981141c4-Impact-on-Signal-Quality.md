@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[impact-on-signal-quality|impact-on-signal-quality]]"
+learning-outcomes:
+  - "[[impact-on-signal-quality|impact-on-signal-quality]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Impact of Transmission Impairments on Signal Quality

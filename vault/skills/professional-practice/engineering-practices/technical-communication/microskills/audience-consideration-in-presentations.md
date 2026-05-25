@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the importance of tailoring content to specific audiences.
+## Related Mediums
+
+![[bases/related-mediums.base]]

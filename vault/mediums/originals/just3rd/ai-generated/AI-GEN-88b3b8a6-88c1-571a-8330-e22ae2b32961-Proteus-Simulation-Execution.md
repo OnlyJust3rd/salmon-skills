@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-simulation-execution|proteus-simulation-execution]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-simulation-execution|proteus-simulation-execution]]"
 learning-time-in-minutes: 4
 ---
 # Executing Proteus Simulations

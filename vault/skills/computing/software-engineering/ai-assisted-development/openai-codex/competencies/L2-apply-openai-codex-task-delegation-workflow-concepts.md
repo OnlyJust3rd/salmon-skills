@@ -47,3 +47,6 @@ Apply OpenAI Codex task delegation workflow concepts.
 - [[delegated-task-prompt|Delegated Task Prompt]]
 - [[parallel-work-review|Parallel Work Review]]
 - [[quality-gate|Quality Gate]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

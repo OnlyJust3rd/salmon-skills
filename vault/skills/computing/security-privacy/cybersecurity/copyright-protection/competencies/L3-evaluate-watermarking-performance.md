@@ -49,3 +49,6 @@ Evaluate the inherent trade-offs in watermarking (imperceptibility vs. robustnes
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/peak-signal-to-noise-ratio-psnr|Peak Signal-to-Noise Ratio (PSNR)]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/structural-similarity-index-ssim|Structural Similarity Index (SSIM)]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-effectiveness-judgment|Watermarking Effectiveness Judgment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

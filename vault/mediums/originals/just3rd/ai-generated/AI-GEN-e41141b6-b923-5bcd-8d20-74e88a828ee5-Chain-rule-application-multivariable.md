@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/chain-rule-application-multivariable|chain-rule-application-multivariable]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/chain-rule-application-multivariable|chain-rule-application-multivariable]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Multivariable Chain Rule

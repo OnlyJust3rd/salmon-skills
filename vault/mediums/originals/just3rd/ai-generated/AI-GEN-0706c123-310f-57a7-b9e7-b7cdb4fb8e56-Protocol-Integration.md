@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[protocol-integration|protocol-integration]]"
+learning-outcomes:
+  - "[[protocol-integration|protocol-integration]]"
 learning-time-in-minutes: 3
 ---
 # Protocol Integration in Socket Applications

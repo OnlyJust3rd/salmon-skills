@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating an orthogonal basis from a set of linearly independent vectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

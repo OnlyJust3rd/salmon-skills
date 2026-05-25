@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/appropriate-refactoring-technique-selection|appropriate-refactoring-technique-selection]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/appropriate-refactoring-technique-selection|appropriate-refactoring-technique-selection]]"
 learning-time-in-minutes: 5
 ---
 # Selecting the Right Refactoring Technique

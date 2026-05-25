@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[delay-generation|delay-generation]]"
+learning-outcomes:
+  - "[[delay-generation|delay-generation]]"
 learning-time-in-minutes: 5
 ---
 # Generating Precise Delays with AVR Timers

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of tools for creating digital engineering models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

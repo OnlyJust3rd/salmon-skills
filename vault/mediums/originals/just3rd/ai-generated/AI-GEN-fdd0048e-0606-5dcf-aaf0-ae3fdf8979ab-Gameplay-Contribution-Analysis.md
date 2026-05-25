@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/gameplay-contribution-analysis|gameplay-contribution-analysis]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/gameplay-contribution-analysis|gameplay-contribution-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Gameplay Contribution: How Game Elements Shape Your Experience

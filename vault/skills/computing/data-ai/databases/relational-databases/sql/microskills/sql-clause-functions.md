@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Purpose and role of individual SQL command components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

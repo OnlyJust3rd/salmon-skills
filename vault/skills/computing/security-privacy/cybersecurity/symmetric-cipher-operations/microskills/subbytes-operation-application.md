@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of the SubBytes operation on a data block.
+## Related Mediums
+
+![[bases/related-mediums.base]]

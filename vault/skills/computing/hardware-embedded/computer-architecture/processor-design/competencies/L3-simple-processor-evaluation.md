@@ -49,3 +49,6 @@ Evaluate the effectiveness of a designed simple processor based on specified per
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/performance-metric-assessment|Performance Metric Assessment]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/interfacing-capability-evaluation|Interfacing Capability Evaluation]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/effectiveness-evaluation|Effectiveness Evaluation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

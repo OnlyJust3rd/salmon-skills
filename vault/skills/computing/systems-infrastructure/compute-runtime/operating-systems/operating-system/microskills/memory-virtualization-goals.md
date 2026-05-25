@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the overarching objectives of memory virtualization in operating systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

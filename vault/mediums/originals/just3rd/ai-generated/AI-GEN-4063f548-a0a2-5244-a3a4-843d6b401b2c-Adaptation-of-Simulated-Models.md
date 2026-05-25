@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[adaptation-of-simulated-models|adaptation-of-simulated-models]]"
+learning-outcomes:
+  - "[[adaptation-of-simulated-models|adaptation-of-simulated-models]]"
 learning-time-in-minutes: 5
 ---
 # Adapting Simulated Models for Real-World Robots

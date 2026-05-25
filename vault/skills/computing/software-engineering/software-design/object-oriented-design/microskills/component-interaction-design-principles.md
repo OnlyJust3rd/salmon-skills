@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining principles for interaction between software components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

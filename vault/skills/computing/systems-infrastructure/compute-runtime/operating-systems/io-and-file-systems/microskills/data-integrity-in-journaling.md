@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role of journaling in ensuring data consistency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/corporate-governance-criteria|corporate-governance-criteria]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/corporate-governance-criteria|corporate-governance-criteria]]"
 learning-time-in-minutes: 5
 ---
 # Corporate Governance Criteria: The Foundation of Trust

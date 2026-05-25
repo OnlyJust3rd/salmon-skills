@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of techniques to remove HTML tags from text datasets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

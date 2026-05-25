@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[functions-and-scope|functions-and-scope]]"
+learning-outcomes:
+  - "[[functions-and-scope|functions-and-scope]]"
 learning-time-in-minutes: 3
 ---
 # Understanding JavaScript Functions and Scope

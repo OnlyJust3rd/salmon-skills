@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of triggers initiated by web requests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

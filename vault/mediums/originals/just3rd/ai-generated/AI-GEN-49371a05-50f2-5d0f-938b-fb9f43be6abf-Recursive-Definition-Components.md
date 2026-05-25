@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/proof-techniques/microskills/recursive-definition-components|recursive-definition-components]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/proof-techniques/microskills/recursive-definition-components|recursive-definition-components]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Recursive Definition Components

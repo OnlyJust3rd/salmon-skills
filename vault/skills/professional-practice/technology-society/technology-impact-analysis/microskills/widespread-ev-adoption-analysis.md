@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of environmental consequences of large-scale EV implementation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

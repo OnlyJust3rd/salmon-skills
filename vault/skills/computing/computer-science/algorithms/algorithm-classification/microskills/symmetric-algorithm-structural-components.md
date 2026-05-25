@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of constituent parts of symmetric key algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

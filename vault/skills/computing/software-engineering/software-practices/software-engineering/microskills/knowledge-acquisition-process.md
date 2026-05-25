@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Appreciating software engineering as a continuous cycle of learning and applying new information.
+## Related Mediums
+
+![[bases/related-mediums.base]]

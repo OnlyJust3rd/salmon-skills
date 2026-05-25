@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of paging memory allocation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

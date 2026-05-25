@@ -63,3 +63,6 @@ Designing object-oriented software systems, encompassing responsibility assignme
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/separation-of-concerns-impact|Separation of Concerns Impact]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/software-component-structuring|Software Component Structuring]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/system-structure-design|System Structure Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

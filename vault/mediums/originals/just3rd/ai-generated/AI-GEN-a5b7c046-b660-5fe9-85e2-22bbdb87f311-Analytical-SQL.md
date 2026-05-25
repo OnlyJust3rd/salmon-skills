@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/analytical-sql|analytical-sql]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/analytical-sql|analytical-sql]]"
 learning-time-in-minutes: 4
 ---
 # Crafting Reports and Explorations with Analytical SQL in BigQuery

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[applied-reactive-control-concepts|applied-reactive-control-concepts]]"
+learning-outcomes:
+  - "[[applied-reactive-control-concepts|applied-reactive-control-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Reactive Control in Robotics

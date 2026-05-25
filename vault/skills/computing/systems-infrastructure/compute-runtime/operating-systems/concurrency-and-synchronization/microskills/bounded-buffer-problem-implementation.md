@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing solutions to the bounded-buffer problem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

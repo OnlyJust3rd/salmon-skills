@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-cryptographic-implementation|ssl-tls-cryptographic-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-cryptographic-implementation|ssl-tls-cryptographic-implementation]]"
 learning-time-in-minutes: 3
 ---
 # SSL/TLS Cryptographic Implementation: A Closer Look

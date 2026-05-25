@@ -134,7 +134,7 @@ const ENTITY_REQUIRED_PROPERTIES = {
     "title",
     "tags",
     "contributor",
-    "outcome",
+    "learning-outcomes",
     "learning-time-in-minutes",
   ],
   contributor: ["type", "title", "tags"],
@@ -258,6 +258,9 @@ export async function validateVault(
 export function validateGraph(graph: VaultGraph): VaultValidationResult {
   const issues: VaultValidationIssue[] = [];
   const byType: Record<string, number> = {};
+  const nodesById = new Map(graph.nodes.map((node) => [node.id, node]));
+  const nodeIds = new Set(nodesById.keys());
+  const basenameIndex = buildBasenameIndex(graph.nodes);
 
   for (const node of graph.nodes) {
     const type = node.frontmatter.type;
@@ -289,6 +292,7 @@ export function validateGraph(graph: VaultGraph): VaultValidationResult {
     }
 
     validateNodeLocation(node, type, issues);
+    validateMediumLearningOutcomes(node, nodesById, nodeIds, basenameIndex, issues);
   }
 
   for (const edge of graph.edges) {
@@ -317,6 +321,144 @@ export function validateGraph(graph: VaultGraph): VaultValidationResult {
       byType,
     },
   };
+}
+
+function validateMediumLearningOutcomes(
+  node: VaultNode,
+  nodesById: Map<string, VaultNode>,
+  nodeIds: Set<string>,
+  basenameIndex: Map<string, string[]>,
+  issues: VaultValidationIssue[],
+): void {
+  if (node.frontmatter.type !== "medium") return;
+
+  const learningOutcomes = node.frontmatter["learning-outcomes"];
+  if (!Array.isArray(learningOutcomes)) {
+    issues.push(
+      makeIssue(
+        "INVALID_LEARNING_OUTCOMES",
+        "`medium` property `learning-outcomes` must be a list of wikilinks.",
+        node,
+      ),
+    );
+    return;
+  }
+
+  for (const value of learningOutcomes) {
+    if (typeof value !== "string") {
+      issues.push(
+        makeIssue(
+          "INVALID_LEARNING_OUTCOMES",
+          "`medium` property `learning-outcomes` must contain only wikilink strings.",
+          node,
+        ),
+      );
+      continue;
+    }
+
+    const wikilinks = extractWikilinks(value);
+    if (wikilinks.length === 0) {
+      issues.push(
+        makeIssue(
+          "INVALID_LEARNING_OUTCOMES",
+          "`medium` property `learning-outcomes` values must be wikilinks.",
+          node,
+        ),
+      );
+      continue;
+    }
+
+    for (const wikilink of wikilinks) {
+      const target = resolveWikilinkTarget(
+        wikilink.target,
+        node.id,
+        nodeIds,
+        basenameIndex,
+      );
+      if (!target) continue;
+
+      const targetType = nodesById.get(target)?.frontmatter.type;
+      if (!["competency", "microskill"].includes(String(targetType))) {
+        issues.push(
+          makeIssue(
+            "INVALID_LEARNING_OUTCOME_TYPE",
+            "`medium` property `learning-outcomes` must link to `competency` or `microskill` notes.",
+            node,
+          ),
+        );
+      }
+    }
+  }
+
+  validateMediumRelatedSkills(node, nodesById, nodeIds, basenameIndex, issues);
+}
+
+function validateMediumRelatedSkills(
+  node: VaultNode,
+  nodesById: Map<string, VaultNode>,
+  nodeIds: Set<string>,
+  basenameIndex: Map<string, string[]>,
+  issues: VaultValidationIssue[],
+): void {
+  const relatedSkills = node.frontmatter["related-skills"];
+  if (relatedSkills === undefined || relatedSkills === null) return;
+
+  if (!Array.isArray(relatedSkills)) {
+    issues.push(
+      makeIssue(
+        "INVALID_RELATED_SKILLS",
+        "`medium` property `related-skills` must be a list of wikilinks.",
+        node,
+      ),
+    );
+    return;
+  }
+
+  for (const value of relatedSkills) {
+    if (typeof value !== "string") {
+      issues.push(
+        makeIssue(
+          "INVALID_RELATED_SKILLS",
+          "`medium` property `related-skills` must contain only wikilink strings.",
+          node,
+        ),
+      );
+      continue;
+    }
+
+    const wikilinks = extractWikilinks(value);
+    if (wikilinks.length === 0) {
+      issues.push(
+        makeIssue(
+          "INVALID_RELATED_SKILLS",
+          "`medium` property `related-skills` values must be wikilinks.",
+          node,
+        ),
+      );
+      continue;
+    }
+
+    for (const wikilink of wikilinks) {
+      const target = resolveWikilinkTarget(
+        wikilink.target,
+        node.id,
+        nodeIds,
+        basenameIndex,
+      );
+      if (!target) continue;
+
+      const targetType = nodesById.get(target)?.frontmatter.type;
+      if (targetType !== "skill") {
+        issues.push(
+          makeIssue(
+            "INVALID_RELATED_SKILL_TYPE",
+            "`medium` property `related-skills` must link to `skill` notes.",
+            node,
+          ),
+        );
+      }
+    }
+  }
 }
 
 function mergeValidationIssues(
@@ -415,12 +557,16 @@ function extractWikilinks(
     const rawTarget = match[1]?.trim() ?? "";
     const target = stripWikilinkDecorations(rawTarget);
 
-    if (target) {
+    if (target && !isNonGraphWikilinkTarget(target)) {
       links.push({ rawTarget, target });
     }
   }
 
   return links;
+}
+
+function isNonGraphWikilinkTarget(target: string): boolean {
+  return target.toLowerCase().endsWith(".base");
 }
 
 function parseFrontmatter(content: string): Frontmatter {

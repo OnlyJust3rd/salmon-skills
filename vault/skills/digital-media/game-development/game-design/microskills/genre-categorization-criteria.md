@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles used to classify games into distinct genres.
+## Related Mediums
+
+![[bases/related-mediums.base]]

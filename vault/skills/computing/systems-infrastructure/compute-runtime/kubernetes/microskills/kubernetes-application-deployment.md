@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of deploying applications in a Kubernetes environment using Helm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

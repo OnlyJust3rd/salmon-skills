@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how poles, zeros, and ROC relate to system causality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

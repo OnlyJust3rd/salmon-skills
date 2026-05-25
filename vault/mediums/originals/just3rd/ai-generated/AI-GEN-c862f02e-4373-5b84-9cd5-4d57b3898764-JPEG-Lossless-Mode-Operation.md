@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-lossless-mode-operation|jpeg-lossless-mode-operation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-lossless-mode-operation|jpeg-lossless-mode-operation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding JPEG Lossless Mode Operation

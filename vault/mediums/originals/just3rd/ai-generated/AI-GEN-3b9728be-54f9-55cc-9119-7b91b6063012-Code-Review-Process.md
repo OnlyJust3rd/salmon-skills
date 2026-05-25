@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-process|code-review-process]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-process|code-review-process]]"
 learning-time-in-minutes: 4
 ---
 # The Code Review Process: A Step-by-Step Guide

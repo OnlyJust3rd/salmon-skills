@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/three-dimensional-appearance-enhancement|three-dimensional-appearance-enhancement]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/three-dimensional-appearance-enhancement|three-dimensional-appearance-enhancement]]"
 learning-time-in-minutes: 5
 ---
 # Enhancing Three-Dimensional Appearance

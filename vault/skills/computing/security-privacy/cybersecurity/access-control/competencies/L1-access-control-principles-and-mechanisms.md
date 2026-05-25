@@ -43,3 +43,6 @@ Explain the principles of authentication and authorization, and describe the pur
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/authentication-principles|Authentication Principles]]
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/authorization-principles|Authorization Principles]]
 - [[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-mechanisms|Access Control Mechanisms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of Regular Expression patterns to deduce and describe their text matching behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

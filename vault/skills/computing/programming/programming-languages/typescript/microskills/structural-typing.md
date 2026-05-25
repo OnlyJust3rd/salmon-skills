@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain how TypeScript compares shapes of objects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

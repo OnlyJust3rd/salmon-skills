@@ -57,3 +57,6 @@ Implement a basic Verilog model on an FPGA and deploy a given combinational logi
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/fpga-loading-and-configuration|FPGA Loading and Configuration]]
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/simulation-to-hardware-bridging|Simulation to Hardware Bridging]]
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pin-assignment-and-constraints|Pin Assignment and Constraints]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

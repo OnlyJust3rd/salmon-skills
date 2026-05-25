@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/compatibility-test-matrix|compatibility-test-matrix]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/compatibility-test-matrix|compatibility-test-matrix]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Compatibility Test Matrix

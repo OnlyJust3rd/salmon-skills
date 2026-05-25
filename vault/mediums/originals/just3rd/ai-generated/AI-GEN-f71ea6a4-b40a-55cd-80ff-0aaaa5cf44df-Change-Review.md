@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/change-review|change-review]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/change-review|change-review]]"
 learning-time-in-minutes: 3
 ---
 # Change Review in Agentic Coding

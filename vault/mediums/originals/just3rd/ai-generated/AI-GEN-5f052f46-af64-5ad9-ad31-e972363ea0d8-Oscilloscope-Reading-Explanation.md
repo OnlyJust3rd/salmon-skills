@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-reading-explanation|oscilloscope-reading-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-reading-explanation|oscilloscope-reading-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Oscilloscope Readings

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with the specific layers of the TCP/IP protocol stack.
+## Related Mediums
+
+![[bases/related-mediums.base]]

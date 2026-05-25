@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/unreal-engine/microskills/actor-component|actor-component]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/unreal-engine/microskills/actor-component|actor-component]]"
 learning-time-in-minutes: 5
 ---
 # Actor Components in Unreal Engine

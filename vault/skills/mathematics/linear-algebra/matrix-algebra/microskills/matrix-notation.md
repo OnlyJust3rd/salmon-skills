@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and using standard notation for matrices and their elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

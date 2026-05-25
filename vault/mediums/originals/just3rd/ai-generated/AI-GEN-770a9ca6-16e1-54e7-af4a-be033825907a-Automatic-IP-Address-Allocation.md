@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[automatic-ip-address-allocation|automatic-ip-address-allocation]]"
+learning-outcomes:
+  - "[[automatic-ip-address-allocation|automatic-ip-address-allocation]]"
 learning-time-in-minutes: 3
 ---
 # Automatic IP Address Allocation with DHCP

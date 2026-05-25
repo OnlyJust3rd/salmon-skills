@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Estimating CPI/throughput effects of mitigation techniques with simple models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

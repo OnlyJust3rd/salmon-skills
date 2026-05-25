@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-identifiers|resource-identifiers]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/restful-api/microskills/resource-identifiers|resource-identifiers]]"
 learning-time-in-minutes: 3
 ---
 # Mapping Domain Entities to Resource Identifiers

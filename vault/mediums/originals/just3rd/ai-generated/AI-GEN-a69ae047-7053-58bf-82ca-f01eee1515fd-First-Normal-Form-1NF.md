@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/first-normal-form-1nf|first-normal-form-1nf]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/first-normal-form-1nf|first-normal-form-1nf]]"
 learning-time-in-minutes: 3
 ---
 # Understanding First Normal Form (1NF)

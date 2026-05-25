@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[segment-tree-java-implementation|segment-tree-java-implementation]]"
+learning-outcomes:
+  - "[[segment-tree-java-implementation|segment-tree-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Segment Tree Java Implementation

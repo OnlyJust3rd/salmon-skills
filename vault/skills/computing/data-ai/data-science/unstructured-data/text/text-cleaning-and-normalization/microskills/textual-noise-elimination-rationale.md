@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the importance and process of removing irrelevant elements from text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

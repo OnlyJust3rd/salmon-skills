@@ -54,3 +54,6 @@ Applying 2D and 3D geometric transformations including translation, scaling, rot
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/transformation-purpose|Transformation Purpose]]
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/translation|Translation]]
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/underlying-mathematical-principles|Underlying Mathematical Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[common-assembly-instructions|common-assembly-instructions]]"
+learning-outcomes:
+  - "[[common-assembly-instructions|common-assembly-instructions]]"
 learning-time-in-minutes: 3
 ---
 # Common Assembly Instructions

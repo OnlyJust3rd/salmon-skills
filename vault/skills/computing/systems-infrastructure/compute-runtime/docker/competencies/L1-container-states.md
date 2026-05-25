@@ -47,3 +47,6 @@ Explain the different states a Docker container can be in throughout its lifecyc
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/running-container-state|Running Container State]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/stopped-container-state|Stopped Container State]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/exited-container-state|Exited Container State]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

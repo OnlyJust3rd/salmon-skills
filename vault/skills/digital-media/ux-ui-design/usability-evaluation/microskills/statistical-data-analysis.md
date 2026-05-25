@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing statistical methods to analyze quantitative usability data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding atomicity, consistency, isolation, and durability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

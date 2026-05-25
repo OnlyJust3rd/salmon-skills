@@ -45,3 +45,6 @@ Explain data packing abstractions for efficient message representation in MPI co
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/mpi-unpack-function-usage|MPI Unpack Function Usage]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/derived-datatype-implementation|Derived Datatype Implementation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/message-size-optimization|Message Size Optimization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

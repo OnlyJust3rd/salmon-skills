@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Solving the system (A - λI)x = 0 for each eigenvalue.
+## Related Mediums
+
+![[bases/related-mediums.base]]

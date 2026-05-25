@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of network domains for routing purposes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

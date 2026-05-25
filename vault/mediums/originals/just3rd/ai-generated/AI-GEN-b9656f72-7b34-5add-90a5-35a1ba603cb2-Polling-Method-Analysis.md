@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/polling-method-analysis|polling-method-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/polling-method-analysis|polling-method-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing the Polling Method for I/O Access

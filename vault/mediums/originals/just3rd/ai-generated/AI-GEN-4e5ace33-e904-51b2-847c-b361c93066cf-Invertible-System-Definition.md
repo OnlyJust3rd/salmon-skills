@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/invertible-system-definition|invertible-system-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/invertible-system-definition|invertible-system-definition]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Invertible Systems

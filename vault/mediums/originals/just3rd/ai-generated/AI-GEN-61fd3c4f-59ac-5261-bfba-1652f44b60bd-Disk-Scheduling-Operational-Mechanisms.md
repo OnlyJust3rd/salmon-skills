@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[disk-scheduling-operational-mechanisms|disk-scheduling-operational-mechanisms]]"
+learning-outcomes:
+  - "[[disk-scheduling-operational-mechanisms|disk-scheduling-operational-mechanisms]]"
 learning-time-in-minutes: 8
 ---
 # Understanding Disk Scheduling Operational Mechanisms

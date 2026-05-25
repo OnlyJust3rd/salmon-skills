@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometric-access-control-systems|biometric-access-control-systems]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/biometric-access-control-systems|biometric-access-control-systems]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Biometric Access Control Systems

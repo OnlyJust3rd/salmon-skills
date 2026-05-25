@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting screens through routes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

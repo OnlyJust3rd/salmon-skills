@@ -45,3 +45,6 @@ Implement styled layouts with CSS for structured HTML pages, including flexible 
 - [[skills/computing/software-engineering/frontend-development/css/microskills/layout-with-flexbox-or-grid|Layout with flexbox or grid]]
 - [[skills/computing/software-engineering/frontend-development/css/microskills/typography-and-spacing-scale|Typography and spacing scale]]
 - [[skills/computing/software-engineering/frontend-development/css/microskills/responsive-rules|Responsive rules]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

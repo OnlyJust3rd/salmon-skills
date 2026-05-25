@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding common programming constructs that support modularity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how Terraform tracks infrastructure state.
+## Related Mediums
+
+![[bases/related-mediums.base]]

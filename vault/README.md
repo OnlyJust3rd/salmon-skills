@@ -115,7 +115,7 @@ Expected pattern:
 mediums/<contributor>/<medium-kind>/<medium-slug>.md
 ```
 
-Medium notes use `type: "medium"`, name one `contributor`, and link `outcome` to the most specific graph node they support, usually a microskill or competency. They also include `learning-time-in-minutes` as a positive integer estimate.
+Medium notes use `type: "medium"`, name one `contributor`, and list `learning-outcomes` as wikilinks to competency or microskill notes. Use optional `related-skills` links for broad skill coverage. Medium notes also include `learning-time-in-minutes` as a positive integer estimate.
 
 ### `ontology/`
 

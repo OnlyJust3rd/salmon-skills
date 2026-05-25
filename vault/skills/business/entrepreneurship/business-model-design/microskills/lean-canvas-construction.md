@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building a business model using the Lean Canvas structure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

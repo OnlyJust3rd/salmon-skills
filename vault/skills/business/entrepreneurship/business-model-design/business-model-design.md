@@ -59,3 +59,6 @@ Develop structured business models using Lean Canvas and Business Model Canvas f
 - [[skills/business/entrepreneurship/business-model-design/microskills/startup-hypothesis-articulation|Startup Hypothesis Articulation]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/unfair-advantage-definition|Unfair Advantage Definition]]
 - [[skills/business/entrepreneurship/business-model-design/microskills/value-proposition-understanding|Value Proposition Understanding]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

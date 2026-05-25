@@ -45,3 +45,6 @@ Explain the significance of each key infrastructure metric (CPU, memory, disk I/
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/memory-significance|Memory Significance]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/disk-i-o-significance|Disk I/O Significance]]
 - [[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/network-throughput-significance|Network Throughput Significance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

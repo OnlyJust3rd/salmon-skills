@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[visual-hierarchy-and-perception|visual-hierarchy-and-perception]]"
+learning-outcomes:
+  - "[[visual-hierarchy-and-perception|visual-hierarchy-and-perception]]"
 learning-time-in-minutes: 5
 ---
 # Visual Hierarchy: Guiding the User's Eye

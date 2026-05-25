@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of various digital methods for speech security.
+## Related Mediums
+
+![[bases/related-mediums.base]]

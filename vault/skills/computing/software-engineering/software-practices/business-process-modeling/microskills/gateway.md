@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing workflow branching and merging.
+## Related Mediums
+
+![[bases/related-mediums.base]]

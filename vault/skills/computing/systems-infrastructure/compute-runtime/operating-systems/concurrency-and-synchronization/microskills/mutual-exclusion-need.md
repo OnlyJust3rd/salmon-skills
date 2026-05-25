@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the need for mutual exclusion in concurrent processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[static-routing-configuration|static-routing-configuration]]"
+learning-outcomes:
+  - "[[static-routing-configuration|static-routing-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Static Routing Configuration: Defining the Path

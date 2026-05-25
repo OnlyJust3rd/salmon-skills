@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-resource-concepts|operating-system-resource-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-resource-concepts|operating-system-resource-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Operating System Resource Concepts

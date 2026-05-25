@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/software-design-improvement|software-design-improvement]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/software-design-improvement|software-design-improvement]]"
 learning-time-in-minutes: 4
 ---
 # Improving Software Design Through Refactoring

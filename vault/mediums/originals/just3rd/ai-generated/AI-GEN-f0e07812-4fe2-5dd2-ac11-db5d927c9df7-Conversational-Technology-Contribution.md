@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[conversational-technology-contribution|conversational-technology-contribution]]"
+learning-outcomes:
+  - "[[conversational-technology-contribution|conversational-technology-contribution]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Conversational Technology's Impact on User Experience

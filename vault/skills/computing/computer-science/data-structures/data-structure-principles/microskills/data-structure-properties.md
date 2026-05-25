@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulate the characteristics of various data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

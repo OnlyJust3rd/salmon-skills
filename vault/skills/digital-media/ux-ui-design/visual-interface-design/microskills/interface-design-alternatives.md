@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Development of multiple potential solutions for user interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -39,3 +39,6 @@ Define 'rasterization' in the context of computer graphics.
 ## Microskills
 
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/rasterization-definition|Rasterization Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

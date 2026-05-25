@@ -47,3 +47,6 @@ Explain the principles, definitions, and use cases for various data modeling tec
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/dimensional-model-concepts|Dimensional Model Concepts]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/nosql-model-characteristics|NoSQL Model Characteristics]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/use-cases-for-data-models|Use Cases for Data Models]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

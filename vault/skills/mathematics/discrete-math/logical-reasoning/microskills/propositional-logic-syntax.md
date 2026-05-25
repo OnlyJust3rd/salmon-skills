@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the rules for constructing valid logical expressions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

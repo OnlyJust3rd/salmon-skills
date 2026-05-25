@@ -41,3 +41,6 @@ List common security threats in IoT ecosystems.
 
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/common-iot-security-vulnerabilities|Common IoT Security Vulnerabilities]]
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-attack-vectors|IoT Attack Vectors]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -41,3 +41,6 @@ List common assembly language instructions and their basic functions.
 
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/common-assembly-instructions|Common Assembly Instructions]]
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/basic-instruction-functions|Basic Instruction Functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

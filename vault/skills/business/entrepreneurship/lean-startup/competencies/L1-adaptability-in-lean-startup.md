@@ -41,3 +41,6 @@ Explain the importance of adaptability in iterating based on customer feedback w
 
 - [[skills/business/entrepreneurship/lean-startup/microskills/customer-insight-adaptation|Customer Insight Adaptation]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/iterative-strategy-adjustment|Iterative Strategy Adjustment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

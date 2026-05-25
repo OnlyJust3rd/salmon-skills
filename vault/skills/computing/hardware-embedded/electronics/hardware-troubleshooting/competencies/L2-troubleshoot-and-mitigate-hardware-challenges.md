@@ -55,3 +55,6 @@ Apply systematic troubleshooting techniques to identify and mitigate physical ha
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/noise-reduction-techniques|Noise Reduction Techniques]]
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/error-resolution|Error Resolution]]
 - [[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/physical-design-verification-mitigation|Physical Design Verification Mitigation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

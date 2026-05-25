@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Following relationships to answer connected-data questions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

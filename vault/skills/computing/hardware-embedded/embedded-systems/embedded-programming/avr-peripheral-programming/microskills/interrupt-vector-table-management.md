@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Configuring the microcontroller to point to the correct ISR.
+## Related Mediums
+
+![[bases/related-mediums.base]]

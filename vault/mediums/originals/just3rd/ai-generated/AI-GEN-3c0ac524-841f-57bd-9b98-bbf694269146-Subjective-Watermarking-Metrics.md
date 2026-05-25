@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/subjective-watermarking-metrics|subjective-watermarking-metrics]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/subjective-watermarking-metrics|subjective-watermarking-metrics]]"
 learning-time-in-minutes: 4
 ---
 # Subjective Watermarking Metrics

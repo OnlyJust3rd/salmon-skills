@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/system-design/microskills/system-level-design-methods|system-level-design-methods]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/system-design/microskills/system-level-design-methods|system-level-design-methods]]"
 learning-time-in-minutes: 5
 ---
 # System-Level Design Methods

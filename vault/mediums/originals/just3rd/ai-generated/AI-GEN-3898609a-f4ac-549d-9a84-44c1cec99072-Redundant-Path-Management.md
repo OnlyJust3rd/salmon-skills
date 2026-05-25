@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[redundant-path-management|redundant-path-management]]"
+learning-outcomes:
+  - "[[redundant-path-management|redundant-path-management]]"
 learning-time-in-minutes: 4
 ---
 # Managing Redundant Paths with Spanning Tree Protocol (STP)

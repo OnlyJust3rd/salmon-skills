@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of registers for ADC setup, conversion start, and result reading.
+## Related Mediums
+
+![[bases/related-mediums.base]]

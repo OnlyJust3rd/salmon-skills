@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting the importance of PCB elements in kernel operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

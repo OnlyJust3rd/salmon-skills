@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-general-approaches|backtracking-general-approaches]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-general-approaches|backtracking-general-approaches]]"
 learning-time-in-minutes: 3
 ---
 # Backtracking: Exploring All Paths

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and understanding of common Regular Expression metacharacters and their specific meanings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

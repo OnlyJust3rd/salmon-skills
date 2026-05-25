@@ -44,3 +44,6 @@ Explain the purpose and function of fundamental game elements, including rules, 
 - [[skills/digital-media/game-development/game-design/microskills/rules-objectives-and-mechanics|Rules, Objectives, and Mechanics]]
 - [[skills/digital-media/game-development/game-design/microskills/interactive-systems-explanation|Interactive Systems Explanation]]
 - [[skills/digital-media/game-development/game-design/microskills/gameplay-contribution-analysis|Gameplay Contribution Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

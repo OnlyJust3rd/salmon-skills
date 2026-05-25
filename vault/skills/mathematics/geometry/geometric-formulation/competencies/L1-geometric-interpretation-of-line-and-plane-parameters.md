@@ -49,3 +49,6 @@ Explain the geometric interpretations of parameters within the equations of line
 - [[normal-vector-interpretation-for-planes|Normal vector interpretation for planes]]
 - [[parameter-interpretation-in-parametric-line-equations|Parameter interpretation in parametric line equations]]
 - [[parameter-interpretation-in-plane-equations|Parameter interpretation in plane equations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

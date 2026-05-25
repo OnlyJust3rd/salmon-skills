@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/rest-api-definition|rest-api-definition]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/rest-api-definition|rest-api-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding RESTful APIs

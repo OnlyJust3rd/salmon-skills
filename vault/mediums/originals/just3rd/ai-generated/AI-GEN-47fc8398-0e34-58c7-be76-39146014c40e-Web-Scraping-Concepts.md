@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[web-scraping-concepts|web-scraping-concepts]]"
+learning-outcomes:
+  - "[[web-scraping-concepts|web-scraping-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Web Scraping Concepts

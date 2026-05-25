@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparison of different interaction styles (e.g., direct manipulation, command language).
+## Related Mediums
+
+![[bases/related-mediums.base]]

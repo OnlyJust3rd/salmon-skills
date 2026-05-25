@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/pod-abstraction|pod-abstraction]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/pod-abstraction|pod-abstraction]]"
 learning-time-in-minutes: 5
 ---
 # The Pod: Kubernetes' Smallest Deployable Unit

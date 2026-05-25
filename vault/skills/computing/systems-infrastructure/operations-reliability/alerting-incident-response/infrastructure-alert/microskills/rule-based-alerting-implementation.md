@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of setting up alerts based on defined rules.
+## Related Mediums
+
+![[bases/related-mediums.base]]

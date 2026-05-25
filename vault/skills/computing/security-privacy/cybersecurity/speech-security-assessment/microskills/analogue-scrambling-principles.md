@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of basic concepts for securing speech using analogue methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/effectiveness-of-realism-techniques|effectiveness-of-realism-techniques]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/effectiveness-of-realism-techniques|effectiveness-of-realism-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating the Effectiveness of Realism Techniques

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Arranging controls and content for mobile constraints.
+## Related Mediums
+
+![[bases/related-mediums.base]]

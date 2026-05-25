@@ -43,3 +43,6 @@ Explain the procedure for reading resistor color codes and describe how to read 
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/resistor-color-code-interpretation|Resistor Color Code Interpretation]]
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/digital-multimeter-reading-explanation|Digital Multimeter Reading Explanation]]
 - [[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-reading-explanation|Oscilloscope Reading Explanation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

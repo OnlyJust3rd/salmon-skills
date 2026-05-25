@@ -47,3 +47,6 @@ Explain the purpose and basic structure of common SQL clauses and syntax for dat
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-data-manipulation-basics-insert-update-delete|SQL Data Manipulation Basics (INSERT, UPDATE, DELETE)]]
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-clause-functions|SQL Clause Functions]]
 - [[skills/computing/data-ai/databases/relational-databases/sql/microskills/sql-syntax-rules|SQL Syntax Rules]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

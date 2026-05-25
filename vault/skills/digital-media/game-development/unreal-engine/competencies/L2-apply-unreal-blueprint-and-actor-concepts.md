@@ -45,3 +45,6 @@ Apply Unreal Blueprint and actor concepts.
 - [[skills/digital-media/game-development/unreal-engine/microskills/blueprint-event-graph|Blueprint Event Graph]]
 - [[skills/digital-media/game-development/unreal-engine/microskills/actor-component|Actor Component]]
 - [[skills/digital-media/game-development/unreal-engine/microskills/level-interaction|Level Interaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

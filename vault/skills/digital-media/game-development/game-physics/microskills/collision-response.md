@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying behavior after contact is detected.
+## Related Mediums
+
+![[bases/related-mediums.base]]

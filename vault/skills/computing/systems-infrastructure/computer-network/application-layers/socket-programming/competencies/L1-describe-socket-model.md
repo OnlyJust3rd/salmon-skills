@@ -45,3 +45,6 @@ Describe the client-server communication model in socket programming.
 - [[client-server-architecture|Client-Server Architecture]]
 - [[socket-communication-flow|Socket Communication Flow]]
 - [[network-interaction-patterns|Network Interaction Patterns]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

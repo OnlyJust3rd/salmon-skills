@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[i2c-status-and-control-registers|i2c-status-and-control-registers]]"
+learning-outcomes:
+  - "[[i2c-status-and-control-registers|i2c-status-and-control-registers]]"
 learning-time-in-minutes: 5
 ---
 # I2C Status and Control Registers: Mastering Communication

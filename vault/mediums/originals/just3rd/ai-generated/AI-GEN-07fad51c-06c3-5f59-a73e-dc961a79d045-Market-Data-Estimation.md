@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/market-data-estimation|market-data-estimation]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/market-data-estimation|market-data-estimation]]"
 learning-time-in-minutes: 4
 ---
 # Market Data Estimation

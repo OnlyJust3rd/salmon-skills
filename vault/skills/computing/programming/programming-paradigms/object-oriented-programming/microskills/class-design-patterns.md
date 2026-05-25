@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying common structures for defining types and behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

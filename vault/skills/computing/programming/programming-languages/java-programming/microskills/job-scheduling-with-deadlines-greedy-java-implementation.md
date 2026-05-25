@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding Job Scheduling with Deadlines using a greedy approach in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

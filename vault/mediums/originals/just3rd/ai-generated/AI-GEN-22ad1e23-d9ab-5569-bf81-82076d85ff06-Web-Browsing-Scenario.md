@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[web-browsing-scenario|web-browsing-scenario]]"
+learning-outcomes:
+  - "[[web-browsing-scenario|web-browsing-scenario]]"
 learning-time-in-minutes: 3
 ---
 # Web Browsing Scenario: How HTTP and DNS Work Together

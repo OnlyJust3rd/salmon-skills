@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Verifying adherence to manufacturing constraints.
+## Related Mediums
+
+![[bases/related-mediums.base]]

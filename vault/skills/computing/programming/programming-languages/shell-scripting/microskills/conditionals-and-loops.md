@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying branch and repetition constructs in shell scripts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

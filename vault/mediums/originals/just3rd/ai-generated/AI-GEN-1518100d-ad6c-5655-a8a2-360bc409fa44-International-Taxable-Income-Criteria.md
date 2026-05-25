@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/international-taxable-income-criteria|international-taxable-income-criteria]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/international-taxable-income-criteria|international-taxable-income-criteria]]"
 learning-time-in-minutes: 5
 ---
 # Understanding International Taxable Income Criteria

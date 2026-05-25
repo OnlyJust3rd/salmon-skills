@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-maintenance|player-immersion-maintenance]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-maintenance|player-immersion-maintenance]]"
 learning-time-in-minutes: 4
 ---
 # Maintaining Player Immersion

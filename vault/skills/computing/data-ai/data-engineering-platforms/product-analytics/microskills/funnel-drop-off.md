@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying where users leave a product flow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

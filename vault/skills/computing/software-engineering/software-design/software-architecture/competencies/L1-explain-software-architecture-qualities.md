@@ -41,3 +41,6 @@ Explain key qualities of good software architectures such as modularity, low cou
 
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/modularity-explanation|Modularity Explanation]]
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/coupling-and-cohesion-explanation|Coupling and Cohesion Explanation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

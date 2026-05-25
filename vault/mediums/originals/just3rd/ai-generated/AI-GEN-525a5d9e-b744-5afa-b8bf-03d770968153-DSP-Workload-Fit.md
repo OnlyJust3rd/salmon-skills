@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/dsp-workload-fit|dsp-workload-fit]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/dsp-workload-fit|dsp-workload-fit]]"
 learning-time-in-minutes: 6
 ---
 # DSP Workload Fit

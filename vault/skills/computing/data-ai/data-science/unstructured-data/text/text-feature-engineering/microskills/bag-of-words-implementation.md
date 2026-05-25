@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of the Bag-of-Words model for text vectorization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

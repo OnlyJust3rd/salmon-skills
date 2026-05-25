@@ -59,3 +59,6 @@ Ability to construct and manipulate logical statements and arguments using propo
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/truth-assignments|Truth Assignments]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/truth-table-construction|Truth Table Construction]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/well-formed-formulas|Well-Formed Formulas]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using virtual network boundaries for cloud deployment reasoning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

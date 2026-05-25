@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Mapping real-world problems to logical functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

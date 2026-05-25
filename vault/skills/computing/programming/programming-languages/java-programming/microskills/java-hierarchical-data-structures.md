@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implement trees and related structures with core operations in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

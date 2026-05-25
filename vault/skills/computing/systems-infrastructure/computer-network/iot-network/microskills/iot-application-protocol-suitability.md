@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating MQTT, CoAP, and HTTP/REST based on bandwidth, latency, and reliability for IoT scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

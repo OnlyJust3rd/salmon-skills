@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between conceptual and concrete design in prototyping.
+## Related Mediums
+
+![[bases/related-mediums.base]]

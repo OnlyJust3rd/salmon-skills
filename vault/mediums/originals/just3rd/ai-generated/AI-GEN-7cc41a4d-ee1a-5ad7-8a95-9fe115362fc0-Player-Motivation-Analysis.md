@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/player-motivation-analysis|player-motivation-analysis]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/player-motivation-analysis|player-motivation-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Applying Maslow's Hierarchy to Player Motivation

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of key Python libraries for data visualization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding interactive code and analysis documents.
+## Related Mediums
+
+![[bases/related-mediums.base]]

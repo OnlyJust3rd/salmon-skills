@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principle of trust in a business context.
+## Related Mediums
+
+![[bases/related-mediums.base]]

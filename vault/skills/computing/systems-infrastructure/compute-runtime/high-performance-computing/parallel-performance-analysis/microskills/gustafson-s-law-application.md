@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of Gustafson's Law to analyze scalability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

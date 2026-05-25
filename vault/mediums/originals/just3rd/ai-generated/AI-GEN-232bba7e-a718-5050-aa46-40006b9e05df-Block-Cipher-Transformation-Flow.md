@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-transformation-flow|block-cipher-transformation-flow]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-transformation-flow|block-cipher-transformation-flow]]"
 learning-time-in-minutes: 4
 ---
 # Block Cipher Transformation Flow: Tracing the Data's Journey

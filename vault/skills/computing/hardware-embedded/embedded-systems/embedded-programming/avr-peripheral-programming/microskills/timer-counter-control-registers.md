@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of registers used to configure timer/counter modes and prescalers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

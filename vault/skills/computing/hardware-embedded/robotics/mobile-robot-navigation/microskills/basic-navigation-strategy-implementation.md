@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying fundamental navigation strategies in a practical context.
+## Related Mediums
+
+![[bases/related-mediums.base]]

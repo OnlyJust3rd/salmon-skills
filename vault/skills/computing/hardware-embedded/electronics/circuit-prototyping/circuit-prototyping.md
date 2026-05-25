@@ -78,3 +78,6 @@ Practical circuit prototyping skills from component identification through simul
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/troubleshooting-assistance|Troubleshooting Assistance]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/waveform-analysis|Waveform Analysis]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/wiring-error-diagnosis|Wiring Error Diagnosis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

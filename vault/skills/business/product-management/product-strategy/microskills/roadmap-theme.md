@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding high-level product direction over time.
+## Related Mediums
+
+![[bases/related-mediums.base]]

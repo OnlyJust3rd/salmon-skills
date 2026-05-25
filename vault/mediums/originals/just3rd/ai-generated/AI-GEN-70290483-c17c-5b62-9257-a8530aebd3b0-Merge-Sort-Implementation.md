@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/merge-sort-implementation|merge-sort-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/merge-sort-implementation|merge-sort-implementation]]"
 learning-time-in-minutes: 2
 ---
 # Implementing Merge Sort in Code

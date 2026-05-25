@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall definitions of propagation delay, fan-in, fan-out, and power dissipation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

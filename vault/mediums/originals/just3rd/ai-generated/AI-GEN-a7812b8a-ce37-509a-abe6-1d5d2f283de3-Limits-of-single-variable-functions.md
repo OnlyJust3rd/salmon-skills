@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/function-analysis/microskills/limits-of-single-variable-functions|limits-of-single-variable-functions]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/function-analysis/microskills/limits-of-single-variable-functions|limits-of-single-variable-functions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Limits of Single-Variable Functions

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the encryption ratio evaluation criterion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

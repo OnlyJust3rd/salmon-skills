@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of bar charts for representing textual data distributions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

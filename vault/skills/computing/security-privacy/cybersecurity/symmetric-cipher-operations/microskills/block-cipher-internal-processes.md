@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of operations like SubBytes, ShiftRows, MixColumns, and AddRoundKey.
+## Related Mediums
+
+![[bases/related-mediums.base]]

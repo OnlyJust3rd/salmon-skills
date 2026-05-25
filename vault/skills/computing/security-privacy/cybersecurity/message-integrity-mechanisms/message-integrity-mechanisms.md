@@ -48,3 +48,6 @@ Explaining the construction and purpose of Message Authentication Codes (MAC) an
 - [[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/message-authentication-code-mac-construction|Message Authentication Code (MAC) Construction]]
 - [[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/public-and-private-key-roles|Public and Private Key Roles]]
 - [[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/rsa-in-digital-signatures|RSA in Digital Signatures]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

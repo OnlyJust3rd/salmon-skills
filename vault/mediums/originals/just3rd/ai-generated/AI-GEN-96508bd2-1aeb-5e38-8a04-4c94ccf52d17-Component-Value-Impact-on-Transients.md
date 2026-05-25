@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/component-value-impact-on-transients|component-value-impact-on-transients]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/component-value-impact-on-transients|component-value-impact-on-transients]]"
 learning-time-in-minutes: 3
 ---
 # Component Values and Transient Behavior

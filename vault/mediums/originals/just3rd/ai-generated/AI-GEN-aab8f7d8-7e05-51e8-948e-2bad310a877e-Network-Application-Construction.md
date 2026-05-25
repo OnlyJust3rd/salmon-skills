@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-application-construction|network-application-construction]]"
+learning-outcomes:
+  - "[[network-application-construction|network-application-construction]]"
 learning-time-in-minutes: 4
 ---
 # Network Application Construction

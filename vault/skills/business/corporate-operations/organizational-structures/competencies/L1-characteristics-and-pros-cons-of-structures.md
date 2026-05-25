@@ -44,3 +44,6 @@ Explain the characteristics, advantages, and disadvantages of different business
 - [[skills/business/corporate-operations/organizational-structures/microskills/structure-characteristics|Structure Characteristics]]
 - [[skills/business/corporate-operations/organizational-structures/microskills/structure-advantages|Structure Advantages]]
 - [[skills/business/corporate-operations/organizational-structures/microskills/structure-disadvantages|Structure Disadvantages]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

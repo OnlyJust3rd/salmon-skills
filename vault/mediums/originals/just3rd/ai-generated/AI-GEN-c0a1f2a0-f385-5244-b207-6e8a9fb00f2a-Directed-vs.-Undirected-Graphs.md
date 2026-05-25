@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/directed-vs-undirected-graphs|directed-vs-undirected-graphs]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/directed-vs-undirected-graphs|directed-vs-undirected-graphs]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Directed vs. Undirected Graphs

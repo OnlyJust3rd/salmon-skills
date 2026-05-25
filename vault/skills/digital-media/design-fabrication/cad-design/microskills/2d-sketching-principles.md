@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the underlying concepts of creating two-dimensional drawings in CAD.
+## Related Mediums
+
+![[bases/related-mediums.base]]

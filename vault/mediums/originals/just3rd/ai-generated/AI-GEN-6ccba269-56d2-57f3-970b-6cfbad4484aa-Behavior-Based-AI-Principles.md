@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[behavior-based-ai-principles|behavior-based-ai-principles]]"
+learning-outcomes:
+  - "[[behavior-based-ai-principles|behavior-based-ai-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Behavior-Based AI Principles

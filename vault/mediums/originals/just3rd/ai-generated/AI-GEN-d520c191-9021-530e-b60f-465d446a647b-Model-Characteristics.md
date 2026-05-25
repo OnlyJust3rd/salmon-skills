@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/model-characteristics|model-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/model-characteristics|model-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Computational Model Characteristics

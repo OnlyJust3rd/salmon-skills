@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/sap-erp/microskills/organizational-structure|organizational-structure]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/sap-erp/microskills/organizational-structure|organizational-structure]]"
 learning-time-in-minutes: 4
 ---
 # Understanding SAP ERP Organizational Structure: Company Code, Plant, and Beyond

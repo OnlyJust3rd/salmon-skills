@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/experiment-result|experiment-result]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/experiment-result|experiment-result]]"
 learning-time-in-minutes: 5
 ---
 # Interpreting Experiment Results: Understanding Product Variant Differences

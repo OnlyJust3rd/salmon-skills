@@ -47,3 +47,6 @@ Design and implement a Minimum Viable Product (MVP) by prioritizing features bas
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/feature-prioritization-criteria|Feature Prioritization Criteria]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/mvp-construction|MVP Construction]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/user-value-assessment|User Value Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

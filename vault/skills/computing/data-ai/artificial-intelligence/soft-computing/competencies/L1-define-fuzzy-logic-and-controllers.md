@@ -45,3 +45,6 @@ Define fuzzy logic and fuzzy controllers, including their fundamental principles
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-controller-definition|Fuzzy Controller Definition]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-logic-principles|Fuzzy Logic Principles]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-controller-components|Fuzzy Controller Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

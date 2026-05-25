@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Retrieving the digital output from the ADC.
+## Related Mediums
+
+![[bases/related-mediums.base]]

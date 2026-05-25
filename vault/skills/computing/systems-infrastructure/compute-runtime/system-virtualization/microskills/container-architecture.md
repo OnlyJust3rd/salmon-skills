@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the fundamental principles of containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguish well-formed JSON from invalid textual forms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

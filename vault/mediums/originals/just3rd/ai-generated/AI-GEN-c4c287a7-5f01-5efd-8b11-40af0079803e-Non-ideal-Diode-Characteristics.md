@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/non-ideal-diode-characteristics|non-ideal-diode-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/non-ideal-diode-characteristics|non-ideal-diode-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Non-Ideal Diode Characteristics

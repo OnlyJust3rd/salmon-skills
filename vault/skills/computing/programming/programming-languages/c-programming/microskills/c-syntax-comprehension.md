@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the rules for writing valid C code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

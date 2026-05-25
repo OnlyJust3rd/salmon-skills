@@ -43,3 +43,6 @@ Explain the purpose and audience considerations for different types of technical
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/audience-consideration-in-presentations|Audience Consideration in Presentations]]
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/technical-presentation-objectives|Technical Presentation Objectives]]
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/presentation-approach-rationale|Presentation Approach Rationale]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

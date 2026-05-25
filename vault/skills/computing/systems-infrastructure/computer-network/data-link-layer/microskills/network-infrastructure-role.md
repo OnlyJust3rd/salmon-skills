@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The function of Ethernet within a larger network.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of deep learning framework functions for model setup and learning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

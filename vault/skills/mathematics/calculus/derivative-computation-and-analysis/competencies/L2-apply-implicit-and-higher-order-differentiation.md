@@ -47,3 +47,6 @@ Apply implicit differentiation and compute higher-order derivatives for algebrai
 - [[implicit-differentiation-computations|Implicit differentiation computations]]
 - [[higher-order-derivative-computations|Higher-order derivative computations]]
 - [[derivative-patterns-for-inverse-functions|Derivative patterns for inverse functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

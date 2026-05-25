@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding fundamental clauses for querying data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

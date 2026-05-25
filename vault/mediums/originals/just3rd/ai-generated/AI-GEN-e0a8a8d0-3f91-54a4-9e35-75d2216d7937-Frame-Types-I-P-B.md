@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/frame-types-i-p-b|frame-types-i-p-b]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/frame-types-i-p-b|frame-types-i-p-b]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Frame Types in Video Compression: I, P, and B Frames

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Estimating from broad market data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

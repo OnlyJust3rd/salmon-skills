@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/logic-level-voltage-ranges|logic-level-voltage-ranges]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/logic-level-voltage-ranges|logic-level-voltage-ranges]]"
 learning-time-in-minutes: 4
 ---
 # Logic Level Voltage Ranges

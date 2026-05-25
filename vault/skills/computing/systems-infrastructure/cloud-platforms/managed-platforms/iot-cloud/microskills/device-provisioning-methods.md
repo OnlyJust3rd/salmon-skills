@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of methods for provisioning devices in IoT cloud platforms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

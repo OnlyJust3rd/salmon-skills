@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognize the fields within a Java class.
+## Related Mediums
+
+![[bases/related-mediums.base]]

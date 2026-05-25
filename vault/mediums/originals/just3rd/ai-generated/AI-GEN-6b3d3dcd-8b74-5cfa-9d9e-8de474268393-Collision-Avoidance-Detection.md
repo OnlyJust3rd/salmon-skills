@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[collision-avoidance-detection|collision-avoidance-detection]]"
+learning-outcomes:
+  - "[[collision-avoidance-detection|collision-avoidance-detection]]"
 learning-time-in-minutes: 4
 ---
 # Handling Traffic Jams: Collision Avoidance and Detection

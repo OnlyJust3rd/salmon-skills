@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[c-data-type-understanding|c-data-type-understanding]]"
+learning-outcomes:
+  - "[[c-data-type-understanding|c-data-type-understanding]]"
 learning-time-in-minutes: 2
 ---
 # Understanding C Data Types

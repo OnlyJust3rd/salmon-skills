@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/simple-shading-algorithms|simple-shading-algorithms]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/simple-shading-algorithms|simple-shading-algorithms]]"
 learning-time-in-minutes: 5
 ---
 # Applying Simple Shading Algorithms

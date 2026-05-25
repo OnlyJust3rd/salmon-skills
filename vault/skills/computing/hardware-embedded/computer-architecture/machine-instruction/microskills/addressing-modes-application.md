@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of various addressing modes in assembly programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

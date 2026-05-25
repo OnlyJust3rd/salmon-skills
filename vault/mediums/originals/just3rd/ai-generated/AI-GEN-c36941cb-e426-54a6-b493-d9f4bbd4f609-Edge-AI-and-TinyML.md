@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[edge-ai-and-tinyml|edge-ai-and-tinyml]]"
+learning-outcomes:
+  - "[[edge-ai-and-tinyml|edge-ai-and-tinyml]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Edge AI and TinyML in IoT

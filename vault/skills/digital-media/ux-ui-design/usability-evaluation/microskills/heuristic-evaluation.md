@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying established heuristics to evaluate user interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

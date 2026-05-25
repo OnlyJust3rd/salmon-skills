@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the application of management concepts in small environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

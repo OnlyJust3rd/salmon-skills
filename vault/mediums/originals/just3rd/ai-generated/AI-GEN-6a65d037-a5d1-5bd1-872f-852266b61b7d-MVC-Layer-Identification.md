@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/software-architecture/microskills/mvc-layer-identification|mvc-layer-identification]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/mvc-layer-identification|mvc-layer-identification]]"
 learning-time-in-minutes: 5
 ---
 # MVC Layer Identification: Deconstructing Applications

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding Tarjan's algorithm for strongly connected components in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and application of the second normalization standard.
+## Related Mediums
+
+![[bases/related-mediums.base]]

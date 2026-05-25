@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interrupt-enable-disable-control|interrupt-enable-disable-control]]"
+learning-outcomes:
+  - "[[interrupt-enable-disable-control|interrupt-enable-disable-control]]"
 learning-time-in-minutes: 6
 ---
 # Interrupt Enable/Disable Control on AVR Microcontrollers

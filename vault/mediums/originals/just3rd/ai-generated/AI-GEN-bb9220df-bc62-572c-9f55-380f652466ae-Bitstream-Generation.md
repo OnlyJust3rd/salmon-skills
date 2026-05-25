@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/bitstream-generation|bitstream-generation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/bitstream-generation|bitstream-generation]]"
 learning-time-in-minutes: 4
 ---
 # Bitstream Generation for FPGA Programming

@@ -45,3 +45,6 @@ Explain business process modeling concepts.
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/activity|Activity]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/decision-point|Decision Point]]
 - [[skills/computing/software-engineering/software-practices/business-process-modeling/microskills/process-boundary|Process Boundary]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/average-memory-access-time-calculation|average-memory-access-time-calculation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/average-memory-access-time-calculation|average-memory-access-time-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Average Memory Access Time (AMAT)

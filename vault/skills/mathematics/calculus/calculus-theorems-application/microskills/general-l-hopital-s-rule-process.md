@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the steps involved in applying L'Hôpital's rule.
+## Related Mediums
+
+![[bases/related-mediums.base]]

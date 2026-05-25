@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply double integrals to calculate areas.
+## Related Mediums
+
+![[bases/related-mediums.base]]

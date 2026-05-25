@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognize when browser security blocks requests and typical mitigations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/light-surface-interaction|light-surface-interaction]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/light-surface-interaction|light-surface-interaction]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Light-Surface Interaction

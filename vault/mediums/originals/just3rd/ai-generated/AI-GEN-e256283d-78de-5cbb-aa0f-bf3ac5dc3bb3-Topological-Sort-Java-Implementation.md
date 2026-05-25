@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[topological-sort-java-implementation|topological-sort-java-implementation]]"
+learning-outcomes:
+  - "[[topological-sort-java-implementation|topological-sort-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Topological Sort in Java

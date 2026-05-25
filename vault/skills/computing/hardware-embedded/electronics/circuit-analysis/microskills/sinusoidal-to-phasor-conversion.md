@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Transformation of sinusoidal signals into their phasor representations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

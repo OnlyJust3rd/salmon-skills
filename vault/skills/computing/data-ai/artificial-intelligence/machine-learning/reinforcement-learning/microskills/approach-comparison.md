@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to articulate the key differences and trade-offs between model-free and model-based methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

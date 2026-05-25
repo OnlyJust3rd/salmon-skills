@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the distinct phases involved in systematically addressing engineering challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

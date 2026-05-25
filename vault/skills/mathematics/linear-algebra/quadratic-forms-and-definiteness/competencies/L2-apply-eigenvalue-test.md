@@ -49,3 +49,6 @@ Apply the eigenvalue test to determine the definiteness of a quadratic form.
 - [[positive-definite-classification|Positive definite classification]]
 - [[negative-definite-classification|Negative definite classification]]
 - [[indefinite-classification|Indefinite classification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

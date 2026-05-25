@@ -72,3 +72,6 @@ Comparing and contrasting homogeneous and heterogeneous processor architectures,
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/symmetric-multiprocessing-smp-identification|Symmetric Multiprocessing (SMP) Identification]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/uniform-memory-access-uma-principles|Uniform Memory Access (UMA) Principles]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/vector-processor-workload-fit|Vector Processor Workload Fit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

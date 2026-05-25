@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the layered composition of container images.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how volatile forces the compiler to re-read a variable from memory on every access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

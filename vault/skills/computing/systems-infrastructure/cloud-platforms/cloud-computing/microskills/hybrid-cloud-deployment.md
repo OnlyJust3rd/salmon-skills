@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of combinations of public and private clouds.
+## Related Mediums
+
+![[bases/related-mediums.base]]

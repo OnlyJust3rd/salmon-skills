@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of general architectures of programmable logic devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

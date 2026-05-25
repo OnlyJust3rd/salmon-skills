@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the mathematical definition of the Fourier Transform.
+## Related Mediums
+
+![[bases/related-mediums.base]]

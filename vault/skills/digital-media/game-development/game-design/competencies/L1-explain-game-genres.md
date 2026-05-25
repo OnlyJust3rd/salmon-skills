@@ -43,3 +43,6 @@ Explain common computer game genres based on their core gameplay mechanics.
 - [[skills/digital-media/game-development/game-design/microskills/core-gameplay-mechanics|Core Gameplay Mechanics]]
 - [[skills/digital-media/game-development/game-design/microskills/genre-categorization-criteria|Genre Categorization Criteria]]
 - [[skills/digital-media/game-development/game-design/microskills/gameplay-driven-genre-classification|Gameplay-Driven Genre Classification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

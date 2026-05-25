@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-concepts|inheritance-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-concepts|inheritance-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Inheritance: Supertype and Subtype Relationships

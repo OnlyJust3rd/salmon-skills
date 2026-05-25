@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of underlying mathematical principles for Diffie-Hellman.
+## Related Mediums
+
+![[bases/related-mediums.base]]

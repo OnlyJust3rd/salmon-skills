@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/physical-design-verification-mitigation|physical-design-verification-mitigation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/physical-design-verification-mitigation|physical-design-verification-mitigation]]"
 learning-time-in-minutes: 6
 ---
 # Mitigating Physical Design Verification Issues in Digital Circuits

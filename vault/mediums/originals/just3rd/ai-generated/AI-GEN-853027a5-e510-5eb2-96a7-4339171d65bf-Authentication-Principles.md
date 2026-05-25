@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/authentication-principles|authentication-principles]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/authentication-principles|authentication-principles]]"
 learning-time-in-minutes: 4
 ---
 # Authentication: Proving You Are Who You Say You Are

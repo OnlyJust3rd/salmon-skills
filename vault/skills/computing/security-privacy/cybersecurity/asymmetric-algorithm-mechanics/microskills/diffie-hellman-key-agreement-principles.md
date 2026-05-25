@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of fundamental mathematical concepts for Diffie-Hellman.
+## Related Mediums
+
+![[bases/related-mediums.base]]

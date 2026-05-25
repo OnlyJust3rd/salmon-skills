@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in initiating simulations within Proteus 8.
+## Related Mediums
+
+![[bases/related-mediums.base]]

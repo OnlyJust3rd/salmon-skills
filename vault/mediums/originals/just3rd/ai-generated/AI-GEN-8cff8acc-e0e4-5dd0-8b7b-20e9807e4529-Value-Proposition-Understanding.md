@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/value-proposition-understanding|value-proposition-understanding]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/value-proposition-understanding|value-proposition-understanding]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Your Value Proposition

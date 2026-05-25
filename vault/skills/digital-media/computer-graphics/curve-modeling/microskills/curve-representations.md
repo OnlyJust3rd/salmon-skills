@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding different mathematical forms for representing curves.
+## Related Mediums
+
+![[bases/related-mediums.base]]

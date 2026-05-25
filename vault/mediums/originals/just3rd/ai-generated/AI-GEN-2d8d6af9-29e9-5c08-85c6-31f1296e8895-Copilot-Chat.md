@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/copilot-chat|copilot-chat]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/copilot-chat|copilot-chat]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Copilot Chat: Conversational Coding Assistance

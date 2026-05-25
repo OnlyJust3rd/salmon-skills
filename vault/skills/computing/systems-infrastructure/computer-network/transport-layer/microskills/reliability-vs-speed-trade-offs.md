@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Differentiating between connection-oriented and connectionless protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

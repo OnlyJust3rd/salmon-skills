@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/presentation-layer-functionality|presentation-layer-functionality]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/presentation-layer-functionality|presentation-layer-functionality]]"
 learning-time-in-minutes: 3
 ---
 # The Presentation Layer: Your Web Application's Face

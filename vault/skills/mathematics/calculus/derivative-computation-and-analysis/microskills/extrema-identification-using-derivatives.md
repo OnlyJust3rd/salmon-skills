@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of derivative tests to find local maxima and minima.
+## Related Mediums
+
+![[bases/related-mediums.base]]

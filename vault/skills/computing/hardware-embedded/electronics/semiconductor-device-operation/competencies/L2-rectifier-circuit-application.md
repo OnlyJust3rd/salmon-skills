@@ -47,3 +47,6 @@ Apply the diode's behavior to construct a simple rectifier circuit.
 
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/rectifier-circuit-construction|Rectifier Circuit Construction]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-behavior-application|Diode Behavior Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

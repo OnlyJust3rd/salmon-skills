@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how YAML manifests interact with the Kubernetes API.
+## Related Mediums
+
+![[bases/related-mediums.base]]

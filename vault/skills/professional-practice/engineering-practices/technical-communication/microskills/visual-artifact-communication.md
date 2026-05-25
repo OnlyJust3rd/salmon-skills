@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Presenting technical information through visual formats.
+## Related Mediums
+
+![[bases/related-mediums.base]]

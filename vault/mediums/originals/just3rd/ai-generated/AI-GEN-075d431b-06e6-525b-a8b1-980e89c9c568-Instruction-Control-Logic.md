@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-control-logic|instruction-control-logic]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-control-logic|instruction-control-logic]]"
 learning-time-in-minutes: 5
 ---
 # Instruction Control Logic Implementation

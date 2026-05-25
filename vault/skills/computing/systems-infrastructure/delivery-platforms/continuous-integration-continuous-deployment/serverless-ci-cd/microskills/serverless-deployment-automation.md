@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Knowledge of CI/CD specific to serverless applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

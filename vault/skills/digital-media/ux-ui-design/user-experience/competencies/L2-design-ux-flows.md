@@ -47,3 +47,6 @@ Design user experience flows to improve product usability.
 - [[interface-design|Interface Design]]
 - [[navigation-design|Navigation Design]]
 - [[task-flow-design|Task Flow Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

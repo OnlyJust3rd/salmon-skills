@@ -47,3 +47,6 @@ Explain cross-browser compatibility testing for web layout, JavaScript behavior,
 - [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/rendering-compatibility|Rendering Compatibility]]
 - [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/javascript-compatibility|JavaScript Compatibility]]
 - [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/compatibility-test-matrix|Compatibility Test Matrix]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Running practical SQL queries against PostgreSQL tables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

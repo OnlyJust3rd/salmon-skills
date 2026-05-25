@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the contiguous method of file allocation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

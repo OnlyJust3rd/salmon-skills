@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Breaking down the dynamic behavior of protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

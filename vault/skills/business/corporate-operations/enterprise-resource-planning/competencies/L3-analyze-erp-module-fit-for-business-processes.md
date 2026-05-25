@@ -45,3 +45,6 @@ Analyze ERP module fit for business processes.
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/fit-gap-analysis|Fit-Gap Analysis]]
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/process-configuration|Process Configuration]]
 - [[skills/business/corporate-operations/enterprise-resource-planning/microskills/module-boundary|Module Boundary]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

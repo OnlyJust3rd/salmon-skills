@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/policy-based-access|policy-based-access]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/policy-based-access|policy-based-access]]"
 learning-time-in-minutes: 4
 ---
 # Policy-Based Access Control

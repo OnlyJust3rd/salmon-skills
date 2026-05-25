@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Running simulations that include microcontrollers and their code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

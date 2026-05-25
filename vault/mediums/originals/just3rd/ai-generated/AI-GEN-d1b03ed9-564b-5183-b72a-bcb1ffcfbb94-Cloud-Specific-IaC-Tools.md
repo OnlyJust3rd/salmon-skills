@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/cloud-specific-iac-tools|cloud-specific-iac-tools]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/cloud-specific-iac-tools|cloud-specific-iac-tools]]"
 learning-time-in-minutes: 4
 ---
 # Cloud-Specific Infrastructure as Code Tools

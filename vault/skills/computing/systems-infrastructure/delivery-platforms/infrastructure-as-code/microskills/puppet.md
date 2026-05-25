@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of Puppet as an IaC tool.
+## Related Mediums
+
+![[bases/related-mediums.base]]

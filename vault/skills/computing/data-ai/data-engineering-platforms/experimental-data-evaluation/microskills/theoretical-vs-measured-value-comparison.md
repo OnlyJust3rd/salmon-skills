@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Quantifying differences between predicted and experimental results.
+## Related Mediums
+
+![[bases/related-mediums.base]]

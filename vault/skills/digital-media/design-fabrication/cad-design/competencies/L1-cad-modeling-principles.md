@@ -43,3 +43,6 @@ Explain the fundamental principles of 2D and 3D modeling within CAD software.
 - [[skills/digital-media/design-fabrication/cad-design/microskills/2d-sketching-principles|2D Sketching Principles]]
 - [[skills/digital-media/design-fabrication/cad-design/microskills/3d-solid-modeling-principles|3D Solid Modeling Principles]]
 - [[skills/digital-media/design-fabrication/cad-design/microskills/cad-terminology|CAD Terminology]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

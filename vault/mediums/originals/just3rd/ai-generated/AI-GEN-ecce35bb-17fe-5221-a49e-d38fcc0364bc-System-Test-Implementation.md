@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/system-test-implementation|system-test-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/system-test-implementation|system-test-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing System Tests with Automated Frameworks

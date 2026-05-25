@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[model-free-rl-principles|model-free-rl-principles]]"
+learning-outcomes:
+  - "[[model-free-rl-principles|model-free-rl-principles]]"
 learning-time-in-minutes: 5
 ---
 # Model-Free Reinforcement Learning Principles

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[hamiltonian-path-cycle-backtracking-java-implementation|hamiltonian-path-cycle-backtracking-java-implementation]]"
+learning-outcomes:
+  - "[[hamiltonian-path-cycle-backtracking-java-implementation|hamiltonian-path-cycle-backtracking-java-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Hamiltonian Path/Cycle Backtracking in Java

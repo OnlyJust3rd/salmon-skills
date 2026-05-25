@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain the typical applications of various data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

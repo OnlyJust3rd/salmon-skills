@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/simpson-s-rule-approximation|simpson-s-rule-approximation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/simpson-s-rule-approximation|simpson-s-rule-approximation]]"
 learning-time-in-minutes: 4
 ---
 # Simpson's Rule Approximation

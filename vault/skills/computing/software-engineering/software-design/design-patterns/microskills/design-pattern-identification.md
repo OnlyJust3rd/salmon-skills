@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing and listing common software design patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

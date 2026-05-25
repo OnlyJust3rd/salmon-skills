@@ -45,3 +45,6 @@ Identify the basic components of a relational database schema (e.g., tables, col
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/table-identification|Table Identification]]
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/column-identification|Column Identification]]
 - [[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/primary-key-identification|Primary Key Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

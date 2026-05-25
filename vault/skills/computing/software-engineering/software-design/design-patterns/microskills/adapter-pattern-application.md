@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying the Adapter pattern to bridge incompatible interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

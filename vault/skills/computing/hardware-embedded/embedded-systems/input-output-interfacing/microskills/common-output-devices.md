@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of typical output devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

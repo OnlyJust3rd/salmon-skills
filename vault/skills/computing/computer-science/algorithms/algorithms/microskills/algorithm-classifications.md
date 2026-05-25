@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Categorization of algorithms based on structure or purpose.
+## Related Mediums
+
+![[bases/related-mediums.base]]

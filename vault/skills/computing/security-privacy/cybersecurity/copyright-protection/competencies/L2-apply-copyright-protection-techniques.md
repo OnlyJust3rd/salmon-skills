@@ -53,3 +53,6 @@ Apply knowledge and criteria to identify and measure the performance of copyrigh
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/information-hiding-technique-application|Information Hiding Technique Application]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/watermarking-performance-measurement|Watermarking Performance Measurement]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-protection-scenario-application|Copyright Protection Scenario Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

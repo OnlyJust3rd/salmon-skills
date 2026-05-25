@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of level-shifting requirements when connecting TTL outputs to CMOS inputs and vice versa.
+## Related Mediums
+
+![[bases/related-mediums.base]]

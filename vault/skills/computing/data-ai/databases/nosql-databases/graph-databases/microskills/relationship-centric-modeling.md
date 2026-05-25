@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Designing graph structures around relationship-heavy use cases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

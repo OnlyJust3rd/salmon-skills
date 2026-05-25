@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-throughput-analysis|network-throughput-analysis]]"
+learning-outcomes:
+  - "[[network-throughput-analysis|network-throughput-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Network Throughput Analysis: Understanding Congestion Control's Effect

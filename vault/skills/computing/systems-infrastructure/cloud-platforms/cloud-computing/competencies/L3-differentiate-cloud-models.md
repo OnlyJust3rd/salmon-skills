@@ -51,3 +51,6 @@ Differentiate between cloud service models (IaaS, PaaS, SaaS, FaaS) and cloud de
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/public-cloud-deployment|Public Cloud Deployment]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/private-cloud-deployment|Private Cloud Deployment]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/hybrid-cloud-deployment|Hybrid Cloud Deployment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

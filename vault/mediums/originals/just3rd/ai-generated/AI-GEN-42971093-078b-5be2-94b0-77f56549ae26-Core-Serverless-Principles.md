@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/core-serverless-principles|core-serverless-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/core-serverless-principles|core-serverless-principles]]"
 learning-time-in-minutes: 4
 ---
 # Core Serverless Principles

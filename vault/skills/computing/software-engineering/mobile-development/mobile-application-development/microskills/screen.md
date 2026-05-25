@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding a primary user-facing view.
+## Related Mediums
+
+![[bases/related-mediums.base]]

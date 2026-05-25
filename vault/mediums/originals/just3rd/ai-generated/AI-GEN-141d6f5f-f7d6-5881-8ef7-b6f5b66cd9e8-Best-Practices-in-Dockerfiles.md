@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/best-practices-in-dockerfiles|best-practices-in-dockerfiles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/best-practices-in-dockerfiles|best-practices-in-dockerfiles]]"
 learning-time-in-minutes: 4
 ---
 # Dockerfile Best Practices for Efficiency and Security

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding MST algorithms (Prim/Kruskal) using a greedy approach in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

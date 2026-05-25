@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of systematic techniques for diagnosing hardware problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

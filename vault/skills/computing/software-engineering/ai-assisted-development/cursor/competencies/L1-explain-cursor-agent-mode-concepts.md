@@ -45,3 +45,6 @@ Explain Cursor agent mode concepts.
 - [[agent-mode|Agent Mode]]
 - [[ask-mode|Ask Mode]]
 - [[manual-mode|Manual Mode]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Describe how empathy influences the design of user experience workflows.
 - [[user-perspective-understanding|User Perspective Understanding]]
 - [[user-centered-design-principles|User Centered Design Principles]]
 - [[emotional-design-considerations|Emotional Design Considerations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

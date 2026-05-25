@@ -39,3 +39,6 @@ None.
 - [[skills/computing/data-ai/databases/nosql-databases/column-family-databases/microskills/column-family-data-model|Column-Family Data Model]]
 - [[skills/computing/data-ai/databases/nosql-databases/column-family-databases/microskills/partition-key-design|Partition Key Design]]
 - [[skills/computing/data-ai/databases/nosql-databases/column-family-databases/microskills/query-driven-denormalization|Query-Driven Denormalization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

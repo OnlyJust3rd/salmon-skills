@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/data-test|data-test]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/data-test|data-test]]"
 learning-time-in-minutes: 5
 ---
 # Data Tests: Assertions for Transformed Data Quality

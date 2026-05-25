@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of cryptographic implementation in SSL/TLS.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/fifo-algorithm-principles|fifo-algorithm-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/fifo-algorithm-principles|fifo-algorithm-principles]]"
 learning-time-in-minutes: 3
 ---
 # FIFO Algorithm Principles

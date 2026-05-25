@@ -48,3 +48,6 @@ Core C programming techniques essential for bare-metal embedded development, inc
 - [[volatile-qualifier-purpose|Volatile Qualifier Purpose]]
 - [[volatile-semantics|Volatile Semantics]]
 - [[volatile-variable-declaration|Volatile Variable Declaration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/data-driven-question-answering|data-driven-question-answering]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/microskills/data-driven-question-answering|data-driven-question-answering]]"
 learning-time-in-minutes: 2
 ---
 # Data-Driven Question Answering with Matplotlib

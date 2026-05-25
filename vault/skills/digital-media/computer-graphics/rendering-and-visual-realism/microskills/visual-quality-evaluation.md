@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of rendered graphics based on aesthetic standards.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[layer-types|layer-types]]"
+learning-outcomes:
+  - "[[layer-types|layer-types]]"
 learning-time-in-minutes: 3
 ---
 # Neural Network Layer Types

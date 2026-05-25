@@ -51,3 +51,6 @@ Analyze quadratic forms and determine definiteness properties, linking algebraic
 - [[positive-definite-classification|Positive definite classification]]
 - [[quadratic-form-definition|Quadratic form definition]]
 - [[symmetric-matrix-representation|Symmetric matrix representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

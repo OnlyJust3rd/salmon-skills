@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role of registers within the memory hierarchy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

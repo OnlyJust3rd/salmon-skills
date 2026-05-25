@@ -45,3 +45,6 @@ Explain event streaming and Kafka concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/topic|Topic]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/partition|Partition]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/offset|Offset]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

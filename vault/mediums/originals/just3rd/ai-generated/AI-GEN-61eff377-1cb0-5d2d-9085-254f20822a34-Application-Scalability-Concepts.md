@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-scalability-concepts|application-scalability-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-scalability-concepts|application-scalability-concepts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Application Scalability with Kubernetes Deployments

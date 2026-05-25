@@ -49,3 +49,6 @@ Explain the purpose of monitoring systems in HPC clusters.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|HPC Monitoring System Function]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/performance-observation-in-hpc|Performance Observation in HPC]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-cluster-health-monitoring|HPC Cluster Health Monitoring]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

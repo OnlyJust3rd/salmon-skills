@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying a chosen technique to quantify market size.
+## Related Mediums
+
+![[bases/related-mediums.base]]

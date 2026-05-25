@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining eigenvalues and their corresponding eigenvectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

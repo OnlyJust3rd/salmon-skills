@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/conceptual-link-mean-value-theorem-and-derivative|conceptual-link-mean-value-theorem-and-derivative]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/conceptual-link-mean-value-theorem-and-derivative|conceptual-link-mean-value-theorem-and-derivative]]"
 learning-time-in-minutes: 3
 ---
 # The Mean Value Theorem: Connecting Average and Instantaneous Change

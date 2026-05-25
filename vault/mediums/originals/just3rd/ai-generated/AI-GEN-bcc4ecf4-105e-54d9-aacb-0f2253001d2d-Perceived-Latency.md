@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/web-performance/microskills/perceived-latency|perceived-latency]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/web-performance/microskills/perceived-latency|perceived-latency]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Perceived Latency in Web Performance

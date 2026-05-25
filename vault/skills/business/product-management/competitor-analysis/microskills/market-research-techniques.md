@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Methods for gathering competitive intelligence.
+## Related Mediums
+
+![[bases/related-mediums.base]]

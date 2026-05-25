@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/frequent-software-release-benefits|frequent-software-release-benefits]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/frequent-software-release-benefits|frequent-software-release-benefits]]"
 learning-time-in-minutes: 4
 ---
 # The Power of Releasing Software Faster

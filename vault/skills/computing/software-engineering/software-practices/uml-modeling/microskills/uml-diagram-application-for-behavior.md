@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using UML to model dynamic system processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

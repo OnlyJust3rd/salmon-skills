@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/governance-and-policy-enforcement|governance-and-policy-enforcement]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/governance-and-policy-enforcement|governance-and-policy-enforcement]]"
 learning-time-in-minutes: 3
 ---
 # Tags: Your Cloud Compliance and Security Allies

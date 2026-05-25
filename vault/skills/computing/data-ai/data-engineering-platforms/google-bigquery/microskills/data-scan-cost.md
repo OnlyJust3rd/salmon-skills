@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding query cost tied to data processed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

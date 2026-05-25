@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/shared-memory-parallel-model|shared-memory-parallel-model]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/shared-memory-parallel-model|shared-memory-parallel-model]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Shared-Memory Parallel Model in OpenMP

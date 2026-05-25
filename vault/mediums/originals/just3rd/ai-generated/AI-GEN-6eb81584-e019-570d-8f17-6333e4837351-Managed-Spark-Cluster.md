@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/managed-spark-cluster|managed-spark-cluster]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/managed-spark-cluster|managed-spark-cluster]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Managed Spark Clusters in Databricks

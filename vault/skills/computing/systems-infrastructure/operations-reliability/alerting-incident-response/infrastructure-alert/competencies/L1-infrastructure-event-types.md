@@ -51,3 +51,6 @@ List common types of infrastructure events that can trigger alerts.
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/network-latency-alerts|Network Latency Alerts]]
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/application-error-rate-alerts|Application Error Rate Alerts]]
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/service-unavailability-alerts|Service Unavailability Alerts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

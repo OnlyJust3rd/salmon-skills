@@ -45,3 +45,6 @@ Describe and explain the concept of parametric representation for curves and the
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/parametric-curve-definition|Parametric Curve Definition]]
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/bezier-curve-principles|Bézier Curve Principles]]
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/smooth-curve-modeling|Smooth Curve Modeling]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

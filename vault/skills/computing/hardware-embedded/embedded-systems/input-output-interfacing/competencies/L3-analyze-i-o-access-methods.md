@@ -45,3 +45,6 @@ Analyze different methods for accessing input and output devices, distinguishing
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/polling-method-analysis|Polling Method Analysis]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/interrupt-driven-approach-analysis|Interrupt-Driven Approach Analysis]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/i-o-device-access-method-comparison|I/O Device Access Method Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of cache memory's function and principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

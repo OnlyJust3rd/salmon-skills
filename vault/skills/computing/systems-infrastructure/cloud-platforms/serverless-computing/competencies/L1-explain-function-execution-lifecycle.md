@@ -51,3 +51,6 @@ Explain the function execution lifecycle of serverless functions, including conc
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/warm-start|Warm Start]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/function-execution-duration|Function Execution Duration]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/function-termination|Function Termination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

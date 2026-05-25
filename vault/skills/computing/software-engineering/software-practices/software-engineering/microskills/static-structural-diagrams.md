@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Documentation of Class and Component diagrams.
+## Related Mediums
+
+![[bases/related-mediums.base]]

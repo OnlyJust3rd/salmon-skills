@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/peak-signal-to-noise-ratio-psnr|peak-signal-to-noise-ratio-psnr]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/peak-signal-to-noise-ratio-psnr|peak-signal-to-noise-ratio-psnr]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Peak Signal-to-Noise Ratio (PSNR) for Watermarking

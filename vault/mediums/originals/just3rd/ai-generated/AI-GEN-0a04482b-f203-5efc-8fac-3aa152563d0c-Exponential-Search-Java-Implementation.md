@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[exponential-search-java-implementation|exponential-search-java-implementation]]"
+learning-outcomes:
+  - "[[exponential-search-java-implementation|exponential-search-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Exponential Search in Java

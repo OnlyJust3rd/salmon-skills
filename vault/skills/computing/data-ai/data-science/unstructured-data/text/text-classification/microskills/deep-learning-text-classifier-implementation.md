@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of a deep learning model (e.g., CNN, RNN) for text classification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

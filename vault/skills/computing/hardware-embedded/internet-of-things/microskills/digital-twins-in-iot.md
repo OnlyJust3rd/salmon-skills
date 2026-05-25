@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of Digital Twins and their application in IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

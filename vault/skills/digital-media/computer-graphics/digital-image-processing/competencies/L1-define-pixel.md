@@ -41,3 +41,6 @@ Define the term 'pixel' and its role in digital image representation.
 
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/pixel-definition|Pixel Definition]]
 - [[skills/digital-media/computer-graphics/digital-image-processing/microskills/pixel-role-in-image-representation|Pixel Role in Image Representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

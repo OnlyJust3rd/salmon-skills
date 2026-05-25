@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/implications-of-multivariable-continuity|implications-of-multivariable-continuity]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/implications-of-multivariable-continuity|implications-of-multivariable-continuity]]"
 learning-time-in-minutes: 5
 ---
 # Implications of Multivariable Continuity

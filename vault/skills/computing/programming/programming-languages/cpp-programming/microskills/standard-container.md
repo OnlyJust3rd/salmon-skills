@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using common data structures from the standard library.
+## Related Mediums
+
+![[bases/related-mediums.base]]

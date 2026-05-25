@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation-principles|imperative-automation-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation-principles|imperative-automation-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Imperative Automation: The "How-To" Approach

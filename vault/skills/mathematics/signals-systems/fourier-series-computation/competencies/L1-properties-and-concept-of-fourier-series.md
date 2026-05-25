@@ -41,3 +41,6 @@ Explain the properties of periodic functions and the concept of their Fourier se
 
 - [[periodic-function-properties|Periodic function properties]]
 - [[fourier-series-representation-concept|Fourier series representation concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

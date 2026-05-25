@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[mobile-robot-navigation-strategy-explanation|mobile-robot-navigation-strategy-explanation]]"
+learning-outcomes:
+  - "[[mobile-robot-navigation-strategy-explanation|mobile-robot-navigation-strategy-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Mobile Robot Navigation Strategies

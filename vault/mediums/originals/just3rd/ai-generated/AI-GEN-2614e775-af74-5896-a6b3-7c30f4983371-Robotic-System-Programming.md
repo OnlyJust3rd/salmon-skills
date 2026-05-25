@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[robotic-system-programming|robotic-system-programming]]"
+learning-outcomes:
+  - "[[robotic-system-programming|robotic-system-programming]]"
 learning-time-in-minutes: 3
 ---
 # Robotic System Programming: Directing Your Robot's Actions

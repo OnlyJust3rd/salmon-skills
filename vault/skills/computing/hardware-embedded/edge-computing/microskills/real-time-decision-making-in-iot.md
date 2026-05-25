@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enabling decision-making closer to the data source.
+## Related Mediums
+
+![[bases/related-mediums.base]]

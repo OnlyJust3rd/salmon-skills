@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the operation of JPEG lossless mode.
+## Related Mediums
+
+![[bases/related-mediums.base]]

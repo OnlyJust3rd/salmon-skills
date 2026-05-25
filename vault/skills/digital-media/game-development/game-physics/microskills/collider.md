@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding geometric bounds for physics interactions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

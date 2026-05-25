@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/noise-reduction-techniques|noise-reduction-techniques]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/noise-reduction-techniques|noise-reduction-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Applying Noise Reduction Techniques in Digital Circuits

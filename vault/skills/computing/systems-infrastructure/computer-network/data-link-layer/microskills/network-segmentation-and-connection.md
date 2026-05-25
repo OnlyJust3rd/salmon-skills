@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Principles of joining smaller networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

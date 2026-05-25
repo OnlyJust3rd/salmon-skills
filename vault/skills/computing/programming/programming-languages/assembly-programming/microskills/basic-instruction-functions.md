@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the immediate purposes of assembly instructions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

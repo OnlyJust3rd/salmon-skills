@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the rationale behind memory management approaches in OS design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

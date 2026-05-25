@@ -43,3 +43,6 @@ Differentiate between the types of insights gained from applying classification 
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/classification-insights-in-iot|Classification Insights in IoT]]
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/clustering-insights-in-iot|Clustering Insights in IoT]]
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/iot-data-analysis-comparison|IoT Data Analysis Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

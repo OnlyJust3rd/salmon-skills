@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining system causality from pole-zero plots.
+## Related Mediums
+
+![[bases/related-mediums.base]]

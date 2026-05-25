@@ -45,3 +45,6 @@ Use the defining characteristics to categorize given cryptographic algorithms as
 
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/algorithm-classification|Algorithm Classification]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-vs-asymmetric-application|Symmetric vs. Asymmetric Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

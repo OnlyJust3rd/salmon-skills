@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-generation|text-generation]]"
+learning-outcomes:
+  - "[[text-generation|text-generation]]"
 learning-time-in-minutes: 4
 ---
 # Text Generation: Understanding Probabilistic Continuation

@@ -47,3 +47,6 @@ Describe the serverless execution model and its benefits, including how it diffe
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/pay-per-execution|Pay-per-Execution]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/reduced-operational-overhead|Reduced Operational Overhead]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/faster-development-cycles|Faster Development Cycles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

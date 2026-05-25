@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Tailoring marketing to different lifecycle segments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

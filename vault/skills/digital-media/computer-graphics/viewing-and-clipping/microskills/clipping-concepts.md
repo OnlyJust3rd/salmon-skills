@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles and necessity of clipping.
+## Related Mediums
+
+![[bases/related-mediums.base]]

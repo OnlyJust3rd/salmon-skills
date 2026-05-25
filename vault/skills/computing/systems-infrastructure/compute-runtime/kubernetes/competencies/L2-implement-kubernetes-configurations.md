@@ -59,3 +59,6 @@ Implement Kubernetes configurations for Pods, Deployments, StatefulSets, Jobs, C
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/resource-requests-and-limits|Resource Requests and Limits]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/rbac-configuration|RBAC Configuration]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-namespace-management|Kubernetes Namespace Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

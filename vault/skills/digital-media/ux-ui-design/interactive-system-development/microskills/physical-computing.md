@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building functional prototypes using Arduino toolkits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

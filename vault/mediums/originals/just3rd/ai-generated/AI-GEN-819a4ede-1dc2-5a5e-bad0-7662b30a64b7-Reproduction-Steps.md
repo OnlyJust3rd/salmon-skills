@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technical-troubleshooting/microskills/reproduction-steps|reproduction-steps]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technical-troubleshooting/microskills/reproduction-steps|reproduction-steps]]"
 learning-time-in-minutes: 4
 ---
 # Reproducing Technical Issues: The First Step to Resolution

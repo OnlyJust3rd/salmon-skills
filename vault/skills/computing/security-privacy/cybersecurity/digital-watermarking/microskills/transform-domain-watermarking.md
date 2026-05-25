@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding watermarking techniques applied in transformed image domains (e.g., frequency domain).
+## Related Mediums
+
+![[bases/related-mediums.base]]

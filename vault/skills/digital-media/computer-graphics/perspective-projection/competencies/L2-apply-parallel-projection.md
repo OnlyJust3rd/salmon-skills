@@ -43,3 +43,6 @@ Apply parallel projection techniques to represent a simple 3D object in 2D.
 
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/parallel-projection-application|Parallel Projection Application]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/2d-representation-of-3d-objects|2D Representation of 3D Objects]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Checking generated changes against tests and standards.
+## Related Mediums
+
+![[bases/related-mediums.base]]

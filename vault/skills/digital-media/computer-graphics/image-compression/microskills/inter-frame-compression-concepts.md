@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding compression between frames.
+## Related Mediums
+
+![[bases/related-mediums.base]]

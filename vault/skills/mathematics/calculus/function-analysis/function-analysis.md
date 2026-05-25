@@ -40,3 +40,6 @@ Analyze properties of single and multivariable functions, including domain, rang
 - [[multivariable-function-continuity-conditions|Multivariable function continuity conditions]]
 - [[multivariable-function-limit-definition|Multivariable function limit definition]]
 - [[single-variable-function-domain-and-range|Single-variable function domain and range]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing GP techniques to create and refine robotic control systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

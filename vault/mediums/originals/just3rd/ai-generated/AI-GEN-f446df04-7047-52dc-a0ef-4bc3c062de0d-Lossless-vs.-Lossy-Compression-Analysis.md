@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/lossless-vs-lossy-compression-analysis|lossless-vs-lossy-compression-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/lossless-vs-lossy-compression-analysis|lossless-vs-lossy-compression-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Lossless vs. Lossy Compression: Analyzing Huffman vs. DPCM

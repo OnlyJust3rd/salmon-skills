@@ -42,3 +42,6 @@ Describe the purpose, scope, and application of the Sustainable Development Goal
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-purpose|Sustainable Development Goals Purpose]]
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-scope|Sustainable Development Goals Scope]]
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-core-principles|Sustainable Development Goals Core Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

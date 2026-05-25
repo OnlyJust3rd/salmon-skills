@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/coverage-of-edge-cases|coverage-of-edge-cases]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/coverage-of-edge-cases|coverage-of-edge-cases]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Edge Cases in Test Case Identification

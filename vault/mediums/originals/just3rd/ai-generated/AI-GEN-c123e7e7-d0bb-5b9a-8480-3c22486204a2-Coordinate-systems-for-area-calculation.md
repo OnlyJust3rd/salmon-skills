@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/coordinate-systems-for-area-calculation|coordinate-systems-for-area-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/coordinate-systems-for-area-calculation|coordinate-systems-for-area-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Coordinate Systems for Area Calculation: Understanding the 'Why'

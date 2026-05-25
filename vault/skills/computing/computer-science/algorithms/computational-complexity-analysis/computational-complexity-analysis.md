@@ -59,3 +59,6 @@ Understanding the theoretical limits of computation, including the concepts of P
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/time-complexity-analysis|Time Complexity Analysis]]
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/time-complexity-basics|Time Complexity Basics]]
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/trade-off-reasoning|Trade-off Reasoning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing executable code that demonstrates algorithmic functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

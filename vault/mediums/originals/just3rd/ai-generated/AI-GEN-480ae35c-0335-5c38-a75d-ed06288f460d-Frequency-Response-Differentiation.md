@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/frequency-response-differentiation|frequency-response-differentiation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/frequency-response-differentiation|frequency-response-differentiation]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Filter Frequency Responses

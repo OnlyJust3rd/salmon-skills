@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of the Fundamental Theorem of Calculus to compute definite integrals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

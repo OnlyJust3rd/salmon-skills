@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/schema-construction|schema-construction]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/schema-construction|schema-construction]]"
 learning-time-in-minutes: 4
 ---
 # Schema Construction: Building Your Database Foundation

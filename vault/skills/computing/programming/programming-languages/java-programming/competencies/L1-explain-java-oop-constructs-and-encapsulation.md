@@ -49,3 +49,6 @@ Explain the purpose and functionality of Java classes, objects, constructors, ac
 - [[skills/computing/programming/programming-languages/java-programming/microskills/java-constructors-role|Java Constructors Role]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/java-access-modifiers|Java Access Modifiers]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/encapsulation-for-data-hiding|Encapsulation for Data Hiding]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

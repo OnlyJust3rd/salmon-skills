@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating the null space of a matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

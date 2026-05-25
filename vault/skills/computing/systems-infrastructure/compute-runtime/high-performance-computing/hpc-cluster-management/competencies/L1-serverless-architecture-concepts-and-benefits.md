@@ -47,3 +47,6 @@ Explain the basic ideas, applications, and benefits of serverless architecture i
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-application-explanation|Serverless Application Explanation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-benefits|Serverless Architecture Benefits]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-scenarios|Real-World Serverless Scenarios]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

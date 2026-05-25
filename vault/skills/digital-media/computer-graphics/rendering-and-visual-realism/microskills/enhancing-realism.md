@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how shading contributes to visual realism in 3D graphics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

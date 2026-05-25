@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/feasibility-analysis/microskills/break-even-point-calculation|break-even-point-calculation]]"
+learning-outcomes:
+  - "[[skills/business/product-management/feasibility-analysis/microskills/break-even-point-calculation|break-even-point-calculation]]"
 learning-time-in-minutes: 5
 ---
 # Calculating the Break-Even Point

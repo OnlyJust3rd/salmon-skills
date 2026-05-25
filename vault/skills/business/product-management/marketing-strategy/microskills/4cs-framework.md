@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the customer-centric marketing mix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

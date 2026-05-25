@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the resulting spectrum to identify image features.
+## Related Mediums
+
+![[bases/related-mediums.base]]

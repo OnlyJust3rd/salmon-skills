@@ -51,3 +51,6 @@ Apply mathematical tests to determine if a given system exhibits static/dynamic,
 - [[invertibility-system-verification|Invertibility System Verification]]
 - [[linearity-system-verification|Linearity System Verification]]
 - [[time-invariance-system-verification|Time-Invariance System Verification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

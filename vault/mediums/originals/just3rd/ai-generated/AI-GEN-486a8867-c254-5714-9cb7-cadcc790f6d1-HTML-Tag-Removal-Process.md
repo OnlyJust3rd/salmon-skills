@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[html-tag-removal-process|html-tag-removal-process]]"
+learning-outcomes:
+  - "[[html-tag-removal-process|html-tag-removal-process]]"
 learning-time-in-minutes: 3
 ---
 # Removing HTML Tags from Text

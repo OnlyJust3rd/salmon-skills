@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Main goal of selective encryption: balancing computation reduction and security.
+## Related Mediums
+
+![[bases/related-mediums.base]]

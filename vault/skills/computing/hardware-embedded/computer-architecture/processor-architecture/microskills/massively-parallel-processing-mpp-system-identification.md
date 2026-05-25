@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of MPP systems in practical computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

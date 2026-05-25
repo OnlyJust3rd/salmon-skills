@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/space-complexity-basics|space-complexity-basics]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/space-complexity-basics|space-complexity-basics]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Space Complexity: How Much Memory Does Your Program Use?

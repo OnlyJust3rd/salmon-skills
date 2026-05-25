@@ -47,3 +47,6 @@ Explain the concept of unsupervised clustering and the use of distance metrics f
 - [[euclidean-distance-definition|Euclidean Distance Definition]]
 - [[cosine-similarity-definition|Cosine Similarity Definition]]
 - [[clustering-text-data-concepts|Clustering Text Data Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of algorithms to identify image boundaries.
+## Related Mediums
+
+![[bases/related-mediums.base]]

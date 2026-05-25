@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[unsupervised-clustering-principles|unsupervised-clustering-principles]]"
+learning-outcomes:
+  - "[[unsupervised-clustering-principles|unsupervised-clustering-principles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Unsupervised Clustering Principles

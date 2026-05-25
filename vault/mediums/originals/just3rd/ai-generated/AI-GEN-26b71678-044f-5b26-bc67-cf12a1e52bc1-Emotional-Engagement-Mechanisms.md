@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/emotional-engagement-mechanisms|emotional-engagement-mechanisms]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/emotional-engagement-mechanisms|emotional-engagement-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Emotional Engagement Mechanisms in Game Storytelling

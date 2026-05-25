@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/project-management/microskills/task-definition|task-definition]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/project-management/microskills/task-definition|task-definition]]"
 learning-time-in-minutes: 5
 ---
 # Task Definition: Breaking Down Your Project

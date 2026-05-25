@@ -43,3 +43,6 @@ Explain the principles and characteristics of brain-inspired computing systems a
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/brain-inspired-computing-principles|Brain-Inspired Computing Principles]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/neuromorphic-architecture-characteristics|Neuromorphic Architecture Characteristics]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/principles-of-neuromorphic-design|Principles of Neuromorphic Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

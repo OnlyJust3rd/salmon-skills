@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of key distinctions between parallel and perspective projection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

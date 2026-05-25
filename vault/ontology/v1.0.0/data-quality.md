@@ -75,7 +75,10 @@ title: ""
 tags:
   - medium
 contributor: "[[contributors/<contributor-slug>|<contributor-slug>]]"
-outcome: "[[skills/<taxonomy-path>/<skill-name>/microskills/<microskill-slug>|<microskill-slug>]]"
+learning-outcomes:
+  - "[[skills/<taxonomy-path>/<skill-name>/microskills/<microskill-slug>|<microskill-slug>]]"
+related-skills:
+  - "[[skills/<taxonomy-path>/<skill-name>/<skill-name>|<skill-name>]]"
 learning-time-in-minutes: 1
 ```
 

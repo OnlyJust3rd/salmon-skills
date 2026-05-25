@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of common hardware interfaces for communication within embedded IoT systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

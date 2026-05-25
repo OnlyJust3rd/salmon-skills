@@ -38,3 +38,6 @@ Analyze and optimize game difficulty and progression to maintain player engageme
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/flow-theory-application|Flow Theory Application]]
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-definition|Player Immersion Definition]]
 - [[skills/digital-media/game-development/game-flow-and-difficulty-balancing/microskills/player-immersion-maintenance|Player Immersion Maintenance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

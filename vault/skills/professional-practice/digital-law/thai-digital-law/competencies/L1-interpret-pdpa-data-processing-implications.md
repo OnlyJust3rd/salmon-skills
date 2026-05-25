@@ -45,3 +45,6 @@ Interpret the implications of the Personal Data Protection Act (PDPA) for data p
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/personal-data-definition|Personal Data Definition]]
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/data-processing-scope|Data Processing Scope]]
 - [[skills/professional-practice/digital-law/thai-digital-law/microskills/pdpa-relevance-in-thailand|PDPA Relevance in Thailand]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

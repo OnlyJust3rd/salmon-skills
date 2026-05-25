@@ -45,3 +45,6 @@ Create interactive interface prototypes in Figma.
 - [[interactive-frame|Interactive Frame]]
 - [[component-variant|Component Variant]]
 - [[design-comment|Design Comment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

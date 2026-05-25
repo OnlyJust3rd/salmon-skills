@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Importance of monitoring for maintaining the operational health of HPC clusters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

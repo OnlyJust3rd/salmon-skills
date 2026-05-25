@@ -45,3 +45,6 @@ Differentiate between the operational characteristics of various AVR microcontro
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/uart-communication-features|UART Communication Features]]
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/adc-resolution-and-speed|ADC Resolution and Speed]]
 - [[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/peripheral-suitability-assessment|Peripheral Suitability Assessment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

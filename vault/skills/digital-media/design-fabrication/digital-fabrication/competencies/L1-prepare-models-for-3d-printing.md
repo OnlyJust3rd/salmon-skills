@@ -43,3 +43,6 @@ Describe the process and requirements for preparing CAD models for 3D printing.
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/cad-model-export-procedures|CAD Model Export Procedures]]
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/3d-printing-file-configuration|3D Printing File Configuration]]
 - [[skills/digital-media/design-fabrication/digital-fabrication/microskills/3d-printing-preparation-requirements|3D Printing Preparation Requirements]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

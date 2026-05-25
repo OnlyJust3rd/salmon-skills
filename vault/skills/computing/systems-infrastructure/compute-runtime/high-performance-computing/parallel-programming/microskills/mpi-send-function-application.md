@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of MPI_Send for initiating data transmission between processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

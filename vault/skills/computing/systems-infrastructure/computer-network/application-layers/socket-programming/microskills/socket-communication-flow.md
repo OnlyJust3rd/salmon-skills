@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the process of data exchange between sockets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

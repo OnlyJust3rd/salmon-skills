@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/instantaneous-rate-of-change-interpretation|instantaneous-rate-of-change-interpretation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/instantaneous-rate-of-change-interpretation|instantaneous-rate-of-change-interpretation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Mean Value Theorem's Connection to Instantaneous Rate of Change

@@ -47,3 +47,6 @@ Differentiate the characteristics and functionalities of access control, use con
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/digital-watermarking-characteristics|Digital Watermarking Characteristics]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/copyright-protection-solution-functionalities|Copyright Protection Solution Functionalities]]
 - [[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/distinctions-between-copyright-solutions|Distinctions between Copyright Solutions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

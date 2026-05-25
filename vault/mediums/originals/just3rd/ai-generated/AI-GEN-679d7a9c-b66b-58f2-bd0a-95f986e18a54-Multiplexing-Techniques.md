@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[multiplexing-techniques|multiplexing-techniques]]"
+learning-outcomes:
+  - "[[multiplexing-techniques|multiplexing-techniques]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Multiplexing Techniques

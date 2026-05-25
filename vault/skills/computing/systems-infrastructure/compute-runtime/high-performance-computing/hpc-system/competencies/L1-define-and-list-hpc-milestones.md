@@ -43,3 +43,6 @@ Define and list key historical milestones in the development of High-Performance
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/historical-hpc-milestones|Historical HPC Milestones]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/hpc-definition-recall|HPC Definition Recall]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/evolutionary-stages-of-hpc|Evolutionary Stages of HPC]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

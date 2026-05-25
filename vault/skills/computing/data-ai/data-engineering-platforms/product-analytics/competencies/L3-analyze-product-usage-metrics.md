@@ -45,3 +45,6 @@ Analyze product usage metrics.
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/funnel-drop-off|Funnel Drop-off]]
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/retention-pattern|Retention Pattern]]
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/experiment-result|Experiment Result]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

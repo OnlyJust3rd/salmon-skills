@@ -45,3 +45,6 @@ Contrast declarative and imperative automation approaches.
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/imperative-automation-principles|Imperative Automation Principles]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/automation-approach-comparison|Automation Approach Comparison]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-automation-approaches|Use Cases for Automation Approaches]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

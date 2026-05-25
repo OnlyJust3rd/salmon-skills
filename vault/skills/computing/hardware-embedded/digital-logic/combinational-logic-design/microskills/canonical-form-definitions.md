@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall the definitions of SOP and POS canonical forms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

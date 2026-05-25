@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/noise-immunity-comparison|noise-immunity-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/noise-immunity-comparison|noise-immunity-comparison]]"
 learning-time-in-minutes: 6
 ---
 # Evaluating Noise Immunity of Communication Protocols

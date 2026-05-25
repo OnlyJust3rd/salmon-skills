@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deconstruction of the order and flow of machine instructions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

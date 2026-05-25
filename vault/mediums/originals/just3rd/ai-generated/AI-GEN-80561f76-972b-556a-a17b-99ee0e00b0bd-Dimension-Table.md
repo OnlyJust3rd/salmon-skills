@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/dimension-table|dimension-table]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/dimension-table|dimension-table]]"
 learning-time-in-minutes: 3
 ---
 # Dimension Tables in Data Warehousing

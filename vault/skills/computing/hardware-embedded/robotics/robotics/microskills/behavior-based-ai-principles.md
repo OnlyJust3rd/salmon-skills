@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the core tenets of behavior-based artificial intelligence.
+## Related Mediums
+
+![[bases/related-mediums.base]]

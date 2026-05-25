@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying trends within sequential IoT data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

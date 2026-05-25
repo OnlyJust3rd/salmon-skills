@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fog-computing-ai-tasks|fog-computing-ai-tasks]]"
+learning-outcomes:
+  - "[[fog-computing-ai-tasks|fog-computing-ai-tasks]]"
 learning-time-in-minutes: 4
 ---
 # Executing AI Tasks on Fog Nodes

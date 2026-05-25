@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using UML to model system deployment and hardware.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting and communicating with devices using SPI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

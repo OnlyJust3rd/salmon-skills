@@ -30,3 +30,6 @@ List and explain ten key attributes employers expect from their employees, inclu
 - [[skills/business/career-workplace/employer-expectations/microskills/attribute-definitions|Attribute Definitions]]
 - [[skills/business/career-workplace/employer-expectations/microskills/employer-attribute-significance|Employer Attribute Significance]]
 - [[skills/business/career-workplace/employer-expectations/microskills/essential-employee-attributes|Essential Employee Attributes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/continuous-time-convolution-definition-recall|continuous-time-convolution-definition-recall]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/lti-system-analysis/microskills/continuous-time-convolution-definition-recall|continuous-time-convolution-definition-recall]]"
 learning-time-in-minutes: 4
 ---
 # Continuous-Time Convolution: The Definition

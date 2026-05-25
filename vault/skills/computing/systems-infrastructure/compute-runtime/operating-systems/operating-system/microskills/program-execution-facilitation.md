@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the OS role in enabling program execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

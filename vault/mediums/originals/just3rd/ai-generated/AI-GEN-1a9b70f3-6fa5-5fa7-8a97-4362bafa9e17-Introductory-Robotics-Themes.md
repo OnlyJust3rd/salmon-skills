@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[introductory-robotics-themes|introductory-robotics-themes]]"
+learning-outcomes:
+  - "[[introductory-robotics-themes|introductory-robotics-themes]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Introductory Robotics Themes

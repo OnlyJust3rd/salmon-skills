@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reviewing and integrating model-generated changes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

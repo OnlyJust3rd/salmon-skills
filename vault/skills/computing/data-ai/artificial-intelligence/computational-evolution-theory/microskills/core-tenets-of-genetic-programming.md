@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the fundamental principles that guide genetic programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

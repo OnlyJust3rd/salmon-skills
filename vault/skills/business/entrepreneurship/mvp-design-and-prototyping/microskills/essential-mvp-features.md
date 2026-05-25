@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Key attributes derived from validated problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attack-mechanisms|removal-attack-mechanisms]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/removal-attack-mechanisms|removal-attack-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Watermark Removal Attacks

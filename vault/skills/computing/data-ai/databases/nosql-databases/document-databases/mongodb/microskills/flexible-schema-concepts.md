@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how MongoDB schemas differ from fixed relational schemas.
+## Related Mediums
+
+![[bases/related-mediums.base]]

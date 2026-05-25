@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the efficiency of CPU scheduling algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

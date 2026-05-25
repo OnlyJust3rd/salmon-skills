@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-tool-impact|static-analysis-tool-impact]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-tool-impact|static-analysis-tool-impact]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Impact of Static Analysis Tools

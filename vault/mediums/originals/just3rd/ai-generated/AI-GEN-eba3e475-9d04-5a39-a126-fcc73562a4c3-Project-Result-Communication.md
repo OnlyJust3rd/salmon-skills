@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/technical-communication/microskills/project-result-communication|project-result-communication]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/project-result-communication|project-result-communication]]"
 learning-time-in-minutes: 5
 ---
 # Communicating Project Results: The Essentials

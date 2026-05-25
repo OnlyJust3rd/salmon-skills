@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Checking endpoint settings against expected baselines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

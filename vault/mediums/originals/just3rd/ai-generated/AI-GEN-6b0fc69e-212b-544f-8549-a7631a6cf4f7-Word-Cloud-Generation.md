@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[word-cloud-generation|word-cloud-generation]]"
+learning-outcomes:
+  - "[[word-cloud-generation|word-cloud-generation]]"
 learning-time-in-minutes: 4
 ---
 # Generating Word Clouds for Text Visualization

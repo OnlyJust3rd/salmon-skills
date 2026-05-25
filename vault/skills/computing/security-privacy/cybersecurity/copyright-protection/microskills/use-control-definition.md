@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of use control for copyright protection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

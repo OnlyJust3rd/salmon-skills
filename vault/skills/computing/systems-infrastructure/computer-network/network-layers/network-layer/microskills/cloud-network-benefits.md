@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Advantages of using VPCs for cloud infrastructure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

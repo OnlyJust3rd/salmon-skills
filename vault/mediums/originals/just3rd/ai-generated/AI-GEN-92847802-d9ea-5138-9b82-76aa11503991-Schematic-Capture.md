@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/schematic-capture|schematic-capture]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/schematic-capture|schematic-capture]]"
 learning-time-in-minutes: 4
 ---
 # Schematic Capture: The Blueprint of Your PCB Design

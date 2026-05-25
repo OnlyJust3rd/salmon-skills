@@ -45,3 +45,6 @@ Apply Databricks notebook and lakehouse workflow concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/notebook-workflow|Notebook Workflow]]
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/lakehouse-table|Lakehouse Table]]
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/scheduled-job|Scheduled Job]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying structured approaches to assess system effectiveness, efficiency, and satisfaction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

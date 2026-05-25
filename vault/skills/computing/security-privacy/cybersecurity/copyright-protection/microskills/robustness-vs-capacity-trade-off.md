@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the relationship between robustness and capacity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

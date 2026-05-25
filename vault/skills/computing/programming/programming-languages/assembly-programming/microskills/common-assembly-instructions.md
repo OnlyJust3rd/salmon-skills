@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of frequently used assembly language instructions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/importance-of-memory-virtualization|importance-of-memory-virtualization]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/importance-of-memory-virtualization|importance-of-memory-virtualization]]"
 learning-time-in-minutes: 4
 ---
 # The Crucial Role of Memory Virtualization

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain labels, inputs, and submission affordances.
+## Related Mediums
+
+![[bases/related-mediums.base]]

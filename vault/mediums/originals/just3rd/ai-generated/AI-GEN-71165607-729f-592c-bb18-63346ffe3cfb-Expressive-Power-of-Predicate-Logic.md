@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/expressive-power-of-predicate-logic|expressive-power-of-predicate-logic]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/expressive-power-of-predicate-logic|expressive-power-of-predicate-logic]]"
 learning-time-in-minutes: 5
 ---
 # The Expansive Reach of Predicate Logic

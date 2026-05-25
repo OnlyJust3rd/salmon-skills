@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Setting up simulation initial conditions and analysis types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

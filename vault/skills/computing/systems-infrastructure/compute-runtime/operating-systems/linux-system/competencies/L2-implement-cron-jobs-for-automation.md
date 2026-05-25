@@ -45,3 +45,6 @@ Implement scheduled cron jobs to automate system tasks.
 - [[cron-job-syntax|Cron Job Syntax]]
 - [[automated-task-implementation|Automated Task Implementation]]
 - [[scheduled-command-execution|Scheduled Command Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

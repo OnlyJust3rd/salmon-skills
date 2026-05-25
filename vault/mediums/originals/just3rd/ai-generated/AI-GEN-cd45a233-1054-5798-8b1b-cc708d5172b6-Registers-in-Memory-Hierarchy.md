@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/registers-in-memory-hierarchy|registers-in-memory-hierarchy]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/registers-in-memory-hierarchy|registers-in-memory-hierarchy]]"
 learning-time-in-minutes: 5
 ---
 # Registers: The Memory Hierarchy's Speedy Frontline

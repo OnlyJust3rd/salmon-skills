@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/integration-by-parts-setup|integration-by-parts-setup]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/integration-by-parts-setup|integration-by-parts-setup]]"
 learning-time-in-minutes: 4
 ---
 # Choosing u and dv for Integration by Parts

@@ -48,3 +48,6 @@ Explain the purpose, key components, and general content of employment contracts
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/non-competition-clause-purpose|Non-Competition Clause Purpose]]
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/contract-key-components|Contract Key Components]]
 - [[skills/business/legal-finance-governance/contractual-agreements/microskills/contract-general-content|Contract General Content]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

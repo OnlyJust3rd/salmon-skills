@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/volatile-vs-non-volatile-storage|volatile-vs-non-volatile-storage]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/volatile-vs-non-volatile-storage|volatile-vs-non-volatile-storage]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Volatile vs. Non-Volatile Storage

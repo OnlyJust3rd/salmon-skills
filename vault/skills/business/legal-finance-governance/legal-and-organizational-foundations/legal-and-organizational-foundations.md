@@ -63,3 +63,6 @@ Analyze legal, regulatory, and organizational factors affecting startup developm
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/startup-legal-considerations|Startup Legal Considerations]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/team-dynamics|Team Dynamics]]
 - [[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/team-performance-improvement|Team Performance Improvement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

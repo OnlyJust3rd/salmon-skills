@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/review-finding|review-finding]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/review-finding|review-finding]]"
 learning-time-in-minutes: 4
 ---
 # Understanding AI Review Findings

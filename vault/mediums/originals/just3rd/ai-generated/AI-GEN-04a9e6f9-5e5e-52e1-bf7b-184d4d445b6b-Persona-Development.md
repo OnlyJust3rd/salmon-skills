@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[persona-development|persona-development]]"
+learning-outcomes:
+  - "[[persona-development|persona-development]]"
 learning-time-in-minutes: 5
 ---
 # Persona Development: Bringing Your Users to Life

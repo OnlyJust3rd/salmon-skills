@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the objective of non-competition clauses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

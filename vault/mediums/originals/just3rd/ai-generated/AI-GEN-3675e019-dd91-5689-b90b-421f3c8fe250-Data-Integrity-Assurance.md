@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-integrity-assurance|data-integrity-assurance]]"
+learning-outcomes:
+  - "[[data-integrity-assurance|data-integrity-assurance]]"
 learning-time-in-minutes: 4
 ---
 # Data Integrity Assurance at the Link Layer

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-segmentation-with-vlans|network-segmentation-with-vlans]]"
+learning-outcomes:
+  - "[[network-segmentation-with-vlans|network-segmentation-with-vlans]]"
 learning-time-in-minutes: 3
 ---
 # Network Segmentation with VLANs

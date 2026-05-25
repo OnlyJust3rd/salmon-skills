@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Positioning interactive elements within a level to guide player movement and enhance engagement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

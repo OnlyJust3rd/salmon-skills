@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulate the distinctions between linear and non-linear data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

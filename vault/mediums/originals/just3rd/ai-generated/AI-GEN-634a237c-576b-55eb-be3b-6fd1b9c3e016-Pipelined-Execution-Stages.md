@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelined-execution-stages|pipelined-execution-stages]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelined-execution-stages|pipelined-execution-stages]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Pipelined Execution Stages

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/intellectual-property-importance|intellectual-property-importance]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/intellectual-property-importance|intellectual-property-importance]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Intellectual Property (IP) for Your Business

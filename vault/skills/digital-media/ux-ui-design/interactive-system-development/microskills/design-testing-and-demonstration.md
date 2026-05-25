@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building prototypes to test and showcase functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

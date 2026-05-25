@@ -49,3 +49,6 @@ Explain the three pillars of Environmental, Social, and Corporate Governance (ES
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/environmental-criteria|Environmental Criteria]]
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/social-criteria|Social Criteria]]
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/corporate-governance-criteria|Corporate Governance Criteria]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

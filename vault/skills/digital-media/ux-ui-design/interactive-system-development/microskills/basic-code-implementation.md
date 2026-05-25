@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing and testing simple code for Arduino-based prototypes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

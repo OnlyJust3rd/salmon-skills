@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Selecting data placement for joins and scans.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|ai-processor-vs-cpu-architectures]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|ai-processor-vs-cpu-architectures]]"
 learning-time-in-minutes: 4
 ---
 # AI Processor vs. CPU Architectures

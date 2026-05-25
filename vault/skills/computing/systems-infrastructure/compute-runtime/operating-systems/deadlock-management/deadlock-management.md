@@ -59,3 +59,6 @@ Analyzing and resolving deadlocks in concurrent systems. Covers resource allocat
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/resource-ordering-strategy|Resource Ordering Strategy]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/scenario-based-prevention|Scenario-Based Prevention]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/trade-offs-in-avoidance-algorithms|Trade-offs in Avoidance Algorithms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

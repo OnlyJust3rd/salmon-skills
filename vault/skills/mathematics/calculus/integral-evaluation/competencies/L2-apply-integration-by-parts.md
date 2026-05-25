@@ -43,3 +43,6 @@ Apply integration by parts to evaluate indefinite and definite integrals.
 
 - [[integration-by-parts-setup|Integration by parts setup]]
 - [[integration-by-parts-execution|Integration by parts execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

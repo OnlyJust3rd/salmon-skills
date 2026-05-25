@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Transforming raw text into numerical vectors for machine learning tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

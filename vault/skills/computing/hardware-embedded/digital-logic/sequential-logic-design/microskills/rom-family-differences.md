@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinction between ROM, PROM, EPROM, EEPROM, and Flash memory in terms of programmability and erasure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

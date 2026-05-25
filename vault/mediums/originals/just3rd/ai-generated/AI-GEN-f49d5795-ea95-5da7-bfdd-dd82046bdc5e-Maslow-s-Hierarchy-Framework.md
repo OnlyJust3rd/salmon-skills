@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/maslow-s-hierarchy-framework|maslow-s-hierarchy-framework]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/maslow-s-hierarchy-framework|maslow-s-hierarchy-framework]]"
 learning-time-in-minutes: 6
 ---
 # Maslow's Hierarchy Framework for Game Design

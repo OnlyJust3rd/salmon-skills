@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical demonstration of RSA operations using mathematical foundations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

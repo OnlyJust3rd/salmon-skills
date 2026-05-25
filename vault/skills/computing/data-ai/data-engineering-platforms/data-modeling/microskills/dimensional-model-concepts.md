@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of dimensional modeling concepts and structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

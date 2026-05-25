@@ -38,3 +38,6 @@ Designing task instructions, examples, constraints, and evaluation patterns for 
 - [[instruction|Instruction]]
 - [[iterative-refinement|Iterative Refinement]]
 - [[structured-output-prompt|Structured Output Prompt]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

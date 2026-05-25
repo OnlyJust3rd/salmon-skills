@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of masks to image regions for filtering effects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

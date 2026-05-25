@@ -44,3 +44,6 @@ Systematically tracking and controlling changes in software projects using Softw
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/scm-key-objectives|SCM Key Objectives]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/software-configuration-management-definition|Software Configuration Management Definition]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/version-identification-concepts|Version Identification Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

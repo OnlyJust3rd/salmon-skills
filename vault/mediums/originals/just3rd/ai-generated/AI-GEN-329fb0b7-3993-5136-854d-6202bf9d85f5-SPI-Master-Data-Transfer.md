@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[spi-master-data-transfer|spi-master-data-transfer]]"
+learning-outcomes:
+  - "[[spi-master-data-transfer|spi-master-data-transfer]]"
 learning-time-in-minutes: 5
 ---
 # SPI Master Data Transfer: Implementing C Code

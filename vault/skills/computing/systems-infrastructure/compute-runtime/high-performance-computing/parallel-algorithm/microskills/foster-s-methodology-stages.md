@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation and articulation of the rationale behind each step in Foster's design methodology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

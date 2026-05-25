@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-source-connection|grafana-data-source-connection]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/grafana-data-source-connection|grafana-data-source-connection]]"
 learning-time-in-minutes: 3
 ---
 # Connecting Grafana to Prometheus

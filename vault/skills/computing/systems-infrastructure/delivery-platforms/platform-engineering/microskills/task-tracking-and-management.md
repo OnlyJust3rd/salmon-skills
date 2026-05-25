@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in using tools to monitor project progress.
+## Related Mediums
+
+![[bases/related-mediums.base]]

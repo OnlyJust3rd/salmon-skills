@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-execution-stages|instruction-execution-stages]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-execution-stages|instruction-execution-stages]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Instruction Execution Stages

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ai-paradigm-fundamentals|ai-paradigm-fundamentals]]"
+learning-outcomes:
+  - "[[ai-paradigm-fundamentals|ai-paradigm-fundamentals]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Behavior-Based AI Fundamentals

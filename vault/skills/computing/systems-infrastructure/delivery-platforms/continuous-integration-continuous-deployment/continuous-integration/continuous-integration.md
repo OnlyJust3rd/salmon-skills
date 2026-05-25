@@ -32,3 +32,6 @@ Principles and pipeline structures for frequently integrating source-code change
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/build-stages|Build Stages]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/pipeline-feedback|Pipeline Feedback]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/source-triggers|Source Triggers]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

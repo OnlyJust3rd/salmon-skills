@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[topic-modeling-techniques-application|topic-modeling-techniques-application]]"
+learning-outcomes:
+  - "[[topic-modeling-techniques-application|topic-modeling-techniques-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying LSA and LDA for Theme Discovery

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[visualization-techniques|visualization-techniques]]"
+learning-outcomes:
+  - "[[visualization-techniques|visualization-techniques]]"
 learning-time-in-minutes: 3
 ---
 # Applying Various Visualization Techniques with Matplotlib

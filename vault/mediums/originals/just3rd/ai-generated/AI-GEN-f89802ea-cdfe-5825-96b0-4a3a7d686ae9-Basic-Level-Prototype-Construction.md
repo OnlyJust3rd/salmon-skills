@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/level-design/microskills/basic-level-prototype-construction|basic-level-prototype-construction]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/level-design/microskills/basic-level-prototype-construction|basic-level-prototype-construction]]"
 learning-time-in-minutes: 5
 ---
 # Building Your First Game Level Prototype

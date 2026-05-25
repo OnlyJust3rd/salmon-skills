@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[heatmap-creation-for-text-analysis|heatmap-creation-for-text-analysis]]"
+learning-outcomes:
+  - "[[heatmap-creation-for-text-analysis|heatmap-creation-for-text-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Heatmap Creation for Text Analysis

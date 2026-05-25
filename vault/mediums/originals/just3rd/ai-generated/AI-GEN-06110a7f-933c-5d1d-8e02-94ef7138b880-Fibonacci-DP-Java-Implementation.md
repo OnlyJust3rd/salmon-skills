@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fibonacci-dp-java-implementation|fibonacci-dp-java-implementation]]"
+learning-outcomes:
+  - "[[fibonacci-dp-java-implementation|fibonacci-dp-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Fibonacci DP Java Implementation

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding object, block, and managed storage service categories.
+## Related Mediums
+
+![[bases/related-mediums.base]]

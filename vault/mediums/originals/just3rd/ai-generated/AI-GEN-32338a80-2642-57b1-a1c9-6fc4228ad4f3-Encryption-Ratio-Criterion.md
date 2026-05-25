@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-ratio-criterion|encryption-ratio-criterion]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-ratio-criterion|encryption-ratio-criterion]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing the Encryption Ratio Criterion

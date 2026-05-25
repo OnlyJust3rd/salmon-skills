@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-masking-definition|data-masking-definition]]"
+learning-outcomes:
+  - "[[data-masking-definition|data-masking-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Data Masking for Privacy

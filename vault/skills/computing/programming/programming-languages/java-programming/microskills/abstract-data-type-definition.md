@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 State the definition of Abstract Data Types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

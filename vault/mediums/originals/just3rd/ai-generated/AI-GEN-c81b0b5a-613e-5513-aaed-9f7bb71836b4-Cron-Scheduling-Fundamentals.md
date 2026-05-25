@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cron-scheduling-fundamentals|cron-scheduling-fundamentals]]"
+learning-outcomes:
+  - "[[cron-scheduling-fundamentals|cron-scheduling-fundamentals]]"
 learning-time-in-minutes: 4
 ---
 # Cron Scheduling Fundamentals

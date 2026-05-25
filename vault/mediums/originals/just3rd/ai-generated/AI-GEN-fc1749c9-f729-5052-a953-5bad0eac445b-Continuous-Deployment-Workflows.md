@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/continuous-deployment-workflows|continuous-deployment-workflows]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/gitops/microskills/continuous-deployment-workflows|continuous-deployment-workflows]]"
 learning-time-in-minutes: 4
 ---
 # Setting Up Automated Application Deployments with Git Commits

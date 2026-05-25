@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the role of the control unit in a processor.
+## Related Mediums
+
+![[bases/related-mediums.base]]

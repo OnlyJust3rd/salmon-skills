@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying criteria to make informed infrastructure choices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

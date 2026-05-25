@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/system-design/microskills/physics-principles-in-design|physics-principles-in-design]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/system-design/microskills/physics-principles-in-design|physics-principles-in-design]]"
 learning-time-in-minutes: 6
 ---
 # Applying Physics Principles for Smarter System Design

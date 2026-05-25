@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/wiring-issues|wiring-issues]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/wiring-issues|wiring-issues]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Wiring Issues in Digital Circuits

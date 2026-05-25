@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding indicators that summarize service availability and readiness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

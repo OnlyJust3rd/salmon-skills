@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in defining desired states in Git for deployment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

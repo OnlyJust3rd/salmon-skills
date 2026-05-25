@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding object initialization behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

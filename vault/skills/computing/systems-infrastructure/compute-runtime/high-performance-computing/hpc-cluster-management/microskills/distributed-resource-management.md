@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how GRID Computing facilitates the use of distributed computing power.
+## Related Mediums
+
+![[bases/related-mediums.base]]

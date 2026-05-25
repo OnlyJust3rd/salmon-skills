@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/adapter-pattern-application|adapter-pattern-application]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/adapter-pattern-application|adapter-pattern-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying the Adapter Pattern

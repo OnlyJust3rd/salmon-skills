@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Constructing plausible and engaging character backstories.
+## Related Mediums
+
+![[bases/related-mediums.base]]

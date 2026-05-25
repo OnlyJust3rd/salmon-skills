@@ -40,3 +40,6 @@ List the key individuals and entities required to pay income tax.
 
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxpayer-identification|Taxpayer Identification]]
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/tax-payment-obligation|Tax Payment Obligation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

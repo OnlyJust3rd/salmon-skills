@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Organizing information architecture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

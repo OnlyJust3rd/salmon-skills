@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding proficiency in creating and managing a Q-table.
+## Related Mediums
+
+![[bases/related-mediums.base]]

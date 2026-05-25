@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|real-world-serverless-examples]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/real-world-serverless-examples|real-world-serverless-examples]]"
 learning-time-in-minutes: 5
 ---
 # Real-World Serverless Examples

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the various phases involved in executing machine instructions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explain the architectural shift from monoliths to microservices.
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/microservices-architecture-characteristics|Microservices Architecture Characteristics]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/transition-rationale|Transition Rationale]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/architectural-design-principles|Architectural Design Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

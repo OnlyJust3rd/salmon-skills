@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying standard values consistently.
+## Related Mediums
+
+![[bases/related-mediums.base]]

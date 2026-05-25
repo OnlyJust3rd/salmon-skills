@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using UML to model system capabilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Computation of MSE, PSNR, and SSIM.
+## Related Mediums
+
+![[bases/related-mediums.base]]

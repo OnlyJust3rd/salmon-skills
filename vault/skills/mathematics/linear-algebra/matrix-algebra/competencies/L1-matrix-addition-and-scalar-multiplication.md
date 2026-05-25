@@ -43,3 +43,6 @@ Explain the conditions required for and the process of matrix addition and scala
 - [[matrix-addition-conditions|Matrix addition conditions]]
 - [[scalar-multiplication-process|Scalar multiplication process]]
 - [[matrix-operations-definitions|Matrix operations definitions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

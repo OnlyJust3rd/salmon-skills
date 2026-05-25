@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fundamental-principles-of-robotics|fundamental-principles-of-robotics]]"
+learning-outcomes:
+  - "[[fundamental-principles-of-robotics|fundamental-principles-of-robotics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Building Blocks of Robotics

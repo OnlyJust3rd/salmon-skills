@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/audience-engagement-strategies|audience-engagement-strategies]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/audience-engagement-strategies|audience-engagement-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Audience Engagement Strategies for Startup Pitches

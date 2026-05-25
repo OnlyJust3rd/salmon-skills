@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[lexrank-algorithm-explanation|lexrank-algorithm-explanation]]"
+learning-outcomes:
+  - "[[lexrank-algorithm-explanation|lexrank-algorithm-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding LexRank for Extractive Summarization

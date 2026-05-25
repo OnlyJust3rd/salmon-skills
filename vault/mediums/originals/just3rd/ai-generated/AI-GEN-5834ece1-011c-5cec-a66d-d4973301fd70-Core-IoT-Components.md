@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[core-iot-components|core-iot-components]]"
+learning-outcomes:
+  - "[[core-iot-components|core-iot-components]]"
 learning-time-in-minutes: 4
 ---
 # Core IoT Components

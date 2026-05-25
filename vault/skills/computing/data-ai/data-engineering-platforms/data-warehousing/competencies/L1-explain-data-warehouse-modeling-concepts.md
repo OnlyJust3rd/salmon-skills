@@ -47,3 +47,6 @@ Explain data warehouse modeling concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/fact-table|Fact Table]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/dimension-table|Dimension Table]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-warehousing/microskills/grain|Grain]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

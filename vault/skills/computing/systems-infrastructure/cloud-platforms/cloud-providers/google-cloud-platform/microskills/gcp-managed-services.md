@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding managed platform services for applications and data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

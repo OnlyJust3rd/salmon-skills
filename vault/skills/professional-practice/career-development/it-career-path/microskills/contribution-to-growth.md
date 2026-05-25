@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of how each role supports individual professional advancement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

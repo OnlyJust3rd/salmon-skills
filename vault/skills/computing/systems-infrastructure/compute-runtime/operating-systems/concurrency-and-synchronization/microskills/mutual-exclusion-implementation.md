@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ensuring mutual exclusion for critical sections using locks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

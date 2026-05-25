@@ -41,3 +41,6 @@ Define key graph and tree terminology, including vertices, edges, paths, cycles,
 
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/graph-terminology|Graph Terminology]]
 - [[skills/computing/computer-science/data-structures/graph-and-tree-modeling/microskills/tree-terminology|Tree Terminology]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

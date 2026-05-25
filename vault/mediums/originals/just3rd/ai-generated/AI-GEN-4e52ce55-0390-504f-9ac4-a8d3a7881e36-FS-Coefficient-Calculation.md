@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/fs-coefficient-calculation|fs-coefficient-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/fs-coefficient-calculation|fs-coefficient-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Fourier Series Coefficients

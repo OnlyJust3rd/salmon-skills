@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/helm-commands|helm-commands]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/helm-commands|helm-commands]]"
 learning-time-in-minutes: 4
 ---
 # Helm Commands: Your Toolkit for Kubernetes Application Management

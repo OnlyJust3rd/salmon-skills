@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical execution of detailing core requirements for engineering problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

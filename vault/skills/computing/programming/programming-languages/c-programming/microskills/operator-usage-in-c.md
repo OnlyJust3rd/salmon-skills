@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in applying arithmetic, logical, and relational operators within C programs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

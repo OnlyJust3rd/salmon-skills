@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interpolation-search-java-implementation|interpolation-search-java-implementation]]"
+learning-outcomes:
+  - "[[interpolation-search-java-implementation|interpolation-search-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Interpolation Search in Java

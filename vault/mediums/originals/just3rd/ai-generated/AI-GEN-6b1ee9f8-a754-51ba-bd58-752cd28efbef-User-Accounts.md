@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/user-accounts|user-accounts]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/user-accounts|user-accounts]]"
 learning-time-in-minutes: 5
 ---
 # Understanding User Accounts for Endpoint Access

@@ -42,3 +42,6 @@ Explain the frameworks of Sustainable Development Goals (SDGs) and Environmental
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-core-principles|Sustainable Development Goals Core Principles]]
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-purpose|Sustainable Development Goals Purpose]]
 - [[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-scope|Sustainable Development Goals Scope]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

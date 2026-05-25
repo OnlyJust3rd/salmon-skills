@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Construction of a basic parallel application following Foster's methodology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

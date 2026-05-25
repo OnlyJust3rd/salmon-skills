@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/partition-pruning|partition-pruning]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/partition-pruning|partition-pruning]]"
 learning-time-in-minutes: 4
 ---
 # Understanding and Applying Partition Pruning

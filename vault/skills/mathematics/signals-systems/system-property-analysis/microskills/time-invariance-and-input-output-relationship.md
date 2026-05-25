@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing how time-invariance affects the system's output given its input.
+## Related Mediums
+
+![[bases/related-mediums.base]]

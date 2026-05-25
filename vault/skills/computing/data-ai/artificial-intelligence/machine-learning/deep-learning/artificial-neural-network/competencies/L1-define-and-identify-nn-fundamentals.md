@@ -45,3 +45,6 @@ Identify and define the key components, terms, and foundational concepts of basi
 - [[neural-network-terminology|Neural Network Terminology]]
 - [[foundational-neural-network-concepts|Foundational Neural Network Concepts]]
 - [[neural-network-definitions|Neural Network Definitions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

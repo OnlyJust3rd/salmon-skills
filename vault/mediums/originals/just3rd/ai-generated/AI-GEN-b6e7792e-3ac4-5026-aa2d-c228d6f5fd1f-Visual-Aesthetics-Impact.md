@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[visual-aesthetics-impact|visual-aesthetics-impact]]"
+learning-outcomes:
+  - "[[visual-aesthetics-impact|visual-aesthetics-impact]]"
 learning-time-in-minutes: 4
 ---
 # Visual Aesthetics in User Interface Design

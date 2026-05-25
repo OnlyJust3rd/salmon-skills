@@ -43,3 +43,6 @@ Apply a one-point perspective projection to a simple geometric shape to demonstr
 
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/one-point-perspective-application|One-Point Perspective Application]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/2d-representation-with-depth|2D Representation with Depth]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

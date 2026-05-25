@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding model-assisted production of source code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

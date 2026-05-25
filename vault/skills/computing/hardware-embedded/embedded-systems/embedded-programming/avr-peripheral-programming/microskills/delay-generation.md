@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing precise time delays using timers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

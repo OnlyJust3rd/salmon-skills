@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Contrasting the fundamental architectures of relational and NoSQL systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

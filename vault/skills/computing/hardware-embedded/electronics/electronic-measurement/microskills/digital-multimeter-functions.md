@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the primary functions of a digital multimeter.
+## Related Mediums
+
+![[bases/related-mediums.base]]

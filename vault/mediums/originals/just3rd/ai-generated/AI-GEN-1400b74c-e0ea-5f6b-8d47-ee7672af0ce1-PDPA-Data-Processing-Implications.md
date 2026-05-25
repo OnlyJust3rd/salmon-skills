@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/digital-law/thai-digital-law/microskills/pdpa-data-processing-implications|pdpa-data-processing-implications]]"
+learning-outcomes:
+  - "[[skills/professional-practice/digital-law/thai-digital-law/microskills/pdpa-data-processing-implications|pdpa-data-processing-implications]]"
 learning-time-in-minutes: 5
 ---
 # Understanding PDPA Data Processing Implications

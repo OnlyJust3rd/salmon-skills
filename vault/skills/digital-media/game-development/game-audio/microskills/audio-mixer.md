@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding routing and balancing of sound groups.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[netplan-network-configuration|netplan-network-configuration]]"
+learning-outcomes:
+  - "[[netplan-network-configuration|netplan-network-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Configuring Network Interfaces with Netplan

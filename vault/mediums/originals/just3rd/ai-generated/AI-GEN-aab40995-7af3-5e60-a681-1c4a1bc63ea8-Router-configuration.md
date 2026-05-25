@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/express-js/microskills/router-configuration|router-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/express-js/microskills/router-configuration|router-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Express.js Router Configuration: Paths and HTTP Verbs

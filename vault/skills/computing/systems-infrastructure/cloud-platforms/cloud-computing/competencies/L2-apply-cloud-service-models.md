@@ -47,3 +47,6 @@ Identify appropriate cloud service models for given application scenarios.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/saas-application-scenarios|SaaS Application Scenarios]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/faas-application-scenarios|FaaS Application Scenarios]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/scenario-based-model-selection|Scenario-Based Model Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

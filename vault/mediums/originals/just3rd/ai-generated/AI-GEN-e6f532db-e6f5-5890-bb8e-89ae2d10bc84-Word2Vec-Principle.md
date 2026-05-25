@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[word2vec-principle|word2vec-principle]]"
+learning-outcomes:
+  - "[[word2vec-principle|word2vec-principle]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Word2Vec Embeddings

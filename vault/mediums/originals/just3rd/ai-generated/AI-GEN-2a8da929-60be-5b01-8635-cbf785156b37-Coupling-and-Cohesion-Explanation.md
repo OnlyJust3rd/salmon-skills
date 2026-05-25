@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/software-architecture/microskills/coupling-and-cohesion-explanation|coupling-and-cohesion-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/coupling-and-cohesion-explanation|coupling-and-cohesion-explanation]]"
 learning-time-in-minutes: 6
 ---
 # Understanding Coupling and Cohesion in Software Design

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Constructing valid proofs using the principle of mathematical induction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

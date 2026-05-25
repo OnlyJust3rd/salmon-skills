@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/basis-impact-on-transformation-representation|basis-impact-on-transformation-representation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/basis-impact-on-transformation-representation|basis-impact-on-transformation-representation]]"
 learning-time-in-minutes: 4
 ---
 # How Basis Choice Changes Transformation Matrices

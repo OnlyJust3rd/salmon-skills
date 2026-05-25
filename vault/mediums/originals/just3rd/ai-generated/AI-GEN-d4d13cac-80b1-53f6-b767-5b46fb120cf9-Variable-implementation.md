@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[variable-implementation|variable-implementation]]"
+learning-outcomes:
+  - "[[variable-implementation|variable-implementation]]"
 learning-time-in-minutes: 2
 ---
 # Variable Implementation in C

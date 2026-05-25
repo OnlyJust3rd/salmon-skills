@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding widgets that control position and size.
+## Related Mediums
+
+![[bases/related-mediums.base]]

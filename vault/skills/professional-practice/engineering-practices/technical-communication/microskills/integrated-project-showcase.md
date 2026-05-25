@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of combined embedded systems, 2D/3D design, and prototyping.
+## Related Mediums
+
+![[bases/related-mediums.base]]

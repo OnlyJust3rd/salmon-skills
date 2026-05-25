@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of registers for I2C master/slave operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

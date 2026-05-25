@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/vector-magnitude-calculation|vector-magnitude-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/vector-magnitude-calculation|vector-magnitude-calculation]]"
 learning-time-in-minutes: 3
 ---
 # Calculating Vector Magnitude

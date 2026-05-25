@@ -39,3 +39,6 @@ Implement genetic algorithms in Java.
 ## Microskills
 
 - [[skills/computing/programming/programming-languages/java-programming/microskills/genetic-algorithm-implementation|Genetic Algorithm Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

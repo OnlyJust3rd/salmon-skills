@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/refactoring-request|refactoring-request]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/refactoring-request|refactoring-request]]"
 learning-time-in-minutes: 4
 ---
 # AI-Assisted Refactoring Requests

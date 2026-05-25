@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying strategies to adapt simulated intelligence for physical robots.
+## Related Mediums
+
+![[bases/related-mediums.base]]

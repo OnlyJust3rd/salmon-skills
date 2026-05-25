@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical implementation of various data cleaning techniques on text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

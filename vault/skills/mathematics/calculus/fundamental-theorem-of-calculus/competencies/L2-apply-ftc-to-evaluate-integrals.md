@@ -43,3 +43,6 @@ Apply the Fundamental Theorem of Calculus to evaluate definite integrals.
 ## Microskills
 
 - [[definite-integral-evaluation-using-ftc|Definite integral evaluation using FTC]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

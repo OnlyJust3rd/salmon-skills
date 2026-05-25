@@ -49,3 +49,6 @@ Writing and evaluating assembly language programs to execute specific tasks on d
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/common-assembly-instructions|Common Assembly Instructions]]
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/functional-performance-assessment|Functional Performance Assessment]]
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/task-specific-assembly-programming|Task-Specific Assembly Programming]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

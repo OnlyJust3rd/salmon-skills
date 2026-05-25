@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Impact of normalization on data duplication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

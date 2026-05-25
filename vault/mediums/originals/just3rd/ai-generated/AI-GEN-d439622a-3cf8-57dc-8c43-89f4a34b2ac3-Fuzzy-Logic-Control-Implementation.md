@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-logic-control-implementation|fuzzy-logic-control-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/fuzzy-logic-control-implementation|fuzzy-logic-control-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Fuzzy Logic Controllers

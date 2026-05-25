@@ -47,3 +47,6 @@ Identify appropriate test cases and expected outcomes based on program requireme
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/coverage-of-edge-cases|Coverage of edge cases]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/traceability-to-requirements|Traceability to requirements]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-case-quality-review|Test case quality review]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -49,3 +49,6 @@ Explain the FPGA synthesis, place-and-route, and programming workflow, and descr
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/synthesis-process|Synthesis Process]]
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/place-and-route-process|Place-and-Route Process]]
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/bitstream-generation|Bitstream Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

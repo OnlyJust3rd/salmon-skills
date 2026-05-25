@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting how character abilities translate into specific game mechanics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

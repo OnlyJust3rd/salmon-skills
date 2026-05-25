@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attacks-copy-attacks|protocol-attacks-copy-attacks]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attacks-copy-attacks|protocol-attacks-copy-attacks]]"
 learning-time-in-minutes: 4
 ---
 # Protocol Attacks: Copy Attacks in Digital Watermarking

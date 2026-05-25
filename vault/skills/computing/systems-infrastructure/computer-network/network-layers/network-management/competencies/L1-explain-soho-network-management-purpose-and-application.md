@@ -49,3 +49,6 @@ Explain the purpose, function, and application of network management concepts in
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/purpose-of-network-management|Purpose of Network Management]]
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/practical-implementation-in-soho|Practical Implementation in SOHO]]
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/soho-network-operations|SOHO Network Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

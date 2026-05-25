@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/usability-enhancement-through-text-cleaning|usability-enhancement-through-text-cleaning]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/usability-enhancement-through-text-cleaning|usability-enhancement-through-text-cleaning]]"
 learning-time-in-minutes: 4
 ---
 # Usability Enhancement through Text Cleaning

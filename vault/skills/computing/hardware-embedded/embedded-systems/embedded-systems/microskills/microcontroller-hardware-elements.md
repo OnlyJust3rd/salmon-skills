@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of fundamental physical parts of microcontrollers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of different types of noise encountered in textual data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

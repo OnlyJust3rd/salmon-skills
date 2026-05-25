@@ -43,3 +43,6 @@ Explain the function of common sensors and actuators used in embedded systems.
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sensor-operational-principles|Sensor Operational Principles]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/actuator-operational-principles|Actuator Operational Principles]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/embedded-system-input-output-devices|Embedded System Input/Output Devices]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

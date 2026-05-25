@@ -47,3 +47,6 @@ Explain the use cases for NoSQL databases.
 - [[scalability-requirements|Scalability Requirements]]
 - [[flexibility-needs|Flexibility Needs]]
 - [[performance-considerations|Performance Considerations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

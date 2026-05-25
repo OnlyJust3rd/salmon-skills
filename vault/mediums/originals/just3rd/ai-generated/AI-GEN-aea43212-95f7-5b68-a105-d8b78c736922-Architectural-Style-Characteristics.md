@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/software-architecture/microskills/architectural-style-characteristics|architectural-style-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/architectural-style-characteristics|architectural-style-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Architectural Style Characteristics

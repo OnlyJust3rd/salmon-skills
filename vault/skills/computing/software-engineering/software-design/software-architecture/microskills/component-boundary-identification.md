@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing potential component boundaries in system descriptions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

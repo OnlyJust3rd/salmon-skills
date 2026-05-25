@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-workflow-design|iot-workflow-design]]"
+learning-outcomes:
+  - "[[iot-workflow-design|iot-workflow-design]]"
 learning-time-in-minutes: 5
 ---
 # IoT Workflow Design: Building Automated Logic for Connected Devices

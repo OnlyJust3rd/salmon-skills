@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of principles for managing user accounts and group memberships.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical execution of breaking down text into smaller units (tokens).
+## Related Mediums
+
+![[bases/related-mediums.base]]

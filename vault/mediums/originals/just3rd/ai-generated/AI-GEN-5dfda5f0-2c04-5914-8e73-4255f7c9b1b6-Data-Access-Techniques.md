@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-access-techniques|data-access-techniques]]"
+learning-outcomes:
+  - "[[data-access-techniques|data-access-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Data Access Techniques in File Systems

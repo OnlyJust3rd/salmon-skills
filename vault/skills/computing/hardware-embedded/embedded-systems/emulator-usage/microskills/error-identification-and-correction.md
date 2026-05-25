@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Debugging processor designs within an emulator environment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

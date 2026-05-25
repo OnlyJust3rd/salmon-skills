@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing the value of automated code checking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

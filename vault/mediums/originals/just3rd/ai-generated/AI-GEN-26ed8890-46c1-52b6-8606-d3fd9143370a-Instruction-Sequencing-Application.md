@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-sequencing-application|instruction-sequencing-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/instruction-sequencing-application|instruction-sequencing-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Instruction Sequencing in Assembly Programming

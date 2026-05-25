@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role of motion vectors in inter-frame prediction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

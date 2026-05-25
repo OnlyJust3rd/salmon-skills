@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/recovery-objectives|recovery-objectives]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-operations/database-backup-and-recovery/microskills/recovery-objectives|recovery-objectives]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Recovery Objectives: RPO and RTO

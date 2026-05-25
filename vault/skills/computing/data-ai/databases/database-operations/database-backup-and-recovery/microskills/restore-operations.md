@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how saved data copies are used to recover systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

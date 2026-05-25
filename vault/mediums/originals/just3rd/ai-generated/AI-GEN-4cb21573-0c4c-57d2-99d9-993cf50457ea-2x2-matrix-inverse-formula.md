@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/2x2-matrix-inverse-formula|2x2-matrix-inverse-formula]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/2x2-matrix-inverse-formula|2x2-matrix-inverse-formula]]"
 learning-time-in-minutes: 4
 ---
 # Compute the Inverse of a 2x2 Matrix Using the Formula

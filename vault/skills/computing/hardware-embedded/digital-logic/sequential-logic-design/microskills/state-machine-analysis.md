@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to deconstruct the operation of a state machine.
+## Related Mediums
+
+![[bases/related-mediums.base]]

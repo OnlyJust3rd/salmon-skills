@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the formal components of a finite automaton (states, alphabet, transitions, start state, accept states).
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/commit-and-rollback|commit-and-rollback]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/commit-and-rollback|commit-and-rollback]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Commit and Rollback: Completing or Undoing Database Work

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of heavily discounted pricing for interruptible workloads.
+## Related Mediums
+
+![[bases/related-mediums.base]]

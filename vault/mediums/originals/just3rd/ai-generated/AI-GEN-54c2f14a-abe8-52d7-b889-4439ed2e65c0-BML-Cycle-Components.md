@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/bml-cycle-components|bml-cycle-components]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/bml-cycle-components|bml-cycle-components]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the BML Cycle Components

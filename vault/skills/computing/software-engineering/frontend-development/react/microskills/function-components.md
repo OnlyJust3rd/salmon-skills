@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describe pure render functions with props.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/control-signal-derivation|control-signal-derivation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/control-signal-derivation|control-signal-derivation]]"
 learning-time-in-minutes: 4
 ---
 # Deriving Control Signals for Datapath Execution

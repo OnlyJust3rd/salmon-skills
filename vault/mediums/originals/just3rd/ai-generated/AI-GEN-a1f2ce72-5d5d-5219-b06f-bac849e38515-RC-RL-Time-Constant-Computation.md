@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/rc-rl-time-constant-computation|rc-rl-time-constant-computation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/rc-rl-time-constant-computation|rc-rl-time-constant-computation]]"
 learning-time-in-minutes: 3
 ---
 # RC/RL Time Constant Computation

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the geometric significance of eigenvalue values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

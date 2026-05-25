@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of environmental consequences from technology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

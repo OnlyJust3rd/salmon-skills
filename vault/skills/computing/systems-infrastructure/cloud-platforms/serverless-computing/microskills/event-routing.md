@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how events are directed to appropriate handlers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

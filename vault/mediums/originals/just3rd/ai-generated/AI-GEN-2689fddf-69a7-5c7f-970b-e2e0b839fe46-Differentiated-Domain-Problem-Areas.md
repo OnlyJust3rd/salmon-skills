@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/differentiated-domain-problem-areas|differentiated-domain-problem-areas]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/differentiated-domain-problem-areas|differentiated-domain-problem-areas]]"
 learning-time-in-minutes: 5
 ---
 # Differentiating Problem Areas in Computer Engineering Domains

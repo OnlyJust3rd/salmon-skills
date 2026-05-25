@@ -47,3 +47,6 @@ Apply Snowflake warehouse and SQL transformation concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/warehouse-sizing|Warehouse Sizing]]
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/semi-structured-query|Semi-Structured Query]]
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/transformation-model|Transformation Model]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

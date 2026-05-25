@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/sinusoidal-signal-forms|sinusoidal-signal-forms]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/sinusoidal-signal-forms|sinusoidal-signal-forms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Sinusoidal Signal Forms

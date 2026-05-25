@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/imperceptibility-vs-robustness-trade-off|imperceptibility-vs-robustness-trade-off]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/imperceptibility-vs-robustness-trade-off|imperceptibility-vs-robustness-trade-off]]"
 learning-time-in-minutes: 4
 ---
 # Imperceptibility vs. Robustness in Digital Watermarking

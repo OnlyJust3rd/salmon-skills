@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technical-troubleshooting/microskills/log-evidence|log-evidence]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technical-troubleshooting/microskills/log-evidence|log-evidence]]"
 learning-time-in-minutes: 4
 ---
 # Using Logs to Support or Reject Hypotheses

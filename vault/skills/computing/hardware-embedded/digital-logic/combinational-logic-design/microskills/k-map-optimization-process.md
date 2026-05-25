@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the step-by-step K-map simplification procedure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

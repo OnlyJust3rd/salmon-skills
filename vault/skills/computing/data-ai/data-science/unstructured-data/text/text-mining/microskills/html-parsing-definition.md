@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the definition and purpose of parsing HTML structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

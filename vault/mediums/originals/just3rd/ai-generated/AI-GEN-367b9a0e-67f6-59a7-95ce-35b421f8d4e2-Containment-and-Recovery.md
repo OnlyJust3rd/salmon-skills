@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/incident-response/microskills/containment-and-recovery|containment-and-recovery]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/incident-response/microskills/containment-and-recovery|containment-and-recovery]]"
 learning-time-in-minutes: 5
 ---
 # Containment and Recovery: Limiting Damage and Restoring Service

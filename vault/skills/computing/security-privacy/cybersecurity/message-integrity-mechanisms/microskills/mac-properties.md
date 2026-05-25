@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding key properties of MACs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

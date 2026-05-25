@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how device registers are accessed via the memory address space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the algebraic meaning of vector products.
+## Related Mediums
+
+![[bases/related-mediums.base]]

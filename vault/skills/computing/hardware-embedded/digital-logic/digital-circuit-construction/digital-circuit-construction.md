@@ -50,3 +50,6 @@ Construct and troubleshoot logic circuits on breadboards using discrete componen
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/ic-package-identification|IC Package Identification]]
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/logic-gate-ic-functional-operation|Logic Gate IC Functional Operation]]
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/logic-gate-ic-pin-configurations|Logic Gate IC Pin Configurations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of Grafana's role in creating dashboards.
+## Related Mediums
+
+![[bases/related-mediums.base]]

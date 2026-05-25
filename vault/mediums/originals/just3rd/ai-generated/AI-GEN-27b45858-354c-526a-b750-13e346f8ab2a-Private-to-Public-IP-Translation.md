@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[private-to-public-ip-translation|private-to-public-ip-translation]]"
+learning-outcomes:
+  - "[[private-to-public-ip-translation|private-to-public-ip-translation]]"
 learning-time-in-minutes: 5
 ---
 # Private to Public IP Translation

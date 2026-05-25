@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of overall security in network protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

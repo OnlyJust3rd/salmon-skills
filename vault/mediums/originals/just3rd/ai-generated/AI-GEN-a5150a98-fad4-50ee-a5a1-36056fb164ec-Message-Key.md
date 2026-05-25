@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/message-key|message-key]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/message-key|message-key]]"
 learning-time-in-minutes: 3
 ---
 # Mastering Message Keys in Kafka

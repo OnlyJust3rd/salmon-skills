@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/project-timeline-planning-concepts|project-timeline-planning-concepts]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/project-timeline-planning-concepts|project-timeline-planning-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Project Timeline Planning Concepts

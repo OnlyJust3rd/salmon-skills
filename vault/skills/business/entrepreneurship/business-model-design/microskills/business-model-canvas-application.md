@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing the BMC for strategic planning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

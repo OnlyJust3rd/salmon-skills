@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/gaussian-elimination-for-inverse|gaussian-elimination-for-inverse]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/gaussian-elimination-for-inverse|gaussian-elimination-for-inverse]]"
 learning-time-in-minutes: 5
 ---
 # Gaussian Elimination for Matrix Inverses

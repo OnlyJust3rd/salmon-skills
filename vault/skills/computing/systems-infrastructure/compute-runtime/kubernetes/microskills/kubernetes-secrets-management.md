@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in configuring and managing Kubernetes Secrets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

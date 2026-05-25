@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Providing actionable recommendations based on evaluation findings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/role-assignment-application|role-assignment-application]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/role-assignment-application|role-assignment-application]]"
 learning-time-in-minutes: 5
 ---
 # Assigning Roles for Effective Teamwork

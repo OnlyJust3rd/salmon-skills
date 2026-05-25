@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-technique-definitions|backtracking-technique-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-technique-definitions|backtracking-technique-definitions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Backtracking Techniques

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how various components of HPC architectures function together.
+## Related Mediums
+
+![[bases/related-mediums.base]]

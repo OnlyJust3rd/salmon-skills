@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding what it means for an algorithm to solve a problem correctly.
+## Related Mediums
+
+![[bases/related-mediums.base]]

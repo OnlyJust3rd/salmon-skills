@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[summarization|summarization]]"
+learning-outcomes:
+  - "[[summarization|summarization]]"
 learning-time-in-minutes: 4
 ---
 # Summarization with Large Language Models

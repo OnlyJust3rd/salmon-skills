@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-performance-metrics|user-performance-metrics]]"
+learning-outcomes:
+  - "[[user-performance-metrics|user-performance-metrics]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Cognitive Load's Impact on User Performance Metrics

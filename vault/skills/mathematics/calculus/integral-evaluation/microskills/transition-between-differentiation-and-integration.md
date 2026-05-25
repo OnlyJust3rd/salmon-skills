@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Conceptual understanding of the FTC's role in linking differentiation and integration for evaluating definite integrals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

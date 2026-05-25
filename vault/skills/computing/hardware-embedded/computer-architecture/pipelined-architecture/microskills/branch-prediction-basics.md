@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how prediction reduces control hazard penalties conceptually.
+## Related Mediums
+
+![[bases/related-mediums.base]]

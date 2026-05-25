@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[drivers-of-iot-adoption|drivers-of-iot-adoption]]"
+learning-outcomes:
+  - "[[drivers-of-iot-adoption|drivers-of-iot-adoption]]"
 learning-time-in-minutes: 5
 ---
 # Drivers of IoT Adoption

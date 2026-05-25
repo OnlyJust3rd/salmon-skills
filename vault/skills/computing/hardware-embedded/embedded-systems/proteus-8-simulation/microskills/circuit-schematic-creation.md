@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of creating circuit schematics in Proteus 8.
+## Related Mediums
+
+![[bases/related-mediums.base]]

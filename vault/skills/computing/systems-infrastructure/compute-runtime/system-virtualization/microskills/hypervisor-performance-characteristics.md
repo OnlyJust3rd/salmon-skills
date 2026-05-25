@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of performance differences between hypervisor types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

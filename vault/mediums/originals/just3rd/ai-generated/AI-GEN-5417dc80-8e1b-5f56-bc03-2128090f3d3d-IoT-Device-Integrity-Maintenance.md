@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-device-integrity-maintenance|iot-device-integrity-maintenance]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/microskills/iot-device-integrity-maintenance|iot-device-integrity-maintenance]]"
 learning-time-in-minutes: 5
 ---
 # Maintaining IoT Device Integrity

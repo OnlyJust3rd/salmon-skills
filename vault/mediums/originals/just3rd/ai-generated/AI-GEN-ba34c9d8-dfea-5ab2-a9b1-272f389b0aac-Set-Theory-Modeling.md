@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/set-theory-modeling|set-theory-modeling]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/discrete-structure-modeling/microskills/set-theory-modeling|set-theory-modeling]]"
 learning-time-in-minutes: 3
 ---
 # Modeling with Sets: A Foundation for Discrete Structures

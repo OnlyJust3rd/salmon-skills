@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interactive-prototype-development|interactive-prototype-development]]"
+learning-outcomes:
+  - "[[interactive-prototype-development|interactive-prototype-development]]"
 learning-time-in-minutes: 4
 ---
 # Interactive Prototype Development: Building Working Models

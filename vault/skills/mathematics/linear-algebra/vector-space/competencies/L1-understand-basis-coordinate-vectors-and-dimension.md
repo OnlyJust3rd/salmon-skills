@@ -49,3 +49,6 @@ Explain the concepts of basis, coordinate vectors, and dimension, including thei
 - [[dimension-definition|Dimension definition]]
 - [[basis-to-coordinate-system-relationship|Basis-to-coordinate system relationship]]
 - [[dimension-calculation-procedure|Dimension calculation procedure]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

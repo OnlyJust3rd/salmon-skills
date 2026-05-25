@@ -45,3 +45,6 @@ Explain AI-assisted code review concepts.
 - [[review-finding|Review Finding]]
 - [[test-gap|Test Gap]]
 - [[false-positive|False Positive]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

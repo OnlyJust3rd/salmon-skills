@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of using interrupts for efficient data transfer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

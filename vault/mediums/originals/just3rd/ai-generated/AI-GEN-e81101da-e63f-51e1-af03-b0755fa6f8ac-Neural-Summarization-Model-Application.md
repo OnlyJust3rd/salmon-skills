@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[neural-summarization-model-application|neural-summarization-model-application]]"
+learning-outcomes:
+  - "[[neural-summarization-model-application|neural-summarization-model-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Neural Models for Text Summarization

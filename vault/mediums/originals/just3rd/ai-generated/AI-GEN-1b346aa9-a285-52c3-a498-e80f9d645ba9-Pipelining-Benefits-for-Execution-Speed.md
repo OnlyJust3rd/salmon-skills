@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelining-benefits-for-execution-speed|pipelining-benefits-for-execution-speed]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelining-benefits-for-execution-speed|pipelining-benefits-for-execution-speed]]"
 learning-time-in-minutes: 4
 ---
 # Pipelining Benefits for Execution Speed

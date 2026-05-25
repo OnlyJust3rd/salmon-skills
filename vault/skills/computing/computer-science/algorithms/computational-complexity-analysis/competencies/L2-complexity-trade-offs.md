@@ -39,3 +39,6 @@ Apply complexity concepts to reason about trade-offs between time and space.
 ## Microskills
 
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/trade-off-reasoning|Trade-off Reasoning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

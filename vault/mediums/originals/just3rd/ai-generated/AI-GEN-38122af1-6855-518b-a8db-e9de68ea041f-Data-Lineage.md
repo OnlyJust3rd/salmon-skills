@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-lineage|data-lineage]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-lineage|data-lineage]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Data Lineage: Tracing Your Data's Journey

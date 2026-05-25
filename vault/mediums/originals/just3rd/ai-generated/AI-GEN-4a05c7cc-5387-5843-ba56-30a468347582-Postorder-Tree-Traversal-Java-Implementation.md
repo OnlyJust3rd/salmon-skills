@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[postorder-tree-traversal-java-implementation|postorder-tree-traversal-java-implementation]]"
+learning-outcomes:
+  - "[[postorder-tree-traversal-java-implementation|postorder-tree-traversal-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Postorder Tree Traversal in Java

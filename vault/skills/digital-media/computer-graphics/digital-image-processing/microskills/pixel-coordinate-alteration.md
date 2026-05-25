@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how transformations affect pixel locations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

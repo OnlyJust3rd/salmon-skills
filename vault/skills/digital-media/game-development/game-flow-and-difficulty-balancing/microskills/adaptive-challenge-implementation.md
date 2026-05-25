@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adjusting game mechanics, pacing, and challenges to maintain player immersion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

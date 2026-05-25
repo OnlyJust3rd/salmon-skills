@@ -30,3 +30,6 @@ Using TypeScript as a typed layer over JavaScript for web code.
 - [[skills/computing/programming/programming-languages/typescript/microskills/compile-targets|Compile targets]]
 - [[skills/computing/programming/programming-languages/typescript/microskills/primitive-and-object-types|Primitive and object types]]
 - [[skills/computing/programming/programming-languages/typescript/microskills/structural-typing|Structural typing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Estimating stalls introduced by hazards under simplified assumptions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

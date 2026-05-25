@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how data is placed across compute nodes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

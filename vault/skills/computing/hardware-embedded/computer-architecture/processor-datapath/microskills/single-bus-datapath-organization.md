@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the structure of a single-bus datapath.
+## Related Mediums
+
+![[bases/related-mediums.base]]

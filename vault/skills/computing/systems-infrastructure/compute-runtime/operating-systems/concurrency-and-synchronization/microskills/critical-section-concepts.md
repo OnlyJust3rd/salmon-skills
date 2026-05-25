@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the concept of critical sections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Estimating based on perceived customer value.
+## Related Mediums
+
+![[bases/related-mediums.base]]

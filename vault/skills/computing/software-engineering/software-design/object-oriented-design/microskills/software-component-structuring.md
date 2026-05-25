@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Structuring software components based on design principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

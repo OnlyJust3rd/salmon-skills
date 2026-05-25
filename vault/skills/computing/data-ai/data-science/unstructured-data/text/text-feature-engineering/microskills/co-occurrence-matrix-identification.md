@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition and definition of co-occurrence matrices for representing word relationships.
+## Related Mediums
+
+![[bases/related-mediums.base]]

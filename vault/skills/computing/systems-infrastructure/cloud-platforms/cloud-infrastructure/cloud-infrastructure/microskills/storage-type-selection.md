@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to select appropriate storage solutions based on performance and cost.
+## Related Mediums
+
+![[bases/related-mediums.base]]

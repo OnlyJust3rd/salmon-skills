@@ -45,3 +45,6 @@ Explain the core principles, advantages, and disadvantages of reactive control a
 - [[reactive-control-advantages|Reactive Control Advantages]]
 - [[reactive-control-disadvantages|Reactive Control Disadvantages]]
 - [[applied-reactive-control-concepts|Applied Reactive Control Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

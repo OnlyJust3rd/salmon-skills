@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of cryptography attacks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

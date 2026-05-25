@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-vpc-boundary|gcp-vpc-boundary]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-vpc-boundary|gcp-vpc-boundary]]"
 learning-time-in-minutes: 5
 ---
 # GCP VPC Boundaries: Architecting Secure and Organized Networks

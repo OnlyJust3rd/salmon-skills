@@ -43,3 +43,6 @@ Identify the dimensions and elements of a given matrix.
 - [[matrix-dimensions|Matrix dimensions]]
 - [[matrix-elements|Matrix elements]]
 - [[matrix-notation|Matrix notation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/number-theory-definitions|number-theory-definitions]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/number-theory-definitions|number-theory-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Number Theory Definitions

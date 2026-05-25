@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the role of edge and fog computing in IoT system performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

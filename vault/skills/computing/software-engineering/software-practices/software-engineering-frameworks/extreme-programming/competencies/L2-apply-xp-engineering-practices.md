@@ -44,3 +44,6 @@ Apply XP engineering practices such as TDD, pair programming, continuous integra
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/continuous-integration-practice|Continuous Integration Practice]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/simple-design-practice|Simple Design Practice]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/refactoring-discipline|Refactoring Discipline]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

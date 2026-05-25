@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how DMA transfers data with minimal CPU involvement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -38,3 +38,6 @@ Using Kafka concepts for event streaming, durable logs, topics, producers, consu
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/partition|Partition]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/producer|Producer]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/topic|Topic]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

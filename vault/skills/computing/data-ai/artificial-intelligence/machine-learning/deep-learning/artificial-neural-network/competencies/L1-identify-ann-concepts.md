@@ -40,3 +40,6 @@ Identify key concepts of Artificial Neural Networks discussed in chapter four of
 
 - [[artificial-neural-network-key-ideas-chapter-4|Artificial Neural Network Key Ideas (Chapter 4)]]
 - [[chapter-4-ann-topics|Chapter 4 ANN Topics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

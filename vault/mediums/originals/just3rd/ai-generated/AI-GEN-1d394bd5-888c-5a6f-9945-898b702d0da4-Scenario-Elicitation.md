@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/scenario-elicitation|scenario-elicitation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/scenario-elicitation|scenario-elicitation]]"
 learning-time-in-minutes: 5
 ---
 # Scenario Elicitation: Uncovering User Interactions

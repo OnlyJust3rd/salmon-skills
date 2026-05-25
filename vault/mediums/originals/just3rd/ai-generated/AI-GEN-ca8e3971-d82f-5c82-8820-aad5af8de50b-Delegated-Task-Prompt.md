@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/delegated-task-prompt|delegated-task-prompt]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/delegated-task-prompt|delegated-task-prompt]]"
 learning-time-in-minutes: 4
 ---
 # Crafting Effective Delegated Task Prompts for OpenAI Codex

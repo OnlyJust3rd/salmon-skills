@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding eigenvectors as directions preserved by a transformation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

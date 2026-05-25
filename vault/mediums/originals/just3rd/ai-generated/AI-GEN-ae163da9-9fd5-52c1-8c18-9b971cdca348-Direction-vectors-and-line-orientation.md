@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/direction-vectors-and-line-orientation|direction-vectors-and-line-orientation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/direction-vectors-and-line-orientation|direction-vectors-and-line-orientation]]"
 learning-time-in-minutes: 4
 ---
 # Direction Vectors and Line Orientation

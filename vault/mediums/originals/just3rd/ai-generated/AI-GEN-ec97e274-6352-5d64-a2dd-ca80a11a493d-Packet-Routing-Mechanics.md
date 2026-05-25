@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[packet-routing-mechanics|packet-routing-mechanics]]"
+learning-outcomes:
+  - "[[packet-routing-mechanics|packet-routing-mechanics]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Packet Routing Mechanics

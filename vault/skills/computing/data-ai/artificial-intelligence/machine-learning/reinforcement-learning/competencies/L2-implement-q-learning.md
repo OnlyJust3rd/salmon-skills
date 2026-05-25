@@ -49,3 +49,6 @@ Implement a Q-learning algorithm to solve a given grid-world problem.
 - [[q-value-update-mechanism|Q-value update mechanism]]
 - [[exploration-vs-exploitation-strategy|Exploration vs. exploitation strategy]]
 - [[grid-world-problem-simulation|Grid-world problem simulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

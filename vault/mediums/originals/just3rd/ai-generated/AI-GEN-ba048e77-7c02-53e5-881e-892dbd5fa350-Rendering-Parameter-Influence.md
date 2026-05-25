@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/rendering-parameter-influence|rendering-parameter-influence]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/rendering-parameter-influence|rendering-parameter-influence]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing Rendering Parameter Influence on Visual Quality

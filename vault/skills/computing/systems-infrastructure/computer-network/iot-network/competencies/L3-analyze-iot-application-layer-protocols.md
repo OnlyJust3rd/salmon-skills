@@ -47,3 +47,6 @@ Analyze the strengths and weaknesses of IoT application layer data transport pro
 - [[http-rest-protocol-characteristics|HTTP/REST Protocol Characteristics]]
 - [[iot-application-protocol-suitability|IoT Application Protocol Suitability]]
 - [[iot-data-transport-use-cases|IoT Data Transport Use Cases]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

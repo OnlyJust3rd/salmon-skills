@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[robotic-movement-in-maze-environments|robotic-movement-in-maze-environments]]"
+learning-outcomes:
+  - "[[robotic-movement-in-maze-environments|robotic-movement-in-maze-environments]]"
 learning-time-in-minutes: 4
 ---
 # Robotic Movement in Maze Environments

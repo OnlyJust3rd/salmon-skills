@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding write-through vs write-back and write-allocate vs no-write-allocate policies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

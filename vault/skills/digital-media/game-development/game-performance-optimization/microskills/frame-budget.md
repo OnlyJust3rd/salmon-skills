@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding available time per rendered frame.
+## Related Mediums
+
+![[bases/related-mediums.base]]

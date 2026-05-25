@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/direction-vectors-for-line-line-relationships|direction-vectors-for-line-line-relationships]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/direction-vectors-for-line-line-relationships|direction-vectors-for-line-line-relationships]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Line Relationships with Direction Vectors

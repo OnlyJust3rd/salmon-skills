@@ -45,3 +45,6 @@ Explain product metrics and experimentation.
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/funnel-metric|Funnel Metric]]
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/cohort|Cohort]]
 - [[skills/computing/data-ai/data-engineering-platforms/product-analytics/microskills/experiment|Experiment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

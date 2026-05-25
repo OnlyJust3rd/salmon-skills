@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how matching routes affect packet forwarding.
+## Related Mediums
+
+![[bases/related-mediums.base]]

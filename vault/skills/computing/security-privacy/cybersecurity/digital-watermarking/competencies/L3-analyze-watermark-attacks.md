@@ -47,3 +47,6 @@ Analyze common attacks on digital watermarks, including their types, mechanisms,
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-attack-mechanisms|Watermark Attack Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/impact-of-attacks-on-robustness|Impact of Attacks on Robustness]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/impact-of-attacks-on-imperceptibility|Impact of Attacks on Imperceptibility]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

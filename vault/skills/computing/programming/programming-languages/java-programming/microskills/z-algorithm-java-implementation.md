@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Z-Algorithm for string matching in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

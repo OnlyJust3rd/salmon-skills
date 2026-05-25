@@ -45,3 +45,6 @@ Explain the core principles of communication security: secrecy, authentication, 
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/confidentiality|Confidentiality]]
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/authentication|Authentication]]
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/integrity|Integrity]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

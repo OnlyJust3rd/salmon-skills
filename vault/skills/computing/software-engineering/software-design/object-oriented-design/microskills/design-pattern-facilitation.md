@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how OO design principles support the use of design patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

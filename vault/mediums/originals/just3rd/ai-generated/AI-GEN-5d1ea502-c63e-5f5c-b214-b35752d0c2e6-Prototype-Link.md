@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[prototype-link|prototype-link]]"
+learning-outcomes:
+  - "[[prototype-link|prototype-link]]"
 learning-time-in-minutes: 5
 ---
 # Prototype Linking in Figma: Creating Interactive Navigation

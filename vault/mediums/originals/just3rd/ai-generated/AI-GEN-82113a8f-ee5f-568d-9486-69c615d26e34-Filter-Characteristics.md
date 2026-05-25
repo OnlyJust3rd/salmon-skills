@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/filter-characteristics|filter-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/filter-characteristics|filter-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Filter Characteristics: The Role of Cutoff Frequency

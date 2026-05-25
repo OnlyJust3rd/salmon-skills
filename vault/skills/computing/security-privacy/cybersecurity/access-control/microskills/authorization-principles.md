@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the process of granting or denying access to resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

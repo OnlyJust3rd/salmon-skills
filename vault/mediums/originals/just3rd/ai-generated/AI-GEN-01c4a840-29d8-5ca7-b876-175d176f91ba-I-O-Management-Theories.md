@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-management-theories|i-o-management-theories]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-management-theories|i-o-management-theories]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Operating System I/O Management Theories

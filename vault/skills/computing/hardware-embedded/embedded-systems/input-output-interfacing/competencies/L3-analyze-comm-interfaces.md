@@ -45,3 +45,6 @@ Analyze standard communication interfaces, differentiating between serial and pa
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/serial-communication-characteristics|Serial Communication Characteristics]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/parallel-communication-characteristics|Parallel Communication Characteristics]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/communication-interface-categorization|Communication Interface Categorization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

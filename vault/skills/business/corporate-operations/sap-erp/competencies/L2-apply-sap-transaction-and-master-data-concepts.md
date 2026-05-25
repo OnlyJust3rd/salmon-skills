@@ -45,3 +45,6 @@ Apply SAP transaction and master data concepts.
 - [[skills/business/corporate-operations/sap-erp/microskills/master-data-record|Master Data Record]]
 - [[skills/business/corporate-operations/sap-erp/microskills/document-flow|Document Flow]]
 - [[skills/business/corporate-operations/sap-erp/microskills/transaction-code-concept|Transaction Code Concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

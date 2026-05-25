@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding eigenvalues as scaling factors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

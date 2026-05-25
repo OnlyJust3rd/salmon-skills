@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying principles of assigning responsibilities in software design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

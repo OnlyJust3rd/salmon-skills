@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to write assembly code to achieve specific computational goals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

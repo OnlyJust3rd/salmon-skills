@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/digital-multimeter-operation|digital-multimeter-operation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/digital-multimeter-operation|digital-multimeter-operation]]"
 learning-time-in-minutes: 6
 ---
 # Digital Multimeter Operation: Measuring Voltage and Current

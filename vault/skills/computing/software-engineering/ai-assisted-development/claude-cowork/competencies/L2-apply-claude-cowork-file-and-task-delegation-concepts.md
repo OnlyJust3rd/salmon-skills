@@ -45,3 +45,6 @@ Apply Claude Cowork file and task delegation concepts.
 - [[deliverable-review|Deliverable Review]]
 - [[file-organization-task|File Organization Task]]
 - [[synthesis-task|Synthesis Task]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

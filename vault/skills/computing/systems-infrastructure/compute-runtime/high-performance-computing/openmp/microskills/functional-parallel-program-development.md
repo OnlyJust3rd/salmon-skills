@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of working parallel programs using OpenMP features.
+## Related Mediums
+
+![[bases/related-mediums.base]]

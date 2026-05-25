@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cosine-similarity-definition|cosine-similarity-definition]]"
+learning-outcomes:
+  - "[[cosine-similarity-definition|cosine-similarity-definition]]"
 learning-time-in-minutes: 5
 ---
 # Cosine Similarity: Measuring Text "Closeness"

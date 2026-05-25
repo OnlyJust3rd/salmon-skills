@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of character normalization techniques on textual data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

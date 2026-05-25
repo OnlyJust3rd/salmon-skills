@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing which design pattern is appropriate for a particular recurring design problem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

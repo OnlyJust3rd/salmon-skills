@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the foundational concepts governing communication among separate processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

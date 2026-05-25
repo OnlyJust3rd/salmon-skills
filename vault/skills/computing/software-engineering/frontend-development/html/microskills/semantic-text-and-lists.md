@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choose appropriate elements for paragraphs, emphasis, and lists.
+## Related Mediums
+
+![[bases/related-mediums.base]]

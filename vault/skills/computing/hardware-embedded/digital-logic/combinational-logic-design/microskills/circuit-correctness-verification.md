@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Verification of the correctness of designed circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the basic features and uses of CAD software.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/signal-waveform-acquisition|signal-waveform-acquisition]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/signal-waveform-acquisition|signal-waveform-acquisition]]"
 learning-time-in-minutes: 5
 ---
 # Signal Waveform Acquisition with an Oscilloscope

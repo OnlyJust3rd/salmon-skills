@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[environmental-navigation-definition|environmental-navigation-definition]]"
+learning-outcomes:
+  - "[[environmental-navigation-definition|environmental-navigation-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Environmental Navigation for Robots

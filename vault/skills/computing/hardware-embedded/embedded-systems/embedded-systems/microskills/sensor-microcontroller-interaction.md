@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enabling communication between input devices and the control unit.
+## Related Mediums
+
+![[bases/related-mediums.base]]

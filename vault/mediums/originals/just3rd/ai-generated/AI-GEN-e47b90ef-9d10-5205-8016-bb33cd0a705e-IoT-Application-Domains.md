@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-application-domains|iot-application-domains]]"
+learning-outcomes:
+  - "[[iot-application-domains|iot-application-domains]]"
 learning-time-in-minutes: 4
 ---
 # Understanding IoT Application Domains

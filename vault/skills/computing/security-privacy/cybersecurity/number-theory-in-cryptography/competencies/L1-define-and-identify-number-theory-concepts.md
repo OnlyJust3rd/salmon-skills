@@ -46,3 +46,6 @@ Define and identify fundamental number theory concepts relevant to cryptography,
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-definition|Euclidean Algorithm Definition]]
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-definition|Euler's Phi Function Definition]]
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/number-theory-concepts-identification|Number Theory Concepts Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

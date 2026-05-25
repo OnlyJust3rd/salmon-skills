@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the advantages offered by serverless computing in real-world scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

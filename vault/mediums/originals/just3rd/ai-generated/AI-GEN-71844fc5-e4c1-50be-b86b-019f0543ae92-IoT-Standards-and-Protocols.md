@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-standards-and-protocols|iot-standards-and-protocols]]"
+learning-outcomes:
+  - "[[iot-standards-and-protocols|iot-standards-and-protocols]]"
 learning-time-in-minutes: 5
 ---
 # IoT Standards and Protocols: Enabling Communication

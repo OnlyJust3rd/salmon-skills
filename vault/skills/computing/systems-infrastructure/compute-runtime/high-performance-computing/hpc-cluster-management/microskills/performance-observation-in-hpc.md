@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the importance of monitoring for observing HPC cluster performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

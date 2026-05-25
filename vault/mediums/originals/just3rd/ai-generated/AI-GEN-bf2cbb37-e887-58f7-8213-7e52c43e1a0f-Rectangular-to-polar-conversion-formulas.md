@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/rectangular-to-polar-conversion-formulas|rectangular-to-polar-conversion-formulas]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/rectangular-to-polar-conversion-formulas|rectangular-to-polar-conversion-formulas]]"
 learning-time-in-minutes: 4
 ---
 # Rectangular to Polar Coordinate Conversion Formulas

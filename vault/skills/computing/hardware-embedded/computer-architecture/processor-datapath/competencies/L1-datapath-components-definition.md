@@ -45,3 +45,6 @@ Define and identify the key components of a processor datapath, including the AL
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/alu-definition|ALU Definition]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/register-definition|Register Definition]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/bus-definition|Bus Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

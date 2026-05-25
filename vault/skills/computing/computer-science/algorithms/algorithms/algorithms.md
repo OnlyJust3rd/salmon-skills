@@ -125,3 +125,6 @@ Understanding, designing, analyzing, and applying algorithms for solving computa
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/string-searching-concepts|String Searching Concepts]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/tree-based-algorithm-definitions|Tree-Based Algorithm Definitions]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/working-algorithm-solutions|Working Algorithm Solutions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

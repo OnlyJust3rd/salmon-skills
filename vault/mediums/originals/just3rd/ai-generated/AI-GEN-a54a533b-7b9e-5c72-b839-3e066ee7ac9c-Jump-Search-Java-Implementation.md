@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[jump-search-java-implementation|jump-search-java-implementation]]"
+learning-outcomes:
+  - "[[jump-search-java-implementation|jump-search-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Jump Search in Java

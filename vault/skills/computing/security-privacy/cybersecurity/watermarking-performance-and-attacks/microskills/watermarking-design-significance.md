@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the significance of concepts in watermarking design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

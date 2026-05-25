@@ -43,3 +43,6 @@ Describe the structure and syntax of assembly language programs.
 
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/assembly-language-program-organization|Assembly Language Program Organization]]
 - [[skills/computing/programming/programming-languages/assembly-programming/microskills/assembly-language-syntax|Assembly Language Syntax]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

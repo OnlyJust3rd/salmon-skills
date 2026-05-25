@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determination of the dimensions of a product matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

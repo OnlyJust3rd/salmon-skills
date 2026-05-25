@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[efficiency-in-ip-allocation|efficiency-in-ip-allocation]]"
+learning-outcomes:
+  - "[[efficiency-in-ip-allocation|efficiency-in-ip-allocation]]"
 learning-time-in-minutes: 5
 ---
 # Efficiency in IP Allocation: The Advantages of Subnetting

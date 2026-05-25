@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/dashboard-monitoring|dashboard-monitoring]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/dashboard-monitoring|dashboard-monitoring]]"
 learning-time-in-minutes: 6
 ---
 # Dashboard Monitoring for System Performance

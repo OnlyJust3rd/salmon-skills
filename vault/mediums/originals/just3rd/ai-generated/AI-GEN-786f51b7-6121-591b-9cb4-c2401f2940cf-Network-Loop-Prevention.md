@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-loop-prevention|network-loop-prevention]]"
+learning-outcomes:
+  - "[[network-loop-prevention|network-loop-prevention]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Network Loops and STP

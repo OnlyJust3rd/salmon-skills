@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Use of specific filters to modify image data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

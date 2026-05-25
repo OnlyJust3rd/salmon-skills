@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/integral-test-application|integral-test-application]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/integral-test-application|integral-test-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying the Integral Test for Series Convergence

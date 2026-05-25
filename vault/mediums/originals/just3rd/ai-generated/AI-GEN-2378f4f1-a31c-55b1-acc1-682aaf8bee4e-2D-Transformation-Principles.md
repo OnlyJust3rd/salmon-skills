@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/2d-transformation-principles|2d-transformation-principles]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/2d-transformation-principles|2d-transformation-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding 2D Transformation Principles

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core concepts of step-by-step problem-solving.
+## Related Mediums
+
+![[bases/related-mediums.base]]

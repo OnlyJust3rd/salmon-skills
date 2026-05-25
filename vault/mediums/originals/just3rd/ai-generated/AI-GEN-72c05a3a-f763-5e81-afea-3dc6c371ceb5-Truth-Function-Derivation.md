@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/truth-function-derivation|truth-function-derivation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/truth-function-derivation|truth-function-derivation]]"
 learning-time-in-minutes: 4
 ---
 # Deriving Truth Functions from Real-World Problems

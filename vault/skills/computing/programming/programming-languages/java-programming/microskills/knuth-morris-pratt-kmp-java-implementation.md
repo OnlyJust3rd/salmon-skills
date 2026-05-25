@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the KMP string searching algorithm in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

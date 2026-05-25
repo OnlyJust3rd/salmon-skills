@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the best fit for different network scales and purposes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

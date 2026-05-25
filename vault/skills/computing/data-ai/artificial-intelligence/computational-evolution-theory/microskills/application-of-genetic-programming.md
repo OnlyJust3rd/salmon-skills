@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the use of genetic programming in computational evolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

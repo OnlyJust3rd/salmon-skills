@@ -47,3 +47,6 @@ Define the fundamental components and concepts of a memory hierarchy, including 
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-memory-concepts|Cache Memory Concepts]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/main-memory-concepts|Main Memory Concepts]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/secondary-storage-concepts|Secondary Storage Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

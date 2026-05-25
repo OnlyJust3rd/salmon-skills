@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-contribution|static-analysis-contribution]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/static-analysis-contribution|static-analysis-contribution]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Static Analysis Benefits for Software Quality

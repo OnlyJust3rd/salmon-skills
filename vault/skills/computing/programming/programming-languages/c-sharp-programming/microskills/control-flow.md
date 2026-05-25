@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using conditionals and loops in C#.
+## Related Mediums
+
+![[bases/related-mediums.base]]

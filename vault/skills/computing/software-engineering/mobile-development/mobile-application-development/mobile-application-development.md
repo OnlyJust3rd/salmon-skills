@@ -38,3 +38,6 @@ Designing and implementing mobile application structure, screens, state flow, na
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/navigation-state|Navigation State]]
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/screen|Screen]]
 - [[skills/computing/software-engineering/mobile-development/mobile-application-development/microskills/ui-state-update|UI State Update]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

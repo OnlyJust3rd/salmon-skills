@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/application-of-computational-logic|application-of-computational-logic]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/application-of-computational-logic|application-of-computational-logic]]"
 learning-time-in-minutes: 4
 ---
 # Translating Problems into Computational Steps

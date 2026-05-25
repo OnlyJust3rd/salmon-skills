@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-animation/microskills/transition-condition|transition-condition]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-animation/microskills/transition-condition|transition-condition]]"
 learning-time-in-minutes: 4
 ---
 # Controlling Animation Transitions with Conditions

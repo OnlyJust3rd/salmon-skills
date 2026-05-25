@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of modular arithmetic's role in cryptography.
+## Related Mediums
+
+![[bases/related-mediums.base]]

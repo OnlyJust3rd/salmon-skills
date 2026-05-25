@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding staged conversion through a product flow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

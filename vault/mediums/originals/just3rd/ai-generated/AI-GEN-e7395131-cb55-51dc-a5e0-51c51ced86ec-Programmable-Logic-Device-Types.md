@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/programmable-logic-device-types|programmable-logic-device-types]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/programmable-logic-device-types|programmable-logic-device-types]]"
 learning-time-in-minutes: 4
 ---
 # Programmable Logic Device Types

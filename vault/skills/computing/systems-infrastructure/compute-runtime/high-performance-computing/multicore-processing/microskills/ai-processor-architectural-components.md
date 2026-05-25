@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and description of key components within AI Processors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

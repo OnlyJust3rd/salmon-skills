@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how component values influence circuit transient behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding common replacement policies (LRU/FIFO/random) and how they affect performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

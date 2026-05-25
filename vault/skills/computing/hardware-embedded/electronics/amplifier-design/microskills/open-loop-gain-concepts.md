@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of gain without feedback.
+## Related Mediums
+
+![[bases/related-mediums.base]]

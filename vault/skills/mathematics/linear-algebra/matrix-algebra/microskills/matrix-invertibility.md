@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the concept of a matrix having an inverse.
+## Related Mediums
+
+![[bases/related-mediums.base]]

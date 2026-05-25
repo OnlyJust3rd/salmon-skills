@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[boyer-moore-java-implementation|boyer-moore-java-implementation]]"
+learning-outcomes:
+  - "[[boyer-moore-java-implementation|boyer-moore-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Boyer-Moore in Java

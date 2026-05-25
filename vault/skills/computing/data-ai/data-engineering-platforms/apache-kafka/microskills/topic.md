@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding named streams of records.
+## Related Mediums
+
+![[bases/related-mediums.base]]

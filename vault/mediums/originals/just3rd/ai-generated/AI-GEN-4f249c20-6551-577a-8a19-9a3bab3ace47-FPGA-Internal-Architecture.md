@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/fpga-internal-architecture|fpga-internal-architecture]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/fpga-internal-architecture|fpga-internal-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Understanding FPGA Internal Architecture: The Building Blocks

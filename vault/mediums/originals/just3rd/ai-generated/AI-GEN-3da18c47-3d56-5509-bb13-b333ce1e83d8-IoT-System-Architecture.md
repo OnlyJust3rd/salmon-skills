@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-system-architecture|iot-system-architecture]]"
+learning-outcomes:
+  - "[[iot-system-architecture|iot-system-architecture]]"
 learning-time-in-minutes: 5
 ---
 # IoT System Architecture: Layers of Intelligence

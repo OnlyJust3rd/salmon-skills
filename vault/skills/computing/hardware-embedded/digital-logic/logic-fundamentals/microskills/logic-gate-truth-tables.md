@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of truth tables for each basic logic gate.
+## Related Mediums
+
+![[bases/related-mediums.base]]

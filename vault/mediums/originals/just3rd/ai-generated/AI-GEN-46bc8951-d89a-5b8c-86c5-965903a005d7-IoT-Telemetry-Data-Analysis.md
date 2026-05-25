@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/iot-telemetry-data-analysis|iot-telemetry-data-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/iot-telemetry-data-analysis|iot-telemetry-data-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing IoT Telemetry Data: Identifying Trends and Anomalies

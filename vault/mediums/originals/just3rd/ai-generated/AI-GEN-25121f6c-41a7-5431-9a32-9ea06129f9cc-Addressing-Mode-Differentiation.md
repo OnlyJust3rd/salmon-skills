@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/addressing-mode-differentiation|addressing-mode-differentiation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/addressing-mode-differentiation|addressing-mode-differentiation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Addressing Modes: The Key to Instruction Flexibility

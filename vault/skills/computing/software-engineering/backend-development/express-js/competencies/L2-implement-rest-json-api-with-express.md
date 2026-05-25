@@ -47,3 +47,6 @@ Implement a RESTful JSON application programming interface using Express.js on N
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/express-application-setup|Express application setup]]
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/json-route-handlers|JSON route handlers]]
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/error-handling-middleware|Error handling middleware]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

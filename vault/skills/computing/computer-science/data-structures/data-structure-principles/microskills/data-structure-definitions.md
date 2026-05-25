@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall and state the definitions of fundamental data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

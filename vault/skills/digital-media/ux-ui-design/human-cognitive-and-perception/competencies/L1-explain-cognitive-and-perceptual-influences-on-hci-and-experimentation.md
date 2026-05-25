@@ -49,3 +49,6 @@ Explain how human cognitive processes, limitations, perceptual capabilities, and
 - [[perceptual-capability-impact|Perceptual Capability Impact]]
 - [[visual-hierarchy-and-perception|Visual Hierarchy and Perception]]
 - [[experimental-design-influence|Experimental Design Influence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

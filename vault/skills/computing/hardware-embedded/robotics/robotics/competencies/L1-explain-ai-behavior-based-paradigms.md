@@ -45,3 +45,6 @@ Explain the core concepts of AI behavior-based paradigms, particularly as descri
 - [[brooks-ai-contributions|Brooks' AI Contributions]]
 - [[intelligence-without-representation|Intelligence Without Representation]]
 - [[ai-paradigm-fundamentals|AI Paradigm Fundamentals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

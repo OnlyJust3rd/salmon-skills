@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[spi-control-registers|spi-control-registers]]"
+learning-outcomes:
+  - "[[spi-control-registers|spi-control-registers]]"
 learning-time-in-minutes: 5
 ---
 # SPI Control Registers for AVR Microcontrollers

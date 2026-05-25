@@ -43,3 +43,6 @@ Explain the theoretical underpinnings of Artificial Neural Networks as covered i
 - [[fundamental-theoretical-foundations-of-anns|Fundamental Theoretical Foundations of ANNs]]
 - [[core-structures-of-artificial-neural-networks|Core Structures of Artificial Neural Networks]]
 - [[theoretical-principles-in-ann-operation|Theoretical Principles in ANN Operation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -82,3 +82,6 @@ Analyze the financial and operational paradigm shifts of cloud computing, includ
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/serverless-benefits|Serverless Benefits]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/serverless-computing-definition|Serverless Computing Definition]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/spot-instance-pricing|Spot Instance Pricing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

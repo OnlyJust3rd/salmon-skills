@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[java-constructors-role|java-constructors-role]]"
+learning-outcomes:
+  - "[[java-constructors-role|java-constructors-role]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Java Constructors

@@ -45,3 +45,6 @@ Apply strategies for or collaborate effectively in a team to decompose tasks, as
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/role-assignment-application|Role Assignment Application]]
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/project-timeline-establishment|Project Timeline Establishment]]
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/collaborative-project-execution|Collaborative Project Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-layered-models|network-layered-models]]"
+learning-outcomes:
+  - "[[network-layered-models|network-layered-models]]"
 learning-time-in-minutes: 4
 ---
 # Network Layered Models

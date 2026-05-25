@@ -43,3 +43,6 @@ Apply selected computer arithmetic algorithms to compute results and identify ov
 
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/overflow-detection|Overflow Detection]]
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/algorithm-step-execution|Algorithm Step Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

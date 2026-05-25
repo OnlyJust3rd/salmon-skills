@@ -51,3 +51,6 @@ Explain the purpose, functionality, and differences between Verilog data types, 
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-modeling-levels|Verilog Modeling Levels]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/testbench-purpose|Testbench Purpose]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/modeling-level-differences|Modeling Level Differences]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

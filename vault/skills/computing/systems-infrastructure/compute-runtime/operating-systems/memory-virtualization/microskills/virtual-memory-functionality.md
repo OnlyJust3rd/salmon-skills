@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the functionality of virtual memory in operating systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

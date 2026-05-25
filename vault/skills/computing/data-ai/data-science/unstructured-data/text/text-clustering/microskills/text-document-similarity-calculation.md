@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how distance metrics are used to measure similarity between text documents.
+## Related Mediums
+
+![[bases/related-mediums.base]]

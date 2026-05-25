@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interrupt-driven-communication|interrupt-driven-communication]]"
+learning-outcomes:
+  - "[[interrupt-driven-communication|interrupt-driven-communication]]"
 learning-time-in-minutes: 4
 ---
 # Interrupt-Driven Communication

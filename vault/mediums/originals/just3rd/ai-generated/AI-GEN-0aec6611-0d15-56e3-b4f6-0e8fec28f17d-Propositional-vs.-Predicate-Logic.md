@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/propositional-vs-predicate-logic|propositional-vs-predicate-logic]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/propositional-vs-predicate-logic|propositional-vs-predicate-logic]]"
 learning-time-in-minutes: 5
 ---
 # Propositional vs. Predicate Logic: Moving Beyond Simple Statements

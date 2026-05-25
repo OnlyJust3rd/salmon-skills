@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding company code, plant, and related structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

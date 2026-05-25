@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Steps in evaluating user experience.
+## Related Mediums
+
+![[bases/related-mediums.base]]

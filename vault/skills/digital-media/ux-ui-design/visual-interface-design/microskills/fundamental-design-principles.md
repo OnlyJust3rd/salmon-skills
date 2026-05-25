@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of core principles for effective UI design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explain design system components and tokens.
 - [[design-token|Design Token]]
 - [[reusable-component|Reusable Component]]
 - [[pattern-documentation|Pattern Documentation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

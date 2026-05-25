@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-logic-gate-design|diode-logic-gate-design]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/diode-logic-gate-design|diode-logic-gate-design]]"
 learning-time-in-minutes: 11
 ---
 # Diode Logic Gate Design

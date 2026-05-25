@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding operations for Red-Black Trees in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Identify the components of predicate logic, including predicates, variables, qua
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/predicate-logic-components|Predicate Logic Components]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/propositional-vs-predicate-logic|Propositional vs. Predicate Logic]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/expressive-power-of-predicate-logic|Expressive Power of Predicate Logic]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

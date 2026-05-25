@@ -47,3 +47,6 @@ Apply cloud warehouse query and cost concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/partition-pruning|Partition Pruning]]
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/compute-sizing|Compute Sizing]]
 - [[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/query-cost-driver|Query Cost Driver]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the division of IP address space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

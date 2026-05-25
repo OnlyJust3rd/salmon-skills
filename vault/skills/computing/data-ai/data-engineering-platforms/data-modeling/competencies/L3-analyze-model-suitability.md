@@ -45,3 +45,6 @@ Analyze the suitability of different data modeling techniques for specific real-
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/analytical-task-alignment|Analytical Task Alignment]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/effectiveness-evaluation|Effectiveness Evaluation]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/contextual-analysis|Contextual Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

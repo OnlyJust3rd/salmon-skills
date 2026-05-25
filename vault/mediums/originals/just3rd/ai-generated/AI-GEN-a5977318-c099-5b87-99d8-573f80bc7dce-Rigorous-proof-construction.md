@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/mathematical-induction/microskills/rigorous-proof-construction|rigorous-proof-construction]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/mathematical-induction/microskills/rigorous-proof-construction|rigorous-proof-construction]]"
 learning-time-in-minutes: 4
 ---
 # Constructing Rigorous Proofs for Integers

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[performance-measurement-techniques|performance-measurement-techniques]]"
+learning-outcomes:
+  - "[[performance-measurement-techniques|performance-measurement-techniques]]"
 learning-time-in-minutes: 5
 ---
 # Measuring Network Performance: Throughput, Latency, and Jitter

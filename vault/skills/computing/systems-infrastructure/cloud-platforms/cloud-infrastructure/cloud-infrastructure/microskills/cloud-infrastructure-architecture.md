@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of how these components work together.
+## Related Mediums
+
+![[bases/related-mediums.base]]

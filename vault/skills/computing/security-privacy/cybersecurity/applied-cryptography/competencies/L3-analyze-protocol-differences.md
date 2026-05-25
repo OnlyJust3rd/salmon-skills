@@ -51,3 +51,6 @@ Analyze the differences in cryptographic implementation and security goals betwe
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ssl-tls-security-goals|SSL/TLS Security Goals]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/cryptographic-implementation-differences|Cryptographic Implementation Differences]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/security-goal-differences|Security Goal Differences]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

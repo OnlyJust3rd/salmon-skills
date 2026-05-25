@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of quantization error and its relationship to converter resolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

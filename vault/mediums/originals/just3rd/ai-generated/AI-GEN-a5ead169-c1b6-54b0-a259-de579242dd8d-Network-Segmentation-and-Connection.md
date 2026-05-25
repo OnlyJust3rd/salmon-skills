@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-segmentation-and-connection|network-segmentation-and-connection]]"
+learning-outcomes:
+  - "[[network-segmentation-and-connection|network-segmentation-and-connection]]"
 learning-time-in-minutes: 4
 ---
 # Joining Small Networks: Principles of Network Segmentation and Connection

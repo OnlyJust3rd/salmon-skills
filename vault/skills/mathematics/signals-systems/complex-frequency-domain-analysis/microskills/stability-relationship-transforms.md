@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining how poles, zeros, and ROC relate to system stability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

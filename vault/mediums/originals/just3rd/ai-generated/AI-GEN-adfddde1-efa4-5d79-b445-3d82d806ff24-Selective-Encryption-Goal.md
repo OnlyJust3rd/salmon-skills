@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/selective-encryption-goal|selective-encryption-goal]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/selective-encryption-goal|selective-encryption-goal]]"
 learning-time-in-minutes: 4
 ---
 # The Core Goal of Selective Encryption

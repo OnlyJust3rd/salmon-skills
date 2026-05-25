@@ -38,3 +38,6 @@ Using Cursor as an AI code editor for codebase search, agent mode, manual edits,
 - [[diff-review|Diff Review]]
 - [[manual-mode|Manual Mode]]
 - [[multi-file-edit|Multi-File Edit]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explain the fundamental characteristics of symmetric key algorithms (classical/m
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/block-cipher-types|Block Cipher Types]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/stream-cipher-types|Stream Cipher Types]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-algorithm-examples|Symmetric Algorithm Examples]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

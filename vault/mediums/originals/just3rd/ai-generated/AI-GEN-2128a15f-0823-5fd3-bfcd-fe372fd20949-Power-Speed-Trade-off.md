@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/power-speed-trade-off|power-speed-trade-off]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-families/microskills/power-speed-trade-off|power-speed-trade-off]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Power-Speed Trade-off in Logic Families

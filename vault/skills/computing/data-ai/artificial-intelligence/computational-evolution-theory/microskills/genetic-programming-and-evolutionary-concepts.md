@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of how biological evolution inspires genetic programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental principles of how operating systems manage memory.
+## Related Mediums
+
+![[bases/related-mediums.base]]

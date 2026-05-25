@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the functional operation of logic gate ICs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

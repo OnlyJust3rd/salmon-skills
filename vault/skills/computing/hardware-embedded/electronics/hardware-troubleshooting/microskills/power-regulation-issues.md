@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of power regulation issues as challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -48,3 +48,6 @@ Building and programming robotic systems, integrating mechanical and electronic 
 - [[standard-robotic-components|Standard Robotic Components]]
 - [[task-oriented-robotic-implementation|Task-Oriented Robotic Implementation]]
 - [[wheeled-components|Wheeled Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

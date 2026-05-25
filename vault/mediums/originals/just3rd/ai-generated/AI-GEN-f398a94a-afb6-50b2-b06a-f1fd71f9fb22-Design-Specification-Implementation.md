@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[design-specification-implementation|design-specification-implementation]]"
+learning-outcomes:
+  - "[[design-specification-implementation|design-specification-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Design Specifications: Building Interactive Prototypes

@@ -47,3 +47,6 @@ Apply the Gram-Schmidt Process to construct an orthogonal or orthonormal basis f
 - [[orthogonal-basis-construction|Orthogonal basis construction]]
 - [[orthonormal-basis-construction|Orthonormal basis construction]]
 - [[subspace-spanning|Subspace spanning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

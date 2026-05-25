@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/control-unit-trade-off-reasoning|control-unit-trade-off-reasoning]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/control-unit-trade-off-reasoning|control-unit-trade-off-reasoning]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating Control Unit Design Trade-offs

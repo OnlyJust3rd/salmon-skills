@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Breakdown of step-by-step operations in AES.
+## Related Mediums
+
+![[bases/related-mediums.base]]

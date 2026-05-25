@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining complexity of single and nested loops.
+## Related Mediums
+
+![[bases/related-mediums.base]]

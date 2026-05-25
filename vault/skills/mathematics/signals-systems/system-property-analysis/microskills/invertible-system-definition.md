@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the criteria for an invertible system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

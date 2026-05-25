@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of shared responsibility for cloud costs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

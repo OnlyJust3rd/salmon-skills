@@ -38,3 +38,6 @@ Design Digital Rights Management (DRM) mechanisms that integrate encryption, acc
 - [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/drm-enforcement-mechanisms|DRM Enforcement Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/drm-system-functionality|DRM System Functionality]]
 - [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/user-access-management|User Access Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

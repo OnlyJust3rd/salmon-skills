@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the definition of classification techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

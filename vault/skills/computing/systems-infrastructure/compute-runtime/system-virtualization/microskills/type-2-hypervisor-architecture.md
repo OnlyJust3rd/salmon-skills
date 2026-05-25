@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of hosted hypervisor design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Deriving required control signals per execution step for a given datapath.
+## Related Mediums
+
+![[bases/related-mediums.base]]

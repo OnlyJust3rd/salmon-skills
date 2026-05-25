@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing C code to receive data serially.
+## Related Mediums
+
+![[bases/related-mediums.base]]

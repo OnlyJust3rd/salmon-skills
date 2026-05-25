@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Conceptual understanding of operating system resource management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

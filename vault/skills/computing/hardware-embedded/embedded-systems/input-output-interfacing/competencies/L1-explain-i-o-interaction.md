@@ -43,3 +43,6 @@ Explain the fundamental principles of how input and output devices interact with
 
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/i-o-device-interaction-principles|I/O Device Interaction Principles]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/data-transfer-mechanisms-i-o|Data Transfer Mechanisms (I/O)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

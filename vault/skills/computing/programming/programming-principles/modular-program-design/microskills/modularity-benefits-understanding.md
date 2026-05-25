@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of advantages like code reuse, maintainability, and testability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

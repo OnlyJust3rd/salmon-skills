@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of principles of workspace awareness in conversational technologies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

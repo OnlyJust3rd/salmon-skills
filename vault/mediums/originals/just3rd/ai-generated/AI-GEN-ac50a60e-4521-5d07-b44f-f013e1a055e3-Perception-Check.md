@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-ai/microskills/perception-check|perception-check]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-ai/microskills/perception-check|perception-check]]"
 learning-time-in-minutes: 3
 ---
 # Perception Check: How NPCs See the Game World

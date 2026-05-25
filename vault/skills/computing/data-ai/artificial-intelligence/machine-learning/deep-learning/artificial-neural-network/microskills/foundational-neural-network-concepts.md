@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the core ideas underpinning basic neural networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

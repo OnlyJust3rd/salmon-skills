@@ -38,3 +38,6 @@ Explain core Extreme Programming practices and how they support feedback, qualit
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/pair-programming|Pair Programming]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/test-driven-development-practice|Test Driven Development Practice]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/simple-design-practice|Simple Design Practice]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of how oscilloscopes function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

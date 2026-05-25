@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interaction-style-consideration|interaction-style-consideration]]"
+learning-outcomes:
+  - "[[interaction-style-consideration|interaction-style-consideration]]"
 learning-time-in-minutes: 5
 ---
 # Understanding and Applying Interaction Styles in Interface Design

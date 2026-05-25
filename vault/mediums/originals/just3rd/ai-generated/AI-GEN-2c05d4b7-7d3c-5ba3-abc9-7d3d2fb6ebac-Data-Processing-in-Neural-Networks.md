@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-processing-in-neural-networks|data-processing-in-neural-networks]]"
+learning-outcomes:
+  - "[[data-processing-in-neural-networks|data-processing-in-neural-networks]]"
 learning-time-in-minutes: 4
 ---
 # Data Processing in Neural Networks: The Neuron's Journey

@@ -45,3 +45,6 @@ Apply mesh and nodal analysis to solve for unknown voltages and currents in DC a
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/nodal-analysis-application|Nodal Analysis Application]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/dc-circuit-analysis|DC Circuit Analysis]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/ac-circuit-analysis|AC Circuit Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

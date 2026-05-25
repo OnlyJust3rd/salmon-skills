@@ -45,3 +45,6 @@ Apply Hadoop batch processing concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/input-split|Input Split]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/mapper-output|Mapper Output]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-hadoop/microskills/reducer-output|Reducer Output]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Planning milestones and dependencies around a sequential lifecycle.
+## Related Mediums
+
+![[bases/related-mediums.base]]

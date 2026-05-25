@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/system-architecture-representation|system-architecture-representation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/system-architecture-representation|system-architecture-representation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding UML Diagrams for System Architecture

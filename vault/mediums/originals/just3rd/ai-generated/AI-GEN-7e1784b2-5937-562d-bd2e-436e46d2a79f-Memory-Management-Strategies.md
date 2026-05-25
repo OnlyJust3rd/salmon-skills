@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-strategies|memory-management-strategies]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/memory-management-strategies|memory-management-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Memory Management Strategies in Operating Systems

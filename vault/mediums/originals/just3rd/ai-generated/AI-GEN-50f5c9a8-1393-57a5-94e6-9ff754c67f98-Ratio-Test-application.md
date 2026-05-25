@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/ratio-test-application|ratio-test-application]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/ratio-test-application|ratio-test-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying the Ratio Test for Series Convergence

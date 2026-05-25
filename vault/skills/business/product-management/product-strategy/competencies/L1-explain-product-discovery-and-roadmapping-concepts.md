@@ -47,3 +47,6 @@ Explain product discovery and roadmapping concepts.
 - [[skills/business/product-management/product-strategy/microskills/customer-problem|Customer Problem]]
 - [[skills/business/product-management/product-strategy/microskills/roadmap-theme|Roadmap Theme]]
 - [[skills/business/product-management/product-strategy/microskills/value-proposition|Value Proposition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

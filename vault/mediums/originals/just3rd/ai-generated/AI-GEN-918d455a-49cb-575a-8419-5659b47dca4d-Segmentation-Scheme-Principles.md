@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/segmentation-scheme-principles|segmentation-scheme-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/segmentation-scheme-principles|segmentation-scheme-principles]]"
 learning-time-in-minutes: 4
 ---
 # Segmentation Scheme Principles

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/concavity-analysis-using-second-derivative|concavity-analysis-using-second-derivative]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/concavity-analysis-using-second-derivative|concavity-analysis-using-second-derivative]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Concavity with the Second Derivative

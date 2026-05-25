@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Understanding various strategies to manage network traffic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

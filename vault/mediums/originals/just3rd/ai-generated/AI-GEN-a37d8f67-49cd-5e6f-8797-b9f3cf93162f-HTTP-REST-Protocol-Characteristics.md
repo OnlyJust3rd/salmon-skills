@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[http-rest-protocol-characteristics|http-rest-protocol-characteristics]]"
+learning-outcomes:
+  - "[[http-rest-protocol-characteristics|http-rest-protocol-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # HTTP/REST Protocol Characteristics

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/higher-order-derivative-computations|higher-order-derivative-computations]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/higher-order-derivative-computations|higher-order-derivative-computations]]"
 learning-time-in-minutes: 2
 ---
 # Computing Higher-Order Derivatives

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[heuristic-evaluation-application|heuristic-evaluation-application]]"
+learning-outcomes:
+  - "[[heuristic-evaluation-application|heuristic-evaluation-application]]"
 learning-time-in-minutes: 6
 ---
 # Applying Heuristic Evaluation to Interactive Systems

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/engagement-enhancement-through-interaction|engagement-enhancement-through-interaction]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/engagement-enhancement-through-interaction|engagement-enhancement-through-interaction]]"
 learning-time-in-minutes: 5
 ---
 # Engagement Enhancement through Interaction

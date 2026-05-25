@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[protocol-purpose|protocol-purpose]]"
+learning-outcomes:
+  - "[[protocol-purpose|protocol-purpose]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Application Protocol Purposes

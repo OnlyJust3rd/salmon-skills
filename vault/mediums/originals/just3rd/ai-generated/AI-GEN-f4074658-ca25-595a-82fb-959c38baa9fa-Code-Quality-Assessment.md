@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/code-quality/refactoring/microskills/code-quality-assessment|code-quality-assessment]]"
+learning-outcomes:
+  - "[[skills/computing/programming/code-quality/refactoring/microskills/code-quality-assessment|code-quality-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing Code Quality for Refactoring

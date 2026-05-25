@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding stable physics update intervals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

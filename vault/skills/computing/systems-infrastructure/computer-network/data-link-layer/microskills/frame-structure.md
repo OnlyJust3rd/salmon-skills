@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the components of a data link frame.
+## Related Mediums
+
+![[bases/related-mediums.base]]

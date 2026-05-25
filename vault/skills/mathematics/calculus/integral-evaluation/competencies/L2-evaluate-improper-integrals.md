@@ -45,3 +45,6 @@ Evaluate improper integrals using limits and determine whether they converge or 
 
 - [[improper-integral-setup-as-a-limit|Improper integral setup as a limit]]
 - [[convergence-vs-divergence|Convergence vs divergence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

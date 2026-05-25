@@ -43,3 +43,6 @@ Analyze the components of the Process Control Block (PCB) and their role in proc
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-control-block-structure|Process Control Block Structure]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/pcb-role-in-process-management|PCB Role in Process Management]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/kernel-operations-and-pcb|Kernel Operations and PCB]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing Neural Encoder-Decoder or Transformer models for summarization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

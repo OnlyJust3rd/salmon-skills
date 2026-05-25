@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-principles|modular-decomposition-principles]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-principles|modular-decomposition-principles]]"
 learning-time-in-minutes: 5
 ---
 # Modular Decomposition Principles

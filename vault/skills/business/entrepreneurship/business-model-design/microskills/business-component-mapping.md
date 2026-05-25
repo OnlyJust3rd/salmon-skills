@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Visually organizing core business assumptions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

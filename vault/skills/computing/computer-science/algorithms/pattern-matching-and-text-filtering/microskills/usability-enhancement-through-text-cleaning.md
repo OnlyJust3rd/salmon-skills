@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying methods to improve the utility of textual data by removing noise.
+## Related Mediums
+
+![[bases/related-mediums.base]]

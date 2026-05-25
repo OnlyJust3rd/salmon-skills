@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of pay-as-you-go pricing without commitment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

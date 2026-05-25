@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying Gaussian elimination to find bases for row and column spaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

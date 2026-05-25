@@ -49,3 +49,6 @@ Explain the trade-offs between compression ratio and image quality, and describe
 - [[skills/digital-media/computer-graphics/image-compression/microskills/intra-frame-efficiency|Intra-frame Efficiency]]
 - [[skills/digital-media/computer-graphics/image-compression/microskills/inter-frame-efficiency|Inter-frame Efficiency]]
 - [[skills/digital-media/computer-graphics/image-compression/microskills/motion-estimation-and-compensation|Motion Estimation and Compensation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

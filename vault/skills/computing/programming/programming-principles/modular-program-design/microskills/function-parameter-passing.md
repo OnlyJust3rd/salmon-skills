@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skill in passing arguments to C functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

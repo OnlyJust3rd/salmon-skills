@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[file-attributes-and-ownership|file-attributes-and-ownership]]"
+learning-outcomes:
+  - "[[file-attributes-and-ownership|file-attributes-and-ownership]]"
 learning-time-in-minutes: 4
 ---
 # File Attributes and Ownership in Linux

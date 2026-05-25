@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/time-shifting-impact|time-shifting-impact]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/time-shifting-impact|time-shifting-impact]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Time Shifting in Signals

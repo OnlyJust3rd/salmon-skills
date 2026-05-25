@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting findings to understand system effectiveness and efficiency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

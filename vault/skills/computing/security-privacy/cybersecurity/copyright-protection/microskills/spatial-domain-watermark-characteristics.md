@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing features of watermarks in the spatial domain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

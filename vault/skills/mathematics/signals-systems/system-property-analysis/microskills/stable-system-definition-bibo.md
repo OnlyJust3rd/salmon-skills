@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the criteria for bounded-input, bounded-output (BIBO) stable systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

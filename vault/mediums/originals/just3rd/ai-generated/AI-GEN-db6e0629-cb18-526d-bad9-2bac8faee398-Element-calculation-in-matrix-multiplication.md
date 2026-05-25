@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/element-calculation-in-matrix-multiplication|element-calculation-in-matrix-multiplication]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/element-calculation-in-matrix-multiplication|element-calculation-in-matrix-multiplication]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Elements in Matrix Multiplication

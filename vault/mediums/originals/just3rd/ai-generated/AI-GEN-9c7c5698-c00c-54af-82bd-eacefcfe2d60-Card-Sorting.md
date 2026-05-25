@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[card-sorting|card-sorting]]"
+learning-outcomes:
+  - "[[card-sorting|card-sorting]]"
 learning-time-in-minutes: 5
 ---
 # Card Sorting: Organizing Information Architecture

@@ -43,3 +43,6 @@ Apply principles of user experience (UX) to conceptualize and sketch initial int
 - [[user-experience-principles-application|User Experience Principles Application]]
 - [[initial-interface-concepts|Initial Interface Concepts]]
 - [[sketching-design-alternatives|Sketching Design Alternatives]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

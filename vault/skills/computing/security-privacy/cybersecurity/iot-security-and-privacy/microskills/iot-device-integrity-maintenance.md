@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how to maintain device integrity through secure practices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

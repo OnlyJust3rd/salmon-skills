@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/problem-solving-endeavor|problem-solving-endeavor]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/problem-solving-endeavor|problem-solving-endeavor]]"
 learning-time-in-minutes: 5
 ---
 # Problem-Solving Endeavor in Software Engineering

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the criteria for a function of multiple variables to be continuous at a point.
+## Related Mediums
+
+![[bases/related-mediums.base]]

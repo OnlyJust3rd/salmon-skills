@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-segmentation|data-segmentation]]"
+learning-outcomes:
+  - "[[data-segmentation|data-segmentation]]"
 learning-time-in-minutes: 3
 ---
 # Data Segmentation: Breaking Down the Message

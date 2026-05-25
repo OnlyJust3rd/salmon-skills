@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/team-task-decomposition|team-task-decomposition]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/team-task-decomposition|team-task-decomposition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Team Task Decomposition

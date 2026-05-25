@@ -32,3 +32,6 @@ Explaining fundamental computer network architectures and protocol stacks (e.g.,
 - [[protocol-stack-functions|Protocol Stack Functions]]
 - [[purpose-of-network-layers|Purpose of Network Layers]]
 - [[tcp-ip-model-layers|TCP/IP Model Layers]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

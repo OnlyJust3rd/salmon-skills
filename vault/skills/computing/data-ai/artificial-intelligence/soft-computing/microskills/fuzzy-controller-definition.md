@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Precise statement of the definition of fuzzy controllers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

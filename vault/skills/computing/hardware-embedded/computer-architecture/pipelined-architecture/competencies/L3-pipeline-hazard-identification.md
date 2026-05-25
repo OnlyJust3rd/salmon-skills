@@ -45,3 +45,6 @@ Identify structural, data, and control hazards in a pipelined instruction stream
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/structural-hazard-identification|Structural Hazard Identification]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/data-hazard-identification|Data Hazard Identification]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/control-hazard-identification|Control Hazard Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

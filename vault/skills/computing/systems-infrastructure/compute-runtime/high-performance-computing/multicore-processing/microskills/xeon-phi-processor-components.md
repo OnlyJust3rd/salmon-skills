@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and description of key components within Intel Xeon Phi processors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

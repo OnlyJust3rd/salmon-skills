@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying model, view, and controller responsibilities in a design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

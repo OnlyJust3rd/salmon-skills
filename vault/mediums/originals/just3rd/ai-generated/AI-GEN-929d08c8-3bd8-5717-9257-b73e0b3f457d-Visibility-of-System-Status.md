@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[visibility-of-system-status|visibility-of-system-status]]"
+learning-outcomes:
+  - "[[visibility-of-system-status|visibility-of-system-status]]"
 learning-time-in-minutes: 5
 ---
 # Visibility of System Status

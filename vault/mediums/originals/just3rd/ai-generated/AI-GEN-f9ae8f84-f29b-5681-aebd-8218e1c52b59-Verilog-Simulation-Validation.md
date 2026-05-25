@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-simulation-validation|verilog-simulation-validation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-simulation-validation|verilog-simulation-validation]]"
 learning-time-in-minutes: 3
 ---
 # Validating Verilog Module Behavior with Testbenches

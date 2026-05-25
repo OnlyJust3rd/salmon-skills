@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Delegating a multi-step coding task to Copilot agent mode.
+## Related Mediums
+
+![[bases/related-mediums.base]]

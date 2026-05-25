@@ -57,3 +57,6 @@ Analyze the environmental and social impacts of technology, including issues rel
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/societal-behavior-influence|Societal Behavior Influence]]
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/technological-advancement-impacts|Technological Advancement Impacts]]
 - [[skills/professional-practice/technology-society/technology-impact-analysis/microskills/widespread-ev-adoption-analysis|Widespread EV Adoption Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

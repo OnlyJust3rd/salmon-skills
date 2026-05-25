@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[subset-generation-backtracking-java-implementation|subset-generation-backtracking-java-implementation]]"
+learning-outcomes:
+  - "[[subset-generation-backtracking-java-implementation|subset-generation-backtracking-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Subset Generation using Backtracking in Java

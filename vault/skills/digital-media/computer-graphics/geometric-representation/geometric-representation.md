@@ -40,3 +40,6 @@ Representing geometric primitives including points, lines, polygons, and curves 
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/mathematical-modeling-of-primitives|Mathematical Modeling of Primitives]]
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/points-and-lines|Points and Lines]]
 - [[skills/digital-media/computer-graphics/geometric-representation/microskills/polygons|Polygons]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

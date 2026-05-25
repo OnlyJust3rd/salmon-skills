@@ -47,3 +47,6 @@ Explain the concepts of race conditions, critical sections, and the need for syn
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/critical-section-concepts|Critical Section Concepts]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/synchronization-mechanism-necessity|Synchronization Mechanism Necessity]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-need|Mutual Exclusion Need]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

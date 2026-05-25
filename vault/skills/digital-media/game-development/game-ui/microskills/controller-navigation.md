@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Supporting non-pointer input across UI elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/multiplexer-function-explanation|multiplexer-function-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/multiplexer-function-explanation|multiplexer-function-explanation]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Multiplexers

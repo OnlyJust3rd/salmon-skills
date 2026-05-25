@@ -48,3 +48,6 @@ Implementing network applications using socket programming interfaces for commun
 - [[socket-communication-flow|Socket Communication Flow]]
 - [[socket-programming-implementation|Socket Programming Implementation]]
 - [[socket-programming-interfaces|Socket Programming Interfaces]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

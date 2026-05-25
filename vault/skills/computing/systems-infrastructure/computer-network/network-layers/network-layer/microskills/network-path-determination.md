@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the process of finding the route for data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying the theorem to find relationships between dimensions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

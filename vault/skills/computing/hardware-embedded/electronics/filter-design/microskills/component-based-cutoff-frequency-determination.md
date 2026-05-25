@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculation of cutoff frequency based on circuit component values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

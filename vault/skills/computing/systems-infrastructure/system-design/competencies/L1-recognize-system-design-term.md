@@ -45,3 +45,8 @@ This is hirable at intern or junior level when a candidate can name the basic bu
 - [[throughput|Throughput]]
 - [[sql-database-selection|SQL Database Selection]]
 - [[nosql-database-selection|NoSQL Database Selection]]
+
+## Related Mediums
+
+![[bases/related-mediums.base]]
+

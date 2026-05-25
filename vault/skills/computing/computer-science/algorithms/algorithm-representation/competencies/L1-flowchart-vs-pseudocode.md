@@ -45,3 +45,6 @@ Compare and contrast the representation of algorithms using flowcharts versus ps
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/visual-representation-comparison|Visual representation comparison]]
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/textual-representation-comparison|Textual representation comparison]]
 - [[skills/computing/computer-science/algorithms/algorithm-representation/microskills/suitability-analysis|Suitability analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

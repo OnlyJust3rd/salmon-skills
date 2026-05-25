@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How different parts of a business model interact.
+## Related Mediums
+
+![[bases/related-mediums.base]]

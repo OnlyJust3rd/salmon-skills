@@ -47,3 +47,6 @@ Describe how user feedback from interviews and testing informs MVP iteration.
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/feedback-driven-iteration|Feedback-Driven Iteration]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/user-insight-integration|User Insight Integration]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/mvp-improvement-cycle|MVP Improvement Cycle]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

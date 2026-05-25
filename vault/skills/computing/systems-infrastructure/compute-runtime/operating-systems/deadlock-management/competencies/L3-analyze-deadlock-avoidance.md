@@ -45,3 +45,6 @@ Analyze the trade-offs between different deadlock avoidance algorithms (e.g., Ba
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-avoidance-safety|Deadlock Avoidance Safety]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|Deadlock Avoidance Efficiency]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/trade-offs-in-avoidance-algorithms|Trade-offs in Avoidance Algorithms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

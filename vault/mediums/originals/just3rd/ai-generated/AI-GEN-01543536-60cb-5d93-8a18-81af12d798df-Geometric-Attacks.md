@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attacks|geometric-attacks]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attacks|geometric-attacks]]"
 learning-time-in-minutes: 4
 ---
 # Geometric Attacks on Digital Watermarks

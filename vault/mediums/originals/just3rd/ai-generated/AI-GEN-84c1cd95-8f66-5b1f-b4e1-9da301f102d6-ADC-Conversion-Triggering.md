@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[adc-conversion-triggering|adc-conversion-triggering]]"
+learning-outcomes:
+  - "[[adc-conversion-triggering|adc-conversion-triggering]]"
 learning-time-in-minutes: 5
 ---
 # ADC Conversion Triggering

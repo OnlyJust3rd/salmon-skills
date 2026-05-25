@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|workload-scenario-suitability]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/workload-scenario-suitability|workload-scenario-suitability]]"
 learning-time-in-minutes: 3
 ---
 # Matching Scheduling Algorithms to Workloads

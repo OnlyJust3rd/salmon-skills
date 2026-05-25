@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in setting up and running a Prometheus server.
+## Related Mediums
+
+![[bases/related-mediums.base]]

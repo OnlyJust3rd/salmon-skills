@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Installing and updating endpoint applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

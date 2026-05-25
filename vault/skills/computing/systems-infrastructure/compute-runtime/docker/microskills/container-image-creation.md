@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in building a functional Docker image from a Dockerfile.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[knapsack-branch-and-bound-java-implementation|knapsack-branch-and-bound-java-implementation]]"
+learning-outcomes:
+  - "[[knapsack-branch-and-bound-java-implementation|knapsack-branch-and-bound-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Knapsack with Branch and Bound in Java

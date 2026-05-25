@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/proof-techniques/microskills/recursive-problem-solving|recursive-problem-solving]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/proof-techniques/microskills/recursive-problem-solving|recursive-problem-solving]]"
 learning-time-in-minutes: 4
 ---
 # Recursive Problem Solving

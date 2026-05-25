@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-allocation|virtual-memory-allocation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-memory-allocation|virtual-memory-allocation]]"
 learning-time-in-minutes: 4
 ---
 # Virtual Memory Allocation: Understanding How VMs Get Their RAM

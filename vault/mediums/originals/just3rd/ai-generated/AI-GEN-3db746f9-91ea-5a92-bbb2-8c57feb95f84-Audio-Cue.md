@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-audio/microskills/audio-cue|audio-cue]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-audio/microskills/audio-cue|audio-cue]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Audio Cues in Games

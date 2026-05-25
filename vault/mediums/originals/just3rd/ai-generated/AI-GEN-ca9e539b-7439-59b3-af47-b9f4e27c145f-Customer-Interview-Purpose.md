@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/customer-interview-purpose|customer-interview-purpose]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/customer-interview-purpose|customer-interview-purpose]]"
 learning-time-in-minutes: 4
 ---
 # The Purpose of Customer Discovery Interviews

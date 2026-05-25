@@ -80,3 +80,6 @@ Explore advanced HCI topics including extended reality, social computing, and fu
 - [[vr-and-ar-positioning|VR and AR Positioning]]
 - [[workspace-awareness-principles|Workspace Awareness Principles]]
 - [[xr-development-tools|XR Development Tools]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

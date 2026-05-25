@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/action-planning/microskills/task-to-milestone-mapping|task-to-milestone-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/action-planning/microskills/task-to-milestone-mapping|task-to-milestone-mapping]]"
 learning-time-in-minutes: 5
 ---
 # Linking Tasks to Milestones: The Backbone of Your Project Plan

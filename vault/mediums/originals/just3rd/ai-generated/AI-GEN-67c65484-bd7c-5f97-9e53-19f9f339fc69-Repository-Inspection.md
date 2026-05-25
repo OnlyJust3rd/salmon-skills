@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/repository-inspection|repository-inspection]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-code/microskills/repository-inspection|repository-inspection]]"
 learning-time-in-minutes: 3
 ---
 # Repository Inspection: Understanding Your Codebase

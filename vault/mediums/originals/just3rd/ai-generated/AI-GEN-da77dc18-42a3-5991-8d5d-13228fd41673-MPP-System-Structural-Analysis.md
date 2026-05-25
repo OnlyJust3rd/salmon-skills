@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/mpp-system-structural-analysis|mpp-system-structural-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/mpp-system-structural-analysis|mpp-system-structural-analysis]]"
 learning-time-in-minutes: 5
 ---
 # MPP System Structural Analysis

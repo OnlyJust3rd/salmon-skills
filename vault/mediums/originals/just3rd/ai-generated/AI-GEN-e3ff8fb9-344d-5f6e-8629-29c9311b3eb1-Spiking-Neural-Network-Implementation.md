@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/spiking-neural-network-implementation|spiking-neural-network-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/spiking-neural-network-implementation|spiking-neural-network-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing a Basic Spiking Neural Network

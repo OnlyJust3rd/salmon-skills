@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/curve-modeling/microskills/parametric-curve-definition|parametric-curve-definition]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/curve-modeling/microskills/parametric-curve-definition|parametric-curve-definition]]"
 learning-time-in-minutes: 3
 ---
 # Parametric Curve Definition

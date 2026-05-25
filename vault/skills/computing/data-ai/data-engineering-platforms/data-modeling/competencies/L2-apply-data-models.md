@@ -45,3 +45,6 @@ Apply suitable data modeling techniques to structure a given real-world dataset.
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/data-structuring|Data Structuring]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/real-world-dataset-representation|Real-World Dataset Representation]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/model-implementation|Model Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to design for high availability using multiple zones.
+## Related Mediums
+
+![[bases/related-mediums.base]]

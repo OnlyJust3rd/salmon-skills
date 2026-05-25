@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role and characteristics of the user interface tier.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -57,3 +57,6 @@ Integrating IoT devices with cloud platforms and orchestrating data using APIs a
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/rest-api-definition|REST API Definition]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/restful-service-interaction|RESTful Service Interaction]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/microskills/visual-dashboard-design|Visual Dashboard Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

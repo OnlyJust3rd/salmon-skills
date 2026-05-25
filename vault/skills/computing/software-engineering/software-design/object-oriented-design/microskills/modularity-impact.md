@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the impact of modularity on system design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to define and configure infrastructure components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

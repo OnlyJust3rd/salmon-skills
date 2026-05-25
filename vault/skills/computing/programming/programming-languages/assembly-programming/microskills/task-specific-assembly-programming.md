@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Development of assembly programs tailored to particular tasks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the processes employed by DRM to secure media.
+## Related Mediums
+
+![[bases/related-mediums.base]]

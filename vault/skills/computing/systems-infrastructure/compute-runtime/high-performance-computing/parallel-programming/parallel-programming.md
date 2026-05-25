@@ -66,3 +66,6 @@ Understanding concept and abstraction of parallel programming models across shar
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/parallel-model-terminology|Parallel Model Terminology]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/process-synchronization-python|Process Synchronization (Python)]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/python-multiprocessing-module-usage|Python Multiprocessing Module Usage]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/image-compression/microskills/image-compression-principles|image-compression-principles]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/image-compression/microskills/image-compression-principles|image-compression-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Image Compression: The Basics

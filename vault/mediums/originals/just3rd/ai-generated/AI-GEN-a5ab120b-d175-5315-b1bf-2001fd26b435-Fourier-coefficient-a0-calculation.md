@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/fourier-coefficient-a0-calculation|fourier-coefficient-a0-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-computation/microskills/fourier-coefficient-a0-calculation|fourier-coefficient-a0-calculation]]"
 learning-time-in-minutes: 3
 ---
 # Calculating the Fourier Series Coefficient \(a_0\)

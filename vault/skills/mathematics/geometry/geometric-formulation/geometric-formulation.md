@@ -76,3 +76,6 @@ Ability to formulate the equations of lines and planes in 3-dimensional space us
 - [[standard-plane-equation-definition|Standard plane equation definition]]
 - [[vector-projections-for-point-line-distance|Vector projections for point-line distance]]
 - [[vector-projections-for-point-plane-distance|Vector projections for point-plane distance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

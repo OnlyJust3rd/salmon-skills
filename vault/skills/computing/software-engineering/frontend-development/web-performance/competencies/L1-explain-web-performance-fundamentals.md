@@ -47,3 +47,6 @@ Explain web performance fundamentals, including loading, rendering, responsivene
 - [[skills/computing/software-engineering/frontend-development/web-performance/microskills/loading-performance|Loading Performance]]
 - [[skills/computing/software-engineering/frontend-development/web-performance/microskills/rendering-performance|Rendering Performance]]
 - [[skills/computing/software-engineering/frontend-development/web-performance/microskills/perceived-latency|Perceived Latency]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

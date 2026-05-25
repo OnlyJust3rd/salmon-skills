@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/user-value-assessment|user-value-assessment]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/user-value-assessment|user-value-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing User Value for MVP Features

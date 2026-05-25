@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Correct placement of components on a breadboard.
+## Related Mediums
+
+![[bases/related-mediums.base]]

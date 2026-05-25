@@ -5,8 +5,9 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[memory-ownership|memory-ownership]]"
-learning-time-in-minutes: 2
+learning-outcomes:
+  - "[[memory-ownership|memory-ownership]]"
+learning-time-in-minutes: 46
 ---
 # Memory Ownership in C++
 

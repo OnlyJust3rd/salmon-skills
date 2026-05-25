@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[methodologies-for-robotic-intelligence|methodologies-for-robotic-intelligence]]"
+learning-outcomes:
+  - "[[methodologies-for-robotic-intelligence|methodologies-for-robotic-intelligence]]"
 learning-time-in-minutes: 5
 ---
 # Methodologies for Robotic Intelligence: Internal Models vs. Reactive Approaches

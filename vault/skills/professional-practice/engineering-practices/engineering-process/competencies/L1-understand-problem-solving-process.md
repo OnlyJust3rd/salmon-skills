@@ -45,3 +45,6 @@ Define and explain the key stages and the purpose and importance of each step in
 
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-problem-solving-framework|Engineering Problem-Solving Framework]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/importance-of-problem-solving-steps|Importance of Problem-Solving Steps]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

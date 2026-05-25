@@ -43,3 +43,6 @@ Explain memory-mapped I/O, programmed I/O (polling), interrupt-driven I/O (inclu
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/memory-mapped-i-o-concept|Memory-Mapped I/O Concept]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/interrupt-vectoring-and-nesting|Interrupt Vectoring and Nesting]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/dma-concept|DMA Concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

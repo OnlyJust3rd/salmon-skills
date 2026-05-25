@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adjusting an existing schema using DDL statements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

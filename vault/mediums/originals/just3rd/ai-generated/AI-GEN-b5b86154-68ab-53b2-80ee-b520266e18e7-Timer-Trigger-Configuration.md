@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/timer-trigger-configuration|timer-trigger-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/timer-trigger-configuration|timer-trigger-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Timer Trigger Configuration

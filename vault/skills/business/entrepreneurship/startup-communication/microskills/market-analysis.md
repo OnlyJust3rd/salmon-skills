@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the target audience and size.
+## Related Mediums
+
+![[bases/related-mediums.base]]

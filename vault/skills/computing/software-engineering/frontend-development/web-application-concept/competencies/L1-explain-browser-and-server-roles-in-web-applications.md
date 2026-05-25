@@ -45,3 +45,6 @@ Explain the roles of browsers and servers in web applications, including HTTP re
 - [[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/client-versus-server-execution|Client versus server execution]]
 - [[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/http-round-trips|HTTP round trips]]
 - [[skills/computing/software-engineering/frontend-development/web-application-concept/microskills/rendering-context|Rendering context]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

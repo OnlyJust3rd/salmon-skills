@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to choose the right VM type for specific application needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

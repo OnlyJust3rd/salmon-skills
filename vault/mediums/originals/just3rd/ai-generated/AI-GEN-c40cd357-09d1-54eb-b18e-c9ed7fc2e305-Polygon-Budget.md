@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/3d-asset-pipeline/microskills/polygon-budget|polygon-budget]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/3d-asset-pipeline/microskills/polygon-budget|polygon-budget]]"
 learning-time-in-minutes: 5
 ---
 # Polygon Budget: Keeping Your 3D Models Lean and Mean

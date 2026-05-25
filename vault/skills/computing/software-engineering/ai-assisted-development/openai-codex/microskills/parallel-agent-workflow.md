@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding multiple coding tasks progressing independently.
+## Related Mediums
+
+![[bases/related-mediums.base]]

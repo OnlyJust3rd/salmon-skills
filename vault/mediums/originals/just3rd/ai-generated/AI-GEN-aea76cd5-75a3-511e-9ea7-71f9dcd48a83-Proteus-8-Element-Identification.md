@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-8-element-identification|proteus-8-element-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/proteus-8-element-identification|proteus-8-element-identification]]"
 learning-time-in-minutes: 5
 ---
 # Proteus 8: Your Digital Circuit Building Blocks

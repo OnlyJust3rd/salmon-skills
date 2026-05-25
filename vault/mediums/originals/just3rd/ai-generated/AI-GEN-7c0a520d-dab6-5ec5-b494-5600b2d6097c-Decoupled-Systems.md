@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/decoupled-systems|decoupled-systems]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/decoupled-systems|decoupled-systems]]"
 learning-time-in-minutes: 4
 ---
 # Decoupled Systems in Event-Driven Architectures

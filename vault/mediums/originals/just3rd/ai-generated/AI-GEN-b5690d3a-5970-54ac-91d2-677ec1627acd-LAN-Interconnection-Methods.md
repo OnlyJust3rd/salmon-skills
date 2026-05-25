@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[lan-interconnection-methods|lan-interconnection-methods]]"
+learning-outcomes:
+  - "[[lan-interconnection-methods|lan-interconnection-methods]]"
 learning-time-in-minutes: 4
 ---
 # Connecting Local Area Networks (LANs)

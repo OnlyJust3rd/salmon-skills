@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of methods to retrieve data from input devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

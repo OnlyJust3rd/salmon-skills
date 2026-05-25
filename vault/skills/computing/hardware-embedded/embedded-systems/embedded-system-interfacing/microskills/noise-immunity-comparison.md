@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating protocol robustness in different environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

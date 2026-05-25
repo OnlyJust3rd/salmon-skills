@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the relationship between funativity principles and player motivation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing prototypes to demonstrate core functionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Executing and developing fundamental Spiking Neural Network models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

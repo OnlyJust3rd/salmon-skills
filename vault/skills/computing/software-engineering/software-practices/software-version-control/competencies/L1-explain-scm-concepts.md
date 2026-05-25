@@ -45,3 +45,6 @@ Explain the concepts of baselines, version identification, and branching in the 
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/baseline-concepts|Baseline Concepts]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/version-identification-concepts|Version Identification Concepts]]
 - [[skills/computing/software-engineering/software-practices/software-version-control/microskills/branching-concepts|Branching Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

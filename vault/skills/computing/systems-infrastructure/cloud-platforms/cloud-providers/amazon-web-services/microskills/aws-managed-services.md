@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding AWS services that reduce infrastructure operations effort.
+## Related Mediums
+
+![[bases/related-mediums.base]]

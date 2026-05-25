@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of mathematical principles for design, analysis, and implementation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

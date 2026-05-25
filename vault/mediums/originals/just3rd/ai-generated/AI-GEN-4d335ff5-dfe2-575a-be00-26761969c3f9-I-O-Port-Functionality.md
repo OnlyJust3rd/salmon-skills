@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[i-o-port-functionality|i-o-port-functionality]]"
+learning-outcomes:
+  - "[[i-o-port-functionality|i-o-port-functionality]]"
 learning-time-in-minutes: 5
 ---
 # Understanding I/O Port Functionality in AVR Microcontrollers

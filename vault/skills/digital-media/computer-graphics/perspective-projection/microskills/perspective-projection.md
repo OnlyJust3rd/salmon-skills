@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition and recognition of perspective projection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

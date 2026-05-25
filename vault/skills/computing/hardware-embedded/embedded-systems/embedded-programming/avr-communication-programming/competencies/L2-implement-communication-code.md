@@ -51,3 +51,6 @@ Implement bare-metal C code to initiate and manage data communication between an
 - [[spi-slave-data-transfer|SPI Slave Data Transfer]]
 - [[i2c-master-read-write|I2C Master Read/Write]]
 - [[i2c-slave-read-write|I2C Slave Read/Write]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

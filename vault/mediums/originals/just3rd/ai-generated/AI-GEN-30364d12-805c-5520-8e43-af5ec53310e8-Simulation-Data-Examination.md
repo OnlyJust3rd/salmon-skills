@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/simulation-data-examination|simulation-data-examination]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/simulation-data-examination|simulation-data-examination]]"
 learning-time-in-minutes: 5
 ---
 # Examining Proteus Simulation Data

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[application-protocol-operations|application-protocol-operations]]"
+learning-outcomes:
+  - "[[application-protocol-operations|application-protocol-operations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Application Protocol Operations: HTTP and DNS

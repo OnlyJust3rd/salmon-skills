@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/perspective-projection/microskills/distance-and-size-perception|distance-and-size-perception]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/distance-and-size-perception|distance-and-size-perception]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Foreshortening in Perspective Projection

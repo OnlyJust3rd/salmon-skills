@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/mechanic-selection-for-player-response|mechanic-selection-for-player-response]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/mechanic-selection-for-player-response|mechanic-selection-for-player-response]]"
 learning-time-in-minutes: 4
 ---
 # Mechanic Selection for Player Response

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assigning issue category, impact, and urgency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

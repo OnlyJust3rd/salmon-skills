@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/standard-signal-functions|standard-signal-functions]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/standard-signal-functions|standard-signal-functions]]"
 learning-time-in-minutes: 4
 ---
 # Standard Signal Functions

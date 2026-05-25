@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to analyze normal vectors to determine relationships between planes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

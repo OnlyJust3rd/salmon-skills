@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|scheduling-algorithm-fairness-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/cpu-scheduling/microskills/scheduling-algorithm-fairness-analysis|scheduling-algorithm-fairness-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Fairness in CPU Scheduling Algorithms

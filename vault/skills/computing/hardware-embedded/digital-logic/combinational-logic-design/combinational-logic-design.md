@@ -84,3 +84,6 @@ Utilize Karnaugh Maps (K-maps) to optimize and minimize multi-level combinationa
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/subtractor-operational-principles|Subtractor Operational Principles]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/truth-function-derivation|Truth Function Derivation]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/truth-table-definitions|Truth Table Definitions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

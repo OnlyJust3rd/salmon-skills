@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing code to generate pixel coordinates for a given line segment using Bresenham's algorithm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

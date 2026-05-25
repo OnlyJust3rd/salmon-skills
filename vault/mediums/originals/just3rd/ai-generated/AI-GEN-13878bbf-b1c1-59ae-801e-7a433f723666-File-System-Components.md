@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[file-system-components|file-system-components]]"
+learning-outcomes:
+  - "[[file-system-components|file-system-components]]"
 learning-time-in-minutes: 5
 ---
 # Understanding File System Components

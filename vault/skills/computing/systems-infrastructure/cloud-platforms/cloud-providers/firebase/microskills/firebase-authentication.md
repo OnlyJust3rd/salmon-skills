@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding managed identity features for applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

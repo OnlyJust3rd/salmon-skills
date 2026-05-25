@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/technical-communication/microskills/audience-consideration-in-presentations|audience-consideration-in-presentations]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/technical-communication/microskills/audience-consideration-in-presentations|audience-consideration-in-presentations]]"
 learning-time-in-minutes: 4
 ---
 # Audience Consideration in Presentations

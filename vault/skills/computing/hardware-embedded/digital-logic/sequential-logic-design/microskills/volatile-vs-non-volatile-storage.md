@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the difference between volatile and non-volatile memory and their typical applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

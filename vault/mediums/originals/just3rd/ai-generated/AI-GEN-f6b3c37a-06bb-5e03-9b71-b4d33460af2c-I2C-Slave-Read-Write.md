@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[i2c-slave-read-write|i2c-slave-read-write]]"
+learning-outcomes:
+  - "[[i2c-slave-read-write|i2c-slave-read-write]]"
 learning-time-in-minutes: 6
 ---
 # I2C Slave Read/Write Operations in AVR Microcontrollers

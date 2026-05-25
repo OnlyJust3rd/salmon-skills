@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying use cases where NoSQL excels in speed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

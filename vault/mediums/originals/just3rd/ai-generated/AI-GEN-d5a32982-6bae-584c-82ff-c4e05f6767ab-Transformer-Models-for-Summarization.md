@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[transformer-models-for-summarization|transformer-models-for-summarization]]"
+learning-outcomes:
+  - "[[transformer-models-for-summarization|transformer-models-for-summarization]]"
 learning-time-in-minutes: 4
 ---
 # Transformer Models for Summarization

@@ -62,3 +62,6 @@ Apply FinOps principles and cost optimization strategies in cloud environments. 
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/resource-tagging-strategy|Resource Tagging Strategy]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-cost-allocation|Tagging for Cost Allocation]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-governance|Tagging for Governance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

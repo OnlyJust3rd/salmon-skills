@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding skills to create and run a Q-learning agent in a grid-world environment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

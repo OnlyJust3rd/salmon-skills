@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[function-calls-for-protocol-control|function-calls-for-protocol-control]]"
+learning-outcomes:
+  - "[[function-calls-for-protocol-control|function-calls-for-protocol-control]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Function Calls for Communication Protocol Control

@@ -41,3 +41,6 @@ Implement a basic transform coding step (e.g., DCT) on a small image segment.
 
 - [[discrete-cosine-transform-dct-step|Discrete Cosine Transform (DCT) Step]]
 - [[image-segment-transformation|Image Segment Transformation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

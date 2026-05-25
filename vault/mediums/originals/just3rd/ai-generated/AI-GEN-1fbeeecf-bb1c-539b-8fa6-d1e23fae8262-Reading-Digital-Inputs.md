@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reading-digital-inputs|reading-digital-inputs]]"
+learning-outcomes:
+  - "[[reading-digital-inputs|reading-digital-inputs]]"
 learning-time-in-minutes: 6
 ---
 # Reading Digital Inputs on AVR Microcontrollers

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the features of serial data transmission.
+## Related Mediums
+
+![[bases/related-mediums.base]]

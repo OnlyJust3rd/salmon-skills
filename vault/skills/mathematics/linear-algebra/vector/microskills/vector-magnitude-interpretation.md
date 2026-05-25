@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the geometric significance of vector magnitude.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describe the role of Java constructors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

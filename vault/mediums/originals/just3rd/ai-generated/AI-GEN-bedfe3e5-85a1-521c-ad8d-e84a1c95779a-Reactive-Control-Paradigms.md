@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reactive-control-paradigms|reactive-control-paradigms]]"
+learning-outcomes:
+  - "[[reactive-control-paradigms|reactive-control-paradigms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Reactive Control Paradigms in Robotics

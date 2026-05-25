@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding proficiency in building and training simple feedforward networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

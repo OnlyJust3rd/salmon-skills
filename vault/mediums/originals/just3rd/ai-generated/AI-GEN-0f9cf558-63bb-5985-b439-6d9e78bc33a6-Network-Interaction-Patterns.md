@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-interaction-patterns|network-interaction-patterns]]"
+learning-outcomes:
+  - "[[network-interaction-patterns|network-interaction-patterns]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Network Interaction Patterns: The Socket Model

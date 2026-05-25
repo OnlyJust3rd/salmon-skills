@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[quantitative-feedback-analysis|quantitative-feedback-analysis]]"
+learning-outcomes:
+  - "[[quantitative-feedback-analysis|quantitative-feedback-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Quantitative User Feedback

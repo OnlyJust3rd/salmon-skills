@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[neuron-definition|neuron-definition]]"
+learning-outcomes:
+  - "[[neuron-definition|neuron-definition]]"
 learning-time-in-minutes: 3
 ---
 # The Neuron: The Building Block of Neural Networks

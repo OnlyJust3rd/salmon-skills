@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in defining metrics and rules for scaling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

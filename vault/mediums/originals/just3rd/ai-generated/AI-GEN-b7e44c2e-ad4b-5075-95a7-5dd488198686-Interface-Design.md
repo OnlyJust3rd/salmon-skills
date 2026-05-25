@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interface-design|interface-design]]"
+learning-outcomes:
+  - "[[interface-design|interface-design]]"
 learning-time-in-minutes: 5
 ---
 # Crafting Intuitive Interfaces: The Art of Interface Design

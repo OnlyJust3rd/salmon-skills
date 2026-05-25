@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstrating step-by-step instruction execution in a pipelined architecture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

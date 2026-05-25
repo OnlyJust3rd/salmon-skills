@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/cad-design/microskills/prototyping-part-design|prototyping-part-design]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/cad-design/microskills/prototyping-part-design|prototyping-part-design]]"
 learning-time-in-minutes: 3
 ---
 # Prototyping Part Design: From Idea to 3D Model

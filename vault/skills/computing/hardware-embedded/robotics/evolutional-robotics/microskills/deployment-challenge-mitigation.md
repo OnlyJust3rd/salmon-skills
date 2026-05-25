@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of practical methods to overcome challenges in deploying simulated intelligence.
+## Related Mediums
+
+![[bases/related-mediums.base]]

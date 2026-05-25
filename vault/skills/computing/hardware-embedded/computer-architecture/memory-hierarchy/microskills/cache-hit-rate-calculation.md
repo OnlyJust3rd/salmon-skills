@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying formulas to compute cache hit rates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

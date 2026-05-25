@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-audio/microskills/audio-trigger|audio-trigger]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-audio/microskills/audio-trigger|audio-trigger]]"
 learning-time-in-minutes: 5
 ---
 # Audio Triggers: Bringing Games to Life with Sound

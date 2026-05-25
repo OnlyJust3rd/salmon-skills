@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/circular-wait-condition|circular-wait-condition]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/circular-wait-condition|circular-wait-condition]]"
 learning-time-in-minutes: 3
 ---
 # Circular Wait Condition in Deadlock

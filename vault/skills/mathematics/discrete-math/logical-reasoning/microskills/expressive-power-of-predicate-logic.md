@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Appreciation of predicate logic's capability for representing complex ideas.
+## Related Mediums
+
+![[bases/related-mediums.base]]

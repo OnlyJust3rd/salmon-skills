@@ -49,3 +49,6 @@ Identify visual cues that contribute to depth perception in an image.
 
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/depth-perception-cues|Depth Perception Cues]]
 - [[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-cues-in-imagery|Visual Cues in Imagery]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

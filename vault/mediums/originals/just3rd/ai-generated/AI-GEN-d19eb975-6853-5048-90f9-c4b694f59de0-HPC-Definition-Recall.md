@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/hpc-definition-recall|hpc-definition-recall]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/hpc-definition-recall|hpc-definition-recall]]"
 learning-time-in-minutes: 4
 ---
 # Understanding High-Performance Computing (HPC)

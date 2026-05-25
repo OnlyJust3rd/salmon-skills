@@ -43,3 +43,6 @@ Describe the role of bases in representing vectors and transformations, includin
 - [[standard-basis-vectors|Standard basis vectors]]
 - [[basis-impact-on-vector-representation|Basis impact on vector representation]]
 - [[basis-impact-on-transformation-representation|Basis impact on transformation representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

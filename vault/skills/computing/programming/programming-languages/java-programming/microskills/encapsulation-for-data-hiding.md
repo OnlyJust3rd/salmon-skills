@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understand encapsulation for data hiding in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

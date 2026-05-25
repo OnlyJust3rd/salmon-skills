@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of DRAM cell structure using a capacitor and transistor, and the need for refresh cycles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

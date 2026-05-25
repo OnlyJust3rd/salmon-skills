@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the purpose of use cases and storyboards in interaction design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the Banker's algorithm for deadlock avoidance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

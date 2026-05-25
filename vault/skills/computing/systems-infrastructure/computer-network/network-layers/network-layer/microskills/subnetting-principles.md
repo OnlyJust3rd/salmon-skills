@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the division of IP networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

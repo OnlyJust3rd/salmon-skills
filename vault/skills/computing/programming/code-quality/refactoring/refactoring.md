@@ -55,3 +55,6 @@ Improving the internal structure of existing codebases by identifying code smell
 - [[skills/computing/programming/code-quality/refactoring/microskills/maintainability-improvement|Maintainability Improvement]]
 - [[skills/computing/programming/code-quality/refactoring/microskills/readability-enhancement|Readability Enhancement]]
 - [[skills/computing/programming/code-quality/refactoring/microskills/refactoring-rationale|Refactoring Rationale]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

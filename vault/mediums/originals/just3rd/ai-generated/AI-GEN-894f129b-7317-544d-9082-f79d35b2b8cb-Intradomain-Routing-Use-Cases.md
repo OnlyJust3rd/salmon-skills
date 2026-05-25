@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[intradomain-routing-use-cases|intradomain-routing-use-cases]]"
+learning-outcomes:
+  - "[[intradomain-routing-use-cases|intradomain-routing-use-cases]]"
 learning-time-in-minutes: 4
 ---
 # Intradomain Routing: Where It Shines

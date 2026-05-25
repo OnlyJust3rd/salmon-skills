@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to interpret user expectations and acceptance criteria.
+## Related Mediums
+
+![[bases/related-mediums.base]]

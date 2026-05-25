@@ -43,3 +43,6 @@ Apply problem interview techniques to validate assumptions and identify customer
 - [[skills/business/entrepreneurship/lean-startup/microskills/problem-interview-techniques|Problem Interview Techniques]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/assumption-validation|Assumption Validation]]
 - [[skills/business/entrepreneurship/lean-startup/microskills/customer-pain-point-identification|Customer Pain Point Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

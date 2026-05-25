@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining features of different sorting algorithm types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

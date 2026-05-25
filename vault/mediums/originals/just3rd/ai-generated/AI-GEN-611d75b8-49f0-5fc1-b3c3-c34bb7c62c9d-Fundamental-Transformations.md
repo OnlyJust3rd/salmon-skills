@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/fundamental-transformations|fundamental-transformations]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/geometric-transformations/microskills/fundamental-transformations|fundamental-transformations]]"
 learning-time-in-minutes: 3
 ---
 # Fundamental Geometric Transformations

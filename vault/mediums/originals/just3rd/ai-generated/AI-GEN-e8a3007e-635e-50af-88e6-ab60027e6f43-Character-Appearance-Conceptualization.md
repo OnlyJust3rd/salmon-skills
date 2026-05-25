@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/character-design/microskills/character-appearance-conceptualization|character-appearance-conceptualization]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/character-design/microskills/character-appearance-conceptualization|character-appearance-conceptualization]]"
 learning-time-in-minutes: 3
 ---
 # Character Appearance Conceptualization

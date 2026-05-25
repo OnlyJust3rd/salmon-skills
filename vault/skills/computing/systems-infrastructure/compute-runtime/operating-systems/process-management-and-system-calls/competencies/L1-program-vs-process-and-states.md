@@ -47,3 +47,6 @@ Differentiate between a program and a process, and explain their respective stat
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/program-definition|Program Definition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-definition|Process Definition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/process-lifecycle-states|Process Lifecycle States]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

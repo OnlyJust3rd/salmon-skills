@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the purpose and use of implicit differentiation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

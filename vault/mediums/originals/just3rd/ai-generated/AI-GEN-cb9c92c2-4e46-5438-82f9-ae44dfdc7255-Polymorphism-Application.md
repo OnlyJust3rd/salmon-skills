@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-application|polymorphism-application]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-application|polymorphism-application]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Polymorphism in Code

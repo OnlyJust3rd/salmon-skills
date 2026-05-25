@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Concepts of how data entities are interconnected.
+## Related Mediums
+
+![[bases/related-mediums.base]]

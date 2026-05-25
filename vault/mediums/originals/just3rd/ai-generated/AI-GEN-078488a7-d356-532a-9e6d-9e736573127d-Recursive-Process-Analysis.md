@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/proof-techniques/microskills/recursive-process-analysis|recursive-process-analysis]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/proof-techniques/microskills/recursive-process-analysis|recursive-process-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Recursive Processes

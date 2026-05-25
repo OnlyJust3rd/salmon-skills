@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Keeping users informed about what's happening.
+## Related Mediums
+
+![[bases/related-mediums.base]]

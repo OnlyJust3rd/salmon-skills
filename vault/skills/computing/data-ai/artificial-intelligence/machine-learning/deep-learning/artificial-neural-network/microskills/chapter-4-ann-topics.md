@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of specific themes covered in chapter four related to ANNs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

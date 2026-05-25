@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[extractive-summarization-principles|extractive-summarization-principles]]"
+learning-outcomes:
+  - "[[extractive-summarization-principles|extractive-summarization-principles]]"
 learning-time-in-minutes: 4
 ---
 # Extractive Summarization: The Art of Picking the Best Sentences

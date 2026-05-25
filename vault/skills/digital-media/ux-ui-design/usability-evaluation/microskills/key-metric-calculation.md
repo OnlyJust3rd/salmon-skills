@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating essential metrics from usability study data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

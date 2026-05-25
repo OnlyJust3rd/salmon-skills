@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/feature-prioritization-criteria|feature-prioritization-criteria]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/feature-prioritization-criteria|feature-prioritization-criteria]]"
 learning-time-in-minutes: 6
 ---
 # Feature Prioritization Criteria for MVPs

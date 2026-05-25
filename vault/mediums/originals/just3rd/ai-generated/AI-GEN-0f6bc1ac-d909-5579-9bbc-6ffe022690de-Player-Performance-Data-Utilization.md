@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/player-performance-data-utilization|player-performance-data-utilization]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/player-performance-data-utilization|player-performance-data-utilization]]"
 learning-time-in-minutes: 4
 ---
 # Using Player Performance Data to Tune Difficulty

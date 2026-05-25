@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Organize components and hooks for one user-facing feature.
+## Related Mediums
+
+![[bases/related-mediums.base]]

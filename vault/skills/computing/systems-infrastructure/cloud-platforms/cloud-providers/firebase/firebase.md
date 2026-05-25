@@ -38,3 +38,6 @@ Using Firebase as a backend-as-a-service platform for authentication, databases,
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-database-service|Firebase Database Service]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-hosting|Firebase Hosting]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/hosted-application-deployment|Hosted Application Deployment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

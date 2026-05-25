@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating investment value using NPV.
+## Related Mediums
+
+![[bases/related-mediums.base]]

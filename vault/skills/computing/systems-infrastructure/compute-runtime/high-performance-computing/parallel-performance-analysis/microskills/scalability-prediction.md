@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Predicting system scalability based on problem size and processor count.
+## Related Mediums
+
+![[bases/related-mediums.base]]

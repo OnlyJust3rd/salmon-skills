@@ -220,3 +220,6 @@ Developing Java programs that implement algorithms and data structures, includin
 - [[skills/computing/programming/programming-languages/java-programming/microskills/trie-prefix-tree-java-implementation|Trie (Prefix Tree) Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/unbounded-knapsack-dp-java-implementation|Unbounded Knapsack DP Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/z-algorithm-java-implementation|Z-Algorithm Java Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

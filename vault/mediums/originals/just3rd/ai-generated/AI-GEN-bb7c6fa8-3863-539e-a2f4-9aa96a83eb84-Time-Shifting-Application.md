@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/time-shifting-application|time-shifting-application]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/time-shifting-application|time-shifting-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Time Shifting to Discrete-Time Sequences

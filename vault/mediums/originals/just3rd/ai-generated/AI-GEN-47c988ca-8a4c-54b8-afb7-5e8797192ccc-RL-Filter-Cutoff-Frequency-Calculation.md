@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/rl-filter-cutoff-frequency-calculation|rl-filter-cutoff-frequency-calculation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/rl-filter-cutoff-frequency-calculation|rl-filter-cutoff-frequency-calculation]]"
 learning-time-in-minutes: 3
 ---
 # RL Filter Cutoff Frequency Calculation

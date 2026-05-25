@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of simulation outputs to assess circuit correctness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

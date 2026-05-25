@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of the truthfulness of translated real-world statements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

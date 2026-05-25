@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[assembly-language-syntax|assembly-language-syntax]]"
+learning-outcomes:
+  - "[[assembly-language-syntax|assembly-language-syntax]]"
 learning-time-in-minutes: 2
 ---
 # Assembly Language Syntax

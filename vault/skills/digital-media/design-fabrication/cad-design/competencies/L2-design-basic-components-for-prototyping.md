@@ -47,3 +47,6 @@ Design basic engineering components using specified CAD tools, adhering to given
 - [[skills/digital-media/design-fabrication/cad-design/microskills/component-design-adherence-to-constraints|Component Design Adherence to Constraints]]
 - [[skills/digital-media/design-fabrication/cad-design/microskills/2d-3d-model-creation-for-fabrication|2D/3D Model Creation for Fabrication]]
 - [[skills/digital-media/design-fabrication/cad-design/microskills/prototyping-part-design|Prototyping Part Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

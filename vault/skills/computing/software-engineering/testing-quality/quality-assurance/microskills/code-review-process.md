@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the steps involved in conducting reviews.
+## Related Mediums
+
+![[bases/related-mediums.base]]

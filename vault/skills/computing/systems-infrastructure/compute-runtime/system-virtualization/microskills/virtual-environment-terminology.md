@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of key terms used in virtualization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

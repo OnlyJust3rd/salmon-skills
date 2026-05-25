@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fundamental-file-commands|fundamental-file-commands]]"
+learning-outcomes:
+  - "[[fundamental-file-commands|fundamental-file-commands]]"
 learning-time-in-minutes: 3
 ---
 # Fundamental File Commands in Linux

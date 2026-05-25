@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/execution-of-computer-arithmetic|execution-of-computer-arithmetic]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/execution-of-computer-arithmetic|execution-of-computer-arithmetic]]"
 learning-time-in-minutes: 4
 ---
 # Execution of Computer Arithmetic

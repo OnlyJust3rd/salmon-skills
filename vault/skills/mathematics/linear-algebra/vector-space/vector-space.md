@@ -70,3 +70,6 @@ Understand vector spaces as abstract algebraic structures, including subspaces, 
 - [[subspace-properties|Subspace properties]]
 - [[vector-space-definition|Vector space definition]]
 - [[vector-space-identification|Vector space identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

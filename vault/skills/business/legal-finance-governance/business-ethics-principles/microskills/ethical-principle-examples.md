@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of concrete examples for key ethical principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

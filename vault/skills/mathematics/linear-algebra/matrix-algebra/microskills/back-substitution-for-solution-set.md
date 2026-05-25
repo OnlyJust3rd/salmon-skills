@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using back-substitution to find the solutions of Ax=0.
+## Related Mediums
+
+![[bases/related-mediums.base]]

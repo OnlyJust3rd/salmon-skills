@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of repetitive computational processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

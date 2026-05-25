@@ -47,3 +47,6 @@ Apply AI-assisted code review and test suggestions.
 - [[suggested-test-case|Suggested Test Case]]
 - [[risk-prioritization|Risk Prioritization]]
 - [[review-validation|Review Validation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the governance aspect of ESG.
+## Related Mediums
+
+![[bases/related-mediums.base]]

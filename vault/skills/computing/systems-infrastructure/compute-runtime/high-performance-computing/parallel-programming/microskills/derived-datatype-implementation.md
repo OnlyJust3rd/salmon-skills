@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation and application of MPI derived datatypes for message optimization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

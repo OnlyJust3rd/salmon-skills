@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/serverless-architectural-concepts|serverless-architectural-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/serverless-architectural-concepts|serverless-architectural-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Serverless Architectural Concepts

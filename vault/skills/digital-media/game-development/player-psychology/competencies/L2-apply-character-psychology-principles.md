@@ -45,3 +45,6 @@ Apply basic principles of character psychology to develop character backstories.
 - [[skills/digital-media/game-development/player-psychology/microskills/character-psychology-foundations|Character Psychology Foundations]]
 - [[skills/digital-media/game-development/player-psychology/microskills/backstory-development|Backstory Development]]
 - [[skills/digital-media/game-development/player-psychology/microskills/trait-and-motivation-integration|Trait and Motivation Integration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

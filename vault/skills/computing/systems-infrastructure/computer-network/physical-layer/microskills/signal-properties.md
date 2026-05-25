@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of various attributes of signals used in data transmission.
+## Related Mediums
+
+![[bases/related-mediums.base]]

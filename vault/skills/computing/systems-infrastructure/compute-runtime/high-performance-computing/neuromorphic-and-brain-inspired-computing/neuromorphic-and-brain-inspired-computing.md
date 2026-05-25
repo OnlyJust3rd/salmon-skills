@@ -46,3 +46,6 @@ Exploring emerging computing paradigms inspired by biological systems, including
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/principles-of-neuromorphic-design|Principles of Neuromorphic Design]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/snn-model-development|SNN Model Development]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/microskills/spiking-neural-network-implementation|Spiking Neural Network Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

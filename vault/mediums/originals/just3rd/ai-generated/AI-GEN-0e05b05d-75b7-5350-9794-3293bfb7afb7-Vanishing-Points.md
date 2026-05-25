@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/perspective-projection/microskills/vanishing-points|vanishing-points]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/vanishing-points|vanishing-points]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Vanishing Points in Perspective Projection

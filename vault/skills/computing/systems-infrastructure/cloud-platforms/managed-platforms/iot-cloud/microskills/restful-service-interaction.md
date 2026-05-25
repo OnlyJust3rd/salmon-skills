@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in using RESTful services to interact with data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

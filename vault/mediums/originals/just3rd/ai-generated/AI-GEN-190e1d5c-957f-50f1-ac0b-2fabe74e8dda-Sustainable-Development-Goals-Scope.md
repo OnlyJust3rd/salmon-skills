@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-scope|sustainable-development-goals-scope]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/sustainability-and-esg-frameworks/microskills/sustainable-development-goals-scope|sustainable-development-goals-scope]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Scope of the Sustainable Development Goals (SDGs)

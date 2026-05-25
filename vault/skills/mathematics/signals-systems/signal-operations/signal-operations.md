@@ -50,3 +50,6 @@ Applying transformations to signals in both continuous-time and discrete-time do
 - [[time-shifting-identification|Time Shifting Identification]]
 - [[time-shifting-impact|Time Shifting Impact]]
 - [[time-shifting-property-application-fs-dtfs|Time-Shifting Property Application (FS/DTFS)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

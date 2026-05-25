@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of greatest common divisor.
+## Related Mediums
+
+![[bases/related-mediums.base]]

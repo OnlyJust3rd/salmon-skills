@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using BML for iterative improvement of business concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

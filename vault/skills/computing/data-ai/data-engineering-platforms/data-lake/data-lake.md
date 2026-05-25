@@ -38,3 +38,6 @@ Understanding data lake storage architecture for raw, semi-structured, and struc
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/partitioned-dataset|Partitioned Dataset]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/raw-zone|Raw Zone]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/schema-on-read|Schema-on-Read]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

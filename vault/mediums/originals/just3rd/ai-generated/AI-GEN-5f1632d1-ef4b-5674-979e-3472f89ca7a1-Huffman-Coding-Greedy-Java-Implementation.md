@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[huffman-coding-greedy-java-implementation|huffman-coding-greedy-java-implementation]]"
+learning-outcomes:
+  - "[[huffman-coding-greedy-java-implementation|huffman-coding-greedy-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Huffman Coding Greedy Java Implementation

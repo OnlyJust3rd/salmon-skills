@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-deployment-cd|continuous-deployment-cd]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/serverless-ci-cd/microskills/continuous-deployment-cd|continuous-deployment-cd]]"
 learning-time-in-minutes: 5
 ---
 # Continuous Deployment (CD) in Serverless CI/CD

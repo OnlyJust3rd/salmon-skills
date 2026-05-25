@@ -34,3 +34,6 @@ Apply project management concepts and practices tailored to IT and platform engi
 - [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/project-management-methodologies|Project Management Methodologies]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/project-planning-techniques|Project Planning Techniques]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/microskills/task-tracking-and-management|Task Tracking and Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

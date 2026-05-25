@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Setting up interrupts triggered by external events.
+## Related Mediums
+
+![[bases/related-mediums.base]]

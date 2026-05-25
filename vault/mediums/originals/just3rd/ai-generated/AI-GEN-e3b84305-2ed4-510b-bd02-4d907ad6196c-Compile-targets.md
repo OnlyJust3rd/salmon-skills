@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[compile-targets|compile-targets]]"
+learning-outcomes:
+  - "[[compile-targets|compile-targets]]"
 learning-time-in-minutes: 4
 ---
 # TypeScript Compile Targets: From Code to JavaScript

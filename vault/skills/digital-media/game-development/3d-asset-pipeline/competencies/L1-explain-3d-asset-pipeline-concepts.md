@@ -45,3 +45,6 @@ Explain 3D asset pipeline concepts.
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/mesh-topology|Mesh Topology]]
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/uv-mapping|UV Mapping]]
 - [[skills/digital-media/game-development/3d-asset-pipeline/microskills/import-setting|Import Setting]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

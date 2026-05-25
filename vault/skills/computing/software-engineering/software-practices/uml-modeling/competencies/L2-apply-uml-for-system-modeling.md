@@ -55,3 +55,6 @@ Apply UML diagrams to represent system functionality, structure, behavior, and h
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-behavior|UML Diagram Application for Behavior]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-hardware-configuration|UML Diagram Application for Hardware Configuration]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-software-mapping|UML Diagram Application for Software Mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

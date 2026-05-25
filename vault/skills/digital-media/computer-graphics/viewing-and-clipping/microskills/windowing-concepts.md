@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles and necessity of windowing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing problem types that match known algorithm families.
+## Related Mediums
+
+![[bases/related-mediums.base]]

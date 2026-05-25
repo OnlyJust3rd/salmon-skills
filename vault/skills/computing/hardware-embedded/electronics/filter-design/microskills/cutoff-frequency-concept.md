@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the definition and significance of cutoff frequency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

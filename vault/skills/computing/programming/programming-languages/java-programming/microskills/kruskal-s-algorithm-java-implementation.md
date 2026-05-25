@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding Kruskal's algorithm for Minimum Spanning Tree in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[secure-network-access|secure-network-access]]"
+learning-outcomes:
+  - "[[secure-network-access|secure-network-access]]"
 learning-time-in-minutes: 4
 ---
 # Secure Network Access with VPNs

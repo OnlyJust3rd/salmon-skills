@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing protocol overhead and required connections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing solutions for problems using recursive techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

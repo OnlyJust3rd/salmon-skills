@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Underlying concepts of various algorithmic approaches.
+## Related Mediums
+
+![[bases/related-mediums.base]]

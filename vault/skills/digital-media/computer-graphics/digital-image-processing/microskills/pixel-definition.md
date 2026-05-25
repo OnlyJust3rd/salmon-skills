@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental unit of a digital image.
+## Related Mediums
+
+![[bases/related-mediums.base]]

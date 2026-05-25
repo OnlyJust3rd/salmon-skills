@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Finding new coordinates of a vector with respect to a different basis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

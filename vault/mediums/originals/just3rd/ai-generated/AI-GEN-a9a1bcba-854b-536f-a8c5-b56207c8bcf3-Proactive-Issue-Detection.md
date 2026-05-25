@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/proactive-issue-detection|proactive-issue-detection]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/proactive-issue-detection|proactive-issue-detection]]"
 learning-time-in-minutes: 5
 ---
 # Proactive Issue Detection: Catching Problems Early

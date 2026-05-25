@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/output-comparison-to-expectations|output-comparison-to-expectations]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/output-comparison-to-expectations|output-comparison-to-expectations]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating Full-Wave Rectifier Output: Comparing to Expectations

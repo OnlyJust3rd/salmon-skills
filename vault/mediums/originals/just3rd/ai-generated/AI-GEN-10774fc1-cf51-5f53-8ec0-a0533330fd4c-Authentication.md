@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/authentication|authentication]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/authentication|authentication]]"
 learning-time-in-minutes: 3
 ---
 # Authentication: Knowing Who You're Talking To

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/fourier-series-fs-definition|fourier-series-fs-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/fourier-series-analysis/microskills/fourier-series-fs-definition|fourier-series-fs-definition]]"
 learning-time-in-minutes: 3
 ---
 # Fourier Series Definition: The Building Blocks of Signals

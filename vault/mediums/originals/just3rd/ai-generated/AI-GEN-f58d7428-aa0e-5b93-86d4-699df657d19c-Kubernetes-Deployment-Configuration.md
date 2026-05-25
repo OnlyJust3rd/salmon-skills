@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-deployment-configuration|kubernetes-deployment-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-deployment-configuration|kubernetes-deployment-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Kubernetes Deployment Configuration

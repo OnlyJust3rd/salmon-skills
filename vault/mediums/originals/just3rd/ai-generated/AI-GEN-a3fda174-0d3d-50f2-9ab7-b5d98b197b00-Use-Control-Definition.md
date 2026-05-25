@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/use-control-definition|use-control-definition]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/use-control-definition|use-control-definition]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Use Control in Copyright Protection

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying role-based identity and access concepts to GCP resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

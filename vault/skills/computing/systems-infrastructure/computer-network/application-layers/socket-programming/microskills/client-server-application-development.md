@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating functional network programs based on the client-server model.
+## Related Mediums
+
+![[bases/related-mediums.base]]

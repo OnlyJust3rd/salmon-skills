@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How NAT helps manage limited public IP addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

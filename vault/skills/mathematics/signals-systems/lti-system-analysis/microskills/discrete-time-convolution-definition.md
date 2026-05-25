@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the mathematical definition of discrete-time convolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

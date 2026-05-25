@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-capacity|attack-impact-on-capacity]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/attack-impact-on-capacity|attack-impact-on-capacity]]"
 learning-time-in-minutes: 5
 ---
 # Attack Impact on Watermarking Capacity

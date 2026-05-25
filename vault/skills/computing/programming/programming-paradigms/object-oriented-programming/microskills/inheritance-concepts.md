@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Supertype and subtype relationships between types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental principles governing sensor operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

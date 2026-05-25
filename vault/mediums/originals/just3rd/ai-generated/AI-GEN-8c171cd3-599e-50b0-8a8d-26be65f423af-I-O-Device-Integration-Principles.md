@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-device-integration-principles|i-o-device-integration-principles]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/i-o-device-integration-principles|i-o-device-integration-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Hierarchical Bus Structures in I/O Integration

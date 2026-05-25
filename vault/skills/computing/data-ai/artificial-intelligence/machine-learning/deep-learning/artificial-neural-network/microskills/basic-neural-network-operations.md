@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the step-by-step functioning of a simple neural network.
+## Related Mediums
+
+![[bases/related-mediums.base]]

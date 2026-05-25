@@ -39,3 +39,6 @@ Adapt XP practices to team constraints while preserving fast feedback, code qual
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/collective-code-ownership|Collective Code Ownership]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/customer-feedback-cadence|Customer Feedback Cadence]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/extreme-programming/microskills/refactoring-discipline|Refactoring Discipline]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

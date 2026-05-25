@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying common scenarios where a matrix is guaranteed to be diagonalizable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

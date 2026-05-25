@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[flexible-schema-concepts|flexible-schema-concepts]]"
+learning-outcomes:
+  - "[[flexible-schema-concepts|flexible-schema-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Flexible Schema in MongoDB: Understanding Dynamic Data

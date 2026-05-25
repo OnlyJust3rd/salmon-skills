@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in setting up load balancing for distributing traffic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

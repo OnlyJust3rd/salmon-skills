@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing practical methods to address differences between simulation and reality for robots.
+## Related Mediums
+
+![[bases/related-mediums.base]]

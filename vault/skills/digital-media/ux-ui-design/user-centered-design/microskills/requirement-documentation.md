@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Eliciting and documenting specific user requirements for a device.
+## Related Mediums
+
+![[bases/related-mediums.base]]

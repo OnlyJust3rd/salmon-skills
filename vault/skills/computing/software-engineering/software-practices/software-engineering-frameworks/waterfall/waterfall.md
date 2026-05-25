@@ -38,3 +38,6 @@ Planning and delivering software through sequential lifecycle phases with explic
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/requirements-baseline|Requirements Baseline]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/sequential-phase-planning|Sequential Phase Planning]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/waterfall/microskills/waterfall-phase-sequence|Waterfall Phase Sequence]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

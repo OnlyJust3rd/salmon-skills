@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-compliance|azure-policy-compliance]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/azure-policy-compliance|azure-policy-compliance]]"
 learning-time-in-minutes: 4
 ---
 # Azure Policy Compliance: Auditing and Remediation

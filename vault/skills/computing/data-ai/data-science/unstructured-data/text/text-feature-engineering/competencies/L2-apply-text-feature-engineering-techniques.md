@@ -55,3 +55,6 @@ Apply discrete and distributed text feature engineering techniques, including On
 - [[glove-application|GloVe Application]]
 - [[numerical-text-representation|Numerical Text Representation]]
 - [[co-occurrence-matrix-generation|Co-Occurrence Matrix Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

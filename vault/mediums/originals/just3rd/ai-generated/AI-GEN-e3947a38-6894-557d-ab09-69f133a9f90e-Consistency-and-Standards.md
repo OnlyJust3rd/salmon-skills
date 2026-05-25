@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[consistency-and-standards|consistency-and-standards]]"
+learning-outcomes:
+  - "[[consistency-and-standards|consistency-and-standards]]"
 learning-time-in-minutes: 5
 ---
 # Consistency and Standards in User Experience Design

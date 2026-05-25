@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/level-design/microskills/choke-points-cover-points-pathways|choke-points-cover-points-pathways]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/level-design/microskills/choke-points-cover-points-pathways|choke-points-cover-points-pathways]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Level Design Elements: Choke Points, Cover Points, and Pathways

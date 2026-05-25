@@ -47,3 +47,6 @@ Describe the relationship between Docker containers and Kubernetes Pods.
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-as-pod-component|Container as Pod Component]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/shared-network-namespace|Shared Network Namespace]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/shared-storage-volumes|Shared Storage Volumes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

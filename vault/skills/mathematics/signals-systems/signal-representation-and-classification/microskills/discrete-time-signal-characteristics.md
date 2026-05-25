@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the defining features of discrete-time signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

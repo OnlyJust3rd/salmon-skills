@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting abstract mathematical models to concrete signal plots.
+## Related Mediums
+
+![[bases/related-mediums.base]]

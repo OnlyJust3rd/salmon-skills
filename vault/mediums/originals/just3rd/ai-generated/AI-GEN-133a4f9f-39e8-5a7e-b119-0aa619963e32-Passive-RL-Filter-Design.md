@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/passive-rl-filter-design|passive-rl-filter-design]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/passive-rl-filter-design|passive-rl-filter-design]]"
 learning-time-in-minutes: 6
 ---
 # Passive RL Filter Design: Creating Notch Filters

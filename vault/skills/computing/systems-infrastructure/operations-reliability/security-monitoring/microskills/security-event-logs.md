@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding records of authentication, access, network, and system activity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/basis-transformation-execution|basis-transformation-execution]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/basis-transformation-execution|basis-transformation-execution]]"
 learning-time-in-minutes: 5
 ---
 # Executing a Basis Transformation

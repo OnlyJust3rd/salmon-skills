@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of basic characteristics of sequential logic components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

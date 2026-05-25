@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Requesting machine-readable or consistently formatted responses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of Platform as a Service.
+## Related Mediums
+
+![[bases/related-mediums.base]]

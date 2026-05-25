@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Understanding rows, column families, columns, and sparse storage.
+## Related Mediums
+
+![[bases/related-mediums.base]]

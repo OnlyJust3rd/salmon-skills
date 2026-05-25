@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bit-toggle-operations|bit-toggle-operations]]"
+learning-outcomes:
+  - "[[bit-toggle-operations|bit-toggle-operations]]"
 learning-time-in-minutes: 2
 ---
 # Toggling Register Bits with XOR

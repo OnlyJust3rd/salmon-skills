@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[classification|classification]]"
+learning-outcomes:
+  - "[[classification|classification]]"
 learning-time-in-minutes: 3
 ---
 # Text Classification with Large Language Models

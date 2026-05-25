@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical implementation of processes to clean text data by eliminating extraneous information.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Core principles and terminology of relational databases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

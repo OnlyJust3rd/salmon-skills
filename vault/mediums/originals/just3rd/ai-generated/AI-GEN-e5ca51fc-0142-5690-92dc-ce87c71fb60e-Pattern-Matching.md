@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/pattern-matching|pattern-matching]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/pattern-matching|pattern-matching]]"
 learning-time-in-minutes: 4
 ---
 # Pattern Matching: Finding Familiar Structures in Problems

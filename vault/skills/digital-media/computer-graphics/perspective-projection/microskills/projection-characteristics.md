@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the unique attributes of each projection method.
+## Related Mediums
+
+![[bases/related-mediums.base]]

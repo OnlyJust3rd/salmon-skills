@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Using TTL and expiration to manage cached or temporary data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

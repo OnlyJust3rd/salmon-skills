@@ -45,3 +45,6 @@ Analyze patterns and relationships in real-world data to inform the selection of
 - [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/relationship-analysis|Relationship Analysis]]
 - [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/structural-insight|Structural Insight]]
 - [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/modeling-requirement-identification|Modeling Requirement Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

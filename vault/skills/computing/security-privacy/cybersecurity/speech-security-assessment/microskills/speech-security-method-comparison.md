@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Judgments on strengths and weaknesses of different speech security methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[q-table-implementation|q-table-implementation]]"
+learning-outcomes:
+  - "[[q-table-implementation|q-table-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Q-Table Implementation: The Heart of Q-Learning

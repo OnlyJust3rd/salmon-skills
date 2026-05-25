@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Running a processor design using an emulator.
+## Related Mediums
+
+![[bases/related-mediums.base]]

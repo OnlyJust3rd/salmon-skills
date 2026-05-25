@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the effect of flipping a signal.
+## Related Mediums
+
+![[bases/related-mediums.base]]

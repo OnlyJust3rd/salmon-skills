@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/hypothetical-employment-contexts|hypothetical-employment-contexts]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/hypothetical-employment-contexts|hypothetical-employment-contexts]]"
 learning-time-in-minutes: 4
 ---
 # Applying Contractual Relevance in Hypothetical Employment Contexts

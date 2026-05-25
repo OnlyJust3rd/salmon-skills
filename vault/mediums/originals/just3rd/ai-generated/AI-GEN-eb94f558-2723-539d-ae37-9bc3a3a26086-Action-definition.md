@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[action-definition|action-definition]]"
+learning-outcomes:
+  - "[[action-definition|action-definition]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Actions in Reinforcement Learning

@@ -43,3 +43,6 @@ Apply number representation formats to perform computer arithmetic operations.
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/application-of-number-formats|Application of Number Formats]]
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/execution-of-computer-arithmetic|Execution of Computer Arithmetic]]
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/binary-arithmetic-application|Binary Arithmetic Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

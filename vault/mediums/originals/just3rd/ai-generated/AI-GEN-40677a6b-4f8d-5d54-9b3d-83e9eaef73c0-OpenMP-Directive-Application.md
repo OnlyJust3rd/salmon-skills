@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-application|openmp-directive-application]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/openmp/microskills/openmp-directive-application|openmp-directive-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying OpenMP Directives for Parallelism

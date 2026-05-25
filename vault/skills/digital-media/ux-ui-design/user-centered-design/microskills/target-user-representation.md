@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Role of personas and scenarios in representing target users.
+## Related Mediums
+
+![[bases/related-mediums.base]]

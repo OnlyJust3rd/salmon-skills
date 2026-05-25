@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of defining features of reactive control strategies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

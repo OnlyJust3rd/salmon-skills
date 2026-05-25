@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/common-cryptographic-hash-functions|common-cryptographic-hash-functions]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/common-cryptographic-hash-functions|common-cryptographic-hash-functions]]"
 learning-time-in-minutes: 3
 ---
 # Common Cryptographic Hash Functions

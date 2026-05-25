@@ -47,3 +47,6 @@ Monitor system performance and manage jobs and processes using Linux commands.
 - [[job-scheduling-concepts|Job Scheduling Concepts]]
 - [[process-monitoring-tools|Process Monitoring Tools]]
 - [[resource-consumption-analysis|Resource Consumption Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[latent-dirichlet-allocation-lda-application|latent-dirichlet-allocation-lda-application]]"
+learning-outcomes:
+  - "[[latent-dirichlet-allocation-lda-application|latent-dirichlet-allocation-lda-application]]"
 learning-time-in-minutes: 4
 ---
 # Latent Dirichlet Allocation (LDA) Application for Theme Discovery

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the respective applications of different prototype fidelities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

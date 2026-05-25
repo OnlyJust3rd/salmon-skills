@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of MPI_Recv for accepting data transmissions between processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

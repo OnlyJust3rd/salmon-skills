@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Treat inputs as immutable configuration from parents.
+## Related Mediums
+
+![[bases/related-mediums.base]]

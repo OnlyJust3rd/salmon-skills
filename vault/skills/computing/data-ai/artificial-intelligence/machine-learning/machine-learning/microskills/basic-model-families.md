@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Awareness of linear, tree-based, kernel, and MLP models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/discrepancy-identification|discrepancy-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/proteus-8-simulation/microskills/discrepancy-identification|discrepancy-identification]]"
 learning-time-in-minutes: 6
 ---
 # Identifying Discrepancies in Proteus Simulations

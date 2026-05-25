@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding AI support for identifying issues in code changes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing of common objective metrics for watermarking evaluation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

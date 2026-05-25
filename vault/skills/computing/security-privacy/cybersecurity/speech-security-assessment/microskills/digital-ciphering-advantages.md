@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of inherent advantages of digital ciphering.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[edit-distance-levenshtein-distance-dp-java-implementation|edit-distance-levenshtein-distance-dp-java-implementation]]"
+learning-outcomes:
+  - "[[edit-distance-levenshtein-distance-dp-java-implementation|edit-distance-levenshtein-distance-dp-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Edit Distance (Levenshtein Distance) DP Java Implementation

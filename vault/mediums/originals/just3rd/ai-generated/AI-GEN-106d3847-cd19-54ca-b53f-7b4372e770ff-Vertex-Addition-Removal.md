@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/vertex-addition-removal|vertex-addition-removal]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithmic-thinking/microskills/vertex-addition-removal|vertex-addition-removal]]"
 learning-time-in-minutes: 2
 ---
 # Vertex Addition and Removal in Graphs

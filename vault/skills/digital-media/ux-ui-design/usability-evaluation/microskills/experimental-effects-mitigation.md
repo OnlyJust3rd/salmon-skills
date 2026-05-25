@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of techniques to reduce order and learning effects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

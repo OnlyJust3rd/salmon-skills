@@ -42,3 +42,6 @@ Working effectively within a team to plan, coordinate, and execute engineering p
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/role-assignment-principles|Role Assignment Principles]]
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/task-decomposition-implementation|Task Decomposition Implementation]]
 - [[skills/professional-practice/engineering-practices/team-collaboration/microskills/team-task-decomposition|Team Task Decomposition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

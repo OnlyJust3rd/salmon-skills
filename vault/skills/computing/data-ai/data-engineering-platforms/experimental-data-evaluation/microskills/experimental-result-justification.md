@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining deviations in diode circuit testing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

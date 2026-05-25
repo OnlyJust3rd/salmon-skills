@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding blue-green and canary release patterns.
+## Related Mediums
+
+![[bases/related-mediums.base]]

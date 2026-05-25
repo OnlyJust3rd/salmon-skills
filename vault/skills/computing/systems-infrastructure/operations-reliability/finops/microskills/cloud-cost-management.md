@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the importance of tracking and controlling cloud expenses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

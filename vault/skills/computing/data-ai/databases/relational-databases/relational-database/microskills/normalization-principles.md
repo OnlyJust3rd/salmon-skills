@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Core concepts and objectives of database normalization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

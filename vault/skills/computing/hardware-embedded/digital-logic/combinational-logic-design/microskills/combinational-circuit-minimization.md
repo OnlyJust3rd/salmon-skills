@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of K-maps for optimizing combinational logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

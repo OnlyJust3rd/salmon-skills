@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-realism-improvement|visual-realism-improvement]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/visual-realism-improvement|visual-realism-improvement]]"
 learning-time-in-minutes: 5
 ---
 # Enhancing 3D Scene Realism with Basic Shading

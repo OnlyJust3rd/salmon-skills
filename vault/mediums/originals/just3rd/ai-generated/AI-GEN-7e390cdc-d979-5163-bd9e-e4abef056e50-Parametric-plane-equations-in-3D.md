@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/parametric-plane-equations-in-3d|parametric-plane-equations-in-3d]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/parametric-plane-equations-in-3d|parametric-plane-equations-in-3d]]"
 learning-time-in-minutes: 4
 ---
 # Parametric Plane Equations in 3D

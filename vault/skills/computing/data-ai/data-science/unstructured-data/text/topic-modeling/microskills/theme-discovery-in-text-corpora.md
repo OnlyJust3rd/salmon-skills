@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying unsupervised methods to identify latent themes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

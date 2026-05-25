@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating analytics-ready business datasets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

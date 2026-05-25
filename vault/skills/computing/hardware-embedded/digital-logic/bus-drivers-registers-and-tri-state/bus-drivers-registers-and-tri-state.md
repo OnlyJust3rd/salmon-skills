@@ -40,3 +40,6 @@ Understand and apply driver and register chips and tri-state devices for data tr
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/shift-register-types|Shift Register Types]]
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-identification|Tri-state Buffer Identification]]
 - [[skills/computing/hardware-embedded/digital-logic/bus-drivers-registers-and-tri-state/microskills/tri-state-buffer-operation|Tri-state Buffer Operation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

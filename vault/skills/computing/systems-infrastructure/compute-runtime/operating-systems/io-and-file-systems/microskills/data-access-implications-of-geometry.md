@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how disk geometry affects data access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

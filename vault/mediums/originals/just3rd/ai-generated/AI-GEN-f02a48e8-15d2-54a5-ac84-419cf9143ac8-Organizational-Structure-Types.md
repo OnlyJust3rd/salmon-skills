@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/organizational-structures/microskills/organizational-structure-types|organizational-structure-types]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/organizational-structures/microskills/organizational-structure-types|organizational-structure-types]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Organizational Structure Types

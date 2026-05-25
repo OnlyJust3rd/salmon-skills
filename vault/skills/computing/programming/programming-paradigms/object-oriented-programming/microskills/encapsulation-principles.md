@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Data hiding and controlled access at a conceptual level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

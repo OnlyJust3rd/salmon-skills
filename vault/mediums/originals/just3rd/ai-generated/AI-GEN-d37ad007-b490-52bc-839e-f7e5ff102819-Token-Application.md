@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[token-application|token-application]]"
+learning-outcomes:
+  - "[[token-application|token-application]]"
 learning-time-in-minutes: 4
 ---
 # Token Application: Building Consistent Interfaces

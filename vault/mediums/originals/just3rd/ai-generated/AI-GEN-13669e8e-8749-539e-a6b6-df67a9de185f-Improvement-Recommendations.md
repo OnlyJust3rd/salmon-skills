@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[improvement-recommendations|improvement-recommendations]]"
+learning-outcomes:
+  - "[[improvement-recommendations|improvement-recommendations]]"
 learning-time-in-minutes: 5
 ---
 # Crafting Effective Improvement Recommendations

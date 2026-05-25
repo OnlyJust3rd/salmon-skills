@@ -43,3 +43,6 @@ Define the core concepts of string searching and pattern matching, and identify 
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/string-searching-concepts|String Searching Concepts]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/pattern-matching-concepts|Pattern Matching Concepts]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-design-strategy-recall|Algorithm Design Strategy Recall]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

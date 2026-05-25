@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Breaking down the elements of narrative within computer games.
+## Related Mediums
+
+![[bases/related-mediums.base]]

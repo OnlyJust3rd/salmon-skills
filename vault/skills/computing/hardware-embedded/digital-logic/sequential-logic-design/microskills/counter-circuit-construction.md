@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to construct a basic counter circuit using flip-flops.
+## Related Mediums
+
+![[bases/related-mediums.base]]

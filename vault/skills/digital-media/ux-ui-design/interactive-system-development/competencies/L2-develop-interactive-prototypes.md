@@ -49,3 +49,6 @@ Develop interactive prototypes for a computer-based device using chosen tools an
 - [[interface-prototyping|Interface Prototyping]]
 - [[functionality-simulation|Functionality Simulation]]
 - [[design-specification-implementation|Design Specification Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

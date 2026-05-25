@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating how visualizations communicate patterns, trends, and anomalies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

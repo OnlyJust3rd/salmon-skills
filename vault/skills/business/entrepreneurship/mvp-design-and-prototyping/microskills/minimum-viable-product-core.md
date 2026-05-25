@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Essential functionalities of an MVP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

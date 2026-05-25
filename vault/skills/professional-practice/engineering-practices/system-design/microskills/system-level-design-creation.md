@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of principles to create foundational designs for computer engineering systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

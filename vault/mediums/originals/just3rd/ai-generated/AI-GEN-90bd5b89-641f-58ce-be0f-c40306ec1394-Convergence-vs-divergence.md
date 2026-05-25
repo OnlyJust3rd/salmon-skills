@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/convergence-vs-divergence|convergence-vs-divergence]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/convergence-vs-divergence|convergence-vs-divergence]]"
 learning-time-in-minutes: 4
 ---
 # Convergence vs. Divergence of Improper Integrals

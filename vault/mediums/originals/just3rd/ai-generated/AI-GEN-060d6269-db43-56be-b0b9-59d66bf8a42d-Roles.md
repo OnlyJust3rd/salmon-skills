@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/roles|roles]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/roles|roles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Roles in Authorization

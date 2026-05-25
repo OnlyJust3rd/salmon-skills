@@ -55,3 +55,6 @@ Explain the meaning of imperceptibility, robustness, and capacity in digital wat
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/geometric-attack-mechanisms|Geometric Attack Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/cryptography-attack-mechanisms|Cryptography Attack Mechanisms]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/protocol-attack-mechanisms|Protocol Attack Mechanisms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

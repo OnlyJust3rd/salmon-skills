@@ -47,3 +47,6 @@ Explain game UI, HUD, menu, and feedback concepts.
 - [[skills/digital-media/game-development/game-ui/microskills/hud|HUD]]
 - [[skills/digital-media/game-development/game-ui/microskills/menu-flow|Menu Flow]]
 - [[skills/digital-media/game-development/game-ui/microskills/feedback-state|Feedback State]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

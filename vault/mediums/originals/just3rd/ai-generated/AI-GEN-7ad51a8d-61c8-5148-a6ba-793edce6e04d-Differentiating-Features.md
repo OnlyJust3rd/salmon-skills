@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[differentiating-features|differentiating-features]]"
+learning-outcomes:
+  - "[[differentiating-features|differentiating-features]]"
 learning-time-in-minutes: 5
 ---
 # Differentiating Features of VR and AR

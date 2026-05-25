@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of RAM consumption as a metric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

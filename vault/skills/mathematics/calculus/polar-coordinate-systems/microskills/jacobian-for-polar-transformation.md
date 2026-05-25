@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to determine the Jacobian for converting to polar coordinates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

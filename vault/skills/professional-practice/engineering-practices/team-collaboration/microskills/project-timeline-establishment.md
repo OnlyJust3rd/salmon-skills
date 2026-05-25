@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating a realistic schedule for project completion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

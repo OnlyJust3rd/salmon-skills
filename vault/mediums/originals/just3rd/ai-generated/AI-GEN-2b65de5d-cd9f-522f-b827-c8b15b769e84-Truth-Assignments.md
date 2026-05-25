@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/truth-assignments|truth-assignments]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/truth-assignments|truth-assignments]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Truth Assignments in Propositional Logic

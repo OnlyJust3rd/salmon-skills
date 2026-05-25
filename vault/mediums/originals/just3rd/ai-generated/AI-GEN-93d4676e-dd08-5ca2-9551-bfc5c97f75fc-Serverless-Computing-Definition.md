@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/serverless-computing-definition|serverless-computing-definition]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/microskills/serverless-computing-definition|serverless-computing-definition]]"
 learning-time-in-minutes: 2
 ---
 # Serverless Computing: What It Means to You

@@ -49,3 +49,6 @@ Identify and define the essential components of a startup pitch.
 - [[skills/business/entrepreneurship/startup-communication/microskills/market-analysis|Market Analysis]]
 - [[skills/business/entrepreneurship/startup-communication/microskills/business-model|Business Model]]
 - [[skills/business/entrepreneurship/startup-communication/microskills/team-introduction|Team Introduction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

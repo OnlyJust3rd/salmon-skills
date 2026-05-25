@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how state and idempotency contribute to stable infrastructure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Explain the relationships between modular arithmetic, gcd, Euclidean algorithms,
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-application-in-cryptography|Euclidean Algorithm Application in Cryptography]]
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euler-s-phi-function-application-in-cryptography|Euler's Phi Function Application in Cryptography]]
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/interconnectedness-of-number-theory-concepts|Interconnectedness of Number Theory Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

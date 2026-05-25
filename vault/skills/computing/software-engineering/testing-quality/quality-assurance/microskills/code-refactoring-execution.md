@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying techniques to improve code structure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

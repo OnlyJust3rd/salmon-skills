@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the purpose and operation of op-amps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

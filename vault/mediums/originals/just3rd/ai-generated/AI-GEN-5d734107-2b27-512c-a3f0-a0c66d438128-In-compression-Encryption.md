@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/in-compression-encryption|in-compression-encryption]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/in-compression-encryption|in-compression-encryption]]"
 learning-time-in-minutes: 5
 ---
 # In-Compression Encryption: Protecting Data as it Shrinks

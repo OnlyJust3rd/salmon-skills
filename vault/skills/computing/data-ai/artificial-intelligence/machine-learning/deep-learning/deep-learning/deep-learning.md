@@ -50,3 +50,6 @@ Designing and implementing neural networks and deep learning models, including c
 - [[model-compilation-and-training|Model compilation and training]]
 - [[neuron-definition|Neuron definition]]
 - [[pooling-layer-purpose|Pooling layer purpose]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

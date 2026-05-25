@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of scenarios where this approach is beneficial.
+## Related Mediums
+
+![[bases/related-mediums.base]]

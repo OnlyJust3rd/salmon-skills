@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[logical-network-grouping|logical-network-grouping]]"
+learning-outcomes:
+  - "[[logical-network-grouping|logical-network-grouping]]"
 learning-time-in-minutes: 3
 ---
 # Logical Network Grouping: Your First Step to VLANs

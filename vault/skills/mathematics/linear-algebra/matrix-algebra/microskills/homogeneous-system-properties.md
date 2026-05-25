@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the basic characteristics of homogeneous systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

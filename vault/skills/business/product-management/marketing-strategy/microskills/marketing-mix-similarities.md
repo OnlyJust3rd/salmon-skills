@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying common ground between 4Ps and 4Cs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

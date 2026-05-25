@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of performance based on design variations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

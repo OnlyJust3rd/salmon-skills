@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Choosing partition keys that distribute data and support expected queries.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of MATLAB commands for loading image files.
+## Related Mediums
+
+![[bases/related-mediums.base]]

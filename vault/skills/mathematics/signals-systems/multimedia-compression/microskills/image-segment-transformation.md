@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying DCT to a segment of image data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

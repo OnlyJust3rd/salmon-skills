@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of the effectiveness of data modeling techniques for given problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Apply specific rules, content, and mechanics to construct a playable game protot
 - [[skills/digital-media/game-development/game-design/microskills/rule-content-and-mechanic-integration|Rule, Content, and Mechanic Integration]]
 - [[skills/digital-media/game-development/game-design/microskills/player-experience-formulation|Player Experience Formulation]]
 - [[skills/digital-media/game-development/game-design/microskills/principle-application-in-prototyping|Principle Application in Prototyping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

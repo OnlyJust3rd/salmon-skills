@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/overflow-detection|overflow-detection]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/overflow-detection|overflow-detection]]"
 learning-time-in-minutes: 3
 ---
 # Overflow Detection in Signed Arithmetic

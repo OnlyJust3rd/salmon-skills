@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/database-structure-tables-columns-rows|database-structure-tables-columns-rows]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/database-structure-tables-columns-rows|database-structure-tables-columns-rows]]"
 learning-time-in-minutes: 3
 ---
 # Database Structure: Tables, Columns, and Rows

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating functional designs for core value.
+## Related Mediums
+
+![[bases/related-mediums.base]]

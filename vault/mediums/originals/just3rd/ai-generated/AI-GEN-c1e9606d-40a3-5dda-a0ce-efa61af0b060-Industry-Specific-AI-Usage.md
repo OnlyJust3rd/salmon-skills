@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/industry-specific-ai-usage|industry-specific-ai-usage]]"
+learning-outcomes:
+  - "[[skills/professional-practice/technology-society/technology-impact-analysis/microskills/industry-specific-ai-usage|industry-specific-ai-usage]]"
 learning-time-in-minutes: 5
 ---
 # Industry-Specific AI Usage: Healthcare and Finance

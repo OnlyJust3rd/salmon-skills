@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/selective-encryption-system-analysis|selective-encryption-system-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/selective-encryption-system-analysis|selective-encryption-system-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Selective Encryption Systems

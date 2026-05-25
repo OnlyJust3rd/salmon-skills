@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/perspective-projection/microskills/visual-characteristics-of-projections|visual-characteristics-of-projections]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/perspective-projection/microskills/visual-characteristics-of-projections|visual-characteristics-of-projections]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Visual Characteristics of Projections

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding when an input string is accepted by a finite automaton.
+## Related Mediums
+
+![[bases/related-mediums.base]]

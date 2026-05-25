@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[unmoderated-usability-testing|unmoderated-usability-testing]]"
+learning-outcomes:
+  - "[[unmoderated-usability-testing|unmoderated-usability-testing]]"
 learning-time-in-minutes: 5
 ---
 # Unmoderated Usability Testing

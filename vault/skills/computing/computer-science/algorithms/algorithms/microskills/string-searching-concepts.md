@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Fundamental ideas related to finding patterns within strings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

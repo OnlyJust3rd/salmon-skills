@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Discovery of patterns within datasets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

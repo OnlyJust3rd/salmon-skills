@@ -58,3 +58,6 @@ Exploring biological inspirations for computational evolution, including evoluti
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/gp-based-robotic-control-design|GP-Based Robotic Control Design]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/historical-development-of-evolutionary-theory|Historical Development of Evolutionary Theory]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/relevance-to-computational-evolution|Relevance to Computational Evolution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

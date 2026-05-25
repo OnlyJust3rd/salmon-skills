@@ -30,3 +30,6 @@ Testing web interfaces across browsers and environments to identify compatibilit
 - [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/compatibility-test-matrix|Compatibility Test Matrix]]
 - [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/javascript-compatibility|JavaScript Compatibility]]
 - [[skills/computing/software-engineering/frontend-development/cross-browser-testing/microskills/rendering-compatibility|Rendering Compatibility]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

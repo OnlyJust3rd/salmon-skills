@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Protection of critical sections using Compare-and-Swap locks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

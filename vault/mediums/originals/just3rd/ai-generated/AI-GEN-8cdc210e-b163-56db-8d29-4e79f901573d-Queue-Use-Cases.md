@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/queue-use-cases|queue-use-cases]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/queue-use-cases|queue-use-cases]]"
 learning-time-in-minutes: 4
 ---
 # Queue Use Cases: Keeping Things in Order

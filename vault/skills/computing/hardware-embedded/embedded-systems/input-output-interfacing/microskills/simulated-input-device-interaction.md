@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical demonstration of accessing data from a simulated input source.
+## Related Mediums
+
+![[bases/related-mediums.base]]

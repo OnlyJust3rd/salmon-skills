@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/signal-transduction-in-iot|signal-transduction-in-iot]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/signal-transduction-in-iot|signal-transduction-in-iot]]"
 learning-time-in-minutes: 4
 ---
 # Signal Transduction in IoT Devices

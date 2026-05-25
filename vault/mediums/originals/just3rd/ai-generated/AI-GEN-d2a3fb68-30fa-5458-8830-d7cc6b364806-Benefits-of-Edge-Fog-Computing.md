@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[benefits-of-edge-fog-computing|benefits-of-edge-fog-computing]]"
+learning-outcomes:
+  - "[[benefits-of-edge-fog-computing|benefits-of-edge-fog-computing]]"
 learning-time-in-minutes: 5
 ---
 # Benefits of Edge and Fog Computing

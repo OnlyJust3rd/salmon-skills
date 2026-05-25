@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Combining information across multiple sources into a usable output.
+## Related Mediums
+
+![[bases/related-mediums.base]]

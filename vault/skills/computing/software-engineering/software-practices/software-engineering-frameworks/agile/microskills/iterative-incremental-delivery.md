@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Breaking delivery into small increments that can be inspected and improved.
+## Related Mediums
+
+![[bases/related-mediums.base]]

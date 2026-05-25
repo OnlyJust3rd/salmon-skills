@@ -38,3 +38,6 @@ Defining product direction through discovery, customer problems, value propositi
 - [[skills/business/product-management/product-strategy/microskills/roadmap-theme|Roadmap Theme]]
 - [[skills/business/product-management/product-strategy/microskills/roadmap-trade-off|Roadmap Trade-off]]
 - [[skills/business/product-management/product-strategy/microskills/value-proposition|Value Proposition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

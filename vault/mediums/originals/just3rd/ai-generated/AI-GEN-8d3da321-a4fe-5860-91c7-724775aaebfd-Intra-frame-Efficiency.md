@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/image-compression/microskills/intra-frame-efficiency|intra-frame-efficiency]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/image-compression/microskills/intra-frame-efficiency|intra-frame-efficiency]]"
 learning-time-in-minutes: 5
 ---
 # Intra-frame Compression: Unpacking a Single Frame's Secrets

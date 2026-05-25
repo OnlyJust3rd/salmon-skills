@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[udp-characteristics|udp-characteristics]]"
+learning-outcomes:
+  - "[[udp-characteristics|udp-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # UDP Characteristics: The Lightweight of the Transport Layer

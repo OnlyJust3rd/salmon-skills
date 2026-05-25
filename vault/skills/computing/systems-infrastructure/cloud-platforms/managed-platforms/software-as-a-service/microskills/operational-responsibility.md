@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding provider responsibility for uptime, updates, and service quality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|os-service-utilization-by-utilities]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|os-service-utilization-by-utilities]]"
 learning-time-in-minutes: 4
 ---
 # Interacting with the Operating System: A Simple File Utility

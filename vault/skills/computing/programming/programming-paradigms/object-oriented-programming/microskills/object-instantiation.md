@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How instances are created from classes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

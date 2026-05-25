@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding why a product is useful to a target segment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

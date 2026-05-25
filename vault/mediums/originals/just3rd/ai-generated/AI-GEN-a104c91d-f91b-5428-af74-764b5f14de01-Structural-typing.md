@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[structural-typing|structural-typing]]"
+learning-outcomes:
+  - "[[structural-typing|structural-typing]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Structural Typing in TypeScript

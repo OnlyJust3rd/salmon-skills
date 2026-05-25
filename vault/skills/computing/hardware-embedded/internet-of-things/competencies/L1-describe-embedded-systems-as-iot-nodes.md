@@ -45,3 +45,6 @@ Describe the typical architecture and role of embedded systems as IoT nodes, inc
 - [[embedded-systems-architecture|Embedded Systems Architecture]]
 - [[role-of-embedded-systems-in-iot|Role of Embedded Systems in IoT]]
 - [[essential-characteristics-of-iot-nodes|Essential Characteristics of IoT Nodes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

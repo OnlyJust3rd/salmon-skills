@@ -42,3 +42,6 @@ This is hirable at junior to early mid level when a candidate can explain why a 
 - [[skills/computing/systems-infrastructure/system-design/microskills/database-indexing|Database Indexing]]
 - [[data-partitioning|Data Partitioning]]
 - [[cap-theorem|CAP Theorem]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

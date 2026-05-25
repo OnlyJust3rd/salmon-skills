@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of definitions related to operating system I/O concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

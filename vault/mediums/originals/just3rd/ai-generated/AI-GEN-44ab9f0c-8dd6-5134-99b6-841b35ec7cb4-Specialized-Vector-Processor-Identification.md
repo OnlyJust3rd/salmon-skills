@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-identification|specialized-vector-processor-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-identification|specialized-vector-processor-identification]]"
 learning-time-in-minutes: 4
 ---
 # Specialized Vector Processors: Recognizing the Power of Parallelism

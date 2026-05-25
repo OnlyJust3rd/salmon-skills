@@ -45,3 +45,6 @@ Explain the principles of virtual memory mapping, including page tables and the 
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/virtual-memory-mapping-principles|Virtual Memory Mapping Principles]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/page-table-functionality|Page Table Functionality]]
 - [[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/translation-lookaside-buffer-tlb-functionality|Translation Lookaside Buffer (TLB) Functionality]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

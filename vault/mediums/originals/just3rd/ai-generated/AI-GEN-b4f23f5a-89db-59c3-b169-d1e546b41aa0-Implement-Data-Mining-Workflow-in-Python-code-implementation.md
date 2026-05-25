@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[implement-data-mining-workflow-in-python-code-implementation|implement-data-mining-workflow-in-python-code-implementation]]"
+learning-outcomes:
+  - "[[implement-data-mining-workflow-in-python-code-implementation|implement-data-mining-workflow-in-python-code-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing a Data Mining Workflow in Python

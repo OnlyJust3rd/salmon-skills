@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding when forwarding resolves data hazards and when it cannot.
+## Related Mediums
+
+![[bases/related-mediums.base]]

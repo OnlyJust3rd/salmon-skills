@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[embedded-systems-architecture|embedded-systems-architecture]]"
+learning-outcomes:
+  - "[[embedded-systems-architecture|embedded-systems-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Embedded Systems Architecture as IoT Nodes

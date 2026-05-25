@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skilled execution of determinant calculation for small matrices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explain the concept of pipelining and its benefits for execution speed, includin
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelining-principles|Pipelining Principles]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelining-benefits-for-execution-speed|Pipelining Benefits for Execution Speed]]
 - [[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/pipelined-execution-stages|Pipelined Execution Stages]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

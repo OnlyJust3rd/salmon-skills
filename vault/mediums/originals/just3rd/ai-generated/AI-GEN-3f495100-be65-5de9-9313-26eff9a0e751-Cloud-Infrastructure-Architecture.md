@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/cloud-infrastructure-architecture|cloud-infrastructure-architecture]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/cloud-infrastructure-architecture|cloud-infrastructure-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Cloud Infrastructure Architecture: Putting the Pieces Together

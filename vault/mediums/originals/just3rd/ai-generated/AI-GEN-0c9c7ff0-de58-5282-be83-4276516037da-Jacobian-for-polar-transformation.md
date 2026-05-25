@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/jacobian-for-polar-transformation|jacobian-for-polar-transformation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/jacobian-for-polar-transformation|jacobian-for-polar-transformation]]"
 learning-time-in-minutes: 3
 ---
 # The Jacobian for Polar Coordinate Transformation

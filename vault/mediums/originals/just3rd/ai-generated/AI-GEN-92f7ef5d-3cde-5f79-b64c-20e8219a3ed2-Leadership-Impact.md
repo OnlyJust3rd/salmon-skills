@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/leadership-impact|leadership-impact]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/leadership-impact|leadership-impact]]"
 learning-time-in-minutes: 4
 ---
 # The Ripple Effect: How Leadership Styles Shape Your Organization

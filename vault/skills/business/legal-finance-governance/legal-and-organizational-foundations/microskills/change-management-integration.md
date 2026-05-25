@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How leadership and culture affect change initiatives.
+## Related Mediums
+
+![[bases/related-mediums.base]]

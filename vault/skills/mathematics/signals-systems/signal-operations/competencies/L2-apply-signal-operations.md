@@ -45,3 +45,6 @@ Apply time reversal and time shifting operations to signals and their representa
 - [[time-shifting-application|Time Shifting Application]]
 - [[convolution-preparation|Convolution Preparation]]
 - [[time-shifting-property-application-fs-dtfs|Time-Shifting Property Application (FS/DTFS)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

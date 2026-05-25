@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[protocol-use-cases|protocol-use-cases]]"
+learning-outcomes:
+  - "[[protocol-use-cases|protocol-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Protocol Use Cases: When to Choose TCP or UDP

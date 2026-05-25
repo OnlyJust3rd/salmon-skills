@@ -43,3 +43,6 @@ Explain the syntax of Regular Expressions and how they are used to match specifi
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-metacharacters|Regular Expression Metacharacters]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-pattern-interpretation|Regular Expression Pattern Interpretation]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-syntax-fundamentals|Regular Expression Syntax Fundamentals]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

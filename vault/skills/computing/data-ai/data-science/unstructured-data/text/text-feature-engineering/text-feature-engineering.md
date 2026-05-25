@@ -70,3 +70,6 @@ Transform textual data into numerical representations using discrete and distrib
 - [[word2vec-cbow-skip-gram-concepts|Word2Vec (CBOW/Skip-Gram) Concepts]]
 - [[word2vec-application|Word2Vec Application]]
 - [[word2vec-principle|Word2Vec Principle]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

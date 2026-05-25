@@ -43,3 +43,6 @@ Explain the purpose and general approach of various algorithm design strategies.
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-design-strategy-principles|Algorithm Design Strategy Principles]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/application-of-design-strategies|Application of Design Strategies]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/purpose-of-design-strategies|Purpose of Design Strategies]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Performing a foundational step of transform coding.
+## Related Mediums
+
+![[bases/related-mediums.base]]

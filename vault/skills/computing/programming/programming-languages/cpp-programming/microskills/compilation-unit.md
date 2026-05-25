@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding source and header organization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

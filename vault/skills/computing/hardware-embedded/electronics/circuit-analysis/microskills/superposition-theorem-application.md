@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Competence in utilizing the Superposition theorem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

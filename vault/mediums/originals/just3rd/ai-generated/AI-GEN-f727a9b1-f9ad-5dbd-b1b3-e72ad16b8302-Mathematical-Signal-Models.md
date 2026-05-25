@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/mathematical-signal-models|mathematical-signal-models]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/mathematical-signal-models|mathematical-signal-models]]"
 learning-time-in-minutes: 5
 ---
 # Mathematical Signal Models

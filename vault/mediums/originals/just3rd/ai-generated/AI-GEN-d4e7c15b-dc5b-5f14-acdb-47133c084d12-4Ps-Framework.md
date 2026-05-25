@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/marketing-strategy/microskills/4ps-framework|4ps-framework]]"
+learning-outcomes:
+  - "[[skills/business/product-management/marketing-strategy/microskills/4ps-framework|4ps-framework]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the 4Ps Framework: The Traditional Marketing Mix

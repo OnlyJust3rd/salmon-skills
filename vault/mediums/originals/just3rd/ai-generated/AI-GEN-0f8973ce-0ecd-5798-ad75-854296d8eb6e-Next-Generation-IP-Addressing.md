@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[next-generation-ip-addressing|next-generation-ip-addressing]]"
+learning-outcomes:
+  - "[[next-generation-ip-addressing|next-generation-ip-addressing]]"
 learning-time-in-minutes: 4
 ---
 # Next Generation IP Addressing: Understanding IPv6

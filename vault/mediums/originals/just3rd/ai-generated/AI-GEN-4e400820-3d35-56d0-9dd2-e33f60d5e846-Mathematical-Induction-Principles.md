@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/proof-techniques/microskills/mathematical-induction-principles|mathematical-induction-principles]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/proof-techniques/microskills/mathematical-induction-principles|mathematical-induction-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Mathematical Induction Principles

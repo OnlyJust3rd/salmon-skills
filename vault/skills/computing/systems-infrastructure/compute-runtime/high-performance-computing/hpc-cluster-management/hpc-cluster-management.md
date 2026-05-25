@@ -70,3 +70,6 @@ Deploying and managing high-performance computing systems using cluster middlewa
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-architecture-use-cases|Serverless Architecture Use Cases]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/serverless-principles-explanation|Serverless Principles Explanation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/slurm-job-scheduler-recognition|Slurm Job Scheduler Recognition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

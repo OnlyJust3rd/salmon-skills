@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the sequence and purpose of data science stages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[conditionals-and-loops|conditionals-and-loops]]"
+learning-outcomes:
+  - "[[conditionals-and-loops|conditionals-and-loops]]"
 learning-time-in-minutes: 3
 ---
 # Conditionals and Loops in Shell Scripting

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/cad-design/microskills/2d-sketching-principles|2d-sketching-principles]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/cad-design/microskills/2d-sketching-principles|2d-sketching-principles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding 2D Sketching Principles in CAD

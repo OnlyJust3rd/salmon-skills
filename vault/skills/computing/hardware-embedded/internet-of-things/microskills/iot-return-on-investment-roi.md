@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of potential financial benefits and ROI for IoT implementations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

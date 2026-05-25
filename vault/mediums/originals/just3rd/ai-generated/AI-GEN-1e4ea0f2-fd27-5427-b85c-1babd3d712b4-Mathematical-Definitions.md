@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/geometric-representation/microskills/mathematical-definitions|mathematical-definitions]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/geometric-representation/microskills/mathematical-definitions|mathematical-definitions]]"
 learning-time-in-minutes: 4
 ---
 # Mathematical Definitions of Geometric Primitives

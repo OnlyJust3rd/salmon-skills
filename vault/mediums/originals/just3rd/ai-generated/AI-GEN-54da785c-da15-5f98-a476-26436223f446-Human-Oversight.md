@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/claude-cowork/microskills/human-oversight|human-oversight]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/claude-cowork/microskills/human-oversight|human-oversight]]"
 learning-time-in-minutes: 3
 ---
 # Human Oversight in Claude Cowork

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation and management of multiple processes for parallel execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Define the fundamental principles, purpose, and evaluation metrics of digital wa
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/digital-watermarking-definition|Digital Watermarking Definition]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/digital-watermarking-purpose|Digital Watermarking Purpose]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/digital-watermarking-metrics|Digital Watermarking Metrics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

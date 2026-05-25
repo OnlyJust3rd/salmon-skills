@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/combinatorial-analysis/microskills/combinatorial-problem-identification|combinatorial-problem-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/combinatorial-analysis/microskills/combinatorial-problem-identification|combinatorial-problem-identification]]"
 learning-time-in-minutes: 3
 ---
 # Identifying Combinatorial Problems

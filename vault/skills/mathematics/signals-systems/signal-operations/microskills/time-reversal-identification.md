@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of the time reversal (flipping) operation on signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -71,3 +71,6 @@ The ability to design and test passive RC and RL frequency filters to remove noi
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/rc-rl-circuit-function|RC/RL Circuit Function]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/rl-filter-cutoff-frequency-calculation|RL Filter Cutoff Frequency Calculation]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/signal-noise-reduction-evaluation|Signal Noise Reduction Evaluation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

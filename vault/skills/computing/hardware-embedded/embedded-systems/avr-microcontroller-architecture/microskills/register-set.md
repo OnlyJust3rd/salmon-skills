@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of the various registers within the AVR microcontroller.
+## Related Mediums
+
+![[bases/related-mediums.base]]

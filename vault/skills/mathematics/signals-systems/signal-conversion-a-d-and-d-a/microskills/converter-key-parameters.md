@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall definitions of resolution, sampling rate, and quantization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

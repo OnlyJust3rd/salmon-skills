@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the sequential steps for simulating digital logic circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

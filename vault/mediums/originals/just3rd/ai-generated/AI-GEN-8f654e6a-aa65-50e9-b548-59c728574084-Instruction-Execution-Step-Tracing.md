@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/instruction-execution-step-tracing|instruction-execution-step-tracing]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-datapath/microskills/instruction-execution-step-tracing|instruction-execution-step-tracing]]"
 learning-time-in-minutes: 3
 ---
 # Tracing Instruction Execution: A Step-by-Step Guide

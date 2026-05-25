@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Key distinctions between the two IP versions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

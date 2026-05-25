@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interface-design-alternatives|interface-design-alternatives]]"
+learning-outcomes:
+  - "[[interface-design-alternatives|interface-design-alternatives]]"
 learning-time-in-minutes: 5
 ---
 # Exploring Interface Design Alternatives

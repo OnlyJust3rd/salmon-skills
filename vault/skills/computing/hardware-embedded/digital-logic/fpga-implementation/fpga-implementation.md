@@ -52,3 +52,6 @@ Program programmable logic devices (such as FPGAs) to deploy and test digital de
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/programmable-logic-device-types|Programmable Logic Device Types]]
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/simulation-to-hardware-bridging|Simulation to Hardware Bridging]]
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/synthesis-process|Synthesis Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

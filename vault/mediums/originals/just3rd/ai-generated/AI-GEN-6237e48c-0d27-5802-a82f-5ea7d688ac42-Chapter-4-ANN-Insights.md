@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[chapter-4-ann-insights|chapter-4-ann-insights]]"
+learning-outcomes:
+  - "[[chapter-4-ann-insights|chapter-4-ann-insights]]"
 learning-time-in-minutes: 3
 ---
 # Chapter 4: Unpacking ANN Advancements

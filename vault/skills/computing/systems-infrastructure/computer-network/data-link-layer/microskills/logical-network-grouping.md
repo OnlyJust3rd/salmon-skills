@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating broadcast domains independent of physical location.
+## Related Mediums
+
+![[bases/related-mediums.base]]

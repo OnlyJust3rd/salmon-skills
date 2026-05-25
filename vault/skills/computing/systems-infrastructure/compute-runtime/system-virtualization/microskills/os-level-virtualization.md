@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how containers share the host OS kernel.
+## Related Mediums
+
+![[bases/related-mediums.base]]

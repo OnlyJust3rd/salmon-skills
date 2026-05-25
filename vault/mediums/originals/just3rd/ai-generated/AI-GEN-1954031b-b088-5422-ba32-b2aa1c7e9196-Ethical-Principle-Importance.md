@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/ethical-principle-importance|ethical-principle-importance]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/ethical-principle-importance|ethical-principle-importance]]"
 learning-time-in-minutes: 3
 ---
 # The Importance of Ethical Principles in Business

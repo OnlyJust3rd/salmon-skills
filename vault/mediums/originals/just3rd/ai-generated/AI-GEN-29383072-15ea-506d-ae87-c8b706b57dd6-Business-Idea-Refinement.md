@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/business-idea-refinement|business-idea-refinement]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/business-idea-refinement|business-idea-refinement]]"
 learning-time-in-minutes: 5
 ---
 # Refining Business Ideas with the Build-Measure-Learn Cycle

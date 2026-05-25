@@ -45,3 +45,6 @@ Explain how Docker volumes enable data persistence across container lifecycles.
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/container-lifecycle-independence|Container Lifecycle Independence]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/data-availability-across-containers|Data Availability Across Containers]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-lifecycle|Volume Lifecycle]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

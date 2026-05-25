@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to choose the most appropriate service model for a given need.
+## Related Mediums
+
+![[bases/related-mediums.base]]

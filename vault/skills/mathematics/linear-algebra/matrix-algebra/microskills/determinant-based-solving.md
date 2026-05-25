@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing determinants to find unique solutions of linear systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

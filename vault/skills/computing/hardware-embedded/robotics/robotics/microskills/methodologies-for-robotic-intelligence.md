@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the techniques employed by different AI paradigms to create intelligent robotic behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

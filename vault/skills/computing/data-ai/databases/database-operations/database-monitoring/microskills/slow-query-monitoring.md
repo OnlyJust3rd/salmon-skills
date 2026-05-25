@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Identifying expensive or slow database queries.
+## Related Mediums
+
+![[bases/related-mediums.base]]

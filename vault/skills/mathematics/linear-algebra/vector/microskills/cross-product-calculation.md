@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to compute the vector (cross) product of vectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the atomicity of Test-and-Set operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

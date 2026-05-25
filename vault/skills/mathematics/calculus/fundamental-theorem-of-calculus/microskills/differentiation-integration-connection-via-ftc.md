@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the inverse relationship between differentiation and integration as stated by the FTC.
+## Related Mediums
+
+![[bases/related-mediums.base]]

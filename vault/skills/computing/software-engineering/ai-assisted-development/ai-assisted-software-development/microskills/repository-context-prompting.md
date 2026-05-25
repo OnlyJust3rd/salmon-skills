@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Providing codebase-specific context to guide output.
+## Related Mediums
+
+![[bases/related-mediums.base]]

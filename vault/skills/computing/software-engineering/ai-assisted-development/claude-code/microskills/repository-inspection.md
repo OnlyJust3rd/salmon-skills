@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reviewing project structure before editing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

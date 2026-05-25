@@ -42,3 +42,6 @@ Discuss the principles of Continuous Integration and Continuous Deployment (CI/C
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/continuous-integration-principles|Continuous Integration Principles]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/continuous-deployment-principles|Continuous Deployment Principles]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/frequent-software-release-benefits|Frequent Software Release Benefits]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

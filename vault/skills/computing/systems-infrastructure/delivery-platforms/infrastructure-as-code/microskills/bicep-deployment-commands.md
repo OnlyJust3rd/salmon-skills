@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with Azure CLI commands for Bicep deployments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

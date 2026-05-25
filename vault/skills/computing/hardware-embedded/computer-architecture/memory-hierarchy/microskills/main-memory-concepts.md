@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of main memory's role in the hierarchy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of data modeling techniques to organize datasets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-problem-solution-mapping|design-pattern-problem-solution-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/design-pattern-problem-solution-mapping|design-pattern-problem-solution-mapping]]"
 learning-time-in-minutes: 6
 ---
 # Mapping Design Patterns to Problems

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/review-validation|review-validation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-code-review/microskills/review-validation|review-validation]]"
 learning-time-in-minutes: 5
 ---
 # Review Validation: Verifying AI Code Review Findings

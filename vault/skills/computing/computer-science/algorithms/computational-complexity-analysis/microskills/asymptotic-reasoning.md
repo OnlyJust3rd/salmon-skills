@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Focusing on dominant terms in complexity expressions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

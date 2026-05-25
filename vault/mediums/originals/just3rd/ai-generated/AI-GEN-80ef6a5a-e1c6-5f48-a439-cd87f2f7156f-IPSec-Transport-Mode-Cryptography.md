@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-transport-mode-cryptography|ipsec-transport-mode-cryptography]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-transport-mode-cryptography|ipsec-transport-mode-cryptography]]"
 learning-time-in-minutes: 3
 ---
 # IPSec Transport Mode Cryptography

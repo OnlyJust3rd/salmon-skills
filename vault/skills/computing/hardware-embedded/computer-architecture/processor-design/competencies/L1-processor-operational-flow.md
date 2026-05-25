@@ -49,3 +49,6 @@ Explain the operational flow of a simple processor during instruction execution.
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/instruction-decode-process|Instruction Decode Process]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/instruction-execute-process|Instruction Execute Process]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-workflow-during-execution|Processor Workflow During Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

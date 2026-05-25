@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/algorithmic-principle-application|algorithmic-principle-application]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/algorithmic-principle-application|algorithmic-principle-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying Algorithmic Principles to Genetic Algorithms

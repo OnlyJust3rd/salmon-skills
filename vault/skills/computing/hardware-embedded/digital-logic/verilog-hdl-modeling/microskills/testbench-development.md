@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Construction of functional testbenches in Verilog.
+## Related Mediums
+
+![[bases/related-mediums.base]]

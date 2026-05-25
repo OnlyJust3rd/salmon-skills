@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of Verilog code for counter circuits.
+## Related Mediums
+
+![[bases/related-mediums.base]]

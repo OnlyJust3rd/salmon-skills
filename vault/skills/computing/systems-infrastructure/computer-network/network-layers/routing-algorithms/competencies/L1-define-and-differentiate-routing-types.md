@@ -47,3 +47,6 @@ Define and explain the fundamental differences between intradomain and interdoma
 - [[interdomain-routing|Interdomain Routing]]
 - [[routing-protocol-goals|Routing Protocol Goals]]
 - [[autonomous-system-concepts|Autonomous System Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

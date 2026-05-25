@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the replacement of process images with exec().
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination and evaluation of asynchronous bus protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

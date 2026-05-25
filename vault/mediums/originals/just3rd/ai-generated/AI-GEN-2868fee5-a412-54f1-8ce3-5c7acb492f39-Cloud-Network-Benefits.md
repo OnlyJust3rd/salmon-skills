@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cloud-network-benefits|cloud-network-benefits]]"
+learning-outcomes:
+  - "[[cloud-network-benefits|cloud-network-benefits]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Benefits of Cloud Networks (VPCs)

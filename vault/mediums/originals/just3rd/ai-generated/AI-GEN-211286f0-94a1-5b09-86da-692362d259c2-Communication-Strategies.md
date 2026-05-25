@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/communication-strategies|communication-strategies]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/communication-strategies|communication-strategies]]"
 learning-time-in-minutes: 5
 ---
 # Communication Strategies: Bridging the Gap in Organizations

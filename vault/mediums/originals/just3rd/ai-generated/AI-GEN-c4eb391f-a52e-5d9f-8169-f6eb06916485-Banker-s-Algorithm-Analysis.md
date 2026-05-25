@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/banker-s-algorithm-analysis|banker-s-algorithm-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/banker-s-algorithm-analysis|banker-s-algorithm-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing the Banker's Algorithm

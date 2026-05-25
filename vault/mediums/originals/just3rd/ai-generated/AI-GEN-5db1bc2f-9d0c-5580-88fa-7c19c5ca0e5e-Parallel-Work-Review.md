@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/parallel-work-review|parallel-work-review]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/openai-codex/microskills/parallel-work-review|parallel-work-review]]"
 learning-time-in-minutes: 5
 ---
 # Parallel Work Review with OpenAI Codex

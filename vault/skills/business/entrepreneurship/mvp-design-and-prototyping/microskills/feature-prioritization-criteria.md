@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ranking features based on user value and problem fit.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/task-operator|task-operator]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/task-operator|task-operator]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Airflow Task Operators

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Preparation of image data for watermark embedding using filters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

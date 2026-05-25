@@ -45,3 +45,6 @@ Define the fundamental principles of object-oriented programming: abstraction, e
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/encapsulation-definition|Encapsulation Definition]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/inheritance-definition|Inheritance Definition]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/polymorphism-definition|Polymorphism Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

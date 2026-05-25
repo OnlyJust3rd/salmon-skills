@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how FSM-like logic generates control signals directly.
+## Related Mediums
+
+![[bases/related-mediums.base]]

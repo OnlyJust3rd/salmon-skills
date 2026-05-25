@@ -47,3 +47,6 @@ Explain Redshift warehouse and query concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/distribution-style|Distribution Style]]
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/sort-key|Sort Key]]
 - [[skills/computing/data-ai/data-engineering-platforms/amazon-redshift/microskills/workload-management|Workload Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

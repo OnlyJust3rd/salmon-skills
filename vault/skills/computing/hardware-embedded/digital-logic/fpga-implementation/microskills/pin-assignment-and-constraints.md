@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to assign FPGA pins and set timing constraints for a design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

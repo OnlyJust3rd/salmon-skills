@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-model-interpretation|verilog-model-interpretation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-model-interpretation|verilog-model-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Interpreting a Verilog Counter Model

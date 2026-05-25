@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding expenses incurred.
+## Related Mediums
+
+![[bases/related-mediums.base]]

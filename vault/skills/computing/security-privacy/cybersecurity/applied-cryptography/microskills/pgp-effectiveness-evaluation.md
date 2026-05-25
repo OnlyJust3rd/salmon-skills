@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of effectiveness and security trade-offs for PGP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

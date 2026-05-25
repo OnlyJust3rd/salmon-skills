@@ -47,3 +47,6 @@ Build interactive prototypes using physical computing toolkits like Arduino.
 - [[arduino-prototype-construction|Arduino Prototype Construction]]
 - [[physical-computing|Physical Computing]]
 - [[basic-code-implementation|Basic Code Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

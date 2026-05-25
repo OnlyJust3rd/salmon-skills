@@ -43,3 +43,6 @@ Apply principles of visual design to create character appearance that communicat
 - [[skills/digital-media/game-development/character-design/microskills/visual-design-principles|Visual Design Principles]]
 - [[skills/digital-media/game-development/character-design/microskills/character-appearance-conceptualization|Character Appearance Conceptualization]]
 - [[skills/digital-media/game-development/character-design/microskills/personality-and-role-communication|Personality and Role Communication]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

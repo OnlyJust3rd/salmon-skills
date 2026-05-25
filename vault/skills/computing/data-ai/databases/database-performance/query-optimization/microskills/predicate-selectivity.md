@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Estimating how filters affect query cost and index usefulness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

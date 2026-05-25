@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to define Kubernetes resources using Terraform code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

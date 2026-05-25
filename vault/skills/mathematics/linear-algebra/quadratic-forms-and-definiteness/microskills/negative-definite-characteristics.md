@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying features of negative definite quadratic forms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

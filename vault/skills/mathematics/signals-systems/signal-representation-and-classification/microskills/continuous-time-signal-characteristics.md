@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the defining features of continuous-time signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

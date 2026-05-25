@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of the entire game development progression from initial concept through to post-launch maintenance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

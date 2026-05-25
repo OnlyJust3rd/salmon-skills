@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of connecting Grafana to data sources like Prometheus.
+## Related Mediums
+
+![[bases/related-mediums.base]]

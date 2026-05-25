@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Future expansion possibilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

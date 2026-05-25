@@ -45,3 +45,6 @@ Define and list the core concepts of Virtual Reality (VR) and Augmented Reality 
 - [[virtual-reality-concepts|Virtual Reality Concepts]]
 - [[augmented-reality-concepts|Augmented Reality Concepts]]
 - [[vr-and-ar-characteristics|VR and AR Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

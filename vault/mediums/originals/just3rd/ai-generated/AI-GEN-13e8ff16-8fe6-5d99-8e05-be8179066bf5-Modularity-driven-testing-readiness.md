@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[modularity-driven-testing-readiness|modularity-driven-testing-readiness]]"
+learning-outcomes:
+  - "[[modularity-driven-testing-readiness|modularity-driven-testing-readiness]]"
 learning-time-in-minutes: 2
 ---
 # Modularity: Your Secret Weapon for Easier Testing

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-structure|uml-diagram-application-for-structure]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-structure|uml-diagram-application-for-structure]]"
 learning-time-in-minutes: 4
 ---
 # Modeling System Structure with UML Class Diagrams

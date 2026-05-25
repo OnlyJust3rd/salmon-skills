@@ -43,3 +43,6 @@ Define eigenvalues and eigenvectors of a matrix.
 - [[eigenvalue-definition|Eigenvalue definition]]
 - [[eigenvector-definition|Eigenvector definition]]
 - [[eigenvalue-eigenvector-relationship|Eigenvalue-eigenvector relationship]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

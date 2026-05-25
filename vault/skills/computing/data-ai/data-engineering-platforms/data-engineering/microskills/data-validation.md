@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Checking data correctness before loading.
+## Related Mediums
+
+![[bases/related-mediums.base]]

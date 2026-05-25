@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how multiple signals are related during security review.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-mapping-and-associativity|cache-mapping-and-associativity]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/cache-mapping-and-associativity|cache-mapping-and-associativity]]"
 learning-time-in-minutes: 6
 ---
 # Cache Mapping and Associativity: Understanding How Data is Organized

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-error-reporting|network-error-reporting]]"
+learning-outcomes:
+  - "[[network-error-reporting|network-error-reporting]]"
 learning-time-in-minutes: 5
 ---
 # Network Error Reporting with ICMP

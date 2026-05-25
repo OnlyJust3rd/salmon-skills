@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/corporate-operations/sap-erp/microskills/sap-transaction|sap-transaction]]"
+learning-outcomes:
+  - "[[skills/business/corporate-operations/sap-erp/microskills/sap-transaction|sap-transaction]]"
 learning-time-in-minutes: 4
 ---
 # Understanding SAP Transactions: Executing Business Processes

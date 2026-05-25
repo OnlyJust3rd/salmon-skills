@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/intermediate-value-theorem-core-concept|intermediate-value-theorem-core-concept]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/intermediate-value-theorem-core-concept|intermediate-value-theorem-core-concept]]"
 learning-time-in-minutes: 3
 ---
 # The Intermediate Value Theorem: Bridging the Gap

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Planning for attracting new customers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

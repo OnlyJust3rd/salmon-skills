@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding AVL tree rotation operations in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

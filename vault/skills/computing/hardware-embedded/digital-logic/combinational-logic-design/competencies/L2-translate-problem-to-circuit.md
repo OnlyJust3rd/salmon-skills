@@ -45,3 +45,6 @@ Translate a given real-life problem into a truth function and conceptualize a di
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/truth-function-derivation|Truth Function Derivation]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/digital-circuit-conceptualization|Digital Circuit Conceptualization]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/problem-to-logic-translation|Problem-to-Logic Translation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

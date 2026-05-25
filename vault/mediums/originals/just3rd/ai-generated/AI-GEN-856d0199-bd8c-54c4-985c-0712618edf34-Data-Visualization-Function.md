@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[data-visualization-function|data-visualization-function]]"
+learning-outcomes:
+  - "[[data-visualization-function|data-visualization-function]]"
 learning-time-in-minutes: 4
 ---
 # The Purpose of Data Visualization in HCI

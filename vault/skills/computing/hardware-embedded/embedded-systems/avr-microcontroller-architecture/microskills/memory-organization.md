@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the different memory types (e.g., Flash, SRAM, EEPROM).
+## Related Mediums
+
+![[bases/related-mediums.base]]

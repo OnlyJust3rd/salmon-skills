@@ -45,3 +45,6 @@ Recall and state the fundamental concepts, syntax, and keywords of Verilog HDL.
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-hdl-keywords|Verilog HDL Keywords]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-hdl-concepts|Verilog HDL Concepts]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-hdl-building-blocks|Verilog HDL Building Blocks]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

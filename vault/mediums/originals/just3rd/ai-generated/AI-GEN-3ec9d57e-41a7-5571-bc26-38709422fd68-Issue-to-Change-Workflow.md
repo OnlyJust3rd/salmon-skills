@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/issue-to-change-workflow|issue-to-change-workflow]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/github-copilot/microskills/issue-to-change-workflow|issue-to-change-workflow]]"
 learning-time-in-minutes: 4
 ---
 # Connecting Your Code to Issues: The Issue-to-Change Workflow

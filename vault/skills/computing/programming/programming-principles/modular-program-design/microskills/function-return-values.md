@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in utilizing return values from C functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of Word2Vec (CBOW/Skip-Gram) for generating word embeddings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

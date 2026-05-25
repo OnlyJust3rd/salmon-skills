@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/role-based-mechanic-implementation|role-based-mechanic-implementation]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/role-based-mechanic-implementation|role-based-mechanic-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Role-Based Mechanic Implementation

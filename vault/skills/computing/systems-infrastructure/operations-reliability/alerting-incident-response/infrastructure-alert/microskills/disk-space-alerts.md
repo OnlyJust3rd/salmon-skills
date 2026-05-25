@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of alerts triggered by low disk space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

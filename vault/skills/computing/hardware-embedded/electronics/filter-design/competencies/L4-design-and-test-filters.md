@@ -45,3 +45,6 @@ Design and test passive RC and RL frequency filters to remove noise from signals
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/passive-rl-filter-design|Passive RL Filter Design]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/filter-performance-testing|Filter Performance Testing]]
 - [[skills/computing/hardware-embedded/electronics/filter-design/microskills/cutoff-frequency-specification-achievement|Cutoff Frequency Specification Achievement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

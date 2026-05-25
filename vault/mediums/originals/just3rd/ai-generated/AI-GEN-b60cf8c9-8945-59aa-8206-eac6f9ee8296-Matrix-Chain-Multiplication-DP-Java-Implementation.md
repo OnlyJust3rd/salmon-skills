@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[matrix-chain-multiplication-dp-java-implementation|matrix-chain-multiplication-dp-java-implementation]]"
+learning-outcomes:
+  - "[[matrix-chain-multiplication-dp-java-implementation|matrix-chain-multiplication-dp-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Matrix Chain Multiplication DP in Java

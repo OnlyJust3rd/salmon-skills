@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of essential hardware parts in distributed-memory HPC configurations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

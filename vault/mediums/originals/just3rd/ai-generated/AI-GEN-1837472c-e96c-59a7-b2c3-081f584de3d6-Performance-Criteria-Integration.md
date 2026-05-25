@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/performance-criteria-integration|performance-criteria-integration]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/performance-criteria-integration|performance-criteria-integration]]"
 learning-time-in-minutes: 3
 ---
 # Integrating Performance Criteria in Multi-Stage Op-Amp Design

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-zig-zag-scan-purpose|jpeg-zig-zag-scan-purpose]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-zig-zag-scan-purpose|jpeg-zig-zag-scan-purpose]]"
 learning-time-in-minutes: 3
 ---
 # The Zig-zag Scan: Making JPEG Compression Efficient

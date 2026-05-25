@@ -43,3 +43,6 @@ Apply the linearity property to simplify the computation of Fourier Series (FS) 
 - [[linearity-property-application-fs-dtfs|Linearity Property Application (FS/DTFS)]]
 - [[composite-signal-coefficient-computation|Composite Signal Coefficient Computation]]
 - [[scaled-signal-coefficient-computation|Scaled Signal Coefficient Computation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

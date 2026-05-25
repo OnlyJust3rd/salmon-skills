@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of truth tables for different flip-flop types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

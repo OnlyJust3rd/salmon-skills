@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-regulation-issues|power-regulation-issues]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/power-regulation-issues|power-regulation-issues]]"
 learning-time-in-minutes: 5
 ---
 # Power Regulation Issues in Digital Circuits

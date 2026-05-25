@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing storage and retrieval of data within an application.
+## Related Mediums
+
+![[bases/related-mediums.base]]

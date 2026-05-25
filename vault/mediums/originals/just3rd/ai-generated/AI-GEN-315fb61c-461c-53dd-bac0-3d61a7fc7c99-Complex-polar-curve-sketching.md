@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/complex-polar-curve-sketching|complex-polar-curve-sketching]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/complex-polar-curve-sketching|complex-polar-curve-sketching]]"
 learning-time-in-minutes: 5
 ---
 # Sketching Complex Polar Curves Using Symmetry

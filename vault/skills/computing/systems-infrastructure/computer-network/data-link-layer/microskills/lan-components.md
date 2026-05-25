@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the parts that make up an Ethernet network.
+## Related Mediums
+
+![[bases/related-mediums.base]]

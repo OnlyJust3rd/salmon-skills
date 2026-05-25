@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Relationship between costs and other business elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

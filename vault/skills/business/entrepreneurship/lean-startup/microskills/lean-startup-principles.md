@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Core tenets of the Lean Startup methodology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

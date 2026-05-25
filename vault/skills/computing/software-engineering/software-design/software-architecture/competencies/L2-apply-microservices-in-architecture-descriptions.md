@@ -39,3 +39,6 @@ Relate microservices architectural style to high-level service decomposition and
 ## Microskills
 
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/service-decomposition-thinking|Service Decomposition Thinking]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

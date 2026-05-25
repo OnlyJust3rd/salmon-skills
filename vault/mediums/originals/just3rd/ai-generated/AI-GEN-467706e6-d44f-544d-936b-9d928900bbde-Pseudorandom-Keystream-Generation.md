@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/pseudorandom-keystream-generation|pseudorandom-keystream-generation]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/pseudorandom-keystream-generation|pseudorandom-keystream-generation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding LFSR Keystream Generation

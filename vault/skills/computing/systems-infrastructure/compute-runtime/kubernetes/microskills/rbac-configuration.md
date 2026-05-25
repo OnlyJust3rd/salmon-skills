@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in configuring Role-Based Access Control in Kubernetes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

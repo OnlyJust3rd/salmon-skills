@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/trend-identification-in-iot-data|trend-identification-in-iot-data]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/microskills/trend-identification-in-iot-data|trend-identification-in-iot-data]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Trends in IoT Data

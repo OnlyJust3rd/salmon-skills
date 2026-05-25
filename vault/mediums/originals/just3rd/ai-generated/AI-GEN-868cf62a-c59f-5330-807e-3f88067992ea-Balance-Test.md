@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-testing/microskills/balance-test|balance-test]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-testing/microskills/balance-test|balance-test]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Balance Testing in Game Development

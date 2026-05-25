@@ -47,3 +47,6 @@ Implement Docker volumes to persist data for containerized applications.
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-attachment-to-containers|Volume Attachment to Containers]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/persistent-data-storage|Persistent Data Storage]]
 - [[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/volume-management-commands|Volume Management Commands]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

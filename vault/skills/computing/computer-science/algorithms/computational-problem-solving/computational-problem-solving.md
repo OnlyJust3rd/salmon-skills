@@ -50,3 +50,6 @@ Applying computational thinking to analyze problems, decompose them into smaller
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/real-world-problem-identification|Real-world problem identification]]
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/step-by-step-solution-planning|Step-by-step solution planning]]
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/strategy-selection|Strategy Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

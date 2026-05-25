@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the various sectors and fields where IoT is applied.
+## Related Mediums
+
+![[bases/related-mediums.base]]

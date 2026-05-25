@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Showcasing how subsumption architecture creates functional robotic actions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

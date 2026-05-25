@@ -38,3 +38,6 @@ Understanding game HUDs, menus, feedback states, controller navigation, accessib
 - [[skills/digital-media/game-development/game-ui/microskills/hud-layout|HUD Layout]]
 - [[skills/digital-media/game-development/game-ui/microskills/menu-flow|Menu Flow]]
 - [[skills/digital-media/game-development/game-ui/microskills/ui-feedback-event|UI Feedback Event]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of fundamental ideas in managing networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

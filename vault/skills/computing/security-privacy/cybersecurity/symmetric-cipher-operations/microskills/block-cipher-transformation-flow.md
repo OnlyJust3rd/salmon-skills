@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Intricate data flow analysis through transformations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

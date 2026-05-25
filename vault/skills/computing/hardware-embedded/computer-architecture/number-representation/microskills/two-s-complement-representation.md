@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Familiarity with the two's complement method for representing signed numbers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Understanding how database systems switch service after primary failure.
+## Related Mediums
+
+![[bases/related-mediums.base]]

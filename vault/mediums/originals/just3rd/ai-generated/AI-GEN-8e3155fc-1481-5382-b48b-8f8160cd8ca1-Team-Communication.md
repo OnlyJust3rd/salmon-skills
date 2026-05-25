@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/team-communication|team-communication]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/team-communication|team-communication]]"
 learning-time-in-minutes: 4
 ---
 # Effective Internal Messaging within Your Startup Team

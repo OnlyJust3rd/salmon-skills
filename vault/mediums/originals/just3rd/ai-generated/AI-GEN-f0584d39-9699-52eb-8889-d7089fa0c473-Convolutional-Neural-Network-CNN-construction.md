@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[convolutional-neural-network-cnn-construction|convolutional-neural-network-cnn-construction]]"
+learning-outcomes:
+  - "[[convolutional-neural-network-cnn-construction|convolutional-neural-network-cnn-construction]]"
 learning-time-in-minutes: 3
 ---
 # Building a Basic Convolutional Neural Network (CNN)

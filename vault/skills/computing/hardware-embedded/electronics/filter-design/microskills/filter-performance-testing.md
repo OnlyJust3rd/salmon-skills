@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Verification of filter operation and noise reduction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

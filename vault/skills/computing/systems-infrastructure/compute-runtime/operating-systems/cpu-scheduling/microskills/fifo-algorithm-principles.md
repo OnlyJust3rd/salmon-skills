@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of First In, First Out (FIFO) CPU scheduling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

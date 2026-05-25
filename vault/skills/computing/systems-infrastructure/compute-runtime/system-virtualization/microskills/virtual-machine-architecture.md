@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the fundamental principles of VMs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

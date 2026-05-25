@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall the TTL family and its standard sub-families (e.g., 74xx, 74LSxx, 74HCxx).
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Apply Kafka producer, consumer, and topic concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/producer|Producer]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/consumer|Consumer]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/message-key|Message Key]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

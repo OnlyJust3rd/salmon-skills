@@ -41,3 +41,6 @@ Explain the definitions and conditions for continuity and limits of functions in
 
 - [[multivariable-function-limit-definition|Multivariable function limit definition]]
 - [[multivariable-function-continuity-conditions|Multivariable function continuity conditions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

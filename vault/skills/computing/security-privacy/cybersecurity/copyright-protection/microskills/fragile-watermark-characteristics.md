@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing features of fragile watermarks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

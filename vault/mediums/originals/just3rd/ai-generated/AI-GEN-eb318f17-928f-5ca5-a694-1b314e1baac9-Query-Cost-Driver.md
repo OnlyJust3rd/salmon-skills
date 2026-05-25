@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/query-cost-driver|query-cost-driver]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/cloud-data-warehouse/microskills/query-cost-driver|query-cost-driver]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Cloud Data Warehouse Query Cost Drivers

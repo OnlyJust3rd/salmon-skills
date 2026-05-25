@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[spanning-tree-protocol|spanning-tree-protocol]]"
+learning-outcomes:
+  - "[[spanning-tree-protocol|spanning-tree-protocol]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Spanning Tree Protocol (STP)

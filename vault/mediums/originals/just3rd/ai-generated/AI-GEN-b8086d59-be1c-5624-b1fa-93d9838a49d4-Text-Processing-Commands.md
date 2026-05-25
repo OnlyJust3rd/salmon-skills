@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-processing-commands|text-processing-commands]]"
+learning-outcomes:
+  - "[[text-processing-commands|text-processing-commands]]"
 learning-time-in-minutes: 4
 ---
 # Text Processing Commands in Linux

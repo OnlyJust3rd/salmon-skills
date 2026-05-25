@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/image-compression/microskills/motion-vectors|motion-vectors]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/image-compression/microskills/motion-vectors|motion-vectors]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Motion Vectors in Video Compression

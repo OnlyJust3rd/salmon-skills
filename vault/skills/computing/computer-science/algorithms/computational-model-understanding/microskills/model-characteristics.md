@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing general properties of computational models.
+## Related Mediums
+
+![[bases/related-mediums.base]]

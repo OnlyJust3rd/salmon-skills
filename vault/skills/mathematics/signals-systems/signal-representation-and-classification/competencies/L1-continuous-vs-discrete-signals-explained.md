@@ -45,3 +45,6 @@ Explain the differences, criteria, and graphical representations between continu
 - [[discrete-time-signal-characteristics|Discrete-Time Signal Characteristics]]
 - [[signal-type-comparison|Signal Type Comparison]]
 - [[graphical-signal-representations|Graphical Signal Representations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

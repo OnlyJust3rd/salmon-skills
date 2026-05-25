@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-functionality|uml-diagram-application-for-functionality]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-application-for-functionality|uml-diagram-application-for-functionality]]"
 learning-time-in-minutes: 4
 ---
 # Modeling System Capabilities with UML Use Case Diagrams

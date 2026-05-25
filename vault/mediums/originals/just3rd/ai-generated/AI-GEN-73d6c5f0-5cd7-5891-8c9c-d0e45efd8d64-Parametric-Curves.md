@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/curve-modeling/microskills/parametric-curves|parametric-curves]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/curve-modeling/microskills/parametric-curves|parametric-curves]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Parametric Curves

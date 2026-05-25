@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[public-to-private-ip-translation|public-to-private-ip-translation]]"
+learning-outcomes:
+  - "[[public-to-private-ip-translation|public-to-private-ip-translation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Public to Private IP Translation in NAT

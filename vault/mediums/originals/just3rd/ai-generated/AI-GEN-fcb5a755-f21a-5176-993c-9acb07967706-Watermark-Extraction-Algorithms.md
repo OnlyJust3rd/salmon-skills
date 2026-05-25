@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-extraction-algorithms|watermark-extraction-algorithms]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-extraction-algorithms|watermark-extraction-algorithms]]"
 learning-time-in-minutes: 7
 ---
 # Watermark Extraction Algorithms

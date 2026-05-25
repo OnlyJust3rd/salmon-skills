@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/function-analysis/microskills/differentiable-function-conditions|differentiable-function-conditions]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/function-analysis/microskills/differentiable-function-conditions|differentiable-function-conditions]]"
 learning-time-in-minutes: 4
 ---
 # Differentiable Function Conditions

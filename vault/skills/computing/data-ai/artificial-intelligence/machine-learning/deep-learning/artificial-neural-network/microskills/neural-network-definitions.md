@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of precise definitions for neural network concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

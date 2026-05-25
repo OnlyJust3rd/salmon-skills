@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating the system's output sequence via convolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

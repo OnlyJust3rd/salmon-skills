@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[icmp-functions|icmp-functions]]"
+learning-outcomes:
+  - "[[icmp-functions|icmp-functions]]"
 learning-time-in-minutes: 5
 ---
 # Understanding ICMP Functions

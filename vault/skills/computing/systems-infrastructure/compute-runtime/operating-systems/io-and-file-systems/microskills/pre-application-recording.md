@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the recording of changes before file system updates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

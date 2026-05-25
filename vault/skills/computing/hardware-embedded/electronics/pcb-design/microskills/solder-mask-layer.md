@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Purpose of preventing solder bridging.
+## Related Mediums
+
+![[bases/related-mediums.base]]

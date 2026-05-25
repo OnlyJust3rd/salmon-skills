@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of fundamental elements comprising cluster middleware.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of specific examples of symmetric key algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

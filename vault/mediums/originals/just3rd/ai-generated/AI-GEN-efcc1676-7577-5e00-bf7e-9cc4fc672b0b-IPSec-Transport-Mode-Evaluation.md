@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-transport-mode-evaluation|ipsec-transport-mode-evaluation]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-transport-mode-evaluation|ipsec-transport-mode-evaluation]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating IPSec Transport Mode Effectiveness

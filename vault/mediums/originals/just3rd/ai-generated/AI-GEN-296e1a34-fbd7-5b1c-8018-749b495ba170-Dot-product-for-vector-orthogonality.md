@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/dot-product-for-vector-orthogonality|dot-product-for-vector-orthogonality]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/dot-product-for-vector-orthogonality|dot-product-for-vector-orthogonality]]"
 learning-time-in-minutes: 4
 ---
 # Dot Product for Vector Orthogonality

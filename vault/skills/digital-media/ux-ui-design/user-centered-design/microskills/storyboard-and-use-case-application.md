@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using storyboards and use cases to visually and narratively represent interactions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

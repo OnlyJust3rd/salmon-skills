@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/scm-key-objectives|scm-key-objectives]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-version-control/microskills/scm-key-objectives|scm-key-objectives]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Key Objectives of Software Configuration Management (SCM)

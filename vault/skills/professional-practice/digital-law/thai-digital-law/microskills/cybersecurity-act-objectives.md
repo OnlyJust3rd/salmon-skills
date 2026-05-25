@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental goals of Thailand's Cybersecurity Act.
+## Related Mediums
+
+![[bases/related-mediums.base]]

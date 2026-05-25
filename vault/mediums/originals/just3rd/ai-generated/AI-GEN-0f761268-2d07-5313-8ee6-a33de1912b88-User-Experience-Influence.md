@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-experience-influence|user-experience-influence]]"
+learning-outcomes:
+  - "[[user-experience-influence|user-experience-influence]]"
 learning-time-in-minutes: 5
 ---
 # The Ripple Effect: How Design Choices Shape User Experience

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/mathematical-induction/microskills/induction-proofs-for-divisibility|induction-proofs-for-divisibility]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/mathematical-induction/microskills/induction-proofs-for-divisibility|induction-proofs-for-divisibility]]"
 learning-time-in-minutes: 5
 ---
 # Induction Proofs for Divisibility

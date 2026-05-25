@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/schema-evolution-with-ddl|schema-evolution-with-ddl]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/sql/microskills/schema-evolution-with-ddl|schema-evolution-with-ddl]]"
 learning-time-in-minutes: 4
 ---
 # Schema Evolution with DDL

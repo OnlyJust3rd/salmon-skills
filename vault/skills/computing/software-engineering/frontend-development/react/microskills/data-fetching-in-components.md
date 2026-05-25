@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Load JSON inside effects or dedicated hooks with loading states.
+## Related Mediums
+
+![[bases/related-mediums.base]]

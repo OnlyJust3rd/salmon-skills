@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of how social media affects behavior and discourse.
+## Related Mediums
+
+![[bases/related-mediums.base]]

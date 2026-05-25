@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/definiteness-properties|definiteness-properties]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/definiteness-properties|definiteness-properties]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Definiteness Properties of Quadratic Forms

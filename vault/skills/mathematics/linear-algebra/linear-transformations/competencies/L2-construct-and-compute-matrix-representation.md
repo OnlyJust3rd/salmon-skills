@@ -45,3 +45,6 @@ Construct and compute the matrix representation for a given linear transformatio
 - [[matrix-representation-derivation|Matrix representation derivation]]
 - [[matrix-representation-computation|Matrix representation computation]]
 - [[transformation-to-matrix-mapping|Transformation-to-matrix mapping]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/request-handling-layer|request-handling-layer]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/backend-web-api-concept/microskills/request-handling-layer|request-handling-layer]]"
 learning-time-in-minutes: 3
 ---
 # The Request Handling Layer: Your API's First Responder

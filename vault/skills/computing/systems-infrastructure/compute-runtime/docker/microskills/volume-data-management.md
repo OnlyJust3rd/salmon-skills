@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how Docker volumes store and manage data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

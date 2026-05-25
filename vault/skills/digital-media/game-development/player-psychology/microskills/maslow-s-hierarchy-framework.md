@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing Maslow's hierarchy of needs as a framework for analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

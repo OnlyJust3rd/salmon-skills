@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the combined application and benefits of soft and hard computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

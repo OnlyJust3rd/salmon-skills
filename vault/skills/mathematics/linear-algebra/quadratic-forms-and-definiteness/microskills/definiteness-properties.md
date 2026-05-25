@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the concepts of positive definite, negative definite, etc.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Compare competing algorithms for the same task based on their complexity characteristics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

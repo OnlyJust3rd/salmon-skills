@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding controlled sharing of data without copying.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-identification|recurring-design-problem-identification]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/recurring-design-problem-identification|recurring-design-problem-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Recurring Design Problems

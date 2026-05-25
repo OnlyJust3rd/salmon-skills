@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/op-amp-circuit-performance-analysis|op-amp-circuit-performance-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/op-amp-circuit-performance-analysis|op-amp-circuit-performance-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Op-Amp Feedback for Performance

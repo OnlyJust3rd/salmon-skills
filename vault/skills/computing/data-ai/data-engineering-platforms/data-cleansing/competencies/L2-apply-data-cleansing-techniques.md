@@ -43,3 +43,6 @@ Apply data cleansing techniques to prepare a dataset for modeling and analysis.
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/missing-value-handling|Missing Value Handling]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/outlier-treatment|Outlier Treatment]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-cleansing/microskills/format-standardization|Format Standardization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

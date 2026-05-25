@@ -47,3 +47,6 @@ Apply a modular C programming structure by organizing code into reusable functio
 - [[skills/computing/programming/programming-languages/c-programming/microskills/modular-interfaces-design|Modular interfaces design]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/reusable-component-integration|Reusable component integration]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/modularity-driven-testing-readiness|Modularity-driven testing readiness]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

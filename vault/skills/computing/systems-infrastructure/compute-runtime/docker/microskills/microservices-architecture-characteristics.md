@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the structure and benefits of microservices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

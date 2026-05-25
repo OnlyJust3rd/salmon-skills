@@ -65,3 +65,6 @@ Develop and iterate interactive system prototypes across different fidelity leve
 - [[prototype-fidelity-levels|Prototype Fidelity Levels]]
 - [[prototype-use-cases|Prototype Use Cases]]
 - [[prototyping-development-steps|Prototyping Development Steps]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

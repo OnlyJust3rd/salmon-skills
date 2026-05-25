@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[metric-definitions|metric-definitions]]"
+learning-outcomes:
+  - "[[metric-definitions|metric-definitions]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Network Performance Metrics: Throughput, Latency, and Jitter

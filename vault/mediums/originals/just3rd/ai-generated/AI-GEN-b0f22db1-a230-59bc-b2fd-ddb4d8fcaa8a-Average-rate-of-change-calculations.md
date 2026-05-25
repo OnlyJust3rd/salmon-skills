@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/average-rate-of-change-calculations|average-rate-of-change-calculations]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/average-rate-of-change-calculations|average-rate-of-change-calculations]]"
 learning-time-in-minutes: 2
 ---
 # Calculating Average Rate of Change

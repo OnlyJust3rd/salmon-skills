@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/action-planning/microskills/iterative-plan-refinement|iterative-plan-refinement]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/action-planning/microskills/iterative-plan-refinement|iterative-plan-refinement]]"
 learning-time-in-minutes: 5
 ---
 # Iterative Plan Refinement in Engineering Projects

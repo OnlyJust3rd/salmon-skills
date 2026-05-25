@@ -45,3 +45,6 @@ Explain a structured technical troubleshooting methodology.
 - [[skills/professional-practice/technical-troubleshooting/microskills/symptom-collection|Symptom Collection]]
 - [[skills/professional-practice/technical-troubleshooting/microskills/hypothesis-testing|Hypothesis Testing]]
 - [[skills/professional-practice/technical-troubleshooting/microskills/resolution-verification|Resolution Verification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

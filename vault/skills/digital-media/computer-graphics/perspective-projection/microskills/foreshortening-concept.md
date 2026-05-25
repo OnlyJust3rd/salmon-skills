@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the principle of foreshortening in perspective projection.
+## Related Mediums
+
+![[bases/related-mediums.base]]

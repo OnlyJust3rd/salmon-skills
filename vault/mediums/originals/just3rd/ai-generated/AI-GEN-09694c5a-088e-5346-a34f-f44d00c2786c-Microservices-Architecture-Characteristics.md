@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/microservices-architecture-characteristics|microservices-architecture-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/microservices-architecture-characteristics|microservices-architecture-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Microservices Architecture Characteristics

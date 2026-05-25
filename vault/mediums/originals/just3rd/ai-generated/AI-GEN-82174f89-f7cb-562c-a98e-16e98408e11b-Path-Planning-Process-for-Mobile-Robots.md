@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[path-planning-process-for-mobile-robots|path-planning-process-for-mobile-robots]]"
+learning-outcomes:
+  - "[[path-planning-process-for-mobile-robots|path-planning-process-for-mobile-robots]]"
 learning-time-in-minutes: 5
 ---
 # The Path Planning Process for Mobile Robots

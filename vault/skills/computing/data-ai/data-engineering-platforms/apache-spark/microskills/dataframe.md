@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding distributed tabular data abstractions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

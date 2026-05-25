@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[coap-protocol-characteristics|coap-protocol-characteristics]]"
+learning-outcomes:
+  - "[[coap-protocol-characteristics|coap-protocol-characteristics]]"
 learning-time-in-minutes: 5
 ---
 # Understanding CoAP Protocol Characteristics

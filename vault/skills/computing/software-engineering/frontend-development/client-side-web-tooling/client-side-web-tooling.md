@@ -30,3 +30,6 @@ Modern frontend tooling concepts for package management, dependency scripts, Typ
 - [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/build-scripts|Build Scripts]]
 - [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/bundling-and-compilation|Bundling and Compilation]]
 - [[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/package-manifests|Package Manifests]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

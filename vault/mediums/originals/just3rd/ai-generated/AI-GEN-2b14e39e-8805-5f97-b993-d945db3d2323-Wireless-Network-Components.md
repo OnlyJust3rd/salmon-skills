@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[wireless-network-components|wireless-network-components]]"
+learning-outcomes:
+  - "[[wireless-network-components|wireless-network-components]]"
 learning-time-in-minutes: 4
 ---
 # Wireless Network Components: The Building Blocks

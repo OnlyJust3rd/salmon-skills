@@ -171,3 +171,6 @@ Define infrastructure through code using Infrastructure as Code (IaC) principles
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/use-cases-for-declarative-automation|Use Cases for Declarative Automation]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/version-control-for-infrastructure|Version Control for Infrastructure]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/yaml-structure-for-kubernetes|YAML Structure for Kubernetes]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

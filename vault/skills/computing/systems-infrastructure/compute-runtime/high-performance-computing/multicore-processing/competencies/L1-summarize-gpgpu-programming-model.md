@@ -45,3 +45,6 @@ Summarize the programming model typically used for GPGPUs.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-programming-paradigms|GPGPU Programming Paradigms]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-programming-models|GPGPU Programming Models]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/gpgpu-development-approaches|GPGPU Development Approaches]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

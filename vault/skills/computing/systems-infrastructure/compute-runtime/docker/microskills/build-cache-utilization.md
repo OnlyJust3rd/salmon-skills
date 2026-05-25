@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how layers contribute to faster builds.
+## Related Mediums
+
+![[bases/related-mediums.base]]

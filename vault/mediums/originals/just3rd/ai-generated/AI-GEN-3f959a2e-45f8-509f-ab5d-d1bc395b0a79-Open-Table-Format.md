@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/open-table-format|open-table-format]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/open-table-format|open-table-format]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Open Table Formats in Lakehouse Architecture

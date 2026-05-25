@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[component-variant|component-variant]]"
+learning-outcomes:
+  - "[[component-variant|component-variant]]"
 learning-time-in-minutes: 5
 ---
 # Figma: Mastering Component Variants for Interactive Prototypes

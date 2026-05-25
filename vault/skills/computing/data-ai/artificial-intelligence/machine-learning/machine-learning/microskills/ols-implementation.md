@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying OLS for model training.
+## Related Mediums
+
+![[bases/related-mediums.base]]

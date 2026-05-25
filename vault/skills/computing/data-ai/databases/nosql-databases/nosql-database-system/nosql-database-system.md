@@ -44,3 +44,6 @@ Understanding the principles and use cases of NoSQL database systems.
 - [[performance-considerations|Performance Considerations]]
 - [[scalability-requirements|Scalability Requirements]]
 - [[situational-applicability-of-nosql|Situational Applicability of NoSQL]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

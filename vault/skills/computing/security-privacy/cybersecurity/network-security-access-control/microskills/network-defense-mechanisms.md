@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Purpose and operation of firewalls as network defense mechanisms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

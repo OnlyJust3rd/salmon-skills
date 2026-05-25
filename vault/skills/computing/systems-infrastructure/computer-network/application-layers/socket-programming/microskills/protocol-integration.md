@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying knowledge of application layer protocols within socket programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

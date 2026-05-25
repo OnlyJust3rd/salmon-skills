@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of theorems to simplify logic expressions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

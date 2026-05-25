@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-metacharacters|regular-expression-metacharacters]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-metacharacters|regular-expression-metacharacters]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Regular Expression Metacharacters

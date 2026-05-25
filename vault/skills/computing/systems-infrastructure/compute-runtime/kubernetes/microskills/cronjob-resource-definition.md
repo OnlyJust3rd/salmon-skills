@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to define and configure Kubernetes CronJobs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

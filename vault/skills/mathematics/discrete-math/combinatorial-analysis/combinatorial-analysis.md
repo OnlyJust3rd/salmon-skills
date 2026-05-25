@@ -34,3 +34,6 @@ Ability to apply counting principles, permutations, combinations, and discrete p
 - [[counting-principles-application|Counting Principles Application]]
 - [[permutation-application|Permutation Application]]
 - [[technique-selection|Technique Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

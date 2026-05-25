@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/determinant-computation|determinant-computation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/determinant-computation|determinant-computation]]"
 learning-time-in-minutes: 3
 ---
 # Determinant Computation for 2x2 and 3x3 Matrices

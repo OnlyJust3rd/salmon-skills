@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall and definition of key terms related to text cleaning processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the formal definition of limits for functions of multiple variables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

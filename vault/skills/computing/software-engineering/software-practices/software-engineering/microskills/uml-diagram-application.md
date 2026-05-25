@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using Unified Modeling Language for design representation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

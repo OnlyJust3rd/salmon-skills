@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of additive manufacturing processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

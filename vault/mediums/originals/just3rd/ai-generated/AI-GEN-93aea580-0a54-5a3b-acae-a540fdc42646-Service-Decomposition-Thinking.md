@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/software-architecture/microskills/service-decomposition-thinking|service-decomposition-thinking]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/service-decomposition-thinking|service-decomposition-thinking]]"
 learning-time-in-minutes: 4
 ---
 # Thinking in Microservices: Decomposing Your System

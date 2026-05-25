@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying RAW/WAR/WAW-like dependencies in simplified pipelines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

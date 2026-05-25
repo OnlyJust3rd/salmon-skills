@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/fourier-series-coefficient-impact|fourier-series-coefficient-impact]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/fourier-series-coefficient-impact|fourier-series-coefficient-impact]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Impact of Signal Transformations on Fourier Series Coefficients

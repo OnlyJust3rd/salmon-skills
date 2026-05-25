@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/market-analysis|market-analysis]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/market-analysis|market-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Market Analysis for Your Pitch Deck

@@ -43,3 +43,6 @@ Explain authorization models used to decide whether an authenticated identity ma
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/roles|Roles]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/permissions|Permissions]]
 - [[skills/computing/security-privacy/cybersecurity/cybersecurity/microskills/policy-based-access|Policy-Based Access]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

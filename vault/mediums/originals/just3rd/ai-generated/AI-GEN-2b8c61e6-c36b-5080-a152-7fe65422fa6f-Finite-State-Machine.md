@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-ai/microskills/finite-state-machine|finite-state-machine]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-ai/microskills/finite-state-machine|finite-state-machine]]"
 learning-time-in-minutes: 5
 ---
 # Finite State Machines: Controlling Game AI Behavior

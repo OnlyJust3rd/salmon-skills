@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/rectifier-circuit-construction|rectifier-circuit-construction]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/rectifier-circuit-construction|rectifier-circuit-construction]]"
 learning-time-in-minutes: 4
 ---
 # Rectifier Circuit Construction

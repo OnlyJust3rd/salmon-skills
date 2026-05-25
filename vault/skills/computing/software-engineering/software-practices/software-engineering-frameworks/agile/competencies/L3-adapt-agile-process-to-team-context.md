@@ -39,3 +39,6 @@ Evaluate team workflow and adapt Agile practices using retrospectives, working a
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/retrospective-improvement|Retrospective Improvement]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/team-working-agreements|Team Working Agreements]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/iterative-incremental-delivery|Iterative Incremental Delivery]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Choosing suitable AWS service categories for application needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

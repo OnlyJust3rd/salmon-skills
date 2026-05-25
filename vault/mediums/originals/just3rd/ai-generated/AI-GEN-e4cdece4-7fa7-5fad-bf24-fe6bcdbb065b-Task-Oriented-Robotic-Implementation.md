@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[task-oriented-robotic-implementation|task-oriented-robotic-implementation]]"
+learning-outcomes:
+  - "[[task-oriented-robotic-implementation|task-oriented-robotic-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing a Task with a Robotic System

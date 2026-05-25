@@ -45,3 +45,6 @@ Explain large language model concepts.
 - [[token|Token]]
 - [[context-window|Context Window]]
 - [[text-generation|Text Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

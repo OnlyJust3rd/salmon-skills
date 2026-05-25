@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/career-workplace/employer-expectations/microskills/attribute-definitions|attribute-definitions]]"
+learning-outcomes:
+  - "[[skills/business/career-workplace/employer-expectations/microskills/attribute-definitions|attribute-definitions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Essential Employee Attributes

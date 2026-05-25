@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of parallel programs focused on inter-process data transfer using MPI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

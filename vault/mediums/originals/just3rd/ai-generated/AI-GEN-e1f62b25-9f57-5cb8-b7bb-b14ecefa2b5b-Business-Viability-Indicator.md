@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/business-viability-indicator|business-viability-indicator]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/business-viability-indicator|business-viability-indicator]]"
 learning-time-in-minutes: 4
 ---
 # Business Viability Indicator: Market Size as a Success Predictor

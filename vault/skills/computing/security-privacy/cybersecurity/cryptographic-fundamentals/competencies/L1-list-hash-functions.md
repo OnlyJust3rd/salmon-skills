@@ -41,3 +41,6 @@ List examples of common cryptographic one-way hash functions.
 
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/common-cryptographic-hash-functions|Common Cryptographic Hash Functions]]
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/cryptographic-hash-function-identification|Cryptographic Hash Function Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

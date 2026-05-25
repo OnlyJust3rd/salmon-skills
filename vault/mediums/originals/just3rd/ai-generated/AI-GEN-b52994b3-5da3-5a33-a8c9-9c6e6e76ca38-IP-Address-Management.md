@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ip-address-management|ip-address-management]]"
+learning-outcomes:
+  - "[[ip-address-management|ip-address-management]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Benefits of Subnetting for IP Address Management

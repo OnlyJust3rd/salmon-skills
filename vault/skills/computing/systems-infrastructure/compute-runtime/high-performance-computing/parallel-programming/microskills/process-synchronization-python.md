@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of synchronization mechanisms for coordinated parallel processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

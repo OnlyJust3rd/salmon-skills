@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the Pod as the smallest deployable unit in Kubernetes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

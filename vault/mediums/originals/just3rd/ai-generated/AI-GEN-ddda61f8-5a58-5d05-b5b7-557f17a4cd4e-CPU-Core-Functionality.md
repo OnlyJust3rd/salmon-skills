@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/cpu-core-functionality|cpu-core-functionality]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/cpu-core-functionality|cpu-core-functionality]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the AVR CPU Core's Role

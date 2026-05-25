@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/mobile-development/flutter/microskills/screen-widget|screen-widget]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/mobile-development/flutter/microskills/screen-widget|screen-widget]]"
 learning-time-in-minutes: 3
 ---
 # Creating a Composed Screen Widget in Flutter

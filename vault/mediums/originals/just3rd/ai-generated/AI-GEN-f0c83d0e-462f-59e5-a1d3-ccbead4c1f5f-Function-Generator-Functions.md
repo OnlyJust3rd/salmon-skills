@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/function-generator-functions|function-generator-functions]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/function-generator-functions|function-generator-functions]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Function Generator: Your Signal Creation Tool

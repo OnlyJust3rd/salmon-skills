@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[character-normalization-process-explanation|character-normalization-process-explanation]]"
+learning-outcomes:
+  - "[[character-normalization-process-explanation|character-normalization-process-explanation]]"
 learning-time-in-minutes: 5
 ---
 # Character Normalization: Making Text Consistent

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing system properties (causality, stability) from transfer functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/marketing-strategy/microskills/technology-adoption-lifecycle-stages|technology-adoption-lifecycle-stages]]"
+learning-outcomes:
+  - "[[skills/business/product-management/marketing-strategy/microskills/technology-adoption-lifecycle-stages|technology-adoption-lifecycle-stages]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Technology Adoption Lifecycle Stages

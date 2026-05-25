@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding when and how to apply different strategies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

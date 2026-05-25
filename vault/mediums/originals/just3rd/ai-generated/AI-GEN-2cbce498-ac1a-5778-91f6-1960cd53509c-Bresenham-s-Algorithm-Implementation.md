@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/bresenham-s-algorithm-implementation|bresenham-s-algorithm-implementation]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/bresenham-s-algorithm-implementation|bresenham-s-algorithm-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Bresenham's Algorithm

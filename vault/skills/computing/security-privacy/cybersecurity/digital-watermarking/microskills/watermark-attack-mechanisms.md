@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how different attacks are executed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

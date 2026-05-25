@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-interface-elements|user-interface-elements]]"
+learning-outcomes:
+  - "[[user-interface-elements|user-interface-elements]]"
 learning-time-in-minutes: 4
 ---
 # Understanding User Interface Elements

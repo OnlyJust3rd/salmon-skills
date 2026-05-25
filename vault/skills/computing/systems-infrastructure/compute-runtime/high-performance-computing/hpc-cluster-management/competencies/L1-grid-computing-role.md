@@ -43,3 +43,6 @@ Describe the role of GRID Computing in distributed environments.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/grid-computing-resource-aggregation|GRID Computing Resource Aggregation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/distributed-environment-utilization|Distributed Environment Utilization]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/distributed-resource-management|Distributed Resource Management]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

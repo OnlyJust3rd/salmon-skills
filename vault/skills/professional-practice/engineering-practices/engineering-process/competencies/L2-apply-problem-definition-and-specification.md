@@ -43,3 +43,6 @@ Apply the engineering problem-solving process to define a problem and specify it
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/problem-definition-application|Problem Definition Application]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/requirement-specification-application|Requirement Specification Application]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/problem-solving-process-application|Problem-Solving Process Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

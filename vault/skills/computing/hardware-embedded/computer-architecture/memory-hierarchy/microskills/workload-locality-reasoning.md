@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reasoning about temporal/spatial locality and how it impacts cache behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using SQL transformations on warehouse data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding autonomous multi-file coding workflows.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Explain GCP core cloud services.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-compute|GCP Compute]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-storage|GCP Storage]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-managed-services|GCP Managed Services]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-operations/microskills/time-reversal-impact|time-reversal-impact]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-operations/microskills/time-reversal-impact|time-reversal-impact]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Time Reversal of Signals

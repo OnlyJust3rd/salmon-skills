@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-development-lifecycle/microskills/game-development-lifecycle-stages|game-development-lifecycle-stages]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-development-lifecycle/microskills/game-development-lifecycle-stages|game-development-lifecycle-stages]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Game Development Lifecycle Stages

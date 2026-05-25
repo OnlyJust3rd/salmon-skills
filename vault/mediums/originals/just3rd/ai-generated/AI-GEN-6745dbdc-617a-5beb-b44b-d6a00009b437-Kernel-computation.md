@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/kernel-computation|kernel-computation]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/kernel-computation|kernel-computation]]"
 learning-time-in-minutes: 5
 ---
 # Calculating the Kernel of a Linear Transformation

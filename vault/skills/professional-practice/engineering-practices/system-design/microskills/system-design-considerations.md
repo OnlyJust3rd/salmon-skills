@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of key factors relevant to the creation of integrated systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

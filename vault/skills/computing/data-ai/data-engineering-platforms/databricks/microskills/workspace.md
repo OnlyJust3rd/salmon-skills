@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding collaborative project areas.
+## Related Mediums
+
+![[bases/related-mediums.base]]

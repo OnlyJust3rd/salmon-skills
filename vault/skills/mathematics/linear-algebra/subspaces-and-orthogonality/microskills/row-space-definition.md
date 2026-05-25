@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of the row space of a matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

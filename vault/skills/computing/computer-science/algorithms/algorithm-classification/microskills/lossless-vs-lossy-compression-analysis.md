@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Breakdown of distinct methods and outcomes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

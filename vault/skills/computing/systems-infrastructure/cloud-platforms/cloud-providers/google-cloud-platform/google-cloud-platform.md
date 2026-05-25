@@ -38,3 +38,6 @@ Using GCP as a cloud platform for compute, storage, identity, networking, manage
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-service-selection|GCP Service Selection]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-storage|GCP Storage]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/microskills/gcp-vpc-boundary|GCP VPC Boundary]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

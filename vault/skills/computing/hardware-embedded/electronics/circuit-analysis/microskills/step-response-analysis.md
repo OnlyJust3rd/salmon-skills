@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of transient voltage and current waveforms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

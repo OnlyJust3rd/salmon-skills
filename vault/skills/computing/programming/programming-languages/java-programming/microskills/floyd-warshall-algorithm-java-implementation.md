@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Floyd-Warshall all-pairs shortest path algorithm in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

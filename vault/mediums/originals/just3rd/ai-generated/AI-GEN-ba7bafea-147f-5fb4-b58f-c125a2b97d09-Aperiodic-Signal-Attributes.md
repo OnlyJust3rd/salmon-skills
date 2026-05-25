@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/aperiodic-signal-attributes|aperiodic-signal-attributes]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/aperiodic-signal-attributes|aperiodic-signal-attributes]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Aperiodic Signal Attributes

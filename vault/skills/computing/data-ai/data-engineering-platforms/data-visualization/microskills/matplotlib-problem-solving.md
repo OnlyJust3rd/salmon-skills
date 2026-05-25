@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying matplotlib functions for data-driven problem resolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

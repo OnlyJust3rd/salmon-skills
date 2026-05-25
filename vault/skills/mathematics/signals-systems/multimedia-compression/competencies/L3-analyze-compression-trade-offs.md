@@ -45,3 +45,6 @@ Analyze the trade-offs between compression ratio and data fidelity when comparin
 - [[compression-ratio-vs-data-fidelity-transform-coding|Compression Ratio vs. Data Fidelity (Transform Coding)]]
 - [[compression-ratio-vs-data-fidelity-lzw|Compression Ratio vs. Data Fidelity (LZW)]]
 - [[transform-coding-vs-lzw-analysis|Transform Coding vs. LZW Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

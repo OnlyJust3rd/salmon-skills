@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Rendering of shapes to convey a sense of recession into the distance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

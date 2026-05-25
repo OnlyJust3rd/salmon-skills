@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how different projections affect visual appearance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

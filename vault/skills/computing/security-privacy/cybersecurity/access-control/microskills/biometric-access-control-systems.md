@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the principles of systems that use biometric data for access.
+## Related Mediums
+
+![[bases/related-mediums.base]]

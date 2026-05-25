@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the management of child processes using the wait() system call.
+## Related Mediums
+
+![[bases/related-mediums.base]]

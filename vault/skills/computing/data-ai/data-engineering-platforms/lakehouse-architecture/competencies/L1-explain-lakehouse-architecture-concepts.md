@@ -45,3 +45,6 @@ Explain lakehouse architecture concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/open-table-format|Open Table Format]]
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/warehouse-semantics|Warehouse Semantics]]
 - [[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/unified-analytics|Unified Analytics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

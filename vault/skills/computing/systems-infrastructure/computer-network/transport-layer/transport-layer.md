@@ -42,3 +42,6 @@ Describing reliable data delivery mechanisms in computer networks and differenti
 - [[reliable-data-transfer-principles|Reliable Data Transfer Principles]]
 - [[tcp-characteristics|TCP Characteristics]]
 - [[udp-characteristics|UDP Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

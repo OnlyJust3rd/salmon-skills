@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/bottom-up-market-sizing|bottom-up-market-sizing]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/bottom-up-market-sizing|bottom-up-market-sizing]]"
 learning-time-in-minutes: 4
 ---
 # Bottom-Up Market Sizing

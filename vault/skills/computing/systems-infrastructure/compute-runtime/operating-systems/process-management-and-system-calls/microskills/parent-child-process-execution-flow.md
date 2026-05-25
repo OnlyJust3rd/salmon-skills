@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the execution sequence between parent and child processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/endpoint-configuration|endpoint-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/system-administration/endpoint-administration/microskills/endpoint-configuration|endpoint-configuration]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Endpoint Configuration

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/approval-boundary|approval-boundary]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/agentic-coding-workflows/microskills/approval-boundary|approval-boundary]]"
 learning-time-in-minutes: 3
 ---
 # Approval Boundary in Agentic Coding Workflows

@@ -26,3 +26,7 @@ microskills:
 ## Microskills
 
 - [[skills/{{taxonomy-path}}/{{skill-name}}/microskills/{{microskill-slug}}|{{microskill-title}}]]
+
+## Related Mediums
+
+![[bases/related-mediums.base]]

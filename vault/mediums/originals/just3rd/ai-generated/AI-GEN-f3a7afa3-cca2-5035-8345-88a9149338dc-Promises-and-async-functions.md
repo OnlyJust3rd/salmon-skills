@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[promises-and-async-functions|promises-and-async-functions]]"
+learning-outcomes:
+  - "[[promises-and-async-functions|promises-and-async-functions]]"
 learning-time-in-minutes: 3
 ---
 # Promises and Async Functions: Chaining Asynchronous Results

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[experimental-effects-mitigation|experimental-effects-mitigation]]"
+learning-outcomes:
+  - "[[experimental-effects-mitigation|experimental-effects-mitigation]]"
 learning-time-in-minutes: 5
 ---
 # Experimental Effects Mitigation in Usability Evaluation

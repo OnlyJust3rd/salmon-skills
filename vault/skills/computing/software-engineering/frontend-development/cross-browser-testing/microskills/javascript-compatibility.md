@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing runtime and API support differences across browsers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

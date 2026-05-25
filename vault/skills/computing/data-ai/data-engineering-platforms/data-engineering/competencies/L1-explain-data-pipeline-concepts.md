@@ -47,3 +47,6 @@ Explain data pipeline concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-ingestion|Data Ingestion]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/transformation|Transformation]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-engineering/microskills/data-lineage|Data Lineage]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

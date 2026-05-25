@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[signal-properties|signal-properties]]"
+learning-outcomes:
+  - "[[signal-properties|signal-properties]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Signal Properties in Data Transmission

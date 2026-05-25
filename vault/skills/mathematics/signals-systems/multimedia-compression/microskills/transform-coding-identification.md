@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall that Transform coding is a lossy compression technique.
+## Related Mediums
+
+![[bases/related-mediums.base]]

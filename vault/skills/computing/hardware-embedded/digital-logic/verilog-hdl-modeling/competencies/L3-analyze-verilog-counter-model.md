@@ -49,3 +49,6 @@ Analyze a Verilog model of a counter to understand its clocking mechanism and st
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/clocking-mechanism-understanding|Clocking Mechanism Understanding]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/state-transition-analysis|State Transition Analysis]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-model-interpretation|Verilog Model Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

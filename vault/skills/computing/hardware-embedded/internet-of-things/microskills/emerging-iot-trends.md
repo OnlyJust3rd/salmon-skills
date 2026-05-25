@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of future directions and advancements in IoT technologies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

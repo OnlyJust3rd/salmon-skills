@@ -45,3 +45,6 @@ Explain workflow orchestration concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/dag|DAG]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/task-dependency|Task Dependency]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/backfill|Backfill]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

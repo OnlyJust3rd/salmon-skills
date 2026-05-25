@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessing how well watermarks withstand different attack types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the conditions and limitations of laws governing parallel system scalability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

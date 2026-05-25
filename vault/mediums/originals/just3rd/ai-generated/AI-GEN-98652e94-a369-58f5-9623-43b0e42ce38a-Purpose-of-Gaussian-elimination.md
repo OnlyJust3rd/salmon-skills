@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/purpose-of-gaussian-elimination|purpose-of-gaussian-elimination]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/purpose-of-gaussian-elimination|purpose-of-gaussian-elimination]]"
 learning-time-in-minutes: 5
 ---
 # The "Why" Behind Gaussian Elimination: Simplifying Systems of Equations

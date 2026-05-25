@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/image-compression/microskills/motion-estimation-and-compensation|motion-estimation-and-compensation]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/image-compression/microskills/motion-estimation-and-compensation|motion-estimation-and-compensation]]"
 learning-time-in-minutes: 5
 ---
 # Motion Estimation and Compensation: Understanding Video Compression

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the distinct legal consequences of each agreement type.
+## Related Mediums
+
+![[bases/related-mediums.base]]

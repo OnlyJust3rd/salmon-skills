@@ -45,3 +45,6 @@ Implement client-side scripts that use the Fetch API to request JSON from a REST
 - [[skills/computing/programming/programming-languages/javascript/microskills/fetch-requests|fetch requests]]
 - [[skills/computing/programming/programming-languages/javascript/microskills/dom-feedback-loops|DOM feedback loops]]
 - [[skills/computing/programming/programming-languages/javascript/microskills/basic-cross-origin-awareness|Basic cross-origin awareness]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

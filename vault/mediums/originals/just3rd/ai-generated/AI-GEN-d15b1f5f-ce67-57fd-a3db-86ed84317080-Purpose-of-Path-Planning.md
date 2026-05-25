@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[purpose-of-path-planning|purpose-of-path-planning]]"
+learning-outcomes:
+  - "[[purpose-of-path-planning|purpose-of-path-planning]]"
 learning-time-in-minutes: 2
 ---
 # The Crucial Role of Path Planning in Mobile Robotics

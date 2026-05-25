@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[register-bit-manipulation|register-bit-manipulation]]"
+learning-outcomes:
+  - "[[register-bit-manipulation|register-bit-manipulation]]"
 learning-time-in-minutes: 4
 ---
 # Register Bit Manipulation for AVR Communication

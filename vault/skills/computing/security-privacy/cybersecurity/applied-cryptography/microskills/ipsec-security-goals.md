@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of security goals for IPSec.
+## Related Mediums
+
+![[bases/related-mediums.base]]

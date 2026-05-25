@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[routing-protocol-goals|routing-protocol-goals]]"
+learning-outcomes:
+  - "[[routing-protocol-goals|routing-protocol-goals]]"
 learning-time-in-minutes: 5
 ---
 # Routing Protocol Goals

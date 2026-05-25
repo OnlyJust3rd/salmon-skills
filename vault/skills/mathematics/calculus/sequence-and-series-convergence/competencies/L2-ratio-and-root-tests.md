@@ -43,3 +43,6 @@ Execute the Ratio Test and Root Test to determine the convergence or divergence 
 - [[ratio-test-application|Ratio Test application]]
 - [[root-test-application|Root Test application]]
 - [[series-convergence-determination-ratio-root|Series convergence determination (Ratio/Root)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

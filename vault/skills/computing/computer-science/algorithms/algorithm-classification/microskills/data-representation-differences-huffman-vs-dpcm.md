@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of distinct data representation methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

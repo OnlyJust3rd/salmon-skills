@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the objective of managing network traffic flow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the phases within the CRISP-DM methodology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

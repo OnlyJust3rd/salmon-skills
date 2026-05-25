@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Building a working product with core functionalities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

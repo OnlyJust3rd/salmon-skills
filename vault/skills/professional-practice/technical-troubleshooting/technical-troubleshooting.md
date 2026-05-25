@@ -38,3 +38,6 @@ Structured diagnosis of technical problems through symptom collection, hypothesi
 - [[skills/professional-practice/technical-troubleshooting/microskills/resolution-verification|Resolution Verification]]
 - [[skills/professional-practice/technical-troubleshooting/microskills/root-cause|Root Cause]]
 - [[skills/professional-practice/technical-troubleshooting/microskills/symptom-collection|Symptom Collection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

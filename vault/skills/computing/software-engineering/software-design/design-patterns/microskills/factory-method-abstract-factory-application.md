@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying factory-style patterns to create objects without exposing concrete classes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/governance-rule-enforcement|governance-rule-enforcement]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/governance-rule-enforcement|governance-rule-enforcement]]"
 learning-time-in-minutes: 4
 ---
 # Governance Rule Enforcement with Azure Policy

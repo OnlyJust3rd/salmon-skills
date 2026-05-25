@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of standard graphical elements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

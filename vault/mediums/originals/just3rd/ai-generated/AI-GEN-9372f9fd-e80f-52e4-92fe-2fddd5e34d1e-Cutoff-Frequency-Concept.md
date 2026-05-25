@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/cutoff-frequency-concept|cutoff-frequency-concept]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/cutoff-frequency-concept|cutoff-frequency-concept]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Cutoff Frequency

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of hierarchical structures in network communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

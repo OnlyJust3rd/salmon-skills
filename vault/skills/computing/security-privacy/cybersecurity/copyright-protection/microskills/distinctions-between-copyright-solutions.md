@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of relationships and distinctions between access control, use control, and digital watermarking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

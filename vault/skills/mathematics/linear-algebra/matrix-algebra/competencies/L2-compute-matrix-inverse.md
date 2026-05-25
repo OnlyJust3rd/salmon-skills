@@ -43,3 +43,6 @@ Compute the inverse of a matrix using the formula for 2x2 matrices or Gaussian e
 - [[2x2-matrix-inverse-formula|2x2 matrix inverse formula]]
 - [[gaussian-elimination-for-inverse|Gaussian elimination for inverse]]
 - [[matrix-invertibility|Matrix invertibility]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

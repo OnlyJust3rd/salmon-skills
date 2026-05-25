@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Designing a prototype that delivers a specific intended player experience through integrated principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

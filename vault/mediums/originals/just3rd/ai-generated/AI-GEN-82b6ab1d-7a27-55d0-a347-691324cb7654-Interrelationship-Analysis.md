@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/interrelationship-analysis|interrelationship-analysis]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/legal-and-organizational-foundations/microskills/interrelationship-analysis|interrelationship-analysis]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing Interrelationships: Leadership, Culture, and Change

@@ -45,3 +45,6 @@ Explain C++ syntax, object-oriented programming, and memory concepts.
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/pointer|Pointer]]
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/constructor|Constructor]]
 - [[skills/computing/programming/programming-languages/cpp-programming/microskills/memory-ownership|Memory Ownership]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/virtual-memory-mapping-principles|virtual-memory-mapping-principles]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/memory-hierarchy/microskills/virtual-memory-mapping-principles|virtual-memory-mapping-principles]]"
 learning-time-in-minutes: 5
 ---
 # Virtual Memory Mapping Principles

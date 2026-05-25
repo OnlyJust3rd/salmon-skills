@@ -53,3 +53,6 @@ Analyze the output waveform of a half-wave rectifier circuit.
 
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/half-wave-rectifier-output-waveform|Half-wave Rectifier Output Waveform]]
 - [[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/rectifier-output-characteristics|Rectifier Output Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Converting conceptual algorithm paradigms into executable Java code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

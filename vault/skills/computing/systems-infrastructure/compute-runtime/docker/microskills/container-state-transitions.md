@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how containers move between states.
+## Related Mediums
+
+![[bases/related-mediums.base]]

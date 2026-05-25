@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to explain how different coordinate systems facilitate area calculations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

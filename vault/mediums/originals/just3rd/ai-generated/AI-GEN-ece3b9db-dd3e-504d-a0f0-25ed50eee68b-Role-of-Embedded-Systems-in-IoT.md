@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[role-of-embedded-systems-in-iot|role-of-embedded-systems-in-iot]]"
+learning-outcomes:
+  - "[[role-of-embedded-systems-in-iot|role-of-embedded-systems-in-iot]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Embedded Systems as IoT Nodes

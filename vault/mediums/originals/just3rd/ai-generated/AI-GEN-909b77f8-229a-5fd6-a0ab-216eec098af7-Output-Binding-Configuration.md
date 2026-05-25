@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/output-binding-configuration|output-binding-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/output-binding-configuration|output-binding-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Configuring Serverless Function Output Bindings

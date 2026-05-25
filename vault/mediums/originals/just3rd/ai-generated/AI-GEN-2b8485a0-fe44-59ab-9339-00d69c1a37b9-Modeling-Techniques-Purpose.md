@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[modeling-techniques-purpose|modeling-techniques-purpose]]"
+learning-outcomes:
+  - "[[modeling-techniques-purpose|modeling-techniques-purpose]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Purpose of Modeling Techniques in User-Centered Design

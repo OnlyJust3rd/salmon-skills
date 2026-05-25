@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing separation between customer data and configuration.
+## Related Mediums
+
+![[bases/related-mediums.base]]

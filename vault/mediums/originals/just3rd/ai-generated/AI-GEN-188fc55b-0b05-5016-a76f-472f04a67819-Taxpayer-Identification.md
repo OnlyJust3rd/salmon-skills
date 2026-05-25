@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxpayer-identification|taxpayer-identification]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxpayer-identification|taxpayer-identification]]"
 learning-time-in-minutes: 3
 ---
 # Taxpayer Identification

@@ -45,3 +45,6 @@ Describe the criteria that determine if income is taxable from both domestic and
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/domestic-taxable-income-criteria|Domestic Taxable Income Criteria]]
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/international-taxable-income-criteria|International Taxable Income Criteria]]
 - [[skills/business/legal-finance-governance/income-tax-fundamentals/microskills/taxability-determination|Taxability Determination]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

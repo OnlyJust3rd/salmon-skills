@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in defining and configuring Kubernetes Jobs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

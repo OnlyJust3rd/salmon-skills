@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of the multiplication and addition principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

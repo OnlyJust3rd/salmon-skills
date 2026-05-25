@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Combining mechanical and electronic components with programmed logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

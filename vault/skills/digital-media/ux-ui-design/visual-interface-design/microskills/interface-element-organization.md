@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of fundamental principles guiding visual layout.
+## Related Mediums
+
+![[bases/related-mediums.base]]

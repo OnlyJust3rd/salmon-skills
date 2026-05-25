@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/system-design/microskills/mathematical-concepts-in-design|mathematical-concepts-in-design]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/system-design/microskills/mathematical-concepts-in-design|mathematical-concepts-in-design]]"
 learning-time-in-minutes: 6
 ---
 # Applying Mathematical Models for Design Alternatives

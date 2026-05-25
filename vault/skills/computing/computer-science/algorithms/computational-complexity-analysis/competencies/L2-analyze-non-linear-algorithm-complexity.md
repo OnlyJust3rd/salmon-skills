@@ -39,3 +39,6 @@ Analyze the time complexity of algorithms with non-linear behavior (e.g., logari
 ## Microskills
 
 - [[skills/computing/computer-science/algorithms/computational-complexity-analysis/microskills/non-linear-complexity-analysis|Non-Linear Complexity Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

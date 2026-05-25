@@ -43,3 +43,6 @@ Define the concept of orthogonality for vectors and sets of vectors, and identif
 - [[orthogonality-definition|Orthogonality definition]]
 - [[orthogonal-vector-identification|Orthogonal vector identification]]
 - [[orthogonality-properties|Orthogonality properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

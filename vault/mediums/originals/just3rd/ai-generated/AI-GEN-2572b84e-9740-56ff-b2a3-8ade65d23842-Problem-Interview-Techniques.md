@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/problem-interview-techniques|problem-interview-techniques]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/problem-interview-techniques|problem-interview-techniques]]"
 learning-time-in-minutes: 6
 ---
 # Problem Interview Techniques

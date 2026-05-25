@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of wide-column NoSQL systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

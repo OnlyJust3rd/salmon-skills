@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cron-job-syntax|cron-job-syntax]]"
+learning-outcomes:
+  - "[[cron-job-syntax|cron-job-syntax]]"
 learning-time-in-minutes: 4
 ---
 # Cron Job Syntax: Mastering the Art of Scheduled Tasks

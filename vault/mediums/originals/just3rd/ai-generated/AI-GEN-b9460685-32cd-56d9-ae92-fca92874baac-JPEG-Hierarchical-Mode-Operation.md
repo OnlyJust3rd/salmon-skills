@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-hierarchical-mode-operation|jpeg-hierarchical-mode-operation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-hierarchical-mode-operation|jpeg-hierarchical-mode-operation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding JPEG Hierarchical Mode Operation

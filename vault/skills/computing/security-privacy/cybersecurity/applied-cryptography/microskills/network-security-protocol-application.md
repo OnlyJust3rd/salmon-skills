@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying basic cryptographic concepts to network security protocols.
+## Related Mediums
+
+![[bases/related-mediums.base]]

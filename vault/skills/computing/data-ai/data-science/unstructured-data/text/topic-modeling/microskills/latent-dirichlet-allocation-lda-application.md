@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical implementation of LDA for discovering underlying themes in documents.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Benefits of using the IPv6 protocol.
+## Related Mediums
+
+![[bases/related-mediums.base]]

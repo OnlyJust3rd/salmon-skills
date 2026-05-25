@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of data attributes within tables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

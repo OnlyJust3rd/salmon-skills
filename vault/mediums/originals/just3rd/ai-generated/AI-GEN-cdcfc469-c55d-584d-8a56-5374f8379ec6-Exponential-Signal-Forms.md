@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/exponential-signal-forms|exponential-signal-forms]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/exponential-signal-forms|exponential-signal-forms]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Exponential Signal Forms

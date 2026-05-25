@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[linux-file-system-hierarchy|linux-file-system-hierarchy]]"
+learning-outcomes:
+  - "[[linux-file-system-hierarchy|linux-file-system-hierarchy]]"
 learning-time-in-minutes: 4
 ---
 # The Linux File System Hierarchy

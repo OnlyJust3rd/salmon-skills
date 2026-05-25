@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/cramer-s-rule-steps|cramer-s-rule-steps]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/cramer-s-rule-steps|cramer-s-rule-steps]]"
 learning-time-in-minutes: 4
 ---
 # Cramer's Rule Steps: Solving Systems with Determinants

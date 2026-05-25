@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/soldered-circuit-reliability|soldered-circuit-reliability]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/soldered-circuit-reliability|soldered-circuit-reliability]]"
 learning-time-in-minutes: 4
 ---
 # Evaluating Soldered Circuit Reliability

@@ -49,3 +49,6 @@ Explain the geometric interpretation and relationships between the row space, co
 - [[null-space-geometric-interpretation|Null space geometric interpretation]]
 - [[range-geometric-interpretation|Range geometric interpretation]]
 - [[dimension-relationships|Dimension relationships]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

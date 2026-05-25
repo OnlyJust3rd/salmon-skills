@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding limiting damage and restoring service.
+## Related Mediums
+
+![[bases/related-mediums.base]]

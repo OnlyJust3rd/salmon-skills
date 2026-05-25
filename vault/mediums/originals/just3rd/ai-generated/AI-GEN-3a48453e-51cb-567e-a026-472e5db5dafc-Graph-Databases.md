@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/graph-databases|graph-databases]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/nosql-databases/nosql-database-system/microskills/graph-databases|graph-databases]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Graph Databases

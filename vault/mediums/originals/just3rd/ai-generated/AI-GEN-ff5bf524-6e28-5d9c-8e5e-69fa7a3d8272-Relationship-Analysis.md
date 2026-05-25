@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/relationship-analysis|relationship-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/relationship-analysis|relationship-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Relationship Analysis in Data

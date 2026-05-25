@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pld-architectures|pld-architectures]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pld-architectures|pld-architectures]]"
 learning-time-in-minutes: 5
 ---
 # PLD Architectures: The Building Blocks of Programmable Logic

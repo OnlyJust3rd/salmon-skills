@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/pay-per-execution|pay-per-execution]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/pay-per-execution|pay-per-execution]]"
 learning-time-in-minutes: 4
 ---
 # Pay-per-Execution: The Serverless Pricing Revolution

@@ -49,3 +49,6 @@ Apply system thinking to maintain system availability, predictability, and recov
 - [[systemd-service-management|Systemd Service Management]]
 - [[system-availability-strategies|System Availability Strategies]]
 - [[system-recoverability-planning|System Recoverability Planning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

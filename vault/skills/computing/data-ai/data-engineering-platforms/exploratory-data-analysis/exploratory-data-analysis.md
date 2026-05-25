@@ -32,3 +32,6 @@ Applying techniques to examine datasets to discover patterns, identify anomalies
 - [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/pattern-identification|Pattern Identification]]
 - [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/relationship-analysis|Relationship Analysis]]
 - [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/microskills/structural-insight|Structural Insight]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

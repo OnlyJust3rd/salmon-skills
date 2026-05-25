@@ -48,3 +48,6 @@ Understanding and articulating the fundamental theoretical underpinnings and goa
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/digest-size-consistency|Digest Size Consistency]]
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/hash-function-properties|Hash Function Properties]]
 - [[skills/computing/security-privacy/cybersecurity/cryptographic-fundamentals/microskills/integrity|Integrity]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

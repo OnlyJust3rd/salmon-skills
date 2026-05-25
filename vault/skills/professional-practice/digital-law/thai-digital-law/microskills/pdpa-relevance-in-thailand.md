@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the impact of the PDPA within Thailand's legal framework.
+## Related Mediums
+
+![[bases/related-mediums.base]]

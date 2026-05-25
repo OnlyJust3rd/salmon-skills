@@ -42,3 +42,6 @@ Understanding and applying different numerical representation formats and the un
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/number-representation-formats|Number Representation Formats]]
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/sign-magnitude-representation|Sign-Magnitude Representation]]
 - [[skills/computing/hardware-embedded/computer-architecture/number-representation/microskills/two-s-complement-representation|Two's Complement Representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

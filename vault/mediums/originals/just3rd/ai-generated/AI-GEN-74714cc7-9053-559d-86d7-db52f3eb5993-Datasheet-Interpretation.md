@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/datasheet-interpretation|datasheet-interpretation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/datasheet-interpretation|datasheet-interpretation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Integrated Circuit (IC) Datasheets

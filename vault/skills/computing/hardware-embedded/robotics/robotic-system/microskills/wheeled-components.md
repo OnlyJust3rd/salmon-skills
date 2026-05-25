@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of parts enabling robotic locomotion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

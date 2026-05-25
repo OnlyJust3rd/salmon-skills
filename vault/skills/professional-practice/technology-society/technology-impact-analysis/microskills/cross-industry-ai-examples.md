@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of AI use cases across multiple industries.
+## Related Mediums
+
+![[bases/related-mediums.base]]

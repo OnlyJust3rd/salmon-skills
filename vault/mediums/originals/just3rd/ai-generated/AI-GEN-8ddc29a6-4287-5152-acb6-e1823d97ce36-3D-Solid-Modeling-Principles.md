@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/design-fabrication/cad-design/microskills/3d-solid-modeling-principles|3d-solid-modeling-principles]]"
+learning-outcomes:
+  - "[[skills/digital-media/design-fabrication/cad-design/microskills/3d-solid-modeling-principles|3d-solid-modeling-principles]]"
 learning-time-in-minutes: 3
 ---
 # Understanding 3D Solid Modeling Principles

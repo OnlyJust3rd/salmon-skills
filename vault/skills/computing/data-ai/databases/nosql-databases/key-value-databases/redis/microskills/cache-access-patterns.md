@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Applying cache-aside and related patterns with Redis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

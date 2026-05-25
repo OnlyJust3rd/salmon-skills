@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Compute second and higher derivatives and interpret common notation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

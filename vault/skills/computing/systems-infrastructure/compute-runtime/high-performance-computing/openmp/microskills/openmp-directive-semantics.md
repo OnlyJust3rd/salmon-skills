@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding what core OpenMP directives mean in program execution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

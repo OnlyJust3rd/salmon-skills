@@ -43,3 +43,6 @@ Execute user acceptance testing (UAT) to validate that the program meets user ne
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/acceptance-criteria-extraction|Acceptance criteria extraction]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/uat-scenario-preparation|UAT scenario preparation]]
 - [[skills/computing/software-engineering/testing-quality/program-testing/microskills/uat-execution-and-feedback|UAT execution and feedback]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

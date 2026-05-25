@@ -41,3 +41,6 @@ Apply flip-flop characteristics to construct a basic counter circuit.
 
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/counter-circuit-construction|Counter Circuit Construction]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/flip-flop-principles-application|Flip-Flop Principles Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

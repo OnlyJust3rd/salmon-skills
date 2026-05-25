@@ -43,3 +43,6 @@ Utilize Regular Expressions to extract specific substrings from a given text.
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/regular-expression-based-substring-extraction|Regular Expression-Based Substring Extraction]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/pattern-matching-for-textual-extraction|Pattern Matching for Textual Extraction]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/substring-identification-via-regular-expressions|Substring Identification via Regular Expressions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

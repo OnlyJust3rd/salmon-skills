@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/service-unavailability-alerts|service-unavailability-alerts]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/service-unavailability-alerts|service-unavailability-alerts]]"
 learning-time-in-minutes: 4
 ---
 # Service Unavailability Alerts

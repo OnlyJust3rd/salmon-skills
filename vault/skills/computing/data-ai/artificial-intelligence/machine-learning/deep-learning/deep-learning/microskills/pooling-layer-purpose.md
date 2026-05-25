@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the function of pooling layers in reducing dimensionality.
+## Related Mediums
+
+![[bases/related-mediums.base]]

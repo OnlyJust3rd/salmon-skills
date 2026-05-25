@@ -43,3 +43,6 @@ Solve homogeneous systems of linear equations to find the basis for the kernel o
 - [[gaussian-elimination-for-ax-0|Gaussian elimination for Ax=0]]
 - [[back-substitution-for-solution-set|Back-substitution for solution set]]
 - [[kernel-basis-derivation|Kernel basis derivation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

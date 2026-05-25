@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of alerts triggered by high CPU usage.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing mathematical principles to interpret performance metrics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

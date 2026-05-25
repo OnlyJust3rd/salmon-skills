@@ -45,3 +45,6 @@ Explain the purpose and key activities of each phase in the computer game design
 - [[skills/digital-media/game-development/game-development-lifecycle/microskills/phase-purpose-and-activities|Phase Purpose and Activities]]
 - [[skills/digital-media/game-development/game-development-lifecycle/microskills/inception-to-support-lifecycle|Inception to Support Lifecycle]]
 - [[skills/digital-media/game-development/game-development-lifecycle/microskills/game-development-process-interpretation|Game Development Process Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

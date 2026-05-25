@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Classifying interfaces based on data transmission methods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

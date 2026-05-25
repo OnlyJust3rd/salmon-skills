@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[rabin-karp-java-implementation|rabin-karp-java-implementation]]"
+learning-outcomes:
+  - "[[rabin-karp-java-implementation|rabin-karp-java-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing the Rabin-Karp Algorithm in Java

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[prim-s-algorithm-java-implementation|prim-s-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[prim-s-algorithm-java-implementation|prim-s-algorithm-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Prim's Algorithm: Java Implementation for Minimum Spanning Tree

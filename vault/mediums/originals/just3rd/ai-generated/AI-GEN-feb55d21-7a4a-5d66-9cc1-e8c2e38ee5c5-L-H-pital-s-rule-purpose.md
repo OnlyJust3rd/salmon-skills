@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/l-hopital-s-rule-purpose|l-hopital-s-rule-purpose]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/l-hopital-s-rule-purpose|l-hopital-s-rule-purpose]]"
 learning-time-in-minutes: 3
 ---
 # The Purpose of L'Hôpital's Rule

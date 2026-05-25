@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/continuous-improvement-reflection|continuous-improvement-reflection]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/continuous-improvement-reflection|continuous-improvement-reflection]]"
 learning-time-in-minutes: 5
 ---
 # Continuous Improvement Reflection: Analyzing Your Sprint Workflow

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how volumes are created, managed, and removed.
+## Related Mediums
+
+![[bases/related-mediums.base]]

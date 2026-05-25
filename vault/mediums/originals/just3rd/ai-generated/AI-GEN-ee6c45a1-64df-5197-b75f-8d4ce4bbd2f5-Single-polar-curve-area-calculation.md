@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/single-polar-curve-area-calculation|single-polar-curve-area-calculation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/single-polar-curve-area-calculation|single-polar-curve-area-calculation]]"
 learning-time-in-minutes: 4
 ---
 # Calculating Area Inside a Single Polar Curve

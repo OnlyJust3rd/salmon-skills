@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/adder-architectures-overview|adder-architectures-overview]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/adder-architectures-overview|adder-architectures-overview]]"
 learning-time-in-minutes: 4
 ---
 # Adder Architectures: Speed vs. Simplicity

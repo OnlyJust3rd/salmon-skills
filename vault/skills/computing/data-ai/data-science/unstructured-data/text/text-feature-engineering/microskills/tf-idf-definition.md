@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and definition of Term Frequency-Inverse Document Frequency.
+## Related Mediums
+
+![[bases/related-mediums.base]]

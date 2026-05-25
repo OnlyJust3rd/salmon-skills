@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Apply landmarks and labels that assist assistive technologies.
+## Related Mediums
+
+![[bases/related-mediums.base]]

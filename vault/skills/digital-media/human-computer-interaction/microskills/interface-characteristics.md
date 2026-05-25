@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enumeration of distinct features of different UI paradigms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

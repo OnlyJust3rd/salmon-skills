@@ -53,3 +53,6 @@ Explain the concepts of physical and logical addresses and their differences in 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/logical-address-concepts|Logical Address Concepts]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/address-space-differences|Address Space Differences]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/logical-to-physical-address-translation|Logical to Physical Address Translation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

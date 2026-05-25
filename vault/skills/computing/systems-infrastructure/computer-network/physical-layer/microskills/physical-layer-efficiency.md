@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grasping the role of multiplexing in optimizing physical layer operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

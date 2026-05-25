@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How VPCs provide private network environments in the cloud.
+## Related Mediums
+
+![[bases/related-mediums.base]]

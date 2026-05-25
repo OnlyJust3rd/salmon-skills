@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-testing-implementation|usability-testing-implementation]]"
+learning-outcomes:
+  - "[[usability-testing-implementation|usability-testing-implementation]]"
 learning-time-in-minutes: 5
 ---
 # Implementing Usability Testing

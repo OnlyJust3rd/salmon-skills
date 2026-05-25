@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/embedded-serial-buses|embedded-serial-buses]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/embedded-serial-buses|embedded-serial-buses]]"
 learning-time-in-minutes: 5
 ---
 # Embedded Serial Buses: SPI, I2C, and One-Wire

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/insufficient-conditions-for-diagonalization|insufficient-conditions-for-diagonalization]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/insufficient-conditions-for-diagonalization|insufficient-conditions-for-diagonalization]]"
 learning-time-in-minutes: 7
 ---
 # Insufficient Conditions for Diagonalization

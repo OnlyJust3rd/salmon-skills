@@ -69,3 +69,6 @@ Model digital circuits using Verilog Hardware Description Language (HDL) and cre
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-module-implementation|Verilog Module Implementation]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-operators|Verilog Operators]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-simulation-validation|Verilog Simulation Validation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

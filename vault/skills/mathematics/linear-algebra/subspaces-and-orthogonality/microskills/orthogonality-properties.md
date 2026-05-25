@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental characteristics of orthogonal vectors and sets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

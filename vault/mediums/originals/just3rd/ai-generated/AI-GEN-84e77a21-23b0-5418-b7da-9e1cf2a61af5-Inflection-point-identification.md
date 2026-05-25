@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/inflection-point-identification|inflection-point-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/derivative-computation-and-analysis/microskills/inflection-point-identification|inflection-point-identification]]"
 learning-time-in-minutes: 3
 ---
 # Finding Inflection Points

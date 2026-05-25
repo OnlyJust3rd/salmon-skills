@@ -47,3 +47,6 @@ Explain data lake storage concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/object-storage|Object Storage]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/raw-zone|Raw Zone]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/schema-on-read|Schema-on-Read]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

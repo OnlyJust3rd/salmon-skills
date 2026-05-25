@@ -47,3 +47,6 @@ Apply fundamental mathematics and physics concepts to solve specific engineering
 - [[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/engineering-design-problem-solving|Engineering Design Problem Solving]]
 - [[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/engineering-analysis-problem-solving|Engineering Analysis Problem Solving]]
 - [[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/engineering-implementation-problem-solving|Engineering Implementation Problem Solving]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

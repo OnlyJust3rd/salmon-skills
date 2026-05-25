@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in using Helm CLI commands.
+## Related Mediums
+
+![[bases/related-mediums.base]]

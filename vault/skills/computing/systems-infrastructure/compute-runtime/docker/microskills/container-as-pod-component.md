@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how containers are encapsulated within Pods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

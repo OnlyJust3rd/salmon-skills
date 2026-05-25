@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting runtime objects to imported content.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of the algorithm to draw lines on a display.
+## Related Mediums
+
+![[bases/related-mediums.base]]

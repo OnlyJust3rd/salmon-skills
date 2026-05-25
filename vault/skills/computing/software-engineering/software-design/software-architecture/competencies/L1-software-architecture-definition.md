@@ -41,3 +41,6 @@ Define software architecture as the high-level organization of a software system
 
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/architecture-as-high-level-organization|Architecture as High-Level Organization]]
 - [[skills/computing/software-engineering/software-design/software-architecture/microskills/components-and-connectors-vocabulary|Components and Connectors Vocabulary]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

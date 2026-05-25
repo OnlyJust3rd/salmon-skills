@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/constraint|constraint]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/microskills/constraint|constraint]]"
 learning-time-in-minutes: 5
 ---
 # Mastering Constraints in Game Physics

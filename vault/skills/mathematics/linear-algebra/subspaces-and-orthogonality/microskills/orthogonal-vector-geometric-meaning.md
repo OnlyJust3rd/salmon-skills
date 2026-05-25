@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the geometric relationship between orthogonal vectors.
+## Related Mediums
+
+![[bases/related-mediums.base]]

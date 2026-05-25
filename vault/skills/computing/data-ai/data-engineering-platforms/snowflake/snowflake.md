@@ -38,3 +38,6 @@ Using Snowflake concepts for cloud data platform architecture, virtual warehouse
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/transformation-model|Transformation Model]]
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/virtual-warehouse|Virtual Warehouse]]
 - [[skills/computing/data-ai/data-engineering-platforms/snowflake/microskills/warehouse-sizing|Warehouse Sizing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

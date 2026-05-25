@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how assemblers translate code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

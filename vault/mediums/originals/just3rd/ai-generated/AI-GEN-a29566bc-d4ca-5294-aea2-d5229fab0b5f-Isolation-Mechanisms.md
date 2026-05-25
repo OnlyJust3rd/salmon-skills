@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/isolation-mechanisms|isolation-mechanisms]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/isolation-mechanisms|isolation-mechanisms]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Isolation Mechanisms: VMs vs. Containers

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the relevance of Proteus components for digital circuit simulation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

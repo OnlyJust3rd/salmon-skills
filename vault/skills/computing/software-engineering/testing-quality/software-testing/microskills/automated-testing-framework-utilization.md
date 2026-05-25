@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of tools like JUnit.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/customer-segment-dynamics|customer-segment-dynamics]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/customer-segment-dynamics|customer-segment-dynamics]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Customer Segment Dynamics

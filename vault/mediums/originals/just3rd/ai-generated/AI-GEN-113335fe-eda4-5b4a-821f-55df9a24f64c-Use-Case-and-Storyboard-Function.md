@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[use-case-and-storyboard-function|use-case-and-storyboard-function]]"
+learning-outcomes:
+  - "[[use-case-and-storyboard-function|use-case-and-storyboard-function]]"
 learning-time-in-minutes: 5
 ---
 # Use Cases and Storyboards: Visualizing User Interactions

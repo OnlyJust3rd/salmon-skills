@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/branch-prediction-basics|branch-prediction-basics]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/pipelined-architecture/microskills/branch-prediction-basics|branch-prediction-basics]]"
 learning-time-in-minutes: 5
 ---
 # Branch Prediction Basics: Taming Control Hazards

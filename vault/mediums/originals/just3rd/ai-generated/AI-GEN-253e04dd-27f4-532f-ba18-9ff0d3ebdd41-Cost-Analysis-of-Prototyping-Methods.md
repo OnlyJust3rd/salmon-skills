@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/cost-analysis-of-prototyping-methods|cost-analysis-of-prototyping-methods]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/cost-analysis-of-prototyping-methods|cost-analysis-of-prototyping-methods]]"
 learning-time-in-minutes: 4
 ---
 # Cost Analysis of Prototyping Methods

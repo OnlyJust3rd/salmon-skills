@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of the sequential structure of Docker images.
+## Related Mediums
+
+![[bases/related-mediums.base]]

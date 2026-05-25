@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of FaaS as a primary model within serverless.
+## Related Mediums
+
+![[bases/related-mediums.base]]

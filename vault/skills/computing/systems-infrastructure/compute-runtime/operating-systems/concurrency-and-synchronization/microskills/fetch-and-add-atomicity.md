@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the atomicity of Fetch-and-Add operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

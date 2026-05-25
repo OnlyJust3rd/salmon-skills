@@ -36,3 +36,6 @@ Designing parallel algorithms using structured methodologies such as Foster's de
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/parallel-design-methodology-execution|Parallel Design Methodology Execution]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/purpose-of-parallel-design-stages|Purpose of Parallel Design Stages]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/simple-parallel-application-development|Simple Parallel Application Development]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

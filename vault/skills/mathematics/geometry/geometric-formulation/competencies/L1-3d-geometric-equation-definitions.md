@@ -49,3 +49,6 @@ Define parametric equations and standard forms for lines and planes in 3D space,
 - [[standard-plane-equation-definition|Standard plane equation definition]]
 - [[direction-vector-identification|Direction vector identification]]
 - [[normal-vector-identification|Normal vector identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

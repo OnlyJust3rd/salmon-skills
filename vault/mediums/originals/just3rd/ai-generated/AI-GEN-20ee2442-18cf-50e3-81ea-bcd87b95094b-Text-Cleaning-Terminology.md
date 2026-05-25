@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-cleaning-terminology|text-cleaning-terminology]]"
+learning-outcomes:
+  - "[[text-cleaning-terminology|text-cleaning-terminology]]"
 learning-time-in-minutes: 4
 ---
 # Text Cleaning Terminology

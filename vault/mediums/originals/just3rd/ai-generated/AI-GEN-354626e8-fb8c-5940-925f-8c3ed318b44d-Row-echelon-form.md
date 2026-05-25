@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/row-echelon-form|row-echelon-form]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/row-echelon-form|row-echelon-form]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Row Echelon Form

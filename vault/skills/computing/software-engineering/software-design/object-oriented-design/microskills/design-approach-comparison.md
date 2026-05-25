@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comparing various OO design strategies for a given problem.
+## Related Mediums
+
+![[bases/related-mediums.base]]

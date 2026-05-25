@@ -45,3 +45,6 @@ List and define the core principles of FinOps and key cost optimization strategi
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-optimization-strategies|Cost Optimization Strategies]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cloud-cost-management|Cloud Cost Management]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/collaborative-cost-ownership|Collaborative Cost Ownership]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

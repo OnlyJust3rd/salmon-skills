@@ -58,3 +58,6 @@ Explaining the synergy between soft computing (e.g., fuzzy logic) and hard compu
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/simbot-fuzzy-logic-application|SIMBot Fuzzy Logic Application]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/soft-computing-characteristics|Soft Computing Characteristics]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/synergy-of-soft-and-hard-computing|Synergy of Soft and Hard Computing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

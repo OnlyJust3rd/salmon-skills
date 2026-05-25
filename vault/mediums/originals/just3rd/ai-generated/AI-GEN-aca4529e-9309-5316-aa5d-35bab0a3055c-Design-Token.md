@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[design-token|design-token]]"
+learning-outcomes:
+  - "[[design-token|design-token]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Design Tokens

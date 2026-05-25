@@ -43,3 +43,6 @@ Explain semantic HTML elements for structure, text, lists, links, media, and for
 - [[skills/computing/software-engineering/frontend-development/html/microskills/document-metadata-and-landmarks|Document metadata and landmarks]]
 - [[skills/computing/software-engineering/frontend-development/html/microskills/semantic-text-and-lists|Semantic text and lists]]
 - [[skills/computing/software-engineering/frontend-development/html/microskills/forms-and-inputs|Forms and inputs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

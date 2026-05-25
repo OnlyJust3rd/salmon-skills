@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[foundational-iot-concepts|foundational-iot-concepts]]"
+learning-outcomes:
+  - "[[foundational-iot-concepts|foundational-iot-concepts]]"
 learning-time-in-minutes: 5
 ---
 # Foundational IoT Concepts

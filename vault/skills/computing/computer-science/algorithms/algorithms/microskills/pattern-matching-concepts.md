@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Basic principles of identifying patterns in data sequences.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the input/output port configurations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

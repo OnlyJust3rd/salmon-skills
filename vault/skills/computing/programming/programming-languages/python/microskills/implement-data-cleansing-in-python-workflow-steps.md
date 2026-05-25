@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Breaking down the task into concrete Python coding steps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying the primary goals of SCM.
+## Related Mediums
+
+![[bases/related-mediums.base]]

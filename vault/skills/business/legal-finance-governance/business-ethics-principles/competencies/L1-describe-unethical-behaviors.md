@@ -49,3 +49,6 @@ Describe why certain business behaviors are considered unethical, providing exam
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/child-labor-examples|Child Labor Examples]]
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/accounting-fraud-examples|Accounting Fraud Examples]]
 - [[skills/business/legal-finance-governance/business-ethics-principles/microskills/false-advertising-examples|False Advertising Examples]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

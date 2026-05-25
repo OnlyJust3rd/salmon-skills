@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grouping users by shared start period or property.
+## Related Mediums
+
+![[bases/related-mediums.base]]

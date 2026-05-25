@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/trade-offs-in-avoidance-algorithms|trade-offs-in-avoidance-algorithms]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/trade-offs-in-avoidance-algorithms|trade-offs-in-avoidance-algorithms]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing Trade-offs in Deadlock Avoidance Algorithms

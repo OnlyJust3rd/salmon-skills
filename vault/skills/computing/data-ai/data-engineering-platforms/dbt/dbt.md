@@ -38,3 +38,6 @@ Using dbt concepts for analytics engineering, SQL transformations, model depende
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/model-dependency|Model Dependency]]
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/sql-model|SQL Model]]
 - [[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/staging-model|Staging Model]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

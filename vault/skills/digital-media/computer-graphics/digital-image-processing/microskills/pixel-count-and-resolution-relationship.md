@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Comprehension of how the number of pixels affects image resolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

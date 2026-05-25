@@ -43,3 +43,6 @@ Analyze the differences in data representation and efficiency between Huffman co
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/data-representation-differences-huffman-vs-dpcm|Data Representation Differences (Huffman vs. DPCM)]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/compression-efficiency-comparison-huffman-vs-dpcm|Compression Efficiency Comparison (Huffman vs. DPCM)]]
 - [[skills/computing/computer-science/algorithms/algorithm-classification/microskills/lossless-vs-lossy-compression-analysis|Lossless vs. Lossy Compression Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Use Gaussian elimination to find a basis for the row space and column space of a
 - [[row-echelon-form-for-row-space-basis|Row echelon form for row space basis]]
 - [[reduced-row-echelon-form-for-column-space-basis|Reduced row echelon form for column space basis]]
 - [[basis-determination-using-row-operations|Basis determination using row operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

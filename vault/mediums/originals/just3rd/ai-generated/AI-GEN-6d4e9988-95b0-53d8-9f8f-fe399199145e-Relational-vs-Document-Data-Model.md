@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[relational-vs-document-data-model|relational-vs-document-data-model]]"
+learning-outcomes:
+  - "[[relational-vs-document-data-model|relational-vs-document-data-model]]"
 learning-time-in-minutes: 4
 ---
 # Relational vs. Document Data Models in MongoDB

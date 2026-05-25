@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of criteria for a unique zero solution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -55,3 +55,6 @@ Apply regular expressions (RegEx) for pattern matching, text filtering, and rule
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-cleaning-strategies|Textual Data Cleaning Strategies]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/textual-data-noise-identification|Textual Data Noise Identification]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/microskills/usability-enhancement-through-text-cleaning|Usability Enhancement through Text Cleaning]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

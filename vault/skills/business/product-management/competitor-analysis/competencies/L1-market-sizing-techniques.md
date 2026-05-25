@@ -43,3 +43,6 @@ List common market sizing techniques.
 - [[skills/business/product-management/competitor-analysis/microskills/top-down-market-sizing|Top-Down Market Sizing]]
 - [[skills/business/product-management/competitor-analysis/microskills/bottom-up-market-sizing|Bottom-Up Market Sizing]]
 - [[skills/business/product-management/competitor-analysis/microskills/value-theory-market-sizing|Value Theory Market Sizing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

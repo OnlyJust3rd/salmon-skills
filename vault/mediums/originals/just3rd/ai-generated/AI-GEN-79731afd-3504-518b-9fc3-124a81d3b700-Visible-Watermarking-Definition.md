@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/visible-watermarking-definition|visible-watermarking-definition]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/visible-watermarking-definition|visible-watermarking-definition]]"
 learning-time-in-minutes: 3
 ---
 # Visible Watermarking: A Clear Identifier

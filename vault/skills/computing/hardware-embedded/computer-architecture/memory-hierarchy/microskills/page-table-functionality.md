@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the role and structure of page tables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

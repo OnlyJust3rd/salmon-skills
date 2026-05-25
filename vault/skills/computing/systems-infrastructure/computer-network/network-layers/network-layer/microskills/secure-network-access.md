@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How VPNs provide secure connectivity.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/repository-context-prompting|repository-context-prompting]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/repository-context-prompting|repository-context-prompting]]"
 learning-time-in-minutes: 4
 ---
 # Repository Context Prompting for AI-Assisted Code Generation

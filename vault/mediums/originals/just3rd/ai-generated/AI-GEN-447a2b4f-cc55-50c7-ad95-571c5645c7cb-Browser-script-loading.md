@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[browser-script-loading|browser-script-loading]]"
+learning-outcomes:
+  - "[[browser-script-loading|browser-script-loading]]"
 learning-time-in-minutes: 4
 ---
 # How JavaScript Scripts Load in Your Browser

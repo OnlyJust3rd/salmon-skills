@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-responses|json-in-http-responses]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-in-http-responses|json-in-http-responses]]"
 learning-time-in-minutes: 4
 ---
 # JSON in HTTP Responses

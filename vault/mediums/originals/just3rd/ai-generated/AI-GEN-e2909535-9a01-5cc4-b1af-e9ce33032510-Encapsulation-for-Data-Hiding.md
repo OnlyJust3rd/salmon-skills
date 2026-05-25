@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[encapsulation-for-data-hiding|encapsulation-for-data-hiding]]"
+learning-outcomes:
+  - "[[encapsulation-for-data-hiding|encapsulation-for-data-hiding]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Encapsulation for Data Hiding in Java

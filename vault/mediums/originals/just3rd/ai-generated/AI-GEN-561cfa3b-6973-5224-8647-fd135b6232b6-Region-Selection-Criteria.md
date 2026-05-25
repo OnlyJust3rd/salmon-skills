@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/region-selection-criteria|region-selection-criteria]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/region-selection-criteria|region-selection-criteria]]"
 learning-time-in-minutes: 4
 ---
 # Region Selection Criteria for Cloud Infrastructure

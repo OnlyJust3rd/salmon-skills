@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics|objective-watermarking-metrics]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/objective-watermarking-metrics|objective-watermarking-metrics]]"
 learning-time-in-minutes: 4
 ---
 # Objective Watermarking Metrics

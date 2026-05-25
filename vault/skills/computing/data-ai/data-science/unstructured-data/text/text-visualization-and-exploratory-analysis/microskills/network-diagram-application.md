@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the purpose and identification of network diagrams in text analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

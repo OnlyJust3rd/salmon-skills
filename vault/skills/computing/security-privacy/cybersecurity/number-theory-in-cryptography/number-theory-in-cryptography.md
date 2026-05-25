@@ -58,3 +58,6 @@ Applying fundamental number theory concepts-such as modular arithmetic, greatest
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/modular-arithmetic-application-in-cryptography|Modular Arithmetic Application in Cryptography]]
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/modular-arithmetic-definition|Modular Arithmetic Definition]]
 - [[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/number-theory-concepts-identification|Number Theory Concepts Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

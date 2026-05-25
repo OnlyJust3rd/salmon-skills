@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of definitions for different types of trees (e.g., rooted, binary).
+## Related Mediums
+
+![[bases/related-mediums.base]]

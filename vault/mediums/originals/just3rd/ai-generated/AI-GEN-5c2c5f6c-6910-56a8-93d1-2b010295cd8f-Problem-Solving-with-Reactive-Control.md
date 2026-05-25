@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[problem-solving-with-reactive-control|problem-solving-with-reactive-control]]"
+learning-outcomes:
+  - "[[problem-solving-with-reactive-control|problem-solving-with-reactive-control]]"
 learning-time-in-minutes: 4
 ---
 # Problem Solving with Reactive Control

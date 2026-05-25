@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Systematic checking of connections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

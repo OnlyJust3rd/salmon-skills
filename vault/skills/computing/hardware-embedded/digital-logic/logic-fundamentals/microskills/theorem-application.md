@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utility of De Morgan's theorems in simplification.
+## Related Mediums
+
+![[bases/related-mediums.base]]

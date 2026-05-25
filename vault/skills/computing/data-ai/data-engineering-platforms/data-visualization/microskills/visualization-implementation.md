@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of visualizations to solve defined data problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

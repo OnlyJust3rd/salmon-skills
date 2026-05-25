@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing C code for I2C slave read and write operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

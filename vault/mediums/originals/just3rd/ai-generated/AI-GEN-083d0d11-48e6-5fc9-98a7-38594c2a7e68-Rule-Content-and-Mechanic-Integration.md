@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/rule-content-and-mechanic-integration|rule-content-and-mechanic-integration]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/rule-content-and-mechanic-integration|rule-content-and-mechanic-integration]]"
 learning-time-in-minutes: 5
 ---
 # Integrating Rules, Content, and Mechanics for a Playable Prototype

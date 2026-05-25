@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Calculating average memory access time based on cache parameters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

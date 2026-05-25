@@ -45,3 +45,6 @@ Explain common computer arithmetic algorithms for addition/subtraction, multipli
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/adder-architectures-overview|Adder Architectures Overview]]
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/multiplication-algorithms-overview|Multiplication Algorithms Overview]]
 - [[skills/computing/hardware-embedded/computer-architecture/computer-arithmetic/microskills/division-algorithms-overview|Division Algorithms Overview]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

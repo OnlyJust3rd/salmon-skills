@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical application of BeautifulSoup to extract targeted pieces of information from HTML content.
+## Related Mediums
+
+![[bases/related-mediums.base]]

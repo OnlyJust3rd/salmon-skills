@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding controlled movement of artifacts through pipeline stages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

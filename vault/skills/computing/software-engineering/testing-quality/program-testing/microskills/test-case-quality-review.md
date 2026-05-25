@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to review test cases for completeness, clarity, and feasibility.
+## Related Mediums
+
+![[bases/related-mediums.base]]

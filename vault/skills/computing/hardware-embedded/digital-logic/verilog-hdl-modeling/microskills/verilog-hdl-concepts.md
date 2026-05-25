@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of fundamental Verilog HDL concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

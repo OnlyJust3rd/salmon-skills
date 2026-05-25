@@ -47,3 +47,6 @@ Apply AWS compute, storage, and IAM concepts.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-iam-policy|AWS IAM Policy]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-vpc-boundary|AWS VPC Boundary]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/amazon-web-services/microskills/aws-service-selection|AWS Service Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

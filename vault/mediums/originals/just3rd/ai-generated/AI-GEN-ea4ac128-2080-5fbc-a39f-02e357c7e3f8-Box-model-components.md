@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/box-model-components|box-model-components]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/css/microskills/box-model-components|box-model-components]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Box Model Components

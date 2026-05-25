@@ -40,3 +40,6 @@ Inspect query behavior and improve performance using indexes, execution plans, a
 - [[skills/computing/data-ai/databases/database-performance/query-optimization/microskills/execution-plan-reading|Execution Plan Reading]]
 - [[skills/computing/data-ai/databases/database-performance/query-optimization/microskills/predicate-selectivity|Predicate Selectivity]]
 - [[skills/computing/data-ai/databases/database-performance/query-optimization/microskills/query-rewrite-techniques|Query Rewrite Techniques]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

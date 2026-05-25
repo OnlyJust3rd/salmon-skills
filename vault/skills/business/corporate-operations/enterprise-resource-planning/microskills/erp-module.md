@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding functional system areas such as finance or procurement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

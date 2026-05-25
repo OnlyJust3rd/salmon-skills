@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying virtualization principles in image creation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

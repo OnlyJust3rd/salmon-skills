@@ -47,3 +47,6 @@ Apply object-oriented principles to design and structure simple classes and obje
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-interaction-design|Object interaction design]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/basic-class-implementation|Basic class implementation]]
 - [[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-oriented-structuring|Object-oriented structuring]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

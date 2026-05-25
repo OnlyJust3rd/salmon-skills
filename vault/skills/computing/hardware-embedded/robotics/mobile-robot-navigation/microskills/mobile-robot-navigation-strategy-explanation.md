@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the overall approach mobile robots take to navigate environments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

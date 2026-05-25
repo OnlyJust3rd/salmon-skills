@@ -43,3 +43,6 @@ Explain database transactions, including atomicity, consistency, isolation, dura
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/acid-properties|ACID Properties]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/commit-and-rollback|Commit and Rollback]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/transaction-boundaries|Transaction Boundaries]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

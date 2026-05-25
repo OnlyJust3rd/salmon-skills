@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using REST APIs and JSON for orchestrating data in enterprise applications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

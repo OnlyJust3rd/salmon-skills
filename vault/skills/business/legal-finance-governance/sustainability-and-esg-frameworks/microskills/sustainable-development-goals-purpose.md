@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the overall objectives of the SDGs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

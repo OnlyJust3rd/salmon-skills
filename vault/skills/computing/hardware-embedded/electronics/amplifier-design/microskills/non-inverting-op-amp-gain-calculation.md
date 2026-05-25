@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of formulas for non-inverting op-amp voltage gain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

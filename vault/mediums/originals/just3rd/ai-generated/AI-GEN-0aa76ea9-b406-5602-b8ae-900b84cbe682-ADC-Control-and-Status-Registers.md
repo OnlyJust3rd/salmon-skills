@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[adc-control-and-status-registers|adc-control-and-status-registers]]"
+learning-outcomes:
+  - "[[adc-control-and-status-registers|adc-control-and-status-registers]]"
 learning-time-in-minutes: 5
 ---
 # ADC Control and Status Registers

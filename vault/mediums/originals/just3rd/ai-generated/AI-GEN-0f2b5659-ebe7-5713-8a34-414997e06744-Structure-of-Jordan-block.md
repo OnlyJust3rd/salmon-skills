@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/structure-of-jordan-block|structure-of-jordan-block]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/structure-of-jordan-block|structure-of-jordan-block]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Structure of a Jordan Block

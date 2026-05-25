@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[system-requirements-definition|system-requirements-definition]]"
+learning-outcomes:
+  - "[[system-requirements-definition|system-requirements-definition]]"
 learning-time-in-minutes: 4
 ---
 # Defining System Requirements: Functional vs. Non-Functional

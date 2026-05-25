@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/microcontroller-configuration|microcontroller-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/microcontroller-configuration|microcontroller-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Microcontroller Configuration: Setting Up Your Embedded System's Brain

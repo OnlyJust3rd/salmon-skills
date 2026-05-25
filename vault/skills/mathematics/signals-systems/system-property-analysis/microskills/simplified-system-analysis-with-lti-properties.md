@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating how LTI properties simplify the analysis of system behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

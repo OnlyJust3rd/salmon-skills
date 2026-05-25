@@ -45,3 +45,6 @@ List and define core principles of object-oriented design, including responsibil
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modular-decomposition-principles|Modular Decomposition Principles]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/interface-design-principles|Interface Design Principles]]
 - [[skills/computing/software-engineering/software-design/object-oriented-design/microskills/component-interaction-design-principles|Component Interaction Design Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

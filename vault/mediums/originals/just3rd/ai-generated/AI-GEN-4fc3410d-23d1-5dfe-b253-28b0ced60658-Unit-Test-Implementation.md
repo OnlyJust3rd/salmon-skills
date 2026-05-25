@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/unit-test-implementation|unit-test-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/software-testing/microskills/unit-test-implementation|unit-test-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Unit Tests with JUnit

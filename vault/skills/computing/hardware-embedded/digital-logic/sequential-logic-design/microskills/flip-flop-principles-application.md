@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Use of flip-flop principles in implementing counters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

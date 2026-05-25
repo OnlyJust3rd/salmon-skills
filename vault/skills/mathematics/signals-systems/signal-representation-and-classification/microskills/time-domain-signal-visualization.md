@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to interpret graphical representations of signals in the time domain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

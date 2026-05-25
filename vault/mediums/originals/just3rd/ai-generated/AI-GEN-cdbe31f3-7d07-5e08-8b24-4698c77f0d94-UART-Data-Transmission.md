@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[uart-data-transmission|uart-data-transmission]]"
+learning-outcomes:
+  - "[[uart-data-transmission|uart-data-transmission]]"
 learning-time-in-minutes: 5
 ---
 # UART Data Transmission: Sending Data Serially with AVR C

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall the relative ordering of common complexity classes by growth rate.
+## Related Mediums
+
+![[bases/related-mediums.base]]

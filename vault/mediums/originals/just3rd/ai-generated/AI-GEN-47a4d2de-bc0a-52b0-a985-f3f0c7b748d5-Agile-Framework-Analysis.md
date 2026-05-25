@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/agile-framework-analysis|agile-framework-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/agile-framework-analysis|agile-framework-analysis]]"
 learning-time-in-minutes: 6
 ---
 # Analyzing Agile Frameworks: Scrum, Kanban, and eXtreme Programming

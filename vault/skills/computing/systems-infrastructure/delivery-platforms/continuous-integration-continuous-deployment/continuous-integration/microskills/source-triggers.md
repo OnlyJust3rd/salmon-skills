@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding pipeline execution from commits, branches, or pull requests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

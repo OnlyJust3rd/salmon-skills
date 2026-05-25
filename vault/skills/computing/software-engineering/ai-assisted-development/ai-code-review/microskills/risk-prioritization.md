@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Separating severe findings from minor suggestions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

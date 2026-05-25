@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/competitor-analysis/microskills/competitor-offering-breakdown|competitor-offering-breakdown]]"
+learning-outcomes:
+  - "[[skills/business/product-management/competitor-analysis/microskills/competitor-offering-breakdown|competitor-offering-breakdown]]"
 learning-time-in-minutes: 4
 ---
 # Competitor Offering Breakdown

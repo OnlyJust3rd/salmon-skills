@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[experimental-design-influence|experimental-design-influence]]"
+learning-outcomes:
+  - "[[experimental-design-influence|experimental-design-influence]]"
 learning-time-in-minutes: 5
 ---
 # Understanding How Cognitive and Perceptual Factors Influence Experimental Design

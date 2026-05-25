@@ -43,3 +43,6 @@ List common AVR microcontroller peripheral registers associated with serial comm
 - [[uart-baud-rate-registers|UART Baud Rate Registers]]
 - [[spi-control-registers|SPI Control Registers]]
 - [[i2c-status-and-control-registers|I2C Status and Control Registers]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

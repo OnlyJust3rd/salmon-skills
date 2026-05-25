@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding read-speed benefits versus write and storage overhead.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -47,3 +47,6 @@ Apply agentic coding task decomposition and review.
 - [[task-scope|Task Scope]]
 - [[verification-loop|Verification Loop]]
 - [[change-review|Change Review]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

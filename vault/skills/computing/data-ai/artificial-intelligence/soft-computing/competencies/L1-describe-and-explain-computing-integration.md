@@ -47,3 +47,6 @@ Describe and explain the characteristics, principles, and integration of soft an
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/hard-computing-principles|Hard Computing Principles]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/synergy-of-soft-and-hard-computing|Synergy of Soft and Hard Computing]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/industrial-applications-of-computing|Industrial Applications of Computing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

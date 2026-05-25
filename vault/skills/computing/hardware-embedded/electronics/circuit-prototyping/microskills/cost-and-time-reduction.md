@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how simulation minimizes physical prototyping.
+## Related Mediums
+
+![[bases/related-mediums.base]]

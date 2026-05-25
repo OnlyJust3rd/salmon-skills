@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating how eigenvalues populate the diagonal matrix.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Use predicate logic to represent statements involving quantifiers and relationsh
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/quantifier-usage|Quantifier Usage]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/relationship-representation|Relationship Representation]]
 - [[skills/mathematics/discrete-math/logical-reasoning/microskills/statement-formalization|Statement Formalization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

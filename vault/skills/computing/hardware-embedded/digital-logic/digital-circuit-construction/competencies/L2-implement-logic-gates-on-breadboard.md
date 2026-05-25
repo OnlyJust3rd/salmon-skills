@@ -53,3 +53,6 @@ Implement basic logic gates and simple combinational circuits on a breadboard us
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/component-placement|Component Placement]]
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/basic-logic-circuit-construction|Basic Logic Circuit Construction]]
 - [[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/breadboard-implementation-proficiency|Breadboard Implementation Proficiency]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

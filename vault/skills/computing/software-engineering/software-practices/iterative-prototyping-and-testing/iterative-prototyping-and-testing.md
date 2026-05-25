@@ -55,3 +55,6 @@ Developing and refining engineering solutions through cycles of building, testin
 - [[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/role-of-iteration-in-development|Role of Iteration in Development]]
 - [[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/testing-methodologies|Testing Methodologies]]
 - [[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/testing-result-interpretation|Testing Result Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

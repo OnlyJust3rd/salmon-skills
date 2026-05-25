@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Create an app instance, routers, and listen for HTTP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

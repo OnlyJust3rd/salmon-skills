@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/depth-perception-cues|depth-perception-cues]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/depth-perception-cues|depth-perception-cues]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Depth Perception Cues

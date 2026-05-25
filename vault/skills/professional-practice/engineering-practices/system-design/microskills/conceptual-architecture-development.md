@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Formulation of high-level blueprints for integrated systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

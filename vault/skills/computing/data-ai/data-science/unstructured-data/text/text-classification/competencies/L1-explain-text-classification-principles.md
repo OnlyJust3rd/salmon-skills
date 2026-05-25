@@ -49,3 +49,6 @@ Explain the fundamental principles behind text classification algorithms such as
 - [[recurrent-neural-network-rnn-principles|Recurrent Neural Network (RNN) Principles]]
 - [[long-short-term-memory-lstm-principles|Long Short-Term Memory (LSTM) Principles]]
 - [[bert-model-principles|BERT Model Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

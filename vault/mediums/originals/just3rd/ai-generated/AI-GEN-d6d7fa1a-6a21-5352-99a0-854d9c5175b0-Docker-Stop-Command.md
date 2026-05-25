@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-stop-command|docker-stop-command]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/docker/microskills/docker-stop-command|docker-stop-command]]"
 learning-time-in-minutes: 3
 ---
 # Halting Docker Containers with `docker stop`

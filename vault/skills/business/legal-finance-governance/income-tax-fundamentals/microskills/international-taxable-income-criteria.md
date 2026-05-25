@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the characteristics of international income subject to taxation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Explain the purpose and contribution of each stage in the data science process.
 - [[skills/computing/data-ai/data-science/data-science/microskills/data-science-workflow|Data Science Workflow]]
 - [[skills/computing/data-ai/data-science/data-science/microskills/stage-objectives|Stage Objectives]]
 - [[skills/computing/data-ai/data-science/data-science/microskills/process-contribution|Process Contribution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

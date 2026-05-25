@@ -56,3 +56,6 @@ Utilizing the Unified Modeling Language (UML) to document design decisions, incl
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-diagram-usage-explanation|UML Diagram Usage Explanation]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/uml-symbol-recognition|UML Symbol Recognition]]
 - [[skills/computing/software-engineering/software-practices/uml-modeling/microskills/user-interaction-representation|User Interaction Representation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

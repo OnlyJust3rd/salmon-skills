@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying linearity to compute FS/DTFS coefficients for scaled signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

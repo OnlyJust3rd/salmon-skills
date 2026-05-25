@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/system-property-analysis/microskills/scaled-signal-coefficient-computation|scaled-signal-coefficient-computation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/system-property-analysis/microskills/scaled-signal-coefficient-computation|scaled-signal-coefficient-computation]]"
 learning-time-in-minutes: 4
 ---
 # Scaled Signal Coefficient Computation using Linearity

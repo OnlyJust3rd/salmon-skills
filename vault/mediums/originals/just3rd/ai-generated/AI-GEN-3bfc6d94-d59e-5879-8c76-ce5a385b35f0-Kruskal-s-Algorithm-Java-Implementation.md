@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[kruskal-s-algorithm-java-implementation|kruskal-s-algorithm-java-implementation]]"
+learning-outcomes:
+  - "[[kruskal-s-algorithm-java-implementation|kruskal-s-algorithm-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Kruskal's Algorithm Java Implementation

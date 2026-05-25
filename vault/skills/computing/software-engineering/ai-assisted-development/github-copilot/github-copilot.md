@@ -38,3 +38,6 @@ Using GitHub Copilot for IDE-based coding assistance, agent mode, background cod
 - [[issue-to-change-workflow|Issue-to-Change Workflow]]
 - [[pull-request-review|Pull Request Review]]
 - [[repository-context|Repository Context]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

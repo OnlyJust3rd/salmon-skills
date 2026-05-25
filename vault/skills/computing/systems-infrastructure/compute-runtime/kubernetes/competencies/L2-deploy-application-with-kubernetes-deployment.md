@@ -49,3 +49,6 @@ Deploy a containerized application using a Kubernetes Deployment manifest.
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/containerized-application-deployment|Containerized Application Deployment]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-resource-application|Kubernetes Resource Application]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/application-scalability-concepts|Application Scalability Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

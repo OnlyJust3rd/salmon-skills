@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/accounting-fraud-examples|accounting-fraud-examples]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/business-ethics-principles/microskills/accounting-fraud-examples|accounting-fraud-examples]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Accounting Fraud

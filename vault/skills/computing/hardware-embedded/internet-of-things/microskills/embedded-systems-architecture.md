@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the typical architecture of embedded systems used in IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

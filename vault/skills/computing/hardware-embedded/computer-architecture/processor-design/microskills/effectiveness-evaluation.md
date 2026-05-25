@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Judging the overall effectiveness of a designed processor.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/digital-law/thai-digital-law/microskills/cybersecurity-act-mandated-responsibilities|cybersecurity-act-mandated-responsibilities]]"
+learning-outcomes:
+  - "[[skills/professional-practice/digital-law/thai-digital-law/microskills/cybersecurity-act-mandated-responsibilities|cybersecurity-act-mandated-responsibilities]]"
 learning-time-in-minutes: 4
 ---
 # Cybersecurity Act Mandated Responsibilities in Thailand

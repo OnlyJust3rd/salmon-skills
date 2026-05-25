@@ -39,3 +39,6 @@ List different types of DRM enforcement mechanisms.
 ## Microskills
 
 - [[skills/computing/security-privacy/cybersecurity/digital-rights-management-systems/microskills/drm-enforcement-mechanisms|DRM Enforcement Mechanisms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

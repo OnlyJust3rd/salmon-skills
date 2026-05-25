@@ -45,3 +45,6 @@ Explain the architectural differences between GPGPUs, AI processors, and traditi
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/ai-processor-vs-cpu-architectures|AI Processor vs. CPU Architectures]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/xeon-phi-processor-role-in-hpc|Xeon Phi Processor Role in HPC]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/multicore-processing/microskills/heterogeneous-architecture-differences|Heterogeneous Architecture Differences]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

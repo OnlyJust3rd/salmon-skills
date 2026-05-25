@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-ah-application-demonstration|ipsec-ah-application-demonstration]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-ah-application-demonstration|ipsec-ah-application-demonstration]]"
 learning-time-in-minutes: 3
 ---
 # IPSec AH: Ensuring Data Integrity and Authenticity

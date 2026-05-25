@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Techniques for reducing message sizes in MPI programs through data packing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilization of foundational number theory for basic cryptographic challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

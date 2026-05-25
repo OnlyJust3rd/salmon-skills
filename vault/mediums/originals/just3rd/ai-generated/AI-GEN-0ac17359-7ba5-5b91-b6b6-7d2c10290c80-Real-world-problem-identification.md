@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/real-world-problem-identification|real-world-problem-identification]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/real-world-problem-identification|real-world-problem-identification]]"
 learning-time-in-minutes: 3
 ---
 # Recognizing Problems for Computational Solutions

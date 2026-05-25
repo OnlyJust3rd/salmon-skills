@@ -55,3 +55,6 @@ Implement dynamic programming techniques for problems such as Fibonacci (DP), 0/
 - [[skills/computing/programming/programming-languages/java-programming/microskills/edit-distance-levenshtein-distance-dp-java-implementation|Edit Distance (Levenshtein Distance) DP Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/matrix-chain-multiplication-dp-java-implementation|Matrix Chain Multiplication DP Java Implementation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/coin-change-problem-dp-java-implementation|Coin Change Problem DP Java Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

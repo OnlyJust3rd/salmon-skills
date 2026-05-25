@@ -45,3 +45,6 @@ Explain database indexing and its relationship to query performance.
 - [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-access-paths|Index Access Paths]]
 - [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/query-predicate-support|Query Predicate Support]]
 - [[skills/computing/data-ai/databases/database-performance/database-indexing/microskills/index-trade-offs|Index Trade-offs]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

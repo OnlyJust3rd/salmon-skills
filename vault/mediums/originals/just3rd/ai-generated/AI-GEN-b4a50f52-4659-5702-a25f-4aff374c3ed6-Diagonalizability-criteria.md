@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/diagonalizability-criteria|diagonalizability-criteria]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/spectral-analysis-and-matrix-decomposition/microskills/diagonalizability-criteria|diagonalizability-criteria]]"
 learning-time-in-minutes: 5
 ---
 # Diagonalizability Criteria

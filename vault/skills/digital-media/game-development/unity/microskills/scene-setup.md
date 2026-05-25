@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Arranging game objects and assets in a scene.
+## Related Mediums
+
+![[bases/related-mediums.base]]

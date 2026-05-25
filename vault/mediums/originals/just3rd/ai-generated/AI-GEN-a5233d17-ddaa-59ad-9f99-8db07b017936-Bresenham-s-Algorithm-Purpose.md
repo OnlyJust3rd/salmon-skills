@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/bresenham-s-algorithm-purpose|bresenham-s-algorithm-purpose]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/bresenham-s-algorithm-purpose|bresenham-s-algorithm-purpose]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Purpose of Bresenham's Algorithm

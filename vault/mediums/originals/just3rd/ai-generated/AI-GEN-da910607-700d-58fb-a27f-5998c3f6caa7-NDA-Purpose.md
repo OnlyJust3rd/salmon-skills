@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/nda-purpose|nda-purpose]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/nda-purpose|nda-purpose]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Purpose of Non-Disclosure Agreements (NDAs)

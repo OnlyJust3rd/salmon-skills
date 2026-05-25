@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/interrupt-driven-approach-analysis|interrupt-driven-approach-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/interrupt-driven-approach-analysis|interrupt-driven-approach-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Analyzing the Interrupt-Driven Approach to I/O

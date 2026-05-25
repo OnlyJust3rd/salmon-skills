@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to configure how alerts are delivered (e.g., email, Slack).
+## Related Mediums
+
+![[bases/related-mediums.base]]

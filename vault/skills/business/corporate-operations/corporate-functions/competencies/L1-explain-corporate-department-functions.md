@@ -57,3 +57,6 @@ Explain the core functions and responsibilities of various corporate departments
 - [[skills/business/corporate-operations/corporate-functions/microskills/research-and-development-functions|Research and Development Functions]]
 - [[skills/business/corporate-operations/corporate-functions/microskills/customer-services-functions|Customer Services Functions]]
 - [[skills/business/corporate-operations/corporate-functions/microskills/legal-department-functions|Legal Department Functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

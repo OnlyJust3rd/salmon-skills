@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/discrete-time-signal-characteristics|discrete-time-signal-characteristics]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/discrete-time-signal-characteristics|discrete-time-signal-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Discrete-Time Signal Characteristics

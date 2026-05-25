@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying metrics to assess watermarking system performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

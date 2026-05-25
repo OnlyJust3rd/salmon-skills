@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to examine output and data from Proteus 8 simulations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

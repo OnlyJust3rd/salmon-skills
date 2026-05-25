@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Producing intermediate key-value data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

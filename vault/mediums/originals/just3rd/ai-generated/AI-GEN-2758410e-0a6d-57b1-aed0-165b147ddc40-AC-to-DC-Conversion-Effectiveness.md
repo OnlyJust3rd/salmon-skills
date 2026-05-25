@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/ac-to-dc-conversion-effectiveness|ac-to-dc-conversion-effectiveness]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/semiconductor-device-operation/microskills/ac-to-dc-conversion-effectiveness|ac-to-dc-conversion-effectiveness]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating AC to DC Conversion Effectiveness in Full-Wave Rectifiers

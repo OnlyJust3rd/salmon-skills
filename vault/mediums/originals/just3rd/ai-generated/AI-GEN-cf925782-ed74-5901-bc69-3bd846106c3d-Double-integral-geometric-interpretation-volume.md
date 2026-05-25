@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/double-integral-geometric-interpretation-volume|double-integral-geometric-interpretation-volume]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multiple-integral-evaluation/microskills/double-integral-geometric-interpretation-volume|double-integral-geometric-interpretation-volume]]"
 learning-time-in-minutes: 5
 ---
 # Double Integrals: Visualizing Volume

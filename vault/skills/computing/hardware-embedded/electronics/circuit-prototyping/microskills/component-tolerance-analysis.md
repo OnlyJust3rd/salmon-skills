@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing how real component variations cause deviations from ideal behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

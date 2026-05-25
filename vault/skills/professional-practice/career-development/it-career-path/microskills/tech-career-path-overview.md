@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 General outline of typical advancements in technology careers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

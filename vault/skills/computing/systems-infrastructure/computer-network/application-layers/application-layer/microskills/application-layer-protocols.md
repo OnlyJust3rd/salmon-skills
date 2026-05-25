@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of commonly used protocols at the application layer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

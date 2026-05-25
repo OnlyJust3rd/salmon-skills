@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how critical points relate to identifying relative maxima, minima, and saddle points.
+## Related Mediums
+
+![[bases/related-mediums.base]]

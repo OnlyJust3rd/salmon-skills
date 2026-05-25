@@ -49,3 +49,6 @@ Configure and deploy Kubernetes CronJobs to automate tasks within a cluster.
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/cronjob-resource-definition|CronJob Resource Definition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/scheduled-task-deployment|Scheduled Task Deployment]]
 - [[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cluster-operations|Kubernetes Cluster Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

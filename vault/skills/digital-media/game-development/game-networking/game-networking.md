@@ -38,3 +38,6 @@ Understanding multiplayer networking, client-server models, state synchronizatio
 - [[skills/digital-media/game-development/game-networking/microskills/reconciliation|Reconciliation]]
 - [[skills/digital-media/game-development/game-networking/microskills/replication|Replication]]
 - [[skills/digital-media/game-development/game-networking/microskills/server-authority|Server Authority]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

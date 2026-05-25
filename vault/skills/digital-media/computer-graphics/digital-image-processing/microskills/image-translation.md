@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of shifting operations on digital images.
+## Related Mediums
+
+![[bases/related-mediums.base]]

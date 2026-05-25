@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how event-driven architectures promote loose coupling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

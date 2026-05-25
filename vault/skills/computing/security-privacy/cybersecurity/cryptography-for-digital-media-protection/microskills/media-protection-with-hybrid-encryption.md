@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of hybrid encryption for securing digital media.
+## Related Mediums
+
+![[bases/related-mediums.base]]

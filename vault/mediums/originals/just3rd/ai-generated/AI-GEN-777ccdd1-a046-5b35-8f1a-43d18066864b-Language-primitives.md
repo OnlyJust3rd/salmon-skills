@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[language-primitives|language-primitives]]"
+learning-outcomes:
+  - "[[language-primitives|language-primitives]]"
 learning-time-in-minutes: 3
 ---
 # Understanding JavaScript Language Primitives: Variables, Operators, and Control Structures

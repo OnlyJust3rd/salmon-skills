@@ -43,3 +43,6 @@ Explain the communication model in a distributed-memory HPC system.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/process-communication-models|Process Communication Models]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/data-exchange-in-distributed-systems|Data Exchange in Distributed Systems]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-system/microskills/inter-process-communication-principles|Inter-Process Communication Principles]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[reliability-in-networking|reliability-in-networking]]"
+learning-outcomes:
+  - "[[reliability-in-networking|reliability-in-networking]]"
 learning-time-in-minutes: 6
 ---
 # Reliability in Networking: Ensuring Your Data Arrives Safely

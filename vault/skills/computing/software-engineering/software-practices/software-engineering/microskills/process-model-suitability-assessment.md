@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Determining the most appropriate model for a given project scenario.
+## Related Mediums
+
+![[bases/related-mediums.base]]

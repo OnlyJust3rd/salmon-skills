@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/real-world-dataset-representation|real-world-dataset-representation]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/microskills/real-world-dataset-representation|real-world-dataset-representation]]"
 learning-time-in-minutes: 3
 ---
 # Representing Real-World Data: A Practical Approach

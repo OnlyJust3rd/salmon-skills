@@ -47,3 +47,6 @@ Apply managed service selection for cloud solutions.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/service-fit|Service Fit]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/operational-burden|Operational Burden]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-native-application-architecture/microskills/cloud-cost-driver|Cloud Cost Driver]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

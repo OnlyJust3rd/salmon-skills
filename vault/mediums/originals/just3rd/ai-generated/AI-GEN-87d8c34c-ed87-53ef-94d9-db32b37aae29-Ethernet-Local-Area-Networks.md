@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ethernet-local-area-networks|ethernet-local-area-networks]]"
+learning-outcomes:
+  - "[[ethernet-local-area-networks|ethernet-local-area-networks]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Ethernet Local Area Networks (LANs)

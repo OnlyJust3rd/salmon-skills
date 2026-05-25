@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The role of ICMP in troubleshooting.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[emotional-design-considerations|emotional-design-considerations]]"
+learning-outcomes:
+  - "[[emotional-design-considerations|emotional-design-considerations]]"
 learning-time-in-minutes: 5
 ---
 # Emotional Design Considerations in UX

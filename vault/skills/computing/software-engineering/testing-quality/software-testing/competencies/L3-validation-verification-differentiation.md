@@ -45,3 +45,6 @@ Differentiate between software validation and verification in the context of sof
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-validation-context|Software Validation Context]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/software-verification-context|Software Verification Context]]
 - [[skills/computing/software-engineering/testing-quality/software-testing/microskills/lifecycle-stage-application|Lifecycle Stage Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

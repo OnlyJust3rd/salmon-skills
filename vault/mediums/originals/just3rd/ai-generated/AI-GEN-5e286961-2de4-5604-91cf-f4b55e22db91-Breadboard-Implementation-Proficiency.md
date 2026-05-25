@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/breadboard-implementation-proficiency|breadboard-implementation-proficiency]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/breadboard-implementation-proficiency|breadboard-implementation-proficiency]]"
 learning-time-in-minutes: 7
 ---
 # Breadboard Implementation Proficiency

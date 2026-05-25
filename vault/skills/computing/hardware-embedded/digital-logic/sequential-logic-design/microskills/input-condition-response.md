@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding state machine response to different input conditions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

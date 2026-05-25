@@ -49,3 +49,6 @@ Implement basic navigation strategies using SIMBot to traverse a simple maze.
 - [[simbot-maze-traversal-programming|SIMBot Maze Traversal Programming]]
 - [[robotic-movement-in-maze-environments|Robotic Movement in Maze Environments]]
 - [[navigation-principle-application|Navigation Principle Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

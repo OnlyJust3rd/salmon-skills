@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/build-scripts|build-scripts]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/client-side-web-tooling/microskills/build-scripts|build-scripts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Build Scripts

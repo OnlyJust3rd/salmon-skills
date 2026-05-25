@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the Red, Green, Blue color model.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstrating cryptographic application in IPSec tunnel mode.
+## Related Mediums
+
+![[bases/related-mediums.base]]

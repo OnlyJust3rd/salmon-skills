@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interplay between leadership and culture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|hpc-monitoring-system-function]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/hpc-cluster-management/microskills/hpc-monitoring-system-function|hpc-monitoring-system-function]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Function of HPC Monitoring Systems

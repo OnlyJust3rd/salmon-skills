@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/ask-mode|ask-mode]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/ask-mode|ask-mode]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Cursor's Ask Mode

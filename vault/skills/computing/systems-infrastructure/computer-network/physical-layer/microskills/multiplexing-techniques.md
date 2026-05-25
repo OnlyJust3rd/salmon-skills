@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of various methods for combining multiple signals.
+## Related Mediums
+
+![[bases/related-mediums.base]]

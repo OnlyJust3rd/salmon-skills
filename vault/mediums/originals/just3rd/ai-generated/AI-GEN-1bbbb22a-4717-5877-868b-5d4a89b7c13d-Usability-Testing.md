@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-testing|usability-testing]]"
+learning-outcomes:
+  - "[[usability-testing|usability-testing]]"
 learning-time-in-minutes: 5
 ---
 # Conducting a Usability Test

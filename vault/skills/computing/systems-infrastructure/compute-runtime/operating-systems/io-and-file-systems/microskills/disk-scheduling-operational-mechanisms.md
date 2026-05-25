@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the operational procedures of disk scheduling algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

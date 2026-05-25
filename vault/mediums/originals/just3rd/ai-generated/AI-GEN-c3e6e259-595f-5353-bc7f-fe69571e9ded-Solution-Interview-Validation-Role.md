@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/solution-interview-validation-role|solution-interview-validation-role]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/solution-interview-validation-role|solution-interview-validation-role]]"
 learning-time-in-minutes: 4
 ---
 # Solution Interview Validation Role in Lean Startup

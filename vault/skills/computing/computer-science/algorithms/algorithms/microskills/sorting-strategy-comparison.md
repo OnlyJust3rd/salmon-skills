@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of differences in approaches among sorting algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

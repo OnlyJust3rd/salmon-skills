@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the impact of noisy elements on text dataset quality and the importance of their removal.
+## Related Mediums
+
+![[bases/related-mediums.base]]

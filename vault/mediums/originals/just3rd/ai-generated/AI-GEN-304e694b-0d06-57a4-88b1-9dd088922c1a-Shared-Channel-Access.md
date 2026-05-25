@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[shared-channel-access|shared-channel-access]]"
+learning-outcomes:
+  - "[[shared-channel-access|shared-channel-access]]"
 learning-time-in-minutes: 3
 ---
 # Sharing the Highway: Understanding Shared Channel Access

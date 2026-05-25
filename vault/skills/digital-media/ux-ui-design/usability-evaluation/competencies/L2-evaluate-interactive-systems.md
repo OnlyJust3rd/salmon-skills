@@ -47,3 +47,6 @@ Conduct evaluations of interactive systems using defined methodologies to identi
 - [[usability-testing|Usability Testing]]
 - [[heuristic-evaluation-application|Heuristic Evaluation Application]]
 - [[recommendation-generation|Recommendation Generation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

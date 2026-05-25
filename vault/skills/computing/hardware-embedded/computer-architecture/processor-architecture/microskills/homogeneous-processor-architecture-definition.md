@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of processor architectures with identical components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

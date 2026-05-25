@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-frequency-representation|image-frequency-representation]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-frequency-representation|image-frequency-representation]]"
 learning-time-in-minutes: 5
 ---
 # Image Frequency Representation

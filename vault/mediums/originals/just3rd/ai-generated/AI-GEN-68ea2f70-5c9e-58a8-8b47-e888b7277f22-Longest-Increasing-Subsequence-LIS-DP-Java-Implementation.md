@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[longest-increasing-subsequence-lis-dp-java-implementation|longest-increasing-subsequence-lis-dp-java-implementation]]"
+learning-outcomes:
+  - "[[longest-increasing-subsequence-lis-dp-java-implementation|longest-increasing-subsequence-lis-dp-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Longest Increasing Subsequence (LIS) DP Java Implementation

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/normalization-principles|normalization-principles]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/relational-database/microskills/normalization-principles|normalization-principles]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Database Normalization Principles

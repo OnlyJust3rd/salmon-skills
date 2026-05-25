@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/absolute-convergence-identification|absolute-convergence-identification]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/absolute-convergence-identification|absolute-convergence-identification]]"
 learning-time-in-minutes: 5
 ---
 # Absolute Convergence: Identifying the Strongest Form of Convergence

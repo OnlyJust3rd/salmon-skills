@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Conceptual understanding of how geometric shapes are mathematically defined in digital space.
+## Related Mediums
+
+![[bases/related-mediums.base]]

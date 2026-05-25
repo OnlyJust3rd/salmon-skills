@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to recall the definition of triple integrals over solid regions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

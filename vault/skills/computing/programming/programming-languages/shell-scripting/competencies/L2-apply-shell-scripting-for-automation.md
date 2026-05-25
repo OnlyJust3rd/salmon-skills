@@ -47,3 +47,6 @@ Apply shell scripting constructs to automate repeatable command-line tasks.
 - [[conditionals-and-loops|Conditionals and Loops]]
 - [[exit-codes|Exit Codes]]
 - [[command-composition|Command Composition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

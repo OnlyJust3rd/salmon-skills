@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of the definition of poles in transfer functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

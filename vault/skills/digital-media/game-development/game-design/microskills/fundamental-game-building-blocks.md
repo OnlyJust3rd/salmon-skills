@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of the essential components that constitute a game.
+## Related Mediums
+
+![[bases/related-mediums.base]]

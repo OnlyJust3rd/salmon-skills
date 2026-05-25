@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining how users interact with a system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

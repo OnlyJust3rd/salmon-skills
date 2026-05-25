@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding managed document or realtime database services.
+## Related Mediums
+
+![[bases/related-mediums.base]]

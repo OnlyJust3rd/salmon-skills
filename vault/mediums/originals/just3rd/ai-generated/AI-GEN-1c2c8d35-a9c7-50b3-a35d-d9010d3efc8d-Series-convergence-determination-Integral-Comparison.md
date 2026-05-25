@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/series-convergence-determination-integral-comparison|series-convergence-determination-integral-comparison]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/sequence-and-series-convergence/microskills/series-convergence-determination-integral-comparison|series-convergence-determination-integral-comparison]]"
 learning-time-in-minutes: 5
 ---
 # Applying the Integral and Comparison Tests for Series Convergence

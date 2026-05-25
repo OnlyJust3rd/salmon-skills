@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/virtual-network-configuration|virtual-network-configuration]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/virtual-network-configuration|virtual-network-configuration]]"
 learning-time-in-minutes: 3
 ---
 # Configuring Virtual Networks in the Cloud

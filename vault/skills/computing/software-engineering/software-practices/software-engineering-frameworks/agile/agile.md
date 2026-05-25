@@ -43,3 +43,6 @@ Applying Agile values and principles to deliver software iteratively, inspect fe
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/sprint-planning|Sprint Planning]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/stakeholder-feedback-loop|Stakeholder Feedback Loop]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/agile/microskills/team-working-agreements|Team Working Agreements]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

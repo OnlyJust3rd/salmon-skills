@@ -61,3 +61,6 @@ Model, implement, and verify combinational and sequential digital circuits using
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/gate-level-modeling-application|Gate-Level Modeling Application]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/dataflow-modeling-application|Dataflow Modeling Application]]
 - [[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-simulation-validation|Verilog Simulation Validation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[assembly-program-correctness-verification|assembly-program-correctness-verification]]"
+learning-outcomes:
+  - "[[assembly-program-correctness-verification|assembly-program-correctness-verification]]"
 learning-time-in-minutes: 3
 ---
 # Verifying Assembly Program Correctness

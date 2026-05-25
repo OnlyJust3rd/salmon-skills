@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[bar-chart-generation-for-text-data|bar-chart-generation-for-text-data]]"
+learning-outcomes:
+  - "[[bar-chart-generation-for-text-data|bar-chart-generation-for-text-data]]"
 learning-time-in-minutes: 3
 ---
 # Bar Chart Generation for Text Data

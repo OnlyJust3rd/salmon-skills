@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/ftc-role-in-defining-new-functions|ftc-role-in-defining-new-functions]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/ftc-role-in-defining-new-functions|ftc-role-in-defining-new-functions]]"
 learning-time-in-minutes: 3
 ---
 # The FTC: Building New Functions from Areas

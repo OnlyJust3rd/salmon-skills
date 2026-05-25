@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in deleting Docker containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

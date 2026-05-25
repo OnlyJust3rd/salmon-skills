@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the structure and rules of IP addresses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

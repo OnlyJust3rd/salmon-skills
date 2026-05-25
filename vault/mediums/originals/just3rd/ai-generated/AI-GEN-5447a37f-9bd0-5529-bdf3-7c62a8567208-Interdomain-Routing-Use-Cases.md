@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interdomain-routing-use-cases|interdomain-routing-use-cases]]"
+learning-outcomes:
+  - "[[interdomain-routing-use-cases|interdomain-routing-use-cases]]"
 learning-time-in-minutes: 5
 ---
 # Interdomain Routing Use Cases

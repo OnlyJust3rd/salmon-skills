@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Describing the reasons and applications for using analysis techniques with IoT telemetry data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

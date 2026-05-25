@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/accessible-presentation|accessible-presentation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/accessible-presentation|accessible-presentation]]"
 learning-time-in-minutes: 6
 ---
 # Accessible Presentation: Making Content Readable and Understandable

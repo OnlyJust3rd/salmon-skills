@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithms/microskills/string-searching-concepts|string-searching-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithms/microskills/string-searching-concepts|string-searching-concepts]]"
 learning-time-in-minutes: 2
 ---
 # String Searching Concepts

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Appreciating the nuances of pseudocode versus flowcharts for conveying algorithmic logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

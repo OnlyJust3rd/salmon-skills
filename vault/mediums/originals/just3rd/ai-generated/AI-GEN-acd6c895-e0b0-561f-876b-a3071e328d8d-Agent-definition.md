@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[agent-definition|agent-definition]]"
+learning-outcomes:
+  - "[[agent-definition|agent-definition]]"
 learning-time-in-minutes: 4
 ---
 # The Agent: The Decision Maker in Reinforcement Learning

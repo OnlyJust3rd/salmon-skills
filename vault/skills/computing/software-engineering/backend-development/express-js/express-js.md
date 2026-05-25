@@ -38,3 +38,6 @@ Building HTTP application programming interfaces with Express.js: routers, middl
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/middleware-chain|Middleware chain]]
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/request-and-response-objects|Request and response objects]]
 - [[skills/computing/software-engineering/backend-development/express-js/microskills/router-configuration|Router configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

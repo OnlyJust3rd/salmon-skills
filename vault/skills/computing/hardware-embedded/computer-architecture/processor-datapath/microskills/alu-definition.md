@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the Arithmetic Logic Unit's function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

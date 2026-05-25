@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of addition, subtraction, multiplication, and division in binary.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Analyze the flow of execution and data exchange between parent and child process
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/parent-child-process-execution-flow|Parent-Child Process Execution Flow]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/inter-process-data-exchange-patterns|Inter-Process Data Exchange Patterns]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|System Call Process Interaction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

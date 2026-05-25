@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Uncovering and detailing customer challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

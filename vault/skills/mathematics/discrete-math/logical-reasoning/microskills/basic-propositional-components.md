@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of propositions, logical connectives, and their truth values.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -58,3 +58,6 @@ Designing custom Printed Circuit Boards (PCBs) for embedded system applications.
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/solder-mask-layer|Solder Mask Layer]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/trace-routing-strategy|Trace Routing Strategy]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/via-usage|Via Usage]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

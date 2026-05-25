@@ -42,3 +42,6 @@ Identify and list common user interface paradigms, including Command Line Interf
 - [[user-interface-paradigms|User Interface Paradigms]]
 - [[historical-ui-evolution|Historical UI Evolution]]
 - [[interface-characteristics|Interface Characteristics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

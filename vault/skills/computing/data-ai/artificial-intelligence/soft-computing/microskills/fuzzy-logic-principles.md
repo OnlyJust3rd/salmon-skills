@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the core principles underlying fuzzy logic.
+## Related Mediums
+
+![[bases/related-mediums.base]]

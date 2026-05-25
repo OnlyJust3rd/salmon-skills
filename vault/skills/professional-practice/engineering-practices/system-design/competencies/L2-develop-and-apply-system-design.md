@@ -47,3 +47,6 @@ Develop a basic system-level design (hardware and/or software) for a defined Com
 - [[skills/professional-practice/engineering-practices/system-design/microskills/system-level-design-creation|System-Level Design Creation]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/conceptual-architecture-development|Conceptual Architecture Development]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/problem-parameter-application-in-design|Problem Parameter Application in Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

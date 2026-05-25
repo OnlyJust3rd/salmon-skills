@@ -23,3 +23,7 @@ Required in:
 ## Description
 
 {{description}}
+
+## Related Mediums
+
+![[bases/related-mediums.base]]

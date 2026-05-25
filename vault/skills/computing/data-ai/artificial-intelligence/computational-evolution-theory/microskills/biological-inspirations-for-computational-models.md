@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of biological concepts that serve as models for computational evolution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -39,3 +39,6 @@ Identify the stage of the Build-Measure-Learn cycle where solution interviews an
 ## Microskills
 
 - [[skills/business/entrepreneurship/lean-startup/microskills/solution-validation-stage|Solution Validation Stage]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

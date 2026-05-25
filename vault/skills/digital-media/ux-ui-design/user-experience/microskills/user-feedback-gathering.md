@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Collecting insights through interviews and testing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

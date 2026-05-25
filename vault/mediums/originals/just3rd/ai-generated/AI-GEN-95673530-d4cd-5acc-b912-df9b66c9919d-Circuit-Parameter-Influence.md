@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/circuit-parameter-influence|circuit-parameter-influence]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/experimental-data-evaluation/microskills/circuit-parameter-influence|circuit-parameter-influence]]"
 learning-time-in-minutes: 5
 ---
 # Circuit Parameter Influence on Signal Distortion

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing transformed data to a target store.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -44,3 +44,6 @@ Define the key components of a structured technical report and communicate techn
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/technical-idea-communication|Technical Idea Communication]]
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/project-result-communication|Project Result Communication]]
 - [[skills/professional-practice/engineering-practices/technical-communication/microskills/visual-artifact-communication|Visual Artifact Communication]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

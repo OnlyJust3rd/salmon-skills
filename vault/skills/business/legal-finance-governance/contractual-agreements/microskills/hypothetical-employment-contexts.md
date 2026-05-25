@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of relevance within various professional employment scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

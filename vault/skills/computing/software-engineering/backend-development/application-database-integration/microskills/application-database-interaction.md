@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Managing data flow between the application and database tiers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

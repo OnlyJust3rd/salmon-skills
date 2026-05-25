@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of various standard communication interfaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

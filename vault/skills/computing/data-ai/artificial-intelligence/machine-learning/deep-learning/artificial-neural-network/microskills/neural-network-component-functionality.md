@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the role and purpose of each neural network component.
+## Related Mediums
+
+![[bases/related-mediums.base]]

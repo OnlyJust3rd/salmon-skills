@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding model-assisted interpretation of unfamiliar code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

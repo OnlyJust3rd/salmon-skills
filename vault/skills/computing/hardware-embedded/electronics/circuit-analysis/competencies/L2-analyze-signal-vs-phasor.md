@@ -42,3 +42,6 @@ Apply the conversion formula to transform given sinusoidal voltages and currents
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/sinusoidal-to-phasor-conversion|Sinusoidal to Phasor Conversion]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/phasor-amplitude-analysis|Phasor Amplitude Analysis]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/phasor-phase-analysis|Phasor Phase Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

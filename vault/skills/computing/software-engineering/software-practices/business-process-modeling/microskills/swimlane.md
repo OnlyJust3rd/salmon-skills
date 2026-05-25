@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Representing responsibility across participants.
+## Related Mediums
+
+![[bases/related-mediums.base]]

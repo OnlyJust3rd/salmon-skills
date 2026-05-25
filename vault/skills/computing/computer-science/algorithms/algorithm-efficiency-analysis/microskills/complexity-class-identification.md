@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 List and identify standard Big O complexity classes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

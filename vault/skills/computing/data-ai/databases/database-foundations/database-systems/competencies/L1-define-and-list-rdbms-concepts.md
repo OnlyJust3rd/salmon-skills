@@ -45,3 +45,6 @@ Define and list the core concepts and key components of relational databases and
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/rdbms-key-components|RDBMS Key Components]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/database-structure-tables-columns-rows|Database Structure: Tables, Columns, Rows]]
 - [[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/data-relationships|Data Relationships]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -51,3 +51,6 @@ Explain the principles behind discrete and distributed text representation metho
 - [[glove-principle|GloVe Principle]]
 - [[document-term-matrix-construction|Document-Term Matrix Construction]]
 - [[similarity-calculation-via-text-representations|Similarity Calculation via Text Representations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

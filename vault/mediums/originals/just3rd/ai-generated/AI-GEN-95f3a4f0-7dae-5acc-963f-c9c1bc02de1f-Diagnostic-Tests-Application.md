@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/diagnostic-tests-application|diagnostic-tests-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/laboratory-equipment-operation/microskills/diagnostic-tests-application|diagnostic-tests-application]]"
 learning-time-in-minutes: 6
 ---
 # Applying Diagnostic Tests to Electronic Circuits

@@ -38,3 +38,6 @@ Using OpenAI Codex for agentic software engineering tasks across app, editor, te
 - [[quality-gate|Quality Gate]]
 - [[review-assistance|Review Assistance]]
 - [[task-oriented-coding-agent|Task-Oriented Coding Agent]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

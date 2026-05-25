@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-design/microskills/player-engagement-impact|player-engagement-impact]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-design/microskills/player-engagement-impact|player-engagement-impact]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Pacing for Player Engagement

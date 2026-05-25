@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding restoring vs non-restoring division at a conceptual level.
+## Related Mediums
+
+![[bases/related-mediums.base]]

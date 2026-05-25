@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to define essential fields for Kubernetes Pods in YAML.
+## Related Mediums
+
+![[bases/related-mediums.base]]

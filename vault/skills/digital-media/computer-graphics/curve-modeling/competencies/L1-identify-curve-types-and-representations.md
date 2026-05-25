@@ -43,3 +43,6 @@ Identify common types of parametric curves and their representations, such as BÃ
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/parametric-curves|Parametric Curves]]
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/curve-representations|Curve Representations]]
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/bezier-curves|BÃ©zier Curves]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

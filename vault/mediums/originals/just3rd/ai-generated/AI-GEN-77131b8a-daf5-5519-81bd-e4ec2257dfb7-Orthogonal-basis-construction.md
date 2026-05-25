@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonal-basis-construction|orthogonal-basis-construction]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/subspaces-and-orthogonality/microskills/orthogonal-basis-construction|orthogonal-basis-construction]]"
 learning-time-in-minutes: 5
 ---
 # Constructing an Orthogonal Basis: The Gram-Schmidt Process

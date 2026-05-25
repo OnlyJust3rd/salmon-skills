@@ -61,3 +61,6 @@ Analyzing aperiodic signals in the frequency domain using Continuous-Time Fourie
 - [[magnitude-and-phase-spectra-computation|Magnitude and Phase Spectra Computation]]
 - [[magnitude-spectrum-interpretation|Magnitude Spectrum Interpretation]]
 - [[phase-spectrum-interpretation|Phase Spectrum Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the theoretical connection between the Mean Value Theorem and the instantaneous rate of change of a function.
+## Related Mediums
+
+![[bases/related-mediums.base]]

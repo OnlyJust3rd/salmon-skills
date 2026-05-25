@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the core principles and foundational concepts of the Internet of Things.
+## Related Mediums
+
+![[bases/related-mediums.base]]

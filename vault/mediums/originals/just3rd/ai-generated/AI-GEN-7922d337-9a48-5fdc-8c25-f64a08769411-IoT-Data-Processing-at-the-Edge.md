@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-data-processing-at-the-edge|iot-data-processing-at-the-edge]]"
+learning-outcomes:
+  - "[[iot-data-processing-at-the-edge|iot-data-processing-at-the-edge]]"
 learning-time-in-minutes: 5
 ---
 # IoT Data Processing at the Edge

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Use the tangent line to approximate function values near a point.
+## Related Mediums
+
+![[bases/related-mediums.base]]

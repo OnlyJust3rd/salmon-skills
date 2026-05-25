@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the practical implementation of ESG criteria within the business world.
+## Related Mediums
+
+![[bases/related-mediums.base]]

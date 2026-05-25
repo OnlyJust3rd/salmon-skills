@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using tags to enforce policies and manage resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

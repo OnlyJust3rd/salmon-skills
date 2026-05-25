@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[fuzzy-logic-controller-design|fuzzy-logic-controller-design]]"
+learning-outcomes:
+  - "[[fuzzy-logic-controller-design|fuzzy-logic-controller-design]]"
 learning-time-in-minutes: 2
 ---
 # Designing a Fuzzy Logic Controller for Robot Navigation

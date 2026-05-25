@@ -49,3 +49,6 @@ Apply Mesh/Nodal analysis, Superposition, Thévenin, and Norton theorems to solv
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/thevenin-theorem-application|Thévenin Theorem Application]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/norton-theorem-application|Norton Theorem Application]]
 - [[skills/computing/hardware-embedded/electronics/circuit-analysis/microskills/circuit-parameter-calculation|Circuit Parameter Calculation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

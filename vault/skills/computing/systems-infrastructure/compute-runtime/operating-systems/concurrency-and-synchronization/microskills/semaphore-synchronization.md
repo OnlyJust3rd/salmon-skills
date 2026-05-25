@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing semaphores for thread synchronization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

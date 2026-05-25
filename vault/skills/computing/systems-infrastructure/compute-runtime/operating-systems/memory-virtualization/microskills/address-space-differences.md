@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting the distinctions between physical and logical address spaces.
+## Related Mediums
+
+![[bases/related-mediums.base]]

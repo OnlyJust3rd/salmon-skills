@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[cloud-network-configuration|cloud-network-configuration]]"
+learning-outcomes:
+  - "[[cloud-network-configuration|cloud-network-configuration]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Virtual Private Cloud (VPC) Functionality

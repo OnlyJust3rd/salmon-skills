@@ -41,3 +41,6 @@ Demonstrate how a simple utility program interacts with the operating system to 
 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/utility-program-task-execution|Utility Program Task Execution]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/os-service-utilization-by-utilities|OS Service Utilization by Utilities]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

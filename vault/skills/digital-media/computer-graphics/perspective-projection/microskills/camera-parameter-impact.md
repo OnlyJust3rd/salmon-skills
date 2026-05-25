@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of how camera settings influence projection results.
+## Related Mediums
+
+![[bases/related-mediums.base]]

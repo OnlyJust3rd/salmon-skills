@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/access-control-characteristics|access-control-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/copyright-protection/microskills/access-control-characteristics|access-control-characteristics]]"
 learning-time-in-minutes: 3
 ---
 # Access Control Characteristics for Copyright Protection

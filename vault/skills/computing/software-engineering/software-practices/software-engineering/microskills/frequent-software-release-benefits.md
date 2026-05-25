@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Appreciation for rapid delivery cycles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

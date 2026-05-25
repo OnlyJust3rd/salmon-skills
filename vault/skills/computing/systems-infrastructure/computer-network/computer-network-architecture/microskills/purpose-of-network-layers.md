@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to articulate the fundamental purpose of each network layer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/subbytes-functionality|subbytes-functionality]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/subbytes-functionality|subbytes-functionality]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the SubBytes Functionality

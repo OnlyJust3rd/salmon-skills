@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How solution interviews confirm hypotheses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

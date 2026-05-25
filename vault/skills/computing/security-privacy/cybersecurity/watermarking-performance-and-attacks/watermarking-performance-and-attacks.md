@@ -94,3 +94,6 @@ Evaluating the inherent trade-offs in watermarking (imperceptibility vs. robustn
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-design-significance|Watermarking Design Significance]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-effectiveness-judgment|Watermarking Effectiveness Judgment]]
 - [[skills/computing/security-privacy/cybersecurity/watermarking-performance-and-attacks/microskills/watermarking-performance-metric-application|Watermarking Performance Metric Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

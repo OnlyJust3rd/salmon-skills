@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/noise-interference-effects|noise-interference-effects]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/noise-interference-effects|noise-interference-effects]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Noise Interference Effects on Circuits

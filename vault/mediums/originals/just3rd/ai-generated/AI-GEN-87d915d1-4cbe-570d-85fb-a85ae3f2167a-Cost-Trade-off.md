@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/cost-trade-off|cost-trade-off]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/lakehouse-architecture/microskills/cost-trade-off|cost-trade-off]]"
 learning-time-in-minutes: 5
 ---
 # Cost Trade-offs: Lakehouse vs. Data Warehouse

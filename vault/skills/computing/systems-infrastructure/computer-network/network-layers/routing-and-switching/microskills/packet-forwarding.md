@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how routers use IP destinations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

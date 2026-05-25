@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of Euler's Phi function to solve cryptographic problems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

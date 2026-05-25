@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/feedback-driven-design-refinement|feedback-driven-design-refinement]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/feedback-driven-design-refinement|feedback-driven-design-refinement]]"
 learning-time-in-minutes: 5
 ---
 # Feedback-Driven Design Refinement

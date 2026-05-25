@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the purpose and interplay of rules, goals, and core actions within a game.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Setting the voltage reference for analog measurements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

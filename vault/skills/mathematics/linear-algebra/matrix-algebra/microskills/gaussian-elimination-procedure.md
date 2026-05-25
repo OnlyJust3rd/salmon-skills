@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Step-by-step understanding of row operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

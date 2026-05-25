@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-definition|euclidean-algorithm-definition]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/euclidean-algorithm-definition|euclidean-algorithm-definition]]"
 learning-time-in-minutes: 3
 ---
 # Euclidean Algorithm: The Foundation of Finding Common Ground

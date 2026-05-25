@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[robotic-system-assembly|robotic-system-assembly]]"
+learning-outcomes:
+  - "[[robotic-system-assembly|robotic-system-assembly]]"
 learning-time-in-minutes: 5
 ---
 # Robotic System Assembly: Building Your First Robot

@@ -47,3 +47,6 @@ Identify and illustrate examples of Symmetric Multiprocessing (SMP), Multi-core 
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/massively-parallel-processing-mpp-system-identification|Massively Parallel Processing (MPP) System Identification]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/cluster-computing-identification|Cluster Computing Identification]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-architecture/microskills/specialized-vector-processor-identification|Specialized Vector Processor Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

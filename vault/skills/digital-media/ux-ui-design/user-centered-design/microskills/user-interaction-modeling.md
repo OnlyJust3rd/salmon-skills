@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of techniques like personas and scenarios to model user interactions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

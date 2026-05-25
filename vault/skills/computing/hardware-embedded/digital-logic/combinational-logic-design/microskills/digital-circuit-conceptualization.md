@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to conceptualize digital circuit models from problem statements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

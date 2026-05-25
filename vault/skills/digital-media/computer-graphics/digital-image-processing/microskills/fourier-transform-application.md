@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of the Fourier Transform on digital images.
+## Related Mediums
+
+![[bases/related-mediums.base]]

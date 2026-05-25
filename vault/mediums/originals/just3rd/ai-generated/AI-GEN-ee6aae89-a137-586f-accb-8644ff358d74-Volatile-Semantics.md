@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[volatile-semantics|volatile-semantics]]"
+learning-outcomes:
+  - "[[volatile-semantics|volatile-semantics]]"
 learning-time-in-minutes: 3
 ---
 # Volatile Semantics in Bare-Metal C

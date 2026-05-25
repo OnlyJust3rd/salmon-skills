@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-focused-design|usability-focused-design]]"
+learning-outcomes:
+  - "[[usability-focused-design|usability-focused-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing for Usability: Making Interfaces Easy to Use

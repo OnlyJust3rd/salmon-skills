@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of One-Hot encoding for numerical text representation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

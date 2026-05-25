@@ -90,3 +90,6 @@ Understanding the fundamental concepts, ecosystem, application domains, and laye
 - [[key-iot-technologies|Key IoT Technologies]]
 - [[low-code-platform-usage|Low-Code Platform Usage]]
 - [[role-of-embedded-systems-in-iot|Role of Embedded Systems in IoT]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

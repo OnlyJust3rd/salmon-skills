@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/codebase-search|codebase-search]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/cursor/microskills/codebase-search|codebase-search]]"
 learning-time-in-minutes: 3
 ---
 # Mastering Codebase Search with Cursor

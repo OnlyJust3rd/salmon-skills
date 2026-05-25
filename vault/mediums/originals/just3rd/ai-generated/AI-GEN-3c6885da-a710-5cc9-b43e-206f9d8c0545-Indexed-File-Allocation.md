@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[indexed-file-allocation|indexed-file-allocation]]"
+learning-outcomes:
+  - "[[indexed-file-allocation|indexed-file-allocation]]"
 learning-time-in-minutes: 5
 ---
 # Indexed File Allocation: Understanding the Index

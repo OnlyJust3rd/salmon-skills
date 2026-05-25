@@ -66,3 +66,6 @@ Apply theorems of calculus, including those for continuous and differentiable fu
 - [[mean-value-theorem-application-in-problem-solving|Mean Value Theorem application in problem-solving]]
 - [[rolle-s-theorem-applicability-conditions|Rolle's Theorem applicability conditions]]
 - [[theorems-for-continuous-functions|Theorems for continuous functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

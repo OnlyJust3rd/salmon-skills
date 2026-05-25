@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding interactive navigation between frames.
+## Related Mediums
+
+![[bases/related-mediums.base]]

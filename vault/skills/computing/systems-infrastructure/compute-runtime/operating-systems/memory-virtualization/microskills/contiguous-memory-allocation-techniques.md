@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing common methods for contiguous memory allocation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

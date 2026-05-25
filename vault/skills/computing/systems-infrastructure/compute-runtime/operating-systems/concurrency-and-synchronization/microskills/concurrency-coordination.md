@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how primitives coordinate concurrent processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

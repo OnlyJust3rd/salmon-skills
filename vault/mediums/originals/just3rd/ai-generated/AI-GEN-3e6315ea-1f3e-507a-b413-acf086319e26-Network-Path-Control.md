@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-path-control|network-path-control]]"
+learning-outcomes:
+  - "[[network-path-control|network-path-control]]"
 learning-time-in-minutes: 5
 ---
 # Network Path Control with Static Routing

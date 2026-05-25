@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating a composed screen from widgets.
+## Related Mediums
+
+![[bases/related-mediums.base]]

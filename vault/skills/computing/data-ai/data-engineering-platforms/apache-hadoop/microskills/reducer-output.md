@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Aggregating intermediate data into final batch results.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-application-deployment|kubernetes-application-deployment]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-application-deployment|kubernetes-application-deployment]]"
 learning-time-in-minutes: 4
 ---
 # Deploying Applications with Helm: A Practical Guide

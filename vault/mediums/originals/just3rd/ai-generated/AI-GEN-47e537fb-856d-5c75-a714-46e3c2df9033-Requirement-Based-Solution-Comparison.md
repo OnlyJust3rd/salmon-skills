@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/requirement-based-solution-comparison|requirement-based-solution-comparison]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/requirement-based-solution-comparison|requirement-based-solution-comparison]]"
 learning-time-in-minutes: 6
 ---
 # Requirement-Based Solution Comparison

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the success or failure of storytelling approaches in fostering emotional engagement.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the role and operational principles of GPIO pins.
+## Related Mediums
+
+![[bases/related-mediums.base]]

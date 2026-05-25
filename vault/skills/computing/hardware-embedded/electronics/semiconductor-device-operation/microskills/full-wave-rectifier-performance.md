@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of how well a full-wave rectifier converts AC to DC.
+## Related Mediums
+
+![[bases/related-mediums.base]]

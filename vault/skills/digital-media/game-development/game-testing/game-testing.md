@@ -38,3 +38,6 @@ Understanding playtesting, bug reproduction, regression testing, compatibility c
 - [[skills/digital-media/game-development/game-testing/microskills/playtest|Playtest]]
 - [[skills/digital-media/game-development/game-testing/microskills/regression-check|Regression Check]]
 - [[skills/digital-media/game-development/game-testing/microskills/reproduction-step|Reproduction Step]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

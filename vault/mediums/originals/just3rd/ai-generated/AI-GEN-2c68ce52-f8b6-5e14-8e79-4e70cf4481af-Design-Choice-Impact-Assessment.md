@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/design-choice-impact-assessment|design-choice-impact-assessment]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/design-choice-impact-assessment|design-choice-impact-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing the Impact of Object-Oriented Design Choices

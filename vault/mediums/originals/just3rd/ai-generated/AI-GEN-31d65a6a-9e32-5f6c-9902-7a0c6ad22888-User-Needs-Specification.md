@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-needs-specification|user-needs-specification]]"
+learning-outcomes:
+  - "[[user-needs-specification|user-needs-specification]]"
 learning-time-in-minutes: 5
 ---
 # Documenting User Needs: A Practical Guide

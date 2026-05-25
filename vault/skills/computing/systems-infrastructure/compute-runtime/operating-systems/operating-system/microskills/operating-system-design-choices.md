@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing specific design decisions within operating systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

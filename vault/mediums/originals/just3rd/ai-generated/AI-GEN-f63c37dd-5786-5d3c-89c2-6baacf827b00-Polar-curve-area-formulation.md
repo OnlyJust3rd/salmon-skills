@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-curve-area-formulation|polar-curve-area-formulation]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/polar-coordinate-systems/microskills/polar-curve-area-formulation|polar-curve-area-formulation]]"
 learning-time-in-minutes: 6
 ---
 # Formulating Integrals for Polar Area

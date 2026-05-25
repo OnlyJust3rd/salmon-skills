@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the basic operation of locks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

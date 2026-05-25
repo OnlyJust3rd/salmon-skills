@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing features of watermarks in the frequency domain.
+## Related Mediums
+
+![[bases/related-mediums.base]]

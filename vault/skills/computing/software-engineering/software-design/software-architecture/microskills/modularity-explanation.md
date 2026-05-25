@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining why breaking systems into modules is beneficial.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capacity to represent computational steps and logic using flowchart diagrams.
+## Related Mediums
+
+![[bases/related-mediums.base]]

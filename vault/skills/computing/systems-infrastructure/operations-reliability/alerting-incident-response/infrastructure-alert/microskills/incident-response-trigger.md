@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how alerts initiate troubleshooting and resolution processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

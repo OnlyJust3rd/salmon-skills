@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting access control rules using packet filtering principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

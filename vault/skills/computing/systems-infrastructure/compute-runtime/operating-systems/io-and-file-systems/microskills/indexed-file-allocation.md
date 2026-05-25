@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the indexed method of file allocation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

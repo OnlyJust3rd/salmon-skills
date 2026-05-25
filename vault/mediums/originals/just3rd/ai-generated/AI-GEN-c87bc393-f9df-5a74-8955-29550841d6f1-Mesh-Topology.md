@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/3d-asset-pipeline/microskills/mesh-topology|mesh-topology]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/3d-asset-pipeline/microskills/mesh-topology|mesh-topology]]"
 learning-time-in-minutes: 5
 ---
 # Mesh Topology: The Foundation of 3D Models

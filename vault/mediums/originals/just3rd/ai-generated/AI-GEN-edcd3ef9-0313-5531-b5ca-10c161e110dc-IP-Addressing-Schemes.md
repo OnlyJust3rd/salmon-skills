@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[ip-addressing-schemes|ip-addressing-schemes]]"
+learning-outcomes:
+  - "[[ip-addressing-schemes|ip-addressing-schemes]]"
 learning-time-in-minutes: 4
 ---
 # Understanding IP Addressing Schemes

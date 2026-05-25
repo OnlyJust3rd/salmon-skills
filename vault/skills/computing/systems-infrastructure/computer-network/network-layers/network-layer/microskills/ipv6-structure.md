@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 The fundamental architecture of IPv6.
+## Related Mediums
+
+![[bases/related-mediums.base]]

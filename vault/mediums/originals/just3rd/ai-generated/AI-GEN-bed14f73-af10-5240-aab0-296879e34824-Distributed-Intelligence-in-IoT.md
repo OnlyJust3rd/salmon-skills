@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[distributed-intelligence-in-iot|distributed-intelligence-in-iot]]"
+learning-outcomes:
+  - "[[distributed-intelligence-in-iot|distributed-intelligence-in-iot]]"
 learning-time-in-minutes: 5
 ---
 # Distributed Intelligence in IoT

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[vi-editor-operations|vi-editor-operations]]"
+learning-outcomes:
+  - "[[vi-editor-operations|vi-editor-operations]]"
 learning-time-in-minutes: 4
 ---
 # Mastering Vi for Text File Editing in Linux

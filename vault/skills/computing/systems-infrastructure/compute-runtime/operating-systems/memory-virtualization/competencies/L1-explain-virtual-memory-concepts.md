@@ -51,3 +51,6 @@ Explain how the operating system creates the illusion of large virtual memory us
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/backing-storage-role|Backing Storage Role]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/page-fault-handling-process|Page Fault Handling Process]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/memory-virtualization/microskills/page-replacement-algorithms|Page Replacement Algorithms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

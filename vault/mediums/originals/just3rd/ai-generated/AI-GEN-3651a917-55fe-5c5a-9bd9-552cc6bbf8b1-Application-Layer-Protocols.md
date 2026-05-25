@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[application-layer-protocols|application-layer-protocols]]"
+learning-outcomes:
+  - "[[application-layer-protocols|application-layer-protocols]]"
 learning-time-in-minutes: 3
 ---
 # Application Layer Protocols: The Internet's Language

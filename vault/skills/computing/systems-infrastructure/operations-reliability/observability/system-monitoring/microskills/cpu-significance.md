@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how CPU load impacts system performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

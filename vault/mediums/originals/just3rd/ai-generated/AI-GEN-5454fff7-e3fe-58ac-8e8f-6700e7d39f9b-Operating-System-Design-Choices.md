@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-design-choices|operating-system-design-choices]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/microskills/operating-system-design-choices|operating-system-design-choices]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Operating System Design Choices

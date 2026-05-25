@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/subspace-conditions|subspace-conditions]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/subspace-conditions|subspace-conditions]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Subspaces: The Crucial Conditions

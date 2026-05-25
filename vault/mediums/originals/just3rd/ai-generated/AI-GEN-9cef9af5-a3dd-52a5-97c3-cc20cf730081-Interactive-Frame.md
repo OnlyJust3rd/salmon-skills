@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interactive-frame|interactive-frame]]"
+learning-outcomes:
+  - "[[interactive-frame|interactive-frame]]"
 learning-time-in-minutes: 6
 ---
 # Interactive Frames in Figma: Connecting Your Designs

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Refining the MVP based on user input.
+## Related Mediums
+
+![[bases/related-mediums.base]]

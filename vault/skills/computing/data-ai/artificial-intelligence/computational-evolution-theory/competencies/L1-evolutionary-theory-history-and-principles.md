@@ -53,3 +53,6 @@ Explain the historical development and core principles of evolutionary theory, i
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/core-principles-of-evolutionary-theory|Core Principles of Evolutionary Theory]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/darwinian-evolution-concepts|Darwinian Evolution Concepts]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/relevance-to-computational-evolution|Relevance to Computational Evolution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

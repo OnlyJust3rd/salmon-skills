@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of relationships between compressed data size and accuracy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

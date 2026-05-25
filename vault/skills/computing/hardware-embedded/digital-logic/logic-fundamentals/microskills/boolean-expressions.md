@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Association of Boolean expressions with logic gates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

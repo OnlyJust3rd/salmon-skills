@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[link-layer-data-encapsulation|link-layer-data-encapsulation]]"
+learning-outcomes:
+  - "[[link-layer-data-encapsulation|link-layer-data-encapsulation]]"
 learning-time-in-minutes: 3
 ---
 # Framing: Building Blocks for Data Link Communication

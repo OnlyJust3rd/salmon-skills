@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-ah-cryptography-role|ipsec-ah-cryptography-role]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/ipsec-ah-cryptography-role|ipsec-ah-cryptography-role]]"
 learning-time-in-minutes: 3
 ---
 # Understanding IPSec Authentication Header (AH) Cryptography Role

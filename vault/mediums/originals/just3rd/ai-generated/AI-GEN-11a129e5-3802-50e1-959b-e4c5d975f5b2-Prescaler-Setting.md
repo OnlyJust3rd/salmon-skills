@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[prescaler-setting|prescaler-setting]]"
+learning-outcomes:
+  - "[[prescaler-setting|prescaler-setting]]"
 learning-time-in-minutes: 7
 ---
 # AVR Timer Prescaler Settings

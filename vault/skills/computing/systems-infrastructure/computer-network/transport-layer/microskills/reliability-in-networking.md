@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Grasping the importance and implementation of reliable communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

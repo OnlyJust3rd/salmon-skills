@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of key historical events and advancements in the development of High-Performance Computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

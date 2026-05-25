@@ -65,3 +65,6 @@ List and describe the role of applied cryptography within network protocols such
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/pgp-cryptography-role|PGP Cryptography Role]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/kerberos-cryptography-role|Kerberos Cryptography Role]]
 - [[skills/computing/security-privacy/cybersecurity/applied-cryptography/microskills/cryptography-application-at-osi-layers|Cryptography Application at OSI Layers]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

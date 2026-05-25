@@ -47,3 +47,6 @@ Apply condition variables and semaphores to solve the Producer/Consumer bounded-
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/condition-variable-synchronization|Condition Variable Synchronization]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/semaphore-synchronization|Semaphore Synchronization]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/bounded-buffer-problem-implementation|Bounded-Buffer Problem Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

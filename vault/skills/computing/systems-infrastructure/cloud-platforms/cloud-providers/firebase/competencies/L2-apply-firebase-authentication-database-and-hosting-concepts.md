@@ -47,3 +47,6 @@ Apply Firebase authentication, database, and hosting concepts.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/client-sdk-integration|Client SDK Integration]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/authentication-flow|Authentication Flow]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/hosted-application-deployment|Hosted Application Deployment]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

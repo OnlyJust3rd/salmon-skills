@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-stage-analysis|encryption-stage-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/encryption-stage-analysis|encryption-stage-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Encryption Stage Analysis: Where Does Encryption Fit?

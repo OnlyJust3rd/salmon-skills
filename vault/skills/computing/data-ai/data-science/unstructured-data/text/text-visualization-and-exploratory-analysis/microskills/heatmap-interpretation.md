@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition and understanding of heatmaps as a text visualization tool.
+## Related Mediums
+
+![[bases/related-mediums.base]]

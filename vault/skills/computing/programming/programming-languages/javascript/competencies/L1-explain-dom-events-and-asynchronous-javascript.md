@@ -45,3 +45,6 @@ Explain the document object model, events, callbacks, promises, and async patter
 - [[skills/computing/programming/programming-languages/javascript/microskills/dom-queries-and-updates|DOM queries and updates]]
 - [[skills/computing/programming/programming-languages/javascript/microskills/event-registration|Event registration]]
 - [[skills/computing/programming/programming-languages/javascript/microskills/promises-and-async-functions|Promises and async functions]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

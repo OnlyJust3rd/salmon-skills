@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Utilizing LSA and LDA to extract themes from text collections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

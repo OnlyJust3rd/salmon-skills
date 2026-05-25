@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[hardware-software-integration-for-robotics|hardware-software-integration-for-robotics]]"
+learning-outcomes:
+  - "[[hardware-software-integration-for-robotics|hardware-software-integration-for-robotics]]"
 learning-time-in-minutes: 4
 ---
 # Hardware-Software Integration for Robotics

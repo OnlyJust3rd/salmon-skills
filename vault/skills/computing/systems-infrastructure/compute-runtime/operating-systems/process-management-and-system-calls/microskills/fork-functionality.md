@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the duplication of processes via the fork() system call.
+## Related Mediums
+
+![[bases/related-mediums.base]]

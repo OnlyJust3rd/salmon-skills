@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/source-code-separation|source-code-separation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/secrets-management/microskills/source-code-separation|source-code-separation]]"
 learning-time-in-minutes: 4
 ---
 # Keeping Secrets Out of Source Code

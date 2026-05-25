@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how pixels contribute to forming a digital image.
+## Related Mediums
+
+![[bases/related-mediums.base]]

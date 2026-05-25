@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using general algorithmic knowledge to inform practical implementations, such as genetic algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

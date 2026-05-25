@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/player-psychology/microskills/motivation-drivers|motivation-drivers]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/player-psychology/microskills/motivation-drivers|motivation-drivers]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Motivation Drivers in Player Psychology

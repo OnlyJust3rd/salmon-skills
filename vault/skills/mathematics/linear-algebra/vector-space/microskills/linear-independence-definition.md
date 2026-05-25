@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the criteria for a set of vectors to be linearly independent.
+## Related Mediums
+
+![[bases/related-mediums.base]]

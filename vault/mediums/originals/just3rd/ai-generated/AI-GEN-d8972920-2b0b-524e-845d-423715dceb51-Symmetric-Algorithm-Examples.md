@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-algorithm-examples|symmetric-algorithm-examples]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-algorithm-examples|symmetric-algorithm-examples]]"
 learning-time-in-minutes: 3
 ---
 # Symmetric Algorithm Examples

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examining how congestion control affects data transfer rates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

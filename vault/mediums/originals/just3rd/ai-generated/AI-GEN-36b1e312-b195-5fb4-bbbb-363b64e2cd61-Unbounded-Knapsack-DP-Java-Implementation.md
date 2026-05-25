@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[unbounded-knapsack-dp-java-implementation|unbounded-knapsack-dp-java-implementation]]"
+learning-outcomes:
+  - "[[unbounded-knapsack-dp-java-implementation|unbounded-knapsack-dp-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Unbounded Knapsack DP in Java

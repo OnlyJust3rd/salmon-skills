@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical use of GloVe for creating distributed text representations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

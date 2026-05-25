@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Engaging the audience with a narrative.
+## Related Mediums
+
+![[bases/related-mediums.base]]

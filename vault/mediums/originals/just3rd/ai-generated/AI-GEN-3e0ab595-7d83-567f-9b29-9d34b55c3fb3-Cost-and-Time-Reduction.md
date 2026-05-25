@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/cost-and-time-reduction|cost-and-time-reduction]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/microskills/cost-and-time-reduction|cost-and-time-reduction]]"
 learning-time-in-minutes: 4
 ---
 # Simulating Your Way to Success: Reducing Cost and Time

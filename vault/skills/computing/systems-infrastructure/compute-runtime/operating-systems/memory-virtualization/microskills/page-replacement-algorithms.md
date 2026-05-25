@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding various page replacement algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

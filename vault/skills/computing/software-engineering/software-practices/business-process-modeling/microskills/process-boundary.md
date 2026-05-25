@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding where a process starts and ends.
+## Related Mediums
+
+![[bases/related-mediums.base]]

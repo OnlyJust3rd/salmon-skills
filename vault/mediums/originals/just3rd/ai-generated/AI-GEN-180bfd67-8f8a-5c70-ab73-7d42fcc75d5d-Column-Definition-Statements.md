@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/column-definition-statements|column-definition-statements]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/relational-databases/mysql/microskills/column-definition-statements|column-definition-statements]]"
 learning-time-in-minutes: 4
 ---
 # Defining Table Columns with SQL DDL

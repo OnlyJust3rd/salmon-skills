@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modularity-impact|modularity-impact]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/modularity-impact|modularity-impact]]"
 learning-time-in-minutes: 5
 ---
 # The Impact of Modularity on System Design

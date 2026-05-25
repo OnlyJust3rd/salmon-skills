@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of the fundamental principles behind computer arithmetic operations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -51,3 +51,6 @@ Explain the construction, purpose, and key properties of Message Authentication 
 - [[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hash-based-mac-hmac-construction|Hash-based MAC (HMAC) Construction]]
 - [[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hmac-purpose|HMAC Purpose]]
 - [[skills/computing/security-privacy/cybersecurity/message-integrity-mechanisms/microskills/hmac-properties|HMAC Properties]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

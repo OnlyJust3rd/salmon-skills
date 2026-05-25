@@ -43,3 +43,6 @@ Demonstrate the application of a simple digital ciphering technique to a given s
 
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/digital-ciphering-process-steps|Digital Ciphering Process Steps]]
 - [[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/hypothetical-speech-signal-ciphering|Hypothetical Speech Signal Ciphering]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing specific industries where computing methodologies are applied.
+## Related Mediums
+
+![[bases/related-mediums.base]]

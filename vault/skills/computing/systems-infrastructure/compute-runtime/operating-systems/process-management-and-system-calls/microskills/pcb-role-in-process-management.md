@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examining how each element of the PCB contributes to process management.
+## Related Mediums
+
+![[bases/related-mediums.base]]

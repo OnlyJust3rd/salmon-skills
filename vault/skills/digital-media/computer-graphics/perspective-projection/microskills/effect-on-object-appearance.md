@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how foreshortening alters the visual representation of objects.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -45,3 +45,6 @@ Define the terms 'world coordinates', 'view coordinates', 'window', and 'viewpor
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/view-coordinates|View Coordinates]]
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/window-definition|Window Definition]]
 - [[skills/digital-media/computer-graphics/viewing-and-clipping/microskills/viewport-definition|Viewport Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

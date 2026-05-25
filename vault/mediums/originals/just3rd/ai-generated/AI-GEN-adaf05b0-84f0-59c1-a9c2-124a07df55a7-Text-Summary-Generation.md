@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-summary-generation|text-summary-generation]]"
+learning-outcomes:
+  - "[[text-summary-generation|text-summary-generation]]"
 learning-time-in-minutes: 4
 ---
 # Generating Text Summaries

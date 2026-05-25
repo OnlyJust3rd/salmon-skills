@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[java-constructors|java-constructors]]"
+learning-outcomes:
+  - "[[java-constructors|java-constructors]]"
 learning-time-in-minutes: 3
 ---
 # Java Constructors: The Class's Special Method

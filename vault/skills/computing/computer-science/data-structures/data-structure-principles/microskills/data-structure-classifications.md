@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identify linear and non-linear data structure classifications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

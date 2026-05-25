@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding human responsibility for reviewing AI output.
+## Related Mediums
+
+![[bases/related-mediums.base]]

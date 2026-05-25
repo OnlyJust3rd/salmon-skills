@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[control-flow-implementation-in-c|control-flow-implementation-in-c]]"
+learning-outcomes:
+  - "[[control-flow-implementation-in-c|control-flow-implementation-in-c]]"
 learning-time-in-minutes: 2
 ---
 # Control Flow Implementation in C

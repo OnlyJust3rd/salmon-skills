@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-testing/microskills/reproduction-step|reproduction-step]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-testing/microskills/reproduction-step|reproduction-step]]"
 learning-time-in-minutes: 5
 ---
 # Reproduction Steps: The Detective Work of Game Bugs

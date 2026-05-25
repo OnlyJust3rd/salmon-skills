@@ -45,3 +45,6 @@ Analyze common hardware communication interfaces (PCI/USB/SPI/I2C/CAN/RS-232/422
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/peripheral-bus-interface-survey|Peripheral Bus Interface Survey]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/embedded-serial-buses|Embedded Serial Buses]]
 - [[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/industrial-automotive-interfaces|Industrial/Automotive Interfaces]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

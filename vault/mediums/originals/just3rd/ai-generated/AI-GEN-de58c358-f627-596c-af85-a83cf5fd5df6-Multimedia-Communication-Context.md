@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/multimedia-communication-context|multimedia-communication-context]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/selective-encryption/microskills/multimedia-communication-context|multimedia-communication-context]]"
 learning-time-in-minutes: 5
 ---
 # Multimedia Communication Context for Selective Encryption

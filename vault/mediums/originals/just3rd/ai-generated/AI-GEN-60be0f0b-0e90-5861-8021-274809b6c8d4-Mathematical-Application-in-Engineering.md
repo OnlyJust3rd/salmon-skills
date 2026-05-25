@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/mathematical-application-in-engineering|mathematical-application-in-engineering]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-principle-application/microskills/mathematical-application-in-engineering|mathematical-application-in-engineering]]"
 learning-time-in-minutes: 4
 ---
 # Applying Mathematical Principles in Engineering

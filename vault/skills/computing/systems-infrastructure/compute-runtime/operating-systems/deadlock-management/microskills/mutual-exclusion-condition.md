@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the mutual exclusion condition for deadlock.
+## Related Mediums
+
+![[bases/related-mediums.base]]

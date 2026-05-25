@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Fundamental concepts of branch and bound techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

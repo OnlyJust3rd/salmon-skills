@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[external-interrupt-configuration|external-interrupt-configuration]]"
+learning-outcomes:
+  - "[[external-interrupt-configuration|external-interrupt-configuration]]"
 learning-time-in-minutes: 5
 ---
 # External Interrupt Configuration for AVR Microcontrollers

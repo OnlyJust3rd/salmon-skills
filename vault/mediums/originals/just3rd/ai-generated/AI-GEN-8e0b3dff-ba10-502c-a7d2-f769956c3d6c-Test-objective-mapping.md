@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-objective-mapping|test-objective-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/program-testing/microskills/test-objective-mapping|test-objective-mapping]]"
 learning-time-in-minutes: 5
 ---
 # Mapping Testing Objectives to Program Behavior

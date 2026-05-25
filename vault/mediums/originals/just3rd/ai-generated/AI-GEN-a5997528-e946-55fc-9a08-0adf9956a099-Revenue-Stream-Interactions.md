@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/business-model-design/microskills/revenue-stream-interactions|revenue-stream-interactions]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/business-model-design/microskills/revenue-stream-interactions|revenue-stream-interactions]]"
 learning-time-in-minutes: 4
 ---
 # Revenue Stream Interactions

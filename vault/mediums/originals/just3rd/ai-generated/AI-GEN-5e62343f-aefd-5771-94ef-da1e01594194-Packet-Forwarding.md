@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[packet-forwarding|packet-forwarding]]"
+learning-outcomes:
+  - "[[packet-forwarding|packet-forwarding]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Packet Forwarding: How Routers Use IP Destinations

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/component-interaction-design-principles|component-interaction-design-principles]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/component-interaction-design-principles|component-interaction-design-principles]]"
 learning-time-in-minutes: 5
 ---
 # Component Interaction Design Principles

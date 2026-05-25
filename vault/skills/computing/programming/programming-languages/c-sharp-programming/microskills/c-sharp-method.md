@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Writing reusable behavior units.
+## Related Mediums
+
+![[bases/related-mediums.base]]

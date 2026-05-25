@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Using encryption controls for data at rest or in transit.
+## Related Mediums
+
+![[bases/related-mediums.base]]

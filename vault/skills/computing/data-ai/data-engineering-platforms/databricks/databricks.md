@@ -38,3 +38,6 @@ Using Databricks concepts for managed Spark, notebooks, lakehouse tables, collab
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/notebook-workflow|Notebook Workflow]]
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/scheduled-job|Scheduled Job]]
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/workspace|Workspace]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

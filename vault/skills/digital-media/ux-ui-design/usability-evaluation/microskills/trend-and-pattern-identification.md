@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying trends and patterns within usability evaluation results.
+## Related Mediums
+
+![[bases/related-mediums.base]]

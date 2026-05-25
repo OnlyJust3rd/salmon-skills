@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in applying various visualization types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

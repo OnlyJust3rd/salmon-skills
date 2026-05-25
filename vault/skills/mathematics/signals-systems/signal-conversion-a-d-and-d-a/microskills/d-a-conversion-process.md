@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how binary codes are converted to proportional analog voltages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

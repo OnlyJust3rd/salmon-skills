@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Delivering a thorough overview of the team project's components and outcomes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -59,3 +59,6 @@ Evaluate architectural decisions for cloud infrastructure, including regions, av
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-provisioning-types|Storage Provisioning Types]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-trade-offs|Storage Trade-offs]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-type-selection|Storage Type Selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[workspace-awareness-principles|workspace-awareness-principles]]"
+learning-outcomes:
+  - "[[workspace-awareness-principles|workspace-awareness-principles]]"
 learning-time-in-minutes: 3
 ---
 # Workspace Awareness Principles in Conversational Technologies

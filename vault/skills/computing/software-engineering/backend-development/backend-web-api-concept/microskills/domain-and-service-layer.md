@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explain where business rules live relative to HTTP adapters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

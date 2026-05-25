@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/disk-i-o-significance|disk-i-o-significance]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/disk-i-o-significance|disk-i-o-significance]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Disk I/O Significance

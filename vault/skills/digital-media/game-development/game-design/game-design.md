@@ -82,3 +82,6 @@ Analyze and define core game design concepts, including rules, mechanics, object
 - [[skills/digital-media/game-development/game-design/microskills/rules-objectives-and-mechanics|Rules, Objectives, and Mechanics]]
 - [[skills/digital-media/game-development/game-design/microskills/simple-mechanic-creation|Simple Mechanic Creation]]
 - [[skills/digital-media/game-development/game-design/microskills/strategic-element-placement|Strategic Element Placement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

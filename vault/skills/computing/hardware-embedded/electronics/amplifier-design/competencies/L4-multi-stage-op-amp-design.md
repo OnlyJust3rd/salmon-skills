@@ -43,3 +43,6 @@ Design multi-stage Operational Amplifier circuits to achieve specific amplificat
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/multi-stage-op-amp-circuit-design|Multi-Stage Op-Amp Circuit Design]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-implementation|Signal Inversion Requirement Implementation]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/performance-criteria-integration|Performance Criteria Integration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

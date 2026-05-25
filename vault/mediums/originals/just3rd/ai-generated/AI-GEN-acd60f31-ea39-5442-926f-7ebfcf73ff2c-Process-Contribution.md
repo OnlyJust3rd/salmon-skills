@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-science/data-science/microskills/process-contribution|process-contribution]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-science/data-science/microskills/process-contribution|process-contribution]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Contribution of Each Data Science Stage

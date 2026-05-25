@@ -51,3 +51,6 @@ Implement a simple processor design using an emulator.
 
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/emulator-tool-utilization|Emulator Tool Utilization]]
 - [[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-design-translation|Processor Design Translation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding SAP functional areas such as FI, MM, SD, or PP.
+## Related Mediums
+
+![[bases/related-mediums.base]]

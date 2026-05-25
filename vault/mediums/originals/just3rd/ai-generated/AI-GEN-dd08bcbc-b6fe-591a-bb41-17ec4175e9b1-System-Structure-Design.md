@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/system-structure-design|system-structure-design]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/system-structure-design|system-structure-design]]"
 learning-time-in-minutes: 5
 ---
 # Designing Software Modules with Clear Responsibilities

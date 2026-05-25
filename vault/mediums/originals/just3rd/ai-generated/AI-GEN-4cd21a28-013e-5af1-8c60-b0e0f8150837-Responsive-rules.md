@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/css/microskills/responsive-rules|responsive-rules]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/css/microskills/responsive-rules|responsive-rules]]"
 learning-time-in-minutes: 2
 ---
 # Responsive Rules with Media Queries

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[client-server-architecture|client-server-architecture]]"
+learning-outcomes:
+  - "[[client-server-architecture|client-server-architecture]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Client-Server Architecture in Socket Programming

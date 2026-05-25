@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interface-review|interface-review]]"
+learning-outcomes:
+  - "[[interface-review|interface-review]]"
 learning-time-in-minutes: 5
 ---
 # Interface Review: Applying Usability Principles

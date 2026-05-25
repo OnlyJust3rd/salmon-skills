@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Recognizing durable domain objects that should be modeled as entities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

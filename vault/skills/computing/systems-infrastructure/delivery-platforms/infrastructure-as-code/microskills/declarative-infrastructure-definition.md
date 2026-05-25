@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to define infrastructure as a desired state.
+## Related Mediums
+
+![[bases/related-mediums.base]]

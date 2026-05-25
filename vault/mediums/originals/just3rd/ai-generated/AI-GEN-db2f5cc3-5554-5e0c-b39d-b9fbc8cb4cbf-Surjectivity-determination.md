@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/linear-transformations/microskills/surjectivity-determination|surjectivity-determination]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/linear-transformations/microskills/surjectivity-determination|surjectivity-determination]]"
 learning-time-in-minutes: 5
 ---
 # Determining Surjectivity using the Range

@@ -38,3 +38,6 @@ Modeling smooth curves using parametric representations including Bézier curves
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/parametric-curve-definition|Parametric Curve Definition]]
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/parametric-curves|Parametric Curves]]
 - [[skills/digital-media/computer-graphics/curve-modeling/microskills/smooth-curve-modeling|Smooth Curve Modeling]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

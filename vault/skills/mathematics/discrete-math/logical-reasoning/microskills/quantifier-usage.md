@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of universal and existential quantifiers in logical statements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

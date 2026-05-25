@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Design of a processor with built-in input/output interfacing capabilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

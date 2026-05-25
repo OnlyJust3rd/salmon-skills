@@ -45,3 +45,6 @@ Understand the principles and functions of microcontrollers, SBCs, and GPIO for 
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/sbc-hardware-components|SBC Hardware Components]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/gpio-pin-functionality|GPIO Pin Functionality]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/embedded-system-communication-interfaces|Embedded System Communication Interfaces]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

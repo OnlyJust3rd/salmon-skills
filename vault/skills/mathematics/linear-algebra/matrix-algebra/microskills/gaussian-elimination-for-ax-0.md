@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying row operations to solve homogeneous systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

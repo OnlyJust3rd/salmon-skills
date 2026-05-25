@@ -40,3 +40,6 @@ Define computational problem solving and key concepts such as inputs, outputs, c
 
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/problem-specification|Problem Specification]]
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/microskills/correctness-concept|Correctness Concept]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

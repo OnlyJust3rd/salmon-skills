@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding a design container for screens or sections.
+## Related Mediums
+
+![[bases/related-mediums.base]]

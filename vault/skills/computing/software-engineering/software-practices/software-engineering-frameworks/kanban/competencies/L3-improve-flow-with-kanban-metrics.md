@@ -39,3 +39,6 @@ Use flow metrics to identify bottlenecks and improve delivery predictability.
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/kanban/microskills/cycle-time-interpretation|Cycle Time Interpretation]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/kanban/microskills/bottleneck-identification|Bottleneck Identification]]
 - [[skills/computing/software-engineering/software-practices/software-engineering-frameworks/kanban/microskills/explicit-policy-definition|Explicit Policy Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

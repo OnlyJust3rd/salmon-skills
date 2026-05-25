@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/logical-behavior-analysis|logical-behavior-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/logical-behavior-analysis|logical-behavior-analysis]]"
 learning-time-in-minutes: 3
 ---
 # Analyzing Logical Behavior of Combinational Circuits

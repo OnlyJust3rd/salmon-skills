@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of standard digital image file types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

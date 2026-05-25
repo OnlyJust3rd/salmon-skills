@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interrupt-vector-purpose|interrupt-vector-purpose]]"
+learning-outcomes:
+  - "[[interrupt-vector-purpose|interrupt-vector-purpose]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Interrupts: The Microcontroller's Alert System

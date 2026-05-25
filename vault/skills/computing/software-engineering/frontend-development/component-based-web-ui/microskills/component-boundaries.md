@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Decide what belongs inside a single component.
+## Related Mediums
+
+![[bases/related-mediums.base]]

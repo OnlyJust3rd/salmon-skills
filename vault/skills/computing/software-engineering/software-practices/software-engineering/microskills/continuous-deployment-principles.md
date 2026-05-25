@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding automated software release processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

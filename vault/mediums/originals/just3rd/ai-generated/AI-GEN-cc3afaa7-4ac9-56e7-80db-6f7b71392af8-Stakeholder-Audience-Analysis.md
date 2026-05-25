@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/stakeholder-audience-analysis|stakeholder-audience-analysis]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/stakeholder-audience-analysis|stakeholder-audience-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Your Stakeholder Audience

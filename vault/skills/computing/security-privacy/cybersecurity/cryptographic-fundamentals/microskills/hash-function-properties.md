@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of pre-image resistance, second pre-image resistance, and collision resistance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

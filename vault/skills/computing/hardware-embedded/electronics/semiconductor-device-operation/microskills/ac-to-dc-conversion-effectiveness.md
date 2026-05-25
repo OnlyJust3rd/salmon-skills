@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating the efficiency of AC to DC conversion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

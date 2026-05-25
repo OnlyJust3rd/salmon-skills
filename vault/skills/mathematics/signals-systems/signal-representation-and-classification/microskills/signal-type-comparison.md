@@ -25,3 +25,6 @@ Parent competency:
 ## Description
 
 Ability to differentiate between continuous and discrete signal representations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

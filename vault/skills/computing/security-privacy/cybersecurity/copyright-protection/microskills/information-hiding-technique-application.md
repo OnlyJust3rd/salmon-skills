@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying classification of information hiding techniques to examples.
+## Related Mediums
+
+![[bases/related-mediums.base]]

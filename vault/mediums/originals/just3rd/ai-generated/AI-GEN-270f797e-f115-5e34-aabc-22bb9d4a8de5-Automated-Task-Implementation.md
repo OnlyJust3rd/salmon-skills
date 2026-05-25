@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[automated-task-implementation|automated-task-implementation]]"
+learning-outcomes:
+  - "[[automated-task-implementation|automated-task-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Automating Tasks with Cron

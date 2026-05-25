@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/major-computer-engineering-domains|major-computer-engineering-domains]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/major-computer-engineering-domains|major-computer-engineering-domains]]"
 learning-time-in-minutes: 4
 ---
 # Major Computer Engineering Domains

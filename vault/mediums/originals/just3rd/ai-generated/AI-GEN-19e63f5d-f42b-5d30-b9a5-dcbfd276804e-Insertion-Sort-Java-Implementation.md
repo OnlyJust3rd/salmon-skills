@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[insertion-sort-java-implementation|insertion-sort-java-implementation]]"
+learning-outcomes:
+  - "[[insertion-sort-java-implementation|insertion-sort-java-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Insertion Sort: Java Implementation

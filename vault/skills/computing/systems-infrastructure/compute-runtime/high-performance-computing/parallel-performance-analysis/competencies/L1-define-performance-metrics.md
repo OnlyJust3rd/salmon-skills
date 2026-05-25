@@ -43,3 +43,6 @@ Define speedup and efficiency in the context of parallel computing.
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/speedup-definition|Speedup Definition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/efficiency-definition|Efficiency Definition]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-performance-analysis/microskills/parallel-performance-metrics|Parallel Performance Metrics]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

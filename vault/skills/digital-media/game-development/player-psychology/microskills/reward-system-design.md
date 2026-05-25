@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Informing the creation of effective reward systems based on motivational frameworks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

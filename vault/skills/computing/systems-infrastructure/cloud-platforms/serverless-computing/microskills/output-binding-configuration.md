@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to configure how functions send data to other services.
+## Related Mediums
+
+![[bases/related-mediums.base]]

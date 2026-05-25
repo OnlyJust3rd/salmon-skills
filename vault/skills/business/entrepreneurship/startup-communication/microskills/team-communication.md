@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Effective internal messaging.
+## Related Mediums
+
+![[bases/related-mediums.base]]

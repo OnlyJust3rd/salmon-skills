@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-key-algorithm-principles|symmetric-key-algorithm-principles]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/algorithm-classification/microskills/symmetric-key-algorithm-principles|symmetric-key-algorithm-principles]]"
 learning-time-in-minutes: 3
 ---
 # Symmetric Key Algorithm Principles

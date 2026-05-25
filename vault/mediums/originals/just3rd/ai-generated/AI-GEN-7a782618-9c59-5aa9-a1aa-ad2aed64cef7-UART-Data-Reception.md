@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[uart-data-reception|uart-data-reception]]"
+learning-outcomes:
+  - "[[uart-data-reception|uart-data-reception]]"
 learning-time-in-minutes: 4
 ---
 # UART Data Reception

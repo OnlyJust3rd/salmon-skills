@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Managing active routes and screen transitions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

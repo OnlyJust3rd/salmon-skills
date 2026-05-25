@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-progressive-mode-operation|jpeg-progressive-mode-operation]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/jpeg-progressive-mode-operation|jpeg-progressive-mode-operation]]"
 learning-time-in-minutes: 5
 ---
 # Understanding JPEG Progressive Mode Operation

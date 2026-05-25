@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/common-static-analysis-tools|common-static-analysis-tools]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/common-static-analysis-tools|common-static-analysis-tools]]"
 learning-time-in-minutes: 4
 ---
 # Common Static Analysis Tools

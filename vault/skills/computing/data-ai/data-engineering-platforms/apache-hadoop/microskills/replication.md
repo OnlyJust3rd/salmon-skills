@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding duplicate block storage for fault tolerance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

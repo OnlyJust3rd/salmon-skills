@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/product-strategy/microskills/prioritization-criteria|prioritization-criteria]]"
+learning-outcomes:
+  - "[[skills/business/product-management/product-strategy/microskills/prioritization-criteria|prioritization-criteria]]"
 learning-time-in-minutes: 6
 ---
 # Defining and Using Prioritization Criteria

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/engineering-process/microskills/problem-definition-application|problem-definition-application]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/engineering-process/microskills/problem-definition-application|problem-definition-application]]"
 learning-time-in-minutes: 5
 ---
 # Applying Problem Definition in Engineering Scenarios

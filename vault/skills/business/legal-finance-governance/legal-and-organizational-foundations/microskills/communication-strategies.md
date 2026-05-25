@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Effective methods for information exchange.
+## Related Mediums
+
+![[bases/related-mediums.base]]

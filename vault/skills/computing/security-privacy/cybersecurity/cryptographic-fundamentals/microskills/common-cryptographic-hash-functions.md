@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of well-known one-way hash function names.
+## Related Mediums
+
+![[bases/related-mediums.base]]

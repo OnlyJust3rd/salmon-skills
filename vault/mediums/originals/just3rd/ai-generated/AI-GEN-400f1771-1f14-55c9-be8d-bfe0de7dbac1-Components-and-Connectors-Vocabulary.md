@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/software-architecture/microskills/components-and-connectors-vocabulary|components-and-connectors-vocabulary]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/components-and-connectors-vocabulary|components-and-connectors-vocabulary]]"
 learning-time-in-minutes: 4
 ---
 # Components and Connectors: The Building Blocks of Software Architecture

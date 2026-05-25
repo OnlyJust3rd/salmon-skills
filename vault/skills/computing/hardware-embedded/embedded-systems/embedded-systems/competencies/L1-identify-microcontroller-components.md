@@ -44,3 +44,6 @@ Identify the basic components of microcontrollers, Micro:bit, and Arduino platfo
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/microcontroller-software-elements|Microcontroller Software Elements]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/micro-bit-platform-components|Micro:bit Platform Components]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/arduino-platform-components|Arduino Platform Components]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

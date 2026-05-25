@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/feasibility-analysis/microskills/market-size-impact-on-viability|market-size-impact-on-viability]]"
+learning-outcomes:
+  - "[[skills/business/product-management/feasibility-analysis/microskills/market-size-impact-on-viability|market-size-impact-on-viability]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Market Size and Business Viability

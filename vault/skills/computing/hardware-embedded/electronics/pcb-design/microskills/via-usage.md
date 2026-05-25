@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing connections between different copper layers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

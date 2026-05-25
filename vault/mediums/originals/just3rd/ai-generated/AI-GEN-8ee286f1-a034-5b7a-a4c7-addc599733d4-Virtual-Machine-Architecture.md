@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-machine-architecture|virtual-machine-architecture]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-machine-architecture|virtual-machine-architecture]]"
 learning-time-in-minutes: 4
 ---
 # Virtual Machine Architecture: The Foundation of Hardware Virtualization

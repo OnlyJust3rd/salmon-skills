@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of address decoding, word lines, bit lines, and memory array organization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

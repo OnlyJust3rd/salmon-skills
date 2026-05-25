@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of the role and function of registers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

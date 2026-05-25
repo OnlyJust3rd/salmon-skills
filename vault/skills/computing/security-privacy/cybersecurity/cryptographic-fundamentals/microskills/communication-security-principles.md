@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of secrecy, authentication, and integrity in communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/usability-testing-validation-role|usability-testing-validation-role]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/usability-testing-validation-role|usability-testing-validation-role]]"
 learning-time-in-minutes: 4
 ---
 # The Role of Usability Testing in Validating Assumptions

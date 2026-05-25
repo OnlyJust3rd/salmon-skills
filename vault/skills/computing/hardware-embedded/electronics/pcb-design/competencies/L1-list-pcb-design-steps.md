@@ -49,3 +49,6 @@ List the essential steps involved in designing a Printed Circuit Board (PCB).
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/component-placement|Component Placement]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/routing-traces|Routing Traces]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/microskills/design-rule-check|Design Rule Check]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

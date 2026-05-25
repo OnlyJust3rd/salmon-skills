@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[vr-and-ar-differences|vr-and-ar-differences]]"
+learning-outcomes:
+  - "[[vr-and-ar-differences|vr-and-ar-differences]]"
 learning-time-in-minutes: 4
 ---
 # VR vs AR: Understanding the Differences

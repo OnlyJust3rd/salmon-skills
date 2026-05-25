@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of fundamental vocabulary related to neural networks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

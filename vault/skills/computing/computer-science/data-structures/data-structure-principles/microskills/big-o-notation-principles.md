@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulate the fundamental principles of Big O notation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

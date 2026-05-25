@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/action-planning/microskills/action-planning-purpose|action-planning-purpose]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/action-planning/microskills/action-planning-purpose|action-planning-purpose]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Purpose of Action Plans in Engineering Delivery

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Measurement of watermarking performance using subjective MOS.
+## Related Mediums
+
+![[bases/related-mediums.base]]

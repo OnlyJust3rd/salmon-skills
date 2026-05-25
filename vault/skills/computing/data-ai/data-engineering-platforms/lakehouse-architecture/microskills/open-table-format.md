@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding table metadata over lake storage.
+## Related Mediums
+
+![[bases/related-mediums.base]]

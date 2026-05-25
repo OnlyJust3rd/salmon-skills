@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/geometric-representation/microskills/mathematical-modeling-of-primitives|mathematical-modeling-of-primitives]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/geometric-representation/microskills/mathematical-modeling-of-primitives|mathematical-modeling-of-primitives]]"
 learning-time-in-minutes: 5
 ---
 # Mathematical Modeling of Primitives

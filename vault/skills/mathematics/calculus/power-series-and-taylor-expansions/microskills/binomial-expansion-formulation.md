@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to apply the Binomial expansion formula to generate series.
+## Related Mediums
+
+![[bases/related-mediums.base]]

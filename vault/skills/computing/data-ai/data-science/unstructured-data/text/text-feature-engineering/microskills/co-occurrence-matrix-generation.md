@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of techniques to create co-occurrence matrices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

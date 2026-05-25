@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding editor-exposed script data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

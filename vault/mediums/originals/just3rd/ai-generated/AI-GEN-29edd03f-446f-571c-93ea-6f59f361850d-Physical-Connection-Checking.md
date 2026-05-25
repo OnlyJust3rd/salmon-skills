@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/physical-connection-checking|physical-connection-checking]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/hardware-troubleshooting/microskills/physical-connection-checking|physical-connection-checking]]"
 learning-time-in-minutes: 5
 ---
 # Checking Physical Connections: The First Step in Hardware Troubleshooting

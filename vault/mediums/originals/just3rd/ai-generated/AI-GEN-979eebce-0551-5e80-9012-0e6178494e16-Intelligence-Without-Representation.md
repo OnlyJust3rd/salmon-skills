@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[intelligence-without-representation|intelligence-without-representation]]"
+learning-outcomes:
+  - "[[intelligence-without-representation|intelligence-without-representation]]"
 learning-time-in-minutes: 4
 ---
 # Intelligence Without Representation

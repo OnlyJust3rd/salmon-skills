@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Mapping conceptual models into concrete tables, collections, or storage structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

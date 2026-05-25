@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/structural-differences|structural-differences]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/databases/database-foundations/database-systems/microskills/structural-differences|structural-differences]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Structural Differences: Relational vs. NoSQL Databases

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing how settings adapt ERP behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cluster-operations|kubernetes-cluster-operations]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/kubernetes/microskills/kubernetes-cluster-operations|kubernetes-cluster-operations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Kubernetes Cluster Operations for CronJobs

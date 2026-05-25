@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how Ethernet facilitates communication.
+## Related Mediums
+
+![[bases/related-mediums.base]]

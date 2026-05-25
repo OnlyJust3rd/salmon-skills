@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-expression-simplification|logic-expression-simplification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/logic-fundamentals/microskills/logic-expression-simplification|logic-expression-simplification]]"
 learning-time-in-minutes: 4
 ---
 # Simplifying Logic Expressions with De Morgan's Theorems

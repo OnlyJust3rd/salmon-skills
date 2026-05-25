@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to locate critical points for functions of multiple variables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

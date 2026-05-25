@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing the trade-offs between different deadlock avoidance algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

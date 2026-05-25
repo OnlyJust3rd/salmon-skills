@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the fundamental structure of a system of linear equations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[standard-robotic-components|standard-robotic-components]]"
+learning-outcomes:
+  - "[[standard-robotic-components|standard-robotic-components]]"
 learning-time-in-minutes: 4
 ---
 # Standard Robotic Components

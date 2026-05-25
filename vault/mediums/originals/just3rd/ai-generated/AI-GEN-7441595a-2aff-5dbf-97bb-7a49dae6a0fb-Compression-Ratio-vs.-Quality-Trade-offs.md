@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/image-compression/microskills/compression-ratio-vs-quality-trade-offs|compression-ratio-vs-quality-trade-offs]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/image-compression/microskills/compression-ratio-vs-quality-trade-offs|compression-ratio-vs-quality-trade-offs]]"
 learning-time-in-minutes: 4
 ---
 # Compression Ratio vs. Quality Trade-offs

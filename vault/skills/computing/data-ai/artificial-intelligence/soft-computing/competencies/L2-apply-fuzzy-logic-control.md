@@ -45,3 +45,6 @@ Apply fuzzy logic control principles to design and implement robotic systems for
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/robotic-system-design-with-fuzzy-logic|Robotic System Design with Fuzzy Logic]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/autonomous-maze-traversal-simbot|Autonomous Maze Traversal (SIMBot)]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/microskills/simbot-fuzzy-logic-application|SIMBot Fuzzy Logic Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

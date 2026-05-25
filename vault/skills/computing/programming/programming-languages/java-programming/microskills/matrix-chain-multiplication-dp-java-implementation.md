@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Matrix Chain Multiplication problem using dynamic programming in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

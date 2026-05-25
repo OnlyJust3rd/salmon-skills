@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[adc-reference-voltage-configuration|adc-reference-voltage-configuration]]"
+learning-outcomes:
+  - "[[adc-reference-voltage-configuration|adc-reference-voltage-configuration]]"
 learning-time-in-minutes: 5
 ---
 # ADC Reference Voltage Configuration

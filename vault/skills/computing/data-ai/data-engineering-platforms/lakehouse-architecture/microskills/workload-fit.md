@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluating BI, data science, and engineering workload needs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

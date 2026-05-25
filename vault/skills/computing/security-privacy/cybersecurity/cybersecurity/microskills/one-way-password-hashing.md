@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding irreversible transformation for stored credentials.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/software-architecture/microskills/component-boundary-identification|component-boundary-identification]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/software-architecture/microskills/component-boundary-identification|component-boundary-identification]]"
 learning-time-in-minutes: 5
 ---
 # Identifying Component Boundaries

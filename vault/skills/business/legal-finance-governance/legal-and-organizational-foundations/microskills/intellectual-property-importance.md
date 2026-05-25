@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Significance of patents, trademarks, copyrights.
+## Related Mediums
+
+![[bases/related-mediums.base]]

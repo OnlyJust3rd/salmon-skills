@@ -47,3 +47,6 @@ Explain how multiple access protocols manage shared channel access in the link l
 - [[multiple-access-protocols|Multiple Access Protocols]]
 - [[collision-avoidance-detection|Collision Avoidance/Detection]]
 - [[link-layer-medium-sharing|Link Layer Medium Sharing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how perceptual abilities influence user interaction with systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

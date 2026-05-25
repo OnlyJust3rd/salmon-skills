@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/unity/microskills/unity-event-method|unity-event-method]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/unity/microskills/unity-event-method|unity-event-method]]"
 learning-time-in-minutes: 5
 ---
 # Unity Event Methods: Bringing Your Game to Life

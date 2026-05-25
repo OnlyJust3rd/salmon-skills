@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[merge-sort-java-implementation|merge-sort-java-implementation]]"
+learning-outcomes:
+  - "[[merge-sort-java-implementation|merge-sort-java-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Merge Sort Java Implementation

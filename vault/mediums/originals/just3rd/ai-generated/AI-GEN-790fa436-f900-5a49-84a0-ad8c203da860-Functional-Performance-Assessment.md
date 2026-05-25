@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[functional-performance-assessment|functional-performance-assessment]]"
+learning-outcomes:
+  - "[[functional-performance-assessment|functional-performance-assessment]]"
 learning-time-in-minutes: 3
 ---
 # Functional Performance Assessment in Assembly

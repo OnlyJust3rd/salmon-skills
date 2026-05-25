@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-cost-allocation|tagging-for-cost-allocation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/tagging-for-cost-allocation|tagging-for-cost-allocation]]"
 learning-time-in-minutes: 3
 ---
 # Tagging for Cost Allocation

@@ -68,3 +68,6 @@ Modeling and controlling process execution within an operating system. Including
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-fork|UNIX System Call Application (fork)]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/unix-system-call-application-wait|UNIX System Call Application (wait)]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/wait-functionality|wait() Functionality]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

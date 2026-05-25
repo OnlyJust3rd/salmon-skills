@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/machine-instruction-sequencing-analysis|machine-instruction-sequencing-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/machine-instruction-sequencing-analysis|machine-instruction-sequencing-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Machine Instruction Sequencing: The Flow of Operations

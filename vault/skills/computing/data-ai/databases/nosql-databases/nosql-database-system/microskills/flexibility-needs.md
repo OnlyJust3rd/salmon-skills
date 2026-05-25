@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Scenarios requiring adaptable data structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

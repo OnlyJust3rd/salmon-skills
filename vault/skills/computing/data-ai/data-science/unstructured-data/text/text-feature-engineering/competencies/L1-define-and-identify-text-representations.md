@@ -53,3 +53,6 @@ Define and identify discrete and distributed text representation methods, includ
 - [[glove-representation-definition|GloVe Representation Definition]]
 - [[discrete-text-representations|Discrete Text Representations]]
 - [[distributed-text-representations|Distributed Text Representations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

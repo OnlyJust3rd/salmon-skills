@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/proxy-firewall-characteristics|proxy-firewall-characteristics]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/network-security-access-control/microskills/proxy-firewall-characteristics|proxy-firewall-characteristics]]"
 learning-time-in-minutes: 4
 ---
 # Proxy Firewall Characteristics

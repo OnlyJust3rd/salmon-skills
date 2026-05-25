@@ -43,3 +43,6 @@ List the key characteristics of different categories of sorting algorithms and s
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/sorting-algorithm-characteristics|Sorting Algorithm Characteristics]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/searching-algorithm-characteristics|Searching Algorithm Characteristics]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/algorithm-category-identification|Algorithm Category Identification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

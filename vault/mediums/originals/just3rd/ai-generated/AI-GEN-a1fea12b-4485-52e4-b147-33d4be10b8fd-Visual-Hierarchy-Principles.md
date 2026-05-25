@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[visual-hierarchy-principles|visual-hierarchy-principles]]"
+learning-outcomes:
+  - "[[visual-hierarchy-principles|visual-hierarchy-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Visual Hierarchy Principles

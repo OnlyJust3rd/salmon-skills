@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[remote-access-security|remote-access-security]]"
+learning-outcomes:
+  - "[[remote-access-security|remote-access-security]]"
 learning-time-in-minutes: 4
 ---
 # Securely Connecting to Your Network: Understanding VPNs

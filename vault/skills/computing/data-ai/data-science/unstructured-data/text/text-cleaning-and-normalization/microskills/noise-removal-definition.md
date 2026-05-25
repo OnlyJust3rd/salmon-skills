@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the concept and definition of noise removal in text.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/parametric-plane-equation-definition|parametric-plane-equation-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/parametric-plane-equation-definition|parametric-plane-equation-definition]]"
 learning-time-in-minutes: 3
 ---
 # Parametric Plane Equation Definition

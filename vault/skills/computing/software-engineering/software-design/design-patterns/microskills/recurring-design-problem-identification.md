@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the problems that design patterns solve.
+## Related Mediums
+
+![[bases/related-mediums.base]]

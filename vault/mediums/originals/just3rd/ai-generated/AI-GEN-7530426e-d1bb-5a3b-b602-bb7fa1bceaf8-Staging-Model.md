@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/staging-model|staging-model]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/dbt/microskills/staging-model|staging-model]]"
 learning-time-in-minutes: 4
 ---
 # Staging Models: Your First Step in dbt

@@ -47,3 +47,6 @@ Analyze the step-by-step operations of modern block ciphers like DES, IDEA, and 
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/aes-operations-analysis|AES Operations Analysis]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/block-cipher-transformation-flow|Block Cipher Transformation Flow]]
 - [[skills/computing/security-privacy/cybersecurity/symmetric-cipher-operations/microskills/combined-effect-of-block-cipher-operations|Combined Effect of Block Cipher Operations]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

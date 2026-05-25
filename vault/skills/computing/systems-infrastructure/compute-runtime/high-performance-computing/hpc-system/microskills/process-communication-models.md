@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of communication mechanisms between processes in a distributed memory environment.
+## Related Mediums
+
+![[bases/related-mediums.base]]

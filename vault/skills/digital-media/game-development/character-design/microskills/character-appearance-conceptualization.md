@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating visual representations of characters that convey personality and role.
+## Related Mediums
+
+![[bases/related-mediums.base]]

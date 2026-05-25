@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/projection-method-influence|projection-method-influence]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/projection-method-influence|projection-method-influence]]"
 learning-time-in-minutes: 5
 ---
 # Projection Method Influence on Perceived 3D

@@ -45,3 +45,6 @@ Apply system modeling and architectural design principles to achieve high abstra
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/architectural-design-principles|Architectural Design Principles]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/high-abstraction-design|High Abstraction Design]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/low-coupling-design|Low Coupling Design]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

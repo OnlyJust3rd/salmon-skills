@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the purpose and use cases of different text visualization techniques.
+## Related Mediums
+
+![[bases/related-mediums.base]]

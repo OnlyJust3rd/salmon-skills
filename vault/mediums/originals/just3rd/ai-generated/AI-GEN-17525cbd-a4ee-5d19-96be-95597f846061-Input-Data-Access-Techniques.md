@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/input-data-access-techniques|input-data-access-techniques]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/input-output-interfacing/microskills/input-data-access-techniques|input-data-access-techniques]]"
 learning-time-in-minutes: 3
 ---
 # Accessing Input Data: Reading from a Simulated Sensor

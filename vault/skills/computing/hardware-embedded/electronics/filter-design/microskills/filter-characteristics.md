@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how cutoff frequency defines filtering properties.
+## Related Mediums
+
+![[bases/related-mediums.base]]

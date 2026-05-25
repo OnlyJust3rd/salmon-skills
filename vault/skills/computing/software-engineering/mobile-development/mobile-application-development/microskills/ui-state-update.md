@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Changing interface output from user actions or data changes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

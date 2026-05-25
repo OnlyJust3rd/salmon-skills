@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/3d-asset-pipeline/microskills/import-setting|import-setting]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/3d-asset-pipeline/microskills/import-setting|import-setting]]"
 learning-time-in-minutes: 5
 ---
 # Import Settings: Configuring Your 3D Assets

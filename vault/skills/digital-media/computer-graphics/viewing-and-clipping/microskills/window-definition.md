@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the concept and definition of a viewing window.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in automating data processing for IoT at the edge.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying formulas to compute the magnitude spectrum of CTFT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

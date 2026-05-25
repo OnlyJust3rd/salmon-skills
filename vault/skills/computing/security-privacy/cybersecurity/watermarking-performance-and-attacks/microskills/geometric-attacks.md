@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of geometric attacks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

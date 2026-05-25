@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall of definitions for vertices, edges, paths, and cycles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

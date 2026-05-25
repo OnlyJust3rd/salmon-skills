@@ -47,3 +47,6 @@ Apply Spark DataFrame transformation concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/spark-transformation|Spark Transformation]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/spark-action|Spark Action]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/microskills/distributed-join|Distributed Join]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

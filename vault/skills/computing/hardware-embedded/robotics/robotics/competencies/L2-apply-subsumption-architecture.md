@@ -47,3 +47,6 @@ Describe and demonstrate the application of subsumption architecture for achievi
 - [[evolution-of-robotic-behaviors|Evolution of Robotic Behaviors]]
 - [[intelligent-robotic-behavior-generation|Intelligent Robotic Behavior Generation]]
 - [[robotic-control-structures-via-subsumption|Robotic Control Structures via Subsumption]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

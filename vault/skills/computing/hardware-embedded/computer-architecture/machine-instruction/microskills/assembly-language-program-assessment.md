@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to evaluate the correctness and effectiveness of assembly language programs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

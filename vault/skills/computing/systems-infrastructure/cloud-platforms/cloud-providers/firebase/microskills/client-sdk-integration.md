@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connecting frontend code to managed backend services.
+## Related Mediums
+
+![[bases/related-mediums.base]]

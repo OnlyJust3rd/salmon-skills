@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/code-explanation|code-explanation]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/ai-assisted-development/ai-assisted-software-development/microskills/code-explanation|code-explanation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding AI-Assisted Code Explanation

@@ -45,3 +45,6 @@ Apply DAG scheduling and task dependency concepts.
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/schedule-interval|Schedule Interval]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/retry-policy|Retry Policy]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/task-operator|Task Operator]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

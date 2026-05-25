@@ -41,3 +41,6 @@ Explain the purpose of each stage in Foster's design methodology.
 
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/foster-s-methodology-stages|Foster's Methodology Stages]]
 - [[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-algorithm/microskills/purpose-of-parallel-design-stages|Purpose of Parallel Design Stages]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

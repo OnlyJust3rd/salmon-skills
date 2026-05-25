@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-disk-mapping|virtual-disk-mapping]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/system-virtualization/microskills/virtual-disk-mapping|virtual-disk-mapping]]"
 learning-time-in-minutes: 5
 ---
 # Virtual Disk Mapping: Understanding Storage in Virtual Machines

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector-space/microskills/change-of-basis-formula|change-of-basis-formula]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector-space/microskills/change-of-basis-formula|change-of-basis-formula]]"
 learning-time-in-minutes: 4
 ---
 # Applying the Change of Basis Formula

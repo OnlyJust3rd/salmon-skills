@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Justifying a hierarchy configuration using latency/throughput/cost trade-offs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

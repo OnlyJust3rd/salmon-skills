@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Checking completed agent work against requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of methods to define functional and non-functional requirements.
+## Related Mediums
+
+![[bases/related-mediums.base]]

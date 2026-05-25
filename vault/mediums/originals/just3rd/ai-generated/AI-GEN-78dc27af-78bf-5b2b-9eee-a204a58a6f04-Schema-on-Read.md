@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/schema-on-read|schema-on-read]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/data-lake/microskills/schema-on-read|schema-on-read]]"
 learning-time-in-minutes: 3
 ---
 # Schema-on-Read in Data Lakes

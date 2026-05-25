@@ -47,3 +47,6 @@ Explain agentic coding workflow concepts.
 - [[task-delegation|Task Delegation]]
 - [[tool-use|Tool Use]]
 - [[approval-boundary|Approval Boundary]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

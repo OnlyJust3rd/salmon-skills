@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/motion-vectors-in-temporal-redundancy|motion-vectors-in-temporal-redundancy]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/motion-vectors-in-temporal-redundancy|motion-vectors-in-temporal-redundancy]]"
 learning-time-in-minutes: 5
 ---
 # Motion Vectors: Tracking Movement in Videos

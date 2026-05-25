@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of data transfer rates to/from storage as a metric.
+## Related Mediums
+
+![[bases/related-mediums.base]]

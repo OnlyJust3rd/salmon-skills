@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interface-prototyping|interface-prototyping]]"
+learning-outcomes:
+  - "[[interface-prototyping|interface-prototyping]]"
 learning-time-in-minutes: 6
 ---
 # Interface Prototyping: Bringing Your Designs to Life

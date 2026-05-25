@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding configurable visual properties.
+## Related Mediums
+
+![[bases/related-mediums.base]]

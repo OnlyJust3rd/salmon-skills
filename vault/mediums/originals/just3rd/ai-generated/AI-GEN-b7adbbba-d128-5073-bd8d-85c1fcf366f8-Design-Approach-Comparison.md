@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-approach-comparison|design-approach-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/object-oriented-design/microskills/design-approach-comparison|design-approach-comparison]]"
 learning-time-in-minutes: 7
 ---
 # Comparing Object-Oriented Design Approaches

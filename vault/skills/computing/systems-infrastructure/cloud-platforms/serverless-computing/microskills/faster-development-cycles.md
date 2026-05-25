@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how serverless can accelerate application delivery.
+## Related Mediums
+
+![[bases/related-mediums.base]]

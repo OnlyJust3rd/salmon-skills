@@ -43,3 +43,6 @@ Evaluate the suitability of different operational amplifier configurations for a
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/op-amp-configuration-suitability|Op-Amp Configuration Suitability]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/gain-requirement-evaluation|Gain Requirement Evaluation]]
 - [[skills/computing/hardware-embedded/electronics/amplifier-design/microskills/signal-inversion-requirement-evaluation|Signal Inversion Requirement Evaluation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

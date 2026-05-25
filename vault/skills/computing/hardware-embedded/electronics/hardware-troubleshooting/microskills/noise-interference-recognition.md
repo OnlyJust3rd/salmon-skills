@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of noise interference as a challenge.
+## Related Mediums
+
+![[bases/related-mediums.base]]

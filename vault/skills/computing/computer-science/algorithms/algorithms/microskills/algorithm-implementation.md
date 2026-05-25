@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Translating algorithmic logic into functional code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

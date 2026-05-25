@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the principles and functionality of LexRank for extractive summarization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/calculus-theorems-application/microskills/intermediate-value-theorem|intermediate-value-theorem]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/calculus-theorems-application/microskills/intermediate-value-theorem|intermediate-value-theorem]]"
 learning-time-in-minutes: 3
 ---
 # Remembering the Intermediate Value Theorem

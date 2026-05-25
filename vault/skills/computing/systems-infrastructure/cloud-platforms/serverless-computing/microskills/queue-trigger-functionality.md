@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of triggers initiated by messages in a queue.
+## Related Mediums
+
+![[bases/related-mediums.base]]

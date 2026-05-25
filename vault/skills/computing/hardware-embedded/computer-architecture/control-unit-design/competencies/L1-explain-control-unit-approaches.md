@@ -45,3 +45,6 @@ Explain hardwired control and microprogrammed control, including how microinstru
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/hardwired-control-concept|Hardwired Control Concept]]
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microprogrammed-control-concept|Microprogrammed Control Concept]]
 - [[skills/computing/hardware-embedded/computer-architecture/control-unit-design/microskills/microinstruction-sequencing|Microinstruction Sequencing]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|distributed-data-processing-solutions]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/distributed-data-processing-solutions|distributed-data-processing-solutions]]"
 learning-time-in-minutes: 6
 ---
 # Distributed Data Processing with MPI Collectives

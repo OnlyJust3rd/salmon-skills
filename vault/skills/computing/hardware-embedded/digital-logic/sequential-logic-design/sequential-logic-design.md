@@ -75,3 +75,6 @@ Analyze and design clocked sequential logic circuits, including flip-flops, coun
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/state-transition-tracing|State Transition Tracing]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/t-flip-flop-operation|T Flip-Flop Operation]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/volatile-vs-non-volatile-storage|Volatile vs Non-volatile Storage]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

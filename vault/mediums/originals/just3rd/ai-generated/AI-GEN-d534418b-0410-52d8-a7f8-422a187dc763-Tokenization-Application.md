@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[tokenization-application|tokenization-application]]"
+learning-outcomes:
+  - "[[tokenization-application|tokenization-application]]"
 learning-time-in-minutes: 3
 ---
 # Tokenization: Breaking Text into Meaningful Chunks

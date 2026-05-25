@@ -39,3 +39,6 @@ List different types of machine instructions.
 ## Microskills
 
 - [[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/machine-instruction-categorization|Machine Instruction Categorization]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

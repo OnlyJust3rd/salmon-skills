@@ -56,3 +56,6 @@ Configure rule-based alerting for infrastructure events.
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/service-unavailability-alerts|Service Unavailability Alerts]]
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/system-health-monitoring|System Health Monitoring]]
 - [[skills/computing/systems-infrastructure/operations-reliability/alerting-incident-response/infrastructure-alert/microskills/threshold-configuration|Threshold Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

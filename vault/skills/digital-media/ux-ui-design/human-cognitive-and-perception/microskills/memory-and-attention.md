@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of memory and attention as cognitive foundations in HCI.
+## Related Mediums
+
+![[bases/related-mediums.base]]

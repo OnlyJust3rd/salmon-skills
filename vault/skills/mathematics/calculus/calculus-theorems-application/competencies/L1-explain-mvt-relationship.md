@@ -45,3 +45,6 @@ Explain the relationship between the Mean Value Theorem and the derivative of a 
 
 - [[conceptual-link-mean-value-theorem-and-derivative|Conceptual link: Mean Value Theorem and derivative]]
 - [[instantaneous-rate-of-change-interpretation|Instantaneous rate of change interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

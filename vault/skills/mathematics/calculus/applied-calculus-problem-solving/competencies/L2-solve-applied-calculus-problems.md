@@ -49,3 +49,6 @@ Formulate and solve real-world applied problems involving related rates and opti
 - [[real-world-related-rates-problem-solving|Real-world related rates problem solving]]
 - [[real-world-optimization-problem-solving|Real-world optimization problem solving]]
 - [[calculus-based-graph-sketching|Calculus-based graph sketching]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

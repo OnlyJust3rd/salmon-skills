@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing clustering on a given set of textual data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

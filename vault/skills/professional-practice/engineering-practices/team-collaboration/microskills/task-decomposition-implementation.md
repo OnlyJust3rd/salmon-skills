@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical division of project responsibilities among team members.
+## Related Mediums
+
+![[bases/related-mediums.base]]

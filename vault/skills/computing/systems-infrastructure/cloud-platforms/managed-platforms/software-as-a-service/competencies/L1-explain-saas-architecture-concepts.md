@@ -47,3 +47,6 @@ Explain SaaS architecture concepts.
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/multi-tenancy|Multi-Tenancy]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/subscription-access|Subscription Access]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/software-as-a-service/microskills/operational-responsibility|Operational Responsibility]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

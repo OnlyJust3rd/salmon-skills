@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how to remove stopped containers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

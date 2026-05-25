@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/product-management/marketing-strategy/microskills/marketing-mix-differences|marketing-mix-differences]]"
+learning-outcomes:
+  - "[[skills/business/product-management/marketing-strategy/microskills/marketing-mix-differences|marketing-mix-differences]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Differences Between 4Ps and 4Cs

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of principles for implementing Boolean functions with logic gates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

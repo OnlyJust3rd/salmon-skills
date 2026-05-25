@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/interfacing-capability-evaluation|interfacing-capability-evaluation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/interfacing-capability-evaluation|interfacing-capability-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Evaluating Interfacing Capabilities of a Simple Processor

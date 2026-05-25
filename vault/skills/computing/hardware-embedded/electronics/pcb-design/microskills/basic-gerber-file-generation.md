@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Producing output files for PCB manufacturing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

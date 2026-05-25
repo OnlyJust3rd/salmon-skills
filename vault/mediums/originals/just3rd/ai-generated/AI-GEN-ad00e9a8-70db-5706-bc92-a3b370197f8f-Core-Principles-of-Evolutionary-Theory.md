@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/core-principles-of-evolutionary-theory|core-principles-of-evolutionary-theory]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/core-principles-of-evolutionary-theory|core-principles-of-evolutionary-theory]]"
 learning-time-in-minutes: 3
 ---
 # Core Principles of Evolutionary Theory

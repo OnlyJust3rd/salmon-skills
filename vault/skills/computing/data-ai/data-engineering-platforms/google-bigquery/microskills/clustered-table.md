@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Organizing table data for query pruning.
+## Related Mediums
+
+![[bases/related-mediums.base]]

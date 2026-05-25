@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/mathematical-analysis-of-test-data|mathematical-analysis-of-test-data]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/mathematical-analysis-of-test-data|mathematical-analysis-of-test-data]]"
 learning-time-in-minutes: 5
 ---
 # Mathematical Analysis of Test Data

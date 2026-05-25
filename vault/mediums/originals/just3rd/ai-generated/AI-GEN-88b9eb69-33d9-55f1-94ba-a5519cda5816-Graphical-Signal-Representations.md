@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/graphical-signal-representations|graphical-signal-representations]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/signal-representation-and-classification/microskills/graphical-signal-representations|graphical-signal-representations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Graphical Signal Representations

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Core principles of dynamic programming.
+## Related Mediums
+
+![[bases/related-mediums.base]]

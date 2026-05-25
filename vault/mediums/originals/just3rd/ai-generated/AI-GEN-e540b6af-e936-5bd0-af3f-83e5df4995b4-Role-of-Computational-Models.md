@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/role-of-computational-models|role-of-computational-models]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/algorithms/computational-model-understanding/microskills/role-of-computational-models|role-of-computational-models]]"
 learning-time-in-minutes: 4
 ---
 # The "Why" Behind Theoretical Models in Computer Science

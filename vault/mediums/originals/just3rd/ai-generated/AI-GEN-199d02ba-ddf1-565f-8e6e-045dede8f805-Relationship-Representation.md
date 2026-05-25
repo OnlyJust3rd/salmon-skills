@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/discrete-math/logical-reasoning/microskills/relationship-representation|relationship-representation]]"
+learning-outcomes:
+  - "[[skills/mathematics/discrete-math/logical-reasoning/microskills/relationship-representation|relationship-representation]]"
 learning-time-in-minutes: 4
 ---
 # Formalizing Relationships with Predicate Logic

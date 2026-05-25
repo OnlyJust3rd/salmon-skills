@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the process of translating shapes into a displayable format.
+## Related Mediums
+
+![[bases/related-mediums.base]]

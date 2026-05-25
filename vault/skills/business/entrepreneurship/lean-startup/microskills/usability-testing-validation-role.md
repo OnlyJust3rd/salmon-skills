@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How usability tests validate assumptions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

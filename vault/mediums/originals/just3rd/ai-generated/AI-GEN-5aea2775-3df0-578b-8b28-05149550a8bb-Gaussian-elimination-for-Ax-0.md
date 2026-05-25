@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/gaussian-elimination-for-ax-0|gaussian-elimination-for-ax-0]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/gaussian-elimination-for-ax-0|gaussian-elimination-for-ax-0]]"
 learning-time-in-minutes: 6
 ---
 # Gaussian Elimination for Ax=0

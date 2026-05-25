@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[java-linear-data-structures|java-linear-data-structures]]"
+learning-outcomes:
+  - "[[java-linear-data-structures|java-linear-data-structures]]"
 learning-time-in-minutes: 4
 ---
 # Java Linear Data Structures: Building Blocks for Data Management

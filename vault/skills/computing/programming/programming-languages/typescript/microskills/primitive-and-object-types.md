@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Annotate variables and function signatures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

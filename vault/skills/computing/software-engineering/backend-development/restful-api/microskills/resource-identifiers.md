@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Map domain entities to URL paths and resource concepts.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-testing/microskills/balance-note|balance-note]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-testing/microskills/balance-note|balance-note]]"
 learning-time-in-minutes: 5
 ---
 # Documenting Balance Notes in Game Testing

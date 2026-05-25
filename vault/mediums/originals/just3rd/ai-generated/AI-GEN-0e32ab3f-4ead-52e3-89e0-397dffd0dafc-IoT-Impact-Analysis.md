@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[iot-impact-analysis|iot-impact-analysis]]"
+learning-outcomes:
+  - "[[iot-impact-analysis|iot-impact-analysis]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Impact of Emerging IoT Technologies

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstrated ability to utilize the BeautifulSoup library for parsing HTML.
+## Related Mediums
+
+![[bases/related-mediums.base]]

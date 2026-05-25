@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explaining the meaning and purpose of projecting a vector onto another vector or subspace.
+## Related Mediums
+
+![[bases/related-mediums.base]]

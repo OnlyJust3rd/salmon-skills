@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[basic-cross-origin-awareness|basic-cross-origin-awareness]]"
+learning-outcomes:
+  - "[[basic-cross-origin-awareness|basic-cross-origin-awareness]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Cross-Origin Resource Sharing (CORS)

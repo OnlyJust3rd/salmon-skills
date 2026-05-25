@@ -45,3 +45,6 @@ Implement adaptive difficulty adjustments based on player performance data.
 - [[skills/digital-media/game-development/player-psychology/microskills/player-performance-data-utilization|Player Performance Data Utilization]]
 - [[skills/digital-media/game-development/player-psychology/microskills/real-time-difficulty-modification|Real-time Difficulty Modification]]
 - [[skills/digital-media/game-development/player-psychology/microskills/challenge-and-frustration-balance|Challenge and Frustration Balance]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of algorithmic techniques to solve number-theoretic challenges.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Defining principles related to assigning responsibilities in OO design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

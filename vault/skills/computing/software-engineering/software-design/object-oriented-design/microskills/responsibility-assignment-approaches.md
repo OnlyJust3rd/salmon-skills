@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analyzing different methods for distributing responsibilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

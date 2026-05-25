@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/role-assignment-principles|role-assignment-principles]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/team-collaboration/microskills/role-assignment-principles|role-assignment-principles]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Role Assignment in Team Collaboration

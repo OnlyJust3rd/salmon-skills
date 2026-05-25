@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/purpose-of-network-management|purpose-of-network-management]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/purpose-of-network-management|purpose-of-network-management]]"
 learning-time-in-minutes: 5
 ---
 # The "Why": Understanding the Purpose of Network Management

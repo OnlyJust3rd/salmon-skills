@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[object-instantiation-for-data-structures|object-instantiation-for-data-structures]]"
+learning-outcomes:
+  - "[[object-instantiation-for-data-structures|object-instantiation-for-data-structures]]"
 learning-time-in-minutes: 4
 ---
 # Object Instantiation for Data Structures in Java

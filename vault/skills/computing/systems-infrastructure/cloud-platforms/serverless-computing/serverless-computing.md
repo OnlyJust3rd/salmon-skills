@@ -82,3 +82,6 @@ Describe the serverless execution model and its benefits. Explain event-driven a
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/timer-trigger-configuration|Timer Trigger Configuration]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/timer-trigger-functionality|Timer Trigger Functionality]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/serverless-computing/microskills/warm-start|Warm Start]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

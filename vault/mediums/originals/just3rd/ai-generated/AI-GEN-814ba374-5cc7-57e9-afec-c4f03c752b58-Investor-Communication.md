@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/investor-communication|investor-communication]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/investor-communication|investor-communication]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Investor Communication: Tailoring Your Pitch

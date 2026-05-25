@@ -45,3 +45,6 @@ Describe the differences and differentiating characteristics between VR and AR a
 - [[vr-and-ar-differences|VR and AR Differences]]
 - [[differentiating-features|Differentiating Features]]
 - [[application-distinction|Application Distinction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

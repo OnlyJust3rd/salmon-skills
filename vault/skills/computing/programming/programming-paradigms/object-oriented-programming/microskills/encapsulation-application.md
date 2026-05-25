@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing encapsulation in code.
+## Related Mediums
+
+![[bases/related-mediums.base]]

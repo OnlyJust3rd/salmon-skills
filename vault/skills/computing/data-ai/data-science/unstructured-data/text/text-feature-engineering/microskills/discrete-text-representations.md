@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification and definition of methods that represent text discretely.
+## Related Mediums
+
+![[bases/related-mediums.base]]

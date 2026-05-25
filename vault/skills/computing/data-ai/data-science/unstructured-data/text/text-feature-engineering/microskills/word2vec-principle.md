@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the core concepts behind Word2Vec embeddings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

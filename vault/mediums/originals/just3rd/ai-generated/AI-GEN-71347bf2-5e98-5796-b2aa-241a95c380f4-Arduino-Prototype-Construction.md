@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[arduino-prototype-construction|arduino-prototype-construction]]"
+learning-outcomes:
+  - "[[arduino-prototype-construction|arduino-prototype-construction]]"
 learning-time-in-minutes: 5
 ---
 # Building Your First Arduino Prototype: Connecting, Coding, and Testing

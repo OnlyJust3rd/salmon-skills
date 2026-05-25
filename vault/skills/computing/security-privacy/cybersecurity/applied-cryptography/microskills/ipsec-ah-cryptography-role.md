@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of applied cryptography within IPSec Authentication Header.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-counter-code-examination|verilog-counter-code-examination]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/verilog-counter-code-examination|verilog-counter-code-examination]]"
 learning-time-in-minutes: 4
 ---
 # Examining Verilog Counter Code

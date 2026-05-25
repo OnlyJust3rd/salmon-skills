@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/i-o-port-data-flow|i-o-port-data-flow]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/microskills/i-o-port-data-flow|i-o-port-data-flow]]"
 learning-time-in-minutes: 5
 ---
 # AVR Microcontroller: I/O Port Data Flow

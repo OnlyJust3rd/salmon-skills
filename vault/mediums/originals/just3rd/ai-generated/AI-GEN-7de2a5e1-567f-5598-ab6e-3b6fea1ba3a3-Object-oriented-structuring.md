@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-oriented-structuring|object-oriented-structuring]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/object-oriented-structuring|object-oriented-structuring]]"
 learning-time-in-minutes: 4
 ---
 # Object-Oriented Structuring: Organizing Your Code

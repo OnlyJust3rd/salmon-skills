@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of the essential ideas and paradigms of serverless computing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

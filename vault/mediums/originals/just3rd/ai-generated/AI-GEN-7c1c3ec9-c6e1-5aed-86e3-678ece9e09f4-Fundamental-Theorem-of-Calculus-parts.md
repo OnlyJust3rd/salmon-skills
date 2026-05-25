@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-parts|fundamental-theorem-of-calculus-parts]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/fundamental-theorem-of-calculus/microskills/fundamental-theorem-of-calculus-parts|fundamental-theorem-of-calculus-parts]]"
 learning-time-in-minutes: 3
 ---
 # Understanding the Parts of the Fundamental Theorem of Calculus

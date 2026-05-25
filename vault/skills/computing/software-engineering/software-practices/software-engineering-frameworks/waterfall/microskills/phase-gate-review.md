@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Using review checkpoints to decide whether a project phase is ready to advance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

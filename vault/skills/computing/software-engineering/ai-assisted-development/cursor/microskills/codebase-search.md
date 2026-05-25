@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Finding relevant files and symbols through AI-assisted search.
+## Related Mediums
+
+![[bases/related-mediums.base]]

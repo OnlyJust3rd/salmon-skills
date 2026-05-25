@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/control-unit-definition|control-unit-definition]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/control-unit-definition|control-unit-definition]]"
 learning-time-in-minutes: 3
 ---
 # The Control Unit: The Processor's Conductor

@@ -54,3 +54,6 @@ Analyzing Linear Time-Invariant (LTI) systems using impulse response and convolu
 - [[output-sequence-determination|Output Sequence Determination]]
 - [[sequence-convolution-execution|Sequence Convolution Execution]]
 - [[system-output-calculation-ct-convolution|System Output Calculation (CT Convolution)]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

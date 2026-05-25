@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of the effects of power regulation problems on circuit reliability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

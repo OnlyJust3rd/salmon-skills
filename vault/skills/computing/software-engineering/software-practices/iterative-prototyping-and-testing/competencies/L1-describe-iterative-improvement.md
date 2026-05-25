@@ -41,3 +41,6 @@ Describe the role of iterative improvement based on testing feedback in Computer
 
 - [[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/feedback-driven-design-refinement|Feedback-Driven Design Refinement]]
 - [[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/microskills/role-of-iteration-in-development|Role of Iteration in Development]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -43,3 +43,6 @@ Utilize a basic cryptographic primitive (e.g., a simple hash function) to genera
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-primitive-utilization|Cryptographic Primitive Utilization]]
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/watermark-signal-generation|Watermark Signal Generation]]
 - [[skills/computing/security-privacy/cybersecurity/cryptography-for-digital-media-protection/microskills/cryptographic-function-for-watermarking|Cryptographic Function for Watermarking]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

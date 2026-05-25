@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how virtual memory addresses are mapped to physical memory.
+## Related Mediums
+
+![[bases/related-mediums.base]]

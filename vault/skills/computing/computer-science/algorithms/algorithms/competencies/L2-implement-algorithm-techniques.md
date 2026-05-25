@@ -47,3 +47,6 @@ Implement various algorithm techniques, including graph algorithms, dynamic prog
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/greedy-algorithm-implementation|Greedy Algorithm Implementation]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/backtracking-algorithm-implementation|Backtracking Algorithm Implementation]]
 - [[skills/computing/computer-science/algorithms/algorithms/microskills/branch-and-bound-implementation|Branch and Bound Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

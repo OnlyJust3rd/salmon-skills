@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Evaluation of the performance differences between symmetric and asymmetric algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/noise-frequency-attenuation-assessment|noise-frequency-attenuation-assessment]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/noise-frequency-attenuation-assessment|noise-frequency-attenuation-assessment]]"
 learning-time-in-minutes: 6
 ---
 # Evaluating Filter Effectiveness: Noise Frequency Attenuation

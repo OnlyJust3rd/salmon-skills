@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition and definition of the projection plane.
+## Related Mediums
+
+![[bases/related-mediums.base]]

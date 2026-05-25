@@ -43,3 +43,6 @@ Identify and recall key characteristics and examples of reactive control paradig
 - [[reactive-control-characteristics|Reactive Control Characteristics]]
 - [[examples-of-reactive-control|Examples of Reactive Control]]
 - [[reactive-control-paradigms|Reactive Control Paradigms]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

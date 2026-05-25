@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the process of handling page faults.
+## Related Mediums
+
+![[bases/related-mediums.base]]

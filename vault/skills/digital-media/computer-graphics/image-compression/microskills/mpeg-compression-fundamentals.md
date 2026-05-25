@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of key terms and components in MPEG compression.
+## Related Mediums
+
+![[bases/related-mediums.base]]

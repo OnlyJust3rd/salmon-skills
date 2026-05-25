@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing architecture as the structure and organization of a software system.
+## Related Mediums
+
+![[bases/related-mediums.base]]

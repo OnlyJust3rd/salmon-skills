@@ -45,3 +45,6 @@ Analyze the visual characteristics, distortion, and impact of varying camera par
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/projection-distortion-analysis|Projection Distortion Analysis]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/camera-parameter-impact|Camera Parameter Impact]]
 - [[skills/digital-media/computer-graphics/perspective-projection/microskills/depth-perception-in-projections|Depth Perception in Projections]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

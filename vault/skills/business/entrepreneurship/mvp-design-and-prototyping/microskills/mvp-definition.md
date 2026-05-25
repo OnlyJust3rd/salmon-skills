@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding what constitutes a viable product.
+## Related Mediums
+
+![[bases/related-mediums.base]]

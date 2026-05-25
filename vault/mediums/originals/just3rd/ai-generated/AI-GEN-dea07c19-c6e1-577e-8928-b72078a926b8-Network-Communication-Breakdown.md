@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[network-communication-breakdown|network-communication-breakdown]]"
+learning-outcomes:
+  - "[[network-communication-breakdown|network-communication-breakdown]]"
 learning-time-in-minutes: 3
 ---
 # Network Communication Breakdown

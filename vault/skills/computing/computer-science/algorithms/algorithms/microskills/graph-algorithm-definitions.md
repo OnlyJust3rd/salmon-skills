@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Fundamental concepts of algorithms operating on graphs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

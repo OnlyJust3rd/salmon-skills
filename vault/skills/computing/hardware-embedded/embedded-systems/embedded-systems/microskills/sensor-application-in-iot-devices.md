@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Demonstration of the practical use of various sensor types in IoT devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

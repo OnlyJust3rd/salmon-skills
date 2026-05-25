@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/integral-evaluation/microskills/transition-between-differentiation-and-integration|transition-between-differentiation-and-integration]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/integral-evaluation/microskills/transition-between-differentiation-and-integration|transition-between-differentiation-and-integration]]"
 learning-time-in-minutes: 4
 ---
 # The Bridge: How Differentiation and Integration Connect (FTC Part 2)

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/incident-response/microskills/lessons-learned|lessons-learned]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/incident-response/microskills/lessons-learned|lessons-learned]]"
 learning-time-in-minutes: 4
 ---
 # Incident Response: Lessons Learned

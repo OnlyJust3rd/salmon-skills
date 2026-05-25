@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/interconnectedness-of-number-theory-concepts|interconnectedness-of-number-theory-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/number-theory-in-cryptography/microskills/interconnectedness-of-number-theory-concepts|interconnectedness-of-number-theory-concepts]]"
 learning-time-in-minutes: 5
 ---
 # The Interconnected Web of Number Theory for Cryptography

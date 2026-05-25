@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/low-pass-filter-behavior|low-pass-filter-behavior]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/low-pass-filter-behavior|low-pass-filter-behavior]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Low-Pass Filter Behavior in RC and RL Circuits

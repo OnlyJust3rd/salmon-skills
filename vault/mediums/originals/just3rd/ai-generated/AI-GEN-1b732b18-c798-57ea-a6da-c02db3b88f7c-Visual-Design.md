@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[visual-design|visual-design]]"
+learning-outcomes:
+  - "[[visual-design|visual-design]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Visual Design in UX Workflows

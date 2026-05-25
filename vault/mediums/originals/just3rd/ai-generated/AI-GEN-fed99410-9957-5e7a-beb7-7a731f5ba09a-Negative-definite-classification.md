@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/negative-definite-classification|negative-definite-classification]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/quadratic-forms-and-definiteness/microskills/negative-definite-classification|negative-definite-classification]]"
 learning-time-in-minutes: 3
 ---
 # Classifying Quadratic Forms: Negative Definite

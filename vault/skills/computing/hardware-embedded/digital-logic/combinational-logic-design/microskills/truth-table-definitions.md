@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall the definition and structure of truth tables for logic functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

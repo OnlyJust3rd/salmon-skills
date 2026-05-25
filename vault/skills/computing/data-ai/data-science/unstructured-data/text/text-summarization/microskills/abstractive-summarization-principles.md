@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the conceptual frameworks behind abstractive summarization.
+## Related Mediums
+
+![[bases/related-mediums.base]]

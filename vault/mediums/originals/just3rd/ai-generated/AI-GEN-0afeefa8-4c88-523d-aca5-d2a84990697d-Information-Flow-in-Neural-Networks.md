@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[information-flow-in-neural-networks|information-flow-in-neural-networks]]"
+learning-outcomes:
+  - "[[information-flow-in-neural-networks|information-flow-in-neural-networks]]"
 learning-time-in-minutes: 3
 ---
 # Information Flow in Neural Networks

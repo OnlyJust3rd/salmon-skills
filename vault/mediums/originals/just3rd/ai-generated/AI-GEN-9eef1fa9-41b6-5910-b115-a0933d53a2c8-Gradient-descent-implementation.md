@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[gradient-descent-implementation|gradient-descent-implementation]]"
+learning-outcomes:
+  - "[[gradient-descent-implementation|gradient-descent-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Gradient Descent for Model Training

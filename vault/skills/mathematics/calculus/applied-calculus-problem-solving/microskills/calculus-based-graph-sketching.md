@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of derivatives for accurate curve sketching and analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

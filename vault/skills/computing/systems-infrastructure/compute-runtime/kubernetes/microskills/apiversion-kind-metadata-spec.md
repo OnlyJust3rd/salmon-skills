@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of key YAML fields for Kubernetes resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Designing software modules with clear responsibilities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

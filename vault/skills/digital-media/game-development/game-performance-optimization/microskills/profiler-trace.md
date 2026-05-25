@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Reading recorded runtime performance data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

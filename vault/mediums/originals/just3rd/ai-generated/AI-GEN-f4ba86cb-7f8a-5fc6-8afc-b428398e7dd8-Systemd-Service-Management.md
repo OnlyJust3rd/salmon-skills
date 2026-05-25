@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[systemd-service-management|systemd-service-management]]"
+learning-outcomes:
+  - "[[systemd-service-management|systemd-service-management]]"
 learning-time-in-minutes: 4
 ---
 # Managing System Services with Systemd

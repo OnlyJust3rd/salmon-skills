@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/curve-sketching-criteria|curve-sketching-criteria]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/applied-calculus-problem-solving/microskills/curve-sketching-criteria|curve-sketching-criteria]]"
 learning-time-in-minutes: 3
 ---
 # Curve Sketching Criteria: The Essential Checklist

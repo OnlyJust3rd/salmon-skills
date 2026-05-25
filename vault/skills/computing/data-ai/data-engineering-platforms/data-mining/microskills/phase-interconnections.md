@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how each phase of CRISP-DM relates to others.
+## Related Mediums
+
+![[bases/related-mediums.base]]

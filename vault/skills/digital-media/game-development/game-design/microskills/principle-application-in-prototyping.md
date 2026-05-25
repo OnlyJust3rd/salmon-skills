@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Translating theoretical game design principles into a functional game prototype.
+## Related Mediums
+
+![[bases/related-mediums.base]]

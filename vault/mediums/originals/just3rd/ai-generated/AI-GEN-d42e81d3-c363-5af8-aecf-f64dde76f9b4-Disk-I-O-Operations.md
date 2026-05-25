@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/disk-i-o-operations|disk-i-o-operations]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/operations-reliability/observability/system-monitoring/microskills/disk-i-o-operations|disk-i-o-operations]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Disk I/O Operations: A Key Infrastructure Metric

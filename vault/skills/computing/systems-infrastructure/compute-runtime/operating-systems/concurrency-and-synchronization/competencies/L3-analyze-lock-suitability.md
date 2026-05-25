@@ -49,3 +49,6 @@ Analyze the suitability of Test-and-Set, Compare-and-Swap, and Fetch-and-Add for
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-atomicity|Fetch-and-Add Atomicity]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/lock-mechanism-overhead|Lock Mechanism Overhead]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/concurrency-scenario-suitability|Concurrency Scenario Suitability]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

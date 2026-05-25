@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/career-development/it-career-path/microskills/role-comparison|role-comparison]]"
+learning-outcomes:
+  - "[[skills/professional-practice/career-development/it-career-path/microskills/role-comparison|role-comparison]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Differences: Coach, Mentor, and Sponsor

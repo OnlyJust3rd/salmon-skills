@@ -47,3 +47,6 @@ Explain the geometric interpretation of double integrals in polar coordinates an
 - [[triple-integral-interpretation-in-spherical-coordinates|Triple integral interpretation in spherical coordinates]]
 - [[coordinate-systems-for-area-calculation|Coordinate systems for area calculation]]
 - [[coordinate-systems-for-volume-calculation|Coordinate systems for volume calculation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

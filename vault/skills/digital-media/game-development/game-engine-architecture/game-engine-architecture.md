@@ -38,3 +38,6 @@ Understanding game loops, scene graphs, entities, components, asset loading, and
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/game-loop|Game Loop]]
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/scene-graph|Scene Graph]]
 - [[skills/digital-media/game-development/game-engine-architecture/microskills/update-method|Update Method]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

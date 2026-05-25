@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of visualizations representing data distributions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

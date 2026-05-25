@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recall the CMOS family and its key variants (e.g., 4000 series, 74HCxx).
+## Related Mediums
+
+![[bases/related-mediums.base]]

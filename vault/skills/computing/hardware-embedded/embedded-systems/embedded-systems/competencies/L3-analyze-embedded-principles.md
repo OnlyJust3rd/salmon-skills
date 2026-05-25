@@ -44,3 +44,6 @@ Analyze the principles of sensors, actuators, and signal transduction in IoT dev
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/principles-of-actuators|Principles of Actuators]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/signal-transduction-in-iot|Signal Transduction in IoT]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-systems/microskills/interaction-with-physical-environments|Interaction with Physical Environments]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

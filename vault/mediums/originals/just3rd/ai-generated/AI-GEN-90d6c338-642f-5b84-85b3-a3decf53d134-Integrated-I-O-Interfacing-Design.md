@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/integrated-i-o-interfacing-design|integrated-i-o-interfacing-design]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/integrated-i-o-interfacing-design|integrated-i-o-interfacing-design]]"
 learning-time-in-minutes: 6
 ---
 # Integrated I/O Interfacing Design

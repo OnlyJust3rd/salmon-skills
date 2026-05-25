@@ -45,3 +45,6 @@ Identify the different types of programmable logic devices (PLDs) and their gene
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pld-architectures|PLD Architectures]]
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pld-fundamental-characteristics|PLD Fundamental Characteristics]]
 - [[skills/computing/hardware-embedded/digital-logic/fpga-implementation/microskills/pld-classifications|PLD Classifications]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

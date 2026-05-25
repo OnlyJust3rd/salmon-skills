@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/classification-of-multivariable-extrema|classification-of-multivariable-extrema]]"
+learning-outcomes:
+  - "[[skills/mathematics/calculus/multivariable-calculus-analysis/microskills/classification-of-multivariable-extrema|classification-of-multivariable-extrema]]"
 learning-time-in-minutes: 4
 ---
 # Classifying Multivariable Extrema

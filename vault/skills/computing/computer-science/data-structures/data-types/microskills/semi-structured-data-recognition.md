@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to identify data with some organizational properties but not a rigid schema.
+## Related Mediums
+
+![[bases/related-mediums.base]]

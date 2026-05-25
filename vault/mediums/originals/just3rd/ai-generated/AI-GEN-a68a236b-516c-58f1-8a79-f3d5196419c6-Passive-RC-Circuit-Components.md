@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/passive-rc-circuit-components|passive-rc-circuit-components]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/filter-design/microskills/passive-rc-circuit-components|passive-rc-circuit-components]]"
 learning-time-in-minutes: 3
 ---
 # Passive RC Circuit Components

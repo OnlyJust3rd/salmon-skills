@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/genetic-programming-and-evolutionary-concepts|genetic-programming-and-evolutionary-concepts]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/genetic-programming-and-evolutionary-concepts|genetic-programming-and-evolutionary-concepts]]"
 learning-time-in-minutes: 4
 ---
 # Genetic Programming and Evolutionary Concepts

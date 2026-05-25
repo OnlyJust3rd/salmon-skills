@@ -21,3 +21,6 @@ Used when balancing consistency, write latency, read latency, and risk of data l
 ## Skill Connection
 
 This microskill supports [[skills/computing/systems-infrastructure/system-design/system-design|system-design]] by giving learners one concrete concept they can use in architecture discussions, interview prompts, and production design reviews.
+## Related Mediums
+
+![[bases/related-mediums.base]]

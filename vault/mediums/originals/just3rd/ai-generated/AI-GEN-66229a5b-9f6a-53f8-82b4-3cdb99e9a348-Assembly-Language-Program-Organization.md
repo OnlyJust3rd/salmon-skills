@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[assembly-language-program-organization|assembly-language-program-organization]]"
+learning-outcomes:
+  - "[[assembly-language-program-organization|assembly-language-program-organization]]"
 learning-time-in-minutes: 2
 ---
 # Assembly Language Program Organization

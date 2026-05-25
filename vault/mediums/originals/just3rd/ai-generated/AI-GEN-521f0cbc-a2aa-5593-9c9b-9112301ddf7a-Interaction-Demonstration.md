@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interaction-demonstration|interaction-demonstration]]"
+learning-outcomes:
+  - "[[interaction-demonstration|interaction-demonstration]]"
 learning-time-in-minutes: 3
 ---
 # Demonstrating XR Interactions in a Prototype

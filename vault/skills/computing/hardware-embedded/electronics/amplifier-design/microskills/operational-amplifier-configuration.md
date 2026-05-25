@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of basic op-amp circuit setups.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how microinstructions step through fetch/decode/execute routines.
+## Related Mediums
+
+![[bases/related-mediums.base]]

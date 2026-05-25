@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of communication between processes using Python's multiprocessing.
+## Related Mediums
+
+![[bases/related-mediums.base]]

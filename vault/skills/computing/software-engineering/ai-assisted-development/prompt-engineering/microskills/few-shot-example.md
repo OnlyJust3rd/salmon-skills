@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Providing examples that demonstrate expected output.
+## Related Mediums
+
+![[bases/related-mediums.base]]

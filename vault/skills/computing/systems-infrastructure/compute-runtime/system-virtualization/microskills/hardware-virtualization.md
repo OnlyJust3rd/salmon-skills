@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of how VMs utilize hardware.
+## Related Mediums
+
+![[bases/related-mediums.base]]

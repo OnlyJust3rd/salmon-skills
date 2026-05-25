@@ -49,3 +49,6 @@ Implement extractive summarization using LexRank and abstractive summarization u
 - [[abstractive-summarization-implementation|Abstractive Summarization Implementation]]
 - [[text-summary-generation|Text Summary Generation]]
 - [[neural-summarization-model-application|Neural Summarization Model Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

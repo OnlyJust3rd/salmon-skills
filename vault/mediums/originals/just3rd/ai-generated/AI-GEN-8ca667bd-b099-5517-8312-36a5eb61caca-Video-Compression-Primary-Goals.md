@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/multimedia-compression/microskills/video-compression-primary-goals|video-compression-primary-goals]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/multimedia-compression/microskills/video-compression-primary-goals|video-compression-primary-goals]]"
 learning-time-in-minutes: 3
 ---
 # Why Compress Video? Understanding the Core Goals

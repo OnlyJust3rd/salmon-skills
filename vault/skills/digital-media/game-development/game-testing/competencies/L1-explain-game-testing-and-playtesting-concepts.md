@@ -45,3 +45,6 @@ Explain game testing and playtesting concepts.
 - [[skills/digital-media/game-development/game-testing/microskills/playtest|Playtest]]
 - [[skills/digital-media/game-development/game-testing/microskills/bug-reproduction|Bug Reproduction]]
 - [[skills/digital-media/game-development/game-testing/microskills/balance-test|Balance Test]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

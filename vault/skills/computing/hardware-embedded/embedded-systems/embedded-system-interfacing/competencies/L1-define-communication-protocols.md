@@ -45,3 +45,6 @@ Define the fundamental characteristics and functions of UART, SPI, and I2C commu
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/spi-protocol-fundamentals|SPI Protocol Fundamentals]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/i2c-protocol-fundamentals|I2C Protocol Fundamentals]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/microskills/protocol-key-features|Protocol Key Features]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

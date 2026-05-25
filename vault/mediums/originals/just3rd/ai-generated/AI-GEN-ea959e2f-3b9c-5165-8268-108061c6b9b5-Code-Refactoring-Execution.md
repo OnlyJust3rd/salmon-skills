@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-refactoring-execution|code-refactoring-execution]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-refactoring-execution|code-refactoring-execution]]"
 learning-time-in-minutes: 4
 ---
 # Executing Code Refactoring: Improving Code Structure

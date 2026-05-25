@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of LSA for uncovering latent themes in text corpora.
+## Related Mediums
+
+![[bases/related-mediums.base]]

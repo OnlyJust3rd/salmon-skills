@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[information-extraction|information-extraction]]"
+learning-outcomes:
+  - "[[information-extraction|information-extraction]]"
 learning-time-in-minutes: 5
 ---
 # Extracting Structured Facts with Large Language Models

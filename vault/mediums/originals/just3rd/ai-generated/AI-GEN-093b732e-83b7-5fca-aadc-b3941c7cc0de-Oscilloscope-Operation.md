@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-operation|oscilloscope-operation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/electronic-measurement/microskills/oscilloscope-operation|oscilloscope-operation]]"
 learning-time-in-minutes: 6
 ---
 # Oscilloscope Operation: Displaying a Signal

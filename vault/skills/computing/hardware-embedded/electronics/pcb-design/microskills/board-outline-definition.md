@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Specifying the physical dimensions of the PCB.
+## Related Mediums
+
+![[bases/related-mediums.base]]

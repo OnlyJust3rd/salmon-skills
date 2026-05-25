@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/relevance-to-computational-evolution|relevance-to-computational-evolution]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/microskills/relevance-to-computational-evolution|relevance-to-computational-evolution]]"
 learning-time-in-minutes: 3
 ---
 # Bridging Biology and Code: Evolutionary Theory in Computation

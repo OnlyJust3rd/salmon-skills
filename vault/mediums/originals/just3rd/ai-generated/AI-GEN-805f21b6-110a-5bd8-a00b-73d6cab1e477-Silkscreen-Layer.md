@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/silkscreen-layer|silkscreen-layer]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/electronics/pcb-design/microskills/silkscreen-layer|silkscreen-layer]]"
 learning-time-in-minutes: 5
 ---
 # Understanding the Silkscreen Layer in PCB Design

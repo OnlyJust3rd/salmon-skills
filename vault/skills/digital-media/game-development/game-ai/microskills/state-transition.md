@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Changing behavior based on conditions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

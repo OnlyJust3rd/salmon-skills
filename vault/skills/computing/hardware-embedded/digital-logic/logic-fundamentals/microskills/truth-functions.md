@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Connection between logic gates and truth functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

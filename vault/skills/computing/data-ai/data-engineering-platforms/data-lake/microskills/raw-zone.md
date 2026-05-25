@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding unprocessed landing areas for source data.
+## Related Mediums
+
+![[bases/related-mediums.base]]

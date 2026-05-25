@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Managing model complexity for performance.
+## Related Mediums
+
+![[bases/related-mediums.base]]

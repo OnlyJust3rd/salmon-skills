@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the discount rate at which NPV is zero.
+## Related Mediums
+
+![[bases/related-mediums.base]]

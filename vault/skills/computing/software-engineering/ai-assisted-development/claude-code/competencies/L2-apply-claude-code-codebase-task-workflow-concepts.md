@@ -47,3 +47,6 @@ Apply Claude Code codebase task workflow concepts.
 - [[repository-inspection|Repository Inspection]]
 - [[command-based-verification|Command-Based Verification]]
 - [[patch-iteration|Patch Iteration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

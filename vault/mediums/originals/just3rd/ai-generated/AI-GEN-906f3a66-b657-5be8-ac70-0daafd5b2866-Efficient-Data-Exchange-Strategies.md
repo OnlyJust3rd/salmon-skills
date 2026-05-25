@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/efficient-data-exchange-strategies|efficient-data-exchange-strategies]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/parallel-programming/microskills/efficient-data-exchange-strategies|efficient-data-exchange-strategies]]"
 learning-time-in-minutes: 3
 ---
 # Efficient Data Exchange Strategies with MPI Collective Functions

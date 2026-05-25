@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation of results from applying scheduling algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

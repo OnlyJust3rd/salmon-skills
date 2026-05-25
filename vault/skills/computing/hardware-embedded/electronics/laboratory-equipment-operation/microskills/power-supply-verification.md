@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ensuring power supply functionality through equipment operation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

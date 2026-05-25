@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Distinguishing between the unique challenges and problem spaces of different Computer Engineering fields.
+## Related Mediums
+
+![[bases/related-mediums.base]]

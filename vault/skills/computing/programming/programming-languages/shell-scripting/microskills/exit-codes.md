@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using command success or failure to control automation flow.
+## Related Mediums
+
+![[bases/related-mediums.base]]

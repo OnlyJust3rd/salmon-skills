@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of triggers initiated on a schedule.
+## Related Mediums
+
+![[bases/related-mediums.base]]

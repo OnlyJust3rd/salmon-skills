@@ -23,3 +23,6 @@ Required in:
 ## Description
 
 Treating the codebase as shared team responsibility instead of isolated ownership.
+## Related Mediums
+
+![[bases/related-mediums.base]]

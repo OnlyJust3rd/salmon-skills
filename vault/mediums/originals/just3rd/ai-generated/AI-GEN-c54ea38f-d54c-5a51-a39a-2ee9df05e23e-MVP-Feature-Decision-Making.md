@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/mvp-feature-decision-making|mvp-feature-decision-making]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/mvp-feature-decision-making|mvp-feature-decision-making]]"
 learning-time-in-minutes: 5
 ---
 # MVP Feature Decision Making with BML

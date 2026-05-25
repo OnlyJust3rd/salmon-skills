@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in creating valid YAML manifests for Pods.
+## Related Mediums
+
+![[bases/related-mediums.base]]

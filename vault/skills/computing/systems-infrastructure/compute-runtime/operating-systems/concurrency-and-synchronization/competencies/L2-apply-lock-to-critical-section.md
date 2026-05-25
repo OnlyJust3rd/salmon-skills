@@ -45,3 +45,6 @@ Apply Test-and-Set, Compare-and-Swap, or Fetch-and-Add to protect a simple criti
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/compare-and-swap-lock-implementation|Compare-and-Swap Lock Implementation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/fetch-and-add-lock-implementation|Fetch-and-Add Lock Implementation]]
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/concurrency-and-synchronization/microskills/mutual-exclusion-implementation|Mutual Exclusion Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

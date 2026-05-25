@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding compute services such as virtual machines, containers, and serverless functions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

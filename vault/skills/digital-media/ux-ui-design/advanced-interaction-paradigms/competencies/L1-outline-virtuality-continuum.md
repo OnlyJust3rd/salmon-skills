@@ -43,3 +43,6 @@ Outline the concept of the virtuality continuum and its position relative to VR 
 - [[virtuality-continuum-concept|Virtuality Continuum Concept]]
 - [[vr-and-ar-positioning|VR and AR Positioning]]
 - [[spectrum-interpretation|Spectrum Interpretation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

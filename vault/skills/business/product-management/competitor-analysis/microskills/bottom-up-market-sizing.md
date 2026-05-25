@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Estimating from specific customer segments.
+## Related Mediums
+
+![[bases/related-mediums.base]]

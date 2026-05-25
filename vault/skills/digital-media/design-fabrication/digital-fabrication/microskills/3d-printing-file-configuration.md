@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Adjusting design parameters for compatibility with 3D printing technology.
+## Related Mediums
+
+![[bases/related-mediums.base]]

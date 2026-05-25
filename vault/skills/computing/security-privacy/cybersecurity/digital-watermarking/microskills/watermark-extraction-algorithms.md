@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementation of algorithms for extracting embedded watermarks.
+## Related Mediums
+
+![[bases/related-mediums.base]]

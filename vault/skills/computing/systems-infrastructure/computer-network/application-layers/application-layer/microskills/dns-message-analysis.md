@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Detailed examination of DNS message components.
+## Related Mediums
+
+![[bases/related-mediums.base]]

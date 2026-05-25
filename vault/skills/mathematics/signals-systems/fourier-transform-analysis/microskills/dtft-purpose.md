@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the reason for using the DTFT in signal analysis.
+## Related Mediums
+
+![[bases/related-mediums.base]]

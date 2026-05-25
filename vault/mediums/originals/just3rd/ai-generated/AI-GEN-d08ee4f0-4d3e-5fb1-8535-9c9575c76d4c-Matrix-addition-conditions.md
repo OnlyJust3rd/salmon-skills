@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-addition-conditions|matrix-addition-conditions]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/matrix-algebra/microskills/matrix-addition-conditions|matrix-addition-conditions]]"
 learning-time-in-minutes: 3
 ---
 # Matrix Addition Conditions

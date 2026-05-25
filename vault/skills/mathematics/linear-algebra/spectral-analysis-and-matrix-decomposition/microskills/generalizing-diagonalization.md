@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognizing JCF as a more general form than diagonal matrices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

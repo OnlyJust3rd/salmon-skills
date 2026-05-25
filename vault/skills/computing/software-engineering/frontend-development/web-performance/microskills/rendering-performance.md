@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how layout, style, and script work affects visual updates.
+## Related Mediums
+
+![[bases/related-mediums.base]]

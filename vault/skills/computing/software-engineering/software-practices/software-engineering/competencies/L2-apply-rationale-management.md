@@ -43,3 +43,6 @@ Document alternatives considered and justifications behind team decisions using 
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/decision-alternatives-documentation|Decision Alternatives Documentation]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/decision-justification|Decision Justification]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/microskills/team-decision-making-process|Team Decision-Making Process]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

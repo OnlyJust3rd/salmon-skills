@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[heatmap-interpretation|heatmap-interpretation]]"
+learning-outcomes:
+  - "[[heatmap-interpretation|heatmap-interpretation]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Heatmaps for Text Visualization

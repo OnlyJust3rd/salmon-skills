@@ -63,3 +63,6 @@ Translate common algorithm paradigms into functional Java code to address specif
 
 - [[skills/computing/programming/programming-languages/java-programming/microskills/algorithm-to-java-translation|Algorithm to Java Translation]]
 - [[skills/computing/programming/programming-languages/java-programming/microskills/problem-type-algorithm-implementation|Problem Type Algorithm Implementation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

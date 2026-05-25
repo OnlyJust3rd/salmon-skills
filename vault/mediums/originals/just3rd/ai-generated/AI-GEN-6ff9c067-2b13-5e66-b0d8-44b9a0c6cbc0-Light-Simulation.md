@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/light-simulation|light-simulation]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/rendering-and-visual-realism/microskills/light-simulation|light-simulation]]"
 learning-time-in-minutes: 5
 ---
 # Light Simulation: Bringing Surfaces to Life

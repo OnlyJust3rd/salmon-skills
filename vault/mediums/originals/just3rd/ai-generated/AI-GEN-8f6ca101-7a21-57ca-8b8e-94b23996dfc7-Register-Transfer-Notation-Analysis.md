@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/register-transfer-notation-analysis|register-transfer-notation-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/machine-instruction/microskills/register-transfer-notation-analysis|register-transfer-notation-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Register Transfer Notation (RTN)

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-purpose|code-review-purpose]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/testing-quality/quality-assurance/microskills/code-review-purpose|code-review-purpose]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the Purpose of Code Reviews

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of characteristics, suitability, and applications of Wi-Fi, BLE, and ZigBee for IoT.
+## Related Mediums
+
+![[bases/related-mediums.base]]

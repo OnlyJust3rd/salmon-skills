@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulation of how number theory concepts are interconnected for cryptographic systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

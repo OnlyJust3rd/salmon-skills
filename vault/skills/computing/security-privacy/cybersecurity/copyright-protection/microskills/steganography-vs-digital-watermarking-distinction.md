@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Core distinctions between steganography and digital watermarking.
+## Related Mediums
+
+![[bases/related-mediums.base]]

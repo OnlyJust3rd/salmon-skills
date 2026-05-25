@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/extensibility-analysis|extensibility-analysis]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/extensibility-analysis|extensibility-analysis]]"
 learning-time-in-minutes: 4
 ---
 # Analyzing Extensibility in Object-Oriented Design

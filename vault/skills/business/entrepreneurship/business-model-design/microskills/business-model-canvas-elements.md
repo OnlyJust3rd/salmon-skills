@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Components of the BMC.
+## Related Mediums
+
+![[bases/related-mediums.base]]

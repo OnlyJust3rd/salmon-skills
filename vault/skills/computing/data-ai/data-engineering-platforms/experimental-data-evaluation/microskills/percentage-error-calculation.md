@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of formulas to compute percentage error.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Skills in updating existing software packages.
+## Related Mediums
+
+![[bases/related-mediums.base]]

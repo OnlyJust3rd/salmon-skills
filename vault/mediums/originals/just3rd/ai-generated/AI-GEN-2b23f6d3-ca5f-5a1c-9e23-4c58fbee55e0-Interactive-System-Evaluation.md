@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[interactive-system-evaluation|interactive-system-evaluation]]"
+learning-outcomes:
+  - "[[interactive-system-evaluation|interactive-system-evaluation]]"
 learning-time-in-minutes: 5
 ---
 # Conducting Interactive System Evaluations

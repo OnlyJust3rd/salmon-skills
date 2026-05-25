@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-design-translation|processor-design-translation]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/computer-architecture/processor-design/microskills/processor-design-translation|processor-design-translation]]"
 learning-time-in-minutes: 4
 ---
 # Translating Processor Design into an Emulator Implementation

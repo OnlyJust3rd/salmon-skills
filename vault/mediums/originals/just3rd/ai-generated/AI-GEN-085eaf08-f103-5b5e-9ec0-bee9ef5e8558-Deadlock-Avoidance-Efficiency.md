@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|deadlock-avoidance-efficiency]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/deadlock-management/microskills/deadlock-avoidance-efficiency|deadlock-avoidance-efficiency]]"
 learning-time-in-minutes: 4
 ---
 # Deadlock Avoidance Algorithm Efficiency

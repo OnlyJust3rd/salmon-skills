@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of automated release and deployment processes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

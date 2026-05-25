@@ -45,3 +45,6 @@ Explain the foundational concepts of Linux system administration, including the 
 - [[acyclic-graph-directory-structure|Acyclic Graph Directory Structure]]
 - [[file-attributes-and-ownership|File Attributes and Ownership]]
 - [[file-permissions-concepts|File Permissions Concepts]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

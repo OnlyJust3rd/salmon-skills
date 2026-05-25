@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Articulating the application of different diagram types.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assign responsibilities for each action item to appropriate team roles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

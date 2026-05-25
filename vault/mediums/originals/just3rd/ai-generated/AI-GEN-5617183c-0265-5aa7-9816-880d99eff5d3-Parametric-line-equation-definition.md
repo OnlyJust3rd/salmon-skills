@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/geometry/geometric-formulation/microskills/parametric-line-equation-definition|parametric-line-equation-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/geometry/geometric-formulation/microskills/parametric-line-equation-definition|parametric-line-equation-definition]]"
 learning-time-in-minutes: 4
 ---
 # Parametric Line Equation Definition in 3D

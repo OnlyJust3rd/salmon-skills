@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/common-data-structure-identification|common-data-structure-identification]]"
+learning-outcomes:
+  - "[[skills/computing/computer-science/data-structures/data-structure-principles/microskills/common-data-structure-identification|common-data-structure-identification]]"
 learning-time-in-minutes: 4
 ---
 # Identifying Common Data Structures

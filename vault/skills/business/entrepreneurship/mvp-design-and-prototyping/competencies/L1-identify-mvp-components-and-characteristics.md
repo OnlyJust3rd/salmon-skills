@@ -43,3 +43,6 @@ Identify the core components and essential features of a Minimum Viable Product 
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/minimum-viable-product-core|Minimum Viable Product Core]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/essential-mvp-features|Essential MVP Features]]
 - [[skills/business/entrepreneurship/mvp-design-and-prototyping/microskills/mvp-definition|MVP Definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

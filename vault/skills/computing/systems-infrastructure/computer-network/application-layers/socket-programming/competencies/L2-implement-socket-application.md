@@ -49,3 +49,6 @@ Implement a simple client-server application using socket programming for a spec
 - [[client-server-application-development|Client-Server Application Development]]
 - [[protocol-integration|Protocol Integration]]
 - [[network-application-construction|Network Application Construction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

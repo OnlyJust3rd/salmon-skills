@@ -45,3 +45,6 @@ Explain the purpose and function of common congestion control mechanisms (e.g., 
 - [[congestion-control-mechanisms|Congestion Control Mechanisms]]
 - [[tcp-congestion-management|TCP Congestion Management]]
 - [[network-flow-regulation|Network Flow Regulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

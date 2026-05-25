@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpreting the kernel to determine if a transformation is one-to-one.
+## Related Mediums
+
+![[bases/related-mediums.base]]

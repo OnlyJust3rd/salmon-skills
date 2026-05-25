@@ -54,3 +54,6 @@ Programming AVR microcontroller serial communication peripherals in bare-metal C
 - [[uart-baud-rate-registers|UART Baud Rate Registers]]
 - [[uart-data-reception|UART Data Reception]]
 - [[uart-data-transmission|UART Data Transmission]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

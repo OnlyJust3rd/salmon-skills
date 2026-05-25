@@ -43,3 +43,6 @@ Implement dimensionality reduction techniques using Python libraries like Scikit
 - [[pca-implementation|PCA implementation]]
 - [[svd-implementation|SVD implementation]]
 - [[feature-selection|Feature selection]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

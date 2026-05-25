@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Applying architectural principles to connect application layers with databases.
+## Related Mediums
+
+![[bases/related-mediums.base]]

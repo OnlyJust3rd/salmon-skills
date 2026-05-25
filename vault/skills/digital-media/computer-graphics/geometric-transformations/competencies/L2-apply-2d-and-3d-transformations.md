@@ -43,3 +43,6 @@ Apply translation, scaling, and rotation transformations to specified 2D points 
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/2d-transformation-application|2D Transformation Application]]
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/3d-transformation-application|3D Transformation Application]]
 - [[skills/digital-media/computer-graphics/geometric-transformations/microskills/geometric-manipulation|Geometric Manipulation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

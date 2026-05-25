@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Accurate recall of the statement of the Fundamental Theorem of Calculus.
+## Related Mediums
+
+![[bases/related-mediums.base]]

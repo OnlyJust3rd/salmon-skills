@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of how imperceptibility, robustness, and capacity affect each other.
+## Related Mediums
+
+![[bases/related-mediums.base]]

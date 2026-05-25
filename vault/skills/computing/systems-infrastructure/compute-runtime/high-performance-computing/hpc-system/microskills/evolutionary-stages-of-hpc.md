@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing significant phases and transitions in HPC history.
+## Related Mediums
+
+![[bases/related-mediums.base]]

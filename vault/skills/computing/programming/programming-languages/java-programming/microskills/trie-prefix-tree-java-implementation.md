@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Coding the Trie data structure in Java.
+## Related Mediums
+
+![[bases/related-mediums.base]]

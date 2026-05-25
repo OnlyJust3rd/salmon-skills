@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the specific functions of each solution.
+## Related Mediums
+
+![[bases/related-mediums.base]]

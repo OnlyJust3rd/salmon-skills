@@ -38,3 +38,6 @@ Understanding shader stages, materials, lighting inputs, texture sampling, and G
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/texture-sampling|Texture Sampling]]
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/vertex-shader|Vertex Shader]]
 - [[skills/digital-media/computer-graphics/shader-programming/microskills/visual-effect-parameter|Visual Effect Parameter]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-document-validity|json-document-validity]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/backend-development/json-format/microskills/json-document-validity|json-document-validity]]"
 learning-time-in-minutes: 4
 ---
 # Understanding JSON Document Validity

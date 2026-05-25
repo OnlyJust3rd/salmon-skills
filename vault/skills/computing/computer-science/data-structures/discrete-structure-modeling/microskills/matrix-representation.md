@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Using matrices to model relationships and data in discrete structures.
+## Related Mediums
+
+![[bases/related-mediums.base]]

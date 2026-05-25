@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Apply basic centralized error responses for APIs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

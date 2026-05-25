@@ -47,3 +47,6 @@ Apply the mathematical foundations to illustrate the mechanics of Diffie-Hellman
 - [[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/el-gamal-mechanics|El Gamal Mechanics]]
 - [[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/rsa-mechanics|RSA Mechanics]]
 - [[skills/computing/security-privacy/cybersecurity/asymmetric-algorithm-mechanics/microskills/public-key-algorithm-illustration|Public Key Algorithm Illustration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

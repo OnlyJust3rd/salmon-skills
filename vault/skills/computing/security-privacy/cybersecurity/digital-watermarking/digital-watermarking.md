@@ -70,3 +70,6 @@ Design, implement, and evaluate digital watermarking techniques for embedding ow
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-embedding-process|Watermark Embedding Process]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermark-extraction-algorithms|Watermark Extraction Algorithms]]
 - [[skills/computing/security-privacy/cybersecurity/digital-watermarking/microskills/watermarking-rationale|Watermarking Rationale]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

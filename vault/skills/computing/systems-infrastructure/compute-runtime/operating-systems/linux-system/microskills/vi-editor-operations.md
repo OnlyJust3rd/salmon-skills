@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Competence in using the Vi editor for creating and editing text files.
+## Related Mediums
+
+![[bases/related-mediums.base]]

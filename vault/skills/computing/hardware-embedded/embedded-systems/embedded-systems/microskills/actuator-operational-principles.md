@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation and articulation of the purpose of output devices.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[text-data-visualization-implementation|text-data-visualization-implementation]]"
+learning-outcomes:
+  - "[[text-data-visualization-implementation|text-data-visualization-implementation]]"
 learning-time-in-minutes: 3
 ---
 # Implementing Text Data Visualizations

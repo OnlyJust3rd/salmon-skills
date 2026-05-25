@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of synchronous serial communication principles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

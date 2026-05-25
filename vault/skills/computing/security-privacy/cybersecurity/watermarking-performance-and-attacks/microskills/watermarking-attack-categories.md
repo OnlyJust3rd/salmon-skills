@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing of different categories of attacks on watermarking systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

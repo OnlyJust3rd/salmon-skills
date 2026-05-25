@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the main tenets established by the Act.
+## Related Mediums
+
+![[bases/related-mediums.base]]

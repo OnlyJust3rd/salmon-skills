@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/lakehouse-table|lakehouse-table]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/databricks/microskills/lakehouse-table|lakehouse-table]]"
 learning-time-in-minutes: 3
 ---
 # Managing Lakehouse Tables

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Core operations and features of a VPC.
+## Related Mediums
+
+![[bases/related-mediums.base]]

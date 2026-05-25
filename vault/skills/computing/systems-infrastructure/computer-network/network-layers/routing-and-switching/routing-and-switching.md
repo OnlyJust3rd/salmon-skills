@@ -38,3 +38,6 @@ Understanding network forwarding, switching, VLANs, routing decisions, and IP su
 - [[packet-forwarding|Packet Forwarding]]
 - [[route-selection|Route Selection]]
 - [[vlan-membership|VLAN Membership]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

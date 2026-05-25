@@ -25,3 +25,6 @@ Required in:
 ## Description
 
 Using frequent feedback from users, customers, or stakeholders to guide work.
+## Related Mediums
+
+![[bases/related-mediums.base]]

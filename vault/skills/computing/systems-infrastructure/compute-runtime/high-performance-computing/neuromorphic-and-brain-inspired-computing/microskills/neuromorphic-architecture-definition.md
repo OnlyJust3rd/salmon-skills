@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recollection of the fundamental definition of neuromorphic architecture.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/horizontal-scaling-implementation|horizontal-scaling-implementation]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-scalability/microskills/horizontal-scaling-implementation|horizontal-scaling-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Horizontal Scaling with VM Scale Sets

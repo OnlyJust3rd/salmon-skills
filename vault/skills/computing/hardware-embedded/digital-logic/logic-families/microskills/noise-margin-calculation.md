@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how noise margins are derived from VOH, VOL, VIH, VIL specifications.
+## Related Mediums
+
+![[bases/related-mediums.base]]

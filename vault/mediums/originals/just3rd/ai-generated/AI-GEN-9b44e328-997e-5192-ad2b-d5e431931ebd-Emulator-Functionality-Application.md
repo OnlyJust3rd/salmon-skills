@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/emulator-functionality-application|emulator-functionality-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/emulator-functionality-application|emulator-functionality-application]]"
 learning-time-in-minutes: 4
 ---
 # Emulator Functionality Application

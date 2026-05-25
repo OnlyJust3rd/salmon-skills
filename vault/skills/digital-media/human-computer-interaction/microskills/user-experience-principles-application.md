@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of UX principles to conceptualize interface designs.
+## Related Mediums
+
+![[bases/related-mediums.base]]

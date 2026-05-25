@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of fundamental software aspects of microcontrollers.
+## Related Mediums
+
+![[bases/related-mediums.base]]

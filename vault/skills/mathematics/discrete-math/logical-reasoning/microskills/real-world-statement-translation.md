@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Conversion of everyday language into propositional logic notation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

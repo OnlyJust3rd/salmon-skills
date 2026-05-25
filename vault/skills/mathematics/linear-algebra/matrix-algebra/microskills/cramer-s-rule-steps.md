@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Execution of the procedure to solve systems using determinants.
+## Related Mediums
+
+![[bases/related-mediums.base]]

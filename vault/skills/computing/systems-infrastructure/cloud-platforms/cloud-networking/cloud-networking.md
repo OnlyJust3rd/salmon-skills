@@ -45,3 +45,6 @@ Configure cloud networking, including virtual networks, subnet segmentation, Net
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/resource-access-control|Resource Access Control]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/subnet-segmentation|Subnet Segmentation]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/microskills/virtual-network-configuration|Virtual Network Configuration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

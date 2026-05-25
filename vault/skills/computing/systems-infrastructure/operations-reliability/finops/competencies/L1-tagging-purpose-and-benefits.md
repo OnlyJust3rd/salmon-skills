@@ -45,3 +45,6 @@ Explain the purpose and benefits of resource tagging for cloud cost management a
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/cost-allocation-and-chargeback|Cost Allocation and Chargeback]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/governance-and-policy-enforcement|Governance and Policy Enforcement]]
 - [[skills/computing/systems-infrastructure/operations-reliability/finops/microskills/automation-with-tags|Automation with Tags]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

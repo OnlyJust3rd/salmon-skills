@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding authenticated continuity across requests.
+## Related Mediums
+
+![[bases/related-mediums.base]]

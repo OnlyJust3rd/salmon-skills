@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[socket-programming-implementation|socket-programming-implementation]]"
+learning-outcomes:
+  - "[[socket-programming-implementation|socket-programming-implementation]]"
 learning-time-in-minutes: 4
 ---
 # Socket Programming Implementation

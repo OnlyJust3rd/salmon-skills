@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of communication patterns based on events.
+## Related Mediums
+
+![[bases/related-mediums.base]]

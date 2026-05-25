@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to construct Karnaugh Maps.
+## Related Mediums
+
+![[bases/related-mediums.base]]

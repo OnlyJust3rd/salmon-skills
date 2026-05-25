@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Application of principles related to visual aesthetics.
+## Related Mediums
+
+![[bases/related-mediums.base]]

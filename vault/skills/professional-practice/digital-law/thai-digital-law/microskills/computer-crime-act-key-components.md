@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the significant clauses within the Act.
+## Related Mediums
+
+![[bases/related-mediums.base]]

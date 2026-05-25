@@ -45,3 +45,6 @@ Explain web accessibility principles for semantic structure, keyboard interactio
 - [[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/semantic-accessibility|Semantic Accessibility]]
 - [[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/keyboard-accessibility|Keyboard Accessibility]]
 - [[skills/computing/software-engineering/frontend-development/web-accessibility/microskills/accessible-presentation|Accessible Presentation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

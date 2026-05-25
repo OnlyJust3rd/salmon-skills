@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/error-identification-and-correction|error-identification-and-correction]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/embedded-systems/emulator-usage/microskills/error-identification-and-correction|error-identification-and-correction]]"
 learning-time-in-minutes: 5
 ---
 # Identifying and Correcting Errors in Processor Designs using an Emulator

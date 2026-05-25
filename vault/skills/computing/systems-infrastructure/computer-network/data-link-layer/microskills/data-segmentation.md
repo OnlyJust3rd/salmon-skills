@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 How data is divided for transmission at the link layer.
+## Related Mediums
+
+![[bases/related-mediums.base]]

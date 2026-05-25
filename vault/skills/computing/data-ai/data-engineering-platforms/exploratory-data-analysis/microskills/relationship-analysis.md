@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Examination of interdependencies between data variables.
+## Related Mediums
+
+![[bases/related-mediums.base]]

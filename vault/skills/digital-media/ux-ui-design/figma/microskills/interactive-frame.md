@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creating screens connected by prototype behavior.
+## Related Mediums
+
+![[bases/related-mediums.base]]

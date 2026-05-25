@@ -43,3 +43,6 @@ Analyze the trade-offs between different potential solutions for an engineering 
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/engineering-solution-evaluation|Engineering Solution Evaluation]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/trade-off-analysis-criteria|Trade-off Analysis Criteria]]
 - [[skills/professional-practice/engineering-practices/engineering-process/microskills/requirement-based-solution-comparison|Requirement-Based Solution Comparison]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

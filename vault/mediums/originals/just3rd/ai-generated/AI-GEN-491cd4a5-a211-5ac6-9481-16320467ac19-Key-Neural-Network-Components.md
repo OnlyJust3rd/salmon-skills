@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[key-neural-network-components|key-neural-network-components]]"
+learning-outcomes:
+  - "[[key-neural-network-components|key-neural-network-components]]"
 learning-time-in-minutes: 4
 ---
 # Key Neural Network Components

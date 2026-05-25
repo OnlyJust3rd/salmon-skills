@@ -47,3 +47,6 @@ Explain Firebase backend-as-a-service concepts.
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-authentication|Firebase Authentication]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-database-service|Firebase Database Service]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/firebase/microskills/firebase-hosting|Firebase Hosting]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

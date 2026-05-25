@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Creation of interface designs prioritizing usability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

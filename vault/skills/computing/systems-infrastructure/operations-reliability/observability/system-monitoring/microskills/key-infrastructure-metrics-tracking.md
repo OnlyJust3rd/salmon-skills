@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Ability to monitor CPU, memory, disk I/O, and network throughput.
+## Related Mediums
+
+![[bases/related-mediums.base]]

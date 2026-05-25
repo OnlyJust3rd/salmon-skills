@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Implementing algorithms (e.g., pre-order, in-order, post-order) for tree node visitation.
+## Related Mediums
+
+![[bases/related-mediums.base]]

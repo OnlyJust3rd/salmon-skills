@@ -45,3 +45,6 @@ Explain how the Fundamental Theorem of Calculus facilitates the evaluation of de
 
 - [[fundamental-theorem-of-calculus-for-definite-integrals|Fundamental Theorem of Calculus for definite integrals]]
 - [[transition-between-differentiation-and-integration|Transition between differentiation and integration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of different data types available in C and their uses.
+## Related Mediums
+
+![[bases/related-mediums.base]]

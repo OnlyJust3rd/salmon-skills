@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Knowledge of duties and expectations within different tech roles.
+## Related Mediums
+
+![[bases/related-mediums.base]]

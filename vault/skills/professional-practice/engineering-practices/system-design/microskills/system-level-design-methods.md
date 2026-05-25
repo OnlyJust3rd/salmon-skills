@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Enumeration of various techniques for designing integrated hardware and software systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

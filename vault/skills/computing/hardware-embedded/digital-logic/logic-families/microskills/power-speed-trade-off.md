@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of the trade-off between propagation delay and power consumption across families.
+## Related Mediums
+
+![[bases/related-mediums.base]]

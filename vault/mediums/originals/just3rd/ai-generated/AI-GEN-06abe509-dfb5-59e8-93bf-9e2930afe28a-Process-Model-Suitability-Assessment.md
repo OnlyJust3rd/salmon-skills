@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/process-model-suitability-assessment|process-model-suitability-assessment]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-practices/software-engineering/microskills/process-model-suitability-assessment|process-model-suitability-assessment]]"
 learning-time-in-minutes: 5
 ---
 # Assessing Process Model Suitability for Software Projects

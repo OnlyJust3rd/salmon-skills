@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the tunability evaluation criterion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

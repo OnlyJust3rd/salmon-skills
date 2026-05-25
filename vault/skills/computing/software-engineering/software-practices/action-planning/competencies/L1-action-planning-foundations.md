@@ -42,3 +42,6 @@ Explain the purpose and structure of action planning in engineering projects.
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/action-planning-purpose|Action planning purpose]]
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/task-to-milestone-mapping|Task-to-milestone mapping]]
 - [[skills/computing/software-engineering/software-practices/action-planning/microskills/iterative-plan-refinement|Iterative plan refinement]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

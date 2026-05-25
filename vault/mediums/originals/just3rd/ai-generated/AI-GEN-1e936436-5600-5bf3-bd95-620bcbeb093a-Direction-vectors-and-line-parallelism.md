@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/linear-algebra/vector/microskills/direction-vectors-and-line-parallelism|direction-vectors-and-line-parallelism]]"
+learning-outcomes:
+  - "[[skills/mathematics/linear-algebra/vector/microskills/direction-vectors-and-line-parallelism|direction-vectors-and-line-parallelism]]"
 learning-time-in-minutes: 4
 ---
 # Direction Vectors and Line Parallelism

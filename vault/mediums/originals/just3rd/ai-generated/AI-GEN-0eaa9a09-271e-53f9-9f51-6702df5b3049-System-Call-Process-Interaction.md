@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|system-call-process-interaction]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/process-management-and-system-calls/microskills/system-call-process-interaction|system-call-process-interaction]]"
 learning-time-in-minutes: 4
 ---
 # Understanding System Call Process Interaction

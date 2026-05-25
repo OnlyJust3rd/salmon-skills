@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Developing digital designs intended for physical production.
+## Related Mediums
+
+![[bases/related-mediums.base]]

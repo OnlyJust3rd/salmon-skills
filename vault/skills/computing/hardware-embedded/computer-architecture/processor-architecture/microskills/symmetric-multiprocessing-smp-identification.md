@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Recognition of SMP systems in practical computing scenarios.
+## Related Mediums
+
+![[bases/related-mediums.base]]

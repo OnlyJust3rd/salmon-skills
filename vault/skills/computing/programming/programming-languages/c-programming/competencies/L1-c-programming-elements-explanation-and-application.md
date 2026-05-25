@@ -47,3 +47,6 @@ Explain the syntax, semantics, and application of fundamental C programming cons
 - [[skills/computing/programming/programming-languages/c-programming/microskills/c-operator-application|C operator application]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/c-control-flow-statement-application|C control flow statement application]]
 - [[skills/computing/programming/programming-languages/c-programming/microskills/program-logic-construction|Program logic construction]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

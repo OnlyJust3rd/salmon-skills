@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/ic-package-identification|ic-package-identification]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/digital-circuit-construction/microskills/ic-package-identification|ic-package-identification]]"
 learning-time-in-minutes: 4
 ---
 # IC Package Identification: Decoding the Integrated Circuit

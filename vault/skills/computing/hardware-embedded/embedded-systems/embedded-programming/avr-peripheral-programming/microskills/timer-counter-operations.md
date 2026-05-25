@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Definition of the functions of timers and counters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

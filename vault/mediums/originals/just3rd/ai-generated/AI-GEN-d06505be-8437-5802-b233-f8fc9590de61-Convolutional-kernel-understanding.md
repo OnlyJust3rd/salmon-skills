@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[convolutional-kernel-understanding|convolutional-kernel-understanding]]"
+learning-outcomes:
+  - "[[convolutional-kernel-understanding|convolutional-kernel-understanding]]"
 learning-time-in-minutes: 3
 ---
 # Understanding Convolutional Kernels

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/inverse-z-transform-definition|inverse-z-transform-definition]]"
+learning-outcomes:
+  - "[[skills/mathematics/signals-systems/complex-frequency-domain-analysis/microskills/inverse-z-transform-definition|inverse-z-transform-definition]]"
 learning-time-in-minutes: 3
 ---
 # Inverse Z-Transform Definition

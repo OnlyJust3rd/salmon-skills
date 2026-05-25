@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-design-patterns|class-design-patterns]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-paradigms/object-oriented-programming/microskills/class-design-patterns|class-design-patterns]]"
 learning-time-in-minutes: 4
 ---
 # Crafting Classes: Essential Design Patterns

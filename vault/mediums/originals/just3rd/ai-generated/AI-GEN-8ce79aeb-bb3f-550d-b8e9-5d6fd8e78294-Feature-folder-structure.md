@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/frontend-development/react/microskills/feature-folder-structure|feature-folder-structure]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/frontend-development/react/microskills/feature-folder-structure|feature-folder-structure]]"
 learning-time-in-minutes: 3
 ---
 # Feature Folder Structure in React

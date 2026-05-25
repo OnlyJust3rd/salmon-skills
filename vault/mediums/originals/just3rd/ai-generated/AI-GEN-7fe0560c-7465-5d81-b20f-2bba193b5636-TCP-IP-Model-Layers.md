@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[tcp-ip-model-layers|tcp-ip-model-layers]]"
+learning-outcomes:
+  - "[[tcp-ip-model-layers|tcp-ip-model-layers]]"
 learning-time-in-minutes: 4
 ---
 # Understanding the TCP/IP Model Layers

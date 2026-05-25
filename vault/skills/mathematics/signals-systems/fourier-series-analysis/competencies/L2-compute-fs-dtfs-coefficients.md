@@ -45,3 +45,6 @@ Decompose periodic signals into sine and cosine terms using the Fourier Series a
 - [[periodic-signal-decomposition|Periodic Signal Decomposition]]
 - [[fs-coefficient-calculation|FS Coefficient Calculation]]
 - [[dtfs-coefficient-calculation|DTFS Coefficient Calculation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

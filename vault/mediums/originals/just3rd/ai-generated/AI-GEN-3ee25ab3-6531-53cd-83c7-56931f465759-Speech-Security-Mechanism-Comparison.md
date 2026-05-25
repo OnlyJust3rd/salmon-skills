@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/speech-security-mechanism-comparison|speech-security-mechanism-comparison]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/speech-security-assessment/microskills/speech-security-mechanism-comparison|speech-security-mechanism-comparison]]"
 learning-time-in-minutes: 4
 ---
 # Speech Security Mechanism Comparison

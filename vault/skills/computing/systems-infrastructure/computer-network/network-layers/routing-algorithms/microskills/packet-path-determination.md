@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Showing how routes are selected within a network.
+## Related Mediums
+
+![[bases/related-mediums.base]]

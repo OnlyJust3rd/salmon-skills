@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding unique per-password inputs that reduce precomputed attack usefulness.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[usability-testing-phases|usability-testing-phases]]"
+learning-outcomes:
+  - "[[usability-testing-phases|usability-testing-phases]]"
 learning-time-in-minutes: 4
 ---
 # Usability Testing Phases

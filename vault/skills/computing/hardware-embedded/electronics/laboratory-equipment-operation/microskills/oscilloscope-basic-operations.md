@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of basic operations of oscilloscopes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/startup-communication/microskills/messaging-adaptation|messaging-adaptation]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/startup-communication/microskills/messaging-adaptation|messaging-adaptation]]"
 learning-time-in-minutes: 5
 ---
 # Adapting Your Startup Message

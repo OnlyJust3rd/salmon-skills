@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Providing concrete suggestions for enhancing usability.
+## Related Mediums
+
+![[bases/related-mediums.base]]

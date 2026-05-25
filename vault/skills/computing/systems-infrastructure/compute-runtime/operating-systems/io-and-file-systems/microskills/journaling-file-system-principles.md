@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the mechanisms of journaling file systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

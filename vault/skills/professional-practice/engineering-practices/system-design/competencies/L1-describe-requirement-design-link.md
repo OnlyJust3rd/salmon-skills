@@ -43,3 +43,6 @@ Describe the relationship between requirement specification and system-level des
 
 - [[skills/professional-practice/engineering-practices/system-design/microskills/influence-of-requirements-on-design|Influence of Requirements on Design]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/requirement-specification-to-system-architecture-relationship|Requirement Specification to System Architecture Relationship]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

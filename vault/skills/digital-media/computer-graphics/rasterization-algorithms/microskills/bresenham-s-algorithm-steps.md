@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Listing and understanding the sequential operations of Bresenham's algorithm.
+## Related Mediums
+
+![[bases/related-mediums.base]]

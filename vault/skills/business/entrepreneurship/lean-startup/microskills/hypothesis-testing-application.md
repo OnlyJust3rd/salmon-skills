@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical use of the BML cycle for testing assumptions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

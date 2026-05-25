@@ -49,3 +49,6 @@ Analyze the trade-offs between different cloud infrastructure architectural deci
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/compute-instance-trade-offs|Compute Instance Trade-offs]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/storage-trade-offs|Storage Trade-offs]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-infrastructure/cloud-infrastructure/microskills/architectural-decision-analysis|Architectural Decision Analysis]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

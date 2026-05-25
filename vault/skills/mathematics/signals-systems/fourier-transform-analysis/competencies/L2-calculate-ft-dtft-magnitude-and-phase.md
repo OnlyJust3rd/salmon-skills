@@ -47,3 +47,6 @@ Calculate the magnitude and phase representation of the FT and DTFT for given si
 - [[dtft-magnitude-calculation|DTFT Magnitude Calculation]]
 - [[dtft-phase-calculation|DTFT Phase Calculation]]
 - [[magnitude-and-phase-spectra-computation|Magnitude and Phase Spectra Computation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

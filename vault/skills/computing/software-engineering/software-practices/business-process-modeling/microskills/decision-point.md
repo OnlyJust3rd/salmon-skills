@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding branching behavior in workflows.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/legal-finance-governance/contractual-agreements/microskills/contextual-applicability|contextual-applicability]]"
+learning-outcomes:
+  - "[[skills/business/legal-finance-governance/contractual-agreements/microskills/contextual-applicability|contextual-applicability]]"
 learning-time-in-minutes: 4
 ---
 # Contextual Applicability of Contractual Agreements

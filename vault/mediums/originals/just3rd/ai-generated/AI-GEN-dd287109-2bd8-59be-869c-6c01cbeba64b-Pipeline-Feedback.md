@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/pipeline-feedback|pipeline-feedback]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/delivery-platforms/continuous-integration-continuous-deployment/continuous-integration/microskills/pipeline-feedback|pipeline-feedback]]"
 learning-time-in-minutes: 4
 ---
 # Pipeline Feedback: Knowing if Your Code Works, Fast!

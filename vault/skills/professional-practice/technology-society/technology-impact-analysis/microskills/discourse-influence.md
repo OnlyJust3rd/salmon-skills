@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the impact of social media on public conversation and opinion.
+## Related Mediums
+
+![[bases/related-mediums.base]]

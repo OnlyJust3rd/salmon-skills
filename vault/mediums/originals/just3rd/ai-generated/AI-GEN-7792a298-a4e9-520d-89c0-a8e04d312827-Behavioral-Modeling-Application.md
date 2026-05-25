@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/behavioral-modeling-application|behavioral-modeling-application]]"
+learning-outcomes:
+  - "[[skills/computing/hardware-embedded/digital-logic/verilog-hdl-modeling/microskills/behavioral-modeling-application|behavioral-modeling-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Behavioral Modeling in Verilog

@@ -53,3 +53,6 @@ Select and apply appropriate design patterns to solve recurring design problems,
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/adapter-pattern-application|Adapter Pattern Application]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/factory-method-abstract-factory-application|Factory Method / Abstract Factory Application]]
 - [[skills/computing/software-engineering/software-design/design-patterns/microskills/builder-pattern-application|Builder Pattern Application]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identifying hazards introduced by branches/jumps and control flow changes.
+## Related Mediums
+
+![[bases/related-mediums.base]]

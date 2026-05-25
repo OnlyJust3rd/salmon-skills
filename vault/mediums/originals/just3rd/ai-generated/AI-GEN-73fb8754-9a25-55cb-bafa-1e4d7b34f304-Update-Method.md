@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/game-development/game-engine-architecture/microskills/update-method|update-method]]"
+learning-outcomes:
+  - "[[skills/digital-media/game-development/game-engine-architecture/microskills/update-method|update-method]]"
 learning-time-in-minutes: 4
 ---
 # Implementing Per-Frame Behavior with the Update Method

@@ -49,3 +49,6 @@ Apply structured techniques to gather and define user requirements for a compute
 - [[requirement-documentation|Requirement Documentation]]
 - [[functional-requirements|Functional Requirements]]
 - [[user-needs-specification|User Needs Specification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

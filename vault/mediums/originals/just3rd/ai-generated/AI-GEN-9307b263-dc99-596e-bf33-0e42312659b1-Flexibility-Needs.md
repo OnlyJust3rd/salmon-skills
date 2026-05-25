@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[flexibility-needs|flexibility-needs]]"
+learning-outcomes:
+  - "[[flexibility-needs|flexibility-needs]]"
 learning-time-in-minutes: 5
 ---
 # Flexibility Needs in NoSQL: When Data Structures Need to Adapt

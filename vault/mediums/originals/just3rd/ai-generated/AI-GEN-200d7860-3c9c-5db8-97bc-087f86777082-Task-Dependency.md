@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/task-dependency|task-dependency]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-airflow/microskills/task-dependency|task-dependency]]"
 learning-time-in-minutes: 3
 ---
 # Task Dependency in Workflow Orchestration

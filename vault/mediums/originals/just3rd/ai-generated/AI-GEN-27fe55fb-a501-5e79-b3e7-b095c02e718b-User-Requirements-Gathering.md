@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[user-requirements-gathering|user-requirements-gathering]]"
+learning-outcomes:
+  - "[[user-requirements-gathering|user-requirements-gathering]]"
 learning-time-in-minutes: 6
 ---
 # User Requirements Gathering: Techniques for Defining What Users Need

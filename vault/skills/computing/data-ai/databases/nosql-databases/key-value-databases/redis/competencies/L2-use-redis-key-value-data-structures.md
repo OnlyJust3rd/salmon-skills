@@ -39,3 +39,6 @@ None.
 - [[skills/computing/data-ai/databases/nosql-databases/key-value-databases/redis/microskills/redis-key-expiration|Redis Key Expiration]]
 - [[skills/computing/data-ai/databases/nosql-databases/key-value-databases/redis/microskills/redis-data-structures|Redis Data Structures]]
 - [[skills/computing/data-ai/databases/nosql-databases/key-value-databases/redis/microskills/cache-access-patterns|Cache Access Patterns]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

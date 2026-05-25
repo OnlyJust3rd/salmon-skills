@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of CLBs, IOBs, and routing resources within an FPGA.
+## Related Mediums
+
+![[bases/related-mediums.base]]

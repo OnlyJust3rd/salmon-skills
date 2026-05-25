@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/mobile-development/flutter/microskills/navigation-route|navigation-route]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/mobile-development/flutter/microskills/navigation-route|navigation-route]]"
 learning-time-in-minutes: 3
 ---
 # Navigation Routes in Flutter

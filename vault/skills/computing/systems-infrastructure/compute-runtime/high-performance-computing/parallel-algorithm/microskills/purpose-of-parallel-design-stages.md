@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding the specific objectives and functions of each phase in parallel application design.
+## Related Mediums
+
+![[bases/related-mediums.base]]

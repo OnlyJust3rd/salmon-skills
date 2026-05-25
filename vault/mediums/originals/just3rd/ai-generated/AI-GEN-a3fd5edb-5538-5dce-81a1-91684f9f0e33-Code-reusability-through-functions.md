@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/programming/programming-principles/modular-program-design/microskills/code-reusability-through-functions|code-reusability-through-functions]]"
+learning-outcomes:
+  - "[[skills/computing/programming/programming-principles/modular-program-design/microskills/code-reusability-through-functions|code-reusability-through-functions]]"
 learning-time-in-minutes: 3
 ---
 # Reusing Code with Functions in C

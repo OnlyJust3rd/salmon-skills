@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Expressing problems in terms of inputs, outputs, and constraints.
+## Related Mediums
+
+![[bases/related-mediums.base]]

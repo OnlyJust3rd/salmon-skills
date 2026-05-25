@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Practical demonstration of utility program interaction with operating system functionalities.
+## Related Mediums
+
+![[bases/related-mediums.base]]

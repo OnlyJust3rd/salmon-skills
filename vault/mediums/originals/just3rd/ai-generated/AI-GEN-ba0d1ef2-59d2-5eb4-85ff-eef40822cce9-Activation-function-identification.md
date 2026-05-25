@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[activation-function-identification|activation-function-identification]]"
+learning-outcomes:
+  - "[[activation-function-identification|activation-function-identification]]"
 learning-time-in-minutes: 4
 ---
 # Activation Functions in Neural Networks

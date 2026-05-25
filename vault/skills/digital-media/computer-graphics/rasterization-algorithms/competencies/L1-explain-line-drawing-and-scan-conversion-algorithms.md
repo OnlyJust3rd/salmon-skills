@@ -45,3 +45,6 @@ Explain the purpose and process of line drawing and scan conversion algorithms f
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/purpose-of-line-drawing-algorithms|Purpose of Line Drawing Algorithms]]
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/scan-conversion-process|Scan Conversion Process]]
 - [[skills/digital-media/computer-graphics/rasterization-algorithms/microskills/displaying-geometric-primitives|Displaying Geometric Primitives]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

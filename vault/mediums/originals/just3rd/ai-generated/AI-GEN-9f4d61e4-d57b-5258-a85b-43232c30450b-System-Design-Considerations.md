@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/professional-practice/engineering-practices/system-design/microskills/system-design-considerations|system-design-considerations]]"
+learning-outcomes:
+  - "[[skills/professional-practice/engineering-practices/system-design/microskills/system-design-considerations|system-design-considerations]]"
 learning-time-in-minutes: 5
 ---
 # System Design Considerations

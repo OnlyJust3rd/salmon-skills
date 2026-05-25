@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Description of the role of conversational agents in modern interaction.
+## Related Mediums
+
+![[bases/related-mediums.base]]

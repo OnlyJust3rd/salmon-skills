@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[hardware-component-role-in-path-planning|hardware-component-role-in-path-planning]]"
+learning-outcomes:
+  - "[[hardware-component-role-in-path-planning|hardware-component-role-in-path-planning]]"
 learning-time-in-minutes: 5
 ---
 # Hardware Components in Robotic Path Planning

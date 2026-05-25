@@ -41,3 +41,6 @@ Recall the definitions of double and triple integrals over plane and solid regio
 
 - [[double-integral-definition|Double integral definition]]
 - [[triple-integral-definition|Triple integral definition]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

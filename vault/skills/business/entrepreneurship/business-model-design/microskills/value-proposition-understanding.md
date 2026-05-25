@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Meaning and importance of a value proposition.
+## Related Mediums
+
+![[bases/related-mediums.base]]

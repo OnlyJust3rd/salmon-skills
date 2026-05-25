@@ -51,3 +51,6 @@ Explain the operation of different types of flip-flops (e.g., D, JK, T) and thei
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/d-flip-flop-operation|D Flip-Flop Operation]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/jk-flip-flop-operation|JK Flip-Flop Operation]]
 - [[skills/computing/hardware-embedded/digital-logic/sequential-logic-design/microskills/t-flip-flop-operation|T Flip-Flop Operation]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of how processes operate and consume resources.
+## Related Mediums
+
+![[bases/related-mediums.base]]

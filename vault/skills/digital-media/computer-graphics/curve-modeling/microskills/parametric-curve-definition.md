@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Explanation of how curves are defined using parameters.
+## Related Mediums
+
+![[bases/related-mediums.base]]

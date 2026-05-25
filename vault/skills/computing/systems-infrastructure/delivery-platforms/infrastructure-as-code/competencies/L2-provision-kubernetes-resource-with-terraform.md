@@ -47,3 +47,6 @@ Utilize Terraform to provision a basic Kubernetes cluster resource.
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/kubernetes-resource-definition-in-terraform|Kubernetes Resource Definition in Terraform]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/terraform-apply-for-kubernetes|Terraform Apply for Kubernetes]]
 - [[skills/computing/systems-infrastructure/delivery-platforms/infrastructure-as-code/microskills/infrastructure-orchestration|Infrastructure Orchestration]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

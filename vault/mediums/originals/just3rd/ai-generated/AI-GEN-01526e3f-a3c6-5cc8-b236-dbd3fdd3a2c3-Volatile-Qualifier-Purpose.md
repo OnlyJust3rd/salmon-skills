@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[volatile-qualifier-purpose|volatile-qualifier-purpose]]"
+learning-outcomes:
+  - "[[volatile-qualifier-purpose|volatile-qualifier-purpose]]"
 learning-time-in-minutes: 3
 ---
 # The `volatile` Qualifier: Keeping the Compiler Honest

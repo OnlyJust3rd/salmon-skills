@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/software-engineering/software-design/design-patterns/microskills/factory-method-abstract-factory-application|factory-method-abstract-factory-application]]"
+learning-outcomes:
+  - "[[skills/computing/software-engineering/software-design/design-patterns/microskills/factory-method-abstract-factory-application|factory-method-abstract-factory-application]]"
 learning-time-in-minutes: 3
 ---
 # Applying Factory Method and Abstract Factory

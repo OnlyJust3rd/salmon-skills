@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Proficiency in utilizing Dockerfile commands like FROM, RUN, COPY, CMD.
+## Related Mediums
+
+![[bases/related-mediums.base]]

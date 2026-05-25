@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/common-management-protocols|common-management-protocols]]"
+learning-outcomes:
+  - "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/microskills/common-management-protocols|common-management-protocols]]"
 learning-time-in-minutes: 4
 ---
 # Understanding Common Network Management Protocols

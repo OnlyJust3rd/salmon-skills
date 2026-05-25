@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding of Verilog data types and their purpose.
+## Related Mediums
+
+![[bases/related-mediums.base]]

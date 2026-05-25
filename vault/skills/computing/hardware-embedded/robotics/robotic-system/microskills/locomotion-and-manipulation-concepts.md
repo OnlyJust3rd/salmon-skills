@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Summarization of basic mechanisms for robot mobility and object handling.
+## Related Mediums
+
+![[bases/related-mediums.base]]

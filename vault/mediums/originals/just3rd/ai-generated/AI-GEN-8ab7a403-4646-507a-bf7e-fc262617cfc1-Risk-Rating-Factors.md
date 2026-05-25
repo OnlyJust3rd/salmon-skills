@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/vulnerability-assessment/microskills/risk-rating-factors|risk-rating-factors]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/vulnerability-assessment/microskills/risk-rating-factors|risk-rating-factors]]"
 learning-time-in-minutes: 5
 ---
 # Understanding Risk Rating Factors in Vulnerability Assessment

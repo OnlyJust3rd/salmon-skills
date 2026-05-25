@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Interpretation and articulation of core concepts guiding brain-inspired computing systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]

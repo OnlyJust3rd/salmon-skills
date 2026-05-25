@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Capacity to integrate reusable components to assemble a complete program.
+## Related Mediums
+
+![[bases/related-mediums.base]]

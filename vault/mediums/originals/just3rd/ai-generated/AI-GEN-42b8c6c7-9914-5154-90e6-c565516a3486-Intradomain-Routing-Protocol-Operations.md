@@ -5,7 +5,8 @@ tags:
   - medium
   - ai-generated
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[intradomain-routing-protocol-operations|intradomain-routing-protocol-operations]]"
+learning-outcomes:
+  - "[[intradomain-routing-protocol-operations|intradomain-routing-protocol-operations]]"
 learning-time-in-minutes: 5
 ---
 # Illustrating Intradomain Routing Protocol Flow

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how database systems complete or undo units of work.
+## Related Mediums
+
+![[bases/related-mediums.base]]

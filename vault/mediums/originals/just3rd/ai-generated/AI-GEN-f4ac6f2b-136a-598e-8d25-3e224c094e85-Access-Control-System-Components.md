@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-system-components|access-control-system-components]]"
+learning-outcomes:
+  - "[[skills/computing/security-privacy/cybersecurity/access-control/microskills/access-control-system-components|access-control-system-components]]"
 learning-time-in-minutes: 5
 ---
 # Access Control System Components

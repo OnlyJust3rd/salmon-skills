@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/consumer|consumer]]"
+learning-outcomes:
+  - "[[skills/computing/data-ai/data-engineering-platforms/apache-kafka/microskills/consumer|consumer]]"
 learning-time-in-minutes: 2
 ---
 # Understanding Kafka Consumers

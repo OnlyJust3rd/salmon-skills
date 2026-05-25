@@ -55,3 +55,6 @@ Analyze and design modular combinational logic circuits (including adders, subtr
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/proteus-8-implementation|Proteus 8 Implementation]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/logical-behavior-analysis|Logical Behavior Analysis]]
 - [[skills/computing/hardware-embedded/digital-logic/combinational-logic-design/microskills/circuit-correctness-verification|Circuit Correctness Verification]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

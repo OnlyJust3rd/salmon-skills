@@ -38,3 +38,6 @@ Using BigQuery concepts for serverless cloud data warehousing, SQL analytics, pa
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/data-scan-cost|Data Scan Cost]]
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/partitioned-table|Partitioned Table]]
 - [[skills/computing/data-ai/data-engineering-platforms/google-bigquery/microskills/serverless-query-execution|Serverless Query Execution]]
+## Related Mediums
+
+![[bases/related-mediums.base]]

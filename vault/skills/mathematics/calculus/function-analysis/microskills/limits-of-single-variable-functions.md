@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding and explanation of the limits of functions with one variable.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Identification of the key factors motivating the adoption of IoT solutions.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Assessment of the security strengths and weaknesses of symmetric and asymmetric algorithms.
+## Related Mediums
+
+![[bases/related-mediums.base]]

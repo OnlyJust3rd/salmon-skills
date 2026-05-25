@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Mapping out market players and their offerings.
+## Related Mediums
+
+![[bases/related-mediums.base]]

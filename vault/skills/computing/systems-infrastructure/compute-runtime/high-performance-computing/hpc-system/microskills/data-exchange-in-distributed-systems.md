@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding how data is transferred between non-shared memory locations.
+## Related Mediums
+
+![[bases/related-mediums.base]]

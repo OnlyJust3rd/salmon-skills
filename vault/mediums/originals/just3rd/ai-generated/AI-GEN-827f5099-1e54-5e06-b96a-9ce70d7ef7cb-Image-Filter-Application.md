@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-filter-application|image-filter-application]]"
+learning-outcomes:
+  - "[[skills/digital-media/computer-graphics/digital-image-processing/microskills/image-filter-application|image-filter-application]]"
 learning-time-in-minutes: 4
 ---
 # Applying Image Filters for Pixel Modification

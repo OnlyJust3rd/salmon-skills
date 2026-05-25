@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Understanding aspects like completeness, consistency, and accuracy.
+## Related Mediums
+
+![[bases/related-mediums.base]]

@@ -5,7 +5,8 @@ tags:
   - "medium"
   - "ai-generated"
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/business/entrepreneurship/lean-startup/microskills/customer-feedback-integration|customer-feedback-integration]]"
+learning-outcomes:
+  - "[[skills/business/entrepreneurship/lean-startup/microskills/customer-feedback-integration|customer-feedback-integration]]"
 learning-time-in-minutes: 5
 ---
 # Integrating Customer Feedback into the Build-Measure-Learn Cycle

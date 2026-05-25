@@ -23,3 +23,6 @@ Parent competency:
 ## Description
 
 Analysis of the internal structure of cluster computing systems.
+## Related Mediums
+
+![[bases/related-mediums.base]]
