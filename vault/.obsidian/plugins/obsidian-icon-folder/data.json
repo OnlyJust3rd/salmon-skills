@@ -6,6 +6,17 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiMdnwebdocs",
+      "SiApachecassandra",
+      "SiPostgresql",
+      "SiMysql",
+      "SiFireship",
+      "SiGithub",
+      "LiUsers2",
+      "LiUser2",
+      "LiBook",
+      "LiBookText",
+      "LiBookType",
       "LiGoal",
       "LiDatabase",
       "LiDatabaseZap",
@@ -19,18 +30,7 @@
       "LiLayoutTemplate",
       "LiCpu",
       "LiZap",
-      "LiUniversity",
-      "LiWaypoints",
-      "LiBuilding",
-      "LiSigma",
-      "LiPaintbrush",
-      "LiBriefcaseBusiness",
-      "LiComputer",
-      "LiNetwork",
-      "LiFileText",
-      "LiUser2",
-      "LiUsers2",
-      "LiUser"
+      "LiUniversity"
     ],
     "recentlyUsedIconsSize": 25,
     "rules": [
@@ -14709,19 +14709,6 @@
   "ontology/v1.0.0/templates/medium.md": "LiBookOpen",
   "mediums/youtube": "LiYoutube",
   "mediums/roadmap": "SiRoadmapdotsh",
-  "mediums/articles": "LiScrollText",
-  "mediums/articles/article.md": {
-    "iconName": "LiWaypoints"
-  },
-  "mediums/books": "LiBookOpen",
-  "mediums/books/book.md": {
-    "iconName": "LiWaypoints"
-  },
-  "mediums/githubs": "LiGithub",
-  "mediums/githubs/github.md": {
-    "iconName": "LiWaypoints"
-  },
-  "mediums/originals": "LiUser2",
   "skills/computing/systems-infrastructure/system-design/system-design.md": {
     "iconName": "LiZap"
   },
@@ -16907,15 +16894,6 @@
   "skills/computing/systems-infrastructure/compute-runtime/operating-systems/io-and-file-systems/io-and-file-systems.md": {
     "iconName": "LiZap"
   },
-  "mediums/originals/originals.md": {
-    "iconName": "LiWaypoints"
-  },
-  "mediums/originals/just3rd/just3rd.md": {
-    "iconName": "LiWaypoints"
-  },
-  "mediums/originals/just3rd/ai-generated/ai-generated.md": {
-    "iconName": "LiWaypoints"
-  },
   "bases": "LiDatabaseZap",
   "bases/related-mediums.base": "LiDatabase",
   "skills/computing/data-ai/database-system/database-foundations/database-systems/database-systems.md": {
@@ -17419,10 +17397,106 @@
   "skills/computing/data-ai/database-system/database-practices/database-practices.md": {
     "iconName": "LiWaypoints"
   },
-  "mediums/courses/courses.md": {
+  "mediums/article/article.md": {
     "iconName": "LiWaypoints"
   },
-  "mediums/docs/docs.md": {
+  "mediums/article/bytebytego/bytebytego.md": {
     "iconName": "LiWaypoints"
-  }
+  },
+  "mediums/book/book.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/book/o-reilly/o-reilly.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/book/open-textbook-library/open-textbook-library.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/course/course.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/course/cmu/cmu.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/course/datastax/datastax.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/course/mongodb-university/mongodb-university.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/course/neo4j-graphacademy/neo4j-graphacademy.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/course/redis-university/redis-university.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/course/stanford/stanford.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/doc/doc.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/doc/apache-cassandra/apache-cassandra.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/doc/mdn/mdn.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/doc/mysql/mysql.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/doc/postgresql/postgresql.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/github/github.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/bytebytego/bytebytego.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/fireship/fireship.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/gatesmashers/gatesmashers.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/gaurav-sen/gaurav-sen.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/gkcs/gkcs.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/ibmtechnology/ibmtechnology.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/kiki-s-bytes/kiki-s-bytes.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/learnbi-online/learnbi-online.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/nesoacademy/nesoacademy.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/youtube/tryexponent/tryexponent.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/doc": "LiBookType",
+  "mediums/course": "LiSchool2",
+  "mediums/book": "LiBook",
+  "mediums/article": "LiScrollText",
+  "mediums/originals/just3rd/just3rd.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/originals/originals.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/originals": "LiUsers2",
+  "mediums/originals/just3rd": "LiUser2",
+  "mediums/github": "SiGithub",
+  "mediums/youtube/fireship": "SiFireship",
+  "mediums/doc/mysql": "SiMysql",
+  "mediums/doc/postgresql": "SiPostgresql",
+  "mediums/doc/apache-cassandra": "SiApachecassandra",
+  "mediums/doc/mdn": "SiMdnwebdocs"
 }

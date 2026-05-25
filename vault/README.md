@@ -112,10 +112,10 @@ Use this folder for:
 Expected pattern:
 
 ```text
-mediums/<contributor>/<medium-kind>/<medium-slug>.md
+mediums/<medium-type>/<source>/<medium-slug>.md
 ```
 
-Medium notes use `type: "medium"`, name one `contributor`, and list `learning-outcomes` as wikilinks to competency or microskill notes. Use optional `related-skills` links for broad skill coverage. Medium notes also include `learning-time-in-minutes` as a positive integer estimate.
+`<medium-type>` is the format or origin, such as `youtube`, `course`, `doc`, `book`, `article`, `github`, `roadmap`, or `ai-generated`. `<source>` is the provider, publisher, channel, repository owner, or generating contributor slug. Medium notes use `type: "medium"`, name one `contributor`, and list `learning-outcomes` as wikilinks to competency or microskill notes. Use optional `related-skills` links for broad skill coverage. Medium notes also include `learning-time-in-minutes` as a positive integer estimate.
 
 ### `ontology/`
 

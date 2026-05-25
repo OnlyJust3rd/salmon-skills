@@ -67,6 +67,8 @@ Rules:
 
 Learning-medium notes should be typed as `medium` when they are part of the graph.
 
+Medium notes should live at `vault/mediums/<medium-type>/<source>/<medium-slug>.md`, where the type captures the format or origin and the source captures the provider, publisher, channel, repository owner, or generating contributor.
+
 Recommended minimum frontmatter:
 
 ```yaml

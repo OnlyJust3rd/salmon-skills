@@ -5,7 +5,7 @@ title: PostgreSQL Data Types
 tags:
   - microskill
   - database
-parent-skill: "[[postgresql|postgresql]]"
+parent-skill: "[[skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql|postgresql]]"
 requires-in-competencies:
   - "[[L2-use-postgresql-for-relational-data-storage|L2-use-postgresql-for-relational-data-storage]]"
 contributors:
@@ -14,7 +14,7 @@ contributors:
 
 # PostgreSQL Data Types
 
-Parent skill: [[postgresql|PostgreSQL]]
+Parent skill: [[skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql|PostgreSQL]]
 
 Required in:
 

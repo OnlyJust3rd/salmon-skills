@@ -1,6 +1,6 @@
 ---
 type: waypoint
-title: "originals"
+title: originals
 tags:
   - waypoint
 icon: LiWaypoints

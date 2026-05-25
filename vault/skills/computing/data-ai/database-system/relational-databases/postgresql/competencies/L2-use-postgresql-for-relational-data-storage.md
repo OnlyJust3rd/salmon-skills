@@ -10,7 +10,7 @@ strict-prerequisites:
   - "[[L2-use-sql-ddl|L2-use-sql-ddl]]"
 miller-level: 2
 optional-prerequisites: []
-parent-skill: "[[postgresql|postgresql]]"
+parent-skill: "[[skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql|postgresql]]"
 requires-microskills:
   - "[[postgresql-data-types|postgresql-data-types]]"
   - "[[postgresql-constraints|postgresql-constraints]]"
@@ -21,7 +21,7 @@ contributors:
 
 # L2- Use PostgreSQL for Relational Data Storage
 
-Parent skill: [[postgresql|PostgreSQL]]
+Parent skill: [[skills/computing/data-ai/database-system/relational-databases/postgresql/postgresql|PostgreSQL]]
 
 ## Competency Statement
 

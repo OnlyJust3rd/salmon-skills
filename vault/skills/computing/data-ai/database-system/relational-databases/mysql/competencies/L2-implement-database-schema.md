@@ -10,7 +10,7 @@ strict-prerequisites:
   - "[[L1-explain-sql-clauses-and-syntax|L1-explain-sql-clauses-and-syntax]]"
 miller-level: 2
 optional-prerequisites: []
-parent-skill: "[[mysql|mysql]]"
+parent-skill: "[[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|mysql]]"
 requires-microskills:
   - "[[column-definition-statements|column-definition-statements]]"
   - "[[constraint-implementation-e-g-primary-keys|constraint-implementation-e-g-primary-keys]]"
@@ -23,7 +23,7 @@ contributors:
 
 # L3- Implement Database Schema
 
-Parent macro: [[mysql|MySQL]]
+Parent macro: [[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|MySQL]]
 
 ## Competency Statement
 

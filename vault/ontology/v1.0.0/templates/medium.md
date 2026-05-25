@@ -15,6 +15,8 @@ learning-time-in-minutes: 1
 
 {{content}}
 
+Path: `vault/mediums/{{medium-type}}/{{source-slug}}/{{medium-slug}}.md`
+
 ## Learning Outcomes
 
 - [[skills/{{taxonomy-path}}/{{skill-name}}/microskills/{{learning-outcome-slug}}|{{learning-outcome-title}}]]

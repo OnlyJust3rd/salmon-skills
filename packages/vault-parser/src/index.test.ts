@@ -444,7 +444,7 @@ test('validateGraph still validates existing inverse competency wikilinks on mic
 test('validateGraph rejects skill links in medium learning outcomes', () => {
   const graph = parseVaultEntries([
     {
-      path: 'mediums/youtube/example.md',
+      path: 'mediums/youtube/example-source/example.md',
       content:
         '---\ntype: "medium"\ntitle: "Example"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes:\n  - "[[skills/programming/python/python|python]]"\nlearning-time-in-minutes: 5\n---\n# Example',
     },
@@ -468,7 +468,7 @@ test('validateGraph rejects skill links in medium learning outcomes', () => {
 test('validateGraph accepts skill links in medium related skills', () => {
   const graph = parseVaultEntries([
     {
-      path: 'mediums/youtube/example.md',
+      path: 'mediums/youtube/example-source/example.md',
       content:
         '---\ntype: "medium"\ntitle: "Example"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes:\n  - "[[skills/programming/python/competencies/L1-python|L1-python]]"\nrelated-skills:\n  - "[[skills/programming/python/python|python]]"\nlearning-time-in-minutes: 5\n---\n# Example',
     },
@@ -496,7 +496,7 @@ test('validateGraph accepts skill links in medium related skills', () => {
 test('validateGraph rejects non-skill links in medium related skills', () => {
   const graph = parseVaultEntries([
     {
-      path: 'mediums/youtube/example.md',
+      path: 'mediums/youtube/example-source/example.md',
       content:
         '---\ntype: "medium"\ntitle: "Example"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes:\n  - "[[skills/programming/python/competencies/L1-python|L1-python]]"\nrelated-skills:\n  - "[[skills/programming/python/competencies/L1-python|L1-python]]"\nlearning-time-in-minutes: 5\n---\n# Example',
     },
@@ -541,6 +541,25 @@ test('validateGraph reports invalid skill folder structure', () => {
   assert.equal(result.valid, false)
   assert.ok(result.errors.some((issue) => issue.code === 'INVALID_SKILL_LOCATION'))
   assert.ok(result.errors.some((issue) => issue.code === 'INVALID_COMPETENCY_LOCATION'))
+})
+
+test('validateGraph reports invalid medium folder structure', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'mediums/youtube/example.md',
+      content:
+        '---\ntype: "medium"\ntitle: "Example"\ntags: []\ncontributor: "[[contributors/just3rd|just3rd]]"\nlearning-outcomes: []\nlearning-time-in-minutes: 5\n---\n# Example',
+    },
+    {
+      path: 'contributors/just3rd.md',
+      content: '---\ntype: "contributor"\ntitle: "just3rd"\ntags: []\n---\n# just3rd',
+    },
+  ])
+
+  const result = validateGraph(graph)
+
+  assert.equal(result.valid, false)
+  assert.ok(result.errors.some((issue) => issue.code === 'INVALID_LOCATION'))
 })
 
 test('validateGraph reports unresolved wikilinks', () => {

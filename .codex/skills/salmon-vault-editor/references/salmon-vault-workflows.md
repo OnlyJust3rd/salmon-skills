@@ -19,7 +19,7 @@ Follow the live ontology when it changes. As of v1.0.0:
 - `skill`: `type`, `title`, `tags`, `contributors`, `competencies`, `standard-competency`, `microskills`.
 - `competency`: `type`, `title`, `tags`, `strict-prerequisites`, `miller-level`, `optional-prerequisites`, `parent-skill`, `requires-microskills`, `contributors`.
 - `microskill`: `type`, `title`, `tags`, `parent-skill`, `requires-in-competencies`, `contributors`.
-- `medium`: `type`, `title`, `tags`, `contributor`, `outcome`, `learning-time-in-minutes`.
+- `medium`: `type`, `title`, `tags`, `contributor`, `learning-outcomes`, optional `related-skills`, `learning-time-in-minutes`.
 - `career`: `type`, `title`, `level`, `tags`, `contributor`, `required-competencies`.
 - `course`: `type`, `title`, `tags`, `course-code`, `course-name`, `domain`, `academic-level`, `source`.
 - `contributor`: `type`, `title`, `tags`.
@@ -55,11 +55,11 @@ Use lowercase entity type values (`skill`, `competency`, `microskill`) when the 
 
 ## Add A Medium
 
-1. Place at `vault/mediums/<contributor>/<medium-kind>/<medium-slug>.md`.
+1. Place at `vault/mediums/<medium-type>/<source>/<medium-slug>.md`.
 2. Set `contributor` to one contributor wikilink.
-3. Set `outcome` to exactly one most-specific competency or microskill.
+3. Set `learning-outcomes` to one or more most-specific competency or microskill wikilinks.
 4. Estimate `learning-time-in-minutes` as a positive integer.
-5. Include an `## Outcome` section linking the same target.
+5. Include an `## Learning Outcomes` section linking the same targets.
 
 ## Add A Career Or Course
 

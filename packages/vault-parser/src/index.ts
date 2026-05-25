@@ -705,8 +705,14 @@ function validateNodeLocation(
     issues.push(makeIssue("INVALID_LOCATION", "`contributor` notes must live under `contributors/`.", node));
   }
 
-  if (type === "medium" && !node.path.startsWith("mediums/")) {
-    issues.push(makeIssue("INVALID_LOCATION", "`medium` notes must live under `mediums/`.", node));
+  if (type === "medium" && !isMediumNotePath(node.path)) {
+    issues.push(
+      makeIssue(
+        "INVALID_LOCATION",
+        "`medium` notes must follow `mediums/<medium-type>/<source>/<medium-slug>.md`.",
+        node,
+      ),
+    );
   }
 
   if (type === "skill" && !isSkillNotePath(node.path)) {
@@ -738,6 +744,18 @@ function validateNodeLocation(
       ),
     );
   }
+}
+
+function isMediumNotePath(relativePath: string): boolean {
+  const parts = relativePath.split("/");
+  return (
+    parts.length === 4 &&
+    parts[0] === "mediums" &&
+    parts[1].length > 0 &&
+    parts[2].length > 0 &&
+    parts[3].endsWith(".md") &&
+    parts[3] !== ".md"
+  );
 }
 
 function isSkillNotePath(relativePath: string): boolean {

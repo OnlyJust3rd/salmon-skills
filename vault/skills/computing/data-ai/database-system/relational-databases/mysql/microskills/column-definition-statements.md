@@ -5,7 +5,7 @@ title: Column Definition Statements
 tags:
   - cpe
   - microskill
-parent-skill: "[[mysql|mysql]]"
+parent-skill: "[[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|mysql]]"
 requires-in-competencies:
   - "[[L2-implement-database-schema|L2-implement-database-schema]]"
 contributors:
@@ -14,7 +14,7 @@ contributors:
 
 # Column Definition Statements
 
-Parent macro: [[mysql|MySQL]]
+Parent macro: [[skills/computing/data-ai/database-system/relational-databases/mysql/mysql|MySQL]]
 
 Parent competency:
 

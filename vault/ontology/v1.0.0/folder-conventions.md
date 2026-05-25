@@ -113,12 +113,14 @@ Rules:
 Learning media live under:
 
 ```text
-vault/mediums/<contributor>/<medium-kind>/<medium-slug>.md
+vault/mediums/<medium-type>/<source>/<medium-slug>.md
 ```
 
 Rules:
 
 - Medium notes should use `type: "medium"`.
+- `<medium-type>` is the broad format or origin type, such as `youtube`, `course`, `doc`, `book`, `article`, `github`, `roadmap`, or `ai-generated`.
+- `<source>` is the provider, publisher, channel, repository owner, or generating contributor slug, such as `fireship`, `postgresql`, `cmu`, or `just3rd`.
 - Medium notes should set `contributor` to one contributor wikilink.
 - Medium notes should set `learning-outcomes` to the `microskill` or `competency` notes they teach or support.
 - Medium notes may set `related-skills` to broad `skill` notes for discovery and browsing.
