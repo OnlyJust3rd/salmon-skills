@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JSON route handlers"
 tags:
   - "cpe"

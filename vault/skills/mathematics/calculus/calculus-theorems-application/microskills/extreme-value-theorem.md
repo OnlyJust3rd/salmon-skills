@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Extreme Value Theorem"
 tags:
   - "cpe"

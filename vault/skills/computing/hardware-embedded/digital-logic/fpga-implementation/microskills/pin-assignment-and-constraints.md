@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pin Assignment and Constraints"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Unbounded Knapsack DP Java Implementation
 tags:
   - cpe

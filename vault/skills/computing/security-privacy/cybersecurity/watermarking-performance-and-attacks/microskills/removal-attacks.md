@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Removal Attacks"
 tags:
   - "cpe"

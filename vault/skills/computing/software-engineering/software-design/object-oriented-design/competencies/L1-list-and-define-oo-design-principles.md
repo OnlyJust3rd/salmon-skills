@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- List and Define OO Design Principles"
 tags:
   - "cpe"

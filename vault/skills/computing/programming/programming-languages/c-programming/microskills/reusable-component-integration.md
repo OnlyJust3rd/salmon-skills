@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Reusable component integration
 tags:
   - cpe

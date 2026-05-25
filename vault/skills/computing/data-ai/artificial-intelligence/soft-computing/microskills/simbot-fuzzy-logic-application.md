@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SIMBot Fuzzy Logic Application"
 tags:
   - "cpe"

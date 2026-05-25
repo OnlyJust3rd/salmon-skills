@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L2- Explain congestion control"
+type: competency
+icon: LiGoal
+title: L2- Explain congestion control
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/competencies/L1-explain-reliable-data-mechanisms|L1-explain-reliable-data-mechanisms]]"
+  - "[[L1-explain-reliable-data-mechanisms|L1-explain-reliable-data-mechanisms]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/network-performance|network-performance]]"
@@ -28,7 +29,7 @@ Explain the purpose and function of common congestion control mechanisms (e.g., 
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/competencies/L1-explain-reliable-data-mechanisms|L2- Explain Reliable Data Mechanisms]]
+- [[L1-explain-reliable-data-mechanisms|L2- Explain Reliable Data Mechanisms]]
 
 ## Optional Prerequisites
 

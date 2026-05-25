@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Web Performance"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- I/O integration via bus"
 tags:
   - "cpe"

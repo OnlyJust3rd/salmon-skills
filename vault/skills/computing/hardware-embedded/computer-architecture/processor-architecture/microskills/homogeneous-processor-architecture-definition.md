@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Homogeneous Processor Architecture Definition"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Matrix Representation"
 tags:
   - "cpe"

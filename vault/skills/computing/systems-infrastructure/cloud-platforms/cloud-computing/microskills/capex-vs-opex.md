@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CAPEX vs. OPEX"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Modeling Level Differences"
 tags:
   - "cpe"

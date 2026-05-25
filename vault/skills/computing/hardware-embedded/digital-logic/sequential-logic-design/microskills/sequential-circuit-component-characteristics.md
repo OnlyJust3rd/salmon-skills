@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sequential Circuit Component Characteristics"
 tags:
   - "cpe"

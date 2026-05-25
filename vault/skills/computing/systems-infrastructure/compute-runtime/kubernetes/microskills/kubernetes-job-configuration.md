@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kubernetes Job Configuration"
 tags:
   - "cpe"

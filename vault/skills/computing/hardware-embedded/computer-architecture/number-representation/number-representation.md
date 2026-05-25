@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Number Representation"
 tags:
   - "cpe"

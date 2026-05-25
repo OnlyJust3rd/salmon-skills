@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Electric Vehicle Environmental Drawbacks"
 tags:
   - "cpe"

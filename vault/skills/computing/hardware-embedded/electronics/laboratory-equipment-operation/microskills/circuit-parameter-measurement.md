@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Circuit Parameter Measurement"
 tags:
   - "cpe"

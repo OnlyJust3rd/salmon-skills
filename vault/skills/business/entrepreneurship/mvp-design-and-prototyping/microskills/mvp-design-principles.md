@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MVP Design Principles"
 tags:
   - "cpe"

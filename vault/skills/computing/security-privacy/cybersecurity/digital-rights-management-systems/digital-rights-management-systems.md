@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Digital Rights Management Systems"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Serverless vs. Traditional Computing"
 tags:
   - "cpe"

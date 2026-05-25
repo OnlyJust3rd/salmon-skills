@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Abstraction Definition"
 tags:
   - "cpe"

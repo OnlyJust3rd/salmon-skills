@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Symmetric vs. Asymmetric Application"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "I2C Sensor Interfacing"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Serverless Function Invocation"
 tags:
   - "cpe"

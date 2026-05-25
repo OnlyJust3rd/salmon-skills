@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Subtractor Function Explanation"
 tags:
   - "cpe"

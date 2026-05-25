@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Subband Filtering Process"
 tags:
   - "cpe"

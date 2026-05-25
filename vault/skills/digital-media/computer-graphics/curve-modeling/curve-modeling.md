@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Curve Modeling"
 tags:
   - "cpe"

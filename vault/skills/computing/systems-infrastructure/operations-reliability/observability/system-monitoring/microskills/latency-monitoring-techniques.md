@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Latency Monitoring Techniques"
 tags:
   - "cpe"

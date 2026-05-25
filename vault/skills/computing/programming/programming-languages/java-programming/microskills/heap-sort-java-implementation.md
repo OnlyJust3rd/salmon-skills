@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Heap Sort Java Implementation
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Image Pixel Manipulation for Watermarking"
 tags:
   - "cpe"

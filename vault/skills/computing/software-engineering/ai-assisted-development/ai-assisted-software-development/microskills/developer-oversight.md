@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Developer Oversight"
 tags:
   - "cpe"

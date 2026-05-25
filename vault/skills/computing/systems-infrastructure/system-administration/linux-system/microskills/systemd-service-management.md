@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Systemd Service Management"
 tags:
   - "cpe"

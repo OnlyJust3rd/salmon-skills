@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Common Data Structure Identification"
 tags:
   - "cpe"

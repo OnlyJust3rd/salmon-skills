@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Computer Arithmetic Principles"
 tags:
   - "cpe"

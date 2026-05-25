@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Exponential Signal Forms"
 tags:
   - "cpe"

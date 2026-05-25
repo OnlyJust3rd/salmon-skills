@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Stable System Definition (BIBO)"
 tags:
   - "cpe"

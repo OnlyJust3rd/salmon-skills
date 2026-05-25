@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Clustering Insights in IoT"
 tags:
   - "cpe"

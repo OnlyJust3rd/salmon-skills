@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scheduling Algorithm Fairness Analysis"
 tags:
   - "cpe"

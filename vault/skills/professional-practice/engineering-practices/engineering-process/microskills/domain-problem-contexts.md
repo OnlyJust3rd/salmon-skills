@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Domain Problem Contexts"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Orthogonality definition"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Calculate FT/DTFT Magnitude and Phase"
 tags:
   - "cpe"

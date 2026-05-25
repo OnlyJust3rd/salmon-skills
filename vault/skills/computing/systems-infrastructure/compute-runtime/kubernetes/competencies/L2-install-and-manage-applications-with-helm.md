@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Install and manage applications with Helm"
 tags:
   - "cpe"

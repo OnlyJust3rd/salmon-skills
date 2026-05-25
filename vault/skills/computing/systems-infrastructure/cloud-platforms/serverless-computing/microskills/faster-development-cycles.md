@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Faster Development Cycles"
 tags:
   - "cpe"

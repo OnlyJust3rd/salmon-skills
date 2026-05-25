@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Input Condition Response"
 tags:
   - "cpe"

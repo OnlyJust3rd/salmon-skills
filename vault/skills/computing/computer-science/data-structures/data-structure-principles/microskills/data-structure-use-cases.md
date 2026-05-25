@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Structure Use Cases"
 tags:
   - "cpe"

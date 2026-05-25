@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Implement Client-Side Scripts and Fetch JSON
 tags:
   - cpe

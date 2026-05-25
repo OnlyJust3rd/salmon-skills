@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Established Criteria Adherence"
 tags:
   - "cpe"

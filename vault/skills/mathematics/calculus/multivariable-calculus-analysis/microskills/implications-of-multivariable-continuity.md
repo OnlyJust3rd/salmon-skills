@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Implications of multivariable continuity"
 tags:
   - "cpe"

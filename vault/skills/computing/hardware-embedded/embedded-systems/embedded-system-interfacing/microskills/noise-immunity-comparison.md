@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Noise Immunity Comparison"
 tags:
   - "cpe"

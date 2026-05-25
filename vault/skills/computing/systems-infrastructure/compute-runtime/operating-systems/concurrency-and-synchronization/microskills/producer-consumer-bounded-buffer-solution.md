@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Producer-Consumer Bounded-Buffer Solution"
 tags:
   - "cpe"

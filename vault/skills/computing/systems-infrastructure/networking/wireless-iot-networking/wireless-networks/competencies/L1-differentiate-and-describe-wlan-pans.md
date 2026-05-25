@@ -1,13 +1,14 @@
 ---
-type: "competency"
-title: "L2- Differentiate and Describe WLAN/PANs"
+type: competency
+icon: LiGoal
+title: L2- Differentiate and Describe WLAN/PANs
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
-  - "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/competencies/L1-guided-vs-unguided-media|L1-guided-vs-unguided-media]]"
-  - "[[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/competencies/L1-signal-characteristics-and-impairment-impact|L1-signal-characteristics-and-impairment-impact]]"
+  - "[[L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+  - "[[L1-guided-vs-unguided-media|L1-guided-vs-unguided-media]]"
+  - "[[L1-signal-characteristics-and-impairment-impact|L1-signal-characteristics-and-impairment-impact]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/wireless-networks|wireless-networks]]"
@@ -31,9 +32,9 @@ Explain the fundamental differences and similarities between Wireless LANs (WLAN
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/competencies/L1-guided-vs-unguided-media|L2- Guided vs. Unguided Media]]
-- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
-- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/competencies/L1-signal-characteristics-and-impairment-impact|L2- Signal Characteristics and Impairment Impact]]
+- [[L1-guided-vs-unguided-media|L2- Guided vs. Unguided Media]]
+- [[L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[L1-signal-characteristics-and-impairment-impact|L2- Signal Characteristics and Impairment Impact]]
 
 ## Optional Prerequisites
 

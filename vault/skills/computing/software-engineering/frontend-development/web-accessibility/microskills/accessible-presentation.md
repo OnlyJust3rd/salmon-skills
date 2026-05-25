@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Accessible Presentation"
 tags:
   - "cpe"

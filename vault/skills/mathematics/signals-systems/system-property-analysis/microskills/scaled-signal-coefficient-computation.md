@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scaled Signal Coefficient Computation"
 tags:
   - "cpe"

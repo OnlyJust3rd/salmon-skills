@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- String Search and Algorithm Strategies"
 tags:
   - "cpe"

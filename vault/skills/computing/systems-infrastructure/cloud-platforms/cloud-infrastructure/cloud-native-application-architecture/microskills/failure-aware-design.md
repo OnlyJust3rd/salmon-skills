@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Failure-Aware Design"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pixel Grid Structure"
 tags:
   - "cpe"

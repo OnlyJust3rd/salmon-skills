@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Responsive Web Design"
 tags:
   - "cpe"

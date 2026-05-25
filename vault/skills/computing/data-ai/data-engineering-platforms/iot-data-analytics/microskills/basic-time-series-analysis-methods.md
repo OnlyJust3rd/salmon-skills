@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basic Time-Series Analysis Methods"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Spiking Neural Network Implementation"
 tags:
   - "cpe"

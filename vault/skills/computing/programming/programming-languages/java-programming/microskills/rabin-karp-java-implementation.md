@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Rabin-Karp Java Implementation
 tags:
   - cpe

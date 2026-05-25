@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Market Size Impact on Viability"
 tags:
   - "cpe"

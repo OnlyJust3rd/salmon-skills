@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Benefits of IaC"
 tags:
   - "cpe"

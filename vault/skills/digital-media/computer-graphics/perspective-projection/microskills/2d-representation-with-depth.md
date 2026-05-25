@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "2D Representation with Depth"
 tags:
   - "cpe"

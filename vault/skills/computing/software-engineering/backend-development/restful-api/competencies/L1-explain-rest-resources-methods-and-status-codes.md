@@ -1,12 +1,13 @@
 ---
-type: "competency"
-title: "L2- Explain REST Resources Methods and Status Codes"
+type: competency
+icon: LiGoal
+title: L2- Explain REST Resources Methods and Status Codes
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/computer-science/algorithms/computational-problem-solving/competencies/L1-explain-problem-decomposition|L1-explain-problem-decomposition]]"
-  - "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/competencies/L1-explain-http-dns-message-formats-flow-and-states|L1-explain-http-dns-message-formats-flow-and-states]]"
+  - "[[L1-explain-http-dns-message-formats-flow-and-states|L1-explain-http-dns-message-formats-flow-and-states]]"
   - "[[skills/computing/software-engineering/backend-development/json-format/competencies/L1-explain-json-in-http-message-bodies|L1-explain-json-in-http-message-bodies]]"
 miller-level: 1
 optional-prerequisites: []
@@ -29,7 +30,7 @@ Explain REST-oriented resource naming, common HTTP methods, status code families
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/competencies/L1-explain-http-dns-message-formats-flow-and-states|L2- Explain HTTP/DNS message formats, flow, and states]]
+- [[L1-explain-http-dns-message-formats-flow-and-states|L2- Explain HTTP/DNS message formats, flow, and states]]
 - [[skills/computing/software-engineering/backend-development/json-format/competencies/L1-explain-json-in-http-message-bodies|L2- Explain JSON in HTTP Message Bodies]]
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/competencies/L1-explain-problem-decomposition|L2- Explain Problem Decomposition]]
 

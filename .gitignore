@@ -26,6 +26,3 @@ vault/.DS_Store
 Thumbs.db
 .idea/
 .vscode/
-
-# Obsidian local workspace state
-vault/.obsidian/

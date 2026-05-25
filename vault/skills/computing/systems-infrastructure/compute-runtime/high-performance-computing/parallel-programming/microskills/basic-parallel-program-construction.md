@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basic Parallel Program Construction"
 tags:
   - "cpe"

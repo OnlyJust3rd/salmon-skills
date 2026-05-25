@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Proof of Concept Purpose"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fuzzy Controller Components"
 tags:
   - "cpe"

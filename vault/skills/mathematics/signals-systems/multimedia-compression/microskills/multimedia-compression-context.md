@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multimedia Compression Context"
 tags:
   - "cpe"

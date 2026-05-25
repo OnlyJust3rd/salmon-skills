@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fluid Layout"
 tags:
   - "cpe"

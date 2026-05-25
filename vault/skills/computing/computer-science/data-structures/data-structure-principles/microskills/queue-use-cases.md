@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Queue Use Cases"
 tags:
   - "cpe"

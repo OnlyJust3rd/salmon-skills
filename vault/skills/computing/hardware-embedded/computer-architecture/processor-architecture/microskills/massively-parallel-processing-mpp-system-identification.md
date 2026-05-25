@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Massively Parallel Processing (MPP) System Identification"
 tags:
   - "cpe"

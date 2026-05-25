@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Financial Data Interpretation"
 tags:
   - "cpe"

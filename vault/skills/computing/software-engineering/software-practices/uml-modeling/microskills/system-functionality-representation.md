@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "System Functionality Representation"
 tags:
   - "cpe"

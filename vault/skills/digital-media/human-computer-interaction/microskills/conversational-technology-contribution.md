@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Conversational Technology Contribution
 tags:
   - cpe

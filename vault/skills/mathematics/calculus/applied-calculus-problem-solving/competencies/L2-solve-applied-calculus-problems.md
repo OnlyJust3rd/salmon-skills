@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Solve applied calculus problems"
 tags:
   - "cpe"

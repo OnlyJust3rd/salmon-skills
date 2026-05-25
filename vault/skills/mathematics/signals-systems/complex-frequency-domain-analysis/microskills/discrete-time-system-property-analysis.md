@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Discrete-Time System Property Analysis"
 tags:
   - "cpe"

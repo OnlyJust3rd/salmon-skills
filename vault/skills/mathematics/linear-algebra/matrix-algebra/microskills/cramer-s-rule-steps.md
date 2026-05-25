@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cramer's Rule steps"
 tags:
   - "cpe"

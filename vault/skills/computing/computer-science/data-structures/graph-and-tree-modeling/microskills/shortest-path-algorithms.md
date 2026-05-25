@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Shortest Path Algorithms"
 tags:
   - "cpe"

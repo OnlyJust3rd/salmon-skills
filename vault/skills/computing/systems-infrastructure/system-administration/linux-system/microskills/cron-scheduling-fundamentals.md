@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cron Scheduling Fundamentals"
 tags:
   - "cpe"

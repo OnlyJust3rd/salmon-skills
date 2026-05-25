@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hybrid Encryption Scheme"
 tags:
   - "cpe"

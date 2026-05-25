@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Op-Amp Configuration Suitability"
 tags:
   - "cpe"

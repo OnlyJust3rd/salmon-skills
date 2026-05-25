@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kubernetes Resource Manifests"
 tags:
   - "cpe"

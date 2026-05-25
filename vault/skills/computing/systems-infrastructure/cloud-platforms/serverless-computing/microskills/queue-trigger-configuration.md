@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Queue Trigger Configuration"
 tags:
   - "cpe"

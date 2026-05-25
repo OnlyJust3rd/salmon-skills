@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hash-based MAC (HMAC) Construction"
 tags:
   - "cpe"

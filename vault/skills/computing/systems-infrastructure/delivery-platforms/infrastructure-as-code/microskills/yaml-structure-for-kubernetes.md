@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "YAML Structure for Kubernetes"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Industry Analysis Tools"
 tags:
   - "cpe"

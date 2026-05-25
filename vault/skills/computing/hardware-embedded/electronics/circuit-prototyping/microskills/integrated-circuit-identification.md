@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Integrated Circuit Identification"
 tags:
   - "cpe"

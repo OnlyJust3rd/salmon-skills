@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Construction of change-of-basis matrix P"
 tags:
   - "cpe"

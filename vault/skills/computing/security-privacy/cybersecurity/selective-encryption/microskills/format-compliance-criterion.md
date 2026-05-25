@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Format Compliance Criterion"
 tags:
   - "cpe"

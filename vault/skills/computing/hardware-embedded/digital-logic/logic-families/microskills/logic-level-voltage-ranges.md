@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Logic Level Voltage Ranges"
 tags:
   - "cpe"

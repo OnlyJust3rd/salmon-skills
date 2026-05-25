@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CT Convolution Integral Steps"
 tags:
   - "cpe"

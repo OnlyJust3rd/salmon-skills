@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Noise Margin Calculation"
 tags:
   - "cpe"

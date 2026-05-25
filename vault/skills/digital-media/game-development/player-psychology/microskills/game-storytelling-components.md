@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Game Storytelling Components"
 tags:
   - "cpe"

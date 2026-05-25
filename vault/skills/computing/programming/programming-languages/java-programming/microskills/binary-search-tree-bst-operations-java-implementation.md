@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Binary Search Tree (BST) Operations Java Implementation
 tags:
   - cpe

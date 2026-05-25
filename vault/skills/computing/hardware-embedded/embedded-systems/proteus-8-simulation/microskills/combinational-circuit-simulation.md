@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Combinational Circuit Simulation"
 tags:
   - "cpe"

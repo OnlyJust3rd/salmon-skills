@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sensor-Microcontroller Interaction"
 tags:
   - "cpe"

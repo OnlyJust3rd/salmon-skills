@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain ERP Business Process Integration"
 tags:
   - "cpe"

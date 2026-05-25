@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Prototype, Test, and Analyze"
 tags:
   - "cpe"

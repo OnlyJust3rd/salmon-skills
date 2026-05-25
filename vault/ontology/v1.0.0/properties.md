@@ -17,6 +17,7 @@ This note defines the frontmatter vocabulary for graph notes.
 | Property | Type | Rule |
 | --- | --- | --- |
 | `type` | Text | Required entity type. |
+| `icon` | Text | Optional display icon. Required for `skill`, `competency`, `microskill`, `contributor`, and `waypoint` notes. |
 | `title` | Text | Human-readable title. |
 | `tags` | List | Obsidian tags for broad discovery. |
 | `contributors` | List | Wikilinks to contributor notes. |

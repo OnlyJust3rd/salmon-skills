@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Inter-Process Data Exchange Patterns"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Principles of Sensors"
 tags:
   - "cpe"

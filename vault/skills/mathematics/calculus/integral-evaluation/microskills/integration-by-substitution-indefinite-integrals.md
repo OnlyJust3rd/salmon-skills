@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Integration by substitution (indefinite integrals)"
 tags:
   - "cpe"

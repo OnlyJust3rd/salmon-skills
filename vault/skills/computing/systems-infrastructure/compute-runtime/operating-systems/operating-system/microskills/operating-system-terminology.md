@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Operating System Terminology"
 tags:
   - "cpe"

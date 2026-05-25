@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Safe and Accurate Equipment Use"
 tags:
   - "cpe"

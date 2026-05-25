@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Visual Design Principles"
 tags:
   - "cpe"

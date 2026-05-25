@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Processor Performance Metric Evaluation"
 tags:
   - "cpe"

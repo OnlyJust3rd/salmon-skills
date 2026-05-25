@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Theoretical Calculation Discrepancy"
 tags:
   - "cpe"

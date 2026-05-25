@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Counting Principles Application"
 tags:
   - "cpe"

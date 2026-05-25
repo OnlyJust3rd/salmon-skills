@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Iterative Algorithms"
 tags:
   - "cpe"

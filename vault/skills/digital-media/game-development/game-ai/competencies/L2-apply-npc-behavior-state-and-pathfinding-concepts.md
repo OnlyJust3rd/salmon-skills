@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply NPC Behavior State and Pathfinding Concepts"
 tags:
   - "cpe"

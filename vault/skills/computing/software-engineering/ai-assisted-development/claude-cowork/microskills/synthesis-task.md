@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Synthesis Task"
 tags:
   - "cpe"

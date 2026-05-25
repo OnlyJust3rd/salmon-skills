@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Network Latency Alerts"
 tags:
   - "cpe"

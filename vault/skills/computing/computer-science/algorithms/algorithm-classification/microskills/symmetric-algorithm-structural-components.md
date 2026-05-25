@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Symmetric Algorithm Structural Components"
 tags:
   - "cpe"

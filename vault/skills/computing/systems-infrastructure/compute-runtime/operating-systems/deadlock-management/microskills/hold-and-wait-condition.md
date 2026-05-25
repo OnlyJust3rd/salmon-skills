@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hold and Wait Condition"
 tags:
   - "cpe"

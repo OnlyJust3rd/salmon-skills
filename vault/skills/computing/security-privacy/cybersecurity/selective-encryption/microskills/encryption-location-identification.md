@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Encryption Location Identification"
 tags:
   - "cpe"

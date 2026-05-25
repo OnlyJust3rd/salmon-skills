@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SJF Algorithm Principles"
 tags:
   - "cpe"

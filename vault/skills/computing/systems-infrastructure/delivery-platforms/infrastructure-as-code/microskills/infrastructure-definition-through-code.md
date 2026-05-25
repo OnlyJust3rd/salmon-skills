@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Infrastructure Definition through Code"
 tags:
   - "cpe"

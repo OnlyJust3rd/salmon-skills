@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IoT Device Integrity Maintenance"
 tags:
   - "cpe"

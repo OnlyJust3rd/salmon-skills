@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MVP Feature Decision Making"
 tags:
   - "cpe"

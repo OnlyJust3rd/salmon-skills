@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "El Gamal in Digital Signatures"
 tags:
   - "cpe"

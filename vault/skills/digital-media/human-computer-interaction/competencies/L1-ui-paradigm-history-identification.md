@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L1- UI Paradigm History & Identification
 tags:
   - cpe

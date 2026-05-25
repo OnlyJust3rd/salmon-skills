@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "System Property Analysis"
 tags:
   - "cpe"

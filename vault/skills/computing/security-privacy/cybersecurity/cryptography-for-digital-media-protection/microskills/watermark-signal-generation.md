@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Watermark Signal Generation"
 tags:
   - "cpe"

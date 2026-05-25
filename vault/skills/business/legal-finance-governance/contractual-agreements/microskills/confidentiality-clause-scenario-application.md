@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Confidentiality Clause Scenario Application"
 tags:
   - "cpe"

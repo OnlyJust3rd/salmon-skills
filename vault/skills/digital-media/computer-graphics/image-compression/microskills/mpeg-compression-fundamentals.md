@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MPEG Compression Fundamentals"
 tags:
   - "cpe"

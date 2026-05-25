@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Human-Computer Social Dynamics
 tags:
   - cpe

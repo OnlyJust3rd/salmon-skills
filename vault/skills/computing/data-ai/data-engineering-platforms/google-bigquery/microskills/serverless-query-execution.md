@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Serverless Query Execution"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Maintainability Impact of OO Design"
 tags:
   - "cpe"

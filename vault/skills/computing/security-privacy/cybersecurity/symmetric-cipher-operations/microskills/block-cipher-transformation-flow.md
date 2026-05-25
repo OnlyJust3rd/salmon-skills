@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Block Cipher Transformation Flow"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Web Application Concept"
 tags:
   - "cpe"

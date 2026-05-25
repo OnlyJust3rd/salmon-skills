@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Stream Cipher Types"
 tags:
   - "cpe"

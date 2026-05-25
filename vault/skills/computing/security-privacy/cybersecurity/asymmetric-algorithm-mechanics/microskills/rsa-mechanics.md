@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RSA Mechanics"
 tags:
   - "cpe"

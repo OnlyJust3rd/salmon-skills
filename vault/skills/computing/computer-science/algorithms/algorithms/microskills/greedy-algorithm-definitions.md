@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Greedy Algorithm Definitions"
 tags:
   - "cpe"

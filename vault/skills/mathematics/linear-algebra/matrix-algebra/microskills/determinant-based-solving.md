@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Determinant-based solving"
 tags:
   - "cpe"

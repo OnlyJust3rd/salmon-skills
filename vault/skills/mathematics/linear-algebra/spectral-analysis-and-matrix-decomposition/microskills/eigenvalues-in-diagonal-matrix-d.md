@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Eigenvalues in diagonal matrix D"
 tags:
   - "cpe"

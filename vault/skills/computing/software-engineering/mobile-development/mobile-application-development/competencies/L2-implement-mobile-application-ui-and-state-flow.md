@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Implement Mobile Application UI and State Flow
 tags:
   - cpe

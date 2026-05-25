@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "GitOps Principles"
 tags:
   - "cpe"

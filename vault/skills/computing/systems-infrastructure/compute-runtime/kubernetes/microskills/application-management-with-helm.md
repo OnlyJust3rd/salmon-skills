@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Application Management with Helm"
 tags:
   - "cpe"

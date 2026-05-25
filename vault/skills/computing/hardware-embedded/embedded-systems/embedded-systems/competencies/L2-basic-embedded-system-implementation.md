@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Basic Embedded System Implementation"
 tags:
   - "cpe"

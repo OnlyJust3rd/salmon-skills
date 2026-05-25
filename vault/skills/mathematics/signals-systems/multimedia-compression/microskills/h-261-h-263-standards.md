@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "H.261/H.263 Standards"
 tags:
   - "cpe"

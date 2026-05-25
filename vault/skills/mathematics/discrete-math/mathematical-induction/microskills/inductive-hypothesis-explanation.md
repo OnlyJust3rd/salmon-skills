@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Inductive hypothesis explanation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Edit Distance (Levenshtein Distance) DP Java Implementation
 tags:
   - cpe

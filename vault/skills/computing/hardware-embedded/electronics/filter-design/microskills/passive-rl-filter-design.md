@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Passive RL Filter Design"
 tags:
   - "cpe"

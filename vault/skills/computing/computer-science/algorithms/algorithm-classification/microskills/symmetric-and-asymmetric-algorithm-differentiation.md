@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Symmetric and Asymmetric Algorithm Differentiation"
 tags:
   - "cpe"

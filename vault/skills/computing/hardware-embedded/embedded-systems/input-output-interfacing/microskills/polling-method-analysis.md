@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Polling Method Analysis"
 tags:
   - "cpe"

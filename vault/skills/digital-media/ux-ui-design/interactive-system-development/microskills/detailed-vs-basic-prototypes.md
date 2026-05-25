@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Detailed vs. Basic Prototypes
 tags:
   - cpe

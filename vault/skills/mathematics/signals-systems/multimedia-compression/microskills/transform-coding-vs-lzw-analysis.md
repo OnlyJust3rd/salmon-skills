@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Transform Coding vs. LZW Analysis"
 tags:
   - "cpe"

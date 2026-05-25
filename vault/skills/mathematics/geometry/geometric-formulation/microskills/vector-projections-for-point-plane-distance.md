@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Vector projections for point-plane distance"
 tags:
   - "cpe"

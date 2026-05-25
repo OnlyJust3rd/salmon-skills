@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Big O Notation Significance"
 tags:
   - "cpe"

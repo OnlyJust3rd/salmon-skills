@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Profiler Trace"
 tags:
   - "cpe"

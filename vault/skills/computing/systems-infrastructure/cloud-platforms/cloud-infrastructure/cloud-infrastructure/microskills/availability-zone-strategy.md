@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Availability Zone Strategy"
 tags:
   - "cpe"

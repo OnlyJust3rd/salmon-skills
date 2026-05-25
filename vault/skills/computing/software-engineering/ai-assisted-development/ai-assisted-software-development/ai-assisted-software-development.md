@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "AI-Assisted Software Development"
 tags:
   - "cpe"

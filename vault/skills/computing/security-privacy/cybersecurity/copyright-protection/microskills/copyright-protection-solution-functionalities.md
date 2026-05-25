@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Copyright Protection Solution Functionalities"
 tags:
   - "cpe"

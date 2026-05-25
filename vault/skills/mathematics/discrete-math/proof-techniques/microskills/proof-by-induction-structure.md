@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Proof by Induction Structure"
 tags:
   - "cpe"

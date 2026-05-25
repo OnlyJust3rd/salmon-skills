@@ -1,23 +1,24 @@
 ---
-type: "microskill"
-title: "Relational vs Document Data Model"
+type: microskill
+icon: LiBoxes
+title: Relational vs Document Data Model
 tags:
-  - "cpe"
-  - "microskill"
-parent-skill: "[[skills/computing/data-ai/databases/mongodb/mongodb|mongodb]]"
+  - cpe
+  - microskill
+parent-skill: "[[mongodb|mongodb]]"
 requires-in-competencies:
-  - "[[skills/computing/data-ai/databases/mongodb/competencies/L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]"
+  - "[[L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]"
 contributors:
   - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Relational vs Document Data Model
 
-Parent macro: [[skills/computing/data-ai/databases/mongodb/mongodb|MongoDB]]
+Parent macro: [[mongodb|MongoDB]]
 
 Parent competency:
 
-- [[skills/computing/data-ai/databases/mongodb/competencies/L1-explain-mongodb-data-model|L2- Explain MongoDB Data Model]]
+- [[L1-explain-mongodb-data-model|L2- Explain MongoDB Data Model]]
 
 ## Description
 

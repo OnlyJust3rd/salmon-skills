@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Power Consumption Trade-offs"
 tags:
   - "cpe"

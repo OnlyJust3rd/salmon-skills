@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "BML Cycle Components"
 tags:
   - "cpe"

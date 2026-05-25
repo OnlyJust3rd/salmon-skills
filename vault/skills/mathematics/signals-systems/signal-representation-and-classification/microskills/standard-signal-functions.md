@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Standard Signal Functions"
 tags:
   - "cpe"

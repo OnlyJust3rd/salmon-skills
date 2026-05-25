@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Slurm Job Scheduler Recognition"
 tags:
   - "cpe"

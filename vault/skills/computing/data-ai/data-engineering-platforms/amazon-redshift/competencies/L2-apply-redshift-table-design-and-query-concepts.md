@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Redshift Table Design and Query Concepts"
 tags:
   - "cpe"

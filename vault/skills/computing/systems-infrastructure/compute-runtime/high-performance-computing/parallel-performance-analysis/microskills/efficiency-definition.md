@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Efficiency Definition"
 tags:
   - "cpe"

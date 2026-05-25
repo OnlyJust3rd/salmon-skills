@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UNIX Process Management APIs"
 tags:
   - "cpe"

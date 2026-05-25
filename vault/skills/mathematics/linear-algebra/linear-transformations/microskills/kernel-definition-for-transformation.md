@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kernel definition for transformation"
 tags:
   - "cpe"

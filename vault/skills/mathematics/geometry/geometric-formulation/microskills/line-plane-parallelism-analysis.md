@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Line-plane parallelism analysis"
 tags:
   - "cpe"

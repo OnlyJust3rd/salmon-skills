@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Control Signal Derivation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Schema Evolution with DDL"
 tags:
   - "cpe"

@@ -1,12 +1,13 @@
 ---
-type: "competency"
-title: "L3- Apply Prompt Patterns for Task Instructions"
+type: competency
+icon: LiGoal
+title: L3- Apply Prompt Patterns for Task Instructions
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/competencies/L1-explain-prompt-engineering-principles|L1-explain-prompt-engineering-principles]]"
-  - "[[skills/computing/data-ai/artificial-intelligence/large-language-models/competencies/L2-apply-large-language-models-for-text-tasks|L2-apply-large-language-models-for-text-tasks]]"
+  - "[[L2-apply-large-language-models-for-text-tasks|L2-apply-large-language-models-for-text-tasks]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/prompt-engineering|prompt-engineering]]"
@@ -29,7 +30,7 @@ Apply prompt patterns for task instructions.
 ## Strict Prerequisites
 
 - [[skills/computing/software-engineering/ai-assisted-development/prompt-engineering/competencies/L1-explain-prompt-engineering-principles|L2- Explain Prompt Engineering Principles]]
-- [[skills/computing/data-ai/artificial-intelligence/large-language-models/competencies/L2-apply-large-language-models-for-text-tasks|L3- Apply Large Language Models for Text Tasks]]
+- [[L2-apply-large-language-models-for-text-tasks|L3- Apply Large Language Models for Text Tasks]]
 
 ## Optional Prerequisites
 

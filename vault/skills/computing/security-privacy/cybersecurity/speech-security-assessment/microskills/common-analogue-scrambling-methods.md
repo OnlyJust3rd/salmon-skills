@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Common Analogue Scrambling Methods"
 tags:
   - "cpe"

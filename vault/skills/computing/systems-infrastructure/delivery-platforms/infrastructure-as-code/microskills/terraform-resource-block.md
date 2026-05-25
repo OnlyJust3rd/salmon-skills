@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Terraform Resource Block"
 tags:
   - "cpe"

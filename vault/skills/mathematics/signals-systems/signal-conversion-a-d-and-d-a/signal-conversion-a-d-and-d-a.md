@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Signal Conversion (A/D and D/A)"
 tags:
   - "cpe"

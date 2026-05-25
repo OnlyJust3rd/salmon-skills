@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "2x2 determinant formula"
 tags:
   - "cpe"

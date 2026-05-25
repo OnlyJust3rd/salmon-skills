@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Diode Behavior Comparison"
 tags:
   - "cpe"

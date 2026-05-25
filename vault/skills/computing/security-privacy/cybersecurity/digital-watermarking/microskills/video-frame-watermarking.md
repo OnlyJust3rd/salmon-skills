@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Video Frame Watermarking"
 tags:
   - "cpe"

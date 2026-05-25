@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "4Ps Framework"
 tags:
   - "cpe"

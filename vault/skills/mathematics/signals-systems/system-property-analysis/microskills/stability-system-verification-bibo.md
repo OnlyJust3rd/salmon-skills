@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Stability System Verification (BIBO)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Function parameter passing"
 tags:
   - "cpe"

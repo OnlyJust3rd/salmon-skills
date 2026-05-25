@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multimeter Principles of Operation"
 tags:
   - "cpe"

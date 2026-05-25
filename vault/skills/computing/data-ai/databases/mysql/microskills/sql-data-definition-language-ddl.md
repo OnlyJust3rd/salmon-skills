@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SQL Data Definition Language (DDL)"
 tags:
   - "cpe"

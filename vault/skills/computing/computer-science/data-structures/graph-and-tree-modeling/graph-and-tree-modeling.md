@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Graph and Tree Modeling"
 tags:
   - "cpe"

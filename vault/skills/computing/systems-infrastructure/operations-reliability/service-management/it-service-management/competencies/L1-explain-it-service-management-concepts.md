@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain IT Service Management Concepts"
 tags:
   - "cpe"

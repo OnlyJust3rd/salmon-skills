@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Net Present Value (NPV) Interpretation"
 tags:
   - "cpe"

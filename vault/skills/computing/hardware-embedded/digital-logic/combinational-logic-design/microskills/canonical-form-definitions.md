@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Canonical Form Definitions"
 tags:
   - "cpe"

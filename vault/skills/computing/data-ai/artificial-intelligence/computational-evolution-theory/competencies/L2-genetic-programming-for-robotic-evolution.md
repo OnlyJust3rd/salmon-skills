@@ -1,16 +1,17 @@
 ---
-type: "competency"
-title: "L3- Genetic Programming for Robotic Evolution"
+type: competency
+icon: LiGoal
+title: L3- Genetic Programming for Robotic Evolution
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/competencies/L1-principles-of-genetic-programming|L1-principles-of-genetic-programming]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-explain-ai-behavior-based-paradigms|L1-explain-ai-behavior-based-paradigms]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-explain-reactive-control-principles-and-trade-offs|L1-explain-reactive-control-principles-and-trade-offs]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L2-apply-reactive-control-principles|L2-apply-reactive-control-principles]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L2-apply-subsumption-architecture|L2-apply-subsumption-architecture]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L2-fuzzy-logic-maze-traversal|L2-fuzzy-logic-maze-traversal]]"
+  - "[[L1-explain-ai-behavior-based-paradigms|L1-explain-ai-behavior-based-paradigms]]"
+  - "[[L1-explain-reactive-control-principles-and-trade-offs|L1-explain-reactive-control-principles-and-trade-offs]]"
+  - "[[L2-apply-reactive-control-principles|L2-apply-reactive-control-principles]]"
+  - "[[L2-apply-subsumption-architecture|L2-apply-subsumption-architecture]]"
+  - "[[L2-fuzzy-logic-maze-traversal|L2-fuzzy-logic-maze-traversal]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
@@ -34,11 +35,11 @@ Implement and apply genetic programming techniques to evolve robotic behaviors a
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/competencies/L1-principles-of-genetic-programming|L2- Principles of Genetic Programming]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-explain-reactive-control-principles-and-trade-offs|L2- Explain Reactive Control Principles and Trade-offs]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-explain-ai-behavior-based-paradigms|L2- Explain AI Behavior-Based Paradigms]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L2-apply-reactive-control-principles|L3- Apply Reactive Control Principles]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L2-apply-subsumption-architecture|L3- Apply Subsumption Architecture]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L2-fuzzy-logic-maze-traversal|L3- Fuzzy Logic Maze Traversal]]
+- [[L1-explain-reactive-control-principles-and-trade-offs|L2- Explain Reactive Control Principles and Trade-offs]]
+- [[L1-explain-ai-behavior-based-paradigms|L2- Explain AI Behavior-Based Paradigms]]
+- [[L2-apply-reactive-control-principles|L3- Apply Reactive Control Principles]]
+- [[L2-apply-subsumption-architecture|L3- Apply Subsumption Architecture]]
+- [[L2-fuzzy-logic-maze-traversal|L3- Fuzzy Logic Maze Traversal]]
 
 ## Optional Prerequisites
 

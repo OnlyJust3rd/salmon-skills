@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kubernetes Secrets Management"
 tags:
   - "cpe"

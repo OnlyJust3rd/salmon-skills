@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MLFQ Algorithm Principles"
 tags:
   - "cpe"

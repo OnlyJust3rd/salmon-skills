@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Relationship between critical points and extrema"
 tags:
   - "cpe"

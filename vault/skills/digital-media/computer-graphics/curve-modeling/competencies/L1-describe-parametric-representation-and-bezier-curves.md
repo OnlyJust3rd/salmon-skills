@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Describe Parametric Representation and Bézier Curves"
 tags:
   - "cpe"

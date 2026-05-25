@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Package Management Concepts"
 tags:
   - "cpe"

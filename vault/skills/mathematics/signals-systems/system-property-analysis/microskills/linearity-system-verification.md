@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linearity System Verification"
 tags:
   - "cpe"

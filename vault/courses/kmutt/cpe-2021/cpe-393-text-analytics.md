@@ -31,13 +31,13 @@ This course provides an introduction to the techniques and methodologies for pro
 
 ## Macro Skills
 
-- [[skills/computing/data-ai/data-science/linguistic-text-processing/linguistic-text-processing|Linguistic Text Processing]]
+- [[linguistic-text-processing|Linguistic Text Processing]]
 - [[skills/computing/computer-science/algorithms/pattern-matching-and-text-filtering/pattern-matching-and-text-filtering|Pattern Matching and Text Filtering]]
-- [[skills/computing/data-ai/data-science/text-classification/text-classification|Text Classification]]
-- [[skills/computing/data-ai/data-science/text-cleaning-and-normalization/text-cleaning-and-normalization|Text Cleaning and Normalization]]
-- [[skills/computing/data-ai/data-science/text-clustering/text-clustering|Text Clustering]]
-- [[skills/computing/data-ai/data-science/text-feature-engineering/text-feature-engineering|Text Feature Engineering]]
-- [[skills/computing/data-ai/data-science/text-mining/text-mining|Text Mining]]
-- [[skills/computing/data-ai/data-science/text-summarization/text-summarization|Text Summarization]]
-- [[skills/computing/data-ai/data-science/text-visualization-and-exploratory-analysis/text-visualization-and-exploratory-analysis|Text Visualization and Exploratory Analysis]]
-- [[skills/computing/data-ai/data-science/topic-modeling/topic-modeling|Topic Modeling]]
+- [[text-classification|Text Classification]]
+- [[text-cleaning-and-normalization|Text Cleaning and Normalization]]
+- [[text-clustering|Text Clustering]]
+- [[text-feature-engineering|Text Feature Engineering]]
+- [[text-mining|Text Mining]]
+- [[text-summarization|Text Summarization]]
+- [[text-visualization-and-exploratory-analysis|Text Visualization and Exploratory Analysis]]
+- [[topic-modeling|Topic Modeling]]

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Displaying Geometric Primitives"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Psychoacoustic Principles in Audio Compression"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Area calculation using double integrals"
 tags:
   - "cpe"

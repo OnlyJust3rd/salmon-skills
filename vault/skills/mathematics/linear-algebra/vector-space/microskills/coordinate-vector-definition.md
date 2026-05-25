@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Coordinate vector definition"
 tags:
   - "cpe"

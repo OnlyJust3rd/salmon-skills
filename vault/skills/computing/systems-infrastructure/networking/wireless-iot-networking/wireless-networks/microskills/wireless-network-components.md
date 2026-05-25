@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Wireless Network Components"
 tags:
   - "cpe"

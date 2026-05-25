@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze Component Variation Impact"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digital Watermark Attack Types"
 tags:
   - "cpe"

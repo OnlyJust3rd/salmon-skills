@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Z-transform Pole Calculation"
 tags:
   - "cpe"

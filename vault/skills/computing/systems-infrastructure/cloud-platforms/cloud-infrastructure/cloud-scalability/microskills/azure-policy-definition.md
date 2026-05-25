@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Azure Policy Definition"
 tags:
   - "cpe"

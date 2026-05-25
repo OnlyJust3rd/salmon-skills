@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Processor Workflow During Execution"
 tags:
   - "cpe"

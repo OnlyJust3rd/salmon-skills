@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cache Hit Rate Calculation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Infrastructure Consistency"
 tags:
   - "cpe"

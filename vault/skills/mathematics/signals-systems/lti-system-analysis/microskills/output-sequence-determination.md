@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Output Sequence Determination"
 tags:
   - "cpe"

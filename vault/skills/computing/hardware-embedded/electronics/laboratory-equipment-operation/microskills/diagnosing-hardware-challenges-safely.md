@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Diagnosing Hardware Challenges Safely"
 tags:
   - "cpe"

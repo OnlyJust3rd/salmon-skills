@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Logical Address Concepts"
 tags:
   - "cpe"

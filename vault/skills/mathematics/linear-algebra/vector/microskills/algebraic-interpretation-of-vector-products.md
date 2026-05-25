@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Algebraic interpretation of vector products"
 tags:
   - "cpe"

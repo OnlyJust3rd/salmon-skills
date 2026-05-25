@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Integrated I/O Interfacing Design"
 tags:
   - "cpe"

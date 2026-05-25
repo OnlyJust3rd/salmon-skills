@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Examples of Pollution and E-waste"
 tags:
   - "cpe"

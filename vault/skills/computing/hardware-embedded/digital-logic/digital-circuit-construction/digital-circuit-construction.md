@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Digital Circuit Construction"
 tags:
   - "cpe"

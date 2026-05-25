@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Applied Calculus Problem Solving"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Quick Sort Java Implementation
 tags:
   - cpe

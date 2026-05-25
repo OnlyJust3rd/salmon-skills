@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Client SDK Integration"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Moderated Usability Testing
 tags:
   - cpe

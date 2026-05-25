@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "PLD Fundamental Characteristics"
 tags:
   - "cpe"

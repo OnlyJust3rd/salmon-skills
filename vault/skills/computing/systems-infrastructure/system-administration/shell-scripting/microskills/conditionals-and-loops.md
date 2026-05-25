@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Conditionals and Loops"
 tags:
   - "cpe"

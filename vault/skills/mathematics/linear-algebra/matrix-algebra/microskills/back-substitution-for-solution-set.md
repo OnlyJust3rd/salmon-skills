@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Back-substitution for solution set"
 tags:
   - "cpe"

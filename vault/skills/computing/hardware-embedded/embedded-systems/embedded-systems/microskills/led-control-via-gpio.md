@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "LED Control via GPIO"
 tags:
   - "cpe"

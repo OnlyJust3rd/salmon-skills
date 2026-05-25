@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Neuromorphic and Brain-Inspired Computing"
 tags:
   - "cpe"

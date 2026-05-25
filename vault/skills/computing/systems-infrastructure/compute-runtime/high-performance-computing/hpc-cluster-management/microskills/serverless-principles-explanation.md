@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Serverless Principles Explanation"
 tags:
   - "cpe"

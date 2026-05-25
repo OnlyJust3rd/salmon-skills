@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "PDPA Data Processing Implications"
 tags:
   - "cpe"

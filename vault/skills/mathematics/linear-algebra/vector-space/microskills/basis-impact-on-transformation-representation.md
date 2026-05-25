@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basis impact on transformation representation"
 tags:
   - "cpe"

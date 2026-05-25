@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Constructor Implementation for ADTs
 tags:
   - cpe

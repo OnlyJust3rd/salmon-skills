@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Monitor System Performance and Processes"
 tags:
   - "cpe"

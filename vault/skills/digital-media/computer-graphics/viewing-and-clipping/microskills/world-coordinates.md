@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "World Coordinates"
 tags:
   - "cpe"

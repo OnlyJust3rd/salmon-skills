@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Wired Communication Technologies (UART, SPI, I²C)"
 tags:
   - "cpe"

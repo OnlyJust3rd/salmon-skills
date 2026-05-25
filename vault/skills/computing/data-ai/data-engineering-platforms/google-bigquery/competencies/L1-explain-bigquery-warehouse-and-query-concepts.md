@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain BigQuery Warehouse and Query Concepts"
 tags:
   - "cpe"

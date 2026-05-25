@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Storage Type Selection"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Availability Zone Trade-offs"
 tags:
   - "cpe"

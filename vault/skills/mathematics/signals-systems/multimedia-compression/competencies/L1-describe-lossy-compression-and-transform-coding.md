@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Describe Lossy Compression and Transform Coding"
 tags:
   - "cpe"

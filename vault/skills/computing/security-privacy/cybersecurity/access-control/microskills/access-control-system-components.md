@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Access Control System Components"
 tags:
   - "cpe"

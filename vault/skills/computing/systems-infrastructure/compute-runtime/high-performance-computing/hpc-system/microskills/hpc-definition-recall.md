@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "HPC Definition Recall"
 tags:
   - "cpe"

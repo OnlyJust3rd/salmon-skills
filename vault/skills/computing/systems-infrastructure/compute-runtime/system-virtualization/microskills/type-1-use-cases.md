@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Type-1 Use Cases"
 tags:
   - "cpe"

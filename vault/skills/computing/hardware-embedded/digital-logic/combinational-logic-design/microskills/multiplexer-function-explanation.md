@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multiplexer Function Explanation"
 tags:
   - "cpe"

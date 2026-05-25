@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Job Scheduling Concepts"
 tags:
   - "cpe"

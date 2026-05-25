@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Evolution of Subsumption Architectures"
 tags:
   - "cpe"

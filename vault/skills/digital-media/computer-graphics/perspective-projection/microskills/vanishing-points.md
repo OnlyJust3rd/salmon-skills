@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Vanishing Points"
 tags:
   - "cpe"

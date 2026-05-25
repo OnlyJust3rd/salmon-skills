@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Software Design Improvement"
 tags:
   - "cpe"

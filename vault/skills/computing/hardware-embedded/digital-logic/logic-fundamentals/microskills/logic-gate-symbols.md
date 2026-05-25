@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Logic Gate Symbols"
 tags:
   - "cpe"

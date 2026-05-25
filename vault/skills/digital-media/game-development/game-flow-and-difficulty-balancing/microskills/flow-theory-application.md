@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Flow Theory Application"
 tags:
   - "cpe"

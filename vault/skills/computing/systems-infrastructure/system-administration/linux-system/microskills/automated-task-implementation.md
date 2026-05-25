@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Automated Task Implementation"
 tags:
   - "cpe"

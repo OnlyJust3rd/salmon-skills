@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Engineering Solution Evaluation"
 tags:
   - "cpe"

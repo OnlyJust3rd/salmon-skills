@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain and Compare JPEG Steps and Modes"
 tags:
   - "cpe"

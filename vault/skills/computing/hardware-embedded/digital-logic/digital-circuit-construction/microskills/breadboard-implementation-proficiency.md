@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Breadboard Implementation Proficiency"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Safety Precautions for Powered Circuits"
 tags:
   - "cpe"

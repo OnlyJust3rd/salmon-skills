@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "LTI System Analysis"
 tags:
   - "cpe"

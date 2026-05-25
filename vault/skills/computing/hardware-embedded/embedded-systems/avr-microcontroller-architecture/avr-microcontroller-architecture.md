@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "AVR Microcontroller Architecture"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Document metadata and landmarks"
 tags:
   - "cpe"

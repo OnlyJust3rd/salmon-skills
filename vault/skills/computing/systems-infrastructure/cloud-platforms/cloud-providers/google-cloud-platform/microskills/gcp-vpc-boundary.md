@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "GCP VPC Boundary"
 tags:
   - "cpe"

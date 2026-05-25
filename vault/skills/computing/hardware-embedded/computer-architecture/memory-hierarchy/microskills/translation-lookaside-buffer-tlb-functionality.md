@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Translation Lookaside Buffer (TLB) Functionality"
 tags:
   - "cpe"

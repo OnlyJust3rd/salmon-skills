@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MPI Collective Function Implementation"
 tags:
   - "cpe"

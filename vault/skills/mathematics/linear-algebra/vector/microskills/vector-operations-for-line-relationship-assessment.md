@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Vector operations for line relationship assessment"
 tags:
   - "cpe"

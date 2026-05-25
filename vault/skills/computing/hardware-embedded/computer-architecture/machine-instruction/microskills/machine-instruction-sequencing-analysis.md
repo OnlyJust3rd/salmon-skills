@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Machine Instruction Sequencing Analysis"
 tags:
   - "cpe"

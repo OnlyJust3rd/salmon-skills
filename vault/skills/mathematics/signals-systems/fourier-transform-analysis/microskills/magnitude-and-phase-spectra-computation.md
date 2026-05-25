@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Magnitude and Phase Spectra Computation"
 tags:
   - "cpe"

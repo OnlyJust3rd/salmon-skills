@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Game Development Lifecycle Stages"
 tags:
   - "cpe"

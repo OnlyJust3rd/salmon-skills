@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MPP System Operational Analysis"
 tags:
   - "cpe"

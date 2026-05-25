@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Bicep Deployment Commands"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Power-Speed Trade-off"
 tags:
   - "cpe"

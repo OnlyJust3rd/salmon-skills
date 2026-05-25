@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Projection Distortion Analysis"
 tags:
   - "cpe"

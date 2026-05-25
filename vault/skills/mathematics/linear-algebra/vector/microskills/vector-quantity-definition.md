@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Vector quantity definition"
 tags:
   - "cpe"

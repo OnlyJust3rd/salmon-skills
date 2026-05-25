@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parallel Design Methodology Execution"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multi-Stage Op-Amp Circuit Design"
 tags:
   - "cpe"

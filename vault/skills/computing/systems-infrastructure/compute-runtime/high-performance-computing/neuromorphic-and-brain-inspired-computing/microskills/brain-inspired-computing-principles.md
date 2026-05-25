@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Brain-Inspired Computing Principles"
 tags:
   - "cpe"

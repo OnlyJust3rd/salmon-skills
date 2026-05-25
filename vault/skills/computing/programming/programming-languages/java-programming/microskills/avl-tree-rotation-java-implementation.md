@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: AVL Tree Rotation Java Implementation
 tags:
   - cpe

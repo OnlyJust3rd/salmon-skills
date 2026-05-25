@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Goals and Context of Selective Encryption"
 tags:
   - "cpe"

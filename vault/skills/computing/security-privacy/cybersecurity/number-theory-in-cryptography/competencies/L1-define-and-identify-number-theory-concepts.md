@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Define and Identify Number Theory Concepts"
 tags:
   - "cpe"

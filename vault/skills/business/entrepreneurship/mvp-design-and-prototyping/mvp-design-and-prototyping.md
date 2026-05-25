@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "MVP Design and Prototyping"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "File Writing Commands"
 tags:
   - "cpe"

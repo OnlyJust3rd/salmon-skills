@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L6- Multi-Stage Op-Amp Design"
 tags:
   - "cpe"

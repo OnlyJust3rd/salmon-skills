@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Verilog HDL Fundamentals"
 tags:
   - "cpe"

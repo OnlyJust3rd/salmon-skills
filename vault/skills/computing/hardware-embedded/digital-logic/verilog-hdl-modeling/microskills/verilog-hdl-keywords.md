@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Verilog HDL Keywords"
 tags:
   - "cpe"

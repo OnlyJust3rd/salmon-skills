@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Limit Comparison Test application"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Continuous-Time Signal Characteristics"
 tags:
   - "cpe"

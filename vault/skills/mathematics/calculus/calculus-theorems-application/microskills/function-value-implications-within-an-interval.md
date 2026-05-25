@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Function value implications within an interval"
 tags:
   - "cpe"

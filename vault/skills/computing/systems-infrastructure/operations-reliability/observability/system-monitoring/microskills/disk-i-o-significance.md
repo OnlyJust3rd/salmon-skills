@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Disk I/O Significance"
 tags:
   - "cpe"

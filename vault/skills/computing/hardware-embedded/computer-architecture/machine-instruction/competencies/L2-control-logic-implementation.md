@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Control Logic Implementation"
 tags:
   - "cpe"

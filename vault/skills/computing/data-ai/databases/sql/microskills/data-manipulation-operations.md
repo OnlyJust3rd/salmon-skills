@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Manipulation Operations"
 tags:
   - "cpe"

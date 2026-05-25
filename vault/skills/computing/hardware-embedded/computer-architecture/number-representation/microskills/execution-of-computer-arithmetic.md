@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Execution of Computer Arithmetic"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Persona and Scenario Contribution
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Version Control for Infrastructure"
 tags:
   - "cpe"

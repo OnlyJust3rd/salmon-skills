@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Deadlock Prevention Techniques"
 tags:
   - "cpe"

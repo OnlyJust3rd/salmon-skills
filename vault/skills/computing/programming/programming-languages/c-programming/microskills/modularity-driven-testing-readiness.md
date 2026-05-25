@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Modularity-driven testing readiness
 tags:
   - cpe

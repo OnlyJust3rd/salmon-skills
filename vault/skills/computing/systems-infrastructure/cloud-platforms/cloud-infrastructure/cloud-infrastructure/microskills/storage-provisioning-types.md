@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Storage Provisioning Types"
 tags:
   - "cpe"

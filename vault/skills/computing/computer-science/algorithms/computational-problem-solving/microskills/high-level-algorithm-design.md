@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "High-Level Algorithm Design"
 tags:
   - "cpe"

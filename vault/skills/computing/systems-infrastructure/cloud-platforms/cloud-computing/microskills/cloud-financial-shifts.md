@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cloud Financial Shifts"
 tags:
   - "cpe"

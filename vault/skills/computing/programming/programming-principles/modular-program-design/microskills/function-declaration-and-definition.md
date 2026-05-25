@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Function declaration and definition"
 tags:
   - "cpe"

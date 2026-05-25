@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Function Generator Functions"
 tags:
   - "cpe"

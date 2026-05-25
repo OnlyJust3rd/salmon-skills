@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Employment Contract Analysis"
 tags:
   - "cpe"

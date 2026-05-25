@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Cluster Middleware and Slurm Components"
 tags:
   - "cpe"

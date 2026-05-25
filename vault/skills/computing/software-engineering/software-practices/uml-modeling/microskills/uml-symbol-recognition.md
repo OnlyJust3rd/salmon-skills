@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UML Symbol Recognition"
 tags:
   - "cpe"

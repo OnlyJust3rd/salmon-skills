@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Visual Cues in Imagery"
 tags:
   - "cpe"

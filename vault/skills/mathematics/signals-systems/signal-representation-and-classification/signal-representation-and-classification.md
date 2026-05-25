@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Signal Representation and Classification"
 tags:
   - "cpe"

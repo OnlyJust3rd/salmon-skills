@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Sketch polar curves using symmetry"
 tags:
   - "cpe"

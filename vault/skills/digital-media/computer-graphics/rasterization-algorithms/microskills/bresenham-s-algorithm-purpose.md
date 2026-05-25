@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Bresenham's Algorithm Purpose"
 tags:
   - "cpe"

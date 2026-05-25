@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Distinctions between Copyright Solutions"
 tags:
   - "cpe"

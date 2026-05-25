@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Visual Characteristics of Projections"
 tags:
   - "cpe"

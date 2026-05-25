@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Component Failure Identification"
 tags:
   - "cpe"

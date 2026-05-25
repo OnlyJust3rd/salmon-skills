@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Comparison with Non-Pipelined Architectures"
 tags:
   - "cpe"

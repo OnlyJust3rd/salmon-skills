@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Invertible System Definition"
 tags:
   - "cpe"

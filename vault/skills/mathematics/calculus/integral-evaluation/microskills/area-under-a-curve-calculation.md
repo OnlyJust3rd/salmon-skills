@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Area under a curve calculation"
 tags:
   - "cpe"

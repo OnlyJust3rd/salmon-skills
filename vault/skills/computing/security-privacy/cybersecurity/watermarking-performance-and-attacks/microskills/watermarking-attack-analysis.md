@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Watermarking Attack Analysis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply SAP Transaction and Master Data Concepts"
 tags:
   - "cpe"

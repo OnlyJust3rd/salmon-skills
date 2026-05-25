@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Triple integral setup (rectangular)"
 tags:
   - "cpe"

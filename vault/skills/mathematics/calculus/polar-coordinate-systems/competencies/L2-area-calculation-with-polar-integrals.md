@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Area Calculation with Polar Integrals"
 tags:
   - "cpe"

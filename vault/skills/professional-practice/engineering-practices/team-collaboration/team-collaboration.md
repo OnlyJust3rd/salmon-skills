@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Team Collaboration"
 tags:
   - "cpe"

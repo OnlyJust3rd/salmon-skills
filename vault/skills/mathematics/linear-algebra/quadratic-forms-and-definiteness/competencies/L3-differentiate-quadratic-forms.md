@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Differentiate quadratic forms"
 tags:
   - "cpe"

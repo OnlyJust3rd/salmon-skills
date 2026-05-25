@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Trade-offs in Evaluation Criteria"
 tags:
   - "cpe"

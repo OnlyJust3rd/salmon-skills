@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Transfer Mechanisms (I/O)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simulated Network Scenarios"
 tags:
   - "cpe"

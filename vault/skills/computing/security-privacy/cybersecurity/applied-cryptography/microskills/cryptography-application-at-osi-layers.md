@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cryptography Application at OSI Layers"
 tags:
   - "cpe"

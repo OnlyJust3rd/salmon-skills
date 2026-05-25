@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Alternating series convergence determination"
 tags:
   - "cpe"

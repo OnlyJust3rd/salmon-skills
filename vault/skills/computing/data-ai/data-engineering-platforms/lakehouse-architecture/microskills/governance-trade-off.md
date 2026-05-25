@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Governance Trade-off"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: C operator application
 tags:
   - cpe

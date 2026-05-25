@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L1- List Assembly Instructions
 tags:
   - cpe

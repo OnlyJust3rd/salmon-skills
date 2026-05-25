@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "NPV Calculation and Analysis"
 tags:
   - "cpe"

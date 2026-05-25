@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Symmetric Multiprocessing (SMP) Identification"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Endpoint Configuration and User Account Administration"
 tags:
   - "cpe"

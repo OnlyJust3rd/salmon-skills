@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Subjective Watermarking Metrics"
 tags:
   - "cpe"

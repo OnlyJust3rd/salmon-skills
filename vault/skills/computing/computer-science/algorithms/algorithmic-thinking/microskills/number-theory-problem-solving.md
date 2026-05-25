@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Number Theory Problem Solving"
 tags:
   - "cpe"

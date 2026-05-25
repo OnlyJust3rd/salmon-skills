@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Utilize UML for Design Documentation"
 tags:
   - "cpe"

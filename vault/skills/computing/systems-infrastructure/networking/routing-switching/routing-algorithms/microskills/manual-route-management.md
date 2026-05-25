@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Manual Route Management"
 tags:
   - "cpe"

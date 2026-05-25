@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "One-Way Password Hashing"
 tags:
   - "cpe"

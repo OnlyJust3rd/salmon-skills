@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Backtracking Algorithm Implementation"
 tags:
   - "cpe"

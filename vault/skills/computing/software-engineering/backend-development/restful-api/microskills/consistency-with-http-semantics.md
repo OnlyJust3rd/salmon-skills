@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Consistency with HTTP semantics"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Single-Bus Datapath Organization"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Serverless Computing"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Access Implications of Geometry"
 tags:
   - "cpe"

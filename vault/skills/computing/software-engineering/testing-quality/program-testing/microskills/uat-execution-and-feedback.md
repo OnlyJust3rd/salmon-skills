@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UAT execution and feedback"
 tags:
   - "cpe"

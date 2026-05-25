@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cost/Performance Justification"
 tags:
   - "cpe"

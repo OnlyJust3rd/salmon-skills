@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply OpenAI Codex Task Delegation Workflow Concepts"
 tags:
   - "cpe"

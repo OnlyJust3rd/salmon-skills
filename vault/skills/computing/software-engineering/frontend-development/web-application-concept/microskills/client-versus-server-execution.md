@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Client versus server execution"
 tags:
   - "cpe"

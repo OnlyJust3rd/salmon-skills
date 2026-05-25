@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Underlying Mathematical Principles"
 tags:
   - "cpe"

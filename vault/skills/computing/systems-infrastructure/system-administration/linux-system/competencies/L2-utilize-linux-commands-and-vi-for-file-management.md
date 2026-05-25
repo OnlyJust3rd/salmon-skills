@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Utilize Linux Commands and Vi for File Management"
 tags:
   - "cpe"

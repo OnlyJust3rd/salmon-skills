@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Example JSON contracts"
 tags:
   - "cpe"

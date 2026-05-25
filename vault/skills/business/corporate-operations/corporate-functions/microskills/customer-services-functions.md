@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Customer Services Functions"
 tags:
   - "cpe"

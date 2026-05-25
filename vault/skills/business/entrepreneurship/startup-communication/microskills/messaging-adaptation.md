@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Messaging Adaptation"
 tags:
   - "cpe"

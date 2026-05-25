@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "DTFT Magnitude Calculation"
 tags:
   - "cpe"

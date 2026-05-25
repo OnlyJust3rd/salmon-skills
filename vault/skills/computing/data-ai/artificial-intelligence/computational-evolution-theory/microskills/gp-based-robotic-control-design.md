@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "GP-Based Robotic Control Design"
 tags:
   - "cpe"

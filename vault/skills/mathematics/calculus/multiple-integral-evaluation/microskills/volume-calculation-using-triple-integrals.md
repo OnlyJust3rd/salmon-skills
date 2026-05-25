@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Volume calculation using triple integrals"
 tags:
   - "cpe"

@@ -36,9 +36,9 @@ The CPE 365 Intelligent Robot Programming course is designed to familiarize stud
 
 ## Macro Skills
 
-- [[skills/computing/data-ai/artificial-intelligence/artificial-neural-network/artificial-neural-network|Artificial Neural Network]]
+- [[artificial-neural-network|Artificial Neural Network]]
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|Computational Evolution Theory]]
-- [[skills/computing/hardware-embedded/robotics-iot/evolutional-robotics/evolutional-robotics|Evolutional Robotics]]
-- [[skills/computing/hardware-embedded/robotics-iot/mobile-robot-navigation/mobile-robot-navigation|Mobile Robot Navigation]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/robotics|Robotics]]
+- [[evolutional-robotics|Evolutional Robotics]]
+- [[mobile-robot-navigation|Mobile Robot Navigation]]
+- [[skills/computing/hardware-embedded/robotics/robotics/robotics|Robotics]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/soft-computing|Soft Computing]]

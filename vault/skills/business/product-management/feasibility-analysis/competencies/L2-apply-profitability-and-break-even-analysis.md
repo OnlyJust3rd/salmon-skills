@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Profitability and Break-Even Analysis"
 tags:
   - "cpe"

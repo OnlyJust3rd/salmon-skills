@@ -1,5 +1,6 @@
 ---
 type: skill
+icon: "LiZap"
 title: Advanced Interaction Paradigms
 tags:
   - cpe

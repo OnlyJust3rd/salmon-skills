@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scalar quantity definition"
 tags:
   - "cpe"

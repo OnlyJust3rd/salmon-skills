@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Forms and inputs"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Inverse function properties"
 tags:
   - "cpe"

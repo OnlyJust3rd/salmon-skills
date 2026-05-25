@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: User Centered Design Principles
 tags:
   - cpe

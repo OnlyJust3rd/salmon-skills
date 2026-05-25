@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IPSec (AH) Cryptography Role"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Resource boundary selection"
 tags:
   - "cpe"

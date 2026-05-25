@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Technical Troubleshooting"
 tags:
   - "cpe"

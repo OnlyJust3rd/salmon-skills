@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Warehouse Query Tuning"
 tags:
   - "cpe"

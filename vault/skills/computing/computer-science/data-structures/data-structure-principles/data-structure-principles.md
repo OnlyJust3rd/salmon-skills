@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Data Structure Principles"
 tags:
   - "cpe"

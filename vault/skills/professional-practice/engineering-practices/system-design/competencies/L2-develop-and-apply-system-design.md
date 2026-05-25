@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Develop and Apply System Design"
 tags:
   - "cpe"

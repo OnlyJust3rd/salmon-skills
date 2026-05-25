@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Media Protection with Hybrid Encryption"
 tags:
   - "cpe"

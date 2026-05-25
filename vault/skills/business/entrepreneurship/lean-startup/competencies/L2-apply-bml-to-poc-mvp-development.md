@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply BML to PoC/MVP Development"
 tags:
   - "cpe"

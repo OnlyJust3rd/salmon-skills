@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Trend and Pattern Identification
 tags:
   - cpe

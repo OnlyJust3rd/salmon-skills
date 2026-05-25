@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Implement ADTs and Data Structures with OOP
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Game Development Process Interpretation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Biometric Access Control Systems"
 tags:
   - "cpe"

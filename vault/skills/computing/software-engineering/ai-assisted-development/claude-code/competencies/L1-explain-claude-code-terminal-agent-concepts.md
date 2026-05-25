@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Claude Code Terminal Agent Concepts"
 tags:
   - "cpe"

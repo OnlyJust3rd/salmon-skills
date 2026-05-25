@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rollback Concepts"
 tags:
   - "cpe"

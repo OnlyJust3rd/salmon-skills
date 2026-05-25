@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Idea Validation Principles"
 tags:
   - "cpe"

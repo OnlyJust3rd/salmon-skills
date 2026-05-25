@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L2- Explain AI-Assisted Coding Concepts"
+type: competency
+icon: LiGoal
+title: L2- Explain AI-Assisted Coding Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/data-ai/artificial-intelligence/large-language-models/competencies/L1-explain-large-language-model-concepts|L1-explain-large-language-model-concepts]]"
+  - "[[L1-explain-large-language-model-concepts|L1-explain-large-language-model-concepts]]"
   - "[[skills/computing/software-engineering/software-practices/software-engineering/competencies/L1-software-engineering-as-modeling-problem-solving-and-knowledge-acquisition|L1-software-engineering-as-modeling-problem-solving-and-knowledge-acquisition]]"
 miller-level: 1
 optional-prerequisites: []
@@ -28,7 +29,7 @@ Explain AI-assisted coding concepts.
 
 ## Strict Prerequisites
 
-- [[skills/computing/data-ai/artificial-intelligence/large-language-models/competencies/L1-explain-large-language-model-concepts|L2- Explain Large Language Model Concepts]]
+- [[L1-explain-large-language-model-concepts|L2- Explain Large Language Model Concepts]]
 - [[skills/computing/software-engineering/software-practices/software-engineering/competencies/L1-software-engineering-as-modeling-problem-solving-and-knowledge-acquisition|L2- Software Engineering as Modeling, Problem-Solving, and Knowledge Acquisition]]
 
 ## Optional Prerequisites

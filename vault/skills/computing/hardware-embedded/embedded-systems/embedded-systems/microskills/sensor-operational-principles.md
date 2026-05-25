@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sensor Operational Principles"
 tags:
   - "cpe"

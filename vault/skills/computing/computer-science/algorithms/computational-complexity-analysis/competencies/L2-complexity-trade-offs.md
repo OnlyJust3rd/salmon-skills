@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Complexity Trade-offs"
 tags:
   - "cpe"

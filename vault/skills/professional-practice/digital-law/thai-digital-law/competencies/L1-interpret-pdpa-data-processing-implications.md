@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Interpret PDPA Data Processing Implications"
 tags:
   - "cpe"

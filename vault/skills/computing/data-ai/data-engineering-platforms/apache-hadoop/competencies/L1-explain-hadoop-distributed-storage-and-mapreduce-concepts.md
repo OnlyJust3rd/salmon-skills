@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Hadoop Distributed Storage and MapReduce Concepts"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Merge Sort Implementation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Virtual Memory Principles"
 tags:
   - "cpe"

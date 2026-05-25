@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Refactoring Discipline"
 tags:
   - "microskill"

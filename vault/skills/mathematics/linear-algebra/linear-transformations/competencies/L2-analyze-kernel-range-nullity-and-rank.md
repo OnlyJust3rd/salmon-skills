@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Analyze Kernel, Range, Nullity, and Rank"
 tags:
   - "cpe"

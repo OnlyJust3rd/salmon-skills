@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Backtracking General Approaches"
 tags:
   - "cpe"

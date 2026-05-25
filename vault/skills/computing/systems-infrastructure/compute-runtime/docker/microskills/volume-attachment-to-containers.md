@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Volume Attachment to Containers"
 tags:
   - "cpe"

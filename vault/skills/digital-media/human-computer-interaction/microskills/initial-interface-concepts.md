@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Initial Interface Concepts
 tags:
   - cpe

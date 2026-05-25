@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "NoSQL Database Characteristics"
 tags:
   - "cpe"

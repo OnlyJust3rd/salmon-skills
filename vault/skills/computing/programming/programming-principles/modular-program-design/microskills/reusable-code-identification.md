@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Reusable code identification"
 tags:
   - "cpe"

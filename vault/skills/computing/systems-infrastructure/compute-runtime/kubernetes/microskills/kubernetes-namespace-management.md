@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kubernetes Namespace Management"
 tags:
   - "cpe"

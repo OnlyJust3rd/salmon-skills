@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Containerized Application Deployment"
 tags:
   - "cpe"

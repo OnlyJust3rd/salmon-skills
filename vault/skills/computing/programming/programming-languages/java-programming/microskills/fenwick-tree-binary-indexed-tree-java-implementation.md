@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Fenwick Tree (Binary Indexed Tree) Java Implementation
 tags:
   - cpe

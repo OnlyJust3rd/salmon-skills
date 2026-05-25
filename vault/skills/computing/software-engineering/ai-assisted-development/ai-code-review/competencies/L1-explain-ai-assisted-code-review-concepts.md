@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain AI-Assisted Code Review Concepts"
 tags:
   - "cpe"

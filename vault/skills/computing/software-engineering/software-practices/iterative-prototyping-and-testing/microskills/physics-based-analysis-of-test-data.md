@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Physics-Based Analysis of Test Data"
 tags:
   - "cpe"

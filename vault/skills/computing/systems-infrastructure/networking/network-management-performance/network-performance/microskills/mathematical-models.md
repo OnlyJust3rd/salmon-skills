@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Mathematical Models"
 tags:
   - "cpe"

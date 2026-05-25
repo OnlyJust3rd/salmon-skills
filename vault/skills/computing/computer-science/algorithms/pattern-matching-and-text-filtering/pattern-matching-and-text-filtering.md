@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Pattern Matching and Text Filtering"
 tags:
   - "cpe"

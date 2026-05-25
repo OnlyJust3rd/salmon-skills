@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Division Algorithms Overview"
 tags:
   - "cpe"

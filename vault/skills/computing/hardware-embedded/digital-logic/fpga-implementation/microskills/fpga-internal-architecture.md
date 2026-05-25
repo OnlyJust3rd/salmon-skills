@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "FPGA Internal Architecture"
 tags:
   - "cpe"

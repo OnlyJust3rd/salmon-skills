@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "TCP Congestion Management"
 tags:
   - "cpe"

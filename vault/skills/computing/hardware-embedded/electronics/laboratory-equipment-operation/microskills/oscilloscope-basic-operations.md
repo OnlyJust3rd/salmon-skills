@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Oscilloscope Basic Operations"
 tags:
   - "cpe"

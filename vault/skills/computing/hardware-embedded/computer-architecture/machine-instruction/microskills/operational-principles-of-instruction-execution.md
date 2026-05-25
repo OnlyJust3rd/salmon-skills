@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Operational Principles of Instruction Execution"
 tags:
   - "cpe"

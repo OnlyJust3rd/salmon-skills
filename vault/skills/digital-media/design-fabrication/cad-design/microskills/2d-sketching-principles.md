@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "2D Sketching Principles"
 tags:
   - "cpe"

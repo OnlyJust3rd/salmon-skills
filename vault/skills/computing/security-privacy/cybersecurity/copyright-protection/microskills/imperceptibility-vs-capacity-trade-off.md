@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Imperceptibility vs. Capacity Trade-off"
 tags:
   - "cpe"

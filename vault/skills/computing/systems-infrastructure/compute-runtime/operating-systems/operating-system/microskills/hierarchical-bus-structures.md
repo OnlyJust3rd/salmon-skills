@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hierarchical Bus Structures"
 tags:
   - "cpe"

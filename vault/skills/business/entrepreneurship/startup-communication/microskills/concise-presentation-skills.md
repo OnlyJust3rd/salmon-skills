@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Concise Presentation Skills"
 tags:
   - "cpe"

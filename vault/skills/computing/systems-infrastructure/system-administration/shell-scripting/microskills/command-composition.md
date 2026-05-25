@@ -9,6 +9,7 @@ requires-in-competencies:
   - "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/competencies/L2-apply-shell-scripting-for-automation|L2-apply-shell-scripting-for-automation]]"
 contributors:
   - "[[contributors/just3rd|just3rd]]"
+icon: "LiBoxes"
 ---
 
 # Command Composition

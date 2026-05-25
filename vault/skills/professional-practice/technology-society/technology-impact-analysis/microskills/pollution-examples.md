@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pollution Examples"
 tags:
   - "cpe"

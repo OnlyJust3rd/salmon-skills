@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Player Motivation Analysis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Direction vectors for line-line relationships"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Signal Type Comparison"
 tags:
   - "cpe"

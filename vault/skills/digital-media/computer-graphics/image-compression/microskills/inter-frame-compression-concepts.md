@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Inter-frame Compression Concepts"
 tags:
   - "cpe"

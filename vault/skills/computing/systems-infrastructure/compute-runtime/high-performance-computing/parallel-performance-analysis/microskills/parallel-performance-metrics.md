@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parallel Performance Metrics"
 tags:
   - "cpe"

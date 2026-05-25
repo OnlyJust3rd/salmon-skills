@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Mobile Screen Layout"
 tags:
   - "cpe"

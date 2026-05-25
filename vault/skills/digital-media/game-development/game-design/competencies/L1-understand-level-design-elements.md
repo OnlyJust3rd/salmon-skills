@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Understand Level Design Elements"
 tags:
   - "cpe"

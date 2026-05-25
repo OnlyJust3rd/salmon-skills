@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Cryptography for Digital Media Protection"
 tags:
   - "cpe"

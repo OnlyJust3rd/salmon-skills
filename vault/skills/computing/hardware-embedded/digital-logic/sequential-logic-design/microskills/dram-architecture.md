@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "DRAM Architecture"
 tags:
   - "cpe"

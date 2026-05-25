@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Selection Sort Java Implementation
 tags:
   - cpe

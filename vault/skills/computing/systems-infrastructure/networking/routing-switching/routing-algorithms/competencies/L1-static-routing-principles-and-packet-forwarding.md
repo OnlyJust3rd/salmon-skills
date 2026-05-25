@@ -1,12 +1,13 @@
 ---
-type: "competency"
-title: "L2- Static Routing Principles and Packet Forwarding"
+type: competency
+icon: LiGoal
+title: L2- Static Routing Principles and Packet Forwarding
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts|L1-define-ip-addressing-and-forwarding-concepts]]"
-  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-describe-ip-forwarding-process|L1-describe-ip-forwarding-process]]"
+  - "[[L1-define-ip-addressing-and-forwarding-concepts|L1-define-ip-addressing-and-forwarding-concepts]]"
+  - "[[L1-describe-ip-forwarding-process|L1-describe-ip-forwarding-process]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/routing-algorithms|routing-algorithms]]"
@@ -29,8 +30,8 @@ Describe static routing principles and explain the process of packet forwarding 
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts|L2- Define IP addressing and forwarding concepts]]
-- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-describe-ip-forwarding-process|L2- Describe IP forwarding process]]
+- [[L1-define-ip-addressing-and-forwarding-concepts|L2- Define IP addressing and forwarding concepts]]
+- [[L1-describe-ip-forwarding-process|L2- Describe IP forwarding process]]
 
 ## Optional Prerequisites
 

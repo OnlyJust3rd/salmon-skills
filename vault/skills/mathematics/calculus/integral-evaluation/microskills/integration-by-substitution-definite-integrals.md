@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Integration by substitution (definite integrals)"
 tags:
   - "cpe"

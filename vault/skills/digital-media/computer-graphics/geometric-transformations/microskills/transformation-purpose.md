@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Transformation Purpose"
 tags:
   - "cpe"

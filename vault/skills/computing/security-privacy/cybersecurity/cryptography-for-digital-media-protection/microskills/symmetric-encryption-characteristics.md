@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Symmetric Encryption Characteristics"
 tags:
   - "cpe"

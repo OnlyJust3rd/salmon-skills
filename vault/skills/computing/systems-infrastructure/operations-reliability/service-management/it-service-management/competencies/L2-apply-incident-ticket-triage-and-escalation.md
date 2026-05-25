@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Incident Ticket Triage and Escalation"
 tags:
   - "cpe"

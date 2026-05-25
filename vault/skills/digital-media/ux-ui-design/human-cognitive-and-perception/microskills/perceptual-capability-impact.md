@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Perceptual Capability Impact
 tags:
   - cpe

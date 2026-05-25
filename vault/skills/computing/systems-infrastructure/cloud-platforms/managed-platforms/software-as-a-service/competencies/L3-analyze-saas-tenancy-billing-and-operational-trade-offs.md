@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze SaaS Tenancy Billing and Operational Trade-offs"
 tags:
   - "cpe"

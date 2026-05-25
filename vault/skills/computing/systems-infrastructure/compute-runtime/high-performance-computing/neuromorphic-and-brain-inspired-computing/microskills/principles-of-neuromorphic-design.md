@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Principles of Neuromorphic Design"
 tags:
   - "cpe"

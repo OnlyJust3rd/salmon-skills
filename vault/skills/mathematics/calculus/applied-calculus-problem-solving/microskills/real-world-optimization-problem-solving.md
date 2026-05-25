@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Real-world optimization problem solving"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Core Security Principles Explained"
 tags:
   - "cpe"

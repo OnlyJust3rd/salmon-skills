@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Transition Rationale"
 tags:
   - "cpe"

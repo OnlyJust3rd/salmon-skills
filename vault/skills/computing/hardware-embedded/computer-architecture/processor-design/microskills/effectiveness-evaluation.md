@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Effectiveness Evaluation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Branch and Bound Definitions"
 tags:
   - "cpe"

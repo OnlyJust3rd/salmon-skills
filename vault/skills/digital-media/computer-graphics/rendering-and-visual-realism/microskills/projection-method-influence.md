@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Projection Method Influence"
 tags:
   - "cpe"

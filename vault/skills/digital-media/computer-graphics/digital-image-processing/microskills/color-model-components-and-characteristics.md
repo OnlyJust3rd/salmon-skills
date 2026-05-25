@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Color Model Components and Characteristics"
 tags:
   - "cpe"

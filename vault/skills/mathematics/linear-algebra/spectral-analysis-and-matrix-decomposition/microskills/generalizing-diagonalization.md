@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Generalizing diagonalization"
 tags:
   - "cpe"

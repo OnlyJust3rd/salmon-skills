@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Proteus 8 Element Identification"
 tags:
   - "cpe"

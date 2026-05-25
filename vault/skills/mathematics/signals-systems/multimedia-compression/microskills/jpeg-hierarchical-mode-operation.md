@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JPEG Hierarchical Mode Operation"
 tags:
   - "cpe"

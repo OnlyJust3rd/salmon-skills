@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Strategy Selection"
 tags:
   - "cpe"

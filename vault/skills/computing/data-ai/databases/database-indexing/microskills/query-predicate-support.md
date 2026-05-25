@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Query Predicate Support"
 tags:
   - "cpe"

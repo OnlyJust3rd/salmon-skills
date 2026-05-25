@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain C++ Syntax OOP and Memory Concepts
 tags:
   - cpe

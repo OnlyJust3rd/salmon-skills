@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Vertex Addition/Removal"
 tags:
   - "cpe"

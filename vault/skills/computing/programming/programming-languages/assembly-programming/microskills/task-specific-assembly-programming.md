@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Task-Specific Assembly Programming
 tags:
   - cpe

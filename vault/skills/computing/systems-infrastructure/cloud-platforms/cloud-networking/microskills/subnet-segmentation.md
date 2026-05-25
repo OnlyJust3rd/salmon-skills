@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Subnet Segmentation"
 tags:
   - "cpe"

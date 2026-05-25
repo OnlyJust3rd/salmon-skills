@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Iterative Incremental Delivery"
 tags:
   - "microskill"

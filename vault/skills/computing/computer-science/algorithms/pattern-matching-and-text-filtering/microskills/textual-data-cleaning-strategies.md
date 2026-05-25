@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Textual Data Cleaning Strategies"
 tags:
   - "cpe"

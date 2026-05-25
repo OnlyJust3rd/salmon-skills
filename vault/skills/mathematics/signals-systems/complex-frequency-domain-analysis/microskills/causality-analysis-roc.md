@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Causality Analysis (ROC)"
 tags:
   - "cpe"

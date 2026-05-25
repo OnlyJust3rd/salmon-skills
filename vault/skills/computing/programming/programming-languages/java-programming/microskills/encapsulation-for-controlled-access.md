@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Encapsulation for Controlled Access
 tags:
   - cpe

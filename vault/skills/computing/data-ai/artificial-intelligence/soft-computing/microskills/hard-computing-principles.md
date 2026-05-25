@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hard Computing Principles"
 tags:
   - "cpe"

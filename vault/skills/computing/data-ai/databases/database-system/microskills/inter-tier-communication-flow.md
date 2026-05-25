@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Inter-Tier Communication Flow"
 tags:
   - "cpe"

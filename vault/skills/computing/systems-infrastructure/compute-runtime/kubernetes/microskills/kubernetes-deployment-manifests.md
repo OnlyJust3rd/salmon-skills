@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kubernetes Deployment Manifests"
 tags:
   - "cpe"

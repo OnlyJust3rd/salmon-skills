@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cryptographic Implementation Differences"
 tags:
   - "cpe"

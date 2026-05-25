@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply derivatives for graph sketching and analysis"
 tags:
   - "cpe"

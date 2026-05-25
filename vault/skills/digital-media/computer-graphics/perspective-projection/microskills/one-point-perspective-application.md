@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "One-Point Perspective Application"
 tags:
   - "cpe"

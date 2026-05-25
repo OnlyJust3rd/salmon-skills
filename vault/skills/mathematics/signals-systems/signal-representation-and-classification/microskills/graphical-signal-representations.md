@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Graphical Signal Representations"
 tags:
   - "cpe"

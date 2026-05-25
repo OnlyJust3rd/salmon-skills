@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "L'Hôpital's rule purpose"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Missing Value Handling"
 tags:
   - "cpe"

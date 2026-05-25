@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IAM Policy Creation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Human-readable algorithm description"
 tags:
   - "cpe"

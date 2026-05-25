@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Integration failure analysis"
 tags:
   - "cpe"

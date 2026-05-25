@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Common Industrial Computing Uses"
 tags:
   - "cpe"

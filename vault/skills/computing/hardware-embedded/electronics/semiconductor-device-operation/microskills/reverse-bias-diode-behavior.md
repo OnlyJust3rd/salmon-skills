@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Reverse Bias Diode Behavior"
 tags:
   - "cpe"

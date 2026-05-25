@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Process Control Block Structure"
 tags:
   - "cpe"

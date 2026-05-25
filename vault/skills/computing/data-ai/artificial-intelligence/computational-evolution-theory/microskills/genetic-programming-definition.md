@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Genetic Programming Definition"
 tags:
   - "cpe"

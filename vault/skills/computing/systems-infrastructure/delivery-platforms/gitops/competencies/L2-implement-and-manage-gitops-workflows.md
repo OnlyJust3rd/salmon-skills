@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Implement and Manage GitOps Workflows"
 tags:
   - "cpe"

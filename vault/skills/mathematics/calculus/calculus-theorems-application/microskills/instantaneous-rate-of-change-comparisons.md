@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Instantaneous rate of change comparisons"
 tags:
   - "cpe"

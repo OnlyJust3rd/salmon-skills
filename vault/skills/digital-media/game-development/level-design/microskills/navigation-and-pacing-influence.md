@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Navigation and Pacing Influence"
 tags:
   - "cpe"

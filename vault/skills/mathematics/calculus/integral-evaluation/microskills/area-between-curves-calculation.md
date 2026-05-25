@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Area between curves calculation"
 tags:
   - "cpe"

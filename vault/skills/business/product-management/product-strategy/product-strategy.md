@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Product Strategy"
 tags:
   - "cpe"

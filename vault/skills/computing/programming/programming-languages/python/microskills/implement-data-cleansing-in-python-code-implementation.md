@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Implement Data Cleansing in Python code implementation
 tags:
   - cpe

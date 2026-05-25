@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Continuous Integration Practice"
 tags:
   - "microskill"

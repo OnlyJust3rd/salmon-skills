@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Development Speed Comparison"
 tags:
   - "cpe"

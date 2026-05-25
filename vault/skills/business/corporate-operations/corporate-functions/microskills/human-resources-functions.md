@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Human Resources Functions"
 tags:
   - "cpe"

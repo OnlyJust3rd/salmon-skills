@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Big O Concept and Complexity"
 tags:
   - "cpe"

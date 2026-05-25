@@ -138,6 +138,7 @@ const ENTITY_REQUIRED_PROPERTIES = {
     "learning-time-in-minutes",
   ],
   contributor: ["type", "title", "tags"],
+  waypoint: ["type", "title", "tags", "icon"],
   redirect: ["type", "title", "tags"],
 } as const satisfies Record<string, readonly string[]>;
 
@@ -173,7 +174,7 @@ export async function parseVault(
       .map((file) => readVaultFile(root, normalizePath(file))),
   );
 
-  return parseVaultEntries(entries, options);
+  return parseVaultEntries(entries.filter((entry) => !isWaypointOnlyFolderNote(entry)), options);
 }
 
 export function parseVaultEntries(
@@ -204,6 +205,8 @@ export function parseVaultEntries(
   const edges: VaultEdge[] = [];
 
   for (const node of nodes) {
+    if (node.frontmatter.type === "waypoint") continue;
+
     const entry = entriesById.get(node.id);
     if (!entry) continue;
 
@@ -523,6 +526,28 @@ function isChildNotePath(relativePath: string, childDirectory: string): boolean 
   const parts = toNodeId(relativePath).split("/");
   const childIndex = parts.lastIndexOf(childDirectory);
   return parts[0] === "skills" && childIndex > 1 && childIndex === parts.length - 2;
+}
+
+function isWaypointOnlyFolderNote(entry: VaultFileEntry): boolean {
+  const relativePath = normalizePath(entry.path);
+  const idParts = toNodeId(relativePath).split("/");
+  const fileSlug = idParts.at(-1);
+  const folderSlug = idParts.at(-2);
+
+  return (
+    fileSlug !== undefined &&
+    fileSlug === folderSlug &&
+    !("type" in parseFrontmatter(entry.content)) &&
+    hasWaypointMarker(entry.content)
+  );
+}
+
+function hasWaypointMarker(content: string): boolean {
+  return (
+    content.includes("%% Waypoint %%") ||
+    content.includes("%% Begin Waypoint %%") ||
+    content.includes("%% End Waypoint %%")
+  );
 }
 
 function stripMarkdownCode(content: string): string {

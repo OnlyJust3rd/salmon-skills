@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Databricks Notebook and Lakehouse Workflow Concepts"
 tags:
   - "cpe"

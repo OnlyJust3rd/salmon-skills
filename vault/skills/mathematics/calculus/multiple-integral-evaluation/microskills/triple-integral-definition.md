@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Triple integral definition"
 tags:
   - "cpe"

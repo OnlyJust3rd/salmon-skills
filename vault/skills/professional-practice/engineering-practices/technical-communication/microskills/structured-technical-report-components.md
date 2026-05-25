@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Structured Technical Report Components"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Backtracking Technique Definitions"
 tags:
   - "cpe"

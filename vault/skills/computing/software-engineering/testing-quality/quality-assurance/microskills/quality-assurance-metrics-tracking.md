@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Quality Assurance Metrics Tracking"
 tags:
   - "cpe"

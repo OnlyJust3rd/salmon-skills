@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Python Visualization Application"
 tags:
   - "cpe"

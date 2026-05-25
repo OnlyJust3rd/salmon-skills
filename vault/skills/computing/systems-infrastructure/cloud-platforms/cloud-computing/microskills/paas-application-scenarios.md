@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "PaaS Application Scenarios"
 tags:
   - "cpe"

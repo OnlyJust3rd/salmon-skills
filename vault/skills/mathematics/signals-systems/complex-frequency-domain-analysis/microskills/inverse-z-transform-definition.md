@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Inverse Z-transform Definition"
 tags:
   - "cpe"

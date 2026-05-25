@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Fourier Transform Analysis"
 tags:
   - "cpe"

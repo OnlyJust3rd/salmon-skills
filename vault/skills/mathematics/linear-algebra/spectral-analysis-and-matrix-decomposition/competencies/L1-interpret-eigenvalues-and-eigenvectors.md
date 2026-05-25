@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Interpret Eigenvalues and Eigenvectors"
 tags:
   - "cpe"

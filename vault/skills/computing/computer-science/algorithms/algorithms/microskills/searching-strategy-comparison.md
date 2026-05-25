@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Searching Strategy Comparison"
 tags:
   - "cpe"

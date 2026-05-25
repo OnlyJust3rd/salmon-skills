@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Use Cases for Data Models"
 tags:
   - "cpe"

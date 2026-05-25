@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Growth Rate Ordering"
 tags:
   - "cpe"

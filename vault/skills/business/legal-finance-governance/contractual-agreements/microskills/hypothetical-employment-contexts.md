@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hypothetical Employment Contexts"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Firebase Database Service"
 tags:
   - "cpe"

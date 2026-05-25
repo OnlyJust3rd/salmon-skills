@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Spectrum Interpretation
 tags:
   - cpe

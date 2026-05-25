@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pixel Role in Image Representation"
 tags:
   - "cpe"

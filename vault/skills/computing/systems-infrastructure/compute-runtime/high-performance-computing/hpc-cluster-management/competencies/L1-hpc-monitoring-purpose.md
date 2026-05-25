@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- HPC Monitoring Purpose"
 tags:
   - "cpe"

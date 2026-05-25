@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Classification of multivariable extrema"
 tags:
   - "cpe"

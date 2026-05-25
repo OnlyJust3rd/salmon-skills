@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Operational Amplifier Function"
 tags:
   - "cpe"

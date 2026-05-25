@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Matrix invertibility"
 tags:
   - "cpe"

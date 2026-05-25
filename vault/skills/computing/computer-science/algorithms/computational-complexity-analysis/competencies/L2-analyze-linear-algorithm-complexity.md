@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Analyze Linear Algorithm Complexity"
 tags:
   - "cpe"

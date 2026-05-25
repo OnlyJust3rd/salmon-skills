@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Ethical Principle Importance"
 tags:
   - "cpe"

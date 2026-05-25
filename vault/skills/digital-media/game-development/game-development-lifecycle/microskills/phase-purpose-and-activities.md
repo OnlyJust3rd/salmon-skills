@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Phase Purpose and Activities"
 tags:
   - "cpe"

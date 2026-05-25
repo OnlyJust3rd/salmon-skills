@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Redundancy Reduction in Design"
 tags:
   - "cpe"

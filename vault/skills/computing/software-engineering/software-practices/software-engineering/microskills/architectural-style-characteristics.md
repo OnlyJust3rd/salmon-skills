@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Architectural Style Characteristics"
 tags:
   - "cpe"

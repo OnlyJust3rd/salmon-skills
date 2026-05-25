@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Game Audio Trigger and Mixing Concepts"
 tags:
   - "cpe"

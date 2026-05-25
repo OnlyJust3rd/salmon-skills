@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "ESG Application in Business"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Implement REST JSON API with Express"
 tags:
   - "cpe"

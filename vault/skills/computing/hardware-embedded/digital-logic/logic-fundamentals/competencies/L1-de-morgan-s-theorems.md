@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- De Morgan's Theorems"
 tags:
   - "cpe"

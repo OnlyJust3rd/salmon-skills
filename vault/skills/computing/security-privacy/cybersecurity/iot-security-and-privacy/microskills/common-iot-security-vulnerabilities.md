@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Common IoT Security Vulnerabilities"
 tags:
   - "cpe"

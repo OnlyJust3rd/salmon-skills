@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Industry Sectors Utilizing Computing"
 tags:
   - "cpe"

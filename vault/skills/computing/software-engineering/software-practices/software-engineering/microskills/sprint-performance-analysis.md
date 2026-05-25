@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sprint Performance Analysis"
 tags:
   - "cpe"

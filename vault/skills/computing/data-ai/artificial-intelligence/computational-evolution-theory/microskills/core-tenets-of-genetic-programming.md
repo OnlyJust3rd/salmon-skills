@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Core Tenets of Genetic Programming"
 tags:
   - "cpe"

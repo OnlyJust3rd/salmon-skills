@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Code Readability Enhancement"
 tags:
   - "cpe"

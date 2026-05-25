@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Low Coupling Design"
 tags:
   - "cpe"

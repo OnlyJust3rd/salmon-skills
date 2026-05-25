@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Derivative Computation and Analysis"
 tags:
   - "cpe"

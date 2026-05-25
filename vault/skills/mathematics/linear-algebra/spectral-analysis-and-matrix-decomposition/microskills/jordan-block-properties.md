@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Jordan block properties"
 tags:
   - "cpe"

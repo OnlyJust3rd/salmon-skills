@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "Apply XP Engineering Practices"
 tags:
   - "competency"

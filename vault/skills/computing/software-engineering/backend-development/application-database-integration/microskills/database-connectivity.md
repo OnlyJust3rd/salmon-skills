@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Database Connectivity"
 tags:
   - "cpe"

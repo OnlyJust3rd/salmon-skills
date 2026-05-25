@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Reduced Operational Overhead"
 tags:
   - "cpe"

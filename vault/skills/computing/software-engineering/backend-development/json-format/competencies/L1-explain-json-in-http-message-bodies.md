@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L2- Explain JSON in HTTP Message Bodies"
+type: competency
+icon: LiGoal
+title: L2- Explain JSON in HTTP Message Bodies
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/competencies/L1-list-and-define-application-protocols|L1-list-and-define-application-protocols]]"
+  - "[[L1-list-and-define-application-protocols|L1-list-and-define-application-protocols]]"
   - "[[skills/computing/software-engineering/backend-development/json-format/competencies/L1-define-json-syntax-and-data-types|L1-define-json-syntax-and-data-types]]"
 miller-level: 1
 optional-prerequisites: []
@@ -29,7 +30,7 @@ Explain how JSON is used as a message body format in HTTP requests and responses
 ## Strict Prerequisites
 
 - [[skills/computing/software-engineering/backend-development/json-format/competencies/L1-define-json-syntax-and-data-types|L1- Define JSON Syntax and Data Types]]
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/competencies/L1-list-and-define-application-protocols|L1- List and define application protocols]]
+- [[L1-list-and-define-application-protocols|L1- List and define application protocols]]
 
 ## Optional Prerequisites
 

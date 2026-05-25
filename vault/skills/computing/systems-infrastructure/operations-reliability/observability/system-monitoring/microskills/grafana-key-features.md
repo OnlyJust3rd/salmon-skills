@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Grafana Key Features"
 tags:
   - "cpe"

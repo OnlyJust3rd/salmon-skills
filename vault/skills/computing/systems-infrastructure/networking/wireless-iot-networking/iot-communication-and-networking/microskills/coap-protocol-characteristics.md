@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CoAP Protocol Characteristics"
 tags:
   - "cpe"

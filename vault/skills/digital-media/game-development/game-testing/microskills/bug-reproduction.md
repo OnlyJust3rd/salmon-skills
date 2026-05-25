@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Bug Reproduction"
 tags:
   - "cpe"

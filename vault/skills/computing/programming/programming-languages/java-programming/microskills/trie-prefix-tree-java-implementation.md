@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Trie (Prefix Tree) Java Implementation
 tags:
   - cpe

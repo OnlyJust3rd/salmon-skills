@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Adapter Pattern Application"
 tags:
   - "cpe"

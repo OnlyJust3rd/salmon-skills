@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Binary Arithmetic Operations"
 tags:
   - "cpe"

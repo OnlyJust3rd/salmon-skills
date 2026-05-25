@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Historical UI Evolution
 tags:
   - cpe

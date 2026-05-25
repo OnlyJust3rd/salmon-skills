@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Directed vs. Undirected Graphs"
 tags:
   - "cpe"

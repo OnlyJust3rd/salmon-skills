@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Compare-and-Swap Atomicity"
 tags:
   - "cpe"

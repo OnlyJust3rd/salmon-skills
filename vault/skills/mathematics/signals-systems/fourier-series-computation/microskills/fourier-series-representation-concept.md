@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fourier series representation concept"
 tags:
   - "cpe"

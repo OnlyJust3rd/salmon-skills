@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Superposition Theorem Application"
 tags:
   - "cpe"

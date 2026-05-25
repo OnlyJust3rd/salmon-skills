@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Index Access Paths"
 tags:
   - "cpe"

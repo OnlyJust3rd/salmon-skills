@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- EV Benefits and Drawbacks"
 tags:
   - "cpe"

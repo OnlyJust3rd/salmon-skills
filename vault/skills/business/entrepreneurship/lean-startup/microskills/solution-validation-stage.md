@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Solution Validation Stage"
 tags:
   - "cpe"

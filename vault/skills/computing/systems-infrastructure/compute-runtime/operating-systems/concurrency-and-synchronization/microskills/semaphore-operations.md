@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Semaphore Operations"
 tags:
   - "cpe"

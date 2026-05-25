@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Frequency Domain Watermark Characteristics"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "GCP Managed Services"
 tags:
   - "cpe"

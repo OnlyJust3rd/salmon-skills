@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Solder Mask Layer"
 tags:
   - "cpe"

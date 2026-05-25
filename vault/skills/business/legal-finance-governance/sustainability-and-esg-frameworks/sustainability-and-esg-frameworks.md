@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Sustainability and ESG Frameworks"
 tags:
   - "cpe"

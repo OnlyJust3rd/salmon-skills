@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Artifact Management"
 tags:
   - "cpe"

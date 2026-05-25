@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Influence of Requirements on Design"
 tags:
   - "cpe"

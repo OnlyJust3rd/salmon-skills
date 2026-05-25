@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Gameplay Mechanics Definition"
 tags:
   - "cpe"

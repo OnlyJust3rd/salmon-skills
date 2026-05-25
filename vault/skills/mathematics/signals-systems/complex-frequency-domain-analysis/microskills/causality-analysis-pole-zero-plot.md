@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Causality Analysis (Pole-Zero Plot)"
 tags:
   - "cpe"

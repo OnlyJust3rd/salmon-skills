@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Detection and Analysis"
 tags:
   - "cpe"

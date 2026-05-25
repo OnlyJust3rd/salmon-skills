@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Dynamic Behavioral Diagrams"
 tags:
   - "cpe"

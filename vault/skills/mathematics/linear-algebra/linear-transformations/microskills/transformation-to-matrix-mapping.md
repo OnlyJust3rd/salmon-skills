@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Transformation-to-matrix mapping"
 tags:
   - "cpe"

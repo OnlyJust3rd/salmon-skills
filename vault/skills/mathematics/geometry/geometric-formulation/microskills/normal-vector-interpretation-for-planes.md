@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Normal vector interpretation for planes"
 tags:
   - "cpe"

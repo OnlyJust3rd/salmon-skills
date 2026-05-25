@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Serverless Architecture Use Cases"
 tags:
   - "cpe"

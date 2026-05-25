@@ -1,5 +1,6 @@
 ---
 type: skill
+icon: "LiZap"
 title: Interactive System Development
 tags:
   - cpe

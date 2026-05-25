@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Distributed Resource Management"
 tags:
   - "cpe"

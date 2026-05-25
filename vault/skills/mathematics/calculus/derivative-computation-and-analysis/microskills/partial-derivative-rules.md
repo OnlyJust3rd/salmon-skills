@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Partial derivative rules"
 tags:
   - "cpe"

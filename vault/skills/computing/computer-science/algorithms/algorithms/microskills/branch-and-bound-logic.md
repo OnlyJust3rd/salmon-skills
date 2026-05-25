@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Branch and Bound Logic"
 tags:
   - "cpe"

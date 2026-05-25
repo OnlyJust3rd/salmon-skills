@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CPU Core Functionality"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Genetic Programming Implementation for Robots"
 tags:
   - "cpe"

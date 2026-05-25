@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Interaction Style Consideration
 tags:
   - cpe

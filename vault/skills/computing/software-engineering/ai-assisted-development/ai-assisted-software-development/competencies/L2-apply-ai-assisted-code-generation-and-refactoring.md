@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply AI-Assisted Code Generation and Refactoring"
 tags:
   - "cpe"

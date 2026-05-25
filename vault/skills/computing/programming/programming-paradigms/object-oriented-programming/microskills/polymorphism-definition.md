@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Polymorphism Definition"
 tags:
   - "cpe"

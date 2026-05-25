@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rigorous proof construction"
 tags:
   - "cpe"

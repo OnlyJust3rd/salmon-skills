@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "PCB Role in Process Management"
 tags:
   - "cpe"

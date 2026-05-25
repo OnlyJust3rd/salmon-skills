@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IoT Data Analysis Comparison"
 tags:
   - "cpe"

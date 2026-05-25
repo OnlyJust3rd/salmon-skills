@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Purpose of Gaussian elimination"
 tags:
   - "cpe"

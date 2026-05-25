@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Evolution of Robotic Behaviors via GP"
 tags:
   - "cpe"

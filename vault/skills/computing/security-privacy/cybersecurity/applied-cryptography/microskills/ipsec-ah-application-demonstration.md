@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IPSec (AH) Application Demonstration"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Stability Criteria from Pole Location"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Product Discovery and Roadmapping Concepts
 tags:
   - cpe

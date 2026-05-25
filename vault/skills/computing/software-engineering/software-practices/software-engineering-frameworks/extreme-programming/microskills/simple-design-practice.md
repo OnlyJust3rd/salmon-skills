@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simple Design Practice"
 tags:
   - "microskill"

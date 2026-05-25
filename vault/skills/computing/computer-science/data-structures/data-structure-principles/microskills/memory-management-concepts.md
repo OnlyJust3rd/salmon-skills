@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Memory Management Concepts"
 tags:
   - "cpe"

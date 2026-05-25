@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Bus Driver IC Identification"
 tags:
   - "cpe"

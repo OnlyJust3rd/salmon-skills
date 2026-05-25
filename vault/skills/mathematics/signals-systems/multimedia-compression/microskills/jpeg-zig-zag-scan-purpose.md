@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JPEG Zig-zag Scan Purpose"
 tags:
   - "cpe"

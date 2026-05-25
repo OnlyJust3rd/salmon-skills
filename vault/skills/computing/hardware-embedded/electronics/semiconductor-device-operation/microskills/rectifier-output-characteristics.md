@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rectifier Output Characteristics"
 tags:
   - "cpe"

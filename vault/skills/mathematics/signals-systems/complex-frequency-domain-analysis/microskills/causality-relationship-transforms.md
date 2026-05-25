@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Causality Relationship (Transforms)"
 tags:
   - "cpe"

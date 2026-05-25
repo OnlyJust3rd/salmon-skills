@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "El Gamal Mechanics"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fetch-and-Add Lock Implementation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Time Complexity Analysis (Recursion)"
 tags:
   - "cpe"

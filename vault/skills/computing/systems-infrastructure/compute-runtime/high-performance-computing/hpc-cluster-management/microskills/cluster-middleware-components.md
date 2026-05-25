@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cluster Middleware Components"
 tags:
   - "cpe"

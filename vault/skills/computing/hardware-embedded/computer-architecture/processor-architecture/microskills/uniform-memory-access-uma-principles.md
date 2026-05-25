@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Uniform Memory Access (UMA) Principles"
 tags:
   - "cpe"

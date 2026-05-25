@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- 3D Geometric Equation Definitions"
 tags:
   - "cpe"

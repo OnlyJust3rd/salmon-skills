@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Data Structure Properties and Classifications"
 tags:
   - "cpe"

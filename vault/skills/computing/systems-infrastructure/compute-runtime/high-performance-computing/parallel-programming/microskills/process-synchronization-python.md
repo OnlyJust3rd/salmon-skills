@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Process Synchronization (Python)"
 tags:
   - "cpe"

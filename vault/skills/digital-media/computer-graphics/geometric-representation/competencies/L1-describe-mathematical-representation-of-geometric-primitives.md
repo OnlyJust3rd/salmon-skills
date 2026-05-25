@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Describe Mathematical Representation of Geometric Primitives"
 tags:
   - "cpe"

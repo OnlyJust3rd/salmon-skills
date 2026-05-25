@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Utility Program Task Execution"
 tags:
   - "cpe"

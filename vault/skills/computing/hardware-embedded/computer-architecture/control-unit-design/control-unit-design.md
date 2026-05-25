@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Control Unit Design"
 tags:
   - "cpe"

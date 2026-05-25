@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Emulator Tool Utilization"
 tags:
   - "cpe"

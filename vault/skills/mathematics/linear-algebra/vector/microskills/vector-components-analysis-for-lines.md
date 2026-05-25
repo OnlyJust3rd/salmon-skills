@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Vector components analysis for lines"
 tags:
   - "cpe"

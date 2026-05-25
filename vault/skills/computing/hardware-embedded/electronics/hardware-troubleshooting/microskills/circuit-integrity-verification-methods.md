@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Circuit Integrity Verification Methods"
 tags:
   - "cpe"

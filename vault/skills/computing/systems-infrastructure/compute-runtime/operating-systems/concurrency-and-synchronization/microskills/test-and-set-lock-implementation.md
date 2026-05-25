@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Test-and-Set Lock Implementation"
 tags:
   - "cpe"

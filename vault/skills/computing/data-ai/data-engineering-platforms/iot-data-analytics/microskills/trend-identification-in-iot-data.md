@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Trend Identification in IoT Data"
 tags:
   - "cpe"

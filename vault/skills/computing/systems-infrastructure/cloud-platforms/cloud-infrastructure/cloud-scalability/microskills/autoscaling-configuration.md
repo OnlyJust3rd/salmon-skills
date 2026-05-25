@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Autoscaling Configuration"
 tags:
   - "cpe"

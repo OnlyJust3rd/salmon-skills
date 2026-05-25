@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Plan-Driven Process Model Analysis"
 tags:
   - "cpe"

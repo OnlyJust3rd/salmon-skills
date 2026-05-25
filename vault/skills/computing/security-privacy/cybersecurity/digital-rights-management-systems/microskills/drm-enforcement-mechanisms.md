@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "DRM Enforcement Mechanisms"
 tags:
   - "cpe"

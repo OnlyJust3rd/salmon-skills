@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: XR Development Tools
 tags:
   - cpe

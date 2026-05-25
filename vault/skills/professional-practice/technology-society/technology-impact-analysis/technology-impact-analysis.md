@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Technology Impact Analysis"
 tags:
   - "cpe"

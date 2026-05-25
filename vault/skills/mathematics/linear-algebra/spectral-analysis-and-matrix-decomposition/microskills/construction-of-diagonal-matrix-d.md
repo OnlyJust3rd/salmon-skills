@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Construction of diagonal matrix D"
 tags:
   - "cpe"

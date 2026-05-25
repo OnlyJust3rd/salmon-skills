@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Docker Stop Command"
 tags:
   - "cpe"

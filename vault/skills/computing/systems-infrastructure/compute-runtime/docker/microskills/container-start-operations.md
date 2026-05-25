@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Container Start Operations"
 tags:
   - "cpe"

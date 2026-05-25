@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- State and Define FTC and Antiderivative Properties"
 tags:
   - "cpe"

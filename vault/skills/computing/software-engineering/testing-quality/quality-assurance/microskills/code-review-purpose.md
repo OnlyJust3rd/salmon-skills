@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Code Review Purpose"
 tags:
   - "cpe"

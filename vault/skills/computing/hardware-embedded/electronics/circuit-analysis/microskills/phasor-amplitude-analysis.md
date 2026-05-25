@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Phasor Amplitude Analysis"
 tags:
   - "cpe"

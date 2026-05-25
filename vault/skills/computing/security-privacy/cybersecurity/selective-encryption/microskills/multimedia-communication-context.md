@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multimedia Communication Context"
 tags:
   - "cpe"

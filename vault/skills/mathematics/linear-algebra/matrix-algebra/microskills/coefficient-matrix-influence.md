@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Coefficient matrix influence"
 tags:
   - "cpe"

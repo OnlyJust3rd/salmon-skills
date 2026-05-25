@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Git Change Tracking"
 tags:
   - "cpe"

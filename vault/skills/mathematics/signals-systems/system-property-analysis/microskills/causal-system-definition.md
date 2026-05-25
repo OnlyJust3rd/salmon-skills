@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Causal System Definition"
 tags:
   - "cpe"

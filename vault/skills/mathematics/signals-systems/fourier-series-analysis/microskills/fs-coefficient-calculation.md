@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "FS Coefficient Calculation"
 tags:
   - "cpe"

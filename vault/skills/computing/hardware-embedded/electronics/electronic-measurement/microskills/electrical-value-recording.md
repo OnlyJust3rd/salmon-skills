@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Electrical Value Recording"
 tags:
   - "cpe"

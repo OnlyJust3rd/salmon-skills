@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Software Engineering as Modeling, Problem-Solving, and Knowledge Acquisition"
 tags:
   - "cpe"

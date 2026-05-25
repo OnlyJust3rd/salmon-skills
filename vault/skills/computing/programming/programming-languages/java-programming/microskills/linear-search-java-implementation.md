@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Linear Search Java Implementation
 tags:
   - cpe

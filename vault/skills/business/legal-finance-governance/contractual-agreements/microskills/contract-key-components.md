@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Contract Key Components"
 tags:
   - "cpe"

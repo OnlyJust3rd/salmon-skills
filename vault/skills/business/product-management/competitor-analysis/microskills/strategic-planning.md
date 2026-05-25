@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Strategic Planning"
 tags:
   - "cpe"

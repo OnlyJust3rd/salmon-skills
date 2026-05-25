@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Communication Security Principles"
 tags:
   - "cpe"

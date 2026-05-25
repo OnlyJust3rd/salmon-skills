@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: VR and AR Positioning
 tags:
   - cpe

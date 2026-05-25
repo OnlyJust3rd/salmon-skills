@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Use Cases for Automation Approaches"
 tags:
   - "cpe"

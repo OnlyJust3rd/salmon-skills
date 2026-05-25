@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Bresenham's Algorithm Steps and Purpose"
 tags:
   - "cpe"

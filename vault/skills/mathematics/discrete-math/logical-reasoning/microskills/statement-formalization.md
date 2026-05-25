@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Statement Formalization"
 tags:
   - "cpe"

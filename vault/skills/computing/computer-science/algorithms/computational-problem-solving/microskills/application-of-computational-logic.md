@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Application of computational logic"
 tags:
   - "cpe"

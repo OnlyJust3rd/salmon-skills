@@ -1,12 +1,13 @@
 ---
-type: "competency"
-title: "L2- Azure IoT Hub Architecture and Security"
+type: competency
+icon: LiGoal
+title: L2- Azure IoT Hub Architecture and Security
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/competencies/L1-define-apis-and-json|L1-define-apis-and-json]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-applications-and-architecture|L1-explain-iot-applications-and-architecture]]"
+  - "[[L1-explain-iot-applications-and-architecture|L1-explain-iot-applications-and-architecture]]"
   - "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L3-analyze-iot-communication-technologies]]"
 miller-level: 1
 optional-prerequisites: []
@@ -32,7 +33,7 @@ Explain the architecture of IoT cloud platforms, including device provisioning a
 
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/competencies/L1-define-apis-and-json|L1- Define APIs and JSON]]
 - [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/competencies/L3-analyze-iot-communication-technologies|L4- Analyze IoT Communication Technologies]]
-- [[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-applications-and-architecture|L2- Explain IoT Applications and Architecture]]
+- [[L1-explain-iot-applications-and-architecture|L2- Explain IoT Applications and Architecture]]
 
 ## Optional Prerequisites
 

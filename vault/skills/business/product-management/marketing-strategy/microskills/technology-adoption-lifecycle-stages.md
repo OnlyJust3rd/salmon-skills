@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Technology Adoption Lifecycle Stages"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CPU Scheduling Decision-Making"
 tags:
   - "cpe"

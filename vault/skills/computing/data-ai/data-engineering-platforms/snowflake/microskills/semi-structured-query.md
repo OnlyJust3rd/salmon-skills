@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Semi-Structured Query"
 tags:
   - "cpe"

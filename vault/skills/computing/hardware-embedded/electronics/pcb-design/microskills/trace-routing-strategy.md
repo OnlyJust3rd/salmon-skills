@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Trace Routing Strategy"
 tags:
   - "cpe"

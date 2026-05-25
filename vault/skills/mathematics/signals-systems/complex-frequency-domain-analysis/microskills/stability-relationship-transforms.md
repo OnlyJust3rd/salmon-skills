@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Stability Relationship (Transforms)"
 tags:
   - "cpe"

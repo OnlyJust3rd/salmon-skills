@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Original Processor Architecture Design"
 tags:
   - "cpe"

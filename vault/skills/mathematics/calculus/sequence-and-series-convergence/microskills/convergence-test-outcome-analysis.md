@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Convergence test outcome analysis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scheduled Job"
 tags:
   - "cpe"

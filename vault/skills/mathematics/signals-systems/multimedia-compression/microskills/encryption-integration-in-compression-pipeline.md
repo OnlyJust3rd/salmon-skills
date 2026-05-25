@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Encryption Integration in Compression Pipeline"
 tags:
   - "cpe"

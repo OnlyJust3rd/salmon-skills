@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Diagonalizability criteria"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Virtual CPU Allocation"
 tags:
   - "cpe"

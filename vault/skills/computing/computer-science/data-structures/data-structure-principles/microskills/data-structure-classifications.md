@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Structure Classifications"
 tags:
   - "cpe"

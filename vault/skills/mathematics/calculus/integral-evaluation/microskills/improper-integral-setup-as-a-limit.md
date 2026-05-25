@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Improper integral setup as a limit"
 tags:
   - "cpe"

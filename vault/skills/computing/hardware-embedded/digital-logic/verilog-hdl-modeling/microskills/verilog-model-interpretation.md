@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Verilog Model Interpretation"
 tags:
   - "cpe"

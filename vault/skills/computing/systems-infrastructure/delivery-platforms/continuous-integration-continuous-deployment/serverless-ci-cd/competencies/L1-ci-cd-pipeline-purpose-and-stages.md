@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- CI/CD Pipeline Purpose and Stages"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Euler's Phi Function Definition"
 tags:
   - "cpe"

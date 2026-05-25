@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cybersecurity Act Core Principles"
 tags:
   - "cpe"

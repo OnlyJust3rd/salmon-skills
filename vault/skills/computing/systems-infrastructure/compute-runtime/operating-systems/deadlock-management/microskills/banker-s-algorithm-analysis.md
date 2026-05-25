@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Banker's Algorithm Analysis"
 tags:
   - "cpe"

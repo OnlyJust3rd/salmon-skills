@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Tree Terminology"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "DSP Workload Fit"
 tags:
   - "cpe"

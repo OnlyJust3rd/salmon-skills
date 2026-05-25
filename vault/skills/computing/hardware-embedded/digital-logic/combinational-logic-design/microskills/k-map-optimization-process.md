@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "K-map Optimization Process"
 tags:
   - "cpe"

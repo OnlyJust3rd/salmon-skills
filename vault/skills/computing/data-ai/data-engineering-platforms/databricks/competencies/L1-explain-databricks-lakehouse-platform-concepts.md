@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Databricks Lakehouse Platform Concepts"
 tags:
   - "cpe"

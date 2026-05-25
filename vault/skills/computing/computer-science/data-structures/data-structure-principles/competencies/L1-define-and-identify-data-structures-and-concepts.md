@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Define and Identify Data Structures and Concepts"
 tags:
   - "cpe"

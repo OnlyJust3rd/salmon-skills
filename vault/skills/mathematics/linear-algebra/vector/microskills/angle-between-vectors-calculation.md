@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Angle between vectors calculation"
 tags:
   - "cpe"

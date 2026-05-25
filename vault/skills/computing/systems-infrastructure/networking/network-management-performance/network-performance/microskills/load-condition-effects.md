@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Load Condition Effects"
 tags:
   - "cpe"

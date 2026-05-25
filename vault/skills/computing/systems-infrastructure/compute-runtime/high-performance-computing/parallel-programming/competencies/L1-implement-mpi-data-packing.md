@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Implement MPI Data Packing"
 tags:
   - "cpe"

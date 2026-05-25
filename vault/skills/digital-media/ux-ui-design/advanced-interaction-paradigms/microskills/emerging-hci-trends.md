@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Emerging HCI Trends
 tags:
   - cpe

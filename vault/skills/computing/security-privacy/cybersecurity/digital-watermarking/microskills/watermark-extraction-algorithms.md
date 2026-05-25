@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Watermark Extraction Algorithms"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "{{title}}"
 tags:
   - "competency"
@@ -35,4 +36,3 @@ Parent skill: [[skills/{{taxonomy-path}}/{{skill-name}}/{{skill-name}}|{{skill-t
 ## Microskills
 
 - [[skills/{{taxonomy-path}}/{{skill-name}}/microskills/{{microskill-slug}}|{{microskill-title}}]]
-

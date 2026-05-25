@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digital Signature Purposes"
 tags:
   - "cpe"

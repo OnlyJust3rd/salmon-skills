@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cluster Computing Identification"
 tags:
   - "cpe"

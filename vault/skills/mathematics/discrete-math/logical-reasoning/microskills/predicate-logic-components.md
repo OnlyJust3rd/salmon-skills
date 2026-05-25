@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Predicate Logic Components"
 tags:
   - "cpe"

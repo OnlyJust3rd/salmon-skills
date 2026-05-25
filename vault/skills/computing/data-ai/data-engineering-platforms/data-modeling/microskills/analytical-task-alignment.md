@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Analytical Task Alignment"
 tags:
   - "cpe"

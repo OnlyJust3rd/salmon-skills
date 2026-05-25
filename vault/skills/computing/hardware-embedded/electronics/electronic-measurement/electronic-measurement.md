@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Electronic Measurement"
 tags:
   - "cpe"

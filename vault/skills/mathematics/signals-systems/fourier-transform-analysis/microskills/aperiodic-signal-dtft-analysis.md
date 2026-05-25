@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Aperiodic Signal DTFT Analysis"
 tags:
   - "cpe"

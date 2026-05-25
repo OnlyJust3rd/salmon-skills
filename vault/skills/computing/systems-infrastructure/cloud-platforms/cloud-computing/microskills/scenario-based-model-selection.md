@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scenario-Based Model Selection"
 tags:
   - "cpe"

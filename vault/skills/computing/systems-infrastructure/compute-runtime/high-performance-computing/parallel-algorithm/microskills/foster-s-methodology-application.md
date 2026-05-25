@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Foster's Methodology Application"
 tags:
   - "cpe"

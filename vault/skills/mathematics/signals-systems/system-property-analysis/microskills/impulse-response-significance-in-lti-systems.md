@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Impulse Response Significance in LTI Systems"
 tags:
   - "cpe"

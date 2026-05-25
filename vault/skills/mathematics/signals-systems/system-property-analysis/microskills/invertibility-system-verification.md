@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Invertibility System Verification"
 tags:
   - "cpe"

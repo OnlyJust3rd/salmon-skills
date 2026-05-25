@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "HPC Monitoring System Function"
 tags:
   - "cpe"

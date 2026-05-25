@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Second Normal Form (2NF)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CRISP-DM Framework"
 tags:
   - "cpe"

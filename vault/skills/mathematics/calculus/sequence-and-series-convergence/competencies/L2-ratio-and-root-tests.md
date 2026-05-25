@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Ratio and Root Tests"
 tags:
   - "cpe"

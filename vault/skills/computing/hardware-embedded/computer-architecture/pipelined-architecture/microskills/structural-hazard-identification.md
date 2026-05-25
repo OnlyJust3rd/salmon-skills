@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Structural Hazard Identification"
 tags:
   - "cpe"

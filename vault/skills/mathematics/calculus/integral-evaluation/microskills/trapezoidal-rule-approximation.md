@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Trapezoidal rule approximation"
 tags:
   - "cpe"

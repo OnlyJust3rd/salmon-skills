@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Segment Tree Java Implementation
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Classification Insights in IoT"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Visual Artifact Communication"
 tags:
   - "cpe"

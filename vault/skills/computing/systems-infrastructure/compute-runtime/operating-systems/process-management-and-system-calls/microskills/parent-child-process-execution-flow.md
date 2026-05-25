@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parent-Child Process Execution Flow"
 tags:
   - "cpe"

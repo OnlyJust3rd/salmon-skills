@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Market Positioning Analysis"
 tags:
   - "cpe"

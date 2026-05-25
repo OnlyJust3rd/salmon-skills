@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Storage Trade-offs"
 tags:
   - "cpe"

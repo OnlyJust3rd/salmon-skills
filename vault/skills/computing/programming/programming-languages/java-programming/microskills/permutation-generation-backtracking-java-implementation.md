@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Permutation Generation Backtracking Java Implementation
 tags:
   - cpe

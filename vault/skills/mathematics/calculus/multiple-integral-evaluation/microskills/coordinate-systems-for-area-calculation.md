@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Coordinate systems for area calculation"
 tags:
   - "cpe"

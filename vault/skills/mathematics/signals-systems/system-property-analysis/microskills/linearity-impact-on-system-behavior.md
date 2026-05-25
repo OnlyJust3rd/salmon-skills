@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linearity Impact on System Behavior"
 tags:
   - "cpe"

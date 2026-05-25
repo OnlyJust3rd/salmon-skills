@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Static Analysis Tool Impact"
 tags:
   - "cpe"

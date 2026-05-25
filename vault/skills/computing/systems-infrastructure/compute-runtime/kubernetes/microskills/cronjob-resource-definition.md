@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CronJob Resource Definition"
 tags:
   - "cpe"

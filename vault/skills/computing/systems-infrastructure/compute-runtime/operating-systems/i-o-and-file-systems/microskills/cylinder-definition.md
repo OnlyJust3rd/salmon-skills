@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cylinder Definition"
 tags:
   - "cpe"

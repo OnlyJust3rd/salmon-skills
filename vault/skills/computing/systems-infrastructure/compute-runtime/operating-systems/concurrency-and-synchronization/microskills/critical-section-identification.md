@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Critical Section Identification"
 tags:
   - "cpe"

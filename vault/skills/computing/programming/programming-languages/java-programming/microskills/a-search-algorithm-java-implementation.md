@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: A* Search Algorithm Java Implementation
 tags:
   - cpe

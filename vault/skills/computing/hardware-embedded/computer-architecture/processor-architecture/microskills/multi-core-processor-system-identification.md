@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multi-core Processor System Identification"
 tags:
   - "cpe"

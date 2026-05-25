@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "De Morgan's Theorem Statement"
 tags:
   - "cpe"

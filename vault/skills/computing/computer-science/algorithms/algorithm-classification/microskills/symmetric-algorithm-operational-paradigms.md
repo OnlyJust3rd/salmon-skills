@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Symmetric Algorithm Operational Paradigms"
 tags:
   - "cpe"

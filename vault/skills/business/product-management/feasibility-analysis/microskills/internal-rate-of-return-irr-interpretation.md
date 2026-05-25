@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Internal Rate of Return (IRR) Interpretation"
 tags:
   - "cpe"

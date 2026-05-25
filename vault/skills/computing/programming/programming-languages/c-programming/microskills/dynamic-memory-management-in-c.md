@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Dynamic Memory Management in C
 tags:
   - cpe

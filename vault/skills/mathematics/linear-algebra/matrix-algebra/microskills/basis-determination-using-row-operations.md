@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basis determination using row operations"
 tags:
   - "cpe"

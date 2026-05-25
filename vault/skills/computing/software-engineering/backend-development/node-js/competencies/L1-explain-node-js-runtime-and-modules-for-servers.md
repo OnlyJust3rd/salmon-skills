@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Node.js Runtime and Modules for Servers
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Business Ethics Principles"
 tags:
   - "cpe"

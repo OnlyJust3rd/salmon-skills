@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Spectral Analysis and Matrix Decomposition"
 tags:
   - "cpe"

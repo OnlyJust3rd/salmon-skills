@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "BPMN Event"
 tags:
   - "cpe"

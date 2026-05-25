@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Modular Decomposition Principles"
 tags:
   - "cpe"

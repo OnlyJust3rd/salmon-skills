@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Extract Substrings with RegEx"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Quadratic form definition"
 tags:
   - "cpe"

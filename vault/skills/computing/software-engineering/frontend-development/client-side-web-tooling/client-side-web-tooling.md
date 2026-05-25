@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Client-Side Web Tooling"
 tags:
   - "cpe"

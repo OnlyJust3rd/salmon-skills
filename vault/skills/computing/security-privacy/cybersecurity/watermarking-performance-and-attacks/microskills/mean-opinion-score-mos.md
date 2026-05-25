@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Mean Opinion Score (MOS)"
 tags:
   - "cpe"

@@ -118,6 +118,64 @@ test('parseVault can ignore explicit vault-relative files', async () => {
   }
 })
 
+test('parseVault ignores untyped Waypoint folder notes', async () => {
+  const { mkdir, mkdtemp, rm, writeFile } = await import('node:fs/promises')
+  const { tmpdir } = await import('node:os')
+  const path = await import('node:path')
+
+  const vaultRoot = await mkdtemp(path.join(tmpdir(), 'vault-parser-'))
+
+  try {
+    await mkdir(path.join(vaultRoot, 'skills', 'programming'), { recursive: true })
+    await writeFile(
+      path.join(vaultRoot, 'skills', 'programming', 'programming.md'),
+      '# Programming\n\n%% Waypoint %%\n',
+      'utf8',
+    )
+    await writeFile(
+      path.join(vaultRoot, 'skills', 'programming', 'typed.md'),
+      '---\ntype: "skill"\ntitle: "Typed"\ntags: []\ncontributors: []\ncompetencies: []\nstandard-competency: []\nmicroskills: []\n---\n# Typed',
+      'utf8',
+    )
+
+    const graph = await parseVault(vaultRoot)
+
+    assert.deepEqual(
+      graph.nodes.map((node) => node.id),
+      ['skills/programming/typed'],
+    )
+  } finally {
+    await rm(vaultRoot, { recursive: true, force: true })
+  }
+})
+
+test('validateGraph accepts typed Waypoint folder notes', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'skills/programming/programming.md',
+      content:
+        '---\ntype: "waypoint"\ntitle: "Programming"\ntags:\n  - waypoint\nicon: "LiWaypoints"\n---\n# Programming\n\n%% Begin Waypoint %%\n%% End Waypoint %%\n',
+    },
+  ])
+
+  const result = validateGraph(graph)
+
+  assert.equal(result.valid, true)
+  assert.deepEqual(result.counts.byType, { waypoint: 1 })
+})
+
+test('parseVaultEntries does not emit edges from Waypoint navigation bodies', () => {
+  const graph = parseVaultEntries([
+    {
+      path: 'skills/programming/programming.md',
+      content:
+        '---\ntype: "waypoint"\ntitle: "Programming"\ntags:\n  - waypoint\nicon: "LiWaypoints"\n---\n# Programming\n\n%% Begin Waypoint %%\n- [[missing-navigation-target]]\n%% End Waypoint %%\n',
+    },
+  ], { includeUnresolvedEdges: true })
+
+  assert.deepEqual(graph.edges, [])
+})
+
 test('parseVault only parses default target folders', async () => {
   const { mkdir, mkdtemp, rm, writeFile } = await import('node:fs/promises')
   const { tmpdir } = await import('node:os')

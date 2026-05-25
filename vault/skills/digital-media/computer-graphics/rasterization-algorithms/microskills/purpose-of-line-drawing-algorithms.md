@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Purpose of Line Drawing Algorithms"
 tags:
   - "cpe"

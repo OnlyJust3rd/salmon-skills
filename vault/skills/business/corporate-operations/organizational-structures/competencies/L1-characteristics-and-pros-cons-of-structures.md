@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Characteristics and Pros/Cons of Structures"
 tags:
   - "cpe"

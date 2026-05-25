@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Minterm and Maxterm Definitions"
 tags:
   - "cpe"

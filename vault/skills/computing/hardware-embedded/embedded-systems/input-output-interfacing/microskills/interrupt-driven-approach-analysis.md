@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interrupt-Driven Approach Analysis"
 tags:
   - "cpe"

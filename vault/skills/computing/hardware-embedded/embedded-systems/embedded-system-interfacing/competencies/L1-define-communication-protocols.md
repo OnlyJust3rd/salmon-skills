@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L1- Define Communication Protocols"
+type: competency
+icon: LiGoal
+title: L1- Define Communication Protocols
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/hardware-embedded/embedded-programming/avr-communication-programming/competencies/L1-list-communication-registers|L1-list-communication-registers]]"
+  - "[[L1-list-communication-registers|L1-list-communication-registers]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/embedded-system-interfacing|embedded-system-interfacing]]"
@@ -28,7 +29,7 @@ Define the fundamental characteristics and functions of UART, SPI, and I2C commu
 
 ## Strict Prerequisites
 
-- [[skills/computing/hardware-embedded/embedded-programming/avr-communication-programming/competencies/L1-list-communication-registers|L1- List Communication Registers]]
+- [[L1-list-communication-registers|L1- List Communication Registers]]
 
 ## Optional Prerequisites
 

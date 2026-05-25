@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Retention Pattern"
 tags:
   - "cpe"

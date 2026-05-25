@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Core Data Structure Operations in C
 tags:
   - cpe

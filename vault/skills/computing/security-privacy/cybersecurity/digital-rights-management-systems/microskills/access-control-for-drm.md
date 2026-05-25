@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Access Control for DRM"
 tags:
   - "cpe"

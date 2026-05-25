@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Maclaurin series expansion"
 tags:
   - "cpe"

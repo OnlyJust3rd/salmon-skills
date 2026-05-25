@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Definite integral evaluation using FTC"
 tags:
   - "cpe"

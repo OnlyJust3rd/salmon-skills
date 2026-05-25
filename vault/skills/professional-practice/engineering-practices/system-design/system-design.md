@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "System Design"
 tags:
   - "cpe"

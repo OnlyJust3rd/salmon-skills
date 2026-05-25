@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pseudocode structure comprehension"
 tags:
   - "cpe"

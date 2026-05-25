@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Matrix Chain Multiplication DP Java Implementation
 tags:
   - cpe

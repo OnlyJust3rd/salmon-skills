@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Necessity of induction components"
 tags:
   - "cpe"

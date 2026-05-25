@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "HTTP Trigger Configuration"
 tags:
   - "cpe"

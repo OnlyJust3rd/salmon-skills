@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pixel Coordinate Alteration"
 tags:
   - "cpe"

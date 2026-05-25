@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Demonstrate Digital Ciphering Application"
 tags:
   - "cpe"

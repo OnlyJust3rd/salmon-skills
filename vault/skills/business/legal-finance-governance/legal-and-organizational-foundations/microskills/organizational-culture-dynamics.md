@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Organizational Culture Dynamics"
 tags:
   - "cpe"

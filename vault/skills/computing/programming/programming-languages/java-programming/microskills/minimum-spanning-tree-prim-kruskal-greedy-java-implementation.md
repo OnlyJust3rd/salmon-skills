@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Minimum Spanning Tree (Prim/Kruskal) Greedy Java Implementation
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Safe Usage of Lab Equipment"
 tags:
   - "cpe"

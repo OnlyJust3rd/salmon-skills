@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply AI-Assisted Code Review and Test Suggestions"
 tags:
   - "cpe"

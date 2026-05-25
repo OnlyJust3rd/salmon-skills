@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Standard line equation definition"
 tags:
   - "cpe"

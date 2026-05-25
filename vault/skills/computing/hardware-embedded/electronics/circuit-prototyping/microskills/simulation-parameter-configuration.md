@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simulation Parameter Configuration"
 tags:
   - "cpe"

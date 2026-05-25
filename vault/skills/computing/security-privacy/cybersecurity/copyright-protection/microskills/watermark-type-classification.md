@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Watermark Type Classification"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kubernetes Resource Definition in Terraform"
 tags:
   - "cpe"

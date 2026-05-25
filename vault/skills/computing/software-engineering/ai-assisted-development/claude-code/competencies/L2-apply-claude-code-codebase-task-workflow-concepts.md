@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Claude Code Codebase Task Workflow Concepts"
 tags:
   - "cpe"

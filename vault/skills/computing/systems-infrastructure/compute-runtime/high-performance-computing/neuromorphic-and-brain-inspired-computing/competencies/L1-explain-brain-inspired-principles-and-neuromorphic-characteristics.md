@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Brain-Inspired Principles and Neuromorphic Characteristics"
 tags:
   - "cpe"

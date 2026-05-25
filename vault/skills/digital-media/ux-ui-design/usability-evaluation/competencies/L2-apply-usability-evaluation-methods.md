@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Apply Usability Evaluation Methods
 tags:
   - cpe

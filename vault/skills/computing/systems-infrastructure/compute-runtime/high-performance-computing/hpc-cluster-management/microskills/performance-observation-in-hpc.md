@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Performance Observation in HPC"
 tags:
   - "cpe"

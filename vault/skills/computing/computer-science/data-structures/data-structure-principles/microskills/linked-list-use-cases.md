@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linked List Use Cases"
 tags:
   - "cpe"

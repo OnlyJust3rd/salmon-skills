@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pod Specification Construction"
 tags:
   - "cpe"

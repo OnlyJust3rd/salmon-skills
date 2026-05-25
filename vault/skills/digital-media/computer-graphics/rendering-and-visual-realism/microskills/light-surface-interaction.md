@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Light-Surface Interaction"
 tags:
   - "cpe"

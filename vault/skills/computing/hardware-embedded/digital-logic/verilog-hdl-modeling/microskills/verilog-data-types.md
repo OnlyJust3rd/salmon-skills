@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Verilog Data Types"
 tags:
   - "cpe"

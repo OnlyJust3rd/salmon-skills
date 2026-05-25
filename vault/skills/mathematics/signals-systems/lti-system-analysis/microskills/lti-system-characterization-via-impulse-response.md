@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "LTI System Characterization via Impulse Response"
 tags:
   - "cpe"

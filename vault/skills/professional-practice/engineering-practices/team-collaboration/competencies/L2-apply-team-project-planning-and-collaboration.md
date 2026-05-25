@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Team Project Planning and Collaboration"
 tags:
   - "cpe"

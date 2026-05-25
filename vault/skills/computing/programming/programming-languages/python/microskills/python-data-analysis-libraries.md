@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Python Data Analysis Libraries
 tags:
   - cpe

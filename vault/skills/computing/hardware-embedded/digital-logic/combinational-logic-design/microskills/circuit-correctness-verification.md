@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Circuit Correctness Verification"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Visual Hierarchy and Perception
 tags:
   - cpe

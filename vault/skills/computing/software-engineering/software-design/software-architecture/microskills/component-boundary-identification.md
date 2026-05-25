@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Component Boundary Identification"
 tags:
   - "cpe"

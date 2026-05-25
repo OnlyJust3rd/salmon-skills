@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Implement Data Science Workflow in Python code implementation
 tags:
   - cpe

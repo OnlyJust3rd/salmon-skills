@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L6- Novel Processor and Interfacing Design"
 tags:
   - "cpe"

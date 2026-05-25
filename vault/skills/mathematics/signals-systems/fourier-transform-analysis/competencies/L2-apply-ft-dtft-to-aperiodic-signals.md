@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply FT/DTFT to aperiodic signals"
 tags:
   - "cpe"

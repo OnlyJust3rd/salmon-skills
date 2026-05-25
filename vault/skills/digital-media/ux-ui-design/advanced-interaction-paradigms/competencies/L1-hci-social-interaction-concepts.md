@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L1- HCI Social Interaction Concepts
 tags:
   - cpe

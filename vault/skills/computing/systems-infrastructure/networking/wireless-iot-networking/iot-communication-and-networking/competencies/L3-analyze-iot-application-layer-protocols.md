@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze IoT Application Layer Protocols"
 tags:
   - "cpe"

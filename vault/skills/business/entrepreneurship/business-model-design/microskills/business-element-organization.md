@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Business Element Organization"
 tags:
   - "cpe"

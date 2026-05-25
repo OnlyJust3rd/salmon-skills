@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Create Interactive Interface Prototypes in Figma
 tags:
   - cpe

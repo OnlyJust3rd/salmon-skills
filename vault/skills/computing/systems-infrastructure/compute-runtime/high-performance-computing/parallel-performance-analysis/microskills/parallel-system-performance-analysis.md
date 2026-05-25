@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parallel System Performance Analysis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Passive RC Circuit Components"
 tags:
   - "cpe"

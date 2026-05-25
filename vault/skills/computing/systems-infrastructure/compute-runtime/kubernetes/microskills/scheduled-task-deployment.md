@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scheduled Task Deployment"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Polar curve characteristic identification"
 tags:
   - "cpe"

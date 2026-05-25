@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "Explain Extreme Programming Practices"
 tags:
   - "competency"

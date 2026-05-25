@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Incremental Design Improvements"
 tags:
   - "cpe"

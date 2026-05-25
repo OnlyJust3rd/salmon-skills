@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Bus Drivers, Registers, and Tri-state"
 tags:
   - "cpe"

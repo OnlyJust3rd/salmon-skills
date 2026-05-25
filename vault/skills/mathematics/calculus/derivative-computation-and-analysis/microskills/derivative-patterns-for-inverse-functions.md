@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Derivative patterns for inverse functions"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Transition between differentiation and integration"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "AI Coding Tool Evaluation"
 tags:
   - "cpe"

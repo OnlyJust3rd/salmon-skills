@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Place-and-Route Process"
 tags:
   - "cpe"

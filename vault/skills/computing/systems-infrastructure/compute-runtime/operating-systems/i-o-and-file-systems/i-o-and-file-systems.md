@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "I/O and File Systems"
 tags:
   - "cpe"

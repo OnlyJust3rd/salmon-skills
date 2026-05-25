@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Heterogeneous Computing Architectures"
 tags:
   - "cpe"

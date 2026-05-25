@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Component Interaction Design Principles"
 tags:
   - "cpe"

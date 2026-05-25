@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Cloud-Native Application Architecture Principles"
 tags:
   - "cpe"

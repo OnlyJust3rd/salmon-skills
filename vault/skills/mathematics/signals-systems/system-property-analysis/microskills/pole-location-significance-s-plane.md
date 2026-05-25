@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pole Location Significance (s-plane)"
 tags:
   - "cpe"

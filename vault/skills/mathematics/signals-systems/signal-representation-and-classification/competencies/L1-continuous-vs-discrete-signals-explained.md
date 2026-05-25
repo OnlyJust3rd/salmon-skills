@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Continuous vs. Discrete Signals Explained"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Verilog Design and Verification"
 tags:
   - "cpe"

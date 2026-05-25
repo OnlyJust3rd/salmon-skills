@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Physics Principles in Design"
 tags:
   - "cpe"

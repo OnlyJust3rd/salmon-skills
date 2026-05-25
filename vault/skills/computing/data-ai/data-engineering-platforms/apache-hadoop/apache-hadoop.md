@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Apache Hadoop"
 tags:
   - "cpe"

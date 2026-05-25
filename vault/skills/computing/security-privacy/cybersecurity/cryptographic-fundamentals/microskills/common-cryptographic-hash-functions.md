@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Common Cryptographic Hash Functions"
 tags:
   - "cpe"

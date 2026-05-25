@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Non-Uniform Memory Access (NUMA) Principles"
 tags:
   - "cpe"

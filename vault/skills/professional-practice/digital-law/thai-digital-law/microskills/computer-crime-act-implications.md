@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Computer Crime Act Implications"
 tags:
   - "cpe"

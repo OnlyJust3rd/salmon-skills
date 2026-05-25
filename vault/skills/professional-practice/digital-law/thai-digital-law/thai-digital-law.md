@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Thai Digital Law"
 tags:
   - "cpe"

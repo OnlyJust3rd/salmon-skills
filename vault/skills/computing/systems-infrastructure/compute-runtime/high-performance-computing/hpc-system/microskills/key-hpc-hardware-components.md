@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Key HPC Hardware Components"
 tags:
   - "cpe"

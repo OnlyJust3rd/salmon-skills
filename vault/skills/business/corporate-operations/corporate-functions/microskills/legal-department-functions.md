@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Legal Department Functions"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Neuromorphic Architecture Definition"
 tags:
   - "cpe"

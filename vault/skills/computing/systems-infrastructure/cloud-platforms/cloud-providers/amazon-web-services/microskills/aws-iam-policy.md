@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AWS IAM Policy"
 tags:
   - "cpe"

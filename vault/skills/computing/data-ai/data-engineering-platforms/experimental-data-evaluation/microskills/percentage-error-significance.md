@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Percentage Error Significance"
 tags:
   - "cpe"

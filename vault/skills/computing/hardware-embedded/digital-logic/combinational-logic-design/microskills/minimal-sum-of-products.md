@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Minimal Sum-of-Products"
 tags:
   - "cpe"

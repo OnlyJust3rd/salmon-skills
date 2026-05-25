@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cryptographic Primitive Utilization"
 tags:
   - "cpe"

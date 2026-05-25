@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "No Preemption Condition"
 tags:
   - "cpe"

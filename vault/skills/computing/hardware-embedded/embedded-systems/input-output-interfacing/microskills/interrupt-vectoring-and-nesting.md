@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interrupt Vectoring and Nesting"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Resource Allocation State Analysis"
 tags:
   - "cpe"

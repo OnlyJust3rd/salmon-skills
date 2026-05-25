@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Azure IoT Hub Components"
 tags:
   - "cpe"

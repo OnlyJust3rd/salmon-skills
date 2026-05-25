@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Fundamental Theorem of Calculus"
 tags:
   - "cpe"

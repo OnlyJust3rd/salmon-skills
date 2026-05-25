@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Environmental Consequence Differentiation"
 tags:
   - "cpe"

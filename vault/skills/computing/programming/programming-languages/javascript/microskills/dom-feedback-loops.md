@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: DOM feedback loops
 tags:
   - cpe

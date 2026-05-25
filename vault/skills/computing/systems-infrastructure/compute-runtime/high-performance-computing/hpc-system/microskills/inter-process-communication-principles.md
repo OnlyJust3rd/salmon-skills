@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Inter-Process Communication Principles"
 tags:
   - "cpe"

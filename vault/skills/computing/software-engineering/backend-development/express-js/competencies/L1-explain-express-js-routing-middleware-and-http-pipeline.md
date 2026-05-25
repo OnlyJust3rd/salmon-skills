@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Express.js Routing Middleware and HTTP Pipeline"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Service Decomposition Thinking"
 tags:
   - "cpe"

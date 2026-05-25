@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Optimize Player Experience through Difficulty and Flow"
 tags:
   - "cpe"

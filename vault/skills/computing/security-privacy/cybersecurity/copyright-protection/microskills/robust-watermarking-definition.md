@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Robust Watermarking Definition"
 tags:
   - "cpe"

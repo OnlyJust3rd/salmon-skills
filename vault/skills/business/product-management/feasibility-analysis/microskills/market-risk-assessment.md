@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Market Risk Assessment"
 tags:
   - "cpe"

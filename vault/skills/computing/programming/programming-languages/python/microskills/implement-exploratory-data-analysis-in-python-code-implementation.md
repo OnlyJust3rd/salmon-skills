@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Implement Exploratory Data Analysis in Python code implementation
 tags:
   - cpe

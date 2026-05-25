@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pre-application Recording"
 tags:
   - "cpe"

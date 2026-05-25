@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Message Size Optimization"
 tags:
   - "cpe"

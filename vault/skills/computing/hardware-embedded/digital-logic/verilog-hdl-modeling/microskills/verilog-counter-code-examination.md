@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Verilog Counter Code Examination"
 tags:
   - "cpe"

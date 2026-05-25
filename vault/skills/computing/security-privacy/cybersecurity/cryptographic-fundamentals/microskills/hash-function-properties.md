@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hash Function Properties"
 tags:
   - "cpe"

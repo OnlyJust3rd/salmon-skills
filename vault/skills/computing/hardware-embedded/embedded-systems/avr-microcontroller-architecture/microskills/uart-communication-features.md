@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UART Communication Features"
 tags:
   - "cpe"

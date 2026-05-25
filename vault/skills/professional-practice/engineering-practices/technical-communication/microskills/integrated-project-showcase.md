@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Integrated Project Showcase"
 tags:
   - "cpe"

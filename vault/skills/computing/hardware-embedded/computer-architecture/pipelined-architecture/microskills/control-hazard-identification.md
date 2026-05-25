@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Control Hazard Identification"
 tags:
   - "cpe"

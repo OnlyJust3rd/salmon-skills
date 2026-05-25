@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Scene and Environment Design"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Iterative Validation Process"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Usability-Focused Design
 tags:
   - cpe

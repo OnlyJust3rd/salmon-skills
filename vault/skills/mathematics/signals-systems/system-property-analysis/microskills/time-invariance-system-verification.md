@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Time-Invariance System Verification"
 tags:
   - "cpe"

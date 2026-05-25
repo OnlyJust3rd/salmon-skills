@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Distributed Data Processing Solutions"
 tags:
   - "cpe"

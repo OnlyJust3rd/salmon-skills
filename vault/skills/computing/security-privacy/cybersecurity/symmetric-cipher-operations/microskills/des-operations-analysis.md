@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "DES Operations Analysis"
 tags:
   - "cpe"

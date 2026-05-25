@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Expressive Power of Predicate Logic"
 tags:
   - "cpe"

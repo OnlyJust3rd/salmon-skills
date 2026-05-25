@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Soft Computing Characteristics"
 tags:
   - "cpe"

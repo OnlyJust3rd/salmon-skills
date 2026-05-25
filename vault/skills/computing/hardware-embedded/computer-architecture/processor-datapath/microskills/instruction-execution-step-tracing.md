@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Instruction Execution Step Tracing"
 tags:
   - "cpe"

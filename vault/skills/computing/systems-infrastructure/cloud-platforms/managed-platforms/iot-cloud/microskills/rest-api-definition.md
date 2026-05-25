@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "REST API Definition"
 tags:
   - "cpe"

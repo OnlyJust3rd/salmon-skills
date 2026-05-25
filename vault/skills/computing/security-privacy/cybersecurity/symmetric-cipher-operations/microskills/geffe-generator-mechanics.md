@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Geffe Generator Mechanics"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Convolution Process Steps"
 tags:
   - "cpe"

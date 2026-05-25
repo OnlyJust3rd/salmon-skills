@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Number Theory in Cryptography"
 tags:
   - "cpe"

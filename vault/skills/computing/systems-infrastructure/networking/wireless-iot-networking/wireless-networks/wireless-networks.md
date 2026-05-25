@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Wireless Networks"
 tags:
   - "cpe"

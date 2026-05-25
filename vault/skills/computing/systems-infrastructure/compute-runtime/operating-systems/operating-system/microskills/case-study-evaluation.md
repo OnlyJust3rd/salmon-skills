@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Case Study Evaluation"
 tags:
   - "cpe"

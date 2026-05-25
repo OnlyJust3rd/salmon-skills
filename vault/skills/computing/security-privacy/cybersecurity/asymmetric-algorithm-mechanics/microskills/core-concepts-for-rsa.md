@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Core Concepts for RSA"
 tags:
   - "cpe"

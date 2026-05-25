@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "E-waste Examples"
 tags:
   - "cpe"

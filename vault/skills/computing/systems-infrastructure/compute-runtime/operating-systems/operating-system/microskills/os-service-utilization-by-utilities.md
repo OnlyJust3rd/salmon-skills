@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "OS Service Utilization by Utilities"
 tags:
   - "cpe"

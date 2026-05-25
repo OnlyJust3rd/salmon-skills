@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interfacing Capability Evaluation"
 tags:
   - "cpe"

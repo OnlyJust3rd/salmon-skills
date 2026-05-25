@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Partition Pruning"
 tags:
   - "cpe"

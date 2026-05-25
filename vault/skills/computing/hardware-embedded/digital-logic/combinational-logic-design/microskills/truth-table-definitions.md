@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Truth Table Definitions"
 tags:
   - "cpe"

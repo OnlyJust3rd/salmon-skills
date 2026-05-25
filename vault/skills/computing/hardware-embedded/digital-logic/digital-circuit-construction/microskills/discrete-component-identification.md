@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Discrete Component Identification"
 tags:
   - "cpe"

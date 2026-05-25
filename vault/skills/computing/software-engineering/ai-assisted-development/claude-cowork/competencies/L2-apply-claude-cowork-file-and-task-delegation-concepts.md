@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Claude Cowork File and Task Delegation Concepts"
 tags:
   - "cpe"

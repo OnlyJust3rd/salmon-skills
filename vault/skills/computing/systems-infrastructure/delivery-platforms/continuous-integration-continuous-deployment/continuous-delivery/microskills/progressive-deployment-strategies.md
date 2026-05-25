@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Progressive Deployment Strategies"
 tags:
   - "cpe"

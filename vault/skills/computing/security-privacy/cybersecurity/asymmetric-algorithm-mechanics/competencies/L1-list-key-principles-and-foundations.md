@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- List key principles and foundations"
 tags:
   - "cpe"

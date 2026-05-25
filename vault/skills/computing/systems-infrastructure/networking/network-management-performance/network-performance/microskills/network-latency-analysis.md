@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Network Latency Analysis"
 tags:
   - "cpe"

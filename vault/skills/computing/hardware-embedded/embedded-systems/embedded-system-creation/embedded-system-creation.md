@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Embedded System Creation"
 tags:
   - "cpe"

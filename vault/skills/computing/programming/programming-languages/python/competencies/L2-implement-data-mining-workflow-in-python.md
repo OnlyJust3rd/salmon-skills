@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Implement Data Mining Workflow in Python
 tags:
   - cpe

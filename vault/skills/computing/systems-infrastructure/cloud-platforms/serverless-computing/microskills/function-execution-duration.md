@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Function Execution Duration"
 tags:
   - "cpe"

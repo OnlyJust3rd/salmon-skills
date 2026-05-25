@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain CSS Selectors Cascade and Box Model"
 tags:
   - "cpe"

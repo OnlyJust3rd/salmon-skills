@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:skills",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"type\":skill]",
+      "color": {
+        "a": 1,
+        "rgb": 14717522
+      }
+    },
+    {
+      "query": "[\"type\":waypoint]",
+      "color": {
+        "a": 1,
+        "rgb": 5348321
+      }
+    },
+    {
+      "query": "[\"type\":competency]",
+      "color": {
+        "a": 1,
+        "rgb": 15630759
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.512760416666667,
+  "repelStrength": 9.53993055555556,
+  "linkStrength": 1,
+  "linkDistance": 208,
+  "scale": 0.0624573503523208,
+  "close": false
+}

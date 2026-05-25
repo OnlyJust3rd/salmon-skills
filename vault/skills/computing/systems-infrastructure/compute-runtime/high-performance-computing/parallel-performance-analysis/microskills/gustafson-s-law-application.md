@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Gustafson's Law Application"
 tags:
   - "cpe"

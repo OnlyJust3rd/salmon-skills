@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "HPC Cluster Health Monitoring"
 tags:
   - "cpe"

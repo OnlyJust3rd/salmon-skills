@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Validation Contribution of Solution Interviews/Testing"
 tags:
   - "cpe"

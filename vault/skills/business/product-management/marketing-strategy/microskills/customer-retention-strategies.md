@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Customer Retention Strategies"
 tags:
   - "cpe"

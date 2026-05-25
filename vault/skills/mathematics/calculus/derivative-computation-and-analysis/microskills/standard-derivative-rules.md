@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Standard derivative rules"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Temporal Masking"
 tags:
   - "cpe"

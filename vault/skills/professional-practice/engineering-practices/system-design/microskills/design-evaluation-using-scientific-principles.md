@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Design Evaluation using Scientific Principles"
 tags:
   - "cpe"

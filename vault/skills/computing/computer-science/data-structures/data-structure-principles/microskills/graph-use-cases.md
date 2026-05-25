@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Graph Use Cases"
 tags:
   - "cpe"

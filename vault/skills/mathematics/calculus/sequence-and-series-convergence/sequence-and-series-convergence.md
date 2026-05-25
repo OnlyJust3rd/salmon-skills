@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Sequence and Series Convergence"
 tags:
   - "cpe"

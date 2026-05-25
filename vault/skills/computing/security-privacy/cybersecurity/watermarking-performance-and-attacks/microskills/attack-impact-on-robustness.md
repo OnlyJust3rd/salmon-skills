@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Attack Impact on Robustness"
 tags:
   - "cpe"

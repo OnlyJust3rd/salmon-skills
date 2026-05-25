@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Structure of Jordan block"
 tags:
   - "cpe"

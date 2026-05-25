@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Object-Oriented Programming"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Significance of Abstraction"
 tags:
   - "cpe"

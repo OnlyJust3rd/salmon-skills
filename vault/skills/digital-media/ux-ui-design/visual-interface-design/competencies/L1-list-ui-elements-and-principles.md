@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L1- List UI Elements and Principles
 tags:
   - cpe

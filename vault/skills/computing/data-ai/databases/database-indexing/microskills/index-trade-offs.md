@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Index Trade-offs"
 tags:
   - "cpe"

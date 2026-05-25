@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cutoff Frequency Concept"
 tags:
   - "cpe"

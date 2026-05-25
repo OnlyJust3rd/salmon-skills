@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linear vs. Non-linear Data Structures"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Proxy Firewall Characteristics"
 tags:
   - "cpe"

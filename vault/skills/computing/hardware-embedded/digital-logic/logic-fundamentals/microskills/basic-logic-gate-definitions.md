@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basic Logic Gate Definitions"
 tags:
   - "cpe"

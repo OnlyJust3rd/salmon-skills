@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Circuit Parameter Influence"
 tags:
   - "cpe"

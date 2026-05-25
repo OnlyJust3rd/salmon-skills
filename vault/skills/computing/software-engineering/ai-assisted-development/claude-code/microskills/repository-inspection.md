@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Repository Inspection"
 tags:
   - "cpe"

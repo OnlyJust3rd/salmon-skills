@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Relevance to Computational Evolution"
 tags:
   - "cpe"

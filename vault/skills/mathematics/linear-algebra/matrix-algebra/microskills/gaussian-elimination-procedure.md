@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Gaussian elimination procedure"
 tags:
   - "cpe"

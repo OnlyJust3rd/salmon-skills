@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Ideal Diode Characteristics"
 tags:
   - "cpe"

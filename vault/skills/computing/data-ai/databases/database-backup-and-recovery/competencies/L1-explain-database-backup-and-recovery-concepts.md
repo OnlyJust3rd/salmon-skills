@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Database Backup and Recovery Concepts"
 tags:
   - "cpe"

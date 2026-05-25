@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Horizontal Scaling Implementation"
 tags:
   - "cpe"

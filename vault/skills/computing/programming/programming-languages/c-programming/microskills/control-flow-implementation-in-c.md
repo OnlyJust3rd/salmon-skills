@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Control flow implementation in C
 tags:
   - cpe

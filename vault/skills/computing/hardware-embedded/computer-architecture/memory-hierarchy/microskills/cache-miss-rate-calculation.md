@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cache Miss Rate Calculation"
 tags:
   - "cpe"

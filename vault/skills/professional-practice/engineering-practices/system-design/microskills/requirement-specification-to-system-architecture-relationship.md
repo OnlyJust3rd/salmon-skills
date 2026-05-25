@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Requirement Specification to System Architecture Relationship"
 tags:
   - "cpe"

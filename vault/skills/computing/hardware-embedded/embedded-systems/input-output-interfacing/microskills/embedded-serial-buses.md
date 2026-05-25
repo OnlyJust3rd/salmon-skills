@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Embedded Serial Buses"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Polar Coordinate Systems"
 tags:
   - "cpe"

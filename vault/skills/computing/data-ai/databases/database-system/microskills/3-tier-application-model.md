@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "3-Tier Application Model"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Reserved Instance Pricing"
 tags:
   - "cpe"

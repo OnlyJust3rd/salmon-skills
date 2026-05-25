@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Query Cost Driver"
 tags:
   - "cpe"

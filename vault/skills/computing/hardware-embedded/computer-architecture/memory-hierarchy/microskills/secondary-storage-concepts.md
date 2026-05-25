@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Secondary Storage Concepts"
 tags:
   - "cpe"

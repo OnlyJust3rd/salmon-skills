@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Unit vector interpretation"
 tags:
   - "cpe"

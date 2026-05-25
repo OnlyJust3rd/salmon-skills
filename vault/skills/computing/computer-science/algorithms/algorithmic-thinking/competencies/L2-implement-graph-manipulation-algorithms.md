@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Implement Graph Manipulation Algorithms"
 tags:
   - "cpe"

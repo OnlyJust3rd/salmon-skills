@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: N-Queens Problem Backtracking Java Implementation
 tags:
   - cpe

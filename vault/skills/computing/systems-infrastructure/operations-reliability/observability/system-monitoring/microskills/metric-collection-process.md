@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Metric Collection Process"
 tags:
   - "cpe"

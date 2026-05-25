@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Op-Amp Circuit Performance Analysis"
 tags:
   - "cpe"

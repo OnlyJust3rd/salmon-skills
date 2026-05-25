@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Design and Implement MVP with Prioritized Features"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Speech Security Mechanism Comparison"
 tags:
   - "cpe"

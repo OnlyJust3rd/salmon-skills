@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Grafana Data Source Connection"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Usability Issue Identification
 tags:
   - cpe

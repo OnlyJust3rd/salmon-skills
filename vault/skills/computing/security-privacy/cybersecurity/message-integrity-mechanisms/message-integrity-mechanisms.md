@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Message Integrity Mechanisms"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply UML for System Modeling"
 tags:
   - "cpe"

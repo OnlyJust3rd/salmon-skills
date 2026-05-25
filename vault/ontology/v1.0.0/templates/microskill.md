@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "{{title}}"
 tags:
   - "microskill"
@@ -22,4 +23,3 @@ Required in:
 ## Description
 
 {{description}}
-

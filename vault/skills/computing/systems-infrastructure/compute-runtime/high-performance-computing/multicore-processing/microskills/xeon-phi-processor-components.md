@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Xeon Phi Processor Components"
 tags:
   - "cpe"

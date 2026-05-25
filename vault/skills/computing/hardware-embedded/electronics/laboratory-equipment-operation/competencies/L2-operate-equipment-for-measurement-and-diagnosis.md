@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Operate Equipment for Measurement and Diagnosis"
 tags:
   - "cpe"

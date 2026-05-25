@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Character Appearance Conceptualization"
 tags:
   - "cpe"

@@ -1,13 +1,14 @@
 ---
-type: "competency"
-title: "L2- Explain Routing and Switching Concepts"
+type: competency
+icon: LiGoal
+title: L2- Explain Routing and Switching Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/competencies/L1-ethernet-lan-functionality|L1-ethernet-lan-functionality]]"
-  - "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
-  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts|L1-define-ip-addressing-and-forwarding-concepts]]"
+  - "[[L1-ethernet-lan-functionality|L1-ethernet-lan-functionality]]"
+  - "[[L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+  - "[[L1-define-ip-addressing-and-forwarding-concepts|L1-define-ip-addressing-and-forwarding-concepts]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/networking/routing-switching/routing-and-switching/routing-and-switching|routing-and-switching]]"
@@ -29,9 +30,9 @@ Explain routing and switching concepts.
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
-- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/competencies/L1-ethernet-lan-functionality|L2- Ethernet LAN Functionality]]
-- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-define-ip-addressing-and-forwarding-concepts|L2- Define IP addressing and forwarding concepts]]
+- [[L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[L1-ethernet-lan-functionality|L2- Ethernet LAN Functionality]]
+- [[L1-define-ip-addressing-and-forwarding-concepts|L2- Define IP addressing and forwarding concepts]]
 
 ## Optional Prerequisites
 

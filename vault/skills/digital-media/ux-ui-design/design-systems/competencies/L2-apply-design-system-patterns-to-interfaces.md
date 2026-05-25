@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Apply Design System Patterns to Interfaces
 tags:
   - cpe

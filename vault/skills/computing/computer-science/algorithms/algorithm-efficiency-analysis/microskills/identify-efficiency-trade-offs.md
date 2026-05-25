@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Identify Efficiency Trade-offs"
 tags:
   - "cpe"

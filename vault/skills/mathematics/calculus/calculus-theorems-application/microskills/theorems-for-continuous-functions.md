@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Theorems for continuous functions"
 tags:
   - "cpe"

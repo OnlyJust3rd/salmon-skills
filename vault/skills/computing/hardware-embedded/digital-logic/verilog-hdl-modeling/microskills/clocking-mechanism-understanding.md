@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Clocking Mechanism Understanding"
 tags:
   - "cpe"

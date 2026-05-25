@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Unstructured Data Recognition"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Identify/Describe Heterogeneous Processor Components"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Automated Test Stages"
 tags:
   - "cpe"

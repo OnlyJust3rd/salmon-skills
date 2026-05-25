@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basic SQL Query Execution"
 tags:
   - "cpe"

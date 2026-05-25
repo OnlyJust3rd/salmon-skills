@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Industrial/Automotive Interfaces"
 tags:
   - "cpe"

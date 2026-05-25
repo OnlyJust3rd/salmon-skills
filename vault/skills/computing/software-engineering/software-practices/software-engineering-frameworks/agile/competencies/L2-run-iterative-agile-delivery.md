@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "Run Iterative Agile Delivery"
 tags:
   - "competency"

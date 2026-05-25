@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Policy-Based Access"
 tags:
   - "cpe"

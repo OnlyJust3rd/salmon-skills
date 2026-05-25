@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Problem Parameter Application in Design"
 tags:
   - "cpe"

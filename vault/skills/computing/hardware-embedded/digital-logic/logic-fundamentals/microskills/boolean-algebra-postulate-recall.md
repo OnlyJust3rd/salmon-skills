@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Boolean Algebra Postulate Recall"
 tags:
   - "cpe"

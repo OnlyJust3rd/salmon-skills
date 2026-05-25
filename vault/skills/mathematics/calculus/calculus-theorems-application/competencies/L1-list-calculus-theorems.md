@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- List Calculus Theorems"
 tags:
   - "cpe"

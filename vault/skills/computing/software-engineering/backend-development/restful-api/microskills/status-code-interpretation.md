@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Status code interpretation"
 tags:
   - "cpe"

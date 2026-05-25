@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- FinOps Principles and Strategies"
 tags:
   - "cpe"

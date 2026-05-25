@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Disk Scheduling Operational Mechanisms"
 tags:
   - "cpe"

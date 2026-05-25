@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Corporate Governance Criteria"
 tags:
   - "cpe"

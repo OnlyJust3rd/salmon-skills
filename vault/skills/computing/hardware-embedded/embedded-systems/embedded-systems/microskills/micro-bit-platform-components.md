@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Micro:bit Platform Components"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Acyclic Graph Directory Structure"
 tags:
   - "cpe"

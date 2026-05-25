@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JK Flip-Flop Operation"
 tags:
   - "cpe"

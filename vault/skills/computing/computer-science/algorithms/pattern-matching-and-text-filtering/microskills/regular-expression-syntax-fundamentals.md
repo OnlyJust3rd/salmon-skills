@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Regular Expression Syntax Fundamentals"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Dockerfile Instructions"
 tags:
   - "cpe"

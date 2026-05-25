@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "PDPA Relevance in Thailand"
 tags:
   - "cpe"

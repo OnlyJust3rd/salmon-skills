@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Complex polar curve sketching"
 tags:
   - "cpe"

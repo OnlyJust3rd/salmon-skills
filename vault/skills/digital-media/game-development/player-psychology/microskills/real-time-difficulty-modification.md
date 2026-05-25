@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Real-time Difficulty Modification"
 tags:
   - "cpe"

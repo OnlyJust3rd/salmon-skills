@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Jump Search Java Implementation
 tags:
   - cpe

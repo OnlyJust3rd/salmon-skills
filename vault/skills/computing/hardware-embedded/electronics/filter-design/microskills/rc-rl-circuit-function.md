@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RC/RL Circuit Function"
 tags:
   - "cpe"

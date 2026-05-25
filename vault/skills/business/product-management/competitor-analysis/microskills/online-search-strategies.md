@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Online Search Strategies"
 tags:
   - "cpe"

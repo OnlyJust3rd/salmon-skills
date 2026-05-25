@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "A/D Conversion Process"
 tags:
   - "cpe"

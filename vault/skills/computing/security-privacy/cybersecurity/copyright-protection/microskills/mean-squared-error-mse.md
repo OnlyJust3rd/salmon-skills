@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Mean Squared Error (MSE)"
 tags:
   - "cpe"

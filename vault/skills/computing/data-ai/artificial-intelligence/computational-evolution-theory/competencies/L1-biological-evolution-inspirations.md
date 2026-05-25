@@ -1,13 +1,14 @@
 ---
-type: "competency"
-title: "L1- Biological Evolution Inspirations"
+type: competency
+icon: LiGoal
+title: L1- Biological Evolution Inspirations
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/data-ai/artificial-intelligence/soft-computing/competencies/L1-define-fuzzy-logic-and-controllers|L1-define-fuzzy-logic-and-controllers]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-define-fundamental-robotics-concepts|L1-define-fundamental-robotics-concepts]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-identify-reactive-control-paradigms-and-examples|L1-identify-reactive-control-paradigms-and-examples]]"
+  - "[[L1-define-fundamental-robotics-concepts|L1-define-fundamental-robotics-concepts]]"
+  - "[[L1-identify-reactive-control-paradigms-and-examples|L1-identify-reactive-control-paradigms-and-examples]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
@@ -28,8 +29,8 @@ Identify biological inspirations for computational evolution discussed in the co
 
 ## Strict Prerequisites
 
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-define-fundamental-robotics-concepts|L1- Define Fundamental Robotics Concepts]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-identify-reactive-control-paradigms-and-examples|L1- Identify Reactive Control Paradigms and Examples]]
+- [[L1-define-fundamental-robotics-concepts|L1- Define Fundamental Robotics Concepts]]
+- [[L1-identify-reactive-control-paradigms-and-examples|L1- Identify Reactive Control Paradigms and Examples]]
 - [[skills/computing/data-ai/artificial-intelligence/soft-computing/competencies/L1-define-fuzzy-logic-and-controllers|L1- Define Fuzzy Logic and Controllers]]
 
 ## Optional Prerequisites

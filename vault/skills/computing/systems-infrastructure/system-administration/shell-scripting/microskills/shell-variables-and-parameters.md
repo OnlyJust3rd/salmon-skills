@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Shell Variables and Parameters"
 tags:
   - "cpe"

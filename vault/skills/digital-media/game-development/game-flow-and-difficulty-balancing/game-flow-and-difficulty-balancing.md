@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Game Flow and Difficulty Balancing"
 tags:
   - "cpe"

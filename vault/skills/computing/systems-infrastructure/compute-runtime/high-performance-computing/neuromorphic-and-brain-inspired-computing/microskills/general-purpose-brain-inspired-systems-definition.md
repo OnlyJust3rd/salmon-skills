@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "General Purpose Brain-Inspired Systems Definition"
 tags:
   - "cpe"

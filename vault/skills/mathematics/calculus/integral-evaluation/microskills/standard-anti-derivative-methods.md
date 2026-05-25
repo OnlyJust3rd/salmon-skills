@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Standard anti-derivative methods"
 tags:
   - "cpe"

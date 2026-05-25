@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Components and Connectors Vocabulary"
 tags:
   - "cpe"

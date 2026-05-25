@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Conduct Problem Interviews"
 tags:
   - "cpe"

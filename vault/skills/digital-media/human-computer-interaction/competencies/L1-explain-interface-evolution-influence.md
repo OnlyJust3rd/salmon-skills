@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Interface Evolution & Influence
 tags:
   - cpe

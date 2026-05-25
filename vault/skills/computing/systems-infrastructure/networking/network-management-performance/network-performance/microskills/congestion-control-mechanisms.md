@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Congestion Control Mechanisms"
 tags:
   - "cpe"

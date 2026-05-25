@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Inter-Process Execution Analysis"
 tags:
   - "cpe"

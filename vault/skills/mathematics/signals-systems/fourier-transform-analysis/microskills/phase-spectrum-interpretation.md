@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Phase Spectrum Interpretation"
 tags:
   - "cpe"

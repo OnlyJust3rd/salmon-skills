@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Business Model Component Interdependencies"
 tags:
   - "cpe"

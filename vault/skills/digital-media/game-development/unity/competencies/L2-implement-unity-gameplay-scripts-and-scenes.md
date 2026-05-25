@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Implement Unity Gameplay Scripts and Scenes
 tags:
   - cpe

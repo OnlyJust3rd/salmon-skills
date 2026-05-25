@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Presentation Approach Rationale"
 tags:
   - "cpe"

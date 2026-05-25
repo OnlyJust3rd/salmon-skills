@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Package Management and Build Tooling
 tags:
   - cpe

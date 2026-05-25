@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Use Gaussian Elimination for Basis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Child Labor Examples"
 tags:
   - "cpe"

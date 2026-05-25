@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Compatibility Test Matrix"
 tags:
   - "cpe"

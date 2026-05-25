@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Bounded-Buffer Problem Implementation"
 tags:
   - "cpe"

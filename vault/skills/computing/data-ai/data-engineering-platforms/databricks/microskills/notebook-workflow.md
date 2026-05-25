@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Notebook Workflow"
 tags:
   - "cpe"

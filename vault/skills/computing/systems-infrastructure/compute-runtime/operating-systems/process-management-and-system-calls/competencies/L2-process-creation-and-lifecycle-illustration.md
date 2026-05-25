@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Process Creation and Lifecycle Illustration"
 tags:
   - "cpe"

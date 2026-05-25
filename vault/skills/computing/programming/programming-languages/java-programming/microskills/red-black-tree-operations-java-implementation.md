@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Red-Black Tree Operations Java Implementation
 tags:
   - cpe

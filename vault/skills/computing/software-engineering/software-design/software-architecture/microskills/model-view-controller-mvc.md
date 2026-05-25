@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Model-View-Controller (MVC)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain FTC for definite integral evaluation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Table Creation Statements"
 tags:
   - "cpe"

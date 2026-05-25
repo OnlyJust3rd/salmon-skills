@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Network Defense Mechanisms"
 tags:
   - "cpe"

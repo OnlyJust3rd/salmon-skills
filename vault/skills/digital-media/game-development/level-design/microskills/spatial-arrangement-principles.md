@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Spatial Arrangement Principles"
 tags:
   - "cpe"

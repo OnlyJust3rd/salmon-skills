@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Average rate of change calculations"
 tags:
   - "cpe"

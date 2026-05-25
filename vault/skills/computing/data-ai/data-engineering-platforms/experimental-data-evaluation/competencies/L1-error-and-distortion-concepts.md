@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Error and Distortion Concepts"
 tags:
   - "cpe"

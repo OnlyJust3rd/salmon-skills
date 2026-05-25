@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Filter Performance Judgement"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Algorithm Implementation"
 tags:
   - "cpe"

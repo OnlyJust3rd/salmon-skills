@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Lifecycle Stage Application"
 tags:
   - "cpe"

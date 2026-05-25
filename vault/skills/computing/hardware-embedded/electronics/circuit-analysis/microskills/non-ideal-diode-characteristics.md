@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Non-ideal Diode Characteristics"
 tags:
   - "cpe"

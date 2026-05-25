@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CPU Threshold Alerts"
 tags:
   - "cpe"

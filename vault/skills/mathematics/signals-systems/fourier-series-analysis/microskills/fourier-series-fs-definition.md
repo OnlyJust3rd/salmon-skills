@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fourier Series (FS) Definition"
 tags:
   - "cpe"

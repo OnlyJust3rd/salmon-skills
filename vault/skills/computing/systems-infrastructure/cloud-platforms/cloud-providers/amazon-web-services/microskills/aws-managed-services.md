@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AWS Managed Services"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Page scaffolding"
 tags:
   - "cpe"

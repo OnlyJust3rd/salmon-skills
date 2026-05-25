@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Gameplay Mechanics and Character Abilities"
 tags:
   - "cpe"

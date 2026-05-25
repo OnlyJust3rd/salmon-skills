@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Edge Detection Methods"
 tags:
   - "cpe"

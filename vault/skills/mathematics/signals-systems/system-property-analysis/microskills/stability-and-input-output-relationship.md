@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Stability and Input-Output Relationship"
 tags:
   - "cpe"

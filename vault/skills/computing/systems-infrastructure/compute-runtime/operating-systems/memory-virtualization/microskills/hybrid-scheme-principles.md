@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hybrid Scheme Principles"
 tags:
   - "cpe"

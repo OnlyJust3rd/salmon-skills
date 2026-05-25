@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Container Lifecycle Management"
 tags:
   - "cpe"

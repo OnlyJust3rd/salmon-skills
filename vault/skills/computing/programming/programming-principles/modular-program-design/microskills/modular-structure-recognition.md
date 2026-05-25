@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Modular structure recognition"
 tags:
   - "cpe"

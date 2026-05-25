@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Merge Sort Java Implementation
 tags:
   - cpe

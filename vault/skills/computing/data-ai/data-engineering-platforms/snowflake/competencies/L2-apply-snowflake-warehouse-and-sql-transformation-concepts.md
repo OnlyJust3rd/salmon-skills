@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Snowflake Warehouse and SQL Transformation Concepts"
 tags:
   - "cpe"

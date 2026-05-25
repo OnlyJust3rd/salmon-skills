@@ -1,13 +1,14 @@
 ---
-type: "competency"
-title: "L2- Understand IoT Security Mechanisms"
+type: competency
+icon: LiGoal
+title: L2- Understand IoT Security Mechanisms
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-describe-embedded-systems-as-iot-nodes|L1-describe-embedded-systems-as-iot-nodes]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-describe-emerging-iot-trends-and-technologies|L1-describe-emerging-iot-trends-and-technologies]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-applications-and-architecture|L1-explain-iot-applications-and-architecture]]"
+  - "[[L1-describe-embedded-systems-as-iot-nodes|L1-describe-embedded-systems-as-iot-nodes]]"
+  - "[[L1-describe-emerging-iot-trends-and-technologies|L1-describe-emerging-iot-trends-and-technologies]]"
+  - "[[L1-explain-iot-applications-and-architecture|L1-explain-iot-applications-and-architecture]]"
   - "[[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/competencies/L1-list-iot-security-threats|L1-list-iot-security-threats]]"
 miller-level: 1
 optional-prerequisites: []
@@ -32,9 +33,9 @@ Explain the principles and mechanisms of security and privacy in IoT systems, in
 ## Strict Prerequisites
 
 - [[skills/computing/security-privacy/cybersecurity/iot-security-and-privacy/competencies/L1-list-iot-security-threats|L1- List IoT Security Threats]]
-- [[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-applications-and-architecture|L2- Explain IoT Applications and Architecture]]
-- [[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-describe-embedded-systems-as-iot-nodes|L2- Describe Embedded Systems as IoT Nodes]]
-- [[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-describe-emerging-iot-trends-and-technologies|L2- Describe Emerging IoT Trends and Technologies]]
+- [[L1-explain-iot-applications-and-architecture|L2- Explain IoT Applications and Architecture]]
+- [[L1-describe-embedded-systems-as-iot-nodes|L2- Describe Embedded Systems as IoT Nodes]]
+- [[L1-describe-emerging-iot-trends-and-technologies|L2- Describe Emerging IoT Trends and Technologies]]
 
 ## Optional Prerequisites
 

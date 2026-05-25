@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Orthogonal basis construction"
 tags:
   - "cpe"

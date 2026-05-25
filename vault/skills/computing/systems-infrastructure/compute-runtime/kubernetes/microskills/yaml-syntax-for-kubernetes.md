@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "YAML Syntax for Kubernetes"
 tags:
   - "cpe"

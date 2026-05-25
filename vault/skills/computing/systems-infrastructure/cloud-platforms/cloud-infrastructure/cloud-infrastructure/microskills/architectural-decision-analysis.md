@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Architectural Decision Analysis"
 tags:
   - "cpe"

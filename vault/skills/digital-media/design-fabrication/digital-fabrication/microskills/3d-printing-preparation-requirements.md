@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "3D Printing Preparation Requirements"
 tags:
   - "cpe"

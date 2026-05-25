@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "GPGPU Programming Models"
 tags:
   - "cpe"

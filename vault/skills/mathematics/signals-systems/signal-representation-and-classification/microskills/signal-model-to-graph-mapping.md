@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Signal Model-to-Graph Mapping"
 tags:
   - "cpe"

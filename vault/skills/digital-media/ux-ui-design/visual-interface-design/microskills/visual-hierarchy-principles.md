@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Visual Hierarchy Principles
 tags:
   - cpe

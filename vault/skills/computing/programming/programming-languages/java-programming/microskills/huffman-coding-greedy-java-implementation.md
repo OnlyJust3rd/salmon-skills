@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Huffman Coding Greedy Java Implementation
 tags:
   - cpe

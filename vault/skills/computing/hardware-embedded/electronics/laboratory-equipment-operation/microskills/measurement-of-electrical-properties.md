@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Measurement of Electrical Properties"
 tags:
   - "cpe"

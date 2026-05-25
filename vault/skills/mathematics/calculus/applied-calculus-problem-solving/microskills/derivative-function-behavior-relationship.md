@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Derivative-function behavior relationship"
 tags:
   - "cpe"

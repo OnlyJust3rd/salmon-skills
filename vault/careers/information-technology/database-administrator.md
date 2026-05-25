@@ -1,10 +1,10 @@
 ---
-type: "career"
-title: "Database Administrator"
-level: "entry-level"
+type: career
+title: Database Administrator
+level: entry-level
 tags:
-  - "career"
-  - "information-technology"
+  - career
+  - information-technology
 contributor: "[[contributors/just3rd|just3rd]]"
 required-competencies:
   - "[[skills/computing/data-ai/databases/database-system/competencies/L1-define-and-list-rdbms-concepts|L1-define-and-list-rdbms-concepts]]"
@@ -15,8 +15,8 @@ required-competencies:
   - "[[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
   - "[[skills/computing/data-ai/databases/database-system/competencies/L1-explain-database-transactions|L1-explain-database-transactions]]"
   - "[[skills/computing/data-ai/databases/mysql/competencies/L2-implement-database-schema|L2-implement-database-schema]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
-  - "[[skills/computing/data-ai/databases/mongodb/competencies/L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L1-explain-mongodb-data-model|L1-explain-mongodb-data-model]]"
   - "[[skills/computing/data-ai/databases/database-indexing/competencies/L1-explain-database-indexing-and-query-performance|L1-explain-database-indexing-and-query-performance]]"
   - "[[skills/computing/data-ai/databases/database-backup-and-recovery/competencies/L1-explain-database-backup-and-recovery-concepts|L1-explain-database-backup-and-recovery-concepts]]"
   - "[[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-manage-linux-software-packages|L2-manage-linux-software-packages]]"
@@ -47,8 +47,8 @@ A Database Administrator is an entry-level information technology role focused o
 - [[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
 - [[skills/computing/data-ai/databases/database-system/competencies/L1-explain-database-transactions|L2- Explain Database Transactions]]
 - [[skills/computing/data-ai/databases/mysql/competencies/L2-implement-database-schema|L3- Implement Database Schema]]
-- [[skills/computing/data-ai/databases/nosql-database/competencies/L1-explain-nosql-use-cases|L2- Explain NoSQL Use Cases]]
-- [[skills/computing/data-ai/databases/mongodb/competencies/L1-explain-mongodb-data-model|L2- Explain MongoDB Data Model]]
+- [[L1-explain-nosql-use-cases|L2- Explain NoSQL Use Cases]]
+- [[L1-explain-mongodb-data-model|L2- Explain MongoDB Data Model]]
 - [[skills/computing/data-ai/databases/database-indexing/competencies/L1-explain-database-indexing-and-query-performance|L2- Explain Database Indexing and Query Performance]]
 - [[skills/computing/data-ai/databases/database-backup-and-recovery/competencies/L1-explain-database-backup-and-recovery-concepts|L2- Explain Database Backup and Recovery Concepts]]
 - [[skills/computing/systems-infrastructure/system-administration/linux-system/competencies/L2-manage-linux-software-packages|L3- Manage Linux Software Packages]]

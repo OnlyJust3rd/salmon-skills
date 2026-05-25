@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Visual Aesthetics Impact
 tags:
   - cpe

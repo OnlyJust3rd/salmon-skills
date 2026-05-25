@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Periodic function properties"
 tags:
   - "cpe"

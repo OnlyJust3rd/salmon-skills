@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain HPC Architecture Evolution and Components"
 tags:
   - "cpe"

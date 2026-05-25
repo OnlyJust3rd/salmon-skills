@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Asymmetric Encryption Characteristics"
 tags:
   - "cpe"

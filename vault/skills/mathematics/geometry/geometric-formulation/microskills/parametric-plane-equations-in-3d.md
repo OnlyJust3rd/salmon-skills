@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parametric plane equations in 3D"
 tags:
   - "cpe"

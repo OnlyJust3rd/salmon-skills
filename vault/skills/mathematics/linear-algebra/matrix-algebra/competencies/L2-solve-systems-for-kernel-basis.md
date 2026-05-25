@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Solve Systems for Kernel Basis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Text Processing Commands"
 tags:
   - "cpe"

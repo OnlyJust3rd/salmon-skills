@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basis transformation execution"
 tags:
   - "cpe"

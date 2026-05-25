@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Relation Modeling"
 tags:
   - "cpe"

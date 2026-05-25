@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hypothetical Speech Signal Ciphering"
 tags:
   - "cpe"

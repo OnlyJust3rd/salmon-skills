@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Principle Application in Prototyping"
 tags:
   - "cpe"

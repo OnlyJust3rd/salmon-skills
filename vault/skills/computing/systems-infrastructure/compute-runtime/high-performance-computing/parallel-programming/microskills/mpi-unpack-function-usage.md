@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MPI Unpack Function Usage"
 tags:
   - "cpe"

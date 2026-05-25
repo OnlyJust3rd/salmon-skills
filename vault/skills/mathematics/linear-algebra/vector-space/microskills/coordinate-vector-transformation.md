@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Coordinate vector transformation"
 tags:
   - "cpe"

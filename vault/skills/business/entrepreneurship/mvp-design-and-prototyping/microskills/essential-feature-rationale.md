@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Essential Feature Rationale"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Binomial expansion formulation"
 tags:
   - "cpe"

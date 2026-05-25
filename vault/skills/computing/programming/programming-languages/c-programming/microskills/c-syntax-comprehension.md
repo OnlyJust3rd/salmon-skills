@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: C syntax comprehension
 tags:
   - cpe

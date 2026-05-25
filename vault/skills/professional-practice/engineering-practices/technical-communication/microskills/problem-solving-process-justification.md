@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Problem-Solving Process Justification"
 tags:
   - "cpe"

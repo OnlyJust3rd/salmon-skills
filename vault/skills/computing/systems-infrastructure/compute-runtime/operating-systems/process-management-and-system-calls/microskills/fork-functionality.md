@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "fork() Functionality"
 tags:
   - "cpe"

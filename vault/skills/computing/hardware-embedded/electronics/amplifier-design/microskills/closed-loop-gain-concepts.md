@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Closed-Loop Gain Concepts"
 tags:
   - "cpe"

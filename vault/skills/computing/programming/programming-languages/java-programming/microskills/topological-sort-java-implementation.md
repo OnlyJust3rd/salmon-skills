@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Topological Sort Java Implementation
 tags:
   - cpe

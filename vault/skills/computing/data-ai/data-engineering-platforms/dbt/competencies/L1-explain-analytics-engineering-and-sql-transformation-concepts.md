@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Analytics Engineering and SQL Transformation Concepts"
 tags:
   - "cpe"

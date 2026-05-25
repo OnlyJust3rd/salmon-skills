@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Ethical Implications of HCI
 tags:
   - cpe

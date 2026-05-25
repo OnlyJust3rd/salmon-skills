@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basic Project Plan Creation"
 tags:
   - "cpe"

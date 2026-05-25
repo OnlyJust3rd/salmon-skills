@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Business Process Modeling"
 tags:
   - "cpe"

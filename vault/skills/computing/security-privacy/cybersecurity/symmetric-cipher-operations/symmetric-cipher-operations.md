@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Symmetric Cipher Operations"
 tags:
   - "cpe"

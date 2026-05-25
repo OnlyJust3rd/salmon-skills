@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Marketing Mix Differences"
 tags:
   - "cpe"

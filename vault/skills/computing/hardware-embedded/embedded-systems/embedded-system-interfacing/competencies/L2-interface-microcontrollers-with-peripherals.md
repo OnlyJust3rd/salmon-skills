@@ -1,14 +1,15 @@
 ---
-type: "competency"
-title: "L3- Interface Microcontrollers with Peripherals"
+type: competency
+icon: LiGoal
+title: L3- Interface Microcontrollers with Peripherals
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/hardware-embedded/embedded-programming/avr-communication-programming/competencies/L2-implement-communication-code|L2-implement-communication-code]]"
-  - "[[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/competencies/L2-avr-i-o-control|L2-avr-i-o-control]]"
-  - "[[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/competencies/L2-implement-adc-reading|L2-implement-adc-reading]]"
-  - "[[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/competencies/L2-implement-timer-counter-functions|L2-implement-timer-counter-functions]]"
+  - "[[L2-implement-communication-code|L2-implement-communication-code]]"
+  - "[[L2-avr-i-o-control|L2-avr-i-o-control]]"
+  - "[[L2-implement-adc-reading|L2-implement-adc-reading]]"
+  - "[[L2-implement-timer-counter-functions|L2-implement-timer-counter-functions]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/embedded-system-interfacing|embedded-system-interfacing]]"
@@ -32,10 +33,10 @@ Apply UART, SPI, and I2C protocols to interface AVR microcontrollers with provid
 
 ## Strict Prerequisites
 
-- [[skills/computing/hardware-embedded/embedded-programming/avr-communication-programming/competencies/L2-implement-communication-code|L3- Implement Communication Code]]
-- [[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/competencies/L2-avr-i-o-control|L3- AVR I/O Control]]
-- [[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/competencies/L2-implement-timer-counter-functions|L3- Implement Timer/Counter Functions]]
-- [[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/competencies/L2-implement-adc-reading|L3- Implement ADC Reading]]
+- [[L2-implement-communication-code|L3- Implement Communication Code]]
+- [[L2-avr-i-o-control|L3- AVR I/O Control]]
+- [[L2-implement-timer-counter-functions|L3- Implement Timer/Counter Functions]]
+- [[L2-implement-adc-reading|L3- Implement ADC Reading]]
 
 ## Optional Prerequisites
 

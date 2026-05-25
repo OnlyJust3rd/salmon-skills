@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Column space geometric interpretation"
 tags:
   - "cpe"

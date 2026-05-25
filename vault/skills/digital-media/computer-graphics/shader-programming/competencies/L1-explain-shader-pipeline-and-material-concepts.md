@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Shader Pipeline and Material Concepts"
 tags:
   - "cpe"

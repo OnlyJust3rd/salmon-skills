@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Implicit differentiation computations"
 tags:
   - "cpe"

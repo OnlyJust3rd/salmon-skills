@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply BigQuery Partitioning and SQL Analytics Concepts"
 tags:
   - "cpe"

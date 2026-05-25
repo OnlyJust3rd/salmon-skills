@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sequential Phase Planning"
 tags:
   - "microskill"

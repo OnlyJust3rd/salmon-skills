@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Firebase Backend-as-a-Service Concepts"
 tags:
   - "cpe"

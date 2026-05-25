@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Gate-Level Modeling Application"
 tags:
   - "cpe"

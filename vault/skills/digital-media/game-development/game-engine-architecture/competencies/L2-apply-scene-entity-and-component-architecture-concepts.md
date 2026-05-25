@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Scene Entity and Component Architecture Concepts"
 tags:
   - "cpe"

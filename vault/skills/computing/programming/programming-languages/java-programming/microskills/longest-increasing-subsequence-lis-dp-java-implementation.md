@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Longest Increasing Subsequence (LIS) DP Java Implementation
 tags:
   - cpe

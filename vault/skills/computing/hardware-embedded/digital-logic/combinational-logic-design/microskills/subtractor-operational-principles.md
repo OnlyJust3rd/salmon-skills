@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Subtractor Operational Principles"
 tags:
   - "cpe"

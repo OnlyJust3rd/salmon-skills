@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "FTC role in defining new functions"
 tags:
   - "cpe"

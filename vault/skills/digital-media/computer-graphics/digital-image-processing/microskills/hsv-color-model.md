@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "HSV Color Model"
 tags:
   - "cpe"

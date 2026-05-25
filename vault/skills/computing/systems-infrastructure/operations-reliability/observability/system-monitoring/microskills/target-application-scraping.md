@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Target Application Scraping"
 tags:
   - "cpe"

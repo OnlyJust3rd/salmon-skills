@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Business Idea Refinement"
 tags:
   - "cpe"

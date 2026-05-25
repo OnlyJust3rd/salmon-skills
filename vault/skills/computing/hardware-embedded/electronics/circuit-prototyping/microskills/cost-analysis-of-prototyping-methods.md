@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cost Analysis of Prototyping Methods"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Identify BML Stage for Solution Validation"
 tags:
   - "cpe"

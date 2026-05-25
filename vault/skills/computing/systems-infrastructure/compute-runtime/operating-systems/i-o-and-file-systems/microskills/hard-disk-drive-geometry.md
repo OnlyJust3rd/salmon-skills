@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hard Disk Drive Geometry"
 tags:
   - "cpe"

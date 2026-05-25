@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UART Device Interfacing"
 tags:
   - "cpe"

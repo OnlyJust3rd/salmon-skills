@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Build Artifact and Image Repository Management"
 tags:
   - "cpe"

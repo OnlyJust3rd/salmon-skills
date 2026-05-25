@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Orthogonal projection interpretation"
 tags:
   - "cpe"

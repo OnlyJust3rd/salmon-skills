@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linear combination definition"
 tags:
   - "cpe"

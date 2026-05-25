@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Decoder Operational Principles"
 tags:
   - "cpe"

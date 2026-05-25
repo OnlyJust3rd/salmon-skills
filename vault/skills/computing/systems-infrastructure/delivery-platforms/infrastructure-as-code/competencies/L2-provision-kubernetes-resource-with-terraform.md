@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Provision Kubernetes Resource with Terraform"
 tags:
   - "cpe"

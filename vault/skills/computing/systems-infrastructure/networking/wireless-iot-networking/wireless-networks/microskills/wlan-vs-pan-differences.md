@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "WLAN vs. PAN Differences"
 tags:
   - "cpe"

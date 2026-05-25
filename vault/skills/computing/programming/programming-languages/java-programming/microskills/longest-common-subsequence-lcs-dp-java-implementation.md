@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Longest Common Subsequence (LCS) DP Java Implementation
 tags:
   - cpe

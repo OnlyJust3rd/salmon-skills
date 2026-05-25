@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Impulse Response and Input Signal Integration"
 tags:
   - "cpe"

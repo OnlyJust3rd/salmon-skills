@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Operational Expenditure (OPEX)"
 tags:
   - "cpe"

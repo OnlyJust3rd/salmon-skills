@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Unity Scene Prefab and Component Concepts
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Marketing Mix (4Cs)"
 tags:
   - "cpe"

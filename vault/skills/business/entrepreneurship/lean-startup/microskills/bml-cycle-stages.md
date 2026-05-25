@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "BML Cycle Stages"
 tags:
   - "cpe"

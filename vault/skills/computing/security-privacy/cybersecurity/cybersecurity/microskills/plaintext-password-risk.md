@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Plaintext Password Risk"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Competitive Landscape Analysis"
 tags:
   - "cpe"

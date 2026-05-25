@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Qualitative Feedback Analysis
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Number Theory to Cryptographic Problems"
 tags:
   - "cpe"

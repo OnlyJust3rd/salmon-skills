@@ -1,5 +1,6 @@
 ---
 type: skill
+icon: "LiZap"
 title: Visual Interface Design
 tags:
   - cpe

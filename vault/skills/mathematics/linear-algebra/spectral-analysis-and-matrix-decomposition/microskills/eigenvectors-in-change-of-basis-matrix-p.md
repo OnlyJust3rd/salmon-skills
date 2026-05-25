@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Eigenvectors in change-of-basis matrix P"
 tags:
   - "cpe"

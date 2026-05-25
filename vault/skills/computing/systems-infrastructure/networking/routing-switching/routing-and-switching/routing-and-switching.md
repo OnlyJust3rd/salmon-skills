@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Routing and Switching"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Virtual Reality Concepts
 tags:
   - cpe

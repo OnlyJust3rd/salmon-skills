@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Trait and Motivation Integration"
 tags:
   - "cpe"

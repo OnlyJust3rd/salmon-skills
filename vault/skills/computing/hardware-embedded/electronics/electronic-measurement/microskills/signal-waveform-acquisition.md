@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Signal Waveform Acquisition"
 tags:
   - "cpe"

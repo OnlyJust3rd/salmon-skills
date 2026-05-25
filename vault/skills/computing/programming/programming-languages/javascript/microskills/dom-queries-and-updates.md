@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: DOM queries and updates
 tags:
   - cpe

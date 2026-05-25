@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Counter Definitions"
 tags:
   - "cpe"

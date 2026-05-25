@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RGB Color Model"
 tags:
   - "cpe"

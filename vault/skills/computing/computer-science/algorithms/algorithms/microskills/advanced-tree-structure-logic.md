@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Advanced Tree Structure Logic"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Coordinate systems for volume calculation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Step-by-step solution planning"
 tags:
   - "cpe"

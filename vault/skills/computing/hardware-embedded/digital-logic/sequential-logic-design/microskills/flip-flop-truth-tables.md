@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Flip-Flop Truth Tables"
 tags:
   - "cpe"

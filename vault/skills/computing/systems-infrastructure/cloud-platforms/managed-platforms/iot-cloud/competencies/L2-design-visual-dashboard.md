@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Design Visual Dashboard"
 tags:
   - "cpe"

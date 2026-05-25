@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Modular Circuit Design"
 tags:
   - "cpe"

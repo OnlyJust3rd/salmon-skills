@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Design Basic Components for Prototyping"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Preservation of arithmetic operations"
 tags:
   - "cpe"

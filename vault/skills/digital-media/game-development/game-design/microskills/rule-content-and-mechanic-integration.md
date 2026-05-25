@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rule, Content, and Mechanic Integration"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Backing Storage Role"
 tags:
   - "cpe"

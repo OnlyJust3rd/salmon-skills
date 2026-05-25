@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Processor Components Definition"
 tags:
   - "cpe"

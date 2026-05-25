@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scheduled Command Execution"
 tags:
   - "cpe"

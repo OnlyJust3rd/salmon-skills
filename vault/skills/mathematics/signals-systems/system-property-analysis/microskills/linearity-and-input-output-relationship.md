@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linearity and Input-Output Relationship"
 tags:
   - "cpe"

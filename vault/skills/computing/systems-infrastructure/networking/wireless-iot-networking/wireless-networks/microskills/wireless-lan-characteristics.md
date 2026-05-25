@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Wireless LAN Characteristics"
 tags:
   - "cpe"

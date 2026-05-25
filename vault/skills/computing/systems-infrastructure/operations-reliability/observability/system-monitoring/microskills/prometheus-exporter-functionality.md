@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Prometheus Exporter Functionality"
 tags:
   - "cpe"

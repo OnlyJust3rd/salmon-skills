@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Experimental Design Influence
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Gain Requirement Evaluation"
 tags:
   - "cpe"

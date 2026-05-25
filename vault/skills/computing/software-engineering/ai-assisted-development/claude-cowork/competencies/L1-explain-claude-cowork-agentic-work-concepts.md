@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L2- Explain Claude Cowork Agentic Work Concepts"
+type: competency
+icon: LiGoal
+title: L2- Explain Claude Cowork Agentic Work Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/data-ai/artificial-intelligence/large-language-models/competencies/L1-explain-large-language-model-concepts|L1-explain-large-language-model-concepts]]"
+  - "[[L1-explain-large-language-model-concepts|L1-explain-large-language-model-concepts]]"
   - "[[skills/professional-practice/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1-define-and-communicate-technical-reports]]"
 miller-level: 1
 optional-prerequisites: []
@@ -28,7 +29,7 @@ Explain Claude Cowork agentic work concepts.
 
 ## Strict Prerequisites
 
-- [[skills/computing/data-ai/artificial-intelligence/large-language-models/competencies/L1-explain-large-language-model-concepts|L2- Explain Large Language Model Concepts]]
+- [[L1-explain-large-language-model-concepts|L2- Explain Large Language Model Concepts]]
 - [[skills/professional-practice/engineering-practices/technical-communication/competencies/L1-define-and-communicate-technical-reports|L1- Define and Communicate Technical Reports]]
 
 ## Optional Prerequisites

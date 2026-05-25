@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Validation & Verification Differentiation"
 tags:
   - "cpe"

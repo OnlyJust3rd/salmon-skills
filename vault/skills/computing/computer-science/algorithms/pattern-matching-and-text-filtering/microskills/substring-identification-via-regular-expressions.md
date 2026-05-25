@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Substring Identification via Regular Expressions"
 tags:
   - "cpe"

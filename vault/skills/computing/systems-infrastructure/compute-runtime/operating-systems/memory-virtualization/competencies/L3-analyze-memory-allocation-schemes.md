@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze Memory Allocation Schemes"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Watermarking Concepts and Attack Mechanisms"
 tags:
   - "cpe"

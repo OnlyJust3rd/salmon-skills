@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Protocol Key Features"
 tags:
   - "cpe"

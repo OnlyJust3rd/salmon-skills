@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Half-wave Rectifier Output Waveform"
 tags:
   - "cpe"

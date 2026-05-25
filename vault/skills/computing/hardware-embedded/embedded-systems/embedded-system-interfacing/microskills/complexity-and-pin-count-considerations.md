@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Complexity and Pin Count Considerations"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "FPGA Deployment Stages"
 tags:
   - "cpe"

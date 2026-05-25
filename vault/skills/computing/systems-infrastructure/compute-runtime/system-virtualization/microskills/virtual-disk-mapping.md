@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Virtual Disk Mapping"
 tags:
   - "cpe"

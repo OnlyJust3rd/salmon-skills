@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Distributed Environment Utilization"
 tags:
   - "cpe"

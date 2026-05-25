@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parametric plane equation definition"
 tags:
   - "cpe"

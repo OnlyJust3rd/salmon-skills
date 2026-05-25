@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Coin Change Problem DP Java Implementation
 tags:
   - cpe

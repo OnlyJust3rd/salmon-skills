@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data-Driven Question Answering"
 tags:
   - "cpe"

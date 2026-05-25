@@ -38,14 +38,14 @@ This course introduces fundamental concepts, protocols, and technologies in TCP/
 
 ## Macro Skills
 
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/application-layer|Application Layer]]
-- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/computer-network-architecture|Computer Network Architecture]]
-- [[skills/computing/systems-infrastructure/networking/network-foundations/data-link-layer/data-link-layer|Data Link Layer]]
-- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/network-layer|Network Layer]]
+- [[application-layer|Application Layer]]
+- [[computer-network-architecture|Computer Network Architecture]]
+- [[data-link-layer|Data Link Layer]]
+- [[network-layer|Network Layer]]
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/network-management|Network Management]]
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/network-performance|Network Performance]]
-- [[skills/computing/systems-infrastructure/networking/network-foundations/physical-layer-protocol/physical-layer-protocol|Physical Layer Protocol]]
+- [[physical-layer-protocol|Physical Layer Protocol]]
 - [[skills/computing/systems-infrastructure/networking/routing-switching/routing-algorithms/routing-algorithms|Routing Algorithms]]
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/socket-programming/socket-programming|Socket Programming]]
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/transport-layer|Transport Layer]]
+- [[socket-programming|Socket Programming]]
+- [[transport-layer|Transport Layer]]
 - [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/wireless-networks/wireless-networks|Wireless Networks]]

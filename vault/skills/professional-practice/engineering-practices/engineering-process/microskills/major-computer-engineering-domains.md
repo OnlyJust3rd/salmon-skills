@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Major Computer Engineering Domains"
 tags:
   - "cpe"

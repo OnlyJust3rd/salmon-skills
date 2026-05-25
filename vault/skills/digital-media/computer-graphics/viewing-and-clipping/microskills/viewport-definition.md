@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Viewport Definition"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Disk Scheduling Algorithm Efficiency"
 tags:
   - "cpe"

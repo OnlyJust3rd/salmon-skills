@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Geometric Interpretation of Coordinate Systems"
 tags:
   - "cpe"

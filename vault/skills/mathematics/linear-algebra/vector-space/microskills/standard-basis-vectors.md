@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Standard basis vectors"
 tags:
   - "cpe"

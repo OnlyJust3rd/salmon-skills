@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CPI Impact Estimation"
 tags:
   - "cpe"

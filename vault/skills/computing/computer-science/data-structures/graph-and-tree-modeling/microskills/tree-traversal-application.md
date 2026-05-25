@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Tree Traversal Application"
 tags:
   - "cpe"

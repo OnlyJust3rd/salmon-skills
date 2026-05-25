@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Journaling File System Principles"
 tags:
   - "cpe"

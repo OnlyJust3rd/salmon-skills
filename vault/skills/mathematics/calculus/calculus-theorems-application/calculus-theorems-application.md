@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Calculus Theorems Application"
 tags:
   - "cpe"

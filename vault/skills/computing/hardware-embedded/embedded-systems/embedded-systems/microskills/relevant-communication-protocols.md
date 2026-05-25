@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Relevant Communication Protocols"
 tags:
   - "cpe"

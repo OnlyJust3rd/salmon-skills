@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Proactive Issue Detection"
 tags:
   - "cpe"

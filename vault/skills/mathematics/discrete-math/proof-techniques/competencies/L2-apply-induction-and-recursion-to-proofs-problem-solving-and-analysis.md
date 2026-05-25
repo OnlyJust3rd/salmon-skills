@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply induction and recursion to proofs, problem-solving, and analysis"
 tags:
   - "cpe"

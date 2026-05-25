@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Breadth-First Search (BFS) Java Implementation
 tags:
   - cpe

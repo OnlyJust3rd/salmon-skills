@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Line Drawing and Scan Conversion Algorithms"
 tags:
   - "cpe"

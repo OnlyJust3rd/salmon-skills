@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Lab Report Error Reporting"
 tags:
   - "cpe"

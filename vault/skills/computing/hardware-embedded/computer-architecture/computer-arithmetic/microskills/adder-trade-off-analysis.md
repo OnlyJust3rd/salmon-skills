@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Adder Trade-off Analysis"
 tags:
   - "cpe"

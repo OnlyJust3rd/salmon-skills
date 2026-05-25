@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Abstract Data Type Definition
 tags:
   - cpe

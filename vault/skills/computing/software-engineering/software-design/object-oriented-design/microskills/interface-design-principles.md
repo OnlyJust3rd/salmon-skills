@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interface Design Principles"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Desired Player Experience Design"
 tags:
   - "cpe"

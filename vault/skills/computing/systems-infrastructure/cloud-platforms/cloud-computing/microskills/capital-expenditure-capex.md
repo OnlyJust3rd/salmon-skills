@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Capital Expenditure (CAPEX)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "2D/3D Model Creation for Fabrication"
 tags:
   - "cpe"

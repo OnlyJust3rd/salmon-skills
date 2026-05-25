@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Kafka Producer Consumer and Topic Concepts"
 tags:
   - "cpe"

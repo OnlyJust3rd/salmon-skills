@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Delegated Task Prompt"
 tags:
   - "cpe"

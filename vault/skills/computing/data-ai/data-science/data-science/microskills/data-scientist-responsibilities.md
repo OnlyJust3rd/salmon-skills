@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Scientist Responsibilities"
 tags:
   - "cpe"

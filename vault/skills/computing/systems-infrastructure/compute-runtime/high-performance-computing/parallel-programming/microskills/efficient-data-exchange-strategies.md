@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Efficient Data Exchange Strategies"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "OS-Level Virtualization"
 tags:
   - "cpe"

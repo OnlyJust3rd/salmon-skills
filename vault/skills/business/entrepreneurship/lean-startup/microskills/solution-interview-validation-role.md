@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Solution Interview Validation Role"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fuzzy Logic Principles"
 tags:
   - "cpe"

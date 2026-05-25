@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Chain rule application (multivariable)"
 tags:
   - "cpe"

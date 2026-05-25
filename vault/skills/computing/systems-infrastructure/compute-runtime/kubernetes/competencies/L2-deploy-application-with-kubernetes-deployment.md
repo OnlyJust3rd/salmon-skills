@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Deploy Application with Kubernetes Deployment"
 tags:
   - "cpe"

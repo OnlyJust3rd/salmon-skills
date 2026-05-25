@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Workflow Orchestration Concepts"
 tags:
   - "cpe"

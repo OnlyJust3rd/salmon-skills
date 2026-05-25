@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Infrastructure as Code Integration"
 tags:
   - "cpe"

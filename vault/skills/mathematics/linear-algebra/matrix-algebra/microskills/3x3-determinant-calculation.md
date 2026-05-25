@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "3x3 determinant calculation"
 tags:
   - "cpe"

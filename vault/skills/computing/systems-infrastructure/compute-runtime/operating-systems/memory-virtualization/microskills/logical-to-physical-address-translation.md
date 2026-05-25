@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Logical to Physical Address Translation"
 tags:
   - "cpe"

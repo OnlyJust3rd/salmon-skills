@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IaaS Characteristics"
 tags:
   - "cpe"

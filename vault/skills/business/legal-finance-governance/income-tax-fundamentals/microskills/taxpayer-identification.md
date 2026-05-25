@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Taxpayer Identification"
 tags:
   - "cpe"

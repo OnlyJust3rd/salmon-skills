@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Line and plane equation formulation"
 tags:
   - "cpe"

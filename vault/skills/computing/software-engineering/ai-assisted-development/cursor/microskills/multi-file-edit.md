@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multi-File Edit"
 tags:
   - "cpe"

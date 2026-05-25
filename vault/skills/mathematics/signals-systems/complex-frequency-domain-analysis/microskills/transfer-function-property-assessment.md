@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Transfer Function Property Assessment"
 tags:
   - "cpe"

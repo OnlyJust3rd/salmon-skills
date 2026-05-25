@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scalar multiplication process"
 tags:
   - "cpe"

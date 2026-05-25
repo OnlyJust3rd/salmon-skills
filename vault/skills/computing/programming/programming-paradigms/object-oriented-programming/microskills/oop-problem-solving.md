@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "OOP Problem Solving"
 tags:
   - "cpe"

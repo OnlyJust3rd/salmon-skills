@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MonoBehaviour Script"
 tags:
   - "cpe"

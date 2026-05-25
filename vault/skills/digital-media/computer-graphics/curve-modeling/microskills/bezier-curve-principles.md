@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Bézier Curve Principles"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Condition Variable Synchronization"
 tags:
   - "cpe"

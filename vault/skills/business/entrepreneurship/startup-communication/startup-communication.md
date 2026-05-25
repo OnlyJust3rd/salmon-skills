@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Startup Communication"
 tags:
   - "cpe"

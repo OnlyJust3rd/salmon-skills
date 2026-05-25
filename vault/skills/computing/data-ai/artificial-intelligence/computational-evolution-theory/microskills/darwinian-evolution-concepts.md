@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Darwinian Evolution Concepts"
 tags:
   - "cpe"

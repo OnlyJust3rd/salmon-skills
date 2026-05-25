@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Java Linear Data Structures
 tags:
   - cpe

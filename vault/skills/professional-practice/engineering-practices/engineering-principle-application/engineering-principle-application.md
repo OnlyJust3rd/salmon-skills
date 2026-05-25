@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Engineering Principle Application"
 tags:
   - "cpe"

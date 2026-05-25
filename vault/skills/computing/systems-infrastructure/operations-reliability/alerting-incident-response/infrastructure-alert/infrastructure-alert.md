@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Infrastructure Alert"
 tags:
   - "cpe"

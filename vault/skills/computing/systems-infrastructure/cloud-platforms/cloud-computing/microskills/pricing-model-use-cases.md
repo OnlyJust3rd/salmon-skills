@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pricing Model Use Cases"
 tags:
   - "cpe"

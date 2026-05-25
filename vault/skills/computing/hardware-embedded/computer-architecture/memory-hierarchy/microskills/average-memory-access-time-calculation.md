@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Average Memory Access Time Calculation"
 tags:
   - "cpe"

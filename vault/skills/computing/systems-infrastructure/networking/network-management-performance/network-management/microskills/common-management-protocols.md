@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Common Management Protocols"
 tags:
   - "cpe"

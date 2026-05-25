@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Income Tax Fundamentals"
 tags:
   - "cpe"

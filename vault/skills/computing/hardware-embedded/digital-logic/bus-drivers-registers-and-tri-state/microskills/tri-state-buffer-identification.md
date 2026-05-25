@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Tri-state Buffer Identification"
 tags:
   - "cpe"

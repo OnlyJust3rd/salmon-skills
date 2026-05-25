@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Positive definite classification"
 tags:
   - "cpe"

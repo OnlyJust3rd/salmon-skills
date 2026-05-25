@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Legal and Organizational Foundations"
 tags:
   - "cpe"

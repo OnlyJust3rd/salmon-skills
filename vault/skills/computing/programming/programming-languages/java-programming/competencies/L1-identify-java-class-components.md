@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L1- Identify Java Class Components
 tags:
   - cpe

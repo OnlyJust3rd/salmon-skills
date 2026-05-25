@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Semi-structured Data Recognition"
 tags:
   - "cpe"

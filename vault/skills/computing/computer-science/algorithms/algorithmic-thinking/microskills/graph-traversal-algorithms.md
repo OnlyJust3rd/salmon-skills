@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Graph Traversal Algorithms"
 tags:
   - "cpe"

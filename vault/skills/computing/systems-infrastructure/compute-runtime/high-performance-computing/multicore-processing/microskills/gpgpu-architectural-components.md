@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "GPGPU Architectural Components"
 tags:
   - "cpe"

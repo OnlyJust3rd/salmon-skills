@@ -1,5 +1,6 @@
 ---
 type: skill
+icon: "LiZap"
 title: User-Centered Design
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Terraform Data Source Configuration"
 tags:
   - "cpe"

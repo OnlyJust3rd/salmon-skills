@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simulation to Hardware Bridging"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Adaptive Challenge Implementation"
 tags:
   - "cpe"

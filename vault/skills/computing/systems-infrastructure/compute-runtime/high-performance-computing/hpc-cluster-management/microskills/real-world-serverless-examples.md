@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Real-World Serverless Examples"
 tags:
   - "cpe"

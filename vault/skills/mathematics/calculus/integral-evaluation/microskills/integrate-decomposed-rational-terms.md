@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Integrate decomposed rational terms"
 tags:
   - "cpe"

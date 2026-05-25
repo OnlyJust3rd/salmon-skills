@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Shared-Memory Parallel Model"
 tags:
   - "cpe"

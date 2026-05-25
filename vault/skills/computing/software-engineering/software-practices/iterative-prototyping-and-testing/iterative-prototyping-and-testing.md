@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Iterative Prototyping and Testing"
 tags:
   - "cpe"

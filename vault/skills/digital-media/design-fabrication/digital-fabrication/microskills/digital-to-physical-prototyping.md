@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digital-to-Physical Prototyping"
 tags:
   - "cpe"

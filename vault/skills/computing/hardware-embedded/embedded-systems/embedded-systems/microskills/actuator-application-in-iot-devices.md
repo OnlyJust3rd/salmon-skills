@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Actuator Application in IoT Devices"
 tags:
   - "cpe"

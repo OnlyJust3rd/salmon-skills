@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Algorithmic Thinking Principles"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Compute FS/DTFS coefficients"
 tags:
   - "cpe"

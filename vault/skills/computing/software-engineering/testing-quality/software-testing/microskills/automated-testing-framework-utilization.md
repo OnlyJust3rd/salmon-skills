@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Automated Testing Framework Utilization"
 tags:
   - "cpe"

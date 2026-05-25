@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Future Technology Ethics
 tags:
   - cpe

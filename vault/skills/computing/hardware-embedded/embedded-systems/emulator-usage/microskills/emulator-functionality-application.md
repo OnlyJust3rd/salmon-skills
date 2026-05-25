@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Emulator Functionality Application"
 tags:
   - "cpe"

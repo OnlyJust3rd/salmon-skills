@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Serverless Architecture Concepts and Benefits"
 tags:
   - "cpe"

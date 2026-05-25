@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Robustness Concept"
 tags:
   - "cpe"

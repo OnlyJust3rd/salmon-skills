@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Volume Management Commands"
 tags:
   - "cpe"

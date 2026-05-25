@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Component Placement and Wiring"
 tags:
   - "cpe"

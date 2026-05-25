@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SQL Data Retrieval Basics (SELECT, FROM, WHERE)"
 tags:
   - "cpe"

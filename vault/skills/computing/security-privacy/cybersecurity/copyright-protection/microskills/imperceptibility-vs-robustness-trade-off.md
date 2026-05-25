@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Imperceptibility vs. Robustness Trade-off"
 tags:
   - "cpe"

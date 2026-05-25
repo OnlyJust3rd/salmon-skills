@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Character Psychology Foundations"
 tags:
   - "cpe"

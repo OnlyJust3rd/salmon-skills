@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Application of Genetic Programming"
 tags:
   - "cpe"

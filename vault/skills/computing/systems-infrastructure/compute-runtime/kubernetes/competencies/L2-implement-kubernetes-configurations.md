@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Implement Kubernetes Configurations"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Object-oriented structuring"
 tags:
   - "cpe"

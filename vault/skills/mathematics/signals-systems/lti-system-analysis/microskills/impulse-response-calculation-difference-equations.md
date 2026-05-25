@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Impulse Response Calculation (Difference Equations)"
 tags:
   - "cpe"

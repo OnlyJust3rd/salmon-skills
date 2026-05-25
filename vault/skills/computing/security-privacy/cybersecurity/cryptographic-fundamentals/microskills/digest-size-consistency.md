@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digest Size Consistency"
 tags:
   - "cpe"

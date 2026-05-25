@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Minimum Viable Product Core"
 tags:
   - "cpe"

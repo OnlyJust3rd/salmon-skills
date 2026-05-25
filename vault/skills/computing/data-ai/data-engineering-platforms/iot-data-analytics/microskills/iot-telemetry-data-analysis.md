@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IoT Telemetry Data Analysis"
 tags:
   - "cpe"

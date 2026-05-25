@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Describe Tech Adoption Lifecycle Influence"
 tags:
   - "cpe"

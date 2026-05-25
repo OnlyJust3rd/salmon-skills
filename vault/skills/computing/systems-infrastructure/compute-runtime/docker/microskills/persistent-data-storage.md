@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Persistent Data Storage"
 tags:
   - "cpe"

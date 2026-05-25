@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Ethical Principle Definitions"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Approximation error reasoning"
 tags:
   - "cpe"

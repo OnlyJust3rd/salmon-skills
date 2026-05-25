@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Container Image Building Process"
 tags:
   - "cpe"

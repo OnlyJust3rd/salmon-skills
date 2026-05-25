@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Persistence Mechanism"
 tags:
   - "cpe"

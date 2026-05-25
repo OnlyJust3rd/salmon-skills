@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "Adapt Agile Process to Team Context"
 tags:
   - "competency"

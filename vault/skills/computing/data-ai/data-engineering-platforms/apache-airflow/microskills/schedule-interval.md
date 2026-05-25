@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Schedule Interval"
 tags:
   - "cpe"

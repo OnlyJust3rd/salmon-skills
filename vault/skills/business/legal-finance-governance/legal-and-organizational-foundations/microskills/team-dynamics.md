@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Team Dynamics"
 tags:
   - "cpe"

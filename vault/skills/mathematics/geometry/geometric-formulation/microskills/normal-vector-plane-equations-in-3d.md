@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Normal vector plane equations in 3D"
 tags:
   - "cpe"

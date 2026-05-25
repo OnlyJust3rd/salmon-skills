@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Higher-order derivative computations"
 tags:
   - "cpe"

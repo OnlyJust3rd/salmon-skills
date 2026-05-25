@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "FPGA Loading and Configuration"
 tags:
   - "cpe"

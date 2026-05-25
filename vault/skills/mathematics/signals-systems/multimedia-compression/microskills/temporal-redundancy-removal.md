@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Temporal Redundancy Removal"
 tags:
   - "cpe"

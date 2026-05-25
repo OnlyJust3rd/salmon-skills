@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RESTful Service Interaction"
 tags:
   - "cpe"

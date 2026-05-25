@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SNN Model Development"
 tags:
   - "cpe"

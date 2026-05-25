@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "STCF Algorithm Principles"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CMOS Family Identification"
 tags:
   - "cpe"

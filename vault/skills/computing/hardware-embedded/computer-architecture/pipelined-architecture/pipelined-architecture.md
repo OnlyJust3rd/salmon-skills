@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Pipelined Architecture"
 tags:
   - "cpe"

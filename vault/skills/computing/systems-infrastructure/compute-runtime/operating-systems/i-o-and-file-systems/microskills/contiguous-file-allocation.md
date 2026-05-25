@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Contiguous File Allocation"
 tags:
   - "cpe"

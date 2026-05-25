@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Addressing Mode Differentiation"
 tags:
   - "cpe"

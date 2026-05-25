@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Theoretical Outcome Deviation Analysis"
 tags:
   - "cpe"

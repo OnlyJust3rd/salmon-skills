@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Define Graph and Tree Terms"
 tags:
   - "cpe"

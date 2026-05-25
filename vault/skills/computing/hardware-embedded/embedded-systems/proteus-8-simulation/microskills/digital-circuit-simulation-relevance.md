@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digital Circuit Simulation Relevance"
 tags:
   - "cpe"

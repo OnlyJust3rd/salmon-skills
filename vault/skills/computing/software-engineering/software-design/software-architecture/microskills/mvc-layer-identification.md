@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MVC Layer Identification"
 tags:
   - "cpe"

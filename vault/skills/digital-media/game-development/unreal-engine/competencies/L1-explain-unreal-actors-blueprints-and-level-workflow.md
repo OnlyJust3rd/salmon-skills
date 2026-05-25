@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Unreal Actors Blueprints and Level Workflow
 tags:
   - cpe

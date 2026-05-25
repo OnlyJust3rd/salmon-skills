@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Process Execution Simulation"
 tags:
   - "cpe"

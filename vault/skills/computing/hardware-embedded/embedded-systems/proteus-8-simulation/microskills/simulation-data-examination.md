@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simulation Data Examination"
 tags:
   - "cpe"

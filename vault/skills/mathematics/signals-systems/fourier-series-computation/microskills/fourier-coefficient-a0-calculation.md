@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fourier coefficient a0 calculation"
 tags:
   - "cpe"

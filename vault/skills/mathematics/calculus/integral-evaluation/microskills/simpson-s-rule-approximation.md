@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simpson's rule approximation"
 tags:
   - "cpe"

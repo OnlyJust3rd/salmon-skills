@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UI Feedback Event"
 tags:
   - "cpe"

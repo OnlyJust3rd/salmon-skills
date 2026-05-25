@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Funnel Drop-off"
 tags:
   - "cpe"

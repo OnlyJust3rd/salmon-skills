@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digital Content Safeguarding"
 tags:
   - "cpe"

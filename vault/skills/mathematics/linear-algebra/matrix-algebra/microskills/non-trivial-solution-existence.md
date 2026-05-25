@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Non-trivial solution existence"
 tags:
   - "cpe"

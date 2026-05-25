@@ -17,6 +17,7 @@ requires-microskills:
   - "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/shell-variables-and-parameters|shell-variables-and-parameters]]"
 contributors:
   - "[[contributors/just3rd|just3rd]]"
+icon: "LiGoal"
 ---
 
 # L3- Apply Shell Scripting for Automation

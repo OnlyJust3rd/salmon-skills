@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Processor Design Translation"
 tags:
   - "cpe"

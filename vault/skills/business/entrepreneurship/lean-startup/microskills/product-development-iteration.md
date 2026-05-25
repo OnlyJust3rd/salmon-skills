@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Product Development Iteration"
 tags:
   - "cpe"

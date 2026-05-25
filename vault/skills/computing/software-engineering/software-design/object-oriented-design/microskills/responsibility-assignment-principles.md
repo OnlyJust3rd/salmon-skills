@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Responsibility Assignment Principles"
 tags:
   - "cpe"

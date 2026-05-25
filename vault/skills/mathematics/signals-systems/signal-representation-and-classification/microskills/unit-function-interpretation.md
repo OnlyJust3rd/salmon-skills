@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Unit Function Interpretation"
 tags:
   - "cpe"

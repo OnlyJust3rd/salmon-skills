@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Potential Deadlock Identification"
 tags:
   - "cpe"

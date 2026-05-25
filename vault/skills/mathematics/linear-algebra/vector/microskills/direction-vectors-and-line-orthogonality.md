@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Direction vectors and line orthogonality"
 tags:
   - "cpe"

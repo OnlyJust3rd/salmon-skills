@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SQL DDL Commands"
 tags:
   - "cpe"

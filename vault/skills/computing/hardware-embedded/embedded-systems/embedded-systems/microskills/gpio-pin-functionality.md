@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "GPIO Pin Functionality"
 tags:
   - "cpe"

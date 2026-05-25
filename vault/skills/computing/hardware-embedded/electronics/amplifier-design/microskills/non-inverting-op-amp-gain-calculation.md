@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Non-inverting Op-Amp Gain Calculation"
 tags:
   - "cpe"

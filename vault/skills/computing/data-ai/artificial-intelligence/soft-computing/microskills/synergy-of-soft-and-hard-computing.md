@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Synergy of Soft and Hard Computing"
 tags:
   - "cpe"

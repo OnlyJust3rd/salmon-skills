@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Block Cipher Internal Processes"
 tags:
   - "cpe"

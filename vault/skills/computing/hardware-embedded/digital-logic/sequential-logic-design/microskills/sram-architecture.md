@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SRAM Architecture"
 tags:
   - "cpe"

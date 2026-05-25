@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Workload Locality Reasoning"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Golden Signals Tracking"
 tags:
   - "cpe"

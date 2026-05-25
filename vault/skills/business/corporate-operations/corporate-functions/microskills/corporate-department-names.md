@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Corporate Department Names"
 tags:
   - "cpe"

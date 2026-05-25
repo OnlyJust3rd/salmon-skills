@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AWS Compute"
 tags:
   - "cpe"

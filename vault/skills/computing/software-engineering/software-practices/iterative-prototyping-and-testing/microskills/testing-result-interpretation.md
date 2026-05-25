@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Testing Result Interpretation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SPI Device Interfacing"
 tags:
   - "cpe"

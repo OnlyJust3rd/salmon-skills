@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Security Provided by Cryptography"
 tags:
   - "cpe"

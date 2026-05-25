@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Computational Problem Parallelization"
 tags:
   - "cpe"

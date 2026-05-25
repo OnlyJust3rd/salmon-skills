@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Level Design Pacing Purpose"
 tags:
   - "cpe"

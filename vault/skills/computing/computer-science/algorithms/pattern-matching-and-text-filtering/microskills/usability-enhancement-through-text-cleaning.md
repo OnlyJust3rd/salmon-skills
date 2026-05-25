@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Usability Enhancement through Text Cleaning"
 tags:
   - "cpe"

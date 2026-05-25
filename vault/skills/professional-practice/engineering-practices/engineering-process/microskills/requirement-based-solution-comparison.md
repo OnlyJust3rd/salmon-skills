@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Requirement-Based Solution Comparison"
 tags:
   - "cpe"

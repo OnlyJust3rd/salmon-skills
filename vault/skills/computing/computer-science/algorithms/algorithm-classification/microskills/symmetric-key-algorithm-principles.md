@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Symmetric Key Algorithm Principles"
 tags:
   - "cpe"

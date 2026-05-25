@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Register Transfer Notation Analysis"
 tags:
   - "cpe"

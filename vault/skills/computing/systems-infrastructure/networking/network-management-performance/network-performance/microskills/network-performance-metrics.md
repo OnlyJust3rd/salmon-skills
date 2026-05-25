@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Network Performance Metrics"
 tags:
   - "cpe"

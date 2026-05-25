@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JPEG Quantization Purpose"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "ShiftRows Operation Application"
 tags:
   - "cpe"

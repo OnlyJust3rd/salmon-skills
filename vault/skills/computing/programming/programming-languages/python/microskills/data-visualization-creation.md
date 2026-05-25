@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Data Visualization Creation
 tags:
   - cpe

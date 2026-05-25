@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Greedy Algorithm Implementation"
 tags:
   - "cpe"

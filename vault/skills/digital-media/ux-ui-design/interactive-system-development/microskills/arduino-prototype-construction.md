@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Arduino Prototype Construction
 tags:
   - cpe

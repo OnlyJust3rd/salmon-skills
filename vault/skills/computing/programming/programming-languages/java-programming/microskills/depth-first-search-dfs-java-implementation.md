@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Depth-First Search (DFS) Java Implementation
 tags:
   - cpe

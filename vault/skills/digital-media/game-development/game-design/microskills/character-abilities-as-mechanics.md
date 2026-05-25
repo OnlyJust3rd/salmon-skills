@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Character Abilities as Mechanics"
 tags:
   - "cpe"

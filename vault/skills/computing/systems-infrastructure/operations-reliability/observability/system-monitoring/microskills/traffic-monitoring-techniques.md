@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Traffic Monitoring Techniques"
 tags:
   - "cpe"

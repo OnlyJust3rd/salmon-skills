@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Customer Acquisition Strategies"
 tags:
   - "cpe"

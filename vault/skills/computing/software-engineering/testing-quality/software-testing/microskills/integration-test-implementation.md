@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Integration Test Implementation"
 tags:
   - "cpe"

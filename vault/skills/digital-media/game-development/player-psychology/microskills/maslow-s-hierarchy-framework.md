@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Maslow's Hierarchy Framework"
 tags:
   - "cpe"

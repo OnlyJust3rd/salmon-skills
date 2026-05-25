@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze AI Coding Tool Output Quality and Risk"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Bubble Sort Java Implementation
 tags:
   - cpe

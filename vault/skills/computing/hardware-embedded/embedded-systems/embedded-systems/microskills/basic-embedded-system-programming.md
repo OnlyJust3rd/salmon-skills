@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basic Embedded System Programming"
 tags:
   - "cpe"

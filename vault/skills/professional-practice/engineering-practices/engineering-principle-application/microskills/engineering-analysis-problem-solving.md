@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Engineering Analysis Problem Solving"
 tags:
   - "cpe"

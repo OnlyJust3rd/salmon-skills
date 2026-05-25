@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Public and Private Key Roles"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Integrate App with Database in 3-Tier Architecture"
 tags:
   - "cpe"

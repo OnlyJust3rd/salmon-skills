@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "I/O Management Theories"
 tags:
   - "cpe"

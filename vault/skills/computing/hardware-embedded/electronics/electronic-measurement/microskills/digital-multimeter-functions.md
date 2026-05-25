@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digital Multimeter Functions"
 tags:
   - "cpe"

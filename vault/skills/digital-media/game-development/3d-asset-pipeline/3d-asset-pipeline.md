@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "3D Asset Pipeline"
 tags:
   - "cpe"

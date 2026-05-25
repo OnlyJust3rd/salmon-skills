@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Convergence vs divergence"
 tags:
   - "cpe"

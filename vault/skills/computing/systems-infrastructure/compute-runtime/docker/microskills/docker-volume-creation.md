@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Docker Volume Creation"
 tags:
   - "cpe"

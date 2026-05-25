@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Integral and Comparison Tests"
 tags:
   - "cpe"

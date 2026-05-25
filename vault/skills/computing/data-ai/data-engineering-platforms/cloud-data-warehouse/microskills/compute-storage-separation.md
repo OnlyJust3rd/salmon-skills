@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Compute-Storage Separation"
 tags:
   - "cpe"

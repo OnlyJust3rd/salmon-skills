@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Effectiveness of Realism Techniques"
 tags:
   - "cpe"

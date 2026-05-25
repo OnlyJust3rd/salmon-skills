@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Direction vector interpretation for lines"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Wireless Communication Technologies (Wi-Fi, BLE, ZigBee)"
 tags:
   - "cpe"

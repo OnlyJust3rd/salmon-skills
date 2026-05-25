@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kerberos Effectiveness Evaluation"
 tags:
   - "cpe"

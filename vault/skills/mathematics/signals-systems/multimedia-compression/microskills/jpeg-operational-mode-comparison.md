@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JPEG Operational Mode Comparison"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain OpenAI Codex Agentic Coding Concepts"
 tags:
   - "cpe"

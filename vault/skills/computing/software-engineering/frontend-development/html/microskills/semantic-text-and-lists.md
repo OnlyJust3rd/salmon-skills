@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Semantic text and lists"
 tags:
   - "cpe"

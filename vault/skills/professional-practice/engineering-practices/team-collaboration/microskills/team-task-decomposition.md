@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Team Task Decomposition"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SAP Transaction"
 tags:
   - "cpe"

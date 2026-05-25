@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Series convergence determination (Ratio/Root)"
 tags:
   - "cpe"

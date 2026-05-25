@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Steering Behavior"
 tags:
   - "cpe"

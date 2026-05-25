@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Discrete Cosine Transform (DCT) Step"
 tags:
   - "cpe"

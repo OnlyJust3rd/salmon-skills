@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain and Define Propositional Logic"
 tags:
   - "cpe"

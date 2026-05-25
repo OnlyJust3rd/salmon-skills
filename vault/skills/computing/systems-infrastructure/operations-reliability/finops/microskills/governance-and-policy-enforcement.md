@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Governance and Policy Enforcement"
 tags:
   - "cpe"

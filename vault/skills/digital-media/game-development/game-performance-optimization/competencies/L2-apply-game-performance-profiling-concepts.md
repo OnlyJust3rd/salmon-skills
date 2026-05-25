@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Game Performance Profiling Concepts"
 tags:
   - "cpe"

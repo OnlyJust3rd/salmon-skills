@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Hash Function Properties and Mapping"
 tags:
   - "cpe"

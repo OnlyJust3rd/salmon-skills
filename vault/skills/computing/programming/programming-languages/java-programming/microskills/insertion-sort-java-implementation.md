@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Insertion Sort Java Implementation
 tags:
   - cpe

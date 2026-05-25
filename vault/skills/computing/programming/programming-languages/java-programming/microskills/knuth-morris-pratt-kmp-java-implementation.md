@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Knuth-Morris-Pratt (KMP) Java Implementation
 tags:
   - cpe

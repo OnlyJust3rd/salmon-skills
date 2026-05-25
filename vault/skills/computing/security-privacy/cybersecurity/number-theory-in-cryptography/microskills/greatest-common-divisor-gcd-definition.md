@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Greatest Common Divisor (GCD) Definition"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simplified Block Cipher Operation"
 tags:
   - "cpe"

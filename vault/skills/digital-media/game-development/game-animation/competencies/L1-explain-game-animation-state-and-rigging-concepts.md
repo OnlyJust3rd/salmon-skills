@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Game Animation State and Rigging Concepts"
 tags:
   - "cpe"

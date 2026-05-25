@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Operating System Design Choices"
 tags:
   - "cpe"

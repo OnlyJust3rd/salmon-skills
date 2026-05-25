@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Essential Employee Attributes"
 tags:
   - "cpe"

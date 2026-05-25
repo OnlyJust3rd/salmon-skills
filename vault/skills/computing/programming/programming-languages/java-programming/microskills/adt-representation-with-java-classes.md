@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: ADT Representation with Java Classes
 tags:
   - cpe

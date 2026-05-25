@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Compare Hypervisor Use Cases"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "I/O Device Interaction Principles"
 tags:
   - "cpe"

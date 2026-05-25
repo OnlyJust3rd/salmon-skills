@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Adaptability in Lean Startup"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cross-Industry AI Examples"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UNIX System Call Application (exec)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parameter interpretation in plane equations"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Change of basis formula"
 tags:
   - "cpe"

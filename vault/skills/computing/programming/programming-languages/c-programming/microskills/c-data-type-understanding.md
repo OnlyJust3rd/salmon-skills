@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: C data type understanding
 tags:
   - cpe

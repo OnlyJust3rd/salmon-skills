@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Coverage of edge cases"
 tags:
   - "cpe"

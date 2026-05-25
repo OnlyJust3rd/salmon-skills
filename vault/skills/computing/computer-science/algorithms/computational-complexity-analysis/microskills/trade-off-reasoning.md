@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Trade-off Reasoning"
 tags:
   - "cpe"

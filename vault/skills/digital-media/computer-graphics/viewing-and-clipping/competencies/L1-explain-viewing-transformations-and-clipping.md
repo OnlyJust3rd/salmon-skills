@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Viewing Transformations and Clipping"
 tags:
   - "cpe"

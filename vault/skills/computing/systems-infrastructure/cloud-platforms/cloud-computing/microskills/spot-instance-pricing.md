@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Spot Instance Pricing"
 tags:
   - "cpe"

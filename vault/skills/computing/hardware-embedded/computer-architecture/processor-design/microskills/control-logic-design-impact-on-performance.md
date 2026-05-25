@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Control Logic Design Impact on Performance"
 tags:
   - "cpe"

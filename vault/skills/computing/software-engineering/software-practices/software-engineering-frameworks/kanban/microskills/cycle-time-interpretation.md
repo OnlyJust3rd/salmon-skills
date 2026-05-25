@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cycle Time Interpretation"
 tags:
   - "microskill"

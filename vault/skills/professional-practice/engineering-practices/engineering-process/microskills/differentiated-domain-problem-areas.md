@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Differentiated Domain Problem Areas"
 tags:
   - "cpe"

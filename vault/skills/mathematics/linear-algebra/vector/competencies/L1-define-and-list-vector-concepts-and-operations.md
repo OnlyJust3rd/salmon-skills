@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Define and List Vector Concepts and Operations"
 tags:
   - "cpe"

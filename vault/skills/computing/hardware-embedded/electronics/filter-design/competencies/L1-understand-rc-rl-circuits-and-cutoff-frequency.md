@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Understand RC/RL circuits and cutoff frequency"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "Manage Kanban Workflow"
 tags:
   - "competency"

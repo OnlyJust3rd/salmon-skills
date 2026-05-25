@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Cognitive Load Analysis
 tags:
   - cpe

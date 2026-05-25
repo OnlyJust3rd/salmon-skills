@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Tarjan's Algorithm Java Implementation
 tags:
   - cpe

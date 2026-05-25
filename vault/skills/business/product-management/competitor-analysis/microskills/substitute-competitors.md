@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Substitute Competitors"
 tags:
   - "cpe"

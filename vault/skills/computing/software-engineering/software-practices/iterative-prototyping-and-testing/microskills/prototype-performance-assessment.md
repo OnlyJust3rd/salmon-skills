@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Prototype Performance Assessment"
 tags:
   - "cpe"

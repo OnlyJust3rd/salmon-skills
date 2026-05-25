@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Design Pattern Problem-Solution Mapping"
 tags:
   - "cpe"

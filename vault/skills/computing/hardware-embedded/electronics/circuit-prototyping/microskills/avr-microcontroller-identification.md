@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AVR Microcontroller Identification"
 tags:
   - "cpe"

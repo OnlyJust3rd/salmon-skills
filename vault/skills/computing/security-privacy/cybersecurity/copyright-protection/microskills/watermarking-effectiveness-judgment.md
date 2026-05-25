@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Watermarking Effectiveness Judgment"
 tags:
   - "cpe"

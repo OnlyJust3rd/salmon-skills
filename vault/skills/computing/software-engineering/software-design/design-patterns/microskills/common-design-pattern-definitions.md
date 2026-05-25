@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Common Design Pattern Definitions"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Difficulty and Engagement Analysis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Break-Even Point Calculation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Complex Frequency Domain Analysis"
 tags:
   - "cpe"

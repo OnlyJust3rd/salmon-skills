@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Change Control In Waterfall"
 tags:
   - "microskill"

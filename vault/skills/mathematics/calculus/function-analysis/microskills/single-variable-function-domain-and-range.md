@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Single-variable function domain and range"
 tags:
   - "cpe"

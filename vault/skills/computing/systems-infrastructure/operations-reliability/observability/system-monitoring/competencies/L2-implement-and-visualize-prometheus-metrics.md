@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Implement and Visualize Prometheus Metrics"
 tags:
   - "cpe"

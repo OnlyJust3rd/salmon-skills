@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Sequential Logic Design"
 tags:
   - "cpe"

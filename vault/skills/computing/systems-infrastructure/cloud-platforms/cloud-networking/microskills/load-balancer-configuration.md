@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Load Balancer Configuration"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Terraform State Management"
 tags:
   - "cpe"

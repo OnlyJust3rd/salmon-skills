@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze and Compare Algorithm Complexity"
 tags:
   - "cpe"

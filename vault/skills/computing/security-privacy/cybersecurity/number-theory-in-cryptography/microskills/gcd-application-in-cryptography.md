@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "GCD Application in Cryptography"
 tags:
   - "cpe"

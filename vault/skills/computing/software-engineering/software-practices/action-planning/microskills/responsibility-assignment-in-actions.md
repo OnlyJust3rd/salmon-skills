@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Responsibility assignment in actions"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Speech Security Assessment"
 tags:
   - "cpe"

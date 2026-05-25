@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze Encryption Placement in Compression Pipeline"
 tags:
   - "cpe"

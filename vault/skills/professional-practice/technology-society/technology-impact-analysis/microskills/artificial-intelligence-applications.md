@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Artificial Intelligence Applications"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Radius of convergence calculation"
 tags:
   - "cpe"

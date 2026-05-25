@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Competitive Advantage Analysis"
 tags:
   - "cpe"

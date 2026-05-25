@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Idempotency in Declarative Systems"
 tags:
   - "cpe"

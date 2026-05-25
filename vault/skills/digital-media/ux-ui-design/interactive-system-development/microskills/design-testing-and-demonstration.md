@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Design Testing and Demonstration
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Use Case Diagram Creation"
 tags:
   - "cpe"

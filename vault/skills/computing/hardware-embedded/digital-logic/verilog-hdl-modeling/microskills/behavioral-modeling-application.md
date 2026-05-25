@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Behavioral Modeling Application"
 tags:
   - "cpe"

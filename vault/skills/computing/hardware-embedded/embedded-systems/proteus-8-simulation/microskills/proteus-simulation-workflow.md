@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Proteus Simulation Workflow"
 tags:
   - "cpe"

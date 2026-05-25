@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Dot product for vector orthogonality"
 tags:
   - "cpe"

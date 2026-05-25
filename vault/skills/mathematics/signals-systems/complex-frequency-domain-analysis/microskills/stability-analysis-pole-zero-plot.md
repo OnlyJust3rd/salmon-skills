@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Stability Analysis (Pole-Zero Plot)"
 tags:
   - "cpe"

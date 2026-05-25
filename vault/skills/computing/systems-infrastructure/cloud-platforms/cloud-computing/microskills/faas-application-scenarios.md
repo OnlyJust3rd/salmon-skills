@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "FaaS Application Scenarios"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Breadboard Layout Conventions"
 tags:
   - "cpe"

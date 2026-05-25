@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scalability Law Assumptions"
 tags:
   - "cpe"

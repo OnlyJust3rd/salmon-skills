@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Identify and Illustrate Architectures"
 tags:
   - "cpe"

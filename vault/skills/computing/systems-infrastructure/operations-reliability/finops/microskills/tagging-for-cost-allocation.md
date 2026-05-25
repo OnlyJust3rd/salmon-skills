@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Tagging for Cost Allocation"
 tags:
   - "cpe"

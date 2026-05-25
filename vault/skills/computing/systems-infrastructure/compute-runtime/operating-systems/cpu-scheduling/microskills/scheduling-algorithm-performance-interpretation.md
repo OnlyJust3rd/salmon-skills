@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scheduling Algorithm Performance Interpretation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Norton Theorem Application"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "PLD Classifications"
 tags:
   - "cpe"

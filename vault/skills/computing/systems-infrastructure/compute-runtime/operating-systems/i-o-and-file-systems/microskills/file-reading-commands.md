@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "File Reading Commands"
 tags:
   - "cpe"

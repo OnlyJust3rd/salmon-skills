@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Asymmetric Algorithm Structural Components"
 tags:
   - "cpe"

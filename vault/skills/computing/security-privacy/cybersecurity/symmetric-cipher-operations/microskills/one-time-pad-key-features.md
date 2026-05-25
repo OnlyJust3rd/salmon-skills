@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "One-time Pad Key Features"
 tags:
   - "cpe"

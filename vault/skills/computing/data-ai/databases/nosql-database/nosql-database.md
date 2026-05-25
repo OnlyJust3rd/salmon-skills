@@ -1,26 +1,27 @@
 ---
-type: "skill"
-title: "NoSQL Database"
+type: skill
+icon: LiZap
+title: NoSQL Database
 tags:
-  - "cpe"
-  - "skill"
+  - cpe
+  - skill
 contributors:
   - "[[contributors/just3rd|just3rd]]"
 competencies:
-  - "[[skills/computing/data-ai/databases/nosql-database/competencies/L1-list-nosql-types|L1-list-nosql-types]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L1-list-nosql-types|L1-list-nosql-types]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
 standard-competency:
-  - "[[skills/computing/data-ai/databases/nosql-database/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
 microskills:
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/column-family-stores|column-family-stores]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/document-databases|document-databases]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/flexibility-needs|flexibility-needs]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/graph-databases|graph-databases]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/key-value-stores|key-value-stores]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/nosql-database-categories|nosql-database-categories]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/performance-considerations|performance-considerations]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/scalability-requirements|scalability-requirements]]"
-  - "[[skills/computing/data-ai/databases/nosql-database/microskills/situational-applicability-of-nosql|situational-applicability-of-nosql]]"
+  - "[[column-family-stores|column-family-stores]]"
+  - "[[document-databases|document-databases]]"
+  - "[[flexibility-needs|flexibility-needs]]"
+  - "[[graph-databases|graph-databases]]"
+  - "[[key-value-stores|key-value-stores]]"
+  - "[[nosql-database-categories|nosql-database-categories]]"
+  - "[[performance-considerations|performance-considerations]]"
+  - "[[scalability-requirements|scalability-requirements]]"
+  - "[[situational-applicability-of-nosql|situational-applicability-of-nosql]]"
 ---
 
 # NoSQL Database
@@ -29,17 +30,17 @@ Understanding the principles and use cases of NoSQL database systems.
 
 ## Competencies
 
-- [[skills/computing/data-ai/databases/nosql-database/competencies/L1-list-nosql-types|L1- List NoSQL Types]]
-- [[skills/computing/data-ai/databases/nosql-database/competencies/L1-explain-nosql-use-cases|L2- Explain NoSQL Use Cases]]
+- [[L1-list-nosql-types|L1- List NoSQL Types]]
+- [[L1-explain-nosql-use-cases|L2- Explain NoSQL Use Cases]]
 
 ## Microskills
 
-- [[skills/computing/data-ai/databases/nosql-database/microskills/column-family-stores|Column-Family Stores]]
-- [[skills/computing/data-ai/databases/nosql-database/microskills/document-databases|Document Databases]]
-- [[skills/computing/data-ai/databases/nosql-database/microskills/flexibility-needs|Flexibility Needs]]
-- [[skills/computing/data-ai/databases/nosql-database/microskills/graph-databases|Graph Databases]]
-- [[skills/computing/data-ai/databases/nosql-database/microskills/key-value-stores|Key-Value Stores]]
-- [[skills/computing/data-ai/databases/nosql-database/microskills/nosql-database-categories|NoSQL Database Categories]]
-- [[skills/computing/data-ai/databases/nosql-database/microskills/performance-considerations|Performance Considerations]]
-- [[skills/computing/data-ai/databases/nosql-database/microskills/scalability-requirements|Scalability Requirements]]
-- [[skills/computing/data-ai/databases/nosql-database/microskills/situational-applicability-of-nosql|Situational Applicability of NoSQL]]
+- [[column-family-stores|Column-Family Stores]]
+- [[document-databases|Document Databases]]
+- [[flexibility-needs|Flexibility Needs]]
+- [[graph-databases|Graph Databases]]
+- [[key-value-stores|Key-Value Stores]]
+- [[nosql-database-categories|NoSQL Database Categories]]
+- [[performance-considerations|Performance Considerations]]
+- [[scalability-requirements|Scalability Requirements]]
+- [[situational-applicability-of-nosql|Situational Applicability of NoSQL]]

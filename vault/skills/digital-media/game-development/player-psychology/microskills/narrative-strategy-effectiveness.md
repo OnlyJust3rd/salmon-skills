@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Narrative Strategy Effectiveness"
 tags:
   - "cpe"

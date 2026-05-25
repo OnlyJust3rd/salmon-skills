@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Traveling Salesman Problem (TSP) Branch and Bound Java Implementation
 tags:
   - cpe

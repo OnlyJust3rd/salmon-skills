@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Biological Inspirations for Computational Models"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CI/CD Pipeline Stages"
 tags:
   - "cpe"

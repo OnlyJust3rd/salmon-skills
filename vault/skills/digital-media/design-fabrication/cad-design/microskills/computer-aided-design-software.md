@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Computer-Aided Design Software"
 tags:
   - "cpe"

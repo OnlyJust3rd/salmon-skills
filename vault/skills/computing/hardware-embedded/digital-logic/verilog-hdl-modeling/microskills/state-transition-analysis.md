@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "State Transition Analysis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Functional Embedded System Integration"
 tags:
   - "cpe"

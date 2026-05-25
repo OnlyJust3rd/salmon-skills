@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Conditions for differentiable functions"
 tags:
   - "cpe"

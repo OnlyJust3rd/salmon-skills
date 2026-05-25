@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Containment and Recovery"
 tags:
   - "cpe"

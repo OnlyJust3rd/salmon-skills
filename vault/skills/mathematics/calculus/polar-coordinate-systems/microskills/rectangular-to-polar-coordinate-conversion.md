@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rectangular to polar coordinate conversion"
 tags:
   - "cpe"

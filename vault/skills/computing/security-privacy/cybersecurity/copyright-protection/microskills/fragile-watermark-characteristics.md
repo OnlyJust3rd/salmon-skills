@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fragile Watermark Characteristics"
 tags:
   - "cpe"

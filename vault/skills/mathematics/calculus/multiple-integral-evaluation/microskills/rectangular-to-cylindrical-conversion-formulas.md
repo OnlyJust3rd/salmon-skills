@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rectangular to cylindrical conversion formulas"
 tags:
   - "cpe"

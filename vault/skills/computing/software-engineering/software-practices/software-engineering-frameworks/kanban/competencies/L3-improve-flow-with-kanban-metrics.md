@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "Improve Flow With Kanban Metrics"
 tags:
   - "competency"

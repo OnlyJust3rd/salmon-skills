@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Algorithm to Java Translation
 tags:
   - cpe

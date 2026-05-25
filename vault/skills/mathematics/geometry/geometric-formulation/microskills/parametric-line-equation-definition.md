@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parametric line equation definition"
 tags:
   - "cpe"

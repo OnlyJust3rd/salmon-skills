@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Experimental Result Justification"
 tags:
   - "cpe"

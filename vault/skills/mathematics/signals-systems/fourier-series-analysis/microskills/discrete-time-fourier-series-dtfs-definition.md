@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Discrete-Time Fourier Series (DTFS) Definition"
 tags:
   - "cpe"

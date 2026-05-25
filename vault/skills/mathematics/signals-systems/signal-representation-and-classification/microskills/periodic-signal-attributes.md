@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Periodic Signal Attributes"
 tags:
   - "cpe"

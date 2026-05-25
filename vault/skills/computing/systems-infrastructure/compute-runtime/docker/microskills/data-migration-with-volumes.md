@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Migration with Volumes"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Technological Advancement Impacts"
 tags:
   - "cpe"

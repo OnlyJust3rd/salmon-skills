@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Physical Hardware Challenges"
 tags:
   - "cpe"

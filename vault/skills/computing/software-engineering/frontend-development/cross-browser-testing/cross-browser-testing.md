@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Cross-Browser Testing"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Human-readable structured data"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Lowest Common Ancestor (LCA) Java Implementation
 tags:
   - cpe

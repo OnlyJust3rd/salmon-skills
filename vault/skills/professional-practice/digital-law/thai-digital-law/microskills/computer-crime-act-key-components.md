@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Computer Crime Act Key Components"
 tags:
   - "cpe"

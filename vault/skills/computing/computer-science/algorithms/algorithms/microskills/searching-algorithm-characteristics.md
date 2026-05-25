@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Searching Algorithm Characteristics"
 tags:
   - "cpe"

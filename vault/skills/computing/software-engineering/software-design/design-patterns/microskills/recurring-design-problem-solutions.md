@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Recurring Design Problem Solutions"
 tags:
   - "cpe"

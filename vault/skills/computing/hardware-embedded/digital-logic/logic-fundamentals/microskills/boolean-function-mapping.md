@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Boolean Function Mapping"
 tags:
   - "cpe"

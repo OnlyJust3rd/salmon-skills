@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Instrument Limitation Error"
 tags:
   - "cpe"

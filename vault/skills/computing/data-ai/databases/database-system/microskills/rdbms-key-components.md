@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RDBMS Key Components"
 tags:
   - "cpe"

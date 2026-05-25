@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Translate Problem to Circuit"
 tags:
   - "cpe"

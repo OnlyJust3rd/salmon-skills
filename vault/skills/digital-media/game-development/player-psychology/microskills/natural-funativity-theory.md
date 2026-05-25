@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Natural Funativity Theory"
 tags:
   - "cpe"

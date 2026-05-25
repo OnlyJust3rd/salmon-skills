@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simple Parallel Application Development"
 tags:
   - "cpe"

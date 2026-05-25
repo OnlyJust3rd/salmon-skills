@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Leadership Impact"
 tags:
   - "cpe"

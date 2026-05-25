@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Design Pattern Identification"
 tags:
   - "cpe"

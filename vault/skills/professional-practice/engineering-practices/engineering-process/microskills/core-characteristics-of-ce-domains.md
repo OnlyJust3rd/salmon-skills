@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Core Characteristics of CE Domains"
 tags:
   - "cpe"

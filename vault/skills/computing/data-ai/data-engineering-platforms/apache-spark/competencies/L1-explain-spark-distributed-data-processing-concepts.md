@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Spark Distributed Data Processing Concepts
 tags:
   - cpe

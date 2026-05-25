@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CTFT Phase Calculation"
 tags:
   - "cpe"

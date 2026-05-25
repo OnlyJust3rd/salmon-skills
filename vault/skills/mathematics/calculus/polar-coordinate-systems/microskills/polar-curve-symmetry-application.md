@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Polar curve symmetry application"
 tags:
   - "cpe"

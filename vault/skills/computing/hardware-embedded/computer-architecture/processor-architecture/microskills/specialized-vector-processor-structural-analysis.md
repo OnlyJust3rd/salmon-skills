@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Specialized Vector Processor Structural Analysis"
 tags:
   - "cpe"

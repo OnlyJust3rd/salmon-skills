@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cutoff Frequency Specification Achievement"
 tags:
   - "cpe"

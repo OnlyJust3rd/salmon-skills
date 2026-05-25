@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Throughput Metrics"
 tags:
   - "cpe"

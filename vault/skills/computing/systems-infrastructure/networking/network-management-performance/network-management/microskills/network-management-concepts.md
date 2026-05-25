@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Network Management Concepts"
 tags:
   - "cpe"

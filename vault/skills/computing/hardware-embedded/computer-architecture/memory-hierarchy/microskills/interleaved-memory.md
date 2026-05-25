@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interleaved Memory"
 tags:
   - "cpe"

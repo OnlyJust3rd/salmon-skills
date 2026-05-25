@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Differentiate Classification vs Clustering"
 tags:
   - "cpe"

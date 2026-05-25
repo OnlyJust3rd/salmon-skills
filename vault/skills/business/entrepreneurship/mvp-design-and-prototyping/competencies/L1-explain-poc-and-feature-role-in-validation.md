@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain PoC and Feature Role in Validation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Emotional Design Considerations
 tags:
   - cpe

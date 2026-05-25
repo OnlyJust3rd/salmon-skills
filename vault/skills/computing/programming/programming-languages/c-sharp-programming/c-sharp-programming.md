@@ -1,5 +1,6 @@
 ---
 type: skill
+icon: "LiZap"
 title: C# Programming
 tags:
   - cpe

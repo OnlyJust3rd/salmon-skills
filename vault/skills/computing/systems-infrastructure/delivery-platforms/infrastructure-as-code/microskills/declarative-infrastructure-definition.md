@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Declarative Infrastructure Definition"
 tags:
   - "cpe"

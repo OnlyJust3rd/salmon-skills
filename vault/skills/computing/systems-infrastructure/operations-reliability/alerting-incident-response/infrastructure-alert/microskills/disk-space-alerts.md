@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Disk Space Alerts"
 tags:
   - "cpe"

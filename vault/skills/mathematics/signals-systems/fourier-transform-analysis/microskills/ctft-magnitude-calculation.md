@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CTFT Magnitude Calculation"
 tags:
   - "cpe"

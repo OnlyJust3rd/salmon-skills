@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Signal Transduction in IoT"
 tags:
   - "cpe"

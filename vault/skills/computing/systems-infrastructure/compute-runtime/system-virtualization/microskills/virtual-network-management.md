@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Virtual Network Management"
 tags:
   - "cpe"

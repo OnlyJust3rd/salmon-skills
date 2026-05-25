@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sequence Convolution Execution"
 tags:
   - "cpe"

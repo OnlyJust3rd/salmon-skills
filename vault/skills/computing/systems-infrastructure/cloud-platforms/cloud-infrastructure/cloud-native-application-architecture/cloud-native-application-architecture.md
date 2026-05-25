@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Cloud-Native Application Architecture"
 tags:
   - "cpe"

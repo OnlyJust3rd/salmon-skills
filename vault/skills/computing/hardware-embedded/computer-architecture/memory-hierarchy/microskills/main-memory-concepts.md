@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Main Memory Concepts"
 tags:
   - "cpe"

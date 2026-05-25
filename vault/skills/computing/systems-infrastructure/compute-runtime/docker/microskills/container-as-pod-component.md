@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Container as Pod Component"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Evaluation of triple integrals in cylindrical coordinates"
 tags:
   - "cpe"

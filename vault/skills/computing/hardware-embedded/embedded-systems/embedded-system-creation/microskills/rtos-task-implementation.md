@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RTOS Task Implementation"
 tags:
   - "cpe"

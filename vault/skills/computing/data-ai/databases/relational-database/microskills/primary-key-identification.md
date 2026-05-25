@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Primary Key Identification"
 tags:
   - "cpe"

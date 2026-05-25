@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Describe and Explain Computing Integration"
 tags:
   - "cpe"

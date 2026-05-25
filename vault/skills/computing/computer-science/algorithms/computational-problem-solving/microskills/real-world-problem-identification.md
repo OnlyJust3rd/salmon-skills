@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Real-world problem identification"
 tags:
   - "cpe"

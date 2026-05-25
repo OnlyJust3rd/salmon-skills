@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Terraform Kubernetes Provider"
 tags:
   - "cpe"

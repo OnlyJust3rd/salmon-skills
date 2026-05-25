@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Third Normal Form (3NF)"
 tags:
   - "cpe"

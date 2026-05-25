@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Line-plane orthogonality analysis"
 tags:
   - "cpe"

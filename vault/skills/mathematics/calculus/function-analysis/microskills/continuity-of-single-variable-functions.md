@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Continuity of single-variable functions"
 tags:
   - "cpe"

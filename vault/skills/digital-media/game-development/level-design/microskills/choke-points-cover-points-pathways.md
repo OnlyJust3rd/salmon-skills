@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Choke Points, Cover Points, Pathways"
 tags:
   - "cpe"

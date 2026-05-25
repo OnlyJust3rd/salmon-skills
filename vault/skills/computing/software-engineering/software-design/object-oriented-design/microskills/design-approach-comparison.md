@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Design Approach Comparison"
 tags:
   - "cpe"

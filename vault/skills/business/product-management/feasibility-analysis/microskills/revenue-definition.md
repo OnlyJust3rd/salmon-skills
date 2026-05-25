@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Revenue Definition"
 tags:
   - "cpe"

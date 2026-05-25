@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Packet Filtering Logic Application"
 tags:
   - "cpe"

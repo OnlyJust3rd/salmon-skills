@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Technical Communication"
 tags:
   - "cpe"

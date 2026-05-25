@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Workspace Awareness Principles
 tags:
   - cpe

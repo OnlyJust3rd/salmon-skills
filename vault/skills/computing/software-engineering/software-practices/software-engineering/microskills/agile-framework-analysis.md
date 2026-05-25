@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Agile Framework Analysis"
 tags:
   - "cpe"

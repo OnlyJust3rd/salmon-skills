@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Use Control Characteristics"
 tags:
   - "cpe"

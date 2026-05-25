@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Algorithmic Principles and Graph Traversal"
 tags:
   - "cpe"

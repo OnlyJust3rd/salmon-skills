@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Composite Signal Coefficient Computation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Evolutionary Stages of HPC"
 tags:
   - "cpe"

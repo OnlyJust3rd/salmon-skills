@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Communication Interface Categorization"
 tags:
   - "cpe"

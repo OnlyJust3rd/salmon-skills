@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Noise Interference Effects"
 tags:
   - "cpe"

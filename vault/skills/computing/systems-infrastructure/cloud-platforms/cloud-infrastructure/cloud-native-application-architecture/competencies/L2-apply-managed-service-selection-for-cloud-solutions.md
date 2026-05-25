@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Managed Service Selection for Cloud Solutions"
 tags:
   - "cpe"

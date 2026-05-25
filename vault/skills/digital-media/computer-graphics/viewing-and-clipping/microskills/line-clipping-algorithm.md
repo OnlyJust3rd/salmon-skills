@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Line Clipping Algorithm"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "{{title}}"
 tags:
   - "skill"
@@ -25,4 +26,3 @@ microskills:
 ## Microskills
 
 - [[skills/{{taxonomy-path}}/{{skill-name}}/microskills/{{microskill-slug}}|{{microskill-title}}]]
-

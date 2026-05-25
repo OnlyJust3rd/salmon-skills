@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Discrete Structure Modeling"
 tags:
   - "cpe"

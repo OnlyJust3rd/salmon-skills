@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Network Security Protocol Application"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Vector magnitude calculation"
 tags:
   - "cpe"

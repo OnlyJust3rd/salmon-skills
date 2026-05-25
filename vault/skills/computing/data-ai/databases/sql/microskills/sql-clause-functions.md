@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SQL Clause Functions"
 tags:
   - "cpe"

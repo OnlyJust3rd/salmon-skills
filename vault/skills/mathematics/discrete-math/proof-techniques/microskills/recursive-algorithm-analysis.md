@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Recursive Algorithm Analysis"
 tags:
   - "cpe"

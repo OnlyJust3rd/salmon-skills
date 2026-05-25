@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "HPC Cluster Management Tools"
 tags:
   - "cpe"

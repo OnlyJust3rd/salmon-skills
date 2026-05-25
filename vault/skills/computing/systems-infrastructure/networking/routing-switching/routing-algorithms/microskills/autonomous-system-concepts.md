@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Autonomous System Concepts"
 tags:
   - "cpe"

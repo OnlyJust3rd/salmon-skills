@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Transform Coding Identification"
 tags:
   - "cpe"

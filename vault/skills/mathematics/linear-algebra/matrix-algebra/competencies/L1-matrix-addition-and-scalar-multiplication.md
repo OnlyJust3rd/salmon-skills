@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Matrix Addition and Scalar Multiplication"
 tags:
   - "cpe"

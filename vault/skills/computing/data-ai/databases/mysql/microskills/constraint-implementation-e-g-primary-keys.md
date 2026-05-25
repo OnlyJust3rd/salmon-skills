@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Constraint Implementation (e.g., Primary Keys)"
 tags:
   - "cpe"

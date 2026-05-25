@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simulation vs. Physical Comparison"
 tags:
   - "cpe"

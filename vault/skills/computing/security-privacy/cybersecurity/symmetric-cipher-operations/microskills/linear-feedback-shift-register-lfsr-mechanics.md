@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linear Feedback Shift Register (LFSR) Mechanics"
 tags:
   - "cpe"

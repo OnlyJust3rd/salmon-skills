@@ -34,8 +34,8 @@ This course covers the fundamentals, technologies, and standards of the Internet
 
 ## Macro Skills
 
-- [[skills/computing/hardware-embedded/robotics-iot/edge-computing/edge-computing|Edge Computing]]
-- [[skills/computing/hardware-embedded/robotics-iot/internet-of-things/internet-of-things|Internet of Things]]
+- [[edge-computing|Edge Computing]]
+- [[internet-of-things|Internet of Things]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/managed-platforms/iot-cloud/iot-cloud|IoT Cloud]]
 - [[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/iot-communication-and-networking|IoT Communication and Networking]]
 - [[skills/computing/data-ai/data-engineering-platforms/iot-data-analytics/iot-data-analytics|IoT Data Analytics]]

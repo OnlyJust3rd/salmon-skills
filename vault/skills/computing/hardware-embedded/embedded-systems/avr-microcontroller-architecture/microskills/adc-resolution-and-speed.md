@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "ADC Resolution and Speed"
 tags:
   - "cpe"

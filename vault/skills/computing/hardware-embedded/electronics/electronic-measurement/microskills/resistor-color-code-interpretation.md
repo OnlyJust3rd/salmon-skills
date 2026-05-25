@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Resistor Color Code Interpretation"
 tags:
   - "cpe"

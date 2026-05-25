@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Cloud Warehouse Query and Cost Concepts"
 tags:
   - "cpe"

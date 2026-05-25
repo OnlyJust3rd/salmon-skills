@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Relational Database Characteristics"
 tags:
   - "cpe"

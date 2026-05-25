@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Algorithm Selection for Problems"
 tags:
   - "cpe"

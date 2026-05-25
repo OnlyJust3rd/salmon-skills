@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fourier Transform (FT) Definition"
 tags:
   - "cpe"

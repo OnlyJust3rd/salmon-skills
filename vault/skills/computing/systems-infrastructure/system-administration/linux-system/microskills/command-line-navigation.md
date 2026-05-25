@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Command-Line Navigation"
 tags:
   - "cpe"

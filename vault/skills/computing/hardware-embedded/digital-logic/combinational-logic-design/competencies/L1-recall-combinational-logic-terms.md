@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Recall Combinational Logic Terms"
 tags:
   - "cpe"

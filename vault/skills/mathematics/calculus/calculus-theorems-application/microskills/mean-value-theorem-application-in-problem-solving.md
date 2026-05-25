@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Mean Value Theorem application in problem-solving"
 tags:
   - "cpe"

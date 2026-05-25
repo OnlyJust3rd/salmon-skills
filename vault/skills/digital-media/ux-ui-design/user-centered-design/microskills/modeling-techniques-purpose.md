@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Modeling Techniques Purpose
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Activity Selection Greedy Java Implementation
 tags:
   - cpe

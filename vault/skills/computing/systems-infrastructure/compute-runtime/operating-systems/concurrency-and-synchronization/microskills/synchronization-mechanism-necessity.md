@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Synchronization Mechanism Necessity"
 tags:
   - "cpe"

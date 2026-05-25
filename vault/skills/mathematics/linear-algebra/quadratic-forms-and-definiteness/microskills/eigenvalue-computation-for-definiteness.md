@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Eigenvalue computation for definiteness"
 tags:
   - "cpe"

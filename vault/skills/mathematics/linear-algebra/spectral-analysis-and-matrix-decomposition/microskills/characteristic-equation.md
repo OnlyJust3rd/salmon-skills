@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Characteristic equation"
 tags:
   - "cpe"

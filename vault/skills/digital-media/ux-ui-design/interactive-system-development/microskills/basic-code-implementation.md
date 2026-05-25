@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Basic Code Implementation
 tags:
   - cpe

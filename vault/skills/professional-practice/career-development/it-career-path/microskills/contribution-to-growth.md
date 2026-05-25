@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Contribution to Growth"
 tags:
   - "cpe"

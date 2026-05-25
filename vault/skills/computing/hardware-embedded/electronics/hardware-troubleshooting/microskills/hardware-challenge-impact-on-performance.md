@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hardware Challenge Impact on Performance"
 tags:
   - "cpe"

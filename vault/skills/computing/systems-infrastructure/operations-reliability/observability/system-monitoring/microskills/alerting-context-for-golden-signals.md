@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Alerting Context for Golden Signals"
 tags:
   - "cpe"

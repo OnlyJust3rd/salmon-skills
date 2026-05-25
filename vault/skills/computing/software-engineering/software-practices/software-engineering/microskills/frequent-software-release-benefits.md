@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Frequent Software Release Benefits"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Inception to Support Lifecycle"
 tags:
   - "cpe"

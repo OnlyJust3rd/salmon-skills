@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Vi Editor Operations"
 tags:
   - "cpe"

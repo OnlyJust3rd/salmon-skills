@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fourier Series Formula Application"
 tags:
   - "cpe"

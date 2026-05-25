@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Dataflow Modeling Application"
 tags:
   - "cpe"

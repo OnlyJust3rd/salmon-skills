@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Societal Behavior Influence"
 tags:
   - "cpe"

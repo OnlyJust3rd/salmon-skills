@@ -1,5 +1,6 @@
 ---
 type: "contributor"
+icon: "LiUser2"
 title: "{{title}}"
 tags:
   - "contributor"
@@ -10,4 +11,3 @@ tags:
 ## Profile
 
 {{profile}}
-

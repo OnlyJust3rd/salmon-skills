@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Watermarking Performance and Attacks"
 tags:
   - "cpe"

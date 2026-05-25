@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Engagement Enhancement through Interaction"
 tags:
   - "cpe"

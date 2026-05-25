@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Compression Ratio vs. Data Fidelity (LZW)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Asynchronous Bus Protocol Analysis"
 tags:
   - "cpe"

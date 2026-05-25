@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Theoretical vs. Measured Value Comparison"
 tags:
   - "cpe"

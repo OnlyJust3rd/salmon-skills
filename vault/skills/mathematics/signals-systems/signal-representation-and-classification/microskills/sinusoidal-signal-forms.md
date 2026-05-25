@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sinusoidal Signal Forms"
 tags:
   - "cpe"

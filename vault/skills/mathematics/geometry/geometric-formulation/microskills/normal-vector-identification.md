@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Normal vector identification"
 tags:
   - "cpe"

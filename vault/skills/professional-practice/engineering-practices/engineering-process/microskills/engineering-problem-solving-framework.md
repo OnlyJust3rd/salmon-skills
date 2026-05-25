@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Engineering Problem-Solving Framework"
 tags:
   - "cpe"

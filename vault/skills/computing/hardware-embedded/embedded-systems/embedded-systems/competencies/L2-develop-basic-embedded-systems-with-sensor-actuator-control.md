@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Develop basic embedded systems with sensor/actuator control"
 tags:
   - "cpe"

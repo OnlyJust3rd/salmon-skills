@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Unit Step Function Properties"
 tags:
   - "cpe"

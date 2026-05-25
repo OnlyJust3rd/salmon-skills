@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pixel Count and Resolution Relationship"
 tags:
   - "cpe"

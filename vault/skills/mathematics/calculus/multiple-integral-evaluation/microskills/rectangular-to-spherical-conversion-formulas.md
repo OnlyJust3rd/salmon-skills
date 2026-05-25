@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rectangular to spherical conversion formulas"
 tags:
   - "cpe"

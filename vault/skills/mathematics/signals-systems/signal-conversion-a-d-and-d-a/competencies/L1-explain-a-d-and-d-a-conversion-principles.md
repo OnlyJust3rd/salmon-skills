@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain A/D and D/A Conversion Principles"
 tags:
   - "cpe"

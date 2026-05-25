@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fan-out Impact"
 tags:
   - "cpe"

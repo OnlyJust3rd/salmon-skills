@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IPSec (ESP) Cryptographic Implementation"
 tags:
   - "cpe"

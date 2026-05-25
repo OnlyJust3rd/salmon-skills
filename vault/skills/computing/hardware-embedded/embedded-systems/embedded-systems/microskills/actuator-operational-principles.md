@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Actuator Operational Principles"
 tags:
   - "cpe"

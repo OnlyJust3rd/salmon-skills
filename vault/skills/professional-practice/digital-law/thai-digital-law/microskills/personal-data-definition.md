@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Personal Data Definition"
 tags:
   - "cpe"

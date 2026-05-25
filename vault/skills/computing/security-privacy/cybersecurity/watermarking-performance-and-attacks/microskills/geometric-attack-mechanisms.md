@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Geometric Attack Mechanisms"
 tags:
   - "cpe"

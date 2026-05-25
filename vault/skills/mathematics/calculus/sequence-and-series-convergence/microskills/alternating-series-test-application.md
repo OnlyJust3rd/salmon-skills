@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Alternating Series Test application"
 tags:
   - "cpe"

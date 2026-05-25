@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Orthogonal vector geometric meaning"
 tags:
   - "cpe"

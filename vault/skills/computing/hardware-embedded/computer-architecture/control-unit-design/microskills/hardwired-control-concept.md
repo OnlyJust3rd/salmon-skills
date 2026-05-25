@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hardwired Control Concept"
 tags:
   - "cpe"

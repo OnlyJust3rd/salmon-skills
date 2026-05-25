@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze ERP Module Fit for Business Processes"
 tags:
   - "cpe"

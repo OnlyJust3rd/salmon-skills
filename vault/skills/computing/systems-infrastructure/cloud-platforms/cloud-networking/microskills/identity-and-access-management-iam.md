@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Identity and Access Management (IAM)"
 tags:
   - "cpe"

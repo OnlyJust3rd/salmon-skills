@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Attribute Definitions"
 tags:
   - "cpe"

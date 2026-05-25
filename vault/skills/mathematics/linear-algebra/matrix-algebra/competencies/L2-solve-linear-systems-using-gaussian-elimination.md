@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Solve Linear Systems using Gaussian Elimination"
 tags:
   - "cpe"

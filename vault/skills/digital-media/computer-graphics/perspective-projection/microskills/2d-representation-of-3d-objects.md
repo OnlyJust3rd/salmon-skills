@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "2D Representation of 3D Objects"
 tags:
   - "cpe"

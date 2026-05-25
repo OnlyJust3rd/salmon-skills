@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Laboratory Equipment Functions"
 tags:
   - "cpe"

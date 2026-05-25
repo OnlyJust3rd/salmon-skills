@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Measured vs. Expected Diode Output"
 tags:
   - "cpe"

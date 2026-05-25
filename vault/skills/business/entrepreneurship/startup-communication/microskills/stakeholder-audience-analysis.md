@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Stakeholder Audience Analysis"
 tags:
   - "cpe"

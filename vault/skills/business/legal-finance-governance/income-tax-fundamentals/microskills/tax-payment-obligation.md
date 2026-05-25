@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Tax Payment Obligation"
 tags:
   - "cpe"

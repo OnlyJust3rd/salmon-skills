@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Game Bug Reproduction and Balance Testing Concepts"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain contract purposes and components"
 tags:
   - "cpe"

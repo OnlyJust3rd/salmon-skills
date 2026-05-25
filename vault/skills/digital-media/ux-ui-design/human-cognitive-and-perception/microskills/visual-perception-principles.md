@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Visual Perception Principles
 tags:
   - cpe

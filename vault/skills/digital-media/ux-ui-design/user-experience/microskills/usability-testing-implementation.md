@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Usability Testing Implementation
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Implement Styled Layouts with CSS"
 tags:
   - "cpe"

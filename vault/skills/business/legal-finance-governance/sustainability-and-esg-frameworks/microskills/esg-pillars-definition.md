@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "ESG Pillars Definition"
 tags:
   - "cpe"

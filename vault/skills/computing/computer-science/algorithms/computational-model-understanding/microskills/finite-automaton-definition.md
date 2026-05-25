@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Finite Automaton Definition"
 tags:
   - "cpe"

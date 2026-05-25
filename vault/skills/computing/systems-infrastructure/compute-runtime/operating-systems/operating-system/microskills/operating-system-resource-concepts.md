@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Operating System Resource Concepts"
 tags:
   - "cpe"

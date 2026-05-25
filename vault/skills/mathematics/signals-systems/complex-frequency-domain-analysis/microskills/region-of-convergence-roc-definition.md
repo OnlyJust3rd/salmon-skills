@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Region of Convergence (ROC) Definition"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Marketing Strategy"
 tags:
   - "cpe"

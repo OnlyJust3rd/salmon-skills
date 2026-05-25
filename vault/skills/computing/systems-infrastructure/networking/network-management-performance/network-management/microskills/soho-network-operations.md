@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SOHO Network Operations"
 tags:
   - "cpe"

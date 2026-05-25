@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: User Research Stages
 tags:
   - cpe

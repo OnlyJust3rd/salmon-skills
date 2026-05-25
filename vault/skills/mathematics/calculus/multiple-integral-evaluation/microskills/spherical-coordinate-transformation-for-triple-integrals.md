@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Spherical coordinate transformation for triple integrals"
 tags:
   - "cpe"

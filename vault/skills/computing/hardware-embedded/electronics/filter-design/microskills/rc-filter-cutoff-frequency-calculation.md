@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RC Filter Cutoff Frequency Calculation"
 tags:
   - "cpe"

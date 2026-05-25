@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Normalization Principles"
 tags:
   - "cpe"

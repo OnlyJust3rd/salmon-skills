@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Experimental Effects Mitigation
 tags:
   - cpe

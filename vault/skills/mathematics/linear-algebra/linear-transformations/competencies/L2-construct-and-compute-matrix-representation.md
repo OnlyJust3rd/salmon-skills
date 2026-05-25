@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Construct and Compute Matrix Representation"
 tags:
   - "cpe"

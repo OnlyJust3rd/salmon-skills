@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Actuator-Microcontroller Interaction"
 tags:
   - "cpe"

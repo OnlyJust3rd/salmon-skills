@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Loader and Linker Processes"
 tags:
   - "cpe"

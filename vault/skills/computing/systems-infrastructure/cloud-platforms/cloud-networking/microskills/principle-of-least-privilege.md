@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Principle of Least Privilege"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Player Immersion Maintenance"
 tags:
   - "cpe"

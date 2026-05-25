@@ -1,15 +1,16 @@
 ---
-type: "competency"
-title: "L2- Principles of Genetic Programming"
+type: competency
+icon: LiGoal
+title: L2- Principles of Genetic Programming
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/competencies/L1-evolutionary-theory-history-and-principles|L1-evolutionary-theory-history-and-principles]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-define-fundamental-robotics-concepts|L1-define-fundamental-robotics-concepts]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-identify-reactive-control-paradigms-and-examples|L1-identify-reactive-control-paradigms-and-examples]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-explain-ai-behavior-based-paradigms|L1-explain-ai-behavior-based-paradigms]]"
-  - "[[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-explain-reactive-control-principles-and-trade-offs|L1-explain-reactive-control-principles-and-trade-offs]]"
+  - "[[L1-define-fundamental-robotics-concepts|L1-define-fundamental-robotics-concepts]]"
+  - "[[L1-identify-reactive-control-paradigms-and-examples|L1-identify-reactive-control-paradigms-and-examples]]"
+  - "[[L1-explain-ai-behavior-based-paradigms|L1-explain-ai-behavior-based-paradigms]]"
+  - "[[L1-explain-reactive-control-principles-and-trade-offs|L1-explain-reactive-control-principles-and-trade-offs]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/computational-evolution-theory|computational-evolution-theory]]"
@@ -33,10 +34,10 @@ Explain the principles of genetic programming and its relationship to evolutiona
 ## Strict Prerequisites
 
 - [[skills/computing/data-ai/artificial-intelligence/computational-evolution-theory/competencies/L1-evolutionary-theory-history-and-principles|L2- Evolutionary Theory History and Principles]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-define-fundamental-robotics-concepts|L1- Define Fundamental Robotics Concepts]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-identify-reactive-control-paradigms-and-examples|L1- Identify Reactive Control Paradigms and Examples]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-explain-reactive-control-principles-and-trade-offs|L2- Explain Reactive Control Principles and Trade-offs]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotics/competencies/L1-explain-ai-behavior-based-paradigms|L2- Explain AI Behavior-Based Paradigms]]
+- [[L1-define-fundamental-robotics-concepts|L1- Define Fundamental Robotics Concepts]]
+- [[L1-identify-reactive-control-paradigms-and-examples|L1- Identify Reactive Control Paradigms and Examples]]
+- [[L1-explain-reactive-control-principles-and-trade-offs|L2- Explain Reactive Control Principles and Trade-offs]]
+- [[L1-explain-ai-behavior-based-paradigms|L2- Explain AI Behavior-Based Paradigms]]
 
 ## Optional Prerequisites
 

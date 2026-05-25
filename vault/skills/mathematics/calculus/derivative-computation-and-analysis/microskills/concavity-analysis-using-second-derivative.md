@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Concavity analysis using second derivative"
 tags:
   - "cpe"

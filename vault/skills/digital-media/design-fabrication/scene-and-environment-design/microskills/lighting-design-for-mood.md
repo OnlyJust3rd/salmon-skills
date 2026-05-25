@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Lighting Design for Mood"
 tags:
   - "cpe"

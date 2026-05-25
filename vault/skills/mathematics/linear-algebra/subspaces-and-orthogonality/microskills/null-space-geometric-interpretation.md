@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Null space geometric interpretation"
 tags:
   - "cpe"

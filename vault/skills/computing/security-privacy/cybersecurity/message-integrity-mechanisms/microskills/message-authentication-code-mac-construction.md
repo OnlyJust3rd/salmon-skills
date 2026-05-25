@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Message Authentication Code (MAC) Construction"
 tags:
   - "cpe"

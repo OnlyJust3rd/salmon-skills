@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Prometheus and Grafana Fundamentals"
 tags:
   - "cpe"

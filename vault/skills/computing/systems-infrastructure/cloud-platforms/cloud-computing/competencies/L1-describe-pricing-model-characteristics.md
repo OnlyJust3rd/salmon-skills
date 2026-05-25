@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L2- Describe Pricing Model Characteristics"
+type: competency
+icon: LiGoal
+title: L2- Describe Pricing Model Characteristics
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+  - "[[L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-computing/cloud-computing|cloud-computing]]"
@@ -28,7 +29,7 @@ Describe the characteristics and use cases for On-Demand, Reserved, and Spot clo
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Optional Prerequisites
 

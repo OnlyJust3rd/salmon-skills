@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "System-Level Design Creation"
 tags:
   - "cpe"

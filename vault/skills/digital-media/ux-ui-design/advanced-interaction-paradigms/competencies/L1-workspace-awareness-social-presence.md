@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Workspace Awareness & Social Presence
 tags:
   - cpe

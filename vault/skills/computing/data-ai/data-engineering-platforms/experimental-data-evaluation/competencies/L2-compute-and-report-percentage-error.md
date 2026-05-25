@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Compute and Report Percentage Error"
 tags:
   - "cpe"

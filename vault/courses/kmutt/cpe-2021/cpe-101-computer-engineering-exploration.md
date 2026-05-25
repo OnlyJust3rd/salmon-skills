@@ -41,7 +41,7 @@ Students work in teams to plan and execute projects, focusing on team collaborat
 - [[skills/professional-practice/engineering-practices/engineering-process/engineering-process|Engineering Process]]
 - [[skills/computing/software-engineering/software-practices/iterative-prototyping-and-testing/iterative-prototyping-and-testing|Iterative Prototyping and Testing]]
 - [[skills/computing/software-engineering/software-practices/project-management/project-management|Project Management]]
-- [[skills/computing/hardware-embedded/robotics-iot/robotic-system/robotic-system|Robotic System]]
+- [[robotic-system|Robotic System]]
 - [[skills/professional-practice/engineering-practices/system-design/system-design|System Design]]
 - [[skills/professional-practice/engineering-practices/team-collaboration/team-collaboration|Team Collaboration]]
 - [[skills/professional-practice/engineering-practices/technical-communication/technical-communication|Technical Communication]]

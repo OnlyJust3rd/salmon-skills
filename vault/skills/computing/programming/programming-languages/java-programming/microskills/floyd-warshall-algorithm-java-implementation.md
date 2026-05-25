@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Floyd-Warshall Algorithm Java Implementation
 tags:
   - cpe

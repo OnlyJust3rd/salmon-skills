@@ -1,9 +1,9 @@
 ---
-type: "skill"
-title: "Shell Scripting"
+type: skill
+title: Shell Scripting
 tags:
-  - "cpe"
-  - "skill"
+  - cpe
+  - skill
 contributors:
   - "[[contributors/just3rd|just3rd]]"
 competencies:
@@ -15,6 +15,7 @@ microskills:
   - "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/conditionals-and-loops|conditionals-and-loops]]"
   - "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/exit-codes|exit-codes]]"
   - "[[skills/computing/systems-infrastructure/system-administration/shell-scripting/microskills/shell-variables-and-parameters|shell-variables-and-parameters]]"
+icon: LiZap
 ---
 
 # Shell Scripting

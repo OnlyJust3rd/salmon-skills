@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Flowchart symbol recognition"
 tags:
   - "cpe"

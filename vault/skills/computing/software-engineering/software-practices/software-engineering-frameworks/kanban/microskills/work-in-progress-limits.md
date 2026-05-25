@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Work In Progress Limits"
 tags:
   - "microskill"

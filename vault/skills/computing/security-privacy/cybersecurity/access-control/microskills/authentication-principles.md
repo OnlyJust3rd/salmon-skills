@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Authentication Principles"
 tags:
   - "cpe"

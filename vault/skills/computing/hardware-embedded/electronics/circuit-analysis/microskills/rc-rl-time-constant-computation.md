@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RC/RL Time Constant Computation"
 tags:
   - "cpe"

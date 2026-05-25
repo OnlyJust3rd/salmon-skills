@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Mechanic Selection for Player Response"
 tags:
   - "cpe"

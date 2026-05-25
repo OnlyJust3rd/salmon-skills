@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "System Software Workflow"
 tags:
   - "cpe"

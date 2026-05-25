@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Adder Architectures Overview"
 tags:
   - "cpe"

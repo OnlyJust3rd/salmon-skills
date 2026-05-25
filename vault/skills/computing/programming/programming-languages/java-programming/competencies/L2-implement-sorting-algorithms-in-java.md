@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Implement Sorting Algorithms in Java
 tags:
   - cpe

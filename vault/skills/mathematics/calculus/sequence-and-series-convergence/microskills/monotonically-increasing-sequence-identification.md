@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Monotonically increasing sequence identification"
 tags:
   - "cpe"

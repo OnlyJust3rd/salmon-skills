@@ -1,23 +1,24 @@
 ---
-type: "microskill"
-title: "Performance Considerations"
+type: microskill
+icon: LiBoxes
+title: Performance Considerations
 tags:
-  - "cpe"
-  - "microskill"
-parent-skill: "[[skills/computing/data-ai/databases/nosql-database/nosql-database|nosql-database]]"
+  - cpe
+  - microskill
+parent-skill: "[[nosql-database|nosql-database]]"
 requires-in-competencies:
-  - "[[skills/computing/data-ai/databases/nosql-database/competencies/L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
+  - "[[L1-explain-nosql-use-cases|L1-explain-nosql-use-cases]]"
 contributors:
   - "[[contributors/just3rd|just3rd]]"
 ---
 
 # Performance Considerations
 
-Parent macro: [[skills/computing/data-ai/databases/nosql-database/nosql-database|NoSQL Database]]
+Parent macro: [[nosql-database|NoSQL Database]]
 
 Parent competency:
 
-- [[skills/computing/data-ai/databases/nosql-database/competencies/L1-explain-nosql-use-cases|L2- Explain NoSQL Use Cases]]
+- [[L1-explain-nosql-use-cases|L2- Explain NoSQL Use Cases]]
 
 ## Description
 

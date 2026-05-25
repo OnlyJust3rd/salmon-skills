@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Software Component Structuring"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: C control flow statement application
 tags:
   - cpe

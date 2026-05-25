@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Memory Addressing and Organization"
 tags:
   - "cpe"

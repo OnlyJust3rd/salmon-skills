@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Discrete-Time Fourier Transform (DTFT) Definition"
 tags:
   - "cpe"

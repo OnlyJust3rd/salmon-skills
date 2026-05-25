@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Selective Encryption System Analysis"
 tags:
   - "cpe"

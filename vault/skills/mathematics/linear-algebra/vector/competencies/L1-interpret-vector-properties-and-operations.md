@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Interpret Vector Properties and Operations"
 tags:
   - "cpe"

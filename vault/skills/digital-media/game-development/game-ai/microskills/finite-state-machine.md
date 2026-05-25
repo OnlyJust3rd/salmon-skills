@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Finite State Machine"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Startup Legal Considerations"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Software Configuration Management Definition"
 tags:
   - "cpe"

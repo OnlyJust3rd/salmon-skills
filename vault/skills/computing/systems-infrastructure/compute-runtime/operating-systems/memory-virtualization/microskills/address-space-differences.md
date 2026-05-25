@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Address Space Differences"
 tags:
   - "cpe"

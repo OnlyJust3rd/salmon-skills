@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Intra-frame Efficiency"
 tags:
   - "cpe"

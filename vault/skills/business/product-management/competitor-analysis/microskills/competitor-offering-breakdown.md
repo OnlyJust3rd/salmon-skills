@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Competitor Offering Breakdown"
 tags:
   - "cpe"

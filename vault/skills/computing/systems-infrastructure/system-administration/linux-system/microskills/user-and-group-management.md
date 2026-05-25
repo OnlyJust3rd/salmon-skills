@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "User and Group Management"
 tags:
   - "cpe"

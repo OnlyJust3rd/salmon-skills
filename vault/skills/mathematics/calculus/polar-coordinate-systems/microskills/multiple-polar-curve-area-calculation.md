@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multiple polar curve area calculation"
 tags:
   - "cpe"

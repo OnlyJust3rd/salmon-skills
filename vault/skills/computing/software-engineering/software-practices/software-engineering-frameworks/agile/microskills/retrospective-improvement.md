@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Retrospective Improvement"
 tags:
   - "microskill"

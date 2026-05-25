@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Benchmark Tool Effectiveness Analysis"
 tags:
   - "cpe"

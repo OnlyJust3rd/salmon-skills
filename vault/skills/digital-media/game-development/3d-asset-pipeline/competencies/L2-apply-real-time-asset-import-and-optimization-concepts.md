@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Real-Time Asset Import and Optimization Concepts"
 tags:
   - "cpe"

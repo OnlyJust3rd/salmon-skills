@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Causality System Verification"
 tags:
   - "cpe"

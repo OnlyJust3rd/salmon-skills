@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MPI Send Function Application"
 tags:
   - "cpe"

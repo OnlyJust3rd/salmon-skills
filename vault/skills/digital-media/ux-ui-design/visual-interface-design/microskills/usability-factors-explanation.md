@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Usability Factors Explanation
 tags:
   - cpe

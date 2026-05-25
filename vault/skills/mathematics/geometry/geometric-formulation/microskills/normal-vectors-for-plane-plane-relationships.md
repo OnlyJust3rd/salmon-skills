@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Normal vectors for plane-plane relationships"
 tags:
   - "cpe"

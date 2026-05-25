@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Importance of Problem-Solving Steps"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Audience Consideration in Presentations"
 tags:
   - "cpe"

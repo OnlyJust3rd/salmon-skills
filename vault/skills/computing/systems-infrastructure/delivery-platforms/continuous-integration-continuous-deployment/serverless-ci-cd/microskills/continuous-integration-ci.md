@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Continuous Integration (CI)"
 tags:
   - "cpe"

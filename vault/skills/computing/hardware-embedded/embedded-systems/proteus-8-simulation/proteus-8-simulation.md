@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Proteus 8 Simulation"
 tags:
   - "cpe"

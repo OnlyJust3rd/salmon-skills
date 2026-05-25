@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Invisible Watermark Characteristics"
 tags:
   - "cpe"

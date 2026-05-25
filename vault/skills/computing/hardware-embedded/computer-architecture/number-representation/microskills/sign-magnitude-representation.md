@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sign-Magnitude Representation"
 tags:
   - "cpe"

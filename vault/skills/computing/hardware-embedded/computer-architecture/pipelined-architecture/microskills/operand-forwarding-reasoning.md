@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Operand Forwarding Reasoning"
 tags:
   - "cpe"

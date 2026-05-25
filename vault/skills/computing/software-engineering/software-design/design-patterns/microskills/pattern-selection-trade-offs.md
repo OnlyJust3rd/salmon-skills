@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pattern Selection Trade-offs"
 tags:
   - "cpe"

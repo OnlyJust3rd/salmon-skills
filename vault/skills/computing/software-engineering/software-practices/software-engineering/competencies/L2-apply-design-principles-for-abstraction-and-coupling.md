@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Design Principles for Abstraction and Coupling"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interval of convergence calculation"
 tags:
   - "cpe"

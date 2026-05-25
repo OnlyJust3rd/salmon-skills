@@ -6,7 +6,7 @@ tags:
   - youtube
   - system-design
 contributor: "[[contributors/just3rd|just3rd]]"
-outcome: "[[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/system-design/competencies/L2-explain-system-design-choice|L2-explain-system-design-choice]]"
+outcome: "[[L2-explain-system-design-choice|L2-explain-system-design-choice]]"
 learning-time-in-minutes: 900
 source: Gaurav Sen
 ---
@@ -17,6 +17,6 @@ source: Gaurav Sen
 
 ## Outcome
 
-- [[skills/computing/systems-infrastructure/delivery-platforms/platform-engineering/system-design/competencies/L2-explain-system-design-choice|L2-explain-system-design-choice]]
+- [[L2-explain-system-design-choice|L2-explain-system-design-choice]]
 - [[skills/professional-practice/engineering-practices/system-design/microskills/conceptual-architecture-development|conceptual-architecture-development]]
 

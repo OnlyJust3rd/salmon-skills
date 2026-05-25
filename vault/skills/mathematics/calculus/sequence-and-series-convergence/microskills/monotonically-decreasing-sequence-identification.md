@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Monotonically decreasing sequence identification"
 tags:
   - "cpe"

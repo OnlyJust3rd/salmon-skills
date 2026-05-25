@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Diffie-Hellman Key Agreement Mechanics"
 tags:
   - "cpe"

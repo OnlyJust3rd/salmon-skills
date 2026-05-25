@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Principles of Actuators"
 tags:
   - "cpe"

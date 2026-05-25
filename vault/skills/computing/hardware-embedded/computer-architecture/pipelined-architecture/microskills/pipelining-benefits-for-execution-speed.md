@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pipelining Benefits for Execution Speed"
 tags:
   - "cpe"

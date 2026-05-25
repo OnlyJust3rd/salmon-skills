@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L6- Logic Gate Circuit Creation"
 tags:
   - "cpe"

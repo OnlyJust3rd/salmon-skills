@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JSON in HTTP requests"
 tags:
   - "cpe"

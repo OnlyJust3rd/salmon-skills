@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "I2C Protocol Fundamentals"
 tags:
   - "cpe"

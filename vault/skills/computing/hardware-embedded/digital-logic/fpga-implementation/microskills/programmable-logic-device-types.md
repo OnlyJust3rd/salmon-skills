@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Programmable Logic Device Types"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Rigid Body Movement and Forces Concepts"
 tags:
   - "cpe"

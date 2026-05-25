@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "El Gamal Foundations"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IRR Calculation and Analysis"
 tags:
   - "cpe"

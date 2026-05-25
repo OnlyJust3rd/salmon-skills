@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Oscillator Basic Operations"
 tags:
   - "cpe"

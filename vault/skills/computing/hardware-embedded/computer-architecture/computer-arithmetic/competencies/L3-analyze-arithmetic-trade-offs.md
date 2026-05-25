@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Analyze Arithmetic Trade-offs"
 tags:
   - "cpe"

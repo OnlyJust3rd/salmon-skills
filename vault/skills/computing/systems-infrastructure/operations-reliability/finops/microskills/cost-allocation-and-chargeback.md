@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cost Allocation and Chargeback"
 tags:
   - "cpe"

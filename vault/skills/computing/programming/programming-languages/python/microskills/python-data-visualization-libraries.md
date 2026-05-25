@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Python Data Visualization Libraries
 tags:
   - cpe

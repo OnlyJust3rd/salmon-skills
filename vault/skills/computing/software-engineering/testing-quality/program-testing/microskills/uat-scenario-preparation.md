@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UAT scenario preparation"
 tags:
   - "cpe"

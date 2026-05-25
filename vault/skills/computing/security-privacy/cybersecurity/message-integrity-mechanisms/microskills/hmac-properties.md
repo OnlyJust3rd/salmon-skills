@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "HMAC Properties"
 tags:
   - "cpe"

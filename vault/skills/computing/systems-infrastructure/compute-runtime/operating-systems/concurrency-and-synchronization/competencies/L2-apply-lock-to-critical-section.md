@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Lock to Critical Section"
 tags:
   - "cpe"

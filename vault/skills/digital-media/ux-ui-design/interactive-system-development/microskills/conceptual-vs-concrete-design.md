@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Conceptual vs. Concrete Design
 tags:
   - cpe

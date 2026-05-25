@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Early Adopter Characteristics"
 tags:
   - "cpe"

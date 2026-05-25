@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain BML Cycle and Idea Validation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Map OS Concepts to Virtual Environments"
 tags:
   - "cpe"

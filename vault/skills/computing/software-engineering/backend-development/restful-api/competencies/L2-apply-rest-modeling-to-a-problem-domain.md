@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply REST Modeling to a Problem Domain"
 tags:
   - "cpe"

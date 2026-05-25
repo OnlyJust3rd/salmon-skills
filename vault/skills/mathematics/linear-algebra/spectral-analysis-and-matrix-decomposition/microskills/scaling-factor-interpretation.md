@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scaling factor interpretation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Physics Application in Engineering"
 tags:
   - "cpe"

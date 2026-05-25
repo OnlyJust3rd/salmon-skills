@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Peripheral Bus Interface Survey"
 tags:
   - "cpe"

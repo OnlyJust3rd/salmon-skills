@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Information Technology Functions"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Multiple Integral Evaluation"
 tags:
   - "cpe"

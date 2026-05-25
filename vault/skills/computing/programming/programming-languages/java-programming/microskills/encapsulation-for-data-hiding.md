@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Encapsulation for Data Hiding
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Component Design Adherence to Constraints"
 tags:
   - "cpe"

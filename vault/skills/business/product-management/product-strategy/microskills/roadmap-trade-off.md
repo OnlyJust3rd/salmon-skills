@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Roadmap Trade-off"
 tags:
   - "cpe"

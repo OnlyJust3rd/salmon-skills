@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Virtual Environment Terminology"
 tags:
   - "cpe"

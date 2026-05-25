@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Virtual Memory Functionality"
 tags:
   - "cpe"

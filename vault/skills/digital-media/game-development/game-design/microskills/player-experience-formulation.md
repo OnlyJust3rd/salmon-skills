@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Player Experience Formulation"
 tags:
   - "cpe"

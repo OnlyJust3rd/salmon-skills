@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "DTFS Coefficient Calculation"
 tags:
   - "cpe"

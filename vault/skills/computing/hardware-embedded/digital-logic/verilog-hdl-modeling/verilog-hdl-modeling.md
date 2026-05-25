@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Verilog HDL Modeling"
 tags:
   - "cpe"

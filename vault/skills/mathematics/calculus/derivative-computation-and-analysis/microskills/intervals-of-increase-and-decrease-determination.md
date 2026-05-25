@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Intervals of increase and decrease determination"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Object Instantiation for Data Structures
 tags:
   - cpe

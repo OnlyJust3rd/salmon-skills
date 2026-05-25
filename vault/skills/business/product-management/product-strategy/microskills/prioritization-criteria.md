@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Prioritization Criteria"
 tags:
   - "cpe"

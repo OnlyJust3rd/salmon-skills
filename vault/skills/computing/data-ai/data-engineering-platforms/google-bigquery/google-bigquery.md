@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Google BigQuery"
 tags:
   - "cpe"

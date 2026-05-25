@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Laplace Transform Zero Calculation"
 tags:
   - "cpe"

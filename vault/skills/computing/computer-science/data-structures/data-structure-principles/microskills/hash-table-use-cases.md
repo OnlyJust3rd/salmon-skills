@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hash Table Use Cases"
 tags:
   - "cpe"

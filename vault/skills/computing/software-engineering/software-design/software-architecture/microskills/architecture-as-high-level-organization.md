@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Architecture as High-Level Organization"
 tags:
   - "cpe"

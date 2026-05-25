@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Game UI HUD Menu and Feedback Concepts
 tags:
   - cpe

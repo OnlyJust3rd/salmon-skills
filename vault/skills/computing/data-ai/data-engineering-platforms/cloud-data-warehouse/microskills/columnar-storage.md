@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Columnar Storage"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Encryption Stage Analysis"
 tags:
   - "cpe"

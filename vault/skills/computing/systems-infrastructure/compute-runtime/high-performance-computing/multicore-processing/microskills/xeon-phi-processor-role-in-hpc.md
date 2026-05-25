@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Xeon Phi Processor Role in HPC"
 tags:
   - "cpe"

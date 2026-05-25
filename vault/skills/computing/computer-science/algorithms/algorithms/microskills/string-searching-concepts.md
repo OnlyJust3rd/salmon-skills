@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "String Searching Concepts"
 tags:
   - "cpe"

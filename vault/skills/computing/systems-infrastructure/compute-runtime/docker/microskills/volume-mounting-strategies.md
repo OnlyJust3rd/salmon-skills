@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Volume Mounting Strategies"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Group Collaboration Techniques"
 tags:
   - "cpe"

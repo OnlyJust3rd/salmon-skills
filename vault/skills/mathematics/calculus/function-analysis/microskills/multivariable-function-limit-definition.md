@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multivariable function limit definition"
 tags:
   - "cpe"

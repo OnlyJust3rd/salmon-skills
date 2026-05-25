@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AES Operations Analysis"
 tags:
   - "cpe"

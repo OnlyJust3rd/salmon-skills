@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Interactive Prototype Development
 tags:
   - cpe

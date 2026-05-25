@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Hamiltonian Path/Cycle Backtracking Java Implementation
 tags:
   - cpe

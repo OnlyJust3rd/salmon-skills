@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Prometheus Server Configuration"
 tags:
   - "cpe"

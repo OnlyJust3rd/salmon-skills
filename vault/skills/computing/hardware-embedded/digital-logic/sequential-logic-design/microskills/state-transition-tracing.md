@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "State Transition Tracing"
 tags:
   - "cpe"

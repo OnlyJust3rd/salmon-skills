@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Component-Based Cutoff Frequency Determination"
 tags:
   - "cpe"

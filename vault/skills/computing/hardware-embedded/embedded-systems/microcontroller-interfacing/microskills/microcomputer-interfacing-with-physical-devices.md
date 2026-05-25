@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Microcomputer Interfacing with Physical Devices"
 tags:
   - "cpe"

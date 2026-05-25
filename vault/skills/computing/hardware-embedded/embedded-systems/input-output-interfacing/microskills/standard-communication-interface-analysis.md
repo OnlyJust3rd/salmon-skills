@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Standard Communication Interface Analysis"
 tags:
   - "cpe"

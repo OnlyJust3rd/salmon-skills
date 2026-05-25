@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Motion Vectors in Temporal Redundancy"
 tags:
   - "cpe"

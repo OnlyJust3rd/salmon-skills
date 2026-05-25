@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Structured Output Prompt"
 tags:
   - "cpe"

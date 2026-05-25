@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Gaussian elimination for Ax=0"
 tags:
   - "cpe"

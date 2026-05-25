@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Binary Search Java Implementation
 tags:
   - cpe

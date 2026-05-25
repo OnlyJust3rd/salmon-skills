@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Virtuality Continuum Concept
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Historical Development of Evolutionary Theory"
 tags:
   - "cpe"

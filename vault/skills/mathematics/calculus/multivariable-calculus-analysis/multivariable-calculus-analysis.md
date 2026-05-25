@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Multivariable Calculus Analysis"
 tags:
   - "cpe"

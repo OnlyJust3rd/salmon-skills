@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Theory-to-Engagement Link"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Task Tracking and Management"
 tags:
   - "cpe"

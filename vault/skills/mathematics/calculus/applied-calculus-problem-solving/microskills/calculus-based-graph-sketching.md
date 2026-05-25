@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Calculus-based graph sketching"
 tags:
   - "cpe"

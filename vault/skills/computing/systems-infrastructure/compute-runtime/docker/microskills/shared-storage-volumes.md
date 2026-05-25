@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Shared Storage Volumes"
 tags:
   - "cpe"

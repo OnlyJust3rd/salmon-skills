@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Disk Scheduling Analysis and Function"
 tags:
   - "cpe"

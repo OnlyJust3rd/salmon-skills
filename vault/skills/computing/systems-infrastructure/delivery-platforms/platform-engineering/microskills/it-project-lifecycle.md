@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IT Project Lifecycle"
 tags:
   - "cpe"

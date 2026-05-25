@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Game Testing and Playtesting Concepts"
 tags:
   - "cpe"

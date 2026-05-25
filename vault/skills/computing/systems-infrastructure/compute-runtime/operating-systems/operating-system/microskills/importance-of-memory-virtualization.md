@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Importance of Memory Virtualization"
 tags:
   - "cpe"

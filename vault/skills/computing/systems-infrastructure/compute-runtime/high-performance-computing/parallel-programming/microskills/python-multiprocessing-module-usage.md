@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Python Multiprocessing Module Usage"
 tags:
   - "cpe"

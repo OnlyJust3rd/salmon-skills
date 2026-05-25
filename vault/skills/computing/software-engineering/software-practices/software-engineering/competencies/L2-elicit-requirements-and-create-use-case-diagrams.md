@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Elicit Requirements and Create Use Case Diagrams"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Compression Efficiency Comparison (Huffman vs. DPCM)"
 tags:
   - "cpe"

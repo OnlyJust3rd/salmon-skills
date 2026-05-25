@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Computational Model Understanding"
 tags:
   - "cpe"

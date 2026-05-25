@@ -1,13 +1,14 @@
 ---
-type: "competency"
-title: "L3- Apply GCP Compute Storage and IAM Concepts"
+type: competency
+icon: LiGoal
+title: L3- Apply GCP Compute Storage and IAM Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/competencies/L2-implement-iam-policies|L2-implement-iam-policies]]"
   - "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/competencies/L1-explain-gcp-core-cloud-services|L1-explain-gcp-core-cloud-services]]"
-  - "[[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-vpc-functionality|L1-vpc-functionality]]"
+  - "[[L1-vpc-functionality|L1-vpc-functionality]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/google-cloud-platform|google-cloud-platform]]"
@@ -31,7 +32,7 @@ Apply GCP compute, storage, and IAM concepts.
 
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-providers/google-cloud-platform/competencies/L1-explain-gcp-core-cloud-services|L2- Explain GCP Core Cloud Services]]
 - [[skills/computing/systems-infrastructure/cloud-platforms/cloud-networking/competencies/L2-implement-iam-policies|L3- Implement IAM Policies]]
-- [[skills/computing/systems-infrastructure/networking/routing-switching/network-layer/competencies/L1-vpc-functionality|L2- VPC Functionality]]
+- [[L1-vpc-functionality|L2- VPC Functionality]]
 
 ## Optional Prerequisites
 

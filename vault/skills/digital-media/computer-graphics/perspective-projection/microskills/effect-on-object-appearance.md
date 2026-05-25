@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Effect on Object Appearance"
 tags:
   - "cpe"

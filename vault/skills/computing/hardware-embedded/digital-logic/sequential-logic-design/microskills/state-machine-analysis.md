@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "State Machine Analysis"
 tags:
   - "cpe"

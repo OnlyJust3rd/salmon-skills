@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Tech Career Path Overview"
 tags:
   - "cpe"

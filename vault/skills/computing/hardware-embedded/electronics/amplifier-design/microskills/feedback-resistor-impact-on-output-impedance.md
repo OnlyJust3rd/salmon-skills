@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Feedback Resistor Impact on Output Impedance"
 tags:
   - "cpe"

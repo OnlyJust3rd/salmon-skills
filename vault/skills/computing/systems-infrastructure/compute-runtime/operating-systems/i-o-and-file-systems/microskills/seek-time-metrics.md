@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Seek Time Metrics"
 tags:
   - "cpe"

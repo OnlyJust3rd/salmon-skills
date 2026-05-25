@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scene Atmosphere Creation"
 tags:
   - "cpe"

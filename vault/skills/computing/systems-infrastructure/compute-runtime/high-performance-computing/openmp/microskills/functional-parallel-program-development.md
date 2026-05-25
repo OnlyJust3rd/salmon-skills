@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Functional Parallel Program Development"
 tags:
   - "cpe"

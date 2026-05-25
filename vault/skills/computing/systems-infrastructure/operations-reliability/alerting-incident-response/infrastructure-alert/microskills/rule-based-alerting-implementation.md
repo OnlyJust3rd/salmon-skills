@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rule-Based Alerting Implementation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Basic Level Prototype Construction"
 tags:
   - "cpe"

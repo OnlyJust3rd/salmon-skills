@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Create Basic PCB Layout"
 tags:
   - "cpe"

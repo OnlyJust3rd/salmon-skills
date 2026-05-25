@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Microcontroller Hardware Components"
 tags:
   - "cpe"

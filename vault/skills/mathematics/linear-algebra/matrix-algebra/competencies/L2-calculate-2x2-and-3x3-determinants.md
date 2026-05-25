@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Calculate 2x2 and 3x3 Determinants"
 tags:
   - "cpe"

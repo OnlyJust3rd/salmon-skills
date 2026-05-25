@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Understand Linear Combinations, Spanning Sets, and Linear Independence"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Functional Team Project Defense"
 tags:
   - "cpe"

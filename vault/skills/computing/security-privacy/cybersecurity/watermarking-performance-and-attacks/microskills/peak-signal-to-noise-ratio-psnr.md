@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Peak Signal-to-Noise Ratio (PSNR)"
 tags:
   - "cpe"

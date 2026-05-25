@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Semiconductor Device Operation"
 tags:
   - "cpe"

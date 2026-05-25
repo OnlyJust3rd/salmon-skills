@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cloud Spend Visibility"
 tags:
   - "cpe"

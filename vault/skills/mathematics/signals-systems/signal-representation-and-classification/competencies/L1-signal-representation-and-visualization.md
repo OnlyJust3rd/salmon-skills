@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Signal Representation and Visualization"
 tags:
   - "cpe"

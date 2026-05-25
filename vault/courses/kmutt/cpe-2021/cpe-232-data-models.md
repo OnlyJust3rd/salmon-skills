@@ -31,5 +31,5 @@ CPE232 Data Models (also known as Data Modeling and Visualization) provides a co
 - [[skills/computing/computer-science/data-structures/data-types/data-types|Data Types]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/data-visualization|Data Visualization]]
 - [[skills/computing/data-ai/data-engineering-platforms/exploratory-data-analysis/exploratory-data-analysis|Exploratory Data Analysis]]
-- [[skills/computing/data-ai/data-science/machine-learning/machine-learning|Machine Learning]]
+- [[skills/computing/data-ai/artificial-intelligence/machine-learning/machine-learning/machine-learning|Machine Learning]]
 - [[python|Python]]

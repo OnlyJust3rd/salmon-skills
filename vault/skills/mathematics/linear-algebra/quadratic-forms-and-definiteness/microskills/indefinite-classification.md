@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Indefinite classification"
 tags:
   - "cpe"

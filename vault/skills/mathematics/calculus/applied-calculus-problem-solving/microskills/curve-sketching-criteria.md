@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Curve sketching criteria"
 tags:
   - "cpe"

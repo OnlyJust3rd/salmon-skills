@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Edge Computing Applications"
 tags:
   - "cpe"

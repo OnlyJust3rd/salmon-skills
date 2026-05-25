@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Brightness and Contrast Manipulation"
 tags:
   - "cpe"

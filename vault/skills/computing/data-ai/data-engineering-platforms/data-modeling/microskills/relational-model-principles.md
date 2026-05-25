@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Relational Model Principles"
 tags:
   - "cpe"

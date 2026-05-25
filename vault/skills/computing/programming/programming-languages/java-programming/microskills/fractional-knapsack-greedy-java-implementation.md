@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Fractional Knapsack Greedy Java Implementation
 tags:
   - cpe

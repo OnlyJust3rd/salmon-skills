@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Public Key Algorithm Illustration"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sine and Cosine Component Identification"
 tags:
   - "cpe"

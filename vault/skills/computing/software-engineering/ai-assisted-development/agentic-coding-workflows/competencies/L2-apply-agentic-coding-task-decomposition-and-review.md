@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Agentic Coding Task Decomposition and Review"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Microprogrammed Control Concept"
 tags:
   - "cpe"

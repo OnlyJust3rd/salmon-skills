@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Noise Frequency Attenuation Assessment"
 tags:
   - "cpe"

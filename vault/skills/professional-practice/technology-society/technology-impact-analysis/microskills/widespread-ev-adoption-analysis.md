@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Widespread EV Adoption Analysis"
 tags:
   - "cpe"

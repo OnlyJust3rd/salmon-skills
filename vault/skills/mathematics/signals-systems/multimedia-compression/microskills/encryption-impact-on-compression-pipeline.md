@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Encryption Impact on Compression Pipeline"
 tags:
   - "cpe"

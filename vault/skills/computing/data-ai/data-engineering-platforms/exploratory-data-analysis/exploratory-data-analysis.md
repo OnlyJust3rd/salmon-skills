@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Exploratory Data Analysis"
 tags:
   - "cpe"

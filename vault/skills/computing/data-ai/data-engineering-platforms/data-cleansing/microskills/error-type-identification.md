@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Error Type Identification"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Single-Stage Op-Amp Gain Determination"
 tags:
   - "cpe"

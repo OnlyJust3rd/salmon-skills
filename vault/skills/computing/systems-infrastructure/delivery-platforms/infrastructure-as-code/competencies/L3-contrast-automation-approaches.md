@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Contrast automation approaches"
 tags:
   - "cpe"

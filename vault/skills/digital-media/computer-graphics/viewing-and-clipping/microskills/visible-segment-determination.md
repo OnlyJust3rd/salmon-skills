@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Visible Segment Determination"
 tags:
   - "cpe"

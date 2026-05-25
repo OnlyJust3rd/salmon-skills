@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Induction Logic and Structure"
 tags:
   - "cpe"

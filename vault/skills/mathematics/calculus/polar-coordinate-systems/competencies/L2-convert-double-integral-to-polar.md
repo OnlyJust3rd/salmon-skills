@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Convert Double Integral to Polar"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interdomain Scalability Limitations"
 tags:
   - "cpe"

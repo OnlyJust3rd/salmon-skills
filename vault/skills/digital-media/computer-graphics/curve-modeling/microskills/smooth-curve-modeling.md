@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Smooth Curve Modeling"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digital Watermarking Classification"
 tags:
   - "cpe"

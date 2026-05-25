@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L1- Identify Management Concepts and Protocols"
+type: competency
+icon: LiGoal
+title: L1- Identify Management Concepts and Protocols
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+  - "[[L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-management-performance/network-management/network-management|network-management]]"
@@ -28,7 +29,7 @@ Identify key network management concepts and common protocols, such as SNMP.
 
 ## Strict Prerequisites
 
-- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Optional Prerequisites
 

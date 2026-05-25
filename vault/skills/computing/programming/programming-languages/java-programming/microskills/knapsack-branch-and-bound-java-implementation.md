@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Knapsack Branch and Bound Java Implementation
 tags:
   - cpe

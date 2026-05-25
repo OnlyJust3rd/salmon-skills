@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: fetch requests
 tags:
   - cpe

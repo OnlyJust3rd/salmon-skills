@@ -1,12 +1,13 @@
 ---
-type: "competency"
-title: "L3- Identify, define, and calculate performance metrics"
+type: competency
+icon: LiGoal
+title: L3- Identify, define, and calculate performance metrics
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L1-explain-congestion-control|L1-explain-congestion-control]]"
-  - "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/competencies/L1-explain-reliable-data-mechanisms|L1-explain-reliable-data-mechanisms]]"
+  - "[[L1-explain-reliable-data-mechanisms|L1-explain-reliable-data-mechanisms]]"
 miller-level: 2
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/network-performance|network-performance]]"
@@ -31,7 +32,7 @@ Identify, define, and calculate key network performance metrics (e.g., throughpu
 ## Strict Prerequisites
 
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L1-explain-congestion-control|L2- Explain congestion control]]
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/competencies/L1-explain-reliable-data-mechanisms|L2- Explain Reliable Data Mechanisms]]
+- [[L1-explain-reliable-data-mechanisms|L2- Explain Reliable Data Mechanisms]]
 
 ## Optional Prerequisites
 

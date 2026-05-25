@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Steganography vs. Digital Watermarking Distinction"
 tags:
   - "cpe"

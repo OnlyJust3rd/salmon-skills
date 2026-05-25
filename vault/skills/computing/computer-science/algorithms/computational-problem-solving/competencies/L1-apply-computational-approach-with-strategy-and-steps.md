@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Apply Computational Approach with Strategy and Steps"
 tags:
   - "cpe"

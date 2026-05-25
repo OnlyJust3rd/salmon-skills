@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Market Size Calculation"
 tags:
   - "cpe"

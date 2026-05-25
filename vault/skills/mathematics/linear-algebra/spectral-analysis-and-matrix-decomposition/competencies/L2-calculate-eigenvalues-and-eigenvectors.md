@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Calculate Eigenvalues and Eigenvectors"
 tags:
   - "cpe"

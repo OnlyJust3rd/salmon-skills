@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Role of Computational Models"
 tags:
   - "cpe"

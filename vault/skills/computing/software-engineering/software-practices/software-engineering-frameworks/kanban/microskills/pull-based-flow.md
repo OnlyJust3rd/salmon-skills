@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pull Based Flow"
 tags:
   - "microskill"

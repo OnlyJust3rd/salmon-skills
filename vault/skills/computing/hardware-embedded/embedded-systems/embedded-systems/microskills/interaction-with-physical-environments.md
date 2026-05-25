@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interaction with Physical Environments"
 tags:
   - "cpe"

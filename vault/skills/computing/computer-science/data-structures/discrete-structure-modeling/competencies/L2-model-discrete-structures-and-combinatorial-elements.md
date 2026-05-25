@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Model Discrete Structures and Combinatorial Elements"
 tags:
   - "cpe"

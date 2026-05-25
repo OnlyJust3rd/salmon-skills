@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SCM Key Objectives"
 tags:
   - "cpe"

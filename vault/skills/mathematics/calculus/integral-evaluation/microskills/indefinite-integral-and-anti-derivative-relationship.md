@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Indefinite integral and anti-derivative relationship"
 tags:
   - "cpe"

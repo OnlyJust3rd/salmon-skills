@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Blob Trigger Functionality"
 tags:
   - "cpe"

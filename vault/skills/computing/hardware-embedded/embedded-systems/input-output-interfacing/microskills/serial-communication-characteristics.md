@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Serial Communication Characteristics"
 tags:
   - "cpe"

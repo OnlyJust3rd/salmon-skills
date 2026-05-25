@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Mathematical Analysis of Test Data"
 tags:
   - "cpe"

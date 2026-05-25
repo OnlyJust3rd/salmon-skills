@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Automated Infrastructure Deployment"
 tags:
   - "cpe"

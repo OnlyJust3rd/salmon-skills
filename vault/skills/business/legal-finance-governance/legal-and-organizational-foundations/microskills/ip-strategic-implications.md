@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IP Strategic Implications"
 tags:
   - "cpe"

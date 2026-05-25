@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Analogue Scrambling Vulnerabilities"
 tags:
   - "cpe"

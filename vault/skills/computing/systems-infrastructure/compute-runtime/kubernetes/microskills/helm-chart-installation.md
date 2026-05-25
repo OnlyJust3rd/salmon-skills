@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Helm Chart Installation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SubBytes Functionality"
 tags:
   - "cpe"

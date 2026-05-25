@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Typography and spacing scale"
 tags:
   - "cpe"

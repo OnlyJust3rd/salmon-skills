@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "UML Diagram Application"
 tags:
   - "cpe"

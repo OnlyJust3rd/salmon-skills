@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Real-world related rates problem solving"
 tags:
   - "cpe"

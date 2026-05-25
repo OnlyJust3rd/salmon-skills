@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Bit-Stream Generator Combination"
 tags:
   - "cpe"

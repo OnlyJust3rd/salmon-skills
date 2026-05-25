@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SSL/TLS Effectiveness Evaluation"
 tags:
   - "cpe"

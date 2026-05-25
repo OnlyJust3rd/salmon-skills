@@ -1,14 +1,15 @@
 ---
-type: "competency"
-title: "L6- Complete Embedded System Creation"
+type: competency
+icon: LiGoal
+title: L6- Complete Embedded System Creation
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/hardware-embedded/electronics/circuit-prototyping/competencies/L3-prototyping-comparison|L3-prototyping-comparison]]"
   - "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/competencies/L3-protocol-justification|L3-protocol-justification]]"
   - "[[skills/computing/hardware-embedded/electronics/pcb-design/competencies/L2-create-basic-pcb-layout|L2-create-basic-pcb-layout]]"
-  - "[[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/competencies/L2-avr-i-o-control|L2-avr-i-o-control]]"
+  - "[[L2-avr-i-o-control|L2-avr-i-o-control]]"
 miller-level: 4
 optional-prerequisites: []
 parent-skill: "[[skills/computing/hardware-embedded/embedded-systems/embedded-system-creation/embedded-system-creation|embedded-system-creation]]"
@@ -32,7 +33,7 @@ Formulate and construct a complete embedded system, integrating bare-bone RTOS f
 
 ## Strict Prerequisites
 
-- [[skills/computing/hardware-embedded/embedded-programming/avr-peripheral-programming/competencies/L2-avr-i-o-control|L3- AVR I/O Control]]
+- [[L2-avr-i-o-control|L3- AVR I/O Control]]
 - [[skills/computing/hardware-embedded/embedded-systems/embedded-system-interfacing/competencies/L3-protocol-justification|L5- Protocol Justification]]
 - [[skills/computing/hardware-embedded/electronics/circuit-prototyping/competencies/L3-prototyping-comparison|L5- Prototyping Comparison]]
 - [[skills/computing/hardware-embedded/electronics/pcb-design/competencies/L2-create-basic-pcb-layout|L3- Create Basic PCB Layout]]

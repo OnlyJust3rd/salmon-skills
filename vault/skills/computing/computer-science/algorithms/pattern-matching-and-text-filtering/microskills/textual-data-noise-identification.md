@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Textual Data Noise Identification"
 tags:
   - "cpe"

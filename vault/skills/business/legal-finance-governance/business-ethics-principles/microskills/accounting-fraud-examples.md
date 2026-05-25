@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Accounting Fraud Examples"
 tags:
   - "cpe"

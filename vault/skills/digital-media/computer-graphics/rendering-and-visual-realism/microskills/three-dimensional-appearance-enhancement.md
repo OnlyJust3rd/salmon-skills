@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Three-Dimensional Appearance Enhancement"
 tags:
   - "cpe"

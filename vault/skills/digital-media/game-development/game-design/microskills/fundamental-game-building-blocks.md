@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fundamental Game Building Blocks"
 tags:
   - "cpe"

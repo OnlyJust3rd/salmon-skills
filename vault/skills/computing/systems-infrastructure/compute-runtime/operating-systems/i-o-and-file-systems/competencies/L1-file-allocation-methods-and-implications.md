@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- File Allocation Methods and Implications"
 tags:
   - "cpe"

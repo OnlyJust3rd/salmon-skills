@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "In-compression Encryption"
 tags:
   - "cpe"

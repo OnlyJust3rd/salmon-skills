@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Implement Cron Jobs for Automation"
 tags:
   - "cpe"

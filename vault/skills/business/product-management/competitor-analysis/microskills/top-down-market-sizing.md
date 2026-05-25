@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Top-Down Market Sizing"
 tags:
   - "cpe"

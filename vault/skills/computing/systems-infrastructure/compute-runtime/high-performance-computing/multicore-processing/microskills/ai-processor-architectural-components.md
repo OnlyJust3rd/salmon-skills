@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AI Processor Architectural Components"
 tags:
   - "cpe"

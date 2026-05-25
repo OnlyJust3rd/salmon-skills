@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Pipeline Stall Reasoning"
 tags:
   - "cpe"

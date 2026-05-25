@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "IoT Security and Privacy"
 tags:
   - "cpe"

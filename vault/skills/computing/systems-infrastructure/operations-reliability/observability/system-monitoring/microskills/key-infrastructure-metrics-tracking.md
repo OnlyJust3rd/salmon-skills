@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Key Infrastructure Metrics Tracking"
 tags:
   - "cpe"

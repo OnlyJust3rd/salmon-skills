@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Embedded System Communication Interfaces"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Non-Competition Clause Scenario Application"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Matrix addition conditions"
 tags:
   - "cpe"

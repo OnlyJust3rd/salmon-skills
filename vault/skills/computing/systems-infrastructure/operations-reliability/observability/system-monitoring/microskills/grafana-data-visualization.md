@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Grafana Data Visualization"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Schematic Entry in Tinkercad"
 tags:
   - "cpe"

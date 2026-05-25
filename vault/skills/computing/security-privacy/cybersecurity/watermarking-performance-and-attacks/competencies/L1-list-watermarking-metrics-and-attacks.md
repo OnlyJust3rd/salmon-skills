@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- List Watermarking Metrics and Attacks"
 tags:
   - "cpe"

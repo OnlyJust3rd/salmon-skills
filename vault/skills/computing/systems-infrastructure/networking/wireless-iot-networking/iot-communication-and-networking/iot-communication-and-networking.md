@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "IoT Communication and Networking"
 tags:
   - "cpe"

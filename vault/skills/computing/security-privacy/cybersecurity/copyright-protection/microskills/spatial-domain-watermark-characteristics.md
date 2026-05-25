@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Spatial Domain Watermark Characteristics"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Secure Communication Protocols (TLS)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Objective Watermarking Metrics"
 tags:
   - "cpe"

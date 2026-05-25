@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Configure Cloud Network Components"
 tags:
   - "cpe"

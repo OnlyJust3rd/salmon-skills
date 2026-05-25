@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Layered Server and HTTP API Responsibilities"
 tags:
   - "cpe"

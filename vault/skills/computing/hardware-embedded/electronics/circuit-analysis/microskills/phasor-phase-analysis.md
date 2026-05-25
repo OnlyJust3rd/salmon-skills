@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Phasor Phase Analysis"
 tags:
   - "cpe"

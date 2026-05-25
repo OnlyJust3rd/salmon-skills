@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Alternative Solution Identification"
 tags:
   - "cpe"

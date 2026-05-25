@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Change Management Principles"
 tags:
   - "cpe"

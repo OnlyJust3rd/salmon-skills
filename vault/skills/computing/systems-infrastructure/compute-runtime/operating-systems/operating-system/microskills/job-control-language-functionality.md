@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Job Control Language Functionality"
 tags:
   - "cpe"

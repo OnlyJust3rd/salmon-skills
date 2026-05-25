@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Non-diagonalizable matrices"
 tags:
   - "cpe"

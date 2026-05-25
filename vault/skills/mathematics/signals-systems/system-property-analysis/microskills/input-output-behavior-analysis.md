@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Input-Output Behavior Analysis"
 tags:
   - "cpe"

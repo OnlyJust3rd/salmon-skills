@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- File System Function, Abstraction, and Access Methods"
 tags:
   - "cpe"

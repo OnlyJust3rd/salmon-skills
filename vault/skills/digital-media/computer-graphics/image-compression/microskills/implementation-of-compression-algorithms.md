@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Implementation of Compression Algorithms"
 tags:
   - "cpe"

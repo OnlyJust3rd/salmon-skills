@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Relationship between A, P, and D"
 tags:
   - "cpe"

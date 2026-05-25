@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Build Cache Utilization"
 tags:
   - "cpe"

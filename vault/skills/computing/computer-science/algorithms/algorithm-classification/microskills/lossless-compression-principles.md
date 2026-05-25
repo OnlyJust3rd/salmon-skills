@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Lossless Compression Principles"
 tags:
   - "cpe"

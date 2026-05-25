@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Key Concepts and Paradigms"
 tags:
   - "cpe"

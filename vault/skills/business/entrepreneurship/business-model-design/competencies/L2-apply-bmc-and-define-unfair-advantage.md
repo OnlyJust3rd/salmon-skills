@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply BMC and Define Unfair Advantage"
 tags:
   - "cpe"

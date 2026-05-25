@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Evolutionary Concepts in Computing"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Accurate Operation Confirmation"
 tags:
   - "cpe"

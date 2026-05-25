@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cache Write Policies"
 tags:
   - "cpe"

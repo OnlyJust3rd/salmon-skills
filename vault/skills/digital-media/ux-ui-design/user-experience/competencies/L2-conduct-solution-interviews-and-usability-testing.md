@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Conduct Solution Interviews and Usability Testing
 tags:
   - cpe

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply YAML for Kubernetes"
 tags:
   - "cpe"

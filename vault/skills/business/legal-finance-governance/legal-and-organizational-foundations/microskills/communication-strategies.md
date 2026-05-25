@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Communication Strategies"
 tags:
   - "cpe"

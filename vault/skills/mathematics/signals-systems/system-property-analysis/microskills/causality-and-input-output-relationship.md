@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Causality and Input-Output Relationship"
 tags:
   - "cpe"

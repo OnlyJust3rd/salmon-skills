@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Identify MVP Components and Characteristics"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Enterprise Application Data Orchestration"
 tags:
   - "cpe"

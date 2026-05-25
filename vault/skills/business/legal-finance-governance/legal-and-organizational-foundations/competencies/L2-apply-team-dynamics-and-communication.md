@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Team Dynamics and Communication"
 tags:
   - "cpe"

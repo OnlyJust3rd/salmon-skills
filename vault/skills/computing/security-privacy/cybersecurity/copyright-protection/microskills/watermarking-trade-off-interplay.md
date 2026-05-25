@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Watermarking Trade-off Interplay"
 tags:
   - "cpe"

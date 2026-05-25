@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "ROM Family Differences"
 tags:
   - "cpe"

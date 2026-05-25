@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "Tailor XP Practices for Team Feedback"
 tags:
   - "competency"

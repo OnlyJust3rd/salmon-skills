@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Function value approximation using Maclaurin series"
 tags:
   - "cpe"

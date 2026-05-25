@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Resource Requests and Limits"
 tags:
   - "cpe"

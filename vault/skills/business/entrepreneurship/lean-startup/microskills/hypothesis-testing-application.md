@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hypothesis Testing Application"
 tags:
   - "cpe"

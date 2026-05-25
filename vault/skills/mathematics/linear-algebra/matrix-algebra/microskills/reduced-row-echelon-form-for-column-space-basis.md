@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Reduced row echelon form for column space basis"
 tags:
   - "cpe"

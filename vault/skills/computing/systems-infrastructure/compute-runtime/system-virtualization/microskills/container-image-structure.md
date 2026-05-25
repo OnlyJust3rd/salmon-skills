@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Container Image Structure"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linearization (tangent line approximation)"
 tags:
   - "cpe"

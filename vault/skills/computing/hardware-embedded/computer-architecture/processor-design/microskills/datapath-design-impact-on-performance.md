@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Datapath Design Impact on Performance"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Polar curve area formulation"
 tags:
   - "cpe"

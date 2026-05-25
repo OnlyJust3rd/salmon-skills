@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Conceptual link: Mean Value Theorem and derivative"
 tags:
   - "cpe"

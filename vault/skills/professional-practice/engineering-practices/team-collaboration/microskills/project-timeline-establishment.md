@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Project Timeline Establishment"
 tags:
   - "cpe"

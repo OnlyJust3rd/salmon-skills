@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "RISC vs. CISC Architectures"
 tags:
   - "cpe"

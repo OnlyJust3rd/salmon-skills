@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Feedback-Driven Design Refinement"
 tags:
   - "cpe"

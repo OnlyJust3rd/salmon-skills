@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Scenario Elicitation"
 tags:
   - "cpe"

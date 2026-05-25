@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Invariant direction interpretation"
 tags:
   - "cpe"

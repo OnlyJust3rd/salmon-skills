@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Kruskal's Algorithm Java Implementation
 tags:
   - cpe

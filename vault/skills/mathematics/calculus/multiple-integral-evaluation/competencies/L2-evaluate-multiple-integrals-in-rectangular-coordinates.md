@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Evaluate Multiple Integrals in Rectangular Coordinates"
 tags:
   - "cpe"

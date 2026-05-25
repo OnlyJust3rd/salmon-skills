@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L4- Analyze IoT Communication Technologies"
+type: competency
+icon: LiGoal
+title: L4- Analyze IoT Communication Technologies
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-foundations-and-components|L1-explain-iot-foundations-and-components]]"
+  - "[[L1-explain-iot-foundations-and-components|L1-explain-iot-foundations-and-components]]"
 miller-level: 3
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/networking/wireless-iot-networking/iot-communication-and-networking/iot-communication-and-networking|iot-communication-and-networking]]"
@@ -28,7 +29,7 @@ Analyze and differentiate the characteristics, suitability, and application scen
 
 ## Strict Prerequisites
 
-- [[skills/computing/hardware-embedded/robotics-iot/internet-of-things/competencies/L1-explain-iot-foundations-and-components|L2- Explain IoT Foundations and Components]]
+- [[L1-explain-iot-foundations-and-components|L2- Explain IoT Foundations and Components]]
 
 ## Optional Prerequisites
 

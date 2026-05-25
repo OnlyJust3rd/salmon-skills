@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cron Job Syntax"
 tags:
   - "cpe"

@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L2- Explain Technical Troubleshooting Methodology"
+type: competency
+icon: LiGoal
+title: L2- Explain Technical Troubleshooting Methodology
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
+  - "[[L1-explain-network-architecture-and-tcp-ip-layers|L1-explain-network-architecture-and-tcp-ip-layers]]"
   - "[[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-define-os-terms|L1-define-os-terms]]"
 miller-level: 1
 optional-prerequisites: []
@@ -29,7 +30,7 @@ Explain a structured technical troubleshooting methodology.
 ## Strict Prerequisites
 
 - [[skills/computing/systems-infrastructure/compute-runtime/operating-systems/operating-system/competencies/L1-define-os-terms|L1- Define OS Terms]]
-- [[skills/computing/systems-infrastructure/networking/network-foundations/computer-network-architecture/competencies/L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
+- [[L1-explain-network-architecture-and-tcp-ip-layers|L2- Explain Network Architecture and TCP/IP Layers]]
 
 ## Optional Prerequisites
 

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Signal Distortion Analysis"
 tags:
   - "cpe"

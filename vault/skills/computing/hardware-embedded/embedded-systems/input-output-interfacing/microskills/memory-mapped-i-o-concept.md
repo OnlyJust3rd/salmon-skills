@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Memory-Mapped I/O Concept"
 tags:
   - "cpe"

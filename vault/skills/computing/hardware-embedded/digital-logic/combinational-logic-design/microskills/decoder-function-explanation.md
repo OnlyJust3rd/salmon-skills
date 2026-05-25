@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Decoder Function Explanation"
 tags:
   - "cpe"

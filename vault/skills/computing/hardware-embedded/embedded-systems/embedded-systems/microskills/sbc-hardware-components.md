@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SBC Hardware Components"
 tags:
   - "cpe"

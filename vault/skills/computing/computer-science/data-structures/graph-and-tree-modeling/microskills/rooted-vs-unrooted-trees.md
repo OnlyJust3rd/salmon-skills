@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rooted vs. Unrooted Trees"
 tags:
   - "cpe"

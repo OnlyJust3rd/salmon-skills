@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Data Representation Differences (Huffman vs. DPCM)"
 tags:
   - "cpe"

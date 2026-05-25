@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "General L'Hôpital's rule process"
 tags:
   - "cpe"

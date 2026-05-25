@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "First Normal Form (1NF)"
 tags:
   - "cpe"

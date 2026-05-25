@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Problem Type Algorithm Implementation
 tags:
   - cpe

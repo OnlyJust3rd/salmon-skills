@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Define Measurement Tool Functions and Units"
 tags:
   - "cpe"

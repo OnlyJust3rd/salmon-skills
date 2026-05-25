@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cascade and inheritance"
 tags:
   - "cpe"

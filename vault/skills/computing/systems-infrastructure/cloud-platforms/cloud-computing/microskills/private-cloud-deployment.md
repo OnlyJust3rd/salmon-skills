@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Private Cloud Deployment"
 tags:
   - "cpe"

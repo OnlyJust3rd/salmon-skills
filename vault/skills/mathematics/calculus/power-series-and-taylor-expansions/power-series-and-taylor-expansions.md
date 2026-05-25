@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Power Series and Taylor Expansions"
 tags:
   - "cpe"

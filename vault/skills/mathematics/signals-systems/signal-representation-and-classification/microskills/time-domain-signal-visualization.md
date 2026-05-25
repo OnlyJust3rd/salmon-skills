@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Time Domain Signal Visualization"
 tags:
   - "cpe"

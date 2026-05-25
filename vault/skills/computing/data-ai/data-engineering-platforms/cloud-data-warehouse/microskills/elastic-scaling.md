@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Elastic Scaling"
 tags:
   - "cpe"

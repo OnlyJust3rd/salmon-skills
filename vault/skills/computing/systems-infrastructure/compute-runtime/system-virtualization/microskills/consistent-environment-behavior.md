@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Consistent Environment Behavior"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Prototype Development Execution"
 tags:
   - "cpe"

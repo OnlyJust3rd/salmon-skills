@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Motion Estimation and Compensation"
 tags:
   - "cpe"

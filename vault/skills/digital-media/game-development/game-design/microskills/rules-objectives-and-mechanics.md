@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rules, Objectives, and Mechanics"
 tags:
   - "cpe"

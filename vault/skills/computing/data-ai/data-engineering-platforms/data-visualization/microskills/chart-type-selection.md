@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Chart Type Selection"
 tags:
   - "cpe"

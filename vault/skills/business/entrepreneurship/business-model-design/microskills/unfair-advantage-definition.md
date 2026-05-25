@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Unfair Advantage Definition"
 tags:
   - "cpe"

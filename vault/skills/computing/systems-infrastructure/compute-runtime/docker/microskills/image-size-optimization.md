@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Image Size Optimization"
 tags:
   - "cpe"

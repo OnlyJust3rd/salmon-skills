@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Compression Principles and List Algorithms"
 tags:
   - "cpe"

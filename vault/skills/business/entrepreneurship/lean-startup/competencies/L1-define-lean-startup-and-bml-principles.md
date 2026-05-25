@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Define Lean Startup and BML Principles"
 tags:
   - "cpe"

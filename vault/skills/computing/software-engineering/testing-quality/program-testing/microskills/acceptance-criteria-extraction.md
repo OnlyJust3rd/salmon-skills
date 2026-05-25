@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Acceptance criteria extraction"
 tags:
   - "cpe"

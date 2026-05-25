@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Space Complexity Basics"
 tags:
   - "cpe"

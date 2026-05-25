@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Platform Engineering"
 tags:
   - "cpe"

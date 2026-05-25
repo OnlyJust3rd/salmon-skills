@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Digital Ciphering Process Steps"
 tags:
   - "cpe"

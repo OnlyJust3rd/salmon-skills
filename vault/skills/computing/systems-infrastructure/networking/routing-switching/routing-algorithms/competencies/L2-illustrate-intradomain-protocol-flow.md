@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Illustrate intradomain protocol flow"
 tags:
   - "cpe"

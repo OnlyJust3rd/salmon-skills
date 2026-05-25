@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Discrete-Time Signal Characteristics"
 tags:
   - "cpe"

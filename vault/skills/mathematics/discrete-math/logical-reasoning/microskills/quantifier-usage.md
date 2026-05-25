@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Quantifier Usage"
 tags:
   - "cpe"

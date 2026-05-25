@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Sufficient conditions for diagonalization"
 tags:
   - "cpe"

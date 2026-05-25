@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L5- Evaluate Rendering Quality"
 tags:
   - "cpe"

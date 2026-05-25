@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Polar limits of integration determination"
 tags:
   - "cpe"

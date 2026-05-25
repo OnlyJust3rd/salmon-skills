@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Combined Effect of Block Cipher Operations"
 tags:
   - "cpe"

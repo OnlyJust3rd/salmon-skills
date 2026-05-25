@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "System Resource Allocation"
 tags:
   - "cpe"

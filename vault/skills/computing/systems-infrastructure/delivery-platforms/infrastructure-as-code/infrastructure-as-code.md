@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Infrastructure as Code"
 tags:
   - "cpe"

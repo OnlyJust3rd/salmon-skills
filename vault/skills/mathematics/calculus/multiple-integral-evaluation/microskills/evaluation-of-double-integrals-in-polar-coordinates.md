@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Evaluation of double integrals in polar coordinates"
 tags:
   - "cpe"

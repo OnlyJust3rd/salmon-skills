@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MATLAB Image Import"
 tags:
   - "cpe"

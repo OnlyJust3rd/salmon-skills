@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "File Attributes and Ownership"
 tags:
   - "cpe"

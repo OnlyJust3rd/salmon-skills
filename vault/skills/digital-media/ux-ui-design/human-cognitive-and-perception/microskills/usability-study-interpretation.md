@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Usability Study Interpretation
 tags:
   - cpe

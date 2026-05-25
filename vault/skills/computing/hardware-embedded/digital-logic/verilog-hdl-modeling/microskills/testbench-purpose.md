@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Testbench Purpose"
 tags:
   - "cpe"

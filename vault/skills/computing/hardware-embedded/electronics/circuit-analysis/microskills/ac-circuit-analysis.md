@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AC Circuit Analysis"
 tags:
   - "cpe"

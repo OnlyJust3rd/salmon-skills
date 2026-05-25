@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Two's Complement Representation"
 tags:
   - "cpe"

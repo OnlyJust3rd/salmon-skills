@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Data scientist roles and contributions"
 tags:
   - "cpe"

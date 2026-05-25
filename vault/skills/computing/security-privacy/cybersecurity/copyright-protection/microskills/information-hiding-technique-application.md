@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Information Hiding Technique Application"
 tags:
   - "cpe"

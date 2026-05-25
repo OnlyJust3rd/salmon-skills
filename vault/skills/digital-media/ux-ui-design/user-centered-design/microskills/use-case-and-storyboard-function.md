@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Use Case and Storyboard Function
 tags:
   - cpe

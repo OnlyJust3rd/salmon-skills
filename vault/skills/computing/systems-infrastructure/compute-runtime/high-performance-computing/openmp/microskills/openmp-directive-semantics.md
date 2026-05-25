@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "OpenMP Directive Semantics"
 tags:
   - "cpe"

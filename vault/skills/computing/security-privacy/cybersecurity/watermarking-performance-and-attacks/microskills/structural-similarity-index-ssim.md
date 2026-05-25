@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Structural Similarity Index (SSIM)"
 tags:
   - "cpe"

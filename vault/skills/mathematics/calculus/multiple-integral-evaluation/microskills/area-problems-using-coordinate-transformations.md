@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Area problems using coordinate transformations"
 tags:
   - "cpe"

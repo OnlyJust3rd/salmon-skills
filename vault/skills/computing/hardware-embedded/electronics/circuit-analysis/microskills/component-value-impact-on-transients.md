@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Component-Value Impact on Transients"
 tags:
   - "cpe"

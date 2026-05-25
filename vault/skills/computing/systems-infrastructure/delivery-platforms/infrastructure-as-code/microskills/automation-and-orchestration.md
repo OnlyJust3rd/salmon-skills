@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Automation and Orchestration"
 tags:
   - "cpe"

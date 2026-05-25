@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Modular Arithmetic Definition"
 tags:
   - "cpe"

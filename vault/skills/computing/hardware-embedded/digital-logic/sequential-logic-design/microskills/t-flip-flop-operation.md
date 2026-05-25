@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "T Flip-Flop Operation"
 tags:
   - "cpe"

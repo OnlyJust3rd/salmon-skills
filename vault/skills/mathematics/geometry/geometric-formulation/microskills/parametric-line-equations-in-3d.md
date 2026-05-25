@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parametric line equations in 3D"
 tags:
   - "cpe"

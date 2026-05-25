@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IPSec Transport Mode Cryptography"
 tags:
   - "cpe"

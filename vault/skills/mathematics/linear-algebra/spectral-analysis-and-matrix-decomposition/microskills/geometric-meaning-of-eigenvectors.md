@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Geometric meaning of eigenvectors"
 tags:
   - "cpe"

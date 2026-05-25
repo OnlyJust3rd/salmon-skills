@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Industrial Applications of Computing"
 tags:
   - "cpe"

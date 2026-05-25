@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interconnectedness of Number Theory Concepts"
 tags:
   - "cpe"

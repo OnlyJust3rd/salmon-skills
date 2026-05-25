@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Derived Datatype Implementation"
 tags:
   - "cpe"

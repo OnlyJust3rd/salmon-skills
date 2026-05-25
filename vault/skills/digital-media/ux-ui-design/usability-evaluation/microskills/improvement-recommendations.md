@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Improvement Recommendations
 tags:
   - cpe

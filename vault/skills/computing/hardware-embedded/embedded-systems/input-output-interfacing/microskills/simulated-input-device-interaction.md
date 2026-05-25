@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simulated Input Device Interaction"
 tags:
   - "cpe"

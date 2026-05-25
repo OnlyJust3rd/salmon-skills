@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "External Information Retrieval"
 tags:
   - "cpe"

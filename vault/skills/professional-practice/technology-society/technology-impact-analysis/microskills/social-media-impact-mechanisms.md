@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Social Media Impact Mechanisms"
 tags:
   - "cpe"

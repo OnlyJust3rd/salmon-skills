@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JSON object and array structure"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Dynamic Programming Approaches"
 tags:
   - "cpe"

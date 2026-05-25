@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Sketching Design Alternatives
 tags:
   - cpe

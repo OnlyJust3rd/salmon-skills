@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Measurement Discrepancy Analysis"
 tags:
   - "cpe"

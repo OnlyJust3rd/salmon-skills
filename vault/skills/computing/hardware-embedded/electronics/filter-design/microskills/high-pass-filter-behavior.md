@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "High-Pass Filter Behavior"
 tags:
   - "cpe"

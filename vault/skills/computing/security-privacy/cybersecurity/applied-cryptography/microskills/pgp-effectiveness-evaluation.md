@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "PGP Effectiveness Evaluation"
 tags:
   - "cpe"

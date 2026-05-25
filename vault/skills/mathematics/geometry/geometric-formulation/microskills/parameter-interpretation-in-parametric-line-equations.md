@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parameter interpretation in parametric line equations"
 tags:
   - "cpe"

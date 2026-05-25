@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Set Theory Modeling"
 tags:
   - "cpe"

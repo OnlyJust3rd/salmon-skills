@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Layout with flexbox or grid"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Physical Connection Checking"
 tags:
   - "cpe"

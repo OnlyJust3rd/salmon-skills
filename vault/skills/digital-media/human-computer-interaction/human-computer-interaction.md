@@ -1,5 +1,6 @@
 ---
 type: skill
+icon: "LiZap"
 title: Human-Computer Interaction
 tags:
   - cpe

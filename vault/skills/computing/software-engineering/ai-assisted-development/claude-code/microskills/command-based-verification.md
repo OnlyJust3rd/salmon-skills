@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Command-Based Verification"
 tags:
   - "cpe"

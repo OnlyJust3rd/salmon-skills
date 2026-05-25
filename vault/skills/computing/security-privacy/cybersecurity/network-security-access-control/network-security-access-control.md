@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Network Security Access Control"
 tags:
   - "cpe"

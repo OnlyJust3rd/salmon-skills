@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kerberos Cryptography Role"
 tags:
   - "cpe"

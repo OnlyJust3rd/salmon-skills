@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Karnaugh Map Construction"
 tags:
   - "cpe"

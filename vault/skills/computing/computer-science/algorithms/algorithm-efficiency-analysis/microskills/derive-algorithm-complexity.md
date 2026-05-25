@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Derive Algorithm Complexity"
 tags:
   - "cpe"

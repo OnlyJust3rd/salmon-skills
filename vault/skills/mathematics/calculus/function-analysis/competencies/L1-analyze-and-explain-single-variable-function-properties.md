@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Analyze and Explain Single-Variable Function Properties"
 tags:
   - "cpe"

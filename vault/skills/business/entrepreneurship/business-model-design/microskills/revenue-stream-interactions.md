@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Revenue Stream Interactions"
 tags:
   - "cpe"

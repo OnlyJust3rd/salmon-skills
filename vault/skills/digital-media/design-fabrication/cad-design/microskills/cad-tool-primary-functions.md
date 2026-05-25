@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CAD Tool Primary Functions"
 tags:
   - "cpe"

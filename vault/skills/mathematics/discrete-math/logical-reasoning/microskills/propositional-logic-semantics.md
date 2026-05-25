@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Propositional Logic Semantics"
 tags:
   - "cpe"

@@ -1,12 +1,13 @@
 ---
-type: "competency"
-title: "L2- Explain Browser and Server Roles in Web Applications"
+type: competency
+icon: LiGoal
+title: L2- Explain Browser and Server Roles in Web Applications
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/computer-science/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1-define-computational-problem-solving]]"
-  - "[[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/competencies/L1-list-and-define-application-protocols|L1-list-and-define-application-protocols]]"
+  - "[[L1-list-and-define-application-protocols|L1-list-and-define-application-protocols]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/software-engineering/frontend-development/web-application-concept/web-application-concept|web-application-concept]]"
@@ -29,7 +30,7 @@ Explain the roles of browsers and servers in web applications, including HTTP re
 ## Strict Prerequisites
 
 - [[skills/computing/computer-science/algorithms/computational-problem-solving/competencies/L1-define-computational-problem-solving|L1- Define Computational Problem Solving]]
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/application-layer/competencies/L1-list-and-define-application-protocols|L1- List and define application protocols]]
+- [[L1-list-and-define-application-protocols|L1- List and define application protocols]]
 
 ## Optional Prerequisites
 

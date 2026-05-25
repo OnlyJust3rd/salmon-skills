@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "JPEG Progressive Mode Operation"
 tags:
   - "cpe"

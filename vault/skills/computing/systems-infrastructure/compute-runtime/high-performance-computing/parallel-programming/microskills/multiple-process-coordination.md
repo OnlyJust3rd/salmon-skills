@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multiple Process Coordination"
 tags:
   - "cpe"

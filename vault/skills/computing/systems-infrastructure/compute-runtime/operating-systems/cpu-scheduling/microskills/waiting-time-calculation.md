@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Waiting Time Calculation"
 tags:
   - "cpe"

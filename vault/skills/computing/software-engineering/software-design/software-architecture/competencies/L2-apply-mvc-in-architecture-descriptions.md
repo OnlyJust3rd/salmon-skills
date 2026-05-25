@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply MVC in Architecture Descriptions"
 tags:
   - "cpe"

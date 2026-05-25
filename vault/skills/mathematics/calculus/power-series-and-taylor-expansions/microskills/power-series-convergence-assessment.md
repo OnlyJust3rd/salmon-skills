@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Power series convergence assessment"
 tags:
   - "cpe"

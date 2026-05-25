@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Depth Perception Cues"
 tags:
   - "cpe"

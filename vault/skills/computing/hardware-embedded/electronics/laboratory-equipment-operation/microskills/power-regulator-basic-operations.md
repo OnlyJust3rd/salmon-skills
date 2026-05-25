@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Power Regulator Basic Operations"
 tags:
   - "cpe"

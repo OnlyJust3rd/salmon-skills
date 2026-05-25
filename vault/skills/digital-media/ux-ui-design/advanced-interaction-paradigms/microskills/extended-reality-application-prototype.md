@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Extended Reality Application Prototype
 tags:
   - cpe

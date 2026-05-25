@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Prometheus Core Components"
 tags:
   - "cpe"

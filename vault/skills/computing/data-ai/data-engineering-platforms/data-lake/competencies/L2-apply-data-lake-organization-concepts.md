@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Data Lake Organization Concepts"
 tags:
   - "cpe"

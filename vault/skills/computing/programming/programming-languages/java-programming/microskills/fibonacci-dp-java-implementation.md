@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Fibonacci DP Java Implementation
 tags:
   - cpe

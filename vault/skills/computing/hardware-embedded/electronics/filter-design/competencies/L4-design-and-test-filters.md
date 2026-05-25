@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L6- Design and test filters"
 tags:
   - "cpe"

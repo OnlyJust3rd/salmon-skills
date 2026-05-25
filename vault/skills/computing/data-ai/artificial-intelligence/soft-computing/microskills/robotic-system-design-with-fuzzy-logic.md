@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Robotic System Design with Fuzzy Logic"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Hadoop Batch Processing Concepts"
 tags:
   - "cpe"

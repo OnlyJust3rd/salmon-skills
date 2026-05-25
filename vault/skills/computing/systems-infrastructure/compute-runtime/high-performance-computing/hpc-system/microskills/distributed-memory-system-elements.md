@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Distributed-Memory System Elements"
 tags:
   - "cpe"

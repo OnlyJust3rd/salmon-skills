@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Cloud Data Warehouse"
 tags:
   - "cpe"

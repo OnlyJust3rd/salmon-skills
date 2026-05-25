@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "BML for Feature Prioritization"
 tags:
   - "cpe"

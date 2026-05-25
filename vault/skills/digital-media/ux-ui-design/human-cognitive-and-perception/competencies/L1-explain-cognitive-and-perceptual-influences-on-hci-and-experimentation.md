@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L2- Explain Cognitive and Perceptual Influences on HCI and Experimentation
 tags:
   - cpe

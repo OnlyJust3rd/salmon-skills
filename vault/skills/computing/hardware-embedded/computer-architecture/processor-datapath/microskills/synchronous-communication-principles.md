@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Synchronous Communication Principles"
 tags:
   - "cpe"

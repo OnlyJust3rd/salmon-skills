@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Logic Expression Simplification"
 tags:
   - "cpe"

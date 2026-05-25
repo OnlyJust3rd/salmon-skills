@@ -1,12 +1,13 @@
 ---
-type: "competency"
-title: "L4- Analyze congestion control impact"
+type: competency
+icon: LiGoal
+title: L4- Analyze congestion control impact
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
   - "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics|L2-identify-define-and-calculate-performance-metrics]]"
-  - "[[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/competencies/L3-tcp-vs-udp-for-performance|L3-tcp-vs-udp-for-performance]]"
+  - "[[L3-tcp-vs-udp-for-performance|L3-tcp-vs-udp-for-performance]]"
 miller-level: 3
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/network-performance|network-performance]]"
@@ -31,7 +32,7 @@ Analyze the impact of different congestion control mechanisms on network through
 ## Strict Prerequisites
 
 - [[skills/computing/systems-infrastructure/networking/network-management-performance/network-performance/competencies/L2-identify-define-and-calculate-performance-metrics|L3- Identify, define, and calculate performance metrics]]
-- [[skills/computing/systems-infrastructure/networking/transport-application-networking/transport-layer/competencies/L3-tcp-vs-udp-for-performance|L4- TCP vs UDP for Performance]]
+- [[L3-tcp-vs-udp-for-performance|L4- TCP vs UDP for Performance]]
 
 ## Optional Prerequisites
 

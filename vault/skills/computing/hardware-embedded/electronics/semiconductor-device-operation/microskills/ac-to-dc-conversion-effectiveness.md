@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AC to DC Conversion Effectiveness"
 tags:
   - "cpe"

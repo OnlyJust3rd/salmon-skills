@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SSL/TLS Cryptographic Implementation"
 tags:
   - "cpe"

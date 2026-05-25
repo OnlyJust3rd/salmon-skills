@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IDEA Operations Analysis"
 tags:
   - "cpe"

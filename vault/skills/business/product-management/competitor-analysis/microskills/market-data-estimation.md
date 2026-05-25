@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Market Data Estimation"
 tags:
   - "cpe"

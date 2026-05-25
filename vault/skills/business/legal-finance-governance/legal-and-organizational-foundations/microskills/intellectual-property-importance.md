@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Intellectual Property Importance"
 tags:
   - "cpe"

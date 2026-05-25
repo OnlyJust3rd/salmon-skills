@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Apply Game UI Flow and HUD Concepts
 tags:
   - cpe

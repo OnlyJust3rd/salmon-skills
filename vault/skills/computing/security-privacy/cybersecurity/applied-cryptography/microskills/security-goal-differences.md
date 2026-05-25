@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Security Goal Differences"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Contextual Analysis"
 tags:
   - "cpe"

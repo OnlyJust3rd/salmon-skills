@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Amdahl's Law Principles"
 tags:
   - "cpe"

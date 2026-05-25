@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Point Processing Techniques"
 tags:
   - "cpe"

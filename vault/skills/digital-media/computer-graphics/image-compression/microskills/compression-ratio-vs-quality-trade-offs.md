@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Compression Ratio vs. Quality Trade-offs"
 tags:
   - "cpe"

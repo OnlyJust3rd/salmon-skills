@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "International Taxable Income Criteria"
 tags:
   - "cpe"

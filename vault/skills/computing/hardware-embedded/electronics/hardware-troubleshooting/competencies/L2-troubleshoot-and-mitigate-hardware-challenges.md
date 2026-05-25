@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Troubleshoot and mitigate hardware challenges"
 tags:
   - "cpe"

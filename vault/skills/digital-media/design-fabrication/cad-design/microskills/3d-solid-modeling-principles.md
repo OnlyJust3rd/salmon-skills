@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "3D Solid Modeling Principles"
 tags:
   - "cpe"

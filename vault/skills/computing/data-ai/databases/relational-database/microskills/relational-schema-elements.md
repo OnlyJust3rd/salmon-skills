@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Relational Schema Elements"
 tags:
   - "cpe"

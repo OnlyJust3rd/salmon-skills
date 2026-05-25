@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Solution Interview Execution
 tags:
   - cpe

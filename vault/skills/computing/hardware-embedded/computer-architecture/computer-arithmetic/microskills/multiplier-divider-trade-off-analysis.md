@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multiplier/Divider Trade-off Analysis"
 tags:
   - "cpe"

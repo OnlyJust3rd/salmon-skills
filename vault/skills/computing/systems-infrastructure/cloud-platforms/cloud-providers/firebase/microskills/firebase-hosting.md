@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Firebase Hosting"
 tags:
   - "cpe"

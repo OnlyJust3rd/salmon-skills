@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Control Unit Trade-off Reasoning"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Induction proofs for divisibility"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Properties and Concept of Fourier Series"
 tags:
   - "cpe"

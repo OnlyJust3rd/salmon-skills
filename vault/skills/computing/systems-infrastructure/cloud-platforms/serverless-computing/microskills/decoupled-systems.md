@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Decoupled Systems"
 tags:
   - "cpe"

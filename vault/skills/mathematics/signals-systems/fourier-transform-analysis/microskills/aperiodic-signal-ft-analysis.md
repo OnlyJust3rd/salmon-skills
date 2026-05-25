@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Aperiodic Signal FT Analysis"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain SaaS Architecture Concepts"
 tags:
   - "cpe"

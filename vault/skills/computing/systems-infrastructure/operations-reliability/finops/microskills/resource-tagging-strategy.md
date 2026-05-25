@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Resource Tagging Strategy"
 tags:
   - "cpe"

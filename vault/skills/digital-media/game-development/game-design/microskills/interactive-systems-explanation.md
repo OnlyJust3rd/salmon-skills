@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interactive Systems Explanation"
 tags:
   - "cpe"

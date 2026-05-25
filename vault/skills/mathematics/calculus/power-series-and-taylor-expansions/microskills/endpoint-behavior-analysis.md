@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Endpoint behavior analysis"
 tags:
   - "cpe"

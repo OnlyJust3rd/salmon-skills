@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Jacobian for polar transformation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Multivariable function continuity conditions"
 tags:
   - "cpe"

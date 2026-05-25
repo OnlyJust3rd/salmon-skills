@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L4- Ideal vs Non-ideal Diode Analysis"
 tags:
   - "cpe"

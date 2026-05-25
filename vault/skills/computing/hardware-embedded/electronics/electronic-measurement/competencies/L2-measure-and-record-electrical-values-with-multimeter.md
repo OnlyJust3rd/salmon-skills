@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Measure and Record Electrical Values with Multimeter"
 tags:
   - "cpe"

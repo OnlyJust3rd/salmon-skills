@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "Explain Agile Values and Principles"
 tags:
   - "competency"

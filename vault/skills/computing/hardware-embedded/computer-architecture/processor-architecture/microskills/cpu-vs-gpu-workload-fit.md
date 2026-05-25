@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "CPU vs GPU Workload Fit"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Line-plane intersection analysis"
 tags:
   - "cpe"

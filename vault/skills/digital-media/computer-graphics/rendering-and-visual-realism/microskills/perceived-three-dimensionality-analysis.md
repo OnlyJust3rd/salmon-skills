@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Perceived Three-Dimensionality Analysis"
 tags:
   - "cpe"

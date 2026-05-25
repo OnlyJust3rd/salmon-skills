@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Configure Serverless Function Triggers"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "False Advertising Examples"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Graph/Tree Properties"
 tags:
   - "cpe"

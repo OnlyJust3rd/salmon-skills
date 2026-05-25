@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Kernel basis derivation"
 tags:
   - "cpe"

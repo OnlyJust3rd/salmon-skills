@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Software Version Control"
 tags:
   - "cpe"

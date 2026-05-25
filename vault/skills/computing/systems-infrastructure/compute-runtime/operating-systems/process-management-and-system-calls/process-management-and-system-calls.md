@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Process Management and System Calls"
 tags:
   - "cpe"

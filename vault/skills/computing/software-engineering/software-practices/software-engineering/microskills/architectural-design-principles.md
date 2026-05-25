@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Architectural Design Principles"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Container Stop Operations"
 tags:
   - "cpe"

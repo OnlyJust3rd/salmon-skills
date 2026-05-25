@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Homogeneous System Fundamentals"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Geometric Interpretation of Line and Plane Parameters"
 tags:
   - "cpe"

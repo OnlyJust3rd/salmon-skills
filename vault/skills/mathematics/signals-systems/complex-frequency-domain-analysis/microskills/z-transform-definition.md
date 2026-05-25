@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Z-transform Definition"
 tags:
   - "cpe"

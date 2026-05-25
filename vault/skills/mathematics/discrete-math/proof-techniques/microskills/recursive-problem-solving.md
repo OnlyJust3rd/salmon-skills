@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Recursive Problem Solving"
 tags:
   - "cpe"

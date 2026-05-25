@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Timer/Counter Capabilities"
 tags:
   - "cpe"

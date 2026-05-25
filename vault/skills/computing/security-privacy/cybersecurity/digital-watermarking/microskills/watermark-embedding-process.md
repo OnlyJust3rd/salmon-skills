@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Watermark Embedding Process"
 tags:
   - "cpe"

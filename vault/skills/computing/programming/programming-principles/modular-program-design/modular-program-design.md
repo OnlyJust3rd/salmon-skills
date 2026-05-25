@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Modular Program Design"
 tags:
   - "cpe"

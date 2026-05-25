@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Related rates problem steps"
 tags:
   - "cpe"

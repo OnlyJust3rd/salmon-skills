@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Datapath Operation Tracing"
 tags:
   - "cpe"

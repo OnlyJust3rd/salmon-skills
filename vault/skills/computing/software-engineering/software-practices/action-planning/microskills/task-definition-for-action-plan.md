@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Task definition for action plan"
 tags:
   - "cpe"

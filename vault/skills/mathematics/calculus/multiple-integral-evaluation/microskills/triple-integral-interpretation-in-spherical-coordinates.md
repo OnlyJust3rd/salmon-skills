@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Triple integral interpretation in spherical coordinates"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Preorder Tree Traversal Java Implementation
 tags:
   - cpe

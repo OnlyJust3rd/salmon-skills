@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Benefits and Structures of Modularity"
 tags:
   - "cpe"

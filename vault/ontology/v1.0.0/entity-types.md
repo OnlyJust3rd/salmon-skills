@@ -64,6 +64,7 @@ Use for the main note inside each leaf skill folder.
 Required properties:
 
 - `type`
+- `icon`
 - `title`
 - `tags`
 - `contributors`
@@ -85,6 +86,7 @@ Use for assessable learning outcomes under a skill.
 Required properties:
 
 - `type`
+- `icon`
 - `title`
 - `tags`
 - `strict-prerequisites`
@@ -110,6 +112,7 @@ Use for atomic knowledge, technique, or behavior notes under a skill.
 Required properties:
 
 - `type`
+- `icon`
 - `title`
 - `tags`
 - `parent-skill`
@@ -133,6 +136,7 @@ Use for learning content artifacts such as generated explanations, examples, exe
 Required properties:
 
 - `type`
+- `icon`
 - `title`
 - `tags`
 - `contributor`
@@ -146,6 +150,17 @@ Use for people or agents who contributed to graph notes.
 Required properties:
 
 - `type`
+- `title`
+- `tags`
+
+## `waypoint`
+
+Use for Obsidian Waypoint folder notes that provide navigation for content and taxonomy folders.
+
+Required properties:
+
+- `type`
+- `icon`
 - `title`
 - `tags`
 

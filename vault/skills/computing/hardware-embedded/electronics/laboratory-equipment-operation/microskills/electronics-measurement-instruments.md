@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Electronics Measurement Instruments"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Workflow Visualization"
 tags:
   - "microskill"

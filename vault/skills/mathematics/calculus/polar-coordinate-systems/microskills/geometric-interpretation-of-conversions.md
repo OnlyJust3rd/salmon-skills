@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Geometric interpretation of conversions"
 tags:
   - "cpe"

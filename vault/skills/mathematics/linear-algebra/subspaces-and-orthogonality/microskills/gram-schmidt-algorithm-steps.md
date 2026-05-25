@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Gram-Schmidt algorithm steps"
 tags:
   - "cpe"

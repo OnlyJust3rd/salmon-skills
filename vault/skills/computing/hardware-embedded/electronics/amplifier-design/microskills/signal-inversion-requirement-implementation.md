@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Signal Inversion Requirement Implementation"
 tags:
   - "cpe"

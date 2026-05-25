@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Task-Oriented Coding Agent"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Frame Types (I, P, B)"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Lossless vs. Lossy Compression Analysis"
 tags:
   - "cpe"

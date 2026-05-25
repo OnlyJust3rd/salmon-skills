@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rolle's Theorem applicability conditions"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Intermediate Value Theorem core concept"
 tags:
   - "cpe"

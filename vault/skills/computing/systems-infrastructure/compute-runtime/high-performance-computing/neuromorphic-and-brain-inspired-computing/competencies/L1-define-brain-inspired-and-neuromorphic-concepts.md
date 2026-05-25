@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L1- Define Brain-Inspired and Neuromorphic Concepts"
+type: competency
+icon: LiGoal
+title: L1- Define Brain-Inspired and Neuromorphic Concepts
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/data-ai/data-science/machine-learning/competencies/L1-explain-basic-ml-models|L1-explain-basic-ml-models]]"
+  - "[[L1-explain-basic-ml-models|L1-explain-basic-ml-models]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/systems-infrastructure/compute-runtime/high-performance-computing/neuromorphic-and-brain-inspired-computing/neuromorphic-and-brain-inspired-computing|neuromorphic-and-brain-inspired-computing]]"
@@ -27,7 +28,7 @@ Define 'General Purpose Brain-Inspired Computing Systems' and neuromorphic archi
 
 ## Strict Prerequisites
 
-- [[skills/computing/data-ai/data-science/machine-learning/competencies/L1-explain-basic-ml-models|L2- Explain Basic ML Models]]
+- [[L1-explain-basic-ml-models|L2- Explain Basic ML Models]]
 
 ## Optional Prerequisites
 

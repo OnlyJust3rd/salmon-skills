@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linearity Property Application (FS/DTFS)"
 tags:
   - "cpe"

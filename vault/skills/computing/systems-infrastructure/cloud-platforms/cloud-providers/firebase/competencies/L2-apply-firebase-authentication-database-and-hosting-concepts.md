@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Apply Firebase Authentication Database and Hosting Concepts
 tags:
   - cpe

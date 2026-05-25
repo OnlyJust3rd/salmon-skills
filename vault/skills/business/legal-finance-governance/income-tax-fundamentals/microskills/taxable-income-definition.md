@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Taxable Income Definition"
 tags:
   - "cpe"

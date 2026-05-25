@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: 0/1 Knapsack DP Java Implementation
 tags:
   - cpe

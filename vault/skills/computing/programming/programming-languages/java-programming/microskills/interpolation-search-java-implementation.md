@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Interpolation Search Java Implementation
 tags:
   - cpe

@@ -15,10 +15,10 @@ required-competencies:
   - "[[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L3-analyze-model-suitability|L3-analyze-model-suitability]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-visualization/competencies/L2-problem-solving-visualization|L2-problem-solving-visualization]]"
   - "[[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L2-execute-sql-queries]]"
-  - "[[skills/computing/data-ai/data-science/machine-learning/competencies/L2-apply-basic-ml-models|L2-apply-basic-ml-models]]"
-  - "[[skills/computing/data-ai/data-science/machine-learning/competencies/L2-implement-training-approaches|L2-implement-training-approaches]]"
-  - "[[skills/computing/data-ai/data-science/machine-learning/competencies/L2-implement-dimentionality-reduction|L2-implement-dimentionality-reduction]]"
-  - "[[skills/computing/data-ai/artificial-intelligence/deep-learning/competencies/L1-neural-network-components|L1-neural-network-components]]"
+  - "[[L2-apply-basic-ml-models|L2-apply-basic-ml-models]]"
+  - "[[L2-implement-training-approaches|L2-implement-training-approaches]]"
+  - "[[L2-implement-dimentionality-reduction|L2-implement-dimentionality-reduction]]"
+  - "[[L1-neural-network-components|L1-neural-network-components]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/apache-spark/competencies/L2-apply-spark-dataframe-transformation-concepts|L2-apply-spark-dataframe-transformation-concepts]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/data-lake/competencies/L1-explain-data-lake-storage-concepts|L1-explain-data-lake-storage-concepts]]"
   - "[[skills/computing/data-ai/data-engineering-platforms/databricks/competencies/L1-explain-databricks-lakehouse-platform-concepts|L1-explain-databricks-lakehouse-platform-concepts]]"
@@ -49,10 +49,10 @@ A Data Scientist is an entry-level information technology role focused on applyi
 - [[skills/computing/data-ai/data-engineering-platforms/data-modeling/competencies/L3-analyze-model-suitability|L4- Analyze Model Suitability]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-visualization/competencies/L2-problem-solving-visualization|L3- Problem-Solving Visualization]]
 - [[skills/computing/data-ai/databases/sql/competencies/L2-execute-sql-queries|L3- Execute SQL Queries]]
-- [[skills/computing/data-ai/data-science/machine-learning/competencies/L2-apply-basic-ml-models|L3- Apply Basic ML Models]]
-- [[skills/computing/data-ai/data-science/machine-learning/competencies/L2-implement-training-approaches|L3- Implement Training Approaches]]
-- [[skills/computing/data-ai/data-science/machine-learning/competencies/L2-implement-dimentionality-reduction|L3- Implement Dimentionality Reduction]]
-- [[skills/computing/data-ai/artificial-intelligence/deep-learning/competencies/L1-neural-network-components|L1- Neural Network Components]]
+- [[L2-apply-basic-ml-models|L3- Apply Basic ML Models]]
+- [[L2-implement-training-approaches|L3- Implement Training Approaches]]
+- [[L2-implement-dimentionality-reduction|L3- Implement Dimentionality Reduction]]
+- [[L1-neural-network-components|L1- Neural Network Components]]
 - [[skills/computing/data-ai/data-engineering-platforms/apache-spark/competencies/L2-apply-spark-dataframe-transformation-concepts|L3- Apply Spark DataFrame Transformation Concepts]]
 - [[skills/computing/data-ai/data-engineering-platforms/data-lake/competencies/L1-explain-data-lake-storage-concepts|L2- Explain Data Lake Storage Concepts]]
 - [[skills/computing/data-ai/data-engineering-platforms/databricks/competencies/L1-explain-databricks-lakehouse-platform-concepts|L2- Explain Databricks Lakehouse Platform Concepts]]

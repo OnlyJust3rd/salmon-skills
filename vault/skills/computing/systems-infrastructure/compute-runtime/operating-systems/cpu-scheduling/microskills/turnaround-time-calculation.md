@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Turnaround Time Calculation"
 tags:
   - "cpe"

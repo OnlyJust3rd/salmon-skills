@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MPP vs. Cluster vs. Vector Processor Differentiation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply GitHub Copilot Agent and Pull Request Workflow Concepts"
 tags:
   - "cpe"

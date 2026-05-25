@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Circular Wait Condition"
 tags:
   - "cpe"

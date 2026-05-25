@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Desired State Definition"
 tags:
   - "cpe"

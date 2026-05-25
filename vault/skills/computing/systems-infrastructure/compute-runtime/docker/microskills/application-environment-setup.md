@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Application Environment Setup"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Parasitic Effect Identification"
 tags:
   - "cpe"

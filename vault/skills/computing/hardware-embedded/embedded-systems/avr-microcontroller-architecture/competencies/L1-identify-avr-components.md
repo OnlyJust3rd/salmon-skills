@@ -1,11 +1,12 @@
 ---
-type: "competency"
-title: "L1- Identify AVR Components"
+type: competency
+icon: LiGoal
+title: L1- Identify AVR Components
 tags:
-  - "cpe"
-  - "competency"
+  - cpe
+  - competency
 strict-prerequisites:
-  - "[[skills/computing/hardware-embedded/embedded-programming/bare-metal-c-programming/competencies/L1-identify-bare-metal-c-constructs|L1-identify-bare-metal-c-constructs]]"
+  - "[[L1-identify-bare-metal-c-constructs|L1-identify-bare-metal-c-constructs]]"
 miller-level: 1
 optional-prerequisites: []
 parent-skill: "[[skills/computing/hardware-embedded/embedded-systems/avr-microcontroller-architecture/avr-microcontroller-architecture|avr-microcontroller-architecture]]"
@@ -28,7 +29,7 @@ Identify and define the key hardware components of an AVR microcontroller, inclu
 
 ## Strict Prerequisites
 
-- [[skills/computing/hardware-embedded/embedded-programming/bare-metal-c-programming/competencies/L1-identify-bare-metal-c-constructs|L1- Identify Bare-metal C Constructs]]
+- [[L1-identify-bare-metal-c-constructs|L1- Identify Bare-metal C Constructs]]
 
 ## Optional Prerequisites
 

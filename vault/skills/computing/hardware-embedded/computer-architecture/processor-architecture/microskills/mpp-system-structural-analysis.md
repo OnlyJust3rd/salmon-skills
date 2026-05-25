@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "MPP System Structural Analysis"
 tags:
   - "cpe"

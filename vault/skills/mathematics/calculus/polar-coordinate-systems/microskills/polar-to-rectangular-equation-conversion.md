@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Polar to rectangular equation conversion"
 tags:
   - "cpe"

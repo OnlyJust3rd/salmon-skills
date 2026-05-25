@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Organizational Structure"
 tags:
   - "cpe"

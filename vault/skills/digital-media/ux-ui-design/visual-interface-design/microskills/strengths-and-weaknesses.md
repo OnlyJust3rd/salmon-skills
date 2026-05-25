@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Strengths and Weaknesses
 tags:
   - cpe

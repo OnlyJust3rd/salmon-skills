@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "When to Use Specific Patterns"
 tags:
   - "cpe"

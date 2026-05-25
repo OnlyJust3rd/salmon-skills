@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Rendering and Visual Realism"
 tags:
   - "cpe"

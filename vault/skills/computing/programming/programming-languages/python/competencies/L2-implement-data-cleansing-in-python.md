@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Implement Data Cleansing in Python
 tags:
   - cpe

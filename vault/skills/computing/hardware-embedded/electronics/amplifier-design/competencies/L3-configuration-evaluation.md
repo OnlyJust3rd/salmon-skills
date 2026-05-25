@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L5- Configuration Evaluation"
 tags:
   - "cpe"

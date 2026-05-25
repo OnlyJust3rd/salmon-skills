@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Rectifier Circuit Construction"
 tags:
   - "cpe"

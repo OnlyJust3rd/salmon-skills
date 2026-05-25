@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Program Execution Facilitation"
 tags:
   - "cpe"

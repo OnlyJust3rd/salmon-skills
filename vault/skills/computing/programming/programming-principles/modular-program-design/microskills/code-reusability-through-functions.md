@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Code reusability through functions"
 tags:
   - "cpe"

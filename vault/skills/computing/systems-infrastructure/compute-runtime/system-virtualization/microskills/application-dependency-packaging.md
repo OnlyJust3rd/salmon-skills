@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Application Dependency Packaging"
 tags:
   - "cpe"

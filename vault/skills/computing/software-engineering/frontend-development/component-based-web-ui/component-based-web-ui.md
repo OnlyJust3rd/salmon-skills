@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Component-based Web UI"
 tags:
   - "cpe"

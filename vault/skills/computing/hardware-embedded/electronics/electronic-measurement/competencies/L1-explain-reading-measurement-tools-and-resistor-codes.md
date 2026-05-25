@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Reading Measurement Tools and Resistor Codes"
 tags:
   - "cpe"

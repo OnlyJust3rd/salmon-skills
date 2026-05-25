@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Propositional vs. Predicate Logic"
 tags:
   - "cpe"

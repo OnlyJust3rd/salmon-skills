@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Identify UML Diagram Types and Symbols"
 tags:
   - "cpe"

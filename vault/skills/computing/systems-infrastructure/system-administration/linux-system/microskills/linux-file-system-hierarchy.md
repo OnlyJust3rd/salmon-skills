@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Linux File System Hierarchy"
 tags:
   - "cpe"

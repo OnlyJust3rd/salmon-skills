@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Real-World Dataset Representation"
 tags:
   - "cpe"

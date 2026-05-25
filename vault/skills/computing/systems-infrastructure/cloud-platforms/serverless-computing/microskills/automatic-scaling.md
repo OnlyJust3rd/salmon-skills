@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Automatic Scaling"
 tags:
   - "cpe"

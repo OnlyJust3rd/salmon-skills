@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Enhancing Realism"
 tags:
   - "cpe"

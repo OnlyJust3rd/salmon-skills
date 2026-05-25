@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Implement Data Mining Workflow in Python code implementation
 tags:
   - cpe

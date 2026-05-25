@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply Visual Design for Character Communication"
 tags:
   - "cpe"

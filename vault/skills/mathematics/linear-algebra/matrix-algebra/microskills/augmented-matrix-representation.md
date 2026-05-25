@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Augmented matrix representation"
 tags:
   - "cpe"

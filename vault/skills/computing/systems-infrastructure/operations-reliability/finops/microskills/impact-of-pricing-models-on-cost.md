@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Impact of Pricing Models on Cost"
 tags:
   - "cpe"

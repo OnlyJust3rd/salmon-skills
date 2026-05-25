@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Input Data Access Techniques"
 tags:
   - "cpe"

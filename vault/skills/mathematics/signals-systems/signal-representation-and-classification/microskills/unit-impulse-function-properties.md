@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Unit Impulse Function Properties"
 tags:
   - "cpe"

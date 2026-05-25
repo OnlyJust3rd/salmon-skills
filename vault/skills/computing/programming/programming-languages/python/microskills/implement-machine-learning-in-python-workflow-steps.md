@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Implement Machine Learning in Python workflow steps
 tags:
   - cpe

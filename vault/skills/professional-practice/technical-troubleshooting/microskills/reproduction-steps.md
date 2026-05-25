@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Reproduction Steps"
 tags:
   - "cpe"

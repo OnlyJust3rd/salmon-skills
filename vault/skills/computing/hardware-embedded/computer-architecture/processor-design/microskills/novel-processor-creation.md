@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Novel Processor Creation"
 tags:
   - "cpe"

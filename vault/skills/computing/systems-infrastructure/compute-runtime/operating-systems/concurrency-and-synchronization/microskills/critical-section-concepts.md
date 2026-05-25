@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Critical Section Concepts"
 tags:
   - "cpe"

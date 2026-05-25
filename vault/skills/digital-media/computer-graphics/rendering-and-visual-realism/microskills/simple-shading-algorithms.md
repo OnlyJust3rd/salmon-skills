@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Simple Shading Algorithms"
 tags:
   - "cpe"

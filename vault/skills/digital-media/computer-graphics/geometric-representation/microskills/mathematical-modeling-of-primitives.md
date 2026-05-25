@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Mathematical Modeling of Primitives"
 tags:
   - "cpe"

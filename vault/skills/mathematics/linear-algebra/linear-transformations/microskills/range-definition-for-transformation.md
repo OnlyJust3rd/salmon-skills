@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Range definition for transformation"
 tags:
   - "cpe"

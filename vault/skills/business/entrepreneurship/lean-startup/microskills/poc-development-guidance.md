@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "PoC Development Guidance"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Common Malfunction Causes"
 tags:
   - "cpe"

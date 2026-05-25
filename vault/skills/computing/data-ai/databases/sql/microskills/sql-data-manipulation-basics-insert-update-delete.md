@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "SQL Data Manipulation Basics (INSERT, UPDATE, DELETE)"
 tags:
   - "cpe"

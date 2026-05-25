@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "File System Abstraction Purpose"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "IPSec Tunnel Mode Application"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Bellman-Ford Algorithm Java Implementation
 tags:
   - cpe

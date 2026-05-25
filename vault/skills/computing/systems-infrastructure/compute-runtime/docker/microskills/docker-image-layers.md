@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Docker Image Layers"
 tags:
   - "cpe"

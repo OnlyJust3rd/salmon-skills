@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Eigenvector computation"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "LFSR Definition Recall"
 tags:
   - "cpe"

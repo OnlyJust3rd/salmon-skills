@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Visible Watermarking Definition"
 tags:
   - "cpe"

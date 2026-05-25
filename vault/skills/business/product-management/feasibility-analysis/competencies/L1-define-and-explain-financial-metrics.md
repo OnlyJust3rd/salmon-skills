@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Define and Explain Financial Metrics"
 tags:
   - "cpe"

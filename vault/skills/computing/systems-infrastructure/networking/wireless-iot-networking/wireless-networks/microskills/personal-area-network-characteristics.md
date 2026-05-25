@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Personal Area Network Characteristics"
 tags:
   - "cpe"

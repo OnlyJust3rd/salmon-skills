@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "AI Processor vs. CPU Architectures"
 tags:
   - "cpe"

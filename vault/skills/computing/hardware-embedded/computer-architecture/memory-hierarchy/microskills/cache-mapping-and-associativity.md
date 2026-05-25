@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cache Mapping and Associativity"
 tags:
   - "cpe"

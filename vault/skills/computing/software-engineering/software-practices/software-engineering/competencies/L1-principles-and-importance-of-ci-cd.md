@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Principles and Importance of CI/CD"
 tags:
   - "cpe"

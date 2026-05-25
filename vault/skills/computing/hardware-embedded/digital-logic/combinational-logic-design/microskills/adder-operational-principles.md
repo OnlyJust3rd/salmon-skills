@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Adder Operational Principles"
 tags:
   - "cpe"

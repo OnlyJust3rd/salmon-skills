@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L5- Present Functional Project"
 tags:
   - "cpe"

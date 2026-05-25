@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "StirMark Tool Usage"
 tags:
   - "cpe"

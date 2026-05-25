@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Virtual Machine Scale Sets (VMSS)"
 tags:
   - "cpe"

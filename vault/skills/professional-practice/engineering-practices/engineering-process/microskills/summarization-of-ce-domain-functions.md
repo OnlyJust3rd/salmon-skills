@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Summarization of CE Domain Functions"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Interdomain Routing Use Cases"
 tags:
   - "cpe"

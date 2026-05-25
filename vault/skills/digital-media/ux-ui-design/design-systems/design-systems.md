@@ -1,5 +1,6 @@
 ---
 type: skill
+icon: "LiZap"
 title: Design Systems
 tags:
   - cpe

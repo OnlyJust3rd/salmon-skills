@@ -1,5 +1,6 @@
 ---
 type: microskill
+icon: "LiBoxes"
 title: Sudoku Solver Backtracking Java Implementation
 tags:
   - cpe

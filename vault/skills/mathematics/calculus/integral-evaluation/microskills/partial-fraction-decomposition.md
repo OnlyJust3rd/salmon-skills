@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Partial fraction decomposition"
 tags:
   - "cpe"

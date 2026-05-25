@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Peripheral Suitability Assessment"
 tags:
   - "cpe"

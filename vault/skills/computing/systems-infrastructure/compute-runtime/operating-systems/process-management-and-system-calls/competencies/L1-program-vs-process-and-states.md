@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Program vs Process and States"
 tags:
   - "cpe"

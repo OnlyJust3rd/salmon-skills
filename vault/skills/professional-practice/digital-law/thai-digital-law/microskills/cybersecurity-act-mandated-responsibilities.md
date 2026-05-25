@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Cybersecurity Act Mandated Responsibilities"
 tags:
   - "cpe"

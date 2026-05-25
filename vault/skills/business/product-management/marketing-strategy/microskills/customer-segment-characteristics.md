@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Customer Segment Characteristics"
 tags:
   - "cpe"

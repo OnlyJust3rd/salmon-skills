@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Diagnostic Tests Application"
 tags:
   - "cpe"

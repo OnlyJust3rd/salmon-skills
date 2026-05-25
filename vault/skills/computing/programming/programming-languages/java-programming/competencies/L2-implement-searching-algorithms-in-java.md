@@ -1,5 +1,6 @@
 ---
 type: competency
+icon: "LiGoal"
 title: L3- Implement Searching Algorithms in Java
 tags:
   - cpe

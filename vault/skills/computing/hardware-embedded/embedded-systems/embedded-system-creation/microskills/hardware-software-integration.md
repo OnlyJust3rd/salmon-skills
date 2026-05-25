@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Hardware-Software Integration"
 tags:
   - "cpe"

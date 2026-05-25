@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Collaborative Project Execution"
 tags:
   - "cpe"

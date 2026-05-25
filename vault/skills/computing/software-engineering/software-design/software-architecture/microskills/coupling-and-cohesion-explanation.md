@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Coupling and Cohesion Explanation"
 tags:
   - "cpe"

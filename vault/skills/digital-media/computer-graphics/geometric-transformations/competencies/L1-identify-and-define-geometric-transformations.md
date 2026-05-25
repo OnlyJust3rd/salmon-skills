@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L1- Identify and Define Geometric Transformations"
 tags:
   - "cpe"

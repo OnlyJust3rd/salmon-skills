@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "HPC Cluster Management"
 tags:
   - "cpe"

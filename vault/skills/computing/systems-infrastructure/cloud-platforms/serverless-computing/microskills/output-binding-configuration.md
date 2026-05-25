@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Output Binding Configuration"
 tags:
   - "cpe"

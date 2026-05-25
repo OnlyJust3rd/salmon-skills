@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L2- Explain Web-DB Architecture"
 tags:
   - "cpe"

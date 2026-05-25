@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Component Tolerance Analysis"
 tags:
   - "cpe"

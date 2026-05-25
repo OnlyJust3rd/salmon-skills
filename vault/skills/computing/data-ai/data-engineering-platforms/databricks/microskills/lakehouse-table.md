@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Lakehouse Table"
 tags:
   - "cpe"

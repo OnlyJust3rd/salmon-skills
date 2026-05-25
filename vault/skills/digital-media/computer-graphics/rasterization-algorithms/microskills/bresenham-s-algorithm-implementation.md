@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Bresenham's Algorithm Implementation"
 tags:
   - "cpe"

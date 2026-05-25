@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- AI Industry Applications"
 tags:
   - "cpe"

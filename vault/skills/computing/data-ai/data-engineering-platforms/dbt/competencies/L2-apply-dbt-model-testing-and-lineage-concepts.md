@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Apply dbt Model Testing and Lineage Concepts"
 tags:
   - "cpe"

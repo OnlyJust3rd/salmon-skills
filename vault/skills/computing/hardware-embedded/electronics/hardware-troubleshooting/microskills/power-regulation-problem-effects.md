@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Power Regulation Problem Effects"
 tags:
   - "cpe"

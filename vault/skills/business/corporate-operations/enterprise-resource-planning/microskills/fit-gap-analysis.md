@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Fit-Gap Analysis"
 tags:
   - "cpe"

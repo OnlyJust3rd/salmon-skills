@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Polar coordinate transformation for double integrals"
 tags:
   - "cpe"

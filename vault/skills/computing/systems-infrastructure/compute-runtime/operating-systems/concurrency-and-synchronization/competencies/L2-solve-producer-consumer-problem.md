@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Solve Producer/Consumer problem"
 tags:
   - "cpe"

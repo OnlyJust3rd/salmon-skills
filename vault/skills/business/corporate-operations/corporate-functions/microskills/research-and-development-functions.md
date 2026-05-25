@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Research and Development Functions"
 tags:
   - "cpe"

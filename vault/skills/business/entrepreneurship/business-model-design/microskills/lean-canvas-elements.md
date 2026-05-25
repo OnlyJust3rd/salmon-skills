@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Lean Canvas Elements"
 tags:
   - "cpe"

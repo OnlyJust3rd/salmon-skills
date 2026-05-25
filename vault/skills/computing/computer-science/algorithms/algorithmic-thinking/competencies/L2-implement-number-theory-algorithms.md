@@ -1,5 +1,6 @@
 ---
 type: "competency"
+icon: "LiGoal"
 title: "L3- Implement Number Theory Algorithms"
 tags:
   - "cpe"

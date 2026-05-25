@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Memory Allocation Scheme Advantages"
 tags:
   - "cpe"

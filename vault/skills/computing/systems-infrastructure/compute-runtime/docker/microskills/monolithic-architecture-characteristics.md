@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Monolithic Architecture Characteristics"
 tags:
   - "cpe"

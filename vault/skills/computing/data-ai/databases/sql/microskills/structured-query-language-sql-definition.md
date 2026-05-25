@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Structured Query Language (SQL) Definition"
 tags:
   - "cpe"

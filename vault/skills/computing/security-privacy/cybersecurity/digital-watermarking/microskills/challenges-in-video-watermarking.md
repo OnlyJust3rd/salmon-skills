@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Challenges in Video Watermarking"
 tags:
   - "cpe"

@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Indexed File Allocation"
 tags:
   - "cpe"

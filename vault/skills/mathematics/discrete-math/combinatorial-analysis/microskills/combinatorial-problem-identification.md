@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Combinatorial Problem Identification"
 tags:
   - "cpe"

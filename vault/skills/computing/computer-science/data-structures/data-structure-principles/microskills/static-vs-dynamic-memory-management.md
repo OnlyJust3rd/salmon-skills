@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Static vs. Dynamic Memory Management"
 tags:
   - "cpe"

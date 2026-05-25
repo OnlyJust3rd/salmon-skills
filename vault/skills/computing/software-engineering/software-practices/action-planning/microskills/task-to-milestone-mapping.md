@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Task-to-milestone mapping"
 tags:
   - "cpe"

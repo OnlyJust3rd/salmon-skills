@@ -1,5 +1,6 @@
 ---
 type: "skill"
+icon: "LiZap"
 title: "Viewing and Clipping"
 tags:
   - "cpe"

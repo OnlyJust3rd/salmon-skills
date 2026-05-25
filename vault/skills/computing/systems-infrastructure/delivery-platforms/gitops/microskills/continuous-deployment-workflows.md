@@ -1,5 +1,6 @@
 ---
 type: "microskill"
+icon: "LiBoxes"
 title: "Continuous Deployment Workflows"
 tags:
   - "cpe"
