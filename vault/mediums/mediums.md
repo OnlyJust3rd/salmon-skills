@@ -14,7 +14,10 @@ icon: LiWaypoints
 	- [[how-to-ace-system-design-interviews]]
 - **books**
 	- [[book]]
+	- [[database-design-open-textbook]]
 	- [[designing-data-intensive-applications]]
+- **[[courses]]**
+- **[[docs]]**
 - **githubs**
 	- [[awesome-system-design-resources]]
 	- [[github]]

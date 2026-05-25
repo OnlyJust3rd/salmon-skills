@@ -17418,5 +17418,11 @@
   },
   "skills/computing/data-ai/database-system/database-practices/database-practices.md": {
     "iconName": "LiWaypoints"
+  },
+  "mediums/courses/courses.md": {
+    "iconName": "LiWaypoints"
+  },
+  "mediums/docs/docs.md": {
+    "iconName": "LiWaypoints"
   }
 }
